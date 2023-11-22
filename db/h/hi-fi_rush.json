@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4240,
+  "EOS_Progressed": 4241,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7425,6 +7425,11 @@
       "Time": "2023-11-22T06:06:35.7516615+00:00",
       "NumProgressed": 4240,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-22T07:08:53.5483774+00:00",
+      "NumProgressed": 4241,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7436,7 +7441,7 @@
       "Name": "Start with a bang!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "Ach002",
@@ -7452,7 +7457,7 @@
       "Name": "This will cost you big time",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "Ach004",
@@ -7682,9 +7687,9 @@
       "ID": "Ach032",
       "SetID": "12n4k20",
       "Name": "Perfecter Parry-er!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 297
     },
     {
       "ID": "Ach033",
@@ -7692,7 +7697,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "Ach034",
@@ -8003,13 +8008,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4240,
+      "Progressed": 4241,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2761,
+      "Progressed": 2762,
       "Completed": 1930
     }
   ],
@@ -8017,8 +8022,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:06:35.7516613+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:08:53.5483771+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:57:36.2067994+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:06:35.7517332+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:58:03.4688679+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:08:53.5484803+00:00"
 }

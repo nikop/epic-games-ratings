@@ -17,8 +17,8 @@
 | Turian Ally | 52.00% | ~705 |
 | Medal of Honor | 51.00% | ~692 |
 | Meritorious Service Medal | 51.00% | ~692 |
+| Soldier | 50.00% | ~678 |
 | Charismatic | 50.00% | ~678 |
-| Soldier | 49.00% | ~664 |
 | Asari Ally | 47.00% | ~637 |
 | Soldier Ally | 46.00% | ~624 |
 | Medal of Exploration III | 45.00% | ~610 |
@@ -34,9 +34,9 @@
 | Head Hunter | 39.00% | ~529 |
 | Operative | 39.00% | ~529 |
 | Scholar | 39.00% | ~529 |
+| The Professor | 38.00% | ~515 |
 | Veteran | 37.00% | ~502 |
 | The Archangel | 37.00% | ~502 |
-| The Professor | 37.00% | ~502 |
 | Power Full | 36.00% | ~488 |
 | The Convict | 35.00% | ~475 |
 | Colony Defense | 34.00% | ~461 |
@@ -88,11 +88,11 @@
 | Lost and Found | 22.00% | ~298 |
 | Paramour II | 21.00% | ~285 |
 | Party Crasher | 21.00% | ~285 |
+| Problem Solver | 21.00% | ~285 |
 | Last Resort | 20.00% | ~271 |
 | Hard Target | 20.00% | ~271 |
 | Saboteur | 20.00% | ~271 |
 | Fact Finder | 20.00% | ~271 |
-| Problem Solver | 20.00% | ~271 |
 | Pyromaniac | 19.00% | ~258 |
 | Under Pressure | 19.00% | ~258 |
 | No One Left Behind | 19.00% | ~258 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~14 |
 | The One and Only | 0.90% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,356 (Ranked 242)  
+Progressed: 1,356 (Ranked 243)  
 Completed: 6 (0.44%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |

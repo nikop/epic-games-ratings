@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 492,
+  "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -137,6 +137,11 @@
       "Time": "2023-11-22T06:06:44.304285+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T07:09:04.5264916+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -147,7 +152,7 @@
       "ID": "ACCEL_COMBO_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Combo Crackerjack",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -187,7 +192,7 @@
       "ID": "DEFENCE_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hardened Hedgehog",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -195,7 +200,7 @@
       "ID": "ENEMY_DEFEATED_ALL",
       "SetID": "apihg0e",
       "Name": "Easy Prey",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -205,13 +210,13 @@
       "Name": "Combo Convert",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -219,15 +224,15 @@
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
       "SetID": "apihg0e",
       "Name": "Elder Koco Encounter",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -237,13 +242,13 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -251,7 +256,7 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 106,
+      "Percentage": 102,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -259,7 +264,7 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 70,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -269,13 +274,13 @@
       "Name": "Superior Ranking",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -283,7 +288,7 @@
       "ID": "GET_FISH_ALL",
       "SetID": "apihg0e",
       "Name": "Angler\u0027s Club",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -291,7 +296,7 @@
       "ID": "KODAMA_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Koco Leader",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -299,7 +304,7 @@
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -307,7 +312,7 @@
       "ID": "MAIN_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ancient Defiance",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -315,7 +320,7 @@
       "ID": "MAIN_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Futile Resistance",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -323,7 +328,7 @@
       "ID": "MAIN_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Hope Across Ages",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -339,7 +344,7 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 68,
+      "Percentage": 65,
       "XP": 50,
       "UsersEstimate": 32
     },
@@ -355,7 +360,7 @@
       "ID": "PORTAL_REPAIRED_ISLANAD1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Memories",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -387,7 +392,7 @@
       "ID": "POWER_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Herculean Hedgehog",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -395,7 +400,7 @@
       "ID": "RING_LIMIT_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hearty Hedgehog",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -403,7 +408,7 @@
       "ID": "SKILL_ALL_OBTAINED",
       "SetID": "apihg0e",
       "Name": "Unrivaled Aptitude",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -411,7 +416,7 @@
       "ID": "SPEED_STATUS_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hypersonic Hedgehog",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -459,7 +464,7 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 49,
+      "Percentage": 47,
       "XP": 5,
       "UsersEstimate": 23
     }
@@ -468,14 +473,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:06:44.3042846+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:09:04.5264913+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:57:39.6221174+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:06:44.3043173+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:58:08.4085614+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:09:04.5265146+00:00"
 }

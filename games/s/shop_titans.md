@@ -9,26 +9,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 5.00% | ~7,046 |
 | Basic in Bulk | 5.00% | ~7,046 |
 | Titan's First Steps | 5.00% | ~7,046 |
+| Disintermediation | 4.00% | ~5,637 |
 | Tinkle of Coins | 4.00% | ~5,637 |
 | One Easy Payment | 3.00% | ~4,228 |
 | Some Assembly Required | 3.00% | ~4,228 |
-| Disintermediation | 3.00% | ~4,228 |
 | Another Satisfied Customer | 3.00% | ~4,228 |
 | It's Free Real Estate | 3.00% | ~4,228 |
 | Budding Merchant | 3.00% | ~4,228 |
 | Capitalism Ho! | 3.00% | ~4,228 |
 | Own the Means of Production | 3.00% | ~4,228 |
-| The Daily Grind | 2.00% | ~2,818 |
-| Bounty Hunters | 2.00% | ~2,818 |
-| Demand for Supplies | 2.00% | ~2,818 |
-| Flooding the Market | 2.00% | ~2,818 |
-| Where it Hurts | 2.00% | ~2,818 |
-| Pretty Penny | 2.00% | ~2,818 |
-| Gild-Gotten Goods | 2.00% | ~2,818 |
-| One-Armed Bandit | 2.00% | ~2,818 |
-| Dungeon Imports | 2.00% | ~2,818 |
-| Through Repetition, Perfection | 2.00% | ~2,818 |
-| Did we pack lunch? | 2.00% | ~2,818 |
+| The Daily Grind | 2.00% | ~2,819 |
+| Bounty Hunters | 2.00% | ~2,819 |
+| Demand for Supplies | 2.00% | ~2,819 |
+| Flooding the Market | 2.00% | ~2,819 |
+| Where it Hurts | 2.00% | ~2,819 |
+| Pretty Penny | 2.00% | ~2,819 |
+| Gild-Gotten Goods | 2.00% | ~2,819 |
+| One-Armed Bandit | 2.00% | ~2,819 |
+| Dungeon Imports | 2.00% | ~2,819 |
+| Through Repetition, Perfection | 2.00% | ~2,819 |
+| Did we pack lunch? | 2.00% | ~2,819 |
 | On the Path to Greatness | 1.00% | ~1,409 |
 | Ascended | 1.00% | ~1,409 |
 | Tax not Included | 1.00% | ~1,409 |
@@ -38,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | For the Hoard! | 1.00% | ~1,409 |
 | Blank Page Syndrome | 1.00% | ~1,409 |
 | Scrapbooker | 1.00% | ~1,409 |
+| Flying off the Shelves | 1.00% | ~1,409 |
 | Power of Love | 1.00% | ~1,409 |
 | Expansion in Session | 1.00% | ~1,409 |
 | Efficient Floor Space | 1.00% | ~1,409 |
@@ -59,7 +60,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.90% | ~1,268 |
 | Big Game Hunting | 0.90% | ~1,268 |
 | Locally Sourced | 0.90% | ~1,268 |
-| Flying off the Shelves | 0.90% | ~1,268 |
 | This Power Level...! | 0.90% | ~1,268 |
 | Master of Transmutation | 0.90% | ~1,268 |
 | Hidden Potential | 0.90% | ~1,268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,920 (Ranked 80)  
+Progressed: 140,927 (Ranked 80)  
 Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,920 | 191 |
+| 2023-11-22 | 140,927 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,576 (Ranked 50)  

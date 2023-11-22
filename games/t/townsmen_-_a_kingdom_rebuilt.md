@@ -6,32 +6,32 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 13.00% | ~565 |
+| Eureka! | 13.00% | ~566 |
 | Tax-man I | 12.00% | ~522 |
 | A new beginning | 12.00% | ~522 |
 | Friends from the past | 10.00% | ~435 |
-| I like to build stuff... I | 9.00% | ~391 |
+| I like to build stuff... I | 9.00% | ~392 |
 | Builder I | 8.00% | ~348 |
 | An honorable Governor I | 8.00% | ~348 |
 | Researcher | 8.00% | ~348 |
 | Tax-man II | 8.00% | ~348 |
 | A time consuming game I | 8.00% | ~348 |
 | Time for some trade | 8.00% | ~348 |
-| Bread for the people I | 7.00% | ~304 |
-| Completionist I | 7.00% | ~304 |
-| Full-time job I | 7.00% | ~304 |
+| Bread for the people I | 7.00% | ~305 |
+| Completionist I | 7.00% | ~305 |
+| Full-time job I | 7.00% | ~305 |
 | I like to build stuff... II | 6.00% | ~261 |
 | Full-time job II | 6.00% | ~261 |
 | A time consuming game II | 6.00% | ~261 |
 | Tools of the trade I | 6.00% | ~261 |
 | Knee deep in snow | 6.00% | ~261 |
-| Not a small trader anymore | 5.00% | ~217 |
-| Bread for the people II | 5.00% | ~217 |
-| I like to build stuff... III | 5.00% | ~217 |
-| The King's new clothes I | 5.00% | ~217 |
-| Builder II | 5.00% | ~217 |
-| Tax-man III | 5.00% | ~217 |
-| Conflicting parties | 5.00% | ~217 |
+| Not a small trader anymore | 5.00% | ~218 |
+| Bread for the people II | 5.00% | ~218 |
+| I like to build stuff... III | 5.00% | ~218 |
+| The King's new clothes I | 5.00% | ~218 |
+| Builder II | 5.00% | ~218 |
+| Tax-man III | 5.00% | ~218 |
+| Conflicting parties | 5.00% | ~218 |
 | Another one bites the dust | 4.00% | ~174 |
 | Experienced decorator | 4.00% | ~174 |
 | An honorable Governor II | 4.00% | ~174 |
@@ -60,18 +60,18 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere V | 2.00% | ~87 |
 | Tax-man V | 2.00% | ~87 |
 | Tools of the trade III | 2.00% | ~87 |
-| When there's fire... | 1.00% | ~43 |
-| Survivalist | 1.00% | ~43 |
-| Lord of War | 1.00% | ~43 |
-| Builder IV | 1.00% | ~43 |
-| An honorable Governor III | 1.00% | ~43 |
-| Completionist III | 1.00% | ~43 |
-| Only the sausage has two ends. | 1.00% | ~43 |
-| Reunification | 1.00% | ~43 |
-| Treat her well… | 1.00% | ~43 |
-| I've been everywhere II | 1.00% | ~43 |
-| I've been everywhere I | 1.00% | ~43 |
-| A time consuming game V | 1.00% | ~43 |
+| When there's fire... | 1.00% | ~44 |
+| Survivalist | 1.00% | ~44 |
+| Lord of War | 1.00% | ~44 |
+| Builder IV | 1.00% | ~44 |
+| An honorable Governor III | 1.00% | ~44 |
+| Completionist III | 1.00% | ~44 |
+| Only the sausage has two ends. | 1.00% | ~44 |
+| Reunification | 1.00% | ~44 |
+| Treat her well… | 1.00% | ~44 |
+| I've been everywhere II | 1.00% | ~44 |
+| I've been everywhere I | 1.00% | ~44 |
+| A time consuming game V | 1.00% | ~44 |
 | I've been everywhere VI | 0.90% | ~39 |
 | The wood shortage | 0.90% | ~39 |
 | Last man standing | 0.80% | ~35 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,349 (Ranked 193)  
+Progressed: 4,350 (Ranked 193)  
 Completed: 3 (0.07%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 3 (0.07%) (Ranked 296)
 | 2023-11-17 | 4,346 | 3 |
 | 2023-11-18 | 4,348 | 3 |
 | 2023-11-19 | 4,349 | 3 |
+| 2023-11-22 | 4,350 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

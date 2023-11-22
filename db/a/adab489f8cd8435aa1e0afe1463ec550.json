@@ -245,9 +245,9 @@
       "ID": "24",
       "SetID": "6hl9l7f",
       "Name": "Modulator",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "25",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:03:47.276136+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:04:34.3992425+00:00",
   "LastUpdate_AppInfo": "2023-11-19T14:56:56.9964114+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:59:23.1517941+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:03:47.2761582+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:00:39.0932203+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:04:34.3992722+00:00"
 }

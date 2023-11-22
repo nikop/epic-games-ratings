@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2210,
+  "EOS_Progressed": 2211,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3232,6 +3232,11 @@
       "Time": "2023-11-21T17:04:35.8591133+00:00",
       "NumProgressed": 2210,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-22T07:05:47.8293249+00:00",
+      "NumProgressed": 2211,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3275,7 +3280,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ACHV_06",
@@ -3283,7 +3288,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACHV_07",
@@ -3299,7 +3304,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACHV_09",
@@ -3355,7 +3360,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHV_16",
@@ -3443,7 +3448,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "ACHV_27",
@@ -3531,7 +3536,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACHV_38",
@@ -3587,7 +3592,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHV_45",
@@ -3635,7 +3640,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHV_51",
@@ -3698,7 +3703,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2210,
+      "Progressed": 2211,
       "Completed": 13
     }
   ],
@@ -3706,8 +3711,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:04:43.5398124+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:05:47.8293246+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:00.2297931+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:59:30.2181607+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:04:43.5398553+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:00:50.0048177+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:05:47.8293673+00:00"
 }

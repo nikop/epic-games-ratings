@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753797,
+  "EOS_Progressed": 753803,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 1908,
   "EOS_NewCompleters": 0,
@@ -25009,6 +25009,11 @@
       "Time": "2023-11-22T06:05:51.7937357+00:00",
       "NumProgressed": 753797,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-22T07:07:16.3540711+00:00",
+      "NumProgressed": 753803,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -25084,7 +25089,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 278905
+      "UsersEstimate": 278907
     },
     {
       "ID": "ach_demolish_trees",
@@ -25092,7 +25097,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 128145
+      "UsersEstimate": 128147
     },
     {
       "ID": "ach_free_cam_mode",
@@ -25148,7 +25153,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361823
+      "UsersEstimate": 361825
     },
     {
       "ID": "ach_produced",
@@ -25228,14 +25233,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 143221
+      "UsersEstimate": 143223
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 753797,
+      "Progressed": 753803,
       "Completed": 4
     }
   ],
@@ -25243,8 +25248,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:05:51.7937352+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:07:16.3540706+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.4041849+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:58:10.5861853+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:05:51.7938816+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:58:53.4399315+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:07:16.3541924+00:00"
 }

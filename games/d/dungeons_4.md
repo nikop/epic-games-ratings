@@ -15,7 +15,7 @@
 | Master of Magic | 66.00% | ~216 |
 | Bad Elves Go Everywhere | 66.00% | ~216 |
 | Heroes’ Gorge | 61.00% | ~200 |
-| Magic Accidents | 59.00% | ~194 |
+| Magic Accidents | 60.00% | ~197 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~194 |
 | Minions, Minions! | 58.00% | ~190 |
 | Trap Master | 54.00% | ~177 |
@@ -40,8 +40,8 @@
 | Forbidden Knowledge | 20.00% | ~66 |
 | Ghost Pirates? Ghost Heroes! | 19.00% | ~62 |
 | If Looks Could Kill | 19.00% | ~62 |
+| The Finitude Drill | 18.00% | ~59 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~56 |
-| The Finitude Drill | 17.00% | ~56 |
 | Stop Tanos! | 16.00% | ~52 |
 | Doom Hill | 14.00% | ~46 |
 | Brimstone Shaken, Not Stirred | 13.00% | ~43 |

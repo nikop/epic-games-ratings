@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1356,
+  "EOS_Progressed": 1357,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -3999,6 +3999,11 @@
       "Time": "2023-11-22T04:09:52.4449782+00:00",
       "NumProgressed": 1356,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T07:10:42.2429987+00:00",
+      "NumProgressed": 1357,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4155,7 +4160,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_27",
@@ -4187,7 +4192,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_30",
@@ -4235,7 +4240,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "achievement_36",
@@ -4251,7 +4256,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "achievement_38",
@@ -4315,7 +4320,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_45",
@@ -4491,7 +4496,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_8",
@@ -4514,13 +4519,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1356,
+      "Progressed": 1357,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1356,
+      "Progressed": 1357,
       "Completed": 1
     }
   ],
@@ -4528,8 +4533,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:09:30.2154786+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:10:42.2429984+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:57:24.1955588+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:09:30.2155351+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:57:46.0300481+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:10:42.2430561+00:00"
 }

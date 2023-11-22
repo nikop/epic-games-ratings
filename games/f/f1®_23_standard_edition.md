@@ -5,10 +5,10 @@ Rating: 4.67 (Ranked 274)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,503 |
+| Getting on the Step | 94.00% | ~5,504 |
 | On the Top Step | 88.00% | ~5,152 |
 | Setting up for Success | 77.00% | ~4,508 |
-| Team Orders | 75.00% | ~4,390 |
+| Team Orders | 75.00% | ~4,391 |
 | Engineer | 55.00% | ~3,220 |
 | Familiar Faces | 48.00% | ~2,810 |
 | Sharing the Love | 42.00% | ~2,459 |
@@ -33,10 +33,10 @@ Rating: 4.67 (Ranked 274)
 | Hitting a Bullseye | 13.00% | ~761 |
 | Switcheroo | 13.00% | ~761 |
 | Spinning Around | 13.00% | ~761 |
-| All in a Weekend's Work | 12.00% | ~702 |
-| Friendly Competition | 12.00% | ~702 |
+| All in a Weekend's Work | 12.00% | ~703 |
+| Friendly Competition | 12.00% | ~703 |
 | Recycle | 11.00% | ~644 |
-| Tinkerer | 10.00% | ~585 |
+| Tinkerer | 10.00% | ~586 |
 | Undisputed Winner | 9.00% | ~527 |
 | Smooth Operator | 7.00% | ~410 |
 | For all Those Back at the Factory | 6.00% | ~351 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 274)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,854 (Ranked 185)  
+Progressed: 5,855 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-19 | 5,825 | 0 |
 | 2023-11-20 | 5,836 | 0 |
 | 2023-11-21 | 5,850 | 0 |
-| 2023-11-22 | 5,854 | 0 |
+| 2023-11-22 | 5,855 | 0 |
 ## Awards
 Max (Diverse Characters): 23  (Ranked 531)  
 Sum: 85 (Ranked 457)  

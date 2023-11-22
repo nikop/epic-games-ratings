@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4349,
+  "EOS_Progressed": 4350,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1561,6 +1561,11 @@
       "Time": "2023-11-19T13:12:08.6874958+00:00",
       "NumProgressed": 4349,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-22T07:10:43.9541366+00:00",
+      "NumProgressed": 4350,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1580,7 +1585,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -1604,7 +1609,7 @@
       "Name": "Bread for the people I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHIEVEMENT_BREAD2",
@@ -1612,7 +1617,7 @@
       "Name": "Bread for the people II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_BREAD3",
@@ -1636,7 +1641,7 @@
       "Name": "I like to build stuff... I",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -1652,7 +1657,7 @@
       "Name": "I like to build stuff... III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS4",
@@ -1684,7 +1689,7 @@
       "Name": "The King\u0027s new clothes I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -1724,7 +1729,7 @@
       "Name": "When there\u0027s fire...",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_FIREPROTECTOR",
@@ -1740,7 +1745,7 @@
       "Name": "Survivalist",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_JEWELS1",
@@ -1780,7 +1785,7 @@
       "Name": "Lord of War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_LOSTPLAGUE",
@@ -1812,7 +1817,7 @@
       "Name": "Builder II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_POPULATION3",
@@ -1828,7 +1833,7 @@
       "Name": "Builder IV",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_POPULATION5",
@@ -1860,7 +1865,7 @@
       "Name": "An honorable Governor III",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_QUESTS1",
@@ -1868,7 +1873,7 @@
       "Name": "Completionist I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHIEVEMENT_QUESTS2",
@@ -1884,7 +1889,7 @@
       "Name": "Completionist III",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_REBUILTIT",
@@ -1900,7 +1905,7 @@
       "Name": "Full-time job I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHIEVEMENT_REPAIR2",
@@ -1924,7 +1929,7 @@
       "Name": "Eureka!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -1948,7 +1953,7 @@
       "Name": "Only the sausage has two ends.",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_ATALEOFTWOCLANS",
@@ -1956,7 +1961,7 @@
       "Name": "Reunification",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_AVALANCHE",
@@ -2068,7 +2073,7 @@
       "Name": "Treat her well\u2026",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_HARSHWINTER",
@@ -2108,7 +2113,7 @@
       "Name": "I\u0027ve been everywhere II",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LEGACY",
@@ -2148,7 +2153,7 @@
       "Name": "I\u0027ve been everywhere I",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_TRADINGPOST",
@@ -2236,7 +2241,7 @@
       "Name": "Tax-man III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_TAXES4",
@@ -2292,7 +2297,7 @@
       "Name": "A time consuming game V",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_TOOLS1",
@@ -2356,7 +2361,7 @@
       "Name": "Conflicting parties",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION06",
@@ -2379,15 +2384,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4349,
+      "Progressed": 4350,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-16T20:57:28.2396436+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:09:31.5286162+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:10:43.9541364+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:55.2034383+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:00:08.6026305+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:09:31.528702+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:01:46.6142312+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:10:43.9542247+00:00"
 }

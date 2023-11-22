@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -922,17 +922,17 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "14g34pl",
       "Name": "Forest is safe!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -977,8 +977,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:08:26.777108+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:09:19.4256334+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:08.5650731+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:59:09.7038565+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:08:26.7771185+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:00:19.2902044+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:09:19.4256673+00:00"
 }

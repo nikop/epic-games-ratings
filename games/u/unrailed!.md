@@ -24,42 +24,42 @@ Number of Ratings: 21,990  (23.09.2022)
 | Expert Hiker | 2.00% | ~13,290 |
 | Lost | 2.00% | ~13,290 |
 | Rocketman | 0.80% | ~5,316 |
-| Expert Voyager | 0.70% | ~4,651 |
-| Shopaholic | 0.70% | ~4,651 |
-| Dynamite Fishing | 0.70% | ~4,651 |
+| Expert Voyager | 0.70% | ~4,652 |
+| Shopaholic | 0.70% | ~4,652 |
+| Dynamite Fishing | 0.70% | ~4,652 |
 | Nanuk | 0.60% | ~3,987 |
-| Scrooge | 0.50% | ~3,322 |
-| Terminal Station | 0.50% | ~3,322 |
+| Scrooge | 0.50% | ~3,323 |
+| Terminal Station | 0.50% | ~3,323 |
 | Wayfarer | 0.40% | ~2,658 |
 | Advanced Wayfarer | 0.40% | ~2,658 |
 | Tough Nut! | 0.40% | ~2,658 |
-| Trans-Siberian Railway | 0.30% | ~1,993 |
-| Engineer | 0.30% | ~1,993 |
-| Satan's Minion | 0.30% | ~1,993 |
-| Snowman's Land | 0.30% | ~1,993 |
+| Trans-Siberian Railway | 0.30% | ~1,994 |
+| Engineer | 0.30% | ~1,994 |
+| Satan's Minion | 0.30% | ~1,994 |
+| Snowman's Land | 0.30% | ~1,994 |
 | Expert Wayfarer | 0.20% | ~1,329 |
-| Explorer | 0.10% | ~664 |
-| Advanced Explorer | 0.10% | ~664 |
-| Expert Explorer | 0.10% | ~664 |
-| Deep Space Transit | 0.10% | ~664 |
-| Leet | 0.10% | ~664 |
-| Wrong way! | 0.10% | ~664 |
-| Ducky Danger | 0.10% | ~664 |
-| Shepherd | 0.10% | ~664 |
-| Industrialist | 0.10% | ~664 |
-| Missed Opportunities | 0.10% | ~664 |
-| Cowter Space | 0.10% | ~664 |
-| Apollo 13 | 0.10% | ~664 |
-| Collector | 0.10% | ~664 |
-| Achievement Master | 0.10% | ~664 |
-| Fire Fighter | 0.10% | ~664 |
-| Megalomaniac | 0.10% | ~664 |
-| No Space for Improvement | 0.10% | ~664 |
-| Where They Belong | 0.10% | ~664 |
-| Fireworks! | 0.10% | ~664 |
-| 20 Miles under the Sea | 0.10% | ~664 |
+| Explorer | 0.10% | ~665 |
+| Advanced Explorer | 0.10% | ~665 |
+| Expert Explorer | 0.10% | ~665 |
+| Deep Space Transit | 0.10% | ~665 |
+| Leet | 0.10% | ~665 |
+| Wrong way! | 0.10% | ~665 |
+| Ducky Danger | 0.10% | ~665 |
+| Shepherd | 0.10% | ~665 |
+| Industrialist | 0.10% | ~665 |
+| Missed Opportunities | 0.10% | ~665 |
+| Cowter Space | 0.10% | ~665 |
+| Apollo 13 | 0.10% | ~665 |
+| Collector | 0.10% | ~665 |
+| Achievement Master | 0.10% | ~665 |
+| Fire Fighter | 0.10% | ~665 |
+| Megalomaniac | 0.10% | ~665 |
+| No Space for Improvement | 0.10% | ~665 |
+| Where They Belong | 0.10% | ~665 |
+| Fireworks! | 0.10% | ~665 |
+| 20 Miles under the Sea | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,499 (Ranked 29)  
+Progressed: 664,501 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 12 (0.00%) (Ranked 357)
 | 2023-11-19 | 664,056 | 12 |
 | 2023-11-20 | 664,277 | 12 |
 | 2023-11-21 | 664,459 | 12 |
-| 2023-11-22 | 664,499 | 12 |
+| 2023-11-22 | 664,501 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 288)  
 Sum: 1,599 (Ranked 230)  

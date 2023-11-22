@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -621,9 +621,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5854,
+  "EOS_Progressed": 5855,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6026,6 +6026,11 @@
       "Time": "2023-11-22T04:08:23.0553129+00:00",
       "NumProgressed": 5854,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T07:09:15.2277608+00:00",
+      "NumProgressed": 5855,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6086,7 +6091,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5503
+      "UsersEstimate": 5504
     },
     {
       "ID": "achievement_0008",
@@ -6118,7 +6123,7 @@
       "Name": "All in a Weekend\u0027s Work",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "achievement_0012",
@@ -6198,7 +6203,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4390
+      "UsersEstimate": 4391
     },
     {
       "ID": "achievement_0022",
@@ -6238,7 +6243,7 @@
       "Name": "Friendly Competition",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "achievement_0027",
@@ -6286,7 +6291,7 @@
       "Name": "Tinkerer",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "achievement_0033",
@@ -6429,7 +6434,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5854,
+      "Progressed": 5855,
       "Completed": 0
     }
   ],
@@ -6437,8 +6442,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-21T20:58:01.7354263+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:06:52.5522996+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:09:15.2277605+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:58:02.230614+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:06:52.5523515+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:58:41.9067349+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:09:15.2278701+00:00"
 }

@@ -12,6 +12,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 0.40% | ~960 |
 | A Quick Escape | 0.40% | ~960 |
 | Uncharted Territory | 0.40% | ~960 |
+| Expensive Look | 0.40% | ~6 |
 | Ambitious Intent | 0.30% | ~720 |
 | Nothing To Lose | 0.30% | ~720 |
 | Heavy Hitter | 0.30% | ~720 |
@@ -42,7 +43,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.30% | ~720 |
 | Flesh Wound | 0.30% | ~720 |
 | An Offering | 0.30% | ~720 |
-| Expensive Look | 0.30% | ~5 |
 | What Doesn't Kill You | 0.30% | ~5 |
 | Thank You, Friend | 0.20% | ~480 |
 | Consecutive Curses | 0.20% | ~480 |

@@ -600,9 +600,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "AchvAllMemories",
@@ -839,8 +839,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:08:32.8846873+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:09:27.4709288+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:58:36.3167864+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:08:32.8847059+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:59:30.6209803+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:09:27.4709484+00:00"
 }

@@ -31,10 +31,10 @@ Rating: 4.54 (Ranked 527)
 | Ooh, Shiny! | 0.80% | ~5,778 |
 | A Patton Emerges | 0.80% | ~5,778 |
 | Our True Nature | 0.80% | ~5,778 |
-| Making Your Mark | 0.70% | ~5,055 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,055 |
-| I Am the Resurrection | 0.70% | ~5,055 |
-| Max Headroom | 0.70% | ~5,055 |
+| Making Your Mark | 0.70% | ~5,056 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,056 |
+| I Am the Resurrection | 0.70% | ~5,056 |
+| Max Headroom | 0.70% | ~5,056 |
 | Humanity Distilled | 0.60% | ~4,333 |
 | Down with the Sickness | 0.60% | ~4,333 |
 | Not Even My Final Form | 0.50% | ~3,611 |
@@ -52,12 +52,12 @@ Rating: 4.54 (Ranked 527)
 | Sole Survivor | 0.20% | ~1,444 |
 | Sharpest Tool in the Box | 0.20% | ~1,444 |
 | Survival Skills | 0.20% | ~1,444 |
-| Lawn and Order | 0.20% | ~95 |
+| Lawn and Order | 0.20% | ~96 |
 | Donk! | 0.10% | ~722 |
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,204 (Ranked 21)  
+Progressed: 722,224 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,15 +273,15 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,204 | 2,423 |
+| 2023-11-22 | 722,224 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
-Sum: 11,662 (Ranked 84)  
+Sum: 11,664 (Ranked 84)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,650 |
-| This game is Great for Beginners | 580 |
+| This game is Great for Beginners | 582 |
 | This game has Diverse Characters | 555 |
 | This game has Quickly Understood Controls | 522 |
 | This game is Relaxing | 501 |
@@ -507,4 +507,4 @@ Diff (max vs sum): -34
 | 2023-11-19 | 4.54 | 7,552 | 11,539 |
 | 2023-11-20 | 4.54 | 7,589 | 11,585 |
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
-| 2023-11-22 | 4.54 | 7,650 | 11,662 |
+| 2023-11-22 | 4.54 | 7,650 | 11,664 |

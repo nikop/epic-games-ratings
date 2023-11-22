@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 1019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2514,9 +2514,9 @@
       "ID": "GSS_ACH_19_RUDY",
       "SetID": "5fn8ia4",
       "Name": "Rudy!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 978
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
@@ -2722,9 +2722,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 764
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -3027,8 +3027,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:05:09.4490908+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:06:21.1395805+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:59:58.0504219+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:05:09.449166+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:01:30.8325679+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:06:21.13966+00:00"
 }

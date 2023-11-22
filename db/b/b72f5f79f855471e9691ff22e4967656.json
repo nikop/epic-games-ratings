@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "ID": "questReachLord",
       "SetID": "ci65fo0",
       "Name": "Castle feels like home",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "questRedsBoss",
@@ -1138,8 +1138,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:06:18.7576693+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:08:31.2200281+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:28.7985949+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:59:14.6651948+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:06:18.75772+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:00:26.665872+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:08:31.2200808+00:00"
 }

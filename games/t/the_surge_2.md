@@ -5,7 +5,7 @@ Rating: 4.25 (Ranked 879)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,768 |
+| Rigged And Ready | 80.00% | ~1,769 |
 | Don't I Know You...? | 76.00% | ~1,680 |
 | Jailbreak | 66.00% | ~1,459 |
 | Suited and Booted | 39.00% | ~862 |
@@ -14,9 +14,9 @@ Rating: 4.25 (Ranked 879)
 | Overheated | 31.00% | ~685 |
 | High Performance | 30.00% | ~663 |
 | Powered Up | 29.00% | ~641 |
-| Studied The Blade | 25.00% | ~552 |
-| Home Invasion | 23.00% | ~508 |
-| Luminary | 23.00% | ~508 |
+| Studied The Blade | 25.00% | ~553 |
+| Home Invasion | 23.00% | ~509 |
+| Luminary | 23.00% | ~509 |
 | True Survivor | 22.00% | ~486 |
 | It's a Trap | 22.00% | ~486 |
 | Offensive Defense | 20.00% | ~442 |
@@ -27,7 +27,7 @@ Rating: 4.25 (Ranked 879)
 | Dead Again | 18.00% | ~398 |
 | Full Arsenal | 17.00% | ~376 |
 | Can't Trust Banks | 15.00% | ~332 |
-| Mommy Dearest | 14.00% | ~309 |
+| Mommy Dearest | 14.00% | ~310 |
 | Bad Dog | 13.00% | ~287 |
 | Where It All Began | 13.00% | ~287 |
 | Risk Tolerant | 13.00% | ~287 |
@@ -47,9 +47,9 @@ Rating: 4.25 (Ranked 879)
 | Turbo Booster | 6.00% | ~133 |
 | Juiced Up | 6.00% | ~133 |
 | Squid Pro Quo | 6.00% | ~133 |
-| Hello Darkness My Old Friend | 5.00% | ~110 |
-| Counter-Sniper | 5.00% | ~110 |
-| Shrimp Cocktail | 5.00% | ~110 |
+| Hello Darkness My Old Friend | 5.00% | ~111 |
+| Counter-Sniper | 5.00% | ~111 |
+| Shrimp Cocktail | 5.00% | ~111 |
 | Geronimo! | 4.00% | ~88 |
 | Homewrecker | 4.00% | ~88 |
 | Plank of Wood | 4.00% | ~88 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 879)
 | Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,210 (Ranked 221)  
+Progressed: 2,211 (Ranked 221)  
 Completed: 13 (0.59%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 13 (0.59%) (Ranked 187)
 | 2023-11-18 | 2,206 | 13 |
 | 2023-11-19 | 2,208 | 13 |
 | 2023-11-21 | 2,210 | 13 |
+| 2023-11-22 | 2,211 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

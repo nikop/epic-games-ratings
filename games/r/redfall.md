@@ -30,8 +30,8 @@ Rating: 3.47 (Ranked 1,044)
 | From the Shadows | 0.80% | ~14 |
 | Bad Wiring | 0.70% | ~12 |
 | Silence Is Golden | 0.70% | ~12 |
+| Helping Hand | 0.70% | ~12 |
 | Contingency Plans | 0.60% | ~11 |
-| Helping Hand | 0.60% | ~11 |
 | You Clean It Up | 0.50% | ~9 |
 | Check, Please! | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |

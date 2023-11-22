@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -26885,9 +26885,9 @@
       "ID": "SPEND200SOULSONREROLLANDDISCARD",
       "SetID": "1peahb6",
       "Name": "Expensive Look",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -26924,8 +26924,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-20T13:59:45.1421719+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:09:31.0287993+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:10:43.3805275+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:00:21.3052939+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:09:31.0290237+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:03:05.3171685+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:10:43.3807529+00:00"
 }

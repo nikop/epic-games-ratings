@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78918,
+  "EOS_Progressed": 78919,
   "EOS_Completed": 850,
   "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 8,
@@ -24222,6 +24222,11 @@
       "Time": "2023-11-22T06:05:35.2104032+00:00",
       "NumProgressed": 78918,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-22T07:06:54.9168588+00:00",
+      "NumProgressed": 78919,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24353,7 +24358,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14994
+      "UsersEstimate": 14995
     },
     {
       "ID": "Nice Try",
@@ -24425,14 +24430,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6313
+      "UsersEstimate": 6314
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78918,
+      "Progressed": 78919,
       "Completed": 850
     }
   ],
@@ -24440,8 +24445,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:05:35.2104029+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:06:54.9168585+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:59:43.2732015+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:05:35.2104963+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:01:07.9910202+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:06:54.9169529+00:00"
 }

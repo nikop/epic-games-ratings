@@ -925,9 +925,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 8822,
+  "EOS_Progressed": 8823,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1281,
+  "EOS_NewPlayers": 1276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7845,6 +7845,11 @@
       "Time": "2023-11-22T02:28:27.2277378+00:00",
       "NumProgressed": 8822,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-22T07:04:01.3257774+00:00",
+      "NumProgressed": 8823,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -7920,7 +7925,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -7928,7 +7933,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -8008,7 +8013,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -8024,7 +8029,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -8048,7 +8053,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4146
+      "UsersEstimate": 4147
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8168,7 +8173,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -8184,7 +8189,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4411
+      "UsersEstimate": 4412
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8208,14 +8213,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4411
+      "UsersEstimate": 4412
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 8822,
+      "Progressed": 8823,
       "Completed": 9
     }
   ],
@@ -8223,8 +8228,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-21T16:01:05.4716646+00:00",
-  "LastChanged_Achievements": "2023-11-22T06:03:22.9355924+00:00",
+  "LastChanged_Achievements": "2023-11-22T07:04:01.325777+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.1611041+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:00:15.9836963+00:00",
-  "LastUpdate_Achievements": "2023-11-22T06:03:22.9357044+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:02:57.4198414+00:00",
+  "LastUpdate_Achievements": "2023-11-22T07:04:01.3258301+00:00"
 }
