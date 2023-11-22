@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 2,181,438 | 4.28 | 852 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 625,183 | 4.47 | 637 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 625,183 | 4.47 | 638 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 315,844 | 4.68 | 252 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 262,147 | 4.68 | 252 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 212,297 | 4.18 | 933 |
@@ -13,7 +13,7 @@
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 63,837 | 4.58 | 445 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 49,402 | 4.61 | 383 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 42,122 | 4.74 | 158 |
-| 14 | [Destiny 2](games/d/destiny_2.md) | 39,270 | 4.49 | 606 |
+| 14 | [Destiny 2](games/d/destiny_2.md) | 39,299 | 4.49 | 606 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 36,344 | 4.51 | 567 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,217 | 4.64 | 333 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,503 | 4.76 | 126 |
@@ -26,7 +26,7 @@
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,911 | 4.76 | 126 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,897 | 4.60 | 413 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,606 | 4.58 | 445 |
-| 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,016 | 4.60 | 413 |
+| 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,020 | 4.60 | 413 |
 | 28 | [Maneater](games/m/maneater.md) | 13,815 | 4.49 | 606 |
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,698 | 4.43 | 691 |
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 13,224 | 4.86 | 32 |
@@ -89,7 +89,7 @@
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,852 | 4.68 | 252 |
 | 88 | [Paladins](games/p/paladins.md) | 3,836 | 4.32 | 823 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,726 | 4.46 | 647 |
-| 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,581 | 4.47 | 637 |
+| 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,581 | 4.47 | 638 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,389 | 4.76 | 126 |
 | 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,386 | 4.68 | 252 |
 | 93 | [Hades](games/h/hades.md) | 3,378 | 4.92 | 4 |
@@ -209,7 +209,7 @@
 | 207 | [Ghostrunner](games/g/ghostrunner.md) | 519 | 4.72 | 187 |
 | 208 | [Brawlhalla](games/b/brawlhalla.md) | 518 | 4.59 | 431 |
 | 209 | [Surviving Mars](games/s/surviving_mars.md) | 514 | 4.60 | 413 |
-| 210 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 510 | 4.47 | 637 |
+| 210 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 510 | 4.48 | 624 |
 | 211 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 503 | 4.43 | 691 |
 | 212 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 492 | 4.41 | 722 |
 | 213 | [Loop Hero](games/l/loop_hero.md) | 480 | 4.67 | 274 |
@@ -426,7 +426,7 @@
 | 423 | [GRIME](games/g/grime.md) | 53 | 4.59 | 431 |
 | 423 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 53 | 4.81 | 78 |
 | 423 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 53 | 4.39 | 746 |
-| 427 | [ATOM RPG](games/a/atom_rpg.md) | 52 | 4.47 | 637 |
+| 427 | [ATOM RPG](games/a/atom_rpg.md) | 52 | 4.47 | 638 |
 | 427 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 52 | 4.56 | 491 |
 | 427 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 52 | 4.71 | 200 |
 | 427 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 52 | 4.35 | 793 |
@@ -522,7 +522,7 @@
 | 520 | [Sable](games/s/sable.md) | 25 | 4.53 | 540 |
 | 520 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 25 | 4.46 | 647 |
 | 522 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 24 | 4.15 | 947 |
-| 522 | [ELEX](games/e/elex.md) | 24 | 4.47 | 637 |
+| 522 | [ELEX](games/e/elex.md) | 24 | 4.47 | 638 |
 | 522 | [Fez](games/f/fez.md) | 24 | 4.73 | 173 |
 | 522 | [MotoGP™21](games/m/motogp™21.md) | 24 | 4.56 | 491 |
 | 522 | [RUINER](games/r/ruiner.md) | 24 | 4.54 | 527 |
@@ -547,6 +547,6 @@
 | 545 | [Aztez](games/a/aztez.md) | 20 | 4.56 | 491 |
 | 545 | [Figment](games/f/figment.md) | 20 | 4.46 | 647 |
 | 545 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.27 | 860 |
-| 545 | [Riverbond](games/r/riverbond.md) | 20 | 4.47 | 637 |
+| 545 | [Riverbond](games/r/riverbond.md) | 20 | 4.47 | 638 |
 | 545 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 20 | 4.77 | 114 |
 | 545 | [Spelldrifter](games/s/spelldrifter.md) | 20 | 3.84 | 1,027 |

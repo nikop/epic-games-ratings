@@ -513,6 +513,7 @@
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
+| [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |
 | [Picklock](../games/0/0904b974619a436ebc70ec7a374572d8.md) | 24 | 1,000 |
 | [Pilgrims](../games/0/0693e8391e49492096424712a5595484.md) | 45 | 1,000 |
 | [Pillars of Eternity - Definitive Edition](../games/p/pillars_of_eternity_-_definitive_edition.md) | 48 | 1,000 |

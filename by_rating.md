@@ -419,7 +419,7 @@
 | 413 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 223 | 275 |
 | 413 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 79 | 391 |
 | 413 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.60 | 0 | 551 |
-| 413 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 14,016 | 27 |
+| 413 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 14,020 | 27 |
 | 413 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 125 | 336 |
 | 413 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 551 |
 | 413 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 762 | 175 |
@@ -610,7 +610,7 @@
 | 606 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 409 |
 | 606 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,019 | 111 |
 | 606 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 43 | 452 |
-| 606 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 39,270 | 14 |
+| 606 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 39,299 | 14 |
 | 606 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 551 |
 | 606 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 279 | 262 |
 | 606 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.49 | 0 | 551 |
@@ -629,6 +629,7 @@
 | 624 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.48 | 0 | 551 |
 | 624 | [MythForce](games/m/mythforce.md) | 4.48 | 35 | 471 |
 | 624 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 461 |
+| 624 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.48 | 510 | 210 |
 | 624 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.48 | 26 | 513 |
 | 624 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 551 |
 | 624 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 551 |
@@ -636,16 +637,15 @@
 | 624 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 551 |
 | 624 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 551 |
 | 624 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 551 |
-| 637 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 52 | 427 |
-| 637 | [ELEX](games/e/elex.md) | 4.47 | 24 | 522 |
-| 637 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,581 | 90 |
-| 637 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.47 | 0 | 551 |
-| 637 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 551 |
-| 637 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.47 | 510 | 210 |
-| 637 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 545 |
-| 637 | [Rocket League®](games/r/rocket_league®.md) | 4.47 | 625,183 | 2 |
-| 637 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 551 |
-| 637 | [The Riflemen](games/t/the_riflemen.md) | 4.47 | 0 | 551 |
+| 638 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 52 | 427 |
+| 638 | [ELEX](games/e/elex.md) | 4.47 | 24 | 522 |
+| 638 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,581 | 90 |
+| 638 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.47 | 0 | 551 |
+| 638 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 551 |
+| 638 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 545 |
+| 638 | [Rocket League®](games/r/rocket_league®.md) | 4.47 | 625,183 | 2 |
+| 638 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 551 |
+| 638 | [The Riflemen](games/t/the_riflemen.md) | 4.47 | 0 | 551 |
 | 647 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 551 |
 | 647 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 551 |
 | 647 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 551 |

@@ -11,15 +11,15 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.32% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.98% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.96% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.82% |
+| 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.73% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 21.93% |
+| 20 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 22.22% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
@@ -70,7 +70,7 @@
 | 68 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 69 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.61% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.42% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.41% |
 | 72 | [JARS](games/j/jars.md) | 5.21% |
 | 73 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.00% |
 | 74 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
@@ -110,8 +110,8 @@
 | 108 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.83% |
 | 110 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
-| 110 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2.78% |
-| 112 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 111 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 112 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2.70% |
 | 113 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.64% |
 | 114 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.62% |
 | 115 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.54% |
@@ -178,7 +178,7 @@
 | 176 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 176 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.83% |
 | 176 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.83% |
-| 179 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
+| 179 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 180 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 181 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 182 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
@@ -199,9 +199,9 @@
 | 196 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 196 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 199 | [Dead Space](games/d/dead_space.md) | 0.52% |
-| 200 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.51% |
 | 200 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.51% |
-| 202 | [Eternights](games/e/eternights.md) | 0.50% |
+| 201 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.50% |
+| 201 | [Eternights](games/e/eternights.md) | 0.50% |
 | 203 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.49% |
 | 203 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 205 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
@@ -601,6 +601,7 @@
 | 357 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 0.00% |
 | 357 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
 | 357 | [PERISH](games/p/perish.md) | 0.00% |
+| 357 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 0.00% |
 | 357 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 0.00% |
 | 357 | [Pinball FX](games/p/pinball_fx.md) | 0.00% |
 | 357 | [Pirates Outlaws](games/p/pirates_outlaws.md) | 0.00% |
@@ -752,4 +753,4 @@
 | 357 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 357 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 357 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,587 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,588 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
