@@ -9,9 +9,9 @@ Rating: 4.57 (Ranked 472)
 | Sputnik 2049 | 26.00% | ~866 |
 | Infinite Growth... | 25.00% | ~832 |
 | Without Breaking Some Eggs... | 24.00% | ~799 |
+| A Thousand Strong | 18.00% | ~599 |
 | Ready for a New World | 18.00% | ~599 |
 | Space Society | 17.00% | ~566 |
-| A Thousand Strong | 17.00% | ~566 |
 | Permanent Redesigns | 15.00% | ~499 |
 | Fully Recycled | 14.00% | ~466 |
 | The Ship of Theseus | 14.00% | ~466 |

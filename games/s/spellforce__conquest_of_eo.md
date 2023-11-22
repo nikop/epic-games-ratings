@@ -20,10 +20,10 @@
 | The Circle | 54.00% | ~13 |
 | Redecorating | 46.00% | ~11 |
 | Necromancer's Apprentice | 46.00% | ~11 |
-| Friend of Sevenkeeps | 33.00% | ~8 |
+| Friend of Sevenkeeps | 38.00% | ~9 |
 | Slave to the rhythm | 29.00% | ~7 |
+| Sevenkeeps Seat of Kings | 29.00% | ~7 |
 | Castle Meldec | 25.00% | ~6 |
-| Sevenkeeps Seat of Kings | 25.00% | ~6 |
 | Friend of Gillyshire | 25.00% | ~6 |
 | Break Free | 25.00% | ~6 |
 | Philo's Tale | 21.00% | ~5 |

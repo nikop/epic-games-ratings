@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 428,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -413,6 +413,11 @@
       "Time": "2023-11-21T01:56:41.5997651+00:00",
       "NumProgressed": 427,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T19:07:13.1519483+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -568,7 +573,7 @@
       "Name": "Rounos",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "PlanetThera",
@@ -584,7 +589,7 @@
       "Name": "Tuto",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "PlanetUdionTorix",
@@ -592,7 +597,7 @@
       "Name": "Udion Torix",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Scientist",
@@ -615,7 +620,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 428,
       "Completed": 0
     }
   ],
@@ -623,8 +628,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:05:36.5327836+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:07:13.151948+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:21.2043702+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:59:25.7105626+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:05:36.5327999+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:00:35.0871879+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:07:13.1519709+00:00"
 }

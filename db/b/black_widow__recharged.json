@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19871,
+  "EOS_Progressed": 19887,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -17538,6 +17538,11 @@
       "Time": "2023-11-22T18:03:11.4560768+00:00",
       "NumProgressed": 19871,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-22T19:03:47.5046826+00:00",
+      "NumProgressed": 19887,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -17549,7 +17554,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 15499
+      "UsersEstimate": 15512
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -17565,7 +17570,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2188
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -17573,7 +17578,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5369
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -17581,7 +17586,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3775
+      "UsersEstimate": 3779
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -17589,7 +17594,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3182
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -17597,7 +17602,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -17605,7 +17610,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10532
+      "UsersEstimate": 10540
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -17613,7 +17618,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -17621,7 +17626,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2585
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -17629,7 +17634,7 @@
       "Name": "Look at Me Now",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5369
     },
     {
       "ID": "ACH_THE_FALL",
@@ -17637,7 +17642,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3580
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -17653,22 +17658,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2784
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19871,
+      "Progressed": 19887,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:03:11.4560759+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:03:47.5046822+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.612501+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:59:42.5151168+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:03:11.4561848+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:00:58.9525451+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:03:47.504819+00:00"
 }

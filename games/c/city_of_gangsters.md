@@ -5,24 +5,24 @@ Rating: 4.29 (Ranked 842)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~166,173 |
-| Copacetic Coordination | 16.00% | ~56,570 |
-| Fronting the Money | 15.00% | ~53,034 |
-| The Dawn of Automation | 14.00% | ~49,498 |
-| Extraordinary Logistics | 14.00% | ~49,498 |
-| Dirty Money | 13.00% | ~45,963 |
-| Family First | 13.00% | ~45,963 |
-| Cleaning House | 12.00% | ~42,427 |
-| Room in the Back | 12.00% | ~42,427 |
+| Corner Clout | 47.00% | ~166,177 |
+| Copacetic Coordination | 16.00% | ~56,571 |
+| Fronting the Money | 15.00% | ~53,035 |
+| The Dawn of Automation | 14.00% | ~49,500 |
+| Extraordinary Logistics | 14.00% | ~49,500 |
+| Dirty Money | 13.00% | ~45,964 |
+| Family First | 13.00% | ~45,964 |
+| Cleaning House | 12.00% | ~42,428 |
+| Room in the Back | 12.00% | ~42,428 |
 | Beating the Heat | 11.00% | ~38,892 |
 | Booze Baron | 11.00% | ~38,892 |
-| Friends on the Force | 10.00% | ~35,356 |
-| Neighborhood Watch | 10.00% | ~35,356 |
+| Friends on the Force | 10.00% | ~35,357 |
+| Neighborhood Watch | 10.00% | ~35,357 |
 | Core Corps | 8.00% | ~28,285 |
 | Sizeable Stash | 8.00% | ~28,285 |
-| Street Fighter | 7.00% | ~24,749 |
-| Friendly Gestures | 7.00% | ~24,749 |
-| People Person | 7.00% | ~24,749 |
+| Street Fighter | 7.00% | ~24,750 |
+| Friendly Gestures | 7.00% | ~24,750 |
+| People Person | 7.00% | ~24,750 |
 | Liquor Lord | 6.00% | ~21,214 |
 | Safety in Numbers | 6.00% | ~21,214 |
 | Moving Experiences | 6.00% | ~21,214 |
@@ -36,11 +36,11 @@ Rating: 4.29 (Ranked 842)
 | Opportunity Knocked | 5.00% | ~17,678 |
 | City of Big Shoulders | 5.00% | ~17,678 |
 | Mission Mastery | 5.00% | ~17,678 |
-| Considerable Clams | 4.00% | ~14,142 |
-| Gin Joint | 4.00% | ~14,142 |
-| An Affront to the Enemy | 4.00% | ~14,142 |
-| Friends from Back Home | 4.00% | ~14,142 |
-| Half Century Mark | 4.00% | ~14,142 |
+| Considerable Clams | 4.00% | ~14,143 |
+| Gin Joint | 4.00% | ~14,143 |
+| An Affront to the Enemy | 4.00% | ~14,143 |
+| Friends from Back Home | 4.00% | ~14,143 |
+| Half Century Mark | 4.00% | ~14,143 |
 | Corner Opportunities | 3.00% | ~10,607 |
 | 2122 North Clark Street | 3.00% | ~10,607 |
 | Copious Cabbage | 3.00% | ~10,607 |
@@ -62,8 +62,8 @@ Rating: 4.29 (Ranked 842)
 | Determined Deliveries | 1.00% | ~3,536 |
 | Stepping It Up | 1.00% | ~3,536 |
 | Crossing Over | 0.90% | ~3,182 |
-| Boots in the Ground | 0.80% | ~2,828 |
-| Getting Fancy | 0.80% | ~2,828 |
+| Boots in the Ground | 0.80% | ~2,829 |
+| Getting Fancy | 0.80% | ~2,829 |
 | Still Dreaming | 0.50% | ~1,768 |
 | Working on the Railroad | 0.50% | ~1,768 |
 | Social Butterfly | 0.50% | ~1,768 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 842)
 | High Pillow | 0.10% | ~354 |
 | Station Master | 0.10% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353,560 (Ranked 48)  
+Progressed: 353,568 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,11 +302,11 @@ Completed: 7 (0.00%) (Ranked 358)
 | 2023-11-19 | 353,192 | 7 |
 | 2023-11-20 | 353,346 | 7 |
 | 2023-11-21 | 353,478 | 7 |
-| 2023-11-22 | 353,560 | 7 |
+| 2023-11-22 | 353,568 | 7 |
 ## Awards
 Max (Great for Beginners): 48  (Ranked 439)  
-Sum: 194 (Ranked 403)  
-Diff (max vs sum): 36  
+Sum: 194 (Ranked 402)  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 48 |

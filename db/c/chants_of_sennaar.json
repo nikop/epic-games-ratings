@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 654,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.35,
   "EosHistory": [
@@ -2878,9 +2878,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 78
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2910,9 +2910,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 118
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2981,8 +2981,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:05:57.1427018+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:07:44.994112+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:58:11.4726409+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:05:57.1427307+00:00"
+  "LastUpdate_Ratings": "2023-11-22T18:59:01.2461659+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:07:44.9941375+00:00"
 }

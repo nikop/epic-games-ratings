@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1787,
+  "EOS_Progressed": 1788,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -4099,6 +4099,11 @@
       "Time": "2023-11-22T11:07:47.6558325+00:00",
       "NumProgressed": 1787,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-22T19:08:27.2466481+00:00",
+      "NumProgressed": 1788,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4134,7 +4139,7 @@
       "Name": "The Big Bertha",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Boy",
@@ -4190,7 +4195,7 @@
       "Name": "E1M1",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "Everyone_is_here",
@@ -4222,7 +4227,7 @@
       "Name": "Grenadier",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "Hard_Serpent",
@@ -4302,7 +4307,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "Scout",
@@ -4318,7 +4323,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "War_never_changes",
@@ -4326,7 +4331,7 @@
       "Name": "War Never Changes",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "We_were_not_here",
@@ -4349,15 +4354,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1787,
+      "Progressed": 1788,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:07:48.3113171+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:08:27.2466478+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:07.4089299+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:58:16.0341044+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:07:48.3113674+00:00"
+  "LastUpdate_Ratings": "2023-11-22T18:59:07.2669191+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:08:27.2466787+00:00"
 }

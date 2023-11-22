@@ -19,10 +19,10 @@ Rating: 4.58 (Ranked 444)
 | A view to Win | 13.00% | ~2,454 |
 | The Living Portrait | 12.00% | ~2,265 |
 | Smells Like Trouble | 12.00% | ~2,265 |
-| My Motto, My Creed | 11.00% | ~2,076 |
-| Private Collection | 11.00% | ~2,076 |
-| Killer Looks | 11.00% | ~2,076 |
-| Hostile Takeover | 11.00% | ~2,076 |
+| My Motto, My Creed | 11.00% | ~2,077 |
+| Private Collection | 11.00% | ~2,077 |
+| Killer Looks | 11.00% | ~2,077 |
+| Hostile Takeover | 11.00% | ~2,077 |
 | Keycards Royale | 10.00% | ~1,888 |
 | Dr. No Kill | 10.00% | ~1,888 |
 | In It to Win It | 9.00% | ~1,699 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 444)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,877 (Ranked 142)  
+Progressed: 18,878 (Ranked 142)  
 Completed: 4 (0.02%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 4 (0.02%) (Ranked 327)
 | 2023-11-19 | 18,861 | 4 |
 | 2023-11-20 | 18,867 | 4 |
 | 2023-11-21 | 18,873 | 4 |
-| 2023-11-22 | 18,877 | 4 |
+| 2023-11-22 | 18,878 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

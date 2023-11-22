@@ -1,39 +1,39 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 159)  
+Rating: 4.74 (Ranked 158)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,273 |
-| Landlord | 33.00% | ~21,675 |
-| Bannerlord | 24.00% | ~15,764 |
-| Horde breaker | 24.00% | ~15,764 |
-| Lawmaker | 24.00% | ~15,764 |
-| Trained | 24.00% | ~15,764 |
-| The king is pleased | 19.00% | ~12,480 |
-| King Solomon | 18.00% | ~11,823 |
-| Apple of my eye | 16.00% | ~10,509 |
-| I can do it | 16.00% | ~10,509 |
-| Against all odds | 13.00% | ~8,539 |
-| God of the Arena | 13.00% | ~8,539 |
-| This Is Our Land | 13.00% | ~8,539 |
-| Duelist | 10.00% | ~6,568 |
-| Dynasty | 10.00% | ~6,568 |
-| I spit on your grave | 10.00% | ~6,568 |
-| Swordbearer | 10.00% | ~6,568 |
-| What have the Romans ever done for us? | 10.00% | ~6,568 |
-| Butterlord | 9.00% | ~5,911 |
+| Lawbringer | 40.00% | ~26,277 |
+| Landlord | 33.00% | ~21,678 |
+| Bannerlord | 24.00% | ~15,766 |
+| Horde breaker | 24.00% | ~15,766 |
+| Lawmaker | 24.00% | ~15,766 |
+| Trained | 24.00% | ~15,766 |
+| The king is pleased | 19.00% | ~12,481 |
+| King Solomon | 18.00% | ~11,825 |
+| Apple of my eye | 16.00% | ~10,511 |
+| I can do it | 16.00% | ~10,511 |
+| Against all odds | 13.00% | ~8,540 |
+| God of the Arena | 13.00% | ~8,540 |
+| This Is Our Land | 13.00% | ~8,540 |
+| Duelist | 10.00% | ~6,569 |
+| Dynasty | 10.00% | ~6,569 |
+| I spit on your grave | 10.00% | ~6,569 |
+| Swordbearer | 10.00% | ~6,569 |
+| What have the Romans ever done for us? | 10.00% | ~6,569 |
+| Butterlord | 9.00% | ~5,912 |
 | Mastery | 8.00% | ~5,255 |
 | Know your enemy | 7.00% | ~4,598 |
-| Crowdfunded | 5.00% | ~3,284 |
-| Crush your enemies | 5.00% | ~3,284 |
-| My way | 5.00% | ~3,284 |
-| Veni vidi vici | 4.00% | ~2,627 |
-| Freedom! | 3.00% | ~1,970 |
-| Long live the Empire! | 3.00% | ~1,970 |
-| Real Estate | 3.00% | ~1,970 |
+| Crowdfunded | 5.00% | ~3,285 |
+| Crush your enemies | 5.00% | ~3,285 |
+| My way | 5.00% | ~3,285 |
+| Veni vidi vici | 4.00% | ~2,628 |
+| Freedom! | 3.00% | ~1,971 |
+| Long live the Empire! | 3.00% | ~1,971 |
+| Real Estate | 3.00% | ~1,971 |
 | Entrepreneur | 1.00% | ~657 |
 | Supreme Emperor | 1.00% | ~657 |
 | Crackshot | 0.90% | ~591 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,682 (Ranked 104)  
+Progressed: 65,692 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,10 +274,10 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-19 | 65,461 | 0 |
 | 2023-11-20 | 65,522 | 0 |
 | 2023-11-21 | 65,597 | 0 |
-| 2023-11-22 | 65,682 | 0 |
+| 2023-11-22 | 65,692 | 0 |
 ## Awards
 Max (Character Customization): 7,416  (Ranked 53)  
-Sum: 15,385 (Ranked 68)  
+Sum: 15,390 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -286,11 +286,11 @@ Diff (max vs sum): -15
 | This game has Diverse Characters | 1,017 |
 | This game is Highly Recommended | 936 |
 | This game is Extremely Fun | 882 |
+| This game has Amazing Storytelling | 868 |
 | This game has Amazing Characters | 867 |
-| This game has Amazing Storytelling | 866 |
 | This game is Relaxing | 855 |
-| This game has Quickly Understood Controls | 834 |
-| This game has a Creative Community | 641 |
+| This game has Quickly Understood Controls | 836 |
+| This game has a Creative Community | 642 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -607,4 +607,4 @@ Diff (max vs sum): -15
 | 2023-11-19 | 4.74 | - | 7,405 | 15,350 |
 | 2023-11-20 | 4.74 | - | 7,405 | 15,361 |
 | 2023-11-21 | 4.74 | - | 7,410 | 15,375 |
-| 2023-11-22 | 4.74 | - | 7,416 | 15,385 |
+| 2023-11-22 | 4.74 | - | 7,416 | 15,390 |

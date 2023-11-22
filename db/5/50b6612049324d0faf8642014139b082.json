@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -830,6 +830,11 @@
       "Time": "2023-11-22T18:09:22.710129+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T19:10:10.3853037+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -848,9 +853,9 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 117
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_11",
@@ -858,7 +863,7 @@
       "Name": "Gravel Guru",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_12",
@@ -904,9 +909,9 @@
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_18",
@@ -930,7 +935,7 @@
       "Name": "Team Principal",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_20",
@@ -970,7 +975,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_25",
@@ -1008,9 +1013,9 @@
       "ID": "achievement_5",
       "SetID": "jnappp",
       "Name": "Consistency is key",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_6",
@@ -1026,7 +1031,7 @@
       "Name": "NEW PB!",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_8",
@@ -1049,14 +1054,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:09:22.7101284+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:10:10.3853035+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:59:54.5935756+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:09:22.7101485+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:01:16.4150564+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:10:10.385321+00:00"
 }

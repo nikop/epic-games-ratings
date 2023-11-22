@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -535,9 +535,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8636,
+  "EOS_Progressed": 8637,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -11325,6 +11325,11 @@
       "Time": "2023-11-22T18:03:18.5549068+00:00",
       "NumProgressed": 8636,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-11-22T19:03:57.4170835+00:00",
+      "NumProgressed": 8637,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 29,
@@ -11336,7 +11341,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "ACH02",
@@ -11344,7 +11349,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2936
+      "UsersEstimate": 2937
     },
     {
       "ID": "ACH03",
@@ -11456,7 +11461,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "ACH17",
@@ -11567,7 +11572,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8636,
+      "Progressed": 8637,
       "Completed": 59
     }
   ],
@@ -11575,8 +11580,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-18T13:00:01.75974+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:03:18.5549063+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:03:57.417083+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.3385878+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:59:18.8044324+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:03:18.5549746+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:00:25.6753007+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:03:57.4171479+00:00"
 }

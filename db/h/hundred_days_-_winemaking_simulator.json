@@ -2,9 +2,9 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 792,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 285,
-  "Ranking_PopularitySum": 221,
+  "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 83,
@@ -989,10 +989,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1726,
       "NumberOfAwardsMax": 207
+    },
+    {
+      "Time": "2023-11-22T19:03:12.049225+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1728,
+      "NumberOfAwardsMax": 207
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1726,
+  "NumberOfAwards": 1728,
   "NumberOfAwardsMax": 207,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1012,7 +1018,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 175
+      "Count": 177
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1057,9 +1063,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13332,
+  "EOS_Progressed": 13341,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 981,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11017,6 +11023,11 @@
       "Time": "2023-11-22T18:08:53.5687393+00:00",
       "NumProgressed": 13332,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-22T19:09:28.7525927+00:00",
+      "NumProgressed": 13341,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11029,7 +11040,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "a_10",
@@ -11077,7 +11088,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5466
+      "UsersEstimate": 5470
     },
     {
       "ID": "a_19",
@@ -11117,7 +11128,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "a_23",
@@ -11125,7 +11136,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "a_25",
@@ -11195,9 +11206,9 @@
       "ID": "a_33",
       "SetID": "daiie3o",
       "Name": "Big deals",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 13
     },
     {
       "ID": "a_34",
@@ -11276,16 +11287,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13332,
+      "Progressed": 13341,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:08:53.568739+00:00",
+  "LastChanged": "2023-11-22T19:03:12.0492248+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:09:28.7525881+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:02:49.6659187+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:08:53.568796+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:03:12.0492252+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:09:28.7526694+00:00"
 }

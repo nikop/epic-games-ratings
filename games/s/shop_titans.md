@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,050 |
-| Basic in Bulk | 5.00% | ~7,050 |
-| Titan's First Steps | 5.00% | ~7,050 |
-| Disintermediation | 4.00% | ~5,640 |
-| Tinkle of Coins | 4.00% | ~5,640 |
-| One Easy Payment | 3.00% | ~4,230 |
-| Some Assembly Required | 3.00% | ~4,230 |
-| Another Satisfied Customer | 3.00% | ~4,230 |
-| It's Free Real Estate | 3.00% | ~4,230 |
-| Pretty Penny | 3.00% | ~4,230 |
-| Budding Merchant | 3.00% | ~4,230 |
-| Capitalism Ho! | 3.00% | ~4,230 |
-| Own the Means of Production | 3.00% | ~4,230 |
+| Sponsored by Argon | 5.00% | ~7,051 |
+| Basic in Bulk | 5.00% | ~7,051 |
+| Titan's First Steps | 5.00% | ~7,051 |
+| Disintermediation | 4.00% | ~5,641 |
+| Tinkle of Coins | 4.00% | ~5,641 |
+| One Easy Payment | 3.00% | ~4,231 |
+| Some Assembly Required | 3.00% | ~4,231 |
+| Another Satisfied Customer | 3.00% | ~4,231 |
+| It's Free Real Estate | 3.00% | ~4,231 |
+| Pretty Penny | 3.00% | ~4,231 |
+| Budding Merchant | 3.00% | ~4,231 |
+| Capitalism Ho! | 3.00% | ~4,231 |
+| Own the Means of Production | 3.00% | ~4,231 |
 | The Daily Grind | 2.00% | ~2,820 |
 | Bounty Hunters | 2.00% | ~2,820 |
 | Demand for Supplies | 2.00% | ~2,820 |
@@ -31,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 2.00% | ~2,820 |
 | Arcane Industries | 2.00% | ~2,820 |
 | On the Path to Greatness | 1.00% | ~1,410 |
+| A Notch Above the Rest | 1.00% | ~1,410 |
 | Ascended | 1.00% | ~1,410 |
 | Tax not Included | 1.00% | ~1,410 |
 | Research & Development | 1.00% | ~1,410 |
@@ -42,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 1.00% | ~1,410 |
 | Flying off the Shelves | 1.00% | ~1,410 |
 | This Power Level...! | 1.00% | ~1,410 |
+| Hidden Potential | 1.00% | ~1,410 |
 | Power of Love | 1.00% | ~1,410 |
 | Expansion in Session | 1.00% | ~1,410 |
 | Efficient Floor Space | 1.00% | ~1,410 |
@@ -58,13 +60,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 1.00% | ~1,410 |
 | Special Ingredient | 1.00% | ~1,410 |
 | Complete Monopoly | 1.00% | ~1,410 |
-| A Notch Above the Rest | 0.90% | ~1,269 |
 | Above the Norm | 0.90% | ~1,269 |
 | A Ronin Reborn | 0.90% | ~1,269 |
 | The King's Caprice | 0.90% | ~1,269 |
 | Locally Sourced | 0.90% | ~1,269 |
 | Master of Transmutation | 0.90% | ~1,269 |
-| Hidden Potential | 0.90% | ~1,269 |
 | Cranked up to 11 | 0.90% | ~1,269 |
 | Fit for a King | 0.90% | ~1,269 |
 | Wealth Beyond Measure | 0.90% | ~1,269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,007 (Ranked 80)  
+Progressed: 141,018 (Ranked 80)  
 Completed: 193 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 193 (0.14%) (Ranked 269)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 141,007 | 193 |
+| 2023-11-22 | 141,018 | 193 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

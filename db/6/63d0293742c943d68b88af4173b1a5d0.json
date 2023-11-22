@@ -2,9 +2,9 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 218,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -756,9 +756,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "Remake_010",
@@ -788,9 +788,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "Remake_14",
@@ -836,9 +836,9 @@
       "ID": "Remake_19",
       "SetID": "5pi96jj",
       "Name": "Pan Head",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Remake_20",
@@ -875,8 +875,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:05:15.4181818+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:06:43.1596497+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:02:48.8713272+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:05:15.4182039+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:03:10.7358106+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:06:43.1596699+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,903 |
-| keep it tidy | 78.00% | ~8,046 |
+| light attack | 96.00% | ~9,904 |
+| keep it tidy | 78.00% | ~8,047 |
 | podium | 72.00% | ~7,428 |
 | medium attack | 60.00% | ~6,190 |
-| brail | 57.00% | ~5,880 |
+| brail | 57.00% | ~5,881 |
 | good drivers have dead flies on the side windows | 43.00% | ~4,436 |
-| grocery-getter | 40.00% | ~4,126 |
-| rwd only | 27.00% | ~2,785 |
-| food tour: pasta | 27.00% | ~2,785 |
+| grocery-getter | 40.00% | ~4,127 |
+| rwd only | 27.00% | ~2,786 |
+| food tour: pasta | 27.00% | ~2,786 |
 | autopilot | 22.00% | ~2,270 |
-| to finish first, first you must finish | 21.00% | ~2,166 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,166 |
+| to finish first, first you must finish | 21.00% | ~2,167 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,167 |
 | turbo | 20.00% | ~2,063 |
 | food tour: pretzel | 20.00% | ~2,063 |
-| bicycle race | 15.00% | ~1,547 |
-| car wash | 15.00% | ~1,547 |
+| bicycle race | 15.00% | ~1,548 |
+| car wash | 15.00% | ~1,548 |
 | monster | 14.00% | ~1,444 |
 | night ride | 14.00% | ~1,444 |
 | the artist | 14.00% | ~1,444 |
@@ -43,14 +43,14 @@ Number of Ratings: 56  (23.09.2022)
 | if in doubt, flat out! | 6.00% | ~619 |
 | group b | 5.00% | ~516 |
 | comfy seats | 4.00% | ~413 |
-| simulator | 3.00% | ~309 |
-| real roads, real fast | 3.00% | ~309 |
+| simulator | 3.00% | ~310 |
+| real roads, real fast | 3.00% | ~310 |
 | absolute drift | 0.90% | ~93 |
 | you're here for a good time, not a long time | 0.80% | ~83 |
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,316 (Ranked 163)  
+Progressed: 10,317 (Ranked 163)  
 Completed: 9 (0.09%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 9 (0.09%) (Ranked 287)
 | 2023-11-18 | 10,313 | 9 |
 | 2023-11-20 | 10,314 | 9 |
 | 2023-11-21 | 10,315 | 9 |
-| 2023-11-22 | 10,316 | 9 |
+| 2023-11-22 | 10,317 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -471,9 +471,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5425,
+  "EOS_Progressed": 5427,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7261,6 +7261,11 @@
       "Time": "2023-11-22T17:05:26.1729457+00:00",
       "NumProgressed": 5425,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T19:05:18.9702631+00:00",
+      "NumProgressed": 5427,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7384,7 +7389,7 @@
       "Name": "Realm Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "23",
@@ -7392,7 +7397,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "24",
@@ -7400,7 +7405,7 @@
       "Name": "Secret Technique",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "25",
@@ -7408,7 +7413,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "26",
@@ -7672,7 +7677,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "52",
@@ -7751,13 +7756,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5425,
+      "Progressed": 5427,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5425,
+      "Progressed": 5427,
       "Completed": 7
     }
   ],
@@ -7765,8 +7770,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-19T15:00:16.4075391+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:04:14.541509+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:05:18.9702626+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:02:45.4859277+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:04:14.5415744+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:03:05.5798016+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:05:18.9703505+00:00"
 }

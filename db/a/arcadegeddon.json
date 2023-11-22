@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9686,
+  "EOS_Progressed": 9687,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11760,6 +11760,11 @@
       "Time": "2023-11-22T16:08:15.5276322+00:00",
       "NumProgressed": 9686,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T19:08:26.0858502+00:00",
+      "NumProgressed": 9687,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -11771,7 +11776,7 @@
       "Name": "Adventure Time",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 7361
+      "UsersEstimate": 7362
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -11795,7 +11800,7 @@
       "Name": "Clips and Crits",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -11803,7 +11808,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -11835,7 +11840,7 @@
       "Name": "Get Furious",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -11915,7 +11920,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 8524
+      "UsersEstimate": 8525
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -11923,7 +11928,7 @@
       "Name": "Light My Fire",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "ACH_MASTER_OF_ARMS",
@@ -11939,7 +11944,7 @@
       "Name": "Meching Enemies",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4553
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -11971,7 +11976,7 @@
       "Name": "Photogenic",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 8136
+      "UsersEstimate": 8137
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -11987,7 +11992,7 @@
       "Name": "Plug It In",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7749
+      "UsersEstimate": 7750
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -12027,7 +12032,7 @@
       "Name": "Seasoned Adventurer",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -12163,22 +12168,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5327
+      "UsersEstimate": 5328
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9686,
+      "Progressed": 9687,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:07:47.1971506+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:08:26.08585+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:43.4613889+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:57:31.0772358+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:07:47.1972185+00:00"
+  "LastUpdate_Ratings": "2023-11-22T18:58:06.2559437+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:08:26.0859607+00:00"
 }

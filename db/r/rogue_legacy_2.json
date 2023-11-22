@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1488,9 +1488,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23549,
+  "EOS_Progressed": 23550,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9758,6 +9758,11 @@
       "Time": "2023-11-22T17:09:44.5542554+00:00",
       "NumProgressed": 23549,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T19:09:28.5759081+00:00",
+      "NumProgressed": 23550,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -9865,7 +9870,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -9881,7 +9886,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -9913,7 +9918,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -10025,7 +10030,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "RogueMode",
@@ -10080,21 +10085,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23549,
+      "Progressed": 23550,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2479,
+      "Progressed": 2480,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-19T17:59:15.123037+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:08:53.0203626+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:09:28.5759076+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.4592535+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:57:23.8228513+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:08:53.0204331+00:00"
+  "LastUpdate_Ratings": "2023-11-22T18:57:56.2662391+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:09:28.5759712+00:00"
 }

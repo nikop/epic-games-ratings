@@ -115,9 +115,9 @@
       "ID": "SPECIAL_DELIVERY",
       "SetID": "7ae64fg",
       "Name": "Special delivery",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 110,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "STEP_BY_STEP",
@@ -145,8 +145,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-26T15:04:27.1843787+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:04:01.3877312+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:04:59.9506846+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:03.1637444+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:57:14.8060029+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:04:01.3877404+00:00"
+  "LastUpdate_Ratings": "2023-11-22T18:57:42.4156122+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:04:59.9506957+00:00"
 }

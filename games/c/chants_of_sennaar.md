@@ -18,14 +18,14 @@
 | I did it | 18.00% | ~118 |
 | Peace walker | 18.00% | ~118 |
 | Cable guy | 18.00% | ~118 |
+| Champollion | 18.00% | ~118 |
 | In this together | 17.00% | ~111 |
-| Champollion | 17.00% | ~111 |
 | Open door | 16.00% | ~105 |
 | Feels like springtime | 15.00% | ~98 |
 | Alchemists Express | 15.00% | ~98 |
 | Free at last | 13.00% | ~85 |
+| Rascal | 12.00% | ~78 |
 | A Link to the Past | 11.00% | ~72 |
-| Rascal | 11.00% | ~72 |
 | A great audience | 10.00% | ~65 |
 | For its own good | 9.00% | ~59 |
 | Fashion victim | 4.00% | ~26 |

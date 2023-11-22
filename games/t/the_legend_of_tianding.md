@@ -17,11 +17,11 @@
 | Urban Explorer | 25.00% | ~5 |
 | Steal Her Away | 25.00% | ~5 |
 | Sewer Rat | 25.00% | ~5 |
+| Not Today | 25.00% | ~5 |
 | Fight Fire With Fire | 25.00% | ~5 |
 | Big Eater | 20.00% | ~4 |
 | Tour Guide | 20.00% | ~4 |
 | Demon Slayer | 20.00% | ~4 |
-| Not Today | 20.00% | ~4 |
 | Coward | 20.00% | ~4 |
 | The Real O.G. | 15.00% | ~3 |
 | Talk to the Fist | 15.00% | ~3 |

@@ -4295,9 +4295,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76846,
+  "EOS_Progressed": 76848,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23510,6 +23510,11 @@
       "Time": "2023-11-22T18:04:43.728476+00:00",
       "NumProgressed": 76846,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-22T19:05:59.9125219+00:00",
+      "NumProgressed": 76848,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23633,7 +23638,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13832
+      "UsersEstimate": 13833
     },
     {
       "ID": "CLAYFACE_3",
@@ -23641,7 +23646,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10758
+      "UsersEstimate": 10759
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -23769,7 +23774,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10758
+      "UsersEstimate": 10759
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -23825,7 +23830,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26896
+      "UsersEstimate": 26897
     },
     {
       "ID": "HARLEY_2",
@@ -23841,7 +23846,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15369
+      "UsersEstimate": 15370
     },
     {
       "ID": "HARLEY_4",
@@ -23849,7 +23854,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12295
+      "UsersEstimate": 12296
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -23865,7 +23870,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39191
+      "UsersEstimate": 39192
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23889,7 +23894,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15369
+      "UsersEstimate": 15370
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -23897,7 +23902,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20748
+      "UsersEstimate": 20749
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23929,7 +23934,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16906
+      "UsersEstimate": 16907
     },
     {
       "ID": "MYSTERY_04",
@@ -23937,7 +23942,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15369
+      "UsersEstimate": 15370
     },
     {
       "ID": "MYSTERY_05",
@@ -23945,7 +23950,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13832
+      "UsersEstimate": 13833
     },
     {
       "ID": "MYSTERY_06",
@@ -23961,7 +23966,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10758
+      "UsersEstimate": 10759
     },
     {
       "ID": "MYSTERY_08",
@@ -24008,13 +24013,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76846,
+      "Progressed": 76848,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47126,
+      "Progressed": 47128,
       "Completed": 2675
     }
   ],
@@ -24022,8 +24027,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-22T06:59:19.5153841+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:04:43.7284758+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:05:59.9125215+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:58:34.5232504+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:04:43.7286009+00:00"
+  "LastUpdate_Ratings": "2023-11-22T18:59:30.2006908+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:05:59.9126598+00:00"
 }

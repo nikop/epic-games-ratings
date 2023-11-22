@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Trinity | 9.00% | ~18 |
 | I Found It | 7.00% | ~14 |
+| Break Out | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
 | Adventurer | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
-| Break Out | 5.00% | ~10 |
 | Find Allies | 5.00% | ~10 |
 | A Taste of Wrath | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
@@ -41,7 +41,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203 (Ranked 383)  
+Progressed: 203 (Ranked 384)  
 Completed: 2 (0.99%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |

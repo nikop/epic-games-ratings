@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2796,10 +2796,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 538898,
-  "EOS_Completed": 1620,
-  "EOS_NewPlayers": 584,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 538903,
+  "EOS_Completed": 1621,
+  "EOS_NewPlayers": 587,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -26646,6 +26646,11 @@
       "Time": "2023-11-22T18:08:24.3756222+00:00",
       "NumProgressed": 538898,
       "NumCompleted": 1620
+    },
+    {
+      "Time": "2023-11-22T19:08:48.2276096+00:00",
+      "NumProgressed": 538903,
+      "NumCompleted": 1621
     }
   ],
   "TotalAchievements": 37,
@@ -26673,7 +26678,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167058
+      "UsersEstimate": 167060
     },
     {
       "ID": "DEVOTED",
@@ -26713,7 +26718,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 447285
+      "UsersEstimate": 447289
     },
     {
       "ID": "HONED",
@@ -26769,7 +26774,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215559
+      "UsersEstimate": 215561
     },
     {
       "ID": "THE_CASTLE",
@@ -26833,7 +26838,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102391
+      "UsersEstimate": 102392
     },
     {
       "ID": "THE_KEEP",
@@ -26913,7 +26918,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344895
+      "UsersEstimate": 344898
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -26929,7 +26934,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91613
+      "UsersEstimate": 91614
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -26952,15 +26957,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 538898,
-      "Completed": 1620
+      "Progressed": 538903,
+      "Completed": 1621
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-18T12:59:55.4246283+00:00",
-  "LastChanged_Achievements": "2023-11-22T18:08:24.3756219+00:00",
+  "LastChanged_Achievements": "2023-11-22T19:08:48.2276092+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:11.7243126+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:59:12.5172914+00:00",
-  "LastUpdate_Achievements": "2023-11-22T18:08:24.3757783+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:00:16.6646287+00:00",
+  "LastUpdate_Achievements": "2023-11-22T19:08:48.2277243+00:00"
 }
