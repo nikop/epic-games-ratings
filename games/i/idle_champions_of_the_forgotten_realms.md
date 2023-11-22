@@ -11,8 +11,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.90% | ~1,824 |
 | Tomb of Champions | 0.60% | ~1,216 |
 | See You on the Flipside | 0.50% | ~1,013 |
-| Beast Intentions | 0.40% | ~945 |
-| The Cursed Farmer | 0.40% | ~945 |
+| Beast Intentions | 0.40% | ~946 |
+| The Cursed Farmer | 0.40% | ~946 |
 | The Mad Wizard | 0.30% | ~709 |
 | A Lesson in Classes | 0.20% | ~405 |
 | Were-verpowered | 0.20% | ~473 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~203 |
 | Time Out | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,370 (Ranked 64)  
+Progressed: 236,375 (Ranked 64)  
 Completed: 2,467 (1.04%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -755,16 +755,16 @@ Completed: 2,467 (1.04%) (Ranked 163)
 | 2023-11-19 | 236,022 | 2,459 |
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
-| 2023-11-22 | 236,370 | 2,467 |
+| 2023-11-22 | 236,375 | 2,467 |
 ## Awards
 Max (Great for Beginners): 5,549  (Ranked 70)  
-Sum: 32,563 (Ranked 41)  
+Sum: 32,564 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,549 |
 | This game has Diverse Characters | 5,529 |
-| This game has Quickly Understood Controls | 4,817 |
+| This game has Quickly Understood Controls | 4,818 |
 | This game is Relaxing | 4,709 |
 | This game has Amazing Characters | 4,223 |
 | This game is Highly Recommended | 4,210 |
@@ -1072,4 +1072,4 @@ Diff (max vs sum): 29
 | 2023-11-19 | 4.06 | - | 5,542 | 32,540 |
 | 2023-11-20 | 4.06 | - | 5,547 | 32,551 |
 | 2023-11-21 | 4.06 | - | 5,549 | 32,557 |
-| 2023-11-22 | 4.06 | - | 5,549 | 32,563 |
+| 2023-11-22 | 4.06 | - | 5,549 | 32,564 |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 88.00% | ~70 |
+| Setting Sail | 88.00% | ~71 |
 | A Small Thirsty Thing | 14.00% | ~11 |
 | Spirit Within | 11.00% | ~9 |
 | Dousing a Venerable Flame | 10.00% | ~8 |
@@ -20,8 +20,8 @@
 | Sovereignty of Irons | 5.00% | ~4 |
 | Let Me Solo Them | 4.00% | ~3 |
 | Twin Thorns | 4.00% | ~3 |
-| The River Styx | 3.00% | ~2 |
-| Frigid Winds | 3.00% | ~2 |
+| The River Styx | 2.00% | ~2 |
+| Frigid Winds | 2.00% | ~2 |
 | Smotherly Love | 1.00% | ~1 |
 | Transformative Nature | 1.00% | ~1 |
 | Champion of Starspire | 1.00% | ~1 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 449)  
+Progressed: 81 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-18 | 77 | 0 |
 | 2023-11-20 | 79 | 0 |
 | 2023-11-21 | 80 | 0 |
+| 2023-11-22 | 81 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,16 +20,17 @@
 | Rebel Unleashed | 50.00% | ~2 |
 | MAX LEVEL | 50.00% | ~2 |
 | First Aid | 50.00% | ~2 |
+| Merry Go Round | 50.00% | ~2 |
 | Starry Night | 25.00% | ~1 |
 | King of the Iron Fist | 25.00% | ~1 |
 | Ultra Combo | 25.00% | ~1 |
 | The Gang prevails | 25.00% | ~1 |
 | Power of Friendship! | 25.00% | ~1 |
+| Tap Dancing | 25.00% | ~1 |
 | Out of the ring | 25.00% | ~1 |
 | Hidden Experiment | 25.00% | ~1 |
 | Assault on the Ram | 25.00% | ~1 |
 | Ultra Rebel Instinct | 25.00% | ~1 |
-| Merry Go Round | 25.00% | ~1 |
 | Ascending Will | 0.00% | ~0 |
 | Brilliant Executioner | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
@@ -40,7 +41,6 @@
 | Gangs of Humanity | 0.00% | ~0 |
 | Bold and Bossy | 0.00% | ~0 |
 | Heroes of Sherwood | 0.00% | ~0 |
-| Tap Dancing | 0.00% | ~0 |
 | It belongs in a museum | 0.00% | ~0 |
 | Sherwood Moment 37 | 0.00% | ~0 |
 | Sky High Fighter | 0.00% | ~0 |

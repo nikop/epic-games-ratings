@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3328,
+  "EOS_Progressed": 3329,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5788,6 +5788,11 @@
       "Time": "2023-11-22T14:05:48.1250343+00:00",
       "NumProgressed": 3328,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T16:06:05.6696767+00:00",
+      "NumProgressed": 3329,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5911,7 +5916,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_BASE_25",
@@ -6254,13 +6259,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1512,
+      "Progressed": 1513,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3328,
+      "Progressed": 3329,
       "Completed": 0
     }
   ],
@@ -6268,8 +6273,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:07:24.0798022+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:06:05.6696762+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.7251955+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:01:18.5232429+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:07:24.0798795+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:59:57.717501+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:06:05.6697704+00:00"
 }

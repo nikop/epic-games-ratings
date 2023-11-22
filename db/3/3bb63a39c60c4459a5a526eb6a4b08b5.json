@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 936,
+  "EOS_Progressed": 937,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3564,6 +3564,11 @@
       "Time": "2023-11-22T14:09:22.7676001+00:00",
       "NumProgressed": 936,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T16:09:34.2019411+00:00",
+      "NumProgressed": 937,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3591,7 +3596,7 @@
       "Name": "Basic Controls",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "BigPlane",
@@ -3599,7 +3604,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "BudgetFlight",
@@ -3615,7 +3620,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Close",
@@ -3775,7 +3780,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "NoTimeForModernization",
@@ -3799,7 +3804,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Ownway",
@@ -3837,9 +3842,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 112
     },
     {
       "ID": "ResourceEconomy",
@@ -3895,7 +3900,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "TransportHub",
@@ -3910,14 +3915,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 936,
+      "Progressed": 937,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:10:04.395044+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:09:34.2019406+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:54.7052462+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:59:04.4394642+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:10:04.3950881+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:58:26.435834+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:09:34.2019887+00:00"
 }

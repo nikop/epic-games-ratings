@@ -2,10 +2,10 @@
   "ID": "1f48927b60c5460dbca66555584a80cf",
   "Name": "FUR Squadron",
   "ProductSlug": "fur-squadron-0042b8",
-  "Ranking_EOS_Progress": 466,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
     "PcReleaseDate": "2023-03-16T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -347,6 +347,11 @@
       "Time": "2023-11-22T02:33:38.3322717+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T16:08:35.4681436+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -364,7 +369,7 @@
       "ID": "COMPLETED_AXEL_2",
       "SetID": "d91enl3",
       "Name": "Better hurry up",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -372,7 +377,7 @@
       "ID": "COMPLETED_AXEL_3",
       "SetID": "d91enl3",
       "Name": "I call her the BF-Worm",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -380,7 +385,7 @@
       "ID": "COMPLETED_AXEL_4",
       "SetID": "d91enl3",
       "Name": "Axel?",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -388,7 +393,7 @@
       "ID": "COMPLETED_AXEL_5",
       "SetID": "d91enl3",
       "Name": "You won\u0027t escape that easy!!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -406,15 +411,15 @@
       "Name": "All systems go",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "COMPLETED_BLAZE_2",
       "SetID": "d91enl3",
       "Name": "Do a barrel roll!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "COMPLETED_BLAZE_3",
@@ -422,15 +427,15 @@
       "Name": "Huh? What was that?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "COMPLETED_BLAZE_4",
       "SetID": "d91enl3",
       "Name": "Whatever it is, fix it!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "COMPLETED_BLAZE_5",
@@ -444,7 +449,7 @@
       "ID": "COMPLETED_BLAZE_6",
       "SetID": "d91enl3",
       "Name": "My Emperor... I\u0027ve failed you!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 13
     },
@@ -460,7 +465,7 @@
       "ID": "COMPLETED_KIRO_2",
       "SetID": "d91enl3",
       "Name": "Actually it\u0027s called aileron roll",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -468,7 +473,7 @@
       "ID": "COMPLETED_KIRO_3",
       "SetID": "d91enl3",
       "Name": "I have a bad feeling about this",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -476,7 +481,7 @@
       "ID": "COMPLETED_KIRO_4",
       "SetID": "d91enl3",
       "Name": "Any other day at work",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -484,7 +489,7 @@
       "ID": "COMPLETED_KIRO_5",
       "SetID": "d91enl3",
       "Name": "I\u0027ve had enough!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -500,7 +505,7 @@
       "ID": "MASTERED_1",
       "SetID": "d91enl3",
       "Name": "Enemy shield analyzed",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 60,
       "UsersEstimate": 3
     },
@@ -524,7 +529,7 @@
       "ID": "MASTERED_4",
       "SetID": "d91enl3",
       "Name": "I. Am. Bored",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -549,13 +554,13 @@
     {
       "ID": "d91enl3",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:08:44.8666405+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:08:35.4681433+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.4098214+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:02:53.7116737+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:08:44.8666579+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:02:50.862267+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:08:35.4681621+00:00"
 }

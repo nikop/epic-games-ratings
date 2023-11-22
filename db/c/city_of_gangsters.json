@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -784,9 +784,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 353544,
+  "EOS_Progressed": 353546,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1084,
+  "EOS_NewPlayers": 1080,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25339,6 +25339,11 @@
       "Time": "2023-11-22T15:06:26.4455605+00:00",
       "NumProgressed": 353544,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T16:05:23.568773+00:00",
+      "NumProgressed": 353546,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -25366,7 +25371,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42425
+      "UsersEstimate": 42426
     },
     {
       "ID": "ach004",
@@ -25406,7 +25411,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42425
+      "UsersEstimate": 42426
     },
     {
       "ID": "ach009",
@@ -25558,7 +25563,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 166166
+      "UsersEstimate": 166167
     },
     {
       "ID": "ach028",
@@ -25654,7 +25659,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35354
+      "UsersEstimate": 35355
     },
     {
       "ID": "ach040",
@@ -25814,7 +25819,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35354
+      "UsersEstimate": 35355
     },
     {
       "ID": "ach060",
@@ -25989,7 +25994,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 353544,
+      "Progressed": 353546,
       "Completed": 7
     }
   ],
@@ -25997,8 +26002,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-21T22:02:57.2923438+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:06:26.4455601+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:05:23.5687727+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:23.8503027+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:02:57.0911257+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:06:26.44571+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:02:53.2832662+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:05:23.5689171+00:00"
 }

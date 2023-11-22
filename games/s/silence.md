@@ -24,9 +24,9 @@
 | Quite a buggy game | 21.00% | ~36 |
 | Pacifist | 19.00% | ~32 |
 | Mirror mirror on the wall... | 19.00% | ~32 |
+| It's not easy being green! | 18.00% | ~31 |
+| Home is where the heart is | 18.00% | ~31 |
 | Fastidious Clown | 17.00% | ~29 |
-| It's not easy being green! | 17.00% | ~29 |
-| Home is where the heart is | 17.00% | ~29 |
 | Death is a part of life | 13.00% | ~22 |
 | To err is human... | 12.00% | ~21 |
 | Master of Thermodynamics | 12.00% | ~21 |

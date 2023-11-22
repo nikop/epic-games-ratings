@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 1021,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2303,17 +2303,17 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_CAR_WASH_03",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 3",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_CAR_WASH_04",
@@ -2663,9 +2663,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 766
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -2695,9 +2695,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 664
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -2831,17 +2831,17 @@
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 4",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 214
     },
     {
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 5",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 184
     },
     {
       "ID": "GSS_ACH_61_POPULARITY_01",
@@ -2935,9 +2935,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 214
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -3032,8 +3032,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:06:24.6501703+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:05:22.3748165+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:01:46.7917804+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:06:24.6502479+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:00:16.3854456+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:05:22.3748988+00:00"
 }

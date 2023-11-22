@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15234,
+  "EOS_Progressed": 15237,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11887,6 +11887,11 @@
       "Time": "2023-11-22T14:04:17.3579097+00:00",
       "NumProgressed": 15234,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T16:04:31.409408+00:00",
+      "NumProgressed": 15237,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12089,9 +12094,9 @@
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 107
     },
     {
       "ID": "5",
@@ -12147,7 +12152,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "33",
@@ -12155,7 +12160,7 @@
       "Name": "Zen Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "34",
@@ -12178,13 +12183,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15234,
+      "Progressed": 15237,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1188,
+      "Progressed": 1191,
       "Completed": 677
     }
   ],
@@ -12192,8 +12197,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:05:14.9458052+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:04:31.4094077+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:02:00.9725441+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:05:14.9458669+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:00:25.5077923+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:04:31.4094862+00:00"
 }

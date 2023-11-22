@@ -11,8 +11,8 @@ Rating: 4.56 (Ranked 491)
 | Bosmang | 5.00% | ~762 |
 | Celebrations are in Order | 5.00% | ~762 |
 | Impossible Objects | 5.00% | ~762 |
-| Safe Cracker | 5.00% | ~59 |
-| Zen Master | 5.00% | ~59 |
+| Safe Cracker | 5.00% | ~60 |
+| Zen Master | 5.00% | ~60 |
 | Stogie for Fogey | 4.00% | ~609 |
 | Drug Gifter | 4.00% | ~609 |
 | Spore Taste | 4.00% | ~609 |
@@ -33,7 +33,7 @@ Rating: 4.56 (Ranked 491)
 | Data Master | 1.00% | ~152 |
 | Brother's Reaper | 0.80% | ~122 |
 | No Belter Left Behind | 0.80% | ~122 |
-| Debris Spree | 0.60% | ~91 |
+| Debris Spree | 0.70% | ~107 |
 | Data Recoverer | 0.60% | ~91 |
 | Urshanabi Hoarder | 0.40% | ~61 |
 | Data Miner | 0.20% | ~30 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,234 (Ranked 152)  
+Progressed: 15,237 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 35 (0.23%) (Ranked 246)
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
-| 2023-11-22 | 15,234 | 35 |
+| 2023-11-22 | 15,237 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

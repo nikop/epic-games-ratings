@@ -3,7 +3,7 @@
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
   "Ranking_Rating": 1001,
-  "Ranking_Popularity": 74,
+  "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 268,
@@ -7103,11 +7103,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27576,
       "NumberOfAwardsMax": 4837
+    },
+    {
+      "Time": "2023-11-22T16:02:58.6493384+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27578,
+      "NumberOfAwardsMax": 4839
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27576,
-  "NumberOfAwardsMax": 4837,
+  "NumberOfAwards": 27578,
+  "NumberOfAwardsMax": 4839,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7126,7 +7132,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4837
+      "Count": 4839
     },
     {
       "Text": "This game has Easy Combat",
@@ -7159,9 +7165,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140989,
+  "EOS_Progressed": 140992,
   "EOS_Completed": 192,
-  "EOS_NewPlayers": 1076,
+  "EOS_NewPlayers": 1074,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29434,6 +29440,11 @@
       "Time": "2023-11-22T15:07:47.7395045+00:00",
       "NumProgressed": 140989,
       "NumCompleted": 192
+    },
+    {
+      "Time": "2023-11-22T16:06:22.9101742+00:00",
+      "NumProgressed": 140992,
+      "NumCompleted": 192
     }
   ],
   "TotalAchievements": 112,
@@ -29613,7 +29624,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "chest02",
@@ -29677,7 +29688,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "commonres02",
@@ -30261,7 +30272,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "twinenchant01",
@@ -30340,15 +30351,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140989,
+      "Progressed": 140992,
       "Completed": 192
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-22T06:02:58.3526894+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:07:47.7395041+00:00",
+  "LastChanged": "2023-11-22T16:02:58.6493317+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:06:22.9101737+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:03:05.5140774+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:07:47.739686+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:02:58.6493388+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:06:22.9103718+00:00"
 }

@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 82.00% | ~54 |
-| Do a barrel roll! | 65.00% | ~43 |
-| Huh? What was that? | 52.00% | ~34 |
-| Whatever it is, fix it! | 33.00% | ~22 |
+| All systems go | 82.00% | ~55 |
+| Do a barrel roll! | 66.00% | ~44 |
+| Huh? What was that? | 52.00% | ~35 |
+| Whatever it is, fix it! | 34.00% | ~23 |
 | The opposite of good news | 27.00% | ~18 |
-| My Emperor... I've failed you! | 20.00% | ~13 |
+| My Emperor... I've failed you! | 19.00% | ~13 |
 | Priceless company | 15.00% | ~10 |
-| Enemy shield analyzed | 5.00% | ~3 |
+| Enemy shield analyzed | 4.00% | ~3 |
 | Piece of cake | 3.00% | ~2 |
 | I'm ready, anytime | 3.00% | ~2 |
 | No need to say goodbye | 3.00% | ~2 |
-| Better hurry up | 2.00% | ~1 |
-| I call her the BF-Worm | 2.00% | ~1 |
-| Axel? | 2.00% | ~1 |
-| You won't escape that easy!! | 2.00% | ~1 |
-| Actually it's called aileron roll | 2.00% | ~1 |
-| I have a bad feeling about this | 2.00% | ~1 |
-| Any other day at work | 2.00% | ~1 |
-| I've had enough! | 2.00% | ~1 |
-| I. Am. Bored | 2.00% | ~1 |
+| Better hurry up | 1.00% | ~1 |
+| I call her the BF-Worm | 1.00% | ~1 |
+| Axel? | 1.00% | ~1 |
+| You won't escape that easy!! | 1.00% | ~1 |
+| Actually it's called aileron roll | 1.00% | ~1 |
+| I have a bad feeling about this | 1.00% | ~1 |
+| Any other day at work | 1.00% | ~1 |
+| I've had enough! | 1.00% | ~1 |
+| I. Am. Bored | 1.00% | ~1 |
 | See you on the other side | 0.00% | ~0 |
 | Like it's nothing | 0.00% | ~0 |
 | We are the FUR Squadron! | 0.00% | ~0 |
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 466)  
+Progressed: 67 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-03 | 57 | 0 |
 | 2023-11-20 | 61 | 0 |
 | 2023-11-21 | 65 | 0 |
-| 2023-11-22 | 66 | 0 |
+| 2023-11-22 | 67 | 0 |

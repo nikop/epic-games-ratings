@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 651,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.38,
   "EosHistory": [
@@ -2755,6 +2755,11 @@
       "Time": "2023-11-22T14:05:55.1704662+00:00",
       "NumProgressed": 650,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T16:06:12.7485353+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2822,7 +2827,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2846,7 +2851,7 @@
       "Name": "For its own good",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2918,7 +2923,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "PROGRESS_N1",
@@ -2950,7 +2955,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "PROGRESS_N5",
@@ -2965,14 +2970,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:07:33.6876329+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:06:12.7485351+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:58:56.9917281+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:07:33.6876682+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:58:21.7072183+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:06:12.7485616+00:00"
 }

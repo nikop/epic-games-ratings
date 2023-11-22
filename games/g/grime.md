@@ -38,7 +38,7 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 0.50% | ~798 |
 | Passage | 0.50% | ~798 |
 | Bloodhunter | 0.40% | ~638 |
-| Zygote | 0.40% | ~636 |
+| Zygote | 0.40% | ~637 |
 | Proportions | 0.40% | ~638 |
 | Kinship | 0.30% | ~479 |
 | Kin | 0.30% | ~477 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,538 (Ranked 78)  
+Progressed: 159,547 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-19 | 159,185 | 1 |
 | 2023-11-20 | 159,313 | 1 |
 | 2023-11-21 | 159,459 | 1 |
-| 2023-11-22 | 159,538 | 1 |
+| 2023-11-22 | 159,547 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 423)  
 Sum: 378 (Ranked 346)  

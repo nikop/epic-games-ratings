@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57916,
+  "EOS_Progressed": 57917,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12911,6 +12911,11 @@
       "Time": "2023-11-22T15:03:43.2077172+00:00",
       "NumProgressed": 57916,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-22T16:03:24.1675934+00:00",
+      "NumProgressed": 57917,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13010,7 +13015,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5212
+      "UsersEstimate": 5213
     },
     {
       "ID": "FoolMeTwice",
@@ -13082,7 +13087,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "IsThisPossible",
@@ -13106,7 +13111,7 @@
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "LordOfHFZ",
@@ -13266,7 +13271,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "TotalBummer",
@@ -13274,7 +13279,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "TrulyEvil",
@@ -13313,7 +13318,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57916,
+      "Progressed": 57917,
       "Completed": 6
     }
   ],
@@ -13321,8 +13326,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:03:43.207717+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:03:24.167593+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.5926184+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:57:16.0361489+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:03:43.207799+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:57:14.1176881+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:03:24.1676874+00:00"
 }

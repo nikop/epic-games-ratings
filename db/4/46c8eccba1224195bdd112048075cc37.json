@@ -4,8 +4,8 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -764,6 +764,11 @@
       "Time": "2023-11-16T15:05:09.2650131+00:00",
       "NumProgressed": 162,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T16:03:41.256333+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -789,9 +794,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "CollectCurses",
@@ -799,7 +804,7 @@
       "Name": "Unlucky",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CollectGold",
@@ -831,7 +836,7 @@
       "Name": "First Blood",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "FirstBoss",
@@ -845,9 +850,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 116
     },
     {
       "ID": "FourthBoss",
@@ -871,7 +876,7 @@
       "Name": "Revolution",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Leprechaun",
@@ -885,9 +890,9 @@
       "ID": "MonsterSlayer",
       "SetID": "7g1kpc8",
       "Name": "Monster Slayer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "Persistence",
@@ -909,9 +914,9 @@
       "ID": "SecondBoss",
       "SetID": "7g1kpc8",
       "Name": "Spider",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "TenLevel",
@@ -927,21 +932,21 @@
       "Name": "Flower",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:04:06.893888+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:03:41.2563327+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.5148117+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:58:21.5593074+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:04:06.8939039+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:57:58.4291588+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:03:41.2563549+00:00"
 }

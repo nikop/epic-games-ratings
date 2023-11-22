@@ -1,26 +1,26 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 214)  
+Rating: 4.71 (Ranked 200)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,779 |
-| Finding Your Footing | 25.00% | ~11,832 |
-| Nomad | 17.00% | ~8,046 |
-| Picking Up Speed | 16.00% | ~7,573 |
-| Welcome Maya | 14.00% | ~6,626 |
-| Scout | 11.00% | ~5,206 |
-| Sightseer | 11.00% | ~5,206 |
-| Amateur | 10.00% | ~4,733 |
-| Unlock Maya | 8.00% | ~3,786 |
-| Wanderer | 8.00% | ~3,786 |
-| Enter Paz | 7.00% | ~3,313 |
+| Rookie | 27.00% | ~12,781 |
+| Finding Your Footing | 25.00% | ~11,834 |
+| Nomad | 17.00% | ~8,047 |
+| Picking Up Speed | 16.00% | ~7,574 |
+| Welcome Maya | 14.00% | ~6,627 |
+| Scout | 11.00% | ~5,207 |
+| Sightseer | 11.00% | ~5,207 |
+| Amateur | 10.00% | ~4,734 |
+| Unlock Maya | 8.00% | ~3,787 |
+| Wanderer | 8.00% | ~3,787 |
+| Enter Paz | 7.00% | ~3,314 |
 | Aviator | 6.00% | ~2,840 |
-| My Little Friend | 5.00% | ~2,366 |
-| One With The Board | 5.00% | ~2,366 |
-| Voyager | 5.00% | ~2,366 |
+| My Little Friend | 5.00% | ~2,367 |
+| One With The Board | 5.00% | ~2,367 |
+| Voyager | 5.00% | ~2,367 |
 | Izel Has Arrived | 4.00% | ~1,893 |
 | Junkie | 3.00% | ~1,420 |
 | Traveler | 3.00% | ~1,420 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~47 |
 | Windswept | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,329 (Ranked 113)  
+Progressed: 47,336 (Ranked 113)  
 Completed: 5 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 5 (0.01%) (Ranked 335)
 | 2023-11-19 | 47,040 | 5 |
 | 2023-11-20 | 47,146 | 5 |
 | 2023-11-21 | 47,253 | 5 |
-| 2023-11-22 | 47,329 | 5 |
+| 2023-11-22 | 47,336 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 439)  
 Sum: 372 (Ranked 348)  
@@ -394,3 +394,4 @@ Diff (max vs sum): 91
 | 2023-11-05 | 4.70 | - | 48 | 372 |
 | 2023-11-09 | 4.71 | - | 48 | 372 |
 | 2023-11-18 | 4.70 | - | 48 | 372 |
+| 2023-11-22 | 4.71 | - | 48 | 372 |

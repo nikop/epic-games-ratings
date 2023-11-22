@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 95.00% | ~101 |
-| Rehearsal | 94.00% | ~100 |
+| ECG | 96.00% | ~102 |
+| Rehearsal | 95.00% | ~101 |
 | Daily Life | 92.00% | ~98 |
-| Assembly Line Work | 89.00% | ~94 |
-| Solitude | 84.00% | ~89 |
-| Pinewood, Here we come! | 75.00% | ~80 |
-| The Van | 71.00% | ~75 |
-| Road-Trip | 63.00% | ~67 |
+| Assembly Line Work | 90.00% | ~95 |
+| Solitude | 85.00% | ~90 |
+| Pinewood, Here we come! | 76.00% | ~81 |
+| The Van | 72.00% | ~76 |
+| Road-Trip | 64.00% | ~68 |
 | A Musical Pause | 61.00% | ~65 |
 | Briget's | 53.00% | ~56 |
 | Sound of Noise | 49.00% | ~52 |
@@ -28,7 +28,7 @@
 | TV Dreams | 24.00% | ~25 |
 | Dreamers | 20.00% | ~21 |
 | Time | 18.00% | ~19 |
-| The Fix | 17.00% | ~18 |
+| The Fix | 18.00% | ~19 |
 | Bad Trip | 15.00% | ~16 |
 | Regrets | 15.00% | ~16 |
 | The Mountains, The Valleys | 15.00% | ~16 |

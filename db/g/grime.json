@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1525,9 +1525,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159538,
+  "EOS_Progressed": 159547,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1177,
+  "EOS_NewPlayers": 1182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16640,6 +16640,11 @@
       "Time": "2023-11-22T15:04:32.4588986+00:00",
       "NumProgressed": 159538,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T16:04:00.4577704+00:00",
+      "NumProgressed": 159547,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16691,7 +16696,7 @@
       "Name": "Zygote",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -17018,21 +17023,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159121,
+      "Progressed": 159130,
       "Completed": 1215
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159538,
+      "Progressed": 159547,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-22T01:49:37.5961448+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:04:32.4588984+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:04:00.45777+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:57:14.9086813+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:04:32.458994+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:57:13.2488078+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:04:00.4578777+00:00"
 }

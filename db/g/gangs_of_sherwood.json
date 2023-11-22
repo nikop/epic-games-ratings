@@ -4,8 +4,8 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -202,9 +202,9 @@
       "ID": "ACH_ENEMY_FIRE",
       "SetID": "5akmpni",
       "Name": "Tap Dancing",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
@@ -426,9 +426,9 @@
       "ID": "ACH_THROW_ENEMY",
       "SetID": "5akmpni",
       "Name": "Merry Go Round",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_ALL_GEARS",
@@ -480,8 +480,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:04:47.9822204+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:04:11.9054858+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.5358459+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:59:51.5664154+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:04:47.9822567+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:58:57.9218457+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:04:11.9055207+00:00"
 }

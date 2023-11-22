@@ -3,8 +3,8 @@
   "Name": "Valkyrie",
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:30:53.6807848+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:01:25.5349032+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:04:55.7924625+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:00:02.5942411+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:04:17.5554452+00:00"
 }

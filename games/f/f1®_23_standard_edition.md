@@ -6,19 +6,19 @@ Rating: 4.67 (Ranked 274)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting on the Step | 94.00% | ~5,507 |
-| On the Top Step | 88.00% | ~5,155 |
+| On the Top Step | 88.00% | ~5,156 |
 | Setting up for Success | 77.00% | ~4,511 |
 | Team Orders | 75.00% | ~4,394 |
 | Engineer | 55.00% | ~3,222 |
 | Familiar Faces | 48.00% | ~2,812 |
-| Sharing the Love | 42.00% | ~2,460 |
-| Going the Extra Mile | 42.00% | ~2,460 |
+| Sharing the Love | 42.00% | ~2,461 |
+| Going the Extra Mile | 42.00% | ~2,461 |
 | Hitting a Season | 38.00% | ~2,226 |
 | A Dozen Pieces | 33.00% | ~1,933 |
 | Challenge Yourself | 33.00% | ~1,933 |
 | Making History | 31.00% | ~1,816 |
 | Network Success | 27.00% | ~1,582 |
-| Writing a new Chapter | 25.00% | ~1,464 |
+| Writing a new Chapter | 25.00% | ~1,465 |
 | Spring Cleaning | 24.00% | ~1,406 |
 | Reduce | 20.00% | ~1,172 |
 | Ups and Downs | 20.00% | ~1,172 |
@@ -39,8 +39,8 @@ Rating: 4.67 (Ranked 274)
 | Tinkerer | 10.00% | ~586 |
 | Undisputed Winner | 9.00% | ~527 |
 | Smooth Operator | 7.00% | ~410 |
-| For all Those Back at the Factory | 6.00% | ~351 |
-| Living up to Expectations | 6.00% | ~351 |
+| For all Those Back at the Factory | 6.00% | ~352 |
+| Living up to Expectations | 6.00% | ~352 |
 | Peak Performance | 5.00% | ~293 |
 | Loyal Bond | 4.00% | ~234 |
 | Seasoned Rookie | 3.00% | ~176 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 274)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,858 (Ranked 186)  
+Progressed: 5,859 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-19 | 5,825 | 0 |
 | 2023-11-20 | 5,836 | 0 |
 | 2023-11-21 | 5,850 | 0 |
-| 2023-11-22 | 5,858 | 0 |
+| 2023-11-22 | 5,859 | 0 |
 ## Awards
 Max (Diverse Characters): 23  (Ranked 531)  
 Sum: 85 (Ranked 457)  

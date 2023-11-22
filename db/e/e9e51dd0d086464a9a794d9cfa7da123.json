@@ -4,8 +4,8 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -252,17 +252,17 @@
       "ID": "CK",
       "SetID": "2621k8c",
       "Name": "Conversation Killer",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CLC",
       "SetID": "2621k8c",
       "Name": "Cat-like constitution",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Cremation",
@@ -284,9 +284,9 @@
       "ID": "DLC",
       "SetID": "2621k8c",
       "Name": "Dog-like constitution",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DM",
@@ -300,17 +300,17 @@
       "ID": "DP",
       "SetID": "2621k8c",
       "Name": "Decision Paralysis",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DW",
       "SetID": "2621k8c",
       "Name": "Dim-witted",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Diamond",
@@ -332,9 +332,9 @@
       "ID": "EB",
       "SetID": "2621k8c",
       "Name": "Extremely boring",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EE",
@@ -356,9 +356,9 @@
       "ID": "Empathy",
       "SetID": "2621k8c",
       "Name": "Empathy",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Equal",
@@ -388,25 +388,25 @@
       "ID": "Flattery",
       "SetID": "2621k8c",
       "Name": "Flattery",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Foodie",
       "SetID": "2621k8c",
       "Name": "Foodie",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Frivolous",
       "SetID": "2621k8c",
       "Name": "Frivolous",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GE",
@@ -428,17 +428,17 @@
       "ID": "HAB",
       "SetID": "2621k8c",
       "Name": "Healthy and beautiful",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HBACAAD",
       "SetID": "2621k8c",
       "Name": "Having both a cat and a dog",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HE",
@@ -452,25 +452,25 @@
       "ID": "HH",
       "SetID": "2621k8c",
       "Name": "High Heels",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HT",
       "SetID": "2621k8c",
       "Name": "Home Theater",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Harsh",
       "SetID": "2621k8c",
       "Name": "Harsh",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Hedonist",
@@ -484,41 +484,41 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "IWM",
       "SetID": "2621k8c",
       "Name": "Infatuated with myself",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ignore",
       "SetID": "2621k8c",
       "Name": "Ignore",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Impetuous",
       "SetID": "2621k8c",
       "Name": "Impetuous",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Indifferent",
       "SetID": "2621k8c",
       "Name": "Indifferent",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "JE",
@@ -556,9 +556,9 @@
       "ID": "LP",
       "SetID": "2621k8c",
       "Name": "Lazy person",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LTW",
@@ -580,9 +580,9 @@
       "ID": "LYALBM",
       "SetID": "2621k8c",
       "Name": "Love you a little bit more",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LYWEAIR",
@@ -604,9 +604,9 @@
       "ID": "MB",
       "SetID": "2621k8c",
       "Name": "Movie Buff",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MC",
@@ -628,17 +628,17 @@
       "ID": "MTFNR",
       "SetID": "2621k8c",
       "Name": "Make trouble for no reason",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Mistress",
@@ -660,17 +660,17 @@
       "ID": "Otaku",
       "SetID": "2621k8c",
       "Name": "Otaku",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PL",
       "SetID": "2621k8c",
       "Name": "Perfect Lover",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PLMALBM",
@@ -692,25 +692,25 @@
       "ID": "PP",
       "SetID": "2621k8c",
       "Name": "Pet Phobia",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PWAP",
       "SetID": "2621k8c",
       "Name": "Physically weak and powerless.",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Perfunctory",
       "SetID": "2621k8c",
       "Name": "Perfunctory",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Phantasmagoria",
@@ -724,25 +724,25 @@
       "ID": "Poor",
       "SetID": "2621k8c",
       "Name": "Poor",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Rationality",
       "SetID": "2621k8c",
       "Name": "Rationality",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Regret",
@@ -764,9 +764,9 @@
       "ID": "SAITAB",
       "SetID": "2621k8c",
       "Name": "Scratching an itch through a boot",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SBNG",
@@ -780,9 +780,9 @@
       "ID": "SL",
       "SetID": "2621k8c",
       "Name": "Selfish Love",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SOC",
@@ -804,9 +804,9 @@
       "ID": "SelflessLove",
       "SetID": "2621k8c",
       "Name": "Selfless Love",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Sensitive",
@@ -852,17 +852,17 @@
       "ID": "Stingy",
       "SetID": "2621k8c",
       "Name": "Stingy",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Straightforward",
       "SetID": "2621k8c",
       "Name": "Straightforward",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "StrongLove",
@@ -876,33 +876,33 @@
       "ID": "Superficial",
       "SetID": "2621k8c",
       "Name": "Superficial",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TAAM",
       "SetID": "2621k8c",
       "Name": "Timid as a mouse",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THOASOK",
       "SetID": "2621k8c",
       "Name": "To have only a smattering of knowledge",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TMOL",
@@ -916,9 +916,9 @@
       "ID": "Takeout",
       "SetID": "2621k8c",
       "Name": "Takeout",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Thirsty",
@@ -940,9 +940,9 @@
       "ID": "Unfeeling",
       "SetID": "2621k8c",
       "Name": "Unfeeling",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Unreasonable",
@@ -964,17 +964,17 @@
       "ID": "VP",
       "SetID": "2621k8c",
       "Name": "Virtual Pet",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WHTEM",
       "SetID": "2621k8c",
       "Name": "Work hard to earn money",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "YM",
@@ -995,8 +995,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:10:18.3980711+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:09:45.0016171+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:45.6416395+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:57:57.8883088+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:10:18.3981457+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:57:42.7645796+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:09:45.0017019+00:00"
 }

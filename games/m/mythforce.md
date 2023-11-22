@@ -23,14 +23,14 @@ Number of Ratings: 285  (23.09.2022)
 | Flawless Victory | 6.00% | ~301 |
 | The Harder They Fall | 6.00% | ~301 |
 | On this Episode! | 6.00% | ~301 |
-| Deadication | 4.00% | ~200 |
-| Season Finale | 4.00% | ~200 |
+| Deadication | 4.00% | ~201 |
+| Season Finale | 4.00% | ~201 |
 | We've Got a Kaiju on the Field | 3.00% | ~150 |
 | The Fourth Gate | 2.00% | ~100 |
 | Vexed Her | 0.40% | ~20 |
 | Deadalus and Loving It | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,012 (Ranked 191)  
+Progressed: 5,013 (Ranked 191)  
 Completed: 3 (0.06%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 3 (0.06%) (Ranked 298)
 | 2023-11-19 | 4,963 | 3 |
 | 2023-11-20 | 4,982 | 3 |
 | 2023-11-21 | 5,004 | 3 |
-| 2023-11-22 | 5,012 | 3 |
+| 2023-11-22 | 5,013 | 3 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 471)  
 Sum: 286 (Ranked 370)  

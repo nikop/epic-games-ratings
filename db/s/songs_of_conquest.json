@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -933,6 +933,11 @@
       "Time": "2023-11-22T13:13:17.5901158+00:00",
       "NumProgressed": 179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T16:04:44.7372638+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -967,9 +972,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "AttackCount",
@@ -1273,7 +1278,7 @@
       "Name": "Adept",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "WielderLevel2",
@@ -1327,9 +1332,9 @@
       "ID": "WinSiegeAsAttacker",
       "SetID": "71c0n9i",
       "Name": "Veni, Vidi, Vici",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1376,15 +1381,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:05:33.2143823+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:04:44.7372634+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:59:56.2556921+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:05:33.2144149+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:59:00.9723952+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:04:44.7373057+00:00"
 }

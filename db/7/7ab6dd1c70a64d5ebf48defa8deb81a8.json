@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -866,9 +866,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_11",
@@ -1018,9 +1018,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_30",
@@ -1089,8 +1089,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:10:14.1949315+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:09:41.348173+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:02:42.5848767+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:10:14.1949538+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:02:42.8438819+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:09:41.3482004+00:00"
 }

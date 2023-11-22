@@ -6,7 +6,7 @@
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -4587,9 +4587,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 225683,
+  "EOS_Progressed": 225725,
   "EOS_Completed": 502,
-  "EOS_NewPlayers": 4508,
+  "EOS_NewPlayers": 4521,
   "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19357,6 +19357,11 @@
       "Time": "2023-11-22T15:09:06.4477349+00:00",
       "NumProgressed": 225683,
       "NumCompleted": 502
+    },
+    {
+      "Time": "2023-11-22T16:08:51.5677415+00:00",
+      "NumProgressed": 225725,
+      "NumCompleted": 502
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19447,9 +19452,9 @@
       "ID": "Defeat_Mantis",
       "SetID": "bkp3b1a",
       "Name": "The Killing Jar",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 451
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -19808,13 +19813,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 225683,
+      "Progressed": 225725,
       "Completed": 502
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 4848,
+      "Progressed": 4890,
       "Completed": 135
     }
   ],
@@ -19822,8 +19827,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-22T15:03:29.4821164+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:09:06.4477344+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:08:51.5677413+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:03:29.4821169+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:09:06.4478593+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:03:14.5927895+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:08:51.5678389+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114814,
+  "EOS_Progressed": 114817,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18769,6 +18769,11 @@
       "Time": "2023-11-22T15:09:35.1015361+00:00",
       "NumProgressed": 114814,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-22T16:09:12.784837+00:00",
+      "NumProgressed": 114817,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18788,7 +18793,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88407
+      "UsersEstimate": 88409
     },
     {
       "ID": "EAwards_10",
@@ -18812,7 +18817,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17222
+      "UsersEstimate": 17223
     },
     {
       "ID": "EAwards_13",
@@ -18836,7 +18841,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11481
+      "UsersEstimate": 11482
     },
     {
       "ID": "EAwards_16",
@@ -18852,7 +18857,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42481
+      "UsersEstimate": 42482
     },
     {
       "ID": "EAwards_18",
@@ -18860,7 +18865,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10333
+      "UsersEstimate": 10334
     },
     {
       "ID": "EAwards_19",
@@ -18876,7 +18881,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55111
+      "UsersEstimate": 55112
     },
     {
       "ID": "EAwards_20",
@@ -18940,7 +18945,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11481
+      "UsersEstimate": 11482
     },
     {
       "ID": "EAwards_28",
@@ -18948,7 +18953,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "EAwards_29",
@@ -18956,7 +18961,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "EAwards_3",
@@ -18980,7 +18985,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11481
+      "UsersEstimate": 11482
     },
     {
       "ID": "EAwards_32",
@@ -19132,7 +19137,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11481
+      "UsersEstimate": 11482
     },
     {
       "ID": "EAwards_6",
@@ -19140,7 +19145,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10333
+      "UsersEstimate": 10334
     },
     {
       "ID": "EAwards_7",
@@ -19171,7 +19176,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114814,
+      "Progressed": 114817,
       "Completed": 50
     }
   ],
@@ -19179,8 +19184,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:09:35.1015355+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:09:12.7848367+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:57:34.9538502+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:09:35.1016295+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:57:27.4026001+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:09:12.7849475+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 27.00% | ~48 |
+| Adept | 27.00% | ~49 |
 | Double Kill | 20.00% | ~36 |
 | Critical Hit | 9.00% | ~16 |
 | Veteran | 8.00% | ~14 |
-| Dressed For Success | 5.00% | ~9 |
+| Dressed For Success | 6.00% | ~11 |
 | Humiliation | 5.00% | ~9 |
 | Sorcerous Spree | 4.00% | ~7 |
+| Veni, Vidi, Vici | 3.00% | ~5 |
 | Multi Kill | 2.00% | ~4 |
 | Whoops! | 2.00% | ~4 |
 | Such A Fungi | 2.00% | ~4 |
 | Master | 2.00% | ~4 |
 | Expert Essence Employment | 2.00% | ~4 |
-| Veni, Vidi, Vici | 2.00% | ~4 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~4 |
 | Coming Through! | 1.00% | ~2 |
 | Deepstrike | 1.00% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179 (Ranked 390)  
+Progressed: 180 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-19 | 146 | 0 |
 | 2023-11-20 | 161 | 0 |
 | 2023-11-21 | 175 | 0 |
-| 2023-11-22 | 179 | 0 |
+| 2023-11-22 | 180 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 509)  
 Sum: 194 (Ranked 403)  

@@ -2,10 +2,10 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -837,8 +837,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-22T15:08:49.8417227+00:00",
+  "LastChanged_Achievements": "2023-11-22T16:08:39.3974372+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:10.5963519+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:00:22.3204441+00:00",
-  "LastUpdate_Achievements": "2023-11-22T15:08:49.8417611+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:59:18.4702193+00:00",
+  "LastUpdate_Achievements": "2023-11-22T16:08:39.3974732+00:00"
 }

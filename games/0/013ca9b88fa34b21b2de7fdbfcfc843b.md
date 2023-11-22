@@ -5,15 +5,15 @@ Rating: 4.60 (Ranked 414)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,785 |
+| Azoria Beckons | 73.00% | ~5,786 |
 | A Thorny Situation | 71.00% | ~5,627 |
-| ... And Spit Back Out | 61.00% | ~4,834 |
-| Break-Net Speed | 49.00% | ~3,883 |
+| ... And Spit Back Out | 61.00% | ~4,835 |
+| Break-Net Speed | 49.00% | ~3,884 |
 | Bramble Breaker | 47.00% | ~3,725 |
 | Miner 49er | 43.00% | ~3,408 |
 | Humble Collector | 43.00% | ~3,408 |
-| Calm Sailing | 37.00% | ~2,932 |
-| Open the Gate! | 34.00% | ~2,694 |
+| Calm Sailing | 37.00% | ~2,933 |
+| Open the Gate! | 34.00% | ~2,695 |
 | Mist Walker | 32.00% | ~2,536 |
 | Lumberjack | 27.00% | ~2,140 |
 | Oui, Chef! | 23.00% | ~1,823 |
@@ -34,14 +34,14 @@ Rating: 4.60 (Ranked 414)
 | Chatty Neighbor | 4.00% | ~317 |
 | Right Tool For the Job | 4.00% | ~317 |
 | House Proud | 4.00% | ~317 |
-| Captain of Cozy | 2.00% | ~158 |
+| Captain of Cozy | 2.00% | ~159 |
 | Angling Authority | 1.00% | ~79 |
 | Cloverfield Island | 0.20% | ~16 |
 | Giving the People What They Want | 0.20% | ~16 |
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,925 (Ranked 174)  
+Progressed: 7,926 (Ranked 174)  
 Completed: 1 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 1 (0.01%) (Ranked 335)
 | 2023-11-19 | 7,876 | 1 |
 | 2023-11-20 | 7,894 | 1 |
 | 2023-11-21 | 7,915 | 1 |
-| 2023-11-22 | 7,925 | 1 |
+| 2023-11-22 | 7,926 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

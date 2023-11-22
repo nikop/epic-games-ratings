@@ -39,7 +39,7 @@ Rating: 4.64 (Ranked 333)
 | Final Regeneration | 25.00% | ~481 |
 | Full Contact | 25.00% | ~481 |
 | Full Clearance | 24.00% | ~462 |
-| Pusher | 22.00% | ~423 |
+| Pusher | 23.00% | ~443 |
 | Z-Baller | 22.00% | ~423 |
 | Marked | 21.00% | ~404 |
 | Eviscerator | 19.00% | ~366 |

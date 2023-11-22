@@ -1,28 +1,28 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 126)  
+Rating: 4.76 (Ranked 127)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,421 |
-| First Class Student | 15.00% | ~45,395 |
-| Troll with the Punches | 14.00% | ~42,368 |
-| A Keen Sense of Spell | 13.00% | ~39,342 |
-| That's a Keeper | 13.00% | ~39,342 |
-| Loom for Improvement | 12.00% | ~36,316 |
-| A Talent for Spending | 12.00% | ~36,316 |
-| Grappling with a Graphorn | 11.00% | ~33,290 |
-| The One Who Mastered Memories | 11.00% | ~33,290 |
-| The Hallowed Hero | 11.00% | ~33,290 |
-| The Hero of Hogwarts | 11.00% | ~33,290 |
-| The Defender of Dragons | 11.00% | ~33,290 |
-| Challenge Accepted | 11.00% | ~33,290 |
-| Coasting Along | 11.00% | ~33,290 |
-| Followed the Butterflies | 10.00% | ~30,263 |
-| Rising From the Ashes | 10.00% | ~30,263 |
-| A Sallow Grave | 9.00% | ~27,237 |
-| The Spell Master | 9.00% | ~27,237 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,423 |
+| First Class Student | 15.00% | ~45,396 |
+| Troll with the Punches | 14.00% | ~42,370 |
+| A Keen Sense of Spell | 13.00% | ~39,343 |
+| That's a Keeper | 13.00% | ~39,343 |
+| Loom for Improvement | 12.00% | ~36,317 |
+| A Talent for Spending | 12.00% | ~36,317 |
+| Grappling with a Graphorn | 11.00% | ~33,291 |
+| The One Who Mastered Memories | 11.00% | ~33,291 |
+| The Hallowed Hero | 11.00% | ~33,291 |
+| The Hero of Hogwarts | 11.00% | ~33,291 |
+| The Defender of Dragons | 11.00% | ~33,291 |
+| Challenge Accepted | 11.00% | ~33,291 |
+| Coasting Along | 11.00% | ~33,291 |
+| Followed the Butterflies | 10.00% | ~30,264 |
+| Rising From the Ashes | 10.00% | ~30,264 |
+| A Sallow Grave | 9.00% | ~27,238 |
+| The Spell Master | 9.00% | ~27,238 |
 | The Avenging Gazelle | 8.00% | ~24,211 |
 | Beast Friends | 8.00% | ~24,211 |
 | Flight the Good Flight | 8.00% | ~24,211 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 126)
 | The Toast of the Town | 5.00% | ~15,132 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,132 |
 | The Ends Petrify the Means | 5.00% | ~15,132 |
-| Going Through the Potions | 4.00% | ~12,105 |
-| Room with a View | 4.00% | ~12,105 |
-| The Intrepid Explorer | 4.00% | ~12,105 |
-| The Wise Owl | 4.00% | ~12,105 |
+| Going Through the Potions | 4.00% | ~12,106 |
+| Room with a View | 4.00% | ~12,106 |
+| The Intrepid Explorer | 4.00% | ~12,106 |
+| The Wise Owl | 4.00% | ~12,106 |
 | Put Down Roots | 3.00% | ~9,079 |
 | The Auror's Apprentice | 3.00% | ~9,079 |
 | Floo Around the World | 3.00% | ~9,079 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,118 |
 | Collector's Edition | 0.30% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,632 (Ranked 54)  
+Progressed: 302,641 (Ranked 54)  
 Completed: 513 (0.17%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 513 (0.17%) (Ranked 262)
 | 2023-11-19 | 302,449 | 512 |
 | 2023-11-20 | 302,491 | 513 |
 | 2023-11-21 | 302,563 | 513 |
-| 2023-11-22 | 302,632 | 513 |
+| 2023-11-22 | 302,641 | 513 |
 ## Awards
 Max (Character Customization): 24,536  (Ranked 17)  
 Sum: 48,832 (Ranked 30)  
