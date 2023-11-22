@@ -2,12 +2,12 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 637,
+  "Ranking_Rating": 638,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531782,
+  "EOS_Progressed": 531783,
   "EOS_Completed": 501,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -23412,6 +23412,11 @@
       "Time": "2023-11-22T05:04:47.3488511+00:00",
       "NumProgressed": 531782,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-11-22T06:04:50.6122176+00:00",
+      "NumProgressed": 531783,
+      "NumCompleted": 501
     }
   ],
   "TotalAchievements": 57,
@@ -23439,7 +23444,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372247
+      "UsersEstimate": 372248
     },
     {
       "ID": "12",
@@ -23647,7 +23652,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 265891
+      "UsersEstimate": 265892
     },
     {
       "ID": "36",
@@ -23759,7 +23764,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106356
+      "UsersEstimate": 106357
     },
     {
       "ID": "49",
@@ -23783,7 +23788,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74449
+      "UsersEstimate": 74450
     },
     {
       "ID": "51",
@@ -23878,15 +23883,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531782,
+      "Progressed": 531783,
       "Completed": 501
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-22T05:04:47.3488508+00:00",
+  "LastChanged_Achievements": "2023-11-22T06:04:50.612217+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.3890508+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:02:59.0559242+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:04:47.3490062+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:02:59.9565325+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:04:50.6123375+00:00"
 }

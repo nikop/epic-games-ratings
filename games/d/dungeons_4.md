@@ -12,17 +12,17 @@
 | The Plains of Strothalm | 73.00% | ~239 |
 | Experienced Thalya | 70.00% | ~230 |
 | Thalya's Concentrated Fury | 67.00% | ~220 |
+| Master of Magic | 66.00% | ~216 |
 | Bad Elves Go Everywhere | 66.00% | ~216 |
-| Master of Magic | 65.00% | ~213 |
 | Heroes’ Gorge | 61.00% | ~200 |
 | Magic Accidents | 59.00% | ~194 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~194 |
 | Minions, Minions! | 58.00% | ~190 |
-| Trap Master | 53.00% | ~174 |
+| Trap Master | 54.00% | ~177 |
 | The Ascent | 51.00% | ~167 |
 | It's Warm and Cozy at Home | 51.00% | ~167 |
+| Hard Work | 46.00% | ~151 |
 | YOU SHALL NOT PASS! | 45.00% | ~148 |
-| Hard Work | 45.00% | ~148 |
 | The Big Eaty | 45.00% | ~148 |
 | Pure Dynamite! | 42.00% | ~138 |
 | “… like son” | 39.00% | ~128 |
@@ -51,9 +51,9 @@
 | Raiders of the Lost Stone | 11.00% | ~36 |
 | My Little Torture Chamber | 10.00% | ~33 |
 | Lavalumps on Ice! | 9.00% | ~30 |
+| Rubble and Ashes | 9.00% | ~30 |
 | The Rune Sockets of Finitude (Part 2) | 9.00% | ~30 |
 | Untouchable | 8.00% | ~26 |
-| Rubble and Ashes | 8.00% | ~26 |
 | To Infinity And Beyond! | 8.00% | ~26 |
 | Mirror, Mirror | 7.00% | ~23 |
 | To the Max! | 7.00% | ~23 |

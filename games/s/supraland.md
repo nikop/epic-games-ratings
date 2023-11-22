@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~726,246 |
-| The Blues | 85.00% | ~623,545 |
-| Fast | 66.00% | ~484,164 |
-| Healthbar | 55.00% | ~403,470 |
-| Force Cube | 53.00% | ~388,798 |
-| Double Jump | 48.00% | ~352,119 |
+| Out of bed | 99.00% | ~726,247 |
+| The Blues | 85.00% | ~623,546 |
+| Fast | 66.00% | ~484,165 |
+| Healthbar | 55.00% | ~403,471 |
+| Force Cube | 53.00% | ~388,799 |
+| Double Jump | 48.00% | ~352,120 |
 | Regeneration | 47.00% | ~344,784 |
-| Triple Jump | 43.00% | ~315,440 |
-| Climb the hill | 42.00% | ~308,104 |
+| Triple Jump | 43.00% | ~315,441 |
+| Climb the hill | 42.00% | ~308,105 |
 | Through the fire pipe | 39.00% | ~286,097 |
-| MacGuffin | 38.00% | ~278,761 |
-| Just once | 37.00% | ~271,425 |
+| MacGuffin | 38.00% | ~278,762 |
+| Just once | 37.00% | ~271,426 |
 | Armor | 30.00% | ~220,075 |
 | True holy spirit | 28.00% | ~205,403 |
 | That's how electronics work obviously | 27.00% | ~198,067 |
@@ -31,7 +31,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Buckle | 17.00% | ~124,709 |
 | Rattle Hag | 16.00% | ~117,373 |
 | All Shells | 15.00% | ~110,037 |
-| Beam | 14.00% | ~102,701 |
+| Beam | 14.00% | ~102,702 |
 | Health Drink | 13.00% | ~95,366 |
 | Helped a star | 13.00% | ~95,366 |
 | 9 | 13.00% | ~95,366 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~734 |
 | DLC: Top of the world | 0.10% | ~734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,582 (Ranked 19)  
+Progressed: 733,583 (Ranked 19)  
 Completed: 762 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 762 (0.10%) (Ranked 279)
 | 2023-11-19 | 733,388 | 762 |
 | 2023-11-20 | 733,475 | 762 |
 | 2023-11-21 | 733,566 | 762 |
-| 2023-11-22 | 733,582 | 762 |
+| 2023-11-22 | 733,583 | 762 |
 ## Awards
 Max (Challenging Puzzles): 7,732  (Ranked 48)  
 Sum: 10,085 (Ranked 91)  

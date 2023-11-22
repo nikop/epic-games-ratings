@@ -2,7 +2,7 @@
   "ID": "5e33d47a65444d1b9de9bd2734d781a2",
   "Name": "Skirmish",
   "ProductSlug": "skirmish-8d47f1",
-  "Ranking_EOS_Progress": 754,
+  "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 119,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-19T11:57:10.42926+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:58:35.4532221+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:04:15.3897313+00:00"
+  "LastUpdate_Ratings": "2023-11-22T05:58:28.7779872+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:04:18.3820589+00:00"
 }

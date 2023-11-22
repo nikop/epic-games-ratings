@@ -2,7 +2,7 @@
   "ID": "05cd7449db434e1088b1c72b74849da7",
   "Name": "Air Missions: HIND",
   "ProductSlug": "air-missions-hind",
-  "Ranking_EOS_Progress": 754,
+  "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 119,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:09.3933638+00:00",
   "LastChanged": "2023-03-31T05:58:09.3933639+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:08.5235379+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:59:07.7008339+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:06:14.9939837+00:00"
+  "LastUpdate_Ratings": "2023-11-22T05:59:01.0112579+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:06:18.3617988+00:00"
 }

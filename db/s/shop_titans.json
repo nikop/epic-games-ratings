@@ -7097,10 +7097,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27575,
       "NumberOfAwardsMax": 4837
+    },
+    {
+      "Time": "2023-11-22T06:02:58.3526896+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27576,
+      "NumberOfAwardsMax": 4837
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27575,
+  "NumberOfAwards": 27576,
   "NumberOfAwardsMax": 4837,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7132,7 +7138,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4030
+      "Count": 4031
     },
     {
       "Text": "This game is Relaxing",
@@ -7153,9 +7159,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140911,
+  "EOS_Progressed": 140920,
   "EOS_Completed": 191,
-  "EOS_NewPlayers": 1054,
+  "EOS_NewPlayers": 1059,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29378,6 +29384,11 @@
       "Time": "2023-11-22T05:06:03.8781137+00:00",
       "NumProgressed": 140911,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-11-22T06:06:07.1112055+00:00",
+      "NumProgressed": 140920,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 112,
@@ -29469,7 +29480,7 @@
       "Name": "One Easy Payment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "bigsale02",
@@ -29493,7 +29504,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "blueprint02",
@@ -29653,7 +29664,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "craft02",
@@ -29741,7 +29752,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "energy02",
@@ -29765,15 +29776,15 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "expansion02",
       "SetID": "anfd17p",
       "Name": "Expansion in Session",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1409
     },
     {
       "ID": "expansion03",
@@ -29861,7 +29872,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5637
     },
     {
       "ID": "gold02",
@@ -29949,7 +29960,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "jackslot03",
@@ -29973,7 +29984,7 @@
       "Name": "Budding Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "level02",
@@ -30165,7 +30176,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "sell02",
@@ -30253,7 +30264,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "workers02",
@@ -30284,15 +30295,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140911,
+      "Progressed": 140920,
       "Completed": 191
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-22T04:02:46.5911123+00:00",
-  "LastChanged_Achievements": "2023-11-22T05:06:03.8781135+00:00",
+  "LastChanged": "2023-11-22T06:02:58.3526894+00:00",
+  "LastChanged_Achievements": "2023-11-22T06:06:07.1112051+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:02:57.4728792+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:06:03.8783196+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:02:58.3526901+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:06:07.1113881+00:00"
 }

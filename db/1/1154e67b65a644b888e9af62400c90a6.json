@@ -2,10 +2,10 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 637,
+  "Ranking_Rating": 624,
   "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 248,
-  "Ranking_EOS_Progress": 754,
+  "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 119,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-10-26T20:01:30.909406+00:00",
@@ -839,10 +839,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 1146,
       "NumberOfAwardsMax": 510
+    },
+    {
+      "Time": "2023-11-22T06:00:07.7309798+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 1152,
+      "NumberOfAwardsMax": 510
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1146,
+  "NumberOfAwards": 1152,
   "NumberOfAwardsMax": 510,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -862,7 +868,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 88
+      "Count": 94
     },
     {
       "Text": "This game has Playful Visuals",
@@ -931,8 +937,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-21T21:00:34.2315071+00:00",
+  "LastChanged": "2023-11-22T06:00:07.7309796+00:00",
   "LastUpdate_AppInfo": "2023-11-21T19:56:56.3514409+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:00:15.4348402+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:04:36.1616427+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:00:07.7309802+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:04:39.0524446+00:00"
 }

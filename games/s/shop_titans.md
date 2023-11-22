@@ -9,15 +9,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 5.00% | ~7,046 |
 | Basic in Bulk | 5.00% | ~7,046 |
 | Titan's First Steps | 5.00% | ~7,046 |
-| Tinkle of Coins | 4.00% | ~5,636 |
-| One Easy Payment | 3.00% | ~4,227 |
-| Some Assembly Required | 3.00% | ~4,227 |
-| Disintermediation | 3.00% | ~4,227 |
-| Another Satisfied Customer | 3.00% | ~4,227 |
-| It's Free Real Estate | 3.00% | ~4,227 |
-| Budding Merchant | 3.00% | ~4,227 |
-| Capitalism Ho! | 3.00% | ~4,227 |
-| Own the Means of Production | 3.00% | ~4,227 |
+| Tinkle of Coins | 4.00% | ~5,637 |
+| One Easy Payment | 3.00% | ~4,228 |
+| Some Assembly Required | 3.00% | ~4,228 |
+| Disintermediation | 3.00% | ~4,228 |
+| Another Satisfied Customer | 3.00% | ~4,228 |
+| It's Free Real Estate | 3.00% | ~4,228 |
+| Budding Merchant | 3.00% | ~4,228 |
+| Capitalism Ho! | 3.00% | ~4,228 |
+| Own the Means of Production | 3.00% | ~4,228 |
 | The Daily Grind | 2.00% | ~2,818 |
 | Bounty Hunters | 2.00% | ~2,818 |
 | Demand for Supplies | 2.00% | ~2,818 |
@@ -39,6 +39,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 1.00% | ~1,409 |
 | Scrapbooker | 1.00% | ~1,409 |
 | Power of Love | 1.00% | ~1,409 |
+| Expansion in Session | 1.00% | ~1,409 |
 | Efficient Floor Space | 1.00% | ~1,409 |
 | Flawless Fusion | 1.00% | ~1,409 |
 | Trash to Treasure | 1.00% | ~1,409 |
@@ -62,7 +63,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.90% | ~1,268 |
 | Master of Transmutation | 0.90% | ~1,268 |
 | Hidden Potential | 0.90% | ~1,268 |
-| Expansion in Session | 0.90% | ~1,268 |
 | Cranked up to 11 | 0.90% | ~1,268 |
 | Mammonite | 0.90% | ~1,268 |
 | Fat Cat Tag Team | 0.90% | ~1,268 |
@@ -100,7 +100,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.70% | ~986 |
 | A Legend is Born | 0.70% | ~986 |
 | Economy of Scarce | 0.70% | ~986 |
-| Jackpot! | 0.60% | ~845 |
+| Jackpot! | 0.60% | ~846 |
 | The Free Encyclopedia | 0.50% | ~705 |
 | Thank You Tom Nook | 0.50% | ~705 |
 | Eternal Crusade | 0.50% | ~705 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,911 (Ranked 80)  
+Progressed: 140,920 (Ranked 80)  
 Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,16 +335,16 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,911 | 191 |
+| 2023-11-22 | 140,920 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
-Sum: 27,575 (Ranked 50)  
+Sum: 27,576 (Ranked 50)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,837 |
 | This game is Relaxing | 4,044 |
-| This game has Quickly Understood Controls | 4,030 |
+| This game has Quickly Understood Controls | 4,031 |
 | This game has Diverse Characters | 3,947 |
 | This game is Highly Recommended | 3,783 |
 | This game has Easy Combat | 3,727 |
@@ -649,4 +649,4 @@ Diff (max vs sum): 24
 | 2023-11-19 | 3.99 | - | 4,834 | 27,568 |
 | 2023-11-20 | 3.99 | - | 4,836 | 27,570 |
 | 2023-11-21 | 3.99 | - | 4,837 | 27,572 |
-| 2023-11-22 | 3.99 | - | 4,837 | 27,575 |
+| 2023-11-22 | 3.99 | - | 4,837 | 27,576 |

@@ -1,20 +1,20 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.47 (Ranked 637)  
+Rating: 4.47 (Ranked 638)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,296 |
-| One HIT wonder | 36.00% | ~471 |
+| Atom Agent | 99.00% | ~1,297 |
+| One HIT wonder | 36.00% | ~472 |
 | Wanderer | 35.00% | ~458 |
 | One shot, one kill | 28.00% | ~367 |
-| Traveler | 26.00% | ~340 |
+| Traveler | 26.00% | ~341 |
 | Grave Robber | 19.00% | ~249 |
 | Head Burst | 19.00% | ~249 |
 | Explorer | 18.00% | ~236 |
-| Paranoia | 16.00% | ~209 |
+| Paranoia | 16.00% | ~210 |
 | Double agent | 15.00% | ~196 |
 | Kraina Grzybow | 10.00% | ~131 |
 | Savant | 10.00% | ~131 |
@@ -23,8 +23,8 @@ Number of Ratings: 54  (23.09.2022)
 | Not-so-private Eye | 8.00% | ~105 |
 | Superhuman | 8.00% | ~105 |
 | The Vitinsky Rifle | 7.00% | ~92 |
-| Protection racket | 5.00% | ~65 |
-| Secret room | 5.00% | ~65 |
+| Protection racket | 5.00% | ~66 |
+| Secret room | 5.00% | ~66 |
 | Indy | 4.00% | ~52 |
 | Sacrifice | 4.00% | ~52 |
 | Wishmaster | 3.00% | ~39 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~1 |
 | Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,309 (Ranked 244)  
+Progressed: 1,310 (Ranked 244)  
 Completed: 1 (0.08%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 1 (0.08%) (Ranked 292)
 | 2023-11-19 | 1,306 | 1 |
 | 2023-11-20 | 1,307 | 1 |
 | 2023-11-21 | 1,309 | 1 |
+| 2023-11-22 | 1,310 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 427)  
 Sum: 52 (Ranked 479)  

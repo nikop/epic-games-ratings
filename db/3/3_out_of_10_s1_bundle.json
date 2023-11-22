@@ -1,7 +1,7 @@
 {
   "ID": "ad2a1760f21a4df6aa597fc4b58ac719",
   "Name": "3 out of 10 S1 Bundle",
-  "Ranking_EOS_Progress": 754,
+  "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 119,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:36.5795484+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:59:35.3202474+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:08:58.9846406+00:00"
+  "LastUpdate_Ratings": "2023-11-22T05:59:28.4584076+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:08:50.152375+00:00"
 }

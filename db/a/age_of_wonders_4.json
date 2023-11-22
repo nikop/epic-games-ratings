@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7501,9 +7501,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "4",
@@ -7740,8 +7740,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-19T15:00:16.4075391+00:00",
-  "LastChanged_Achievements": "2023-11-22T05:04:12.2415158+00:00",
+  "LastChanged_Achievements": "2023-11-22T06:04:15.4727325+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:02:55.3949019+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:04:12.2415968+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:02:56.2730303+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:04:15.4727927+00:00"
 }

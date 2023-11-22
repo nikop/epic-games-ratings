@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4118,
+  "EOS_Progressed": 4119,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -10199,6 +10199,11 @@
       "Time": "2023-11-22T04:05:10.1782311+00:00",
       "NumProgressed": 4118,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-22T06:04:49.3960495+00:00",
+      "NumProgressed": 4119,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 16,
@@ -10242,7 +10247,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "ach_architecture_completed",
@@ -10298,7 +10303,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "ach_game_opened",
@@ -10306,7 +10311,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "ach_magic_wand",
@@ -10314,7 +10319,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ach_no_boosters",
@@ -10337,14 +10342,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4118,
+      "Progressed": 4119,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-22T05:04:46.1190809+00:00",
+  "LastChanged_Achievements": "2023-11-22T06:04:49.3960474+00:00",
   "LastUpdate_AppInfo": "2023-11-17T20:57:02.4156411+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:59:44.8101418+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:04:46.1191428+00:00"
+  "LastUpdate_Ratings": "2023-11-22T05:59:37.6784601+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:04:49.3961158+00:00"
 }

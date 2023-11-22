@@ -1525,9 +1525,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159496,
+  "EOS_Progressed": 159504,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1192,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16590,6 +16590,11 @@
       "Time": "2023-11-22T05:03:47.7784091+00:00",
       "NumProgressed": 159496,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T06:03:50.8677247+00:00",
+      "NumProgressed": 159504,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16601,7 +16606,7 @@
       "Name": "Spiral Heart",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACQUIRE_ALLHUNTPOINTS",
@@ -16617,7 +16622,7 @@
       "Name": "Skinmaker",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -16625,7 +16630,7 @@
       "Name": "Assimilation",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -16633,7 +16638,7 @@
       "Name": "Instruments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -16657,7 +16662,7 @@
       "Name": "Breath",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -16681,7 +16686,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -16761,7 +16766,7 @@
       "Name": "Celebration",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -16769,7 +16774,7 @@
       "Name": "Inevitable",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -16809,7 +16814,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -16833,7 +16838,7 @@
       "Name": "Kinship",
       "Percentage": 0.3,
       "XP": 60,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -16881,7 +16886,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -16889,7 +16894,7 @@
       "Name": "Passage",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "QUEST_CHILD",
@@ -16897,7 +16902,7 @@
       "Name": "Dream",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "QUEST_CODA",
@@ -16968,21 +16973,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159079,
+      "Progressed": 159087,
       "Completed": 1214
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159496,
+      "Progressed": 159504,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-22T01:49:37.5961448+00:00",
-  "LastChanged_Achievements": "2023-11-22T05:03:47.7784087+00:00",
+  "LastChanged_Achievements": "2023-11-22T06:03:50.8677246+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:00:25.1305513+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:03:47.7784971+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:00:17.6740322+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:03:50.8678007+00:00"
 }

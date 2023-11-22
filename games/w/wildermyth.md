@@ -40,6 +40,7 @@ Number of Ratings: 45  (23.09.2022)
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
+| Astrology | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
 | Worldwalker | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
@@ -49,7 +50,6 @@ Number of Ratings: 45  (23.09.2022)
 | War-Ender | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |
 | Some Say I'm Too Flashy | 0.10% | ~1 |
-| Astrology | 0.10% | ~1 |
 | Tempest | 0.10% | ~1 |
 | Lochias's Hunger | 0.10% | ~1 |
 | Overwhelming Monstrosity | 0.00% | ~0 |

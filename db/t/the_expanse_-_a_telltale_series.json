@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15216,
+  "EOS_Progressed": 15218,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11847,6 +11847,11 @@
       "Time": "2023-11-22T05:04:17.5698467+00:00",
       "NumProgressed": 15216,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T06:04:20.6281681+00:00",
+      "NumProgressed": 15218,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11883,7 +11888,7 @@
       "Name": "Data Archivist",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "13",
@@ -11891,7 +11896,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "14",
@@ -11979,7 +11984,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "24",
@@ -11995,7 +12000,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "26",
@@ -12107,7 +12112,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "33",
@@ -12115,7 +12120,7 @@
       "Name": "Zen Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "34",
@@ -12138,13 +12143,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15216,
+      "Progressed": 15218,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1170,
+      "Progressed": 1172,
       "Completed": 674
     }
   ],
@@ -12152,8 +12157,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-22T05:04:17.5698462+00:00",
+  "LastChanged_Achievements": "2023-11-22T06:04:20.6281679+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-22T05:00:14.8165371+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:04:17.569927+00:00"
+  "LastUpdate_Ratings": "2023-11-22T06:00:07.0936652+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:04:20.6282297+00:00"
 }

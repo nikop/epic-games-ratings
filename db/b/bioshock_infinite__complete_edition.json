@@ -4,8 +4,8 @@
   "ProductSlug": "bioshock-infinite-complete-edition",
   "Ranking_Rating": 213,
   "Ranking_Popularity": 79,
-  "Ranking_PopularitySum": 131,
-  "Ranking_EOS_Progress": 754,
+  "Ranking_PopularitySum": 132,
+  "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 119,
@@ -2365,10 +2365,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 5661,
       "NumberOfAwardsMax": 4607
+    },
+    {
+      "Time": "2023-11-22T05:58:01.611335+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5543,
+      "NumberOfAwardsMax": 4607
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5661,
+  "NumberOfAwards": 5543,
   "NumberOfAwardsMax": 4607,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2462,8 +2468,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
-  "LastChanged": "2023-11-20T04:02:41.070627+00:00",
+  "LastChanged": "2023-11-22T05:58:01.6113348+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:32.2165401+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:58:08.7154676+00:00",
-  "LastUpdate_Achievements": "2023-11-22T05:05:48.4912513+00:00"
+  "LastUpdate_Ratings": "2023-11-22T05:58:01.6113356+00:00",
+  "LastUpdate_Achievements": "2023-11-22T06:05:51.3238329+00:00"
 }
