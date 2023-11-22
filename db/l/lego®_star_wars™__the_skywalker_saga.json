@@ -4,7 +4,7 @@
   "ProductSlug": "lego-star-wars-the-skywalker-saga",
   "Ranking_Rating": 106,
   "Ranking_Popularity": 104,
-  "Ranking_PopularitySum": 126,
+  "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 234,
@@ -3567,10 +3567,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6702,
       "NumberOfAwardsMax": 2442
+    },
+    {
+      "Time": "2023-11-21T23:59:33.6470857+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6703,
+      "NumberOfAwardsMax": 2442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6702,
+  "NumberOfAwards": 6703,
   "NumberOfAwardsMax": 2442,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3632,7 +3638,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 456
+      "Count": 457
     },
     {
       "Text": "This game is Relaxing",
@@ -14223,9 +14229,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-11-21T05:59:33.4288461+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:04:36.4369968+00:00",
+  "LastChanged": "2023-11-21T23:59:33.6470855+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:04:31.3137545+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:25.8644446+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:59:48.4423141+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:04:36.4371109+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:59:33.6470862+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:04:31.3138295+00:00"
 }

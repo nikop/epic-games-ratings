@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 4,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
-  "Ranking_EOS_Progress": 320,
+  "Ranking_Popularity": 487,
+  "Ranking_PopularitySum": 510,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -95,20 +95,27 @@
       "Rating": 4.92,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-11-21T23:59:01.7170183+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 32,
+  "NumberOfAwardsMax": 32,
+  "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 25
+      "Count": 32
     }
   ],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 419,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -968,6 +975,11 @@
       "Time": "2023-11-21T23:03:44.0336859+00:00",
       "NumProgressed": 418,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T00:03:39.1511672+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1020,7 +1032,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "BreakTheLoop",
@@ -1036,7 +1048,7 @@
       "Name": "Bridge Builder",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ChasingTheLight",
@@ -1076,7 +1088,7 @@
       "Name": "Discovery",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "EasternWetlands",
@@ -1148,7 +1160,7 @@
       "Name": "Into the Machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "JustOneLap",
@@ -1164,7 +1176,7 @@
       "Name": "Lord of the Files",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "LostMarshes",
@@ -1244,7 +1256,7 @@
       "Name": "Persistent",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "PrometheusUnbound",
@@ -1268,7 +1280,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "RenaissanceRobot",
@@ -1284,7 +1296,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Signatory",
@@ -1340,7 +1352,7 @@
       "Name": "The All-Gifted",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1380,7 +1392,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "TheWordEndures",
@@ -1388,7 +1400,7 @@
       "Name": "The Word Endures",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "TouchGrass",
@@ -1396,7 +1408,7 @@
       "Name": "Touch Grass",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "TrevorsBiographer",
@@ -1412,7 +1424,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Wanderers",
@@ -1434,9 +1446,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "YourBiggestFan",
@@ -1451,16 +1463,16 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 419,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-11-20T14:58:37.9477478+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:03:44.0336855+00:00",
+  "LastChanged": "2023-11-21T23:59:01.7170181+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:03:39.1511668+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:59:15.9909662+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:03:44.033731+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:59:01.7170187+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:03:39.1512077+00:00"
 }

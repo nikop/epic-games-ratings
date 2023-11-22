@@ -6,11 +6,11 @@ Rating: 4.50 (Ranked 587)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,508 |
-| Meticulously Efficient | 7.00% | ~2,194 |
+| Meticulously Efficient | 7.00% | ~2,195 |
 | Advancement | 6.00% | ~1,881 |
-| Discovery | 5.00% | ~1,567 |
-| Solo Capture | 5.00% | ~1,567 |
-| Swift Rift Removers | 5.00% | ~1,567 |
+| Discovery | 5.00% | ~1,568 |
+| Solo Capture | 5.00% | ~1,568 |
+| Swift Rift Removers | 5.00% | ~1,568 |
 | Clutch Capture | 4.00% | ~1,254 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,254 |
 | Cultured | 4.00% | ~1,254 |
@@ -19,13 +19,13 @@ Rating: 4.50 (Ranked 587)
 | There you are! | 4.00% | ~1,254 |
 | Vaporous Expansion | 4.00% | ~1,254 |
 | Whoopsie | 4.00% | ~1,254 |
-| Animated | 3.00% | ~940 |
-| Daily Dose | 3.00% | ~940 |
-| Ectoplasmic Entity | 3.00% | ~940 |
-| Ghostbuster In Training | 3.00% | ~940 |
-| Icing on the Cake | 3.00% | ~940 |
-| Right back at ya | 3.00% | ~940 |
-| Summoner | 3.00% | ~940 |
+| Animated | 3.00% | ~941 |
+| Daily Dose | 3.00% | ~941 |
+| Ectoplasmic Entity | 3.00% | ~941 |
+| Ghostbuster In Training | 3.00% | ~941 |
+| Icing on the Cake | 3.00% | ~941 |
+| Right back at ya | 3.00% | ~941 |
+| Summoner | 3.00% | ~941 |
 | Back Off | 2.00% | ~627 |
 | We have the best insurance | 2.00% | ~627 |
 | Collector | 2.00% | ~627 |
@@ -38,12 +38,12 @@ Rating: 4.50 (Ranked 587)
 | Skilled | 2.00% | ~627 |
 | Stunner | 2.00% | ~627 |
 | Welcome to the Crew | 2.00% | ~627 |
-| Diabolical | 1.00% | ~313 |
-| Liability | 1.00% | ~313 |
-| Reckless | 1.00% | ~313 |
-| Rivalry | 1.00% | ~313 |
-| Terrifying | 1.00% | ~313 |
-| Tobin's Prodigy | 1.00% | ~313 |
+| Diabolical | 1.00% | ~314 |
+| Liability | 1.00% | ~314 |
+| Reckless | 1.00% | ~314 |
+| Rivalry | 1.00% | ~314 |
+| Terrifying | 1.00% | ~314 |
+| Tobin's Prodigy | 1.00% | ~314 |
 | Fragile Panes | 0.90% | ~282 |
 | Surprise! | 0.90% | ~282 |
 | Therapeutic | 0.70% | ~219 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,349 (Ranked 124)  
+Progressed: 31,351 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,6 +273,7 @@ Completed: 68 (0.22%) (Ranked 249)
 | 2023-11-19 | 31,263 | 68 |
 | 2023-11-20 | 31,308 | 68 |
 | 2023-11-21 | 31,349 | 68 |
+| 2023-11-22 | 31,351 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 249)  
 Sum: 2,833 (Ranked 179)  

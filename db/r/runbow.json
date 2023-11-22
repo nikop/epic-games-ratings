@@ -3,12 +3,12 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 647,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 551,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251485,
+  "EOS_Progressed": 251488,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19547,6 +19547,11 @@
       "Time": "2023-11-21T23:09:21.2451886+00:00",
       "NumProgressed": 251485,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-22T00:09:08.8877299+00:00",
+      "NumProgressed": 251488,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19614,7 +19619,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42752
+      "UsersEstimate": 42753
     },
     {
       "ID": "cantBeKeptDown",
@@ -19654,7 +19659,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45267
+      "UsersEstimate": 45268
     },
     {
       "ID": "curator",
@@ -19662,7 +19667,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50297
+      "UsersEstimate": 50298
     },
     {
       "ID": "didYourTime",
@@ -19734,7 +19739,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133287
+      "UsersEstimate": 133289
     },
     {
       "ID": "indegestible",
@@ -19758,7 +19763,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65386
+      "UsersEstimate": 65387
     },
     {
       "ID": "justABit",
@@ -19798,7 +19803,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125742
+      "UsersEstimate": 125744
     },
     {
       "ID": "notScared",
@@ -19925,7 +19930,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251485,
+      "Progressed": 251488,
       "Completed": 6
     }
   ],
@@ -19933,8 +19938,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:09:21.2451882+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:09:08.8877294+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.785851+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:58:50.4405707+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:09:21.24531+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:58:35.9657432+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:09:08.8878697+00:00"
 }

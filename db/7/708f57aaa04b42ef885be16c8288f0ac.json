@@ -3,12 +3,12 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 106,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 551,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5728,
+  "EOS_Progressed": 5731,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4007,6 +4007,11 @@
       "Time": "2023-11-21T23:09:26.2631908+00:00",
       "NumProgressed": 5728,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T00:09:14.1416933+00:00",
+      "NumProgressed": 5731,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4290,7 +4295,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5728,
+      "Progressed": 5731,
       "Completed": 7
     }
   ],
@@ -4298,8 +4303,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-21T21:59:36.2748065+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:09:26.2631904+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:09:14.1416928+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:59:19.434952+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:09:26.2632456+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:59:05.2381153+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:09:14.1417456+00:00"
 }

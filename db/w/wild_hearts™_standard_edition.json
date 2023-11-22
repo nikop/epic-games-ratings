@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1617,9 +1617,9 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_27",
@@ -1863,8 +1863,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:06:20.7911754+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:06:14.7438459+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:07.8893552+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:00:38.9865506+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:06:20.7912137+00:00"
+  "LastUpdate_Ratings": "2023-11-22T00:00:25.176968+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:06:14.7438828+00:00"
 }

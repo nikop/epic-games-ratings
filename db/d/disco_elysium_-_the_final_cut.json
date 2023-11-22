@@ -4,11 +4,11 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 24,
   "Ranking_Popularity": 179,
-  "Ranking_PopularitySum": 250,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1484,9 +1484,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131043,
+  "EOS_Progressed": 131044,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22539,6 +22539,11 @@
       "Time": "2023-11-21T23:04:07.1293283+00:00",
       "NumProgressed": 131043,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-22T00:04:02.0240623+00:00",
+      "NumProgressed": 131044,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22606,7 +22611,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31450
+      "UsersEstimate": 31451
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22869,15 +22874,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131043,
+      "Progressed": 131044,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-21T09:00:02.2217381+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:04:07.1293277+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:04:02.0240618+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:59:49.9781677+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:04:07.1294553+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:59:35.9720743+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:04:02.0242226+00:00"
 }

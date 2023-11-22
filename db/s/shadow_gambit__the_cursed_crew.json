@@ -3,12 +3,12 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 148,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 551,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,11 +113,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 836,
+  "EOS_Progressed": 837,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.59,
+  "EOS_Completed_Percentage": 3.58,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2688,6 +2688,11 @@
       "Time": "2023-11-21T22:07:21.1046193+00:00",
       "NumProgressed": 836,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-22T00:06:19.6300737+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2708,7 +2713,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "_03_FinishAct1",
@@ -2724,7 +2729,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "_05_FinishAct2",
@@ -2732,7 +2737,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2780,7 +2785,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_12_Completion_50",
@@ -2828,7 +2833,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2844,7 +2849,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2907,7 +2912,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 836,
+      "Progressed": 837,
       "Completed": 30
     }
   ],
@@ -2915,8 +2920,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:06:25.8282083+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:06:19.6300733+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:57:52.4019362+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:06:25.8282363+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:57:38.0901876+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:06:19.6301025+00:00"
 }

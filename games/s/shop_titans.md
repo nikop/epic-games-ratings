@@ -51,6 +51,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 1.00% | ~1,409 |
 | Special Ingredient | 1.00% | ~1,409 |
 | Arcane Industries | 1.00% | ~1,409 |
+| Complete Monopoly | 1.00% | ~1,409 |
 | A Notch Above the Rest | 0.90% | ~1,268 |
 | The King's Caprice | 0.90% | ~1,268 |
 | Big Game Hunting | 0.90% | ~1,268 |
@@ -62,12 +63,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 0.90% | ~1,268 |
 | Cranked up to 11 | 0.90% | ~1,268 |
 | Mammonite | 0.90% | ~1,268 |
+| Fat Cat Tag Team | 0.90% | ~1,268 |
 | Necromancer Queen | 0.90% | ~1,268 |
 | Miracle Alchemist | 0.90% | ~1,268 |
 | Laden with Loot | 0.90% | ~1,268 |
 | Scourge of the Seas | 0.90% | ~1,268 |
 | Black Friday Special | 0.90% | ~1,268 |
-| Complete Monopoly | 0.90% | ~1,268 |
 | Cream of the Crop | 0.80% | ~1,127 |
 | Proud Paladin | 0.80% | ~1,127 |
 | Above the Norm | 0.80% | ~1,127 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 0.80% | ~1,127 |
 | By Your Powers Combined... | 0.80% | ~1,127 |
 | Wealth Beyond Measure | 0.80% | ~1,127 |
-| Fat Cat Tag Team | 0.80% | ~1,127 |
 | Item of Renown | 0.80% | ~1,127 |
 | Master Merchant | 0.80% | ~1,127 |
 | Precision Engineering | 0.80% | ~1,127 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,875 (Ranked 80)  
-Completed: 190 (0.13%) (Ranked 268)  
+Progressed: 140,883 (Ranked 80)  
+Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,6 +335,7 @@ Completed: 190 (0.13%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
+| 2023-11-22 | 140,883 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,572 (Ranked 50)  

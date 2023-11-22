@@ -27,8 +27,8 @@
 | Whispers long forgotten | 12.00% | ~9 |
 | True Reflection | 10.00% | ~8 |
 | Another perspective | 9.00% | ~7 |
+| Sound Bite | 9.00% | ~7 |
 | Lights! Camera! Action! | 9.00% | ~7 |
-| Sound Bite | 8.00% | ~6 |
 | Heavy Burden | 6.00% | ~5 |
 | Casting Finished | 5.00% | ~4 |
 | We Are Not Alone | 5.00% | ~4 |

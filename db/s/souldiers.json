@@ -3,12 +3,12 @@
   "Name": "Souldiers",
   "ProductSlug": "souldiers-3f612b",
   "Ranking_Rating": 540,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 551,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 437,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-06-02T13:00:00+00:00",
     "PcReleaseDate": "2022-06-02T13:00:00+00:00",
@@ -107,8 +107,8 @@
   "FirstSeen": "2022-07-22T20:19:33.8920547+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:14.2723039+00:00",
   "LastChanged": "2023-10-13T12:03:19.8263578+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:08:28.489073+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:07:11.6401281+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.2488765+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:00:23.3094977+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:08:28.4890759+00:00"
+  "LastUpdate_Ratings": "2023-11-22T00:00:08.8698422+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:07:11.6401312+00:00"
 }

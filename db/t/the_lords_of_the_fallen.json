@@ -5,10 +5,10 @@
   "Ranking_Rating": 922,
   "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 369,
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -561,9 +561,9 @@
       "Count": 120
     }
   ],
-  "EOS_Progressed": 1696,
+  "EOS_Progressed": 1701,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2746,6 +2746,11 @@
       "Time": "2023-11-21T23:04:52.4778967+00:00",
       "NumProgressed": 1696,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T00:04:47.6484648+00:00",
+      "NumProgressed": 1701,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -2966,7 +2971,7 @@
       "Name": "Shades of Violence",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -3230,7 +3235,7 @@
       "Name": "The Past Shapes the Present",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -3261,7 +3266,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1696,
+      "Progressed": 1701,
       "Completed": 1
     }
   ],
@@ -3269,8 +3274,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-21T16:58:33.4620178+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:04:52.4778962+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:04:47.6484644+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8643318+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:58:54.5586727+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:04:52.477953+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:58:39.7984822+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:04:47.6485469+00:00"
 }

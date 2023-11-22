@@ -3,12 +3,12 @@
   "Name": "Travellers Rest",
   "ProductSlug": "travellers-rest-c115d1",
   "Ranking_Rating": 445,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 551,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 437,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-25T08:00:00+00:00",
     "PcReleaseDate": "2020-07-28T08:00:00+00:00",
@@ -301,8 +301,8 @@
   "FirstSeenRating": "2022-09-04T00:31:40.8839276+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.6992303+00:00",
   "LastChanged": "2023-11-13T12:03:26.6236667+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:09:10.7220451+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:08:58.4906992+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:54.5202729+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:03:10.3735671+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:09:10.7220484+00:00"
+  "LastUpdate_Ratings": "2023-11-22T00:03:05.1992269+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:08:58.4907025+00:00"
 }

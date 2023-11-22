@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4737,10 +4737,10 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 91374,
+  "EOS_Progressed": 91376,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 241,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 240,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
@@ -26057,6 +26057,11 @@
       "Time": "2023-11-21T23:05:11.2267217+00:00",
       "NumProgressed": 91374,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-22T00:05:06.3930055+00:00",
+      "NumProgressed": 91376,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26076,7 +26081,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ACH_0012",
@@ -26108,7 +26113,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_0016",
@@ -26116,7 +26121,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_0021",
@@ -26140,7 +26145,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_0040",
@@ -26236,7 +26241,7 @@
       "Name": "Too Old for This",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ACH_0300",
@@ -26244,7 +26249,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_0310",
@@ -26260,7 +26265,7 @@
       "Name": "Ding Dong",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_0340",
@@ -26300,7 +26305,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ACH_0431",
@@ -26395,13 +26400,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91374,
+      "Progressed": 91376,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19721,
+      "Progressed": 19723,
       "Completed": 15579
     }
   ],
@@ -26409,8 +26414,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-21T13:07:30.9197894+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:05:11.2267212+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:05:06.3930051+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:58:47.2078962+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:05:11.2268556+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:58:32.8577904+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:05:06.3931319+00:00"
 }

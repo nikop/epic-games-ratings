@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3471,7 +3471,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31349,
+  "EOS_Progressed": 31351,
   "EOS_Completed": 68,
   "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
@@ -20031,6 +20031,11 @@
       "Time": "2023-11-21T23:04:48.4432275+00:00",
       "NumProgressed": 31349,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-22T00:04:43.4226414+00:00",
+      "NumProgressed": 31351,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -20050,7 +20055,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Back_Off",
@@ -20114,7 +20119,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Diabolical",
@@ -20122,7 +20127,7 @@
       "Name": "Diabolical",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Discovery",
@@ -20130,7 +20135,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "Dont_Need_These",
@@ -20146,7 +20151,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Efficient",
@@ -20154,7 +20159,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "Escape_Artist",
@@ -20186,7 +20191,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Ghost_Expert",
@@ -20202,7 +20207,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Legions",
@@ -20218,7 +20223,7 @@
       "Name": "Liability",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Line_Em_Up",
@@ -20266,7 +20271,7 @@
       "Name": "Reckless",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Rift_Destroyer",
@@ -20290,7 +20295,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Rivalry",
@@ -20298,7 +20303,7 @@
       "Name": "Rivalry",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Seasoned",
@@ -20330,7 +20335,7 @@
       "Name": "Solo Capture",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "Stunner",
@@ -20354,7 +20359,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Surprise",
@@ -20370,7 +20375,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "Teamwork",
@@ -20386,7 +20391,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Therapeutic",
@@ -20410,7 +20415,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Ultimate_Defense",
@@ -20449,7 +20454,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31349,
+      "Progressed": 31351,
       "Completed": 68
     }
   ],
@@ -20457,8 +20462,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-20T23:02:56.9728557+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:04:48.4432271+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:04:43.422641+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:02:56.3944131+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:04:48.4433251+00:00"
+  "LastUpdate_Ratings": "2023-11-22T00:02:50.5798869+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:04:43.4227463+00:00"
 }

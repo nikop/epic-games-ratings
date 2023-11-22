@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1043,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 551,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 109,
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78905,
+  "EOS_Progressed": 78907,
   "EOS_Completed": 850,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24192,6 +24192,11 @@
       "Time": "2023-11-21T23:05:42.2842097+00:00",
       "NumProgressed": 78905,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-22T00:05:36.7209168+00:00",
+      "NumProgressed": 78907,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24235,7 +24240,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17359
+      "UsersEstimate": 17360
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -24291,7 +24296,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7101
+      "UsersEstimate": 7102
     },
     {
       "ID": "Magnetic Miracles",
@@ -24395,14 +24400,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6312
+      "UsersEstimate": 6313
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78905,
+      "Progressed": 78907,
       "Completed": 850
     }
   ],
@@ -24410,8 +24415,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:05:42.2842092+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:05:36.7209161+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:00:08.6194269+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:05:42.284352+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:59:53.9798266+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:05:36.7210182+00:00"
 }

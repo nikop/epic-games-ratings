@@ -16,8 +16,8 @@ Number of Ratings: 154  (23.09.2022)
 | Everyone's Hero | 62.00% | ~377 |
 | Easy Peasy with Shields | 59.00% | ~359 |
 | Gallant Spin Dash | 58.00% | ~353 |
+| Bubbly Breath | 57.00% | ~347 |
 | Knuckles the Echidna | 57.00% | ~347 |
-| Bubbly Breath | 56.00% | ~340 |
 | Miles "Tails" Prower | 56.00% | ~340 |
 | Boss Rush Attempt | 50.00% | ~304 |
 | Cleared Sonic the Hedgehog | 47.00% | ~286 |

@@ -27,10 +27,10 @@ Rating: 4.87 (Ranked 24)
 | Time to pay up! | 8.00% | ~339 |
 | Who's the boss now? | 8.00% | ~339 |
 | You must like calling me in, Chai | 8.00% | ~339 |
+| Perfecter Parry-er! | 8.00% | ~339 |
 | Does that say weakpoint? | 8.00% | ~339 |
 | NOW we got a kickass hideout! | 8.00% | ~220 |
 | I have to read these things? | 7.00% | ~296 |
-| Perfecter Parry-er! | 7.00% | ~296 |
 | Well that was a rush! | 5.00% | ~212 |
 | Beat-hit mania | 5.00% | ~212 |
 | That's a lot of junk metal… | 5.00% | ~212 |

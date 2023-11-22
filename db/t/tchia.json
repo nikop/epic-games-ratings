@@ -3,12 +3,12 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 158,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 551,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7793,
+  "EOS_Progressed": 7794,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -8304,6 +8304,11 @@
       "Time": "2023-11-21T23:05:50.2726499+00:00",
       "NumProgressed": 7793,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-22T00:05:44.6230587+00:00",
+      "NumProgressed": 7794,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8331,7 +8336,7 @@
       "Name": "Audiophile",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -8482,7 +8487,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7793,
+      "Progressed": 7794,
       "Completed": 34
     }
   ],
@@ -8490,8 +8495,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-21T23:05:50.2726495+00:00",
+  "LastChanged_Achievements": "2023-11-22T00:05:44.6230582+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:29.7987835+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:57:55.9735562+00:00",
-  "LastUpdate_Achievements": "2023-11-21T23:05:50.2727108+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:57:42.0924021+00:00",
+  "LastUpdate_Achievements": "2023-11-22T00:05:44.6231154+00:00"
 }
