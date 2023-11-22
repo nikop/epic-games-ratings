@@ -2,13 +2,13 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 414,
+  "Ranking_Rating": 413,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7920,
+  "EOS_Progressed": 7921,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7176,6 +7176,11 @@
       "Time": "2023-11-22T09:09:48.232468+00:00",
       "NumProgressed": 7920,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T10:09:31.7260435+00:00",
+      "NumProgressed": 7921,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7196,7 +7201,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5624
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7204,7 +7209,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -7276,7 +7281,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -7340,7 +7345,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4831
+      "UsersEstimate": 4832
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7348,7 +7353,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -7364,7 +7369,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -7412,7 +7417,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -7467,22 +7472,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7920,
+      "Progressed": 7921,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 537,
-      "Completed": 537
+      "Progressed": 538,
+      "Completed": 538
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:09:48.2324675+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:09:31.7260431+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:03:07.031132+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:09:48.2325222+00:00"
+  "LastUpdate_Ratings": "2023-11-22T10:02:57.7142703+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:09:31.7261177+00:00"
 }

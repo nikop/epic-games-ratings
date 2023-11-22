@@ -2,13 +2,13 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 431,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -2306,9 +2306,9 @@
       "ID": "ACH_CAR_WASH_03",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 3",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_CAR_WASH_04",
@@ -2610,9 +2610,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 673
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -2698,9 +2698,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 387
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -2738,9 +2738,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 703
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -3027,8 +3027,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:06:02.3300667+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:05:14.6203721+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:01:26.4277174+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:06:02.3301466+00:00"
+  "LastUpdate_Ratings": "2023-11-22T10:00:26.7863896+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:05:14.6204479+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -483,9 +483,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 252763,
+  "EOS_Progressed": 252765,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24663,6 +24663,11 @@
       "Time": "2023-11-22T08:07:49.0404069+00:00",
       "NumProgressed": 252763,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T10:08:18.9525743+00:00",
+      "NumProgressed": 252765,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -24674,7 +24679,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68246
+      "UsersEstimate": 68247
     },
     {
       "ID": "ACH_AON",
@@ -24818,7 +24823,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73301
+      "UsersEstimate": 73302
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -24946,7 +24951,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17693
+      "UsersEstimate": 17694
     },
     {
       "ID": "ACH_MEMESMART",
@@ -25089,7 +25094,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 252763,
+      "Progressed": 252765,
       "Completed": 7
     }
   ],
@@ -25097,8 +25102,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-10T11:59:06.6668933+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:08:15.5315654+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:08:18.9525736+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:01.0454426+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:58:47.8606438+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:08:15.5317405+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:58:26.5939999+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:08:18.9527144+00:00"
 }

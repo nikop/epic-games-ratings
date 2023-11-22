@@ -29,11 +29,11 @@
 | Medicine Tycoon | 5.00% | ~10 |
 | Supersoldier | 4.00% | ~8 |
 | Tear Down the Wall! | 3.00% | ~6 |
+| Vive le Résistance | 3.00% | ~6 |
 | Human Resources | 3.00% | ~6 |
 | Training Camp | 3.00% | ~6 |
 | Economist | 2.00% | ~4 |
 | Crisis Committee | 2.00% | ~4 |
-| Vive le Résistance | 2.00% | ~4 |
 | No News is Good News | 2.00% | ~4 |
 | Snowman | 2.00% | ~4 |
 | Reconquest | 2.00% | ~4 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 386)  
+Progressed: 192 (Ranked 387)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |

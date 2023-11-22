@@ -7159,9 +7159,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140937,
+  "EOS_Progressed": 140939,
   "EOS_Completed": 191,
-  "EOS_NewPlayers": 1062,
+  "EOS_NewPlayers": 1060,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29404,6 +29404,11 @@
       "Time": "2023-11-22T09:07:22.6018271+00:00",
       "NumProgressed": 140937,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-11-22T10:06:18.1008967+00:00",
+      "NumProgressed": 140939,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 112,
@@ -29439,7 +29444,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "advlevel05",
@@ -29455,7 +29460,7 @@
       "Name": "Proud Paladin",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ascend01",
@@ -29487,7 +29492,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "bigsale01",
@@ -29599,7 +29604,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "collection01",
@@ -29623,7 +29628,7 @@
       "Name": "Archivist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "collection04",
@@ -29679,7 +29684,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5637
+      "UsersEstimate": 5638
     },
     {
       "ID": "craft02",
@@ -29735,7 +29740,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "donovan_a",
@@ -29783,7 +29788,7 @@
       "Name": "Supercharged",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "expansion01",
@@ -29815,7 +29820,7 @@
       "Name": "Ritualist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "furniture01",
@@ -29847,7 +29852,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "fuseflawless",
@@ -29887,7 +29892,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5637
+      "UsersEstimate": 5638
     },
     {
       "ID": "gold02",
@@ -29927,7 +29932,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "help01",
@@ -29991,7 +29996,7 @@
       "Name": "Item of Renown",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "level01",
@@ -30015,7 +30020,7 @@
       "Name": "Master Merchant",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "level04",
@@ -30055,7 +30060,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "loot04",
@@ -30095,7 +30100,7 @@
       "Name": "Precision Engineering",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "master05",
@@ -30135,7 +30140,7 @@
       "Name": "Attrition Mission",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "quest03",
@@ -30159,7 +30164,7 @@
       "Name": "Glittering Collection",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "rareres02",
@@ -30167,7 +30172,7 @@
       "Name": "Treasure Trove",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "rareres03",
@@ -30183,7 +30188,7 @@
       "Name": "Moment of Respite",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "sell01",
@@ -30215,7 +30220,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "transmuter",
@@ -30223,7 +30228,7 @@
       "Name": "Master Recycler",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "tutorial",
@@ -30303,22 +30308,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140937,
+      "Progressed": 140939,
       "Completed": 191
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-22T06:02:58.3526894+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:07:22.6018267+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:06:18.1008963+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:02:55.3176064+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:07:22.6020094+00:00"
+  "LastUpdate_Ratings": "2023-11-22T10:02:49.0504033+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:06:18.1011196+00:00"
 }

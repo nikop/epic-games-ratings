@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22941,
+  "EOS_Progressed": 22942,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -24800,6 +24800,11 @@
       "Time": "2023-11-22T09:07:41.3622944+00:00",
       "NumProgressed": 22941,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-11-22T10:06:32.6954426+00:00",
+      "NumProgressed": 22942,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 45,
@@ -24827,7 +24832,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 6423
+      "UsersEstimate": 6424
     },
     {
       "ID": "BackToHell",
@@ -24835,7 +24840,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 8488
+      "UsersEstimate": 8489
     },
     {
       "ID": "CantRunCantHide",
@@ -24867,7 +24872,7 @@
       "Name": "Fine addition",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "FinishLine",
@@ -24899,7 +24904,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10323
+      "UsersEstimate": 10324
     },
     {
       "ID": "ICallItLuck",
@@ -24947,7 +24952,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17435
+      "UsersEstimate": 17436
     },
     {
       "ID": "MoreThanHuman",
@@ -24987,7 +24992,7 @@
       "Name": "One Of Those Days",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "OutOfOrder",
@@ -25035,7 +25040,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12388
+      "UsersEstimate": 12389
     },
     {
       "ID": "RunningWild",
@@ -25083,7 +25088,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13994
+      "UsersEstimate": 13995
     },
     {
       "ID": "SwordToAGunfight",
@@ -25147,7 +25152,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9176
+      "UsersEstimate": 9177
     },
     {
       "ID": "WhereHeStood",
@@ -25163,28 +25168,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 6882
+      "UsersEstimate": 6883
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22941,
+      "Progressed": 22942,
       "Completed": 57
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22941,
+      "Progressed": 22942,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:07:41.3622942+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:06:32.6954421+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:01:24.7616342+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:07:41.3624513+00:00"
+  "LastUpdate_Ratings": "2023-11-22T10:00:25.6453673+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:06:32.6956019+00:00"
 }

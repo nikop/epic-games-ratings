@@ -21,10 +21,10 @@ Rating: 4.54 (Ranked 527)
 | Personal Assistant Personally Assisted | 1.00% | ~7,223 |
 | This is My Weapon | 1.00% | ~7,223 |
 | Welcome To Hell-A | 1.00% | ~7,223 |
-| Anger Management | 0.90% | ~6,500 |
-| But Doctor, I am Butcho | 0.90% | ~6,500 |
-| Can't Handle the Truth | 0.90% | ~6,500 |
-| Like Riding a Bike | 0.90% | ~6,500 |
+| Anger Management | 0.90% | ~6,501 |
+| But Doctor, I am Butcho | 0.90% | ~6,501 |
+| Can't Handle the Truth | 0.90% | ~6,501 |
+| Like Riding a Bike | 0.90% | ~6,501 |
 | Perks of the Job | 0.80% | ~5,778 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,778 |
 | Slayer Squad | 0.80% | ~5,778 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,257 (Ranked 21)  
+Progressed: 722,279 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,257 | 2,423 |
+| 2023-11-22 | 722,279 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
 Sum: 11,664 (Ranked 84)  

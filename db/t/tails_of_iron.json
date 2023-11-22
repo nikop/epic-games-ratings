@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2016,
+  "EOS_Progressed": 2017,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3157,6 +3157,11 @@
       "Time": "2023-11-22T08:05:51.4002793+00:00",
       "NumProgressed": 2016,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-22T10:05:22.2094193+00:00",
+      "NumProgressed": 2017,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -3168,7 +3173,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "Collect20Gold",
@@ -3192,7 +3197,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "CollectAllStatues",
@@ -3200,7 +3205,7 @@
       "Name": "Return the Statues",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -3248,7 +3253,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3272,7 +3277,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "DefeatMoziQueen",
@@ -3280,7 +3285,7 @@
       "Name": "End of the Mozis",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -3296,7 +3301,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -3304,7 +3309,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "GetRangedWeapon",
@@ -3312,7 +3317,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "GetTHWeapon",
@@ -3320,7 +3325,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "Kill25Bugs",
@@ -3336,7 +3341,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "Kill25Mozi",
@@ -3384,7 +3389,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "RescueBrothers",
@@ -3392,7 +3397,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3407,22 +3412,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2016,
+      "Progressed": 2017,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 657,
-      "Completed": 657
+      "Progressed": 658,
+      "Completed": 658
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:06:11.9915591+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:05:22.2094187+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.2100047+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:57:05.9699655+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:06:11.9915913+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:57:11.4102827+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:05:22.209448+00:00"
 }

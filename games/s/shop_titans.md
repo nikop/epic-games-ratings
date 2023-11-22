@@ -9,8 +9,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 5.00% | ~7,047 |
 | Basic in Bulk | 5.00% | ~7,047 |
 | Titan's First Steps | 5.00% | ~7,047 |
-| Disintermediation | 4.00% | ~5,637 |
-| Tinkle of Coins | 4.00% | ~5,637 |
+| Disintermediation | 4.00% | ~5,638 |
+| Tinkle of Coins | 4.00% | ~5,638 |
 | One Easy Payment | 3.00% | ~4,228 |
 | Some Assembly Required | 3.00% | ~4,228 |
 | Another Satisfied Customer | 3.00% | ~4,228 |
@@ -72,27 +72,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.90% | ~1,268 |
 | Scourge of the Seas | 0.90% | ~1,268 |
 | Exotic Commodities | 0.90% | ~1,268 |
-| Cream of the Crop | 0.80% | ~1,127 |
-| Proud Paladin | 0.80% | ~1,127 |
-| A Ronin Reborn | 0.80% | ~1,127 |
-| Booty by the Boatload | 0.80% | ~1,127 |
-| Archivist | 0.80% | ~1,127 |
-| Omae wa Mou Shindeiru | 0.80% | ~1,127 |
-| Supercharged | 0.80% | ~1,127 |
-| Ritualist | 0.80% | ~1,127 |
-| By Your Powers Combined... | 0.80% | ~1,127 |
-| Wealth Beyond Measure | 0.80% | ~1,127 |
-| Item of Renown | 0.80% | ~1,127 |
-| Master Merchant | 0.80% | ~1,127 |
-| Bountiful Harvest | 0.80% | ~1,127 |
-| Precision Engineering | 0.80% | ~1,127 |
-| Attrition Mission | 0.80% | ~1,127 |
-| Glittering Collection | 0.80% | ~1,127 |
-| Treasure Trove | 0.80% | ~1,127 |
-| Moment of Respite | 0.80% | ~1,127 |
-| King's Shadow | 0.80% | ~1,127 |
-| Master Recycler | 0.80% | ~1,127 |
-| King's Blade | 0.80% | ~1,127 |
+| Cream of the Crop | 0.80% | ~1,128 |
+| Proud Paladin | 0.80% | ~1,128 |
+| A Ronin Reborn | 0.80% | ~1,128 |
+| Booty by the Boatload | 0.80% | ~1,128 |
+| Archivist | 0.80% | ~1,128 |
+| Omae wa Mou Shindeiru | 0.80% | ~1,128 |
+| Supercharged | 0.80% | ~1,128 |
+| Ritualist | 0.80% | ~1,128 |
+| By Your Powers Combined... | 0.80% | ~1,128 |
+| Wealth Beyond Measure | 0.80% | ~1,128 |
+| Item of Renown | 0.80% | ~1,128 |
+| Master Merchant | 0.80% | ~1,128 |
+| Bountiful Harvest | 0.80% | ~1,128 |
+| Precision Engineering | 0.80% | ~1,128 |
+| Attrition Mission | 0.80% | ~1,128 |
+| Glittering Collection | 0.80% | ~1,128 |
+| Treasure Trove | 0.80% | ~1,128 |
+| Moment of Respite | 0.80% | ~1,128 |
+| King's Shadow | 0.80% | ~1,128 |
+| Master Recycler | 0.80% | ~1,128 |
+| King's Blade | 0.80% | ~1,128 |
 | Top of the World | 0.70% | ~987 |
 | Constellated | 0.70% | ~987 |
 | Thirst for Knowledge | 0.70% | ~987 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,937 (Ranked 80)  
+Progressed: 140,939 (Ranked 80)  
 Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,937 | 191 |
+| 2023-11-22 | 140,939 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,576 (Ranked 50)  

@@ -6771,9 +6771,9 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 722257,
+  "EOS_Progressed": 722279,
   "EOS_Completed": 2423,
-  "EOS_NewPlayers": 3615,
+  "EOS_NewPlayers": 3617,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31461,6 +31461,11 @@
       "Time": "2023-11-22T09:05:02.8565429+00:00",
       "NumProgressed": 722257,
       "NumCompleted": 2423
+    },
+    {
+      "Time": "2023-11-22T10:04:28.0366775+00:00",
+      "NumProgressed": 722279,
+      "NumCompleted": 2423
     }
   ],
   "TotalAchievements": 51,
@@ -31496,7 +31501,7 @@
       "Name": "Anger Management",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -31560,7 +31565,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "ach_doom_buddies",
@@ -31584,7 +31589,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "ach_finisher",
@@ -31600,7 +31605,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "ach_good_eyesight",
@@ -31879,13 +31884,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 722257,
+      "Progressed": 722279,
       "Completed": 2423
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 47799,
+      "Progressed": 47821,
       "Completed": 36578
     }
   ],
@@ -31893,8 +31898,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-22T06:58:06.6450963+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:05:02.8565425+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:04:28.0366771+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:57:53.1350942+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:05:02.8566984+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:57:45.553713+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:04:28.0368499+00:00"
 }

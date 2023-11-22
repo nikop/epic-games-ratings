@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 14,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1689,9 +1689,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "Fusses",
@@ -1768,8 +1768,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:08:02.8262148+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:06:49.2795093+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:28.835377+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:57:19.8911567+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:08:02.8262306+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:57:20.872371+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:06:49.2795284+00:00"
 }

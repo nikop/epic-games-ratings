@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -826,9 +826,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47295,
+  "EOS_Progressed": 47296,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 880,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25236,6 +25236,11 @@
       "Time": "2023-11-22T09:06:34.5210187+00:00",
       "NumProgressed": 47295,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-22T10:05:39.7048819+00:00",
+      "NumProgressed": 47296,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -25271,7 +25276,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5202
+      "UsersEstimate": 5203
     },
     {
       "ID": "distance500000",
@@ -25471,7 +25476,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5202
+      "UsersEstimate": 5203
     },
     {
       "ID": "ultimate",
@@ -25558,15 +25563,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47295,
+      "Progressed": 47296,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-18T16:00:09.1538988+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:06:34.5210184+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:05:39.7048815+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.043749+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:02:42.353651+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:06:34.5211668+00:00"
+  "LastUpdate_Ratings": "2023-11-22T10:02:39.2796049+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:05:39.7050284+00:00"
 }

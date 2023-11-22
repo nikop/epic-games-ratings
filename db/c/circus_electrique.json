@@ -5,10 +5,10 @@
   "Ranking_Rating": 939,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 476,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -502,6 +502,11 @@
       "Time": "2023-11-10T22:05:10.6689562+00:00",
       "NumProgressed": 475,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T10:06:09.3536332+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -527,9 +532,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "631ndc2",
       "Name": "Lion Tamer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -537,7 +542,7 @@
       "Name": "One More Thing...",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -575,9 +580,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "631ndc2",
       "Name": "Path of Learning",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -617,7 +622,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -633,7 +638,7 @@
       "Name": "Club Champion",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -831,9 +836,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "631ndc2",
       "Name": "Self Defense",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -912,7 +917,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 476,
       "Completed": 1
     }
   ],
@@ -920,8 +925,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:07:11.5845307+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:06:09.3536327+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:09.0423155+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:57:29.8580932+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:07:11.5845781+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:57:28.0879511+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:06:09.353665+00:00"
 }

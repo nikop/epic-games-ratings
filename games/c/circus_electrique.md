@@ -6,23 +6,23 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 46.00% | ~218 |
+| Self Defense | 47.00% | ~224 |
 | Grand Opening | 42.00% | ~200 |
 | Circus Electrique Proudly Presents... | 42.00% | ~200 |
-| Path of Learning | 41.00% | ~195 |
+| Path of Learning | 42.00% | ~200 |
 | Built in a Day | 34.00% | ~162 |
-| More Brain Than Brawn | 30.00% | ~142 |
+| More Brain Than Brawn | 30.00% | ~143 |
 | Perfect Illusion | 24.00% | ~114 |
 | Hundred Percent First | 24.00% | ~114 |
 | Dirty Dozen | 21.00% | ~100 |
-| Lion Tamer | 19.00% | ~90 |
 | Fan Service | 19.00% | ~90 |
+| Lion Tamer | 18.00% | ~86 |
 | Amazing! | 17.00% | ~81 |
 | King of District 1 | 16.00% | ~76 |
 | Lucky Day | 15.00% | ~71 |
 | Bar Brawler | 15.00% | ~71 |
 | Flawless Presentation | 15.00% | ~71 |
-| One More Thing... | 14.00% | ~66 |
+| One More Thing... | 14.00% | ~67 |
 | King of District 2 | 13.00% | ~62 |
 | Time Travel! | 12.00% | ~57 |
 | Marketing Manager | 11.00% | ~52 |
@@ -32,7 +32,7 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent Second | 7.00% | ~33 |
 | Spirits High | 7.00% | ~33 |
 | Mobile Infantry | 7.00% | ~33 |
-| Club Champion | 6.00% | ~28 |
+| Club Champion | 6.00% | ~29 |
 | Around the Clock | 5.00% | ~24 |
 | King of District 4 | 5.00% | ~24 |
 | City Savior | 4.00% | ~19 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475 (Ranked 310)  
+Progressed: 476 (Ranked 309)  
 Completed: 1 (0.21%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 1 (0.21%) (Ranked 252)
 | 2023-10-29 | 473 | 1 |
 | 2023-11-04 | 474 | 1 |
 | 2023-11-10 | 475 | 1 |
+| 2023-11-22 | 476 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

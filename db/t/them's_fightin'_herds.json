@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 383,
+  "Ranking_Rating": 382,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -301,9 +301,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232584,
+  "EOS_Progressed": 232585,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22276,6 +22276,11 @@
       "Time": "2023-11-22T09:06:12.1241718+00:00",
       "NumProgressed": 232584,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-22T10:05:22.3333627+00:00",
+      "NumProgressed": 232585,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -22351,7 +22356,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83730
+      "UsersEstimate": 83731
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -22447,7 +22452,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51168
+      "UsersEstimate": 51169
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -22510,7 +22515,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232584,
+      "Progressed": 232585,
       "Completed": 5
     }
   ],
@@ -22518,8 +22523,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-18T13:00:16.7419126+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:06:12.1241714+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:05:22.3333623+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:27.6645592+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:00:37.5964521+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:06:12.1243216+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:59:48.7800291+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:05:22.3334752+00:00"
 }

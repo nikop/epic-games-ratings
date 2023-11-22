@@ -5,10 +5,10 @@
   "Ranking_Rating": 4,
   "Ranking_Popularity": 487,
   "Ranking_PopularitySum": 510,
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -115,7 +115,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 432,
+  "EOS_Progressed": 433,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -1010,6 +1010,11 @@
       "Time": "2023-11-22T08:03:58.8810282+00:00",
       "NumProgressed": 432,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T10:03:50.1849552+00:00",
+      "NumProgressed": 433,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1086,7 +1091,7 @@
       "Name": "Chasing the Light",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Chicken",
@@ -1110,7 +1115,7 @@
       "Name": "Desolate Island",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Discovery",
@@ -1118,7 +1123,7 @@
       "Name": "Discovery",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "EasternWetlands",
@@ -1126,7 +1131,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "EcstaticTruth",
@@ -1174,7 +1179,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "HighPlain",
@@ -1190,7 +1195,7 @@
       "Name": "Into the Machine",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "JustOneLap",
@@ -1212,9 +1217,9 @@
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "MistressOfRiddles",
@@ -1244,9 +1249,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 130
     },
     {
       "ID": "NewBeginning",
@@ -1286,7 +1291,7 @@
       "Name": "Persistent",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "PrometheusUnbound",
@@ -1302,15 +1307,15 @@
       "Name": "Puzzle Fiend",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 238
     },
     {
       "ID": "RenaissanceRobot",
@@ -1366,7 +1371,7 @@
       "Name": "Team Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "TextAdventurer",
@@ -1412,9 +1417,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 186
     },
     {
       "ID": "TheThiefOfFire",
@@ -1422,7 +1427,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "TheWordEndures",
@@ -1438,7 +1443,7 @@
       "Name": "Touch Grass",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "TrevorsBiographer",
@@ -1486,14 +1491,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 432,
+      "Progressed": 433,
       "Completed": 1
     }
   ],
@@ -1501,8 +1506,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-21T23:59:01.7170181+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:04:14.4391679+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:03:50.1849548+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:59:55.3546188+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:04:14.4392136+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:59:17.3468703+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:03:50.1850085+00:00"
 }

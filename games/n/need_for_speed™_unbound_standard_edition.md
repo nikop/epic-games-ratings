@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~9,812 |
-| Cool Whip | 90.00% | ~9,598 |
-| Fashion Killa | 88.00% | ~9,385 |
-| Drop the Beat | 86.00% | ~9,172 |
+| Throwing up Tags | 92.00% | ~9,813 |
+| Cool Whip | 90.00% | ~9,599 |
+| Fashion Killa | 88.00% | ~9,386 |
+| Drop the Beat | 86.00% | ~9,173 |
 | Hey Lakeshore | 84.00% | ~8,959 |
-| 100 Miles and Runnin' | 83.00% | ~8,852 |
-| Public Enemy | 82.00% | ~8,745 |
+| 100 Miles and Runnin' | 83.00% | ~8,853 |
+| Public Enemy | 82.00% | ~8,746 |
 | Rebel Without a Pause | 67.00% | ~7,146 |
 | Hey Speedie! | 67.00% | ~7,146 |
 | Most Wanted | 64.00% | ~6,826 |
-| New Crew | 62.00% | ~6,612 |
-| Serious Guap | 53.00% | ~5,652 |
-| Style it Out | 53.00% | ~5,652 |
-| Escape Artist | 53.00% | ~5,652 |
+| New Crew | 62.00% | ~6,613 |
+| Serious Guap | 53.00% | ~5,653 |
+| Style it Out | 53.00% | ~5,653 |
+| Escape Artist | 53.00% | ~5,653 |
 | Untouchable | 52.00% | ~5,546 |
-| Oh, It's On | 50.00% | ~5,332 |
-| Rydell's Rydes | 48.00% | ~5,119 |
-| Cash Money Millionaire | 45.00% | ~4,799 |
-| Lake Better Watch Out | 39.00% | ~4,159 |
+| Oh, It's On | 50.00% | ~5,333 |
+| Rydell's Rydes | 48.00% | ~5,120 |
+| Cash Money Millionaire | 45.00% | ~4,800 |
+| Lake Better Watch Out | 39.00% | ~4,160 |
 | #Blessed | 34.00% | ~3,626 |
-| Access All Areas | 33.00% | ~3,519 |
+| Access All Areas | 33.00% | ~3,520 |
 | Found Family | 31.00% | ~3,306 |
 | In the Flow | 29.00% | ~3,093 |
 | The Collector | 29.00% | ~3,093 |
 | Kick it | 29.00% | ~3,093 |
-| Top Billin' | 22.00% | ~2,346 |
+| Top Billin' | 22.00% | ~2,347 |
 | Teacher's Pet | 20.00% | ~2,133 |
 | Full House | 18.00% | ~1,920 |
 | Superstar | 18.00% | ~1,920 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~213 |
 | Cleaning Up | 2.00% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,665 (Ranked 162)  
+Progressed: 10,666 (Ranked 162)  
 Completed: 50 (0.47%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,4 +114,4 @@ Completed: 50 (0.47%) (Ranked 206)
 | 2023-11-19 | 10,481 | 50 |
 | 2023-11-20 | 10,562 | 50 |
 | 2023-11-21 | 10,637 | 50 |
-| 2023-11-22 | 10,665 | 50 |
+| 2023-11-22 | 10,666 | 50 |

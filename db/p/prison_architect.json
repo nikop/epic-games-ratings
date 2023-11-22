@@ -2,13 +2,13 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 383,
+  "Ranking_Rating": 382,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6963,10 +6963,10 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 196322,
+  "EOS_Progressed": 196336,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2309,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 2317,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
@@ -31573,6 +31573,11 @@
       "Time": "2023-11-22T09:09:18.8402305+00:00",
       "NumProgressed": 196322,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-22T10:09:08.5676893+00:00",
+      "NumProgressed": 196336,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -31584,7 +31589,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3926
+      "UsersEstimate": 3927
     },
     {
       "ID": "Achievement_1",
@@ -31616,7 +31621,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31412
+      "UsersEstimate": 31414
     },
     {
       "ID": "Achievement_13",
@@ -31664,7 +31669,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 49080
+      "UsersEstimate": 49084
     },
     {
       "ID": "Achievement_5",
@@ -31672,7 +31677,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3926
+      "UsersEstimate": 3927
     },
     {
       "ID": "Achievement_6",
@@ -31696,7 +31701,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17669
+      "UsersEstimate": 17670
     },
     {
       "ID": "Achievement_9",
@@ -31704,22 +31709,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9816
+      "UsersEstimate": 9817
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 196322,
+      "Progressed": 196336,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-22T01:46:42.1982121+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:09:18.8402302+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:09:08.5676889+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:32.1139212+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:57:28.674152+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:09:18.8403599+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:57:27.2407616+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:09:08.5678297+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -218,9 +218,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -266,9 +266,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 95,
+      "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:08:13.3693265+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:08:17.214757+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:57:55.0330013+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:08:13.3693631+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:57:47.0871806+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:08:17.2147836+00:00"
 }

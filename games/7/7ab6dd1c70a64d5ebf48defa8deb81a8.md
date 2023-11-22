@@ -28,11 +28,11 @@
 | Godslayer | 2.00% | ~4 |
 | Airborne | 2.00% | ~4 |
 | Miner | 2.00% | ~4 |
+| Summiter | 2.00% | ~4 |
+| Clear Sight | 1.00% | ~2 |
 | Shatterer | 1.00% | ~2 |
 | Slayer | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
-| Summiter | 1.00% | ~2 |
-| Clear Sight | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
 | Shardbearer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |

@@ -2,10 +2,10 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -790,6 +790,11 @@
       "Time": "2023-11-22T09:09:44.2827755+00:00",
       "NumProgressed": 312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T10:09:28.666912+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -802,23 +807,23 @@
       "Name": "Gold Rush",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 112
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 119
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_12",
@@ -840,9 +845,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_15",
@@ -858,15 +863,15 @@
       "Name": "Class Act",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_18",
@@ -888,7 +893,7 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 25,
       "UsersEstimate": 253
     },
@@ -930,7 +935,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_25",
@@ -952,15 +957,15 @@
       "ID": "achievement_3",
       "SetID": "jnappp",
       "Name": "Rookie Season",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_4",
       "SetID": "jnappp",
       "Name": "World Rally Champion!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -986,13 +991,13 @@
       "Name": "NEW PB!",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_8",
       "SetID": "jnappp",
       "Name": "Ghost Buster",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -1009,14 +1014,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-22T09:09:44.2827749+00:00",
+  "LastChanged_Achievements": "2023-11-22T10:09:28.6669117+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:01:06.5127476+00:00",
-  "LastUpdate_Achievements": "2023-11-22T09:09:44.2827952+00:00"
+  "LastUpdate_Ratings": "2023-11-22T10:00:11.7401741+00:00",
+  "LastUpdate_Achievements": "2023-11-22T10:09:28.6669307+00:00"
 }
