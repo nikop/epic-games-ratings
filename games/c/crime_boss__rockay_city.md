@@ -5,9 +5,9 @@ Rating: 3.95 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 3.00% | ~2,741 |
-| First One’s Free | 3.00% | ~2,741 |
-| Downed but Not Outed | 3.00% | ~2,741 |
+| Neophyte Ninja | 3.00% | ~2,742 |
+| First One’s Free | 3.00% | ~2,742 |
+| Downed but Not Outed | 3.00% | ~2,742 |
 | Underworld Initiate | 2.00% | ~1,828 |
 | Too Old for This | 2.00% | ~1,828 |
 | Fancy Pants | 2.00% | ~1,828 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,008)
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,382 (Ranked 92)  
+Progressed: 91,384 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 57 (0.06%) (Ranked 299)
 | 2023-11-19 | 91,321 | 57 |
 | 2023-11-20 | 91,347 | 57 |
 | 2023-11-21 | 91,374 | 57 |
-| 2023-11-22 | 91,382 | 57 |
+| 2023-11-22 | 91,384 | 57 |
 ## Awards
 Max (Diverse Characters): 542  (Ranked 204)  
-Sum: 3,081 (Ranked 175)  
+Sum: 3,083 (Ranked 175)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -275,7 +275,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 513 |
 | This game has Challenging Combat | 507 |
 | This game has Amazing Characters | 496 |
-| This game is Extremely Fun | 494 |
+| This game is Extremely Fun | 496 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -516,4 +516,4 @@ Diff (max vs sum): 29
 | 2023-11-19 | 3.95 | 540 | 3,062 |
 | 2023-11-20 | 3.95 | 540 | 3,071 |
 | 2023-11-21 | 3.95 | 540 | 3,073 |
-| 2023-11-22 | 3.95 | 542 | 3,081 |
+| 2023-11-22 | 3.95 | 542 | 3,083 |

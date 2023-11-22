@@ -6,54 +6,54 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~77,565 |
-| No Escape | 86.00% | ~68,769 |
-| Seeker of Power | 85.00% | ~67,969 |
-| Hopes and Dreams | 82.00% | ~65,570 |
-| Lantern Smasher | 78.00% | ~62,372 |
-| The Pirate's Way | 74.00% | ~59,173 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~56,774 |
-| The King of the Dark Elves | 68.00% | ~54,376 |
-| Memories of the Distant Past | 66.00% | ~52,776 |
-| Distortion's Progeny | 63.00% | ~50,377 |
-| Savant | 62.00% | ~49,578 |
-| A Landscape of Memory | 58.00% | ~46,379 |
-| The Wind's Light | 54.00% | ~43,181 |
-| Vague Remembrances | 49.00% | ~39,182 |
-| The Fire's Light | 47.00% | ~37,583 |
-| Phantom Memories | 47.00% | ~37,583 |
-| Imbued Memories | 47.00% | ~37,583 |
-| The Earth's Light | 45.00% | ~35,984 |
-| Shared Recollections | 42.00% | ~33,585 |
+| Manifestation of the Soul | 97.00% | ~77,567 |
+| No Escape | 86.00% | ~68,771 |
+| Seeker of Power | 85.00% | ~67,971 |
+| Hopes and Dreams | 82.00% | ~65,572 |
+| Lantern Smasher | 78.00% | ~62,373 |
+| The Pirate's Way | 74.00% | ~59,175 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~56,776 |
+| The King of the Dark Elves | 68.00% | ~54,377 |
+| Memories of the Distant Past | 66.00% | ~52,778 |
+| Distortion's Progeny | 63.00% | ~50,379 |
+| Savant | 62.00% | ~49,579 |
+| A Landscape of Memory | 58.00% | ~46,380 |
+| The Wind's Light | 54.00% | ~43,182 |
+| Vague Remembrances | 49.00% | ~39,183 |
+| The Fire's Light | 47.00% | ~37,584 |
+| Phantom Memories | 47.00% | ~37,584 |
+| Imbued Memories | 47.00% | ~37,584 |
+| The Earth's Light | 45.00% | ~35,985 |
+| Shared Recollections | 42.00% | ~33,586 |
 | The Water's Light | 40.00% | ~31,986 |
 | Path of the Sage | 40.00% | ~31,986 |
-| Malice Takes Root | 38.00% | ~30,386 |
+| Malice Takes Root | 38.00% | ~30,387 |
 | Path of the Dark Knight | 37.00% | ~29,587 |
 | Path of the Paladin | 37.00% | ~29,587 |
 | Path of the Breaker | 37.00% | ~29,587 |
-| Duty's Course | 36.00% | ~28,787 |
-| Path of the Liberator | 35.00% | ~27,987 |
-| Path of the Tyrant | 35.00% | ~27,987 |
+| Duty's Course | 36.00% | ~28,788 |
+| Path of the Liberator | 35.00% | ~27,988 |
+| Path of the Tyrant | 35.00% | ~27,988 |
 | Led by the Nose | 34.00% | ~27,188 |
 | Path of the Void Knight | 34.00% | ~27,188 |
-| Terminus of Fate | 33.00% | ~26,388 |
-| Path of the Ninja | 33.00% | ~26,388 |
-| His Name Is Garland | 33.00% | ~26,388 |
-| Path of the Assassin | 32.00% | ~25,588 |
-| Seeker of Ultimate Power | 24.00% | ~19,191 |
-| Artifact Collector | 22.00% | ~17,592 |
-| True Potential | 22.00% | ~17,592 |
-| Polymath | 22.00% | ~17,592 |
+| Terminus of Fate | 33.00% | ~26,389 |
+| Path of the Ninja | 33.00% | ~26,389 |
+| His Name Is Garland | 33.00% | ~26,389 |
+| Path of the Assassin | 32.00% | ~25,589 |
+| Seeker of Ultimate Power | 24.00% | ~19,192 |
+| Artifact Collector | 22.00% | ~17,593 |
+| True Potential | 22.00% | ~17,593 |
+| Polymath | 22.00% | ~17,593 |
 | Origin of True Chaos | 20.00% | ~15,993 |
-| Master's Awakening | 19.00% | ~15,193 |
-| Jack-of-All-Trades | 19.00% | ~15,193 |
-| Cycle of Darkness | 16.00% | ~12,794 |
+| Master's Awakening | 19.00% | ~15,194 |
+| Jack-of-All-Trades | 19.00% | ~15,194 |
+| Cycle of Darkness | 16.00% | ~12,795 |
 | Job Master | 8.00% | ~6,397 |
-| Crest Bearer | 7.00% | ~5,597 |
+| Crest Bearer | 7.00% | ~5,598 |
 | Strangers' Memories | 3.00% | ~2,399 |
 | A Tale of Origins and Endings | 2.00% | ~1,599 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,964 (Ranked 95)  
+Progressed: 79,966 (Ranked 95)  
 Completed: 2,192 (2.74%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 2,192 (2.74%) (Ranked 112)
 | 2023-11-19 | 79,958 | 2,190 |
 | 2023-11-20 | 79,958 | 2,191 |
 | 2023-11-21 | 79,962 | 2,192 |
-| 2023-11-22 | 79,964 | 2,192 |
+| 2023-11-22 | 79,966 | 2,192 |
 ## Awards
 Max (Great Boss Battles): 775  (Ranked 172)  
 Sum: 1,593 (Ranked 232)  

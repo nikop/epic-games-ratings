@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -707,9 +707,9 @@
       "Count": 112
     }
   ],
-  "EOS_Progressed": 1921,
+  "EOS_Progressed": 1922,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -5827,6 +5827,11 @@
       "Time": "2023-11-22T01:54:41.5345845+00:00",
       "NumProgressed": 1921,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-22T05:05:38.8116962+00:00",
+      "NumProgressed": 1922,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -5839,7 +5844,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "achievement_10",
@@ -5847,7 +5852,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "achievement_11",
@@ -5855,7 +5860,7 @@
       "Name": "Betrayed",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "achievement_12",
@@ -5903,7 +5908,7 @@
       "Name": "Trusted Contractor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_18",
@@ -5927,15 +5932,15 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1115
     },
     {
       "ID": "achievement_21",
@@ -5991,7 +5996,7 @@
       "Name": "Pack Rat",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_28",
@@ -6015,7 +6020,7 @@
       "Name": "All Systems Go",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "achievement_30",
@@ -6039,7 +6044,7 @@
       "Name": "Surgeon",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "achievement_33",
@@ -6103,7 +6108,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "achievement_40",
@@ -6127,7 +6132,7 @@
       "Name": "Brute Force",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "achievement_43",
@@ -6143,7 +6148,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "achievement_45",
@@ -6159,7 +6164,7 @@
       "Name": "Marked",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_47",
@@ -6175,7 +6180,7 @@
       "Name": "True Believer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "achievement_6",
@@ -6199,7 +6204,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "achievement_9",
@@ -6214,7 +6219,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1921,
+      "Progressed": 1922,
       "Completed": 10
     }
   ],
@@ -6222,8 +6227,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-18T01:45:06.4980839+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:06:18.5843462+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:05:38.8116958+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:57:51.9271122+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:06:18.5843896+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:57:57.0076925+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:05:38.8117509+00:00"
 }

@@ -21,9 +21,9 @@ Rating: 4.54 (Ranked 527)
 | Personal Assistant Personally Assisted | 1.00% | ~7,222 |
 | This is My Weapon | 1.00% | ~7,222 |
 | Welcome To Hell-A | 1.00% | ~7,222 |
-| Anger Management | 0.90% | ~6,499 |
-| But Doctor, I am Butcho | 0.90% | ~6,499 |
-| Can't Handle the Truth | 0.90% | ~6,499 |
+| Anger Management | 0.90% | ~6,500 |
+| But Doctor, I am Butcho | 0.90% | ~6,500 |
+| Can't Handle the Truth | 0.90% | ~6,500 |
 | Perks of the Job | 0.80% | ~5,777 |
 | Slayer Squad | 0.80% | ~5,777 |
 | Like Riding a Bike | 0.80% | ~5,777 |
@@ -45,9 +45,9 @@ Rating: 4.54 (Ranked 527)
 | Smorgasbord | 0.40% | ~2,889 |
 | Internet Famous | 0.40% | ~2,889 |
 | Variety is the Spice of Death | 0.40% | ~2,889 |
-| Make it So | 0.30% | ~2,166 |
-| LA Influential | 0.30% | ~2,166 |
-| Gore Horse | 0.30% | ~2,166 |
+| Make it So | 0.30% | ~2,167 |
+| LA Influential | 0.30% | ~2,167 |
+| Gore Horse | 0.30% | ~2,167 |
 | Top That, Tisha! | 0.30% | ~143 |
 | Sole Survivor | 0.20% | ~1,444 |
 | Sharpest Tool in the Box | 0.20% | ~1,444 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,155 (Ranked 21)  
+Progressed: 722,176 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,17 +273,17 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,155 | 2,423 |
+| 2023-11-22 | 722,176 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
-Sum: 11,660 (Ranked 84)  
+Sum: 11,662 (Ranked 84)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,650 |
 | This game is Great for Beginners | 580 |
 | This game has Diverse Characters | 555 |
-| This game has Quickly Understood Controls | 520 |
+| This game has Quickly Understood Controls | 522 |
 | This game is Relaxing | 501 |
 | This game has Amazing Storytelling | 484 |
 | This game is Highly Recommended | 471 |
@@ -507,4 +507,4 @@ Diff (max vs sum): -34
 | 2023-11-19 | 4.54 | 7,552 | 11,539 |
 | 2023-11-20 | 4.54 | 7,589 | 11,585 |
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
-| 2023-11-22 | 4.54 | 7,650 | 11,660 |
+| 2023-11-22 | 4.54 | 7,650 | 11,662 |

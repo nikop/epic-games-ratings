@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471172,
+  "EOS_Progressed": 471174,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23148,6 +23148,11 @@
       "Time": "2023-11-22T04:09:52.2454108+00:00",
       "NumProgressed": 471172,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-22T05:09:39.0322038+00:00",
+      "NumProgressed": 471174,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23175,7 +23180,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113081
+      "UsersEstimate": 113082
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -23247,7 +23252,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310974
+      "UsersEstimate": 310975
     },
     {
       "ID": "achievement_story_landa",
@@ -23279,7 +23284,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117793
+      "UsersEstimate": 117794
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -23335,7 +23340,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94234
+      "UsersEstimate": 94235
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -23343,7 +23348,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160198
+      "UsersEstimate": 160199
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -23583,7 +23588,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207316
+      "UsersEstimate": 207317
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -23615,7 +23620,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183757
+      "UsersEstimate": 183758
     },
     {
       "ID": "achievement_win_run_hard",
@@ -23790,21 +23795,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15106,
+      "Progressed": 15108,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471172,
+      "Progressed": 471174,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:09:52.2454106+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:09:39.0322035+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:58:20.8546157+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:09:52.2455538+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:58:18.0627194+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:09:39.0323747+00:00"
 }

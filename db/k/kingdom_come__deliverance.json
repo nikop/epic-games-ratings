@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -8745,9 +8745,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 809334,
+  "EOS_Progressed": 809336,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 874,
+  "EOS_NewPlayers": 873,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32965,6 +32965,11 @@
       "Time": "2023-11-22T04:08:40.8698315+00:00",
       "NumProgressed": 809334,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-22T05:08:43.8870517+00:00",
+      "NumProgressed": 809336,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -33000,7 +33005,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129493
+      "UsersEstimate": 129494
     },
     {
       "ID": "Awakening",
@@ -33008,7 +33013,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169960
+      "UsersEstimate": 169961
     },
     {
       "ID": "BadGirl",
@@ -33056,7 +33061,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258987
+      "UsersEstimate": 258988
     },
     {
       "ID": "Bookworm",
@@ -33136,7 +33141,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80933
+      "UsersEstimate": 80934
     },
     {
       "ID": "DavidHorak",
@@ -33296,7 +33301,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105213
+      "UsersEstimate": 105214
     },
     {
       "ID": "Judas",
@@ -33376,7 +33381,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56653
+      "UsersEstimate": 56654
     },
     {
       "ID": "MercenarysHonor",
@@ -33480,7 +33485,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56653
+      "UsersEstimate": 56654
     },
     {
       "ID": "Saviour",
@@ -33631,15 +33636,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 809334,
+      "Progressed": 809336,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-21T22:03:14.6837398+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:08:40.8698312+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:08:43.8870514+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.9251245+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:02:55.5347294+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:08:40.870036+00:00"
+  "LastUpdate_Ratings": "2023-11-22T05:03:03.4010872+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:08:43.8872215+00:00"
 }

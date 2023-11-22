@@ -14,23 +14,23 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Extra Life | 7.00% | ~392 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~392 |
 | Data Churn Type I | 7.00% | ~392 |
-| Millionaire | 6.00% | ~336 |
-| Data Churn Type II | 5.00% | ~280 |
+| Millionaire | 5.00% | ~280 |
 | Extra Life: Wish Granted | 4.00% | ~224 |
 | High Five! | 4.00% | ~224 |
 | Modular Progress | 4.00% | ~224 |
+| Data Churn Type II | 4.00% | ~224 |
 | Speedy | 4.00% | ~224 |
 | Campaign: Lesson Learned | 3.00% | ~168 |
 | Level: Bet On Bots | 3.00% | ~168 |
 | Modular Performance | 3.00% | ~168 |
 | Salesperson | 3.00% | ~168 |
-| Contender | 3.00% | ~168 |
 | Level: Merry-Go-Around | 2.00% | ~112 |
 | Charlies's Circuits: Artist | 2.00% | ~112 |
 | Modular Peak | 2.00% | ~112 |
 | Accountant | 2.00% | ~112 |
 | Data Churn Type III | 2.00% | ~112 |
 | Multi-Millionaire | 2.00% | ~112 |
+| Contender | 2.00% | ~112 |
 | Trophy Collector | 2.00% | ~112 |
 | Module Maniac | 2.00% | ~112 |
 | Overproducer | 2.00% | ~112 |
@@ -54,12 +54,12 @@ Number of Ratings: 75  (23.09.2022)
 | Campaign: Man vs. Machine | 0.40% | ~22 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~22 |
 | Rockstar | 0.40% | ~22 |
-| Champion | 0.30% | ~17 |
-| Trophy Hoarder | 0.30% | ~17 |
 | The Machinery: Goal Orientated | 0.30% | ~17 |
 | The Machinery: Energy Saver | 0.30% | ~17 |
 | Super Rich | 0.30% | ~17 |
 | Fully Packed | 0.30% | ~17 |
+| Champion | 0.20% | ~11 |
+| Trophy Hoarder | 0.20% | ~11 |
 | Happy Hour | 0.20% | ~11 |
 | Achiever | 0.20% | ~11 |
 | Grand Master | 0.10% | ~6 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,600 (Ranked 188)  
+Progressed: 5,601 (Ranked 188)  
 Completed: 1 (0.02%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 1 (0.02%) (Ranked 326)
 | 2023-11-19 | 5,595 | 1 |
 | 2023-11-20 | 5,597 | 1 |
 | 2023-11-21 | 5,599 | 1 |
-| 2023-11-22 | 5,600 | 1 |
+| 2023-11-22 | 5,601 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6697,10 +6697,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11660,
       "NumberOfAwardsMax": 7650
+    },
+    {
+      "Time": "2023-11-22T04:57:46.0330768+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11662,
+      "NumberOfAwardsMax": 7650
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11660,
+  "NumberOfAwards": 11662,
   "NumberOfAwardsMax": 7650,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6720,7 +6726,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 520
+      "Count": 522
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6759,9 +6765,9 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 722155,
+  "EOS_Progressed": 722176,
   "EOS_Completed": 2423,
-  "EOS_NewPlayers": 3562,
+  "EOS_NewPlayers": 3576,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31424,6 +31430,11 @@
       "Time": "2023-11-22T04:04:40.6152942+00:00",
       "NumProgressed": 722155,
       "NumCompleted": 2423
+    },
+    {
+      "Time": "2023-11-22T05:04:23.3085728+00:00",
+      "NumProgressed": 722176,
+      "NumCompleted": 2423
     }
   ],
   "TotalAchievements": 51,
@@ -31459,7 +31470,7 @@
       "Name": "Anger Management",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6499
+      "UsersEstimate": 6500
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -31467,7 +31478,7 @@
       "Name": "Make it So",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "ach_big_name_in_town",
@@ -31475,7 +31486,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "ach_blueprinted",
@@ -31523,7 +31534,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6499
+      "UsersEstimate": 6500
     },
     {
       "ID": "ach_doom_buddies",
@@ -31547,7 +31558,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6499
+      "UsersEstimate": 6500
     },
     {
       "ID": "ach_finisher",
@@ -31659,7 +31670,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "ach_metropolitan",
@@ -31842,22 +31853,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 722155,
+      "Progressed": 722176,
       "Completed": 2423
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 47697,
+      "Progressed": 47718,
       "Completed": 36578
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-22T02:22:52.3492621+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:04:40.615294+00:00",
+  "LastChanged": "2023-11-22T04:57:46.0330767+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:04:23.3085724+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:57:35.6229965+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:04:40.6154144+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:57:46.0330772+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:04:23.3087431+00:00"
 }

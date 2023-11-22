@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -826,9 +826,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47278,
+  "EOS_Progressed": 47282,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 873,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25216,6 +25216,11 @@
       "Time": "2023-11-22T04:06:06.4248508+00:00",
       "NumProgressed": 47278,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-22T05:05:29.6185048+00:00",
+      "NumProgressed": 47282,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -25267,7 +25272,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12765
+      "UsersEstimate": 12766
     },
     {
       "ID": "goals180",
@@ -25347,7 +25352,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8037
+      "UsersEstimate": 8038
     },
     {
       "ID": "novice",
@@ -25355,7 +25360,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7564
+      "UsersEstimate": 7565
     },
     {
       "ID": "playerFelipe",
@@ -25379,7 +25384,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3782
+      "UsersEstimate": 3783
     },
     {
       "ID": "playerPaz",
@@ -25499,7 +25504,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3310
     },
     {
       "ID": "vandal",
@@ -25523,7 +25528,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3782
+      "UsersEstimate": 3783
     },
     {
       "ID": "windswept",
@@ -25538,15 +25543,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47278,
+      "Progressed": 47282,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-18T16:00:09.1538988+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:06:06.4248506+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:05:29.6185044+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.043749+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:02:35.0699444+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:06:06.4249609+00:00"
+  "LastUpdate_Ratings": "2023-11-22T05:02:49.2702362+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:05:29.618655+00:00"
 }

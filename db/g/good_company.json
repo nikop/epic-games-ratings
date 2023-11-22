@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5600,
+  "EOS_Progressed": 5601,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4373,6 +4373,11 @@
       "Time": "2023-11-22T01:53:00.502927+00:00",
       "NumProgressed": 5600,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T05:03:58.1998965+00:00",
+      "NumProgressed": 5601,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4390,17 +4395,17 @@
       "ID": "ach_all_ea_challenges",
       "SetID": "8cb3id7",
       "Name": "Champion",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_all_ea_trophies",
       "SetID": "8cb3id7",
       "Name": "Trophy Hoarder",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_all_trophies",
@@ -4734,9 +4739,9 @@
       "ID": "ach_frp_high_networth",
       "SetID": "8cb3id7",
       "Name": "Millionaire",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 280
     },
     {
       "ID": "ach_frp_many_modules",
@@ -4814,9 +4819,9 @@
       "ID": "ach_frp_researchdata2",
       "SetID": "8cb3id7",
       "Name": "Data Churn Type II",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 224
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -4878,9 +4883,9 @@
       "ID": "ach_many_challenges",
       "SetID": "8cb3id7",
       "Name": "Contender",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_many_trophies",
@@ -4991,15 +4996,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5600,
+      "Progressed": 5601,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:04:07.4904611+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:03:58.199896+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.0307877+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:57:20.3109177+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:04:07.4905283+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:57:33.9179714+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:03:58.1999808+00:00"
 }

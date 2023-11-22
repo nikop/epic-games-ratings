@@ -2501,9 +2501,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 22201,
+  "EOS_Progressed": 22204,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1499,
+  "EOS_NewPlayers": 1495,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10216,6 +10216,11 @@
       "Time": "2023-11-22T04:04:34.1399917+00:00",
       "NumProgressed": 22201,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T05:04:18.2619424+00:00",
+      "NumProgressed": 22204,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -10396,7 +10401,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "Achievement_Trophy23",
@@ -10404,7 +10409,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "Achievement_Trophy24",
@@ -10412,7 +10417,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 9324
+      "UsersEstimate": 9326
     },
     {
       "ID": "Achievement_Trophy25",
@@ -10428,7 +10433,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 7548
+      "UsersEstimate": 7549
     },
     {
       "ID": "Achievement_Trophy27",
@@ -10444,7 +10449,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7326
+      "UsersEstimate": 7327
     },
     {
       "ID": "Achievement_Trophy29",
@@ -10460,7 +10465,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 6660
+      "UsersEstimate": 6661
     },
     {
       "ID": "Achievement_Trophy31",
@@ -10468,7 +10473,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "Achievement_Trophy32",
@@ -10516,7 +10521,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5550
+      "UsersEstimate": 5551
     },
     {
       "ID": "Achievement_Trophy38",
@@ -10524,7 +10529,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "Achievement_Trophy39",
@@ -10532,7 +10537,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "Achievement_Trophy40",
@@ -10548,7 +10553,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "Achievement_Trophy42",
@@ -10564,7 +10569,7 @@
       "Name": "Light of my life",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3108
+      "UsersEstimate": 3109
     },
     {
       "ID": "Achievement_Trophy44",
@@ -10586,9 +10591,9 @@
       "ID": "Achievement_Trophy46",
       "SetID": "724h0m0",
       "Name": "Grin and bear it",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 666
     },
     {
       "ID": "Achievement_Trophy47",
@@ -10612,7 +10617,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "Achievement_Trophy50",
@@ -10715,7 +10720,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 22201,
+      "Progressed": 22204,
       "Completed": 1
     }
   ],
@@ -10723,8 +10728,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-21T20:59:48.8102363+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:04:34.1399916+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:04:18.2619422+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:32.6007984+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:00:10.5977482+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:04:34.1400541+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:59:38.4584181+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:04:18.2620094+00:00"
 }

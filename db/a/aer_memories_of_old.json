@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24655,
+  "EOS_Progressed": 24658,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -23593,6 +23593,11 @@
       "Time": "2023-11-22T03:08:37.6960362+00:00",
       "NumProgressed": 24655,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-11-22T05:08:33.9531052+00:00",
+      "NumProgressed": 24658,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 20,
@@ -23604,7 +23609,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4192
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -23666,9 +23671,9 @@
       "ID": "FOUND_DEER_STATUE",
       "SetID": "b6m2mm5",
       "Name": "Antlers of Stone",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3452
     },
     {
       "ID": "FOUND_ERIN",
@@ -23700,7 +23705,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -23724,7 +23729,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18984
+      "UsersEstimate": 18987
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23732,7 +23737,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6657
+      "UsersEstimate": 6658
     },
     {
       "ID": "NORTH_FINISHED",
@@ -23740,7 +23745,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -23763,15 +23768,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24655,
+      "Progressed": 24658,
       "Completed": 471
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:08:27.6944753+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:08:33.9531047+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:01:20.3152+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:08:27.6945827+00:00"
+  "LastUpdate_Ratings": "2023-11-22T05:00:29.4194039+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:08:33.953242+00:00"
 }

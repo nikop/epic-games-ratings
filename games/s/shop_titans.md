@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,045 |
-| Basic in Bulk | 5.00% | ~7,045 |
-| Titan's First Steps | 5.00% | ~7,045 |
+| Sponsored by Argon | 5.00% | ~7,046 |
+| Basic in Bulk | 5.00% | ~7,046 |
+| Titan's First Steps | 5.00% | ~7,046 |
 | Tinkle of Coins | 4.00% | ~5,636 |
 | One Easy Payment | 3.00% | ~4,227 |
 | Some Assembly Required | 3.00% | ~4,227 |
@@ -54,6 +54,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 1.00% | ~1,409 |
 | Complete Monopoly | 1.00% | ~1,409 |
 | A Notch Above the Rest | 0.90% | ~1,268 |
+| Above the Norm | 0.90% | ~1,268 |
 | The King's Caprice | 0.90% | ~1,268 |
 | Big Game Hunting | 0.90% | ~1,268 |
 | Locally Sourced | 0.90% | ~1,268 |
@@ -71,7 +72,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.90% | ~1,268 |
 | Cream of the Crop | 0.80% | ~1,127 |
 | Proud Paladin | 0.80% | ~1,127 |
-| Above the Norm | 0.80% | ~1,127 |
 | A Ronin Reborn | 0.80% | ~1,127 |
 | Booty by the Boatload | 0.80% | ~1,127 |
 | Archivist | 0.80% | ~1,127 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,908 (Ranked 80)  
+Progressed: 140,911 (Ranked 80)  
 Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,908 | 191 |
+| 2023-11-22 | 140,911 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,575 (Ranked 50)  

@@ -13,12 +13,12 @@ Rating: 4.56 (Ranked 491)
 | Impossible Objects | 5.00% | ~761 |
 | Safe Cracker | 5.00% | ~58 |
 | Zen Master | 5.00% | ~58 |
-| Stogie for Fogey | 4.00% | ~608 |
-| Drug Gifter | 4.00% | ~608 |
-| Spore Taste | 4.00% | ~608 |
-| Martian Music | 4.00% | ~608 |
-| Call it Even | 4.00% | ~608 |
-| Captain Drummer | 4.00% | ~608 |
+| Stogie for Fogey | 4.00% | ~609 |
+| Drug Gifter | 4.00% | ~609 |
+| Spore Taste | 4.00% | ~609 |
+| Martian Music | 4.00% | ~609 |
+| Call it Even | 4.00% | ~609 |
+| Captain Drummer | 4.00% | ~609 |
 | Keep Arjun in Check | 4.00% | ~47 |
 | Madame Undersecretary | 4.00% | ~47 |
 | Data Archivist | 3.00% | ~456 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,211 (Ranked 152)  
+Progressed: 15,216 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 35 (0.23%) (Ranked 246)
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
-| 2023-11-22 | 15,211 | 35 |
+| 2023-11-22 | 15,216 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

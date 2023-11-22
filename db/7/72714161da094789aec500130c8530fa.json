@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -394,9 +394,9 @@
       "ID": "_armor_v2",
       "SetID": "2d5739o",
       "Name": "Armor v2",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "_armor_v3",
@@ -450,9 +450,9 @@
       "ID": "_cannon",
       "SetID": "2d5739o",
       "Name": "Cannon",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "_cannon_sentinel",
@@ -594,9 +594,9 @@
       "ID": "_missile",
       "SetID": "2d5739o",
       "Name": "Missile",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "_mothership",
@@ -690,9 +690,9 @@
       "ID": "_spc_v2",
       "SetID": "2d5739o",
       "Name": "SPC v2",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "_spc_v3",
@@ -745,8 +745,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:05:19.2731526+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:04:52.9425488+00:00",
   "LastUpdate_AppInfo": "2023-11-15T20:57:13.4504949+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:00:32.7667187+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:05:19.2731824+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:59:54.3415464+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:04:52.9425733+00:00"
 }

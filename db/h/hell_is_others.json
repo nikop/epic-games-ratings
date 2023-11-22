@@ -1249,9 +1249,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258616,
+  "EOS_Progressed": 258617,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22099,6 +22099,11 @@
       "Time": "2023-11-22T03:03:24.3986256+00:00",
       "NumProgressed": 258616,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-22T05:03:18.704329+00:00",
+      "NumProgressed": 258617,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22222,7 +22227,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7758
+      "UsersEstimate": 7759
     },
     {
       "ID": "CreditLevel3",
@@ -22382,7 +22387,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7758
+      "UsersEstimate": 7759
     },
     {
       "ID": "KillOtherWithMine",
@@ -22557,7 +22562,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258616,
+      "Progressed": 258617,
       "Completed": 3
     }
   ],
@@ -22565,8 +22570,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-17T15:57:42.0675492+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:03:16.1731309+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:03:18.7043287+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.5809709+00:00",
-  "LastUpdate_Ratings": "2023-11-22T04:00:29.3564012+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:03:16.1732354+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:59:51.8012444+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:03:18.7044609+00:00"
 }

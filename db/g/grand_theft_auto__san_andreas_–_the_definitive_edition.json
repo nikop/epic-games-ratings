@@ -1543,9 +1543,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13741,
+  "EOS_Progressed": 13743,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14833,6 +14833,11 @@
       "Time": "2023-11-22T04:09:09.2838524+00:00",
       "NumProgressed": 13741,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-22T05:09:05.8499265+00:00",
+      "NumProgressed": 13743,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14844,7 +14849,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11268
+      "UsersEstimate": 11269
     },
     {
       "ID": "ACH02",
@@ -14892,7 +14897,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "ACH08",
@@ -14900,7 +14905,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7008
+      "UsersEstimate": 7009
     },
     {
       "ID": "ACH09",
@@ -14980,7 +14985,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACH19",
@@ -15123,7 +15128,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13741,
+      "Progressed": 13743,
       "Completed": 53
     }
   ],
@@ -15131,8 +15136,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-21T08:57:51.2071784+00:00",
-  "LastChanged_Achievements": "2023-11-22T04:09:09.283852+00:00",
+  "LastChanged_Achievements": "2023-11-22T05:09:05.849926+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:30.7041733+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:58:06.6014242+00:00",
-  "LastUpdate_Achievements": "2023-11-22T04:09:09.2839216+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:58:07.6268685+00:00",
+  "LastUpdate_Achievements": "2023-11-22T05:09:05.8500165+00:00"
 }
