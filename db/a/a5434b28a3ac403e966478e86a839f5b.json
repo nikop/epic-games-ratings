@@ -2,9 +2,9 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 557,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
@@ -1780,6 +1780,11 @@
       "Time": "2023-11-22T19:04:10.542871+00:00",
       "NumProgressed": 556,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T21:03:28.6493838+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1808,7 +1813,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_eou3",
@@ -1872,7 +1877,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_rogue",
@@ -1880,7 +1885,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_xatrix",
@@ -1895,14 +1900,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 557,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-22T20:03:24.7398756+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:03:28.6493834+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:42.3518344+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:59:00.8733291+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:03:24.739897+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:59:19.0242532+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:03:28.6494033+00:00"
 }

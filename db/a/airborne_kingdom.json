@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7520,
+  "EOS_Progressed": 7521,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -5848,6 +5848,11 @@
       "Time": "2023-11-22T15:08:32.2110317+00:00",
       "NumProgressed": 7520,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-22T21:03:03.7211967+00:00",
+      "NumProgressed": 7521,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5875,7 +5880,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -5907,7 +5912,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5995,7 +6000,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -6003,7 +6008,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -6011,7 +6016,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4211
+      "UsersEstimate": 4212
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6074,15 +6079,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7520,
+      "Progressed": 7521,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:08:37.5983085+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:03:03.7211963+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:15.536262+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:02:54.7297411+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:08:37.5983496+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:02:52.7972177+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:03:03.7212445+00:00"
 }

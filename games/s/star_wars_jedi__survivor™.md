@@ -5,48 +5,48 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,392 |
-| For Saw Gerrera | 98.00% | ~8,307 |
-| Grab Some Seat | 91.00% | ~7,714 |
-| Can You Pet the Bogling? | 87.00% | ~7,375 |
-| The Past Made Present | 83.00% | ~7,036 |
-| Survivors, We Adapt | 79.00% | ~6,697 |
-| Among the Masters | 78.00% | ~6,612 |
-| They Never Saw It Coming | 77.00% | ~6,527 |
-| Who Gives a Puck | 74.00% | ~6,273 |
-| For the Path | 66.00% | ~5,595 |
-| Now, This Isn't Podracing | 65.00% | ~5,510 |
-| Mirror Match | 64.00% | ~5,425 |
-| Skywalker | 62.00% | ~5,256 |
-| Out of Bedlam | 61.00% | ~5,171 |
-| Cleaning Up | 54.00% | ~4,578 |
-| Tanalorr Bound | 53.00% | ~4,493 |
-| Kitted Out | 52.00% | ~4,408 |
-| Tragedy | 51.00% | ~4,323 |
-| Hey, Luke At Us | 50.00% | ~4,238 |
-| At the Precipice | 49.00% | ~4,154 |
-| Into the Abyss | 47.00% | ~3,984 |
-| Riposte | 46.00% | ~3,899 |
-| A Place You Could Call Home | 45.00% | ~3,815 |
-| Greezy Money | 44.00% | ~3,730 |
-| Catch! | 41.00% | ~3,476 |
-| They're Probably Fine | 40.00% | ~3,391 |
-| Han Slowlo | 38.00% | ~3,221 |
-| There Is No Try | 37.00% | ~3,136 |
-| The Jedi Path | 32.00% | ~2,713 |
-| This Is Canon | 29.00% | ~2,458 |
-| It's a Trap | 26.00% | ~2,204 |
-| You've Got A Friend | 23.00% | ~1,950 |
-| King of the World | 16.00% | ~1,356 |
+| Rooftop Duel | 99.00% | ~8,398 |
+| For Saw Gerrera | 98.00% | ~8,313 |
+| Grab Some Seat | 91.00% | ~7,720 |
+| Can You Pet the Bogling? | 87.00% | ~7,380 |
+| The Past Made Present | 83.00% | ~7,041 |
+| Survivors, We Adapt | 79.00% | ~6,702 |
+| Among the Masters | 78.00% | ~6,617 |
+| They Never Saw It Coming | 77.00% | ~6,532 |
+| Who Gives a Puck | 74.00% | ~6,277 |
+| For the Path | 66.00% | ~5,599 |
+| Now, This Isn't Podracing | 65.00% | ~5,514 |
+| Mirror Match | 64.00% | ~5,429 |
+| Skywalker | 62.00% | ~5,259 |
+| Out of Bedlam | 61.00% | ~5,175 |
+| Cleaning Up | 54.00% | ~4,581 |
+| Tanalorr Bound | 53.00% | ~4,496 |
+| Kitted Out | 52.00% | ~4,411 |
+| Tragedy | 51.00% | ~4,326 |
+| Hey, Luke At Us | 50.00% | ~4,242 |
+| At the Precipice | 49.00% | ~4,157 |
+| Into the Abyss | 47.00% | ~3,987 |
+| Riposte | 46.00% | ~3,902 |
+| A Place You Could Call Home | 45.00% | ~3,817 |
+| Greezy Money | 44.00% | ~3,733 |
+| Catch! | 41.00% | ~3,478 |
+| They're Probably Fine | 40.00% | ~3,393 |
+| Han Slowlo | 38.00% | ~3,224 |
+| There Is No Try | 37.00% | ~3,139 |
+| The Jedi Path | 32.00% | ~2,715 |
+| This Is Canon | 29.00% | ~2,460 |
+| It's a Trap | 26.00% | ~2,206 |
+| You've Got A Friend | 23.00% | ~1,951 |
+| King of the World | 16.00% | ~1,357 |
 | Reconnaissance | 15.00% | ~1,272 |
-| Max Capacity | 14.00% | ~1,187 |
-| A Presence I've Not Felt Since... | 14.00% | ~1,187 |
-| Slam Dunk | 12.00% | ~1,017 |
-| Star Tours | 11.00% | ~932 |
+| Max Capacity | 14.00% | ~1,188 |
+| A Presence I've Not Felt Since... | 14.00% | ~1,188 |
+| Slam Dunk | 12.00% | ~1,018 |
+| Star Tours | 11.00% | ~933 |
 | Caij Match | 10.00% | ~848 |
 | Gambler | 10.00% | ~848 |
 | Growth Spurt | 9.00% | ~763 |
-| Perk of the Job | 7.00% | ~593 |
+| Perk of the Job | 7.00% | ~594 |
 | I'm a Living Legend | 6.00% | ~509 |
 | Road House | 6.00% | ~509 |
 | Skoova Diving | 6.00% | ~509 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 588)
 | Blood, Sweat, and Tears | 3.00% | ~254 |
 | Pinpoint | 2.00% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,477 (Ranked 170)  
+Progressed: 8,483 (Ranked 170)  
 Completed: 49 (0.58%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,11 +126,11 @@ Completed: 49 (0.58%) (Ranked 192)
 | 2023-11-19 | 8,316 | 46 |
 | 2023-11-20 | 8,375 | 48 |
 | 2023-11-21 | 8,426 | 48 |
-| 2023-11-22 | 8,477 | 49 |
+| 2023-11-22 | 8,483 | 49 |
 ## Awards
-Max (Great Boss Battles): 3,293  (Ranked 95)  
+Max (Great Boss Battles): 3,293  (Ranked 96)  
 Sum: 5,062 (Ranked 137)  
-Diff (max vs sum): -42  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,293 |

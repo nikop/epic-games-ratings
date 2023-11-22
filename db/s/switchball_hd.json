@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -634,6 +634,11 @@
       "Time": "2023-11-22T12:09:14.7859966+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T21:09:11.9220525+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -651,9 +656,9 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
@@ -693,7 +698,7 @@
       "Name": "Speedroller Rookie",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -716,14 +721,14 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-11-22T20:09:14.614652+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:09:11.922052+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:05.5970991+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:58:12.6527374+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:09:14.6146617+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:58:23.0999023+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:09:11.9220614+00:00"
 }

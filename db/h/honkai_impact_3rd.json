@@ -4,7 +4,7 @@
   "ProductSlug": "honkai-impact-3rd",
   "Ranking_Rating": 588,
   "Ranking_Popularity": 97,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 451,
@@ -8645,10 +8645,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 11309,
       "NumberOfAwardsMax": 3033
+    },
+    {
+      "Time": "2023-11-22T20:57:49.5945163+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 11311,
+      "NumberOfAwardsMax": 3033
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11309,
+  "NumberOfAwards": 11311,
   "NumberOfAwardsMax": 3033,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8710,7 +8716,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 488
+      "Count": 490
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8749,8 +8755,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-11-22T17:57:39.8872943+00:00",
+  "LastChanged": "2023-11-22T20:57:49.5945161+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.6470015+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:57:43.4754349+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:03:43.4628009+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:57:49.594517+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:03:49.8023218+00:00"
 }

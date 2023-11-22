@@ -4,11 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Task Apprentice | 23.00% | ~3 |
 | Trainee | 15.00% | ~2 |
 | Line Up | 15.00% | ~2 |
 | Steam Power | 15.00% | ~2 |
-| Task Apprentice | 15.00% | ~2 |
 | City Link | 15.00% | ~2 |
+| Double Trouble | 15.00% | ~2 |
 | Billionaire Club | 8.00% | ~1 |
 | Full House | 8.00% | ~1 |
 | Speed Demon | 8.00% | ~1 |
@@ -20,7 +21,6 @@
 | Heavy Load | 8.00% | ~1 |
 | Line Master | 8.00% | ~1 |
 | Industrial Revolution | 8.00% | ~1 |
-| Double Trouble | 8.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |

@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1365,
+  "EOS_Progressed": 1366,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
@@ -4024,6 +4024,11 @@
       "Time": "2023-11-22T20:09:21.7285249+00:00",
       "NumProgressed": 1365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T21:09:19.6225673+00:00",
+      "NumProgressed": 1366,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4132,7 +4137,7 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_21",
@@ -4260,7 +4265,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_36",
@@ -4276,7 +4281,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "achievement_38",
@@ -4284,7 +4289,7 @@
       "Name": "Survivor",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_39",
@@ -4300,7 +4305,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_40",
@@ -4308,7 +4313,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "achievement_41",
@@ -4539,13 +4544,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1365,
+      "Progressed": 1366,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1365,
+      "Progressed": 1366,
       "Completed": 1
     }
   ],
@@ -4553,8 +4558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-22T20:09:21.7285244+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:09:19.6225667+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:57:32.4052997+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:09:21.7286184+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:57:36.465601+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:09:19.6226245+00:00"
 }

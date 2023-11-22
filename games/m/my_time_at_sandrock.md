@@ -6,7 +6,7 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 261.00% | ~971 |
+| Adept Assembler | 262.00% | ~975 |
 | Iron Chef | 188.00% | ~699 |
 | Greeno-B-Gone | 133.00% | ~495 |
 | Your Especially Earned Trajectory | 109.00% | ~405 |
@@ -33,10 +33,10 @@ Number of Ratings: 892  (23.09.2022)
 | Anti-Santa | 49.00% | ~182 |
 | Panda-kin | 48.00% | ~179 |
 | Finishing Touches | 48.00% | ~179 |
+| Waste Not Want Not | 48.00% | ~179 |
 | Bridging the Gap | 47.00% | ~175 |
 | Martle's Dream | 47.00% | ~175 |
 | Mole Masher | 47.00% | ~175 |
-| Waste Not Want Not | 47.00% | ~175 |
 | Knowledge is Power | 44.00% | ~164 |
 | My Time Mansion | 44.00% | ~164 |
 | Better Late than Never | 44.00% | ~164 |

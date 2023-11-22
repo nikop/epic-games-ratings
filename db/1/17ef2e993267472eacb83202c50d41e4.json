@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8181,
+  "EOS_Progressed": 8182,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7036,6 +7036,11 @@
       "Time": "2023-11-22T20:09:22.5258706+00:00",
       "NumProgressed": 8181,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T21:09:20.3513174+00:00",
+      "NumProgressed": 8182,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7192,7 +7197,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "GamesWon10",
@@ -7472,7 +7477,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "PlayerKills10",
@@ -7608,7 +7613,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "TSUPurchased1",
@@ -7639,7 +7644,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8181,
+      "Progressed": 8182,
       "Completed": 1
     }
   ],
@@ -7647,8 +7652,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-22T20:09:22.5258701+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:09:20.3513172+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:02:43.6803741+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:09:22.5259637+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:02:40.1324854+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:09:20.3514354+00:00"
 }

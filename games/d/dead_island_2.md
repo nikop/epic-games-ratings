@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~964 |
-| Whatever It Takes | 2.00% | ~964 |
-| Pork Chopped | 2.00% | ~964 |
+| One of Us | 2.00% | ~965 |
+| Whatever It Takes | 2.00% | ~965 |
+| Pork Chopped | 2.00% | ~965 |
 | Dr. Reed, I Presume? | 1.00% | ~7,227 |
 | Git Gutte! | 1.00% | ~7,227 |
 | Anger Management | 1.00% | ~7,227 |
@@ -22,25 +22,25 @@ Rating: 4.54 (Ranked 527)
 | Personal Assistant Personally Assisted | 1.00% | ~7,227 |
 | This is My Weapon | 1.00% | ~7,227 |
 | Welcome To Hell-A | 1.00% | ~7,227 |
-| But Doctor, I am Butcho | 0.90% | ~6,504 |
-| Can't Handle the Truth | 0.90% | ~6,504 |
-| Like Riding a Bike | 0.90% | ~6,504 |
-| A Patton Emerges | 0.90% | ~6,504 |
-| Perks of the Job | 0.80% | ~5,781 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,781 |
-| Slayer Squad | 0.80% | ~5,781 |
-| Zombologist | 0.80% | ~5,781 |
-| Ooh, Shiny! | 0.80% | ~5,781 |
-| Our True Nature | 0.80% | ~5,781 |
+| But Doctor, I am Butcho | 0.90% | ~6,505 |
+| Can't Handle the Truth | 0.90% | ~6,505 |
+| Like Riding a Bike | 0.90% | ~6,505 |
+| A Patton Emerges | 0.90% | ~6,505 |
+| Perks of the Job | 0.80% | ~5,782 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,782 |
+| Slayer Squad | 0.80% | ~5,782 |
+| Zombologist | 0.80% | ~5,782 |
+| Ooh, Shiny! | 0.80% | ~5,782 |
+| Our True Nature | 0.80% | ~5,782 |
 | Making Your Mark | 0.70% | ~5,059 |
 | I Am the Resurrection | 0.70% | ~5,059 |
 | Max Headroom | 0.70% | ~5,059 |
 | Not Even My Final Form | 0.60% | ~4,336 |
 | Humanity Distilled | 0.60% | ~4,336 |
 | Down with the Sickness | 0.60% | ~4,336 |
-| Jumbo Keyring | 0.50% | ~3,613 |
-| Go, Bobcats! | 0.50% | ~3,613 |
-| Rising Star | 0.50% | ~3,613 |
+| Jumbo Keyring | 0.50% | ~3,614 |
+| Go, Bobcats! | 0.50% | ~3,614 |
+| Rising Star | 0.50% | ~3,614 |
 | On Safari | 0.40% | ~2,891 |
 | Smorgasbord | 0.40% | ~2,891 |
 | Internet Famous | 0.40% | ~2,891 |
@@ -52,12 +52,12 @@ Rating: 4.54 (Ranked 527)
 | Sole Survivor | 0.20% | ~1,445 |
 | Sharpest Tool in the Box | 0.20% | ~1,445 |
 | Survival Skills | 0.20% | ~1,445 |
-| Lawn and Order | 0.20% | ~96 |
+| Lawn and Order | 0.20% | ~97 |
 | Donk! | 0.10% | ~723 |
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,674 (Ranked 21)  
+Progressed: 722,726 (Ranked 21)  
 Completed: 2,424 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,424 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,674 | 2,424 |
+| 2023-11-22 | 722,726 | 2,424 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
 Sum: 11,671 (Ranked 84)  

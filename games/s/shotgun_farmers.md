@@ -55,11 +55,11 @@
 | 30 Days | 0.30% | ~1 |
 | Darkside Survivor | 0.30% | ~1 |
 | Forestside Survivor | 0.30% | ~1 |
+| Graveside Survivor | 0.30% | ~1 |
 | Pro Carrocketeer | 0.30% | ~1 |
 | Berry Loved | 0.30% | ~1 |
 | Carrocket From Above | 0.30% | ~1 |
 | Heal Me Peas | 0.30% | ~1 |
-| Graveside Survivor | 0.00% | ~0 |
 | Hardcore Parkour | 0.00% | ~0 |
 | Cow Topper | 0.00% | ~0 |
 | Prestige 1 - Farmhand | 0.00% | ~0 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340 (Ranked 332)  
+Progressed: 340 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |

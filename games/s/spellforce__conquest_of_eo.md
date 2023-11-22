@@ -35,6 +35,7 @@
 | Defeat Uram | 17.00% | ~4 |
 | Stormwatch Faste | 17.00% | ~4 |
 | Friend of Orgash | 17.00% | ~4 |
+| Friend of Silver Drift Hollow | 17.00% | ~4 |
 | Friend of Windholme | 17.00% | ~4 |
 | Defeat Hokan | 13.00% | ~3 |
 | Defeat Ianna | 13.00% | ~3 |
@@ -44,7 +45,6 @@
 | Lore's Tale | 13.00% | ~3 |
 | Silver Drift Hollow Mine | 13.00% | ~3 |
 | A Master of Magic | 13.00% | ~3 |
-| Friend of Silver Drift Hollow | 13.00% | ~3 |
 | Magic Academy | 13.00% | ~3 |
 | A Joke | 13.00% | ~3 |
 | Get to the Airship! | 8.00% | ~2 |

@@ -31,7 +31,7 @@
 | Merciless | 42.00% | ~573 |
 | Krogan Ally | 41.00% | ~559 |
 | Sentinel Ally | 40.00% | ~546 |
-| Head Hunter | 39.00% | ~532 |
+| Head Hunter | 40.00% | ~546 |
 | Operative | 39.00% | ~532 |
 | Scholar | 39.00% | ~532 |
 | Veteran | 37.00% | ~505 |
@@ -63,12 +63,12 @@
 | Archivist | 29.00% | ~396 |
 | Fade Away | 29.00% | ~396 |
 | Treason | 29.00% | ~396 |
+| Agent | 29.00% | ~396 |
 | Digital Exorcist | 29.00% | ~396 |
 | Bringer of War | 29.00% | ~396 |
 | Friend or Foe | 28.00% | ~382 |
 | Cat's in the Cradle | 28.00% | ~382 |
 | Doppelganger | 28.00% | ~382 |
-| Agent | 28.00% | ~382 |
 | Mission Accomplished | 27.00% | ~368 |
 | Suicide Mission | 27.00% | ~368 |
 | Against All Odds | 27.00% | ~368 |

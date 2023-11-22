@@ -23,7 +23,7 @@
 | Master of the Skies | 50.00% | ~158 |
 | Counter Specialist | 50.00% | ~158 |
 | Axer of Auspice | 45.00% | ~143 |
-| Mighty Marmelizer | 42.00% | ~133 |
+| Mighty Marmelizer | 43.00% | ~136 |
 | Fair Means or Foul | 42.00% | ~133 |
 | Single Minded | 41.00% | ~130 |
 | Snare Specialist | 41.00% | ~130 |
@@ -40,7 +40,7 @@
 | Human Believer | 27.00% | ~86 |
 | Karakuri Minato | 27.00% | ~86 |
 | Threaded Harmony | 25.00% | ~79 |
-| Quintessence of Form | 23.00% | ~73 |
+| Quintessence of Form | 24.00% | ~76 |
 | Jack of All Trades | 22.00% | ~70 |
 | Karakuri Fortress | 21.00% | ~67 |
 | Volatile Vocation | 20.00% | ~63 |

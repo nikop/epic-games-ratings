@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2945,
+  "EOS_Progressed": 2946,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4221,6 +4221,11 @@
       "Time": "2023-11-22T19:04:28.8673774+00:00",
       "NumProgressed": 2945,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-22T21:03:42.3349105+00:00",
+      "NumProgressed": 2946,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4256,7 +4261,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "MOVE_ON",
@@ -4320,7 +4325,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4335,7 +4340,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2945,
+      "Progressed": 2946,
       "Completed": 6
     }
   ],
@@ -4343,8 +4348,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-22T20:03:36.8920919+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:03:42.3349101+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:17.4994195+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:59:18.1269047+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:03:36.892124+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:59:39.6268117+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:03:42.3349443+00:00"
 }

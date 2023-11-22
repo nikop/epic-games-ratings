@@ -8,12 +8,12 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 27.00% | ~49 |
 | Double Kill | 20.00% | ~36 |
-| Critical Hit | 9.00% | ~16 |
+| Critical Hit | 10.00% | ~18 |
 | Veteran | 9.00% | ~16 |
 | Dressed For Success | 5.00% | ~9 |
 | Humiliation | 5.00% | ~9 |
 | Sorcerous Spree | 4.00% | ~7 |
-| Veni, Vidi, Vici | 3.00% | ~5 |
+| Veni, Vidi, Vici | 4.00% | ~7 |
 | Multi Kill | 2.00% | ~4 |
 | Whoops! | 2.00% | ~4 |
 | Such A Fungi | 2.00% | ~4 |

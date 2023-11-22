@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Master trainee | 11.00% | ~4 |
 | You have three wishes left | 11.00% | ~4 |
+| Jung's dream | 8.00% | ~3 |
 | A continent with chemistry | 8.00% | ~3 |
 | Bread and bocaua | 5.00% | ~2 |
 | Fanatacism is... poisonous | 5.00% | ~2 |
-| Jung's dream | 5.00% | ~2 |
 | Giant | 5.00% | ~2 |
 | A rival with no options | 5.00% | ~2 |
 | The adventurer | 5.00% | ~2 |

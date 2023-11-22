@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 659,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.32,
+  "EOS_Completed_Percentage": 5.31,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2770,6 +2770,11 @@
       "Time": "2023-11-22T20:05:49.4652874+00:00",
       "NumProgressed": 658,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T21:06:11.4970889+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2779,9 +2784,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 125
     },
     {
       "ID": "END_GOOD",
@@ -2797,7 +2802,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2805,7 +2810,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2843,9 +2848,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 99
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2917,7 +2922,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2957,7 +2962,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "PROGRESS_N4",
@@ -2980,14 +2985,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 659,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-22T20:05:49.465287+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:06:11.4970887+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:58:15.2624223+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:05:49.4653277+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:58:25.4461568+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:06:11.4971267+00:00"
 }

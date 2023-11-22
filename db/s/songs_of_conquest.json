@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1062,9 +1062,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Deepstrike",
@@ -1342,9 +1342,9 @@
       "ID": "WinSiegeAsAttacker",
       "SetID": "71c0n9i",
       "Name": "Veni, Vidi, Vici",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1398,8 +1398,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-22T20:04:26.9234725+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:04:38.7955476+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:58:52.0889445+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:04:26.9235144+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:59:09.3789704+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:04:38.7955808+00:00"
 }

@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,621 (Ranked 182)  
+Progressed: 6,622 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-19 | 6,582 | 0 |
 | 2023-11-20 | 6,600 | 0 |
 | 2023-11-21 | 6,609 | 0 |
-| 2023-11-22 | 6,621 | 0 |
+| 2023-11-22 | 6,622 | 0 |
 ## Awards
 Max (Relaxing): 37  (Ranked 465)  
 Sum: 195 (Ranked 400)  

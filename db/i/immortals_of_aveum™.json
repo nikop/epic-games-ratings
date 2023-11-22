@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1469,9 +1469,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_20",
@@ -1613,9 +1613,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_49",
@@ -1766,8 +1766,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-21T13:11:41.3417786+00:00",
-  "LastChanged_Achievements": "2023-11-22T20:08:31.8940703+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:08:24.6808595+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:02:37.3458248+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:08:31.8941032+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:02:33.8633786+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:08:24.6808907+00:00"
 }

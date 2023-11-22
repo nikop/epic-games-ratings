@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4729,10 +4729,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7935,
       "NumberOfAwardsMax": 1067
+    },
+    {
+      "Time": "2023-11-22T20:57:18.5549511+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7937,
+      "NumberOfAwardsMax": 1067
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7935,
+  "NumberOfAwards": 7937,
   "NumberOfAwardsMax": 1067,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4758,7 +4764,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 826
+      "Count": 828
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4803,9 +4809,9 @@
       "Count": 530
     }
   ],
-  "EOS_Progressed": 11833,
+  "EOS_Progressed": 11834,
   "EOS_Completed": 281,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
@@ -19363,6 +19369,11 @@
       "Time": "2023-11-22T20:03:42.4336405+00:00",
       "NumProgressed": 11833,
       "NumCompleted": 281
+    },
+    {
+      "Time": "2023-11-22T21:03:48.6300705+00:00",
+      "NumProgressed": 11834,
+      "NumCompleted": 281
     }
   ],
   "TotalAchievements": 15,
@@ -19430,7 +19441,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3668
+      "UsersEstimate": 3669
     },
     {
       "ID": "Generous",
@@ -19446,7 +19457,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 8283
+      "UsersEstimate": 8284
     },
     {
       "ID": "Miner",
@@ -19462,7 +19473,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8046
+      "UsersEstimate": 8047
     },
     {
       "ID": "Renovator",
@@ -19486,23 +19497,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7336
+      "UsersEstimate": 7337
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11833,
+      "Progressed": 11834,
       "Completed": 281
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-11-22T19:57:15.1365086+00:00",
-  "LastChanged_Achievements": "2023-11-22T20:03:42.4336402+00:00",
+  "LastChanged": "2023-11-22T20:57:18.554951+00:00",
+  "LastChanged_Achievements": "2023-11-22T21:03:48.6300699+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.9264376+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:57:15.1365092+00:00",
-  "LastUpdate_Achievements": "2023-11-22T20:03:42.4337486+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:57:18.5549515+00:00",
+  "LastUpdate_Achievements": "2023-11-22T21:03:48.6301369+00:00"
 }

@@ -11,8 +11,8 @@ Rating: 4.56 (Ranked 491)
 | Bosmang | 5.00% | ~763 |
 | Celebrations are in Order | 5.00% | ~763 |
 | Impossible Objects | 5.00% | ~763 |
-| Safe Cracker | 5.00% | ~60 |
-| Zen Master | 5.00% | ~60 |
+| Safe Cracker | 5.00% | ~61 |
+| Zen Master | 5.00% | ~61 |
 | Stogie for Fogey | 4.00% | ~610 |
 | Drug Gifter | 4.00% | ~610 |
 | Spore Taste | 4.00% | ~610 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,253 (Ranked 152)  
+Progressed: 15,258 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
-| 2023-11-22 | 15,253 | 35 |
+| 2023-11-22 | 15,258 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

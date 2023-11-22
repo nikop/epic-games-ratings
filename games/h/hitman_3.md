@@ -6,29 +6,29 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~625,605 |
-| Death From Above | 45.00% | ~612,005 |
-| Master of the Household | 38.00% | ~516,804 |
-| Death of the Party | 35.00% | ~476,004 |
-| NEXUS-47 | 32.00% | ~435,204 |
-| The Last Tango | 31.00% | ~421,603 |
-| Nightmare Fuel | 30.00% | ~408,003 |
-| The Result of Previous Training | 28.00% | ~380,803 |
-| Tools of the Trade | 28.00% | ~380,803 |
-| Cleared for Field Duty | 27.00% | ~367,203 |
-| Seizing the Opportunity | 26.00% | ~353,603 |
-| Bullet Train | 21.00% | ~285,602 |
-| Stylish Assassin | 20.00% | ~272,002 |
-| Silent Assassin | 14.00% | ~190,402 |
-| Rise Up | 12.00% | ~163,201 |
-| Evil Wine Club | 11.00% | ~149,601 |
-| Console Cowboy | 10.00% | ~136,001 |
-| Last Stop | 10.00% | ~136,001 |
-| A New Profile | 9.00% | ~122,401 |
-| Full House | 9.00% | ~122,401 |
-| Dune Raider | 8.00% | ~108,801 |
-| No Stone Unturned | 8.00% | ~108,801 |
-| Train Surfing | 8.00% | ~108,801 |
+| Unseen Assassin | 46.00% | ~625,609 |
+| Death From Above | 45.00% | ~612,009 |
+| Master of the Household | 38.00% | ~516,807 |
+| Death of the Party | 35.00% | ~476,007 |
+| NEXUS-47 | 32.00% | ~435,206 |
+| The Last Tango | 31.00% | ~421,606 |
+| Nightmare Fuel | 30.00% | ~408,006 |
+| The Result of Previous Training | 28.00% | ~380,805 |
+| Tools of the Trade | 28.00% | ~380,805 |
+| Cleared for Field Duty | 27.00% | ~367,205 |
+| Seizing the Opportunity | 26.00% | ~353,605 |
+| Bullet Train | 21.00% | ~285,604 |
+| Stylish Assassin | 20.00% | ~272,004 |
+| Silent Assassin | 14.00% | ~190,403 |
+| Rise Up | 12.00% | ~163,202 |
+| Evil Wine Club | 11.00% | ~149,602 |
+| Console Cowboy | 10.00% | ~136,002 |
+| Last Stop | 10.00% | ~136,002 |
+| A New Profile | 9.00% | ~122,402 |
+| Full House | 9.00% | ~122,402 |
+| Dune Raider | 8.00% | ~108,802 |
+| No Stone Unturned | 8.00% | ~108,802 |
+| Train Surfing | 8.00% | ~108,802 |
 | Icebreaker | 7.00% | ~95,201 |
 | Family Feud | 6.00% | ~81,601 |
 | Count Down From 47 | 6.00% | ~81,601 |
@@ -37,24 +37,24 @@ Number of Ratings: 21,082  (23.09.2022)
 | Followed the Trails | 5.00% | ~68,001 |
 | Last Call | 5.00% | ~68,001 |
 | Rich Harvest | 5.00% | ~68,001 |
-| Treacherous Architecture | 4.00% | ~54,400 |
-| Upstairs, Downstairs | 4.00% | ~54,400 |
-| The Great Outdoors | 4.00% | ~54,400 |
-| Partied Out | 4.00% | ~54,400 |
-| Surveillance Master | 4.00% | ~54,400 |
-| Training Escalated | 3.00% | ~40,800 |
-| Keep Your Eyes Peeled | 3.00% | ~40,800 |
-| Warehouse Veteran | 3.00% | ~40,800 |
-| Future Shock | 3.00% | ~40,800 |
-| Hack the Planet | 3.00% | ~40,800 |
-| Master the Terroir | 3.00% | ~40,800 |
-| Vineyard Virtuoso | 3.00% | ~40,800 |
+| Treacherous Architecture | 4.00% | ~54,401 |
+| Upstairs, Downstairs | 4.00% | ~54,401 |
+| The Great Outdoors | 4.00% | ~54,401 |
+| Partied Out | 4.00% | ~54,401 |
+| Surveillance Master | 4.00% | ~54,401 |
+| Training Escalated | 3.00% | ~40,801 |
+| Keep Your Eyes Peeled | 3.00% | ~40,801 |
+| Warehouse Veteran | 3.00% | ~40,801 |
+| Future Shock | 3.00% | ~40,801 |
+| Hack the Planet | 3.00% | ~40,801 |
+| Master the Terroir | 3.00% | ~40,801 |
+| Vineyard Virtuoso | 3.00% | ~40,801 |
 | Bird Art | 2.00% | ~27,200 |
 | Top of the Class | 1.00% | ~13,600 |
 | Ripe for the Picking | 1.00% | ~13,600 |
 | The Creative Assassin | 0.70% | ~9,520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,360,011 (Ranked 9)  
+Progressed: 1,360,019 (Ranked 9)  
 Completed: 2,189 (0.16%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2,189 (0.16%) (Ranked 265)
 | 2023-11-19 | 1,359,139 | 2,187 |
 | 2023-11-20 | 1,359,443 | 2,188 |
 | 2023-11-21 | 1,359,721 | 2,188 |
-| 2023-11-22 | 1,360,011 | 2,189 |
+| 2023-11-22 | 1,360,019 | 2,189 |
 ## Awards
 Max (Diverse Characters): 10,774  (Ranked 37)  
 Sum: 74,115 (Ranked 22)  
