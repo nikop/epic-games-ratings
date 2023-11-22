@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6487,
+  "EOS_Progressed": 6488,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6312,6 +6312,11 @@
       "Time": "2023-11-22T05:05:45.9041871+00:00",
       "NumProgressed": 6487,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-22T08:06:34.707905+00:00",
+      "NumProgressed": 6488,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6691,7 +6696,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "SmellBlood",
@@ -6874,21 +6879,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3526,
+      "Progressed": 3527,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6487,
+      "Progressed": 6488,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:07:12.3313982+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:06:34.7079044+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:04.8203344+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:59:29.4002432+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:07:12.3314699+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:59:18.4040248+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:06:34.7079737+00:00"
 }

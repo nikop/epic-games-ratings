@@ -85,9 +85,9 @@
 | Weapon Specialist | 23.00% | ~312 |
 | Arbiter | 23.00% | ~312 |
 | Savior | 22.00% | ~298 |
+| Party Crasher | 22.00% | ~298 |
 | Lost and Found | 22.00% | ~298 |
 | Paramour II | 21.00% | ~285 |
-| Party Crasher | 21.00% | ~285 |
 | Problem Solver | 21.00% | ~285 |
 | Last Resort | 20.00% | ~271 |
 | Hard Target | 20.00% | ~271 |

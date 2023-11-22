@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -1005,9 +1005,9 @@
       "ID": "questNorthGraveyard",
       "SetID": "ci65fo0",
       "Name": "In charge of the cemetery",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "questPumpkinKing",
@@ -1138,8 +1138,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:08:31.2200281+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:07:13.6923479+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:28.7985949+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:00:26.665872+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:08:31.2200808+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:00:14.2656707+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:07:13.692403+00:00"
 }

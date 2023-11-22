@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531785,
+  "EOS_Progressed": 531787,
   "EOS_Completed": 501,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -23422,6 +23422,11 @@
       "Time": "2023-11-22T07:05:56.8947918+00:00",
       "NumProgressed": 531785,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-11-22T08:05:17.1845345+00:00",
+      "NumProgressed": 531787,
+      "NumCompleted": 501
     }
   ],
   "TotalAchievements": 57,
@@ -23441,7 +23446,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239303
+      "UsersEstimate": 239304
     },
     {
       "ID": "11",
@@ -23449,7 +23454,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372250
+      "UsersEstimate": 372251
     },
     {
       "ID": "12",
@@ -23473,7 +23478,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58496
+      "UsersEstimate": 58497
     },
     {
       "ID": "15",
@@ -23481,7 +23486,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53178
+      "UsersEstimate": 53179
     },
     {
       "ID": "16",
@@ -23513,7 +23518,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329707
+      "UsersEstimate": 329708
     },
     {
       "ID": "2",
@@ -23521,7 +23526,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53178
+      "UsersEstimate": 53179
     },
     {
       "ID": "20",
@@ -23529,7 +23534,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127628
+      "UsersEstimate": 127629
     },
     {
       "ID": "21",
@@ -23537,7 +23542,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58496
+      "UsersEstimate": 58497
     },
     {
       "ID": "22",
@@ -23657,7 +23662,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 265892
+      "UsersEstimate": 265894
     },
     {
       "ID": "36",
@@ -23689,7 +23694,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180807
+      "UsersEstimate": 180808
     },
     {
       "ID": "4",
@@ -23729,7 +23734,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90403
+      "UsersEstimate": 90404
     },
     {
       "ID": "44",
@@ -23761,7 +23766,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329707
+      "UsersEstimate": 329708
     },
     {
       "ID": "48",
@@ -23777,7 +23782,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180807
+      "UsersEstimate": 180808
     },
     {
       "ID": "5",
@@ -23809,7 +23814,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244621
+      "UsersEstimate": 244622
     },
     {
       "ID": "53",
@@ -23888,15 +23893,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531785,
+      "Progressed": 531787,
       "Completed": 501
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:05:56.8947914+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:05:17.184534+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.3890508+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:03:28.9342641+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:05:56.8949474+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:02:44.892982+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:05:17.1846796+00:00"
 }

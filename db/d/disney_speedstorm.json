@@ -1279,10 +1279,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 610,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-11-22T07:59:40.3399261+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 611,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 610,
+  "NumberOfAwards": 611,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1350,7 +1356,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Relaxing",
@@ -1359,9 +1365,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 307266,
+  "EOS_Progressed": 307278,
   "EOS_Completed": 318,
-  "EOS_NewPlayers": 10456,
+  "EOS_NewPlayers": 10441,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13119,6 +13125,11 @@
       "Time": "2023-11-22T07:06:51.0998632+00:00",
       "NumProgressed": 307266,
       "NumCompleted": 318
+    },
+    {
+      "Time": "2023-11-22T08:06:12.5166602+00:00",
+      "NumProgressed": 307278,
+      "NumCompleted": 318
     }
   ],
   "TotalAchievements": 24,
@@ -13138,7 +13149,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15363
+      "UsersEstimate": 15364
     },
     {
       "ID": "11",
@@ -13186,7 +13197,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 0.9,
       "XP": 45,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "17",
@@ -13250,7 +13261,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6145
+      "UsersEstimate": 6146
     },
     {
       "ID": "24",
@@ -13282,7 +13293,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33799
+      "UsersEstimate": 33801
     },
     {
       "ID": "6",
@@ -13321,16 +13332,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 307266,
+      "Progressed": 307278,
       "Completed": 318
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-22T01:48:09.3366577+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:06:51.0998628+00:00",
+  "LastChanged": "2023-11-22T07:59:40.3399259+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:06:12.5166597+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:55.8240924+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:59:51.3258684+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:06:51.099932+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:59:40.3399265+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:06:12.5167261+00:00"
 }

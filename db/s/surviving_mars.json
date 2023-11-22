@@ -2,13 +2,13 @@
   "ID": "d759128018124dcabb1fbee9bb28e178",
   "Name": "Surviving Mars",
   "ProductSlug": "surviving-mars",
-  "Ranking_Rating": 413,
+  "Ranking_Rating": 383,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 3483,
   "RatingHistory": [
     {
@@ -3885,11 +3885,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 3351,
       "NumberOfAwardsMax": 514
+    },
+    {
+      "Time": "2023-11-22T07:58:45.8075098+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3352,
+      "NumberOfAwardsMax": 515
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3351,
-  "NumberOfAwardsMax": 514,
+  "NumberOfAwards": 3352,
+  "NumberOfAwardsMax": 515,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3908,7 +3914,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 514
+      "Count": 515
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3964,8 +3970,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2023-11-20T13:57:33.6384279+00:00",
+  "LastChanged": "2023-11-22T07:58:45.8075096+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:15.6817646+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:58:57.2526411+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:09:18.6149368+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:58:45.8075101+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:08:01.5783868+00:00"
 }

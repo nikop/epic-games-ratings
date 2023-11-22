@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,046 |
-| Basic in Bulk | 5.00% | ~7,046 |
-| Titan's First Steps | 5.00% | ~7,046 |
+| Sponsored by Argon | 5.00% | ~7,047 |
+| Basic in Bulk | 5.00% | ~7,047 |
+| Titan's First Steps | 5.00% | ~7,047 |
 | Disintermediation | 4.00% | ~5,637 |
 | Tinkle of Coins | 4.00% | ~5,637 |
 | One Easy Payment | 3.00% | ~4,228 |
@@ -64,6 +64,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.90% | ~1,268 |
 | Hidden Potential | 0.90% | ~1,268 |
 | Cranked up to 11 | 0.90% | ~1,268 |
+| Fit for a King | 0.90% | ~1,268 |
 | Mammonite | 0.90% | ~1,268 |
 | Fat Cat Tag Team | 0.90% | ~1,268 |
 | Necromancer Queen | 0.90% | ~1,268 |
@@ -78,7 +79,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.80% | ~1,127 |
 | Supercharged | 0.80% | ~1,127 |
 | Ritualist | 0.80% | ~1,127 |
-| Fit for a King | 0.80% | ~1,127 |
 | By Your Powers Combined... | 0.80% | ~1,127 |
 | Wealth Beyond Measure | 0.80% | ~1,127 |
 | Item of Renown | 0.80% | ~1,127 |
@@ -93,18 +93,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.80% | ~1,127 |
 | Exotic Commodities | 0.80% | ~1,127 |
 | King's Blade | 0.80% | ~1,127 |
-| Top of the World | 0.70% | ~986 |
-| Constellated | 0.70% | ~986 |
-| Thirst for Knowledge | 0.70% | ~986 |
-| Fillin' the Bin | 0.70% | ~986 |
-| Industrial Evolution | 0.70% | ~986 |
-| A Legend is Born | 0.70% | ~986 |
-| Economy of Scarce | 0.70% | ~986 |
+| Top of the World | 0.70% | ~987 |
+| Constellated | 0.70% | ~987 |
+| Thirst for Knowledge | 0.70% | ~987 |
+| Fillin' the Bin | 0.70% | ~987 |
+| Industrial Evolution | 0.70% | ~987 |
+| A Legend is Born | 0.70% | ~987 |
+| Economy of Scarce | 0.70% | ~987 |
 | Jackpot! | 0.60% | ~846 |
+| All Accounted For | 0.60% | ~846 |
 | The Free Encyclopedia | 0.50% | ~705 |
 | Thank You Tom Nook | 0.50% | ~705 |
 | Eternal Crusade | 0.50% | ~705 |
-| All Accounted For | 0.50% | ~705 |
 | The Greatest Grind | 0.40% | ~564 |
 | All or Nothing! | 0.40% | ~564 |
 | Ultimate Collector | 0.30% | ~423 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,927 (Ranked 80)  
+Progressed: 140,932 (Ranked 80)  
 Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,927 | 191 |
+| 2023-11-22 | 140,932 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,576 (Ranked 50)  

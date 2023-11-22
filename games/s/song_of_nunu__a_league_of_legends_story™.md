@@ -14,8 +14,8 @@
 | Krugmazing | 67.00% | ~519 |
 | The Fire Below the Mountain | 65.00% | ~504 |
 | Moneyball | 62.00% | ~480 |
+| Iceborn | 59.00% | ~457 |
 | No Bites | 58.00% | ~449 |
-| Iceborn | 58.00% | ~449 |
 | Boom Things | 56.00% | ~434 |
 | Tear of Freedom | 55.00% | ~426 |
 | My Darkest Day | 52.00% | ~403 |
@@ -50,7 +50,7 @@
 | Sneaky Notai | 2.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 775 (Ranked 274)  
-Completed: 7 (0.90%) (Ranked 171)  
+Completed: 8 (1.03%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,4 +82,4 @@ Completed: 7 (0.90%) (Ranked 171)
 | 2023-11-19 | 751 | 7 |
 | 2023-11-20 | 758 | 7 |
 | 2023-11-21 | 768 | 7 |
-| 2023-11-22 | 775 | 7 |
+| 2023-11-22 | 775 | 8 |

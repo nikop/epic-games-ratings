@@ -7,11 +7,11 @@ Number of Ratings: 43  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~34,096 |
-| Just The Two of Us | 32.00% | ~32,090 |
-| Up On High | 25.00% | ~25,070 |
-| Under The Hood | 25.00% | ~25,070 |
-| Got Your Nose | 24.00% | ~24,067 |
-| The Gift of Gab | 24.00% | ~24,067 |
+| Just The Two of Us | 32.00% | ~32,091 |
+| Up On High | 25.00% | ~25,071 |
+| Under The Hood | 25.00% | ~25,071 |
+| Got Your Nose | 24.00% | ~24,068 |
+| The Gift of Gab | 24.00% | ~24,068 |
 | Wrapping Up | 22.00% | ~22,062 |
 | More Than A Box Of Sand | 18.00% | ~18,051 |
 | The Dunboyne | 17.00% | ~17,048 |
@@ -21,8 +21,8 @@ Number of Ratings: 43  (23.09.2022)
 | Sticky Paws | 16.00% | ~16,045 |
 | Bubble Up | 16.00% | ~16,045 |
 | Thread The Needle | 15.00% | ~15,042 |
-| Power to the People | 14.00% | ~14,039 |
-| Nesting Giant | 14.00% | ~14,039 |
+| Power to the People | 14.00% | ~14,040 |
+| Nesting Giant | 14.00% | ~14,040 |
 | Take That! | 13.00% | ~13,037 |
 | Treasure Tracker | 13.00% | ~13,037 |
 | Big Spender | 13.00% | ~13,037 |
@@ -39,12 +39,12 @@ Number of Ratings: 43  (23.09.2022)
 | Centre Of Brunswick | 9.00% | ~9,025 |
 | Bike Collector | 9.00% | ~9,025 |
 | Not That Kind Of Gliding | 9.00% | ~9,025 |
-| The Scrapper Mask | 8.00% | ~8,022 |
-| Shadow Of Neave | 8.00% | ~8,022 |
-| Fragile Goods | 8.00% | ~8,022 |
-| Glider on the Storm | 8.00% | ~8,022 |
-| Squeeze One Out | 8.00% | ~8,022 |
-| Dune Rider | 8.00% | ~8,022 |
+| The Scrapper Mask | 8.00% | ~8,023 |
+| Shadow Of Neave | 8.00% | ~8,023 |
+| Fragile Goods | 8.00% | ~8,023 |
+| Glider on the Storm | 8.00% | ~8,023 |
+| Squeeze One Out | 8.00% | ~8,023 |
+| Dune Rider | 8.00% | ~8,023 |
 | Amateur Historian | 7.00% | ~7,020 |
 | The Beetle Mask | 7.00% | ~7,020 |
 | The Guard Mask | 7.00% | ~7,020 |
@@ -63,8 +63,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,008 |
 | Vivacious Vivarium | 2.00% | ~2,006 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,281 (Ranked 88)  
-Completed: 1,014 (1.01%) (Ranked 164)  
+Progressed: 100,283 (Ranked 88)  
+Completed: 1,014 (1.01%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,7 +279,7 @@ Completed: 1,014 (1.01%) (Ranked 164)
 | 2023-11-19 | 99,938 | 1,010 |
 | 2023-11-20 | 100,089 | 1,011 |
 | 2023-11-21 | 100,235 | 1,013 |
-| 2023-11-22 | 100,281 | 1,014 |
+| 2023-11-22 | 100,283 | 1,014 |
 ## Awards
 Max (Quickly Understood Controls): 25  (Ranked 520)  
 Sum: 92 (Ranked 449)  

@@ -2,13 +2,13 @@
   "ID": "390584f0f63a4e69978eafa4d4fce9e7",
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
-  "Ranking_Rating": 413,
+  "Ranking_Rating": 414,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
-  "Ranking_EOS_Progress": 137,
+  "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20745,
+  "EOS_Progressed": 20746,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8593,6 +8593,11 @@
       "Time": "2023-11-22T03:09:27.47856+00:00",
       "NumProgressed": 20745,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-22T08:09:00.9733766+00:00",
+      "NumProgressed": 20746,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -8707,7 +8712,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 20745,
+      "Progressed": 20746,
       "Completed": 18
     }
   ],
@@ -8715,8 +8720,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-11-20T21:57:30.5764424+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:10:07.6362563+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:09:00.9733764+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:04.3971462+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:59:14.2661507+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:10:07.6363084+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:59:02.3719265+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:09:00.973423+00:00"
 }

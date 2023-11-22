@@ -7159,7 +7159,7 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140927,
+  "EOS_Progressed": 140932,
   "EOS_Completed": 191,
   "EOS_NewPlayers": 1061,
   "EOS_NewCompleters": 5,
@@ -29394,6 +29394,11 @@
       "Time": "2023-11-22T07:07:36.2064684+00:00",
       "NumProgressed": 140927,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-11-22T08:06:58.8933973+00:00",
+      "NumProgressed": 140932,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 112,
@@ -29437,7 +29442,7 @@
       "Name": "Top of the World",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "argon_a",
@@ -29469,7 +29474,7 @@
       "Name": "Constellated",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ashley_a",
@@ -29525,7 +29530,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "bookentry",
@@ -29573,7 +29578,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7046
+      "UsersEstimate": 7047
     },
     {
       "ID": "chest02",
@@ -29637,7 +29642,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7046
+      "UsersEstimate": 7047
     },
     {
       "ID": "commonres02",
@@ -29661,7 +29666,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "craft01",
@@ -29693,7 +29698,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "craft05",
@@ -29827,9 +29832,9 @@
       "ID": "furniture03",
       "SetID": "anfd17p",
       "Name": "Fit for a King",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1268
     },
     {
       "ID": "fuseepic",
@@ -29853,7 +29858,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "fuseuncommon",
@@ -30221,7 +30226,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7046
+      "UsersEstimate": 7047
     },
     {
       "ID": "twinenchant01",
@@ -30235,9 +30240,9 @@
       "ID": "typeunlock01",
       "SetID": "anfd17p",
       "Name": "All Accounted For",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 846
     },
     {
       "ID": "uncommonres01",
@@ -30261,7 +30266,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "workers01",
@@ -30300,15 +30305,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140927,
+      "Progressed": 140932,
       "Completed": 191
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-22T06:02:58.3526894+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:07:36.2064679+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:06:58.8933969+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:03:26.725031+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:07:36.2067245+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:02:42.6379869+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:06:58.8935836+00:00"
 }

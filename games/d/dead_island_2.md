@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~955 |
-| Whatever It Takes | 2.00% | ~955 |
-| Pork Chopped | 2.00% | ~955 |
+| One of Us | 2.00% | ~956 |
+| Whatever It Takes | 2.00% | ~956 |
+| Pork Chopped | 2.00% | ~956 |
 | Dr. Reed, I Presume? | 1.00% | ~7,222 |
 | Git Gutte! | 1.00% | ~7,222 |
 | Bookworm | 1.00% | ~7,222 |
@@ -26,13 +26,13 @@ Rating: 4.54 (Ranked 527)
 | Can't Handle the Truth | 0.90% | ~6,500 |
 | Like Riding a Bike | 0.90% | ~6,500 |
 | Perks of the Job | 0.80% | ~5,778 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,778 |
 | Slayer Squad | 0.80% | ~5,778 |
 | Zombologist | 0.80% | ~5,778 |
 | Ooh, Shiny! | 0.80% | ~5,778 |
 | A Patton Emerges | 0.80% | ~5,778 |
 | Our True Nature | 0.80% | ~5,778 |
 | Making Your Mark | 0.70% | ~5,056 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,056 |
 | I Am the Resurrection | 0.70% | ~5,056 |
 | Max Headroom | 0.70% | ~5,056 |
 | Humanity Distilled | 0.60% | ~4,333 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,224 (Ranked 21)  
+Progressed: 722,241 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,224 | 2,423 |
+| 2023-11-22 | 722,241 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
 Sum: 11,664 (Ranked 84)  

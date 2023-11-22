@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -841,9 +841,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3594,
+  "EOS_Progressed": 3595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5851,6 +5851,11 @@
       "Time": "2023-11-22T06:06:31.6375972+00:00",
       "NumProgressed": 3594,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T08:07:30.4462846+00:00",
+      "NumProgressed": 3595,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5909,9 +5914,9 @@
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1905
     },
     {
       "ID": "achievement_16",
@@ -5951,7 +5956,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_20",
@@ -6030,7 +6035,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3594,
+      "Progressed": 3595,
       "Completed": 0
     }
   ],
@@ -6038,8 +6043,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-20T23:59:24.7419033+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:08:48.1206033+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:07:30.4462839+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.6679059+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:01:49.8291867+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:08:48.1206307+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:01:35.3724197+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:07:30.4463188+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1606,
+  "EOS_Progressed": 1607,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
@@ -3654,6 +3654,11 @@
       "Time": "2023-11-22T02:34:50.3337769+00:00",
       "NumProgressed": 1606,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-11-22T08:09:30.7848498+00:00",
+      "NumProgressed": 1607,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 30,
@@ -3665,7 +3670,7 @@
       "Name": "A fresh start",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "LEVEL_002",
@@ -3673,7 +3678,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "LEVEL_003",
@@ -3681,7 +3686,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "LEVEL_004",
@@ -3689,7 +3694,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "LEVEL_005",
@@ -3705,7 +3710,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "LEVEL_007",
@@ -3737,7 +3742,7 @@
       "Name": "Rocks around the island",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "LEVEL_011",
@@ -3767,9 +3772,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 241
     },
     {
       "ID": "LEVEL_015",
@@ -3825,7 +3830,7 @@
       "Name": "Island in the center of the island",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_022",
@@ -3904,14 +3909,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1606,
+      "Progressed": 1607,
       "Completed": 103
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:10:36.7167019+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:09:30.7848493+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:58:01.2438046+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:10:36.7167356+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:57:51.2979553+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:09:30.7848791+00:00"
 }

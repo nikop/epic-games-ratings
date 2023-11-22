@@ -4489,18 +4489,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 5672,
       "NumberOfAwardsMax": 2369
+    },
+    {
+      "Time": "2023-11-22T08:03:05.6508374+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5688,
+      "NumberOfAwardsMax": 2385
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5672,
-  "NumberOfAwardsMax": 2369,
+  "NumberOfAwards": 5688,
+  "NumberOfAwardsMax": 2385,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2369
+      "Count": 2385
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4563,9 +4569,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 225411,
+  "EOS_Progressed": 225440,
   "EOS_Completed": 501,
-  "EOS_NewPlayers": 4417,
+  "EOS_NewPlayers": 4420,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19293,6 +19299,11 @@
       "Time": "2023-11-22T07:09:36.261162+00:00",
       "NumProgressed": 225411,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-11-22T08:08:29.3873329+00:00",
+      "NumProgressed": 225440,
+      "NumCompleted": 501
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19744,22 +19755,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 225411,
+      "Progressed": 225440,
       "Completed": 501
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 4576,
+      "Progressed": 4605,
       "Completed": 134
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-22T04:03:08.5961343+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:09:36.2611617+00:00",
+  "LastChanged": "2023-11-22T08:03:05.6508372+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:08:29.3873325+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:03:48.2794819+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:09:36.2612714+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:03:05.6508379+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:08:29.3874264+00:00"
 }

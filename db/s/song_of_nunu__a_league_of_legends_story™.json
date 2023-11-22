@@ -3,9 +3,9 @@
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -23,10 +23,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 775,
-  "EOS_Completed": 7,
-  "EOS_NewPlayers": 81,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.9,
+  "EOS_Completed": 8,
+  "EOS_NewPlayers": 80,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-10-23T07:07:08.0528773+00:00",
@@ -1557,6 +1557,11 @@
       "Time": "2023-11-22T06:09:26.7476808+00:00",
       "NumProgressed": 775,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T08:09:32.2350018+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -1695,9 +1700,9 @@
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 457
     },
     {
       "ID": "EV_ACH18",
@@ -1921,13 +1926,13 @@
       "ID": "6jeac23",
       "IsBase": true,
       "Progressed": 775,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:10:38.0365181+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:09:32.2350012+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:03:07.3596705+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:10:38.0365489+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:01:51.67239+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:09:32.2350333+00:00"
 }

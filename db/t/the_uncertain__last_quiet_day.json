@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 580,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
@@ -1093,8 +1093,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:10:05.5698026+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:08:59.1547903+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:01.55419+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:58:52.1612653+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:10:05.5698207+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:58:41.0737011+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:08:59.154812+00:00"
 }

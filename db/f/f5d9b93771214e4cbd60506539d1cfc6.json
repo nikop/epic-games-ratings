@@ -233,7 +233,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153803,
+  "EOS_Progressed": 153805,
   "EOS_Completed": 339,
   "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 5,
@@ -18998,6 +18998,11 @@
       "Time": "2023-11-22T07:09:16.5428494+00:00",
       "NumProgressed": 153803,
       "NumCompleted": 339
+    },
+    {
+      "Time": "2023-11-22T08:07:59.3216131+00:00",
+      "NumProgressed": 153805,
+      "NumCompleted": 339
     }
   ],
   "TotalAchievements": 31,
@@ -19017,7 +19022,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 107662
+      "UsersEstimate": 107664
     },
     {
       "ID": "EAwards_10",
@@ -19025,7 +19030,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 21532
+      "UsersEstimate": 21533
     },
     {
       "ID": "EAwards_11",
@@ -19057,7 +19062,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 59983
+      "UsersEstimate": 59984
     },
     {
       "ID": "EAwards_15",
@@ -19065,7 +19070,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18456
+      "UsersEstimate": 18457
     },
     {
       "ID": "EAwards_16",
@@ -19121,7 +19126,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16918
+      "UsersEstimate": 16919
     },
     {
       "ID": "EAwards_22",
@@ -19209,7 +19214,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23070
+      "UsersEstimate": 23071
     },
     {
       "ID": "EAwards_5",
@@ -19217,7 +19222,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18456
+      "UsersEstimate": 18457
     },
     {
       "ID": "EAwards_6",
@@ -19241,7 +19246,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 58445
+      "UsersEstimate": 58446
     },
     {
       "ID": "EAwards_9",
@@ -19249,14 +19254,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18456
+      "UsersEstimate": 18457
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 153803,
+      "Progressed": 153805,
       "Completed": 339
     }
   ],
@@ -19264,8 +19269,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:09:16.5428489+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:07:59.3216127+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:52.4824712+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:01:45.3468946+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:09:16.5429441+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:01:30.3575551+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:07:59.3217597+00:00"
 }

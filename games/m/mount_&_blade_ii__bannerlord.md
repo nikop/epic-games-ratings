@@ -6,13 +6,13 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,247 |
+| Lawbringer | 40.00% | ~26,248 |
 | Landlord | 33.00% | ~21,654 |
-| Bannerlord | 24.00% | ~15,748 |
-| Horde breaker | 24.00% | ~15,748 |
-| Lawmaker | 24.00% | ~15,748 |
-| Trained | 24.00% | ~15,748 |
-| The king is pleased | 19.00% | ~12,467 |
+| Bannerlord | 24.00% | ~15,749 |
+| Horde breaker | 24.00% | ~15,749 |
+| Lawmaker | 24.00% | ~15,749 |
+| Trained | 24.00% | ~15,749 |
+| The king is pleased | 19.00% | ~12,468 |
 | King Solomon | 18.00% | ~11,811 |
 | Apple of my eye | 16.00% | ~10,499 |
 | I can do it | 16.00% | ~10,499 |
@@ -25,7 +25,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Swordbearer | 10.00% | ~6,562 |
 | What have the Romans ever done for us? | 10.00% | ~6,562 |
 | Butterlord | 9.00% | ~5,906 |
-| Mastery | 8.00% | ~5,249 |
+| Mastery | 8.00% | ~5,250 |
 | Know your enemy | 7.00% | ~4,593 |
 | Crowdfunded | 5.00% | ~3,281 |
 | Crush your enemies | 5.00% | ~3,281 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,617 (Ranked 104)  
+Progressed: 65,619 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,10 +274,10 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-19 | 65,461 | 0 |
 | 2023-11-20 | 65,522 | 0 |
 | 2023-11-21 | 65,597 | 0 |
-| 2023-11-22 | 65,617 | 0 |
+| 2023-11-22 | 65,619 | 0 |
 ## Awards
 Max (Character Customization): 7,410  (Ranked 53)  
-Sum: 15,376 (Ranked 68)  
+Sum: 15,377 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -288,7 +288,7 @@ Diff (max vs sum): -15
 | This game is Extremely Fun | 882 |
 | This game has Amazing Characters | 867 |
 | This game has Amazing Storytelling | 866 |
-| This game is Relaxing | 854 |
+| This game is Relaxing | 855 |
 | This game has Quickly Understood Controls | 834 |
 | This game has a Creative Community | 641 |
 | This game has Obsessive Gameplay | 376 |
@@ -607,4 +607,4 @@ Diff (max vs sum): -15
 | 2023-11-19 | 4.74 | - | 7,405 | 15,350 |
 | 2023-11-20 | 4.74 | - | 7,405 | 15,361 |
 | 2023-11-21 | 4.74 | - | 7,410 | 15,375 |
-| 2023-11-22 | 4.74 | - | 7,410 | 15,376 |
+| 2023-11-22 | 4.74 | - | 7,410 | 15,377 |

@@ -1,18 +1,18 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 313)  
+Rating: 4.65 (Ranked 312)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,389 |
+| Initiation | 28.00% | ~15,390 |
 | Student | 21.00% | ~11,542 |
 | Knower | 16.00% | ~8,794 |
 | Aspen Tree | 14.00% | ~7,695 |
 | Healer | 14.00% | ~7,695 |
 | Listener | 14.00% | ~7,695 |
-| Soldier | 12.00% | ~6,595 |
+| Soldier | 12.00% | ~6,596 |
 | Scientist | 11.00% | ~6,046 |
 | Cow Level | 10.00% | ~5,496 |
 | Water | 10.00% | ~5,496 |
@@ -43,8 +43,8 @@ Number of Ratings: 96  (23.09.2022)
 | Vorsa | 5.00% | ~2,748 |
 | Susanin | 5.00% | ~2,748 |
 | Traveller | 5.00% | ~2,748 |
-| Righteous | 4.00% | ~2,198 |
-| Musician | 4.00% | ~2,198 |
+| Righteous | 4.00% | ~2,199 |
+| Musician | 4.00% | ~2,199 |
 | Black Sorceress | 3.00% | ~1,649 |
 | Cheater | 3.00% | ~1,649 |
 | Diplomat | 3.00% | ~1,649 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,099 |
 | Word Master | 0.20% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,962 (Ranked 108)  
+Progressed: 54,964 (Ranked 108)  
 Completed: 53 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 53 (0.10%) (Ranked 279)
 | 2023-11-19 | 54,299 | 51 |
 | 2023-11-20 | 54,539 | 52 |
 | 2023-11-21 | 54,904 | 53 |
-| 2023-11-22 | 54,962 | 53 |
+| 2023-11-22 | 54,964 | 53 |
 ## Awards
 Max (Character Customization): 89  (Ranked 380)  
 Sum: 89 (Ranked 453)  

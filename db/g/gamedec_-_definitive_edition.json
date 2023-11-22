@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -483,9 +483,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 252762,
+  "EOS_Progressed": 252763,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 686,
+  "EOS_NewPlayers": 684,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24658,6 +24658,11 @@
       "Time": "2023-11-22T07:09:06.3606023+00:00",
       "NumProgressed": 252762,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T08:07:49.0404069+00:00",
+      "NumProgressed": 252763,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -24693,7 +24698,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10110
+      "UsersEstimate": 10111
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -24709,7 +24714,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30331
+      "UsersEstimate": 30332
     },
     {
       "ID": "ACH_ENJOY",
@@ -24837,7 +24842,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10110
+      "UsersEstimate": 10111
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -24885,7 +24890,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63190
+      "UsersEstimate": 63191
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -24989,7 +24994,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63190
+      "UsersEstimate": 63191
     },
     {
       "ID": "ACH_SOREAD",
@@ -24997,7 +25002,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10110
+      "UsersEstimate": 10111
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -25084,7 +25089,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 252762,
+      "Progressed": 252763,
       "Completed": 7
     }
   ],
@@ -25092,8 +25097,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-10T11:59:06.6668933+00:00",
-  "LastChanged_Achievements": "2023-11-22T07:09:06.360602+00:00",
+  "LastChanged_Achievements": "2023-11-22T08:07:49.0404065+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:01.0454426+00:00",
-  "LastUpdate_Ratings": "2023-11-22T06:58:58.3128149+00:00",
-  "LastUpdate_Achievements": "2023-11-22T07:09:06.3607387+00:00"
+  "LastUpdate_Ratings": "2023-11-22T07:58:46.859494+00:00",
+  "LastUpdate_Achievements": "2023-11-22T08:07:49.040562+00:00"
 }
