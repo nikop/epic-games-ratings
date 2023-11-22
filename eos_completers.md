@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.32% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.91% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.89% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.65% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -19,7 +19,7 @@
 | 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 21.76% |
+| 20 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 21.65% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
@@ -50,7 +50,7 @@
 | 48 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 49 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 8.33% |
 | 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.28% |
-| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
+| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
 | 54 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.50% |
@@ -90,7 +90,7 @@
 | 88 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.74% |
 | 90 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.70% |
-| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.55% |
+| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.54% |
 | 92 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 93 | [Bunny Park](games/b/bunny_park.md) | 3.32% |
 | 94 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.30% |
@@ -175,9 +175,9 @@
 | 172 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
 | 174 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
 | 175 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
-| 176 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 176 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.83% |
 | 176 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.83% |
+| 178 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.82% |
 | 179 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 180 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 181 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
@@ -287,14 +287,14 @@
 | 279 | [Supraland](games/s/supraland.md) | 0.10% |
 | 286 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 286 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.09% |
+| 286 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
 | 286 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 286 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 286 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 286 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 292 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
-| 292 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 292 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
-| 292 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
+| 293 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
+| 293 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
+| 293 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
 | 296 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.07% |
 | 296 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.07% |
 | 296 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
