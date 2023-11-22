@@ -342,7 +342,7 @@
 | 333 | [HITMAN](games/h/hitman.md) | 4.64 | 217 | 282 |
 | 333 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 0 | 551 |
 | 333 | [Road 96](games/r/road_96.md) | 4.64 | 0 | 551 |
-| 333 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,212 | 16 |
+| 333 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,217 | 16 |
 | 333 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 68 | 406 |
 | 333 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 551 |
 | 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.64 | 76 | 396 |
@@ -506,7 +506,7 @@
 | 491 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,869 | 73 |
 | 505 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 551 |
 | 505 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 551 |
-| 505 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.55 | 25 | 519 |
+| 505 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.55 | 26 | 513 |
 | 505 | [Costume Quest](games/c/costume_quest.md) | 4.55 | 0 | 551 |
 | 505 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 551 |
 | 505 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,689 | 124 |
@@ -548,7 +548,7 @@
 | 540 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,524 | 131 |
 | 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.53 | 0 | 551 |
 | 540 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 551 |
-| 540 | [Sable](games/s/sable.md) | 4.53 | 25 | 519 |
+| 540 | [Sable](games/s/sable.md) | 4.53 | 25 | 520 |
 | 540 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 551 |
 | 540 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 527 | 206 |
 | 540 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 551 |
@@ -659,7 +659,7 @@
 | 647 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 551 |
 | 647 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 12,399 | 33 |
 | 647 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 551 |
-| 647 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.46 | 25 | 519 |
+| 647 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.46 | 25 | 520 |
 | 647 | [Tunche](games/t/tunche.md) | 4.46 | 26 | 513 |
 | 662 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 551 |
 | 662 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 551 |
@@ -860,7 +860,7 @@
 | 852 | [Scrapnaut](games/s/scrapnaut.md) | 4.28 | 0 | 551 |
 | 852 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 305 |
 | 860 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 551 |
-| 860 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,856 | 86 |
+| 860 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,857 | 86 |
 | 860 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.27 | 38 | 461 |
 | 860 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 545 |
 | 860 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 551 |

@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.32% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 30.02% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 30.01% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.82% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -19,7 +19,7 @@
 | 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 22.16% |
+| 20 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 21.93% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
@@ -90,7 +90,7 @@
 | 88 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.86% |
 | 89 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
 | 90 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.74% |
-| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.58% |
+| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.57% |
 | 92 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 93 | [Bunny Park](games/b/bunny_park.md) | 3.32% |
 | 94 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.30% |
@@ -106,11 +106,11 @@
 | 104 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.97% |
 | 105 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 106 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 107 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2.86% |
 | 107 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
-| 109 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.83% |
-| 111 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
+| 108 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
+| 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.83% |
+| 110 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
+| 110 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2.78% |
 | 112 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 113 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.64% |
 | 114 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.62% |
@@ -137,7 +137,7 @@
 | 135 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.69% |
 | 136 | [Five Dates](games/f/five_dates.md) | 1.68% |
 | 137 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.67% |
-| 138 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.63% |
+| 138 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.62% |
 | 139 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 140 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.51% |
 | 141 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -245,9 +245,9 @@
 | 243 | [Filament](games/f/filament.md) | 0.26% |
 | 244 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 244 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.24% |
-| 244 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.24% |
-| 247 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
-| 247 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.23% |
+| 246 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
+| 246 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.23% |
+| 246 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.23% |
 | 249 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 249 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.22% |
 | 249 | [Remnant 2](games/r/remnant_2.md) | 0.22% |
