@@ -40,7 +40,7 @@
 | 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 159 | 312 |
 | 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,557 | 128 |
 | 32 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 551 |
-| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 541 | 204 |
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 541 | 205 |
 | 32 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 551 |
 | 43 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.85 | 0 | 551 |
 | 43 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 158 | 313 |
@@ -94,6 +94,7 @@
 | 86 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 103 | 355 |
 | 86 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 513 |
 | 86 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 551 |
+| 95 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.79 | 53 | 423 |
 | 95 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,573 | 126 |
 | 95 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 642 | 187 |
 | 95 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 166 | 308 |
@@ -105,14 +106,13 @@
 | 95 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 401 | 230 |
 | 95 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 125 | 336 |
 | 95 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 44 | 449 |
-| 106 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 327 | 247 |
-| 106 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 423 |
-| 106 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.78 | 0 | 551 |
-| 106 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,758 | 37 |
-| 106 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,442 | 104 |
-| 106 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 551 |
-| 106 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 966 | 155 |
-| 106 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 29 | 499 |
+| 107 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 327 | 247 |
+| 107 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.78 | 0 | 551 |
+| 107 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,758 | 37 |
+| 107 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,442 | 104 |
+| 107 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 551 |
+| 107 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 966 | 155 |
+| 107 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 29 | 499 |
 | 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 7,673 | 49 |
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.77 | 0 | 551 |
 | 114 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 8,057 | 46 |
@@ -1008,7 +1008,7 @@
 | 1,005 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 551 |
 | 1,005 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 4,832 | 75 |
 | 1,008 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 446 |
-| 1,008 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 540 | 205 |
+| 1,008 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 542 | 204 |
 | 1,008 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 551 |
 | 1,008 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.95 | 0 | 551 |
 | 1,008 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 3.95 | 0 | 551 |
