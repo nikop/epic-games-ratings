@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16584,
+  "EOS_Progressed": 16585,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -14643,6 +14643,11 @@
       "Time": "2023-11-22T14:05:34.9435245+00:00",
       "NumProgressed": 16584,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-22T15:07:04.8266248+00:00",
+      "NumProgressed": 16585,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14670,7 +14675,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3814
+      "UsersEstimate": 3815
     },
     {
       "ID": "tpote_achievement_12",
@@ -14758,7 +14763,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     },
     {
       "ID": "tpote_achievement_22",
@@ -14981,15 +14986,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16584,
+      "Progressed": 16585,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:05:34.9435243+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:07:04.8266245+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:59:20.6136781+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:05:34.9435925+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:00:34.4583302+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:07:04.8267272+00:00"
 }

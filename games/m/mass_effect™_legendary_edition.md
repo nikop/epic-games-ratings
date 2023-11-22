@@ -58,17 +58,17 @@
 | The Cure | 30.00% | ~408 |
 | Big Game Hunter | 30.00% | ~408 |
 | Revenge! | 30.00% | ~408 |
+| Focused | 29.00% | ~395 |
 | Archivist | 29.00% | ~395 |
 | Fade Away | 29.00% | ~395 |
 | Treason | 29.00% | ~395 |
+| Agent | 29.00% | ~395 |
 | Digital Exorcist | 29.00% | ~395 |
 | Heart of Darkness | 29.00% | ~395 |
 | Bringer of War | 29.00% | ~395 |
-| Focused | 28.00% | ~381 |
 | Friend or Foe | 28.00% | ~381 |
 | Cat's in the Cradle | 28.00% | ~381 |
 | Doppelganger | 28.00% | ~381 |
-| Agent | 28.00% | ~381 |
 | Mission Accomplished | 27.00% | ~367 |
 | Suicide Mission | 27.00% | ~367 |
 | Against All Odds | 27.00% | ~367 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.90% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,361 (Ranked 242)  
-Completed: 6 (0.44%) (Ranked 210)  
+Completed: 6 (0.44%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

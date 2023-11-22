@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7519,
+  "EOS_Progressed": 7520,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -5843,6 +5843,11 @@
       "Time": "2023-11-22T11:08:22.1671462+00:00",
       "NumProgressed": 7519,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-22T15:08:32.2110317+00:00",
+      "NumProgressed": 7520,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5886,7 +5891,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5942,7 +5947,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "AK_ON_TOWN",
@@ -5950,7 +5955,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -5966,7 +5971,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -5974,7 +5979,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -6022,7 +6027,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6069,15 +6074,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7519,
+      "Progressed": 7520,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:08:18.0090897+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:08:32.2110315+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:15.536262+00:00",
-  "LastUpdate_Ratings": "2023-11-22T14:02:59.2764778+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:08:18.0091235+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:03:21.6861667+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:08:32.2110793+00:00"
 }

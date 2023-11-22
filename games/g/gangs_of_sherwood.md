@@ -10,24 +10,25 @@
 | Act of Kindness | 75.00% | ~3 |
 | Oo-De-Lally | 50.00% | ~2 |
 | Merry Co-operation | 50.00% | ~2 |
+| Watch your Step! | 50.00% | ~2 |
+| Finish Him! | 50.00% | ~2 |
 | Right between the eyes | 50.00% | ~2 |
 | Locksley's Tears | 50.00% | ~2 |
 | Spring Board | 50.00% | ~2 |
 | The Altruist | 50.00% | ~2 |
 | Take Action! | 50.00% | ~2 |
+| Rebel Unleashed | 50.00% | ~2 |
 | MAX LEVEL | 50.00% | ~2 |
+| First Aid | 50.00% | ~2 |
 | Starry Night | 25.00% | ~1 |
 | King of the Iron Fist | 25.00% | ~1 |
 | Ultra Combo | 25.00% | ~1 |
 | The Gang prevails | 25.00% | ~1 |
 | Power of Friendship! | 25.00% | ~1 |
-| Watch your Step! | 25.00% | ~1 |
 | Out of the ring | 25.00% | ~1 |
-| Finish Him! | 25.00% | ~1 |
+| Hidden Experiment | 25.00% | ~1 |
 | Assault on the Ram | 25.00% | ~1 |
 | Ultra Rebel Instinct | 25.00% | ~1 |
-| Rebel Unleashed | 25.00% | ~1 |
-| First Aid | 25.00% | ~1 |
 | Merry Go Round | 25.00% | ~1 |
 | Ascending Will | 0.00% | ~0 |
 | Brilliant Executioner | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | Sky High Fighter | 0.00% | ~0 |
 | Five of Friends | 0.00% | ~0 |
 | The Crowkiller | 0.00% | ~0 |
-| Hidden Experiment | 0.00% | ~0 |
 | A Gest of Robyn Hode | 0.00% | ~0 |
 | Into the Lion's Den | 0.00% | ~0 |
 | Money can not buy happiness | 0.00% | ~0 |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7642,
+  "EOS_Progressed": 7674,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 3807,
+  "EOS_NewPlayers": 3812,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1665,6 +1665,11 @@
       "Time": "2023-11-22T14:05:54.9313054+00:00",
       "NumProgressed": 7642,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-22T15:07:33.4084377+00:00",
+      "NumProgressed": 7674,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -1685,7 +1690,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -1709,7 +1714,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 611
+      "UsersEstimate": 614
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -1717,7 +1722,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 382
+      "UsersEstimate": 384
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -1725,7 +1730,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 917
+      "UsersEstimate": 921
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -1733,7 +1738,7 @@
       "Name": "Secrets Out",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -1741,7 +1746,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 611
+      "UsersEstimate": 614
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -1749,14 +1754,14 @@
       "Name": "Investigator",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 7642,
+      "Progressed": 7674,
       "Completed": 20
     }
   ],
@@ -1764,8 +1769,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-22T10:59:52.383343+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:05:54.9313052+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:07:33.4084373+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7592471+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:59:07.3402231+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:05:54.9313166+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:00:15.6227729+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:07:33.4084525+00:00"
 }

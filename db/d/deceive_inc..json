@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18876,
+  "EOS_Progressed": 18877,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13044,6 +13044,11 @@
       "Time": "2023-11-22T13:13:16.8045749+00:00",
       "NumProgressed": 18876,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-22T15:05:32.2500419+00:00",
+      "NumProgressed": 18877,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13119,7 +13124,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4341
+      "UsersEstimate": 4342
     },
     {
       "ID": "0010",
@@ -13271,7 +13276,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4341
+      "UsersEstimate": 4342
     },
     {
       "ID": "0029",
@@ -13342,7 +13347,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18876,
+      "Progressed": 18877,
       "Completed": 4
     }
   ],
@@ -13350,8 +13355,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:04:29.8101287+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:05:32.2500414+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:35.6925077+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:58:05.7200919+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:04:29.8102068+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:58:41.7486173+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:05:32.2501084+00:00"
 }

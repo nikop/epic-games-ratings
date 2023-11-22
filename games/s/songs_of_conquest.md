@@ -11,18 +11,18 @@ Number of Ratings: 292  (23.09.2022)
 | Critical Hit | 9.00% | ~16 |
 | Veteran | 8.00% | ~14 |
 | Dressed For Success | 5.00% | ~9 |
+| Humiliation | 5.00% | ~9 |
 | Sorcerous Spree | 4.00% | ~7 |
-| Humiliation | 4.00% | ~7 |
 | Multi Kill | 2.00% | ~4 |
 | Whoops! | 2.00% | ~4 |
 | Such A Fungi | 2.00% | ~4 |
 | Master | 2.00% | ~4 |
+| Expert Essence Employment | 2.00% | ~4 |
 | Veni, Vidi, Vici | 2.00% | ~4 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~4 |
 | Coming Through! | 1.00% | ~2 |
 | Deepstrike | 1.00% | ~2 |
 | Infernal Influence | 1.00% | ~2 |
-| Expert Essence Employment | 1.00% | ~2 |
 | The Song of Stoutheart | 0.60% | ~1 |
 | Death To Diplomacy | 0.60% | ~1 |
 | This Spot's Taken | 0.60% | ~1 |

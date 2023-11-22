@@ -2394,7 +2394,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43949,
+  "EOS_Progressed": 43950,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -9059,6 +9059,11 @@
       "Time": "2023-11-22T14:04:04.4448973+00:00",
       "NumProgressed": 43949,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-22T15:04:56.4544054+00:00",
+      "NumProgressed": 43950,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9070,7 +9075,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27248
+      "UsersEstimate": 27249
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9078,7 +9083,7 @@
       "Name": "Kali Ma",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "SE_COMPLETE_ALL_CHAPTERS_WITH_A_FULL_TEAM",
@@ -9102,7 +9107,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -9110,7 +9115,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7471
+      "UsersEstimate": 7472
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -9134,7 +9139,7 @@
       "Name": "This is no Sunday School picnic!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "SE_COMPLETE_CROATIA",
@@ -9142,7 +9147,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18019
+      "UsersEstimate": 18020
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -9150,7 +9155,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3955
+      "UsersEstimate": 3956
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -9158,7 +9163,7 @@
       "Name": "I never redoubted you!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "SE_COMPLETE_DEEPER_THAN_HELL",
@@ -9222,7 +9227,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -9302,7 +9307,7 @@
       "Name": "Have you tried turning it off and on again?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "SE_COMPLETE_TERROR_LAB",
@@ -9318,7 +9323,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21535
+      "UsersEstimate": 21536
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9358,7 +9363,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16261
+      "UsersEstimate": 16262
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -9390,7 +9395,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16261
+      "UsersEstimate": 16262
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -9406,7 +9411,7 @@
       "Name": "Gotcha, didn\u0027t I?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "SE_KILL_A_ZOMBIE_PLAYER",
@@ -9462,7 +9467,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19777
+      "UsersEstimate": 19778
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -9470,7 +9475,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29006
+      "UsersEstimate": 29007
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -9486,7 +9491,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7471
+      "UsersEstimate": 7472
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -9494,7 +9499,7 @@
       "Name": "A gross gross",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "SE_PERFORM_ALL_HEROIC_ACTIONS",
@@ -9518,7 +9523,7 @@
       "Name": "Hail to the king, baby!",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "SE_REACH_RANK_5",
@@ -9526,7 +9531,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29006
+      "UsersEstimate": 29007
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -9550,7 +9555,7 @@
       "Name": "Just me and my trusty sidearm",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "SE_REVIVE_PLAYERS_X_TIMES",
@@ -9597,15 +9602,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43949,
+      "Progressed": 43950,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-19T06:58:37.590762+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:04:04.4448971+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:04:56.4544051+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.974388+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:59:53.2757878+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:04:04.4449611+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:01:25.721924+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:04:56.4544702+00:00"
 }

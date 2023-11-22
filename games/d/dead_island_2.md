@@ -5,33 +5,33 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~959 |
-| Whatever It Takes | 2.00% | ~959 |
-| Pork Chopped | 2.00% | ~959 |
-| Dr. Reed, I Presume? | 1.00% | ~7,224 |
-| Git Gutte! | 1.00% | ~7,224 |
-| Anger Management | 1.00% | ~7,224 |
-| Bookworm | 1.00% | ~7,224 |
-| Break A Leg | 1.00% | ~7,224 |
-| Coup de Grâce | 1.00% | ~7,224 |
-| Hazardous Materials | 1.00% | ~7,224 |
-| Friends Like These | 1.00% | ~7,224 |
-| Hotel California | 1.00% | ~7,224 |
-| Apex Predator | 1.00% | ~7,224 |
-| Stacking the Deck | 1.00% | ~7,224 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,224 |
-| This is My Weapon | 1.00% | ~7,224 |
-| Welcome To Hell-A | 1.00% | ~7,224 |
+| One of Us | 2.00% | ~960 |
+| Whatever It Takes | 2.00% | ~960 |
+| Pork Chopped | 2.00% | ~960 |
+| Dr. Reed, I Presume? | 1.00% | ~7,225 |
+| Git Gutte! | 1.00% | ~7,225 |
+| Anger Management | 1.00% | ~7,225 |
+| Bookworm | 1.00% | ~7,225 |
+| Break A Leg | 1.00% | ~7,225 |
+| Coup de Grâce | 1.00% | ~7,225 |
+| Hazardous Materials | 1.00% | ~7,225 |
+| Friends Like These | 1.00% | ~7,225 |
+| Hotel California | 1.00% | ~7,225 |
+| Apex Predator | 1.00% | ~7,225 |
+| Stacking the Deck | 1.00% | ~7,225 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,225 |
+| This is My Weapon | 1.00% | ~7,225 |
+| Welcome To Hell-A | 1.00% | ~7,225 |
 | But Doctor, I am Butcho | 0.90% | ~6,502 |
 | Can't Handle the Truth | 0.90% | ~6,502 |
 | Like Riding a Bike | 0.90% | ~6,502 |
-| Perks of the Job | 0.80% | ~5,779 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,779 |
-| Slayer Squad | 0.80% | ~5,779 |
-| Zombologist | 0.80% | ~5,779 |
-| Ooh, Shiny! | 0.80% | ~5,779 |
-| A Patton Emerges | 0.80% | ~5,779 |
-| Our True Nature | 0.80% | ~5,779 |
+| Perks of the Job | 0.80% | ~5,780 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,780 |
+| Slayer Squad | 0.80% | ~5,780 |
+| Zombologist | 0.80% | ~5,780 |
+| Ooh, Shiny! | 0.80% | ~5,780 |
+| A Patton Emerges | 0.80% | ~5,780 |
+| Our True Nature | 0.80% | ~5,780 |
 | Making Your Mark | 0.70% | ~5,057 |
 | I Am the Resurrection | 0.70% | ~5,057 |
 | Max Headroom | 0.70% | ~5,057 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,418 (Ranked 21)  
+Progressed: 722,470 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,418 | 2,423 |
+| 2023-11-22 | 722,470 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
 Sum: 11,664 (Ranked 84)  

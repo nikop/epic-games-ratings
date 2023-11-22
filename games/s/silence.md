@@ -18,19 +18,19 @@
 | Chapter II | 25.00% | ~43 |
 | Handyman | 22.00% | ~38 |
 | Bubblekillerfamily | 22.00% | ~38 |
+| Achoo!! | 22.00% | ~38 |
 | Chapter III | 22.00% | ~38 |
 | Like a moth in the Wind | 22.00% | ~38 |
 | Quite a buggy game | 21.00% | ~36 |
-| Achoo!! | 21.00% | ~36 |
 | Pacifist | 19.00% | ~32 |
 | Mirror mirror on the wall... | 19.00% | ~32 |
+| Fastidious Clown | 17.00% | ~29 |
 | It's not easy being green! | 17.00% | ~29 |
 | Home is where the heart is | 17.00% | ~29 |
-| Fastidious Clown | 16.00% | ~27 |
 | Death is a part of life | 13.00% | ~22 |
 | To err is human... | 12.00% | ~21 |
 | Master of Thermodynamics | 12.00% | ~21 |
-| Unfullfilled dreams | 11.00% | ~19 |
+| Unfullfilled dreams | 12.00% | ~21 |
 | Nothing can stop me | 9.00% | ~15 |
 | Mumbo Jumbo | 9.00% | ~15 |
 | Useless but beautiful | 8.00% | ~14 |

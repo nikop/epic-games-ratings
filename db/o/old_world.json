@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2016,9 +2016,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15421,
+  "EOS_Progressed": 15422,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16331,6 +16331,11 @@
       "Time": "2023-11-22T13:14:50.9792342+00:00",
       "NumProgressed": 15421,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-22T15:07:05.8111178+00:00",
+      "NumProgressed": 15422,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16772,9 +16777,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 925
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -19077,21 +19082,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15421,
+      "Progressed": 15422,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15421,
+      "Progressed": 15422,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-21T15:57:15.4241342+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:05:35.5348416+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:07:05.8111175+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:57:42.923266+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:05:35.5363356+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:58:06.9331498+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:07:05.8120629+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1607,
+  "EOS_Progressed": 1608,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 6.47,
   "EosHistory": [
@@ -3664,6 +3664,11 @@
       "Time": "2023-11-22T10:09:34.0860107+00:00",
       "NumProgressed": 1607,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-11-22T15:10:12.4842044+00:00",
+      "NumProgressed": 1608,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 30,
@@ -3675,7 +3680,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "LEVEL_002",
@@ -3723,7 +3728,7 @@
       "Name": "Animals in the farm",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "LEVEL_008",
@@ -3755,7 +3760,7 @@
       "Name": "This island of mine",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "LEVEL_012",
@@ -3843,7 +3848,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_023",
@@ -3851,7 +3856,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_024",
@@ -3859,7 +3864,7 @@
       "Name": "Beach or mountain?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_025",
@@ -3867,7 +3872,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_026",
@@ -3875,7 +3880,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_027",
@@ -3914,14 +3919,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1607,
+      "Progressed": 1608,
       "Completed": 104
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:09:28.4801479+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:10:12.4842041+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:57:42.0547167+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:09:28.4801843+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:58:05.6191714+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:10:12.4842395+00:00"
 }

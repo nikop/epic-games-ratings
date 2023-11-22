@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Potomac Computer Systems | 100.00% | ~3,431 |
 | Traveler | 7.00% | ~240 |
-| Explorer | 5.00% | ~172 |
+| Explorer | 6.00% | ~206 |
 | Adventurer | 5.00% | ~172 |
 | Hero | 5.00% | ~172 |
 ## Popularity (Based on EOS Achievements)

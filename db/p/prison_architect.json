@@ -6969,9 +6969,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 196397,
+  "EOS_Progressed": 196414,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2331,
+  "EOS_NewPlayers": 2337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31604,6 +31604,11 @@
       "Time": "2023-11-22T14:09:04.7349945+00:00",
       "NumProgressed": 196397,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-22T15:09:38.7028766+00:00",
+      "NumProgressed": 196414,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -31647,7 +31652,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31424
+      "UsersEstimate": 31426
     },
     {
       "ID": "Achievement_13",
@@ -31695,7 +31700,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 49099
+      "UsersEstimate": 49104
     },
     {
       "ID": "Achievement_5",
@@ -31727,7 +31732,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "Achievement_9",
@@ -31735,22 +31740,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9820
+      "UsersEstimate": 9821
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 196397,
+      "Progressed": 196414,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-22T13:57:29.6212065+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:09:04.7349942+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:09:38.7028759+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:32.1139212+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:57:29.621207+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:09:04.7351159+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:57:46.3221102+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:09:38.703002+00:00"
 }

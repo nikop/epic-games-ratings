@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -924,9 +924,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 227770,
+  "EOS_Progressed": 227772,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24554,6 +24554,11 @@
       "Time": "2023-11-22T14:09:21.7647541+00:00",
       "NumProgressed": 227770,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-22T15:10:03.0451449+00:00",
+      "NumProgressed": 227772,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -24573,7 +24578,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59220
+      "UsersEstimate": 59221
     },
     {
       "ID": "ACH_BASE_11",
@@ -24813,7 +24818,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27332
+      "UsersEstimate": 27333
     },
     {
       "ID": "ACH_BASE_8",
@@ -24836,7 +24841,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 227770,
+      "Progressed": 227772,
       "Completed": 5
     }
   ],
@@ -24844,8 +24849,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-13T09:57:16.2470185+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:09:21.7647539+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:10:03.0451443+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.2223415+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:58:19.7482602+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:09:21.7648927+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:59:03.3149017+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:10:03.0452791+00:00"
 }

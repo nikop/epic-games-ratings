@@ -7,10 +7,10 @@ Rating: 4.19 (Ranked 923)
 | ---- | ---------- | ----- |
 | A Veil Lifted | 0.70% | ~12 |
 | Comrades | 0.70% | ~12 |
-| Lost and Found | 0.60% | ~10 |
-| Shared Triumph | 0.60% | ~10 |
-| No Mercy | 0.60% | ~10 |
-| Thriving in Darkness | 0.60% | ~10 |
+| Lost and Found | 0.60% | ~11 |
+| Shared Triumph | 0.60% | ~11 |
+| No Mercy | 0.60% | ~11 |
+| Thriving in Darkness | 0.60% | ~11 |
 | Shades of Violence | 0.50% | ~9 |
 | The Past Shapes the Present | 0.50% | ~9 |
 | A Rest Among the Dead | 0.40% | ~7 |
@@ -20,15 +20,15 @@ Rating: 4.19 (Ranked 923)
 | Burying the Past | 0.30% | ~5 |
 | Unwanted | 0.30% | ~5 |
 | Unbroken to the End | 0.30% | ~5 |
-| Weapon Collector | 0.20% | ~3 |
-| What Sights Contained Within | 0.20% | ~3 |
-| Ammunition Collector | 0.20% | ~3 |
-| Throwable Collector | 0.20% | ~3 |
-| Gesture Collector | 0.20% | ~3 |
-| Rune Novice | 0.20% | ~3 |
-| Moving On | 0.20% | ~3 |
-| Essence of Death | 0.20% | ~3 |
-| Seasoned | 0.20% | ~3 |
+| Weapon Collector | 0.20% | ~4 |
+| What Sights Contained Within | 0.20% | ~4 |
+| Ammunition Collector | 0.20% | ~4 |
+| Throwable Collector | 0.20% | ~4 |
+| Gesture Collector | 0.20% | ~4 |
+| Rune Novice | 0.20% | ~4 |
+| Moving On | 0.20% | ~4 |
+| Essence of Death | 0.20% | ~4 |
+| Seasoned | 0.20% | ~4 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
 | Trinket Collector | 0.10% | ~2 |
@@ -69,7 +69,7 @@ Rating: 4.19 (Ranked 923)
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,749 (Ranked 231)  
+Progressed: 1,754 (Ranked 231)  
 Completed: 1 (0.06%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.06%) (Ranked 298)
 | 2023-11-19 | 1,651 | 1 |
 | 2023-11-20 | 1,661 | 1 |
 | 2023-11-21 | 1,696 | 1 |
-| 2023-11-22 | 1,749 | 1 |
+| 2023-11-22 | 1,754 | 1 |
 ## Awards
 Max (Character Customization): 166  (Ranked 308)  
 Sum: 306 (Ranked 362)  

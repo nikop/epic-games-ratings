@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24671,
+  "EOS_Progressed": 24673,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -23628,6 +23628,11 @@
       "Time": "2023-11-22T13:11:25.2465009+00:00",
       "NumProgressed": 24671,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-11-22T15:03:43.0954735+00:00",
+      "NumProgressed": 24673,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 20,
@@ -23663,7 +23668,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -23759,7 +23764,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18997
+      "UsersEstimate": 18998
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23767,7 +23772,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6661
+      "UsersEstimate": 6662
     },
     {
       "ID": "NORTH_FINISHED",
@@ -23798,15 +23803,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24671,
+      "Progressed": 24673,
       "Completed": 471
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:03:12.3070112+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:03:43.0954731+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:10:28.6507684+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:03:12.3071286+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:57:14.5599786+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:03:43.0956011+00:00"
 }

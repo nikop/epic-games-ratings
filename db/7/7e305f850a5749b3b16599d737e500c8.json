@@ -2,9 +2,9 @@
   "ID": "7e305f850a5749b3b16599d737e500c8",
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 41.59,
+  "EOS_Completed_Percentage": 41.23,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -724,6 +724,11 @@
       "Time": "2023-11-22T01:52:30.161789+00:00",
       "NumProgressed": 113,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-11-22T15:04:04.0807182+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 18,
@@ -733,15 +738,15 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 150,
-      "UsersEstimate": 53
+      "UsersEstimate": 52
     },
     {
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
       "UsersEstimate": 72
     },
@@ -751,7 +756,7 @@
       "Name": "Dust fighter",
       "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Engineer",
@@ -759,7 +764,7 @@
       "Name": "Engineer",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Express_home_delivery",
@@ -767,7 +772,7 @@
       "Name": "Express home delivery",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Fisher",
@@ -791,13 +796,13 @@
       "Name": "Florist",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 50,
       "UsersEstimate": 78
     },
@@ -813,7 +818,7 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
       "UsersEstimate": 63
     },
@@ -821,7 +826,7 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
       "UsersEstimate": 64
     },
@@ -845,7 +850,7 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 50,
       "UsersEstimate": 79
     },
@@ -853,7 +858,7 @@
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 50,
       "UsersEstimate": 78
     },
@@ -861,7 +866,7 @@
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 50,
       "UsersEstimate": 80
     },
@@ -869,7 +874,7 @@
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
       "UsersEstimate": 72
     }
@@ -878,14 +883,14 @@
     {
       "ID": "b7i210",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:03:26.7310968+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:04:04.0807175+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:59:00.9000743+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:03:26.7311109+00:00"
+  "LastUpdate_Ratings": "2023-11-22T15:00:05.8562951+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:04:04.0807312+00:00"
 }

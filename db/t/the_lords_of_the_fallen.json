@@ -573,9 +573,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1749,
+  "EOS_Progressed": 1754,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2833,6 +2833,11 @@
       "Time": "2023-11-22T14:04:49.4357229+00:00",
       "NumProgressed": 1749,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T15:06:00.3999806+00:00",
+      "NumProgressed": 1754,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -2861,7 +2866,7 @@
       "Name": "Lost and Found",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -2869,7 +2874,7 @@
       "Name": "Weapon Collector",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_005",
@@ -2885,7 +2890,7 @@
       "Name": "What Sights Contained Within",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_007",
@@ -2901,7 +2906,7 @@
       "Name": "Ammunition Collector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_009",
@@ -2933,7 +2938,7 @@
       "Name": "Throwable Collector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_013",
@@ -2941,7 +2946,7 @@
       "Name": "Gesture Collector",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_014",
@@ -2965,7 +2970,7 @@
       "Name": "Rune Novice",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_017",
@@ -3005,7 +3010,7 @@
       "Name": "Shared Triumph",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_022",
@@ -3021,7 +3026,7 @@
       "Name": "No Mercy",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -3189,7 +3194,7 @@
       "Name": "Moving On",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_045",
@@ -3285,7 +3290,7 @@
       "Name": "Essence of Death",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_057",
@@ -3293,7 +3298,7 @@
       "Name": "Thriving in Darkness",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -3301,7 +3306,7 @@
       "Name": "Seasoned",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_059",
@@ -3348,7 +3353,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1749,
+      "Progressed": 1754,
       "Completed": 1
     }
   ],
@@ -3356,8 +3361,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-22T06:59:34.7543951+00:00",
-  "LastChanged_Achievements": "2023-11-22T14:04:49.4357226+00:00",
+  "LastChanged_Achievements": "2023-11-22T15:06:00.3999803+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8643318+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:58:48.3182159+00:00",
-  "LastUpdate_Achievements": "2023-11-22T14:04:49.4357831+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:59:47.048277+00:00",
+  "LastUpdate_Achievements": "2023-11-22T15:06:00.400031+00:00"
 }

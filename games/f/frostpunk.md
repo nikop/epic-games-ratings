@@ -5,7 +5,7 @@ Rating: 4.74 (Ranked 159)
 Number of Ratings: 11,240  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 838  (Ranked 167)  
-Sum: 7,151 (Ranked 118)  
+Sum: 7,152 (Ranked 118)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 49
 | This game has Amazing Storytelling | 805 |
 | This game is Educational | 780 |
 | This game is Extremely Fun | 764 |
-| This game has Unique Visuals | 685 |
+| This game has Unique Visuals | 686 |
 | This game has Challenging Combat | 647 |
 | This game has Amazing Characters | 581 |
 | This game has Obsessive Gameplay | 491 |
@@ -300,4 +300,4 @@ Diff (max vs sum): 49
 | 2023-11-19 | 4.74 | - | 838 | 7,135 |
 | 2023-11-20 | 4.74 | - | 838 | 7,141 |
 | 2023-11-21 | 4.74 | - | 838 | 7,150 |
-| 2023-11-22 | 4.74 | - | 838 | 7,151 |
+| 2023-11-22 | 4.74 | - | 838 | 7,152 |

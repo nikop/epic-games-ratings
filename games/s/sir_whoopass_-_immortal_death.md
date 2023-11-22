@@ -24,22 +24,22 @@
 | Cockadoodledoo! | 50.00% | ~65 |
 | Honk honk! | 49.00% | ~64 |
 | Butcher | 48.00% | ~62 |
+| Spare Ribs | 48.00% | ~62 |
 | Thats disgusting! | 47.00% | ~61 |
-| Spare Ribs | 47.00% | ~61 |
-| Self assessed tax return | 42.00% | ~55 |
+| Self assessed tax return | 43.00% | ~56 |
+| My pants squeak when I walk | 43.00% | ~56 |
 | Surprise!! | 42.00% | ~55 |
-| My pants squeak when I walk | 42.00% | ~55 |
 | Haemochromatosis | 39.00% | ~51 |
-| Make America Grate Again | 34.00% | ~44 |
+| Make America Grate Again | 35.00% | ~46 |
+| You can't stop me, bro! | 33.00% | ~43 |
 | Pasta Bolognese | 33.00% | ~43 |
 | You are no match for me, Billy! | 32.00% | ~42 |
 | Catch the bus with me! | 32.00% | ~42 |
 | Karaoke king | 32.00% | ~42 |
-| You can't stop me, bro! | 32.00% | ~42 |
 | I'm going to get a concussion | 30.00% | ~39 |
 | Meatballs, coming up! | 29.00% | ~38 |
 | Another one bites the iron | 27.00% | ~35 |
-| Ripe Meat Off The Bone! | 25.00% | ~32 |
+| Ripe Meat Off The Bone! | 26.00% | ~34 |
 | Kleptomaniac | 25.00% | ~32 |
 | Hovering around | 24.00% | ~31 |
 | A Megapint...? | 23.00% | ~30 |
