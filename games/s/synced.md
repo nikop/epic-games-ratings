@@ -112,17 +112,17 @@ Completed: 35 (0.05%) (Ranked 306)
 | 2023-11-22 | 67,222 | 35 |
 ## Awards
 Max (Great for Beginners): 95  (Ranked 370)  
-Sum: 383 (Ranked 345)  
+Sum: 385 (Ranked 345)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 95 |
 | This game has Diverse Characters | 64 |
 | This game has Amazing Characters | 51 |
-| This game is Highly Recommended | 49 |
+| This game is Highly Recommended | 50 |
 | This game has a Competitive Community | 48 |
 | This game is Extremely Fun | 46 |
-| This game has Amazing Storytelling | 40 |
+| This game has Amazing Storytelling | 41 |
 | This game has Quickly Understood Controls | 38 |
 | This game is Relaxing | 28 |
 | This game has Unique Visuals | 20 |
@@ -198,3 +198,4 @@ Diff (max vs sum): 25
 | 2023-11-17 | 4.16 | 94 | 377 |
 | 2023-11-18 | 4.16 | 95 | 330 |
 | 2023-11-19 | 4.16 | 95 | 383 |
+| 2023-11-22 | 4.16 | 95 | 385 |

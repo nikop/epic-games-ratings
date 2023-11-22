@@ -12,11 +12,11 @@
 | The Plains of Strothalm | 73.00% | ~238 |
 | Experienced Thalya | 71.00% | ~231 |
 | Thalya's Concentrated Fury | 67.00% | ~218 |
+| Master of Magic | 66.00% | ~215 |
 | Bad Elves Go Everywhere | 66.00% | ~215 |
-| Master of Magic | 65.00% | ~212 |
 | Heroes’ Gorge | 61.00% | ~199 |
+| Magic Accidents | 60.00% | ~196 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~196 |
-| Magic Accidents | 59.00% | ~192 |
 | Minions, Minions! | 58.00% | ~189 |
 | Trap Master | 53.00% | ~173 |
 | The Ascent | 51.00% | ~166 |
@@ -61,9 +61,9 @@
 | Gorgu is in the Best of Health | 5.00% | ~16 |
 | Laser Eyes Are So Useless | 5.00% | ~16 |
 | Evilification | 5.00% | ~16 |
+| No Mana, No Cry | 4.00% | ~13 |
 | Heal Heal Blessing | 4.00% | ~13 |
 | Hands Off My Stones | 4.00% | ~13 |
-| No Mana, No Cry | 3.00% | ~10 |
 | I Don't Need Any Help | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 326 (Ranked 339)  

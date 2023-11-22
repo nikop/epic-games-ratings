@@ -2,9 +2,9 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 631,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2023-11-21T23:05:05.0934291+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T02:30:20.6725186+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -60,7 +65,7 @@
       "ID": "ACH_ALL_COMBAT_SKILLS",
       "SetID": "cagp2pi",
       "Name": "Growth",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -84,7 +89,7 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "cagp2pi",
       "Name": "Weapon Master",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -100,7 +105,7 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -116,7 +121,7 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -164,7 +169,7 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -245,13 +250,13 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-22T01:54:02.7467034+00:00",
+  "LastChanged_Achievements": "2023-11-22T02:30:20.6725184+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.2590305+00:00",
-  "LastUpdate_Ratings": "2023-11-22T01:48:48.867734+00:00",
-  "LastUpdate_Achievements": "2023-11-22T01:54:02.7467154+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:25:00.5281277+00:00",
+  "LastUpdate_Achievements": "2023-11-22T02:30:20.6725284+00:00"
 }

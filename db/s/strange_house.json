@@ -2,9 +2,9 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 521,
+  "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -182,6 +182,11 @@
       "Time": "2023-11-19T15:07:29.3975476+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T02:33:33.3229576+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -192,7 +197,7 @@
       "ID": "AlcoholMachine",
       "SetID": "a2ci5mh",
       "Name": "Alcoholic",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 150,
       "UsersEstimate": 3
     },
@@ -200,7 +205,7 @@
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 150,
       "UsersEstimate": 3
     },
@@ -216,7 +221,7 @@
       "ID": "LostCat",
       "SetID": "a2ci5mh",
       "Name": "Lost Cat",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -224,7 +229,7 @@
       "ID": "Underground",
       "SetID": "a2ci5mh",
       "Name": "Underground",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 150,
       "UsersEstimate": 3
     },
@@ -241,13 +246,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-22T01:57:32.2926511+00:00",
+  "LastChanged_Achievements": "2023-11-22T02:33:33.3229572+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:47.7003936+00:00",
-  "LastUpdate_Ratings": "2023-11-22T01:49:15.0724653+00:00",
-  "LastUpdate_Achievements": "2023-11-22T01:57:32.2926574+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:25:29.7042737+00:00",
+  "LastUpdate_Achievements": "2023-11-22T02:33:33.3229635+00:00"
 }

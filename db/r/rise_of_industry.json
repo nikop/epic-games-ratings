@@ -2,7 +2,7 @@
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
-  "Ranking_Rating": 884,
+  "Ranking_Rating": 885,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 18,
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753769,
+  "EOS_Progressed": 753771,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1910,
+  "EOS_NewPlayers": 1907,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24984,6 +24984,11 @@
       "Time": "2023-11-22T01:54:51.3491468+00:00",
       "NumProgressed": 753769,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-22T02:31:16.1379432+00:00",
+      "NumProgressed": 753771,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -25099,7 +25104,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 90452
+      "UsersEstimate": 90453
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -25123,7 +25128,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361809
+      "UsersEstimate": 361810
     },
     {
       "ID": "ach_produced",
@@ -25195,7 +25200,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 90452
+      "UsersEstimate": 90453
     },
     {
       "ID": "ach_warehouse_clients",
@@ -25210,7 +25215,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 753769,
+      "Progressed": 753771,
       "Completed": 4
     }
   ],
@@ -25218,8 +25223,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-22T01:54:51.3491464+00:00",
+  "LastChanged_Achievements": "2023-11-22T02:31:16.1379429+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.4041849+00:00",
-  "LastUpdate_Ratings": "2023-11-22T01:47:30.8822447+00:00",
-  "LastUpdate_Achievements": "2023-11-22T01:54:51.3492698+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:23:29.7980005+00:00",
+  "LastUpdate_Achievements": "2023-11-22T02:31:16.1380846+00:00"
 }

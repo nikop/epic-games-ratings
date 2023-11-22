@@ -5,27 +5,27 @@ Rating: 4.66 (Ranked 295)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~19,351 |
-| A Long Time Ago | 93.00% | ~17,996 |
-| Sabersmith | 80.00% | ~15,481 |
-| The Obstacle is the Way | 78.00% | ~15,094 |
-| Back At You | 73.00% | ~14,126 |
+| The Mantis | 100.00% | ~19,352 |
+| A Long Time Ago | 93.00% | ~17,997 |
+| Sabersmith | 80.00% | ~15,482 |
+| The Obstacle is the Way | 78.00% | ~15,095 |
+| Back At You | 73.00% | ~14,127 |
 | Happy Go Wookiee | 70.00% | ~13,546 |
 | Everything is Connected | 60.00% | ~11,611 |
-| Her Name Was Masana Tide | 55.00% | ~10,643 |
+| Her Name Was Masana Tide | 55.00% | ~10,644 |
 | Bank Shot | 54.00% | ~10,450 |
-| Perfect Timing | 53.00% | ~10,256 |
-| Gorgara Falls | 51.00% | ~9,869 |
-| The Full Glow-Up | 51.00% | ~9,869 |
+| Perfect Timing | 53.00% | ~10,257 |
+| Gorgara Falls | 51.00% | ~9,870 |
+| The Full Glow-Up | 51.00% | ~9,870 |
 | For A More Civilized Age | 49.00% | ~9,482 |
 | I Knew He Was No Good | 47.00% | ~9,095 |
-| The Holocron Awaits | 46.00% | ~8,901 |
-| Look Out Below | 44.00% | ~8,514 |
-| Trust Only In The Force | 44.00% | ~8,514 |
+| The Holocron Awaits | 46.00% | ~8,902 |
+| Look Out Below | 44.00% | ~8,515 |
+| Trust Only In The Force | 44.00% | ~8,515 |
 | Scum and Villainy | 43.00% | ~8,321 |
-| Don't Mess with BD-1 | 42.00% | ~8,127 |
-| Blade Master | 38.00% | ~7,353 |
-| Full House | 36.00% | ~6,966 |
+| Don't Mess with BD-1 | 42.00% | ~8,128 |
+| Blade Master | 38.00% | ~7,354 |
+| Full House | 36.00% | ~6,967 |
 | Legendary Beasts | 22.00% | ~4,257 |
 | Echo Location | 20.00% | ~3,870 |
 | Visiting Alderaan Places | 18.00% | ~3,483 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 295)
 | Kicking Back | 2.00% | ~387 |
 | Not So Fast | 1.00% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,351 (Ranked 140)  
+Progressed: 19,352 (Ranked 140)  
 Completed: 192 (0.99%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 192 (0.99%) (Ranked 165)
 | 2023-11-19 | 18,989 | 187 |
 | 2023-11-20 | 19,148 | 188 |
 | 2023-11-21 | 19,332 | 192 |
-| 2023-11-22 | 19,351 | 192 |
+| 2023-11-22 | 19,352 | 192 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

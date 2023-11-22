@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471169,
+  "EOS_Progressed": 471170,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
@@ -23138,6 +23138,11 @@
       "Time": "2023-11-22T01:58:44.4652339+00:00",
       "NumProgressed": 471169,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-22T02:34:55.2706656+00:00",
+      "NumProgressed": 471170,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23149,7 +23154,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70675
+      "UsersEstimate": 70676
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -23157,7 +23162,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70675
+      "UsersEstimate": 70676
     },
     {
       "ID": "achievement_first_death",
@@ -23181,7 +23186,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70675
+      "UsersEstimate": 70676
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -23317,7 +23322,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70675
+      "UsersEstimate": 70676
     },
     {
       "ID": "achievement_story_neon_child",
@@ -23333,7 +23338,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160197
+      "UsersEstimate": 160198
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -23573,7 +23578,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207314
+      "UsersEstimate": 207315
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -23780,21 +23785,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15103,
+      "Progressed": 15104,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471169,
+      "Progressed": 471170,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-22T01:58:44.4652335+00:00",
+  "LastChanged_Achievements": "2023-11-22T02:34:55.2706653+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-22T01:47:31.4888734+00:00",
-  "LastUpdate_Achievements": "2023-11-22T01:58:44.4653757+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:23:30.3433482+00:00",
+  "LastUpdate_Achievements": "2023-11-22T02:34:55.2708014+00:00"
 }

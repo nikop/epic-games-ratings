@@ -5,9 +5,9 @@
   "Ranking_Rating": 173,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 339,
+  "EOS_Progressed": 340,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -325,6 +325,11 @@
       "Time": "2023-11-11T12:09:11.6120393+00:00",
       "NumProgressed": 339,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T02:34:54.4455514+00:00",
+      "NumProgressed": 340,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -376,7 +381,7 @@
       "Name": "The New Director",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -392,7 +397,7 @@
       "Name": "The Director is Dead",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -424,7 +429,7 @@
       "Name": "And Here Is Your Statue",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -472,7 +477,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ach-campaign-story2",
@@ -480,7 +485,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ach-campaign-story3",
@@ -520,7 +525,7 @@
       "Name": "Discovery",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-drinkingContest",
@@ -544,7 +549,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach-find-treasure-high",
@@ -592,7 +597,7 @@
       "Name": "Plays Well With Others",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -614,9 +619,9 @@
       "ID": "ach-kill-sandworm",
       "SetID": "17ih7ma",
       "Name": "Shortening of the Way",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 54
     },
     {
       "ID": "ach-learn-traits",
@@ -654,9 +659,9 @@
       "ID": "ach-maxLevelCharacter",
       "SetID": "17ih7ma",
       "Name": "Veteran Explorer",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "ach-meetGhost",
@@ -664,7 +669,7 @@
       "Name": "Spooky!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ach-noEquipment",
@@ -680,7 +685,7 @@
       "Name": "Insomnia",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ach-pacifist-goals",
@@ -688,7 +693,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach-paleMask-cure",
@@ -712,7 +717,7 @@
       "Name": "From Whence we Came",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ach-promotion",
@@ -728,15 +733,15 @@
       "Name": "Good Mama",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 54
     },
     {
       "ID": "ach-rideDinosaur",
@@ -784,7 +789,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -806,16 +811,16 @@
       "ID": "ach-wearHat",
       "SetID": "17ih7ma",
       "Name": "Dapper",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 339,
+      "Progressed": 340,
       "Completed": 1
     }
   ],
@@ -823,8 +828,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-22T01:58:43.7177182+00:00",
+  "LastChanged_Achievements": "2023-11-22T02:34:54.4455511+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:10.3611019+00:00",
-  "LastUpdate_Ratings": "2023-11-22T01:48:30.9957794+00:00",
-  "LastUpdate_Achievements": "2023-11-22T01:58:43.7177616+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:24:42.7718833+00:00",
+  "LastUpdate_Achievements": "2023-11-22T02:34:54.4455869+00:00"
 }

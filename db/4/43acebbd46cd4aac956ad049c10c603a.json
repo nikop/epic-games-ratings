@@ -115,9 +115,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -985,6 +985,11 @@
       "Time": "2023-11-22T01:52:50.6458332+00:00",
       "NumProgressed": 424,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T02:29:00.4906287+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1013,7 +1018,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Archaeologist",
@@ -1053,7 +1058,7 @@
       "Name": "Bridge Builder",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ChasingTheLight",
@@ -1085,7 +1090,7 @@
       "Name": "Desolate Island",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Discovery",
@@ -1109,7 +1114,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Excellent",
@@ -1149,7 +1154,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "HighPlain",
@@ -1221,7 +1226,7 @@
       "Name": "Museum Visitor",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "NewBeginning",
@@ -1251,9 +1256,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 221
     },
     {
       "ID": "Persistent",
@@ -1277,7 +1282,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "RemnantsOfThePast",
@@ -1285,7 +1290,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "RenaissanceRobot",
@@ -1405,15 +1410,15 @@
       "Name": "The Word Endures",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 187
     },
     {
       "ID": "TrevorsBiographer",
@@ -1461,14 +1466,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 1
     }
   ],
@@ -1476,8 +1481,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-21T23:59:01.7170181+00:00",
-  "LastChanged_Achievements": "2023-11-22T01:52:50.6458328+00:00",
+  "LastChanged_Achievements": "2023-11-22T02:29:00.4906284+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-22T01:48:16.2785605+00:00",
-  "LastUpdate_Achievements": "2023-11-22T01:52:50.6458709+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:24:24.8583142+00:00",
+  "LastUpdate_Achievements": "2023-11-22T02:29:00.490677+00:00"
 }

@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 491)
 | Martian Music | 4.00% | ~608 |
 | Call it Even | 4.00% | ~608 |
 | Captain Drummer | 4.00% | ~608 |
-| Keep Arjun in Check | 4.00% | ~46 |
-| Madame Undersecretary | 4.00% | ~46 |
+| Keep Arjun in Check | 4.00% | ~47 |
+| Madame Undersecretary | 4.00% | ~47 |
 | Data Archivist | 3.00% | ~456 |
 | Heal Thy Medic | 3.00% | ~456 |
 | Khan's Revenge | 3.00% | ~456 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,207 (Ranked 152)  
+Progressed: 15,210 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
-| 2023-11-22 | 15,207 | 35 |
+| 2023-11-22 | 15,210 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

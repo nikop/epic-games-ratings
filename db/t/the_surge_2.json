@@ -2,12 +2,12 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 884,
+  "Ranking_Rating": 879,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2022-09-28T12:01:34.458697+00:00",
@@ -268,6 +268,12 @@
     {
       "Time": "2023-11-11T23:57:43.5779534+00:00",
       "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-22T02:25:03.2214819+00:00",
+      "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3699,9 +3705,9 @@
   "FirstSeen": "2022-08-21T23:30:56.8075479+00:00",
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
-  "LastChanged": "2023-11-11T23:57:43.5779533+00:00",
-  "LastChanged_Achievements": "2023-11-22T01:53:43.1341035+00:00",
+  "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
+  "LastChanged_Achievements": "2023-11-22T02:29:58.6377545+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:00.2297931+00:00",
-  "LastUpdate_Ratings": "2023-11-22T01:48:51.0907408+00:00",
-  "LastUpdate_Achievements": "2023-11-22T01:53:43.1341486+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:25:03.2214822+00:00",
+  "LastUpdate_Achievements": "2023-11-22T02:29:58.6378022+00:00"
 }

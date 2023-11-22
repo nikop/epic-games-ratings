@@ -784,9 +784,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 353490,
+  "EOS_Progressed": 353491,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25274,6 +25274,11 @@
       "Time": "2023-11-22T01:54:10.2107839+00:00",
       "NumProgressed": 353490,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T02:30:29.0103893+00:00",
+      "NumProgressed": 353491,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -25325,7 +25330,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "ach007",
@@ -25365,7 +25370,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "ach012",
@@ -25397,7 +25402,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "ach016",
@@ -25493,7 +25498,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 162605
+      "UsersEstimate": 162606
     },
     {
       "ID": "ach028",
@@ -25597,7 +25602,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "ach041",
@@ -25613,7 +25618,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "ach043",
@@ -25677,7 +25682,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "ach051",
@@ -25813,7 +25818,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56558
+      "UsersEstimate": 56559
     },
     {
       "ID": "ach069",
@@ -25837,7 +25842,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "ach072",
@@ -25924,7 +25929,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 353490,
+      "Progressed": 353491,
       "Completed": 7
     }
   ],
@@ -25932,8 +25937,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-21T22:02:57.2923438+00:00",
-  "LastChanged_Achievements": "2023-11-22T01:54:10.2107835+00:00",
+  "LastChanged_Achievements": "2023-11-22T02:30:29.0103889+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:23.8503027+00:00",
-  "LastUpdate_Ratings": "2023-11-22T01:51:57.8612922+00:00",
-  "LastUpdate_Achievements": "2023-11-22T01:54:10.21093+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:27:58.0039202+00:00",
+  "LastUpdate_Achievements": "2023-11-22T02:30:29.0105413+00:00"
 }

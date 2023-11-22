@@ -776,9 +776,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5008,
+  "EOS_Progressed": 5009,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9646,6 +9646,11 @@
       "Time": "2023-11-22T01:55:14.3710403+00:00",
       "NumProgressed": 5008,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-22T02:31:41.8495266+00:00",
+      "NumProgressed": 5009,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9722,7 +9727,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -9738,7 +9743,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -9754,7 +9759,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -9776,9 +9781,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 651
+      "UsersEstimate": 701
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9786,7 +9791,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -9810,7 +9815,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -9832,24 +9837,24 @@
       "ID": "MF_Ach_VexedHer",
       "SetID": "9b9n573",
       "Name": "Vexed Her",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5008,
+      "Progressed": 5009,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-22T01:55:14.37104+00:00",
+  "LastChanged_Achievements": "2023-11-22T02:31:41.8495262+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-22T01:48:09.7013917+00:00",
-  "LastUpdate_Achievements": "2023-11-22T01:55:14.3710983+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:24:15.8084648+00:00",
+  "LastUpdate_Achievements": "2023-11-22T02:31:41.8495768+00:00"
 }

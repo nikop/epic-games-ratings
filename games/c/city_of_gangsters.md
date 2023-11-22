@@ -5,8 +5,8 @@ Rating: 4.29 (Ranked 842)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~162,605 |
-| Copacetic Coordination | 16.00% | ~56,558 |
+| Corner Clout | 46.00% | ~162,606 |
+| Copacetic Coordination | 16.00% | ~56,559 |
 | Fronting the Money | 15.00% | ~53,024 |
 | The Dawn of Automation | 14.00% | ~49,489 |
 | Extraordinary Logistics | 14.00% | ~49,489 |
@@ -29,13 +29,13 @@ Rating: 4.29 (Ranked 842)
 | Wise Head | 6.00% | ~21,209 |
 | Show ‘em the Sugar | 6.00% | ~21,209 |
 | Killing Them Softly | 6.00% | ~21,209 |
-| Street Knowledge | 5.00% | ~17,674 |
-| Oh Captain | 5.00% | ~17,674 |
-| Branching Out | 5.00% | ~17,674 |
-| Improvement Missions | 5.00% | ~17,674 |
-| Opportunity Knocked | 5.00% | ~17,674 |
-| City of Big Shoulders | 5.00% | ~17,674 |
-| Mission Mastery | 5.00% | ~17,674 |
+| Street Knowledge | 5.00% | ~17,675 |
+| Oh Captain | 5.00% | ~17,675 |
+| Branching Out | 5.00% | ~17,675 |
+| Improvement Missions | 5.00% | ~17,675 |
+| Opportunity Knocked | 5.00% | ~17,675 |
+| City of Big Shoulders | 5.00% | ~17,675 |
+| Mission Mastery | 5.00% | ~17,675 |
 | Considerable Clams | 4.00% | ~14,140 |
 | Gin Joint | 4.00% | ~14,140 |
 | An Affront to the Enemy | 4.00% | ~14,140 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 842)
 | High Pillow | 0.10% | ~353 |
 | Station Master | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353,490 (Ranked 47)  
+Progressed: 353,491 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 7 (0.00%) (Ranked 357)
 | 2023-11-19 | 353,192 | 7 |
 | 2023-11-20 | 353,346 | 7 |
 | 2023-11-21 | 353,478 | 7 |
-| 2023-11-22 | 353,490 | 7 |
+| 2023-11-22 | 353,491 | 7 |
 ## Awards
 Max (Great for Beginners): 48  (Ranked 439)  
 Sum: 194 (Ranked 403)  
