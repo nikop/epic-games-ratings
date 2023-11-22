@@ -13,6 +13,7 @@
 | Up your Arsenal | 13.00% | ~2 |
 | Back online | 13.00% | ~2 |
 | I've Got You | 13.00% | ~2 |
+| Getting Better | 13.00% | ~2 |
 | Priceless Collection | 7.00% | ~1 |
 | One Man Army | 7.00% | ~1 |
 | Quest for Loot | 7.00% | ~1 |
@@ -30,7 +31,6 @@
 | The Crew is Back! | 7.00% | ~1 |
 | Not Too Long | 7.00% | ~1 |
 | Welcome back | 7.00% | ~1 |
-| Getting Better | 7.00% | ~1 |
 | Teamwork makes the dream work | 7.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |
 | A True Merit Badge | 0.00% | ~0 |

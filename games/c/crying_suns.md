@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~310,972 |
-| Jeef Skeejj | 44.00% | ~207,315 |
-| Careful planning | 39.00% | ~183,756 |
+| The Shutdown | 66.00% | ~310,974 |
+| Jeef Skeejj | 44.00% | ~207,316 |
+| Careful planning | 39.00% | ~183,757 |
 | Second Coming | 34.00% | ~160,198 |
-| Jeef Skagg | 30.00% | ~141,351 |
-| Mother | 25.00% | ~117,792 |
+| Jeef Skagg | 30.00% | ~141,352 |
+| Mother | 25.00% | ~117,793 |
 | In space, no one can hear you scream | 24.00% | ~113,081 |
-| Chapter I: Echoes | 22.00% | ~103,657 |
-| Excelsior Rule | 22.00% | ~103,657 |
+| Chapter I: Echoes | 22.00% | ~103,658 |
+| Excelsior Rule | 22.00% | ~103,658 |
 | Things persisted in not being what they seemed | 20.00% | ~94,234 |
 | Knightmare Frames | 15.00% | ~70,676 |
 | May His passing cleanse the world | 15.00% | ~70,676 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,270 |
 | The Crazy Repairman | 6.00% | ~28,270 |
 | The Weasel | 6.00% | ~28,270 |
-| Kill the Doctor | 5.00% | ~23,558 |
-| Forsaken | 5.00% | ~23,558 |
-| Mercy | 5.00% | ~23,558 |
-| Jericho Rule | 5.00% | ~23,558 |
+| Kill the Doctor | 5.00% | ~23,559 |
+| Forsaken | 5.00% | ~23,559 |
+| Mercy | 5.00% | ~23,559 |
+| Jericho Rule | 5.00% | ~23,559 |
 | Geno Rule | 3.00% | ~14,135 |
 | Hammer Rule | 3.00% | ~14,135 |
 | Survivor | 2.00% | ~9,423 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~15 |
 | Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,170 (Ranked 40)  
+Progressed: 471,172 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 20 (0.00%) (Ranked 357)
 | 2023-11-19 | 471,083 | 20 |
 | 2023-11-20 | 471,124 | 20 |
 | 2023-11-21 | 471,163 | 20 |
-| 2023-11-22 | 471,170 | 20 |
+| 2023-11-22 | 471,172 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 275)  
 Sum: 245 (Ranked 382)  

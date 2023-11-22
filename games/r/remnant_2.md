@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Regicide | 0.50% | ~22 |
-| Master of the Dark Arts | 0.50% | ~22 |
+| Regicide | 0.50% | ~23 |
+| Master of the Dark Arts | 0.50% | ~23 |
 | Expanding Horizons | 0.10% | ~225 |
 | Crafty | 0.10% | ~225 |
 | Am I Seeing This? | 0.10% | ~225 |
@@ -57,12 +57,12 @@ Rating: 4.75 (Ranked 148)
 | Trait Chaser | 0.10% | ~225 |
 | Maxed Out! | 0.10% | ~225 |
 | Transmutate | 0.10% | ~225 |
-| Succession | 0.10% | ~4 |
-| A Foul Feast | 0.10% | ~4 |
-| You Shall Pass | 0.10% | ~4 |
+| Succession | 0.10% | ~5 |
+| A Foul Feast | 0.10% | ~5 |
+| You Shall Pass | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,333 (Ranked 69)  
-Completed: 500 (0.22%) (Ranked 249)  
+Progressed: 225,356 (Ranked 69)  
+Completed: 501 (0.22%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,19 +190,19 @@ Completed: 500 (0.22%) (Ranked 249)
 | 2023-11-19 | 224,109 | 485 |
 | 2023-11-20 | 224,687 | 495 |
 | 2023-11-21 | 225,251 | 498 |
-| 2023-11-22 | 225,333 | 500 |
+| 2023-11-22 | 225,356 | 501 |
 ## Awards
 Max (Great Boss Battles): 2,369  (Ranked 105)  
-Sum: 5,659 (Ranked 131)  
-Diff (max vs sum): -26  
+Sum: 5,672 (Ranked 130)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,369 |
 | This game has Diverse Characters | 377 |
+| This game has Challenging Combat | 356 |
 | This game is Highly Recommended | 352 |
 | This game is Extremely Fun | 351 |
 | This game is Relaxing | 349 |
-| This game has Challenging Combat | 343 |
 | This game has Amazing Storytelling | 338 |
 | This game has Quickly Understood Controls | 323 |
 | This game has Amazing Characters | 322 |
@@ -330,4 +330,4 @@ Diff (max vs sum): -26
 | 2023-11-19 | 4.75 | 2,336 | 5,490 |
 | 2023-11-20 | 4.76 | 2,358 | 5,576 |
 | 2023-11-21 | 4.76 | 2,369 | 5,643 |
-| 2023-11-22 | 4.75 | 2,369 | 5,659 |
+| 2023-11-22 | 4.75 | 2,369 | 5,672 |

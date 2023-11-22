@@ -2,9 +2,9 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 619,
+  "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
       "Time": "2023-11-22T03:05:36.9601727+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T04:05:27.8759335+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -70,7 +75,7 @@
       "ID": "ACH_ALL_COMBAT_SKILLS",
       "SetID": "cagp2pi",
       "Name": "Growth",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -94,7 +99,7 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "cagp2pi",
       "Name": "Weapon Master",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -110,7 +115,7 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -174,9 +179,9 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -255,13 +260,13 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:05:36.9601723+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:05:27.8759332+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.2590305+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:00:23.265107+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:05:36.9601851+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:00:06.3180545+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:05:27.8759469+00:00"
 }

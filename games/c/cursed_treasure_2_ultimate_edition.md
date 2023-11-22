@@ -13,7 +13,7 @@
 | Air Defense | 85.00% | ~150 |
 | Your War is Over | 83.00% | ~147 |
 | The Starry Night | 78.00% | ~138 |
-| Go Home! | 76.00% | ~135 |
+| Go Home! | 77.00% | ~136 |
 | Brilliant: Meadowshire | 75.00% | ~133 |
 | Sergeant of the Evil | 75.00% | ~133 |
 | Look After the Pence... | 74.00% | ~131 |
@@ -26,10 +26,10 @@
 | Architect of Darkness | 71.00% | ~126 |
 | The Apotheosis of War | 68.00% | ~120 |
 | Stasis Alcatraz | 68.00% | ~120 |
+| Brilliant: Holy Mountain | 64.00% | ~113 |
+| Combo Breaker | 64.00% | ~113 |
 | Tastes Like Chicken | 64.00% | ~113 |
 | Thunderstorm | 64.00% | ~113 |
-| Brilliant: Holy Mountain | 63.00% | ~112 |
-| Combo Breaker | 63.00% | ~112 |
 | Clean Forests | 62.00% | ~110 |
 | Starry: Meadowshire | 58.00% | ~103 |
 | Lieutenant of the Evil | 58.00% | ~103 |

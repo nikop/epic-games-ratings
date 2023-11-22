@@ -18,10 +18,10 @@
 | Stone Collection | 5.00% | ~10 |
 | The Collector | 5.00% | ~10 |
 | Break Out | 4.00% | ~8 |
+| Shatter Them All | 4.00% | ~8 |
 | Fashion Victim | 4.00% | ~8 |
 | The Mentor | 3.00% | ~6 |
 | Essence Blow | 3.00% | ~6 |
-| Shatter Them All | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |
 | Alchemist | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |

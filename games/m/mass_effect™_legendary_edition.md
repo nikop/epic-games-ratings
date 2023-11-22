@@ -44,13 +44,13 @@
 | Broke, Blind, and Bedlam | 33.00% | ~447 |
 | Ghost Ship | 32.00% | ~434 |
 | The Quarian | 32.00% | ~434 |
+| The Prodigal | 32.00% | ~434 |
 | Galactic Explorer | 32.00% | ~434 |
 | A Personal Touch | 31.00% | ~420 |
 | The Assassin | 31.00% | ~420 |
 | The Justicar | 31.00% | ~420 |
 | Battlemaster | 31.00% | ~420 |
 | Ghost of the Father | 31.00% | ~420 |
-| The Prodigal | 31.00% | ~420 |
 | Driven | 31.00% | ~420 |
 | Shopaholic | 31.00% | ~420 |
 | Completionist | 30.00% | ~406 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~14 |
 | The One and Only | 0.90% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,355 (Ranked 242)  
+Progressed: 1,355 (Ranked 243)  
 Completed: 6 (0.44%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |

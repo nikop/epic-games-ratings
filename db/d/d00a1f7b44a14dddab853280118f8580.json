@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 187,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 22,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 21.93,
   "EosHistory": [
     {
@@ -914,9 +914,9 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "ach_complete_30",
@@ -962,17 +962,17 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 60,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 80,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "ach_skip_1",
@@ -1009,8 +1009,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:06:55.9343782+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:06:47.0397578+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.0966584+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:01:23.9956882+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:06:55.9343922+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:01:05.2459042+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:06:47.0397664+00:00"
 }

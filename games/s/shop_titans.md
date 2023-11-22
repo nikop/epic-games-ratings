@@ -48,6 +48,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 1.00% | ~1,409 |
 | Natural 20 | 1.00% | ~1,409 |
 | Seasoned Journeyman | 1.00% | ~1,409 |
+| Black Friday Special | 1.00% | ~1,409 |
 | Magical Harmony | 1.00% | ~1,409 |
 | Special Ingredient | 1.00% | ~1,409 |
 | Arcane Industries | 1.00% | ~1,409 |
@@ -68,7 +69,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.90% | ~1,268 |
 | Laden with Loot | 0.90% | ~1,268 |
 | Scourge of the Seas | 0.90% | ~1,268 |
-| Black Friday Special | 0.90% | ~1,268 |
 | Cream of the Crop | 0.80% | ~1,127 |
 | Proud Paladin | 0.80% | ~1,127 |
 | Above the Norm | 0.80% | ~1,127 |
@@ -89,6 +89,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.80% | ~1,127 |
 | Treasure Trove | 0.80% | ~1,127 |
 | Moment of Respite | 0.80% | ~1,127 |
+| King's Shadow | 0.80% | ~1,127 |
 | Master Recycler | 0.80% | ~1,127 |
 | Exotic Commodities | 0.80% | ~1,127 |
 | King's Blade | 0.80% | ~1,127 |
@@ -98,13 +99,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.70% | ~986 |
 | Industrial Evolution | 0.70% | ~986 |
 | A Legend is Born | 0.70% | ~986 |
-| King's Shadow | 0.70% | ~986 |
 | Economy of Scarce | 0.70% | ~986 |
 | Jackpot! | 0.60% | ~845 |
-| The Free Encyclopedia | 0.50% | ~704 |
-| Thank You Tom Nook | 0.50% | ~704 |
-| Eternal Crusade | 0.50% | ~704 |
-| All Accounted For | 0.50% | ~704 |
+| The Free Encyclopedia | 0.50% | ~705 |
+| Thank You Tom Nook | 0.50% | ~705 |
+| Eternal Crusade | 0.50% | ~705 |
+| All Accounted For | 0.50% | ~705 |
 | The Greatest Grind | 0.40% | ~564 |
 | All or Nothing! | 0.40% | ~564 |
 | Ultimate Collector | 0.30% | ~423 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,898 (Ranked 80)  
+Progressed: 140,908 (Ranked 80)  
 Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,17 +335,17 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,898 | 191 |
+| 2023-11-22 | 140,908 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
-Sum: 27,573 (Ranked 50)  
+Sum: 27,575 (Ranked 50)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,837 |
 | This game is Relaxing | 4,044 |
 | This game has Quickly Understood Controls | 4,030 |
-| This game has Diverse Characters | 3,945 |
+| This game has Diverse Characters | 3,947 |
 | This game is Highly Recommended | 3,783 |
 | This game has Easy Combat | 3,727 |
 | This game has Playful Visuals | 3,207 |
@@ -649,4 +649,4 @@ Diff (max vs sum): 24
 | 2023-11-19 | 3.99 | - | 4,834 | 27,568 |
 | 2023-11-20 | 3.99 | - | 4,836 | 27,570 |
 | 2023-11-21 | 3.99 | - | 4,837 | 27,572 |
-| 2023-11-22 | 3.99 | - | 4,837 | 27,573 |
+| 2023-11-22 | 3.99 | - | 4,837 | 27,575 |

@@ -36,21 +36,21 @@ Rating: 4.61 (Ranked 383)
 | Impenetrable Fortress | 0.70% | ~38 |
 | Mighty Hoard | 0.70% | ~38 |
 | Prometheus Avenged | 0.70% | ~38 |
+| Crimson Caldera | 0.60% | ~33 |
 | Preparation Is Everything | 0.60% | ~33 |
 | Blood of the Dragon | 0.60% | ~33 |
 | A Conqueror's Cohort | 0.60% | ~33 |
 | Arch Mage | 0.50% | ~27 |
 | The Creator | 0.50% | ~27 |
-| Crimson Caldera | 0.50% | ~27 |
 | Lord of Chaos | 0.40% | ~22 |
 | Manufactured War | 0.40% | ~22 |
 | The Eternal Court | 0.40% | ~22 |
 | Pruning for Progress | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
+| God Emperor | 0.30% | ~16 |
 | Grexolis | 0.30% | ~16 |
 | One for All, All for One | 0.30% | ~16 |
 | Duality | 0.30% | ~16 |
-| God Emperor | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |
 | Eternal Lord | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 383)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,417 (Ranked 189)  
+Progressed: 5,418 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 7 (0.13%) (Ranked 269)
 | 2023-11-19 | 5,408 | 7 |
 | 2023-11-20 | 5,411 | 7 |
 | 2023-11-21 | 5,414 | 7 |
-| 2023-11-22 | 5,417 | 7 |
+| 2023-11-22 | 5,418 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 487)  
 Sum: 58 (Ranked 475)  

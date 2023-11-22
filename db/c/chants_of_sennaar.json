@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.44,
+  "EOS_Completed_Percentage": 5.43,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2730,6 +2730,11 @@
       "Time": "2023-11-22T02:31:22.8175812+00:00",
       "NumProgressed": 643,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T04:06:39.3683299+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2803,9 +2808,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 103
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2837,7 +2842,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2901,15 +2906,15 @@
       "Name": "Welcome to the Tower",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 174
     },
     {
       "ID": "PROGRESS_N3",
@@ -2940,14 +2945,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:06:48.1463668+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:06:39.3683296+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:58:26.3575783+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:06:48.1463871+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:58:14.4584508+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:06:39.3683579+00:00"
 }

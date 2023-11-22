@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1264,9 +1264,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "WielderLevel3",
@@ -1368,8 +1368,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:04:57.6216869+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:04:48.77323+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:59:20.007418+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:04:57.6217185+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:59:06.7641184+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:04:48.773283+00:00"
 }

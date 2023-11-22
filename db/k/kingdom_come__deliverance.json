@@ -8745,9 +8745,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 809331,
+  "EOS_Progressed": 809334,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 875,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32960,6 +32960,11 @@
       "Time": "2023-11-22T03:08:51.0396317+00:00",
       "NumProgressed": 809331,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-22T04:08:40.8698315+00:00",
+      "NumProgressed": 809334,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -33051,7 +33056,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258986
+      "UsersEstimate": 258987
     },
     {
       "ID": "Bookworm",
@@ -33083,7 +33088,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202333
+      "UsersEstimate": 202334
     },
     {
       "ID": "Chivalrous",
@@ -33171,7 +33176,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186146
+      "UsersEstimate": 186147
     },
     {
       "ID": "Fighter",
@@ -33451,7 +33456,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161866
+      "UsersEstimate": 161867
     },
     {
       "ID": "RevenantOfLedechko",
@@ -33491,7 +33496,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161866
+      "UsersEstimate": 161867
     },
     {
       "ID": "SerialKiller",
@@ -33507,7 +33512,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89026
+      "UsersEstimate": 89027
     },
     {
       "ID": "Sniper",
@@ -33579,7 +33584,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89026
+      "UsersEstimate": 89027
     },
     {
       "ID": "TrialAndError",
@@ -33626,15 +33631,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 809331,
+      "Progressed": 809334,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-21T22:03:14.6837398+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:08:51.0396312+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:08:40.8698312+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.9251245+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:03:04.9514405+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:08:51.0398353+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:02:55.5347294+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:08:40.870036+00:00"
 }

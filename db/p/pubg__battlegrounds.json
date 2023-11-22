@@ -5983,9 +5983,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 722950,
+  "EOS_Progressed": 722951,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 14938,
+  "EOS_NewPlayers": 14882,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30638,6 +30638,11 @@
       "Time": "2023-11-22T03:04:01.7876621+00:00",
       "NumProgressed": 722950,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-22T04:03:52.5480854+00:00",
+      "NumProgressed": 722951,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 37,
@@ -30657,7 +30662,7 @@
       "Name": "Marksman Master",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 21688
+      "UsersEstimate": 21689
     },
     {
       "ID": "11",
@@ -30729,7 +30734,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 520524
+      "UsersEstimate": 520525
     },
     {
       "ID": "2",
@@ -30761,7 +30766,7 @@
       "Name": "Trigonometry Novice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 21688
+      "UsersEstimate": 21689
     },
     {
       "ID": "23",
@@ -30793,7 +30798,7 @@
       "Name": "First Come, First Served",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 21688
+      "UsersEstimate": 21689
     },
     {
       "ID": "27",
@@ -30825,7 +30830,7 @@
       "Name": "Dynamic Duo",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 21688
+      "UsersEstimate": 21689
     },
     {
       "ID": "30",
@@ -30889,7 +30894,7 @@
       "Name": "Health Junkie",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 281950
+      "UsersEstimate": 281951
     },
     {
       "ID": "4",
@@ -30897,7 +30902,7 @@
       "Name": "Fantastic Four",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 137360
+      "UsersEstimate": 137361
     },
     {
       "ID": "5",
@@ -30944,7 +30949,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 722950,
+      "Progressed": 722951,
       "Completed": 11
     }
   ],
@@ -30952,8 +30957,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-11-21T17:57:02.8252789+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:04:01.7876618+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:03:52.5480851+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:09.9617969+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:57:26.0824433+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:04:01.7877953+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:57:15.5934901+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:03:52.5481985+00:00"
 }

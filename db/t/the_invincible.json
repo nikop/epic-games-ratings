@@ -664,17 +664,17 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "AchvDoom",
       "SetID": "1hj060c",
       "Name": "The Invincible",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "AchvEvacuate",
@@ -839,8 +839,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:08:47.5382027+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:08:37.293969+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:59:08.6799203+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:08:47.5382484+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:58:55.0101508+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:08:37.2940089+00:00"
 }

@@ -7091,10 +7091,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27573,
       "NumberOfAwardsMax": 4837
+    },
+    {
+      "Time": "2023-11-22T04:02:46.5911124+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27575,
+      "NumberOfAwardsMax": 4837
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27573,
+  "NumberOfAwards": 27575,
   "NumberOfAwardsMax": 4837,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7108,7 +7114,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3945
+      "Count": 3947
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7147,9 +7153,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140898,
+  "EOS_Progressed": 140908,
   "EOS_Completed": 191,
-  "EOS_NewPlayers": 1052,
+  "EOS_NewPlayers": 1056,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29362,6 +29368,11 @@
       "Time": "2023-11-22T03:07:00.0137969+00:00",
       "NumProgressed": 140898,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-11-22T04:06:51.1664262+00:00",
+      "NumProgressed": 140908,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 112,
@@ -29589,7 +29600,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "collection05",
@@ -29765,7 +29776,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "fullmoon",
@@ -30101,7 +30112,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "quest04",
@@ -30155,9 +30166,9 @@
       "ID": "sell02",
       "SetID": "anfd17p",
       "Name": "Black Friday Special",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1409
     },
     {
       "ID": "sell03",
@@ -30171,9 +30182,9 @@
       "ID": "sia_a",
       "SetID": "anfd17p",
       "Name": "King\u0027s Shadow",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 1127
     },
     {
       "ID": "transmuter",
@@ -30205,7 +30216,7 @@
       "Name": "All Accounted For",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "uncommonres01",
@@ -30268,15 +30279,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140898,
+      "Progressed": 140908,
       "Completed": 191
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-22T01:52:03.2886254+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:07:00.0137964+00:00",
+  "LastChanged": "2023-11-22T04:02:46.5911123+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:06:51.166426+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:02:56.3581915+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:07:00.0139874+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:02:46.5911128+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:06:51.166608+00:00"
 }

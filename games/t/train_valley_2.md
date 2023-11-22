@@ -6,44 +6,44 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~305,112 |
-| Full garage | 61.00% | ~254,956 |
-| To the eyeballs! | 51.00% | ~213,160 |
-| Individual delivery | 47.00% | ~196,442 |
-| Non-Stop | 45.00% | ~188,082 |
-| Juggler | 36.00% | ~150,466 |
-| Forgot something | 35.00% | ~146,286 |
-| Close call! | 30.00% | ~125,388 |
-| Get out my way | 28.00% | ~117,029 |
-| Common cause | 26.00% | ~108,670 |
-| Critical care | 26.00% | ~108,670 |
-| Mega-railroad | 23.00% | ~96,131 |
-| Upgrade complete | 23.00% | ~96,131 |
-| Just in time! | 18.00% | ~75,233 |
-| Builder | 17.00% | ~71,053 |
-| Long Haul | 17.00% | ~70,941 |
-| Steam Age | 16.00% | ~66,874 |
-| Multilevel road | 15.00% | ~62,694 |
-| Bridgemania | 14.00% | ~58,515 |
-| Need to think | 14.00% | ~58,515 |
-| The Tortoise | 12.00% | ~50,155 |
-| Beginner | 11.00% | ~45,976 |
-| Without a lunch break | 11.00% | ~45,976 |
-| One way | 10.00% | ~41,796 |
-| Relocation | 10.00% | ~41,796 |
-| Industrial Age | 9.00% | ~37,616 |
-| Just One More Valley | 9.00% | ~37,557 |
-| Prick of conscience | 8.00% | ~33,437 |
-| Missed it! | 7.00% | ~29,257 |
+| Dealmaker | 73.00% | ~305,118 |
+| Full garage | 61.00% | ~254,962 |
+| To the eyeballs! | 51.00% | ~213,165 |
+| Individual delivery | 47.00% | ~196,446 |
+| Non-Stop | 45.00% | ~188,086 |
+| Juggler | 36.00% | ~150,469 |
+| Forgot something | 35.00% | ~146,290 |
+| Close call! | 30.00% | ~125,391 |
+| Get out my way | 28.00% | ~117,032 |
+| Common cause | 26.00% | ~108,672 |
+| Critical care | 26.00% | ~108,672 |
+| Mega-railroad | 23.00% | ~96,133 |
+| Upgrade complete | 23.00% | ~96,133 |
+| Just in time! | 18.00% | ~75,235 |
+| Builder | 17.00% | ~71,055 |
+| Long Haul | 17.00% | ~70,943 |
+| Steam Age | 16.00% | ~66,875 |
+| Multilevel road | 15.00% | ~62,696 |
+| Bridgemania | 14.00% | ~58,516 |
+| Need to think | 14.00% | ~58,516 |
+| The Tortoise | 12.00% | ~50,156 |
+| Beginner | 11.00% | ~45,977 |
+| Without a lunch break | 11.00% | ~45,977 |
+| One way | 10.00% | ~41,797 |
+| Relocation | 10.00% | ~41,797 |
+| Industrial Age | 9.00% | ~37,617 |
+| Just One More Valley | 9.00% | ~37,558 |
+| Prick of conscience | 8.00% | ~33,438 |
+| Missed it! | 7.00% | ~29,258 |
 | At the last moment! | 6.00% | ~25,078 |
 | Overseer | 6.00% | ~25,078 |
 | Highlander | 5.00% | ~20,898 |
 | Jewelry accuracy | 5.00% | ~20,898 |
 | Stargazer | 5.00% | ~20,898 |
-| Bridge builder | 4.00% | ~16,718 |
-| Electrical Age | 4.00% | ~16,718 |
-| Large construction | 4.00% | ~16,718 |
-| Squander | 4.00% | ~16,718 |
+| Bridge builder | 4.00% | ~16,719 |
+| Electrical Age | 4.00% | ~16,719 |
+| Large construction | 4.00% | ~16,719 |
+| Squander | 4.00% | ~16,719 |
 | Engineer | 3.00% | ~12,539 |
 | Globalisation Age | 3.00% | ~12,539 |
 | Living it large | 3.00% | ~12,539 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~417 |
 | World Zapper | 0.10% | ~417 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,961 (Ranked 44)  
+Progressed: 417,970 (Ranked 44)  
 Completed: 23 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,15 +274,15 @@ Completed: 23 (0.01%) (Ranked 335)
 | 2023-11-19 | 417,464 | 23 |
 | 2023-11-20 | 417,686 | 23 |
 | 2023-11-21 | 417,934 | 23 |
-| 2023-11-22 | 417,961 | 23 |
+| 2023-11-22 | 417,970 | 23 |
 ## Awards
 Max (Challenging Puzzles): 903  (Ranked 159)  
-Sum: 1,814 (Ranked 219)  
+Sum: 1,818 (Ranked 219)  
 Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 903 |
-| This game is Great for Beginners | 166 |
+| This game is Great for Beginners | 170 |
 | This game has Quickly Understood Controls | 103 |
 | This game has Playful Visuals | 101 |
 | This game is Extremely Fun | 97 |
@@ -478,3 +478,4 @@ Diff (max vs sum): -60
 | 2023-11-19 | 4.44 | - | 899 | 1,806 |
 | 2023-11-20 | 4.44 | - | 899 | 1,807 |
 | 2023-11-21 | 4.44 | - | 903 | 1,814 |
+| 2023-11-22 | 4.44 | - | 903 | 1,818 |

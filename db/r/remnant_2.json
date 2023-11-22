@@ -4,7 +4,7 @@
   "ProductSlug": "remnant-2",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 105,
-  "Ranking_PopularitySum": 131,
+  "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 30,
@@ -4483,10 +4483,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5659,
       "NumberOfAwardsMax": 2369
+    },
+    {
+      "Time": "2023-11-22T04:03:08.5961344+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5672,
+      "NumberOfAwardsMax": 2369
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5659,
+  "NumberOfAwards": 5672,
   "NumberOfAwardsMax": 2369,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4512,7 +4518,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 343
+      "Count": 356
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4557,10 +4563,10 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 225333,
-  "EOS_Completed": 500,
-  "EOS_NewPlayers": 4428,
-  "EOS_NewCompleters": 48,
+  "EOS_Progressed": 225356,
+  "EOS_Completed": 501,
+  "EOS_NewPlayers": 4436,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -19267,6 +19273,11 @@
       "Time": "2023-11-22T03:08:56.4818314+00:00",
       "NumProgressed": 225333,
       "NumCompleted": 500
+    },
+    {
+      "Time": "2023-11-22T04:08:46.2344972+00:00",
+      "NumProgressed": 225356,
+      "NumCompleted": 501
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19679,7 +19690,7 @@
       "Name": "Regicide",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -19687,7 +19698,7 @@
       "Name": "Succession",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -19695,7 +19706,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -19703,7 +19714,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -19711,29 +19722,29 @@
       "Name": "You Shall Pass",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 225333,
-      "Completed": 500
+      "Progressed": 225356,
+      "Completed": 501
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 4498,
+      "Progressed": 4521,
       "Completed": 134
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-22T03:03:17.8163574+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:08:56.4818312+00:00",
+  "LastChanged": "2023-11-22T04:03:08.5961343+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:08:46.234497+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-22T03:03:17.8163579+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:08:56.4819188+00:00"
+  "LastUpdate_Ratings": "2023-11-22T04:03:08.5961346+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:08:46.2345835+00:00"
 }

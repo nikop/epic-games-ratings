@@ -9,10 +9,10 @@ Rating: 4.43 (Ranked 691)
 | This is only the beginning | 19.00% | ~43,272 |
 | Knowledge is power | 12.00% | ~27,330 |
 | Galvanic Rifle | 10.00% | ~22,775 |
-| Power Ranger | 9.00% | ~20,497 |
-| Taser Goad | 9.00% | ~20,497 |
-| Radium Ready | 9.00% | ~20,497 |
-| Half a cog | 9.00% | ~20,497 |
+| Power Ranger | 9.00% | ~20,498 |
+| Taser Goad | 9.00% | ~20,498 |
+| Radium Ready | 9.00% | ~20,498 |
+| Half a cog | 9.00% | ~20,498 |
 | Watch them crumble | 6.00% | ~13,665 |
 | Competent Cohort | 4.00% | ~9,110 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,110 |
@@ -27,9 +27,9 @@ Rating: 4.43 (Ranked 691)
 | Cohortus Maximus | 0.80% | ~1,822 |
 | Mother of Xenarites | 0.40% | ~911 |
 | False God | 0.30% | ~683 |
-| Hard | 0.20% | ~455 |
-| Sensory overload | 0.20% | ~455 |
-| Transonic Blur | 0.20% | ~455 |
+| Hard | 0.20% | ~456 |
+| Sensory overload | 0.20% | ~456 |
+| Transonic Blur | 0.20% | ~456 |
 | Sterile Perfection | 0.10% | ~228 |
 | Impossible | 0.10% | ~228 |
 | Melee Machine | 0.10% | ~228 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 691)
 | Perma-live | 0.10% | ~228 |
 | Purge the Heretek | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,749 (Ranked 68)  
+Progressed: 227,750 (Ranked 68)  
 Completed: 5 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 5 (0.00%) (Ranked 357)
 | 2023-11-19 | 227,580 | 5 |
 | 2023-11-20 | 227,658 | 5 |
 | 2023-11-21 | 227,737 | 5 |
-| 2023-11-22 | 227,749 | 5 |
+| 2023-11-22 | 227,750 | 5 |
 ## Awards
 Max (Highly Recommended): 290  (Ranked 258)  
 Sum: 2,195 (Ranked 205)  

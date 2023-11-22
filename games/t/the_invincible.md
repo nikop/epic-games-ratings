@@ -14,7 +14,7 @@
 | The Necroevolution | 18.00% | ~37 |
 | On her own | 14.00% | ~29 |
 | Peacemaker | 14.00% | ~29 |
-| The Alliance | 13.00% | ~27 |
+| The Alliance | 14.00% | ~29 |
 | Volcanologist | 13.00% | ~27 |
 | Krauta is alive | 12.00% | ~25 |
 | Beyond divisions | 11.00% | ~23 |
@@ -23,8 +23,8 @@
 | I remember everything! | 9.00% | ~19 |
 | Evacuation | 9.00% | ~19 |
 | Violent solution | 7.00% | ~14 |
+| The Invincible | 6.00% | ~12 |
 | Innate curiosity | 6.00% | ~12 |
-| The Invincible | 5.00% | ~10 |
 | Ubiquitous holes | 3.00% | ~6 |
 | Another giant | 3.00% | ~6 |
 | Strong objection | 3.00% | ~6 |

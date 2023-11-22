@@ -7,7 +7,7 @@ Rating: 4.50 (Ranked 587)
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,509 |
 | Meticulously Efficient | 7.00% | ~2,195 |
-| Advancement | 6.00% | ~1,881 |
+| Advancement | 6.00% | ~1,882 |
 | Discovery | 5.00% | ~1,568 |
 | Solo Capture | 5.00% | ~1,568 |
 | Swift Rift Removers | 5.00% | ~1,568 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 587)
 | Tobin's Prodigy | 1.00% | ~314 |
 | Fragile Panes | 0.90% | ~282 |
 | Surprise! | 0.90% | ~282 |
-| Therapeutic | 0.70% | ~219 |
+| Therapeutic | 0.70% | ~220 |
 | Rift Seeker | 0.50% | ~157 |
 | Master Collector | 0.40% | ~125 |
 | Catostrophic Destroyer | 0.20% | ~63 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,357 (Ranked 124)  
+Progressed: 31,361 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 68 (0.22%) (Ranked 249)
 | 2023-11-19 | 31,263 | 68 |
 | 2023-11-20 | 31,308 | 68 |
 | 2023-11-21 | 31,349 | 68 |
-| 2023-11-22 | 31,357 | 68 |
+| 2023-11-22 | 31,361 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 249)  
 Sum: 2,833 (Ranked 179)  

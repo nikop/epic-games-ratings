@@ -924,9 +924,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 227749,
+  "EOS_Progressed": 227750,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24499,6 +24499,11 @@
       "Time": "2023-11-22T03:09:48.271897+00:00",
       "NumProgressed": 227749,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-22T04:09:38.1108846+00:00",
+      "NumProgressed": 227750,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -24550,7 +24555,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20497
+      "UsersEstimate": 20498
     },
     {
       "ID": "ACH_BASE_16",
@@ -24566,7 +24571,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20497
+      "UsersEstimate": 20498
     },
     {
       "ID": "ACH_BASE_18",
@@ -24574,7 +24579,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20497
+      "UsersEstimate": 20498
     },
     {
       "ID": "ACH_BASE_19",
@@ -24638,7 +24643,7 @@
       "Name": "Hard",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_BASE_26",
@@ -24654,7 +24659,7 @@
       "Name": "Sensory overload",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_BASE_28",
@@ -24662,7 +24667,7 @@
       "Name": "Transonic Blur",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_BASE_29",
@@ -24774,14 +24779,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20497
+      "UsersEstimate": 20498
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 227749,
+      "Progressed": 227750,
       "Completed": 5
     }
   ],
@@ -24789,8 +24794,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-13T09:57:16.2470185+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:09:48.2718967+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:09:38.1108844+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.2223415+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:58:32.7347547+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:09:48.2720026+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:58:20.0304455+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:09:38.1109942+00:00"
 }

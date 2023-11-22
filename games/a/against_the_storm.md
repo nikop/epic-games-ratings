@@ -10,10 +10,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 7.00% | ~1,216 |
 | Taking Action | 7.00% | ~1,216 |
 | No Deaths | 7.00% | ~1,216 |
-| Overcoming Difficulty | 6.00% | ~1,042 |
-| Fertile Meadows | 6.00% | ~1,042 |
-| Coral Forest | 6.00% | ~1,042 |
-| The Scarlet Orchard | 6.00% | ~1,042 |
+| Overcoming Difficulty | 6.00% | ~1,043 |
+| Fertile Meadows | 6.00% | ~1,043 |
+| Coral Forest | 6.00% | ~1,043 |
+| The Scarlet Orchard | 6.00% | ~1,043 |
 | Bandit Camp | 5.00% | ~869 |
 | Ancient Battleground | 5.00% | ~869 |
 | Sparkdew Crystals | 5.00% | ~869 |
@@ -42,9 +42,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 3.00% | ~521 |
 | Defying the Crown | 3.00% | ~521 |
 | Into the Forest | 3.00% | ~521 |
-| Feeding The People | 2.00% | ~347 |
-| Efficient Explorer | 2.00% | ~347 |
-| Victory through Prosperity | 2.00% | ~347 |
+| Feeding The People | 2.00% | ~348 |
+| Efficient Explorer | 2.00% | ~348 |
+| Victory through Prosperity | 2.00% | ~348 |
 | Lizard Utopia | 1.00% | ~174 |
 | Prestigious Expedition | 1.00% | ~174 |
 | Blood Flower Farmer | 1.00% | ~174 |
@@ -53,11 +53,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Queen's Chosen | 0.60% | ~104 |
 | Harpy Utopia | 0.50% | ~87 |
 | Ruins | 0.50% | ~87 |
-| Treasure | 0.40% | ~69 |
+| Treasure | 0.40% | ~70 |
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,374 (Ranked 144)  
+Progressed: 17,376 (Ranked 144)  
 Completed: 56 (0.32%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 56 (0.32%) (Ranked 230)
 | 2023-11-19 | 17,352 | 56 |
 | 2023-11-20 | 17,360 | 56 |
 | 2023-11-21 | 17,370 | 56 |
-| 2023-11-22 | 17,374 | 56 |
+| 2023-11-22 | 17,376 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 440  (Ranked 222)  
 Sum: 3,226 (Ranked 172)  

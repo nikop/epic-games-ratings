@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 60,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -942,8 +942,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-22T03:05:29.8188006+00:00",
+  "LastChanged_Achievements": "2023-11-22T04:05:20.8749225+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7283252+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:57:12.4323725+00:00",
-  "LastUpdate_Achievements": "2023-11-22T03:05:29.8188565+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:57:01.462505+00:00",
+  "LastUpdate_Achievements": "2023-11-22T04:05:20.8749757+00:00"
 }
