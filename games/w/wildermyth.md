@@ -42,6 +42,7 @@ Number of Ratings: 45  (23.09.2022)
 | I'm Not Smiling | 0.20% | ~3 |
 | Astrology | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
+| Overwhelming Monstrosity | 0.10% | ~1 |
 | Worldwalker | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | The Power of Friendship | 0.10% | ~1 |
@@ -52,7 +53,6 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 0.10% | ~1 |
 | Tempest | 0.10% | ~1 |
 | Lochias's Hunger | 0.10% | ~1 |
-| Overwhelming Monstrosity | 0.00% | ~0 |
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |

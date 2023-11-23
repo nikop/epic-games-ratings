@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 928,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2454,6 +2454,11 @@
       "Time": "2023-11-23T13:14:24.2289489+00:00",
       "NumProgressed": 927,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-23T17:09:40.3805616+00:00",
+      "NumProgressed": 928,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2545,7 +2550,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "EntresolChests1",
@@ -2553,7 +2558,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2593,7 +2598,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2761,7 +2766,7 @@
       "Name": "Honest Mistake",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2783,9 +2788,9 @@
       "ID": "SkillCompletion1",
       "SetID": "a9e499d",
       "Name": "Rungs Was Right",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 46
     },
     {
       "ID": "SkillProgress1",
@@ -2793,7 +2798,7 @@
       "Name": "Fast Learner",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "SpeedRun",
@@ -2888,7 +2893,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 6
     }
   ],
@@ -2896,8 +2901,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:09:11.9469615+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:09:40.3805613+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:00.3419172+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:02:49.5332448+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:09:11.9470189+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:03:09.8291904+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:09:40.3806052+00:00"
 }

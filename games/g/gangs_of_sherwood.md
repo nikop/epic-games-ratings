@@ -15,6 +15,7 @@
 | Right between the eyes | 43.00% | ~3 |
 | MAX LEVEL | 43.00% | ~3 |
 | Brilliant Executioner | 29.00% | ~2 |
+| King of the Iron Fist | 29.00% | ~2 |
 | The Gang prevails | 29.00% | ~2 |
 | Oo-De-Lally | 29.00% | ~2 |
 | Finish Him! | 29.00% | ~2 |
@@ -28,7 +29,6 @@
 | First Aid | 29.00% | ~2 |
 | Merry Go Round | 29.00% | ~2 |
 | Starry Night | 14.00% | ~1 |
-| King of the Iron Fist | 14.00% | ~1 |
 | Ultra Combo | 14.00% | ~1 |
 | Bold and Bossy | 14.00% | ~1 |
 | Power of Friendship! | 14.00% | ~1 |

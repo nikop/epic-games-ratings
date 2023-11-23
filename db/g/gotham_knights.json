@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4319,9 +4319,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76905,
+  "EOS_Progressed": 76908,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23634,6 +23634,11 @@
       "Time": "2023-11-23T16:06:09.9838372+00:00",
       "NumProgressed": 76905,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-23T17:06:34.1355046+00:00",
+      "NumProgressed": 76908,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23693,7 +23698,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17688
+      "UsersEstimate": 17689
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -23749,7 +23754,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16150
+      "UsersEstimate": 16151
     },
     {
       "ID": "CLAYFACE_2",
@@ -23789,7 +23794,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5383
+      "UsersEstimate": 5384
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -23829,7 +23834,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6921
+      "UsersEstimate": 6922
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -23861,7 +23866,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7690
+      "UsersEstimate": 7691
     },
     {
       "ID": "FREEZE_1",
@@ -23869,7 +23874,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21533
+      "UsersEstimate": 21534
     },
     {
       "ID": "FREEZE_1_5",
@@ -23877,7 +23882,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16150
+      "UsersEstimate": 16151
     },
     {
       "ID": "FREEZE_2",
@@ -23885,7 +23890,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14612
+      "UsersEstimate": 14613
     },
     {
       "ID": "FREEZE_3",
@@ -23901,7 +23906,7 @@
       "Name": "Icebreaker",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -23949,7 +23954,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26917
+      "UsersEstimate": 26918
     },
     {
       "ID": "HARLEY_2",
@@ -23957,7 +23962,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19226
+      "UsersEstimate": 19227
     },
     {
       "ID": "HARLEY_3",
@@ -23965,7 +23970,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15381
+      "UsersEstimate": 15382
     },
     {
       "ID": "HARLEY_4",
@@ -23981,7 +23986,7 @@
       "Name": "A Sophisticated Mallet",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -23989,7 +23994,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39222
+      "UsersEstimate": 39223
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24013,7 +24018,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15381
+      "UsersEstimate": 15382
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -24021,7 +24026,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20764
+      "UsersEstimate": 20765
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -24037,7 +24042,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26148
+      "UsersEstimate": 26149
     },
     {
       "ID": "MYSTERY_02",
@@ -24045,7 +24050,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19226
+      "UsersEstimate": 19227
     },
     {
       "ID": "MYSTERY_03",
@@ -24053,7 +24058,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16919
+      "UsersEstimate": 16920
     },
     {
       "ID": "MYSTERY_04",
@@ -24061,7 +24066,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15381
+      "UsersEstimate": 15382
     },
     {
       "ID": "MYSTERY_05",
@@ -24109,7 +24114,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6921
+      "UsersEstimate": 6922
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -24132,13 +24137,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76905,
+      "Progressed": 76908,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47185,
+      "Progressed": 47188,
       "Completed": 2675
     }
   ],
@@ -24146,8 +24151,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-23T12:00:01.7151671+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:06:09.983837+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:06:34.1355042+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:00:05.3804301+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:06:09.9839458+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:00:24.4247114+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:06:34.13563+00:00"
 }

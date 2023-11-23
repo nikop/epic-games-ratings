@@ -19,9 +19,9 @@ Rating: 4.62 (Ranked 365)
 | Breaking Down Barriers | 21.00% | ~195 |
 | The Wicked Twins | 21.00% | ~195 |
 | Immaculate Aim | 21.00% | ~195 |
-| The Betrayer | 20.00% | ~185 |
-| Honest Mistake | 20.00% | ~185 |
-| Fast Learner | 20.00% | ~185 |
+| The Betrayer | 20.00% | ~186 |
+| Honest Mistake | 20.00% | ~186 |
+| Fast Learner | 20.00% | ~186 |
 | Like Clockwork | 19.00% | ~176 |
 | Golem Chaser | 19.00% | ~176 |
 | Check Your Pulse | 19.00% | ~176 |
@@ -42,14 +42,14 @@ Rating: 4.62 (Ranked 365)
 | Factorywood Explorer | 10.00% | ~93 |
 | Fairgrounds Explorer | 10.00% | ~93 |
 | Theater Explorer | 10.00% | ~93 |
-| Cultivair Explorer | 9.00% | ~83 |
-| Entresol Explorer | 9.00% | ~83 |
+| Cultivair Explorer | 9.00% | ~84 |
+| Entresol Explorer | 9.00% | ~84 |
 | Corin Goes Home | 8.00% | ~74 |
 | Sartorialist | 8.00% | ~74 |
 | Golem Hunter | 7.00% | ~65 |
 | Clovemary for Remembering | 6.00% | ~56 |
-| Rungs Was Right | 6.00% | ~56 |
 | Hexlock for Protection | 5.00% | ~46 |
+| Rungs Was Right | 5.00% | ~46 |
 | Wunderkind | 2.00% | ~19 |
 | Fitting In | 2.00% | ~19 |
 | Thinking Two Steps Ahead | 1.00% | ~9 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 365)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927 (Ranked 268)  
+Progressed: 928 (Ranked 268)  
 Completed: 6 (0.65%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 6 (0.65%) (Ranked 185)
 | 2023-11-15 | 920 | 6 |
 | 2023-11-21 | 923 | 6 |
 | 2023-11-22 | 925 | 6 |
-| 2023-11-23 | 927 | 6 |
+| 2023-11-23 | 928 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

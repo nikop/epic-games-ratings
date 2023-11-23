@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 505)
 | Overdeer | 0.60% | ~110 |
 | Cloud Services | 0.30% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,391 (Ranked 143)  
+Progressed: 18,391 (Ranked 144)  
 Completed: 28 (0.15%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |

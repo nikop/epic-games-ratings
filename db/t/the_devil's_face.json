@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -2469,6 +2469,11 @@
       "Time": "2023-11-22T23:07:02.4375368+00:00",
       "NumProgressed": 570,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-23T17:08:20.7720949+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 14,
@@ -2504,7 +2509,7 @@
       "Name": "The choice",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -2542,9 +2547,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 131
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2560,7 +2565,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2591,14 +2596,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:07:53.9887281+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:08:20.7720944+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.3122643+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:00:58.9560918+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:07:53.9887493+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:01:18.3814207+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:08:20.7721185+00:00"
 }

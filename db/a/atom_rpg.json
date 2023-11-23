@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -3293,9 +3293,9 @@
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 342
     },
     {
       "ID": "VVE",
@@ -3333,8 +3333,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:09:37.3239375+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:10:06.1169688+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:36.6485506+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:59:14.1994927+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:09:37.3239664+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:59:31.964987+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:10:06.117009+00:00"
 }

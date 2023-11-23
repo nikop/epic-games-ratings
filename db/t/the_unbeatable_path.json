@@ -4,8 +4,8 @@
   "ProductSlug": "the-unbeatable-path-8af8fc",
   "Ranking_EOS_Progress": 607,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-01T07:00:00+00:00",
     "PcReleaseDate": "2023-04-06T07:00:00+00:00",
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T07:59:42.1389643+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:04:41.0842785+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:05:02.7720777+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:12.3624922+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:00:10.7498277+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:04:41.0842926+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:00:29.8556489+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:05:02.7720916+00:00"
 }

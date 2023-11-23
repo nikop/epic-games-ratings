@@ -2,12 +2,12 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 526,
+  "Ranking_Rating": 527,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6751,10 +6751,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11697,
       "NumberOfAwardsMax": 7661
+    },
+    {
+      "Time": "2023-11-23T16:59:08.5784705+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11701,
+      "NumberOfAwardsMax": 7661
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11697,
+  "NumberOfAwards": 11701,
   "NumberOfAwardsMax": 7661,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6798,7 +6804,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 468
+      "Count": 472
     },
     {
       "Text": "This game is Relaxing",
@@ -6813,9 +6819,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 723189,
+  "EOS_Progressed": 723230,
   "EOS_Completed": 2427,
-  "EOS_NewPlayers": 3979,
+  "EOS_NewPlayers": 3989,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31658,6 +31664,11 @@
       "Time": "2023-11-23T16:05:45.0073335+00:00",
       "NumProgressed": 723189,
       "NumCompleted": 2427
+    },
+    {
+      "Time": "2023-11-23T17:06:07.9228992+00:00",
+      "NumProgressed": 723230,
+      "NumCompleted": 2427
     }
   ],
   "TotalAchievements": 51,
@@ -31677,7 +31688,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     },
     {
       "ID": "ach_ammo_ran",
@@ -31875,9 +31886,9 @@
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5786
+      "UsersEstimate": 6509
     },
     {
       "ID": "ach_legendary",
@@ -31907,9 +31918,9 @@
       "ID": "ach_mind_over_monster",
       "SetID": "7km39fm",
       "Name": "Humanity Distilled",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4339
+      "UsersEstimate": 5063
     },
     {
       "ID": "ach_revival_tour",
@@ -31917,7 +31928,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     },
     {
       "ID": "ach_salvation",
@@ -31965,7 +31976,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     },
     {
       "ID": "ach_the_vcla",
@@ -32045,7 +32056,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_pork_chops",
@@ -32076,22 +32087,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723189,
+      "Progressed": 723230,
       "Completed": 2427
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 48731,
+      "Progressed": 48772,
       "Completed": 36587
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-23T14:58:17.4048264+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:05:45.0073331+00:00",
+  "LastChanged": "2023-11-23T16:59:08.5784703+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:06:07.9228987+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:58:51.1963114+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:05:45.0074787+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:59:08.5784708+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:06:07.923063+00:00"
 }

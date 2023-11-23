@@ -3,12 +3,12 @@
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
   "ProductSlug": "assassins-creed-origins",
   "Ranking_Rating": 253,
-  "Ranking_Popularity": 87,
+  "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2017-10-26T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6426,18 +6426,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 6719,
       "NumberOfAwardsMax": 3852
+    },
+    {
+      "Time": "2023-11-23T17:01:13.6589419+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 6725,
+      "NumberOfAwardsMax": 3858
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6719,
-  "NumberOfAwardsMax": 3852,
+  "NumberOfAwards": 6725,
+  "NumberOfAwardsMax": 3858,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3852
+      "Count": 3858
     },
     {
       "Text": "This game is Relaxing",
@@ -6517,8 +6523,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2023-11-23T14:59:50.6824098+00:00",
+  "LastChanged": "2023-11-23T17:01:13.6589417+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:09.4158949+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:00:54.4083075+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:04:24.8440716+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:01:13.6589425+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:04:45.88065+00:00"
 }

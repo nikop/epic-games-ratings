@@ -6,9 +6,9 @@
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -714,10 +714,10 @@
     }
   ],
   "EOS_Progressed": 1944,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 119,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 118,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-09-19T18:06:12.9172474+00:00",
@@ -5918,6 +5918,11 @@
       "Time": "2023-11-23T16:07:31.3757294+00:00",
       "NumProgressed": 1944,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-23T17:07:57.1420574+00:00",
+      "NumProgressed": 1944,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6104,9 +6109,9 @@
       "ID": "achievement_3",
       "SetID": "222fo9l",
       "Name": "All Systems Go",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1322
     },
     {
       "ID": "achievement_30",
@@ -6216,9 +6221,9 @@
       "ID": "achievement_42",
       "SetID": "222fo9l",
       "Name": "Brute Force",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1302
     },
     {
       "ID": "achievement_43",
@@ -6306,15 +6311,15 @@
       "ID": "222fo9l",
       "IsBase": true,
       "Progressed": 1944,
-      "Completed": 11
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-23T06:58:07.5368544+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:07:31.3757291+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:07:57.1420568+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:59:07.8995854+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:07:31.3757858+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:59:25.6050425+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:07:57.1421027+00:00"
 }

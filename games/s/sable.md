@@ -6,45 +6,45 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,158 |
-| Just The Two of Us | 32.00% | ~32,149 |
-| Up On High | 25.00% | ~25,116 |
-| Under The Hood | 25.00% | ~25,116 |
-| Got Your Nose | 24.00% | ~24,112 |
-| The Gift of Gab | 24.00% | ~24,112 |
-| Wrapping Up | 22.00% | ~22,103 |
-| More Than A Box Of Sand | 18.00% | ~18,084 |
-| The Dunboyne | 17.00% | ~17,079 |
-| Badge Hobbyist | 17.00% | ~17,079 |
-| Chum Novice | 16.00% | ~16,075 |
-| Silver-Tongued Sable | 16.00% | ~16,075 |
-| Sticky Paws | 16.00% | ~16,075 |
-| Bubble Up | 16.00% | ~16,075 |
-| Thread The Needle | 15.00% | ~15,070 |
-| Power to the People | 14.00% | ~14,065 |
-| Nesting Giant | 14.00% | ~14,065 |
+| Simoon | 34.00% | ~34,161 |
+| Just The Two of Us | 32.00% | ~32,151 |
+| Up On High | 25.00% | ~25,118 |
+| Under The Hood | 25.00% | ~25,118 |
+| Got Your Nose | 24.00% | ~24,114 |
+| The Gift of Gab | 24.00% | ~24,114 |
+| Wrapping Up | 22.00% | ~22,104 |
+| More Than A Box Of Sand | 18.00% | ~18,085 |
+| The Dunboyne | 17.00% | ~17,080 |
+| Badge Hobbyist | 17.00% | ~17,080 |
+| Chum Novice | 16.00% | ~16,076 |
+| Silver-Tongued Sable | 16.00% | ~16,076 |
+| Sticky Paws | 16.00% | ~16,076 |
+| Bubble Up | 16.00% | ~16,076 |
+| Thread The Needle | 15.00% | ~15,071 |
+| Power to the People | 14.00% | ~14,066 |
+| Nesting Giant | 14.00% | ~14,066 |
 | Take That! | 13.00% | ~13,061 |
 | Treasure Tracker | 13.00% | ~13,061 |
 | Big Spender | 13.00% | ~13,061 |
-| Badge Collector | 12.00% | ~12,056 |
-| Quite The Catch | 12.00% | ~12,056 |
-| Rowleys Way | 11.00% | ~11,051 |
+| Badge Collector | 12.00% | ~12,057 |
+| Quite The Catch | 12.00% | ~12,057 |
+| Rowleys Way | 11.00% | ~11,052 |
 | The Machinist Mask | 10.00% | ~10,047 |
 | The Cartographer Mask | 10.00% | ~10,047 |
 | Balfron Connection | 10.00% | ~10,047 |
 | Ceiling Of Stars | 10.00% | ~10,047 |
 | Playing Dress Up | 10.00% | ~10,047 |
-| Many Different Faces | 9.00% | ~9,042 |
-| Trellick's Pillar | 9.00% | ~9,042 |
-| Centre Of Brunswick | 9.00% | ~9,042 |
-| Bike Collector | 9.00% | ~9,042 |
-| Not That Kind Of Gliding | 9.00% | ~9,042 |
-| The Scrapper Mask | 8.00% | ~8,037 |
-| Shadow Of Neave | 8.00% | ~8,037 |
-| Fragile Goods | 8.00% | ~8,037 |
-| Glider on the Storm | 8.00% | ~8,037 |
-| Squeeze One Out | 8.00% | ~8,037 |
-| Dune Rider | 8.00% | ~8,037 |
+| Many Different Faces | 9.00% | ~9,043 |
+| Trellick's Pillar | 9.00% | ~9,043 |
+| Centre Of Brunswick | 9.00% | ~9,043 |
+| Bike Collector | 9.00% | ~9,043 |
+| Not That Kind Of Gliding | 9.00% | ~9,043 |
+| The Scrapper Mask | 8.00% | ~8,038 |
+| Shadow Of Neave | 8.00% | ~8,038 |
+| Fragile Goods | 8.00% | ~8,038 |
+| Glider on the Storm | 8.00% | ~8,038 |
+| Squeeze One Out | 8.00% | ~8,038 |
+| Dune Rider | 8.00% | ~8,038 |
 | Amateur Historian | 7.00% | ~7,033 |
 | The Beetle Mask | 7.00% | ~7,033 |
 | The Guard Mask | 7.00% | ~7,033 |
@@ -54,8 +54,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Merchant Mask | 6.00% | ~6,028 |
 | Honorary Chum | 6.00% | ~6,028 |
 | Bikes Don't Fly | 6.00% | ~6,028 |
-| The Gliding | 5.00% | ~5,023 |
-| The Entertainer Mask | 5.00% | ~5,023 |
+| The Gliding | 5.00% | ~5,024 |
+| The Entertainer Mask | 5.00% | ~5,024 |
 | The Quick and the Curious | 4.00% | ~4,019 |
 | Bike Aficionado | 4.00% | ~4,019 |
 | Chum Expert | 3.00% | ~3,014 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,014 |
 | Vivacious Vivarium | 2.00% | ~2,009 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,466 (Ranked 88)  
+Progressed: 100,473 (Ranked 88)  
 Completed: 1,014 (1.01%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 1,014 (1.01%) (Ranked 164)
 | 2023-11-20 | 100,089 | 1,011 |
 | 2023-11-21 | 100,235 | 1,013 |
 | 2023-11-22 | 100,379 | 1,014 |
-| 2023-11-23 | 100,466 | 1,014 |
+| 2023-11-23 | 100,473 | 1,014 |
 ## Awards
 Max (Quickly Understood Controls): 25  (Ranked 520)  
 Sum: 92 (Ranked 450)  

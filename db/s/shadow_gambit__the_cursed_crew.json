@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,11 +113,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 867,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.47,
+  "EOS_Completed_Percentage": 3.46,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2803,6 +2803,11 @@
       "Time": "2023-11-23T16:03:27.8442239+00:00",
       "NumProgressed": 865,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-23T17:03:48.4695344+00:00",
+      "NumProgressed": 867,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2823,7 +2828,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 564
     },
     {
       "ID": "_03_FinishAct1",
@@ -2831,7 +2836,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2839,7 +2844,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "_05_FinishAct2",
@@ -2847,7 +2852,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2871,7 +2876,7 @@
       "Name": "Swabbie",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "_09_Completion_20",
@@ -2943,7 +2948,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2983,7 +2988,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2991,7 +2996,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -2999,7 +3004,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3022,7 +3027,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 867,
       "Completed": 30
     }
   ],
@@ -3030,8 +3035,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:03:27.8442235+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:03:48.4695337+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:58:59.9661721+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:03:27.8442565+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:59:17.7582629+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:03:48.4695863+00:00"
 }

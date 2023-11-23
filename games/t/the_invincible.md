@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 37.00% | ~92 |
-| The Teleprobe | 30.00% | ~75 |
+| The Camp | 38.00% | ~95 |
+| The Teleprobe | 31.00% | ~78 |
 | The City | 28.00% | ~70 |
-| The field base | 26.00% | ~65 |
-| Survivors | 23.00% | ~58 |
+| The field base | 27.00% | ~68 |
+| Survivors | 24.00% | ~60 |
 | The Condor | 20.00% | ~50 |
 | The End | 19.00% | ~48 |
+| Volcanologist | 16.00% | ~40 |
 | The Necroevolution | 16.00% | ~40 |
-| Volcanologist | 15.00% | ~38 |
-| On her own | 13.00% | ~32 |
-| The Alliance | 13.00% | ~32 |
+| On her own | 14.00% | ~35 |
+| The Alliance | 14.00% | ~35 |
 | Krauta is alive | 13.00% | ~32 |
 | Peacemaker | 12.00% | ~30 |
 | Fierce fight | 10.00% | ~25 |
@@ -27,9 +27,9 @@
 | Innate curiosity | 5.00% | ~12 |
 | Ubiquitous holes | 3.00% | ~8 |
 | Another giant | 3.00% | ~8 |
+| I leave no man behind | 3.00% | ~8 |
 | Got lost again | 3.00% | ~8 |
 | Strong objection | 3.00% | ~8 |
-| I leave no man behind | 2.00% | ~5 |
 | I leave no man behind (no exceptions) | 2.00% | ~5 |
 | Convoy list | 1.00% | ~2 |
 | No more mistakes | 0.40% | ~1 |

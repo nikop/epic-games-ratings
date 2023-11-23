@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 0.90% | ~238 |
-| Project Arena | 0.70% | ~185 |
+| Diligence as a goal | 0.90% | ~239 |
+| Project Arena | 0.70% | ~186 |
 | The Old Grandmaster | 0.60% | ~4,303 |
 | The Assault | 0.60% | ~4,303 |
 | The Hateful Pole Fighter | 0.60% | ~4,303 |
@@ -25,8 +25,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.50% | ~3,586 |
 | Old Child | 0.50% | ~3,586 |
 | Path of the Prospect | 0.50% | ~3,586 |
-| Martial Hub | 0.50% | ~132 |
-| Fight the way you practice | 0.50% | ~132 |
+| Martial Hub | 0.50% | ~133 |
+| Fight the way you practice | 0.50% | ~133 |
 | Scareless | 0.40% | ~2,869 |
 | Qi Gong: Mind | 0.40% | ~2,869 |
 | I know Kung-Fu | 0.40% | ~2,869 |
@@ -56,18 +56,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.10% | ~717 |
 | Warriors from the Mountain | 0.10% | ~717 |
 | Come Snap With Me | 0.10% | ~717 |
-| Secure, Protect, Leave | 0.10% | ~26 |
-| A Touch of Acumen | 0.10% | ~26 |
-| Crouching Tiger | 0.10% | ~26 |
-| Hidden Dragon | 0.10% | ~26 |
-| Skill and an even stronger will | 0.10% | ~26 |
-| Master of the Flying Assassins | 0.10% | ~26 |
-| Here Cometh the Iceman | 0.10% | ~26 |
-| Fighter in the Pond | 0.10% | ~26 |
-| Bonus Stage | 0.10% | ~26 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~26 |
+| Secure, Protect, Leave | 0.10% | ~27 |
+| A Touch of Acumen | 0.10% | ~27 |
+| Crouching Tiger | 0.10% | ~27 |
+| Hidden Dragon | 0.10% | ~27 |
+| Skill and an even stronger will | 0.10% | ~27 |
+| Master of the Flying Assassins | 0.10% | ~27 |
+| Here Cometh the Iceman | 0.10% | ~27 |
+| Fighter in the Pond | 0.10% | ~27 |
+| Bonus Stage | 0.10% | ~27 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,196 (Ranked 22)  
+Progressed: 717,200 (Ranked 22)  
 Completed: 12,938 (1.80%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 12,938 (1.80%) (Ranked 131)
 | 2023-11-20 | 717,073 | 12,938 |
 | 2023-11-21 | 717,101 | 12,938 |
 | 2023-11-22 | 717,156 | 12,938 |
-| 2023-11-23 | 717,196 | 12,938 |
+| 2023-11-23 | 717,200 | 12,938 |
 ## Awards
 Max (Great Boss Battles): 6,831  (Ranked 55)  
 Sum: 11,946 (Ranked 82)  

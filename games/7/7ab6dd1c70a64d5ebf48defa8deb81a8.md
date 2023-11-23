@@ -12,12 +12,12 @@
 | The Collector | 7.00% | ~14 |
 | Break Out | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
+| A Taste of Wrath | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
-| A Taste of Wrath | 5.00% | ~10 |
+| Stone Collection | 6.00% | ~12 |
 | Tributes of Caladrias | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
 | Fashion Victim | 5.00% | ~10 |
-| Stone Collection | 5.00% | ~10 |
 | Calm before the Storm | 4.00% | ~8 |
 | Shatter Them All | 4.00% | ~8 |
 | Essence Blow | 3.00% | ~6 |

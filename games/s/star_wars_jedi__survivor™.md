@@ -5,48 +5,48 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,435 |
-| For Saw Gerrera | 98.00% | ~8,350 |
-| Grab Some Seat | 91.00% | ~7,753 |
-| Can You Pet the Bogling? | 87.00% | ~7,412 |
-| The Past Made Present | 83.00% | ~7,072 |
-| Survivors, We Adapt | 79.00% | ~6,731 |
-| Among the Masters | 78.00% | ~6,646 |
-| They Never Saw It Coming | 77.00% | ~6,560 |
-| Who Gives a Puck | 74.00% | ~6,305 |
-| For the Path | 66.00% | ~5,623 |
-| Now, This Isn't Podracing | 65.00% | ~5,538 |
-| Mirror Match | 64.00% | ~5,453 |
-| Skywalker | 62.00% | ~5,282 |
-| Out of Bedlam | 61.00% | ~5,197 |
-| Cleaning Up | 54.00% | ~4,601 |
-| Tanalorr Bound | 53.00% | ~4,516 |
-| Kitted Out | 52.00% | ~4,430 |
-| Tragedy | 51.00% | ~4,345 |
-| Hey, Luke At Us | 50.00% | ~4,260 |
-| At the Precipice | 49.00% | ~4,175 |
-| Into the Abyss | 47.00% | ~4,004 |
-| Riposte | 47.00% | ~4,004 |
-| A Place You Could Call Home | 45.00% | ~3,834 |
-| Greezy Money | 44.00% | ~3,749 |
-| Catch! | 41.00% | ~3,493 |
-| They're Probably Fine | 40.00% | ~3,408 |
-| Han Slowlo | 38.00% | ~3,238 |
-| There Is No Try | 37.00% | ~3,152 |
-| The Jedi Path | 32.00% | ~2,726 |
-| This Is Canon | 29.00% | ~2,471 |
-| It's a Trap | 26.00% | ~2,215 |
-| You've Got A Friend | 23.00% | ~1,960 |
-| King of the World | 16.00% | ~1,363 |
-| Reconnaissance | 15.00% | ~1,278 |
+| Rooftop Duel | 99.00% | ~8,439 |
+| For Saw Gerrera | 98.00% | ~8,354 |
+| Grab Some Seat | 91.00% | ~7,757 |
+| Can You Pet the Bogling? | 87.00% | ~7,416 |
+| The Past Made Present | 83.00% | ~7,075 |
+| Survivors, We Adapt | 79.00% | ~6,734 |
+| Among the Masters | 78.00% | ~6,649 |
+| They Never Saw It Coming | 77.00% | ~6,563 |
+| Who Gives a Puck | 74.00% | ~6,308 |
+| For the Path | 66.00% | ~5,626 |
+| Now, This Isn't Podracing | 65.00% | ~5,541 |
+| Mirror Match | 64.00% | ~5,455 |
+| Skywalker | 62.00% | ~5,285 |
+| Out of Bedlam | 61.00% | ~5,200 |
+| Cleaning Up | 54.00% | ~4,603 |
+| Tanalorr Bound | 53.00% | ~4,518 |
+| Kitted Out | 52.00% | ~4,432 |
+| Tragedy | 51.00% | ~4,347 |
+| Hey, Luke At Us | 50.00% | ~4,262 |
+| At the Precipice | 49.00% | ~4,177 |
+| Into the Abyss | 47.00% | ~4,006 |
+| Riposte | 47.00% | ~4,006 |
+| A Place You Could Call Home | 45.00% | ~3,836 |
+| Greezy Money | 44.00% | ~3,751 |
+| Catch! | 41.00% | ~3,495 |
+| They're Probably Fine | 40.00% | ~3,410 |
+| Han Slowlo | 38.00% | ~3,239 |
+| There Is No Try | 37.00% | ~3,154 |
+| The Jedi Path | 32.00% | ~2,728 |
+| This Is Canon | 29.00% | ~2,472 |
+| It's a Trap | 26.00% | ~2,216 |
+| You've Got A Friend | 23.00% | ~1,961 |
+| King of the World | 16.00% | ~1,364 |
+| Reconnaissance | 15.00% | ~1,279 |
 | Max Capacity | 14.00% | ~1,193 |
 | A Presence I've Not Felt Since... | 14.00% | ~1,193 |
-| Slam Dunk | 12.00% | ~1,022 |
-| Star Tours | 11.00% | ~937 |
+| Slam Dunk | 12.00% | ~1,023 |
+| Star Tours | 11.00% | ~938 |
 | Caij Match | 10.00% | ~852 |
 | Gambler | 10.00% | ~852 |
 | Growth Spurt | 9.00% | ~767 |
-| Perk of the Job | 7.00% | ~596 |
+| Perk of the Job | 7.00% | ~597 |
 | I'm a Living Legend | 6.00% | ~511 |
 | Road House | 6.00% | ~511 |
 | Skoova Diving | 6.00% | ~511 |
@@ -59,8 +59,8 @@ Rating: 4.50 (Ranked 588)
 | Blood, Sweat, and Tears | 3.00% | ~256 |
 | Pinpoint | 2.00% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,520 (Ranked 170)  
-Completed: 50 (0.59%) (Ranked 189)  
+Progressed: 8,524 (Ranked 170)  
+Completed: 50 (0.59%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,11 +127,11 @@ Completed: 50 (0.59%) (Ranked 189)
 | 2023-11-20 | 8,375 | 48 |
 | 2023-11-21 | 8,426 | 48 |
 | 2023-11-22 | 8,487 | 49 |
-| 2023-11-23 | 8,520 | 50 |
+| 2023-11-23 | 8,524 | 50 |
 ## Awards
 Max (Great Boss Battles): 3,300  (Ranked 95)  
-Sum: 5,077 (Ranked 137)  
-Diff (max vs sum): -42  
+Sum: 5,077 (Ranked 138)  
+Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,300 |

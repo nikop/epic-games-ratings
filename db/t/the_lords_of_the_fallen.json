@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -585,9 +585,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1832,
+  "EOS_Progressed": 1839,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2940,6 +2940,11 @@
       "Time": "2023-11-23T15:05:28.9144829+00:00",
       "NumProgressed": 1832,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T17:06:46.1172522+00:00",
+      "NumProgressed": 1839,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -3120,7 +3125,7 @@
       "Name": "Vengeance for the Fallen",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_023",
@@ -3168,7 +3173,7 @@
       "Name": "Rise and Fall",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_029",
@@ -3176,7 +3181,7 @@
       "Name": "Together in Death",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_030",
@@ -3184,7 +3189,7 @@
       "Name": "Burying the Past",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_031",
@@ -3192,7 +3197,7 @@
       "Name": "Unwanted",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_032",
@@ -3200,7 +3205,7 @@
       "Name": "Unbroken to the End",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_033",
@@ -3455,7 +3460,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1832,
+      "Progressed": 1839,
       "Completed": 1
     }
   ],
@@ -3463,8 +3468,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-23T10:59:08.4261145+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:06:21.5019891+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:06:46.1172516+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8643318+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:00:21.598664+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:06:21.5020387+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:00:40.7222269+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:06:46.1173026+00:00"
 }

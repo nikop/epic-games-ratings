@@ -26,13 +26,13 @@ Rating: 4.61 (Ranked 383)
 | Seal the Deal | 1.00% | ~54 |
 | Spoils of War | 1.00% | ~54 |
 | Tipping the Scales | 0.90% | ~49 |
-| Enchanted Archipelago | 0.80% | ~43 |
-| Digging for Treasure | 0.80% | ~43 |
-| My Final Form | 0.80% | ~43 |
-| Impenetrable Fortress | 0.80% | ~43 |
-| Here be Dragons | 0.80% | ~43 |
-| Mighty Hoard | 0.80% | ~43 |
-| Dawn of the Dread | 0.80% | ~43 |
+| Enchanted Archipelago | 0.80% | ~44 |
+| Digging for Treasure | 0.80% | ~44 |
+| My Final Form | 0.80% | ~44 |
+| Impenetrable Fortress | 0.80% | ~44 |
+| Here be Dragons | 0.80% | ~44 |
+| Mighty Hoard | 0.80% | ~44 |
+| Dawn of the Dread | 0.80% | ~44 |
 | Return of the Wizard King | 0.70% | ~38 |
 | Fiery Friend | 0.70% | ~38 |
 | Blood of the Dragon | 0.70% | ~38 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 383)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,437 (Ranked 189)  
+Progressed: 5,438 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 7 (0.13%) (Ranked 270)
 | 2023-11-20 | 5,411 | 7 |
 | 2023-11-21 | 5,414 | 7 |
 | 2023-11-22 | 5,428 | 7 |
-| 2023-11-23 | 5,437 | 7 |
+| 2023-11-23 | 5,438 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 483)  
 Sum: 59 (Ranked 475)  

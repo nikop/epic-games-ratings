@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 526)  
+Rating: 4.54 (Ranked 527)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,18 +25,18 @@ Rating: 4.54 (Ranked 526)
 | Welcome To Hell-A | 1.00% | ~7,232 |
 | Can't Handle the Truth | 0.90% | ~6,509 |
 | Like Riding a Bike | 0.90% | ~6,509 |
+| Zombologist | 0.90% | ~6,509 |
 | A Patton Emerges | 0.90% | ~6,509 |
 | Our True Nature | 0.90% | ~6,509 |
 | Perks of the Job | 0.80% | ~5,786 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,786 |
 | Slayer Squad | 0.80% | ~5,786 |
-| Zombologist | 0.80% | ~5,786 |
 | Ooh, Shiny! | 0.80% | ~5,786 |
-| Making Your Mark | 0.70% | ~5,062 |
-| I Am the Resurrection | 0.70% | ~5,062 |
-| Max Headroom | 0.70% | ~5,062 |
+| Making Your Mark | 0.70% | ~5,063 |
+| Humanity Distilled | 0.70% | ~5,063 |
+| I Am the Resurrection | 0.70% | ~5,063 |
+| Max Headroom | 0.70% | ~5,063 |
 | Not Even My Final Form | 0.60% | ~4,339 |
-| Humanity Distilled | 0.60% | ~4,339 |
 | Down with the Sickness | 0.60% | ~4,339 |
 | Jumbo Keyring | 0.50% | ~3,616 |
 | Go, Bobcats! | 0.50% | ~3,616 |
@@ -52,12 +52,12 @@ Rating: 4.54 (Ranked 526)
 | Top That, Tisha! | 0.30% | ~146 |
 | Sharpest Tool in the Box | 0.20% | ~1,446 |
 | Survival Skills | 0.20% | ~1,446 |
-| Lawn and Order | 0.20% | ~97 |
+| Lawn and Order | 0.20% | ~98 |
 | Donk! | 0.10% | ~723 |
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,189 (Ranked 21)  
+Progressed: 723,230 (Ranked 21)  
 Completed: 2,427 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,10 +274,10 @@ Completed: 2,427 (0.34%) (Ranked 228)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 723,189 | 2,427 |
+| 2023-11-23 | 723,230 | 2,427 |
 ## Awards
 Max (Great Boss Battles): 7,661  (Ranked 50)  
-Sum: 11,697 (Ranked 83)  
+Sum: 11,701 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -287,8 +287,8 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 528 |
 | This game is Relaxing | 505 |
 | This game has Amazing Storytelling | 487 |
+| This game is Extremely Fun | 472 |
 | This game is Highly Recommended | 471 |
-| This game is Extremely Fun | 468 |
 | This game has Amazing Characters | 434 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -509,4 +509,4 @@ Diff (max vs sum): -33
 | 2023-11-20 | 4.54 | 7,589 | 11,585 |
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
-| 2023-11-23 | 4.54 | 7,661 | 11,697 |
+| 2023-11-23 | 4.54 | 7,661 | 11,701 |

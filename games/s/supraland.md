@@ -6,32 +6,32 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~726,377 |
-| The Blues | 85.00% | ~623,657 |
-| Fast | 66.00% | ~484,251 |
-| Healthbar | 55.00% | ~403,543 |
-| Force Cube | 53.00% | ~388,868 |
-| Double Jump | 48.00% | ~352,183 |
-| Regeneration | 47.00% | ~344,846 |
-| Triple Jump | 43.00% | ~315,497 |
-| Climb the hill | 42.00% | ~308,160 |
-| Through the fire pipe | 39.00% | ~286,148 |
-| MacGuffin | 38.00% | ~278,811 |
-| Just once | 37.00% | ~271,474 |
-| Armor | 30.00% | ~220,114 |
-| True holy spirit | 28.00% | ~205,440 |
-| That's how electronics work obviously | 27.00% | ~198,103 |
-| Force Cube Catapult | 25.00% | ~183,428 |
-| Holy Sword | 23.00% | ~168,754 |
-| Telefrag | 23.00% | ~168,754 |
-| Freed from prison | 21.00% | ~154,080 |
-| Stomp | 21.00% | ~154,080 |
+| Out of bed | 99.00% | ~726,381 |
+| The Blues | 85.00% | ~623,660 |
+| Fast | 66.00% | ~484,254 |
+| Healthbar | 55.00% | ~403,545 |
+| Force Cube | 53.00% | ~388,871 |
+| Double Jump | 48.00% | ~352,185 |
+| Regeneration | 47.00% | ~344,847 |
+| Triple Jump | 43.00% | ~315,499 |
+| Climb the hill | 42.00% | ~308,162 |
+| Through the fire pipe | 39.00% | ~286,150 |
+| MacGuffin | 38.00% | ~278,813 |
+| Just once | 37.00% | ~271,476 |
+| Armor | 30.00% | ~220,115 |
+| True holy spirit | 28.00% | ~205,441 |
+| That's how electronics work obviously | 27.00% | ~198,104 |
+| Force Cube Catapult | 25.00% | ~183,430 |
+| Holy Sword | 23.00% | ~168,755 |
+| Telefrag | 23.00% | ~168,755 |
+| Freed from prison | 21.00% | ~154,081 |
+| Stomp | 21.00% | ~154,081 |
 | Double Health | 19.00% | ~139,406 |
 | Green Keycard | 18.00% | ~132,069 |
-| Buckle | 17.00% | ~124,731 |
-| Rattle Hag | 16.00% | ~117,394 |
-| All Shells | 15.00% | ~110,057 |
-| Beam | 14.00% | ~102,720 |
+| Buckle | 17.00% | ~124,732 |
+| Rattle Hag | 16.00% | ~117,395 |
+| All Shells | 15.00% | ~110,058 |
+| Beam | 14.00% | ~102,721 |
 | Health Drink | 13.00% | ~95,383 |
 | Helped a star | 13.00% | ~95,383 |
 | 9 | 13.00% | ~95,383 |
@@ -44,21 +44,21 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~80,709 |
 | Infiltrated | 11.00% | ~80,709 |
 | Robbed | 11.00% | ~80,709 |
-| Fire Flies | 10.00% | ~73,371 |
-| Cave Flies | 10.00% | ~73,371 |
-| Gold Scam | 10.00% | ~73,371 |
-| Gold Scam Uncovered | 10.00% | ~73,371 |
-| Panic Lights | 10.00% | ~73,371 |
-| Translocator | 10.00% | ~73,371 |
-| Yellow Shot Button | 10.00% | ~73,371 |
-| Moon Door | 9.00% | ~66,034 |
-| Momentum | 9.00% | ~66,034 |
-| Through the tiny pipe | 9.00% | ~66,034 |
-| Win! | 9.00% | ~66,034 |
+| Fire Flies | 10.00% | ~73,372 |
+| Cave Flies | 10.00% | ~73,372 |
+| Gold Scam | 10.00% | ~73,372 |
+| Gold Scam Uncovered | 10.00% | ~73,372 |
+| Panic Lights | 10.00% | ~73,372 |
+| Translocator | 10.00% | ~73,372 |
+| Yellow Shot Button | 10.00% | ~73,372 |
+| Moon Door | 9.00% | ~66,035 |
+| Momentum | 9.00% | ~66,035 |
+| Through the tiny pipe | 9.00% | ~66,035 |
+| Win! | 9.00% | ~66,035 |
 | The real real teleported man | 8.00% | ~58,697 |
 | Well deserved | 6.00% | ~44,023 |
 | Super Sword | 4.00% | ~29,349 |
-| Happiness | 3.00% | ~22,011 |
+| Happiness | 3.00% | ~22,012 |
 | All Chests | 2.00% | ~14,674 |
 | Poor ancestors | 2.00% | ~14,674 |
 | Shelf filled | 2.00% | ~14,674 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~734 |
 | DLC: Top of the world | 0.10% | ~734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,714 (Ranked 19)  
+Progressed: 733,718 (Ranked 19)  
 Completed: 763 (0.10%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 763 (0.10%) (Ranked 280)
 | 2023-11-20 | 733,475 | 762 |
 | 2023-11-21 | 733,566 | 762 |
 | 2023-11-22 | 733,655 | 762 |
-| 2023-11-23 | 733,714 | 763 |
+| 2023-11-23 | 733,718 | 763 |
 ## Awards
 Max (Challenging Puzzles): 7,732  (Ranked 48)  
 Sum: 10,085 (Ranked 91)  

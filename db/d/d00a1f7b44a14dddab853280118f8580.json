@@ -1061,17 +1061,17 @@
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 70,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_items_50",
@@ -1093,9 +1093,9 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_skip_3",
@@ -1124,8 +1124,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:08:00.3667388+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:08:27.4826725+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.0966584+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:57:26.0604138+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:08:00.3667585+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:57:41.9039542+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:08:27.4826899+00:00"
 }

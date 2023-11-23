@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 714)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,668 |
-| A new Journey | 75.00% | ~1,646 |
-| Departure | 74.00% | ~1,624 |
-| From X to Y | 73.00% | ~1,602 |
-| Way of Iron | 71.00% | ~1,558 |
+| Country Bumpkin | 76.00% | ~1,669 |
+| A new Journey | 75.00% | ~1,647 |
+| Departure | 74.00% | ~1,625 |
+| From X to Y | 73.00% | ~1,603 |
+| Way of Iron | 70.00% | ~1,537 |
 | Mystery Tour | 69.00% | ~1,515 |
 | We brake for nobody | 68.00% | ~1,493 |
 | Brainstorm | 66.00% | ~1,449 |
 | Travel Company | 66.00% | ~1,449 |
 | Mind the Gap | 65.00% | ~1,427 |
 | All around the World | 63.00% | ~1,383 |
-| Right through the middle | 58.00% | ~1,273 |
-| Facility Manager | 54.00% | ~1,185 |
-| Poor Devil | 54.00% | ~1,185 |
-| Producer | 51.00% | ~1,119 |
+| Right through the middle | 58.00% | ~1,274 |
+| Facility Manager | 54.00% | ~1,186 |
+| Poor Devil | 54.00% | ~1,186 |
+| Producer | 51.00% | ~1,120 |
 | Apprentice | 42.00% | ~922 |
 | Bridge Builder | 42.00% | ~922 |
-| Access granted | 36.00% | ~790 |
-| Going once, going twice, sold | 36.00% | ~790 |
-| Bull and bear | 34.00% | ~746 |
-| Stoker | 33.00% | ~724 |
-| Full Steam ahead | 33.00% | ~724 |
-| All mine | 31.00% | ~680 |
-| Mole | 31.00% | ~680 |
-| Financial Shark | 31.00% | ~680 |
-| Socializer | 30.00% | ~658 |
+| Access granted | 36.00% | ~791 |
+| Going once, going twice, sold | 36.00% | ~791 |
+| Bull and bear | 34.00% | ~747 |
+| Stoker | 33.00% | ~725 |
+| Full Steam ahead | 33.00% | ~725 |
+| All mine | 31.00% | ~681 |
+| Mole | 31.00% | ~681 |
+| Financial Shark | 31.00% | ~681 |
+| Socializer | 30.00% | ~659 |
 | General Manager | 28.00% | ~615 |
 | Country Life | 28.00% | ~615 |
 | Hostile Takeover | 25.00% | ~549 |
@@ -47,8 +47,8 @@ Rating: 4.42 (Ranked 714)
 | Settler | 15.00% | ~329 |
 | Go West | 14.00% | ~307 |
 | Max Power | 14.00% | ~307 |
-| A new Hope | 11.00% | ~241 |
-| Tycoon | 11.00% | ~241 |
+| A new Hope | 11.00% | ~242 |
+| Tycoon | 11.00% | ~242 |
 | Unstoppable | 9.00% | ~198 |
 | Track to the Future | 9.00% | ~198 |
 | Call of Duty | 9.00% | ~198 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 714)
 | United States | 0.60% | ~13 |
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,195 (Ranked 222)  
+Progressed: 2,196 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 2,184 | 0 |
 | 2023-11-21 | 2,188 | 0 |
 | 2023-11-22 | 2,194 | 0 |
-| 2023-11-23 | 2,195 | 0 |
+| 2023-11-23 | 2,196 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

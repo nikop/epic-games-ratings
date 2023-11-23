@@ -8,20 +8,20 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 30.00% | ~58 |
 | Double Kill | 21.00% | ~41 |
-| Critical Hit | 10.00% | ~19 |
-| Veteran | 9.00% | ~17 |
+| Critical Hit | 10.00% | ~20 |
+| Veteran | 9.00% | ~18 |
 | Dressed For Success | 6.00% | ~12 |
+| Sorcerous Spree | 5.00% | ~10 |
 | Humiliation | 5.00% | ~10 |
-| Sorcerous Spree | 4.00% | ~8 |
 | Veni, Vidi, Vici | 4.00% | ~8 |
 | Whoops! | 3.00% | ~6 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~6 |
+| This Spot's Taken | 2.00% | ~4 |
 | Infernal Influence | 2.00% | ~4 |
 | Multi Kill | 2.00% | ~4 |
 | Such A Fungi | 2.00% | ~4 |
 | Master | 2.00% | ~4 |
 | Expert Essence Employment | 2.00% | ~4 |
-| This Spot's Taken | 1.00% | ~2 |
 | Coming Through! | 1.00% | ~2 |
 | Deepstrike | 1.00% | ~2 |
 | The Song of Stoutheart | 0.50% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193 (Ranked 389)  
+Progressed: 195 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 161 | 0 |
 | 2023-11-21 | 175 | 0 |
 | 2023-11-22 | 183 | 0 |
-| 2023-11-23 | 193 | 0 |
+| 2023-11-23 | 195 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 509)  
 Sum: 194 (Ranked 402)  

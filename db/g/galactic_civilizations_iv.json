@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -921,9 +921,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7329,
+  "EOS_Progressed": 7330,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8691,6 +8691,11 @@
       "Time": "2023-11-23T15:08:41.3279103+00:00",
       "NumProgressed": 7329,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T17:09:34.6271842+00:00",
+      "NumProgressed": 7330,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8734,7 +8739,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8806,7 +8811,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "First_Race_Met",
@@ -8814,7 +8819,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "First_Ship_Designed",
@@ -8838,7 +8843,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9277,15 +9282,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7329,
+      "Progressed": 7330,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-21T08:00:30.0158985+00:00",
-  "LastChanged_Achievements": "2023-11-23T16:09:06.2946559+00:00",
+  "LastChanged_Achievements": "2023-11-23T17:09:34.6271838+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:05.0588965+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:58:27.5983667+00:00",
-  "LastUpdate_Achievements": "2023-11-23T16:09:06.2947344+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:58:44.751171+00:00",
+  "LastUpdate_Achievements": "2023-11-23T17:09:34.6273026+00:00"
 }

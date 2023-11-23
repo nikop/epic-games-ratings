@@ -5,21 +5,21 @@ Rating: 4.19 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,222 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,917 |
-| Loose Ends | 34.00% | ~26,148 |
-| To the Victor Go the Spoils | 28.00% | ~21,533 |
-| Knighthood | 27.00% | ~20,764 |
-| Get ReQ'd | 25.00% | ~19,226 |
-| Whispered Words | 25.00% | ~19,226 |
-| The Batman Family | 23.00% | ~17,688 |
-| Lock and Key | 22.00% | ~16,919 |
-| Something in the Clay | 21.00% | ~16,150 |
-| Quartzer Life Crisis | 21.00% | ~16,150 |
-| Working Hard or Harley Working? | 20.00% | ~15,381 |
-| Unstoppable Force | 20.00% | ~15,381 |
-| Bad Apples in Every Orchard | 20.00% | ~15,381 |
-| Snow Problem | 19.00% | ~14,612 |
+| First Step Into the Knight | 51.00% | ~39,223 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,918 |
+| Loose Ends | 34.00% | ~26,149 |
+| To the Victor Go the Spoils | 28.00% | ~21,534 |
+| Knighthood | 27.00% | ~20,765 |
+| Get ReQ'd | 25.00% | ~19,227 |
+| Whispered Words | 25.00% | ~19,227 |
+| The Batman Family | 23.00% | ~17,689 |
+| Lock and Key | 22.00% | ~16,920 |
+| Something in the Clay | 21.00% | ~16,151 |
+| Quartzer Life Crisis | 21.00% | ~16,151 |
+| Working Hard or Harley Working? | 20.00% | ~15,382 |
+| Unstoppable Force | 20.00% | ~15,382 |
+| Bad Apples in Every Orchard | 20.00% | ~15,382 |
+| Snow Problem | 19.00% | ~14,613 |
 | The Show Mud Go On | 18.00% | ~13,843 |
 | From Inside Gotham's Walls | 18.00% | ~13,843 |
 | Protector of Gotham | 17.00% | ~13,074 |
@@ -35,10 +35,10 @@ Rating: 4.19 (Ranked 923)
 | Bulldozed | 12.00% | ~9,229 |
 | Gotham Knight | 12.00% | ~9,229 |
 | Gotham City Confidential | 11.00% | ~8,460 |
-| Drone You Out | 10.00% | ~7,690 |
-| Out of Their League | 9.00% | ~6,921 |
-| Solid Alibi | 9.00% | ~6,921 |
-| Fusion Expert | 7.00% | ~5,383 |
+| Drone You Out | 10.00% | ~7,691 |
+| Out of Their League | 9.00% | ~6,922 |
+| Solid Alibi | 9.00% | ~6,922 |
+| Fusion Expert | 7.00% | ~5,384 |
 | Expert Crime Fighter | 6.00% | ~4,614 |
 | Family Meeting | 6.00% | ~4,614 |
 | A Worthy Successor | 6.00% | ~4,614 |
@@ -51,9 +51,9 @@ Rating: 4.19 (Ranked 923)
 | The Man-Bat Family | 1.00% | ~769 |
 | Batarang Collector | 1.00% | ~769 |
 | Claiming the Mural High Ground | 1.00% | ~769 |
-| Icebreaker | 0.80% | ~377 |
+| Icebreaker | 0.80% | ~378 |
 | History Major | 0.80% | ~615 |
-| A Sophisticated Mallet | 0.80% | ~377 |
+| A Sophisticated Mallet | 0.80% | ~378 |
 | Read Owl About It | 0.70% | ~538 |
 | Gotham's Greatest Depths | 0.60% | ~283 |
 | Don't Mecha Big Deal About It | 0.60% | ~283 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 923)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,905 (Ranked 99)  
+Progressed: 76,908 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 124 (0.16%) (Ranked 265)
 | 2023-11-20 | 76,747 | 124 |
 | 2023-11-21 | 76,798 | 124 |
 | 2023-11-22 | 76,865 | 124 |
-| 2023-11-23 | 76,905 | 124 |
+| 2023-11-23 | 76,908 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,966  (Ranked 98)  
 Sum: 5,047 (Ranked 140)  

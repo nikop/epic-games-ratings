@@ -8,18 +8,18 @@
 | Is it merely a dream? | 44.00% | ~251 |
 | The path to enlightenment | 30.00% | ~171 |
 | Our efforts are finally yielding progress | 26.00% | ~148 |
-| This looks really bad | 24.00% | ~137 |
+| This looks really bad | 23.00% | ~131 |
 | Unholy lands | 20.00% | ~114 |
-| Unveiling the Magnitude of Sin | 12.00% | ~68 |
+| Unveiling the Magnitude of Sin | 12.00% | ~69 |
 | The court | 9.00% | ~51 |
 | Holy Nails | 8.00% | ~46 |
 | The crucifixion | 7.00% | ~40 |
 | Flagellation | 7.00% | ~40 |
-| The choice | 5.00% | ~28 |
+| The choice | 5.00% | ~29 |
 | Hubris | 4.00% | ~23 |
 | Humility | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 570 (Ranked 299)  
+Progressed: 571 (Ranked 299)  
 Completed: 6 (1.05%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,3 +143,4 @@ Completed: 6 (1.05%) (Ranked 160)
 | 2023-11-17 | 568 | 6 |
 | 2023-11-20 | 569 | 6 |
 | 2023-11-22 | 570 | 6 |
+| 2023-11-23 | 571 | 6 |
