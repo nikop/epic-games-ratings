@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6104,
+  "EOS_Progressed": 6107,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 705,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4248,6 +4248,11 @@
       "Time": "2023-11-23T22:08:45.3056276+00:00",
       "NumProgressed": 6104,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-23T23:09:06.4016614+00:00",
+      "NumProgressed": 6107,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4300,7 +4305,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "Eavesdropper",
@@ -4316,7 +4321,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "FasterThanLight",
@@ -4364,7 +4369,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -4404,7 +4409,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "NoMoreTotems",
@@ -4452,7 +4457,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "TheQuarterback",
@@ -4476,7 +4481,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "UnResurrected",
@@ -4492,7 +4497,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -4506,9 +4511,9 @@
       "ID": "YoureStartingToGetIt",
       "SetID": "acc6ea0",
       "Name": "You\u0027re Starting To Get It",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 55
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -4531,7 +4536,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6104,
+      "Progressed": 6107,
       "Completed": 7
     }
   ],
@@ -4539,8 +4544,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-23T21:59:45.7390093+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:08:45.3056271+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:09:06.4016612+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:59:45.7390099+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:08:45.3056663+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:00:03.1827777+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:09:06.4016919+00:00"
 }

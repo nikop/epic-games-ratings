@@ -12,8 +12,8 @@
 | Quarian Ally | 64.00% | ~880 |
 | Medal of Heroism | 60.00% | ~825 |
 | Honorarium of Corporate Service | 60.00% | ~825 |
+| Medal of Exploration II | 54.00% | ~742 |
 | Council Legion of Merit | 54.00% | ~742 |
-| Medal of Exploration II | 53.00% | ~729 |
 | Turian Ally | 52.00% | ~715 |
 | Medal of Honor | 51.00% | ~701 |
 | Meritorious Service Medal | 51.00% | ~701 |
@@ -56,6 +56,7 @@
 | Shopaholic | 31.00% | ~426 |
 | Completionist | 30.00% | ~412 |
 | Catharsis | 30.00% | ~412 |
+| Fade Away | 30.00% | ~412 |
 | Big Game Hunter | 30.00% | ~412 |
 | Revenge! | 30.00% | ~412 |
 | Heart of Darkness | 30.00% | ~412 |
@@ -63,7 +64,6 @@
 | Focused | 29.00% | ~399 |
 | Archivist | 29.00% | ~399 |
 | Cat's in the Cradle | 29.00% | ~399 |
-| Fade Away | 29.00% | ~399 |
 | Treason | 29.00% | ~399 |
 | Agent | 29.00% | ~399 |
 | Digital Exorcist | 29.00% | ~399 |
@@ -74,10 +74,10 @@
 | Suicide Mission | 27.00% | ~371 |
 | Against All Odds | 27.00% | ~371 |
 | Untouchable | 26.00% | ~358 |
+| Eye of the Hurricane | 26.00% | ~358 |
 | Giant Killer | 26.00% | ~358 |
 | First Aid Specialist | 26.00% | ~358 |
 | A House Divided | 26.00% | ~358 |
-| Eye of the Hurricane | 25.00% | ~344 |
 | World Shaker | 25.00% | ~344 |
 | Pathfinder | 24.00% | ~330 |
 | Tunnel Rat | 24.00% | ~330 |
@@ -117,14 +117,14 @@
 | Always Prepared | 9.00% | ~124 |
 | Lift Mastery | 9.00% | ~124 |
 | Sky High | 8.00% | ~110 |
+| Insanity I | 6.00% | ~82 |
 | Damping Specialist | 6.00% | ~82 |
 | Singularity Mastery | 6.00% | ~82 |
-| Insanity I | 5.00% | ~69 |
 | Incineration Specialist | 5.00% | ~69 |
 | Shield Breaker | 4.00% | ~55 |
+| Warp Specialist | 4.00% | ~55 |
 | Insanity II | 3.00% | ~41 |
 | Tactician | 3.00% | ~41 |
-| Warp Specialist | 3.00% | ~41 |
 | Stasis Mastery | 2.00% | ~28 |
 | Gunsmith | 2.00% | ~28 |
 | AI Hacking Specialist | 2.00% | ~28 |

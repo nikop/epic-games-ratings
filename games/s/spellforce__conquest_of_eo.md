@@ -10,7 +10,7 @@
 | A kind of Magic | 92.00% | ~24 |
 | Connected | 92.00% | ~24 |
 | Expansion | 81.00% | ~21 |
-| Harvest Time | 77.00% | ~20 |
+| Harvest Time | 81.00% | ~21 |
 | Artificer's Apprentice | 69.00% | ~18 |
 | Mine! | 65.00% | ~17 |
 | Alchemist's Apprentice | 62.00% | ~16 |

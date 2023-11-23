@@ -7,8 +7,8 @@ Rating: 4.20 (Ranked 911)
 | ---- | ---------- | ----- |
 | May the Torchbearer light our way | 2.00% | ~6,345 |
 | The touch of Chaos | 2.00% | ~6,345 |
-| A powerful aura was here | 1.00% | ~3,172 |
-| Let's raise the stakes!! | 0.60% | ~1,903 |
+| A powerful aura was here | 1.00% | ~3,173 |
+| Let's raise the stakes!! | 0.60% | ~1,904 |
 | Rumors are true | 0.40% | ~1,269 |
 | We'll be careful | 0.40% | ~1,269 |
 | Pride is a sin, young Knight | 0.40% | ~1,269 |
@@ -18,13 +18,13 @@ Rating: 4.20 (Ranked 911)
 | We need to talk | 0.30% | ~952 |
 | They won't last long | 0.30% | ~952 |
 | Bring it on! | 0.30% | ~952 |
-| I feel drawn to it | 0.20% | ~634 |
-| Here to stay | 0.20% | ~634 |
-| Counting on you | 0.20% | ~634 |
-| This is the end | 0.20% | ~634 |
-| We can choose to fight | 0.20% | ~634 |
-| Chaos be damned! | 0.20% | ~634 |
-| I took a risk | 0.20% | ~634 |
+| I feel drawn to it | 0.20% | ~635 |
+| Here to stay | 0.20% | ~635 |
+| Counting on you | 0.20% | ~635 |
+| This is the end | 0.20% | ~635 |
+| We can choose to fight | 0.20% | ~635 |
+| Chaos be damned! | 0.20% | ~635 |
+| I took a risk | 0.20% | ~635 |
 | No damsels in distress | 0.10% | ~317 |
 | The immortal is bound to reborn | 0.10% | ~317 |
 | A legend among Chimeras | 0.10% | ~317 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 911)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317,234 (Ranked 51)  
+Progressed: 317,261 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 4 (0.00%) (Ranked 359)
 | 2023-11-20 | 315,462 | 4 |
 | 2023-11-21 | 316,102 | 4 |
 | 2023-11-22 | 316,666 | 4 |
-| 2023-11-23 | 317,234 | 4 |
+| 2023-11-23 | 317,261 | 4 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 414)  
 Sum: 61 (Ranked 475)  

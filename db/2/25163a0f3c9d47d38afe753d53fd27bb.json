@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1623,
+  "EOS_Progressed": 1625,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 6.59,
+  "EOS_Completed_Percentage": 6.58,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3729,6 +3729,11 @@
       "Time": "2023-11-23T19:09:43.62109+00:00",
       "NumProgressed": 1623,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-11-23T23:09:23.9920306+00:00",
+      "NumProgressed": 1625,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 30,
@@ -3740,7 +3745,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1544
     },
     {
       "ID": "LEVEL_002",
@@ -3748,7 +3753,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1284
     },
     {
       "ID": "LEVEL_003",
@@ -3756,7 +3761,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1089
     },
     {
       "ID": "LEVEL_004",
@@ -3764,7 +3769,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "LEVEL_005",
@@ -3772,7 +3777,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "LEVEL_006",
@@ -3788,7 +3793,7 @@
       "Name": "Animals in the farm",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "LEVEL_008",
@@ -3796,7 +3801,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "LEVEL_009",
@@ -3812,7 +3817,7 @@
       "Name": "Rocks around the island",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "LEVEL_011",
@@ -3852,7 +3857,7 @@
       "Name": "Flatland",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "LEVEL_016",
@@ -3860,7 +3865,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "LEVEL_017",
@@ -3948,7 +3953,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_028",
@@ -3956,7 +3961,7 @@
       "Name": "What is the country?",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_029",
@@ -3964,7 +3969,7 @@
       "Name": "Bridges connect us",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_030",
@@ -3979,14 +3984,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1623,
+      "Progressed": 1625,
       "Completed": 107
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:09:01.2042467+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:09:23.9920303+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:58:20.368073+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:09:01.2042758+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:58:27.7138947+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:09:23.9920977+00:00"
 }

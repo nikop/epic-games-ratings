@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2865,9 +2865,9 @@
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 5",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 284
     },
     {
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
@@ -2889,9 +2889,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 378
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -2977,9 +2977,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 714
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -3138,8 +3138,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:05:26.2051839+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:05:46.4903628+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:57:17.0507458+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:05:26.2052595+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:57:17.9034701+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:05:46.4905014+00:00"
 }

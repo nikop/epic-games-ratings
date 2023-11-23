@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 8.00% | ~2,515 |
+| Stylish | 8.00% | ~2,516 |
 | Meticulously Efficient | 7.00% | ~2,201 |
-| Advancement | 6.00% | ~1,886 |
+| Advancement | 6.00% | ~1,887 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,572 |
 | Discovery | 5.00% | ~1,572 |
 | Solo Capture | 5.00% | ~1,572 |
@@ -25,6 +25,7 @@ Rating: 4.50 (Ranked 588)
 | Ghostbuster In Training | 3.00% | ~943 |
 | Icing on the Cake | 3.00% | ~943 |
 | Right back at ya | 3.00% | ~943 |
+| Side Hustle | 3.00% | ~943 |
 | Summoner | 3.00% | ~943 |
 | Back Off | 2.00% | ~629 |
 | We have the best insurance | 2.00% | ~629 |
@@ -34,7 +35,6 @@ Rating: 4.50 (Ranked 588)
 | Pesky Jerks | 2.00% | ~629 |
 | Rift Destroyer | 2.00% | ~629 |
 | Seasoned | 2.00% | ~629 |
-| Side Hustle | 2.00% | ~629 |
 | Skilled | 2.00% | ~629 |
 | Stunner | 2.00% | ~629 |
 | Welcome to the Crew | 2.00% | ~629 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,441 (Ranked 124)  
+Progressed: 31,445 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 68 (0.22%) (Ranked 249)
 | 2023-11-20 | 31,308 | 68 |
 | 2023-11-21 | 31,349 | 68 |
 | 2023-11-22 | 31,398 | 68 |
-| 2023-11-23 | 31,441 | 68 |
+| 2023-11-23 | 31,445 | 68 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 249)  
 Sum: 2,840 (Ranked 179)  

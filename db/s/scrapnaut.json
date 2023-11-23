@@ -2,7 +2,7 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 852,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 313,
@@ -1831,8 +1831,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:04:37.0854142+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:04:53.3400252+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.3361898+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:59:23.8831216+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:04:37.0854349+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:59:38.7117804+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:04:53.3400443+00:00"
 }

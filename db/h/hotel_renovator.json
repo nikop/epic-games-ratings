@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 763,
+  "Ranking_Rating": 764,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2502,9 +2502,9 @@
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -2527,8 +2527,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-06T04:59:47.279974+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:06:02.7721055+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:06:26.4371441+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.1971937+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:58:26.1263311+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:06:02.7721317+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:58:34.1909187+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:06:26.4371638+00:00"
 }

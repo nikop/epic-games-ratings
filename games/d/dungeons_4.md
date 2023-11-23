@@ -7,8 +7,8 @@
 | The Last Stand | 86.00% | ~316 |
 | Thalya – Simply Immortal | 86.00% | ~316 |
 | For the Horde! | 81.00% | ~297 |
-| Hammer Time, Round Two | 78.00% | ~286 |
-| The Hellwoods | 73.00% | ~268 |
+| Hammer Time, Round Two | 79.00% | ~290 |
+| The Hellwoods | 74.00% | ~272 |
 | The Plains of Strothalm | 68.00% | ~250 |
 | Experienced Thalya | 67.00% | ~246 |
 | Thalya's Concentrated Fury | 66.00% | ~242 |
@@ -19,17 +19,17 @@
 | Heroes’ Gorge | 57.00% | ~209 |
 | Trap Master | 54.00% | ~198 |
 | Minions, Minions! | 54.00% | ~198 |
-| The Ascent | 48.00% | ~176 |
-| It's Warm and Cozy at Home | 48.00% | ~176 |
+| The Ascent | 49.00% | ~180 |
+| It's Warm and Cozy at Home | 49.00% | ~180 |
+| Hard Work | 44.00% | ~161 |
 | The Big Eaty | 44.00% | ~161 |
 | YOU SHALL NOT PASS! | 43.00% | ~158 |
-| Hard Work | 43.00% | ~158 |
 | Pure Dynamite! | 40.00% | ~147 |
-| “… like son” | 38.00% | ~139 |
+| “… like son” | 39.00% | ~143 |
 | Mana Cannon | 34.00% | ~125 |
 | Dungeonlord Gorgu | 34.00% | ~125 |
+| Shame! Shame! Shame! | 34.00% | ~125 |
 | The Cathedral of Light | 33.00% | ~121 |
-| Shame! Shame! Shame! | 33.00% | ~121 |
 | Tanos' Crusade Against Thalya | 30.00% | ~110 |
 | Unstoppable Horde | 25.00% | ~92 |
 | All’s Well That Ends Evil | 25.00% | ~92 |
@@ -46,10 +46,10 @@
 | Doom Hill | 15.00% | ~55 |
 | Brimstone Shaken, Not Stirred | 14.00% | ~51 |
 | Sabotage! | 13.00% | ~48 |
+| Raiders of the Lost Stone | 12.00% | ~44 |
 | The Rune Sockets of Finitude (Part 1) | 12.00% | ~44 |
 | My Little Torture Chamber | 11.00% | ~40 |
 | Bonus Evilness | 11.00% | ~40 |
-| Raiders of the Lost Stone | 11.00% | ~40 |
 | Lavalumps on Ice! | 10.00% | ~37 |
 | The Rune Sockets of Finitude (Part 2) | 9.00% | ~33 |
 | The Last Stand - This Time For Real! | 9.00% | ~33 |

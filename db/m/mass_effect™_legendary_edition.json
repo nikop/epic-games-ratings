@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -3925,9 +3925,9 @@
       "ID": "achievement_107",
       "SetID": "d252ncf",
       "Name": "Eye of the Hurricane",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_108",
@@ -4013,9 +4013,9 @@
       "ID": "achievement_117",
       "SetID": "d252ncf",
       "Name": "Insanity I",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_118",
@@ -4189,9 +4189,9 @@
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 729
+      "UsersEstimate": 742
     },
     {
       "ID": "achievement_23",
@@ -4485,9 +4485,9 @@
       "ID": "achievement_56",
       "SetID": "d252ncf",
       "Name": "Fade Away",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_57",
@@ -4581,9 +4581,9 @@
       "ID": "achievement_67",
       "SetID": "d252ncf",
       "Name": "Warp Specialist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_68",
@@ -4881,8 +4881,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:08:05.109727+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:08:22.0870831+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:02:48.4870891+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:08:05.1099122+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:02:52.3616411+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:08:22.0872391+00:00"
 }

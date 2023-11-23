@@ -11,7 +11,7 @@ Rating: 4.05 (Ranked 984)
 | Maybe Engage a Little | 81.00% | ~241 |
 | No More Names | 69.00% | ~206 |
 | Initiate | 55.00% | ~164 |
-| Thrada-Kul | 50.00% | ~149 |
+| Thrada-Kul | 51.00% | ~152 |
 | Gravity-Challenged Rocks | 40.00% | ~119 |
 | Soldier | 34.00% | ~101 |
 | All the Major Food Groups | 33.00% | ~98 |
@@ -34,8 +34,8 @@ Rating: 4.05 (Ranked 984)
 | Periapt Viridian | 8.00% | ~24 |
 | Shroudfane Explorer | 8.00% | ~24 |
 | Armaments Gules | 7.00% | ~21 |
+| Kitted Out | 6.00% | ~18 |
 | Scholar | 5.00% | ~15 |
-| Kitted Out | 5.00% | ~15 |
 | Armaments Vert | 5.00% | ~15 |
 | Veteran | 5.00% | ~15 |
 | Master of Carmine | 2.00% | ~6 |

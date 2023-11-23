@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 2.00% | ~14,468 |
-| One of Us | 2.00% | ~979 |
-| Whatever It Takes | 2.00% | ~979 |
-| Pork Chopped | 2.00% | ~979 |
+| Whatever It Takes | 3.00% | ~1,470 |
+| Welcome To Hell-A | 2.00% | ~14,469 |
+| One of Us | 2.00% | ~980 |
+| Pork Chopped | 2.00% | ~980 |
 | Dr. Reed, I Presume? | 1.00% | ~7,234 |
 | Git Gutte! | 1.00% | ~7,234 |
 | Anger Management | 1.00% | ~7,234 |
@@ -28,11 +28,11 @@ Rating: 4.54 (Ranked 526)
 | Zombologist | 0.90% | ~6,511 |
 | A Patton Emerges | 0.90% | ~6,511 |
 | Our True Nature | 0.90% | ~6,511 |
-| Perks of the Job | 0.80% | ~5,787 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,787 |
-| Slayer Squad | 0.80% | ~5,787 |
-| Ooh, Shiny! | 0.80% | ~5,787 |
-| I Am the Resurrection | 0.80% | ~5,787 |
+| Perks of the Job | 0.80% | ~5,788 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,788 |
+| Slayer Squad | 0.80% | ~5,788 |
+| Ooh, Shiny! | 0.80% | ~5,788 |
+| I Am the Resurrection | 0.80% | ~5,788 |
 | Making Your Mark | 0.70% | ~5,064 |
 | Humanity Distilled | 0.70% | ~5,064 |
 | Max Headroom | 0.70% | ~5,064 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,417 (Ranked 21)  
+Progressed: 723,442 (Ranked 21)  
 Completed: 2,428 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2,428 (0.34%) (Ranked 229)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 723,417 | 2,428 |
+| 2023-11-23 | 723,442 | 2,428 |
 ## Awards
 Max (Great Boss Battles): 7,661  (Ranked 50)  
 Sum: 11,704 (Ranked 83)  

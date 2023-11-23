@@ -14,16 +14,17 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 5.00% | ~10 |
 | Humiliation | 5.00% | ~10 |
 | Veni, Vidi, Vici | 5.00% | ~10 |
+| Multi Kill | 3.00% | ~6 |
 | Whoops! | 3.00% | ~6 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~6 |
 | This Spot's Taken | 2.00% | ~4 |
 | Infernal Influence | 2.00% | ~4 |
-| Multi Kill | 2.00% | ~4 |
 | Such A Fungi | 2.00% | ~4 |
 | Master | 2.00% | ~4 |
 | Expert Essence Employment | 2.00% | ~4 |
 | Coming Through! | 1.00% | ~2 |
 | Deepstrike | 1.00% | ~2 |
+| Trojan Horse | 1.00% | ~2 |
 | Pyrrhic Victory | 1.00% | ~2 |
 | The Song of Stoutheart | 0.50% | ~1 |
 | Death To Diplomacy | 0.50% | ~1 |
@@ -33,7 +34,6 @@ Number of Ratings: 292  (23.09.2022)
 | Fully Charged | 0.50% | ~1 |
 | Don't Touch My Stuff | 0.50% | ~1 |
 | Get Over Here! | 0.50% | ~1 |
-| Trojan Horse | 0.50% | ~1 |
 | Ultra Kill | 0.50% | ~1 |
 | Grand Master | 0.50% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3789,
+  "EOS_Progressed": 3790,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4582,6 +4582,11 @@
       "Time": "2023-11-23T04:03:36.7763533+00:00",
       "NumProgressed": 3789,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-23T23:04:05.1927433+00:00",
+      "NumProgressed": 3790,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4641,7 +4646,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3335
     },
     {
       "ID": "campaign10",
@@ -4721,7 +4726,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "campaign2",
@@ -4737,7 +4742,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "campaign3",
@@ -4745,7 +4750,7 @@
       "Name": "Economics 101",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "campaign4",
@@ -4753,7 +4758,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "campaign5",
@@ -4817,7 +4822,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "scenario4",
@@ -4856,7 +4861,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3789,
+      "Progressed": 3790,
       "Completed": 11
     }
   ],
@@ -4864,8 +4869,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:03:53.034919+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:04:05.1927429+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:09.4027746+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:58:08.4124375+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:03:53.0349518+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:58:14.7965927+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:04:05.1927969+00:00"
 }

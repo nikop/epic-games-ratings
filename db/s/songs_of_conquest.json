@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1231,9 +1231,9 @@
       "ID": "MultiKill",
       "SetID": "71c0n9i",
       "Name": "Multi Kill",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "MultiplayerWins",
@@ -1335,9 +1335,9 @@
       "ID": "TrojanHorse",
       "SetID": "71c0n9i",
       "Name": "Trojan Horse",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UltraKill",
@@ -1463,8 +1463,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:04:49.5194331+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:05:06.7610535+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:59:30.3796392+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:04:49.5194687+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:59:45.8353389+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:05:06.761086+00:00"
 }

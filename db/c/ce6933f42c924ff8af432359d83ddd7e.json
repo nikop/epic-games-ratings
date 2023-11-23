@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1153,
+  "EOS_Progressed": 1154,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 4.16,
   "EosHistory": [
@@ -2449,6 +2449,11 @@
       "Time": "2023-11-23T22:08:36.5037275+00:00",
       "NumProgressed": 1153,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-23T23:08:56.6961534+00:00",
+      "NumProgressed": 1154,
+      "NumCompleted": 48
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2469,7 +2474,7 @@
       "Name": "Brain-teaser",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_DONUTS",
@@ -2501,7 +2506,7 @@
       "Name": "Evil plan",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -2509,7 +2514,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2533,21 +2538,21 @@
       "Name": "Exit",
       "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1153,
+      "Progressed": 1154,
       "Completed": 48
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:08:36.503727+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:08:56.6961516+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:59:59.2047485+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:08:36.5037423+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:00:18.3169757+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:08:56.6961743+00:00"
 }

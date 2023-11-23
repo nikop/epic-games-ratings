@@ -4,10 +4,10 @@
   "ProductSlug": "pathfinder-kingmaker",
   "Ranking_Rating": 472,
   "Ranking_Popularity": 94,
-  "Ranking_PopularitySum": 97,
-  "Ranking_EOS_Progress": 758,
+  "Ranking_PopularitySum": 96,
+  "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-05-13T19:30:00+00:00",
@@ -6204,10 +6204,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 9084,
       "NumberOfAwardsMax": 3362
+    },
+    {
+      "Time": "2023-11-23T22:58:33.7755469+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9086,
+      "NumberOfAwardsMax": 3362
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9084,
+  "NumberOfAwards": 9086,
   "NumberOfAwardsMax": 3362,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6221,7 +6227,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2239
+      "Count": 2241
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6301,8 +6307,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2023-11-23T21:58:25.6537474+00:00",
+  "LastChanged": "2023-11-23T22:58:33.7755467+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.9944187+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:58:25.6537478+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:05:57.2289282+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:58:33.7755472+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:06:20.1497251+00:00"
 }

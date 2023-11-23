@@ -4,10 +4,10 @@
   "ProductSlug": "tony-hawks-pro-skater-1-and-2",
   "Ranking_Rating": 67,
   "Ranking_Popularity": 367,
-  "Ranking_PopularitySum": 289,
-  "Ranking_EOS_Progress": 758,
+  "Ranking_PopularitySum": 290,
+  "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-09-04T01:00:00+00:00",
@@ -1847,6 +1847,6 @@
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
   "LastChanged": "2023-11-17T00:00:25.671763+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:19.5324714+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:59:59.0801941+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:04:51.3161947+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:00:18.1805796+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:05:08.6767795+00:00"
 }

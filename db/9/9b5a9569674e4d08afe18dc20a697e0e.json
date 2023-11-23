@@ -362,9 +362,9 @@
       "ID": "LOVERS",
       "SetID": "40o4f14",
       "Name": "Lover\u0027s dream",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MERCENARY",
@@ -442,17 +442,17 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "WASHING",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:03:00.1682555+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:03:06.8345688+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:59:05.7410717+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:03:00.1682788+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:59:18.4377971+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:03:06.8345931+00:00"
 }

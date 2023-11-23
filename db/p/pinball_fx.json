@@ -2029,9 +2029,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 281040,
+  "EOS_Progressed": 281046,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26909,6 +26909,11 @@
       "Time": "2023-11-23T22:05:16.8231751+00:00",
       "NumProgressed": 281040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T23:05:36.3278741+00:00",
+      "NumProgressed": 281046,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -26968,7 +26973,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 28104
+      "UsersEstimate": 28105
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -27080,7 +27085,7 @@
       "Name": "I Found it!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 30914
+      "UsersEstimate": 30915
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -27144,7 +27149,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 230453
+      "UsersEstimate": 230458
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -27152,22 +27157,22 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 95554
+      "UsersEstimate": 95556
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 281040,
+      "Progressed": 281046,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-23T12:03:27.4764238+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:05:16.8231747+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:05:36.3278738+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.7413731+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:02:54.5851459+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:05:16.8233041+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:02:59.2830794+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:05:36.3280163+00:00"
 }

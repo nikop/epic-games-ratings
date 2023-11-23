@@ -6825,9 +6825,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 723417,
+  "EOS_Progressed": 723442,
   "EOS_Completed": 2428,
-  "EOS_NewPlayers": 4048,
+  "EOS_NewPlayers": 4055,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31700,6 +31700,11 @@
       "Time": "2023-11-23T22:04:42.4389207+00:00",
       "NumProgressed": 723417,
       "NumCompleted": 2428
+    },
+    {
+      "Time": "2023-11-23T23:04:59.028884+00:00",
+      "NumProgressed": 723442,
+      "NumCompleted": 2428
     }
   ],
   "TotalAchievements": 51,
@@ -31759,7 +31764,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5787
+      "UsersEstimate": 5788
     },
     {
       "ID": "ach_bookworm",
@@ -31791,7 +31796,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5787
+      "UsersEstimate": 5788
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -31807,7 +31812,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5787
+      "UsersEstimate": 5788
     },
     {
       "ID": "ach_explorer",
@@ -31927,7 +31932,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5787
+      "UsersEstimate": 5788
     },
     {
       "ID": "ach_magnum_opus",
@@ -31959,7 +31964,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5787
+      "UsersEstimate": 5788
     },
     {
       "ID": "ach_salvation",
@@ -32047,7 +32052,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14468
+      "UsersEstimate": 14469
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32071,15 +32076,15 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ach_dark_magic",
       "SetID": "344c43k",
       "Name": "Whatever It Takes",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 1470
     },
     {
       "ID": "ach_gardening_tools",
@@ -32095,7 +32100,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32118,22 +32123,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723417,
+      "Progressed": 723442,
       "Completed": 2428
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 48959,
-      "Completed": 36588
+      "Progressed": 48984,
+      "Completed": 36589
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-23T19:58:31.9623192+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:04:42.4389203+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:04:59.0288836+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:58:23.9860472+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:04:42.4390589+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:58:31.9099978+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:04:59.0290161+00:00"
 }

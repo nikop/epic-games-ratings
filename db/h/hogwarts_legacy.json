@@ -10861,10 +10861,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48954,
       "NumberOfAwardsMax": 24563
+    },
+    {
+      "Time": "2023-11-23T22:58:06.7228853+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48957,
+      "NumberOfAwardsMax": 24563
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48954,
+  "NumberOfAwards": 48957,
   "NumberOfAwardsMax": 24563,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10920,7 +10926,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1196
+      "Count": 1199
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10941,9 +10947,9 @@
       "Count": 809
     }
   ],
-  "EOS_Progressed": 302833,
+  "EOS_Progressed": 302837,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34316,6 +34322,11 @@
       "Time": "2023-11-23T22:09:02.5188153+00:00",
       "NumProgressed": 302833,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-23T23:09:25.4536362+00:00",
+      "NumProgressed": 302837,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34327,7 +34338,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48453
+      "UsersEstimate": 48454
     },
     {
       "ID": "PFA_10",
@@ -34439,7 +34450,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "PFA_23",
@@ -34447,7 +34458,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39368
+      "UsersEstimate": 39369
     },
     {
       "ID": "PFA_24",
@@ -34535,7 +34546,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "PFA_34",
@@ -34551,7 +34562,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30283
+      "UsersEstimate": 30284
     },
     {
       "ID": "PFA_36",
@@ -34615,7 +34626,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21198
+      "UsersEstimate": 21199
     },
     {
       "ID": "PFA_43",
@@ -34655,7 +34666,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45425
+      "UsersEstimate": 45426
     },
     {
       "ID": "PFA_7",
@@ -34671,7 +34682,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39368
+      "UsersEstimate": 39369
     },
     {
       "ID": "PFA_9",
@@ -34679,23 +34690,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30283
+      "UsersEstimate": 30284
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302833,
+      "Progressed": 302837,
       "Completed": 513
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-23T21:58:01.0786547+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:09:02.5188147+00:00",
+  "LastChanged": "2023-11-23T22:58:06.7228852+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:09:25.4536359+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:58:01.0786553+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:09:02.5189223+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:58:06.7228858+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:09:25.4537848+00:00"
 }

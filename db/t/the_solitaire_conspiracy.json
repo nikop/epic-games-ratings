@@ -2,9 +2,9 @@
   "ID": "d5ac79ba9e7946908d8e22c002468348",
   "Name": "The Solitaire Conspiracy",
   "ProductSlug": "the-solitaire-conspiracy",
-  "Ranking_EOS_Progress": 758,
+  "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-10-06T14:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.8946959+00:00",
   "LastChanged": "2023-03-31T05:58:17.894696+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:28.8908883+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:57:43.5490908+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:05:57.6930234+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:57:47.1127287+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:06:20.6512285+00:00"
 }

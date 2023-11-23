@@ -2,9 +2,9 @@
   "ID": "e8e0954ed50b46458165b250c8a05671",
   "Name": "Patrolling Mars",
   "ProductSlug": "patrollingmars-215534",
-  "Ranking_EOS_Progress": 758,
+  "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-10T19:00:00+00:00",
@@ -162,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-06T07:04:04.66523+00:00",
-  "LastChanged_Achievements": "2023-11-23T22:05:47.9476964+00:00",
+  "LastChanged_Achievements": "2023-11-23T23:06:09.8396468+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:15.9310341+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:59:26.2964329+00:00",
-  "LastUpdate_Achievements": "2023-11-23T22:05:47.9477002+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:59:41.2380007+00:00",
+  "LastUpdate_Achievements": "2023-11-23T23:06:09.8396507+00:00"
 }

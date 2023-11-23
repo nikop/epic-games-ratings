@@ -140,6 +140,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.10% | ~203 |
 | Anchors Aweigh | 0.10% | ~203 |
 | Welcome to the Rock | 0.10% | ~203 |
+| Welcome to the Band | 0.10% | ~203 |
 | Beast Mode | 0.10% | ~237 |
 | The Forbidden City | 0.10% | ~237 |
 | Terror in the Dark | 0.10% | ~237 |
@@ -534,12 +535,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
-| Welcome to the Band | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,573 (Ranked 64)  
+Progressed: 236,580 (Ranked 64)  
 Completed: 2,472 (1.04%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,14 +756,14 @@ Completed: 2,472 (1.04%) (Ranked 163)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,573 | 2,472 |
+| 2023-11-23 | 236,580 | 2,472 |
 ## Awards
-Max (Great for Beginners): 5,556  (Ranked 70)  
-Sum: 32,587 (Ranked 41)  
+Max (Great for Beginners): 5,559  (Ranked 70)  
+Sum: 32,590 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,556 |
+| This game is Great for Beginners | 5,559 |
 | This game has Diverse Characters | 5,533 |
 | This game has Quickly Understood Controls | 4,818 |
 | This game is Relaxing | 4,712 |
@@ -1074,4 +1074,4 @@ Diff (max vs sum): 29
 | 2023-11-20 | 4.06 | - | 5,547 | 32,551 |
 | 2023-11-21 | 4.06 | - | 5,549 | 32,557 |
 | 2023-11-22 | 4.06 | - | 5,556 | 32,575 |
-| 2023-11-23 | 4.06 | - | 5,556 | 32,587 |
+| 2023-11-23 | 4.06 | - | 5,559 | 32,590 |
