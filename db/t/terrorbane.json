@@ -2,9 +2,9 @@
   "ID": "8bacb9319c4b44d689aa6920a1044010",
   "Name": "tERRORbane",
   "ProductSlug": "terrorbane-437dd3",
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
@@ -169,17 +169,17 @@
       "ID": "Achievement_08",
       "SetID": "6jd5kdh",
       "Name": "Thanks for Buying",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_09",
       "SetID": "6jd5kdh",
       "Name": "Thanks for Playing",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_10",
@@ -281,9 +281,9 @@
       "ID": "Achievement_22",
       "SetID": "6jd5kdh",
       "Name": "Arcade master",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_23",
@@ -314,8 +314,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:04:40.589525+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:05:20.6527701+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.2378638+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:03:03.0015788+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:04:40.5895417+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:03:13.7359912+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:05:20.6527849+00:00"
 }

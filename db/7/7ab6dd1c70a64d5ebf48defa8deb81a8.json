@@ -932,9 +932,9 @@
       "ID": "ACH_17",
       "SetID": "efe2lj",
       "Name": "Shatterer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_18",
@@ -980,9 +980,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_24",
@@ -1099,8 +1099,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:09:26.4973751+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:10:02.9272018+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:57:24.4695368+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:09:26.4973977+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:57:42.0535795+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:10:02.927226+00:00"
 }

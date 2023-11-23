@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 693,
+  "EOS_Progressed": 694,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -632,6 +632,11 @@
       "Time": "2023-11-23T15:04:00.6267945+00:00",
       "NumProgressed": 693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T16:04:29.5110215+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -667,7 +672,7 @@
       "Name": "Big Spender",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Clarity_of_Mind",
@@ -683,7 +688,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Combine",
@@ -723,7 +728,7 @@
       "Name": "I\u0027m walking here!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "I_just_love_stuff",
@@ -795,7 +800,7 @@
       "Name": "So Fresh and So clean clean",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -819,7 +824,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "The Traveler",
@@ -859,7 +864,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "The_truth_is_out_there",
@@ -883,7 +888,7 @@
       "Name": "Welcome home, 06",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Woman on a (side) mission",
@@ -930,7 +935,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 693,
+      "Progressed": 694,
       "Completed": 0
     }
   ],
@@ -938,8 +943,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:04:00.6267942+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:04:29.5110211+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:33.6518262+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:58:05.7818547+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:04:00.6268205+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:58:36.1332781+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:04:29.5110454+00:00"
 }

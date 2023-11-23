@@ -6,19 +6,19 @@ Rating: 4.67 (Ranked 275)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting on the Step | 94.00% | ~5,522 |
-| On the Top Step | 88.00% | ~5,169 |
-| Setting up for Success | 77.00% | ~4,523 |
+| On the Top Step | 88.00% | ~5,170 |
+| Setting up for Success | 77.00% | ~4,524 |
 | Team Orders | 75.00% | ~4,406 |
 | Engineer | 55.00% | ~3,231 |
 | Familiar Faces | 48.00% | ~2,820 |
-| Sharing the Love | 42.00% | ~2,467 |
-| Going the Extra Mile | 42.00% | ~2,467 |
+| Sharing the Love | 42.00% | ~2,468 |
+| Going the Extra Mile | 42.00% | ~2,468 |
 | Hitting a Season | 38.00% | ~2,232 |
-| A Dozen Pieces | 33.00% | ~1,938 |
-| Challenge Yourself | 33.00% | ~1,938 |
+| A Dozen Pieces | 33.00% | ~1,939 |
+| Challenge Yourself | 33.00% | ~1,939 |
 | Making History | 31.00% | ~1,821 |
 | Network Success | 27.00% | ~1,586 |
-| Writing a new Chapter | 25.00% | ~1,468 |
+| Writing a new Chapter | 25.00% | ~1,469 |
 | Spring Cleaning | 24.00% | ~1,410 |
 | Reduce | 20.00% | ~1,175 |
 | Ups and Downs | 20.00% | ~1,175 |
@@ -27,8 +27,8 @@ Rating: 4.67 (Ranked 275)
 | Gathering Dust | 16.00% | ~940 |
 | One for the Book | 16.00% | ~940 |
 | Proving Them Wrong | 16.00% | ~940 |
-| Oil and Water | 14.00% | ~822 |
-| Hitting a Bullseye | 14.00% | ~822 |
+| Oil and Water | 14.00% | ~823 |
+| Hitting a Bullseye | 14.00% | ~823 |
 | Eagle Eye | 13.00% | ~764 |
 | Lightning Round the World | 13.00% | ~764 |
 | Switcheroo | 13.00% | ~764 |
@@ -36,7 +36,7 @@ Rating: 4.67 (Ranked 275)
 | All in a Weekend's Work | 12.00% | ~705 |
 | Friendly Competition | 12.00% | ~705 |
 | Recycle | 11.00% | ~646 |
-| Tinkerer | 10.00% | ~587 |
+| Tinkerer | 10.00% | ~588 |
 | Undisputed Winner | 9.00% | ~529 |
 | Smooth Operator | 7.00% | ~411 |
 | For all Those Back at the Factory | 6.00% | ~352 |
@@ -46,7 +46,7 @@ Rating: 4.67 (Ranked 275)
 | Seasoned Rookie | 3.00% | ~176 |
 | Hitting a Century | 3.00% | ~176 |
 | Wait, I know you? | 3.00% | ~176 |
-| Filling in the Gaps | 2.00% | ~117 |
+| Filling in the Gaps | 2.00% | ~118 |
 | Under the Microscope | 1.00% | ~59 |
 | Saturday Night Drama | 1.00% | ~59 |
 | Media Darling | 1.00% | ~59 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 275)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,874 (Ranked 186)  
+Progressed: 5,875 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 5,836 | 0 |
 | 2023-11-21 | 5,850 | 0 |
 | 2023-11-22 | 5,863 | 0 |
-| 2023-11-23 | 5,874 | 0 |
+| 2023-11-23 | 5,875 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 524)  
 Sum: 87 (Ranked 456)  

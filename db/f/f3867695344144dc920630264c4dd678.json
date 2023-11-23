@@ -3,11 +3,11 @@
   "Name": "Doomsday Last Survivors",
   "ProductSlug": "doomsday-last-survivors-024df3",
   "Ranking_Rating": 953,
-  "Ranking_Popularity": 514,
-  "Ranking_PopularitySum": 524,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -515,18 +515,24 @@
       "Rating": 4.14,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-11-23T15:58:10.3339642+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 27,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 26
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -541,8 +547,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-30T05:57:06.7778921+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
-  "LastChanged": "2023-11-20T20:59:39.7636376+00:00",
+  "LastChanged": "2023-11-23T15:58:10.3339641+00:00",
   "LastUpdate_AppInfo": "2023-11-22T17:57:00.7337651+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:57:46.2460878+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:06:00.6842287+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:58:10.3339646+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:06:59.8693349+00:00"
 }

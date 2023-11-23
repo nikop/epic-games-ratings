@@ -3213,10 +3213,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3227,
       "NumberOfAwardsMax": 440
+    },
+    {
+      "Time": "2023-11-23T16:00:45.4209218+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3228,
+      "NumberOfAwardsMax": 440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3227,
+  "NumberOfAwards": 3228,
   "NumberOfAwardsMax": 440,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3254,7 +3260,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 419
+      "Count": 420
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3281,9 +3287,9 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17403,
+  "EOS_Progressed": 17404,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -13986,6 +13992,11 @@
       "Time": "2023-11-23T15:08:21.9256167+00:00",
       "NumProgressed": 17403,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-23T16:08:41.6421465+00:00",
+      "NumProgressed": 17404,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 50,
@@ -14396,15 +14407,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17403,
+      "Progressed": 17404,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-11-23T09:59:44.9534919+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:08:21.9256164+00:00",
+  "LastChanged": "2023-11-23T16:00:45.4209217+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:08:41.6421462+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.2424074+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:59:43.8457889+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:08:21.9256886+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:00:45.4209221+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:08:41.6422167+00:00"
 }

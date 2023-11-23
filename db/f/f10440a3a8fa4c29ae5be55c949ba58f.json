@@ -4,7 +4,7 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:08:29.6585424+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:08:51.4632238+00:00",
   "LastUpdate_AppInfo": "2023-11-19T17:57:01.5660758+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:57:00.9497158+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:08:29.6585458+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:57:10.4184712+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:08:51.4632264+00:00"
 }

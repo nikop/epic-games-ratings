@@ -535,7 +535,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8639,
+  "EOS_Progressed": 8640,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -11340,6 +11340,11 @@
       "Time": "2023-11-23T13:09:15.6727179+00:00",
       "NumProgressed": 8639,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-11-23T16:04:08.9062+00:00",
+      "NumProgressed": 8640,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 29,
@@ -11351,7 +11356,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7170
+      "UsersEstimate": 7171
     },
     {
       "ID": "ACH02",
@@ -11359,7 +11364,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "ACH03",
@@ -11391,7 +11396,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACH07",
@@ -11479,7 +11484,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ACH18",
@@ -11582,7 +11587,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8639,
+      "Progressed": 8640,
       "Completed": 59
     }
   ],
@@ -11590,8 +11595,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-18T13:00:01.75974+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:03:45.3603831+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:04:08.9061996+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.3385878+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:00:00.7478302+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:03:45.3604515+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:01:07.6533136+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:04:08.9062699+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236,
+  "EOS_Progressed": 237,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.69,
   "EosHistory": [
@@ -1119,6 +1119,11 @@
       "Time": "2023-11-21T21:03:42.0602903+00:00",
       "NumProgressed": 236,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T16:04:47.7903336+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -1130,7 +1135,7 @@
       "Name": "Are you still Alive?",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_DIE",
@@ -1138,7 +1143,7 @@
       "Name": "Sometimes Death is a Mercy",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_DULLER",
@@ -1162,7 +1167,7 @@
       "Name": "YOU DESERVE THAT",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_FRIEND",
@@ -1170,7 +1175,7 @@
       "Name": "NO ONE CAN HEAR YOU SCREAM",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_GET_IN",
@@ -1178,7 +1183,7 @@
       "Name": "Lab Rat",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_GET_OUT",
@@ -1202,7 +1207,7 @@
       "Name": "GET THE HANG OF IT",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_HOUND",
@@ -1242,7 +1247,7 @@
       "Name": "One Wrong Step",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_RUN",
@@ -1266,21 +1271,21 @@
       "Name": "Why are you running?!",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 237,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:04:14.9645761+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:04:47.7903333+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:57.7607971+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:57:28.1092171+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:04:14.9645892+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:57:46.7306764+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:04:47.7903497+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,056 |
-| Basic in Bulk | 5.00% | ~7,056 |
-| Tinkle of Coins | 5.00% | ~7,056 |
-| Titan's First Steps | 5.00% | ~7,056 |
-| Disintermediation | 4.00% | ~5,645 |
-| Capitalism Ho! | 4.00% | ~5,645 |
+| Sponsored by Argon | 5.00% | ~7,057 |
+| Basic in Bulk | 5.00% | ~7,057 |
+| Tinkle of Coins | 5.00% | ~7,057 |
+| Titan's First Steps | 5.00% | ~7,057 |
+| Disintermediation | 4.00% | ~5,646 |
+| Capitalism Ho! | 4.00% | ~5,646 |
 | One Easy Payment | 3.00% | ~4,234 |
 | Some Assembly Required | 3.00% | ~4,234 |
 | Another Satisfied Customer | 3.00% | ~4,234 |
@@ -26,6 +26,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Where it Hurts | 2.00% | ~2,823 |
 | Gild-Gotten Goods | 2.00% | ~2,823 |
 | One-Armed Bandit | 2.00% | ~2,823 |
+| Accomplished Merchant | 2.00% | ~2,823 |
 | Dungeon Imports | 2.00% | ~2,823 |
 | Through Repetition, Perfection | 2.00% | ~2,823 |
 | Did we pack lunch? | 2.00% | ~2,823 |
@@ -55,7 +56,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 1.00% | ~1,411 |
 | Mammonite | 1.00% | ~1,411 |
 | Helping Hand | 1.00% | ~1,411 |
-| Accomplished Merchant | 1.00% | ~1,411 |
+| Laden with Loot | 1.00% | ~1,411 |
 | Natural 20 | 1.00% | ~1,411 |
 | Seasoned Journeyman | 1.00% | ~1,411 |
 | Black Friday Special | 1.00% | ~1,411 |
@@ -76,7 +77,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.90% | ~1,270 |
 | Master Merchant | 0.90% | ~1,270 |
 | Miracle Alchemist | 0.90% | ~1,270 |
-| Laden with Loot | 0.90% | ~1,270 |
 | Scourge of the Seas | 0.90% | ~1,270 |
 | Attrition Mission | 0.90% | ~1,270 |
 | Glittering Collection | 0.90% | ~1,270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,130 (Ranked 80)  
+Progressed: 141,140 (Ranked 80)  
 Completed: 196 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 196 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
-| 2023-11-23 | 141,130 | 196 |
+| 2023-11-23 | 141,140 | 196 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

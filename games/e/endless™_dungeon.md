@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 69.00% | ~798 |
+| Leap Before You Look | 70.00% | ~810 |
 | Getting the Hang of It | 42.00% | ~486 |
 | Hoarder | 32.00% | ~370 |
 | Blobmeister | 27.00% | ~312 |
@@ -12,8 +12,8 @@
 | Pest Control | 26.00% | ~301 |
 | How Low Can We Go? | 24.00% | ~278 |
 | Team Builder | 20.00% | ~231 |
+| Long Live Rock | 16.00% | ~185 |
 | Aggressive Antivirus | 15.00% | ~174 |
-| Long Live Rock | 15.00% | ~174 |
 | Effective Efficiency | 13.00% | ~150 |
 | Unblurred Lines | 12.00% | ~139 |
 | Obsessively Thorough | 12.00% | ~139 |

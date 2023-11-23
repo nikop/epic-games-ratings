@@ -153,7 +153,7 @@
   "Tags": [],
   "EOS_Progressed": 296,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1636,9 +1636,9 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_5",
@@ -1764,9 +1764,9 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
@@ -1781,8 +1781,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-21T13:11:41.3417786+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:08:35.1708335+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:08:58.3611662+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:02:42.5194501+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:08:35.1708748+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:02:46.1034059+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:08:58.3611976+00:00"
 }

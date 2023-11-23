@@ -15,11 +15,11 @@ Rating: 4.56 (Ranked 491)
 | Safe Cracker | 5.00% | ~63 |
 | Zen Master | 5.00% | ~63 |
 | Madame Undersecretary | 5.00% | ~63 |
-| Stogie for Fogey | 4.00% | ~612 |
-| Drug Gifter | 4.00% | ~612 |
-| Spore Taste | 4.00% | ~612 |
-| Martian Music | 4.00% | ~612 |
-| Call it Even | 4.00% | ~612 |
+| Stogie for Fogey | 4.00% | ~613 |
+| Drug Gifter | 4.00% | ~613 |
+| Spore Taste | 4.00% | ~613 |
+| Martian Music | 4.00% | ~613 |
+| Call it Even | 4.00% | ~613 |
 | Keep Arjun in Check | 4.00% | ~51 |
 | Data Archivist | 3.00% | ~459 |
 | Heal Thy Medic | 3.00% | ~459 |
@@ -31,8 +31,8 @@ Rating: 4.56 (Ranked 491)
 | Miraculous Maya | 2.00% | ~306 |
 | Data Logger | 1.00% | ~153 |
 | Data Master | 1.00% | ~153 |
-| Brother's Reaper | 0.80% | ~122 |
-| No Belter Left Behind | 0.80% | ~122 |
+| Brother's Reaper | 0.80% | ~123 |
+| No Belter Left Behind | 0.80% | ~123 |
 | Debris Spree | 0.70% | ~107 |
 | Data Recoverer | 0.60% | ~92 |
 | Urshanabi Hoarder | 0.40% | ~61 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,312 (Ranked 152)  
+Progressed: 15,315 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 35 (0.23%) (Ranked 246)
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
 | 2023-11-22 | 15,266 | 35 |
-| 2023-11-23 | 15,312 | 35 |
+| 2023-11-23 | 15,315 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

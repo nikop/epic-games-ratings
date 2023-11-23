@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -2010,9 +2010,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 810
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2106,9 +2106,9 @@
       "ID": "ACHIEVEMENT_REUNITED",
       "SetID": "9991201",
       "Name": "Long Live Rock",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -2177,8 +2177,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:08:13.6491441+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:08:31.179783+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.2825313+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:57:12.3598832+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:08:13.6491666+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:57:25.680978+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:08:31.1798138+00:00"
 }

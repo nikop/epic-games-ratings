@@ -19,18 +19,18 @@
 | Hackerman | 14.00% | ~6 |
 | A Rank Bug-catcher | 12.00% | ~5 |
 | S Rank Bug-catcher | 12.00% | ~5 |
+| Thanks for Playing | 12.00% | ~5 |
 | Deepest lore | 12.00% | ~5 |
-| Thanks for Playing | 10.00% | ~4 |
 | Pool party | 7.00% | ~3 |
+| Thanks for Buying | 5.00% | ~2 |
 | Brute forcing | 5.00% | ~2 |
-| Thanks for Buying | 2.00% | ~1 |
 | You never know! | 2.00% | ~1 |
 | Higher on the street | 2.00% | ~1 |
 | Dance machine | 2.00% | ~1 |
-| Arcade master | 0.00% | ~0 |
+| Arcade master | 2.00% | ~1 |
 | Real completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 503)  
+Progressed: 42 (Ranked 504)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |

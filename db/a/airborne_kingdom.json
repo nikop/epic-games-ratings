@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7521,
+  "EOS_Progressed": 7522,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -5853,6 +5853,11 @@
       "Time": "2023-11-22T21:03:03.7211967+00:00",
       "NumProgressed": 7521,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-23T16:03:47.7363278+00:00",
+      "NumProgressed": 7522,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5872,7 +5877,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -5896,7 +5901,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3986
+      "UsersEstimate": 3987
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5936,7 +5941,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -5944,7 +5949,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -6064,7 +6069,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6079,15 +6084,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7521,
+      "Progressed": 7522,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:03:28.5672398+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:03:47.7363274+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:15.536262+00:00",
-  "LastUpdate_Ratings": "2023-11-23T15:02:58.6208216+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:03:28.5672813+00:00"
+  "LastUpdate_Ratings": "2023-11-23T16:03:07.9059236+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:03:47.7363632+00:00"
 }

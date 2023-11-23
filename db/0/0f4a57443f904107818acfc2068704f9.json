@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 452,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -977,6 +977,11 @@
       "Time": "2023-11-23T15:05:11.5990645+00:00",
       "NumProgressed": 448,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T16:05:59.6822249+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1013,7 +1018,7 @@
       "Name": "Celestant-Prime",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteCampaignLorekeeper",
@@ -1021,7 +1026,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -1029,7 +1034,7 @@
       "Name": "Lord-Celestant",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteCampaignWarrior",
@@ -1043,9 +1048,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 325
     },
     {
       "ID": "CompleteChapter10",
@@ -1061,7 +1066,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CompleteChapter12",
@@ -1085,7 +1090,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CompleteChapter15",
@@ -1133,7 +1138,7 @@
       "Name": "Met the Enemy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 244
     },
     {
       "ID": "CompleteChapter3",
@@ -1141,7 +1146,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "CompleteChapter4",
@@ -1149,7 +1154,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "CompleteChapter5",
@@ -1157,7 +1162,7 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "CompleteChapter6",
@@ -1237,7 +1242,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1269,7 +1274,7 @@
       "Name": "Warmaster Supreme",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -1284,14 +1289,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 452,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:05:11.5990641+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:05:59.6822245+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:57:54.3156024+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:05:11.59909+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:58:21.1402582+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:05:59.6822508+00:00"
 }

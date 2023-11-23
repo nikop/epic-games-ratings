@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1043,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2408,9 +2408,9 @@
       "ID": "ACH_CAR_WASH_05",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 5",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_FEED_GATOR",
@@ -2496,25 +2496,25 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 960
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
       "SetID": "5fn8ia4",
       "Name": "Fueled it better!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 939
     },
     {
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 803
+      "UsersEstimate": 814
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -2608,17 +2608,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 928
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 928
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -2640,9 +2640,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 960
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -2800,9 +2800,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 834
+      "UsersEstimate": 845
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -2928,9 +2928,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 834
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -2960,9 +2960,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 595
+      "UsersEstimate": 605
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -3024,9 +3024,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 897
+      "UsersEstimate": 907
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -3113,8 +3113,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:05:48.7627008+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:06:45.6872938+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:57:02.3182216+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:05:48.7627985+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:57:12.2611757+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:06:45.6873865+00:00"
 }

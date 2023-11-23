@@ -7,11 +7,11 @@
 | Trinity | 10.00% | ~20 |
 | Find Allies | 7.00% | ~14 |
 | Adventurer | 7.00% | ~14 |
+| Geared Up | 7.00% | ~14 |
 | I Found It | 7.00% | ~14 |
 | The Collector | 7.00% | ~14 |
 | Break Out | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
-| Geared Up | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
 | A Taste of Wrath | 5.00% | ~10 |
 | Tributes of Caladrias | 5.00% | ~10 |
@@ -25,10 +25,10 @@
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | The Mentor | 2.00% | ~4 |
+| Shatterer | 2.00% | ~4 |
 | Alchemist | 2.00% | ~4 |
 | Clear Sight | 1.00% | ~2 |
 | Airborne | 1.00% | ~2 |
-| Shatterer | 1.00% | ~2 |
 | Slayer | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
 | All That Gold | 1.00% | ~2 |

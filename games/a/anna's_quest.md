@@ -6,28 +6,28 @@
 | ---- | ---------- | ----- |
 | Escape artist | 76.00% | ~62 |
 | Book Worm | 45.00% | ~37 |
-| Ooh, it's shiny! | 44.00% | ~36 |
+| Ooh, it's shiny! | 45.00% | ~37 |
 | My lost nightingale | 37.00% | ~30 |
 | Through the woods | 35.00% | ~29 |
 | Fussy eater | 35.00% | ~29 |
+| Honey, honey, honey… | 34.00% | ~28 |
 | Kekekeke... | 34.00% | ~28 |
+| A very special drink | 33.00% | ~27 |
 | Back to the anvil | 33.00% | ~27 |
-| Honey, honey, honey… | 32.00% | ~26 |
+| Game Over! | 32.00% | ~26 |
 | So soothing... | 32.00% | ~26 |
 | Roostwig has entered the building | 32.00% | ~26 |
 | Mystery solved | 30.00% | ~25 |
-| A very special drink | 30.00% | ~25 |
-| Game Over! | 29.00% | ~24 |
 | Far away from home | 29.00% | ~24 |
 | Sorry Grandpa | 29.00% | ~24 |
 | Shattered | 28.00% | ~23 |
 | GG | 28.00% | ~23 |
+| Mischief maker | 28.00% | ~23 |
 | NOW GO AWAY! | 28.00% | ~23 |
 | You've got mail! | 27.00% | ~22 |
 | Beekeeper | 27.00% | ~22 |
 | Show me your true self | 26.00% | ~21 |
 | Memories | 26.00% | ~21 |
-| Mischief maker | 26.00% | ~21 |
 | No posters allowed | 26.00% | ~21 |
 | Little genius | 26.00% | ~21 |
 | Pain in the hands | 24.00% | ~20 |

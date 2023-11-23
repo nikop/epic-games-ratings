@@ -2,9 +2,9 @@
   "ID": "0e14884122774ea28f1d33f751d241e6",
   "Name": "Jill of the Jungle: The Complete Trilogy",
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
-  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2004,
+  "EOS_Progressed": 2005,
   "EOS_Completed": 155,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.73,
   "EosHistory": [
@@ -7252,6 +7252,11 @@
       "Time": "2023-11-23T14:07:53.3237905+00:00",
       "NumProgressed": 2004,
       "NumCompleted": 155
+    },
+    {
+      "Time": "2023-11-23T16:08:26.8951376+00:00",
+      "NumProgressed": 2005,
+      "NumCompleted": 155
     }
   ],
   "TotalAchievements": 5,
@@ -7263,7 +7268,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "2",
@@ -7302,7 +7307,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 2004,
+      "Progressed": 2005,
       "Completed": 155
     }
   ],
@@ -7310,8 +7315,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:08:10.1734989+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:08:26.8951372+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:12.9827615+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:58:37.1941685+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:08:10.1735426+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:59:17.2960825+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:08:26.8951825+00:00"
 }

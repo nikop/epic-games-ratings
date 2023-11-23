@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hero Arrives | 82.00% | ~18 |
-| Eat the Rich | 50.00% | ~11 |
+| Eat the Rich | 55.00% | ~12 |
 | Death Battle | 41.00% | ~9 |
 | Phantom Kunoichi | 41.00% | ~9 |
 | Killing Machine | 41.00% | ~9 |
+| Final Showdown | 36.00% | ~8 |
 | Divine Retribution | 36.00% | ~8 |
-| Final Showdown | 32.00% | ~7 |
-| Dispel Rumors | 32.00% | ~7 |
-| The End of an Outlaw | 32.00% | ~7 |
+| Dispel Rumors | 36.00% | ~8 |
+| The End of an Outlaw | 36.00% | ~8 |
 | Captain Mustache | 32.00% | ~7 |
 | Urban Explorer | 23.00% | ~5 |
 | Steal Her Away | 23.00% | ~5 |

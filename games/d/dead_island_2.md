@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~974 |
-| Whatever It Takes | 2.00% | ~974 |
-| Pork Chopped | 2.00% | ~974 |
+| One of Us | 2.00% | ~975 |
+| Whatever It Takes | 2.00% | ~975 |
+| Pork Chopped | 2.00% | ~975 |
 | Dr. Reed, I Presume? | 1.00% | ~7,232 |
 | Git Gutte! | 1.00% | ~7,232 |
 | Anger Management | 1.00% | ~7,232 |
@@ -23,15 +23,15 @@ Rating: 4.54 (Ranked 526)
 | Personal Assistant Personally Assisted | 1.00% | ~7,232 |
 | This is My Weapon | 1.00% | ~7,232 |
 | Welcome To Hell-A | 1.00% | ~7,232 |
-| Can't Handle the Truth | 0.90% | ~6,508 |
-| Like Riding a Bike | 0.90% | ~6,508 |
-| A Patton Emerges | 0.90% | ~6,508 |
-| Perks of the Job | 0.80% | ~5,785 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,785 |
-| Slayer Squad | 0.80% | ~5,785 |
-| Zombologist | 0.80% | ~5,785 |
-| Ooh, Shiny! | 0.80% | ~5,785 |
-| Our True Nature | 0.80% | ~5,785 |
+| Can't Handle the Truth | 0.90% | ~6,509 |
+| Like Riding a Bike | 0.90% | ~6,509 |
+| A Patton Emerges | 0.90% | ~6,509 |
+| Our True Nature | 0.90% | ~6,509 |
+| Perks of the Job | 0.80% | ~5,786 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,786 |
+| Slayer Squad | 0.80% | ~5,786 |
+| Zombologist | 0.80% | ~5,786 |
+| Ooh, Shiny! | 0.80% | ~5,786 |
 | Making Your Mark | 0.70% | ~5,062 |
 | I Am the Resurrection | 0.70% | ~5,062 |
 | Max Headroom | 0.70% | ~5,062 |
@@ -46,9 +46,9 @@ Rating: 4.54 (Ranked 526)
 | Smorgasbord | 0.40% | ~2,893 |
 | Internet Famous | 0.40% | ~2,893 |
 | Variety is the Spice of Death | 0.40% | ~2,893 |
-| LA Influential | 0.30% | ~2,169 |
-| Sole Survivor | 0.30% | ~2,169 |
-| Gore Horse | 0.30% | ~2,169 |
+| LA Influential | 0.30% | ~2,170 |
+| Sole Survivor | 0.30% | ~2,170 |
+| Gore Horse | 0.30% | ~2,170 |
 | Top That, Tisha! | 0.30% | ~146 |
 | Sharpest Tool in the Box | 0.20% | ~1,446 |
 | Survival Skills | 0.20% | ~1,446 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,154 (Ranked 21)  
+Progressed: 723,189 (Ranked 21)  
 Completed: 2,427 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2,427 (0.34%) (Ranked 228)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 723,154 | 2,427 |
+| 2023-11-23 | 723,189 | 2,427 |
 ## Awards
 Max (Great Boss Battles): 7,661  (Ranked 50)  
 Sum: 11,697 (Ranked 83)  

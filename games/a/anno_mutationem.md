@@ -9,12 +9,12 @@ Rating: 4.56 (Ranked 491)
 | Don't judge a manhole by its cover | 60.00% | ~416 |
 | I just love stuff! | 43.00% | ~298 |
 | Keep 'em coming! | 43.00% | ~298 |
-| The things they print nowadays | 40.00% | ~277 |
-| Big Spender | 39.00% | ~270 |
-| That's gotta hurt | 37.00% | ~256 |
+| The things they print nowadays | 40.00% | ~278 |
+| Big Spender | 39.00% | ~271 |
+| That's gotta hurt | 37.00% | ~257 |
 | I think it's broke | 27.00% | ~187 |
 | The Ann Flores Combo Experience | 27.00% | ~187 |
-| Club Star | 25.00% | ~173 |
+| Club Star | 25.00% | ~174 |
 | Fire in the hole! | 21.00% | ~146 |
 | Omnipotence | 20.00% | ~139 |
 | The Warlord | 20.00% | ~139 |
@@ -26,9 +26,9 @@ Rating: 4.56 (Ranked 491)
 | In the smacker...I think | 10.00% | ~69 |
 | 1+1>2 | 9.00% | ~62 |
 | This can't be right… | 9.00% | ~62 |
-| I'm walking here! | 8.00% | ~55 |
-| So Fresh and So clean clean | 8.00% | ~55 |
-| Welcome home, 06 | 8.00% | ~55 |
+| I'm walking here! | 8.00% | ~56 |
+| So Fresh and So clean clean | 8.00% | ~56 |
+| Welcome home, 06 | 8.00% | ~56 |
 | Supreme Bartender Ann | 7.00% | ~49 |
 | Clarity of Mind | 6.00% | ~42 |
 | I feel secure, contained & protected | 6.00% | ~42 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 491)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693 (Ranked 280)  
+Progressed: 694 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-10 | 682 | 0 |
 | 2023-11-16 | 683 | 0 |
 | 2023-11-22 | 689 | 0 |
-| 2023-11-23 | 693 | 0 |
+| 2023-11-23 | 694 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

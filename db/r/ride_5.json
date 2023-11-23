@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2232,
+  "EOS_Progressed": 2233,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5247,6 +5247,11 @@
       "Time": "2023-11-23T14:09:06.3074057+00:00",
       "NumProgressed": 2232,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T16:10:07.2809774+00:00",
+      "NumProgressed": 2233,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5267,7 +5272,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5347,7 +5352,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5467,7 +5472,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5555,7 +5560,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5650,14 +5655,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2232,
+      "Progressed": 2233,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-23T15:09:30.2694021+00:00",
+  "LastChanged_Achievements": "2023-11-23T16:10:07.2809771+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:57:07.9297612+00:00",
-  "LastUpdate_Achievements": "2023-11-23T15:09:30.2694613+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:57:19.7388636+00:00",
+  "LastUpdate_Achievements": "2023-11-23T16:10:07.2810282+00:00"
 }

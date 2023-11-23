@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 38.00% | ~93 |
-| The Teleprobe | 31.00% | ~76 |
-| The City | 28.00% | ~69 |
-| The field base | 26.00% | ~64 |
-| Survivors | 23.00% | ~56 |
-| The Condor | 20.00% | ~49 |
-| The End | 19.00% | ~47 |
-| The Necroevolution | 16.00% | ~39 |
-| Volcanologist | 15.00% | ~37 |
+| The Camp | 37.00% | ~92 |
+| The Teleprobe | 30.00% | ~75 |
+| The City | 28.00% | ~70 |
+| The field base | 26.00% | ~65 |
+| Survivors | 23.00% | ~58 |
+| The Condor | 20.00% | ~50 |
+| The End | 19.00% | ~48 |
+| The Necroevolution | 16.00% | ~40 |
+| Volcanologist | 15.00% | ~38 |
 | On her own | 13.00% | ~32 |
-| Peacemaker | 13.00% | ~32 |
 | The Alliance | 13.00% | ~32 |
 | Krauta is alive | 13.00% | ~32 |
-| Fierce fight | 10.00% | ~24 |
-| Flying Objects Operator | 10.00% | ~24 |
-| Beyond divisions | 10.00% | ~24 |
+| Peacemaker | 12.00% | ~30 |
+| Fierce fight | 10.00% | ~25 |
+| Flying Objects Operator | 10.00% | ~25 |
+| Beyond divisions | 10.00% | ~25 |
 | I remember everything! | 9.00% | ~22 |
 | Evacuation | 9.00% | ~22 |
 | Violent solution | 6.00% | ~15 |
 | The Invincible | 5.00% | ~12 |
 | Innate curiosity | 5.00% | ~12 |
-| Ubiquitous holes | 3.00% | ~7 |
-| Another giant | 3.00% | ~7 |
-| Got lost again | 3.00% | ~7 |
-| Strong objection | 3.00% | ~7 |
+| Ubiquitous holes | 3.00% | ~8 |
+| Another giant | 3.00% | ~8 |
+| Got lost again | 3.00% | ~8 |
+| Strong objection | 3.00% | ~8 |
 | I leave no man behind | 2.00% | ~5 |
 | I leave no man behind (no exceptions) | 2.00% | ~5 |
 | Convoy list | 1.00% | ~2 |
 | No more mistakes | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 364)  
+Progressed: 250 (Ranked 363)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,4 +52,4 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 187 | 0 |
 | 2023-11-21 | 204 | 0 |
 | 2023-11-22 | 233 | 0 |
-| 2023-11-23 | 245 | 0 |
+| 2023-11-23 | 250 | 0 |
