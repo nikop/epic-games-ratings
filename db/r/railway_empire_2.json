@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -6303,9 +6303,9 @@
       "ID": "A41",
       "SetID": "9b7p7eo",
       "Name": "Right through the middle",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1296
     },
     {
       "ID": "A42",
@@ -6424,8 +6424,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:04:14.0709707+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:03:36.2096298+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:31.8115403+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:58:53.0382287+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:04:14.07103+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:58:08.9580534+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:03:36.2096838+00:00"
 }

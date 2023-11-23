@@ -1936,10 +1936,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1873,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2023-11-23T17:58:16.2133839+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1874,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1873,
+  "NumberOfAwards": 1874,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2001,7 +2007,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 195
+      "Count": 196
     },
     {
       "Text": "This game has a Creative Community",
@@ -2016,9 +2022,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15444,
+  "EOS_Progressed": 15446,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16401,6 +16407,11 @@
       "Time": "2023-11-23T16:07:34.0843486+00:00",
       "NumProgressed": 15444,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-23T18:06:18.4373855+00:00",
+      "NumProgressed": 15446,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16594,9 +16605,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 1)",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2",
@@ -16946,9 +16957,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -19147,21 +19158,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15444,
+      "Progressed": 15446,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15444,
+      "Progressed": 15446,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-11-21T15:57:15.4241342+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:08:00.5288385+00:00",
+  "LastChanged": "2023-11-23T17:58:16.2133838+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:06:18.4373851+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:59:04.1281714+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:08:00.5297408+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:58:16.2133843+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:06:18.438253+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.17,
+  "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -334,6 +334,11 @@
       "Time": "2023-11-22T19:05:59.4931955+00:00",
       "NumProgressed": 252,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-23T18:05:15.1847379+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -343,9 +348,9 @@
       "ID": "605732",
       "SetID": "4lpaifm",
       "Name": "Good Start",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 238
     },
     {
       "ID": "605742",
@@ -353,15 +358,15 @@
       "Name": "Creator of Diversity",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "605752",
       "SetID": "4lpaifm",
       "Name": "Creator of Life",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 210
     },
     {
       "ID": "605762",
@@ -369,7 +374,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "605772",
@@ -457,15 +462,15 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "605892",
       "SetID": "4lpaifm",
       "Name": "Similar to Similar",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 177
     },
     {
       "ID": "605912",
@@ -520,7 +525,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 8
     }
   ],
@@ -528,8 +533,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:06:33.0161624+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:05:15.184737+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:59.9711247+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:03:09.4525548+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:06:33.0161733+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:02:50.5813014+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:05:15.1847585+00:00"
 }

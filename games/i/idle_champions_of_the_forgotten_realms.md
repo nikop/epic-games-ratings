@@ -14,6 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold as Ice | 0.10% | ~203 |
 | Keep Your Friends Close | 0.10% | ~203 |
 | Friends and Foes | 0.10% | ~203 |
+| And Your Enemies Closer | 0.10% | ~203 |
 | Tall Tales | 0.10% | ~203 |
 | Nightmare Rats! | 0.10% | ~203 |
 | An Unexpected Geist | 0.10% | ~203 |
@@ -299,6 +300,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.10% | ~237 |
 | Troublesome Prisoner | 0.10% | ~237 |
 | Dark Doppelgangers | 0.10% | ~237 |
+| Faerûn's Most Wanted | 0.10% | ~203 |
 | Difficult Terrain | 0.10% | ~237 |
 | Cold & Wet | 0.10% | ~237 |
 | Madcap Adventures | 0.10% | ~237 |
@@ -513,6 +515,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.10% | ~203 |
 | There's a Flying Snake in my Boot! | 0.10% | ~203 |
 | Legends and Lore | 0.10% | ~203 |
+| Unearthed Arcana | 0.10% | ~203 |
 | The End | 0.10% | ~203 |
 | All's Well That Ends Well | 0.10% | ~203 |
 | The Jungles of Doomspace | 0.10% | ~203 |
@@ -527,19 +530,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~203 |
 | The End is the Beginning | 0.10% | ~203 |
 | See You on the Flipside | 0.10% | ~203 |
-| And Your Enemies Closer | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Welcome to the Band | 0.00% | ~0 |
-| Faerûn's Most Wanted | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | 3,720 to 1 | 0.00% | ~0 |
-| Unearthed Arcana | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,514 (Ranked 64)  
+Progressed: 236,537 (Ranked 64)  
 Completed: 2,470 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,470 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,514 | 2,470 |
+| 2023-11-23 | 236,537 | 2,470 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,584 (Ranked 41)  

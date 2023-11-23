@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -1790,6 +1790,11 @@
       "Time": "2023-11-23T12:04:27.9693831+00:00",
       "NumProgressed": 558,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-23T18:03:56.5079546+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1810,7 +1815,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_eou2",
@@ -1842,7 +1847,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_eou6",
@@ -1850,7 +1855,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_eou7",
@@ -1905,14 +1910,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:04:42.911584+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:03:56.5079541+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:42.3518344+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:01:03.2770452+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:04:42.9115976+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:59:36.4124807+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:03:56.5079702+00:00"
 }

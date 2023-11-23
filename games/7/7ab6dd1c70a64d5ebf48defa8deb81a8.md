@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 10.00% | ~20 |
-| Find Allies | 7.00% | ~14 |
+| Find Allies | 8.00% | ~16 |
 | Adventurer | 7.00% | ~14 |
 | Geared Up | 7.00% | ~14 |
+| Scholar | 7.00% | ~14 |
 | I Found It | 7.00% | ~14 |
 | The Collector | 7.00% | ~14 |
 | Break Out | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
 | A Taste of Wrath | 6.00% | ~12 |
-| Scholar | 6.00% | ~12 |
 | Stone Collection | 6.00% | ~12 |
 | Tributes of Caladrias | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |

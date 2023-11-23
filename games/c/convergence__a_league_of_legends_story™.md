@@ -6,7 +6,7 @@ Rating: 4.62 (Ranked 365)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 32.00% | ~297 |
-| Rail Rat | 26.00% | ~241 |
+| Rail Rat | 26.00% | ~242 |
 | The Mysterious Stranger | 25.00% | ~232 |
 | The Prince in Heels | 22.00% | ~204 |
 | Immaculate Aim | 22.00% | ~204 |
@@ -22,9 +22,9 @@ Rating: 4.62 (Ranked 365)
 | The Betrayer | 20.00% | ~186 |
 | Honest Mistake | 20.00% | ~186 |
 | Fast Learner | 20.00% | ~186 |
-| Like Clockwork | 19.00% | ~176 |
-| Golem Chaser | 19.00% | ~176 |
-| Check Your Pulse | 19.00% | ~176 |
+| Like Clockwork | 19.00% | ~177 |
+| Golem Chaser | 19.00% | ~177 |
+| Check Your Pulse | 19.00% | ~177 |
 | Right On Time | 18.00% | ~167 |
 | The Man Who Shattered Time | 18.00% | ~167 |
 | The Loose Cannon | 18.00% | ~167 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 365)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928 (Ranked 268)  
+Progressed: 929 (Ranked 268)  
 Completed: 6 (0.65%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 6 (0.65%) (Ranked 185)
 | 2023-11-15 | 920 | 6 |
 | 2023-11-21 | 923 | 6 |
 | 2023-11-22 | 925 | 6 |
-| 2023-11-23 | 928 | 6 |
+| 2023-11-23 | 929 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

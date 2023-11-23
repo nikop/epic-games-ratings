@@ -18,18 +18,18 @@
 | Mummy Nightmare | 9.00% | ~3 |
 | Dynamite, Treason and Coconuts | 9.00% | ~3 |
 | Save a Friend | 9.00% | ~3 |
+| The Eyes! | 6.00% | ~2 |
 | The Corporal's Golden Boy | 6.00% | ~2 |
+| Punctual | 6.00% | ~2 |
 | Barking Dog | 6.00% | ~2 |
-| The Eyes! | 3.00% | ~1 |
-| Punctual | 3.00% | ~1 |
-| Threat | 3.00% | ~1 |
+| Threat | 6.00% | ~2 |
+| Eyes Shut | 3.00% | ~1 |
 | Keep the Doctor Away | 0.00% | ~0 |
 | Just a Palm Tree | 0.00% | ~0 |
 | Under the Hood | 0.00% | ~0 |
 | Long Live Gaipajama! | 0.00% | ~0 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Tintin, Reporter | 0.00% | ~0 |
-| Eyes Shut | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
 | A Diagnosis | 0.00% | ~0 |
 | Trials of Kih-Oskh | 0.00% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 820,
+  "EOS_Progressed": 821,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
@@ -3148,6 +3148,11 @@
       "Time": "2023-11-23T08:05:28.2581898+00:00",
       "NumProgressed": 820,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-23T18:05:49.6070108+00:00",
+      "NumProgressed": 821,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 28,
@@ -3159,7 +3164,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "MQ01_2",
@@ -3167,7 +3172,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "MQ02_1",
@@ -3207,7 +3212,7 @@
       "Name": "Fond Memories",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "MQ03_2",
@@ -3247,7 +3252,7 @@
       "Name": "Going Once...",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "MQ04_2",
@@ -3263,7 +3268,7 @@
       "Name": "The New World",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "MQ05_1",
@@ -3285,9 +3290,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 410
+      "UsersEstimate": 402
     },
     {
       "ID": "MQ05_4",
@@ -3303,7 +3308,7 @@
       "Name": "Brain Food",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "MQ06_2",
@@ -3335,7 +3340,7 @@
       "Name": "Read It And Weep",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "MQ07_2",
@@ -3343,7 +3348,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "MQ08_1",
@@ -3367,7 +3372,7 @@
       "Name": "Fhtagn!",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "PLTN",
@@ -3382,7 +3387,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 820,
+      "Progressed": 821,
       "Completed": 27
     }
   ],
@@ -3390,8 +3395,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-23T12:02:09.0670726+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:07:21.0227978+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:05:49.6070104+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:14.4144395+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:02:29.6795762+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:07:21.0228319+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:02:44.5449069+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:05:49.6070389+00:00"
 }

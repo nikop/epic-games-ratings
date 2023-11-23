@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15323,
+  "EOS_Progressed": 15327,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12012,6 +12012,11 @@
       "Time": "2023-11-23T17:05:58.482246+00:00",
       "NumProgressed": 15323,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-23T18:04:50.9742258+00:00",
+      "NumProgressed": 15327,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12064,7 +12069,7 @@
       "Name": "Doctor Approved",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "15",
@@ -12096,7 +12101,7 @@
       "Name": "Bottoms up!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "19",
@@ -12120,7 +12125,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "21",
@@ -12152,7 +12157,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "25",
@@ -12303,22 +12308,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15323,
+      "Progressed": 15327,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1277,
-      "Completed": 686
+      "Progressed": 1281,
+      "Completed": 688
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:05:58.4822453+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:04:50.9742253+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:57:39.4442022+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:05:58.4823337+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:57:18.2370596+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:04:50.9743033+00:00"
 }

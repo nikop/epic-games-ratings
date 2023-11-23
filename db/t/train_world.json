@@ -4,7 +4,7 @@
   "ProductSlug": "train-world-07e156",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -480,17 +480,17 @@
       "ID": "two_cities_connected",
       "SetID": "5ia1dkp",
       "Name": "City Link",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "two_industries_connected",
       "SetID": "5ia1dkp",
       "Name": "Industrial Revolution",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "two_trains_line",
@@ -511,8 +511,8 @@
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:07:00.8295793+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:05:34.9161804+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.0123914+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:59:09.3315325+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:07:00.8296153+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:58:19.761667+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:05:34.9162152+00:00"
 }

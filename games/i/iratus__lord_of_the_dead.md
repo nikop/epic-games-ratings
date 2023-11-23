@@ -6,40 +6,40 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~38,750 |
-| Blood Moon | 73.00% | ~33,279 |
-| Path of the Necromancer | 66.00% | ~30,088 |
-| Chainbreaker - I | 60.00% | ~27,353 |
-| Cursed Creature | 57.00% | ~25,985 |
-| Extraction | 57.00% | ~25,985 |
-| Chainbreaker - II | 55.00% | ~25,073 |
-| Necromancer's Apprentice | 51.00% | ~23,250 |
-| Keeper of Keys | 47.00% | ~21,426 |
-| Distillation | 43.00% | ~19,603 |
-| Mountain King - I | 42.00% | ~19,147 |
-| Transmutation | 42.00% | ~19,147 |
-| Prepared Necromancer | 40.00% | ~18,235 |
-| Mountain King - II | 39.00% | ~17,779 |
-| Blind Rage | 38.00% | ~17,323 |
+| Improvement | 85.00% | ~38,752 |
+| Blood Moon | 73.00% | ~33,281 |
+| Path of the Necromancer | 66.00% | ~30,089 |
+| Chainbreaker - I | 60.00% | ~27,354 |
+| Cursed Creature | 57.00% | ~25,986 |
+| Extraction | 57.00% | ~25,986 |
+| Chainbreaker - II | 55.00% | ~25,075 |
+| Necromancer's Apprentice | 51.00% | ~23,251 |
+| Keeper of Keys | 47.00% | ~21,427 |
+| Distillation | 43.00% | ~19,604 |
+| Mountain King - I | 42.00% | ~19,148 |
+| Transmutation | 42.00% | ~19,148 |
+| Prepared Necromancer | 40.00% | ~18,236 |
+| Mountain King - II | 39.00% | ~17,780 |
+| Blind Rage | 38.00% | ~17,324 |
 | Mad Genius | 35.00% | ~15,956 |
-| Cannon Fodder - I | 34.00% | ~15,500 |
-| Soul of Lies | 34.00% | ~15,500 |
-| Bane of Mercenaries - I | 32.00% | ~14,588 |
-| Bane of Mercenaries - II | 31.00% | ~14,132 |
+| Cannon Fodder - I | 34.00% | ~15,501 |
+| Soul of Lies | 34.00% | ~15,501 |
+| Bane of Mercenaries - I | 32.00% | ~14,589 |
+| Bane of Mercenaries - II | 31.00% | ~14,133 |
 | Cannon Fodder - II | 29.00% | ~13,221 |
 | Shadow Between Worlds | 29.00% | ~13,221 |
 | Bane of Monsters | 28.00% | ~12,765 |
 | Chainbreaker - III | 28.00% | ~12,765 |
 | Revealed Secrets - I | 26.00% | ~11,853 |
-| Revealed Secrets - II | 25.00% | ~11,397 |
-| Blood Elemental | 24.00% | ~10,941 |
-| Unholy Bones | 23.00% | ~10,485 |
-| Lord of Fire | 23.00% | ~10,485 |
-| Uncommon Warrior | 23.00% | ~10,485 |
-| Cannon Fodder - III | 22.00% | ~10,029 |
-| Spiritual Attraction | 22.00% | ~10,029 |
-| Nightmare of the Humanity - I | 22.00% | ~10,029 |
-| Nightmare of the Humanity - II | 21.00% | ~9,573 |
+| Revealed Secrets - II | 25.00% | ~11,398 |
+| Blood Elemental | 24.00% | ~10,942 |
+| Unholy Bones | 23.00% | ~10,486 |
+| Lord of Fire | 23.00% | ~10,486 |
+| Uncommon Warrior | 23.00% | ~10,486 |
+| Cannon Fodder - III | 22.00% | ~10,030 |
+| Spiritual Attraction | 22.00% | ~10,030 |
+| Nightmare of the Humanity - I | 22.00% | ~10,030 |
+| Nightmare of the Humanity - II | 21.00% | ~9,574 |
 | That Was Easy! | 20.00% | ~9,118 |
 | Silent Waters | 20.00% | ~9,118 |
 | Head of Order | 20.00% | ~9,118 |
@@ -49,10 +49,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | Rage Concentrated | 16.00% | ~7,294 |
 | Mountain King - III | 15.00% | ~6,838 |
 | Rare Warrior | 15.00% | ~6,838 |
-| Grand Arena | 14.00% | ~6,382 |
-| Blood Madness | 13.00% | ~5,926 |
-| First Sacrifice | 13.00% | ~5,926 |
-| Master of Alchemy | 13.00% | ~5,926 |
+| Grand Arena | 14.00% | ~6,383 |
+| Blood Madness | 13.00% | ~5,927 |
+| First Sacrifice | 13.00% | ~5,927 |
+| Master of Alchemy | 13.00% | ~5,927 |
 | Legendary Warrior | 12.00% | ~5,471 |
 | Bane of Mercenaries - III | 10.00% | ~4,559 |
 | Monument to Greatness | 10.00% | ~4,559 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~228 |
 | Renowned Researcher | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,588 (Ranked 114)  
+Progressed: 45,590 (Ranked 114)  
 Completed: 24 (0.05%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 24 (0.05%) (Ranked 306)
 | 2023-11-20 | 45,423 | 24 |
 | 2023-11-21 | 45,491 | 24 |
 | 2023-11-22 | 45,550 | 24 |
-| 2023-11-23 | 45,588 | 24 |
+| 2023-11-23 | 45,590 | 24 |
 ## Awards
 Max (Character Customization): 2,161  (Ranked 109)  
 Sum: 4,198 (Ranked 152)  

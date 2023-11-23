@@ -5,38 +5,38 @@ Rating: 4.55 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,673 |
+| Complete Guard Faction | 82.00% | ~1,674 |
 | Become King | 74.00% | ~1,510 |
-| Ranged Weapon | 63.00% | ~1,285 |
-| Defeat 25 Frogs | 63.00% | ~1,285 |
+| Defeat 25 Frogs | 63.00% | ~1,286 |
+| Ranged Weapon | 62.00% | ~1,265 |
 | Collect Monster Parts | 59.00% | ~1,204 |
 | Two Handed Weapon | 57.00% | ~1,163 |
 | Defeat 25 Grubs | 54.00% | ~1,102 |
-| Rescue Redgi's Brothers | 53.00% | ~1,081 |
-| Collect Iron Ore | 48.00% | ~979 |
-| Defeat 25 Mozis | 48.00% | ~979 |
-| Kitchen Ready To Cook | 48.00% | ~979 |
-| Collect Gold | 47.00% | ~959 |
-| Smithy Ready to Craft | 46.00% | ~938 |
+| Rescue Redgi's Brothers | 53.00% | ~1,082 |
+| Collect Iron Ore | 48.00% | ~980 |
+| Defeat 25 Mozis | 48.00% | ~980 |
+| Kitchen Ready To Cook | 48.00% | ~980 |
+| Collect Gold | 46.00% | ~939 |
+| Smithy Ready to Craft | 46.00% | ~939 |
 | Fix the Travellers Wagon | 45.00% | ~918 |
 | Complete Elder Faction | 42.00% | ~857 |
 | End of the Mozis | 39.00% | ~796 |
 | Throne Room Fit For A King | 39.00% | ~796 |
 | Meet the Creatures from the Deep | 37.00% | ~755 |
 | Return Power To The Depths | 37.00% | ~755 |
-| Defeat Ratnor Rodentson | 31.00% | ~632 |
-| Return the Statues | 28.00% | ~571 |
+| Defeat Ratnor Rodentson | 31.00% | ~633 |
+| Return the Statues | 27.00% | ~551 |
 | Defeat Rattus Augustail | 27.00% | ~551 |
 | Complete the Chefs Book | 25.00% | ~510 |
-| Complete Ranger Faction | 21.00% | ~428 |
-| Defeat Avor Warden of the Northern Wastes | 21.00% | ~428 |
+| Complete Ranger Faction | 21.00% | ~429 |
+| Defeat Avor Warden of the Northern Wastes | 21.00% | ~429 |
 | Discover the mystery of the Kings Chambers | 20.00% | ~408 |
-| Complete Arena Faction | 16.00% | ~326 |
+| Complete Arena Faction | 16.00% | ~327 |
 | Complete Redgi's Armory | 8.00% | ~163 |
 | King of Kings | 8.00% | ~163 |
 | A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,040 (Ranked 223)  
+Progressed: 2,041 (Ranked 223)  
 Completed: 9 (0.44%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 9 (0.44%) (Ranked 210)
 | 2023-11-20 | 2,002 | 9 |
 | 2023-11-21 | 2,011 | 9 |
 | 2023-11-22 | 2,030 | 9 |
-| 2023-11-23 | 2,040 | 9 |
+| 2023-11-23 | 2,041 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

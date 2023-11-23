@@ -5,17 +5,17 @@ Rating: 4.29 (Ranked 842)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~162,702 |
-| Copacetic Coordination | 16.00% | ~56,592 |
-| Fronting the Money | 15.00% | ~53,055 |
-| The Dawn of Automation | 14.00% | ~49,518 |
-| Extraordinary Logistics | 14.00% | ~49,518 |
-| Dirty Money | 13.00% | ~45,981 |
-| Family First | 13.00% | ~45,981 |
-| Cleaning House | 12.00% | ~42,444 |
-| Room in the Back | 12.00% | ~42,444 |
-| Beating the Heat | 11.00% | ~38,907 |
-| Booze Baron | 11.00% | ~38,907 |
+| Corner Clout | 47.00% | ~166,241 |
+| Copacetic Coordination | 16.00% | ~56,593 |
+| Fronting the Money | 15.00% | ~53,056 |
+| The Dawn of Automation | 14.00% | ~49,519 |
+| Extraordinary Logistics | 14.00% | ~49,519 |
+| Dirty Money | 13.00% | ~45,982 |
+| Family First | 13.00% | ~45,982 |
+| Cleaning House | 12.00% | ~42,445 |
+| Room in the Back | 12.00% | ~42,445 |
+| Beating the Heat | 11.00% | ~38,908 |
+| Booze Baron | 11.00% | ~38,908 |
 | Friends on the Force | 10.00% | ~35,370 |
 | Neighborhood Watch | 10.00% | ~35,370 |
 | Core Corps | 8.00% | ~28,296 |
@@ -64,9 +64,9 @@ Rating: 4.29 (Ranked 842)
 | Crossing Over | 0.90% | ~3,183 |
 | Boots in the Ground | 0.80% | ~2,830 |
 | Getting Fancy | 0.80% | ~2,830 |
-| Still Dreaming | 0.50% | ~1,768 |
-| Working on the Railroad | 0.50% | ~1,768 |
-| Social Butterfly | 0.50% | ~1,768 |
+| Still Dreaming | 0.50% | ~1,769 |
+| Working on the Railroad | 0.50% | ~1,769 |
+| Social Butterfly | 0.50% | ~1,769 |
 | Homemade Hooch | 0.40% | ~1,415 |
 | High End Booze | 0.40% | ~1,415 |
 | In-House Maintenance | 0.40% | ~1,415 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 842)
 | High Pillow | 0.10% | ~354 |
 | Station Master | 0.10% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353,699 (Ranked 48)  
+Progressed: 353,705 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 7 (0.00%) (Ranked 358)
 | 2023-11-20 | 353,346 | 7 |
 | 2023-11-21 | 353,478 | 7 |
 | 2023-11-22 | 353,592 | 7 |
-| 2023-11-23 | 353,699 | 7 |
+| 2023-11-23 | 353,705 | 7 |
 ## Awards
 Max (Great for Beginners): 48  (Ranked 439)  
 Sum: 194 (Ranked 402)  

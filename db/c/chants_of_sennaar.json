@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 672,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.22,
+  "EOS_Completed_Percentage": 5.21,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2815,6 +2815,11 @@
       "Time": "2023-11-23T17:08:20.4722716+00:00",
       "NumProgressed": 671,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-23T18:06:32.1545132+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2824,9 +2829,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 128
     },
     {
       "ID": "END_GOOD",
@@ -2866,7 +2871,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2890,7 +2895,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2946,7 +2951,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2970,7 +2975,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3002,7 +3007,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "PROGRESS_N4",
@@ -3016,23 +3021,23 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 134
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 672,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:08:20.4722709+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:06:32.1545126+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:59:51.1484103+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:08:20.4723067+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:58:47.7674951+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:06:32.1545398+00:00"
 }

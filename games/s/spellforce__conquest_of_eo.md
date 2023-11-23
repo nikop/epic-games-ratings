@@ -23,12 +23,12 @@
 | Friend of Sevenkeeps | 38.00% | ~10 |
 | Slave to the rhythm | 31.00% | ~8 |
 | Sevenkeeps Seat of Kings | 31.00% | ~8 |
+| Bad JuJu | 27.00% | ~7 |
 | Castle Meldec | 23.00% | ~6 |
 | Friend of Alluvyan | 23.00% | ~6 |
 | Friend of Gillyshire | 23.00% | ~6 |
 | Friend of Bastion | 23.00% | ~6 |
 | Break Free | 23.00% | ~6 |
-| Bad JuJu | 23.00% | ~6 |
 | Philo's Tale | 19.00% | ~5 |
 | Stormwatch Faste | 19.00% | ~5 |
 | Friend of Orgash | 19.00% | ~5 |

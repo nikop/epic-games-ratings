@@ -613,9 +613,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:06:54.9166132+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:05:30.7959192+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:58:30.4692426+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:06:54.9167053+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:57:53.7399325+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:05:30.7959885+00:00"
 }

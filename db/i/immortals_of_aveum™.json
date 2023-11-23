@@ -153,7 +153,7 @@
   "Tags": [],
   "EOS_Progressed": 297,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1697,9 +1697,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_60",
@@ -1786,8 +1786,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-21T13:11:41.3417786+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:09:26.3583481+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:08:38.9750765+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:03:06.3142086+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:09:26.3583804+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:02:48.4486614+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:08:38.9751132+00:00"
 }

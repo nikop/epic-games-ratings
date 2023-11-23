@@ -7,8 +7,8 @@
 | So it begins | 91.00% | ~103 |
 | Good to grow | 64.00% | ~72 |
 | Fashionista | 40.00% | ~45 |
-| Irrigation not irritation | 36.00% | ~41 |
-| Graduated | 33.00% | ~37 |
+| Irrigation not irritation | 37.00% | ~42 |
+| Graduated | 34.00% | ~38 |
 | Night Shift | 23.00% | ~26 |
 | Shine bright | 17.00% | ~19 |
 | Ay ay yarrr! | 17.00% | ~19 |
@@ -16,8 +16,8 @@
 | It's about the journey | 12.00% | ~14 |
 | There be sand in me shorts | 12.00% | ~14 |
 | Peaceful skies | 8.00% | ~9 |
+| Holy Crops! | 8.00% | ~9 |
 | Make it rain | 7.00% | ~8 |
-| Holy Crops! | 7.00% | ~8 |
 | Do you wanna build a snowboiii? | 7.00% | ~8 |
 | It gets everywhere | 7.00% | ~8 |
 | Who let the pets out? | 4.00% | ~5 |

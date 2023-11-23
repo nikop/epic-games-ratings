@@ -40,11 +40,11 @@ Rating: 4.87 (Ranked 24)
 | Check out my moves! | 3.00% | ~129 |
 | I think I deserve some praise, here! | 2.00% | ~86 |
 | I think I found your calling, Macaron | 2.00% | ~86 |
+| This is a breeze! | 2.00% | ~86 |
 | We're Jammin' | 2.00% | ~86 |
 | I hit things with a guitar really well. | 2.00% | ~86 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~86 |
 | Call me Turbo Chai | 2.00% | ~56 |
-| This is a breeze! | 1.00% | ~43 |
 | I'm not done with you yet | 1.00% | ~43 |
 | First we parry, then we counter | 1.00% | ~43 |
 | You ever parry a volcano? | 1.00% | ~43 |

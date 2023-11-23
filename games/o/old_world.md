@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 2.00% | ~309 |
 | Great | 2.00% | ~309 |
 | Intercessor | 2.00% | ~309 |
+| Lion | 2.00% | ~309 |
 | Mighty | 2.00% | ~309 |
 | Valiant | 2.00% | ~309 |
 | Victorious | 2.00% | ~309 |
@@ -83,7 +84,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 1.00% | ~154 |
 | Capable | 1.00% | ~154 |
 | Invincible | 1.00% | ~154 |
-| Lion | 1.00% | ~154 |
 | Ready | 1.00% | ~154 |
 | Subjugator | 1.00% | ~154 |
 | Strong Difficulty | 1.00% | ~154 |
@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.50% | ~77 |
 | Greater Kmt Unified | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~62 |
+| Silver Victory (Carthage 1) | 0.40% | ~62 |
 | Ancient | 0.40% | ~62 |
 | Magnificent Difficulty | 0.40% | ~62 |
 | The Eternal Treaty | 0.40% | ~62 |
@@ -170,7 +171,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
-| Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
 | Cleopatra's Love | 0.30% | ~46 |
 | Holy | 0.30% | ~46 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,444 (Ranked 151)  
+Progressed: 15,446 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -566,10 +566,10 @@ Completed: 5 (0.03%) (Ranked 320)
 | 2023-11-20 | 15,405 | 5 |
 | 2023-11-21 | 15,417 | 5 |
 | 2023-11-22 | 15,428 | 5 |
-| 2023-11-23 | 15,444 | 5 |
+| 2023-11-23 | 15,446 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
-Sum: 1,873 (Ranked 218)  
+Sum: 1,874 (Ranked 218)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -579,7 +579,7 @@ Diff (max vs sum): 56
 | This game is Extremely Fun | 214 |
 | This game is Educational | 212 |
 | This game has Challenging Combat | 202 |
-| This game has Amazing Characters | 195 |
+| This game has Amazing Characters | 196 |
 | This game has Quickly Understood Controls | 194 |
 | This game has Amazing Storytelling | 192 |
 | This game has Obsessive Gameplay | 155 |
@@ -750,3 +750,4 @@ Diff (max vs sum): 56
 | 2023-11-07 | 4.65 | - | 226 | 1,869 |
 | 2023-11-09 | 4.65 | - | 226 | 1,872 |
 | 2023-11-21 | 4.65 | - | 227 | 1,873 |
+| 2023-11-23 | 4.65 | - | 227 | 1,874 |

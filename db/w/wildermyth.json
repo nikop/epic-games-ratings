@@ -6,8 +6,8 @@
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -166,11 +166,11 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1481,
+  "EOS_Progressed": 1482,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.41,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.2726912+00:00",
@@ -1896,6 +1896,11 @@
       "Time": "2023-11-23T05:09:40.4289869+00:00",
       "NumProgressed": 1481,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-23T18:09:22.4362476+00:00",
+      "NumProgressed": 1482,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -2065,9 +2070,9 @@
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -2354,15 +2359,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1481,
+      "Progressed": 1482,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:10:27.1982247+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:09:22.4362471+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:35.6437946+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:00:11.4860677+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:10:27.1982811+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:59:01.5114915+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:09:22.4362958+00:00"
 }

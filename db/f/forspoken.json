@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42927,
+  "EOS_Progressed": 42931,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13202,6 +13202,11 @@
       "Time": "2023-11-23T17:03:45.8710846+00:00",
       "NumProgressed": 42927,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-23T18:03:15.6663241+00:00",
+      "NumProgressed": 42931,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -13373,7 +13378,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -13429,7 +13434,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -13477,7 +13482,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "MAGIC_TANTA",
@@ -13541,7 +13546,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -13549,7 +13554,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3863
+      "UsersEstimate": 3864
     },
     {
       "ID": "SPRING_ALL",
@@ -13636,22 +13641,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42927,
+      "Progressed": 42931,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7764,
-      "Completed": 7764
+      "Progressed": 7768,
+      "Completed": 7768
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-23T17:03:45.8710843+00:00",
+  "LastChanged_Achievements": "2023-11-23T18:03:15.6663236+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:28.9444808+00:00",
-  "LastUpdate_Ratings": "2023-11-23T16:58:06.5740864+00:00",
-  "LastUpdate_Achievements": "2023-11-23T17:03:45.8711836+00:00"
+  "LastUpdate_Ratings": "2023-11-23T17:57:36.678376+00:00",
+  "LastUpdate_Achievements": "2023-11-23T18:03:15.6664156+00:00"
 }
