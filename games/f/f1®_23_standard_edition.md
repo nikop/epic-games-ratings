@@ -27,7 +27,7 @@ Rating: 4.67 (Ranked 275)
 | Gathering Dust | 16.00% | ~940 |
 | One for the Book | 16.00% | ~940 |
 | Proving Them Wrong | 16.00% | ~940 |
-| Oil and Water | 14.00% | ~823 |
+| Oil and Water | 15.00% | ~881 |
 | Hitting a Bullseye | 14.00% | ~823 |
 | Eagle Eye | 13.00% | ~764 |
 | Lightning Round the World | 13.00% | ~764 |
@@ -128,9 +128,9 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-22 | 5,863 | 0 |
 | 2023-11-23 | 5,876 | 0 |
 ## Awards
-Max (Highly Recommended): 24  (Ranked 524)  
+Max (Highly Recommended): 24  (Ranked 525)  
 Sum: 87 (Ranked 456)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

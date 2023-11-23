@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~9,442 |
-| Overkill | 34.00% | ~7,643 |
-| Vaccine Incoming | 33.00% | ~7,418 |
-| A normal day in Gloomhaven | 32.00% | ~7,194 |
-| Spread the plague | 29.00% | ~6,519 |
-| Get over here! | 25.00% | ~5,620 |
-| Just when I thought I was out... | 19.00% | ~4,271 |
+| I'm not dead yet | 42.00% | ~9,443 |
+| Overkill | 34.00% | ~7,644 |
+| Vaccine Incoming | 33.00% | ~7,419 |
+| A normal day in Gloomhaven | 32.00% | ~7,195 |
+| Spread the plague | 29.00% | ~6,520 |
+| Get over here! | 25.00% | ~5,621 |
+| Just when I thought I was out... | 19.00% | ~4,272 |
 | Precious! | 17.00% | ~3,822 |
 | Mine... All Mine... | 17.00% | ~3,822 |
 | Grizzled veteran | 15.00% | ~3,372 |
 | Anatomy Lesson | 15.00% | ~3,372 |
-| Light of my life | 14.00% | ~3,147 |
-| You activated my trap card! | 13.00% | ~2,922 |
-| Obstacle race | 13.00% | ~2,922 |
+| Light of my life | 14.00% | ~3,148 |
+| You activated my trap card! | 13.00% | ~2,923 |
+| Obstacle race | 13.00% | ~2,923 |
 | Augmented rat | 11.00% | ~2,473 |
 | Doom and gloom | 11.00% | ~2,473 |
 | Who's the Boss? | 10.00% | ~2,248 |
 | Dungeon Veteran | 9.00% | ~2,023 |
-| Pack leader | 8.00% | ~1,798 |
-| Pain is your friend | 8.00% | ~1,798 |
-| Black death | 8.00% | ~1,798 |
-| Play it again, Sam | 8.00% | ~1,798 |
+| Pack leader | 8.00% | ~1,799 |
+| Pain is your friend | 8.00% | ~1,799 |
+| Black death | 8.00% | ~1,799 |
+| Play it again, Sam | 8.00% | ~1,799 |
 | Quad damage | 6.00% | ~1,349 |
 | Power Up! | 5.00% | ~1,124 |
 | Caught off guard | 5.00% | ~1,124 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~22 |
 | Murder Death Kill | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,480 (Ranked 133)  
+Progressed: 22,483 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,22 +139,22 @@ Completed: 1 (0.00%) (Ranked 359)
 | 2023-11-20 | 21,997 | 1 |
 | 2023-11-21 | 22,175 | 1 |
 | 2023-11-22 | 22,333 | 1 |
-| 2023-11-23 | 22,480 | 1 |
+| 2023-11-23 | 22,483 | 1 |
 ## Awards
 Max (Character Customization): 3,583  (Ranked 90)  
-Sum: 8,376 (Ranked 100)  
+Sum: 8,379 (Ranked 100)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,583 |
 | This game has Diverse Characters | 598 |
-| This game has Challenging Combat | 552 |
-| This game is Highly Recommended | 545 |
+| This game has Challenging Combat | 553 |
+| This game is Highly Recommended | 546 |
 | This game is Extremely Fun | 543 |
 | This game has Amazing Characters | 491 |
 | This game is Relaxing | 490 |
+| This game has Amazing Storytelling | 489 |
 | This game has Quickly Understood Controls | 488 |
-| This game has Amazing Storytelling | 488 |
 | This game has Unique Visuals | 382 |
 | This game has a Creative Community | 216 |
 | This game has Obsessive Gameplay | 152 |
@@ -385,4 +385,4 @@ Diff (max vs sum): -10
 | 2023-11-20 | 4.47 | - | 3,581 | 8,371 |
 | 2023-11-21 | 4.47 | - | 3,581 | 8,372 |
 | 2023-11-22 | 4.47 | - | 3,583 | 8,375 |
-| 2023-11-23 | 4.47 | - | 3,583 | 8,376 |
+| 2023-11-23 | 4.47 | - | 3,583 | 8,379 |

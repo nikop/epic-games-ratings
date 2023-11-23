@@ -13,7 +13,7 @@ Number of Ratings: 292  (23.09.2022)
 | Dressed For Success | 7.00% | ~14 |
 | Sorcerous Spree | 5.00% | ~10 |
 | Humiliation | 5.00% | ~10 |
-| Veni, Vidi, Vici | 4.00% | ~8 |
+| Veni, Vidi, Vici | 5.00% | ~10 |
 | Whoops! | 3.00% | ~6 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~6 |
 | This Spot's Taken | 2.00% | ~4 |

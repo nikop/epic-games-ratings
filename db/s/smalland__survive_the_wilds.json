@@ -2,12 +2,12 @@
   "ID": "390584f0f63a4e69978eafa4d4fce9e7",
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
-  "Ranking_Rating": 415,
+  "Ranking_Rating": 383,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:29.8298129+00:00",
@@ -327,15 +327,21 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-23T21:59:09.9566134+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20767,
+  "EOS_Progressed": 20769,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8658,6 +8664,11 @@
       "Time": "2023-11-23T20:09:12.6690685+00:00",
       "NumProgressed": 20767,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-23T22:08:38.678229+00:00",
+      "NumProgressed": 20769,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -8772,16 +8783,16 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 20767,
+      "Progressed": 20769,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-03-29T21:57:34.1236869+00:00",
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
-  "LastChanged": "2023-11-20T21:57:30.5764424+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:09:40.406195+00:00",
+  "LastChanged": "2023-11-23T21:59:09.9566132+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:08:38.6782281+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:04.3971462+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:00:11.180927+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:09:40.4062408+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:59:09.9566137+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:08:38.6782741+00:00"
 }

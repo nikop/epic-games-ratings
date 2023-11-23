@@ -5,27 +5,27 @@ Rating: 3.82 (Ranked 1,030)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~409,947 |
-| Handy | 41.00% | ~221,156 |
-| Cold Caller | 39.00% | ~210,368 |
-| A Bit On The Side | 27.00% | ~145,639 |
-| Backdoor | 25.00% | ~134,851 |
-| Rank Amateur | 22.00% | ~118,669 |
-| Three Way | 19.00% | ~102,487 |
-| Deadly Assassin | 16.00% | ~86,305 |
+| Pro Creation | 76.00% | ~409,952 |
+| Handy | 41.00% | ~221,158 |
+| Cold Caller | 39.00% | ~210,370 |
+| A Bit On The Side | 27.00% | ~145,641 |
+| Backdoor | 25.00% | ~134,852 |
+| Rank Amateur | 22.00% | ~118,670 |
+| Three Way | 19.00% | ~102,488 |
+| Deadly Assassin | 16.00% | ~86,306 |
 | Gutshot | 14.00% | ~75,517 |
 | Risk It For A Biscuit | 14.00% | ~75,517 |
 | Showoff | 13.00% | ~70,123 |
-| W.H.I.P. | 12.00% | ~64,728 |
-| Bet Bet Bet | 10.00% | ~53,940 |
-| Blindman's Bluff | 9.00% | ~48,546 |
-| Poker Joker | 9.00% | ~48,546 |
-| Never Give Up | 8.00% | ~43,152 |
-| The Bigger They Are | 8.00% | ~43,152 |
-| Total Knock Out | 8.00% | ~43,152 |
-| Dog Eat Dog | 7.00% | ~37,758 |
-| Quack Quack | 7.00% | ~37,758 |
-| Give Your Regards To Broadway | 6.00% | ~32,364 |
+| W.H.I.P. | 12.00% | ~64,729 |
+| Bet Bet Bet | 10.00% | ~53,941 |
+| Blindman's Bluff | 9.00% | ~48,547 |
+| Poker Joker | 9.00% | ~48,547 |
+| Never Give Up | 8.00% | ~43,153 |
+| The Bigger They Are | 8.00% | ~43,153 |
+| Total Knock Out | 8.00% | ~43,153 |
+| Dog Eat Dog | 7.00% | ~37,759 |
+| Quack Quack | 7.00% | ~37,759 |
+| Give Your Regards To Broadway | 6.00% | ~32,365 |
 | Check Yourself | 4.00% | ~21,576 |
 | Moneymaker | 4.00% | ~21,576 |
 | In The Gang | 3.00% | ~16,182 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,030)
 | Rounder | 0.10% | ~539 |
 | Top Dog | 0.10% | ~539 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,404 (Ranked 33)  
+Progressed: 539,410 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,18 +267,18 @@ Completed: 2 (0.00%) (Ranked 359)
 | 2023-11-20 | 538,890 | 2 |
 | 2023-11-21 | 539,072 | 2 |
 | 2023-11-22 | 539,254 | 2 |
-| 2023-11-23 | 539,404 | 2 |
+| 2023-11-23 | 539,410 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 415)  
-Sum: 177 (Ranked 410)  
+Sum: 178 (Ranked 410)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 59 |
 | This game is Highly Recommended | 35 |
 | This game has Competitive Players | 28 |
+| This game has a Competitive Community | 28 |
 | This game has Quickly Understood Controls | 28 |
-| This game has a Competitive Community | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -391,3 +391,4 @@ Diff (max vs sum): 5
 | 2023-11-19 | 3.83 | 59 | 176 |
 | 2023-11-21 | 3.82 | 59 | 176 |
 | 2023-11-22 | 3.82 | 59 | 177 |
+| 2023-11-23 | 3.82 | 59 | 178 |

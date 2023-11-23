@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,333 |
+| Lawbringer | 40.00% | ~26,334 |
 | Landlord | 33.00% | ~21,725 |
 | Bannerlord | 24.00% | ~15,800 |
 | Horde breaker | 24.00% | ~15,800 |
@@ -36,13 +36,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | Real Estate | 3.00% | ~1,975 |
 | Entrepreneur | 1.00% | ~658 |
 | Supreme Emperor | 1.00% | ~658 |
-| Crackshot | 0.90% | ~592 |
-| Undercover | 0.90% | ~592 |
+| Crackshot | 0.90% | ~593 |
+| Undercover | 0.90% | ~593 |
 | Fat Cat | 0.70% | ~461 |
 | Catch | 0.60% | ~395 |
 | Slice 'n dice | 0.50% | ~329 |
 | Ride it like you stole it | 0.40% | ~263 |
-| Mounted Archery | 0.30% | ~197 |
+| Mounted Archery | 0.30% | ~198 |
 | Explorer | 0.20% | ~132 |
 | Great Granny | 0.20% | ~132 |
 | Strike! | 0.20% | ~132 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,832 (Ranked 104)  
+Progressed: 65,834 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-20 | 65,522 | 0 |
 | 2023-11-21 | 65,597 | 0 |
 | 2023-11-22 | 65,712 | 0 |
-| 2023-11-23 | 65,832 | 0 |
+| 2023-11-23 | 65,834 | 0 |
 ## Awards
 Max (Character Customization): 7,420  (Ranked 53)  
 Sum: 15,405 (Ranked 68)  

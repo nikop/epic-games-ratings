@@ -6,45 +6,45 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~38,757 |
-| Blood Moon | 73.00% | ~33,286 |
-| Path of the Necromancer | 66.00% | ~30,094 |
-| Chainbreaker - I | 60.00% | ~27,358 |
-| Cursed Creature | 57.00% | ~25,990 |
-| Extraction | 57.00% | ~25,990 |
-| Chainbreaker - II | 55.00% | ~25,078 |
-| Necromancer's Apprentice | 51.00% | ~23,254 |
-| Keeper of Keys | 47.00% | ~21,431 |
-| Distillation | 43.00% | ~19,607 |
-| Mountain King - I | 42.00% | ~19,151 |
-| Transmutation | 42.00% | ~19,151 |
-| Prepared Necromancer | 40.00% | ~18,239 |
-| Mountain King - II | 39.00% | ~17,783 |
-| Blind Rage | 38.00% | ~17,327 |
-| Mad Genius | 35.00% | ~15,959 |
-| Cannon Fodder - I | 34.00% | ~15,503 |
-| Soul of Lies | 34.00% | ~15,503 |
-| Bane of Mercenaries - I | 32.00% | ~14,591 |
-| Bane of Mercenaries - II | 31.00% | ~14,135 |
-| Cannon Fodder - II | 29.00% | ~13,223 |
-| Shadow Between Worlds | 29.00% | ~13,223 |
-| Bane of Monsters | 28.00% | ~12,767 |
-| Chainbreaker - III | 28.00% | ~12,767 |
-| Revealed Secrets - I | 26.00% | ~11,855 |
-| Revealed Secrets - II | 25.00% | ~11,399 |
-| Blood Elemental | 24.00% | ~10,943 |
-| Unholy Bones | 23.00% | ~10,487 |
-| Lord of Fire | 23.00% | ~10,487 |
-| Uncommon Warrior | 23.00% | ~10,487 |
-| Cannon Fodder - III | 22.00% | ~10,031 |
-| Spiritual Attraction | 22.00% | ~10,031 |
-| Nightmare of the Humanity - I | 22.00% | ~10,031 |
-| Nightmare of the Humanity - II | 21.00% | ~9,575 |
-| That Was Easy! | 20.00% | ~9,119 |
-| Silent Waters | 20.00% | ~9,119 |
-| Head of Order | 20.00% | ~9,119 |
-| Calcination | 19.00% | ~8,663 |
-| Blood Mage | 17.00% | ~7,751 |
+| Improvement | 85.00% | ~38,760 |
+| Blood Moon | 73.00% | ~33,288 |
+| Path of the Necromancer | 66.00% | ~30,096 |
+| Chainbreaker - I | 60.00% | ~27,360 |
+| Cursed Creature | 57.00% | ~25,992 |
+| Extraction | 57.00% | ~25,992 |
+| Chainbreaker - II | 55.00% | ~25,080 |
+| Necromancer's Apprentice | 51.00% | ~23,256 |
+| Keeper of Keys | 47.00% | ~21,432 |
+| Distillation | 43.00% | ~19,608 |
+| Mountain King - I | 42.00% | ~19,152 |
+| Transmutation | 42.00% | ~19,152 |
+| Prepared Necromancer | 40.00% | ~18,240 |
+| Mountain King - II | 39.00% | ~17,784 |
+| Blind Rage | 38.00% | ~17,328 |
+| Mad Genius | 35.00% | ~15,960 |
+| Cannon Fodder - I | 34.00% | ~15,504 |
+| Soul of Lies | 34.00% | ~15,504 |
+| Bane of Mercenaries - I | 32.00% | ~14,592 |
+| Bane of Mercenaries - II | 31.00% | ~14,136 |
+| Cannon Fodder - II | 29.00% | ~13,224 |
+| Shadow Between Worlds | 29.00% | ~13,224 |
+| Bane of Monsters | 28.00% | ~12,768 |
+| Chainbreaker - III | 28.00% | ~12,768 |
+| Revealed Secrets - I | 26.00% | ~11,856 |
+| Revealed Secrets - II | 25.00% | ~11,400 |
+| Blood Elemental | 24.00% | ~10,944 |
+| Unholy Bones | 23.00% | ~10,488 |
+| Lord of Fire | 23.00% | ~10,488 |
+| Uncommon Warrior | 23.00% | ~10,488 |
+| Cannon Fodder - III | 22.00% | ~10,032 |
+| Spiritual Attraction | 22.00% | ~10,032 |
+| Nightmare of the Humanity - I | 22.00% | ~10,032 |
+| Nightmare of the Humanity - II | 21.00% | ~9,576 |
+| That Was Easy! | 20.00% | ~9,120 |
+| Silent Waters | 20.00% | ~9,120 |
+| Head of Order | 20.00% | ~9,120 |
+| Calcination | 19.00% | ~8,664 |
+| Blood Mage | 17.00% | ~7,752 |
 | Wild Hunger | 16.00% | ~7,296 |
 | Rage Concentrated | 16.00% | ~7,296 |
 | Mountain King - III | 15.00% | ~6,840 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~228 |
 | Renowned Researcher | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,597 (Ranked 114)  
+Progressed: 45,600 (Ranked 114)  
 Completed: 24 (0.05%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 24 (0.05%) (Ranked 307)
 | 2023-11-20 | 45,423 | 24 |
 | 2023-11-21 | 45,491 | 24 |
 | 2023-11-22 | 45,550 | 24 |
-| 2023-11-23 | 45,597 | 24 |
+| 2023-11-23 | 45,600 | 24 |
 ## Awards
 Max (Character Customization): 2,161  (Ranked 109)  
 Sum: 4,198 (Ranked 152)  

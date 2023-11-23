@@ -4,11 +4,11 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 939,
   "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1057,10 +1057,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 385,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-11-23T21:58:31.4947351+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 386,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 385,
+  "NumberOfAwards": 386,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1122,12 +1128,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 51
+      "Count": 52
     }
   ],
-  "EOS_Progressed": 67345,
+  "EOS_Progressed": 67346,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10215,6 +10221,11 @@
       "Time": "2023-11-23T21:07:32.2123179+00:00",
       "NumProgressed": 67345,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-23T22:05:48.9756903+00:00",
+      "NumProgressed": 67346,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10307,7 +10318,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6734
+      "UsersEstimate": 6735
     },
     {
       "ID": "5",
@@ -10354,16 +10365,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67345,
+      "Progressed": 67346,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-11-22T02:23:02.1663342+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:07:32.2123177+00:00",
+  "LastChanged": "2023-11-23T21:58:31.4947349+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:05:48.9756899+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.4775016+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:59:12.0991854+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:07:32.2123594+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:58:31.4947353+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:05:48.9757472+00:00"
 }

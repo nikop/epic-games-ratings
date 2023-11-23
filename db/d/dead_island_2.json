@@ -2,12 +2,12 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 526,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6825,9 +6825,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 723382,
+  "EOS_Progressed": 723417,
   "EOS_Completed": 2428,
-  "EOS_NewPlayers": 4033,
+  "EOS_NewPlayers": 4048,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31695,6 +31695,11 @@
       "Time": "2023-11-23T21:05:57.8790137+00:00",
       "NumProgressed": 723382,
       "NumCompleted": 2428
+    },
+    {
+      "Time": "2023-11-23T22:04:42.4389207+00:00",
+      "NumProgressed": 723417,
+      "NumCompleted": 2428
     }
   ],
   "TotalAchievements": 51,
@@ -31818,7 +31823,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6510
+      "UsersEstimate": 6511
     },
     {
       "ID": "ach_finisher",
@@ -31834,7 +31839,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6510
+      "UsersEstimate": 6511
     },
     {
       "ID": "ach_good_eyesight",
@@ -31842,7 +31847,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4340
+      "UsersEstimate": 4341
     },
     {
       "ID": "ach_hazardous_materials",
@@ -31914,7 +31919,7 @@
       "Name": "Zombologist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6510
+      "UsersEstimate": 6511
     },
     {
       "ID": "ach_legendary",
@@ -31938,7 +31943,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6510
+      "UsersEstimate": 6511
     },
     {
       "ID": "ach_mind_over_monster",
@@ -31952,9 +31957,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5787
     },
     {
       "ID": "ach_salvation",
@@ -31962,7 +31967,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4340
+      "UsersEstimate": 4341
     },
     {
       "ID": "ach_secrets_of_la",
@@ -32018,7 +32023,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 6510
+      "UsersEstimate": 6511
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -32066,7 +32071,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "ach_dark_magic",
@@ -32074,7 +32079,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "ach_gardening_tools",
@@ -32090,7 +32095,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32113,13 +32118,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723382,
+      "Progressed": 723417,
       "Completed": 2428
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 48924,
+      "Progressed": 48959,
       "Completed": 36588
     }
   ],
@@ -32127,8 +32132,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-23T19:58:31.9623192+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:05:57.8790134+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:04:42.4389203+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:59:00.8211026+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:05:57.8791628+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:58:23.9860472+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:04:42.4390589+00:00"
 }

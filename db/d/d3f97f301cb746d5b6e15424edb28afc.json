@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2545,9 +2545,9 @@
       "ID": "GSS_ACH_09_THROW_01",
       "SetID": "5fn8ia4",
       "Name": "Score!",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1029
     },
     {
       "ID": "GSS_ACH_10_THROW_02",
@@ -2593,9 +2593,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 724
+      "UsersEstimate": 735
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -2657,9 +2657,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 315
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -3138,8 +3138,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:07:00.1216506+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:05:26.2051839+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:57:19.7116983+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:07:00.1217264+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:57:17.0507458+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:05:26.2052595+00:00"
 }

@@ -1484,9 +1484,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131111,
+  "EOS_Progressed": 131113,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22719,6 +22719,11 @@
       "Time": "2023-11-23T21:05:36.2959161+00:00",
       "NumProgressed": 131111,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-23T22:04:26.8712338+00:00",
+      "NumProgressed": 131113,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22810,7 +22815,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36711
+      "UsersEstimate": 36712
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22826,7 +22831,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5244
+      "UsersEstimate": 5245
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -22842,7 +22847,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27533
+      "UsersEstimate": 27534
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22858,7 +22863,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17044
+      "UsersEstimate": 17045
     },
     {
       "ID": "ACH_COP_STAR",
@@ -23026,7 +23031,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5244
+      "UsersEstimate": 5245
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -23049,15 +23054,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131111,
+      "Progressed": 131113,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-21T09:00:02.2217381+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:05:36.2959159+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:04:26.8712332+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:01:49.4405068+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:05:36.2960093+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:00:12.2662749+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:04:26.8713513+00:00"
 }

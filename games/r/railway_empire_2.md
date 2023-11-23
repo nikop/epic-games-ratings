@@ -5,8 +5,8 @@ Rating: 4.42 (Ranked 714)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,670 |
-| A new Journey | 75.00% | ~1,648 |
+| Country Bumpkin | 76.00% | ~1,671 |
+| A new Journey | 75.00% | ~1,649 |
 | Departure | 74.00% | ~1,627 |
 | From X to Y | 73.00% | ~1,605 |
 | Way of Iron | 71.00% | ~1,561 |
@@ -16,23 +16,23 @@ Rating: 4.42 (Ranked 714)
 | Travel Company | 66.00% | ~1,451 |
 | Mind the Gap | 65.00% | ~1,429 |
 | All around the World | 63.00% | ~1,385 |
-| Right through the middle | 59.00% | ~1,297 |
+| Right through the middle | 58.00% | ~1,275 |
 | Facility Manager | 54.00% | ~1,187 |
 | Poor Devil | 54.00% | ~1,187 |
 | Producer | 51.00% | ~1,121 |
-| Apprentice | 42.00% | ~923 |
-| Bridge Builder | 42.00% | ~923 |
-| Access granted | 36.00% | ~791 |
-| Going once, going twice, sold | 36.00% | ~791 |
-| Bull and bear | 34.00% | ~747 |
-| Stoker | 33.00% | ~725 |
-| Full Steam ahead | 33.00% | ~725 |
-| All mine | 31.00% | ~681 |
-| Mole | 31.00% | ~681 |
-| Financial Shark | 31.00% | ~681 |
-| Socializer | 30.00% | ~659 |
-| General Manager | 28.00% | ~615 |
-| Country Life | 28.00% | ~615 |
+| Apprentice | 42.00% | ~924 |
+| Bridge Builder | 42.00% | ~924 |
+| Access granted | 36.00% | ~792 |
+| Going once, going twice, sold | 36.00% | ~792 |
+| Bull and bear | 34.00% | ~748 |
+| Stoker | 33.00% | ~726 |
+| Full Steam ahead | 33.00% | ~726 |
+| All mine | 31.00% | ~682 |
+| Mole | 31.00% | ~682 |
+| Financial Shark | 31.00% | ~682 |
+| Socializer | 30.00% | ~660 |
+| General Manager | 28.00% | ~616 |
+| Country Life | 28.00% | ~616 |
 | Hostile Takeover | 25.00% | ~550 |
 | Seven at one stroke | 24.00% | ~528 |
 | Trailblazer | 22.00% | ~484 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 714)
 | United States | 0.60% | ~13 |
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,198 (Ranked 222)  
+Progressed: 2,199 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-20 | 2,184 | 0 |
 | 2023-11-21 | 2,188 | 0 |
 | 2023-11-22 | 2,194 | 0 |
-| 2023-11-23 | 2,198 | 0 |
+| 2023-11-23 | 2,199 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

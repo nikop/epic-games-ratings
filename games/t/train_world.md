@@ -9,17 +9,19 @@
 | Trainee | 15.00% | ~2 |
 | Line Up | 15.00% | ~2 |
 | Full House | 15.00% | ~2 |
+| Speed Demon | 15.00% | ~2 |
+| Regional Express | 15.00% | ~2 |
 | Steam Power | 15.00% | ~2 |
 | Urban Network | 15.00% | ~2 |
 | Industrial Revolution | 15.00% | ~2 |
 | Double Trouble | 15.00% | ~2 |
 | Billionaire Club | 8.00% | ~1 |
 | Diesel Dream | 8.00% | ~1 |
-| Speed Demon | 8.00% | ~1 |
 | Cargo King | 8.00% | ~1 |
-| Regional Express | 8.00% | ~1 |
+| People Mover | 8.00% | ~1 |
 | Industrial Giant | 8.00% | ~1 |
 | Supply Chain | 8.00% | ~1 |
+| Train Spotter | 8.00% | ~1 |
 | Mega Train | 8.00% | ~1 |
 | Heavy Load | 8.00% | ~1 |
 | Line Master | 8.00% | ~1 |
@@ -45,17 +47,15 @@
 | Tunnel Vision | 0.00% | ~0 |
 | Machine Maker | 0.00% | ~0 |
 | Time Traveler | 0.00% | ~0 |
-| People Mover | 0.00% | ~0 |
 | Mixed Bag | 0.00% | ~0 |
 | Green Energy | 0.00% | ~0 |
 | Task Master | 0.00% | ~0 |
-| Train Spotter | 0.00% | ~0 |
 | Crowd Pleaser | 0.00% | ~0 |
 | Bullet Train | 0.00% | ~0 |
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 585)  
+Progressed: 13 (Ranked 586)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |

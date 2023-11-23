@@ -2,10 +2,10 @@
   "ID": "2918f07c226a49308895622ed4937eb1",
   "Name": "Hide and Seek",
   "ProductSlug": "hide-and-seek-9e0912",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "dhh8kbc",
       "Name": "Seekers win!",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 150,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -244,8 +244,8 @@
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:06:12.7894245+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:04:52.8076085+00:00",
   "LastUpdate_AppInfo": "2023-11-17T09:57:15.963448+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:58:37.3644203+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:06:12.7894318+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:58:08.3791837+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:04:52.8076152+00:00"
 }

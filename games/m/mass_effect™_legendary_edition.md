@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,279 |
-| Spectre Inductee | 79.00% | ~1,086 |
+| Spectre Inductee | 80.00% | ~1,100 |
 | Medal of Exploration I | 72.00% | ~990 |
 | Recruit | 68.00% | ~935 |
 | Search and Rescue | 67.00% | ~921 |
@@ -22,7 +22,7 @@
 | Asari Ally | 47.00% | ~646 |
 | Medal of Exploration III | 46.00% | ~632 |
 | Soldier Ally | 46.00% | ~632 |
-| Principled | 45.00% | ~619 |
+| Principled | 46.00% | ~632 |
 | Colonial Savior | 44.00% | ~605 |
 | Paramour I | 43.00% | ~591 |
 | Missing in Action | 43.00% | ~591 |
@@ -31,7 +31,7 @@
 | Merciless | 42.00% | ~578 |
 | Krogan Ally | 41.00% | ~564 |
 | Sentinel Ally | 40.00% | ~550 |
-| Head Hunter | 39.00% | ~536 |
+| Head Hunter | 40.00% | ~550 |
 | Scholar | 39.00% | ~536 |
 | Veteran | 38.00% | ~522 |
 | The Professor | 38.00% | ~522 |
@@ -88,9 +88,9 @@
 | Lost and Found | 22.00% | ~302 |
 | Paramour II | 21.00% | ~289 |
 | Party Crasher | 21.00% | ~289 |
+| Hard Target | 21.00% | ~289 |
 | Problem Solver | 21.00% | ~289 |
 | Last Resort | 20.00% | ~275 |
-| Hard Target | 20.00% | ~275 |
 | Saboteur | 20.00% | ~275 |
 | Last Witness | 20.00% | ~275 |
 | Fact Finder | 20.00% | ~275 |

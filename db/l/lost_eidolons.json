@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1692,9 +1692,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 692
+      "UsersEstimate": 704
     },
     {
       "ID": "18",
@@ -1757,8 +1757,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-11-08T19:00:27.8145289+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:05:47.8770081+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:04:35.0891125+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:21.2319809+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:01:33.1842364+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:05:47.8770263+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:00:01.5503235+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:04:35.0891316+00:00"
 }

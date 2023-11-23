@@ -9072,9 +9072,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65832,
+  "EOS_Progressed": 65834,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31947,6 +31947,11 @@
       "Time": "2023-11-23T21:10:12.9992918+00:00",
       "NumProgressed": 65832,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T22:09:01.5012752+00:00",
+      "NumProgressed": 65834,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32022,7 +32027,7 @@
       "Name": "Crackshot",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "Crush your enemies",
@@ -32190,7 +32195,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "Lawmaker",
@@ -32230,7 +32235,7 @@
       "Name": "Mounted Archery",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "My way",
@@ -32342,7 +32347,7 @@
       "Name": "Undercover",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "Veni vidi vici",
@@ -32365,15 +32370,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65832,
+      "Progressed": 65834,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-23T19:02:17.821986+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:10:12.9992917+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:09:01.5012748+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:02:32.1346053+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:10:12.9993985+00:00"
+  "LastUpdate_Ratings": "2023-11-23T22:00:20.2797822+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:09:01.5013913+00:00"
 }

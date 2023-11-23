@@ -930,9 +930,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 227854,
+  "EOS_Progressed": 227857,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24705,6 +24705,11 @@
       "Time": "2023-11-23T21:10:04.1034303+00:00",
       "NumProgressed": 227854,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-23T22:08:55.527993+00:00",
+      "NumProgressed": 227857,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -24724,7 +24729,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59242
+      "UsersEstimate": 59243
     },
     {
       "ID": "ACH_BASE_11",
@@ -24764,7 +24769,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22785
+      "UsersEstimate": 22786
     },
     {
       "ID": "ACH_BASE_17",
@@ -24964,7 +24969,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27342
+      "UsersEstimate": 27343
     },
     {
       "ID": "ACH_BASE_8",
@@ -24987,7 +24992,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 227854,
+      "Progressed": 227857,
       "Completed": 5
     }
   ],
@@ -24995,8 +25000,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-22T21:58:40.324486+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:10:04.1034301+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:08:55.5279925+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.2223415+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:59:50.2561242+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:10:04.1035601+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:58:56.1816197+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:08:55.5281183+00:00"
 }

@@ -8,10 +8,10 @@ Rating: 4.19 (Ranked 923)
 | Get a Grip | 10.00% | ~1,647 |
 | Paper Jams | 9.00% | ~1,483 |
 | Flesh Wound | 8.00% | ~1,318 |
+| Chew 'Em Up | 7.00% | ~1,153 |
 | Float Like A Butterfly | 7.00% | ~1,153 |
 | The Outer Way | 7.00% | ~1,153 |
 | Two Heads Are Better Than One | 6.00% | ~988 |
-| Chew 'Em Up | 6.00% | ~988 |
 | Workplace Hazard | 6.00% | ~988 |
 | Reforged | 6.00% | ~988 |
 | Desperate Times | 6.00% | ~988 |
@@ -266,7 +266,7 @@ Completed: 80 (0.49%) (Ranked 204)
 | 2023-11-23 | 16,473 | 80 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 387)  
-Sum: 485 (Ranked 328)  
+Sum: 486 (Ranked 328)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -275,7 +275,7 @@ Diff (max vs sum): 59
 | This game has Quickly Understood Controls | 80 |
 | This game has Amazing Characters | 79 |
 | This game is Extremely Fun | 72 |
-| This game has Challenging Combat | 61 |
+| This game has Challenging Combat | 62 |
 | This game has a Creative Community | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -441,3 +441,4 @@ Diff (max vs sum): 59
 | 2023-11-18 | 4.19 | 82 | 483 |
 | 2023-11-19 | 4.19 | 82 | 484 |
 | 2023-11-20 | 4.19 | 82 | 485 |
+| 2023-11-23 | 4.19 | 82 | 486 |

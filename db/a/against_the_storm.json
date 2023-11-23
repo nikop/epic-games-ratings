@@ -3287,7 +3287,7 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17410,
+  "EOS_Progressed": 17411,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
@@ -14012,6 +14012,11 @@
       "Time": "2023-11-23T21:08:52.6709864+00:00",
       "NumProgressed": 17410,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-23T22:08:04.8545211+00:00",
+      "NumProgressed": 17411,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 50,
@@ -14143,7 +14148,7 @@
       "Name": "Bandit Camp",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "WinNearBarren",
@@ -14159,7 +14164,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "WinNearCrystals",
@@ -14167,7 +14172,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "WinNearDangerous",
@@ -14239,7 +14244,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "WinNearRuins",
@@ -14247,7 +14252,7 @@
       "Name": "Lost Colonies",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "WinNearStatue",
@@ -14279,7 +14284,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "WinOnCoral",
@@ -14335,7 +14340,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "WinWIthCaches",
@@ -14391,7 +14396,7 @@
       "Name": "Trade Baron",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "WinWithoutDeath",
@@ -14422,15 +14427,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17410,
+      "Progressed": 17411,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-23T16:00:45.4209217+00:00",
-  "LastChanged_Achievements": "2023-11-23T21:08:52.6709862+00:00",
+  "LastChanged_Achievements": "2023-11-23T22:08:04.8545208+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.2424074+00:00",
-  "LastUpdate_Ratings": "2023-11-23T21:00:59.9070021+00:00",
-  "LastUpdate_Achievements": "2023-11-23T21:08:52.6710712+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:59:39.8697016+00:00",
+  "LastUpdate_Achievements": "2023-11-23T22:08:04.8545908+00:00"
 }
