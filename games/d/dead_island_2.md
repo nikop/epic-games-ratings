@@ -5,14 +5,15 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~967 |
-| Whatever It Takes | 2.00% | ~967 |
-| Pork Chopped | 2.00% | ~967 |
+| One of Us | 2.00% | ~968 |
+| Whatever It Takes | 2.00% | ~968 |
+| Pork Chopped | 2.00% | ~968 |
 | Dr. Reed, I Presume? | 1.00% | ~7,228 |
 | Git Gutte! | 1.00% | ~7,228 |
 | Anger Management | 1.00% | ~7,228 |
 | Bookworm | 1.00% | ~7,228 |
 | Break A Leg | 1.00% | ~7,228 |
+| But Doctor, I am Butcho | 1.00% | ~7,228 |
 | Coup de Grâce | 1.00% | ~7,228 |
 | Hazardous Materials | 1.00% | ~7,228 |
 | Friends Like These | 1.00% | ~7,228 |
@@ -22,16 +23,15 @@ Rating: 4.54 (Ranked 527)
 | Personal Assistant Personally Assisted | 1.00% | ~7,228 |
 | This is My Weapon | 1.00% | ~7,228 |
 | Welcome To Hell-A | 1.00% | ~7,228 |
-| But Doctor, I am Butcho | 0.90% | ~6,505 |
-| Can't Handle the Truth | 0.90% | ~6,505 |
-| Like Riding a Bike | 0.90% | ~6,505 |
-| A Patton Emerges | 0.90% | ~6,505 |
-| Perks of the Job | 0.80% | ~5,782 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,782 |
-| Slayer Squad | 0.80% | ~5,782 |
-| Zombologist | 0.80% | ~5,782 |
-| Ooh, Shiny! | 0.80% | ~5,782 |
-| Our True Nature | 0.80% | ~5,782 |
+| Can't Handle the Truth | 0.90% | ~6,506 |
+| Like Riding a Bike | 0.90% | ~6,506 |
+| A Patton Emerges | 0.90% | ~6,506 |
+| Perks of the Job | 0.80% | ~5,783 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,783 |
+| Slayer Squad | 0.80% | ~5,783 |
+| Zombologist | 0.80% | ~5,783 |
+| Ooh, Shiny! | 0.80% | ~5,783 |
+| Our True Nature | 0.80% | ~5,783 |
 | Making Your Mark | 0.70% | ~5,060 |
 | I Am the Resurrection | 0.70% | ~5,060 |
 | Max Headroom | 0.70% | ~5,060 |
@@ -45,9 +45,9 @@ Rating: 4.54 (Ranked 527)
 | Smorgasbord | 0.40% | ~2,891 |
 | Internet Famous | 0.40% | ~2,891 |
 | Variety is the Spice of Death | 0.40% | ~2,891 |
-| Make it So | 0.30% | ~2,168 |
-| LA Influential | 0.30% | ~2,168 |
-| Gore Horse | 0.30% | ~2,168 |
+| Make it So | 0.30% | ~2,169 |
+| LA Influential | 0.30% | ~2,169 |
+| Gore Horse | 0.30% | ~2,169 |
 | Top That, Tisha! | 0.30% | ~145 |
 | Sole Survivor | 0.20% | ~1,446 |
 | Sharpest Tool in the Box | 0.20% | ~1,446 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,805 (Ranked 21)  
-Completed: 2,425 (0.34%) (Ranked 228)  
+Progressed: 722,841 (Ranked 21)  
+Completed: 2,426 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,14 +274,14 @@ Completed: 2,425 (0.34%) (Ranked 228)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 722,805 | 2,425 |
+| 2023-11-23 | 722,841 | 2,426 |
 ## Awards
-Max (Great Boss Battles): 7,650  (Ranked 50)  
-Sum: 11,675 (Ranked 84)  
-Diff (max vs sum): -34  
+Max (Great Boss Battles): 7,661  (Ranked 50)  
+Sum: 11,686 (Ranked 83)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,650 |
+| This game has Great Boss Battles | 7,661 |
 | This game is Great for Beginners | 582 |
 | This game has Diverse Characters | 559 |
 | This game has Quickly Understood Controls | 522 |
@@ -509,3 +509,4 @@ Diff (max vs sum): -34
 | 2023-11-20 | 4.54 | 7,589 | 11,585 |
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
+| 2023-11-23 | 4.54 | 7,661 | 11,686 |

@@ -54,7 +54,7 @@ Rating: 4.03 (Ranked 992)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,726 (Ranked 233)  
+Progressed: 1,727 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,6 +240,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-18 | 1,720 | 0 |
 | 2023-11-19 | 1,721 | 0 |
 | 2023-11-22 | 1,726 | 0 |
+| 2023-11-23 | 1,727 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

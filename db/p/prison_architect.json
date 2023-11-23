@@ -6981,7 +6981,7 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 196560,
+  "EOS_Progressed": 196574,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 2352,
   "EOS_NewCompleters": 0,
@@ -31666,6 +31666,11 @@
       "Time": "2023-11-23T00:09:30.7851373+00:00",
       "NumProgressed": 196560,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-23T01:55:58.1682042+00:00",
+      "NumProgressed": 196574,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -31709,7 +31714,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31450
+      "UsersEstimate": 31452
     },
     {
       "ID": "Achievement_13",
@@ -31757,7 +31762,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 49140
+      "UsersEstimate": 49144
     },
     {
       "ID": "Achievement_5",
@@ -31789,7 +31794,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17690
+      "UsersEstimate": 17692
     },
     {
       "ID": "Achievement_9",
@@ -31797,22 +31802,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9828
+      "UsersEstimate": 9829
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 196560,
+      "Progressed": 196574,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-22T20:57:34.2191381+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:09:30.7851369+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:55:58.1682036+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:32.1139212+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:58:04.9429977+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:09:30.7852833+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:44:20.1323588+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:55:58.1683319+00:00"
 }

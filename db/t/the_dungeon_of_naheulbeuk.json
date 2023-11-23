@@ -1371,9 +1371,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 238945,
+  "EOS_Progressed": 238956,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1600,
+  "EOS_NewPlayers": 1596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19581,6 +19581,11 @@
       "Time": "2023-11-23T00:09:08.6359159+00:00",
       "NumProgressed": 238945,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-23T01:55:37.8371302+00:00",
+      "NumProgressed": 238956,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19592,7 +19597,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "100Fail",
@@ -19624,7 +19629,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "BookCollection",
@@ -19656,7 +19661,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "Chapter4",
@@ -19992,7 +19997,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16726
+      "UsersEstimate": 16727
     },
     {
       "ID": "DwarfElf15Support",
@@ -20016,7 +20021,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "DwarfLevel2",
@@ -20024,7 +20029,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11947
+      "UsersEstimate": 11948
     },
     {
       "ID": "ElfEpic",
@@ -20040,7 +20045,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83631
+      "UsersEstimate": 83635
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20112,7 +20117,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "KillDungeonLich",
@@ -20120,7 +20125,7 @@
       "Name": "Dead for good",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "KillGolbargh",
@@ -20144,7 +20149,7 @@
       "Name": "Gargantua",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "Orktobearfest",
@@ -20208,7 +20213,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "RangerEpic",
@@ -20240,7 +20245,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11947
+      "UsersEstimate": 11948
     },
     {
       "ID": "SupportCount4",
@@ -20280,7 +20285,7 @@
       "Name": "Material Girl",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "WizardResistBurn",
@@ -20295,21 +20300,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 238945,
+      "Progressed": 238956,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 238945,
+      "Progressed": 238956,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-21T01:49:15.3509206+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:09:08.6359148+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:55:37.8371295+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.8409819+00:00",
-  "LastUpdate_Ratings": "2023-11-23T00:00:12.8658684+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:09:08.6360472+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:46:14.1872169+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:55:37.8372999+00:00"
 }

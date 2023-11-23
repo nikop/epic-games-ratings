@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 423,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -907,6 +907,11 @@
       "Time": "2023-11-23T00:05:43.9715416+00:00",
       "NumProgressed": 420,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T01:52:08.039613+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -941,7 +946,7 @@
       "ID": "CompleteCampaignChampion",
       "SetID": "52ail55",
       "Name": "Celestant-Prime",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -975,7 +980,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 305
     },
     {
       "ID": "CompleteChapter10",
@@ -1015,7 +1020,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteChapter15",
@@ -1023,7 +1028,7 @@
       "Name": "The Great Scheme",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteChapter16",
@@ -1031,7 +1036,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteChapter17",
@@ -1063,7 +1068,7 @@
       "Name": "Met the Enemy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 220
     },
     {
       "ID": "CompleteChapter3",
@@ -1071,15 +1076,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "CompleteChapter5",
@@ -1087,7 +1092,7 @@
       "Name": "Breathing Easy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CompleteChapter6",
@@ -1095,7 +1100,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CompleteChapter7",
@@ -1111,7 +1116,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CompleteChapter9",
@@ -1165,9 +1170,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 140
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1214,14 +1219,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 423,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:05:43.9715411+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:52:08.0396125+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:57:59.5286522+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:05:43.9715675+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:44:15.3221041+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:52:08.0396391+00:00"
 }

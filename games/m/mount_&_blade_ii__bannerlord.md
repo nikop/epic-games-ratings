@@ -8,22 +8,22 @@ Number of Ratings: 5,603  (23.09.2022)
 | ---- | ---------- | ----- |
 | Lawbringer | 40.00% | ~26,286 |
 | Landlord | 33.00% | ~21,686 |
-| Bannerlord | 24.00% | ~15,771 |
-| Horde breaker | 24.00% | ~15,771 |
-| Lawmaker | 24.00% | ~15,771 |
-| Trained | 24.00% | ~15,771 |
+| Bannerlord | 24.00% | ~15,772 |
+| Horde breaker | 24.00% | ~15,772 |
+| Lawmaker | 24.00% | ~15,772 |
+| Trained | 24.00% | ~15,772 |
 | The king is pleased | 19.00% | ~12,486 |
 | King Solomon | 18.00% | ~11,829 |
-| Apple of my eye | 16.00% | ~10,514 |
-| I can do it | 16.00% | ~10,514 |
+| Apple of my eye | 16.00% | ~10,515 |
+| I can do it | 16.00% | ~10,515 |
 | Against all odds | 13.00% | ~8,543 |
 | God of the Arena | 13.00% | ~8,543 |
 | This Is Our Land | 13.00% | ~8,543 |
-| Duelist | 10.00% | ~6,571 |
-| Dynasty | 10.00% | ~6,571 |
-| I spit on your grave | 10.00% | ~6,571 |
-| Swordbearer | 10.00% | ~6,571 |
-| What have the Romans ever done for us? | 10.00% | ~6,571 |
+| Duelist | 10.00% | ~6,572 |
+| Dynasty | 10.00% | ~6,572 |
+| I spit on your grave | 10.00% | ~6,572 |
+| Swordbearer | 10.00% | ~6,572 |
+| What have the Romans ever done for us? | 10.00% | ~6,572 |
 | Butterlord | 9.00% | ~5,914 |
 | Mastery | 8.00% | ~5,257 |
 | Know your enemy | 7.00% | ~4,600 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,714 (Ranked 104)  
+Progressed: 65,716 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,17 +275,17 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 65,522 | 0 |
 | 2023-11-21 | 65,597 | 0 |
 | 2023-11-22 | 65,712 | 0 |
-| 2023-11-23 | 65,714 | 0 |
+| 2023-11-23 | 65,716 | 0 |
 ## Awards
 Max (Character Customization): 7,416  (Ranked 53)  
-Sum: 15,390 (Ranked 68)  
+Sum: 15,393 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,416 |
 | This game is Great for Beginners | 1,071 |
 | This game has Diverse Characters | 1,017 |
-| This game is Highly Recommended | 936 |
+| This game is Highly Recommended | 939 |
 | This game is Extremely Fun | 882 |
 | This game has Amazing Storytelling | 868 |
 | This game has Amazing Characters | 867 |
@@ -609,3 +609,4 @@ Diff (max vs sum): -15
 | 2023-11-20 | 4.74 | - | 7,405 | 15,361 |
 | 2023-11-21 | 4.74 | - | 7,410 | 15,375 |
 | 2023-11-22 | 4.74 | - | 7,416 | 15,390 |
+| 2023-11-23 | 4.74 | - | 7,416 | 15,393 |

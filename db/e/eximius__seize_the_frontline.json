@@ -333,7 +333,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200381,
+  "EOS_Progressed": 200382,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
@@ -23278,6 +23278,11 @@
       "Time": "2023-11-23T00:04:46.1325599+00:00",
       "NumProgressed": 200381,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T01:51:14.9164506+00:00",
+      "NumProgressed": 200382,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -23289,7 +23294,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16030
+      "UsersEstimate": 16031
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -23416,7 +23421,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200381,
+      "Progressed": 200382,
       "Completed": 4
     }
   ],
@@ -23424,8 +23429,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:04:46.1325594+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:51:14.9164504+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:10.5681178+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:57:59.9023731+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:04:46.1326861+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:44:15.6672769+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:51:14.9165509+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 121,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -639,6 +639,11 @@
       "Time": "2023-11-22T21:05:25.2995533+00:00",
       "NumProgressed": 219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T01:52:58.0335013+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -689,9 +694,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "9",
@@ -715,7 +720,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "REMAKE_004",
@@ -723,7 +728,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Remake_005",
@@ -737,9 +742,9 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "Remake_007",
@@ -747,7 +752,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Remake_008",
@@ -763,7 +768,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Remake_010",
@@ -874,14 +879,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:06:37.6750128+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:52:58.0335008+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-23T00:03:06.2376124+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:06:37.6750336+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:49:42.4982189+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:52:58.0335186+00:00"
 }

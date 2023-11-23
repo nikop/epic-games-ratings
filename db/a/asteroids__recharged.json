@@ -2,7 +2,7 @@
   "ID": "16c882e1ebdc4212b75b9d59c30b08f0",
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 121,
@@ -288,9 +288,9 @@
       "ID": "ACH_ALL_DEAD",
       "SetID": "ca3jj1k",
       "Name": "All Dead, All Dead",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -320,9 +320,9 @@
       "ID": "ACH_KEEP_YOURSELF_ALIVE",
       "SetID": "ca3jj1k",
       "Name": "Keep Yourself Alive",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -352,9 +352,9 @@
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -384,9 +384,9 @@
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -425,8 +425,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:08:09.2489367+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:54:23.0327045+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:55.3841291+00:00",
-  "LastUpdate_Ratings": "2023-11-23T00:02:12.6573887+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:08:09.2489498+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:49:21.153693+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:54:23.0327209+00:00"
 }

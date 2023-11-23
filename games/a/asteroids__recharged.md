@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Hero | 72.00% | ~78 |
-| Now I'm Here | 67.00% | ~72 |
-| The Hitman | 53.00% | ~57 |
-| Keep Yourself Alive | 49.00% | ~53 |
-| All Dead, All Dead | 41.00% | ~44 |
+| Now I'm Here | 68.00% | ~73 |
+| The Hitman | 54.00% | ~58 |
+| Keep Yourself Alive | 50.00% | ~54 |
+| All Dead, All Dead | 42.00% | ~45 |
 | Misfire | 40.00% | ~43 |
 | The Miracle | 36.00% | ~39 |
 | The Invisible Man | 35.00% | ~38 |
@@ -21,7 +21,7 @@
 | Cool Cat | 3.00% | ~3 |
 | Good Company | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 423)  
+Progressed: 108 (Ranked 424)  
 Completed: 1 (0.93%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |

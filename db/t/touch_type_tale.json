@@ -2,7 +2,7 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_EOS_Progress": 198,
+  "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 121,
@@ -4661,9 +4661,9 @@
       "ID": "campaign13",
       "SetID": "2h56gn1",
       "Name": "Damage Control",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 303
     },
     {
       "ID": "campaign14",
@@ -4854,8 +4854,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:04:19.8687335+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:50:50.6718496+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:09.4027746+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:58:06.8290778+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:04:19.8687698+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:44:21.6617784+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:50:50.6718911+00:00"
 }

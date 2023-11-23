@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2672,
+  "EOS_Progressed": 2673,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 8.98,
   "EosHistory": [
@@ -7326,6 +7326,11 @@
       "Time": "2023-11-22T21:03:48.8030232+00:00",
       "NumProgressed": 2672,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-23T01:51:03.8055597+00:00",
+      "NumProgressed": 2673,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 12,
@@ -7409,7 +7414,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Nazis in Paris",
@@ -7432,7 +7437,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2672,
+      "Progressed": 2673,
       "Completed": 240
     }
   ],
@@ -7440,8 +7445,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:04:33.9373997+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:51:03.8055591+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.5028572+00:00",
-  "LastUpdate_Ratings": "2023-11-23T00:01:25.6662126+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:04:33.937445+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:47:18.8370982+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:51:03.8056043+00:00"
 }

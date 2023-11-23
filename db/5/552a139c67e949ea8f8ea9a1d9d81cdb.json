@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1132,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2392,6 +2392,11 @@
       "Time": "2023-11-23T00:08:35.7336895+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T01:55:07.1007717+00:00",
+      "NumProgressed": 1132,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2404,7 +2409,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2412,7 +2417,7 @@
       "Name": "Acrobat",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2452,7 +2457,7 @@
       "Name": "Globetrotter",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2644,7 +2649,7 @@
       "Name": "Shopping time!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2740,27 +2745,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1132,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 799,
-      "Completed": 799
+      "Progressed": 800,
+      "Completed": 800
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:08:35.7336887+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:55:07.100771+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:57:25.4571246+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:08:35.7337375+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:43:45.2099447+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:55:07.1008165+00:00"
 }

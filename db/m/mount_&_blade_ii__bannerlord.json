@@ -8950,10 +8950,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15390,
       "NumberOfAwardsMax": 7416
+    },
+    {
+      "Time": "2023-11-23T01:47:22.1048683+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15393,
+      "NumberOfAwardsMax": 7416
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15390,
+  "NumberOfAwards": 15393,
   "NumberOfAwardsMax": 7416,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8967,7 +8973,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 936
+      "Count": 939
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9030,7 +9036,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65714,
+  "EOS_Progressed": 65716,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
@@ -31810,6 +31816,11 @@
       "Time": "2023-11-23T00:10:03.4355375+00:00",
       "NumProgressed": 65714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T01:56:28.2044363+00:00",
+      "NumProgressed": 65716,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31829,7 +31840,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10514
+      "UsersEstimate": 10515
     },
     {
       "ID": "Bannerlord",
@@ -31837,7 +31848,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15771
+      "UsersEstimate": 15772
     },
     {
       "ID": "Best served cold",
@@ -31901,7 +31912,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6571
+      "UsersEstimate": 6572
     },
     {
       "ID": "Dynasty",
@@ -31909,7 +31920,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6571
+      "UsersEstimate": 6572
     },
     {
       "ID": "Entrepreneur",
@@ -31981,7 +31992,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15771
+      "UsersEstimate": 15772
     },
     {
       "ID": "I can do it",
@@ -31989,7 +32000,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10514
+      "UsersEstimate": 10515
     },
     {
       "ID": "I spit on your grave",
@@ -31997,7 +32008,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6571
+      "UsersEstimate": 6572
     },
     {
       "ID": "Jack of All Trades",
@@ -32061,7 +32072,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15771
+      "UsersEstimate": 15772
     },
     {
       "ID": "Long live the Empire",
@@ -32165,7 +32176,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6571
+      "UsersEstimate": 6572
     },
     {
       "ID": "The king is pleased",
@@ -32197,7 +32208,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15771
+      "UsersEstimate": 15772
     },
     {
       "ID": "Undercover",
@@ -32221,22 +32232,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6571
+      "UsersEstimate": 6572
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65714,
+      "Progressed": 65716,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-22T19:01:04.3824575+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:10:03.4355371+00:00",
+  "LastChanged": "2023-11-23T01:47:22.1048681+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:56:28.2044356+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-23T00:01:29.8321222+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:10:03.4357004+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:47:22.1048688+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:56:28.2045666+00:00"
 }

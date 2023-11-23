@@ -742,7 +742,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41016,
+  "EOS_Progressed": 41019,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
@@ -22802,6 +22802,11 @@
       "Time": "2023-11-23T00:03:38.4298896+00:00",
       "NumProgressed": 41016,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T01:50:12.2466814+00:00",
+      "NumProgressed": 41019,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -22893,7 +22898,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "ach_dawnmachine",
@@ -22933,7 +22938,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14766
+      "UsersEstimate": 14767
     },
     {
       "ID": "ach_die10",
@@ -22965,7 +22970,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "ach_eye",
@@ -22997,7 +23002,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -23021,7 +23026,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5742
+      "UsersEstimate": 5743
     },
     {
       "ID": "ach_legacysalvager",
@@ -23181,7 +23186,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6152
+      "UsersEstimate": 6153
     },
     {
       "ID": "ach_undercurrent",
@@ -23221,7 +23226,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3281
+      "UsersEstimate": 3282
     },
     {
       "ID": "ach_year10",
@@ -23244,15 +23249,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41016,
+      "Progressed": 41019,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-14T11:58:18.1801292+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:03:38.4298891+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:50:12.2466808+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.6571384+00:00",
-  "LastUpdate_Ratings": "2023-11-23T00:00:32.6748697+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:03:38.4300888+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:46:31.9521619+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:50:12.246809+00:00"
 }

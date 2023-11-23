@@ -334,9 +334,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "MOUNTAINEER",
@@ -382,9 +382,9 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "SOUL",
@@ -429,8 +429,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:08:02.7698708+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:54:17.0843711+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:59:34.1275703+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:08:02.769893+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:45:39.3210436+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:54:17.0843915+00:00"
 }

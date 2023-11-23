@@ -1420,10 +1420,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1702,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-11-23T01:44:15.9568539+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1703,
+      "NumberOfAwardsMax": 223
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1702,
+  "NumberOfAwards": 1703,
   "NumberOfAwardsMax": 223,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1467,7 +1473,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 167
+      "Count": 168
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1488,7 +1494,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23550,
+  "EOS_Progressed": 23551,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -9763,6 +9769,11 @@
       "Time": "2023-11-22T19:09:28.5759081+00:00",
       "NumProgressed": 23550,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-23T01:55:44.3682709+00:00",
+      "NumProgressed": 23551,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -9838,7 +9849,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10085,21 +10096,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23550,
+      "Progressed": 23551,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2480,
+      "Progressed": 2481,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-11-19T17:59:15.123037+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:09:15.9416943+00:00",
+  "LastChanged": "2023-11-23T01:44:15.9568537+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:55:44.3682704+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.4592535+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:58:00.0935517+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:09:15.9417441+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:44:15.9568541+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:55:44.3683246+00:00"
 }

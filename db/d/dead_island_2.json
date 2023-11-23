@@ -4,10 +4,10 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 527,
   "Ranking_Popularity": 50,
-  "Ranking_PopularitySum": 84,
+  "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6727,18 +6727,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11675,
       "NumberOfAwardsMax": 7650
+    },
+    {
+      "Time": "2023-11-23T01:44:42.2971938+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11686,
+      "NumberOfAwardsMax": 7661
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11675,
-  "NumberOfAwardsMax": 7650,
+  "NumberOfAwards": 11686,
+  "NumberOfAwardsMax": 7661,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7650
+      "Count": 7661
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6789,10 +6795,10 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 722805,
-  "EOS_Completed": 2425,
-  "EOS_NewPlayers": 3850,
-  "EOS_NewCompleters": 32,
+  "EOS_Progressed": 722841,
+  "EOS_Completed": 2426,
+  "EOS_NewPlayers": 3856,
+  "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -31554,6 +31560,11 @@
       "Time": "2023-11-23T00:05:29.2547577+00:00",
       "NumProgressed": 722805,
       "NumCompleted": 2425
+    },
+    {
+      "Time": "2023-11-23T01:51:54.6957402+00:00",
+      "NumProgressed": 722841,
+      "NumCompleted": 2426
     }
   ],
   "TotalAchievements": 51,
@@ -31597,7 +31608,7 @@
       "Name": "Make it So",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "ach_big_name_in_town",
@@ -31605,7 +31616,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "ach_blueprinted",
@@ -31613,7 +31624,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5783
     },
     {
       "ID": "ach_bookworm",
@@ -31645,15 +31656,15 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5783
     },
     {
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6505
+      "UsersEstimate": 7228
     },
     {
       "ID": "ach_doom_buddies",
@@ -31661,7 +31672,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5783
     },
     {
       "ID": "ach_explorer",
@@ -31677,7 +31688,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6505
+      "UsersEstimate": 6506
     },
     {
       "ID": "ach_finisher",
@@ -31693,7 +31704,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6505
+      "UsersEstimate": 6506
     },
     {
       "ID": "ach_good_eyesight",
@@ -31773,7 +31784,7 @@
       "Name": "Zombologist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5783
     },
     {
       "ID": "ach_legendary",
@@ -31781,7 +31792,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5783
     },
     {
       "ID": "ach_magnum_opus",
@@ -31789,7 +31800,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "ach_metropolitan",
@@ -31797,7 +31808,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6505
+      "UsersEstimate": 6506
     },
     {
       "ID": "ach_mind_over_monster",
@@ -31877,7 +31888,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5783
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -31925,7 +31936,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ach_dark_magic",
@@ -31933,7 +31944,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ach_gardening_tools",
@@ -31949,7 +31960,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31972,22 +31983,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 722805,
-      "Completed": 2425
+      "Progressed": 722841,
+      "Completed": 2426
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 48347,
-      "Completed": 36582
+      "Progressed": 48383,
+      "Completed": 36583
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-22T21:58:04.5094471+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:05:29.2547571+00:00",
+  "LastChanged": "2023-11-23T01:44:42.2971937+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:51:54.6957393+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:58:29.9173418+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:05:29.2549109+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:44:42.2971941+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:51:54.6958722+00:00"
 }

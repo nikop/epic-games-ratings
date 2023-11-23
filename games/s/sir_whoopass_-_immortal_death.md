@@ -36,8 +36,8 @@
 | You are no match for me, Billy! | 32.00% | ~42 |
 | Catch the bus with me! | 32.00% | ~42 |
 | Karaoke king | 32.00% | ~42 |
+| I'm going to get a concussion | 31.00% | ~40 |
 | Meatballs, coming up! | 30.00% | ~39 |
-| I'm going to get a concussion | 30.00% | ~39 |
 | Another one bites the iron | 28.00% | ~36 |
 | Ripe Meat Off The Bone! | 26.00% | ~34 |
 | Kleptomaniac | 26.00% | ~34 |

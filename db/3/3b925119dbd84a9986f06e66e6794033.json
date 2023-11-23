@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 218,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -729,6 +729,11 @@
       "Time": "2023-11-23T00:09:26.3934089+00:00",
       "NumProgressed": 216,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T01:55:54.1243071+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -773,7 +778,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -885,7 +890,7 @@
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -900,14 +905,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 218,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:09:26.3934082+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:55:54.1243064+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:09.7789217+00:00",
-  "LastUpdate_Ratings": "2023-11-23T00:01:23.6144073+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:09:26.3934257+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:47:16.9760823+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:55:54.1243218+00:00"
 }

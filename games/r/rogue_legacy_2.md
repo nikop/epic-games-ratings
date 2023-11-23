@@ -7,7 +7,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spells and Swords | 4.00% | ~942 |
-| Captain and Crew | 3.00% | ~706 |
+| Captain and Crew | 3.00% | ~707 |
 | Harvest and Home | 2.00% | ~471 |
 | Poise and Poisons | 2.00% | ~471 |
 | Suns and Soldiers | 2.00% | ~471 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,550 (Ranked 129)  
+Progressed: 23,551 (Ranked 129)  
 Completed: 35 (0.15%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,9 +261,10 @@ Completed: 35 (0.15%) (Ranked 267)
 | 2023-11-20 | 23,537 | 35 |
 | 2023-11-21 | 23,544 | 35 |
 | 2023-11-22 | 23,550 | 35 |
+| 2023-11-23 | 23,551 | 35 |
 ## Awards
 Max (Extremely Fun): 223  (Ranked 275)  
-Sum: 1,702 (Ranked 222)  
+Sum: 1,703 (Ranked 222)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -274,7 +275,7 @@ Diff (max vs sum): 53
 | This game is Highly Recommended | 194 |
 | This game is Relaxing | 188 |
 | This game has Amazing Characters | 169 |
-| This game has Amazing Storytelling | 167 |
+| This game has Amazing Storytelling | 168 |
 | This game has Playful Visuals | 156 |
 | This game has Obsessive Gameplay | 123 |
 ## Ratings History
@@ -404,3 +405,4 @@ Diff (max vs sum): 53
 | 2023-11-03 | 4.85 | - | 222 | 1,697 |
 | 2023-11-06 | 4.85 | - | 222 | 1,701 |
 | 2023-11-19 | 4.85 | - | 223 | 1,702 |
+| 2023-11-23 | 4.85 | - | 223 | 1,703 |

@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.22,
+  "EOS_Completed_Percentage": 8.2,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1329,6 +1329,11 @@
       "Time": "2023-11-22T14:05:53.8610725+00:00",
       "NumProgressed": 304,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-23T01:53:51.2270793+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 16,
@@ -1340,15 +1345,15 @@
       "Name": "Three is company",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1380,7 +1385,7 @@
       "Name": "High-rise",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1404,7 +1409,7 @@
       "Name": "Family pond",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1434,9 +1439,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1450,9 +1455,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 112
+      "UsersEstimate": 110
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1467,14 +1472,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-23T00:07:34.9746976+00:00",
+  "LastChanged_Achievements": "2023-11-23T01:53:51.2270786+00:00",
   "LastUpdate_AppInfo": "2023-11-19T01:47:56.0538921+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:58:16.5660616+00:00",
-  "LastUpdate_Achievements": "2023-11-23T00:07:34.9747211+00:00"
+  "LastUpdate_Ratings": "2023-11-23T01:44:30.5337346+00:00",
+  "LastUpdate_Achievements": "2023-11-23T01:53:51.2270968+00:00"
 }

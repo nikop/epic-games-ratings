@@ -15,7 +15,7 @@
 | Upgrade Unlock | 37.00% | ~131 |
 | Delegate Maintenance | 35.00% | ~124 |
 | Proper Walls | 33.00% | ~116 |
-| Destination Destiny | 32.00% | ~113 |
+| Destination Destiny | 33.00% | ~116 |
 | Happy Tenants | 27.00% | ~95 |
 | Potent Potables | 27.00% | ~95 |
 | Smooth Service | 26.00% | ~92 |
@@ -28,9 +28,9 @@
 | Artfully Done | 21.00% | ~74 |
 | Emporium Empire | 21.00% | ~74 |
 | Get Electrified | 21.00% | ~74 |
+| Rehab Expert | 20.00% | ~71 |
 | Tasty Profits | 20.00% | ~71 |
 | We Don't Need No Education | 20.00% | ~71 |
-| Rehab Expert | 19.00% | ~67 |
 | Established Fame | 18.00% | ~64 |
 | Under One Roof | 17.00% | ~60 |
 | Cashflow Chief | 17.00% | ~60 |
