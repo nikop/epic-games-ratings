@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7171,9 +7171,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141094,
+  "EOS_Progressed": 141100,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 1084,
+  "EOS_NewPlayers": 1081,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29536,6 +29536,11 @@
       "Time": "2023-11-23T11:06:23.3305439+00:00",
       "NumProgressed": 141094,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-11-23T12:08:11.7021561+00:00",
+      "NumProgressed": 141100,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 112,
@@ -29763,7 +29768,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "collection05",
@@ -30321,9 +30326,9 @@
       "ID": "sell01",
       "SetID": "anfd17p",
       "Name": "Capitalism Ho!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4233
+      "UsersEstimate": 5644
     },
     {
       "ID": "sell02",
@@ -30442,15 +30447,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141094,
+      "Progressed": 141100,
       "Completed": 195
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-22T17:03:17.3746506+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:06:23.3305434+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:08:11.7021557+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:02:46.6375684+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:06:23.3308246+00:00"
+  "LastUpdate_Ratings": "2023-11-23T12:03:04.7895863+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:08:11.7023508+00:00"
 }

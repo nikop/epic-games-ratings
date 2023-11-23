@@ -7,7 +7,7 @@
 | The Last Stand | 86.00% | ~306 |
 | Thalya – Simply Immortal | 86.00% | ~306 |
 | For the Horde! | 80.00% | ~285 |
-| Hammer Time, Round Two | 78.00% | ~278 |
+| Hammer Time, Round Two | 79.00% | ~281 |
 | The Hellwoods | 74.00% | ~263 |
 | The Plains of Strothalm | 68.00% | ~242 |
 | Experienced Thalya | 68.00% | ~242 |
@@ -30,11 +30,11 @@
 | Dungeonlord Gorgu | 33.00% | ~117 |
 | The Cathedral of Light | 33.00% | ~117 |
 | Shame! Shame! Shame! | 33.00% | ~117 |
-| Tanos' Crusade Against Thalya | 29.00% | ~103 |
+| Tanos' Crusade Against Thalya | 30.00% | ~107 |
 | Unstoppable Horde | 25.00% | ~89 |
 | All’s Well That Ends Evil | 24.00% | ~85 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~82 |
-| Master of the Undead | 22.00% | ~78 |
+| Master of the Undead | 23.00% | ~82 |
 | Hungry, Hungry Gorgu! | 21.00% | ~75 |
 | The Duel | 21.00% | ~75 |
 | Forbidden Knowledge | 20.00% | ~71 |
@@ -47,9 +47,9 @@
 | Brimstone Shaken, Not Stirred | 13.00% | ~46 |
 | Bonus Evilness | 12.00% | ~43 |
 | Sabotage! | 12.00% | ~43 |
+| My Little Torture Chamber | 11.00% | ~39 |
 | Raiders of the Lost Stone | 11.00% | ~39 |
 | The Rune Sockets of Finitude (Part 1) | 11.00% | ~39 |
-| My Little Torture Chamber | 10.00% | ~36 |
 | Lavalumps on Ice! | 10.00% | ~36 |
 | The Rune Sockets of Finitude (Part 2) | 9.00% | ~32 |
 | Untouchable | 8.00% | ~28 |

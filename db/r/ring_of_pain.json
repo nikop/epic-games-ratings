@@ -3444,7 +3444,7 @@
   ],
   "EOS_Progressed": 240096,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26241,9 +26241,9 @@
       "ID": "HIGHATTACK",
       "SetID": "5l8oe0h",
       "Name": "Berzerker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 480
     },
     {
       "ID": "HIGHCLARITY",
@@ -27040,8 +27040,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-23T10:57:28.8771716+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:09:41.8683137+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:10:12.5880173+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:57:28.8771725+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:09:41.8685523+00:00"
+  "LastUpdate_Ratings": "2023-11-23T11:57:49.6133376+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:10:12.5883097+00:00"
 }

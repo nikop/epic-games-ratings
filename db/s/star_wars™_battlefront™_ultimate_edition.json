@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1375,
+  "EOS_Progressed": 1377,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -4059,6 +4059,11 @@
       "Time": "2023-11-23T08:09:33.4146892+00:00",
       "NumProgressed": 1375,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T12:10:11.5871473+00:00",
+      "NumProgressed": 1377,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4135,7 +4140,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_18",
@@ -4183,7 +4188,7 @@
       "Name": "Distinguished",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_23",
@@ -4295,7 +4300,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1226
     },
     {
       "ID": "achievement_36",
@@ -4303,7 +4308,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_37",
@@ -4311,7 +4316,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 921
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_38",
@@ -4335,7 +4340,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "achievement_40",
@@ -4351,7 +4356,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_42",
@@ -4375,7 +4380,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_45",
@@ -4479,7 +4484,7 @@
       "Name": "Support the troops",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_57",
@@ -4574,13 +4579,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1375,
+      "Progressed": 1377,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1375,
+      "Progressed": 1377,
       "Completed": 1
     }
   ],
@@ -4588,8 +4593,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:09:41.1013905+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:10:11.5871471+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:57:53.2222392+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:09:41.1014632+00:00"
+  "LastUpdate_Ratings": "2023-11-23T11:58:25.7217236+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:10:11.5872041+00:00"
 }

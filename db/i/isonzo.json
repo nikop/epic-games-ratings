@@ -931,9 +931,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 8900,
+  "EOS_Progressed": 8902,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1252,
+  "EOS_NewPlayers": 1250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7951,6 +7951,11 @@
       "Time": "2023-11-23T11:03:36.0907027+00:00",
       "NumProgressed": 8900,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-23T12:04:18.9204176+00:00",
+      "NumProgressed": 8902,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -7978,7 +7983,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -8010,7 +8015,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -8074,7 +8079,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2759
+      "UsersEstimate": 2760
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -8130,7 +8135,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -8154,7 +8159,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8210,7 +8215,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -8290,7 +8295,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8314,14 +8319,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 8900,
+      "Progressed": 8902,
       "Completed": 9
     }
   ],
@@ -8329,8 +8334,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-22T21:57:11.9377566+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:03:36.0907017+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:04:18.9204172+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.1611041+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:57:21.1905067+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:03:36.0907711+00:00"
+  "LastUpdate_Ratings": "2023-11-23T11:57:38.550232+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:04:18.9204789+00:00"
 }

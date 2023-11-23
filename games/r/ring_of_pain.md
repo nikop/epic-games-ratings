@@ -53,6 +53,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | To The Death! | 0.20% | ~480 |
 | Well Prepared | 0.20% | ~480 |
 | Just Chilling | 0.20% | ~480 |
+| Berzerker | 0.20% | ~480 |
 | Save Our Souls | 0.20% | ~480 |
 | Don't Ignore Me! | 0.20% | ~480 |
 | All Consuming | 0.20% | ~480 |
@@ -85,7 +86,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Soul Stash | 0.10% | ~240 |
 | Powerful Potion | 0.10% | ~240 |
 | For Science | 0.10% | ~240 |
-| Berzerker | 0.10% | ~240 |
 | Willing the World | 0.10% | ~240 |
 | Juggernaut | 0.10% | ~240 |
 | Gigantic | 0.10% | ~240 |

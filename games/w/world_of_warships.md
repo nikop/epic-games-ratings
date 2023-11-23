@@ -6,34 +6,34 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~45,138 |
-| Initial Capital | 67.00% | ~37,803 |
-| Moneybags | 45.00% | ~25,390 |
-| Junior Supply Officer | 45.00% | ~25,390 |
-| Naval Warfare. Arson | 34.00% | ~19,183 |
-| Naval Warfare. Ramming | 33.00% | ~18,619 |
-| Amateur | 31.00% | ~17,491 |
-| Naval Warfare. Tactics | 31.00% | ~17,491 |
-| Naval Constructor | 31.00% | ~17,491 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~12,977 |
-| Naval Warfare. Lucky Shot | 20.00% | ~11,284 |
-| Naval Warfare. Flooding | 19.00% | ~10,720 |
-| Business Magnate | 17.00% | ~9,592 |
-| Battle Hero | 16.00% | ~9,028 |
-| Warrior | 13.00% | ~7,335 |
-| Supply Officer | 13.00% | ~7,335 |
-| Smooth Supply | 13.00% | ~7,335 |
+| Junior Naval Designer | 80.00% | ~45,143 |
+| Initial Capital | 67.00% | ~37,807 |
+| Moneybags | 45.00% | ~25,393 |
+| Junior Supply Officer | 45.00% | ~25,393 |
+| Naval Warfare. Arson | 34.00% | ~19,186 |
+| Naval Warfare. Ramming | 33.00% | ~18,622 |
+| Amateur | 31.00% | ~17,493 |
+| Naval Warfare. Tactics | 31.00% | ~17,493 |
+| Naval Constructor | 31.00% | ~17,493 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~12,979 |
+| Naval Warfare. Lucky Shot | 20.00% | ~11,286 |
+| Naval Warfare. Flooding | 19.00% | ~10,722 |
+| Business Magnate | 17.00% | ~9,593 |
+| Battle Hero | 16.00% | ~9,029 |
+| Warrior | 13.00% | ~7,336 |
+| Supply Officer | 13.00% | ~7,336 |
+| Smooth Supply | 13.00% | ~7,336 |
 | Veteran | 7.00% | ~3,950 |
 | Legend of the Seas | 4.00% | ~2,257 |
-| Chief Naval Architect | 4.00% | ~2,257 |
 | Shield | 4.00% | ~2,257 |
+| Chief Naval Architect | 3.00% | ~1,693 |
 | Important Missions | 3.00% | ~1,693 |
-| Bane of the Oceans | 2.00% | ~1,128 |
-| Senior Supply Officer | 2.00% | ~1,128 |
-| "Science of Victory" | 2.00% | ~1,128 |
-| Weather Beaten | 2.00% | ~1,128 |
-| Guardian | 2.00% | ~1,128 |
-| Exterminator | 2.00% | ~1,128 |
+| Bane of the Oceans | 2.00% | ~1,129 |
+| Senior Supply Officer | 2.00% | ~1,129 |
+| "Science of Victory" | 2.00% | ~1,129 |
+| Weather Beaten | 2.00% | ~1,129 |
+| Guardian | 2.00% | ~1,129 |
+| Exterminator | 2.00% | ~1,129 |
 | Old-Timer | 1.00% | ~564 |
 | Special Orders | 1.00% | ~564 |
 | Protector | 1.00% | ~564 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~56 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,422 (Ranked 107)  
+Progressed: 56,429 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 55,778 | 0 |
 | 2023-11-21 | 56,063 | 0 |
 | 2023-11-22 | 56,332 | 0 |
-| 2023-11-23 | 56,422 | 0 |
+| 2023-11-23 | 56,429 | 0 |
 ## Awards
 Max (Relaxing): 1,533  (Ranked 130)  
 Sum: 12,819 (Ranked 79)  

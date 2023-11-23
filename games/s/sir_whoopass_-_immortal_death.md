@@ -48,14 +48,14 @@
 | I cant stand still! | 21.00% | ~27 |
 | Just wing it! | 18.00% | ~23 |
 | Slimy... yet satisfying | 18.00% | ~23 |
-| Master Butcher | 16.00% | ~21 |
+| Master Butcher | 17.00% | ~22 |
 | Deal with it | 16.00% | ~21 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~18 |
 | Yeehaw!!! | 13.00% | ~17 |
 | You're looking mozzare-hella good! | 12.00% | ~16 |
+| Spoiler alert! | 10.00% | ~13 |
 | Timber! | 10.00% | ~13 |
 | Free Of Chains | 10.00% | ~13 |
-| Spoiler alert! | 9.00% | ~12 |
 | I drink, but I'm not a drunk! | 9.00% | ~12 |
 | Grumpy Immortal | 9.00% | ~12 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~10 |
@@ -66,22 +66,22 @@
 | Ancient Ruins of Stubbed Toes | 5.00% | ~6 |
 | Ancient Ruins of Leaky Roof | 5.00% | ~6 |
 | Ancient Ruins of Empty Echoes | 4.00% | ~5 |
+| Ancient Ruins of Vitamin D Addition | 4.00% | ~5 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~5 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~5 |
 | Out of bounds | 4.00% | ~5 |
 | Fifty Shades of Gruyere | 3.00% | ~4 |
-| Ancient Ruins of Vitamin D Addition | 3.00% | ~4 |
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 3.00% | ~4 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~4 |
+| Ancient Ruins of Chilly Winds | 3.00% | ~4 |
 | European karaoke king | 3.00% | ~4 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~3 |
 | Ancient Ruins of Peekaboo | 2.00% | ~3 |
-| Ancient Ruins of Chilly Winds | 2.00% | ~3 |
 | Consider it dealt with | 2.00% | ~3 |
 | I'm getting full... | 0.80% | ~1 |
+| Bloody Knuckles | 0.80% | ~1 |
 | I'm feeling lucky! | 0.80% | ~1 |
-| Bloody Knuckles | 0.00% | ~0 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
 | I've got the power | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |

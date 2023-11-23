@@ -113,11 +113,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 860,
+  "EOS_Progressed": 861,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.49,
+  "EOS_Completed_Percentage": 3.48,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2783,6 +2783,11 @@
       "Time": "2023-11-23T09:06:30.0432012+00:00",
       "NumProgressed": 860,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-23T12:03:35.252742+00:00",
+      "NumProgressed": 861,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2803,7 +2808,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "_03_FinishAct1",
@@ -2811,7 +2816,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2835,7 +2840,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "_07_FinishAct3",
@@ -2867,7 +2872,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "_11_Completion_40",
@@ -2923,7 +2928,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2985,9 +2990,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 95
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -3002,7 +3007,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 860,
+      "Progressed": 861,
       "Completed": 30
     }
   ],
@@ -3010,8 +3015,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-23T10:07:06.3834564+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:03:35.2527416+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:58:13.7656642+00:00",
-  "LastUpdate_Achievements": "2023-11-23T10:07:06.3834823+00:00"
+  "LastUpdate_Ratings": "2023-11-23T11:58:56.1818774+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:03:35.2527684+00:00"
 }

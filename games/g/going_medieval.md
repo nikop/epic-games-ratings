@@ -13,7 +13,7 @@ Number of Ratings: 706  (23.09.2022)
 | Green Thumb | 67.00% | ~4,606 |
 | Novice Researcher | 67.00% | ~4,606 |
 | Home Cooked Meal | 61.00% | ~4,194 |
-| Onward | 57.00% | ~3,919 |
+| Onward | 58.00% | ~3,987 |
 | The First Week | 55.00% | ~3,781 |
 | Beam Me Up | 52.00% | ~3,575 |
 | Studious Researcher | 52.00% | ~3,575 |

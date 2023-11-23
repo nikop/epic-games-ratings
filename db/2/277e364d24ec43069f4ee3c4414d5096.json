@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114877,
+  "EOS_Progressed": 114878,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18864,6 +18864,11 @@
       "Time": "2023-11-23T11:09:10.4812943+00:00",
       "NumProgressed": 114877,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-23T12:09:29.6203202+00:00",
+      "NumProgressed": 114878,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18883,7 +18888,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88455
+      "UsersEstimate": 88456
     },
     {
       "ID": "EAwards_10",
@@ -18947,7 +18952,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42504
+      "UsersEstimate": 42505
     },
     {
       "ID": "EAwards_18",
@@ -18979,7 +18984,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12636
+      "UsersEstimate": 12637
     },
     {
       "ID": "EAwards_21",
@@ -19027,7 +19032,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12636
+      "UsersEstimate": 12637
     },
     {
       "ID": "EAwards_27",
@@ -19059,7 +19064,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22975
+      "UsersEstimate": 22976
     },
     {
       "ID": "EAwards_30",
@@ -19259,14 +19264,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12636
+      "UsersEstimate": 12637
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114877,
+      "Progressed": 114878,
       "Completed": 50
     }
   ],
@@ -19274,8 +19279,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:09:10.481294+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:09:29.6203198+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:57:43.1661045+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:09:10.4814097+00:00"
+  "LastUpdate_Ratings": "2023-11-23T11:58:11.3128684+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:09:29.6204432+00:00"
 }

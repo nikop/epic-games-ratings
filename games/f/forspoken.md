@@ -6,7 +6,7 @@ Rating: 4.16 (Ranked 939)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,292 |
-| Unlocked Potential | 9.00% | ~3,862 |
+| Unlocked Potential | 9.00% | ~3,863 |
 | Tinkerer | 7.00% | ~3,004 |
 | Knock 'Em Dead | 7.00% | ~3,004 |
 | Leapfrogger | 6.00% | ~2,575 |
@@ -18,10 +18,10 @@ Rating: 4.16 (Ranked 939)
 | Through the Eyes of Another: Empath | 4.00% | ~1,717 |
 | Stuck | 4.00% | ~1,717 |
 | Help Me Out Here | 4.00% | ~1,717 |
-| Outdoorsperson | 3.00% | ~1,287 |
-| The Interloper | 3.00% | ~1,287 |
-| Hop, Step, Jump | 3.00% | ~1,287 |
-| Endless Runner | 3.00% | ~1,287 |
+| Outdoorsperson | 3.00% | ~1,288 |
+| The Interloper | 3.00% | ~1,288 |
+| Hop, Step, Jump | 3.00% | ~1,288 |
+| Endless Runner | 3.00% | ~1,288 |
 | What Must Be Done | 2.00% | ~858 |
 | Might and Main | 2.00% | ~858 |
 | Damned If You Do... | 2.00% | ~858 |
@@ -36,8 +36,8 @@ Rating: 4.16 (Ranked 939)
 | Pilgrimage: Novice | 1.00% | ~429 |
 | Wildfire | 0.70% | ~300 |
 | Realized Potential | 0.70% | ~300 |
-| Awakening | 0.60% | ~257 |
-| Explorer: Trailblazer | 0.60% | ~257 |
+| Awakening | 0.60% | ~258 |
+| Explorer: Trailblazer | 0.60% | ~258 |
 | Through the Eyes of Another: Seer | 0.50% | ~215 |
 | Archivist | 0.30% | ~129 |
 | Craftsperson | 0.30% | ~129 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 939)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,916 (Ranked 117)  
+Progressed: 42,917 (Ranked 117)  
 Completed: 3 (0.01%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 3 (0.01%) (Ranked 336)
 | 2023-11-20 | 42,850 | 3 |
 | 2023-11-21 | 42,872 | 3 |
 | 2023-11-22 | 42,900 | 3 |
-| 2023-11-23 | 42,916 | 3 |
+| 2023-11-23 | 42,917 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 499)  
 Sum: 29 (Ranked 513)  

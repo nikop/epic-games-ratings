@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -957,6 +957,11 @@
       "Time": "2023-11-23T11:04:50.670309+00:00",
       "NumProgressed": 439,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T12:06:03.4289321+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -975,9 +980,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1025,7 +1030,7 @@
       "Name": "Pathfinder",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "CompleteChapter10",
@@ -1111,17 +1116,17 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 238
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "CompleteChapter4",
@@ -1135,9 +1140,9 @@
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "CompleteChapter6",
@@ -1153,7 +1158,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CompleteChapter8",
@@ -1241,7 +1246,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1264,14 +1269,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:04:50.6703086+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:06:03.4289316+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:57:47.7728667+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:04:50.6703498+00:00"
+  "LastUpdate_Ratings": "2023-11-23T11:58:17.7053358+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:06:03.428955+00:00"
 }

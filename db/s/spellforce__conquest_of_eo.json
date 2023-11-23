@@ -233,9 +233,9 @@
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 58,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Craft_First_Undead",
@@ -713,9 +713,9 @@
       "ID": "Tower_Fly",
       "SetID": "7b9f97e",
       "Name": "Fly the friendly Sky",
-      "Percentage": 58,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -738,8 +738,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:08:30.3228278+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:08:33.723765+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:05.0586165+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:00:19.1829533+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:08:30.3229065+00:00"
+  "LastUpdate_Ratings": "2023-11-23T12:02:01.2476012+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:08:33.7238213+00:00"
 }

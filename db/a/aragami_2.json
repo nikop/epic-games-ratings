@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43968,
+  "EOS_Progressed": 43969,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17864,6 +17864,11 @@
       "Time": "2023-11-23T11:03:50.7201944+00:00",
       "NumProgressed": 43968,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-11-23T12:04:39.9347601+00:00",
+      "NumProgressed": 43969,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 44,
@@ -17939,7 +17944,7 @@
       "Name": "Denouement",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -17995,7 +18000,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35174
+      "UsersEstimate": 35175
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -18003,7 +18008,7 @@
       "Name": "Master Ninja",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4836
+      "UsersEstimate": 4837
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -18067,7 +18072,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16268
+      "UsersEstimate": 16269
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -18091,7 +18096,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10552
+      "UsersEstimate": 10553
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -18099,7 +18104,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24182
+      "UsersEstimate": 24183
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -18123,7 +18128,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11871
+      "UsersEstimate": 11872
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -18131,7 +18136,7 @@
       "Name": "A Pleasant Stay",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -18211,7 +18216,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40890
+      "UsersEstimate": 40891
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -18219,14 +18224,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22863
+      "UsersEstimate": 22864
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43968,
+      "Progressed": 43969,
       "Completed": 241
     }
   ],
@@ -18234,8 +18239,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:03:50.720194+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:04:39.9347593+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:11.2490619+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:02:46.516694+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:03:50.7203503+00:00"
+  "LastUpdate_Ratings": "2023-11-23T12:03:04.6040985+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:04:39.9348731+00:00"
 }

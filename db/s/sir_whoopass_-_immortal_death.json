@@ -593,9 +593,9 @@
       "ID": "BARD_SPOILED",
       "SetID": "9gfkh7c",
       "Name": "Spoiler alert!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BIGBOI_1",
@@ -697,9 +697,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_04",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Vitamin D Addition",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_05",
@@ -777,9 +777,9 @@
       "ID": "COMPLETE_DUNGEONRUINS_03",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Chilly Winds",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "COWBOY_1",
@@ -857,9 +857,9 @@
       "ID": "ENEMIES_2",
       "SetID": "9gfkh7c",
       "Name": "Master Butcher",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ENEMIES_3",
@@ -953,9 +953,9 @@
       "ID": "GRENADIER_1",
       "SetID": "9gfkh7c",
       "Name": "Bloody Knuckles",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GRENADIER_2",
@@ -1256,8 +1256,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:09:14.1775757+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:09:34.8513063+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:08.5244911+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:02:39.3616717+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:09:14.1776876+00:00"
+  "LastUpdate_Ratings": "2023-11-23T12:02:14.1525018+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:09:34.851391+00:00"
 }

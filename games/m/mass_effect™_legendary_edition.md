@@ -31,11 +31,11 @@
 | Merciless | 42.00% | ~575 |
 | Krogan Ally | 41.00% | ~561 |
 | Sentinel Ally | 40.00% | ~548 |
-| Head Hunter | 39.00% | ~534 |
+| Head Hunter | 40.00% | ~548 |
 | Scholar | 39.00% | ~534 |
+| The Professor | 38.00% | ~520 |
 | Operative | 38.00% | ~520 |
 | Veteran | 37.00% | ~507 |
-| The Professor | 37.00% | ~507 |
 | Power Full | 37.00% | ~507 |
 | The Archangel | 36.00% | ~493 |
 | The Convict | 35.00% | ~479 |

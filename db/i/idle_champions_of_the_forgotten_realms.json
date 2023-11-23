@@ -8245,9 +8245,9 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236466,
+  "EOS_Progressed": 236469,
   "EOS_Completed": 2469,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32590,6 +32590,11 @@
       "Time": "2023-11-23T11:09:43.2517339+00:00",
       "NumProgressed": 236466,
       "NumCompleted": 2469
+    },
+    {
+      "Time": "2023-11-23T12:10:14.8426737+00:00",
+      "NumProgressed": 236469,
+      "NumCompleted": 2469
     }
   ],
   "TotalAchievements": 532,
@@ -35023,9 +35028,9 @@
       "ID": "objective_completed_580",
       "SetID": "cc37lbc",
       "Name": "Vault of Dragons",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_581",
@@ -35247,9 +35252,9 @@
       "ID": "objective_completed_612",
       "SetID": "415jc5c",
       "Name": "Thrice More Into The Breach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_613",
@@ -35607,9 +35612,9 @@
       "ID": "objective_completed_676",
       "SetID": "415jc5c",
       "Name": "Extreme Heat",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_677",
@@ -35895,9 +35900,9 @@
       "ID": "objective_completed_810",
       "SetID": "415jc5c",
       "Name": "Lone Wolf Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_812",
@@ -35967,9 +35972,9 @@
       "ID": "objective_completed_828",
       "SetID": "415jc5c",
       "Name": "Mimic Perception",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_829",
@@ -36856,21 +36861,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202740,
+      "Progressed": 202743,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236466,
+      "Progressed": 236469,
       "Completed": 2469
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-23T06:57:43.4318598+00:00",
-  "LastChanged_Achievements": "2023-11-23T11:09:43.2517335+00:00",
+  "LastChanged_Achievements": "2023-11-23T12:10:14.8426732+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:57:54.0304557+00:00",
-  "LastUpdate_Achievements": "2023-11-23T11:09:43.2541836+00:00"
+  "LastUpdate_Ratings": "2023-11-23T11:58:27.0076513+00:00",
+  "LastUpdate_Achievements": "2023-11-23T12:10:14.8449247+00:00"
 }
