@@ -4,7 +4,7 @@
   "ProductSlug": "dude-where-is-my-beer-2455aa",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
@@ -401,9 +401,9 @@
       "ID": "MY_FIRST_BEER",
       "SetID": "6akbe6n",
       "Name": "My first beer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NO_HINTS_USED",
@@ -472,8 +472,8 @@
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:09:45.9365371+00:00",
-  "LastUpdate_AppInfo": "2023-11-16T13:03:45.0183019+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:03:33.2954272+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:09:45.9365485+00:00"
+  "LastChanged_Achievements": "2023-11-23T14:04:06.7886189+00:00",
+  "LastUpdate_AppInfo": "2023-11-23T13:56:58.0408532+00:00",
+  "LastUpdate_Ratings": "2023-11-23T13:57:53.014005+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:04:06.7886316+00:00"
 }

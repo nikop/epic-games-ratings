@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 691,
+  "EOS_Progressed": 692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -622,6 +622,11 @@
       "Time": "2023-11-23T06:03:22.7245871+00:00",
       "NumProgressed": 691,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T14:03:50.1939225+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -657,7 +662,7 @@
       "Name": "Big Spender",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Clarity_of_Mind",
@@ -705,7 +710,7 @@
       "Name": "I feel secure, contained \u0026 protected",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "I\u0027m walking here!",
@@ -721,15 +726,15 @@
       "Name": "I just love stuff!",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "I_think_its_broke",
       "SetID": "gl7plp",
       "Name": "I think it\u0027s broke",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 187
     },
     {
       "ID": "In the smacker...I think",
@@ -745,7 +750,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Lady_Luck",
@@ -777,7 +782,7 @@
       "Name": "Science, it works!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "So_Fresh",
@@ -801,7 +806,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -817,7 +822,7 @@
       "Name": "The Traveler",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "The_Age_of_Mutationem",
@@ -849,7 +854,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "The_truth_is_out_there",
@@ -920,7 +925,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 691,
+      "Progressed": 692,
       "Completed": 0
     }
   ],
@@ -928,8 +933,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:09:29.2484663+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:03:50.1939222+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:33.6518262+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:03:38.4988671+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:09:29.2484989+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:57:58.1971627+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:03:50.1939438+00:00"
 }

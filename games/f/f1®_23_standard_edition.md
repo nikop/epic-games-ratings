@@ -5,28 +5,28 @@ Rating: 4.67 (Ranked 275)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,519 |
-| On the Top Step | 88.00% | ~5,166 |
+| Getting on the Step | 94.00% | ~5,520 |
+| On the Top Step | 88.00% | ~5,167 |
 | Setting up for Success | 77.00% | ~4,521 |
-| Team Orders | 75.00% | ~4,403 |
-| Engineer | 55.00% | ~3,229 |
-| Familiar Faces | 48.00% | ~2,818 |
+| Team Orders | 75.00% | ~4,404 |
+| Engineer | 55.00% | ~3,230 |
+| Familiar Faces | 48.00% | ~2,819 |
 | Sharing the Love | 42.00% | ~2,466 |
 | Going the Extra Mile | 42.00% | ~2,466 |
 | Hitting a Season | 38.00% | ~2,231 |
-| A Dozen Pieces | 33.00% | ~1,937 |
-| Challenge Yourself | 33.00% | ~1,937 |
+| A Dozen Pieces | 33.00% | ~1,938 |
+| Challenge Yourself | 33.00% | ~1,938 |
 | Making History | 31.00% | ~1,820 |
 | Network Success | 27.00% | ~1,585 |
 | Writing a new Chapter | 25.00% | ~1,468 |
 | Spring Cleaning | 24.00% | ~1,409 |
 | Reduce | 20.00% | ~1,174 |
 | Ups and Downs | 20.00% | ~1,174 |
-| Crucial Combo | 19.00% | ~1,115 |
+| Crucial Combo | 19.00% | ~1,116 |
 | Reuse | 17.00% | ~998 |
-| Gathering Dust | 16.00% | ~939 |
-| One for the Book | 16.00% | ~939 |
-| Proving Them Wrong | 16.00% | ~939 |
+| Gathering Dust | 16.00% | ~940 |
+| One for the Book | 16.00% | ~940 |
+| Proving Them Wrong | 16.00% | ~940 |
 | Oil and Water | 14.00% | ~822 |
 | Hitting a Bullseye | 14.00% | ~822 |
 | Eagle Eye | 13.00% | ~763 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 275)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,871 (Ranked 186)  
+Progressed: 5,872 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 5,836 | 0 |
 | 2023-11-21 | 5,850 | 0 |
 | 2023-11-22 | 5,863 | 0 |
-| 2023-11-23 | 5,871 | 0 |
+| 2023-11-23 | 5,872 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 524)  
 Sum: 87 (Ranked 456)  

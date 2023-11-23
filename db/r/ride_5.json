@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2230,
+  "EOS_Progressed": 2232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5242,6 +5242,11 @@
       "Time": "2023-11-23T13:15:04.174315+00:00",
       "NumProgressed": 2230,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T14:09:06.3074057+00:00",
+      "NumProgressed": 2232,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5254,7 +5259,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5270,7 +5275,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5278,7 +5283,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -5318,7 +5323,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -5462,7 +5467,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5510,7 +5515,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5542,7 +5547,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5558,7 +5563,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5606,7 +5611,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5645,14 +5650,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2230,
+      "Progressed": 2232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:15:04.1743147+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:09:06.3074054+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:02:46.8008677+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:15:04.1743638+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:57:06.0079723+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:09:06.3074719+00:00"
 }

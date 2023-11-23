@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -627,7 +627,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5871,
+  "EOS_Progressed": 5872,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -6112,6 +6112,11 @@
       "Time": "2023-11-23T13:13:59.7588373+00:00",
       "NumProgressed": 5871,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T14:08:00.628601+00:00",
+      "NumProgressed": 5872,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6132,7 +6137,7 @@
       "Name": "Gathering Dust",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "achievement_0003",
@@ -6156,7 +6161,7 @@
       "Name": "Crucial Combo",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "achievement_0006",
@@ -6172,7 +6177,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5519
+      "UsersEstimate": 5520
     },
     {
       "ID": "achievement_0008",
@@ -6180,7 +6185,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5166
+      "UsersEstimate": 5167
     },
     {
       "ID": "achievement_0009",
@@ -6284,7 +6289,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "achievement_0022",
@@ -6292,7 +6297,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "achievement_0023",
@@ -6380,7 +6385,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "achievement_0034",
@@ -6388,7 +6393,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "achievement_0035",
@@ -6436,7 +6441,7 @@
       "Name": "One for the Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "achievement_0041",
@@ -6460,7 +6465,7 @@
       "Name": "Familiar Faces",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "achievement_0044",
@@ -6508,14 +6513,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5871,
+      "Progressed": 5872,
       "Completed": 0
     }
   ],
@@ -6523,8 +6528,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-23T01:45:14.7212553+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:13:59.758837+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:08:00.6286005+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:04:12.1839481+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:13:59.7589133+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:58:32.7615434+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:08:00.6286568+00:00"
 }

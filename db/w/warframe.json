@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
@@ -12452,10 +12452,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 51207,
       "NumberOfAwardsMax": 18588
+    },
+    {
+      "Time": "2023-11-23T13:57:33.2969907+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 51218,
+      "NumberOfAwardsMax": 18588
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51207,
+  "NumberOfAwards": 51218,
   "NumberOfAwardsMax": 18588,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12481,7 +12487,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4030
+      "Count": 4041
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12537,8 +12543,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-11-23T04:57:35.1619473+00:00",
+  "LastChanged": "2023-11-23T13:57:33.2969905+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:02.1462329+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:03:13.7021171+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:10:08.1229912+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:57:33.2969912+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:04:29.1020644+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -895,8 +895,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:11:12.4294985+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:05:33.7469162+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:08:26.7022963+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:11:12.4295145+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:02:45.2294748+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:05:33.7469347+00:00"
 }

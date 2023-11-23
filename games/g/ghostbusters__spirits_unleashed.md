@@ -19,13 +19,13 @@ Rating: 4.50 (Ranked 588)
 | There you are! | 4.00% | ~1,257 |
 | Vaporous Expansion | 4.00% | ~1,257 |
 | Whoopsie | 4.00% | ~1,257 |
-| Animated | 3.00% | ~942 |
-| Daily Dose | 3.00% | ~942 |
-| Ectoplasmic Entity | 3.00% | ~942 |
-| Ghostbuster In Training | 3.00% | ~942 |
-| Icing on the Cake | 3.00% | ~942 |
-| Right back at ya | 3.00% | ~942 |
-| Summoner | 3.00% | ~942 |
+| Animated | 3.00% | ~943 |
+| Daily Dose | 3.00% | ~943 |
+| Ectoplasmic Entity | 3.00% | ~943 |
+| Ghostbuster In Training | 3.00% | ~943 |
+| Icing on the Cake | 3.00% | ~943 |
+| Right back at ya | 3.00% | ~943 |
+| Summoner | 3.00% | ~943 |
 | Back Off | 2.00% | ~628 |
 | We have the best insurance | 2.00% | ~628 |
 | Collector | 2.00% | ~628 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,416 (Ranked 124)  
+Progressed: 31,417 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 68 (0.22%) (Ranked 249)
 | 2023-11-20 | 31,308 | 68 |
 | 2023-11-21 | 31,349 | 68 |
 | 2023-11-22 | 31,398 | 68 |
-| 2023-11-23 | 31,416 | 68 |
+| 2023-11-23 | 31,417 | 68 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 249)  
 Sum: 2,840 (Ranked 179)  

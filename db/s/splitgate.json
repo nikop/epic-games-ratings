@@ -4,7 +4,7 @@
   "ProductSlug": "splitgate-a4414d",
   "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T18:57:26.0168656+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:05:37.2274136+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:14:38.2963678+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:59:57.875798+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:08:40.3865471+00:00"
 }

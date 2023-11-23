@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 5.00% | ~7,056 |
 | Tinkle of Coins | 5.00% | ~7,056 |
 | Titan's First Steps | 5.00% | ~7,056 |
-| Disintermediation | 4.00% | ~5,644 |
-| Capitalism Ho! | 4.00% | ~5,644 |
-| One Easy Payment | 3.00% | ~4,233 |
-| Some Assembly Required | 3.00% | ~4,233 |
-| Another Satisfied Customer | 3.00% | ~4,233 |
-| It's Free Real Estate | 3.00% | ~4,233 |
-| Pretty Penny | 3.00% | ~4,233 |
-| Budding Merchant | 3.00% | ~4,233 |
-| Own the Means of Production | 3.00% | ~4,233 |
+| Disintermediation | 4.00% | ~5,645 |
+| Capitalism Ho! | 4.00% | ~5,645 |
+| One Easy Payment | 3.00% | ~4,234 |
+| Some Assembly Required | 3.00% | ~4,234 |
+| Another Satisfied Customer | 3.00% | ~4,234 |
+| It's Free Real Estate | 3.00% | ~4,234 |
+| Pretty Penny | 3.00% | ~4,234 |
+| Budding Merchant | 3.00% | ~4,234 |
+| Own the Means of Production | 3.00% | ~4,234 |
 | The Daily Grind | 2.00% | ~2,822 |
 | Bounty Hunters | 2.00% | ~2,822 |
 | Demand for Supplies | 2.00% | ~2,822 |
@@ -70,6 +70,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 0.90% | ~1,270 |
 | Cranked up to 11 | 0.90% | ~1,270 |
 | Fit for a King | 0.90% | ~1,270 |
+| By Your Powers Combined... | 0.90% | ~1,270 |
 | Wealth Beyond Measure | 0.90% | ~1,270 |
 | Fat Cat Tag Team | 0.90% | ~1,270 |
 | Necromancer Queen | 0.90% | ~1,270 |
@@ -88,7 +89,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.80% | ~1,129 |
 | Industrial Evolution | 0.80% | ~1,129 |
 | Ritualist | 0.80% | ~1,129 |
-| By Your Powers Combined... | 0.80% | ~1,129 |
 | Item of Renown | 0.80% | ~1,129 |
 | Bountiful Harvest | 0.80% | ~1,129 |
 | Precision Engineering | 0.80% | ~1,129 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,111 (Ranked 80)  
+Progressed: 141,119 (Ranked 80)  
 Completed: 195 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 195 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
-| 2023-11-23 | 141,111 | 195 |
+| 2023-11-23 | 141,119 | 195 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

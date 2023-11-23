@@ -199,9 +199,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "BARON",
@@ -359,9 +359,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MOUNTAINEER",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:13:42.7262523+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:07:43.367061+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:04:30.169521+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:13:42.7262702+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:58:50.9889538+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:07:43.3670895+00:00"
 }

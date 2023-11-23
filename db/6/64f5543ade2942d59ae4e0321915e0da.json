@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AC_BOSS_02",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:10:38.2235035+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:04:59.35743+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.647609+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:05:50.3902599+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:10:38.2235297+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:00:10.6772361+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:04:59.3574588+00:00"
 }

@@ -1970,9 +1970,9 @@
       "ID": "ACHV_FULLYMODDED",
       "SetID": "cceobco",
       "Name": "Fully Modded",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -2137,8 +2137,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:14:15.0728523+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:08:16.075529+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.4021607+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:05:03.1598499+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:14:15.0728785+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:59:23.7499528+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:08:16.0755623+00:00"
 }

@@ -4,39 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Air Fighter | 80.00% | ~4 |
-| Savior | 60.00% | ~3 |
-| Treasure Hunter | 60.00% | ~3 |
-| Act of Kindness | 60.00% | ~3 |
-| The Altruist | 60.00% | ~3 |
-| The Gang prevails | 40.00% | ~2 |
-| Oo-De-Lally | 40.00% | ~2 |
-| Merry Co-operation | 40.00% | ~2 |
-| Tap Dancing | 40.00% | ~2 |
-| Watch your Step! | 40.00% | ~2 |
-| Finish Him! | 40.00% | ~2 |
-| Right between the eyes | 40.00% | ~2 |
-| Locksley's Tears | 40.00% | ~2 |
-| Spring Board | 40.00% | ~2 |
-| Ultra Rebel Instinct | 40.00% | ~2 |
-| Take Action! | 40.00% | ~2 |
-| Rebel Unleashed | 40.00% | ~2 |
-| MAX LEVEL | 40.00% | ~2 |
-| First Aid | 40.00% | ~2 |
-| Merry Go Round | 40.00% | ~2 |
-| Starry Night | 20.00% | ~1 |
-| King of the Iron Fist | 20.00% | ~1 |
-| Ultra Combo | 20.00% | ~1 |
-| Bold and Bossy | 20.00% | ~1 |
-| Power of Friendship! | 20.00% | ~1 |
-| Out of the ring | 20.00% | ~1 |
-| Hidden Experiment | 20.00% | ~1 |
-| A Gest of Robyn Hode | 20.00% | ~1 |
-| Assault on the Ram | 20.00% | ~1 |
-| Into the Lion's Den | 20.00% | ~1 |
-| Haute Couture | 20.00% | ~1 |
+| Air Fighter | 100.00% | ~6 |
+| Act of Kindness | 83.00% | ~5 |
+| The Altruist | 83.00% | ~5 |
+| Merry Co-operation | 67.00% | ~4 |
+| Watch your Step! | 67.00% | ~4 |
+| Treasure Hunter | 67.00% | ~4 |
+| Savior | 50.00% | ~3 |
+| Tap Dancing | 50.00% | ~3 |
+| Right between the eyes | 50.00% | ~3 |
+| MAX LEVEL | 50.00% | ~3 |
+| The Gang prevails | 33.00% | ~2 |
+| Oo-De-Lally | 33.00% | ~2 |
+| Finish Him! | 33.00% | ~2 |
+| Five of Friends | 33.00% | ~2 |
+| Locksley's Tears | 33.00% | ~2 |
+| Spring Board | 33.00% | ~2 |
+| Ultra Rebel Instinct | 33.00% | ~2 |
+| Take Action! | 33.00% | ~2 |
+| Rebel Unleashed | 33.00% | ~2 |
+| First Aid | 33.00% | ~2 |
+| Merry Go Round | 33.00% | ~2 |
+| Starry Night | 17.00% | ~1 |
+| Brilliant Executioner | 17.00% | ~1 |
+| King of the Iron Fist | 17.00% | ~1 |
+| Ultra Combo | 17.00% | ~1 |
+| Bold and Bossy | 17.00% | ~1 |
+| Power of Friendship! | 17.00% | ~1 |
+| Out of the ring | 17.00% | ~1 |
+| Hidden Experiment | 17.00% | ~1 |
+| A Gest of Robyn Hode | 17.00% | ~1 |
+| Assault on the Ram | 17.00% | ~1 |
+| Into the Lion's Den | 17.00% | ~1 |
+| Haute Couture | 17.00% | ~1 |
 | Ascending Will | 0.00% | ~0 |
-| Brilliant Executioner | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |
@@ -47,7 +48,6 @@
 | It belongs in a museum | 0.00% | ~0 |
 | Sherwood Moment 37 | 0.00% | ~0 |
 | Sky High Fighter | 0.00% | ~0 |
-| Five of Friends | 0.00% | ~0 |
 | The Crowkiller | 0.00% | ~0 |
 | Money can not buy happiness | 0.00% | ~0 |
 | Only Child | 0.00% | ~0 |
@@ -58,10 +58,10 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 633)  
+Progressed: 6 (Ranked 621)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-21 | 4 | 0 |
-| 2023-11-23 | 5 | 0 |
+| 2023-11-23 | 6 | 0 |

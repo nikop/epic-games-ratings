@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -505,7 +505,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2570,
+  "EOS_Progressed": 2571,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
@@ -7765,6 +7765,11 @@
       "Time": "2023-11-23T12:09:19.2922555+00:00",
       "NumProgressed": 2570,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-23T14:08:27.2326086+00:00",
+      "NumProgressed": 2571,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7776,7 +7781,7 @@
       "Name": "Active Member",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ancientknowledge",
@@ -7784,7 +7789,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "angelpower",
@@ -7800,7 +7805,7 @@
       "Name": "Arena Challenger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "backgroundstory",
@@ -7808,7 +7813,7 @@
       "Name": "Background Story",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "beastwarmachines",
@@ -7904,7 +7909,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "enchantingskill",
@@ -7960,7 +7965,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "fourleafclover",
@@ -8008,7 +8013,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "herewegoagain",
@@ -8064,7 +8069,7 @@
       "Name": "Legendary",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "lieutenant",
@@ -8104,7 +8109,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "minerclicker",
@@ -8136,7 +8141,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "mythicpower",
@@ -8176,7 +8181,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "relicofthepast",
@@ -8224,7 +8229,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "templeofeternals",
@@ -8336,7 +8341,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "warmachinesarmy",
@@ -8368,14 +8373,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2570,
+      "Progressed": 2571,
       "Completed": 2
     }
   ],
@@ -8383,8 +8388,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-23T00:01:24.3515304+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:14:26.2077917+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:08:27.2326083+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:05:43.5460517+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:14:26.2078734+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:00:04.0766463+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:08:27.2327139+00:00"
 }

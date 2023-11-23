@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,038 |
-| Cavalier | 25.00% | ~202,373 |
-| Fatso | 23.00% | ~186,183 |
-| Awakening | 21.00% | ~169,994 |
-| Ranger | 20.00% | ~161,899 |
-| Scrooge | 20.00% | ~161,899 |
-| Anorectic | 16.00% | ~129,519 |
-| Bookworm | 15.00% | ~121,424 |
-| Firestarter | 15.00% | ~121,424 |
-| Insomniac | 13.00% | ~105,234 |
-| Buddy | 12.00% | ~97,139 |
-| Thief | 12.00% | ~97,139 |
-| Sinner | 11.00% | ~89,044 |
-| Traveller | 11.00% | ~89,044 |
-| Convict | 10.00% | ~80,949 |
-| Haggler | 9.00% | ~72,854 |
+| Blacksmith's Son | 32.00% | ~259,041 |
+| Cavalier | 25.00% | ~202,376 |
+| Fatso | 23.00% | ~186,186 |
+| Awakening | 21.00% | ~169,996 |
+| Ranger | 20.00% | ~161,901 |
+| Scrooge | 20.00% | ~161,901 |
+| Anorectic | 16.00% | ~129,521 |
+| Bookworm | 15.00% | ~121,426 |
+| Firestarter | 15.00% | ~121,426 |
+| Insomniac | 13.00% | ~105,236 |
+| Buddy | 12.00% | ~97,140 |
+| Thief | 12.00% | ~97,140 |
+| Sinner | 11.00% | ~89,045 |
+| Traveller | 11.00% | ~89,045 |
+| Convict | 10.00% | ~80,950 |
+| Haggler | 9.00% | ~72,855 |
 | McLovin | 7.00% | ~56,665 |
 | Runt | 7.00% | ~56,665 |
 | Casanova | 6.00% | ~48,570 |
@@ -51,45 +51,45 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~8,095 |
 | Master Huntsman | 1.00% | ~8,095 |
 | Stealth Killer | 1.00% | ~8,095 |
-| Bailiff | 0.90% | ~7,285 |
-| Tracker | 0.90% | ~7,285 |
+| Bailiff | 0.90% | ~7,286 |
+| Tracker | 0.90% | ~7,286 |
 | David Horak | 0.80% | ~6,476 |
-| Fighter | 0.70% | ~5,666 |
-| Mercenary's Honour | 0.70% | ~5,666 |
-| Saviour | 0.70% | ~5,666 |
+| Fighter | 0.70% | ~5,667 |
+| Mercenary's Honour | 0.70% | ~5,667 |
+| Saviour | 0.70% | ~5,667 |
 | Edward Kelly | 0.60% | ~4,857 |
-| I Can Quit Anytime | 0.50% | ~4,047 |
-| Perfectionist | 0.50% | ~4,047 |
-| Alcoholic | 0.30% | ~2,428 |
-| Sniper | 0.30% | ~2,428 |
+| I Can Quit Anytime | 0.50% | ~4,048 |
+| Perfectionist | 0.50% | ~4,048 |
+| Alcoholic | 0.30% | ~2,429 |
+| Sniper | 0.30% | ~2,429 |
 | Angel of Mercy | 0.20% | ~1,619 |
 | Christian Burial | 0.20% | ~1,619 |
 | Friends without benefits | 0.20% | ~1,619 |
 | Game Over | 0.20% | ~1,619 |
 | Not-so-Christian Burial | 0.20% | ~1,619 |
 | True Friend | 0.20% | ~1,619 |
-| Bad Girl | 0.10% | ~809 |
-| Cleric's pet | 0.10% | ~809 |
-| Full House Sinner | 0.10% | ~809 |
-| Lord Capon's Ghost | 0.10% | ~809 |
-| Hardcore Henry | 0.10% | ~809 |
-| Infernal Justice | 0.10% | ~809 |
-| Judas | 0.10% | ~809 |
-| Like a Ghost | 0.10% | ~809 |
-| Lost Trinket | 0.10% | ~809 |
-| Merciful | 0.10% | ~809 |
-| You had one job! | 0.10% | ~809 |
-| Pilgrim | 0.10% | ~809 |
-| Pinky Promis | 0.10% | ~809 |
-| Ledetchko Revenant | 0.10% | ~809 |
-| 'Tis but a scratch | 0.10% | ~809 |
-| Torturer | 0.10% | ~809 |
-| Trial-And-Error | 0.10% | ~809 |
-| Virgin | 0.10% | ~809 |
-| Voyeur | 0.10% | ~809 |
-| Wingman | 0.10% | ~809 |
+| Bad Girl | 0.10% | ~810 |
+| Cleric's pet | 0.10% | ~810 |
+| Full House Sinner | 0.10% | ~810 |
+| Lord Capon's Ghost | 0.10% | ~810 |
+| Hardcore Henry | 0.10% | ~810 |
+| Infernal Justice | 0.10% | ~810 |
+| Judas | 0.10% | ~810 |
+| Like a Ghost | 0.10% | ~810 |
+| Lost Trinket | 0.10% | ~810 |
+| Merciful | 0.10% | ~810 |
+| You had one job! | 0.10% | ~810 |
+| Pilgrim | 0.10% | ~810 |
+| Pinky Promis | 0.10% | ~810 |
+| Ledetchko Revenant | 0.10% | ~810 |
+| 'Tis but a scratch | 0.10% | ~810 |
+| Torturer | 0.10% | ~810 |
+| Trial-And-Error | 0.10% | ~810 |
+| Virgin | 0.10% | ~810 |
+| Voyeur | 0.10% | ~810 |
+| Wingman | 0.10% | ~810 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,493 (Ranked 17)  
+Progressed: 809,504 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,15 +306,15 @@ Completed: 51 (0.01%) (Ranked 336)
 | 2023-11-20 | 809,201 | 51 |
 | 2023-11-21 | 809,319 | 51 |
 | 2023-11-22 | 809,432 | 51 |
-| 2023-11-23 | 809,493 | 51 |
+| 2023-11-23 | 809,504 | 51 |
 ## Awards
 Max (Character Customization): 7,623  (Ranked 51)  
-Sum: 28,319 (Ranked 49)  
+Sum: 28,321 (Ranked 49)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,623 |
-| This game has Great Boss Battles | 5,584 |
+| This game has Great Boss Battles | 5,586 |
 | This game has Challenging Combat | 1,779 |
 | This game has Diverse Characters | 1,734 |
 | This game has Amazing Storytelling | 1,724 |
@@ -628,4 +628,4 @@ Diff (max vs sum): 2
 | 2023-11-20 | 4.71 | - | 7,617 | 28,298 |
 | 2023-11-21 | 4.71 | - | 7,620 | 28,310 |
 | 2023-11-22 | 4.71 | - | 7,620 | 28,312 |
-| 2023-11-23 | 4.71 | - | 7,623 | 28,319 |
+| 2023-11-23 | 4.71 | - | 7,623 | 28,321 |

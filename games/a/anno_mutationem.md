@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~525 |
+| Tell me your story | 76.00% | ~526 |
 | Don't judge a manhole by its cover | 60.00% | ~415 |
-| I just love stuff! | 43.00% | ~297 |
-| Keep 'em coming! | 43.00% | ~297 |
-| The things they print nowadays | 40.00% | ~276 |
-| Big Spender | 39.00% | ~269 |
+| I just love stuff! | 43.00% | ~298 |
+| Keep 'em coming! | 43.00% | ~298 |
+| The things they print nowadays | 40.00% | ~277 |
+| Big Spender | 39.00% | ~270 |
 | That's gotta hurt | 37.00% | ~256 |
+| I think it's broke | 27.00% | ~187 |
 | The Ann Flores Combo Experience | 27.00% | ~187 |
-| I think it's broke | 26.00% | ~180 |
 | Club Star | 25.00% | ~173 |
 | Fire in the hole! | 21.00% | ~145 |
 | The Warlord | 21.00% | ~145 |
@@ -31,9 +31,9 @@ Rating: 4.56 (Ranked 491)
 | Welcome home, 06 | 8.00% | ~55 |
 | Clarity of Mind | 7.00% | ~48 |
 | Supreme Bartender Ann | 7.00% | ~48 |
-| I feel secure, contained & protected | 6.00% | ~41 |
-| Science, it works! | 6.00% | ~41 |
-| The Traveler | 6.00% | ~41 |
+| I feel secure, contained & protected | 6.00% | ~42 |
+| Science, it works! | 6.00% | ~42 |
+| The Traveler | 6.00% | ~42 |
 | Woman on a (side) mission | 5.00% | ~35 |
 | Ann ULTRA | 3.00% | ~21 |
 | Lady Luck is a cool cat | 3.00% | ~21 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 491)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691 (Ranked 281)  
+Progressed: 692 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-10 | 682 | 0 |
 | 2023-11-16 | 683 | 0 |
 | 2023-11-22 | 689 | 0 |
-| 2023-11-23 | 691 | 0 |
+| 2023-11-23 | 692 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

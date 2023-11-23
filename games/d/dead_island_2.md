@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~972 |
-| Whatever It Takes | 2.00% | ~972 |
-| Pork Chopped | 2.00% | ~972 |
+| One of Us | 2.00% | ~973 |
+| Whatever It Takes | 2.00% | ~973 |
+| Pork Chopped | 2.00% | ~973 |
 | Dr. Reed, I Presume? | 1.00% | ~7,231 |
 | Git Gutte! | 1.00% | ~7,231 |
 | Anger Management | 1.00% | ~7,231 |
@@ -35,12 +35,12 @@ Rating: 4.54 (Ranked 526)
 | Making Your Mark | 0.70% | ~5,062 |
 | I Am the Resurrection | 0.70% | ~5,062 |
 | Max Headroom | 0.70% | ~5,062 |
-| Not Even My Final Form | 0.60% | ~4,338 |
-| Humanity Distilled | 0.60% | ~4,338 |
-| Down with the Sickness | 0.60% | ~4,338 |
-| Jumbo Keyring | 0.50% | ~3,615 |
-| Go, Bobcats! | 0.50% | ~3,615 |
-| Rising Star | 0.50% | ~3,615 |
+| Not Even My Final Form | 0.60% | ~4,339 |
+| Humanity Distilled | 0.60% | ~4,339 |
+| Down with the Sickness | 0.60% | ~4,339 |
+| Jumbo Keyring | 0.50% | ~3,616 |
+| Go, Bobcats! | 0.50% | ~3,616 |
+| Rising Star | 0.50% | ~3,616 |
 | Make it So | 0.40% | ~2,892 |
 | On Safari | 0.40% | ~2,892 |
 | Smorgasbord | 0.40% | ~2,892 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,076 (Ranked 21)  
+Progressed: 723,111 (Ranked 21)  
 Completed: 2,427 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2,427 (0.34%) (Ranked 228)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 723,076 | 2,427 |
+| 2023-11-23 | 723,111 | 2,427 |
 ## Awards
 Max (Great Boss Battles): 7,661  (Ranked 50)  
 Sum: 11,691 (Ranked 83)  

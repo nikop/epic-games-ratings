@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3331,
+  "EOS_Progressed": 3332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5798,6 +5798,11 @@
       "Time": "2023-11-22T21:06:04.1915987+00:00",
       "NumProgressed": 3331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T14:06:11.2186026+00:00",
+      "NumProgressed": 3332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5809,7 +5814,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "ACH_BASE_10",
@@ -5945,7 +5950,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_BASE_28",
@@ -5959,9 +5964,9 @@
       "ID": "ACH_BASE_29",
       "SetID": "92iocjf",
       "Name": "A Thousand Strong",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_BASE_3",
@@ -5985,7 +5990,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_BASE_32",
@@ -6017,7 +6022,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_BASE_36",
@@ -6137,7 +6142,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_BASE_52",
@@ -6161,7 +6166,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_BASE_57",
@@ -6264,13 +6269,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1515,
+      "Progressed": 1516,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3331,
+      "Progressed": 3332,
       "Completed": 0
     }
   ],
@@ -6278,8 +6283,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:11:48.2704428+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:06:11.2186022+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.7251955+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:05:49.6306642+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:11:48.2705005+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:00:09.8862124+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:06:11.2186684+00:00"
 }

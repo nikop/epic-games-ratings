@@ -621,9 +621,9 @@
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
       "SetID": "caeik3h",
       "Name": "Nothing is beneath me!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
@@ -869,9 +869,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:10:55.0231143+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:05:16.4718932+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7283252+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:03:23.1057961+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:10:55.0231742+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:57:42.8896763+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:05:16.4719649+00:00"
 }

@@ -1249,9 +1249,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258650,
+  "EOS_Progressed": 258652,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22214,6 +22214,11 @@
       "Time": "2023-11-23T13:09:16.3901594+00:00",
       "NumProgressed": 258650,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-23T14:03:37.3342774+00:00",
+      "NumProgressed": 258652,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22241,7 +22246,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "Act4",
@@ -22281,7 +22286,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12932
+      "UsersEstimate": 12933
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -22353,7 +22358,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12932
+      "UsersEstimate": 12933
     },
     {
       "ID": "CreedsInBank2",
@@ -22361,7 +22366,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "CreedsInBank3",
@@ -22393,7 +22398,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "FullHomeExpansion",
@@ -22417,7 +22422,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "GrowPlants1",
@@ -22433,7 +22438,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "GrowPlants3",
@@ -22577,7 +22582,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "OldCoinCollected",
@@ -22665,14 +22670,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258650,
+      "Progressed": 258652,
       "Completed": 3
     }
   ],
@@ -22680,8 +22685,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-17T15:57:42.0675492+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:09:16.3901592+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:03:37.3342771+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.5809709+00:00",
   "LastUpdate_Ratings": "2023-11-23T13:05:55.3944634+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:09:16.3902807+00:00"
+  "LastUpdate_Achievements": "2023-11-23T14:03:37.3344034+00:00"
 }

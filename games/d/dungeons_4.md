@@ -14,15 +14,15 @@
 | Thalya's Concentrated Fury | 66.00% | ~235 |
 | Master of Magic | 64.00% | ~228 |
 | Bad Elves Go Everywhere | 63.00% | ~224 |
+| Magic Accidents | 58.00% | ~206 |
+| Unicorn steaks – fresh off the hoof! | 58.00% | ~206 |
 | Heroes’ Gorge | 58.00% | ~206 |
-| Magic Accidents | 57.00% | ~203 |
-| Unicorn steaks – fresh off the hoof! | 57.00% | ~203 |
+| Trap Master | 54.00% | ~192 |
 | Minions, Minions! | 54.00% | ~192 |
-| Trap Master | 53.00% | ~189 |
 | The Ascent | 49.00% | ~174 |
 | It's Warm and Cozy at Home | 49.00% | ~174 |
+| The Big Eaty | 45.00% | ~160 |
 | Hard Work | 44.00% | ~157 |
-| The Big Eaty | 44.00% | ~157 |
 | YOU SHALL NOT PASS! | 43.00% | ~153 |
 | Pure Dynamite! | 40.00% | ~142 |
 | “… like son” | 38.00% | ~135 |
@@ -35,8 +35,8 @@
 | All’s Well That Ends Evil | 24.00% | ~85 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~82 |
 | Master of the Undead | 23.00% | ~82 |
-| Hungry, Hungry Gorgu! | 21.00% | ~75 |
-| The Duel | 21.00% | ~75 |
+| Hungry, Hungry Gorgu! | 22.00% | ~78 |
+| The Duel | 22.00% | ~78 |
 | Forbidden Knowledge | 20.00% | ~71 |
 | Ghost Pirates? Ghost Heroes! | 19.00% | ~68 |
 | If Looks Could Kill | 18.00% | ~64 |

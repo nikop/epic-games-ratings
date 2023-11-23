@@ -53,11 +53,11 @@
 | Ancient Ruins of Dirty Feet | 14.00% | ~18 |
 | Yeehaw!!! | 14.00% | ~18 |
 | You're looking mozzare-hella good! | 12.00% | ~16 |
+| Timber! | 11.00% | ~14 |
+| Free Of Chains | 11.00% | ~14 |
 | Spoiler alert! | 10.00% | ~13 |
-| Timber! | 10.00% | ~13 |
-| Free Of Chains | 10.00% | ~13 |
+| Grumpy Immortal | 10.00% | ~13 |
 | I drink, but I'm not a drunk! | 9.00% | ~12 |
-| Grumpy Immortal | 9.00% | ~12 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~10 |
 | I want to throw up! | 7.00% | ~9 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~9 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130 (Ranked 407)  
+Progressed: 130 (Ranked 408)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |

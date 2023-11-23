@@ -4,7 +4,7 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_complete_tutorial",
@@ -1059,9 +1059,9 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_items_50",
@@ -1083,9 +1083,9 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_skip_3",
@@ -1114,8 +1114,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:12:00.8274617+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:06:23.4909585+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.0966584+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:02:51.0768491+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:12:00.8274745+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:57:10.3923741+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:06:23.4909692+00:00"
 }

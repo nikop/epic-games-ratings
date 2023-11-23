@@ -8,26 +8,26 @@ Rating: 4.87 (Ranked 24)
 | Start with a bang! | 17.00% | ~728 |
 | Feeling the beat! | 17.00% | ~728 |
 | You can pet the cat! | 16.00% | ~685 |
-| Who put gears in there? | 15.00% | ~642 |
-| Cream of the Crop | 14.00% | ~599 |
-| Thanks for the free chip, Peppermint! | 14.00% | ~599 |
-| You got this, Peppermint? | 13.00% | ~556 |
+| Who put gears in there? | 15.00% | ~643 |
+| Cream of the Crop | 14.00% | ~600 |
+| Thanks for the free chip, Peppermint! | 14.00% | ~600 |
+| You got this, Peppermint? | 13.00% | ~557 |
 | Perfect Parry | 12.00% | ~514 |
 | Alright, that felt AWESOME! | 12.00% | ~514 |
 | This will cost you big time | 11.00% | ~471 |
+| I play my own way! | 11.00% | ~471 |
 | Uh, they were broken when I got here | 11.00% | ~471 |
-| I play my own way! | 10.00% | ~428 |
 | Z-shielding's got nothing on us! | 10.00% | ~428 |
 | Kissing the sky! | 10.00% | ~428 |
-| The Negotiator | 9.00% | ~385 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~385 |
-| Out in a puff of smoke | 9.00% | ~385 |
-| I look cool. But I can look COOLER. | 9.00% | ~385 |
-| Headliner | 8.00% | ~342 |
-| Time to pay up! | 8.00% | ~342 |
-| Who's the boss now? | 8.00% | ~342 |
-| You must like calling me in, Chai | 8.00% | ~342 |
-| Does that say weakpoint? | 8.00% | ~342 |
+| The Negotiator | 9.00% | ~386 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~386 |
+| Out in a puff of smoke | 9.00% | ~386 |
+| I look cool. But I can look COOLER. | 9.00% | ~386 |
+| Headliner | 8.00% | ~343 |
+| Time to pay up! | 8.00% | ~343 |
+| Who's the boss now? | 8.00% | ~343 |
+| You must like calling me in, Chai | 8.00% | ~343 |
+| Does that say weakpoint? | 8.00% | ~343 |
 | NOW we got a kickass hideout! | 8.00% | ~224 |
 | I have to read these things? | 7.00% | ~300 |
 | Perfecter Parry-er! | 7.00% | ~300 |
@@ -35,9 +35,9 @@ Rating: 4.87 (Ranked 24)
 | Beat-hit mania | 5.00% | ~214 |
 | That's a lot of junk metal… | 5.00% | ~214 |
 | There's such a thing as TOO helpful | 5.00% | ~214 |
-| Chip-tuned | 3.00% | ~128 |
-| Wanna hear my playlist? | 3.00% | ~128 |
-| Check out my moves! | 3.00% | ~128 |
+| Chip-tuned | 3.00% | ~129 |
+| Wanna hear my playlist? | 3.00% | ~129 |
+| Check out my moves! | 3.00% | ~129 |
 | I think I deserve some praise, here! | 2.00% | ~86 |
 | I think I found your calling, Macaron | 2.00% | ~86 |
 | We're Jammin' | 2.00% | ~86 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,280 (Ranked 194)  
+Progressed: 4,284 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 8 (0.19%) (Ranked 260)
 | 2023-11-20 | 4,232 | 8 |
 | 2023-11-21 | 4,235 | 8 |
 | 2023-11-22 | 4,261 | 8 |
-| 2023-11-23 | 4,280 | 8 |
+| 2023-11-23 | 4,284 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

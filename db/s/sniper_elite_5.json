@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3907,
+  "EOS_Progressed": 3908,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8096,6 +8096,11 @@
       "Time": "2023-11-23T12:04:57.806734+00:00",
       "NumProgressed": 3907,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-23T14:04:06.4234172+00:00",
+      "NumProgressed": 3908,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8187,7 +8192,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8227,7 +8232,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8307,7 +8312,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8419,7 +8424,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8579,7 +8584,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -8674,13 +8679,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3858,
+      "Progressed": 3859,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3907,
+      "Progressed": 3908,
       "Completed": 11
     }
   ],
@@ -8688,8 +8693,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-23T13:09:45.4320762+00:00",
+  "LastChanged_Achievements": "2023-11-23T14:04:06.4234169+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:04:37.9975229+00:00",
-  "LastUpdate_Achievements": "2023-11-23T13:09:45.4321557+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:58:58.6132214+00:00",
+  "LastUpdate_Achievements": "2023-11-23T14:04:06.4235075+00:00"
 }

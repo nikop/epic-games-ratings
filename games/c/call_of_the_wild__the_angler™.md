@@ -14,7 +14,7 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 2.00% | ~133 |
 | I'm on a Boat! | 2.00% | ~133 |
 | More Fish in the Sea | 2.00% | ~133 |
-| Things that go Splash in the Night | 1.00% | ~66 |
+| Things that go Splash in the Night | 2.00% | ~133 |
 | License to Gill | 1.00% | ~66 |
 | Goldfish? | 1.00% | ~66 |
 | Going for Gold | 1.00% | ~66 |

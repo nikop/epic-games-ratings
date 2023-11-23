@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.10% | ~236 |
 | Starving in the Jungle | 0.10% | ~236 |
 | Cold as Ice | 0.10% | ~203 |
+| Keep Your Friends Close | 0.10% | ~203 |
 | Friends and Foes | 0.10% | ~203 |
 | Tall Tales | 0.10% | ~203 |
 | Nightmare Rats! | 0.10% | ~203 |
@@ -521,7 +522,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~203 |
 | The End is the Beginning | 0.10% | ~203 |
 | See You on the Flipside | 0.10% | ~203 |
-| Keep Your Friends Close | 0.00% | ~0 |
 | And Your Enemies Closer | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | 3,720 to 1 | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,472 (Ranked 64)  
-Completed: 2,469 (1.04%) (Ranked 162)  
+Progressed: 236,475 (Ranked 64)  
+Completed: 2,470 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -756,15 +756,15 @@ Completed: 2,469 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,472 | 2,469 |
+| 2023-11-23 | 236,475 | 2,470 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
-Sum: 32,580 (Ranked 41)  
+Sum: 32,584 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,556 |
-| This game has Diverse Characters | 5,529 |
+| This game has Diverse Characters | 5,533 |
 | This game has Quickly Understood Controls | 4,818 |
 | This game is Relaxing | 4,709 |
 | This game has Amazing Characters | 4,223 |
@@ -1074,4 +1074,4 @@ Diff (max vs sum): 29
 | 2023-11-20 | 4.06 | - | 5,547 | 32,551 |
 | 2023-11-21 | 4.06 | - | 5,549 | 32,557 |
 | 2023-11-22 | 4.06 | - | 5,556 | 32,575 |
-| 2023-11-23 | 4.06 | - | 5,556 | 32,580 |
+| 2023-11-23 | 4.06 | - | 5,556 | 32,584 |
