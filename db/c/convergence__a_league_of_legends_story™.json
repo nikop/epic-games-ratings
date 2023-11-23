@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 925,
+  "EOS_Progressed": 926,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2444,6 +2444,11 @@
       "Time": "2023-11-22T20:08:41.7751653+00:00",
       "NumProgressed": 925,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-23T09:08:56.6470879+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2487,7 +2492,7 @@
       "Name": "Right On Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2559,7 +2564,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "FairgroundsChests1",
@@ -2567,7 +2572,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2575,7 +2580,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2591,7 +2596,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "GadgetCompletion1",
@@ -2599,7 +2604,7 @@
       "Name": "Wunderkind",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "GadgetProgress1",
@@ -2615,7 +2620,7 @@
       "Name": "Rail Rat",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "HexlockGift",
@@ -2631,7 +2636,7 @@
       "Name": "Fitting In",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "JinxDefeated",
@@ -2639,15 +2644,15 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 194
     },
     {
       "ID": "MapCompletion1",
@@ -2693,9 +2698,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 194
     },
     {
       "ID": "ParryBoss",
@@ -2823,7 +2828,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2871,14 +2876,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 925,
+      "Progressed": 926,
       "Completed": 6
     }
   ],
@@ -2886,8 +2891,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:08:52.8315355+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:08:56.6470876+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:00.3419172+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:02:47.1251084+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:08:52.8315827+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:02:50.547313+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:08:56.6471287+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "terrorbane-437dd3",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
@@ -129,9 +129,9 @@
       "ID": "Achievement_03",
       "SetID": "6jd5kdh",
       "Name": "A Rank Bug-catcher",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_04",
@@ -185,9 +185,9 @@
       "ID": "Achievement_10",
       "SetID": "6jd5kdh",
       "Name": "Errorbane",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement_11",
@@ -241,9 +241,9 @@
       "ID": "Achievement_17",
       "SetID": "6jd5kdh",
       "Name": "Deepest lore",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_18",
@@ -314,8 +314,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:04:21.3793901+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:04:27.0120026+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.2378638+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:03:03.0699592+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:04:21.3794014+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:03:06.9052054+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:04:27.012017+00:00"
 }

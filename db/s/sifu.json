@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7803,9 +7803,9 @@
       "Count": 422
     }
   ],
-  "EOS_Progressed": 717176,
+  "EOS_Progressed": 717177,
   "EOS_Completed": 12938,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26968,6 +26968,11 @@
       "Time": "2023-11-23T07:05:28.5908961+00:00",
       "NumProgressed": 717176,
       "NumCompleted": 12938
+    },
+    {
+      "Time": "2023-11-23T09:05:31.0931907+00:00",
+      "NumProgressed": 717177,
+      "NumCompleted": 12938
     }
   ],
   "TotalAchievements": 60,
@@ -27025,9 +27030,9 @@
       "ID": "07_Wude_H1",
       "SetID": "adcm20g",
       "Name": "Muk Yan Master",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 1434
+      "UsersEstimate": 2152
     },
     {
       "ID": "08_Wude_H2",
@@ -27458,21 +27463,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26477,
+      "Progressed": 26478,
       "Completed": 10747
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717176,
+      "Progressed": 717177,
       "Completed": 12938
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-23T01:49:32.6741636+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:05:26.0183588+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:05:31.0931904+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.0924879+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:02:44.9528451+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:05:26.0185118+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:02:48.4275726+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:05:31.0933102+00:00"
 }

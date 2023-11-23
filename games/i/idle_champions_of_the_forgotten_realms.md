@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.10% | ~203 |
 | Nightmare Rats! | 0.10% | ~203 |
 | An Unexpected Geist | 0.10% | ~203 |
+| Back to Nature | 0.10% | ~203 |
 | The Witchlight Carnival | 0.10% | ~203 |
 | A Monarch Among Us | 0.10% | ~203 |
 | A Dragon Against Us | 0.10% | ~203 |
@@ -34,14 +35,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Icequake | 0.10% | ~203 |
 | A Lesson in Classes | 0.10% | ~203 |
 | The Prince of a Thousand Enemies | 0.10% | ~203 |
+| Uncommon Allies | 0.10% | ~203 |
+| The Birds | 0.10% | ~203 |
+| Where the Magic Happens | 0.10% | ~203 |
 | Downfall | 0.10% | ~203 |
+| First Third Out | 0.10% | ~203 |
 | Second Third Out | 0.10% | ~203 |
 | Third Third Out | 0.10% | ~203 |
 | The Silken Swamp | 0.10% | ~236 |
 | Slack-jawed Lorna | 0.10% | ~203 |
 | I'm Sure I Saw It Move! | 0.10% | ~203 |
+| End of the Line | 0.10% | ~203 |
 | A Steadfast Love | 0.10% | ~203 |
 | The Fairy Rings of Thither | 0.10% | ~203 |
+| Zarak's Revenge | 0.10% | ~203 |
 | Bully for You! | 0.10% | ~203 |
 | Beast Intentions | 0.10% | ~236 |
 | Wet Feet | 0.10% | ~236 |
@@ -104,6 +111,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Destroyer | 0.10% | ~203 |
 | Were-verpowered | 0.10% | ~236 |
 | Checkmate | 0.10% | ~203 |
+| Pin and Skewer | 0.10% | ~203 |
 | Vecna Out! | 0.10% | ~203 |
 | Bully for Vecna | 0.10% | ~203 |
 | Who Lurks Below? | 0.10% | ~203 |
@@ -126,6 +134,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Palace of Heart's Desire | 0.10% | ~203 |
 | The Egg of Nat's Desire | 0.10% | ~203 |
 | No One Can Hear You Scream | 0.10% | ~203 |
+| Anchors Aweigh | 0.10% | ~203 |
 | Welcome to the Rock | 0.10% | ~203 |
 | Beast Mode | 0.10% | ~236 |
 | The Forbidden City | 0.10% | ~236 |
@@ -175,6 +184,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.10% | ~236 |
 | Hold for the Red Wizards | 0.10% | ~236 |
 | Drop of Time | 0.10% | ~203 |
+| The Wyrmheart Mine | 0.10% | ~236 |
 | They Who Smelt It | 0.10% | ~236 |
 | Distribute Your Weight | 0.10% | ~236 |
 | Mongrelfolk Incursion | 0.10% | ~203 |
@@ -247,6 +257,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks in Lurkwood | 0.10% | ~236 |
 | Bullywugs in the Bog | 0.10% | ~236 |
 | Modrons in the Mud | 0.10% | ~236 |
+| And a Pixie in a Pear Treant | 0.10% | ~203 |
 | Orcs Are Wild | 0.10% | ~236 |
 | An Abyssal Situation | 0.10% | ~236 |
 | Dino Nightmare | 0.10% | ~236 |
@@ -464,6 +475,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.10% | ~203 |
 | The Champion's Guide to Wildspace | 0.10% | ~203 |
 | Not That Type of Helm! | 0.10% | ~203 |
+| All The World's A Stage | 0.10% | ~203 |
 | Calcryx Tricks | 0.10% | ~203 |
 | Goblin Halls: the Next Generation | 0.10% | ~203 |
 | Bazaar Companions | 0.10% | ~203 |
@@ -497,26 +509,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~203 |
 | Keep Your Friends Close | 0.00% | ~0 |
 | And Your Enemies Closer | 0.00% | ~0 |
-| Back to Nature | 0.00% | ~0 |
-| Uncommon Allies | 0.00% | ~0 |
-| The Birds | 0.00% | ~0 |
-| Where the Magic Happens | 0.00% | ~0 |
-| First Third Out | 0.00% | ~0 |
-| End of the Line | 0.00% | ~0 |
-| Zarak's Revenge | 0.00% | ~0 |
 | All Damage, All The Time | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
-| Pin and Skewer | 0.00% | ~0 |
 | The Play's the Thing! | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
-| Anchors Aweigh | 0.00% | ~0 |
 | Welcome to the Band | 0.00% | ~0 |
 | Captured! | 0.00% | ~0 |
 | Invisible Shadows | 0.00% | ~0 |
 | Form Ranks | 0.00% | ~0 |
-| The Wyrmheart Mine | 0.00% | ~0 |
-| And a Pixie in a Pear Treant | 0.00% | ~0 |
 | Faerûn's Most Wanted | 0.00% | ~0 |
 | Vault of Dragons | 0.00% | ~0 |
 | Vault of Pixies | 0.00% | ~0 |
@@ -535,11 +536,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Willing to Sacrifice | 0.00% | ~0 |
 | Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
-| All The World's A Stage | 0.00% | ~0 |
 | 3,720 to 1 | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,459 (Ranked 64)  
+Progressed: 236,461 (Ranked 64)  
 Completed: 2,469 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,469 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,459 | 2,469 |
+| 2023-11-23 | 236,461 | 2,469 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,580 (Ranked 41)  

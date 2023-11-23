@@ -8245,10 +8245,10 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236459,
+  "EOS_Progressed": 236461,
   "EOS_Completed": 2469,
-  "EOS_NewPlayers": 1212,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 1208,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -32575,6 +32575,11 @@
       "Time": "2023-11-23T08:09:35.2768002+00:00",
       "NumProgressed": 236459,
       "NumCompleted": 2469
+    },
+    {
+      "Time": "2023-11-23T09:09:39.2761739+00:00",
+      "NumProgressed": 236461,
+      "NumCompleted": 2469
     }
   ],
   "TotalAchievements": 532,
@@ -32680,9 +32685,9 @@
       "ID": "objective_completed_1053",
       "SetID": "415jc5c",
       "Name": "Back to Nature",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1055",
@@ -32832,25 +32837,25 @@
       "ID": "objective_completed_1081",
       "SetID": "415jc5c",
       "Name": "Uncommon Allies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1082",
       "SetID": "415jc5c",
       "Name": "The Birds",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1083",
       "SetID": "415jc5c",
       "Name": "Where the Magic Happens",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1085",
@@ -32864,9 +32869,9 @@
       "ID": "objective_completed_1086",
       "SetID": "415jc5c",
       "Name": "First Third Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1087",
@@ -32912,9 +32917,9 @@
       "ID": "objective_completed_1092",
       "SetID": "415jc5c",
       "Name": "End of the Line",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1093",
@@ -32936,9 +32941,9 @@
       "ID": "objective_completed_1096",
       "SetID": "415jc5c",
       "Name": "Zarak\u0027s Revenge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1097",
@@ -33464,9 +33469,9 @@
       "ID": "objective_completed_1204",
       "SetID": "415jc5c",
       "Name": "Pin and Skewer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1208",
@@ -33664,9 +33669,9 @@
       "ID": "objective_completed_1346",
       "SetID": "415jc5c",
       "Name": "Anchors Aweigh",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1350",
@@ -34096,9 +34101,9 @@
       "ID": "objective_completed_251",
       "SetID": "cc37lbc",
       "Name": "The Wyrmheart Mine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_252",
@@ -34680,9 +34685,9 @@
       "ID": "objective_completed_431",
       "SetID": "415jc5c",
       "Name": "And a Pixie in a Pear Treant",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_433",
@@ -36568,9 +36573,9 @@
       "ID": "objective_completed_1332",
       "SetID": "415jc5c",
       "Name": "All The World\u0027s A Stage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_568",
@@ -36841,21 +36846,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202733,
+      "Progressed": 202735,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236459,
+      "Progressed": 236461,
       "Completed": 2469
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-23T06:57:43.4318598+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:09:35.2767999+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:09:39.2761736+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:57:43.2433191+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:09:35.2789862+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:57:57.2603613+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:09:39.2784313+00:00"
 }

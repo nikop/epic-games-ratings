@@ -7,19 +7,19 @@ Number of Ratings: 88  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~40,887 |
-| First Steps | 80.00% | ~35,171 |
-| Control the Shadows | 67.00% | ~29,456 |
-| Tools of the Trade | 63.00% | ~27,697 |
-| Apprentice | 60.00% | ~26,378 |
-| Secret Seeker | 57.00% | ~25,059 |
-| Forge of Assassins | 55.00% | ~24,180 |
-| Revenant | 52.00% | ~22,861 |
+| First Steps | 80.00% | ~35,172 |
+| Control the Shadows | 67.00% | ~29,457 |
+| Tools of the Trade | 63.00% | ~27,698 |
+| Apprentice | 60.00% | ~26,379 |
+| Secret Seeker | 57.00% | ~25,060 |
+| Forge of Assassins | 55.00% | ~24,181 |
+| Revenant | 52.00% | ~22,862 |
 | I don’t Care! | 45.00% | ~19,784 |
 | Bird of Prey | 37.00% | ~16,267 |
-| Engraved with Power | 32.00% | ~14,068 |
+| Engraved with Power | 32.00% | ~14,069 |
 | Lady | 31.00% | ~13,629 |
-| Fashionable Assassin | 27.00% | ~11,870 |
-| Apex Predator | 24.00% | ~10,551 |
+| Fashionable Assassin | 27.00% | ~11,871 |
+| Apex Predator | 24.00% | ~10,552 |
 | Soul Reaver | 23.00% | ~10,112 |
 | Embers | 22.00% | ~9,672 |
 | Wall Lizard | 20.00% | ~8,793 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 9.00% | ~3,957 |
 | Denouement | 8.00% | ~3,517 |
 | A Pleasant Stay | 8.00% | ~3,517 |
-| Pilgrimage | 7.00% | ~3,077 |
+| Pilgrimage | 7.00% | ~3,078 |
 | The Lookout | 5.00% | ~2,198 |
 | The Spirit of Vengeance | 5.00% | ~2,198 |
 | Hollow | 5.00% | ~2,198 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~879 |
 | Legacy | 2.00% | ~879 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,964 (Ranked 115)  
+Progressed: 43,965 (Ranked 115)  
 Completed: 241 (0.55%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 241 (0.55%) (Ranked 195)
 | 2023-11-20 | 43,930 | 241 |
 | 2023-11-21 | 43,943 | 241 |
 | 2023-11-22 | 43,960 | 241 |
-| 2023-11-23 | 43,964 | 241 |
+| 2023-11-23 | 43,965 | 241 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

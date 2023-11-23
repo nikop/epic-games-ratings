@@ -10819,10 +10819,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48885,
       "NumberOfAwardsMax": 24536
+    },
+    {
+      "Time": "2023-11-23T08:57:48.4891816+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48889,
+      "NumberOfAwardsMax": 24536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48885,
+  "NumberOfAwards": 48889,
   "NumberOfAwardsMax": 24536,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10890,7 +10896,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1146
+      "Count": 1150
     },
     {
       "Text": "This game has a Creative Community",
@@ -10899,9 +10905,9 @@
       "Count": 809
     }
   ],
-  "EOS_Progressed": 302747,
+  "EOS_Progressed": 302750,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34204,6 +34210,11 @@
       "Time": "2023-11-23T08:09:29.1081795+00:00",
       "NumProgressed": 302747,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-23T09:09:32.8727659+00:00",
+      "NumProgressed": 302750,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34287,7 +34298,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27247
+      "UsersEstimate": 27248
     },
     {
       "ID": "PFA_19",
@@ -34303,7 +34314,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15137
+      "UsersEstimate": 15138
     },
     {
       "ID": "PFA_20",
@@ -34335,7 +34346,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39357
+      "UsersEstimate": 39358
     },
     {
       "ID": "PFA_24",
@@ -34407,7 +34418,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "PFA_32",
@@ -34455,7 +34466,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "PFA_38",
@@ -34479,7 +34490,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15137
+      "UsersEstimate": 15138
     },
     {
       "ID": "PFA_40",
@@ -34495,7 +34506,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15137
+      "UsersEstimate": 15138
     },
     {
       "ID": "PFA_42",
@@ -34519,7 +34530,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27247
+      "UsersEstimate": 27248
     },
     {
       "ID": "PFA_45",
@@ -34559,7 +34570,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39357
+      "UsersEstimate": 39358
     },
     {
       "ID": "PFA_9",
@@ -34574,16 +34585,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302747,
+      "Progressed": 302750,
       "Completed": 513
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-23T04:57:51.3563717+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:09:29.1081792+00:00",
+  "LastChanged": "2023-11-23T08:57:48.4891815+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:09:32.8727656+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:57:34.4663347+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:09:29.1082935+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:57:48.4891819+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:09:32.8729305+00:00"
 }

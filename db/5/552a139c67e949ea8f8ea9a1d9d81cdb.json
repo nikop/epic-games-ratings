@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2412,6 +2412,11 @@
       "Time": "2023-11-23T08:08:26.3300325+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T09:08:30.2613251+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2424,7 +2429,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2440,7 +2445,7 @@
       "Name": "Out of control",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2456,7 +2461,7 @@
       "Name": "Like lightning!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2472,7 +2477,7 @@
       "Name": "Globetrotter",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2488,7 +2493,7 @@
       "Name": "Masterful!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -2552,7 +2557,7 @@
       "Name": "Solo",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2560,7 +2565,7 @@
       "Name": "International license",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -2767,20 +2772,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 803,
-      "Completed": 803
+      "Progressed": 804,
+      "Completed": 804
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:08:26.3300323+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:08:30.2613248+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:57:14.7051451+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:08:26.3300732+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:57:28.6955041+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:08:30.2613846+00:00"
 }

@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20014,
+  "EOS_Progressed": 20016,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
@@ -17603,6 +17603,11 @@
       "Time": "2023-11-23T08:03:24.4284293+00:00",
       "NumProgressed": 20014,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-23T09:03:30.1798939+00:00",
+      "NumProgressed": 20016,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -17614,7 +17619,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 15611
+      "UsersEstimate": 15612
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -17654,7 +17659,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -17670,7 +17675,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10607
+      "UsersEstimate": 10608
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -17725,15 +17730,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 20014,
+      "Progressed": 20016,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:03:24.4284291+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:03:30.1798935+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.612501+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:59:50.7929623+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:03:24.4285072+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:00:05.9208825+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:03:30.1800439+00:00"
 }

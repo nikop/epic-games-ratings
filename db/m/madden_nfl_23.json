@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -847,9 +847,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3624,
+  "EOS_Progressed": 3625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5927,6 +5927,11 @@
       "Time": "2023-11-23T06:06:12.9515102+00:00",
       "NumProgressed": 3624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T09:06:42.4085569+00:00",
+      "NumProgressed": 3625,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5947,7 +5952,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "achievement_11",
@@ -5979,7 +5984,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "achievement_15",
@@ -6083,7 +6088,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "achievement_8",
@@ -6106,7 +6111,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3624,
+      "Progressed": 3625,
       "Completed": 0
     }
   ],
@@ -6114,8 +6119,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-23T01:49:22.1949292+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:08:18.08909+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:06:42.4085566+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.6679059+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:57:00.5301384+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:08:18.0891314+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:57:14.1723427+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:06:42.4085949+00:00"
 }

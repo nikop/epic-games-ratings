@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1034,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2455,9 +2455,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 879
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -3088,8 +3088,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:05:21.2703149+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:05:26.3063151+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:00:14.8850895+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:05:21.2703951+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:00:30.3480573+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:05:26.3063948+00:00"
 }

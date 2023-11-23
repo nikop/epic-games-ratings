@@ -13,14 +13,14 @@
 | Armed robbery | 38.00% | ~16 |
 | Never learn | 33.00% | ~14 |
 | B Rank Bug-catcher | 31.00% | ~13 |
+| Errorbane | 19.00% | ~8 |
 | Secret Admirer | 19.00% | ~8 |
-| Errorbane | 17.00% | ~7 |
 | Bugged, not stupid | 14.00% | ~6 |
 | Hackerman | 14.00% | ~6 |
-| A Rank Bug-catcher | 10.00% | ~4 |
+| A Rank Bug-catcher | 12.00% | ~5 |
+| Deepest lore | 12.00% | ~5 |
 | S Rank Bug-catcher | 10.00% | ~4 |
 | Thanks for Playing | 10.00% | ~4 |
-| Deepest lore | 10.00% | ~4 |
 | Brute forcing | 5.00% | ~2 |
 | Pool party | 5.00% | ~2 |
 | Thanks for Buying | 2.00% | ~1 |

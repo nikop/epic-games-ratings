@@ -2,9 +2,9 @@
   "ID": "3645577654d440e4a833ce60dac7ccf3",
   "Name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
-  "Ranking_EOS_Progress": 662,
+  "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36,6 +36,11 @@
     {
       "Time": "2023-11-22T11:03:29.3902981+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T09:03:34.6139544+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -191,7 +196,7 @@
       "ID": "MagicCat10",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 10 cats unlocked",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -239,7 +244,7 @@
       "ID": "Tower1_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the First Tower",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -247,7 +252,7 @@
       "ID": "Tower1_RankA",
       "SetID": "df8cl74",
       "Name": "The First Tower: A Rank",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -255,7 +260,7 @@
       "ID": "Tower1_RankS",
       "SetID": "df8cl74",
       "Name": "The First Tower: S Rank",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -263,7 +268,7 @@
       "ID": "Tower2_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the Second Tower",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -392,13 +397,13 @@
     {
       "ID": "df8cl74",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:03:28.8475411+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:03:34.6139542+00:00",
   "LastUpdate_AppInfo": "2023-11-22T05:57:07.3042971+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:57:26.3842541+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:03:28.8475627+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:57:40.3566108+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:03:34.6139757+00:00"
 }

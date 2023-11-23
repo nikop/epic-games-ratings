@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15296,
+  "EOS_Progressed": 15297,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 1,
@@ -11967,6 +11967,11 @@
       "Time": "2023-11-23T08:04:32.298544+00:00",
       "NumProgressed": 15296,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-23T09:04:37.9550701+00:00",
+      "NumProgressed": 15297,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12227,7 +12232,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "33",
@@ -12235,7 +12240,7 @@
       "Name": "Zen Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "34",
@@ -12251,20 +12256,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15296,
+      "Progressed": 15297,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 683
     }
   ],
@@ -12272,8 +12277,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:04:32.2985437+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:04:37.9550699+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:56:58.8975191+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:04:32.2986218+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:57:12.4851361+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:04:37.9551507+00:00"
 }

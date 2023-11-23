@@ -9,9 +9,9 @@ Rating: 4.19 (Ranked 923)
 | Har, Har, Har, Very Funny | 35.00% | ~26,912 |
 | Loose Ends | 34.00% | ~26,143 |
 | To the Victor Go the Spoils | 28.00% | ~21,529 |
-| Knighthood | 27.00% | ~20,760 |
-| Get ReQ'd | 25.00% | ~19,222 |
-| Whispered Words | 25.00% | ~19,222 |
+| Knighthood | 27.00% | ~20,761 |
+| Get ReQ'd | 25.00% | ~19,223 |
+| Whispered Words | 25.00% | ~19,223 |
 | The Batman Family | 23.00% | ~17,685 |
 | Lock and Key | 22.00% | ~16,916 |
 | Something in the Clay | 21.00% | ~16,147 |
@@ -23,7 +23,7 @@ Rating: 4.19 (Ranked 923)
 | The Show Mud Go On | 18.00% | ~13,840 |
 | From Inside Gotham's Walls | 18.00% | ~13,840 |
 | Protector of Gotham | 17.00% | ~13,071 |
-| Universal Health Scare | 16.00% | ~12,302 |
+| Universal Health Scare | 16.00% | ~12,303 |
 | In Your Element | 15.00% | ~11,534 |
 | Voiceless | 15.00% | ~11,534 |
 | Rock and a Hard Place | 14.00% | ~10,765 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 923)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,890 (Ranked 99)  
+Progressed: 76,891 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,14 +284,14 @@ Completed: 124 (0.16%) (Ranked 265)
 | 2023-11-20 | 76,747 | 124 |
 | 2023-11-21 | 76,798 | 124 |
 | 2023-11-22 | 76,865 | 124 |
-| 2023-11-23 | 76,890 | 124 |
+| 2023-11-23 | 76,891 | 124 |
 ## Awards
-Max (Great Boss Battles): 2,963  (Ranked 98)  
-Sum: 5,043 (Ranked 140)  
+Max (Great Boss Battles): 2,966  (Ranked 98)  
+Sum: 5,046 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,963 |
+| This game has Great Boss Battles | 2,966 |
 | This game is Extremely Fun | 265 |
 | This game has Diverse Characters | 264 |
 | This game has Quickly Understood Controls | 262 |
@@ -575,4 +575,4 @@ Diff (max vs sum): -42
 | 2023-11-20 | 4.19 | 2,958 | 5,027 |
 | 2023-11-21 | 4.19 | 2,958 | 5,034 |
 | 2023-11-22 | 4.19 | 2,963 | 5,042 |
-| 2023-11-23 | 4.19 | 2,963 | 5,043 |
+| 2023-11-23 | 4.19 | 2,966 | 5,046 |

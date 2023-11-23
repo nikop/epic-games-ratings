@@ -4,7 +4,7 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 946,
+  "EOS_Progressed": 947,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
@@ -147,6 +147,11 @@
       "Time": "2023-11-10T06:08:49.1501872+00:00",
       "NumProgressed": 946,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-23T09:04:12.5077048+00:00",
+      "NumProgressed": 947,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -156,9 +161,9 @@
       "ID": "achievement_bank_invested",
       "SetID": "7171fo0",
       "Name": "Thrifty",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 436
     },
     {
       "ID": "achievement_botanical",
@@ -190,7 +195,7 @@
       "Name": "Wealthy",
       "Percentage": 14,
       "XP": 150,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_inn_supplier",
@@ -206,7 +211,7 @@
       "Name": "Real Estate",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "achievement_lighthouse",
@@ -222,7 +227,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "achievement_ship_bought",
@@ -238,7 +243,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -253,7 +258,7 @@
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 946,
+      "Progressed": 947,
       "Completed": 14
     }
   ],
@@ -261,8 +266,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:04:06.9882243+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:04:12.5077045+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.4855098+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:58:03.3576033+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:04:06.9882328+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:58:17.4098219+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:04:12.5077207+00:00"
 }

@@ -4239,18 +4239,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 5043,
       "NumberOfAwardsMax": 2963
+    },
+    {
+      "Time": "2023-11-23T08:59:00.9213602+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5046,
+      "NumberOfAwardsMax": 2966
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5043,
-  "NumberOfAwardsMax": 2963,
+  "NumberOfAwards": 5046,
+  "NumberOfAwardsMax": 2966,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2963
+      "Count": 2966
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4307,9 +4313,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76890,
+  "EOS_Progressed": 76891,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23587,6 +23593,11 @@
       "Time": "2023-11-23T08:04:55.9740513+00:00",
       "NumProgressed": 76890,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-23T09:05:01.3253559+00:00",
+      "NumProgressed": 76891,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23910,7 +23921,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19222
+      "UsersEstimate": 19223
     },
     {
       "ID": "HARLEY_3",
@@ -23926,7 +23937,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12302
+      "UsersEstimate": 12303
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -23974,7 +23985,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20760
+      "UsersEstimate": 20761
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23998,7 +24009,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19222
+      "UsersEstimate": 19223
     },
     {
       "ID": "MYSTERY_03",
@@ -24085,22 +24096,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76890,
+      "Progressed": 76891,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47170,
+      "Progressed": 47171,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-23T06:58:44.7797961+00:00",
-  "LastChanged_Achievements": "2023-11-23T08:04:55.974051+00:00",
+  "LastChanged": "2023-11-23T08:59:00.92136+00:00",
+  "LastChanged_Achievements": "2023-11-23T09:05:01.3253556+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:58:46.2175077+00:00",
-  "LastUpdate_Achievements": "2023-11-23T08:04:55.9741997+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:59:00.9213605+00:00",
+  "LastUpdate_Achievements": "2023-11-23T09:05:01.3254738+00:00"
 }

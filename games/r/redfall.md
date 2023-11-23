@@ -6,6 +6,7 @@ Rating: 3.45 (Ranked 1,045)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 3.00% | ~53 |
+| Home Is Where the Heart Is | 2.00% | ~35 |
 | Blood Will Have Blood | 2.00% | ~35 |
 | Ne Plus Ultra | 2.00% | ~35 |
 | Fly Fisher | 2.00% | ~35 |
@@ -15,7 +16,6 @@ Rating: 3.45 (Ranked 1,045)
 | Wounded Whispers | 2.00% | ~35 |
 | Catch and Release | 2.00% | ~35 |
 | Neighborhood Revitalization | 1.00% | ~18 |
-| Home Is Where the Heart Is | 1.00% | ~18 |
 | Enter of Your Own Free Will | 1.00% | ~18 |
 | Welcome to the Neighborhood | 1.00% | ~18 |
 | Sic Transit Umbra | 1.00% | ~18 |

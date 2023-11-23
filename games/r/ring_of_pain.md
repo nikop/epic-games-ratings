@@ -13,6 +13,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 0.40% | ~960 |
 | A Quick Escape | 0.40% | ~960 |
 | Uncharted Territory | 0.40% | ~960 |
+| Explorer | 0.40% | ~960 |
 | An Offering | 0.40% | ~960 |
 | Expensive Look | 0.40% | ~6 |
 | Ambitious Intent | 0.30% | ~720 |
@@ -39,7 +40,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Deflection | 0.30% | ~720 |
 | Stone Touch | 0.30% | ~720 |
 | Toxic | 0.30% | ~720 |
-| Explorer | 0.30% | ~720 |
 | Sneaky | 0.30% | ~720 |
 | Shadow Walker | 0.30% | ~720 |
 | Flesh Wound | 0.30% | ~720 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,092 (Ranked 62)  
+Progressed: 240,096 (Ranked 62)  
 Completed: 290 (0.12%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -362,7 +362,7 @@ Completed: 290 (0.12%) (Ranked 275)
 | 2023-11-20 | 239,989 | 289 |
 | 2023-11-21 | 240,034 | 290 |
 | 2023-11-22 | 240,077 | 290 |
-| 2023-11-23 | 240,092 | 290 |
+| 2023-11-23 | 240,096 | 290 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,685 (Ranked 84)  

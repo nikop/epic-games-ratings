@@ -11,11 +11,11 @@
 | Break Out | 6.00% | ~12 |
 | Find Allies | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
+| Geared Up | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
 | A Taste of Wrath | 5.00% | ~10 |
 | Tributes of Caladrias | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
-| Geared Up | 5.00% | ~10 |
 | Fashion Victim | 5.00% | ~10 |
 | Stone Collection | 5.00% | ~10 |
 | Calm before the Storm | 4.00% | ~8 |

@@ -7,15 +7,15 @@ Number of Ratings: 43  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~34,143 |
-| Just The Two of Us | 32.00% | ~32,134 |
+| Just The Two of Us | 32.00% | ~32,135 |
 | Up On High | 25.00% | ~25,105 |
 | Under The Hood | 25.00% | ~25,105 |
 | Got Your Nose | 24.00% | ~24,101 |
 | The Gift of Gab | 24.00% | ~24,101 |
-| Wrapping Up | 22.00% | ~22,092 |
+| Wrapping Up | 22.00% | ~22,093 |
 | More Than A Box Of Sand | 18.00% | ~18,076 |
-| The Dunboyne | 17.00% | ~17,071 |
-| Badge Hobbyist | 17.00% | ~17,071 |
+| The Dunboyne | 17.00% | ~17,072 |
+| Badge Hobbyist | 17.00% | ~17,072 |
 | Chum Novice | 16.00% | ~16,067 |
 | Silver-Tongued Sable | 16.00% | ~16,067 |
 | Sticky Paws | 16.00% | ~16,067 |
@@ -26,8 +26,8 @@ Number of Ratings: 43  (23.09.2022)
 | Take That! | 13.00% | ~13,055 |
 | Treasure Tracker | 13.00% | ~13,055 |
 | Big Spender | 13.00% | ~13,055 |
-| Badge Collector | 12.00% | ~12,050 |
-| Quite The Catch | 12.00% | ~12,050 |
+| Badge Collector | 12.00% | ~12,051 |
+| Quite The Catch | 12.00% | ~12,051 |
 | Rowleys Way | 11.00% | ~11,046 |
 | The Machinist Mask | 10.00% | ~10,042 |
 | The Cartographer Mask | 10.00% | ~10,042 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,013 |
 | Vivacious Vivarium | 2.00% | ~2,008 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,420 (Ranked 88)  
+Progressed: 100,421 (Ranked 88)  
 Completed: 1,014 (1.01%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 1,014 (1.01%) (Ranked 164)
 | 2023-11-20 | 100,089 | 1,011 |
 | 2023-11-21 | 100,235 | 1,013 |
 | 2023-11-22 | 100,379 | 1,014 |
-| 2023-11-23 | 100,420 | 1,014 |
+| 2023-11-23 | 100,421 | 1,014 |
 ## Awards
 Max (Quickly Understood Controls): 25  (Ranked 520)  
 Sum: 92 (Ranked 450)  
