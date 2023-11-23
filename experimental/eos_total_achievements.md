@@ -379,6 +379,7 @@
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |
 | [Dolphin Spirit - Ocean Mission](../games/d/dolphin_spirit_-_ocean_mission.md) | 32 | 1,000 |
+| [International Basketball Manager 23](../games/e/e9543b5d696d4129af27a26b22ceeaff.md) | 32 | 1,000 |
 | [Out of Bounds](../games/o/out_of_bounds.md) | 32 | 1,000 |
 | [Sweet Dreams Alex](../games/4/4d10cc70884a46a094854d1ad69c7aaf.md) | 32 | 1,000 |
 | [Terminal Velocity™: Boosted Edition](../games/t/terminal_velocity™__boosted_edition.md) | 32 | 1,000 |

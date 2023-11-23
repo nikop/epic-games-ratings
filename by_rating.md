@@ -11,7 +11,7 @@
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 552 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,947 | 112 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 552 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,726 | 42 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,730 | 42 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 552 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 454 | 220 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 552 |
@@ -390,7 +390,7 @@
 | 383 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 136 | 326 |
 | 383 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 390 | 233 |
 | 383 | [Darkwood](games/d/darkwood.md) | 4.61 | 329 | 247 |
-| 383 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 49,460 | 12 |
+| 383 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 49,508 | 12 |
 | 383 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 552 |
 | 383 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 30 | 498 |
 | 383 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 552 |
@@ -458,7 +458,7 @@
 | 444 | [Little Inferno](games/l/little_inferno.md) | 4.58 | 0 | 552 |
 | 444 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 541 |
 | 444 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 9,625 | 40 |
-| 444 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,503 | 132 |
+| 444 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,505 | 132 |
 | 444 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 331 |
 | 444 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 217 | 282 |
 | 444 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 552 |
@@ -494,7 +494,7 @@
 | 491 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 48 | 439 |
 | 491 | [Aztez](games/a/aztez.md) | 4.56 | 20 | 547 |
 | 491 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 52 | 427 |
-| 491 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 932 | 158 |
+| 491 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 934 | 158 |
 | 491 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 509 |
 | 491 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 403 | 230 |
 | 491 | [Hue](games/h/hue.md) | 4.56 | 0 | 552 |
@@ -503,7 +503,7 @@
 | 491 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,751 | 76 |
 | 491 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,818 | 118 |
 | 491 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.56 | 0 | 552 |
-| 491 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,873 | 73 |
+| 491 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,878 | 73 |
 | 505 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 552 |
 | 505 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 552 |
 | 505 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.55 | 26 | 514 |
@@ -705,7 +705,7 @@
 | 691 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 552 |
 | 691 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 552 |
 | 691 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 552 |
-| 691 | [SMITE](games/s/smite.md) | 4.43 | 4,628 | 78 |
+| 691 | [SMITE](games/s/smite.md) | 4.43 | 4,632 | 78 |
 | 691 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 552 |
 | 691 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 184 | 297 |
 | 691 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.43 | 513 | 211 |
@@ -769,16 +769,16 @@
 | 763 | [MORDHAU](games/m/mordhau.md) | 4.38 | 968 | 155 |
 | 763 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 175 | 303 |
 | 763 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 82 | 387 |
+| 763 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 114 | 343 |
 | 763 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 552 |
 | 763 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 552 |
-| 772 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 0 | 552 |
-| 772 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 552 |
-| 772 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,161 | 109 |
-| 772 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 0 | 552 |
-| 772 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 552 |
-| 772 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.37 | 21 | 541 |
-| 772 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.37 | 114 | 343 |
-| 772 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 490 |
+| 773 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 0 | 552 |
+| 773 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 552 |
+| 773 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,161 | 109 |
+| 773 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 0 | 552 |
+| 773 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 552 |
+| 773 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.37 | 21 | 541 |
+| 773 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 490 |
 | 780 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 552 |
 | 780 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 552 |
 | 780 | [Core](games/c/core.md) | 4.36 | 768 | 173 |
