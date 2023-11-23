@@ -33,7 +33,7 @@
 | [Remnant 2](../games/r/remnant_2.md) | 55 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
-| [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
+| [Dying Light 2 Stay Human - Black Friday Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [GRIME](../games/g/grime.md) | 46 | 1,200 |
 | [Stray Blade](../games/s/stray_blade.md) | 52 | 1,200 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
