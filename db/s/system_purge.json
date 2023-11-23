@@ -4,7 +4,7 @@
   "ProductSlug": "system-purge-9ab7b7",
   "Ranking_EOS_Progress": 756,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-28T17:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:59.7204441+00:00",
   "LastChanged": "2023-03-31T05:57:59.7204441+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.7666115+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:58:57.1373312+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:04:58.0909636+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:59:18.5500279+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:05:23.6960455+00:00"
 }

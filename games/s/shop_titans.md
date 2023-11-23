@@ -78,6 +78,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.90% | ~1,269 |
 | Exotic Commodities | 0.90% | ~1,269 |
 | Cream of the Crop | 0.80% | ~1,128 |
+| Top of the World | 0.80% | ~1,128 |
 | Proud Paladin | 0.80% | ~1,128 |
 | Thirst for Knowledge | 0.80% | ~1,128 |
 | Booty by the Boatload | 0.80% | ~1,128 |
@@ -94,7 +95,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.80% | ~1,128 |
 | Master Recycler | 0.80% | ~1,128 |
 | King's Blade | 0.80% | ~1,128 |
-| Top of the World | 0.70% | ~987 |
 | Constellated | 0.70% | ~987 |
 | Fillin' the Bin | 0.70% | ~987 |
 | Industrial Evolution | 0.70% | ~987 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,038 (Ranked 80)  
+Progressed: 141,043 (Ranked 80)  
 Completed: 194 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,6 +336,7 @@ Completed: 194 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
+| 2023-11-23 | 141,043 | 194 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

@@ -7,25 +7,27 @@
 | Master trainee | 11.00% | ~4 |
 | You have three wishes left | 11.00% | ~4 |
 | Jung's dream | 8.00% | ~3 |
+| Giant | 8.00% | ~3 |
 | The battle of Great Britain | 8.00% | ~3 |
 | Pulp! Terror Tales in the Night | 8.00% | ~3 |
 | Pulp! Where Monsters Dwell | 8.00% | ~3 |
 | A continent with chemistry | 8.00% | ~3 |
 | Bread and bocaua | 5.00% | ~2 |
 | Fanatacism is... poisonous | 5.00% | ~2 |
-| Giant | 5.00% | ~2 |
 | A rival with no options | 5.00% | ~2 |
 | The adventurer | 5.00% | ~2 |
 | ECO mode | 5.00% | ~2 |
+| The happy farmer girl | 5.00% | ~2 |
 | You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
+| The artist | 3.00% | ~1 |
 | The seer | 3.00% | ~1 |
 | The scholar | 3.00% | ~1 |
 | Pulp! Out of this World | 3.00% | ~1 |
 | Pulp! Adventures into the Unknown | 3.00% | ~1 |
+| Kirlian's best disciple | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
-| The happy farmer girl | 3.00% | ~1 |
 | Diagnosis: fear | 3.00% | ~1 |
 | Ambition is... blind | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
@@ -33,7 +35,6 @@
 | Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Et in arcadia ego | 0.00% | ~0 |
-| The artist | 0.00% | ~0 |
 | The bully | 0.00% | ~0 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
@@ -44,7 +45,6 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |
-| Kirlian's best disciple | 0.00% | ~0 |
 | The barbarian invasions | 0.00% | ~0 |
 | America had no Faith | 0.00% | ~0 |
 | Vaccine fans | 0.00% | ~0 |
@@ -52,7 +52,7 @@
 | A new Hindenburg | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 510)  
+Progressed: 38 (Ranked 511)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |

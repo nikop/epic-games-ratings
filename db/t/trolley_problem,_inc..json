@@ -4,7 +4,7 @@
   "ProductSlug": "trolley-problem-inc-c1f368",
   "Ranking_EOS_Progress": 756,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:50.380239+00:00",
   "LastChanged": "2023-03-31T05:57:50.3802391+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.8562183+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:57:35.4756836+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:03:32.7723098+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:57:50.5104417+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:03:51.4018527+00:00"
 }

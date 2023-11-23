@@ -8239,10 +8239,10 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236428,
-  "EOS_Completed": 2467,
-  "EOS_NewPlayers": 1232,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 236433,
+  "EOS_Completed": 2468,
+  "EOS_NewPlayers": 1229,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -32524,6 +32524,11 @@
       "Time": "2023-11-22T23:09:26.7965794+00:00",
       "NumProgressed": 236428,
       "NumCompleted": 2467
+    },
+    {
+      "Time": "2023-11-23T00:10:13.1488409+00:00",
+      "NumProgressed": 236433,
+      "NumCompleted": 2468
     }
   ],
   "TotalAchievements": 532,
@@ -32613,9 +32618,9 @@
       "ID": "objective_completed_1051",
       "SetID": "415jc5c",
       "Name": "Nightmare Rats!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1052",
@@ -32741,17 +32746,17 @@
       "ID": "objective_completed_1071",
       "SetID": "415jc5c",
       "Name": "Always Watching",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1075",
       "SetID": "415jc5c",
       "Name": "The Fall of Ythryn",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1076",
@@ -33101,9 +33106,9 @@
       "ID": "objective_completed_1142",
       "SetID": "415jc5c",
       "Name": "Best Laid Plans",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1143",
@@ -33149,9 +33154,9 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_1152",
@@ -33213,17 +33218,17 @@
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1164",
       "SetID": "415jc5c",
       "Name": "Overwhelmed with Knowledge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1165",
@@ -33429,9 +33434,9 @@
       "ID": "objective_completed_1209",
       "SetID": "415jc5c",
       "Name": "Bully for Vecna",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1213",
@@ -33549,9 +33554,9 @@
       "ID": "objective_completed_1326",
       "SetID": "415jc5c",
       "Name": "Between a Brigganock and a Hard Place",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1330",
@@ -33573,9 +33578,9 @@
       "ID": "objective_completed_1335",
       "SetID": "415jc5c",
       "Name": "The Bitter End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1336",
@@ -33661,9 +33666,9 @@
       "ID": "objective_completed_150",
       "SetID": "cc37lbc",
       "Name": "Periodic Petrification",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_151",
@@ -33717,9 +33722,9 @@
       "ID": "objective_completed_16",
       "SetID": "cc37lbc",
       "Name": "Low Initiative",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_164",
@@ -33813,9 +33818,9 @@
       "ID": "objective_completed_181",
       "SetID": "cc37lbc",
       "Name": "Azaka\u0027s Procession - Part 1",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_182",
@@ -33997,9 +34002,9 @@
       "ID": "objective_completed_237",
       "SetID": "cc37lbc",
       "Name": "Domesticated Owlbears",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_238",
@@ -34293,9 +34298,9 @@
       "ID": "objective_completed_385",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Resolve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_386",
@@ -34517,9 +34522,9 @@
       "ID": "objective_completed_415",
       "SetID": "cc37lbc",
       "Name": "Careful Consideration",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_416",
@@ -34653,9 +34658,9 @@
       "ID": "objective_completed_435",
       "SetID": "cc37lbc",
       "Name": "Dino Nightmare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_436",
@@ -34693,9 +34698,9 @@
       "ID": "objective_completed_541",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Fiends",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_542",
@@ -34757,9 +34762,9 @@
       "ID": "objective_completed_550",
       "SetID": "cc37lbc",
       "Name": "Lair of the Xanathar",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_551",
@@ -34925,9 +34930,9 @@
       "ID": "objective_completed_575",
       "SetID": "cc37lbc",
       "Name": "Difficult Terrain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_576",
@@ -35013,9 +35018,9 @@
       "ID": "objective_completed_588",
       "SetID": "415jc5c",
       "Name": "Take Five",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_59",
@@ -35237,9 +35242,9 @@
       "ID": "objective_completed_620",
       "SetID": "415jc5c",
       "Name": "An Illithid Undertaking",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_621",
@@ -35261,9 +35266,9 @@
       "ID": "objective_completed_623",
       "SetID": "415jc5c",
       "Name": "An Owlbear of an Undertaking",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_625",
@@ -35293,9 +35298,9 @@
       "ID": "objective_completed_628",
       "SetID": "415jc5c",
       "Name": "D\u00E9j\u00E0 Vu All Over Again",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_630",
@@ -35565,9 +35570,9 @@
       "ID": "objective_completed_681",
       "SetID": "415jc5c",
       "Name": "A Tenday at Golgamann\u0027s",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_682",
@@ -35965,9 +35970,9 @@
       "ID": "objective_completed_838",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Pick at the Scab",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_839",
@@ -36197,9 +36202,9 @@
       "ID": "objective_completed_884",
       "SetID": "415jc5c",
       "Name": "Volo\u0027s Guide to Kuo-toa",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_887",
@@ -36261,9 +36266,9 @@
       "ID": "objective_completed_898",
       "SetID": "415jc5c",
       "Name": "Mysteries Unlocked",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_899",
@@ -36397,9 +36402,9 @@
       "ID": "objective_completed_935",
       "SetID": "415jc5c",
       "Name": "The Archaeologist and the Sailor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_94",
@@ -36573,9 +36578,9 @@
       "ID": "objective_completed_1380",
       "SetID": "415jc5c",
       "Name": "Rock and Roll",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1381",
@@ -36613,9 +36618,9 @@
       "ID": "objective_completed_1391",
       "SetID": "415jc5c",
       "Name": "Krux\u0027s Speed Run",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1392",
@@ -36790,21 +36795,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202702,
+      "Progressed": 202707,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236428,
-      "Completed": 2467
+      "Progressed": 236433,
+      "Completed": 2468
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-22T21:57:49.5338651+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:09:26.796579+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:10:13.1488404+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:57:53.0749086+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:09:26.7986712+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:58:09.0822194+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:10:13.1509932+00:00"
 }

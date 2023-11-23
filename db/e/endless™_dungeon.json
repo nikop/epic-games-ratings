@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1875,6 +1875,11 @@
       "Time": "2023-11-22T23:07:54.0431478+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T00:08:32.6763392+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1935,7 +1940,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -1967,7 +1972,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1999,7 +2004,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -2031,7 +2036,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -2101,9 +2106,9 @@
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
       "SetID": "9991201",
       "Name": "All Your Secrets Are Belong to Us",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_TIME_LIMIT1WIN",
@@ -2126,14 +2131,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1144,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:07:54.0431473+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:08:32.6763388+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.2825313+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:01:38.6056529+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:07:54.0431835+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:02:13.3628392+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:08:32.6763704+00:00"
 }

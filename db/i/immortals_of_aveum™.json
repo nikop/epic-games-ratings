@@ -1479,9 +1479,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_20",
@@ -1535,9 +1535,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_36",
@@ -1567,9 +1567,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_41",
@@ -1623,9 +1623,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_49",
@@ -1639,9 +1639,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_50",
@@ -1776,8 +1776,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-21T13:11:41.3417786+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:08:20.1509466+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:09:01.3369362+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:02:40.4804594+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:08:20.1509827+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:02:55.425863+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:09:01.3369711+00:00"
 }

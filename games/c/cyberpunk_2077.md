@@ -6,50 +6,50 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 5.00% | ~45,701 |
-| Gun Fu | 3.00% | ~27,421 |
-| The Fool | 2.00% | ~18,281 |
-| Full Body Conversion | 1.00% | ~9,140 |
-| Right Back At Ya | 1.00% | ~9,140 |
-| True Soldier | 1.00% | ~9,140 |
-| Relic Ruler | 1.00% | ~426 |
-| Stanislavski's Method | 0.80% | ~7,312 |
-| The Lovers | 0.80% | ~7,312 |
-| All the President's Men | 0.80% | ~341 |
-| Arachnophobia | 0.80% | ~341 |
-| The Quick and the Dead | 0.70% | ~6,398 |
-| Bushido and Chill | 0.60% | ~5,484 |
-| Christmas Tree Attack | 0.60% | ~5,484 |
-| Life of the Road | 0.60% | ~5,484 |
-| The Hermit | 0.60% | ~5,484 |
-| The High Priestess | 0.60% | ~5,484 |
-| The Wheel of Fortune | 0.60% | ~5,484 |
-| True Warrior | 0.60% | ~5,484 |
-| Legend of The Afterlife | 0.60% | ~5,484 |
-| Spin Doctor | 0.60% | ~256 |
-| To Protect and Serve | 0.50% | ~4,570 |
-| Master Crafter | 0.50% | ~4,570 |
-| I Am The Law | 0.50% | ~4,570 |
-| The World | 0.50% | ~4,570 |
-| Judy vs Night City | 0.50% | ~4,570 |
-| Dirty Deeds | 0.50% | ~213 |
-| Easy Come, Easy Go | 0.50% | ~213 |
-| The Wandering Fool | 0.40% | ~3,656 |
-| Two Heads, One Bullet | 0.40% | ~3,656 |
-| King of Wands | 0.40% | ~171 |
-| To Bad Decisions! | 0.30% | ~2,742 |
-| The Sun | 0.30% | ~2,742 |
-| The Tower | 0.30% | ~128 |
-| Autojock | 0.20% | ~1,828 |
-| Must Be Rats | 0.20% | ~1,828 |
-| Breathtaking | 0.20% | ~1,828 |
-| Ten out of Ten | 0.20% | ~1,828 |
-| Temperance | 0.20% | ~1,828 |
-| The Star | 0.20% | ~1,828 |
-| The APB is Not Enough | 0.20% | ~85 |
-| Judgement Day | 0.20% | ~85 |
-| King of Pentacles | 0.20% | ~85 |
-| King of Swords | 0.20% | ~85 |
+| V for Vendetta | 6.00% | ~54,859 |
+| Gun Fu | 3.00% | ~27,429 |
+| The Fool | 2.00% | ~18,286 |
+| Full Body Conversion | 1.00% | ~9,143 |
+| Right Back At Ya | 1.00% | ~9,143 |
+| True Soldier | 1.00% | ~9,143 |
+| Relic Ruler | 1.00% | ~429 |
+| Stanislavski's Method | 0.80% | ~7,315 |
+| The Lovers | 0.80% | ~7,315 |
+| All the President's Men | 0.80% | ~344 |
+| Arachnophobia | 0.80% | ~344 |
+| The Quick and the Dead | 0.70% | ~6,400 |
+| Bushido and Chill | 0.60% | ~5,486 |
+| Christmas Tree Attack | 0.60% | ~5,486 |
+| Life of the Road | 0.60% | ~5,486 |
+| The Hermit | 0.60% | ~5,486 |
+| The High Priestess | 0.60% | ~5,486 |
+| The Wheel of Fortune | 0.60% | ~5,486 |
+| True Warrior | 0.60% | ~5,486 |
+| Legend of The Afterlife | 0.60% | ~5,486 |
+| Spin Doctor | 0.60% | ~258 |
+| To Protect and Serve | 0.50% | ~4,572 |
+| Master Crafter | 0.50% | ~4,572 |
+| I Am The Law | 0.50% | ~4,572 |
+| The World | 0.50% | ~4,572 |
+| Judy vs Night City | 0.50% | ~4,572 |
+| Dirty Deeds | 0.50% | ~215 |
+| Easy Come, Easy Go | 0.50% | ~215 |
+| The Wandering Fool | 0.40% | ~3,657 |
+| Two Heads, One Bullet | 0.40% | ~3,657 |
+| King of Wands | 0.40% | ~172 |
+| To Bad Decisions! | 0.30% | ~2,743 |
+| The Sun | 0.30% | ~2,743 |
+| The Tower | 0.30% | ~129 |
+| Autojock | 0.20% | ~1,829 |
+| Must Be Rats | 0.20% | ~1,829 |
+| Breathtaking | 0.20% | ~1,829 |
+| Ten out of Ten | 0.20% | ~1,829 |
+| Temperance | 0.20% | ~1,829 |
+| The Star | 0.20% | ~1,829 |
+| The APB is Not Enough | 0.20% | ~86 |
+| Judgement Day | 0.20% | ~86 |
+| King of Pentacles | 0.20% | ~86 |
+| King of Swords | 0.20% | ~86 |
 | City Lights | 0.10% | ~914 |
 | Frequent Flyer | 0.10% | ~914 |
 | Gunslinger | 0.10% | ~914 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 914,026 (Ranked 15)  
+Progressed: 914,316 (Ranked 15)  
 Completed: 2,804 (0.31%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,6 +291,7 @@ Completed: 2,804 (0.31%) (Ranked 234)
 | 2023-11-20 | 897,531 | 2,794 |
 | 2023-11-21 | 898,478 | 2,799 |
 | 2023-11-22 | 914,026 | 2,804 |
+| 2023-11-23 | 914,316 | 2,804 |
 ## Awards
 Max (Character Customization): 106,656  (Ranked 9)  
 Sum: 360,095 (Ranked 10)  

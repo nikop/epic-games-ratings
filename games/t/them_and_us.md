@@ -17,8 +17,8 @@
 | This Coffin Has Your Name On It! | 15.00% | ~46 |
 | Parasite Exterminated | 14.00% | ~43 |
 | The Forgotten Tower | 14.00% | ~43 |
+| Trapped | 12.00% | ~37 |
 | Modern Player | 11.00% | ~34 |
-| Trapped | 11.00% | ~34 |
 | Rest In Peace | 10.00% | ~31 |
 | The Curse Is Real | 10.00% | ~31 |
 | Lover of classics | 9.00% | ~28 |

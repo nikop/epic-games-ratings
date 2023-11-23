@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -640,6 +640,11 @@
       "Time": "2023-11-22T23:08:10.1033602+00:00",
       "NumProgressed": 233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T00:08:50.5789125+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -684,7 +689,7 @@
       "Name": "Peacemaker",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AchvBombing",
@@ -716,7 +721,7 @@
       "Name": "The Alliance",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AchvDoom",
@@ -732,7 +737,7 @@
       "Name": "Evacuation",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AchvInvShip",
@@ -826,9 +831,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "AchvReachCity",
@@ -860,7 +865,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AchvTheEnd",
@@ -883,14 +888,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:08:10.1033595+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:08:50.5789122+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:59:33.2157477+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:08:10.1033847+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:59:57.5754412+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:08:50.5789356+00:00"
 }

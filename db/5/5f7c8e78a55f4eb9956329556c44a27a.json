@@ -2,9 +2,9 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -474,6 +474,11 @@
       "Time": "2023-11-22T21:05:39.3757152+00:00",
       "NumProgressed": 126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T00:06:55.066472+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -484,7 +489,7 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
       "UsersEstimate": 103
     },
@@ -548,7 +553,7 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
       "UsersEstimate": 98
     },
@@ -582,7 +587,7 @@
       "Name": "It\u0027s not over yet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -630,7 +635,7 @@
       "Name": "Follow the guide!",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TINGWD_HEADSHOT",
@@ -660,9 +665,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 109
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -757,14 +762,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:06:23.1725191+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:06:55.0664716+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:58:10.8766692+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:06:23.1725386+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:58:28.7791634+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:06:55.0664941+00:00"
 }

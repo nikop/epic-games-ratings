@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131047,
+  "EOS_Progressed": 131048,
   "EOS_Completed": 1132,
-  "EOS_NewPlayers": 1114,
+  "EOS_NewPlayers": 1110,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -24952,6 +24952,11 @@
       "Time": "2023-11-22T23:05:12.6519276+00:00",
       "NumProgressed": 131047,
       "NumCompleted": 1132
+    },
+    {
+      "Time": "2023-11-23T00:05:39.682711+00:00",
+      "NumProgressed": 131048,
+      "NumCompleted": 1132
     }
   ],
   "TotalAchievements": 34,
@@ -25035,7 +25040,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 73386
+      "UsersEstimate": 73387
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -25147,7 +25152,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 23588
+      "UsersEstimate": 23589
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -25179,7 +25184,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 31451
+      "UsersEstimate": 31452
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -25211,7 +25216,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 31451
+      "UsersEstimate": 31452
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -25234,7 +25239,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 131047,
+      "Progressed": 131048,
       "Completed": 1132
     }
   ],
@@ -25242,8 +25247,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:05:12.6519272+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:05:39.6827106+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.8048519+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:58:53.5455007+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:05:12.6520539+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:59:14.6848788+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:05:39.6828376+00:00"
 }

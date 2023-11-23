@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.50% | ~1,200 |
 | Not Touching You | 0.50% | ~8 |
 | Getting A Glimpse | 0.40% | ~960 |
+| Defeat The Dark | 0.40% | ~960 |
 | A Quick Escape | 0.40% | ~960 |
 | Uncharted Territory | 0.40% | ~960 |
 | An Offering | 0.40% | ~960 |
@@ -26,7 +27,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.30% | ~720 |
 | Cold Hearted | 0.30% | ~720 |
 | I Am Overburdened | 0.30% | ~720 |
-| Defeat The Dark | 0.30% | ~720 |
 | Destroy Your Fears | 0.30% | ~720 |
 | The Bestiary | 0.30% | ~720 |
 | Goodbye, Frog Friend | 0.30% | ~720 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,077 (Ranked 62)  
+Progressed: 240,079 (Ranked 62)  
 Completed: 290 (0.12%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -362,6 +362,7 @@ Completed: 290 (0.12%) (Ranked 275)
 | 2023-11-20 | 239,989 | 289 |
 | 2023-11-21 | 240,034 | 290 |
 | 2023-11-22 | 240,077 | 290 |
+| 2023-11-23 | 240,079 | 290 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,685 (Ranked 83)  

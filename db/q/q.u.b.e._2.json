@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -539,9 +539,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40632,
+  "EOS_Progressed": 40633,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 1362,
+  "EOS_NewPlayers": 1359,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -7999,6 +7999,11 @@
       "Time": "2023-11-22T23:08:06.227624+00:00",
       "NumProgressed": 40632,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-11-23T00:08:46.4378613+00:00",
+      "NumProgressed": 40633,
+      "NumCompleted": 166
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -8011,7 +8016,7 @@
       "Name": "Descendants",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     },
     {
       "ID": "ACH_BLUEEND",
@@ -8227,7 +8232,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 30474
+      "UsersEstimate": 30475
     },
     {
       "ID": "ACH_STATUE",
@@ -8242,15 +8247,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 40632,
+      "Progressed": 40633,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-22T13:59:49.1323206+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:08:06.2276236+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:08:46.4378608+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:56:59.167548+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:01:03.7303278+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:08:06.2276831+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:01:35.753506+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:08:46.4379465+00:00"
 }

@@ -7171,9 +7171,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141038,
+  "EOS_Progressed": 141043,
   "EOS_Completed": 194,
-  "EOS_NewPlayers": 1071,
+  "EOS_NewPlayers": 1074,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29486,6 +29486,11 @@
       "Time": "2023-11-22T23:07:15.8308139+00:00",
       "NumProgressed": 141038,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-11-23T00:07:51.7651308+00:00",
+      "NumProgressed": 141043,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 112,
@@ -29527,9 +29532,9 @@
       "ID": "advlevel05",
       "SetID": "anfd17p",
       "Name": "Top of the World",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 1128
     },
     {
       "ID": "argon_a",
@@ -30392,15 +30397,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141038,
+      "Progressed": 141043,
       "Completed": 194
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-22T17:03:17.3746506+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:07:15.8308135+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:07:51.7651303+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:02:48.4651815+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:07:15.8310392+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:03:03.9613132+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:07:51.7653095+00:00"
 }

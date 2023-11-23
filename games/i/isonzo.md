@@ -6,19 +6,19 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 50.00% | ~4,446 |
-| You Shall Not Pass | 50.00% | ~4,446 |
-| Peak Performance | 47.00% | ~4,179 |
-| Avanti Savoia! | 44.00% | ~3,912 |
-| Mamma Mia! | 34.00% | ~3,023 |
-| Conrad von Hotzensocks | 32.00% | ~2,845 |
+| Tutti Eroi! | 50.00% | ~4,448 |
+| You Shall Not Pass | 50.00% | ~4,448 |
+| Peak Performance | 47.00% | ~4,181 |
+| Avanti Savoia! | 44.00% | ~3,914 |
+| Mamma Mia! | 34.00% | ~3,024 |
+| Conrad von Hotzensocks | 32.00% | ~2,846 |
 | Gabriele D'Annunzio | 31.00% | ~2,757 |
-| Silver Lining | 27.00% | ~2,401 |
-| Aurelio Baruzzi | 21.00% | ~1,867 |
-| Decimation | 20.00% | ~1,778 |
-| Donatello | 19.00% | ~1,689 |
-| The Italian Job | 19.00% | ~1,689 |
-| Veni Vidi Vici | 19.00% | ~1,689 |
+| Silver Lining | 27.00% | ~2,402 |
+| Aurelio Baruzzi | 21.00% | ~1,868 |
+| Decimation | 20.00% | ~1,779 |
+| Donatello | 19.00% | ~1,690 |
+| The Italian Job | 19.00% | ~1,690 |
+| Veni Vidi Vici | 19.00% | ~1,690 |
 | Insubordination | 18.00% | ~1,601 |
 | Ragazzi del '99 | 16.00% | ~1,423 |
 | Luigi Cadorna | 15.00% | ~1,334 |
@@ -29,12 +29,12 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 11.00% | ~978 |
 | Machiavelli | 11.00% | ~978 |
 | Thus With A Kiss | 11.00% | ~978 |
-| The Devil's Paintbrush | 10.00% | ~889 |
-| Dante's Inferno | 9.00% | ~800 |
-| I Have the High Ground | 9.00% | ~800 |
-| Millenial | 9.00% | ~800 |
-| The Show Must Go On | 8.00% | ~711 |
-| Tosca | 8.00% | ~711 |
+| The Devil's Paintbrush | 10.00% | ~890 |
+| Dante's Inferno | 9.00% | ~801 |
+| I Have the High Ground | 9.00% | ~801 |
+| Millenial | 9.00% | ~801 |
+| The Show Must Go On | 8.00% | ~712 |
+| Tosca | 8.00% | ~712 |
 | 12th Bottle of the Isonzo | 6.00% | ~534 |
 | The Enlightment | 6.00% | ~534 |
 | Cercatore d'Oro | 5.00% | ~445 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~36 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,892 (Ranked 167)  
+Progressed: 8,895 (Ranked 167)  
 Completed: 9 (0.10%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,6 +263,7 @@ Completed: 9 (0.10%) (Ranked 280)
 | 2023-11-20 | 8,686 | 9 |
 | 2023-11-21 | 8,816 | 9 |
 | 2023-11-22 | 8,892 | 9 |
+| 2023-11-23 | 8,895 | 9 |
 ## Awards
 Max (Diverse Characters): 37  (Ranked 465)  
 Sum: 284 (Ranked 372)  

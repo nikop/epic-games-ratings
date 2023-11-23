@@ -7,11 +7,11 @@
 | Trinity | 10.00% | ~20 |
 | I Found It | 7.00% | ~14 |
 | Break Out | 6.00% | ~12 |
+| Find Allies | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
 | Adventurer | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
 | The Collector | 6.00% | ~12 |
-| Find Allies | 5.00% | ~10 |
 | A Taste of Wrath | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
 | Geared Up | 5.00% | ~10 |

@@ -9030,9 +9030,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65712,
+  "EOS_Progressed": 65714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31805,6 +31805,11 @@
       "Time": "2023-11-22T23:09:17.5300019+00:00",
       "NumProgressed": 65712,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T00:10:03.4355375+00:00",
+      "NumProgressed": 65714,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32008,7 +32013,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11828
+      "UsersEstimate": 11829
     },
     {
       "ID": "Kingslayer",
@@ -32040,7 +32045,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21685
+      "UsersEstimate": 21686
     },
     {
       "ID": "Lawbringer",
@@ -32048,7 +32053,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26285
+      "UsersEstimate": 26286
     },
     {
       "ID": "Lawmaker",
@@ -32168,7 +32173,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12485
+      "UsersEstimate": 12486
     },
     {
       "ID": "This Is Our Land",
@@ -32208,7 +32213,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -32223,15 +32228,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65712,
+      "Progressed": 65714,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-22T19:01:04.3824575+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:09:17.5300015+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:10:03.4355371+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:00:58.1392486+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:09:17.5301447+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:01:29.8321222+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:10:03.4357004+00:00"
 }

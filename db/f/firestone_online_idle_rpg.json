@@ -4,7 +4,7 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 962,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 457,
+  "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 149,
@@ -467,10 +467,16 @@
       "Rating": 4.12,
       "NumberOfAwards": 85,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-11-23T00:01:24.3515307+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 110,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85,
+  "NumberOfAwards": 110,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -484,13 +490,13 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8341,9 +8347,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-11-22T19:59:40.0385434+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:08:34.6198309+00:00",
+  "LastChanged": "2023-11-23T00:01:24.3515304+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:09:16.9124024+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:00:53.6084939+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:08:34.6199253+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:01:24.3515312+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:09:16.9124977+00:00"
 }

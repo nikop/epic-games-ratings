@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4696,9 +4696,9 @@
       "ID": "achievement_85",
       "SetID": "d252ncf",
       "Name": "Party Crasher",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_86",
@@ -4836,8 +4836,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:08:03.3071194+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:08:43.3336226+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:03:00.5371255+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:08:03.3073479+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:03:17.1958004+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:08:43.3338076+00:00"
 }

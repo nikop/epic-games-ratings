@@ -17,7 +17,7 @@
 | Heroes’ Gorge | 59.00% | ~205 |
 | Magic Accidents | 58.00% | ~201 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~201 |
-| Minions, Minions! | 55.00% | ~191 |
+| Minions, Minions! | 56.00% | ~194 |
 | Trap Master | 54.00% | ~187 |
 | The Ascent | 50.00% | ~174 |
 | It's Warm and Cozy at Home | 50.00% | ~174 |
@@ -36,7 +36,7 @@
 | All’s Well That Ends Evil | 24.00% | ~83 |
 | Hungry, Hungry Gorgu! | 22.00% | ~76 |
 | Master of the Undead | 22.00% | ~76 |
-| The Duel | 21.00% | ~73 |
+| The Duel | 22.00% | ~76 |
 | Forbidden Knowledge | 20.00% | ~69 |
 | Ghost Pirates? Ghost Heroes! | 19.00% | ~66 |
 | If Looks Could Kill | 18.00% | ~62 |
@@ -58,7 +58,7 @@
 | Mirror, Mirror | 7.00% | ~24 |
 | To the Max! | 7.00% | ~24 |
 | The Last Stand - This Time For Real! | 7.00% | ~24 |
-| Gorgu is in the Best of Health | 5.00% | ~17 |
+| Gorgu is in the Best of Health | 6.00% | ~21 |
 | Laser Eyes Are So Useless | 5.00% | ~17 |
 | Heal Heal Blessing | 5.00% | ~17 |
 | Hands Off My Stones | 5.00% | ~17 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -159,6 +159,11 @@
       "Time": "2023-11-22T21:06:31.9325072+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T00:08:02.7698713+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -169,15 +174,15 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BARON",
       "SetID": "40o4f14",
       "Name": "Baron",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -313,7 +318,7 @@
       "ID": "MINES",
       "SetID": "40o4f14",
       "Name": "The mines",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -329,9 +334,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MOUNTAINEER",
@@ -361,7 +366,7 @@
       "ID": "SAVIOR",
       "SetID": "40o4f14",
       "Name": "Savior of the people",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -385,9 +390,9 @@
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WASHING",
@@ -418,14 +423,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:07:26.0754098+00:00",
-  "LastUpdate_AppInfo": "2023-11-15T22:57:04.9325318+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:59:11.4834388+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:07:26.0754311+00:00"
+  "LastChanged_Achievements": "2023-11-23T00:08:02.7698708+00:00",
+  "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
+  "LastUpdate_Ratings": "2023-11-22T23:59:34.1275703+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:08:02.769893+00:00"
 }

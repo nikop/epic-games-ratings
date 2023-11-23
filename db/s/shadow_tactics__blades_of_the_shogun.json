@@ -2128,7 +2128,7 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 215269,
+  "EOS_Progressed": 215271,
   "EOS_Completed": 98,
   "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 0,
@@ -26893,6 +26893,11 @@
       "Time": "2023-11-22T23:04:37.512854+00:00",
       "NumProgressed": 215269,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-23T00:05:01.6022072+00:00",
+      "NumProgressed": 215271,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -26976,7 +26981,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25832
+      "UsersEstimate": 25833
     },
     {
       "ID": "HappyLittleAccidents",
@@ -27080,7 +27085,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "OldMan",
@@ -27104,7 +27109,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "ReleaseTheKraken",
@@ -27216,7 +27221,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "Warzone",
@@ -27255,15 +27260,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 215269,
+      "Progressed": 215271,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-22T19:59:43.7510028+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:04:37.5128537+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:05:01.6022066+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.854091+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:00:57.9043959+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:04:37.5129812+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:01:29.5180043+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:05:01.6023203+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 372789,
+  "EOS_Progressed": 372814,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 5664,
+  "EOS_NewPlayers": 5666,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7081,6 +7081,11 @@
       "Time": "2023-11-22T23:04:31.0221097+00:00",
       "NumProgressed": 372789,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-23T00:04:54.6608266+00:00",
+      "NumProgressed": 372814,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 28,
@@ -7092,7 +7097,7 @@
       "Name": "BUTCHER",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 22367
+      "UsersEstimate": 22369
     },
     {
       "ID": "GB_CELEBRITY",
@@ -7116,7 +7121,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 74558
+      "UsersEstimate": 74563
     },
     {
       "ID": "GB_DEBTOR",
@@ -7140,7 +7145,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 149116
+      "UsersEstimate": 149126
     },
     {
       "ID": "GB_GOURMET",
@@ -7156,7 +7161,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 41007
+      "UsersEstimate": 41010
     },
     {
       "ID": "GB_GRATITUDE",
@@ -7172,7 +7177,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14912
+      "UsersEstimate": 14913
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -7188,7 +7193,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 29823
+      "UsersEstimate": 29825
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -7196,7 +7201,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 18639
+      "UsersEstimate": 18641
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -7212,7 +7217,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 85741
+      "UsersEstimate": 85747
     },
     {
       "ID": "GB_KEVIN",
@@ -7220,7 +7225,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 111837
+      "UsersEstimate": 111844
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -7244,7 +7249,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 167755
+      "UsersEstimate": 167766
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -7276,7 +7281,7 @@
       "Name": "RAMBO",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 18639
+      "UsersEstimate": 18641
     },
     {
       "ID": "GB_SCATTERBRAIN",
@@ -7308,14 +7313,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 33551
+      "UsersEstimate": 33553
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 372789,
+      "Progressed": 372814,
       "Completed": 39
     }
   ],
@@ -7323,8 +7328,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-10-28T12:59:45.1014127+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:04:31.0221092+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:04:54.6608262+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:41.161098+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:02:52.456241+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:04:31.0221567+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:03:08.4724507+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:04:54.6608806+00:00"
 }

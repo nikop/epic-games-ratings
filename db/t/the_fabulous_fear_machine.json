@@ -2,7 +2,7 @@
   "ID": "599554e2ea49491bb9ca088a43fec83a",
   "Name": "The Fabulous Fear Machine",
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 121,
@@ -299,9 +299,9 @@
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "2",
@@ -331,9 +331,9 @@
       "ID": "22",
       "SetID": "d37idgg",
       "Name": "The artist",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "23",
@@ -491,9 +491,9 @@
       "ID": "40",
       "SetID": "d37idgg",
       "Name": "Kirlian\u0027s best disciple",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "41",
@@ -555,9 +555,9 @@
       "ID": "5",
       "SetID": "d37idgg",
       "Name": "The happy farmer girl",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "6",
@@ -602,8 +602,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:07:40.0800673+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:08:17.8418102+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:17.3101019+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:57:41.988334+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:07:40.0801011+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:57:57.4554936+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:08:17.8418635+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 790,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1133,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1545,6 +1545,11 @@
       "Time": "2023-11-22T23:04:53.5674391+00:00",
       "NumProgressed": 1133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T00:05:18.9550906+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1588,7 +1593,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "06",
@@ -1596,7 +1601,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "07",
@@ -1604,7 +1609,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "08",
@@ -1682,9 +1687,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 702
+      "UsersEstimate": 692
     },
     {
       "ID": "18",
@@ -1692,7 +1697,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "19",
@@ -1739,7 +1744,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1133,
+      "Progressed": 1134,
       "Completed": 1
     }
   ],
@@ -1747,8 +1752,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-11-08T19:00:27.8145289+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:04:53.5674386+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:05:18.9550901+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:21.2319809+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:00:30.7116632+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:04:53.5674634+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:00:59.487019+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:05:18.9551075+00:00"
 }

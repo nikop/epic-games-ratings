@@ -4,10 +4,10 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 274,
   "Ranking_Popularity": 531,
-  "Ranking_PopularitySum": 457,
+  "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -623,7 +623,7 @@
   ],
   "EOS_Progressed": 5863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6257,9 +6257,9 @@
       "ID": "achievement_0023",
       "SetID": "9123ogc",
       "Name": "Sharing the Love",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2521
     },
     {
       "ID": "achievement_0024",
@@ -6482,8 +6482,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-21T20:58:01.7354263+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:07:59.0753558+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:08:38.7586621+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:58:45.7706233+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:07:59.0754402+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:59:05.6990759+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:08:38.7587412+00:00"
 }

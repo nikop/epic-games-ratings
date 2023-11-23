@@ -9,8 +9,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 6.00% | ~926 |
 | Settler | 6.00% | ~926 |
 | Play a Single Player Game | 6.00% | ~926 |
-| Intrepid | 5.00% | ~771 |
-| Friendly Family | 5.00% | ~771 |
+| Intrepid | 5.00% | ~772 |
+| Friendly Family | 5.00% | ~772 |
 | Able | 4.00% | ~617 |
 | Architect | 4.00% | ~617 |
 | Good | 4.00% | ~617 |
@@ -158,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.50% | ~77 |
 | Greater Kmt Unified | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~62 |
-| Silver Victory (Carthage 1) | 0.40% | ~62 |
 | Ancient | 0.40% | ~62 |
 | Magnificent Difficulty | 0.40% | ~62 |
 | The Eternal Treaty | 0.40% | ~62 |
@@ -171,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
+| Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
 | Cleopatra's Love | 0.30% | ~46 |
 | Holy | 0.30% | ~46 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,428 (Ranked 151)  
+Progressed: 15,430 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -566,6 +566,7 @@ Completed: 5 (0.03%) (Ranked 320)
 | 2023-11-20 | 15,405 | 5 |
 | 2023-11-21 | 15,417 | 5 |
 | 2023-11-22 | 15,428 | 5 |
+| 2023-11-23 | 15,430 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,873 (Ranked 218)  

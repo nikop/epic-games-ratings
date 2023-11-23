@@ -4,7 +4,7 @@
   "ProductSlug": "expeditions-conquistador",
   "Ranking_EOS_Progress": 756,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-12T20:30:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.188268+00:00",
   "LastChanged": "2023-03-31T05:57:49.1882682+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:13.1045965+00:00",
-  "LastUpdate_Ratings": "2023-11-22T23:00:15.5688953+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:06:40.2320057+00:00"
+  "LastUpdate_Ratings": "2023-11-23T00:00:42.3443718+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:07:13.5015721+00:00"
 }

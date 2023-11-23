@@ -39,17 +39,17 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man IV | 4.00% | ~174 |
 | A time consuming game III | 4.00% | ~174 |
 | Tools of the trade II | 4.00% | ~174 |
-| Bread for the people III | 3.00% | ~130 |
-| I like to build stuff... IV | 3.00% | ~130 |
-| I like to build stuff... V | 3.00% | ~130 |
-| The King's new clothes II | 3.00% | ~130 |
-| Saint Florian | 3.00% | ~130 |
-| My precious... I | 3.00% | ~130 |
-| My precious... II | 3.00% | ~130 |
-| Cosmas and Damian | 3.00% | ~130 |
-| Builder III | 3.00% | ~130 |
-| A time consuming game IV | 3.00% | ~130 |
-| Out of the frying pan | 3.00% | ~130 |
+| Bread for the people III | 3.00% | ~131 |
+| I like to build stuff... IV | 3.00% | ~131 |
+| I like to build stuff... V | 3.00% | ~131 |
+| The King's new clothes II | 3.00% | ~131 |
+| Saint Florian | 3.00% | ~131 |
+| My precious... I | 3.00% | ~131 |
+| My precious... II | 3.00% | ~131 |
+| Cosmas and Damian | 3.00% | ~131 |
+| Builder III | 3.00% | ~131 |
+| A time consuming game IV | 3.00% | ~131 |
+| Out of the frying pan | 3.00% | ~131 |
 | The Art of War | 2.00% | ~87 |
 | Five brews are a schnitzel | 2.00% | ~87 |
 | The King's new clothes III | 2.00% | ~87 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,350 (Ranked 193)  
+Progressed: 4,351 (Ranked 193)  
 Completed: 3 (0.07%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 3 (0.07%) (Ranked 297)
 | 2023-11-18 | 4,348 | 3 |
 | 2023-11-19 | 4,349 | 3 |
 | 2023-11-22 | 4,350 | 3 |
+| 2023-11-23 | 4,351 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

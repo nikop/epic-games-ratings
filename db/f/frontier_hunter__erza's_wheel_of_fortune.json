@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -712,6 +712,11 @@
       "Time": "2023-11-22T23:06:47.4176172+00:00",
       "NumProgressed": 168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T00:07:21.1907068+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -721,9 +726,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -755,7 +760,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -763,31 +768,31 @@
       "Name": "Youth Magnet",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_16",
       "SetID": "7pimpda",
       "Name": "Lethal Blade Mantis Killer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -811,7 +816,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -851,7 +856,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -883,7 +888,7 @@
       "Name": "Trader",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -891,7 +896,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -915,7 +920,7 @@
       "Name": "Boss challenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -993,9 +998,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "7pimpda",
       "Name": "Berserker Slayer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1003,7 +1008,7 @@
       "Name": "Giantess Slayer",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -1041,9 +1046,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1059,7 +1064,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1082,7 +1087,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 169,
       "Completed": 0
     }
   ],
@@ -1090,8 +1095,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-22T23:06:47.4176168+00:00",
+  "LastChanged_Achievements": "2023-11-23T00:07:21.1907063+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:59:11.1914076+00:00",
-  "LastUpdate_Achievements": "2023-11-22T23:06:47.4176492+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:59:33.7590378+00:00",
+  "LastUpdate_Achievements": "2023-11-23T00:07:21.1907396+00:00"
 }

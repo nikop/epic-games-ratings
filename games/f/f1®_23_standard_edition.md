@@ -11,7 +11,7 @@ Rating: 4.67 (Ranked 274)
 | Team Orders | 75.00% | ~4,397 |
 | Engineer | 55.00% | ~3,225 |
 | Familiar Faces | 48.00% | ~2,814 |
-| Sharing the Love | 42.00% | ~2,462 |
+| Sharing the Love | 43.00% | ~2,521 |
 | Going the Extra Mile | 42.00% | ~2,462 |
 | Hitting a Season | 38.00% | ~2,228 |
 | A Dozen Pieces | 33.00% | ~1,935 |
@@ -128,8 +128,8 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-22 | 5,863 | 0 |
 ## Awards
 Max (Diverse Characters): 23  (Ranked 531)  
-Sum: 85 (Ranked 457)  
-Diff (max vs sum): 74  
+Sum: 85 (Ranked 458)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
