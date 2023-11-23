@@ -3,9 +3,9 @@
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230,
+  "EOS_Progressed": 231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2023-11-23T19:06:37.1835376+00:00",
       "NumProgressed": 230,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T21:07:07.5501738+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -750,7 +755,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "REMAKE_004",
@@ -758,7 +763,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Remake_005",
@@ -782,7 +787,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Remake_008",
@@ -830,7 +835,7 @@
       "Name": "Toasted",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Remake_14",
@@ -900,23 +905,23 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 230,
+      "Progressed": 231,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:06:02.1142014+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:07:07.5501736+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:02:50.3734807+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:06:02.1142201+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:03:04.170179+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:07:07.5501919+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 207,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -797,6 +797,11 @@
       "Time": "2023-11-23T20:06:36.3576656+00:00",
       "NumProgressed": 205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T21:07:52.074171+00:00",
+      "NumProgressed": 207,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -806,9 +811,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -824,7 +829,7 @@
       "Name": "Guardian",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -832,7 +837,7 @@
       "Name": "Nosebleeder",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -862,17 +867,17 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "7pimpda",
       "Name": "Lethal Blade Mantis Killer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -886,9 +891,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "7pimpda",
       "Name": "Mermaid Killer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -896,7 +901,7 @@
       "Name": "Training Simulation",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -910,9 +915,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "7pimpda",
       "Name": "Face Slapper",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -920,7 +925,7 @@
       "Name": "Beginner Cook",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -936,15 +941,15 @@
       "Name": "Arms Mechanic",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -958,9 +963,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -968,7 +973,7 @@
       "Name": "Trader",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -976,7 +981,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -992,7 +997,7 @@
       "Name": "Weapon Boost",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1064,7 +1069,7 @@
       "Name": "Storm Traveller",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1080,7 +1085,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1128,15 +1133,15 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1144,15 +1149,15 @@
       "Name": "Apostle of Flame",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1167,7 +1172,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 207,
       "Completed": 0
     }
   ],
@@ -1175,8 +1180,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:06:36.3576654+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:07:52.0741707+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:59:19.3081296+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:06:36.3576971+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:00:05.0122718+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:07:52.0742048+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Train World",
   "ProductSlug": "train-world-07e156",
   "Ranking_EOS_Progress": 585,
-  "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
     "PcReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -144,9 +144,9 @@
       "ID": "diesel_engine",
       "SetID": "5ia1dkp",
       "Name": "Diesel Dream",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "electric_engine",
@@ -240,9 +240,9 @@
       "ID": "hundred_passengers",
       "SetID": "5ia1dkp",
       "Name": "Full House",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "hundred_trains_active",
@@ -328,9 +328,9 @@
       "ID": "million_from_freight",
       "SetID": "5ia1dkp",
       "Name": "Cargo King",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "million_from_passengers",
@@ -392,9 +392,9 @@
       "ID": "ten_cities_connected",
       "SetID": "5ia1dkp",
       "Name": "Urban Network",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ten_industries_connected",
@@ -511,8 +511,8 @@
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:05:47.8651403+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:06:49.7133701+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.0123914+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:58:32.4442737+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:05:47.8651722+00:00"
+  "LastUpdate_Ratings": "2023-11-23T20:59:01.521406+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:06:49.7133964+00:00"
 }

@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,561 (Ranked 64)  
-Completed: 2,471 (1.04%) (Ranked 162)  
+Progressed: 236,569 (Ranked 64)  
+Completed: 2,471 (1.04%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -756,17 +756,17 @@ Completed: 2,471 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,561 | 2,471 |
+| 2023-11-23 | 236,569 | 2,471 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
-Sum: 32,584 (Ranked 41)  
+Sum: 32,587 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,556 |
 | This game has Diverse Characters | 5,533 |
 | This game has Quickly Understood Controls | 4,818 |
-| This game is Relaxing | 4,709 |
+| This game is Relaxing | 4,712 |
 | This game has Amazing Characters | 4,223 |
 | This game is Highly Recommended | 4,215 |
 | This game has Playful Visuals | 3,530 |
@@ -1074,4 +1074,4 @@ Diff (max vs sum): 29
 | 2023-11-20 | 4.06 | - | 5,547 | 32,551 |
 | 2023-11-21 | 4.06 | - | 5,549 | 32,557 |
 | 2023-11-22 | 4.06 | - | 5,556 | 32,575 |
-| 2023-11-23 | 4.06 | - | 5,556 | 32,584 |
+| 2023-11-23 | 4.06 | - | 5,556 | 32,587 |

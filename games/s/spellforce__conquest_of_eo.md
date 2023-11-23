@@ -44,14 +44,15 @@
 | Defeat Yria | 12.00% | ~3 |
 | Elynn's Tale | 12.00% | ~3 |
 | Lore's Tale | 12.00% | ~3 |
+| Lytra's Tale | 12.00% | ~3 |
 | Silver Drift Hollow Mine | 12.00% | ~3 |
 | A Master of Magic | 12.00% | ~3 |
 | Magic Academy | 12.00% | ~3 |
 | Get to the Airship! | 8.00% | ~2 |
 | Defeat Rohen | 8.00% | ~2 |
 | Defeat Undergast | 8.00% | ~2 |
-| Lytra's Tale | 8.00% | ~2 |
 | Yngrid's Tale | 8.00% | ~2 |
+| The Forge of Regan Gor | 8.00% | ~2 |
 | Tuscari Sea Portal | 8.00% | ~2 |
 | Master Alchemist | 8.00% | ~2 |
 | Breaking the circle | 8.00% | ~2 |
@@ -62,7 +63,6 @@
 | Defeat Raith | 4.00% | ~1 |
 | Crypt of the Revenant | 4.00% | ~1 |
 | Misty Coast Dragonbones | 4.00% | ~1 |
-| The Forge of Regan Gor | 4.00% | ~1 |
 | Fireforge | 4.00% | ~1 |
 | Master Artificer | 4.00% | ~1 |
 | Heroes | 4.00% | ~1 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26 (Ranked 535)  
-Completed: 0 (0.00%) (Ranked 358)  
+Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

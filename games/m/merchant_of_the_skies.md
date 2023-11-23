@@ -18,7 +18,7 @@
 | Botanical | 5.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 947 (Ranked 266)  
-Completed: 14 (1.48%) (Ranked 141)  
+Completed: 14 (1.48%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Deadlink",
   "ProductSlug": "deadlink-6bb676",
   "Ranking_EOS_Progress": 758,
-  "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-07-27T16:00:00+00:00",
     "PcReleaseDate": "2022-10-18T06:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-30T02:57:20.1654373+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:43.0262489+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:00:16.9592028+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:03:31.1279051+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:01:24.1566111+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:03:57.6673938+00:00"
 }

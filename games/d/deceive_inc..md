@@ -9,22 +9,22 @@ Rating: 4.58 (Ranked 444)
 | Mainframe Hacker | 23.00% | ~4,344 |
 | The Spy who eliminated me | 23.00% | ~4,344 |
 | Tomorrow Never Dyes | 22.00% | ~4,155 |
-| From the Vault with Love | 18.00% | ~3,399 |
-| Never Say Loser Again | 18.00% | ~3,399 |
-| Tailor-Made | 18.00% | ~3,399 |
-| For your Eyes only | 18.00% | ~3,399 |
-| Assistant Accountant | 17.00% | ~3,210 |
+| From the Vault with Love | 18.00% | ~3,400 |
+| Never Say Loser Again | 18.00% | ~3,400 |
+| Tailor-Made | 18.00% | ~3,400 |
+| For your Eyes only | 18.00% | ~3,400 |
+| Assistant Accountant | 17.00% | ~3,211 |
 | You Only Live Twice | 16.00% | ~3,022 |
 | Fully Decked Out | 16.00% | ~3,022 |
 | A view to Win | 13.00% | ~2,455 |
 | The Living Portrait | 12.00% | ~2,266 |
 | Smells Like Trouble | 12.00% | ~2,266 |
-| My Motto, My Creed | 11.00% | ~2,077 |
-| Private Collection | 11.00% | ~2,077 |
-| Killer Looks | 11.00% | ~2,077 |
-| Hostile Takeover | 11.00% | ~2,077 |
-| Keycards Royale | 10.00% | ~1,888 |
-| Dr. No Kill | 10.00% | ~1,888 |
+| My Motto, My Creed | 11.00% | ~2,078 |
+| Private Collection | 11.00% | ~2,078 |
+| Killer Looks | 11.00% | ~2,078 |
+| Hostile Takeover | 11.00% | ~2,078 |
+| Keycards Royale | 10.00% | ~1,889 |
+| Dr. No Kill | 10.00% | ~1,889 |
 | In It to Win It | 9.00% | ~1,700 |
 | Security Supervisor | 6.00% | ~1,133 |
 | License to Thrill | 5.00% | ~944 |
@@ -42,8 +42,8 @@ Rating: 4.58 (Ranked 444)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,885 (Ranked 142)  
-Completed: 4 (0.02%) (Ranked 327)  
+Progressed: 18,887 (Ranked 142)  
+Completed: 4 (0.02%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 4 (0.02%) (Ranked 327)
 | 2023-11-20 | 18,867 | 4 |
 | 2023-11-21 | 18,873 | 4 |
 | 2023-11-22 | 18,878 | 4 |
-| 2023-11-23 | 18,885 | 4 |
+| 2023-11-23 | 18,887 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

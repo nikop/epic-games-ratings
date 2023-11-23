@@ -12,17 +12,17 @@ Number of Ratings: 38  (23.09.2022)
 | Hug therapy | 43.00% | ~660 |
 | Over my dead body | 40.00% | ~614 |
 | Shake the rust off their feet | 21.00% | ~322 |
-| Strike! | 19.00% | ~291 |
-| My little pony | 19.00% | ~291 |
+| Strike! | 19.00% | ~292 |
+| My little pony | 19.00% | ~292 |
 | A love supreme | 18.00% | ~276 |
 | In my shoes | 17.00% | ~261 |
 | Like new! | 15.00% | ~230 |
-| Don't look back | 13.00% | ~199 |
-| Heartstrings | 13.00% | ~199 |
-| Head in the clouds | 13.00% | ~199 |
+| Don't look back | 13.00% | ~200 |
+| Heartstrings | 13.00% | ~200 |
+| Head in the clouds | 13.00% | ~200 |
 | Back to rust | 12.00% | ~184 |
 | Flower Powered | 12.00% | ~184 |
-| Unstoppable | 10.00% | ~153 |
+| Unstoppable | 10.00% | ~154 |
 | Perfect timing | 9.00% | ~138 |
 | Self-sustainability | 8.00% | ~123 |
 | Ain't no mountain high enough | 8.00% | ~123 |
@@ -37,8 +37,8 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~31 |
 | À la carte | 2.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,534 (Ranked 240)  
-Completed: 9 (0.59%) (Ranked 191)  
+Progressed: 1,535 (Ranked 240)  
+Completed: 9 (0.59%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,7 +201,7 @@ Completed: 9 (0.59%) (Ranked 191)
 | 2023-11-17 | 1,525 | 9 |
 | 2023-11-21 | 1,527 | 9 |
 | 2023-11-22 | 1,532 | 9 |
-| 2023-11-23 | 1,534 | 9 |
+| 2023-11-23 | 1,535 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

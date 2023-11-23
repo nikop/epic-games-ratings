@@ -6,23 +6,23 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,166 |
-| Just The Two of Us | 32.00% | ~32,156 |
-| Up On High | 25.00% | ~25,122 |
-| Under The Hood | 25.00% | ~25,122 |
-| Got Your Nose | 24.00% | ~24,117 |
-| The Gift of Gab | 24.00% | ~24,117 |
+| Simoon | 34.00% | ~34,168 |
+| Just The Two of Us | 32.00% | ~32,158 |
+| Up On High | 25.00% | ~25,123 |
+| Under The Hood | 25.00% | ~25,123 |
+| Got Your Nose | 24.00% | ~24,118 |
+| The Gift of Gab | 24.00% | ~24,118 |
 | Wrapping Up | 22.00% | ~22,108 |
-| More Than A Box Of Sand | 18.00% | ~18,088 |
-| The Dunboyne | 17.00% | ~17,083 |
-| Badge Hobbyist | 17.00% | ~17,083 |
-| Chum Novice | 16.00% | ~16,078 |
-| Silver-Tongued Sable | 16.00% | ~16,078 |
-| Sticky Paws | 16.00% | ~16,078 |
-| Bubble Up | 16.00% | ~16,078 |
-| Thread The Needle | 15.00% | ~15,073 |
-| Power to the People | 14.00% | ~14,068 |
-| Nesting Giant | 14.00% | ~14,068 |
+| More Than A Box Of Sand | 18.00% | ~18,089 |
+| The Dunboyne | 17.00% | ~17,084 |
+| Badge Hobbyist | 17.00% | ~17,084 |
+| Chum Novice | 16.00% | ~16,079 |
+| Silver-Tongued Sable | 16.00% | ~16,079 |
+| Sticky Paws | 16.00% | ~16,079 |
+| Bubble Up | 16.00% | ~16,079 |
+| Thread The Needle | 15.00% | ~15,074 |
+| Power to the People | 14.00% | ~14,069 |
+| Nesting Giant | 14.00% | ~14,069 |
 | Take That! | 13.00% | ~13,064 |
 | Treasure Tracker | 13.00% | ~13,064 |
 | Big Spender | 13.00% | ~13,064 |
@@ -45,17 +45,17 @@ Number of Ratings: 43  (23.09.2022)
 | Glider on the Storm | 8.00% | ~8,039 |
 | Squeeze One Out | 8.00% | ~8,039 |
 | Dune Rider | 8.00% | ~8,039 |
-| Amateur Historian | 7.00% | ~7,034 |
-| The Beetle Mask | 7.00% | ~7,034 |
-| The Guard Mask | 7.00% | ~7,034 |
-| Smoked Out | 7.00% | ~7,034 |
-| A Hard Place | 7.00% | ~7,034 |
-| The Climber Mask | 6.00% | ~6,029 |
-| The Merchant Mask | 6.00% | ~6,029 |
-| Honorary Chum | 6.00% | ~6,029 |
-| Bikes Don't Fly | 6.00% | ~6,029 |
-| The Gliding | 5.00% | ~5,024 |
-| The Entertainer Mask | 5.00% | ~5,024 |
+| Amateur Historian | 7.00% | ~7,035 |
+| The Beetle Mask | 7.00% | ~7,035 |
+| The Guard Mask | 7.00% | ~7,035 |
+| Smoked Out | 7.00% | ~7,035 |
+| A Hard Place | 7.00% | ~7,035 |
+| The Climber Mask | 6.00% | ~6,030 |
+| The Merchant Mask | 6.00% | ~6,030 |
+| Honorary Chum | 6.00% | ~6,030 |
+| Bikes Don't Fly | 6.00% | ~6,030 |
+| The Gliding | 5.00% | ~5,025 |
+| The Entertainer Mask | 5.00% | ~5,025 |
 | The Quick and the Curious | 4.00% | ~4,020 |
 | Bike Aficionado | 4.00% | ~4,020 |
 | Chum Expert | 3.00% | ~3,015 |
@@ -63,8 +63,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,015 |
 | Vivacious Vivarium | 2.00% | ~2,010 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,489 (Ranked 88)  
-Completed: 1,014 (1.01%) (Ranked 164)  
+Progressed: 100,493 (Ranked 88)  
+Completed: 1,014 (1.01%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 1,014 (1.01%) (Ranked 164)
 | 2023-11-20 | 100,089 | 1,011 |
 | 2023-11-21 | 100,235 | 1,013 |
 | 2023-11-22 | 100,379 | 1,014 |
-| 2023-11-23 | 100,489 | 1,014 |
+| 2023-11-23 | 100,493 | 1,014 |
 ## Awards
 Max (Quickly Understood Controls): 25  (Ranked 520)  
 Sum: 93 (Ranked 450)  

@@ -3,9 +3,9 @@
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 535,
-  "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -369,9 +369,9 @@
       "ID": "HeroStory_Lytra",
       "SetID": "7b9f97e",
       "Name": "Lytra\u0027s Tale",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HeroStory_Philo",
@@ -417,9 +417,9 @@
       "ID": "Landmark_ReganGorForge",
       "SetID": "7b9f97e",
       "Name": "The Forge of Regan Gor",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Landmark_SilverDriftMine",
@@ -738,8 +738,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:08:24.8262375+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:08:39.6334406+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:05.0586165+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:02:33.9764448+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:08:24.8263041+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:02:42.0732039+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:08:39.6335226+00:00"
 }

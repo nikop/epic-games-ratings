@@ -7,7 +7,7 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 30.00% | ~59 |
-| Double Kill | 22.00% | ~43 |
+| Double Kill | 23.00% | ~46 |
 | Critical Hit | 10.00% | ~20 |
 | Veteran | 9.00% | ~18 |
 | Dressed For Success | 7.00% | ~14 |
@@ -24,6 +24,7 @@ Number of Ratings: 292  (23.09.2022)
 | Expert Essence Employment | 2.00% | ~4 |
 | Coming Through! | 1.00% | ~2 |
 | Deepstrike | 1.00% | ~2 |
+| Pyrrhic Victory | 1.00% | ~2 |
 | The Song of Stoutheart | 0.50% | ~1 |
 | Death To Diplomacy | 0.50% | ~1 |
 | Hello There | 0.50% | ~1 |
@@ -35,7 +36,6 @@ Number of Ratings: 292  (23.09.2022)
 | Trojan Horse | 0.50% | ~1 |
 | Ultra Kill | 0.50% | ~1 |
 | Grand Master | 0.50% | ~1 |
-| Pyrrhic Victory | 0.50% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197 (Ranked 387)  
-Completed: 0 (0.00%) (Ranked 358)  
+Progressed: 198 (Ranked 387)  
+Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 161 | 0 |
 | 2023-11-21 | 175 | 0 |
 | 2023-11-22 | 183 | 0 |
-| 2023-11-23 | 197 | 0 |
+| 2023-11-23 | 198 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 510)  
 Sum: 194 (Ranked 402)  

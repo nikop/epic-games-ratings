@@ -3,9 +3,9 @@
   "Name": "Battlefield V Definitive Edition",
   "ProductSlug": "battlefield-v-definitive-edition",
   "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 21116,
+  "EOS_Progressed": 21117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7588,6 +7588,11 @@
       "Time": "2023-11-23T20:09:17.8530325+00:00",
       "NumProgressed": 21116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T21:09:46.7338132+00:00",
+      "NumProgressed": 21117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -7632,7 +7637,7 @@
       "Name": "Grim Reaper",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 15837
+      "UsersEstimate": 15838
     },
     {
       "ID": "achievement_14",
@@ -7648,7 +7653,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 11191
+      "UsersEstimate": 11192
     },
     {
       "ID": "achievement_16",
@@ -7696,7 +7701,7 @@
       "Name": "Last Man Standing",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 19427
+      "UsersEstimate": 19428
     },
     {
       "ID": "achievement_21",
@@ -7704,7 +7709,7 @@
       "Name": "Not On My Watch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 14781
+      "UsersEstimate": 14782
     },
     {
       "ID": "achievement_3",
@@ -7767,13 +7772,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 21116,
+      "Progressed": 21117,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:09:17.8530321+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:09:46.7338129+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:02.3555074+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:59:55.2334817+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:09:17.8530864+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:00:55.3006483+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:09:46.7338596+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1482,
+  "EOS_Progressed": 1484,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1901,6 +1901,11 @@
       "Time": "2023-11-23T18:09:22.4362476+00:00",
       "NumProgressed": 1482,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-23T21:10:09.3242032+00:00",
+      "NumProgressed": 1484,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1928,7 +1933,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -2072,7 +2077,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -2088,7 +2093,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_mythwalker",
@@ -2359,15 +2364,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1482,
+      "Progressed": 1484,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:09:35.3115544+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:10:09.3242022+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:35.6437946+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:59:18.6483511+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:09:35.3116076+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:00:04.0427602+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:10:09.3242507+00:00"
 }

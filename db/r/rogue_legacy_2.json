@@ -6,9 +6,9 @@
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 129,
-  "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 268,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1494,9 +1494,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23562,
+  "EOS_Progressed": 23564,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9809,6 +9809,11 @@
       "Time": "2023-11-23T19:08:58.0699131+00:00",
       "NumProgressed": 23562,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-23T21:09:23.6843991+00:00",
+      "NumProgressed": 23564,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -9892,7 +9897,7 @@
       "Name": "For Glory",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "BossCastleDefeated",
@@ -9900,7 +9905,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -10131,21 +10136,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23562,
+      "Progressed": 23564,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2492,
+      "Progressed": 2494,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-23T01:44:15.9568537+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:08:59.811184+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:09:23.6843989+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.4592535+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:58:09.1874969+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:08:59.8112471+00:00"
+  "LastUpdate_Ratings": "2023-11-23T20:58:30.8389598+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:09:23.6844614+00:00"
 }

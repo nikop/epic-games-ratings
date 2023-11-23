@@ -11,7 +11,7 @@
 | Jill the Champion | 8.00% | ~160 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,006 (Ranked 224)  
-Completed: 155 (7.73%) (Ranked 51)  
+Completed: 155 (7.73%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Godzilla Voxel Wars",
   "ProductSlug": "godzillawars-2c30e4",
   "Ranking_EOS_Progress": 545,
-  "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -642,8 +642,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:06:15.5936746+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:07:25.4105217+00:00",
   "LastUpdate_AppInfo": "2023-11-21T04:57:14.1198184+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:57:31.9739989+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:06:15.5937211+00:00"
+  "LastUpdate_Ratings": "2023-11-23T20:57:41.3514872+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:07:25.4105603+00:00"
 }

@@ -25,7 +25,7 @@ Rating: 4.64 (Ranked 333)
 | Strange Transmissions | 44.00% | ~856 |
 | Wreckage | 43.00% | ~836 |
 | Live with the Hot Ones | 42.00% | ~817 |
-| Keeper of the Faith | 40.00% | ~778 |
+| Keeper of the Faith | 41.00% | ~797 |
 | Betrayed | 39.00% | ~759 |
 | Exodus | 38.00% | ~739 |
 | Legend Teller | 38.00% | ~739 |
@@ -54,7 +54,7 @@ Rating: 4.64 (Ranked 333)
 | One Gun | 2.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,945 (Ranked 226)  
-Completed: 12 (0.62%) (Ranked 186)  
+Completed: 12 (0.62%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -31,8 +31,8 @@
 | Hope | 5.00% | ~11 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 358)  
+Progressed: 220 (Ranked 378)  
+Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

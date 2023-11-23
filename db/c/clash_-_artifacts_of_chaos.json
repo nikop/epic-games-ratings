@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 421,
-  "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Completed": 174,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -316,6 +316,11 @@
       "Time": "2023-11-15T23:11:27.2609+00:00",
       "NumProgressed": 113,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T21:10:14.3417756+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -325,9 +330,9 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement10",
@@ -381,17 +386,17 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "Achievement18",
@@ -463,7 +468,7 @@
       "Name": "Total Eclipse",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement7",
@@ -485,16 +490,16 @@
       "ID": "Achievement9",
       "SetID": "jf6ho5",
       "Name": "Dreamwalker",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 1
     }
   ],
@@ -502,8 +507,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:09:39.1524704+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:10:14.3417755+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:57.1780056+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:59:09.5184509+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:09:39.1524826+00:00"
+  "LastUpdate_Ratings": "2023-11-23T20:59:51.8790752+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:10:14.3417872+00:00"
 }

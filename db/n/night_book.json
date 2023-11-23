@@ -2,10 +2,10 @@
   "ID": "2a873e03d3c94f6ab62bf1e633e5f008",
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
-  "Ranking_EOS_Progress": 367,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.07,
+  "EOS_Completed_Percentage": 2.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -376,6 +376,11 @@
       "Time": "2023-11-14T19:06:23.4318384+00:00",
       "NumProgressed": 242,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-23T21:06:31.8174275+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -385,9 +390,9 @@
       "ID": "a_little_extra",
       "SetID": "a3kkelb",
       "Name": "A Little Extra",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "career_woman",
@@ -403,7 +408,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "hopeful",
@@ -427,7 +432,7 @@
       "Name": "Impress Theron",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "marriage_is_off",
@@ -515,14 +520,14 @@
       "Name": "Will This Help?",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 5
     }
   ],
@@ -530,8 +535,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:05:33.8714459+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:06:31.8174273+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.2243015+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:00:09.1320192+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:05:33.8714577+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:01:13.711218+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:06:31.8174376+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 56  (23.09.2022)
 | podium | 72.00% | ~7,430 |
 | medium attack | 60.00% | ~6,191 |
 | brail | 57.00% | ~5,882 |
-| good drivers have dead flies on the side windows | 43.00% | ~4,437 |
+| good drivers have dead flies on the side windows | 44.00% | ~4,540 |
 | grocery-getter | 40.00% | ~4,128 |
 | rwd only | 27.00% | ~2,786 |
 | food tour: pasta | 27.00% | ~2,786 |
@@ -51,7 +51,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,319 (Ranked 163)  
-Completed: 9 (0.09%) (Ranked 287)  
+Completed: 9 (0.09%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

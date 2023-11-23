@@ -9,7 +9,7 @@
 | Kamikaze | 65.00% | ~415 |
 | The Rebel And The Doctor | 58.00% | ~371 |
 | Beat It | 51.00% | ~326 |
-| Free Champagne | 47.00% | ~300 |
+| Free Champagne | 48.00% | ~307 |
 | Storage Hunter | 47.00% | ~300 |
 | Falling For You | 44.00% | ~281 |
 | Trust Me For Once | 28.00% | ~179 |
@@ -25,8 +25,8 @@
 | Second Chances | 7.00% | ~45 |
 | Not A People Person | 4.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 639 (Ranked 288)  
-Completed: 20 (3.13%) (Ranked 98)  
+Progressed: 639 (Ranked 289)  
+Completed: 20 (3.13%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,15 +7,15 @@ Rating: 4.46 (Ranked 647)
 | ---- | ---------- | ----- |
 | In The Zone | 53.00% | ~133,312 |
 | My First Runbow | 50.00% | ~125,766 |
-| It's The Fall | 26.00% | ~65,398 |
+| It's The Fall | 26.00% | ~65,399 |
 | The Stunner | 22.00% | ~55,337 |
 | Be Aggressive | 21.00% | ~52,822 |
-| Curator | 20.00% | ~50,306 |
+| Curator | 20.00% | ~50,307 |
 | Crowning Around | 18.00% | ~45,276 |
-| Can You Dig It? | 17.00% | ~42,760 |
+| Can You Dig It? | 17.00% | ~42,761 |
 | You Juan-A-Go? | 16.00% | ~40,245 |
 | Chan-tastic | 15.00% | ~37,730 |
-| Muddy Waters | 14.00% | ~35,214 |
+| Muddy Waters | 14.00% | ~35,215 |
 | Toasty! | 13.00% | ~32,699 |
 | Lazy Laser | 8.00% | ~20,123 |
 | Just A Phaze | 7.00% | ~17,607 |
@@ -52,8 +52,8 @@ Rating: 4.46 (Ranked 647)
 | Talent Scout | 0.10% | ~252 |
 | True Completionist | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,532 (Ranked 61)  
-Completed: 6 (0.00%) (Ranked 358)  
+Progressed: 251,533 (Ranked 61)  
+Completed: 6 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,7 +269,7 @@ Completed: 6 (0.00%) (Ranked 358)
 | 2023-11-20 | 251,460 | 6 |
 | 2023-11-21 | 251,485 | 6 |
 | 2023-11-22 | 251,508 | 6 |
-| 2023-11-23 | 251,532 | 6 |
+| 2023-11-23 | 251,533 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

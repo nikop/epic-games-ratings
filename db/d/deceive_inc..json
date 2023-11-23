@@ -6,9 +6,9 @@
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18885,
+  "EOS_Progressed": 18887,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13084,6 +13084,11 @@
       "Time": "2023-11-23T18:05:03.376137+00:00",
       "NumProgressed": 18885,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T21:06:05.9147315+00:00",
+      "NumProgressed": 18887,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13111,7 +13116,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "0004",
@@ -13151,7 +13156,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "0009",
@@ -13191,7 +13196,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "0014",
@@ -13223,7 +13228,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "0018",
@@ -13247,7 +13252,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "0021",
@@ -13287,7 +13292,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "0026",
@@ -13303,7 +13308,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "0028",
@@ -13327,7 +13332,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "0031",
@@ -13335,7 +13340,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "0032",
@@ -13343,7 +13348,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "0033",
@@ -13351,7 +13356,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "0034",
@@ -13382,7 +13387,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18885,
+      "Progressed": 18887,
       "Completed": 4
     }
   ],
@@ -13390,8 +13395,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:05:13.5874834+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:06:05.9147313+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:35.6925077+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:58:52.6715267+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:05:13.5875594+00:00"
+  "LastUpdate_Ratings": "2023-11-23T20:59:29.1409638+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:06:05.9148125+00:00"
 }

@@ -12,14 +12,14 @@ Rating: 4.56 (Ranked 491)
 | Captain Drummer | 5.00% | ~767 |
 | Celebrations are in Order | 5.00% | ~767 |
 | Impossible Objects | 5.00% | ~767 |
-| Safe Cracker | 5.00% | ~64 |
-| Zen Master | 5.00% | ~64 |
-| Madame Undersecretary | 5.00% | ~64 |
-| Stogie for Fogey | 4.00% | ~613 |
-| Drug Gifter | 4.00% | ~613 |
-| Spore Taste | 4.00% | ~613 |
-| Martian Music | 4.00% | ~613 |
-| Call it Even | 4.00% | ~613 |
+| Safe Cracker | 5.00% | ~65 |
+| Zen Master | 5.00% | ~65 |
+| Madame Undersecretary | 5.00% | ~65 |
+| Stogie for Fogey | 4.00% | ~614 |
+| Drug Gifter | 4.00% | ~614 |
+| Spore Taste | 4.00% | ~614 |
+| Martian Music | 4.00% | ~614 |
+| Call it Even | 4.00% | ~614 |
 | Keep Arjun in Check | 4.00% | ~52 |
 | Data Archivist | 3.00% | ~460 |
 | Heal Thy Medic | 3.00% | ~460 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,336 (Ranked 152)  
-Completed: 35 (0.23%) (Ranked 246)  
+Progressed: 15,342 (Ranked 152)  
+Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -165,7 +165,7 @@ Completed: 35 (0.23%) (Ranked 246)
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
 | 2023-11-22 | 15,266 | 35 |
-| 2023-11-23 | 15,336 | 35 |
+| 2023-11-23 | 15,342 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

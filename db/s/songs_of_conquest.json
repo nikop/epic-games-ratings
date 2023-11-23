@@ -6,9 +6,9 @@
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 387,
-  "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1008,6 +1008,11 @@
       "Time": "2023-11-23T19:05:40.724673+00:00",
       "NumProgressed": 197,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T21:06:08.0589715+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1162,9 +1167,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1386,9 +1391,9 @@
       "ID": "WinBattleWithOneUnitLeft",
       "SetID": "71c0n9i",
       "Name": "Pyrrhic Victory",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -1451,15 +1456,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:05:15.1755922+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:06:08.0589712+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:59:47.7059708+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:05:15.1756266+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:00:45.1511042+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:06:08.0590066+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -744,6 +744,11 @@
       "Time": "2023-11-23T18:08:57.6532722+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T21:09:35.0291829+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -915,14 +920,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-23T20:09:08.4704266+00:00",
+  "LastChanged_Achievements": "2023-11-23T21:09:35.0291827+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:09.7789217+00:00",
-  "LastUpdate_Ratings": "2023-11-23T20:00:41.4923674+00:00",
-  "LastUpdate_Achievements": "2023-11-23T20:09:08.47044+00:00"
+  "LastUpdate_Ratings": "2023-11-23T21:02:27.1332986+00:00",
+  "LastUpdate_Achievements": "2023-11-23T21:09:35.0291928+00:00"
 }

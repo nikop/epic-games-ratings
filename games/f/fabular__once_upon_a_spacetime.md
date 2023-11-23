@@ -14,7 +14,7 @@
 | I Know Kung Fu | 11.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 607)  
-Completed: 0 (0.00%) (Ranked 358)  
+Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

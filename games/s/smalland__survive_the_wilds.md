@@ -20,7 +20,7 @@ Rating: 4.60 (Ranked 415)
 | The Key | 0.20% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20,767 (Ranked 138)  
-Completed: 18 (0.09%) (Ranked 287)  
+Completed: 18 (0.09%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
