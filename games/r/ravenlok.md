@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~1,074 |
-| Waff! | 95.00% | ~1,063 |
+| Once Upon a Time | 96.00% | ~1,075 |
+| Waff! | 95.00% | ~1,064 |
 | Into the Barn | 87.00% | ~974 |
-| A Prophecy | 85.00% | ~951 |
-| Sword, Shield, Fight! | 76.00% | ~850 |
+| A Prophecy | 85.00% | ~952 |
+| Sword, Shield, Fight! | 76.00% | ~851 |
 | A Grand Visit | 72.00% | ~806 |
-| Fun Guy | 63.00% | ~705 |
+| Fun Guy | 63.00% | ~706 |
 | Vibing | 62.00% | ~694 |
-| Tragic Brave | 54.00% | ~604 |
+| Tragic Brave | 54.00% | ~605 |
 | Awakened Spirits | 51.00% | ~571 |
 | Little Shop | 50.00% | ~560 |
 | Surprise! | 46.00% | ~515 |
@@ -27,9 +27,9 @@
 | Take Heart | 40.00% | ~448 |
 | Stronger! | 40.00% | ~448 |
 | Well Rested | 40.00% | ~448 |
-| Ancient Wisdom | 39.00% | ~436 |
-| Frog Facts! | 39.00% | ~436 |
-| All That Glistens | 39.00% | ~436 |
+| Ancient Wisdom | 39.00% | ~437 |
+| Frog Facts! | 39.00% | ~437 |
+| All That Glistens | 39.00% | ~437 |
 | Spellbound | 37.00% | ~414 |
 | Extinct Again! | 37.00% | ~414 |
 | All Skilled Up! | 37.00% | ~414 |
@@ -43,20 +43,20 @@
 | All Heart | 35.00% | ~392 |
 | Trick Question! | 35.00% | ~392 |
 | Final Showdown | 35.00% | ~392 |
-| The Downfall | 34.00% | ~380 |
-| Spot of Tea? | 34.00% | ~380 |
-| Going Home | 34.00% | ~380 |
-| Extraordinary! | 33.00% | ~369 |
+| The Downfall | 34.00% | ~381 |
+| Spot of Tea? | 34.00% | ~381 |
+| Going Home | 34.00% | ~381 |
+| Extraordinary! | 33.00% | ~370 |
 | Mirror, Mirror | 32.00% | ~358 |
-| Flower Power | 28.00% | ~313 |
+| Flower Power | 28.00% | ~314 |
 | Shopping Spree! | 26.00% | ~291 |
-| Crowned | 23.00% | ~257 |
+| Crowned | 23.00% | ~258 |
 | Max Level! | 16.00% | ~179 |
 | Dance Master | 10.00% | ~112 |
 | Bombs Away! | 9.00% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,119 (Ranked 257)  
-Completed: 85 (7.60%) (Ranked 53)  
+Progressed: 1,120 (Ranked 257)  
+Completed: 85 (7.59%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,6 +188,7 @@ Completed: 85 (7.60%) (Ranked 53)
 | 2023-11-14 | 1,117 | 85 |
 | 2023-11-18 | 1,118 | 85 |
 | 2023-11-22 | 1,119 | 85 |
+| 2023-11-23 | 1,120 | 85 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

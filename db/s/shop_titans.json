@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1001,
+  "Ranking_Rating": 1002,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
@@ -7171,9 +7171,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141052,
+  "EOS_Progressed": 141057,
   "EOS_Completed": 194,
-  "EOS_NewPlayers": 1077,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29496,6 +29496,11 @@
       "Time": "2023-11-23T01:54:07.0039164+00:00",
       "NumProgressed": 141052,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-11-23T03:07:37.053681+00:00",
+      "NumProgressed": 141057,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 112,
@@ -29563,7 +29568,7 @@
       "Name": "Above the Norm",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "ascend03",
@@ -29579,7 +29584,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "bigsale01",
@@ -29835,7 +29840,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "enchant01",
@@ -29923,7 +29928,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "furniture03",
@@ -29931,7 +29936,7 @@
       "Name": "Fit for a King",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "fuseepic",
@@ -30019,7 +30024,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "help01",
@@ -30035,7 +30040,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "help03",
@@ -30051,7 +30056,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "jackslot01",
@@ -30107,7 +30112,7 @@
       "Name": "Master Merchant",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "level04",
@@ -30123,7 +30128,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "loot01",
@@ -30139,7 +30144,7 @@
       "Name": "Laden with Loot",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "loot03",
@@ -30211,7 +30216,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "quest01",
@@ -30227,7 +30232,7 @@
       "Name": "Attrition Mission",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "quest03",
@@ -30251,7 +30256,7 @@
       "Name": "Glittering Collection",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "rareres02",
@@ -30355,7 +30360,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "uncommonres03",
@@ -30395,22 +30400,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141052,
+      "Progressed": 141057,
       "Completed": 194
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-22T17:03:17.3746506+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:29:57.1157838+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:07:37.0536805+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:25:08.2948276+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:29:57.1159651+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:02:49.3172461+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:07:37.0538696+00:00"
 }

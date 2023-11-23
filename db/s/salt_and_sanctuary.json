@@ -2796,7 +2796,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 538923,
+  "EOS_Progressed": 538924,
   "EOS_Completed": 1621,
   "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 7,
@@ -26676,6 +26676,11 @@
       "Time": "2023-11-23T01:55:07.0774371+00:00",
       "NumProgressed": 538923,
       "NumCompleted": 1621
+    },
+    {
+      "Time": "2023-11-23T03:08:19.2580448+00:00",
+      "NumProgressed": 538924,
+      "NumCompleted": 1621
     }
   ],
   "TotalAchievements": 37,
@@ -26743,7 +26748,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 447306
+      "UsersEstimate": 447307
     },
     {
       "ID": "HONED",
@@ -26799,7 +26804,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215569
+      "UsersEstimate": 215570
     },
     {
       "ID": "THE_CASTLE",
@@ -26847,7 +26852,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80838
+      "UsersEstimate": 80839
     },
     {
       "ID": "THE_IMPOSTER",
@@ -26863,7 +26868,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102395
+      "UsersEstimate": 102396
     },
     {
       "ID": "THE_KEEP",
@@ -26982,15 +26987,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 538923,
+      "Progressed": 538924,
       "Completed": 1621
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-18T12:59:55.4246283+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:30:39.7462685+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:08:19.2580444+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:11.7243126+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:22:38.1065096+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:30:39.7463974+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:00:18.5216625+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:08:19.2581513+00:00"
 }

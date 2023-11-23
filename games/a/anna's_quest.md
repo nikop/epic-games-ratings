@@ -15,8 +15,8 @@
 | Honey, honey, honey… | 32.00% | ~26 |
 | So soothing... | 32.00% | ~26 |
 | Roostwig has entered the building | 32.00% | ~26 |
+| Mystery solved | 30.00% | ~25 |
 | A very special drink | 30.00% | ~25 |
-| Mystery solved | 29.00% | ~24 |
 | Game Over! | 29.00% | ~24 |
 | Far away from home | 29.00% | ~24 |
 | Sorry Grandpa | 29.00% | ~24 |

@@ -6,36 +6,36 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~846,132 |
-| Green Energy | 60.00% | ~715,041 |
-| Foggy Weather | 59.00% | ~703,124 |
-| Singing In The- | 59.00% | ~703,124 |
-| Unpopular Mayor | 40.00% | ~476,694 |
-| Power at Your Fingertips | 33.00% | ~393,273 |
-| City Planner | 22.00% | ~262,182 |
-| Rolling in Dough | 20.00% | ~238,347 |
-| Does My Bum Look Big In This? | 17.00% | ~202,595 |
-| Climbing the Social Ladder | 16.00% | ~190,678 |
-| Safe City | 14.00% | ~166,843 |
-| Quay-King | 11.00% | ~131,091 |
-| Lawmaker | 10.00% | ~119,174 |
-| With Canals You Can! | 10.00% | ~119,174 |
-| Nomen Est Omen | 7.00% | ~83,421 |
-| Well Informed | 6.00% | ~71,504 |
-| Fire Watch | 5.00% | ~59,587 |
-| Greenest City | 4.00% | ~47,669 |
-| Heavenly City | 3.00% | ~35,752 |
-| Reporting! | 3.00% | ~35,752 |
-| SIMulated City | 3.00% | ~35,752 |
-| The Safest Town | 3.00% | ~35,752 |
+| Pioneer | 71.00% | ~846,149 |
+| Green Energy | 60.00% | ~715,055 |
+| Foggy Weather | 59.00% | ~703,138 |
+| Singing In The- | 59.00% | ~703,138 |
+| Unpopular Mayor | 40.00% | ~476,704 |
+| Power at Your Fingertips | 33.00% | ~393,280 |
+| City Planner | 22.00% | ~262,187 |
+| Rolling in Dough | 20.00% | ~238,352 |
+| Does My Bum Look Big In This? | 17.00% | ~202,599 |
+| Climbing the Social Ladder | 16.00% | ~190,681 |
+| Safe City | 14.00% | ~166,846 |
+| Quay-King | 11.00% | ~131,093 |
+| Lawmaker | 10.00% | ~119,176 |
+| With Canals You Can! | 10.00% | ~119,176 |
+| Nomen Est Omen | 7.00% | ~83,423 |
+| Well Informed | 6.00% | ~71,506 |
+| Fire Watch | 5.00% | ~59,588 |
+| Greenest City | 4.00% | ~47,670 |
+| Heavenly City | 3.00% | ~35,753 |
+| Reporting! | 3.00% | ~35,753 |
+| SIMulated City | 3.00% | ~35,753 |
+| The Safest Town | 3.00% | ~35,753 |
 | Professional Dumper | 2.00% | ~23,835 |
-| City in Motion | 1.00% | ~11,917 |
-| Earthloving City | 1.00% | ~11,917 |
-| Metropolis | 1.00% | ~11,917 |
+| City in Motion | 1.00% | ~11,918 |
+| Earthloving City | 1.00% | ~11,918 |
+| Metropolis | 1.00% | ~11,918 |
 | Higher Education | 0.80% | ~9,534 |
 | Beam Me Up | 0.70% | ~8,342 |
-| Full Capacity | 0.60% | ~7,150 |
-| Terraformer | 0.60% | ~7,150 |
+| Full Capacity | 0.60% | ~7,151 |
+| Terraformer | 0.60% | ~7,151 |
 | Decorator | 0.50% | ~5,959 |
 | Drop the Base | 0.50% | ~5,959 |
 | It's heading right for us! | 0.50% | ~5,959 |
@@ -57,16 +57,16 @@ Number of Ratings: 25,248  (23.09.2022)
 | Here's A Tram | 0.30% | ~3,575 |
 | Short Fuse | 0.30% | ~3,575 |
 | We need snorkels! | 0.30% | ~3,575 |
-| City in Motion 2 | 0.20% | ~2,383 |
-| Eternal City | 0.20% | ~2,383 |
-| Friendly Teaching | 0.20% | ~2,383 |
-| It's Wintertime! | 0.20% | ~2,383 |
-| Make Them Pay | 0.20% | ~2,383 |
-| Medic! | 0.20% | ~2,383 |
-| New Eden | 0.20% | ~2,383 |
-| Power to the People | 0.20% | ~2,383 |
-| Run, Bambi! | 0.20% | ~2,383 |
-| The Park To Rule All Parks | 0.20% | ~2,383 |
+| City in Motion 2 | 0.20% | ~2,384 |
+| Eternal City | 0.20% | ~2,384 |
+| Friendly Teaching | 0.20% | ~2,384 |
+| It's Wintertime! | 0.20% | ~2,384 |
+| Make Them Pay | 0.20% | ~2,384 |
+| Medic! | 0.20% | ~2,384 |
+| New Eden | 0.20% | ~2,384 |
+| Power to the People | 0.20% | ~2,384 |
+| Run, Bambi! | 0.20% | ~2,384 |
+| The Park To Rule All Parks | 0.20% | ~2,384 |
 | 1001 Nights | 0.10% | ~1,192 |
 | Academic Scholar | 0.10% | ~1,192 |
 | Airline Tycoon | 0.10% | ~1,192 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,192 |
 | Z00 | 0.10% | ~1,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,191,735 (Ranked 11)  
+Progressed: 1,191,759 (Ranked 11)  
 Completed: 10 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 10 (0.00%) (Ranked 358)
 | 2023-11-20 | 1,188,798 | 10 |
 | 2023-11-21 | 1,190,248 | 10 |
 | 2023-11-22 | 1,191,606 | 10 |
-| 2023-11-23 | 1,191,735 | 10 |
+| 2023-11-23 | 1,191,759 | 10 |
 ## Awards
 Max (Great for Beginners): 6,270  (Ranked 60)  
 Sum: 46,510 (Ranked 31)  

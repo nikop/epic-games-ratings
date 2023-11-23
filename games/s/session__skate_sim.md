@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.68 (Ranked 252)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,080 (Ranked 210)  
-Completed: 2 (0.06%) (Ranked 299)  
+Completed: 2 (0.06%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -445,3 +445,4 @@ Diff (max vs sum): 99
 | 2023-11-14 | 4.69 | - | 57 | 550 |
 | 2023-11-17 | 4.69 | - | 58 | 552 |
 | 2023-11-20 | 4.68 | - | 58 | 553 |
+| 2023-11-23 | 4.69 | - | 58 | 553 |

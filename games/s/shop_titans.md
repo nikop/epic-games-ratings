@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,001)  
+Rating: 3.99 (Ranked 1,002)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -62,22 +62,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 1.00% | ~1,411 |
 | Special Ingredient | 1.00% | ~1,411 |
 | Complete Monopoly | 1.00% | ~1,411 |
-| Above the Norm | 0.90% | ~1,269 |
-| A Ronin Reborn | 0.90% | ~1,269 |
-| Master of Transmutation | 0.90% | ~1,269 |
-| Cranked up to 11 | 0.90% | ~1,269 |
-| Fit for a King | 0.90% | ~1,269 |
-| Wealth Beyond Measure | 0.90% | ~1,269 |
-| Fat Cat Tag Team | 0.90% | ~1,269 |
-| Necromancer Queen | 0.90% | ~1,269 |
-| Master Merchant | 0.90% | ~1,269 |
-| Miracle Alchemist | 0.90% | ~1,269 |
-| Laden with Loot | 0.90% | ~1,269 |
-| Scourge of the Seas | 0.90% | ~1,269 |
-| Attrition Mission | 0.90% | ~1,269 |
-| Glittering Collection | 0.90% | ~1,269 |
-| Exotic Commodities | 0.90% | ~1,269 |
-| King's Blade | 0.90% | ~1,269 |
+| Above the Norm | 0.90% | ~1,270 |
+| A Ronin Reborn | 0.90% | ~1,270 |
+| Master of Transmutation | 0.90% | ~1,270 |
+| Cranked up to 11 | 0.90% | ~1,270 |
+| Fit for a King | 0.90% | ~1,270 |
+| Wealth Beyond Measure | 0.90% | ~1,270 |
+| Fat Cat Tag Team | 0.90% | ~1,270 |
+| Necromancer Queen | 0.90% | ~1,270 |
+| Master Merchant | 0.90% | ~1,270 |
+| Miracle Alchemist | 0.90% | ~1,270 |
+| Laden with Loot | 0.90% | ~1,270 |
+| Scourge of the Seas | 0.90% | ~1,270 |
+| Attrition Mission | 0.90% | ~1,270 |
+| Glittering Collection | 0.90% | ~1,270 |
+| Exotic Commodities | 0.90% | ~1,270 |
+| King's Blade | 0.90% | ~1,270 |
 | Cream of the Crop | 0.80% | ~1,128 |
 | Top of the World | 0.80% | ~1,128 |
 | Proud Paladin | 0.80% | ~1,128 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,052 (Ranked 80)  
+Progressed: 141,057 (Ranked 80)  
 Completed: 194 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 194 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
-| 2023-11-23 | 141,052 | 194 |
+| 2023-11-23 | 141,057 | 194 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

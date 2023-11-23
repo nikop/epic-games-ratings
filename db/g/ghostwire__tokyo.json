@@ -2,13 +2,13 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 553,
+  "Ranking_Rating": 540,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 756,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 1100,
   "RatingHistory": [
     {
@@ -2188,6 +2188,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 1927,
       "NumberOfAwardsMax": 1405
+    },
+    {
+      "Time": "2023-11-23T02:57:50.5674065+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1927,
+      "NumberOfAwardsMax": 1405
     }
   ],
   "ReviewsDisabled": false,
@@ -2273,8 +2279,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-11-22T18:58:02.9484782+00:00",
+  "LastChanged": "2023-11-23T02:57:50.5674064+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5514442+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:20:10.7678195+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:30:39.2939868+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:57:50.5674068+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:08:18.7913604+00:00"
 }

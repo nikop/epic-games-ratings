@@ -67,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Speeds of Destruction | 0.10% | ~203 |
 | Owlbear Necessities | 0.10% | ~203 |
 | The Evacuation of Waterdeep | 0.10% | ~203 |
+| Flapjacks and Waffles | 0.10% | ~203 |
 | On the Hunt | 0.10% | ~236 |
 | Best Thay Ever | 0.10% | ~203 |
 | Vecna Lives! | 0.10% | ~203 |
@@ -101,6 +102,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Whale of a Time | 0.10% | ~203 |
 | Homecoming | 0.10% | ~236 |
 | Anti-Dexterous Explorers | 0.10% | ~236 |
+| Struggling Toward Omu | 0.10% | ~236 |
 | Wagon Train | 0.10% | ~236 |
 | The Lost Heir of Omu | 0.10% | ~236 |
 | A Persistent Buzzing | 0.10% | ~236 |
@@ -142,6 +144,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.10% | ~236 |
 | Werewolves in the Mist | 0.10% | ~236 |
 | We're not in Faerûn Anymore | 0.10% | ~236 |
+| Family Entanglements | 0.10% | ~236 |
 | Haunted Fortunes | 0.10% | ~236 |
 | Poor Fortune | 0.10% | ~236 |
 | Relentless Misfortune | 0.10% | ~236 |
@@ -160,6 +163,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.10% | ~236 |
 | Only the Strong Survive | 0.10% | ~236 |
 | Shorty's Day Off | 0.10% | ~236 |
+| Intelligence Hunt | 0.10% | ~236 |
 | Seeds of Deceit | 0.10% | ~236 |
 | Seeds of Corruption | 0.10% | ~236 |
 | The Strahd Squad | 0.10% | ~203 |
@@ -175,12 +179,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.10% | ~236 |
 | The Crumbling Temple | 0.10% | ~236 |
 | The Death Curse | 0.10% | ~236 |
+| Treasure Hunters | 0.10% | ~236 |
 | Think Your Way Out Of It | 0.10% | ~236 |
 | Air's Getting Pretty Thin | 0.10% | ~236 |
 | Red Wizard 'Escort' | 0.10% | ~203 |
 | The Lost Love | 0.10% | ~236 |
 | A Saurial's Lament | 0.10% | ~236 |
 | A Saurial's Resolve | 0.10% | ~236 |
+| Flies on the Wall | 0.10% | ~236 |
 | Seeking Allies | 0.10% | ~236 |
 | Class Vacation | 0.10% | ~236 |
 | A Nod from Strahd | 0.10% | ~203 |
@@ -192,12 +198,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimblest Escape | 0.10% | ~236 |
 | Are Ya Chicken? | 0.10% | ~236 |
 | Useless Allies | 0.10% | ~236 |
+| Stumbling Escape | 0.10% | ~236 |
+| Distracted Escape | 0.10% | ~203 |
 | Fugitives | 0.10% | ~236 |
 | From The Shadows | 0.10% | ~236 |
 | Spined Nuisances | 0.10% | ~236 |
 | Twilight Twist | 0.10% | ~203 |
 | Excavating History | 0.10% | ~236 |
 | Screams of the Dead | 0.10% | ~236 |
+| Premature Betrayal | 0.10% | ~236 |
 | Birds of a Feather | 0.10% | ~203 |
 | Towering Expectations | 0.10% | ~236 |
 | Guests of the Groom | 0.10% | ~236 |
@@ -285,6 +294,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu All Over Again | 0.10% | ~203 |
 | Into The Fire | 0.10% | ~203 |
 | A Difficult Descent | 0.10% | ~203 |
+| The Devil Arrives | 0.10% | ~203 |
 | Hearts Aflame | 0.10% | ~203 |
 | Dreamscape | 0.10% | ~203 |
 | Dream Gauntlet | 0.10% | ~203 |
@@ -299,6 +309,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Friend Search Squad! | 0.10% | ~203 |
 | An Even Worse Time in Avernus | 0.10% | ~203 |
 | Elder Rune Attack | 0.10% | ~203 |
+| The Gargoyle | 0.10% | ~203 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~203 |
 | The Wandering Emporium | 0.10% | ~203 |
 | Madcap Adventures Redux | 0.10% | ~203 |
@@ -347,6 +358,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen in Fear | 0.10% | ~203 |
 | It's Cold Out There Today | 0.10% | ~203 |
 | Sunblight | 0.10% | ~203 |
+| Fortress Assault | 0.10% | ~203 |
 | Hats off to you! | 0.10% | ~203 |
 | The Bleeding Citadel | 0.10% | ~203 |
 | Don't Pick at the Scab | 0.10% | ~203 |
@@ -402,6 +414,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~203 |
 | Quick or Quack | 0.10% | ~203 |
 | The Champion's Guide to Wildspace | 0.10% | ~203 |
+| Not That Type of Helm! | 0.10% | ~203 |
 | Calcryx Tricks | 0.10% | ~203 |
 | Goblin Halls: the Next Generation | 0.10% | ~203 |
 | Bazaar Companions | 0.10% | ~203 |
@@ -452,10 +465,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lutes of Loomlurch | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
-| Flapjacks and Waffles | 0.00% | ~0 |
 | A Demi-god's Defender | 0.00% | ~0 |
 | Pin and Skewer | 0.00% | ~0 |
-| Struggling Toward Omu | 0.00% | ~0 |
 | Taking Responsibility | 0.00% | ~0 |
 | Love Unsoiled | 0.00% | ~0 |
 | The Play's the Thing! | 0.00% | ~0 |
@@ -468,21 +479,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Newcomers of Notoriety | 0.00% | ~0 |
 | Acererak's Puzzle | 0.00% | ~0 |
 | Invisible Shadows | 0.00% | ~0 |
-| Family Entanglements | 0.00% | ~0 |
 | Chatty Nobles | 0.00% | ~0 |
 | Form Ranks | 0.00% | ~0 |
 | Drop of Time | 0.00% | ~0 |
 | The Wyrmheart Mine | 0.00% | ~0 |
-| Intelligence Hunt | 0.00% | ~0 |
 | Visions of Strahd | 0.00% | ~0 |
-| Treasure Hunters | 0.00% | ~0 |
 | The Guardian of Orolunga | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
-| Flies on the Wall | 0.00% | ~0 |
 | The Killer Mists | 0.00% | ~0 |
-| Stumbling Escape | 0.00% | ~0 |
-| Distracted Escape | 0.00% | ~0 |
-| Premature Betrayal | 0.00% | ~0 |
 | Frantic Excavation | 0.00% | ~0 |
 | Bazaar Exploits | 0.00% | ~0 |
 | The Madness Grows | 0.00% | ~0 |
@@ -500,9 +504,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.00% | ~0 |
 | Vault of Pixies | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
-| The Devil Arrives | 0.00% | ~0 |
 | Alterdeep | 0.00% | ~0 |
-| The Gargoyle | 0.00% | ~0 |
 | Just The Worst | 0.00% | ~0 |
 | Extreme Heat | 0.00% | ~0 |
 | A Nightmare Occasion | 0.00% | ~0 |
@@ -515,7 +517,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Taunting Lord | 0.00% | ~0 |
 | Lone Wolf Party | 0.00% | ~0 |
 | Mimic Perception | 0.00% | ~0 |
-| Fortress Assault | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Reya Reborn | 0.00% | ~0 |
 | Tough Acting | 0.00% | ~0 |
@@ -531,7 +532,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
 | Devilishly Cold | 0.00% | ~0 |
-| Not That Type of Helm! | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | 3,720 to 1 | 0.00% | ~0 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.00% | ~0 |
 | Slow Down Showdown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,443 (Ranked 64)  
+Progressed: 236,445 (Ranked 64)  
 Completed: 2,468 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,468 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,443 | 2,468 |
+| 2023-11-23 | 236,445 | 2,468 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,575 (Ranked 41)  

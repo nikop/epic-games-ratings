@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -742,9 +742,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41020,
+  "EOS_Progressed": 41022,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22812,6 +22812,11 @@
       "Time": "2023-11-23T02:25:43.3063665+00:00",
       "NumProgressed": 41020,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T03:03:24.4158442+00:00",
+      "NumProgressed": 41022,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -22839,7 +22844,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6973
+      "UsersEstimate": 6974
     },
     {
       "ID": "ach_antiquarian10",
@@ -22943,7 +22948,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14767
+      "UsersEstimate": 14768
     },
     {
       "ID": "ach_die10",
@@ -23015,7 +23020,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "ach_legacypupil",
@@ -23023,7 +23028,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach_legacyrival",
@@ -23039,7 +23044,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach_legacyshipmate",
@@ -23055,7 +23060,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach_portbell",
@@ -23167,7 +23172,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach_sweetheart",
@@ -23183,7 +23188,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "ach_terror90",
@@ -23223,7 +23228,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "ach_year1",
@@ -23254,15 +23259,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41020,
+      "Progressed": 41022,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-14T11:58:18.1801292+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:25:43.3063662+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:03:24.4158439+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.6571384+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:22:31.747295+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:25:43.3065298+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:00:11.9733777+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:03:24.4160088+00:00"
 }

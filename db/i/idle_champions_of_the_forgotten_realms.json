@@ -8239,9 +8239,9 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236443,
+  "EOS_Progressed": 236445,
   "EOS_Completed": 2468,
-  "EOS_NewPlayers": 1223,
+  "EOS_NewPlayers": 1224,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32539,6 +32539,11 @@
       "Time": "2023-11-23T02:32:16.865926+00:00",
       "NumProgressed": 236443,
       "NumCompleted": 2468
+    },
+    {
+      "Time": "2023-11-23T03:09:56.2163824+00:00",
+      "NumProgressed": 236445,
+      "NumCompleted": 2468
     }
   ],
   "TotalAchievements": 532,
@@ -33204,9 +33209,9 @@
       "ID": "objective_completed_1159",
       "SetID": "415jc5c",
       "Name": "Flapjacks and Waffles",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_116",
@@ -33500,9 +33505,9 @@
       "ID": "objective_completed_126",
       "SetID": "cc37lbc",
       "Name": "Struggling Toward Omu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_127",
@@ -33932,9 +33937,9 @@
       "ID": "objective_completed_213",
       "SetID": "cc37lbc",
       "Name": "Family Entanglements",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_214",
@@ -34116,9 +34121,9 @@
       "ID": "objective_completed_265",
       "SetID": "cc37lbc",
       "Name": "Intelligence Hunt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_267",
@@ -34252,9 +34257,9 @@
       "ID": "objective_completed_37",
       "SetID": "cc37lbc",
       "Name": "Treasure Hunters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_378",
@@ -34324,9 +34329,9 @@
       "ID": "objective_completed_388",
       "SetID": "cc37lbc",
       "Name": "Flies on the Wall",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_389",
@@ -34428,17 +34433,17 @@
       "ID": "objective_completed_400",
       "SetID": "cc37lbc",
       "Name": "Stumbling Escape",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_401",
       "SetID": "415jc5c",
       "Name": "Distracted Escape",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_403",
@@ -34492,9 +34497,9 @@
       "ID": "objective_completed_41",
       "SetID": "cc37lbc",
       "Name": "Premature Betrayal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_410",
@@ -35332,9 +35337,9 @@
       "ID": "objective_completed_632",
       "SetID": "415jc5c",
       "Name": "The Devil Arrives",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_633",
@@ -35460,9 +35465,9 @@
       "ID": "objective_completed_657",
       "SetID": "415jc5c",
       "Name": "The Gargoyle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_658",
@@ -35948,9 +35953,9 @@
       "ID": "objective_completed_833",
       "SetID": "415jc5c",
       "Name": "Fortress Assault",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_834",
@@ -36516,9 +36521,9 @@
       "ID": "objective_completed_1220",
       "SetID": "415jc5c",
       "Name": "Not That Type of Helm!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1327",
@@ -36805,21 +36810,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202717,
+      "Progressed": 202719,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236443,
+      "Progressed": 236445,
       "Completed": 2468
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-22T21:57:49.5338651+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:32:16.8659255+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:09:56.216382+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:20:11.9046738+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:32:16.8681354+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:57:51.6976564+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:09:56.2185267+00:00"
 }

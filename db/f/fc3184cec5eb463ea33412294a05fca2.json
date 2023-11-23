@@ -1356,9 +1356,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1444,9 +1444,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 199
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1460,9 +1460,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1483,8 +1483,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:29:39.8741693+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:07:19.5641235+00:00",
   "LastUpdate_AppInfo": "2023-11-19T01:47:56.0538921+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:20:19.2684231+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:29:39.8741868+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:57:59.3157442+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:07:19.5641392+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 69.00% | ~791 |
+| Leap Before You Look | 70.00% | ~802 |
 | Getting the Hang of It | 42.00% | ~481 |
 | Hoarder | 32.00% | ~367 |
 | Blobmeister | 27.00% | ~309 |

@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 804,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -1775,9 +1775,9 @@
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 466
     },
     {
       "ID": "EV_ACH18",
@@ -2006,8 +2006,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:32:09.6447509+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:09:48.8687705+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:24:54.5909602+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:32:09.6447889+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:02:35.4421268+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:09:48.8688084+00:00"
 }

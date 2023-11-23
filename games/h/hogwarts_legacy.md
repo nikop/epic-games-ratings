@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 127)
 | The Root of the Problem | 6.00% | ~18,164 |
 | Third Time's a Charm | 6.00% | ~18,164 |
 | Raising Expectations | 6.00% | ~18,164 |
-| The Toast of the Town | 5.00% | ~15,136 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,136 |
-| The Ends Petrify the Means | 5.00% | ~15,136 |
+| The Toast of the Town | 5.00% | ~15,137 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,137 |
+| The Ends Petrify the Means | 5.00% | ~15,137 |
 | Going Through the Potions | 4.00% | ~12,109 |
 | Room with a View | 4.00% | ~12,109 |
 | The Intrepid Explorer | 4.00% | ~12,109 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,119 |
 | Collector's Edition | 0.30% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,730 (Ranked 54)  
+Progressed: 302,731 (Ranked 54)  
 Completed: 513 (0.17%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 513 (0.17%) (Ranked 263)
 | 2023-11-20 | 302,491 | 513 |
 | 2023-11-21 | 302,563 | 513 |
 | 2023-11-22 | 302,711 | 513 |
-| 2023-11-23 | 302,730 | 513 |
+| 2023-11-23 | 302,731 | 513 |
 ## Awards
 Max (Character Customization): 24,536  (Ranked 17)  
 Sum: 48,880 (Ranked 30)  

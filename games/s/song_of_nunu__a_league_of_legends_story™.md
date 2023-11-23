@@ -14,8 +14,8 @@
 | Krugmazing | 66.00% | ~531 |
 | The Fire Below the Mountain | 63.00% | ~507 |
 | Moneyball | 61.00% | ~490 |
+| Iceborn | 58.00% | ~466 |
 | No Bites | 57.00% | ~458 |
-| Iceborn | 57.00% | ~458 |
 | Boom Things | 55.00% | ~442 |
 | Tear of Freedom | 54.00% | ~434 |
 | My Darkest Day | 51.00% | ~410 |

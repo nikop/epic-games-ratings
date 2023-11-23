@@ -6,8 +6,8 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~45,091 |
-| Initial Capital | 67.00% | ~37,764 |
+| Junior Naval Designer | 80.00% | ~45,092 |
+| Initial Capital | 67.00% | ~37,765 |
 | Moneybags | 45.00% | ~25,364 |
 | Junior Supply Officer | 45.00% | ~25,364 |
 | Naval Warfare. Arson | 34.00% | ~19,164 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Warrior | 13.00% | ~7,327 |
 | Supply Officer | 13.00% | ~7,327 |
 | Smooth Supply | 13.00% | ~7,327 |
-| Veteran | 7.00% | ~3,945 |
+| Veteran | 7.00% | ~3,946 |
 | Legend of the Seas | 4.00% | ~2,255 |
 | Shield | 4.00% | ~2,255 |
 | Chief Naval Architect | 3.00% | ~1,691 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~56 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,364 (Ranked 107)  
+Progressed: 56,365 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 55,778 | 0 |
 | 2023-11-21 | 56,063 | 0 |
 | 2023-11-22 | 56,332 | 0 |
-| 2023-11-23 | 56,364 | 0 |
+| 2023-11-23 | 56,365 | 0 |
 ## Awards
 Max (Relaxing): 1,533  (Ranked 130)  
 Sum: 12,811 (Ranked 79)  

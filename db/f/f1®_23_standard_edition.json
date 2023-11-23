@@ -3,12 +3,12 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 274,
-  "Ranking_Popularity": 523,
+  "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -627,9 +627,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5866,
+  "EOS_Progressed": 5867,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6087,6 +6087,11 @@
       "Time": "2023-11-23T02:30:42.8449225+00:00",
       "NumProgressed": 5866,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T03:08:22.42356+00:00",
+      "NumProgressed": 5867,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6139,7 +6144,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4517
+      "UsersEstimate": 4518
     },
     {
       "ID": "achievement_0007",
@@ -6147,7 +6152,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "achievement_0008",
@@ -6155,7 +6160,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "achievement_0009",
@@ -6355,7 +6360,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "achievement_0034",
@@ -6451,7 +6456,7 @@
       "Name": "Making History",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "achievement_0046",
@@ -6459,7 +6464,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "achievement_0047",
@@ -6490,7 +6495,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5866,
+      "Progressed": 5867,
       "Completed": 0
     }
   ],
@@ -6498,8 +6503,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-23T01:45:14.7212553+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:30:42.8449221+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:08:22.4235595+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:21:07.2607789+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:30:42.8450048+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:58:47.7887971+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:08:22.4236199+00:00"
 }

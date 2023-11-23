@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 662,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.29,
   "EosHistory": [
@@ -2986,9 +2986,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     }
   ],
   "AchievementSets": [
@@ -3001,8 +3001,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:29:41.713364+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:07:21.3933464+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:21:13.7789385+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:29:41.7133969+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:58:54.2433146+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:07:21.3933734+00:00"
 }

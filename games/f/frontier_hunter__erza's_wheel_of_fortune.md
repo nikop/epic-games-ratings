@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 90.00% | ~156 |
-| Training Simulation | 78.00% | ~135 |
-| Kuku Bird Hunter | 66.00% | ~114 |
-| Storm Traveller | 61.00% | ~106 |
-| Fashion Connoisseur | 58.00% | ~100 |
-| Wolf King Killer | 58.00% | ~100 |
+| Travel Streamer | 90.00% | ~157 |
+| Training Simulation | 78.00% | ~136 |
+| Kuku Bird Hunter | 67.00% | ~117 |
+| Storm Traveller | 60.00% | ~104 |
+| Wolf King Killer | 58.00% | ~101 |
+| Fashion Connoisseur | 57.00% | ~99 |
 | Arms Mechanic | 49.00% | ~85 |
-| Flower Thief | 48.00% | ~83 |
-| Apostle of Flame | 43.00% | ~74 |
-| Beginner Artificer | 42.00% | ~73 |
+| Flower Thief | 48.00% | ~84 |
+| Apostle of Flame | 43.00% | ~75 |
 | Beginner Cook | 41.00% | ~71 |
-| Seal Breaker | 38.00% | ~66 |
+| Beginner Artificer | 41.00% | ~71 |
+| Seal Breaker | 37.00% | ~64 |
 | Handyman | 34.00% | ~59 |
 | Giant Lizard Killer | 33.00% | ~57 |
 | Guardian | 31.00% | ~54 |
@@ -24,15 +24,15 @@
 | Weapon Boost | 27.00% | ~47 |
 | Youth Magnet | 24.00% | ~42 |
 | Flying Kobold Killer | 23.00% | ~40 |
-| Furious Scorpion Killer | 23.00% | ~40 |
-| Lethal Blade Mantis Killer | 23.00% | ~40 |
-| Squeaky Clean | 23.00% | ~40 |
-| Master Artificer | 23.00% | ~40 |
+| Furious Scorpion Killer | 22.00% | ~38 |
+| Lethal Blade Mantis Killer | 22.00% | ~38 |
+| Squeaky Clean | 22.00% | ~38 |
+| Master Artificer | 22.00% | ~38 |
 | Kind Adventurer | 18.00% | ~31 |
 | Mermaid Killer | 18.00% | ~31 |
 | Face Slapper | 18.00% | ~31 |
-| Cave Master | 17.00% | ~29 |
-| Master Cook | 13.00% | ~22 |
+| Cave Master | 17.00% | ~30 |
+| Master Cook | 13.00% | ~23 |
 | Berserker Slayer | 9.00% | ~16 |
 | Warden Slayer | 9.00% | ~16 |
 | Boss challenge | 8.00% | ~14 |
@@ -50,7 +50,7 @@
 | Warden Challenge | 3.00% | ~5 |
 | Berserker Challenge | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173 (Ranked 392)  
+Progressed: 174 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 113 | 0 |
 | 2023-11-21 | 120 | 0 |
 | 2023-11-22 | 168 | 0 |
-| 2023-11-23 | 173 | 0 |
+| 2023-11-23 | 174 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

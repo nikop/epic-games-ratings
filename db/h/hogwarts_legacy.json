@@ -10893,9 +10893,9 @@
       "Count": 804
     }
   ],
-  "EOS_Progressed": 302730,
+  "EOS_Progressed": 302731,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34168,6 +34168,11 @@
       "Time": "2023-11-23T02:32:08.7886399+00:00",
       "NumProgressed": 302730,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-23T03:09:48.0095073+00:00",
+      "NumProgressed": 302731,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34267,7 +34272,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15136
+      "UsersEstimate": 15137
     },
     {
       "ID": "PFA_20",
@@ -34443,7 +34448,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15136
+      "UsersEstimate": 15137
     },
     {
       "ID": "PFA_40",
@@ -34459,7 +34464,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15136
+      "UsersEstimate": 15137
     },
     {
       "ID": "PFA_42",
@@ -34538,7 +34543,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302730,
+      "Progressed": 302731,
       "Completed": 513
     }
   ],
@@ -34546,8 +34551,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-22T23:57:55.763053+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:32:08.7886385+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:09:48.0095069+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:19:59.1047905+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:32:08.7887522+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:57:38.8746431+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:09:48.0096099+00:00"
 }

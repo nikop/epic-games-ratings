@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1484,9 +1484,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131085,
+  "EOS_Progressed": 131086,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22634,6 +22634,11 @@
       "Time": "2023-11-23T01:51:35.2877249+00:00",
       "NumProgressed": 131085,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-23T03:04:53.92493+00:00",
+      "NumProgressed": 131086,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22701,7 +22706,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31460
+      "UsersEstimate": 31461
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22805,7 +22810,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13108
+      "UsersEstimate": 13109
     },
     {
       "ID": "ACH_GLUTEN",
@@ -22964,15 +22969,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131085,
+      "Progressed": 131086,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-21T09:00:02.2217381+00:00",
-  "LastChanged_Achievements": "2023-11-23T02:27:13.3041981+00:00",
+  "LastChanged_Achievements": "2023-11-23T03:04:53.9249293+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:23:12.9785849+00:00",
-  "LastUpdate_Achievements": "2023-11-23T02:27:13.3043238+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:00:53.6588468+00:00",
+  "LastUpdate_Achievements": "2023-11-23T03:04:53.9250509+00:00"
 }
