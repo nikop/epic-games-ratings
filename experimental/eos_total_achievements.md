@@ -465,7 +465,7 @@
 | [Hotel Renovator](../games/h/hotel_renovator.md) | 27 | 1,000 |
 | [Hotel: A Resort Simulator](../games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 27 | 1,000 |
 | [Insomnis](../games/i/insomnis.md) | 27 | 1,000 |
-| [Mega City Police](../games/m/mega_city_police.md) | 27 | 1,050 |
+| [Mega City Force](../games/m/mega_city_police.md) | 27 | 1,050 |
 | [Riftbound](../games/r/riftbound.md) | 27 | 1,000 |
 | [Rise of Industry](../games/r/rise_of_industry.md) | 27 | 1,000 |
 | [RoboCop: Rogue City](../games/r/robocop__rogue_city.md) | 27 | 1,000 |
