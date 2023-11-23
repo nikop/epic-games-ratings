@@ -1380,9 +1380,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8d3ci0",
       "Name": "That\u0027s all, ducks!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 160,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -1483,8 +1483,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:05:42.1826767+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:06:09.0223632+00:00",
   "LastUpdate_AppInfo": "2023-11-19T01:47:56.0538921+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:57:42.5571378+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:05:42.1826906+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:57:48.2033632+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:06:09.0223805+00:00"
 }

@@ -858,9 +858,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -898,9 +898,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1115,8 +1115,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:05:32.938915+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:05:59.7598479+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:58:31.0997959+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:05:32.9389472+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:58:37.0576895+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:05:59.7598766+00:00"
 }

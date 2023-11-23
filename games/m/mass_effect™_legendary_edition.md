@@ -17,8 +17,8 @@
 | Turian Ally | 52.00% | ~711 |
 | Medal of Honor | 51.00% | ~698 |
 | Meritorious Service Medal | 51.00% | ~698 |
-| Charismatic | 50.00% | ~684 |
-| Soldier | 49.00% | ~670 |
+| Charismatic | 51.00% | ~698 |
+| Soldier | 50.00% | ~684 |
 | Asari Ally | 47.00% | ~643 |
 | Soldier Ally | 46.00% | ~629 |
 | Medal of Exploration III | 45.00% | ~616 |

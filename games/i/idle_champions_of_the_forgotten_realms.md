@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Dragon Against Us | 0.10% | ~203 |
 | A Familiar Behind Us | 0.10% | ~203 |
 | Thieves of the Coven | 0.10% | ~203 |
+| Sticky Fingers | 0.10% | ~203 |
 | Patron Party | 0.10% | ~203 |
 | Go Fourth | 0.10% | ~203 |
 | Hither of the Feywild | 0.10% | ~203 |
@@ -61,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Demon Lords of the Abyss | 0.10% | ~203 |
 | Speed Demons | 0.10% | ~203 |
 | Will of the Feywild | 0.10% | ~203 |
+| Will of the Frozen Feywild | 0.10% | ~203 |
 | The Roots of Loomlurch | 0.10% | ~203 |
 | The Loots of Loomlurch | 0.10% | ~203 |
 | The Lutes of Loomlurch | 0.10% | ~203 |
@@ -119,6 +121,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Taking Responsibility | 0.10% | ~236 |
 | The Minions of Endelyn Moongrave | 0.10% | ~203 |
 | Between a Brigganock and a Hard Place | 0.10% | ~203 |
+| Love Unsoiled | 0.10% | ~203 |
 | The Bitter End | 0.10% | ~203 |
 | The Palace of Heart's Desire | 0.10% | ~203 |
 | The Egg of Nat's Desire | 0.10% | ~203 |
@@ -223,18 +226,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.10% | ~236 |
 | Screams of the Dead | 0.10% | ~236 |
 | Premature Betrayal | 0.10% | ~236 |
+| Frantic Excavation | 0.10% | ~236 |
 | Birds of a Feather | 0.10% | ~203 |
 | Towering Expectations | 0.10% | ~236 |
 | Guests of the Groom | 0.10% | ~236 |
 | Careful Consideration | 0.10% | ~236 |
 | Tanking Expectations | 0.10% | ~203 |
 | Hopelessly Lost | 0.10% | ~236 |
+| Bazaar Exploits | 0.10% | ~236 |
 | Cramped Quarters | 0.10% | ~236 |
 | Flame(skull) War | 0.10% | ~236 |
 | Servants of the Demon Prince | 0.10% | ~203 |
 | Enter the Sargauth | 0.10% | ~236 |
 | Elder Rune Madness | 0.10% | ~236 |
 | The Madness Grows | 0.10% | ~236 |
+| The Madness Peaks | 0.10% | ~203 |
 | Who Lurks in Lurkwood | 0.10% | ~236 |
 | Bullywugs in the Bog | 0.10% | ~236 |
 | Modrons in the Mud | 0.10% | ~236 |
@@ -362,6 +368,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.10% | ~236 |
 | Close Escort | 0.10% | ~236 |
 | Constant Banditry | 0.10% | ~236 |
+| The Long Haul | 0.10% | ~236 |
 | Waterdeep Detours | 0.10% | ~236 |
 | Lost in the Deep | 0.10% | ~236 |
 | Easily Distracted | 0.10% | ~236 |
@@ -390,6 +397,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.10% | ~203 |
 | Fortress Assault | 0.10% | ~203 |
 | Hats off to you! | 0.10% | ~203 |
+| It's Cold Out There Every Day | 0.10% | ~203 |
 | The Bleeding Citadel | 0.10% | ~203 |
 | Don't Pick at the Scab | 0.10% | ~203 |
 | Going To Eleven | 0.10% | ~203 |
@@ -398,6 +406,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reya Reborn | 0.10% | ~203 |
 | The Radiant Nightmare | 0.10% | ~203 |
 | Quick Thinking | 0.10% | ~203 |
+| Tough Acting | 0.10% | ~203 |
+| Witty Riposting | 0.10% | ~203 |
 | Waiting on Sunrise | 0.10% | ~203 |
 | A Chilling Encounter | 0.10% | ~203 |
 | How Far Away is Thay | 0.10% | ~203 |
@@ -465,10 +475,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.10% | ~203 |
 | The Chaotic Hunt for The Last Breath | 0.10% | ~203 |
 | To Infinity's and Beyond | 0.10% | ~203 |
+| There's a Flying Snake in my Boot! | 0.10% | ~203 |
 | Legends and Lore | 0.10% | ~203 |
 | The End | 0.10% | ~203 |
 | All's Well That Ends Well | 0.10% | ~203 |
 | The Jungles of Doomspace | 0.10% | ~203 |
+| Slow Down Showdown | 0.10% | ~203 |
 | The Arena of Blood | 0.10% | ~203 |
 | Entrance of the Gladiators | 0.10% | ~203 |
 | Foul Play | 0.10% | ~203 |
@@ -482,7 +494,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.00% | ~0 |
 | And Your Enemies Closer | 0.00% | ~0 |
 | Back to Nature | 0.00% | ~0 |
-| Sticky Fingers | 0.00% | ~0 |
 | Uncommon Allies | 0.00% | ~0 |
 | The Birds | 0.00% | ~0 |
 | Where the Magic Happens | 0.00% | ~0 |
@@ -490,11 +501,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | End of the Line | 0.00% | ~0 |
 | Zarak's Revenge | 0.00% | ~0 |
 | All Damage, All The Time | 0.00% | ~0 |
-| Will of the Frozen Feywild | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | Pin and Skewer | 0.00% | ~0 |
-| Love Unsoiled | 0.00% | ~0 |
 | The Play's the Thing! | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Anchors Aweigh | 0.00% | ~0 |
@@ -506,9 +515,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.00% | ~0 |
 | The Guardian of Orolunga | 0.00% | ~0 |
 | The Killer Mists | 0.00% | ~0 |
-| Frantic Excavation | 0.00% | ~0 |
-| Bazaar Exploits | 0.00% | ~0 |
-| The Madness Peaks | 0.00% | ~0 |
 | And a Pixie in a Pear Treant | 0.00% | ~0 |
 | Faerûn's Most Wanted | 0.00% | ~0 |
 | Vault of Dragons | 0.00% | ~0 |
@@ -519,12 +525,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Lolth | 0.00% | ~0 |
 | Rime Bandits | 0.00% | ~0 |
 | The Everlasting Rime | 0.00% | ~0 |
-| The Long Haul | 0.00% | ~0 |
 | Lone Wolf Party | 0.00% | ~0 |
 | Mimic Perception | 0.00% | ~0 |
-| It's Cold Out There Every Day | 0.00% | ~0 |
-| Tough Acting | 0.00% | ~0 |
-| Witty Riposting | 0.00% | ~0 |
 | Frontline Fighters | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
@@ -535,11 +537,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | 3,720 to 1 | 0.00% | ~0 |
-| There's a Flying Snake in my Boot! | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
-| Slow Down Showdown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,454 (Ranked 64)  
+Progressed: 236,457 (Ranked 64)  
 Completed: 2,469 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,10 +756,10 @@ Completed: 2,469 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,454 | 2,469 |
+| 2023-11-23 | 236,457 | 2,469 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
-Sum: 32,575 (Ranked 41)  
+Sum: 32,580 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -768,7 +768,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,818 |
 | This game is Relaxing | 4,709 |
 | This game has Amazing Characters | 4,223 |
-| This game is Highly Recommended | 4,210 |
+| This game is Highly Recommended | 4,215 |
 | This game has Playful Visuals | 3,530 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1074,3 +1074,4 @@ Diff (max vs sum): 29
 | 2023-11-20 | 4.06 | - | 5,547 | 32,551 |
 | 2023-11-21 | 4.06 | - | 5,549 | 32,557 |
 | 2023-11-22 | 4.06 | - | 5,556 | 32,575 |
+| 2023-11-23 | 4.06 | - | 5,556 | 32,580 |

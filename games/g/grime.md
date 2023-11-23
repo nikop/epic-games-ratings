@@ -11,11 +11,11 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 4.00% | ~6,385 |
 | Ravenous | 4.00% | ~6,385 |
 | Weeper | 3.00% | ~4,789 |
-| Harmless | 2.00% | ~3,192 |
-| Silenced Whispers | 2.00% | ~3,192 |
-| Devourer | 2.00% | ~3,192 |
-| Yank | 2.00% | ~3,192 |
-| Sharpened Vessel | 2.00% | ~3,192 |
+| Harmless | 2.00% | ~3,193 |
+| Silenced Whispers | 2.00% | ~3,193 |
+| Devourer | 2.00% | ~3,193 |
+| Yank | 2.00% | ~3,193 |
+| Sharpened Vessel | 2.00% | ~3,193 |
 | Shapely | 1.00% | ~1,596 |
 | Scion | 1.00% | ~1,592 |
 | Glare | 1.00% | ~1,592 |
@@ -37,9 +37,9 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.60% | ~958 |
 | Unwrap the Gift | 0.50% | ~798 |
 | Passage | 0.50% | ~798 |
-| Bloodhunter | 0.40% | ~638 |
+| Bloodhunter | 0.40% | ~639 |
 | Zygote | 0.40% | ~637 |
-| Proportions | 0.40% | ~638 |
+| Proportions | 0.40% | ~639 |
 | Kinship | 0.30% | ~479 |
 | Kin | 0.30% | ~478 |
 | Listen | 0.30% | ~478 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,625 (Ranked 78)  
+Progressed: 159,628 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 1 (0.00%) (Ranked 358)
 | 2023-11-20 | 159,313 | 1 |
 | 2023-11-21 | 159,459 | 1 |
 | 2023-11-22 | 159,591 | 1 |
-| 2023-11-23 | 159,625 | 1 |
+| 2023-11-23 | 159,628 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 423)  
 Sum: 379 (Ranked 346)  

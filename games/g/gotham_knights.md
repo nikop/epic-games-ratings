@@ -6,14 +6,14 @@ Rating: 4.19 (Ranked 923)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 51.00% | ~39,211 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,909 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,910 |
 | Loose Ends | 34.00% | ~26,141 |
 | To the Victor Go the Spoils | 28.00% | ~21,528 |
 | Knighthood | 27.00% | ~20,759 |
 | Get ReQ'd | 25.00% | ~19,221 |
 | Whispered Words | 25.00% | ~19,221 |
-| The Batman Family | 23.00% | ~17,683 |
-| Lock and Key | 22.00% | ~16,914 |
+| The Batman Family | 23.00% | ~17,684 |
+| Lock and Key | 22.00% | ~16,915 |
 | Something in the Clay | 21.00% | ~16,146 |
 | Quartzer Life Crisis | 21.00% | ~16,146 |
 | Working Hard or Harley Working? | 20.00% | ~15,377 |
@@ -23,7 +23,7 @@ Rating: 4.19 (Ranked 923)
 | The Show Mud Go On | 18.00% | ~13,839 |
 | From Inside Gotham's Walls | 18.00% | ~13,839 |
 | Protector of Gotham | 17.00% | ~13,070 |
-| Universal Health Scare | 16.00% | ~12,301 |
+| Universal Health Scare | 16.00% | ~12,302 |
 | In Your Element | 15.00% | ~11,533 |
 | Voiceless | 15.00% | ~11,533 |
 | Rock and a Hard Place | 14.00% | ~10,764 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 923)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,884 (Ranked 99)  
+Progressed: 76,885 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 124 (0.16%) (Ranked 265)
 | 2023-11-20 | 76,747 | 124 |
 | 2023-11-21 | 76,798 | 124 |
 | 2023-11-22 | 76,865 | 124 |
-| 2023-11-23 | 76,884 | 124 |
+| 2023-11-23 | 76,885 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,963  (Ranked 98)  
-Sum: 5,042 (Ranked 140)  
+Sum: 5,043 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -296,7 +296,7 @@ Diff (max vs sum): -42
 | This game has Diverse Characters | 264 |
 | This game has Quickly Understood Controls | 262 |
 | This game is Great for Beginners | 262 |
-| This game is Relaxing | 261 |
+| This game is Relaxing | 262 |
 | This game has Amazing Characters | 257 |
 | This game is Highly Recommended | 256 |
 | This game has Amazing Storytelling | 252 |
@@ -575,3 +575,4 @@ Diff (max vs sum): -42
 | 2023-11-20 | 4.19 | 2,958 | 5,027 |
 | 2023-11-21 | 4.19 | 2,958 | 5,034 |
 | 2023-11-22 | 4.19 | 2,963 | 5,042 |
+| 2023-11-23 | 4.19 | 2,963 | 5,043 |

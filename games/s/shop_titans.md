@@ -6,11 +6,11 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,053 |
-| Basic in Bulk | 5.00% | ~7,053 |
-| Titan's First Steps | 5.00% | ~7,053 |
+| Sponsored by Argon | 5.00% | ~7,054 |
+| Basic in Bulk | 5.00% | ~7,054 |
+| Tinkle of Coins | 5.00% | ~7,054 |
+| Titan's First Steps | 5.00% | ~7,054 |
 | Disintermediation | 4.00% | ~5,643 |
-| Tinkle of Coins | 4.00% | ~5,643 |
 | One Easy Payment | 3.00% | ~4,232 |
 | Some Assembly Required | 3.00% | ~4,232 |
 | Another Satisfied Customer | 3.00% | ~4,232 |
@@ -95,11 +95,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.80% | ~1,129 |
 | King's Shadow | 0.80% | ~1,129 |
 | Master Recycler | 0.80% | ~1,129 |
-| Constellated | 0.70% | ~987 |
-| Fillin' the Bin | 0.70% | ~987 |
-| Industrial Evolution | 0.70% | ~987 |
-| A Legend is Born | 0.70% | ~987 |
-| Economy of Scarce | 0.70% | ~987 |
+| Constellated | 0.70% | ~988 |
+| Fillin' the Bin | 0.70% | ~988 |
+| Industrial Evolution | 0.70% | ~988 |
+| A Legend is Born | 0.70% | ~988 |
+| Economy of Scarce | 0.70% | ~988 |
 | Thank You Tom Nook | 0.60% | ~846 |
 | Jackpot! | 0.60% | ~846 |
 | Eternal Crusade | 0.60% | ~846 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,068 (Ranked 80)  
+Progressed: 141,072 (Ranked 80)  
 Completed: 194 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 194 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
-| 2023-11-23 | 141,068 | 194 |
+| 2023-11-23 | 141,072 | 194 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

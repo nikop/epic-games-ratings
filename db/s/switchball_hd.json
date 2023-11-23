@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -639,6 +639,11 @@
       "Time": "2023-11-22T21:09:11.9220525+00:00",
       "NumProgressed": 139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T07:09:27.2166782+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -658,7 +663,7 @@
       "Name": "Marbleball Badge",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
@@ -666,7 +671,7 @@
       "Name": "Metalball Badge",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
@@ -721,14 +726,14 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:08:52.0156954+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:09:27.2166778+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:05.5970991+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:58:15.6812385+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:08:52.0157075+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:58:21.5641123+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:09:27.2166883+00:00"
 }

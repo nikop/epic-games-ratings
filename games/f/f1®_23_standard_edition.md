@@ -5,21 +5,21 @@ Rating: 4.67 (Ranked 274)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,516 |
-| On the Top Step | 88.00% | ~5,164 |
-| Setting up for Success | 77.00% | ~4,518 |
-| Team Orders | 75.00% | ~4,401 |
-| Engineer | 55.00% | ~3,227 |
+| Getting on the Step | 94.00% | ~5,517 |
+| On the Top Step | 88.00% | ~5,165 |
+| Setting up for Success | 77.00% | ~4,519 |
+| Team Orders | 75.00% | ~4,402 |
+| Engineer | 55.00% | ~3,228 |
 | Familiar Faces | 48.00% | ~2,817 |
 | Sharing the Love | 42.00% | ~2,465 |
 | Going the Extra Mile | 42.00% | ~2,465 |
 | Hitting a Season | 38.00% | ~2,230 |
-| A Dozen Pieces | 33.00% | ~1,936 |
-| Challenge Yourself | 33.00% | ~1,936 |
+| A Dozen Pieces | 33.00% | ~1,937 |
+| Challenge Yourself | 33.00% | ~1,937 |
 | Making History | 31.00% | ~1,819 |
-| Network Success | 27.00% | ~1,584 |
+| Network Success | 27.00% | ~1,585 |
 | Writing a new Chapter | 25.00% | ~1,467 |
-| Spring Cleaning | 24.00% | ~1,408 |
+| Spring Cleaning | 24.00% | ~1,409 |
 | Reduce | 20.00% | ~1,174 |
 | Ups and Downs | 20.00% | ~1,174 |
 | Crucial Combo | 19.00% | ~1,115 |
@@ -35,7 +35,7 @@ Rating: 4.67 (Ranked 274)
 | Spinning Around | 13.00% | ~763 |
 | All in a Weekend's Work | 12.00% | ~704 |
 | Friendly Competition | 12.00% | ~704 |
-| Recycle | 11.00% | ~645 |
+| Recycle | 11.00% | ~646 |
 | Tinkerer | 10.00% | ~587 |
 | Undisputed Winner | 9.00% | ~528 |
 | Smooth Operator | 7.00% | ~411 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 274)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,868 (Ranked 186)  
+Progressed: 5,869 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 5,836 | 0 |
 | 2023-11-21 | 5,850 | 0 |
 | 2023-11-22 | 5,863 | 0 |
-| 2023-11-23 | 5,868 | 0 |
+| 2023-11-23 | 5,869 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 524)  
 Sum: 87 (Ranked 456)  

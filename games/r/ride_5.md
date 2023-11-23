@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,001 |
+| Eat My Dust | 45.00% | ~1,002 |
 | First Love | 43.00% | ~957 |
-| Clean Race | 41.00% | ~912 |
+| Clean Race | 41.00% | ~913 |
 | Hear That Roar! | 39.00% | ~868 |
 | Rivals to the End | 28.00% | ~623 |
 | Bitter Rivalry | 27.00% | ~601 |
@@ -16,7 +16,7 @@
 | Restored and Ready | 19.00% | ~423 |
 | I Want One Too! | 19.00% | ~423 |
 | Quick Pit Stop | 19.00% | ~423 |
-| Go-Faster Stripes | 18.00% | ~400 |
+| Go-Faster Stripes | 18.00% | ~401 |
 | I'm Here Too! | 16.00% | ~356 |
 | We've Just Begun | 11.00% | ~245 |
 | Stamina Star | 8.00% | ~178 |
@@ -30,11 +30,11 @@
 | La Dolce Vita | 3.00% | ~67 |
 | Romantic Races | 3.00% | ~67 |
 | Rounding Off | 3.00% | ~67 |
-| Iconic! | 2.00% | ~44 |
-| Back in Blighty | 2.00% | ~44 |
-| Still Here | 2.00% | ~44 |
-| My Work Here Is Done | 2.00% | ~44 |
-| Overtaking the Master | 2.00% | ~44 |
+| Iconic! | 2.00% | ~45 |
+| Back in Blighty | 2.00% | ~45 |
+| Still Here | 2.00% | ~45 |
+| My Work Here Is Done | 2.00% | ~45 |
+| Overtaking the Master | 2.00% | ~45 |
 | I'll Be the Best! | 1.00% | ~22 |
 | Next Level | 1.00% | ~22 |
 | I Don't Stop | 1.00% | ~22 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,225 (Ranked 220)  
+Progressed: 2,226 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,4 +137,4 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 2,195 | 0 |
 | 2023-11-21 | 2,209 | 0 |
 | 2023-11-22 | 2,223 | 0 |
-| 2023-11-23 | 2,225 | 0 |
+| 2023-11-23 | 2,226 | 0 |

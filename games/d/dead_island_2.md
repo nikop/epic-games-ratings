@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~969 |
-| Whatever It Takes | 2.00% | ~969 |
-| Pork Chopped | 2.00% | ~969 |
+| One of Us | 2.00% | ~970 |
+| Whatever It Takes | 2.00% | ~970 |
+| Pork Chopped | 2.00% | ~970 |
 | Dr. Reed, I Presume? | 1.00% | ~7,229 |
 | Git Gutte! | 1.00% | ~7,229 |
 | Anger Management | 1.00% | ~7,229 |
@@ -26,15 +26,15 @@ Rating: 4.54 (Ranked 526)
 | Can't Handle the Truth | 0.90% | ~6,506 |
 | Like Riding a Bike | 0.90% | ~6,506 |
 | A Patton Emerges | 0.90% | ~6,506 |
-| Perks of the Job | 0.80% | ~5,783 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,783 |
-| Slayer Squad | 0.80% | ~5,783 |
-| Zombologist | 0.80% | ~5,783 |
-| Ooh, Shiny! | 0.80% | ~5,783 |
-| Our True Nature | 0.80% | ~5,783 |
-| Making Your Mark | 0.70% | ~5,060 |
-| I Am the Resurrection | 0.70% | ~5,060 |
-| Max Headroom | 0.70% | ~5,060 |
+| Perks of the Job | 0.80% | ~5,784 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,784 |
+| Slayer Squad | 0.80% | ~5,784 |
+| Zombologist | 0.80% | ~5,784 |
+| Ooh, Shiny! | 0.80% | ~5,784 |
+| Our True Nature | 0.80% | ~5,784 |
+| Making Your Mark | 0.70% | ~5,061 |
+| I Am the Resurrection | 0.70% | ~5,061 |
+| Max Headroom | 0.70% | ~5,061 |
 | Not Even My Final Form | 0.60% | ~4,338 |
 | Humanity Distilled | 0.60% | ~4,338 |
 | Down with the Sickness | 0.60% | ~4,338 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,928 (Ranked 21)  
+Progressed: 722,944 (Ranked 21)  
 Completed: 2,427 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2,427 (0.34%) (Ranked 228)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 722,928 | 2,427 |
+| 2023-11-23 | 722,944 | 2,427 |
 ## Awards
 Max (Great Boss Battles): 7,661  (Ranked 50)  
 Sum: 11,689 (Ranked 83)  

@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Place to Lay Your Head | 93.00% | ~115,684 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~88,318 |
+| Don't Make Me Turn This Coach Around | 72.00% | ~89,562 |
 | A Clear Conscience | 69.00% | ~85,830 |
 | Unleash Hell | 68.00% | ~84,586 |
 | Unfulfilled Desires | 68.00% | ~84,586 |

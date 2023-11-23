@@ -12,7 +12,7 @@
 | He's Famous! | 68.00% | ~548 |
 | Cutie Poro | 68.00% | ~548 |
 | Krugmazing | 66.00% | ~532 |
-| The Fire Below the Mountain | 63.00% | ~508 |
+| The Fire Below the Mountain | 64.00% | ~516 |
 | Moneyball | 61.00% | ~492 |
 | No Bites | 58.00% | ~467 |
 | Iceborn | 58.00% | ~467 |
@@ -33,11 +33,11 @@
 | Freeze The Ice Witch | 38.00% | ~306 |
 | Bullseye | 38.00% | ~306 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~306 |
-| On The Rocks | 36.00% | ~290 |
+| On The Rocks | 37.00% | ~298 |
 | It Is Not Over | 35.00% | ~282 |
 | Never Gets Old | 33.00% | ~266 |
 | Snowy Poro | 32.00% | ~258 |
-| Vertical Power | 28.00% | ~226 |
+| Vertical Power | 29.00% | ~234 |
 | One From The Heart | 14.00% | ~113 |
 | Yummy | 11.00% | ~89 |
 | Snowball Fightn't | 10.00% | ~81 |

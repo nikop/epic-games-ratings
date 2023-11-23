@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15289,
+  "EOS_Progressed": 15292,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11957,6 +11957,11 @@
       "Time": "2023-11-23T06:04:08.2872259+00:00",
       "NumProgressed": 15289,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-23T07:04:36.0571549+00:00",
+      "NumProgressed": 15292,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11985,7 +11990,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "12",
@@ -12073,7 +12078,7 @@
       "Name": "Drone Dodger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "22",
@@ -12121,7 +12126,7 @@
       "Name": "Bosmang",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "28",
@@ -12143,9 +12148,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 765
     },
     {
       "ID": "30",
@@ -12177,7 +12182,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "7",
@@ -12201,7 +12206,7 @@
       "Name": "Impossible Objects",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "31",
@@ -12248,13 +12253,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15289,
+      "Progressed": 15292,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1243,
+      "Progressed": 1246,
       "Completed": 683
     }
   ],
@@ -12262,8 +12267,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:04:08.2872253+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:04:36.0571544+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
   "LastUpdate_Ratings": "2023-11-23T06:00:08.7411932+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:04:08.2872968+00:00"
+  "LastUpdate_Achievements": "2023-11-23T07:04:36.057245+00:00"
 }

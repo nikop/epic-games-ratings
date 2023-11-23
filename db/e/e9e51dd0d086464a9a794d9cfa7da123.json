@@ -2,9 +2,9 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 497,
+  "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -239,6 +239,11 @@
       "Time": "2023-11-23T06:08:58.7604829+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T07:09:34.080904+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -337,7 +342,7 @@
       "ID": "EB",
       "SetID": "2621k8c",
       "Name": "Extremely boring",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -385,7 +390,7 @@
       "ID": "FS",
       "SetID": "2621k8c",
       "Name": "Female supremacy",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -393,7 +398,7 @@
       "ID": "Flattery",
       "SetID": "2621k8c",
       "Name": "Flattery",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -433,7 +438,7 @@
       "ID": "HAB",
       "SetID": "2621k8c",
       "Name": "Healthy and beautiful",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -489,7 +494,7 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -537,7 +542,7 @@
       "ID": "Jealous",
       "SetID": "2621k8c",
       "Name": "Jealous",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -553,7 +558,7 @@
       "ID": "LOAM",
       "SetID": "2621k8c",
       "Name": "Love of a man",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -633,7 +638,7 @@
       "ID": "MTFNR",
       "SetID": "2621k8c",
       "Name": "Make trouble for no reason",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -641,15 +646,15 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Mistress",
       "SetID": "2621k8c",
       "Name": "Sweetheart",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -657,7 +662,7 @@
       "ID": "Numb",
       "SetID": "2621k8c",
       "Name": "Numb",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -681,7 +686,7 @@
       "ID": "PLMALBM",
       "SetID": "2621k8c",
       "Name": "Please love me a little bit more",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -689,7 +694,7 @@
       "ID": "POGB",
       "SetID": "2621k8c",
       "Name": "Pain",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -697,7 +702,7 @@
       "ID": "PP",
       "SetID": "2621k8c",
       "Name": "Pet Phobia",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -705,7 +710,7 @@
       "ID": "PWAP",
       "SetID": "2621k8c",
       "Name": "Physically weak and powerless.",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -729,7 +734,7 @@
       "ID": "Poor",
       "SetID": "2621k8c",
       "Name": "Poor",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -737,7 +742,7 @@
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -761,7 +766,7 @@
       "ID": "Richer",
       "SetID": "2621k8c",
       "Name": "Richer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -801,7 +806,7 @@
       "ID": "SWA",
       "SetID": "2621k8c",
       "Name": "MOD Artisan",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -809,7 +814,7 @@
       "ID": "SelflessLove",
       "SetID": "2621k8c",
       "Name": "Selfless Love",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -825,7 +830,7 @@
       "ID": "Shopaholic",
       "SetID": "2621k8c",
       "Name": "Shopaholic",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -849,7 +854,7 @@
       "ID": "Starlight",
       "SetID": "2621k8c",
       "Name": "Starlight",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -857,7 +862,7 @@
       "ID": "Stingy",
       "SetID": "2621k8c",
       "Name": "Stingy",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -865,7 +870,7 @@
       "ID": "Straightforward",
       "SetID": "2621k8c",
       "Name": "Straightforward",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -897,7 +902,7 @@
       "ID": "THOASOK",
       "SetID": "2621k8c",
       "Name": "To have only a smattering of knowledge",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -929,7 +934,7 @@
       "ID": "Thirsty",
       "SetID": "2621k8c",
       "Name": "Never satisfied",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -977,7 +982,7 @@
       "ID": "WHTEM",
       "SetID": "2621k8c",
       "Name": "Work hard to earn money",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -994,14 +999,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:08:58.7604824+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:09:34.0809035+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:45.6416395+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:57:42.6931455+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:08:58.7605876+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:57:48.3208902+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:09:34.0810312+00:00"
 }

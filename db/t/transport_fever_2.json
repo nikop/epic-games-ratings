@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -4993,9 +4993,9 @@
       "ID": "achFirstCargoTransported",
       "SetID": "dgl390n",
       "Name": "First cargo item on board",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1327
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -5273,8 +5273,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-11-22T23:00:56.6941936+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:05:53.5229269+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:06:20.038498+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.5826666+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:59:42.8720773+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:05:53.5230055+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:59:49.4697122+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:06:20.0385998+00:00"
 }

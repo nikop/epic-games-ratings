@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1033,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2450,17 +2450,17 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 878
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 723
+      "UsersEstimate": 733
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -2914,9 +2914,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 754
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -3018,9 +3018,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 640
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -3083,8 +3083,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:04:55.8088165+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:05:23.8998685+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:00:04.0450587+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:04:55.8088932+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:00:10.7425281+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:05:23.899966+00:00"
 }

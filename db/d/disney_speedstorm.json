@@ -1309,10 +1309,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 620,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-11-23T06:59:05.9572891+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 621,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 620,
+  "NumberOfAwards": 621,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1374,7 +1380,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1389,10 +1395,10 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 308323,
+  "EOS_Progressed": 308352,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 10374,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 10391,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -13264,6 +13270,11 @@
       "Time": "2023-11-23T06:05:18.7867419+00:00",
       "NumProgressed": 308323,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2023-11-23T07:05:45.8762134+00:00",
+      "NumProgressed": 308352,
+      "NumCompleted": 320
     }
   ],
   "TotalAchievements": 24,
@@ -13275,7 +13286,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "10",
@@ -13283,7 +13294,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15416
+      "UsersEstimate": 15418
     },
     {
       "ID": "11",
@@ -13315,7 +13326,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 21583
+      "UsersEstimate": 21585
     },
     {
       "ID": "15",
@@ -13363,7 +13374,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "20",
@@ -13371,7 +13382,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12333
+      "UsersEstimate": 12334
     },
     {
       "ID": "21",
@@ -13395,7 +13406,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6166
+      "UsersEstimate": 6167
     },
     {
       "ID": "24",
@@ -13403,7 +13414,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9250
+      "UsersEstimate": 9251
     },
     {
       "ID": "3",
@@ -13419,7 +13430,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9250
+      "UsersEstimate": 9251
     },
     {
       "ID": "5",
@@ -13427,7 +13438,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33916
+      "UsersEstimate": 33919
     },
     {
       "ID": "6",
@@ -13435,7 +13446,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12333
+      "UsersEstimate": 12334
     },
     {
       "ID": "7",
@@ -13466,16 +13477,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 308323,
+      "Progressed": 308352,
       "Completed": 320
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-23T05:58:59.875451+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:05:18.7867414+00:00",
+  "LastChanged": "2023-11-23T06:59:05.9572889+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:05:45.8762131+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:55.8240924+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:58:59.8754516+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:05:18.7868093+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:59:05.9572894+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:05:45.8762721+00:00"
 }

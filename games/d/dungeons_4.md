@@ -15,8 +15,8 @@
 | Master of Magic | 64.00% | ~225 |
 | Bad Elves Go Everywhere | 63.00% | ~222 |
 | Heroes’ Gorge | 59.00% | ~208 |
+| Unicorn steaks – fresh off the hoof! | 58.00% | ~204 |
 | Magic Accidents | 57.00% | ~201 |
-| Unicorn steaks – fresh off the hoof! | 57.00% | ~201 |
 | Minions, Minions! | 55.00% | ~194 |
 | Trap Master | 53.00% | ~187 |
 | The Ascent | 49.00% | ~172 |

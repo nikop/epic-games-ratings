@@ -9080,7 +9080,7 @@
   ],
   "EOS_Progressed": 124391,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31942,9 +31942,9 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 88318
+      "UsersEstimate": 89562
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -32470,8 +32470,8 @@
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-11-23T05:58:28.881121+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:07:57.5633282+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:08:32.6633157+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:08.6658677+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:58:28.8811231+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:07:57.5634836+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:58:34.8287258+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:08:32.6634402+00:00"
 }

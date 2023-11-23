@@ -6,24 +6,24 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~45,112 |
-| Initial Capital | 67.00% | ~37,781 |
-| Moneybags | 45.00% | ~25,376 |
-| Junior Supply Officer | 45.00% | ~25,376 |
-| Naval Warfare. Arson | 34.00% | ~19,173 |
-| Naval Warfare. Ramming | 33.00% | ~18,609 |
-| Amateur | 31.00% | ~17,481 |
-| Naval Warfare. Tactics | 31.00% | ~17,481 |
-| Naval Constructor | 31.00% | ~17,481 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~12,970 |
-| Naval Warfare. Lucky Shot | 20.00% | ~11,278 |
-| Naval Warfare. Flooding | 19.00% | ~10,714 |
-| Business Magnate | 17.00% | ~9,586 |
-| Battle Hero | 16.00% | ~9,022 |
+| Junior Naval Designer | 80.00% | ~45,116 |
+| Initial Capital | 67.00% | ~37,785 |
+| Moneybags | 45.00% | ~25,378 |
+| Junior Supply Officer | 45.00% | ~25,378 |
+| Naval Warfare. Arson | 34.00% | ~19,174 |
+| Naval Warfare. Ramming | 33.00% | ~18,610 |
+| Amateur | 31.00% | ~17,482 |
+| Naval Warfare. Tactics | 31.00% | ~17,482 |
+| Naval Constructor | 31.00% | ~17,482 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~12,971 |
+| Naval Warfare. Lucky Shot | 20.00% | ~11,279 |
+| Naval Warfare. Flooding | 19.00% | ~10,715 |
+| Business Magnate | 17.00% | ~9,587 |
+| Battle Hero | 16.00% | ~9,023 |
 | Warrior | 13.00% | ~7,331 |
 | Supply Officer | 13.00% | ~7,331 |
 | Smooth Supply | 13.00% | ~7,331 |
-| Veteran | 7.00% | ~3,947 |
+| Veteran | 7.00% | ~3,948 |
 | Legend of the Seas | 4.00% | ~2,256 |
 | Shield | 4.00% | ~2,256 |
 | Chief Naval Architect | 3.00% | ~1,692 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~56 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,390 (Ranked 107)  
+Progressed: 56,395 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 55,778 | 0 |
 | 2023-11-21 | 56,063 | 0 |
 | 2023-11-22 | 56,332 | 0 |
-| 2023-11-23 | 56,390 | 0 |
+| 2023-11-23 | 56,395 | 0 |
 ## Awards
 Max (Relaxing): 1,533  (Ranked 130)  
 Sum: 12,811 (Ranked 79)  

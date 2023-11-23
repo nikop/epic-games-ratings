@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753994,
+  "EOS_Progressed": 753995,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1905,
+  "EOS_NewPlayers": 1903,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25129,6 +25129,11 @@
       "Time": "2023-11-23T06:05:37.9269884+00:00",
       "NumProgressed": 753994,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T07:06:04.7456095+00:00",
+      "NumProgressed": 753995,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -25268,7 +25273,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361917
+      "UsersEstimate": 361918
     },
     {
       "ID": "ach_produced",
@@ -25355,7 +25360,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 753994,
+      "Progressed": 753995,
       "Completed": 4
     }
   ],
@@ -25363,8 +25368,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:05:37.9269877+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:06:04.7456088+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.4041849+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:58:21.6924966+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:05:37.9271169+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:58:27.6633567+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:06:04.7457614+00:00"
 }

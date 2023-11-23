@@ -443,7 +443,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218966,
+  "EOS_Progressed": 218967,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1063,
   "EOS_NewCompleters": 0,
@@ -25123,6 +25123,11 @@
       "Time": "2023-11-23T06:05:52.5847912+00:00",
       "NumProgressed": 218966,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-23T07:06:19.1287671+00:00",
+      "NumProgressed": 218967,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -25182,7 +25187,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 120431
+      "UsersEstimate": 120432
     },
     {
       "ID": "Checkmate",
@@ -25206,7 +25211,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 153276
+      "UsersEstimate": 153277
     },
     {
       "ID": "DoubleCheck",
@@ -25350,7 +25355,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 67879
+      "UsersEstimate": 67880
     },
     {
       "ID": "QueenSacrifice",
@@ -25437,7 +25442,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 218966,
+      "Progressed": 218967,
       "Completed": 2
     }
   ],
@@ -25445,8 +25450,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-14T13:07:38.4889289+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:05:52.5847902+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:06:19.1287667+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:05.7637143+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:02:36.6885179+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:05:52.5848966+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:03:01.8267001+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:06:19.1289467+00:00"
 }

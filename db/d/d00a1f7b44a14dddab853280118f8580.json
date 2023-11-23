@@ -1009,9 +1009,9 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_complete_30",
@@ -1025,17 +1025,17 @@
       "ID": "ach_complete_tutorial",
       "SetID": "5e260i9",
       "Name": "Welcome aboard!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 204
+      "UsersEstimate": 206
     },
     {
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "ach_hint_6",
@@ -1104,8 +1104,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:05:49.4369659+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:06:15.9766406+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.0966584+00:00",
   "LastUpdate_Ratings": "2023-11-23T06:00:10.3904718+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:05:49.4369778+00:00"
+  "LastUpdate_Achievements": "2023-11-23T07:06:15.9766597+00:00"
 }

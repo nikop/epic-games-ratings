@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 41,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.28,
+  "EOS_Completed_Percentage": 5.27,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2790,6 +2790,11 @@
       "Time": "2023-11-23T06:05:43.6838103+00:00",
       "NumProgressed": 663,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-23T07:06:10.4804236+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2817,7 +2822,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2825,7 +2830,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2897,7 +2902,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2921,7 +2926,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2937,7 +2942,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2977,7 +2982,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "PROGRESS_N4",
@@ -3000,14 +3005,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:05:43.6838099+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:06:10.480423+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:58:17.8374784+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:05:43.6838398+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:58:23.768366+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:06:10.4804555+00:00"
 }

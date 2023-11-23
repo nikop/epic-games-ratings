@@ -831,9 +831,9 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Florist",
@@ -847,9 +847,9 @@
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Justice",
@@ -903,25 +903,25 @@
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 64,
-      "XP": 50,
-      "UsersEstimate": 79
-    },
-    {
-      "ID": "Tower_builder",
-      "SetID": "b7i210",
-      "Name": "Tower builder",
       "Percentage": 65,
       "XP": 50,
       "UsersEstimate": 81
     },
     {
+      "ID": "Tower_builder",
+      "SetID": "b7i210",
+      "Name": "Tower builder",
+      "Percentage": 66,
+      "XP": 50,
+      "UsersEstimate": 82
+    },
+    {
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
@@ -934,8 +934,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-23T06:03:18.9858223+00:00",
+  "LastChanged_Achievements": "2023-11-23T07:03:46.7526849+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:59:00.7718514+00:00",
-  "LastUpdate_Achievements": "2023-11-23T06:03:18.9858375+00:00"
+  "LastUpdate_Ratings": "2023-11-23T06:59:06.8981674+00:00",
+  "LastUpdate_Achievements": "2023-11-23T07:03:46.7526971+00:00"
 }
