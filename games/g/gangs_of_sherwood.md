@@ -8,16 +8,17 @@
 | Savior | 75.00% | ~3 |
 | Treasure Hunter | 75.00% | ~3 |
 | Act of Kindness | 75.00% | ~3 |
+| The Altruist | 75.00% | ~3 |
 | The Gang prevails | 50.00% | ~2 |
 | Oo-De-Lally | 50.00% | ~2 |
 | Merry Co-operation | 50.00% | ~2 |
+| Tap Dancing | 50.00% | ~2 |
 | Watch your Step! | 50.00% | ~2 |
 | Finish Him! | 50.00% | ~2 |
 | Right between the eyes | 50.00% | ~2 |
 | Locksley's Tears | 50.00% | ~2 |
 | Spring Board | 50.00% | ~2 |
 | Ultra Rebel Instinct | 50.00% | ~2 |
-| The Altruist | 50.00% | ~2 |
 | Take Action! | 50.00% | ~2 |
 | Rebel Unleashed | 50.00% | ~2 |
 | MAX LEVEL | 50.00% | ~2 |
@@ -28,7 +29,6 @@
 | Ultra Combo | 25.00% | ~1 |
 | Bold and Bossy | 25.00% | ~1 |
 | Power of Friendship! | 25.00% | ~1 |
-| Tap Dancing | 25.00% | ~1 |
 | Out of the ring | 25.00% | ~1 |
 | Hidden Experiment | 25.00% | ~1 |
 | A Gest of Robyn Hode | 25.00% | ~1 |

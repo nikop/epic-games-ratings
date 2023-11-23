@@ -5,13 +5,13 @@ Rating: 3.82 (Ranked 1,030)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~409,861 |
-| Handy | 41.00% | ~221,109 |
-| Cold Caller | 39.00% | ~210,323 |
+| Pro Creation | 76.00% | ~409,863 |
+| Handy | 41.00% | ~221,111 |
+| Cold Caller | 39.00% | ~210,325 |
 | A Bit On The Side | 27.00% | ~145,609 |
-| Backdoor | 25.00% | ~134,823 |
-| Rank Amateur | 22.00% | ~118,644 |
-| Three Way | 19.00% | ~102,465 |
+| Backdoor | 25.00% | ~134,824 |
+| Rank Amateur | 22.00% | ~118,645 |
+| Three Way | 19.00% | ~102,466 |
 | Deadly Assassin | 16.00% | ~86,287 |
 | Gutshot | 14.00% | ~75,501 |
 | Risk It For A Biscuit | 14.00% | ~75,501 |
@@ -20,12 +20,12 @@ Rating: 3.82 (Ranked 1,030)
 | Bet Bet Bet | 10.00% | ~53,929 |
 | Blindman's Bluff | 9.00% | ~48,536 |
 | Poker Joker | 9.00% | ~48,536 |
-| Never Give Up | 8.00% | ~43,143 |
-| The Bigger They Are | 8.00% | ~43,143 |
-| Total Knock Out | 8.00% | ~43,143 |
-| Dog Eat Dog | 7.00% | ~37,750 |
-| Quack Quack | 7.00% | ~37,750 |
-| Give Your Regards To Broadway | 6.00% | ~32,357 |
+| Never Give Up | 8.00% | ~43,144 |
+| The Bigger They Are | 8.00% | ~43,144 |
+| Total Knock Out | 8.00% | ~43,144 |
+| Dog Eat Dog | 7.00% | ~37,751 |
+| Quack Quack | 7.00% | ~37,751 |
+| Give Your Regards To Broadway | 6.00% | ~32,358 |
 | Check Yourself | 4.00% | ~21,572 |
 | Moneymaker | 4.00% | ~21,572 |
 | In The Gang | 3.00% | ~16,179 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,030)
 | Rounder | 0.10% | ~539 |
 | Top Dog | 0.10% | ~539 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,291 (Ranked 33)  
+Progressed: 539,294 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 2 (0.00%) (Ranked 358)
 | 2023-11-20 | 538,890 | 2 |
 | 2023-11-21 | 539,072 | 2 |
 | 2023-11-22 | 539,254 | 2 |
-| 2023-11-23 | 539,291 | 2 |
+| 2023-11-23 | 539,294 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 415)  
 Sum: 177 (Ranked 410)  

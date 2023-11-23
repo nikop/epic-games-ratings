@@ -6,20 +6,20 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~45,130 |
-| Initial Capital | 67.00% | ~37,797 |
-| Moneybags | 45.00% | ~25,386 |
-| Junior Supply Officer | 45.00% | ~25,386 |
-| Naval Warfare. Arson | 34.00% | ~19,180 |
-| Naval Warfare. Ramming | 33.00% | ~18,616 |
-| Amateur | 31.00% | ~17,488 |
-| Naval Warfare. Tactics | 31.00% | ~17,488 |
-| Naval Constructor | 31.00% | ~17,488 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~12,975 |
+| Junior Naval Designer | 80.00% | ~45,133 |
+| Initial Capital | 67.00% | ~37,799 |
+| Moneybags | 45.00% | ~25,387 |
+| Junior Supply Officer | 45.00% | ~25,387 |
+| Naval Warfare. Arson | 34.00% | ~19,181 |
+| Naval Warfare. Ramming | 33.00% | ~18,617 |
+| Amateur | 31.00% | ~17,489 |
+| Naval Warfare. Tactics | 31.00% | ~17,489 |
+| Naval Constructor | 31.00% | ~17,489 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~12,976 |
 | Naval Warfare. Lucky Shot | 20.00% | ~11,283 |
-| Naval Warfare. Flooding | 19.00% | ~10,718 |
-| Business Magnate | 17.00% | ~9,590 |
-| Battle Hero | 16.00% | ~9,026 |
+| Naval Warfare. Flooding | 19.00% | ~10,719 |
+| Business Magnate | 17.00% | ~9,591 |
+| Battle Hero | 16.00% | ~9,027 |
 | Warrior | 13.00% | ~7,334 |
 | Supply Officer | 13.00% | ~7,334 |
 | Smooth Supply | 13.00% | ~7,334 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~56 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,413 (Ranked 107)  
+Progressed: 56,416 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,15 +153,15 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 55,778 | 0 |
 | 2023-11-21 | 56,063 | 0 |
 | 2023-11-22 | 56,332 | 0 |
-| 2023-11-23 | 56,413 | 0 |
+| 2023-11-23 | 56,416 | 0 |
 ## Awards
 Max (Relaxing): 1,533  (Ranked 130)  
-Sum: 12,814 (Ranked 79)  
+Sum: 12,819 (Ranked 79)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,533 |
-| This game has Quickly Understood Controls | 1,521 |
+| This game has Quickly Understood Controls | 1,526 |
 | This game has Challenging Combat | 1,515 |
 | This game has Competitive Players | 1,487 |
 | This game is Extremely Fun | 1,476 |
@@ -488,4 +488,4 @@ Diff (max vs sum): 51
 | 2023-11-20 | 4.41 | - | 1,525 | 12,754 |
 | 2023-11-21 | 4.41 | - | 1,530 | 12,778 |
 | 2023-11-22 | 4.41 | - | 1,530 | 12,803 |
-| 2023-11-23 | 4.41 | - | 1,533 | 12,814 |
+| 2023-11-23 | 4.41 | - | 1,533 | 12,819 |

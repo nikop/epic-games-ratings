@@ -5,13 +5,13 @@ Rating: 4.60 (Ranked 415)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,808 |
+| Azoria Beckons | 73.00% | ~5,809 |
 | A Thorny Situation | 71.00% | ~5,649 |
-| ... And Spit Back Out | 61.00% | ~4,853 |
-| Break-Net Speed | 49.00% | ~3,898 |
-| Bramble Breaker | 47.00% | ~3,739 |
-| Miner 49er | 43.00% | ~3,421 |
-| Humble Collector | 43.00% | ~3,421 |
+| ... And Spit Back Out | 61.00% | ~4,854 |
+| Break-Net Speed | 49.00% | ~3,899 |
+| Bramble Breaker | 47.00% | ~3,740 |
+| Miner 49er | 43.00% | ~3,422 |
+| Humble Collector | 43.00% | ~3,422 |
 | Calm Sailing | 37.00% | ~2,944 |
 | Open the Gate! | 34.00% | ~2,705 |
 | Mist Walker | 32.00% | ~2,546 |
@@ -23,11 +23,11 @@ Rating: 4.60 (Ranked 415)
 | Beach Comber | 14.00% | ~1,114 |
 | Higher Tax Bracket | 14.00% | ~1,114 |
 | Skilled | 9.00% | ~716 |
-| Flaming Hot Completos | 8.00% | ~636 |
-| Fae Farmer | 8.00% | ~636 |
-| Got to Catch Them All | 8.00% | ~636 |
-| Rumble in the Jumble | 8.00% | ~636 |
-| Fanatical Farmer | 8.00% | ~636 |
+| Flaming Hot Completos | 8.00% | ~637 |
+| Fae Farmer | 8.00% | ~637 |
+| Got to Catch Them All | 8.00% | ~637 |
+| Rumble in the Jumble | 8.00% | ~637 |
+| Fanatical Farmer | 8.00% | ~637 |
 | Scattered Scroll Scrounger | 6.00% | ~477 |
 | Azorian Anniversary | 6.00% | ~477 |
 | I Now Pronounce You... | 5.00% | ~398 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 415)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,956 (Ranked 174)  
+Progressed: 7,957 (Ranked 174)  
 Completed: 1 (0.01%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 1 (0.01%) (Ranked 336)
 | 2023-11-20 | 7,894 | 1 |
 | 2023-11-21 | 7,915 | 1 |
 | 2023-11-22 | 7,942 | 1 |
-| 2023-11-23 | 7,956 | 1 |
+| 2023-11-23 | 7,957 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

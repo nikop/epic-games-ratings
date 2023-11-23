@@ -70,6 +70,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Even Better than Piet Heyn | 0.10% | ~462 |
 | Everything's Coming Up Mulhouse | 0.10% | ~462 |
 | Factionalism | 0.10% | ~462 |
+| Fanatic Collectivist | 0.10% | ~462 |
 | Fine Financials | 0.10% | ~462 |
 | A Fine Goosestep | 0.10% | ~462 |
 | The First Toungoo Empire | 0.10% | ~462 |
@@ -267,7 +268,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
-| Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,630 (Ranked 41)  
+Progressed: 461,654 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 1 (0.00%) (Ranked 358)
 | 2023-11-20 | 460,274 | 1 |
 | 2023-11-21 | 460,913 | 1 |
 | 2023-11-22 | 461,499 | 1 |
-| 2023-11-23 | 461,630 | 1 |
+| 2023-11-23 | 461,654 | 1 |
 ## Awards
 Max (Educational): 7,119  (Ranked 54)  
 Sum: 58,585 (Ranked 24)  

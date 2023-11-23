@@ -3,8 +3,8 @@
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
   "Ranking_Rating": 526,
-  "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 551,
+  "Ranking_Popularity": 552,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 85,
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153913,
+  "EOS_Progressed": 153914,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 956,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19123,6 +19123,11 @@
       "Time": "2023-11-23T09:08:32.9570131+00:00",
       "NumProgressed": 153913,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2023-11-23T10:08:40.6936382+00:00",
+      "NumProgressed": 153914,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 31,
@@ -19142,7 +19147,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 107739
+      "UsersEstimate": 107740
     },
     {
       "ID": "EAwards_10",
@@ -19246,7 +19251,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16930
+      "UsersEstimate": 16931
     },
     {
       "ID": "EAwards_22",
@@ -19318,7 +19323,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 29243
+      "UsersEstimate": 29244
     },
     {
       "ID": "EAwards_30",
@@ -19381,7 +19386,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 153913,
+      "Progressed": 153914,
       "Completed": 340
     }
   ],
@@ -19389,8 +19394,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:08:32.9570127+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:08:40.6936379+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:52.4824712+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:57:30.008165+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:08:32.9571085+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:57:34.685916+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:08:40.6937789+00:00"
 }

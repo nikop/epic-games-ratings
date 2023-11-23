@@ -3,12 +3,12 @@
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 985,
-  "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 551,
+  "Ranking_Popularity": 552,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -153,7 +153,7 @@
   "Tags": [],
   "EOS_Progressed": 295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1776,8 +1776,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-21T13:11:41.3417786+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:08:47.3317826+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:08:56.6121937+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-23T09:02:48.3026561+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:08:47.3318271+00:00"
+  "LastUpdate_Ratings": "2023-11-23T10:03:01.2835209+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:08:56.6122243+00:00"
 }

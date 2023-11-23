@@ -6,33 +6,33 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,887 |
-| First Steps | 80.00% | ~35,172 |
-| Control the Shadows | 67.00% | ~29,457 |
-| Tools of the Trade | 63.00% | ~27,698 |
-| Apprentice | 60.00% | ~26,379 |
-| Secret Seeker | 57.00% | ~25,060 |
-| Forge of Assassins | 55.00% | ~24,181 |
-| Revenant | 52.00% | ~22,862 |
-| I don’t Care! | 45.00% | ~19,784 |
-| Bird of Prey | 37.00% | ~16,267 |
+| Awakening | 93.00% | ~40,889 |
+| First Steps | 80.00% | ~35,174 |
+| Control the Shadows | 67.00% | ~29,458 |
+| Tools of the Trade | 63.00% | ~27,699 |
+| Apprentice | 60.00% | ~26,380 |
+| Secret Seeker | 57.00% | ~25,061 |
+| Forge of Assassins | 55.00% | ~24,182 |
+| Revenant | 52.00% | ~22,863 |
+| I don’t Care! | 45.00% | ~19,785 |
+| Bird of Prey | 37.00% | ~16,268 |
 | Engraved with Power | 32.00% | ~14,069 |
-| Lady | 31.00% | ~13,629 |
+| Lady | 31.00% | ~13,630 |
 | Fashionable Assassin | 27.00% | ~11,871 |
 | Apex Predator | 24.00% | ~10,552 |
 | Soul Reaver | 23.00% | ~10,112 |
-| Embers | 22.00% | ~9,672 |
+| Embers | 22.00% | ~9,673 |
 | Wall Lizard | 20.00% | ~8,793 |
 | Clinging to Life | 18.00% | ~7,914 |
 | Burning | 17.00% | ~7,474 |
-| Look Behind You | 16.00% | ~7,034 |
-| Sleeping on the Job | 16.00% | ~7,034 |
+| Look Behind You | 16.00% | ~7,035 |
+| Sleeping on the Job | 16.00% | ~7,035 |
 | Family | 14.00% | ~6,155 |
 | War Engines | 14.00% | ~6,155 |
 | Signature Move | 14.00% | ~6,155 |
 | Ruse | 12.00% | ~5,276 |
 | Master Ninja | 11.00% | ~4,836 |
-| Hatching | 10.00% | ~4,396 |
+| Hatching | 10.00% | ~4,397 |
 | Bonds | 9.00% | ~3,957 |
 | Get Over Here | 9.00% | ~3,957 |
 | The Hidden Village | 9.00% | ~3,957 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~879 |
 | Legacy | 2.00% | ~879 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,965 (Ranked 115)  
+Progressed: 43,967 (Ranked 115)  
 Completed: 241 (0.55%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 241 (0.55%) (Ranked 195)
 | 2023-11-20 | 43,930 | 241 |
 | 2023-11-21 | 43,943 | 241 |
 | 2023-11-22 | 43,960 | 241 |
-| 2023-11-23 | 43,965 | 241 |
+| 2023-11-23 | 43,967 | 241 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

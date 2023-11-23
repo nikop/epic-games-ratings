@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 647,
-  "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 551,
+  "Ranking_Popularity": 552,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24715,
+  "EOS_Progressed": 24719,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -23698,6 +23698,11 @@
       "Time": "2023-11-23T09:03:33.0497006+00:00",
       "NumProgressed": 24715,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-11-23T10:03:51.9578414+00:00",
+      "NumProgressed": 24719,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 20,
@@ -23725,7 +23730,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -23733,7 +23738,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -23773,7 +23778,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "FOUND_ERIN",
@@ -23827,9 +23832,9 @@
       "ID": "INTRO_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Light at the end of the tunnel",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19031
+      "UsersEstimate": 18786
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23837,7 +23842,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "NORTH_FINISHED",
@@ -23868,15 +23873,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24715,
+      "Progressed": 24719,
       "Completed": 471
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:03:33.0497002+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:03:51.9578411+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:57:33.1818269+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:03:33.0498053+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:57:38.2898973+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:03:51.9579895+00:00"
 }

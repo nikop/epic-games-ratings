@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8245,9 +8245,9 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236461,
+  "EOS_Progressed": 236463,
   "EOS_Completed": 2469,
-  "EOS_NewPlayers": 1208,
+  "EOS_NewPlayers": 1204,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32580,6 +32580,11 @@
       "Time": "2023-11-23T09:09:39.2761739+00:00",
       "NumProgressed": 236461,
       "NumCompleted": 2469
+    },
+    {
+      "Time": "2023-11-23T10:09:53.2338847+00:00",
+      "NumProgressed": 236463,
+      "NumCompleted": 2469
     }
   ],
   "TotalAchievements": 532,
@@ -33109,9 +33114,9 @@
       "ID": "objective_completed_1133",
       "SetID": "415jc5c",
       "Name": "All Damage, All The Time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1134",
@@ -35677,9 +35682,9 @@
       "ID": "objective_completed_691",
       "SetID": "415jc5c",
       "Name": "Rime Bandits",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_692",
@@ -36101,9 +36106,9 @@
       "ID": "objective_completed_853",
       "SetID": "415jc5c",
       "Name": "Frontline Fighters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_854",
@@ -36301,9 +36306,9 @@
       "ID": "objective_completed_894",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_897",
@@ -36445,9 +36450,9 @@
       "ID": "objective_completed_934",
       "SetID": "415jc5c",
       "Name": "Ineffectual Intellectuals",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_935",
@@ -36846,21 +36851,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202735,
+      "Progressed": 202737,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236461,
+      "Progressed": 236463,
       "Completed": 2469
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-23T06:57:43.4318598+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:09:39.2761736+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:09:53.2338844+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:57:57.2603613+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:09:39.2784313+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:58:05.1220264+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:09:53.2360366+00:00"
 }

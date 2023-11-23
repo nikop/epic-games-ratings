@@ -21,8 +21,8 @@
 | Deepest lore | 12.00% | ~5 |
 | S Rank Bug-catcher | 10.00% | ~4 |
 | Thanks for Playing | 10.00% | ~4 |
+| Pool party | 7.00% | ~3 |
 | Brute forcing | 5.00% | ~2 |
-| Pool party | 5.00% | ~2 |
 | Thanks for Buying | 2.00% | ~1 |
 | You never know! | 2.00% | ~1 |
 | Higher on the street | 2.00% | ~1 |

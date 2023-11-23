@@ -6,18 +6,18 @@
 | ---- | ---------- | ----- |
 | Meissa's Savior | 45.00% | ~34 |
 | Purification Pioneer | 44.00% | ~33 |
+| Dicesmithing Time! | 41.00% | ~31 |
 | Mechanical Buddy | 41.00% | ~31 |
-| Dicesmithing Time! | 40.00% | ~30 |
-| Endless Tricks | 39.00% | ~29 |
+| Endless Tricks | 40.00% | ~30 |
 | Sanctuary Guardian | 37.00% | ~28 |
 | Noctuan Champion | 36.00% | ~27 |
-| Mind Illuminator | 33.00% | ~25 |
+| Mind Illuminator | 35.00% | ~26 |
 | Wild's Keeper | 33.00% | ~25 |
 | Eridanian Champion | 32.00% | ~24 |
-| Lacertian Champion | 31.00% | ~23 |
+| Lacertian Champion | 32.00% | ~24 |
+| Anomaly Destroyer | 28.00% | ~21 |
 | Stellar Dismantler | 28.00% | ~21 |
 | Apian Champion | 28.00% | ~21 |
-| Anomaly Destroyer | 27.00% | ~20 |
 | Loyal Partner | 25.00% | ~19 |
 | Star Killer | 24.00% | ~18 |
 | Behenian Champion | 24.00% | ~18 |
@@ -27,9 +27,9 @@
 | Aquarian Champion | 20.00% | ~15 |
 | Astral Seeker | 17.00% | ~13 |
 | Heart Gate | 17.00% | ~13 |
+| Favored by the Cosmos | 16.00% | ~12 |
 | The Corruption Goddess | 16.00% | ~12 |
 | The Goddes Avatar | 16.00% | ~12 |
-| Favored by the Cosmos | 15.00% | ~11 |
 | Stellar Haste | 13.00% | ~10 |
 | Heavy Purger | 12.00% | ~9 |
 | Apian Hero | 12.00% | ~9 |

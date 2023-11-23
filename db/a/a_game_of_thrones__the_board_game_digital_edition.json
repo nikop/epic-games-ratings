@@ -1320,7 +1320,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28946,
+  "EOS_Progressed": 28949,
   "EOS_Completed": 79,
   "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 2,
@@ -24630,6 +24630,11 @@
       "Time": "2023-11-23T09:09:11.0862793+00:00",
       "NumProgressed": 28946,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-23T10:09:22.6671019+00:00",
+      "NumProgressed": 28949,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24745,7 +24750,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "1029",
@@ -24761,7 +24766,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "1031",
@@ -24769,7 +24774,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "1032",
@@ -24777,7 +24782,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11578
+      "UsersEstimate": 11580
     },
     {
       "ID": "1033",
@@ -24816,15 +24821,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28946,
+      "Progressed": 28949,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:09:11.086279+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:09:22.6671015+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-23T09:03:07.276196+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:09:11.0863812+00:00"
+  "LastUpdate_Ratings": "2023-11-23T10:03:22.2749786+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:09:22.6672308+00:00"
 }

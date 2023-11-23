@@ -26,7 +26,7 @@ Rating: 4.50 (Ranked 588)
 | Hey, Luke At Us | 50.00% | ~4,255 |
 | At the Precipice | 49.00% | ~4,170 |
 | Into the Abyss | 47.00% | ~4,000 |
-| Riposte | 46.00% | ~3,915 |
+| Riposte | 47.00% | ~4,000 |
 | A Place You Could Call Home | 45.00% | ~3,830 |
 | Greezy Money | 44.00% | ~3,744 |
 | Catch! | 41.00% | ~3,489 |

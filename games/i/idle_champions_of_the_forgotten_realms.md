@@ -69,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Demon Lords of the Abyss | 0.10% | ~203 |
 | Speed Demons | 0.10% | ~203 |
 | Will of the Feywild | 0.10% | ~203 |
+| All Damage, All The Time | 0.10% | ~203 |
 | Will of the Frozen Feywild | 0.10% | ~203 |
 | The Roots of Loomlurch | 0.10% | ~203 |
 | The Loots of Loomlurch | 0.10% | ~203 |
@@ -374,6 +375,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Unknown Choices | 0.10% | ~203 |
 | Escort to Waterdeep | 0.10% | ~236 |
 | The Giant's Bane Tavern | 0.10% | ~203 |
+| Rime Bandits | 0.10% | ~203 |
 | Giant-Size Adventure | 0.10% | ~203 |
 | Power of Three | 0.10% | ~203 |
 | The Everlasting Rime | 0.10% | ~203 |
@@ -424,6 +426,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tough Acting | 0.10% | ~203 |
 | Witty Riposting | 0.10% | ~203 |
 | Waiting on Sunrise | 0.10% | ~203 |
+| Frontline Fighters | 0.10% | ~203 |
 | A Chilling Encounter | 0.10% | ~203 |
 | How Far Away is Thay | 0.10% | ~203 |
 | Deekin's Mission | 0.10% | ~203 |
@@ -447,6 +450,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 1 | 0.10% | ~203 |
 | Ending the Rime - Part 2 | 0.10% | ~203 |
 | Ambitious Speakers - Part 2 | 0.10% | ~203 |
+| Shady Sidekicks - Part 2 | 0.10% | ~203 |
 | Mysteries Unlocked | 0.10% | ~203 |
 | Male Pattern Boldness | 0.10% | ~203 |
 | Pure Energy | 0.10% | ~236 |
@@ -463,6 +467,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~203 |
 | An Icewind Dale Reunion | 0.10% | ~203 |
 | The Netherese Necropolis | 0.10% | ~203 |
+| Ineffectual Intellectuals | 0.10% | ~203 |
 | The Archaeologist and the Sailor | 0.10% | ~203 |
 | The Templar's Camp | 0.10% | ~236 |
 | The Haunted Jungle | 0.10% | ~236 |
@@ -509,7 +514,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~203 |
 | Keep Your Friends Close | 0.00% | ~0 |
 | And Your Enemies Closer | 0.00% | ~0 |
-| All Damage, All The Time | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | The Play's the Thing! | 0.00% | ~0 |
@@ -525,21 +529,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Just The Worst | 0.00% | ~0 |
 | Extreme Heat | 0.00% | ~0 |
 | Prisoners of Lolth | 0.00% | ~0 |
-| Rime Bandits | 0.00% | ~0 |
 | Lone Wolf Party | 0.00% | ~0 |
 | Mimic Perception | 0.00% | ~0 |
-| Frontline Fighters | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Reghed Glacier Mysteries | 0.00% | ~0 |
-| Ineffectual Intellectuals | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
 | Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | 3,720 to 1 | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,461 (Ranked 64)  
+Progressed: 236,463 (Ranked 64)  
 Completed: 2,469 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,469 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,461 | 2,469 |
+| 2023-11-23 | 236,463 | 2,469 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,580 (Ranked 41)  

@@ -6,28 +6,28 @@ Rating: 4.30 (Ranked 837)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 88.00% | ~172 |
-| Bullseye! | 85.00% | ~166 |
-| Graduation! | 79.00% | ~154 |
-| Villfir Forest | 74.00% | ~144 |
-| Right in the kisser! | 58.00% | ~113 |
+| Bullseye! | 85.00% | ~167 |
+| Graduation! | 79.00% | ~155 |
+| Villfir Forest | 74.00% | ~145 |
+| Right in the kisser! | 58.00% | ~114 |
 | Duscot Steamcity | 47.00% | ~92 |
-| The Shaman | 46.00% | ~90 |
 | The Thrower | 46.00% | ~90 |
-| The Penguin | 45.00% | ~88 |
+| The Shaman | 45.00% | ~88 |
+| The Penguin | 44.00% | ~86 |
+| The Tunneler | 40.00% | ~78 |
 | The Magician | 39.00% | ~76 |
-| The Tunneler | 39.00% | ~76 |
-| Level Up!! | 36.00% | ~70 |
-| The Shield | 35.00% | ~68 |
-| Kill-streak | 29.00% | ~57 |
+| Level Up!! | 36.00% | ~71 |
+| The Shield | 35.00% | ~69 |
+| Kill-streak | 30.00% | ~59 |
 | Topped up | 29.00% | ~57 |
 | The Bird | 28.00% | ~55 |
 | The Ninja | 26.00% | ~51 |
-| The Idol | 25.00% | ~49 |
+| The Idol | 24.00% | ~47 |
 | Inferno Ruins | 24.00% | ~47 |
 | I'm Rich | 22.00% | ~43 |
-| Untouchable | 21.00% | ~41 |
 | 1 is all I need | 21.00% | ~41 |
 | The Slime | 21.00% | ~41 |
+| Untouchable | 20.00% | ~39 |
 | The Giant | 17.00% | ~33 |
 | The Blacksmith | 16.00% | ~31 |
 | The Flower | 16.00% | ~31 |
@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 837)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 386)  
+Progressed: 196 (Ranked 386)  
 Completed: 1 (0.51%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 1 (0.51%) (Ranked 202)
 | 2023-11-16 | 192 | 1 |
 | 2023-11-17 | 194 | 1 |
 | 2023-11-19 | 195 | 1 |
+| 2023-11-23 | 196 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

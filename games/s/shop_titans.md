@@ -6,11 +6,11 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,054 |
-| Basic in Bulk | 5.00% | ~7,054 |
-| Tinkle of Coins | 5.00% | ~7,054 |
-| Titan's First Steps | 5.00% | ~7,054 |
-| Disintermediation | 4.00% | ~5,643 |
+| Sponsored by Argon | 5.00% | ~7,055 |
+| Basic in Bulk | 5.00% | ~7,055 |
+| Tinkle of Coins | 5.00% | ~7,055 |
+| Titan's First Steps | 5.00% | ~7,055 |
+| Disintermediation | 4.00% | ~5,644 |
 | One Easy Payment | 3.00% | ~4,233 |
 | Some Assembly Required | 3.00% | ~4,233 |
 | Another Satisfied Customer | 3.00% | ~4,233 |
@@ -66,6 +66,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.90% | ~1,270 |
 | Omae wa Mou Shindeiru | 0.90% | ~1,270 |
 | Master of Transmutation | 0.90% | ~1,270 |
+| Supercharged | 0.90% | ~1,270 |
 | Cranked up to 11 | 0.90% | ~1,270 |
 | Fit for a King | 0.90% | ~1,270 |
 | Wealth Beyond Measure | 0.90% | ~1,270 |
@@ -85,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 0.80% | ~1,129 |
 | Booty by the Boatload | 0.80% | ~1,129 |
 | Archivist | 0.80% | ~1,129 |
-| Supercharged | 0.80% | ~1,129 |
 | Ritualist | 0.80% | ~1,129 |
 | By Your Powers Combined... | 0.80% | ~1,129 |
 | Item of Renown | 0.80% | ~1,129 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,084 (Ranked 80)  
-Completed: 194 (0.14%) (Ranked 269)  
+Progressed: 141,092 (Ranked 80)  
+Completed: 195 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,7 +336,7 @@ Completed: 194 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
-| 2023-11-23 | 141,084 | 194 |
+| 2023-11-23 | 141,092 | 195 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

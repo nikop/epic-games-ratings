@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7171,10 +7171,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141084,
-  "EOS_Completed": 194,
-  "EOS_NewPlayers": 1086,
-  "EOS_NewCompleters": 8,
+  "EOS_Progressed": 141092,
+  "EOS_Completed": 195,
+  "EOS_NewPlayers": 1087,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -29526,6 +29526,11 @@
       "Time": "2023-11-23T09:06:25.8470499+00:00",
       "NumProgressed": 141084,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-11-23T10:07:01.9934545+00:00",
+      "NumProgressed": 141092,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 112,
@@ -29705,7 +29710,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7054
+      "UsersEstimate": 7055
     },
     {
       "ID": "chest02",
@@ -29769,7 +29774,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7054
+      "UsersEstimate": 7055
     },
     {
       "ID": "commonres02",
@@ -29801,7 +29806,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "craft02",
@@ -29903,9 +29908,9 @@
       "ID": "energy03",
       "SetID": "anfd17p",
       "Name": "Supercharged",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1270
     },
     {
       "ID": "expansion01",
@@ -30009,7 +30014,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7054
+      "UsersEstimate": 7055
     },
     {
       "ID": "gold02",
@@ -30353,7 +30358,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7054
+      "UsersEstimate": 7055
     },
     {
       "ID": "twinenchant01",
@@ -30432,15 +30437,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141084,
-      "Completed": 194
+      "Progressed": 141092,
+      "Completed": 195
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-22T17:03:17.3746506+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:06:25.8470497+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:07:01.9934542+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-23T09:02:52.6035191+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:06:25.8472349+00:00"
+  "LastUpdate_Ratings": "2023-11-23T10:03:05.8990591+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:07:01.9936826+00:00"
 }

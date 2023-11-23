@@ -3,8 +3,8 @@
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
   "Ranking_Rating": 723,
-  "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 551,
+  "Ranking_Popularity": 552,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 67,
@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1552086,
+  "EOS_Progressed": 1552094,
   "EOS_Completed": 731,
-  "EOS_NewPlayers": 1331,
+  "EOS_NewPlayers": 1324,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25199,6 +25199,11 @@
       "Time": "2023-11-23T09:04:16.5440436+00:00",
       "NumProgressed": 1552086,
       "NumCompleted": 731
+    },
+    {
+      "Time": "2023-11-23T10:04:39.3558415+00:00",
+      "NumProgressed": 1552094,
+      "NumCompleted": 731
     }
   ],
   "TotalAchievements": 20,
@@ -25218,7 +25223,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108646
+      "UsersEstimate": 108647
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -25354,7 +25359,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77604
+      "UsersEstimate": 77605
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -25369,15 +25374,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1552086,
+      "Progressed": 1552094,
       "Completed": 731
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-11-20T10:57:26.3491363+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:04:16.5440433+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:04:39.3558412+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.8905765+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:59:08.4270022+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:04:16.5441843+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:59:23.7252629+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:04:39.3559909+00:00"
 }

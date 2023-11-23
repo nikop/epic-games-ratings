@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1368,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4239,9 +4239,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1094
     },
     {
       "ID": "achievement_32",
@@ -4851,8 +4851,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:08:35.1638021+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:08:43.1903219+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-23T09:03:01.5715626+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:08:35.1640046+00:00"
+  "LastUpdate_Ratings": "2023-11-23T10:03:15.8986858+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:08:43.1904819+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 551,
+  "Ranking_Popularity": 552,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4269,
+  "EOS_Progressed": 4271,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7505,6 +7505,11 @@
       "Time": "2023-11-23T08:08:20.859033+00:00",
       "NumProgressed": 4269,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-23T10:08:32.6675234+00:00",
+      "NumProgressed": 4271,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7580,7 +7585,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Ach010",
@@ -7700,7 +7705,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Ach025",
@@ -7756,7 +7761,7 @@
       "Name": "Perfect Parry",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Ach032",
@@ -7780,7 +7785,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Ach035",
@@ -7868,7 +7873,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Ach046",
@@ -7884,7 +7889,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "Ach048",
@@ -7892,7 +7897,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Ach049",
@@ -8083,13 +8088,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4269,
+      "Progressed": 4271,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2790,
+      "Progressed": 2792,
       "Completed": 1930
     }
   ],
@@ -8097,8 +8102,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:06:45.2112831+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:08:32.6675231+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:58:08.7955364+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:06:45.2113849+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:58:17.9934251+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:08:32.6676159+00:00"
 }

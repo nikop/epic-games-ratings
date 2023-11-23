@@ -4809,9 +4809,9 @@
       "Count": 530
     }
   ],
-  "EOS_Progressed": 11848,
+  "EOS_Progressed": 11849,
   "EOS_Completed": 281,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
@@ -19414,6 +19414,11 @@
       "Time": "2023-11-23T08:03:58.7770974+00:00",
       "NumProgressed": 11848,
       "NumCompleted": 281
+    },
+    {
+      "Time": "2023-11-23T10:04:26.1416749+00:00",
+      "NumProgressed": 11849,
+      "NumCompleted": 281
     }
   ],
   "TotalAchievements": 15,
@@ -19465,7 +19470,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6042
+      "UsersEstimate": 6043
     },
     {
       "ID": "Duty_Bound",
@@ -19521,7 +19526,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6042
+      "UsersEstimate": 6043
     },
     {
       "ID": "Thorn_Cleaner",
@@ -19544,7 +19549,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11848,
+      "Progressed": 11849,
       "Completed": 281
     }
   ],
@@ -19552,8 +19557,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-22T20:57:18.554951+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:04:04.1912103+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:04:26.1416746+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.9264376+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:57:40.9182499+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:04:04.1912937+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:57:46.8688472+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:04:26.1417464+00:00"
 }

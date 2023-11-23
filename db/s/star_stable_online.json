@@ -3,12 +3,12 @@
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
   "Ranking_Rating": 691,
-  "Ranking_Popularity": 299,
+  "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
     "PcReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -2597,11 +2597,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 1444,
       "NumberOfAwardsMax": 183
+    },
+    {
+      "Time": "2023-11-23T09:57:59.3319843+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 1446,
+      "NumberOfAwardsMax": 184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1444,
-  "NumberOfAwardsMax": 183,
+  "NumberOfAwards": 1446,
+  "NumberOfAwardsMax": 184,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2632,7 +2638,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 183
+      "Count": 184
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2656,7 +2662,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 150
+      "Count": 151
     },
     {
       "Text": "This game has Easy Combat",
@@ -2688,8 +2694,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-11-22T21:57:43.8816397+00:00",
+  "LastChanged": "2023-11-23T09:57:59.3319841+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:10.8445988+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:57:52.0719595+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:05:12.5857518+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:57:59.3319846+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:05:41.676069+00:00"
 }

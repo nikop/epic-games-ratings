@@ -6,34 +6,34 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,143 |
-| Just The Two of Us | 32.00% | ~32,135 |
-| Up On High | 25.00% | ~25,105 |
-| Under The Hood | 25.00% | ~25,105 |
-| Got Your Nose | 24.00% | ~24,101 |
-| The Gift of Gab | 24.00% | ~24,101 |
-| Wrapping Up | 22.00% | ~22,093 |
-| More Than A Box Of Sand | 18.00% | ~18,076 |
-| The Dunboyne | 17.00% | ~17,072 |
-| Badge Hobbyist | 17.00% | ~17,072 |
-| Chum Novice | 16.00% | ~16,067 |
-| Silver-Tongued Sable | 16.00% | ~16,067 |
-| Sticky Paws | 16.00% | ~16,067 |
-| Bubble Up | 16.00% | ~16,067 |
-| Thread The Needle | 15.00% | ~15,063 |
-| Power to the People | 14.00% | ~14,059 |
-| Nesting Giant | 14.00% | ~14,059 |
-| Take That! | 13.00% | ~13,055 |
-| Treasure Tracker | 13.00% | ~13,055 |
-| Big Spender | 13.00% | ~13,055 |
+| Simoon | 34.00% | ~34,145 |
+| Just The Two of Us | 32.00% | ~32,137 |
+| Up On High | 25.00% | ~25,107 |
+| Under The Hood | 25.00% | ~25,107 |
+| Got Your Nose | 24.00% | ~24,102 |
+| The Gift of Gab | 24.00% | ~24,102 |
+| Wrapping Up | 22.00% | ~22,094 |
+| More Than A Box Of Sand | 18.00% | ~18,077 |
+| The Dunboyne | 17.00% | ~17,073 |
+| Badge Hobbyist | 17.00% | ~17,073 |
+| Chum Novice | 16.00% | ~16,068 |
+| Silver-Tongued Sable | 16.00% | ~16,068 |
+| Sticky Paws | 16.00% | ~16,068 |
+| Bubble Up | 16.00% | ~16,068 |
+| Thread The Needle | 15.00% | ~15,064 |
+| Power to the People | 14.00% | ~14,060 |
+| Nesting Giant | 14.00% | ~14,060 |
+| Take That! | 13.00% | ~13,056 |
+| Treasure Tracker | 13.00% | ~13,056 |
+| Big Spender | 13.00% | ~13,056 |
 | Badge Collector | 12.00% | ~12,051 |
 | Quite The Catch | 12.00% | ~12,051 |
-| Rowleys Way | 11.00% | ~11,046 |
-| The Machinist Mask | 10.00% | ~10,042 |
-| The Cartographer Mask | 10.00% | ~10,042 |
-| Balfron Connection | 10.00% | ~10,042 |
-| Ceiling Of Stars | 10.00% | ~10,042 |
-| Playing Dress Up | 10.00% | ~10,042 |
+| Rowleys Way | 11.00% | ~11,047 |
+| The Machinist Mask | 10.00% | ~10,043 |
+| The Cartographer Mask | 10.00% | ~10,043 |
+| Balfron Connection | 10.00% | ~10,043 |
+| Ceiling Of Stars | 10.00% | ~10,043 |
+| Playing Dress Up | 10.00% | ~10,043 |
 | Many Different Faces | 9.00% | ~9,038 |
 | Trellick's Pillar | 9.00% | ~9,038 |
 | Centre Of Brunswick | 9.00% | ~9,038 |
@@ -45,15 +45,15 @@ Number of Ratings: 43  (23.09.2022)
 | Glider on the Storm | 8.00% | ~8,034 |
 | Squeeze One Out | 8.00% | ~8,034 |
 | Dune Rider | 8.00% | ~8,034 |
-| Amateur Historian | 7.00% | ~7,029 |
-| The Beetle Mask | 7.00% | ~7,029 |
-| The Guard Mask | 7.00% | ~7,029 |
-| Smoked Out | 7.00% | ~7,029 |
-| A Hard Place | 7.00% | ~7,029 |
-| The Climber Mask | 6.00% | ~6,025 |
-| The Merchant Mask | 6.00% | ~6,025 |
-| Honorary Chum | 6.00% | ~6,025 |
-| Bikes Don't Fly | 6.00% | ~6,025 |
+| Amateur Historian | 7.00% | ~7,030 |
+| The Beetle Mask | 7.00% | ~7,030 |
+| The Guard Mask | 7.00% | ~7,030 |
+| Smoked Out | 7.00% | ~7,030 |
+| A Hard Place | 7.00% | ~7,030 |
+| The Climber Mask | 6.00% | ~6,026 |
+| The Merchant Mask | 6.00% | ~6,026 |
+| Honorary Chum | 6.00% | ~6,026 |
+| Bikes Don't Fly | 6.00% | ~6,026 |
 | The Gliding | 5.00% | ~5,021 |
 | The Entertainer Mask | 5.00% | ~5,021 |
 | The Quick and the Curious | 4.00% | ~4,017 |
@@ -61,9 +61,9 @@ Number of Ratings: 43  (23.09.2022)
 | Chum Expert | 3.00% | ~3,013 |
 | Gastric Bypass | 3.00% | ~3,013 |
 | The Angler Mask | 3.00% | ~3,013 |
-| Vivacious Vivarium | 2.00% | ~2,008 |
+| Vivacious Vivarium | 2.00% | ~2,009 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,421 (Ranked 88)  
+Progressed: 100,427 (Ranked 88)  
 Completed: 1,014 (1.01%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 1,014 (1.01%) (Ranked 164)
 | 2023-11-20 | 100,089 | 1,011 |
 | 2023-11-21 | 100,235 | 1,013 |
 | 2023-11-22 | 100,379 | 1,014 |
-| 2023-11-23 | 100,421 | 1,014 |
+| 2023-11-23 | 100,427 | 1,014 |
 ## Awards
 Max (Quickly Understood Controls): 25  (Ranked 520)  
 Sum: 92 (Ranked 450)  

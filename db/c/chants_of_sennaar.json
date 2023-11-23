@@ -2873,9 +2873,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 106
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2961,9 +2961,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 146
     },
     {
       "ID": "PROGRESS_N1",
@@ -3016,8 +3016,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-23T09:06:14.3535005+00:00",
+  "LastChanged_Achievements": "2023-11-23T10:06:49.2052135+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-23T08:58:39.2867254+00:00",
-  "LastUpdate_Achievements": "2023-11-23T09:06:14.3535281+00:00"
+  "LastUpdate_Ratings": "2023-11-23T09:58:51.5429003+00:00",
+  "LastUpdate_Achievements": "2023-11-23T10:06:49.205238+00:00"
 }
