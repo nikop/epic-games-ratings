@@ -342,7 +342,7 @@
 | 333 | [HITMAN](games/h/hitman.md) | 4.64 | 217 | 282 |
 | 333 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 0 | 551 |
 | 333 | [Road 96](games/r/road_96.md) | 4.64 | 0 | 551 |
-| 333 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,217 | 16 |
+| 333 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,223 | 16 |
 | 333 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 68 | 406 |
 | 333 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 551 |
 | 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.64 | 76 | 396 |
@@ -800,7 +800,7 @@
 | 790 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.35 | 86 | 383 |
 | 790 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 52 | 427 |
 | 790 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.35 | 3,299 | 95 |
-| 790 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.35 | 316 | 250 |
+| 790 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.35 | 318 | 250 |
 | 790 | [War Mongrels](games/w/war_mongrels.md) | 4.35 | 0 | 551 |
 | 790 | [ZOMBI](games/z/zombi.md) | 4.35 | 0 | 551 |
 | 804 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 509 |
@@ -925,7 +925,7 @@
 | 923 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.19 | 0 | 551 |
 | 923 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.19 | 37 | 465 |
 | 923 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 436 |
-| 923 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 2,963 | 98 |
+| 923 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 2,966 | 98 |
 | 923 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 551 |
 | 923 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.19 | 169 | 307 |
 | 923 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 551 |

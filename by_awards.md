@@ -15,7 +15,7 @@
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 42,180 | 4.74 | 158 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 39,318 | 4.49 | 607 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 36,415 | 4.51 | 568 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,217 | 4.64 | 333 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,223 | 4.64 | 333 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,536 | 4.76 | 127 |
 | 18 | [Dauntless](games/d/dauntless.md) | 23,969 | 4.53 | 540 |
 | 19 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 21,242 | 4.74 | 158 |
@@ -97,7 +97,7 @@
 | 95 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,299 | 4.35 | 790 |
 | 96 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,293 | 4.50 | 588 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,038 | 4.50 | 588 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,963 | 4.19 | 923 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,966 | 4.19 | 923 |
 | 99 | [Among Us](games/a/among_us.md) | 2,842 | 4.57 | 472 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,717 | 4.27 | 860 |
 | 101 | [Path of Exile](games/p/path_of_exile.md) | 2,691 | 4.61 | 383 |
@@ -249,7 +249,7 @@
 | 247 | [Darkwood](games/d/darkwood.md) | 329 | 4.61 | 383 |
 | 248 | [House Flipper](games/h/house_flipper.md) | 323 | 4.69 | 232 |
 | 249 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 319 | 4.50 | 588 |
-| 250 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 316 | 4.35 | 790 |
+| 250 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 318 | 4.35 | 790 |
 | 251 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 315 | 4.80 | 87 |
 | 252 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.63 | 349 |
 | 253 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 868 |
