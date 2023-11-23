@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1391,6 +1391,11 @@
       "Time": "2023-11-23T17:09:26.3583484+00:00",
       "NumProgressed": 297,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T19:08:44.5169271+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1401,9 +1406,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_10",
@@ -1419,7 +1424,7 @@
       "Name": "The Means to Save It",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_12",
@@ -1427,7 +1432,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_13",
@@ -1435,7 +1440,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_14",
@@ -1443,7 +1448,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_15",
@@ -1451,7 +1456,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_16",
@@ -1459,7 +1464,7 @@
       "Name": "Recruit",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_17",
@@ -1491,7 +1496,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "achievement_20",
@@ -1555,7 +1560,7 @@
       "Name": "Armsman",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_37",
@@ -1579,7 +1584,7 @@
       "Name": "No More Names",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_41",
@@ -1617,9 +1622,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_46",
@@ -1635,7 +1640,7 @@
       "Name": "Enlisted",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_49",
@@ -1651,7 +1656,7 @@
       "Name": "Initiate",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_50",
@@ -1697,9 +1702,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_60",
@@ -1778,7 +1783,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 1
     }
   ],
@@ -1786,8 +1791,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-21T13:11:41.3417786+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:08:38.9750765+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:08:44.5169268+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:02:48.4486614+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:08:38.9751132+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:02:41.0684585+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:08:44.5169568+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1549,9 +1549,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13758,
+  "EOS_Progressed": 13759,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14899,6 +14899,11 @@
       "Time": "2023-11-23T16:09:22.8018092+00:00",
       "NumProgressed": 13758,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-23T19:09:07.8599776+00:00",
+      "NumProgressed": 13759,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -15046,7 +15051,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACH19",
@@ -15189,7 +15194,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13758,
+      "Progressed": 13759,
       "Completed": 53
     }
   ],
@@ -15197,8 +15202,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-22T23:59:03.127393+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:08:57.0802917+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:09:07.8599774+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:30.7041733+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:58:41.6756618+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:08:57.0803879+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:59:11.9076437+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:09:07.8600437+00:00"
 }

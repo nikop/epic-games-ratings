@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1040,
+  "EOS_Progressed": 1041,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2669,6 +2669,11 @@
       "Time": "2023-11-23T08:09:19.3769765+00:00",
       "NumProgressed": 1040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T19:09:33.1936016+00:00",
+      "NumProgressed": 1041,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2688,7 +2693,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2704,7 +2709,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2720,7 +2725,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2752,7 +2757,7 @@
       "Name": "Capraphobia",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2880,7 +2885,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2912,7 +2917,7 @@
       "Name": "End of Rest",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -2920,7 +2925,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2960,7 +2965,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2968,7 +2973,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3000,7 +3005,7 @@
       "Name": "And There We Go",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3056,7 +3061,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3072,7 +3077,7 @@
       "Name": "Night Snack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3104,7 +3109,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -3207,14 +3212,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1040,
+      "Progressed": 1041,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:09:16.7605782+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:09:33.1936014+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:02.0177367+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:00:24.055986+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:09:16.7606467+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:02:23.7095381+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:09:33.193652+00:00"
 }

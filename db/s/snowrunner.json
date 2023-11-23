@@ -3,12 +3,12 @@
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
   "Ranking_Rating": 127,
-  "Ranking_Popularity": 34,
+  "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -13117,11 +13117,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 82750,
       "NumberOfAwardsMax": 12403
+    },
+    {
+      "Time": "2023-11-23T18:59:36.8759318+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 82815,
+      "NumberOfAwardsMax": 12447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 82750,
-  "NumberOfAwardsMax": 12403,
+  "NumberOfAwards": 82815,
+  "NumberOfAwardsMax": 12447,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -13146,7 +13152,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 12403
+      "Count": 12447
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13170,7 +13176,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7224
+      "Count": 7245
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13196,8 +13202,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-11-23T17:00:08.8375749+00:00",
+  "LastChanged": "2023-11-23T18:59:36.8759316+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:07.6663262+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:58:59.6014257+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:03:15.1233844+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:59:36.8759321+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:03:18.8200873+00:00"
 }

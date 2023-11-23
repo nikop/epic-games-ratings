@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -715,7 +715,7 @@
   ],
   "EOS_Progressed": 1945,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6274,9 +6274,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1128
     },
     {
       "ID": "achievement_6",
@@ -6323,8 +6323,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-23T06:58:07.5368544+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:06:15.786698+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:07:12.6786624+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:58:30.5649303+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:06:15.7867695+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:58:56.460583+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:07:12.6787197+00:00"
 }

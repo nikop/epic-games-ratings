@@ -5,44 +5,44 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,445 |
-| For Saw Gerrera | 98.00% | ~8,359 |
-| Grab Some Seat | 91.00% | ~7,762 |
-| Can You Pet the Bogling? | 87.00% | ~7,421 |
-| The Past Made Present | 83.00% | ~7,080 |
-| Survivors, We Adapt | 79.00% | ~6,739 |
-| Among the Masters | 78.00% | ~6,653 |
-| They Never Saw It Coming | 77.00% | ~6,568 |
-| Who Gives a Puck | 74.00% | ~6,312 |
-| For the Path | 66.00% | ~5,630 |
-| Now, This Isn't Podracing | 65.00% | ~5,544 |
-| Mirror Match | 64.00% | ~5,459 |
-| Skywalker | 62.00% | ~5,289 |
-| Out of Bedlam | 61.00% | ~5,203 |
-| Cleaning Up | 54.00% | ~4,606 |
-| Tanalorr Bound | 53.00% | ~4,521 |
-| Kitted Out | 52.00% | ~4,436 |
-| Tragedy | 51.00% | ~4,350 |
-| Hey, Luke At Us | 50.00% | ~4,265 |
-| At the Precipice | 49.00% | ~4,180 |
-| Into the Abyss | 47.00% | ~4,009 |
-| Riposte | 46.00% | ~3,924 |
-| A Place You Could Call Home | 45.00% | ~3,838 |
-| Greezy Money | 44.00% | ~3,753 |
-| Catch! | 41.00% | ~3,497 |
-| They're Probably Fine | 40.00% | ~3,412 |
-| Han Slowlo | 38.00% | ~3,241 |
-| There Is No Try | 37.00% | ~3,156 |
-| The Jedi Path | 32.00% | ~2,730 |
-| This Is Canon | 29.00% | ~2,474 |
-| It's a Trap | 26.00% | ~2,218 |
-| You've Got A Friend | 23.00% | ~1,962 |
+| Rooftop Duel | 99.00% | ~8,448 |
+| For Saw Gerrera | 98.00% | ~8,362 |
+| Grab Some Seat | 91.00% | ~7,765 |
+| Can You Pet the Bogling? | 87.00% | ~7,424 |
+| The Past Made Present | 83.00% | ~7,082 |
+| Survivors, We Adapt | 79.00% | ~6,741 |
+| Among the Masters | 78.00% | ~6,656 |
+| They Never Saw It Coming | 77.00% | ~6,570 |
+| Who Gives a Puck | 74.00% | ~6,314 |
+| For the Path | 66.00% | ~5,632 |
+| Now, This Isn't Podracing | 65.00% | ~5,546 |
+| Mirror Match | 64.00% | ~5,461 |
+| Skywalker | 62.00% | ~5,290 |
+| Out of Bedlam | 61.00% | ~5,205 |
+| Cleaning Up | 54.00% | ~4,608 |
+| Tanalorr Bound | 53.00% | ~4,522 |
+| Kitted Out | 52.00% | ~4,437 |
+| Tragedy | 51.00% | ~4,352 |
+| Hey, Luke At Us | 50.00% | ~4,266 |
+| At the Precipice | 49.00% | ~4,181 |
+| Into the Abyss | 47.00% | ~4,011 |
+| Riposte | 46.00% | ~3,925 |
+| A Place You Could Call Home | 45.00% | ~3,840 |
+| Greezy Money | 44.00% | ~3,755 |
+| Catch! | 41.00% | ~3,499 |
+| They're Probably Fine | 40.00% | ~3,413 |
+| Han Slowlo | 38.00% | ~3,243 |
+| There Is No Try | 37.00% | ~3,157 |
+| The Jedi Path | 32.00% | ~2,731 |
+| This Is Canon | 29.00% | ~2,475 |
+| It's a Trap | 26.00% | ~2,219 |
+| You've Got A Friend | 23.00% | ~1,963 |
 | King of the World | 16.00% | ~1,365 |
 | Reconnaissance | 15.00% | ~1,280 |
-| Max Capacity | 14.00% | ~1,194 |
-| A Presence I've Not Felt Since... | 14.00% | ~1,194 |
+| Max Capacity | 14.00% | ~1,195 |
+| A Presence I've Not Felt Since... | 14.00% | ~1,195 |
 | Slam Dunk | 12.00% | ~1,024 |
-| Star Tours | 11.00% | ~938 |
+| Star Tours | 11.00% | ~939 |
 | Caij Match | 10.00% | ~853 |
 | Gambler | 10.00% | ~853 |
 | Growth Spurt | 9.00% | ~768 |
@@ -50,8 +50,8 @@ Rating: 4.50 (Ranked 588)
 | I'm a Living Legend | 6.00% | ~512 |
 | Road House | 6.00% | ~512 |
 | Skoova Diving | 6.00% | ~512 |
-| Get Down From There | 5.00% | ~426 |
-| Intergalactic Geographic | 5.00% | ~426 |
+| Get Down From There | 5.00% | ~427 |
+| Intergalactic Geographic | 5.00% | ~427 |
 | So Uncivilized | 3.00% | ~256 |
 | One With the Force | 3.00% | ~256 |
 | Cobra Cal | 3.00% | ~256 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 588)
 | Blood, Sweat, and Tears | 3.00% | ~256 |
 | Pinpoint | 2.00% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,530 (Ranked 170)  
+Progressed: 8,533 (Ranked 170)  
 Completed: 50 (0.59%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 50 (0.59%) (Ranked 190)
 | 2023-11-20 | 8,375 | 48 |
 | 2023-11-21 | 8,426 | 48 |
 | 2023-11-22 | 8,487 | 49 |
-| 2023-11-23 | 8,530 | 50 |
+| 2023-11-23 | 8,533 | 50 |
 ## Awards
 Max (Great Boss Battles): 3,300  (Ranked 95)  
 Sum: 5,079 (Ranked 138)  

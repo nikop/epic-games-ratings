@@ -2,13 +2,13 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2023-10-26T20:01:30.909406+00:00",
@@ -929,10 +929,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 1329,
       "NumberOfAwardsMax": 555
+    },
+    {
+      "Time": "2023-11-23T18:57:42.5321181+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1343,
+      "NumberOfAwardsMax": 555
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1329,
+  "NumberOfAwards": 1343,
   "NumberOfAwardsMax": 555,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -970,7 +976,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 73
+      "Count": 80
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1006,7 +1012,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 56
+      "Count": 63
     }
   ],
   "EOS_Progressed": 0,
@@ -1021,8 +1027,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-23T17:57:36.4168475+00:00",
+  "LastChanged": "2023-11-23T18:57:42.5321179+00:00",
   "LastUpdate_AppInfo": "2023-11-21T19:56:56.3514409+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:57:36.416848+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:05:08.687552+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:57:42.5321183+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:05:45.8849449+00:00"
 }

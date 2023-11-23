@@ -3,9 +3,9 @@
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 313,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 466,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -992,6 +992,11 @@
       "Time": "2023-11-23T18:05:08.2163506+00:00",
       "NumProgressed": 462,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T19:05:45.2433513+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1012,7 +1017,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1058,9 +1063,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 340
     },
     {
       "ID": "CompleteChapter10",
@@ -1068,7 +1073,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CompleteChapter11",
@@ -1076,7 +1081,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CompleteChapter12",
@@ -1100,7 +1105,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CompleteChapter15",
@@ -1132,7 +1137,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CompleteChapter18",
@@ -1148,7 +1153,7 @@
       "Name": "Met the Enemy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 252
     },
     {
       "ID": "CompleteChapter3",
@@ -1156,7 +1161,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "CompleteChapter4",
@@ -1164,7 +1169,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "CompleteChapter5",
@@ -1172,7 +1177,7 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CompleteChapter6",
@@ -1180,7 +1185,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CompleteChapter7",
@@ -1196,7 +1201,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CompleteChapter9",
@@ -1204,7 +1209,7 @@
       "Name": "Ingredients List",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1250,9 +1255,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 154
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1299,14 +1304,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 466,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:05:08.2163502+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:05:45.2433509+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:57:58.9713438+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:05:08.216378+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:58:12.2045219+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:05:45.2433779+00:00"
 }

@@ -14,6 +14,7 @@
 | Dispel Rumors | 36.00% | ~8 |
 | The End of an Outlaw | 36.00% | ~8 |
 | Captain Mustache | 32.00% | ~7 |
+| Demon Slayer | 23.00% | ~5 |
 | Urban Explorer | 23.00% | ~5 |
 | Steal Her Away | 23.00% | ~5 |
 | Sewer Rat | 23.00% | ~5 |
@@ -22,7 +23,6 @@
 | Fight Fire With Fire | 23.00% | ~5 |
 | Big Eater | 18.00% | ~4 |
 | Tour Guide | 18.00% | ~4 |
-| Demon Slayer | 18.00% | ~4 |
 | The Real O.G. | 14.00% | ~3 |
 | Talk to the Fist | 14.00% | ~3 |
 | Tomb Raider | 14.00% | ~3 |

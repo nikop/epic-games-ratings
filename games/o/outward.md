@@ -50,7 +50,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,676 (Ranked 203)  
-Completed: 4 (0.11%) (Ranked 277)  
+Completed: 4 (0.11%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,9 +255,9 @@ Completed: 4 (0.11%) (Ranked 277)
 | 2023-11-22 | 3,675 | 4 |
 | 2023-11-23 | 3,676 | 4 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 472)  
+Max (Highly Recommended): 35  (Ranked 473)  
 Sum: 245 (Ranked 383)  
-Diff (max vs sum): 89  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

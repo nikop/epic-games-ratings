@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.83,
+  "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -465,6 +465,11 @@
       "Time": "2023-11-22T20:04:00.005639+00:00",
       "NumProgressed": 242,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-23T19:05:02.1140958+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -484,7 +489,7 @@
       "Name": "Book \u0027em Danny",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "bullseye",
@@ -564,7 +569,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "play_me_by_the_hour",
@@ -572,7 +577,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "poetent",
@@ -586,9 +591,9 @@
       "ID": "put_a_ring_on_it",
       "SetID": "2db2j74",
       "Name": "Put A Ring On It",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "show_me_some_skin",
@@ -602,9 +607,9 @@
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 221
     },
     {
       "ID": "the_big_sleep",
@@ -643,7 +648,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 2
     }
   ],
@@ -651,8 +656,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:04:34.7002337+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:05:02.1140955+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:01.1836955+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:58:50.0999112+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:04:34.700255+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:59:23.8967994+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:05:02.1141091+00:00"
 }

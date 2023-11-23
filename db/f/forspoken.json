@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42931,
+  "EOS_Progressed": 42935,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13207,6 +13207,11 @@
       "Time": "2023-11-23T18:03:15.6663241+00:00",
       "NumProgressed": 42931,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-23T19:03:19.5511491+00:00",
+      "NumProgressed": 42935,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -13266,7 +13271,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -13456,9 +13461,9 @@
       "ID": "MAGIC_BREAK",
       "SetID": "6d0g7k8",
       "Name": "Knock \u0027Em Dead",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2576
+      "UsersEstimate": 3005
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -13641,22 +13646,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42931,
+      "Progressed": 42935,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7768,
-      "Completed": 7768
+      "Progressed": 7772,
+      "Completed": 7772
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:03:15.6663236+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:03:19.5511488+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:28.9444808+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:57:36.678376+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:03:15.6664156+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:57:42.9893389+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:03:19.5512301+00:00"
 }

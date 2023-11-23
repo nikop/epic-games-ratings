@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 904,
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 125,
@@ -1320,9 +1320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28977,
+  "EOS_Progressed": 28979,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24675,6 +24675,11 @@
       "Time": "2023-11-23T18:09:03.7358671+00:00",
       "NumProgressed": 28977,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-23T19:09:16.5386296+00:00",
+      "NumProgressed": 28979,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24718,7 +24723,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "1020",
@@ -24774,7 +24779,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "1027",
@@ -24806,7 +24811,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5795
+      "UsersEstimate": 5796
     },
     {
       "ID": "1031",
@@ -24822,7 +24827,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11591
+      "UsersEstimate": 11592
     },
     {
       "ID": "1033",
@@ -24838,7 +24843,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "1035",
@@ -24861,15 +24866,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28977,
+      "Progressed": 28979,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:09:03.7358667+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:09:16.5386291+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:03:07.7375135+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:09:03.7359576+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:03:07.2793556+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:09:16.5387496+00:00"
 }

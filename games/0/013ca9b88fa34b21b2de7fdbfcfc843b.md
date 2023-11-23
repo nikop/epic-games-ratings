@@ -5,29 +5,29 @@ Rating: 4.60 (Ranked 415)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,814 |
-| A Thorny Situation | 71.00% | ~5,655 |
-| ... And Spit Back Out | 61.00% | ~4,859 |
-| Break-Net Speed | 49.00% | ~3,903 |
-| Bramble Breaker | 47.00% | ~3,744 |
-| Miner 49er | 43.00% | ~3,425 |
-| Humble Collector | 43.00% | ~3,425 |
-| Calm Sailing | 37.00% | ~2,947 |
-| Open the Gate! | 34.00% | ~2,708 |
-| Mist Walker | 32.00% | ~2,549 |
-| Lumberjack | 27.00% | ~2,151 |
-| Oui, Chef! | 23.00% | ~1,832 |
-| Clear the Air | 19.00% | ~1,513 |
-| Botanical Breakthrough | 17.00% | ~1,354 |
-| Search for the Hairy Grell | 14.00% | ~1,115 |
-| Beach Comber | 14.00% | ~1,115 |
-| Higher Tax Bracket | 14.00% | ~1,115 |
+| Azoria Beckons | 72.00% | ~5,738 |
+| A Thorny Situation | 71.00% | ~5,658 |
+| ... And Spit Back Out | 61.00% | ~4,861 |
+| Break-Net Speed | 49.00% | ~3,905 |
+| Bramble Breaker | 47.00% | ~3,745 |
+| Miner 49er | 43.00% | ~3,427 |
+| Humble Collector | 43.00% | ~3,427 |
+| Calm Sailing | 37.00% | ~2,949 |
+| Open the Gate! | 34.00% | ~2,709 |
+| Mist Walker | 32.00% | ~2,550 |
+| Lumberjack | 27.00% | ~2,152 |
+| Oui, Chef! | 23.00% | ~1,833 |
+| Clear the Air | 19.00% | ~1,514 |
+| Botanical Breakthrough | 17.00% | ~1,355 |
+| Search for the Hairy Grell | 14.00% | ~1,116 |
+| Beach Comber | 14.00% | ~1,116 |
+| Higher Tax Bracket | 14.00% | ~1,116 |
 | Skilled | 9.00% | ~717 |
-| Flaming Hot Completos | 8.00% | ~637 |
-| Fae Farmer | 8.00% | ~637 |
-| Got to Catch Them All | 8.00% | ~637 |
-| Rumble in the Jumble | 8.00% | ~637 |
-| Fanatical Farmer | 8.00% | ~637 |
+| Flaming Hot Completos | 8.00% | ~638 |
+| Fae Farmer | 8.00% | ~638 |
+| Got to Catch Them All | 8.00% | ~638 |
+| Rumble in the Jumble | 8.00% | ~638 |
+| Fanatical Farmer | 8.00% | ~638 |
 | Scattered Scroll Scrounger | 6.00% | ~478 |
 | Azorian Anniversary | 6.00% | ~478 |
 | I Now Pronounce You... | 5.00% | ~398 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 415)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,965 (Ranked 175)  
+Progressed: 7,969 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 1 (0.01%) (Ranked 336)
 | 2023-11-20 | 7,894 | 1 |
 | 2023-11-21 | 7,915 | 1 |
 | 2023-11-22 | 7,942 | 1 |
-| 2023-11-23 | 7,965 | 1 |
+| 2023-11-23 | 7,969 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1374,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4128,9 +4128,9 @@
       "ID": "achievement_16",
       "SetID": "b9pe172",
       "Name": "First Aid Specialist",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 357
     },
     {
       "ID": "achievement_17",
@@ -4192,9 +4192,9 @@
       "ID": "achievement_23",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration III",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 632
     },
     {
       "ID": "achievement_24",
@@ -4876,8 +4876,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:08:27.0163393+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:08:28.4248488+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:03:01.9420539+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:08:27.0165084+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:02:59.4070409+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:08:28.4249949+00:00"
 }

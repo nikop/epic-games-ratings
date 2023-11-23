@@ -143,12 +143,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.70% | ~108 |
 | Kmt Unified | 0.70% | ~108 |
 | Carthage - Ox Hide | 0.60% | ~93 |
+| Old | 0.60% | ~93 |
 | Learn to Play 5 | 0.60% | ~93 |
 | Old World Order | 0.60% | ~93 |
 | No Undo | 0.60% | ~93 |
 | Kush | 0.60% | ~93 |
 | Beja Archer | 0.60% | ~93 |
-| Old | 0.50% | ~77 |
 | Glorious Difficulty | 0.50% | ~77 |
 | Persia | 0.50% | ~77 |
 | Pantheon of Gods | 0.50% | ~77 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,446 (Ranked 151)  
+Progressed: 15,448 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -566,7 +566,7 @@ Completed: 5 (0.03%) (Ranked 320)
 | 2023-11-20 | 15,405 | 5 |
 | 2023-11-21 | 15,417 | 5 |
 | 2023-11-22 | 15,428 | 5 |
-| 2023-11-23 | 15,446 | 5 |
+| 2023-11-23 | 15,448 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,874 (Ranked 218)  

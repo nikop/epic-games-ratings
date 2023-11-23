@@ -3448,9 +3448,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240109,
+  "EOS_Progressed": 240111,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25943,6 +25943,11 @@
       "Time": "2023-11-23T18:09:31.5178214+00:00",
       "NumProgressed": 240109,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-11-23T19:09:51.1508159+00:00",
+      "NumProgressed": 240111,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 138,
@@ -26128,9 +26133,9 @@
       "ID": "DIEIN30SEC",
       "SetID": "5l8oe0h",
       "Name": "That Was Quick",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 960
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -27057,13 +27062,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240109,
+      "Progressed": 240111,
       "Completed": 290
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1589,
+      "Progressed": 1591,
       "Completed": 388
     }
   ],
@@ -27071,8 +27076,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-23T13:03:09.095844+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:09:31.5178209+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:09:51.1508158+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:57:38.7736708+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:09:31.5180546+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:57:45.5873236+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:09:51.1510366+00:00"
 }

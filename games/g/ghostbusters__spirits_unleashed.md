@@ -7,7 +7,7 @@ Rating: 4.50 (Ranked 588)
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,514 |
 | Meticulously Efficient | 7.00% | ~2,200 |
-| Advancement | 6.00% | ~1,885 |
+| Advancement | 6.00% | ~1,886 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,571 |
 | Discovery | 5.00% | ~1,571 |
 | Solo Capture | 5.00% | ~1,571 |
@@ -26,18 +26,18 @@ Rating: 4.50 (Ranked 588)
 | Icing on the Cake | 3.00% | ~943 |
 | Right back at ya | 3.00% | ~943 |
 | Summoner | 3.00% | ~943 |
-| Back Off | 2.00% | ~628 |
-| We have the best insurance | 2.00% | ~628 |
-| Collector | 2.00% | ~628 |
-| Escape Artist | 2.00% | ~628 |
-| Legions | 2.00% | ~628 |
-| Pesky Jerks | 2.00% | ~628 |
-| Rift Destroyer | 2.00% | ~628 |
-| Seasoned | 2.00% | ~628 |
-| Side Hustle | 2.00% | ~628 |
-| Skilled | 2.00% | ~628 |
-| Stunner | 2.00% | ~628 |
-| Welcome to the Crew | 2.00% | ~628 |
+| Back Off | 2.00% | ~629 |
+| We have the best insurance | 2.00% | ~629 |
+| Collector | 2.00% | ~629 |
+| Escape Artist | 2.00% | ~629 |
+| Legions | 2.00% | ~629 |
+| Pesky Jerks | 2.00% | ~629 |
+| Rift Destroyer | 2.00% | ~629 |
+| Seasoned | 2.00% | ~629 |
+| Side Hustle | 2.00% | ~629 |
+| Skilled | 2.00% | ~629 |
+| Stunner | 2.00% | ~629 |
+| Welcome to the Crew | 2.00% | ~629 |
 | Diabolical | 1.00% | ~314 |
 | Liability | 1.00% | ~314 |
 | Reckless | 1.00% | ~314 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,424 (Ranked 124)  
+Progressed: 31,429 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 68 (0.22%) (Ranked 248)
 | 2023-11-20 | 31,308 | 68 |
 | 2023-11-21 | 31,349 | 68 |
 | 2023-11-22 | 31,398 | 68 |
-| 2023-11-23 | 31,424 | 68 |
+| 2023-11-23 | 31,429 | 68 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 249)  
 Sum: 2,840 (Ranked 179)  

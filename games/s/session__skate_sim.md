@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,10 +13,10 @@ Number of Ratings: 111  (23.09.2022)
 | Backpacker | 15.00% | ~463 |
 | Go with the Flow | 14.00% | ~432 |
 | The flip trick crown jewel | 11.00% | ~339 |
-| Keep the dream alive | 10.00% | ~308 |
-| Plastic Surgeon | 10.00% | ~308 |
-| The hard way | 10.00% | ~308 |
-| Upfront shredder | 10.00% | ~308 |
+| Keep the dream alive | 10.00% | ~309 |
+| Plastic Surgeon | 10.00% | ~309 |
+| The hard way | 10.00% | ~309 |
+| Upfront shredder | 10.00% | ~309 |
 | Good vibes | 9.00% | ~278 |
 | Fashionista | 8.00% | ~247 |
 | Finally he zips it | 8.00% | ~247 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,085 (Ranked 210)  
+Progressed: 3,086 (Ranked 210)  
 Completed: 2 (0.06%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 2 (0.06%) (Ranked 300)
 | 2023-11-18 | 3,073 | 2 |
 | 2023-11-19 | 3,075 | 2 |
 | 2023-11-22 | 3,080 | 2 |
-| 2023-11-23 | 3,085 | 2 |
+| 2023-11-23 | 3,086 | 2 |
 ## Awards
 Max (Highly Recommended): 58  (Ranked 417)  
 Sum: 553 (Ranked 318)  

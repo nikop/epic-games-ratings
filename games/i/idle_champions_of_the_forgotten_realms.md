@@ -507,6 +507,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.10% | ~203 |
 | Electric Mayhem | 0.10% | ~203 |
 | Flight of the Kindori Pod | 0.10% | ~203 |
+| 3,720 to 1 | 0.10% | ~203 |
 | Topolah's Tower | 0.10% | ~203 |
 | Krux's Speed Run | 0.10% | ~203 |
 | Animated Giff | 0.10% | ~203 |
@@ -537,10 +538,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Might Makes Right | 0.00% | ~0 |
 | Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
-| 3,720 to 1 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,537 (Ranked 64)  
-Completed: 2,470 (1.04%) (Ranked 162)  
+Progressed: 236,551 (Ranked 64)  
+Completed: 2,471 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -756,7 +756,7 @@ Completed: 2,470 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,537 | 2,470 |
+| 2023-11-23 | 236,551 | 2,471 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,584 (Ranked 41)  

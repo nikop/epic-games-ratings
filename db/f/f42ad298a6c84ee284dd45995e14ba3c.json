@@ -2,13 +2,13 @@
   "ID": "f42ad298a6c84ee284dd45995e14ba3c",
   "Name": "Raid Shadow Legends",
   "ProductSlug": "raid-shadow-legends-b70e14",
-  "Ranking_Rating": 892,
-  "Ranking_Popularity": 455,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Rating": 884,
+  "Ranking_Popularity": 453,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-07-20T10:30:00+00:00",
     "PcReleaseDate": "2019-09-29T07:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2023-08-30T02:59:29.8015571+00:00",
@@ -389,18 +389,24 @@
       "Rating": 4.23,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-11-23T19:00:53.2090442+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 42,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 41
+      "Count": 42
     }
   ],
   "EOS_Progressed": 0,
@@ -415,8 +421,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T13:57:09.0545259+00:00",
   "FirstSeenRating": "2023-08-30T02:59:29.8015569+00:00",
-  "LastChanged": "2023-11-22T19:00:28.3978747+00:00",
+  "LastChanged": "2023-11-23T19:00:53.209044+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:18.2659616+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:59:54.7755908+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:09:02.7062779+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:00:53.2090445+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:09:15.1415179+00:00"
 }

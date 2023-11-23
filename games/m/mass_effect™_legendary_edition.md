@@ -20,8 +20,8 @@
 | Soldier | 50.00% | ~687 |
 | Charismatic | 50.00% | ~687 |
 | Asari Ally | 47.00% | ~646 |
+| Medal of Exploration III | 46.00% | ~632 |
 | Soldier Ally | 46.00% | ~632 |
-| Medal of Exploration III | 45.00% | ~618 |
 | Principled | 45.00% | ~618 |
 | Colonial Savior | 44.00% | ~605 |
 | Paramour I | 43.00% | ~591 |
@@ -75,9 +75,9 @@
 | Against All Odds | 27.00% | ~371 |
 | Untouchable | 26.00% | ~357 |
 | Giant Killer | 26.00% | ~357 |
+| First Aid Specialist | 26.00% | ~357 |
 | A House Divided | 26.00% | ~357 |
 | Eye of the Hurricane | 25.00% | ~344 |
-| First Aid Specialist | 25.00% | ~344 |
 | World Shaker | 25.00% | ~344 |
 | Pathfinder | 24.00% | ~330 |
 | Tunnel Rat | 24.00% | ~330 |

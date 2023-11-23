@@ -4,8 +4,8 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -859,6 +859,11 @@
       "Time": "2023-11-23T18:05:44.5578176+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T19:06:32.6721959+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -983,7 +988,7 @@
       "Name": "There\u0027s something in those trees",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
@@ -1029,9 +1034,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1077,9 +1082,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1143,7 +1148,7 @@
       "Name": "First Step",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1151,7 +1156,7 @@
       "Name": "Great Producer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -1207,7 +1212,7 @@
       "Name": "Green Energy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1222,14 +1227,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:05:44.5578168+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:06:32.6721955+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:15.7776932+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:58:02.4982068+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:05:44.5578444+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:58:16.970147+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:06:32.6722294+00:00"
 }

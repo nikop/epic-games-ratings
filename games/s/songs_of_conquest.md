@@ -1,13 +1,13 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 30.00% | ~58 |
-| Double Kill | 21.00% | ~41 |
+| Adept | 30.00% | ~59 |
+| Double Kill | 22.00% | ~43 |
 | Critical Hit | 10.00% | ~20 |
 | Veteran | 9.00% | ~18 |
 | Dressed For Success | 6.00% | ~12 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 388)  
+Progressed: 197 (Ranked 387)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 161 | 0 |
 | 2023-11-21 | 175 | 0 |
 | 2023-11-22 | 183 | 0 |
-| 2023-11-23 | 195 | 0 |
+| 2023-11-23 | 197 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 509)  
 Sum: 194 (Ranked 402)  

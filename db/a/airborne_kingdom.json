@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7522,
+  "EOS_Progressed": 7523,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -5858,6 +5858,11 @@
       "Time": "2023-11-23T16:03:47.7363278+00:00",
       "NumProgressed": 7522,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-23T19:03:41.0960824+00:00",
+      "NumProgressed": 7523,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5909,7 +5914,7 @@
       "Name": "Harp Tuned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5925,7 +5930,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -5933,7 +5938,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -5997,7 +6002,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -6021,7 +6026,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6037,7 +6042,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6045,7 +6050,7 @@
       "Name": "Travelers Returned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -6061,7 +6066,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -6084,15 +6089,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7522,
+      "Progressed": 7523,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:03:32.4243353+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:03:41.0960821+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:15.536262+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:03:03.5117619+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:03:32.424383+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:03:01.349898+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:03:41.096121+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 674,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.21,
+  "EOS_Completed_Percentage": 5.19,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2820,6 +2820,11 @@
       "Time": "2023-11-23T18:06:32.1545132+00:00",
       "NumProgressed": 672,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-23T19:07:34.5642818+00:00",
+      "NumProgressed": 674,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2839,7 +2844,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "META_ALL_LINK",
@@ -2863,7 +2868,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "META_HALF_LINK",
@@ -2887,7 +2892,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2911,7 +2916,7 @@
       "Name": "For its own good",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2943,7 +2948,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2983,7 +2988,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "PROGRESS_N1",
@@ -2991,7 +2996,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "PROGRESS_N2",
@@ -2999,7 +3004,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "PROGRESS_N3",
@@ -3015,7 +3020,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "PROGRESS_N5",
@@ -3030,14 +3035,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 674,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:06:32.1545126+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:07:34.5642815+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:58:47.7674951+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:06:32.1545398+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:59:20.7038707+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:07:34.5643141+00:00"
 }

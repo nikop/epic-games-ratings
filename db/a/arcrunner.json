@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1886,6 +1886,11 @@
       "Time": "2023-11-23T18:08:39.3448596+00:00",
       "NumProgressed": 821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T19:08:45.0086952+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1905,7 +1910,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -2049,7 +2054,7 @@
       "Name": "Rookie",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -2128,13 +2133,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 3
     }
   ],
@@ -2142,8 +2147,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:08:39.3448591+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:08:45.0086948+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.4021607+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:59:35.2636695+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:08:39.3448862+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:00:26.4307346+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:08:45.0087206+00:00"
 }

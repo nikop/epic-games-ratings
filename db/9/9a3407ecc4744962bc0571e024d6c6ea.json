@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 945,
+  "EOS_Progressed": 946,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -2419,6 +2419,11 @@
       "Time": "2023-11-23T17:10:03.7123078+00:00",
       "NumProgressed": 945,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-23T19:09:19.4143471+00:00",
+      "NumProgressed": 946,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2431,7 +2436,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "BostonHayDay",
@@ -2439,7 +2444,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "BoxingClever",
@@ -2455,7 +2460,7 @@
       "Name": "Cartographer",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "Causality",
@@ -2479,7 +2484,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -2487,7 +2492,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "DustDancing",
@@ -2527,7 +2532,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "Outpatient",
@@ -2535,15 +2540,15 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 747
     },
     {
       "ID": "SkeletonCrew",
@@ -2551,7 +2556,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "TerraTourGuide",
@@ -2590,14 +2595,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 945,
+      "Progressed": 946,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-23T18:09:06.0659734+00:00",
+  "LastChanged_Achievements": "2023-11-23T19:09:19.4143461+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:00.5073465+00:00",
-  "LastUpdate_Ratings": "2023-11-23T17:59:04.0066253+00:00",
-  "LastUpdate_Achievements": "2023-11-23T18:09:06.0659959+00:00"
+  "LastUpdate_Ratings": "2023-11-23T18:59:43.0233968+00:00",
+  "LastUpdate_Achievements": "2023-11-23T19:09:19.4143699+00:00"
 }

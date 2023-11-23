@@ -12,8 +12,8 @@ Rating: 4.64 (Ranked 333)
 | Brute Force | 66.00% | ~1,284 |
 | Cannon Fodder | 62.00% | ~1,206 |
 | Autofire | 59.00% | ~1,148 |
+| True Believer | 58.00% | ~1,128 |
 | Story Teller | 57.00% | ~1,109 |
-| True Believer | 57.00% | ~1,109 |
 | Raise the Stakes | 56.00% | ~1,089 |
 | Surgeon | 54.00% | ~1,050 |
 | Freeze | 52.00% | ~1,011 |

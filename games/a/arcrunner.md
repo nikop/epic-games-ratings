@@ -19,8 +19,8 @@
 | Starship Docks | 9.00% | ~74 |
 | Nanonic III | 9.00% | ~74 |
 | Cybernetic | 8.00% | ~66 |
-| The Bigger They Are | 7.00% | ~57 |
-| Rookie | 7.00% | ~57 |
+| The Bigger They Are | 7.00% | ~58 |
+| Rookie | 7.00% | ~58 |
 | Eden Heights | 5.00% | ~41 |
 | Outer Core | 5.00% | ~41 |
 | Up Close And Personal | 5.00% | ~41 |
@@ -34,7 +34,7 @@
 | Cyborg | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 821 (Ranked 272)  
+Progressed: 822 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 812 | 0 |
 | 2023-11-21 | 815 | 0 |
 | 2023-11-22 | 816 | 0 |
-| 2023-11-23 | 821 | 0 |
+| 2023-11-23 | 822 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

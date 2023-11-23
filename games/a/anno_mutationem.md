@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~527 |
-| Don't judge a manhole by its cover | 60.00% | ~416 |
-| I just love stuff! | 43.00% | ~298 |
-| Keep 'em coming! | 43.00% | ~298 |
+| Tell me your story | 76.00% | ~528 |
+| Don't judge a manhole by its cover | 60.00% | ~417 |
+| I just love stuff! | 43.00% | ~299 |
+| Keep 'em coming! | 43.00% | ~299 |
 | The things they print nowadays | 40.00% | ~278 |
 | Big Spender | 39.00% | ~271 |
 | That's gotta hurt | 37.00% | ~257 |
-| I think it's broke | 27.00% | ~187 |
-| The Ann Flores Combo Experience | 27.00% | ~187 |
+| I think it's broke | 26.00% | ~181 |
+| The Ann Flores Combo Experience | 26.00% | ~181 |
 | Club Star | 25.00% | ~174 |
 | Fire in the hole! | 21.00% | ~146 |
 | Omnipotence | 20.00% | ~139 |
@@ -22,10 +22,10 @@ Rating: 4.56 (Ranked 491)
 | Deadly Kombationem | 19.00% | ~132 |
 | The truth is out there | 16.00% | ~111 |
 | Annakin Skyscroller | 14.00% | ~97 |
-| Arm Wrestlin' | 10.00% | ~69 |
-| In the smacker...I think | 10.00% | ~69 |
-| 1+1>2 | 9.00% | ~62 |
-| This can't be right… | 9.00% | ~62 |
+| In the smacker...I think | 10.00% | ~70 |
+| Arm Wrestlin' | 9.00% | ~63 |
+| 1+1>2 | 9.00% | ~63 |
+| This can't be right… | 9.00% | ~63 |
 | I'm walking here! | 8.00% | ~56 |
 | So Fresh and So clean clean | 8.00% | ~56 |
 | Welcome home, 06 | 8.00% | ~56 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 491)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694 (Ranked 280)  
+Progressed: 695 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-10 | 682 | 0 |
 | 2023-11-16 | 683 | 0 |
 | 2023-11-22 | 689 | 0 |
-| 2023-11-23 | 694 | 0 |
+| 2023-11-23 | 695 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
