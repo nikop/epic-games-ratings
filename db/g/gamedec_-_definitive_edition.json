@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -489,9 +489,9 @@
       "Count": 91
     }
   ],
-  "EOS_Progressed": 252823,
+  "EOS_Progressed": 252826,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24759,6 +24759,11 @@
       "Time": "2023-11-23T04:06:34.1788454+00:00",
       "NumProgressed": 252823,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-23T05:08:18.8573956+00:00",
+      "NumProgressed": 252826,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -24770,7 +24775,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68262
+      "UsersEstimate": 68263
     },
     {
       "ID": "ACH_AON",
@@ -24802,7 +24807,7 @@
       "Name": "Catnip",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -24826,7 +24831,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -24906,7 +24911,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_ISTARTED",
@@ -24914,7 +24919,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73319
+      "UsersEstimate": 73320
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -24922,7 +24927,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -24970,7 +24975,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -25018,7 +25023,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -25026,7 +25031,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -25050,7 +25055,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15169
+      "UsersEstimate": 15170
     },
     {
       "ID": "ACH_MEMORY5",
@@ -25138,7 +25143,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15169
+      "UsersEstimate": 15170
     },
     {
       "ID": "ACH_TROLLKING",
@@ -25146,7 +25151,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -25185,7 +25190,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 252823,
+      "Progressed": 252826,
       "Completed": 7
     }
   ],
@@ -25193,8 +25198,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-22T22:59:02.1390079+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:06:34.1788414+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:08:18.8573953+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:01.0454426+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:58:32.5209864+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:06:34.1790011+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:59:10.2328462+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:08:18.8575273+00:00"
 }

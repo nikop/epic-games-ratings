@@ -13,15 +13,15 @@
 | The End | 20.00% | ~47 |
 | The Necroevolution | 17.00% | ~40 |
 | On her own | 14.00% | ~33 |
+| The Alliance | 14.00% | ~33 |
 | Volcanologist | 14.00% | ~33 |
 | Peacemaker | 13.00% | ~31 |
-| The Alliance | 13.00% | ~31 |
 | Krauta is alive | 12.00% | ~28 |
 | Fierce fight | 11.00% | ~26 |
 | Beyond divisions | 11.00% | ~26 |
+| I remember everything! | 10.00% | ~24 |
 | Evacuation | 10.00% | ~24 |
 | Flying Objects Operator | 10.00% | ~24 |
-| I remember everything! | 9.00% | ~21 |
 | Violent solution | 6.00% | ~14 |
 | Innate curiosity | 6.00% | ~14 |
 | The Invincible | 5.00% | ~12 |

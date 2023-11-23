@@ -4,8 +4,8 @@
   "ProductSlug": "a-rats-quest-f610d5",
   "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-17T23:57:10.5667754+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:58:27.7843704+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:04:46.0258147+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:59:03.7922099+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:05:38.144841+00:00"
 }

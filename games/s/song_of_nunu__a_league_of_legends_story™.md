@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 77.00% | ~619 |
-| I Broke It | 74.00% | ~595 |
-| Better On Ice | 70.00% | ~563 |
+| Feels Familiar | 77.00% | ~620 |
+| I Broke It | 74.00% | ~596 |
+| Better On Ice | 70.00% | ~564 |
 | Notai Notes | 69.00% | ~555 |
 | Blue Dreams | 68.00% | ~547 |
 | He's Famous! | 68.00% | ~547 |
 | Cutie Poro | 68.00% | ~547 |
-| Krugmazing | 67.00% | ~539 |
-| The Fire Below the Mountain | 64.00% | ~515 |
-| Moneyball | 61.00% | ~490 |
-| Iceborn | 58.00% | ~466 |
-| No Bites | 57.00% | ~458 |
-| Boom Things | 55.00% | ~442 |
-| Tear of Freedom | 54.00% | ~434 |
-| My Darkest Day | 51.00% | ~410 |
+| Krugmazing | 66.00% | ~531 |
+| The Fire Below the Mountain | 63.00% | ~507 |
+| Moneyball | 61.00% | ~491 |
+| No Bites | 58.00% | ~467 |
+| Iceborn | 58.00% | ~467 |
+| Boom Things | 55.00% | ~443 |
+| Tear of Freedom | 54.00% | ~435 |
+| My Darkest Day | 51.00% | ~411 |
 | Rhythm Of Willump | 48.00% | ~386 |
 | The Relentless Storm | 48.00% | ~386 |
 | A Tragic Reminder | 46.00% | ~370 |
@@ -33,13 +33,13 @@
 | Freeze The Ice Witch | 38.00% | ~306 |
 | Bullseye | 38.00% | ~306 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~306 |
-| On The Rocks | 37.00% | ~297 |
-| It Is Not Over | 35.00% | ~281 |
-| Snowy Poro | 32.00% | ~257 |
-| Never Gets Old | 32.00% | ~257 |
+| On The Rocks | 37.00% | ~298 |
+| It Is Not Over | 35.00% | ~282 |
+| Never Gets Old | 33.00% | ~266 |
+| Snowy Poro | 32.00% | ~258 |
 | Vertical Power | 28.00% | ~225 |
 | One From The Heart | 14.00% | ~113 |
-| Yummy | 11.00% | ~88 |
+| Yummy | 11.00% | ~89 |
 | Snowball Fightn't | 10.00% | ~80 |
 | It Was Him | 8.00% | ~64 |
 | Handy Yeti | 8.00% | ~64 |
@@ -49,8 +49,8 @@
 | Rock Star | 2.00% | ~16 |
 | We Are Speed | 2.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 804 (Ranked 274)  
-Completed: 8 (1.00%) (Ranked 165)  
+Progressed: 805 (Ranked 274)  
+Completed: 8 (0.99%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,4 +83,4 @@ Completed: 8 (1.00%) (Ranked 165)
 | 2023-11-20 | 758 | 7 |
 | 2023-11-21 | 768 | 7 |
 | 2023-11-22 | 800 | 8 |
-| 2023-11-23 | 804 | 8 |
+| 2023-11-23 | 805 | 8 |

@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78964,
+  "EOS_Progressed": 78965,
   "EOS_Completed": 850,
   "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 8,
@@ -24317,6 +24317,11 @@
       "Time": "2023-11-23T04:05:35.1193761+00:00",
       "NumProgressed": 78964,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-23T05:06:42.3668192+00:00",
+      "NumProgressed": 78965,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24432,7 +24437,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16582
+      "UsersEstimate": 16583
     },
     {
       "ID": "Meaty",
@@ -24464,7 +24469,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5527
+      "UsersEstimate": 5528
     },
     {
       "ID": "Piano Man",
@@ -24488,7 +24493,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5527
+      "UsersEstimate": 5528
     },
     {
       "ID": "Spicy",
@@ -24527,7 +24532,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78964,
+      "Progressed": 78965,
       "Completed": 850
     }
   ],
@@ -24535,8 +24540,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:05:35.1193758+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:06:42.3668187+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:59:59.4339129+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:05:35.1195041+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:01:10.1549523+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:06:42.3669565+00:00"
 }

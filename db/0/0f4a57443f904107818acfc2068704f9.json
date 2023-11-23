@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
@@ -927,6 +927,11 @@
       "Time": "2023-11-23T04:04:36.7269144+00:00",
       "NumProgressed": 429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T05:05:26.4768623+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -971,7 +976,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -993,9 +998,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 314
     },
     {
       "ID": "CompleteChapter10",
@@ -1083,7 +1088,7 @@
       "Name": "Met the Enemy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "CompleteChapter3",
@@ -1234,14 +1239,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:04:36.726914+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:05:26.4768615+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:57:38.0933552+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:04:36.7269418+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:57:54.971775+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:05:26.4768891+00:00"
 }

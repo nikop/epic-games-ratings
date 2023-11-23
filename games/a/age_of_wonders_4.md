@@ -23,9 +23,9 @@ Rating: 4.61 (Ranked 383)
 | Intimidation Tactics | 1.00% | ~54 |
 | Sehiran Oasis | 1.00% | ~54 |
 | Chaos Surge | 1.00% | ~54 |
+| Seal the Deal | 1.00% | ~54 |
 | Spoils of War | 1.00% | ~54 |
 | Tipping the Scales | 0.90% | ~49 |
-| Seal the Deal | 0.90% | ~49 |
 | Enchanted Archipelago | 0.80% | ~43 |
 | Digging for Treasure | 0.80% | ~43 |
 | My Final Form | 0.80% | ~43 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 383)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,430 (Ranked 189)  
+Progressed: 5,431 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 7 (0.13%) (Ranked 270)
 | 2023-11-20 | 5,411 | 7 |
 | 2023-11-21 | 5,414 | 7 |
 | 2023-11-22 | 5,428 | 7 |
-| 2023-11-23 | 5,430 | 7 |
+| 2023-11-23 | 5,431 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 489)  
 Sum: 58 (Ranked 475)  

@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 45.00% | ~33 |
+| Meissa's Savior | 44.00% | ~33 |
 | Purification Pioneer | 43.00% | ~32 |
-| Dicesmithing Time! | 41.00% | ~30 |
-| Mechanical Buddy | 41.00% | ~30 |
+| Dicesmithing Time! | 40.00% | ~30 |
+| Mechanical Buddy | 40.00% | ~30 |
 | Endless Tricks | 39.00% | ~29 |
 | Sanctuary Guardian | 36.00% | ~27 |
-| Noctuan Champion | 35.00% | ~26 |
+| Noctuan Champion | 36.00% | ~27 |
 | Mind Illuminator | 32.00% | ~24 |
 | Wild's Keeper | 32.00% | ~24 |
 | Eridanian Champion | 32.00% | ~24 |
 | Lacertian Champion | 31.00% | ~23 |
+| Stellar Dismantler | 28.00% | ~21 |
 | Apian Champion | 28.00% | ~21 |
 | Anomaly Destroyer | 27.00% | ~20 |
-| Stellar Dismantler | 27.00% | ~20 |
-| Loyal Partner | 26.00% | ~19 |
+| Loyal Partner | 25.00% | ~19 |
+| Star Killer | 24.00% | ~18 |
 | Behenian Champion | 24.00% | ~18 |
-| Star Killer | 23.00% | ~17 |
-| Astral Adventurer | 22.00% | ~16 |
+| Astral Adventurer | 23.00% | ~17 |
 | Shard Spender | 20.00% | ~15 |
+| Unbeatable | 20.00% | ~15 |
 | Aquarian Champion | 20.00% | ~15 |
-| Unbeatable | 19.00% | ~14 |
-| Astral Seeker | 18.00% | ~13 |
-| Heart Gate | 18.00% | ~13 |
+| Astral Seeker | 17.00% | ~13 |
+| Heart Gate | 17.00% | ~13 |
 | The Corruption Goddess | 16.00% | ~12 |
 | The Goddes Avatar | 16.00% | ~12 |
 | Favored by the Cosmos | 15.00% | ~11 |
-| Stellar Haste | 14.00% | ~10 |
+| Stellar Haste | 13.00% | ~10 |
 | Heavy Purger | 12.00% | ~9 |
 | Apian Hero | 12.00% | ~9 |
 | Anomaly Control | 11.00% | ~8 |
 | Lacertian Hero | 11.00% | ~8 |
+| Artificer | 9.00% | ~7 |
 | Sadistic Plan | 9.00% | ~7 |
 | The Chaos Artisan | 9.00% | ~7 |
 | The Dark Moon | 9.00% | ~7 |
 | The Distorted Sage | 9.00% | ~7 |
 | Wave Bender | 9.00% | ~7 |
 | Behenian Hero | 9.00% | ~7 |
-| Artificer | 8.00% | ~6 |
 | Can't touch this | 8.00% | ~6 |
 | Denying Destiny | 8.00% | ~6 |
 | If I Had Failed... | 7.00% | ~5 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74 (Ranked 459)  
+Progressed: 75 (Ranked 459)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,4 +138,4 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-06 | 68 | 0 |
 | 2023-11-17 | 69 | 0 |
 | 2023-11-22 | 73 | 0 |
-| 2023-11-23 | 74 | 0 |
+| 2023-11-23 | 75 | 0 |

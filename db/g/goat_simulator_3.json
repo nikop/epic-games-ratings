@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5299,7 +5299,7 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 251629,
+  "EOS_Progressed": 251630,
   "EOS_Completed": 884,
   "EOS_NewPlayers": 795,
   "EOS_NewCompleters": 7,
@@ -28859,6 +28859,11 @@
       "Time": "2023-11-23T04:09:23.9592889+00:00",
       "NumProgressed": 251629,
       "NumCompleted": 884
+    },
+    {
+      "Time": "2023-11-23T05:09:46.2968644+00:00",
+      "NumProgressed": 251630,
+      "NumCompleted": 884
     }
   ],
   "TotalAchievements": 39,
@@ -28870,7 +28875,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 62907
+      "UsersEstimate": 62908
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -28886,7 +28891,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 30195
+      "UsersEstimate": 30196
     },
     {
       "ID": "AchievementBaywatchID",
@@ -28934,7 +28939,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 228982
+      "UsersEstimate": 228983
     },
     {
       "ID": "AchievementClownID",
@@ -28998,7 +29003,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 133363
+      "UsersEstimate": 133364
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -29030,7 +29035,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 113233
+      "UsersEstimate": 113234
     },
     {
       "ID": "AchievementIntroID",
@@ -29054,7 +29059,7 @@
       "Name": "Nasty!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12581
+      "UsersEstimate": 12582
     },
     {
       "ID": "AchievementMovieID",
@@ -29102,7 +29107,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 186205
+      "UsersEstimate": 186206
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -29166,7 +29171,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 163559
+      "UsersEstimate": 163560
     },
     {
       "ID": "AchievementWhaleID",
@@ -29181,7 +29186,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 251629,
+      "Progressed": 251630,
       "Completed": 884
     }
   ],
@@ -29189,8 +29194,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-22T23:59:48.1164252+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:09:23.9592885+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:09:46.2968638+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:40.4673474+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:58:47.794198+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:09:23.9594021+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:59:31.2510547+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:09:46.2970084+00:00"
 }

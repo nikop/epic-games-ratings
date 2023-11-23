@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -419,25 +419,25 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Starry: Holy Mountain",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_3",
       "SetID": "ak6pfjk",
       "Name": "Starry: Tanglewood",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_4",
       "SetID": "ak6pfjk",
       "Name": "Starry: Arcania",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_5",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:05:18.3744188+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:06:20.4322221+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:54.867623+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:58:12.102746+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:05:18.3744479+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:58:42.0935177+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:06:20.4322599+00:00"
 }

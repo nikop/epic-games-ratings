@@ -4,8 +4,8 @@
   "ProductSlug": "project-qrs-a41a77",
   "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-16T22:57:11.1546737+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:59:59.8942274+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:05:08.235905+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:01:10.7426597+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:06:07.415978+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -858,9 +858,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -874,17 +874,17 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1115,8 +1115,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:05:46.3861401+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:06:57.2578601+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:58:39.0154071+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:05:46.3861696+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:59:19.0278941+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:06:57.257895+00:00"
 }

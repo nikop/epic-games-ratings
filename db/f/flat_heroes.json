@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 632,
+  "EOS_Progressed": 633,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1149,6 +1149,11 @@
       "Time": "2023-11-20T21:07:56.1677184+00:00",
       "NumProgressed": 632,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T05:08:34.6551556+00:00",
+      "NumProgressed": 633,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1440,7 +1445,7 @@
       "Name": "Dash Crash",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "World2Boss",
@@ -1456,7 +1461,7 @@
       "Name": "The King of Flat",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "World4Boss",
@@ -1464,7 +1469,7 @@
       "Name": "Hit That Ball",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "World5Boss",
@@ -1511,7 +1516,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 632,
+      "Progressed": 633,
       "Completed": 0
     }
   ],
@@ -1519,8 +1524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:08:27.5260074+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:08:34.6551551+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:15.1765469+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:02:50.3915987+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:08:27.5260347+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:03:05.065492+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:08:34.6551955+00:00"
 }

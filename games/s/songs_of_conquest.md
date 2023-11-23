@@ -34,6 +34,7 @@ Number of Ratings: 292  (23.09.2022)
 | Get Over Here! | 0.50% | ~1 |
 | Trojan Horse | 0.50% | ~1 |
 | Ultra Kill | 0.50% | ~1 |
+| Grand Master | 0.50% | ~1 |
 | Pyrrhic Victory | 0.50% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
@@ -55,7 +56,6 @@ Number of Ratings: 292  (23.09.2022)
 | The Marsh Expands | 0.00% | ~0 |
 | Cleave | 0.00% | ~0 |
 | Landlord Extraordinaire | 0.00% | ~0 |
-| Grand Master | 0.00% | ~0 |
 | Kneel, peasant! | 0.00% | ~0 |
 | Contractually Obligated to Win | 0.00% | ~0 |
 | I like it a Loth | 0.00% | ~0 |

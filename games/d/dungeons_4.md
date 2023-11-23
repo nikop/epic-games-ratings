@@ -51,9 +51,9 @@
 | The Rune Sockets of Finitude (Part 1) | 11.00% | ~38 |
 | My Little Torture Chamber | 10.00% | ~35 |
 | Lavalumps on Ice! | 10.00% | ~35 |
+| Rubble and Ashes | 9.00% | ~32 |
 | The Rune Sockets of Finitude (Part 2) | 9.00% | ~32 |
 | Untouchable | 8.00% | ~28 |
-| Rubble and Ashes | 8.00% | ~28 |
 | To Infinity And Beyond! | 8.00% | ~28 |
 | The Last Stand - This Time For Real! | 8.00% | ~28 |
 | Mirror, Mirror | 7.00% | ~25 |

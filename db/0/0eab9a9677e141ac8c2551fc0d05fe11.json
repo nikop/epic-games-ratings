@@ -4,8 +4,8 @@
   "ProductSlug": "max-beyond-c85995",
   "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-19T04:57:23.1819341+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:59:09.7958043+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:04:17.0724787+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:00:01.7118456+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:05:00.7920997+00:00"
 }

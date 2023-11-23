@@ -66,6 +66,7 @@
 | Ancient Ruins of Stubbed Toes | 5.00% | ~6 |
 | Ancient Ruins of Leaky Roof | 5.00% | ~6 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~5 |
+| Out of bounds | 4.00% | ~5 |
 | Fifty Shades of Gruyere | 3.00% | ~4 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~4 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~4 |
@@ -74,7 +75,6 @@
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~4 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~4 |
 | European karaoke king | 3.00% | ~4 |
-| Out of bounds | 3.00% | ~4 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~3 |
 | Ancient Ruins of Peekaboo | 2.00% | ~3 |
 | Ancient Ruins of Chilly Winds | 2.00% | ~3 |

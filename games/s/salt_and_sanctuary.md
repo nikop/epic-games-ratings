@@ -6,8 +6,8 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~447,308 |
-| The Three | 64.00% | ~344,912 |
+| Find Sanctuary | 83.00% | ~447,309 |
+| The Three | 64.00% | ~344,913 |
 | The Banquet | 40.00% | ~215,570 |
 | Devara's Light | 31.00% | ~167,067 |
 | The Iron Ones | 19.00% | ~102,396 |
@@ -36,15 +36,15 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Palace | 4.00% | ~21,557 |
 | Find Salvation | 3.00% | ~16,168 |
 | The Unspeakable Deep | 3.00% | ~16,168 |
-| Coastrock | 2.00% | ~10,778 |
-| Devoted | 2.00% | ~10,778 |
-| Dominion | 2.00% | ~10,778 |
-| Keepers of Fire and Sky | 2.00% | ~10,778 |
-| Order of the Betrayer | 2.00% | ~10,778 |
-| Wise Words | 2.00% | ~10,778 |
+| Coastrock | 2.00% | ~10,779 |
+| Devoted | 2.00% | ~10,779 |
+| Dominion | 2.00% | ~10,779 |
+| Keepers of Fire and Sky | 2.00% | ~10,779 |
+| Order of the Betrayer | 2.00% | ~10,779 |
+| Wise Words | 2.00% | ~10,779 |
 | Fading Fast | 1.00% | ~5,389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 538,925 (Ranked 34)  
+Progressed: 538,926 (Ranked 34)  
 Completed: 1,621 (0.30%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 1,621 (0.30%) (Ranked 236)
 | 2023-11-20 | 538,744 | 1,618 |
 | 2023-11-21 | 538,831 | 1,619 |
 | 2023-11-22 | 538,916 | 1,621 |
-| 2023-11-23 | 538,925 | 1,621 |
+| 2023-11-23 | 538,926 | 1,621 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 255)  
 Sum: 1,997 (Ranked 212)  

@@ -6,14 +6,14 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,755,620 |
-| Easy to forget | 46.00% | ~1,648,133 |
-| Back in the black | 39.00% | ~1,397,330 |
-| That's what I'm talking about | 29.00% | ~1,039,040 |
-| The Best of Both Worlds | 25.00% | ~895,724 |
-| Get your wings | 20.00% | ~716,579 |
-| Double trouble | 16.00% | ~573,264 |
-| Smashing it | 11.00% | ~394,119 |
+| You need to plug it in... | 49.00% | ~1,755,623 |
+| Easy to forget | 46.00% | ~1,648,136 |
+| Back in the black | 39.00% | ~1,397,333 |
+| That's what I'm talking about | 29.00% | ~1,039,042 |
+| The Best of Both Worlds | 25.00% | ~895,726 |
+| Get your wings | 20.00% | ~716,581 |
+| Double trouble | 16.00% | ~573,265 |
+| Smashing it | 11.00% | ~394,120 |
 | But can it run Crysis? | 9.00% | ~322,461 |
 | My favourite feature... | 9.00% | ~322,461 |
 | From humble beginnings... | 7.00% | ~250,803 |
@@ -41,7 +41,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Work ethic 101 | 0.70% | ~25,080 |
 | Building momentum | 0.60% | ~21,497 |
 | Lead by example | 0.60% | ~21,497 |
-| Treat yourself - RAM | 0.50% | ~17,914 |
+| Treat yourself - RAM | 0.50% | ~17,915 |
 | Mr big business | 0.40% | ~14,332 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,749 |
 | Mister Big | 0.30% | ~10,749 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,583 |
 | Treat yourself - GPU | 0.10% | ~3,583 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,582,897 (Ranked 5)  
+Progressed: 3,582,905 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 39 (0.00%) (Ranked 358)
 | 2023-11-20 | 3,582,134 | 38 |
 | 2023-11-21 | 3,582,458 | 38 |
 | 2023-11-22 | 3,582,835 | 39 |
-| 2023-11-23 | 3,582,897 | 39 |
+| 2023-11-23 | 3,582,905 | 39 |
 ## Awards
 Max (Great for Beginners): 1,106  (Ranked 144)  
 Sum: 8,148 (Ranked 104)  

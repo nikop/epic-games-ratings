@@ -10,11 +10,11 @@
 | Storm Traveller | 60.00% | ~106 |
 | Wolf King Killer | 58.00% | ~102 |
 | Fashion Connoisseur | 57.00% | ~100 |
-| Arms Mechanic | 48.00% | ~84 |
+| Arms Mechanic | 49.00% | ~86 |
 | Flower Thief | 48.00% | ~84 |
 | Apostle of Flame | 43.00% | ~76 |
-| Beginner Artificer | 41.00% | ~72 |
-| Beginner Cook | 40.00% | ~70 |
+| Beginner Artificer | 42.00% | ~74 |
+| Beginner Cook | 41.00% | ~72 |
 | Seal Breaker | 37.00% | ~65 |
 | Handyman | 34.00% | ~60 |
 | Giant Lizard Killer | 33.00% | ~58 |

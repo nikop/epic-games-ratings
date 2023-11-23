@@ -3,8 +3,8 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -418,8 +418,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:09:01.9274985+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:09:18.3602539+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:00:10.1926427+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:09:01.9275208+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:01:25.1802775+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:09:18.3602762+00:00"
 }

@@ -25,7 +25,7 @@ Rating: 3.78 (Ranked 1,037)
 | After All, Why Shouldn't I Keep It? | 3.00% | ~513 |
 | A True Dandy | 2.00% | ~342 |
 | A New Legend Awaits | 1.00% | ~171 |
-| Pirate King | 0.80% | ~137 |
+| Pirate King | 0.90% | ~154 |
 | Oooh, We're Half Way There | 0.80% | ~137 |
 | Devilishly Talented | 0.10% | ~17 |
 | Heavy Tunaing | 0.10% | ~17 |

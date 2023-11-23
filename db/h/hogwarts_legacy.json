@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10813,10 +10813,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48880,
       "NumberOfAwardsMax": 24536
+    },
+    {
+      "Time": "2023-11-23T04:57:51.356372+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48885,
+      "NumberOfAwardsMax": 24536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48880,
+  "NumberOfAwards": 48885,
   "NumberOfAwardsMax": 24536,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10890,12 +10896,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 804
+      "Count": 809
     }
   ],
-  "EOS_Progressed": 302732,
+  "EOS_Progressed": 302734,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34178,6 +34184,11 @@
       "Time": "2023-11-23T04:09:22.9129129+00:00",
       "NumProgressed": 302732,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-23T05:09:45.4566231+00:00",
+      "NumProgressed": 302734,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34525,7 +34536,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42382
+      "UsersEstimate": 42383
     },
     {
       "ID": "PFA_8",
@@ -34548,16 +34559,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302732,
+      "Progressed": 302734,
       "Completed": 513
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-22T23:57:55.763053+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:09:22.9129125+00:00",
+  "LastChanged": "2023-11-23T04:57:51.3563717+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:09:45.4566226+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:57:35.5489231+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:09:22.9130541+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:57:51.3563723+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:09:45.456738+00:00"
 }

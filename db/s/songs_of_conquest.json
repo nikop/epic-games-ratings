@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1320,9 +1320,9 @@
       "ID": "WielderLevel4",
       "SetID": "71c0n9i",
       "Name": "Grand Master",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WinBattleBeforeEnemyTurn",
@@ -1408,8 +1408,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:04:32.9159818+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:05:21.638734+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:59:02.9650888+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:04:32.9160143+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:59:52.2412366+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:05:21.638768+00:00"
 }

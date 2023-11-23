@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 10.00% | ~20 |
+| Adventurer | 7.00% | ~14 |
 | I Found It | 7.00% | ~14 |
+| The Collector | 7.00% | ~14 |
 | Break Out | 6.00% | ~12 |
 | Find Allies | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
-| Adventurer | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
-| The Collector | 6.00% | ~12 |
 | A Taste of Wrath | 5.00% | ~10 |
 | Tributes of Caladrias | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
@@ -42,7 +42,7 @@
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 203 (Ranked 384)  
-Completed: 2 (0.99%) (Ranked 167)  
+Completed: 2 (0.99%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

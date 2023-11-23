@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
+  "EOS_Progressed": 805,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-10-23T07:07:08.0528773+00:00",
@@ -1637,6 +1637,11 @@
       "Time": "2023-11-23T01:56:30.6844553+00:00",
       "NumProgressed": 804,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-23T05:09:46.2212127+00:00",
+      "NumProgressed": 805,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -1657,7 +1662,7 @@
       "Name": "My Darkest Day",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "EV_ACH03",
@@ -1671,9 +1676,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 467
     },
     {
       "ID": "EV_ACH05",
@@ -1681,7 +1686,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "EV_ACH06",
@@ -1745,7 +1750,7 @@
       "Name": "It Is Not Over",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "EV_ACH14",
@@ -1753,7 +1758,7 @@
       "Name": "Boom Things",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "EV_ACH15",
@@ -1761,15 +1766,15 @@
       "Name": "Better On Ice",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 531
     },
     {
       "ID": "EV_ACH17",
@@ -1777,7 +1782,7 @@
       "Name": "Iceborn",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "EV_ACH18",
@@ -1785,7 +1790,7 @@
       "Name": "Snowy Poro",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "EV_ACH19",
@@ -1793,7 +1798,7 @@
       "Name": "On The Rocks",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "EV_ACH20",
@@ -1825,15 +1830,15 @@
       "Name": "Yummy",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "EV_ACH24",
       "SetID": "6jeac23",
       "Name": "Never Gets Old",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 266
     },
     {
       "ID": "EV_ACH25",
@@ -1849,7 +1854,7 @@
       "Name": "Moneyball",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "EV_ACH27",
@@ -1857,7 +1862,7 @@
       "Name": "I Broke It",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "EV_ACH28",
@@ -1889,7 +1894,7 @@
       "Name": "Feels Familiar",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "EV_ACH32",
@@ -1919,9 +1924,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 507
     },
     {
       "ID": "EV_ACH36",
@@ -2000,14 +2005,14 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 804,
+      "Progressed": 805,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:09:23.8553888+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:09:46.2212121+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:00:24.6750675+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:09:23.8554205+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:01:45.2399524+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:09:46.2212503+00:00"
 }

@@ -17,9 +17,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.10% | ~203 |
 | An Unexpected Geist | 0.10% | ~203 |
 | The Witchlight Carnival | 0.10% | ~203 |
+| A Monarch Among Us | 0.10% | ~203 |
 | A Dragon Against Us | 0.10% | ~203 |
 | A Familiar Behind Us | 0.10% | ~203 |
 | Thieves of the Coven | 0.10% | ~203 |
+| Patron Party | 0.10% | ~203 |
 | Go Fourth | 0.10% | ~203 |
 | Hither of the Feywild | 0.10% | ~203 |
 | Don't Breathe the Marsh Gas | 0.10% | ~203 |
@@ -36,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Third Third Out | 0.10% | ~203 |
 | The Silken Swamp | 0.10% | ~236 |
 | Slack-jawed Lorna | 0.10% | ~203 |
+| I'm Sure I Saw It Move! | 0.10% | ~203 |
 | A Steadfast Love | 0.10% | ~203 |
 | The Fairy Rings of Thither | 0.10% | ~203 |
 | Bully for You! | 0.10% | ~203 |
@@ -58,6 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.10% | ~203 |
 | The Roots of Loomlurch | 0.10% | ~203 |
 | The Loots of Loomlurch | 0.10% | ~203 |
+| The Lutes of Loomlurch | 0.10% | ~203 |
 | Supply Run | 0.10% | ~236 |
 | Best Laid Plans | 0.10% | ~203 |
 | Pincushion Party | 0.10% | ~203 |
@@ -73,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.10% | ~203 |
 | Vecna Lives! | 0.10% | ~203 |
 | Overwhelmed with Knowledge | 0.10% | ~203 |
+| A Demi-god's Defender | 0.10% | ~203 |
 | Vecna Loots! | 0.10% | ~203 |
 | Well Equipped | 0.10% | ~203 |
 | Friends of the Forest | 0.10% | ~236 |
@@ -109,6 +114,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.10% | ~236 |
 | Not Very Charming | 0.10% | ~236 |
 | Lobsterfolk Assault | 0.10% | ~236 |
+| Taking Responsibility | 0.10% | ~236 |
 | The Minions of Endelyn Moongrave | 0.10% | ~203 |
 | Between a Brigganock and a Hard Place | 0.10% | ~203 |
 | The Bitter End | 0.10% | ~203 |
@@ -117,6 +123,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.10% | ~203 |
 | Welcome to the Rock | 0.10% | ~203 |
 | Beast Mode | 0.10% | ~236 |
+| The Forbidden City | 0.10% | ~236 |
 | Terror in the Dark | 0.10% | ~236 |
 | Periodic Petrification | 0.10% | ~236 |
 | No Good at All | 0.10% | ~236 |
@@ -130,6 +137,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Force Grey Unleashed | 0.10% | ~236 |
 | Vajra's Guards | 0.10% | ~236 |
 | Building Trust | 0.10% | ~236 |
+| March of the Undead | 0.10% | ~236 |
 | Wisdom Check | 0.10% | ~236 |
 | Sleuth It Out | 0.10% | ~236 |
 | The Newcomers of Notoriety | 0.10% | ~203 |
@@ -140,6 +148,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.10% | ~236 |
 | The Soulmonger Calls | 0.10% | ~236 |
 | Azaka's Procession - Part 2 | 0.10% | ~236 |
+| Acererak's Puzzle | 0.10% | ~203 |
 | Unearthed Evil | 0.10% | ~236 |
 | No Time To Rest | 0.10% | ~236 |
 | The Mists of Ravenloft | 0.10% | ~236 |
@@ -225,6 +234,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Madness | 0.10% | ~236 |
 | Who Lurks in Lurkwood | 0.10% | ~236 |
 | Bullywugs in the Bog | 0.10% | ~236 |
+| Modrons in the Mud | 0.10% | ~236 |
+| Orcs Are Wild | 0.10% | ~236 |
 | An Abyssal Situation | 0.10% | ~236 |
 | Dino Nightmare | 0.10% | ~236 |
 | A Familiar Friend | 0.10% | ~203 |
@@ -244,8 +255,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Under Siege | 0.10% | ~236 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~236 |
 | Sober Up | 0.10% | ~236 |
+| In The Beginning | 0.10% | ~203 |
 | Crowded Streets | 0.10% | ~236 |
 | The Sunless Citadel | 0.10% | ~236 |
+| Veteran Brigade | 0.10% | ~236 |
 | Social Grace | 0.10% | ~203 |
 | Meepo's Quest | 0.10% | ~236 |
 | She's Harmless! | 0.10% | ~236 |
@@ -330,6 +343,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Brimstone | 0.10% | ~203 |
 | Into the Unknown | 0.10% | ~203 |
 | A Tenday at Golgamann's | 0.10% | ~203 |
+| A Nightmare Occasion | 0.10% | ~203 |
 | The Prison of Velkynvelve | 0.10% | ~203 |
 | Prisoners of Unknown Choices | 0.10% | ~203 |
 | Escort to Waterdeep | 0.10% | ~236 |
@@ -337,6 +351,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Giant-Size Adventure | 0.10% | ~203 |
 | Power of Three | 0.10% | ~203 |
 | Enemy Summit | 0.10% | ~203 |
+| Mirage Arcane | 0.10% | ~203 |
 | Only Human | 0.10% | ~203 |
 | The Mad Wizard | 0.10% | ~236 |
 | Close Escort | 0.10% | ~236 |
@@ -354,6 +369,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ten in Ten-Towns | 0.10% | ~203 |
 | Civilization | 0.10% | ~203 |
 | Trench Coat Run | 0.10% | ~203 |
+| The Taunting Lord | 0.10% | ~203 |
 | Durable Deep | 0.10% | ~236 |
 | The Sibriex | 0.10% | ~203 |
 | The Archduke's Blessing | 0.10% | ~203 |
@@ -381,6 +397,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | How Far Away is Thay | 0.10% | ~203 |
 | Deekin's Mission | 0.10% | ~203 |
 | Dive Bomb | 0.10% | ~203 |
+| Fire and Ice | 0.10% | ~203 |
 | Frozen Vengeance | 0.10% | ~203 |
 | Mimic Vengeance | 0.10% | ~203 |
 | REALLY Frozen Vengeance | 0.10% | ~203 |
@@ -390,6 +407,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Gargauth's Betrayal | 0.10% | ~203 |
 | Lost in the Underdark | 0.10% | ~203 |
 | Demons Here, Demons There | 0.10% | ~203 |
+| Visions of Hornfirth | 0.10% | ~203 |
 | Leemooggoogoon Rises | 0.10% | ~203 |
 | Stragglers | 0.10% | ~203 |
 | Volo's Guide to Kuo-toa | 0.10% | ~203 |
@@ -458,35 +476,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.00% | ~0 |
 | And Your Enemies Closer | 0.00% | ~0 |
 | Back to Nature | 0.00% | ~0 |
-| A Monarch Among Us | 0.00% | ~0 |
 | Sticky Fingers | 0.00% | ~0 |
-| Patron Party | 0.00% | ~0 |
 | Uncommon Allies | 0.00% | ~0 |
 | The Birds | 0.00% | ~0 |
 | Where the Magic Happens | 0.00% | ~0 |
 | First Third Out | 0.00% | ~0 |
-| I'm Sure I Saw It Move! | 0.00% | ~0 |
 | End of the Line | 0.00% | ~0 |
 | Zarak's Revenge | 0.00% | ~0 |
 | Undergeared | 0.00% | ~0 |
 | Underdark Chill | 0.00% | ~0 |
 | All Damage, All The Time | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
-| The Lutes of Loomlurch | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
-| A Demi-god's Defender | 0.00% | ~0 |
 | Pin and Skewer | 0.00% | ~0 |
-| Taking Responsibility | 0.00% | ~0 |
 | Love Unsoiled | 0.00% | ~0 |
 | The Play's the Thing! | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Anchors Aweigh | 0.00% | ~0 |
 | Welcome to the Band | 0.00% | ~0 |
-| The Forbidden City | 0.00% | ~0 |
 | Captured! | 0.00% | ~0 |
-| March of the Undead | 0.00% | ~0 |
-| Acererak's Puzzle | 0.00% | ~0 |
 | Invisible Shadows | 0.00% | ~0 |
 | Form Ranks | 0.00% | ~0 |
 | Drop of Time | 0.00% | ~0 |
@@ -497,13 +506,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Exploits | 0.00% | ~0 |
 | The Madness Grows | 0.00% | ~0 |
 | The Madness Peaks | 0.00% | ~0 |
-| Modrons in the Mud | 0.00% | ~0 |
 | And a Pixie in a Pear Treant | 0.00% | ~0 |
-| Orcs Are Wild | 0.00% | ~0 |
 | Dreams of Beholders | 0.00% | ~0 |
 | Feigned Weakness | 0.00% | ~0 |
-| In The Beginning | 0.00% | ~0 |
-| Veteran Brigade | 0.00% | ~0 |
 | Evergreens with an Evergreen | 0.00% | ~0 |
 | Faerûn's Most Wanted | 0.00% | ~0 |
 | Vault of Dragons | 0.00% | ~0 |
@@ -511,22 +516,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thrice More Into The Breach | 0.00% | ~0 |
 | Just The Worst | 0.00% | ~0 |
 | Extreme Heat | 0.00% | ~0 |
-| A Nightmare Occasion | 0.00% | ~0 |
 | Prisoners of Lolth | 0.00% | ~0 |
 | Rime Bandits | 0.00% | ~0 |
 | The Everlasting Rime | 0.00% | ~0 |
-| Mirage Arcane | 0.00% | ~0 |
 | The Long Haul | 0.00% | ~0 |
-| The Taunting Lord | 0.00% | ~0 |
 | Lone Wolf Party | 0.00% | ~0 |
 | Mimic Perception | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Tough Acting | 0.00% | ~0 |
 | Witty Riposting | 0.00% | ~0 |
 | Frontline Fighters | 0.00% | ~0 |
-| Fire and Ice | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Visions of Hornfirth | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Reghed Glacier Mysteries | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.00% | ~0 |
 | Slow Down Showdown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,449 (Ranked 64)  
-Completed: 2,468 (1.04%) (Ranked 162)  
+Progressed: 236,451 (Ranked 64)  
+Completed: 2,469 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -756,7 +756,7 @@ Completed: 2,468 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,449 | 2,468 |
+| 2023-11-23 | 236,451 | 2,469 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,575 (Ranked 41)  

@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 79,
-  "EOS_Completed": 10,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 12.66,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 13.92,
   "EosHistory": [
     {
       "Time": "2023-08-15T16:04:17.9751205+00:00",
@@ -419,6 +419,11 @@
       "Time": "2023-11-23T01:52:32.7958045+00:00",
       "NumProgressed": 79,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-23T05:05:51.6438243+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-09T13:13:29.9534063+00:00",
@@ -469,25 +474,25 @@
       "ID": "_bomb_m2",
       "SetID": "2d5739o",
       "Name": "Bomb m2",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_bomb_m3",
       "SetID": "2d5739o",
       "Name": "Bomb m3",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "_cannon",
       "SetID": "2d5739o",
       "Name": "Cannon",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "_cannon_sentinel",
@@ -597,9 +602,9 @@
       "ID": "_lightsaber_mine",
       "SetID": "2d5739o",
       "Name": "Lightsaber mine",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "_machinegun",
@@ -629,17 +634,17 @@
       "ID": "_missile",
       "SetID": "2d5739o",
       "Name": "Missile",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "_mothership",
       "SetID": "2d5739o",
       "Name": "Mothership",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "_orbpack",
@@ -775,13 +780,13 @@
       "ID": "2d5739o",
       "IsBase": true,
       "Progressed": 79,
-      "Completed": 10
+      "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:04:56.1576351+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:05:51.643824+00:00",
   "LastUpdate_AppInfo": "2023-11-22T21:57:10.0551085+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:00:03.8978554+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:04:56.1576577+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:01:16.4041328+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:05:51.6438738+00:00"
 }

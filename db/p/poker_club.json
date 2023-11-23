@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -961,9 +961,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 539276,
+  "EOS_Progressed": 539278,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1426,
+  "EOS_NewPlayers": 1425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25511,6 +25511,11 @@
       "Time": "2023-11-23T04:06:09.633274+00:00",
       "NumProgressed": 539276,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-23T05:07:27.1555266+00:00",
+      "NumProgressed": 539278,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -25530,7 +25535,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 134819
+      "UsersEstimate": 134820
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -25674,7 +25679,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 221103
+      "UsersEstimate": 221104
     },
     {
       "ID": "HoldingYourOwn",
@@ -25770,7 +25775,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 409850
+      "UsersEstimate": 409851
     },
     {
       "ID": "ProPlayer",
@@ -25850,7 +25855,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102462
+      "UsersEstimate": 102463
     },
     {
       "ID": "TopDog",
@@ -25881,7 +25886,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 539276,
+      "Progressed": 539278,
       "Completed": 2
     }
   ],
@@ -25889,8 +25894,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-22T17:57:25.9012192+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:06:09.6332736+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:07:27.1555262+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.5472257+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:57:40.4416191+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:06:09.6333989+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:57:58.1388508+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:07:27.1556421+00:00"
 }

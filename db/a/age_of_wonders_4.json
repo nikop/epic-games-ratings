@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -471,9 +471,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5430,
+  "EOS_Progressed": 5431,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7281,6 +7281,11 @@
       "Time": "2023-11-23T04:04:15.4127534+00:00",
       "NumProgressed": 5430,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-23T05:04:58.8375768+00:00",
+      "NumProgressed": 5431,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7722,9 +7727,9 @@
       "ID": "55",
       "SetID": "7132754",
       "Name": "Seal the Deal",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "56",
@@ -7771,13 +7776,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5430,
+      "Progressed": 5431,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5430,
+      "Progressed": 5431,
       "Completed": 7
     }
   ],
@@ -7785,8 +7790,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-19T15:00:16.4075391+00:00",
-  "LastChanged_Achievements": "2023-11-23T04:04:15.412753+00:00",
+  "LastChanged_Achievements": "2023-11-23T05:04:58.8375764+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:02:41.5888852+00:00",
-  "LastUpdate_Achievements": "2023-11-23T04:04:15.4128213+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:02:52.7472359+00:00",
+  "LastUpdate_Achievements": "2023-11-23T05:04:58.8376528+00:00"
 }

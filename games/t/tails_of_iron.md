@@ -5,15 +5,15 @@ Rating: 4.55 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,665 |
-| Become King | 74.00% | ~1,503 |
+| Complete Guard Faction | 81.00% | ~1,646 |
+| Become King | 74.00% | ~1,504 |
 | Ranged Weapon | 63.00% | ~1,280 |
 | Defeat 25 Frogs | 63.00% | ~1,280 |
-| Collect Monster Parts | 59.00% | ~1,198 |
-| Two Handed Weapon | 58.00% | ~1,178 |
+| Collect Monster Parts | 59.00% | ~1,199 |
+| Two Handed Weapon | 58.00% | ~1,179 |
 | Defeat 25 Grubs | 54.00% | ~1,097 |
-| Rescue Redgi's Brothers | 53.00% | ~1,076 |
-| Collect Iron Ore | 49.00% | ~995 |
+| Rescue Redgi's Brothers | 53.00% | ~1,077 |
+| Collect Iron Ore | 49.00% | ~996 |
 | Defeat 25 Mozis | 48.00% | ~975 |
 | Kitchen Ready To Cook | 48.00% | ~975 |
 | Collect Gold | 47.00% | ~955 |
@@ -22,21 +22,21 @@ Rating: 4.55 (Ranked 505)
 | Complete Elder Faction | 42.00% | ~853 |
 | End of the Mozis | 39.00% | ~792 |
 | Throne Room Fit For A King | 39.00% | ~792 |
-| Meet the Creatures from the Deep | 37.00% | ~751 |
-| Return Power To The Depths | 37.00% | ~751 |
+| Meet the Creatures from the Deep | 37.00% | ~752 |
+| Return Power To The Depths | 37.00% | ~752 |
 | Defeat Ratnor Rodentson | 31.00% | ~630 |
 | Return the Statues | 28.00% | ~569 |
-| Defeat Rattus Augustail | 27.00% | ~548 |
+| Defeat Rattus Augustail | 27.00% | ~549 |
 | Complete the Chefs Book | 25.00% | ~508 |
 | Complete Ranger Faction | 21.00% | ~427 |
 | Defeat Avor Warden of the Northern Wastes | 21.00% | ~427 |
 | Discover the mystery of the Kings Chambers | 20.00% | ~406 |
 | Complete Arena Faction | 16.00% | ~325 |
-| Complete Redgi's Armory | 8.00% | ~162 |
-| King of Kings | 8.00% | ~162 |
+| Complete Redgi's Armory | 8.00% | ~163 |
+| King of Kings | 8.00% | ~163 |
 | A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,031 (Ranked 223)  
+Progressed: 2,032 (Ranked 223)  
 Completed: 9 (0.44%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 9 (0.44%) (Ranked 210)
 | 2023-11-20 | 2,002 | 9 |
 | 2023-11-21 | 2,011 | 9 |
 | 2023-11-22 | 2,030 | 9 |
-| 2023-11-23 | 2,031 | 9 |
+| 2023-11-23 | 2,032 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
