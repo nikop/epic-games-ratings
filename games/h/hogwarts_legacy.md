@@ -12,20 +12,20 @@ Rating: 4.76 (Ranked 127)
 | That's a Keeper | 13.00% | ~39,355 |
 | Loom for Improvement | 12.00% | ~36,328 |
 | A Talent for Spending | 12.00% | ~36,328 |
-| Grappling with a Graphorn | 11.00% | ~33,300 |
-| The One Who Mastered Memories | 11.00% | ~33,300 |
-| The Hallowed Hero | 11.00% | ~33,300 |
-| The Hero of Hogwarts | 11.00% | ~33,300 |
-| The Defender of Dragons | 11.00% | ~33,300 |
-| Challenge Accepted | 11.00% | ~33,300 |
-| Coasting Along | 11.00% | ~33,300 |
+| Grappling with a Graphorn | 11.00% | ~33,301 |
+| The One Who Mastered Memories | 11.00% | ~33,301 |
+| The Hallowed Hero | 11.00% | ~33,301 |
+| The Hero of Hogwarts | 11.00% | ~33,301 |
+| The Defender of Dragons | 11.00% | ~33,301 |
+| Challenge Accepted | 11.00% | ~33,301 |
+| Coasting Along | 11.00% | ~33,301 |
 | Followed the Butterflies | 10.00% | ~30,273 |
 | Rising From the Ashes | 10.00% | ~30,273 |
 | A Sallow Grave | 9.00% | ~27,246 |
 | The Spell Master | 9.00% | ~27,246 |
-| The Avenging Gazelle | 8.00% | ~24,218 |
-| Beast Friends | 8.00% | ~24,218 |
-| Flight the Good Flight | 8.00% | ~24,218 |
+| The Avenging Gazelle | 8.00% | ~24,219 |
+| Beast Friends | 8.00% | ~24,219 |
+| Flight the Good Flight | 8.00% | ~24,219 |
 | The Seeker of Knowledge | 6.00% | ~18,164 |
 | The Root of the Problem | 6.00% | ~18,164 |
 | Third Time's a Charm | 6.00% | ~18,164 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,119 |
 | Collector's Edition | 0.30% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,731 (Ranked 54)  
+Progressed: 302,732 (Ranked 54)  
 Completed: 513 (0.17%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 513 (0.17%) (Ranked 263)
 | 2023-11-20 | 302,491 | 513 |
 | 2023-11-21 | 302,563 | 513 |
 | 2023-11-22 | 302,711 | 513 |
-| 2023-11-23 | 302,731 | 513 |
+| 2023-11-23 | 302,732 | 513 |
 ## Awards
 Max (Character Customization): 24,536  (Ranked 17)  
 Sum: 48,880 (Ranked 30)  

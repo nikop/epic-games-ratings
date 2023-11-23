@@ -49,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 2.00% | ~309 |
 | Beloved | 2.00% | ~309 |
 | Drillmaster | 2.00% | ~309 |
+| Conqueror | 2.00% | ~309 |
 | Great | 2.00% | ~309 |
 | Intercessor | 2.00% | ~309 |
 | Mighty | 2.00% | ~309 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 2.00% | ~309 |
 | Hanging Gardens in Babylon | 1.00% | ~154 |
 | Capable | 1.00% | ~154 |
-| Conqueror | 1.00% | ~154 |
 | Invincible | 1.00% | ~154 |
 | Lion | 1.00% | ~154 |
 | Ready | 1.00% | ~154 |

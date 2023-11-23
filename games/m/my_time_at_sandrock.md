@@ -8,7 +8,7 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept Assembler | 257.00% | ~979 |
 | Iron Chef | 185.00% | ~705 |
-| Greeno-B-Gone | 130.00% | ~495 |
+| Greeno-B-Gone | 131.00% | ~499 |
 | Your Especially Earned Trajectory | 107.00% | ~408 |
 | No Mountain Wide Enough | 78.00% | ~297 |
 | One of the Cool Kids | 77.00% | ~293 |
@@ -29,9 +29,9 @@ Number of Ratings: 892  (23.09.2022)
 | Builder of the Month | 52.00% | ~198 |
 | Call Me Fishmael | 51.00% | ~194 |
 | Commissions, commissions...! | 49.00% | ~187 |
+| What Plants Crave | 49.00% | ~187 |
 | Anti-Santa | 49.00% | ~187 |
 | Panda-kin | 48.00% | ~183 |
-| What Plants Crave | 48.00% | ~183 |
 | Waste Not Want Not | 48.00% | ~183 |
 | Finishing Touches | 47.00% | ~179 |
 | Mole Masher | 47.00% | ~179 |
@@ -52,7 +52,7 @@ Number of Ratings: 892  (23.09.2022)
 | Kind of a Big Deal | 32.00% | ~122 |
 | Santa In Training | 30.00% | ~114 |
 | Just What I Always Wanted! | 30.00% | ~114 |
-| Newton | 29.00% | ~110 |
+| Newton | 30.00% | ~114 |
 | Sandrunning Speedster | 28.00% | ~107 |
 | It Belongs in a Museum! | 28.00% | ~107 |
 | Do Your Part | 27.00% | ~103 |

@@ -9,8 +9,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 5.00% | ~7,053 |
 | Basic in Bulk | 5.00% | ~7,053 |
 | Titan's First Steps | 5.00% | ~7,053 |
-| Disintermediation | 4.00% | ~5,642 |
-| Tinkle of Coins | 4.00% | ~5,642 |
+| Disintermediation | 4.00% | ~5,643 |
+| Tinkle of Coins | 4.00% | ~5,643 |
 | One Easy Payment | 3.00% | ~4,232 |
 | Some Assembly Required | 3.00% | ~4,232 |
 | Another Satisfied Customer | 3.00% | ~4,232 |
@@ -78,33 +78,33 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.90% | ~1,270 |
 | Exotic Commodities | 0.90% | ~1,270 |
 | King's Blade | 0.90% | ~1,270 |
-| Cream of the Crop | 0.80% | ~1,128 |
-| Top of the World | 0.80% | ~1,128 |
-| Proud Paladin | 0.80% | ~1,128 |
-| Thirst for Knowledge | 0.80% | ~1,128 |
-| Booty by the Boatload | 0.80% | ~1,128 |
-| Archivist | 0.80% | ~1,128 |
-| Omae wa Mou Shindeiru | 0.80% | ~1,128 |
-| Supercharged | 0.80% | ~1,128 |
-| Ritualist | 0.80% | ~1,128 |
-| By Your Powers Combined... | 0.80% | ~1,128 |
-| Item of Renown | 0.80% | ~1,128 |
-| Bountiful Harvest | 0.80% | ~1,128 |
-| Precision Engineering | 0.80% | ~1,128 |
-| Treasure Trove | 0.80% | ~1,128 |
-| Moment of Respite | 0.80% | ~1,128 |
-| King's Shadow | 0.80% | ~1,128 |
-| Master Recycler | 0.80% | ~1,128 |
+| Cream of the Crop | 0.80% | ~1,129 |
+| Top of the World | 0.80% | ~1,129 |
+| Proud Paladin | 0.80% | ~1,129 |
+| Thirst for Knowledge | 0.80% | ~1,129 |
+| Booty by the Boatload | 0.80% | ~1,129 |
+| Archivist | 0.80% | ~1,129 |
+| Omae wa Mou Shindeiru | 0.80% | ~1,129 |
+| Supercharged | 0.80% | ~1,129 |
+| Ritualist | 0.80% | ~1,129 |
+| By Your Powers Combined... | 0.80% | ~1,129 |
+| Item of Renown | 0.80% | ~1,129 |
+| Bountiful Harvest | 0.80% | ~1,129 |
+| Precision Engineering | 0.80% | ~1,129 |
+| Treasure Trove | 0.80% | ~1,129 |
+| Moment of Respite | 0.80% | ~1,129 |
+| King's Shadow | 0.80% | ~1,129 |
+| Master Recycler | 0.80% | ~1,129 |
 | Constellated | 0.70% | ~987 |
 | Fillin' the Bin | 0.70% | ~987 |
 | Industrial Evolution | 0.70% | ~987 |
 | A Legend is Born | 0.70% | ~987 |
 | Economy of Scarce | 0.70% | ~987 |
+| Thank You Tom Nook | 0.60% | ~846 |
 | Jackpot! | 0.60% | ~846 |
 | Eternal Crusade | 0.60% | ~846 |
 | All Accounted For | 0.60% | ~846 |
 | The Free Encyclopedia | 0.50% | ~705 |
-| Thank You Tom Nook | 0.50% | ~705 |
 | The Greatest Grind | 0.40% | ~564 |
 | All or Nothing! | 0.40% | ~564 |
 | Marvels from the World Over | 0.40% | ~564 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,057 (Ranked 80)  
+Progressed: 141,063 (Ranked 80)  
 Completed: 194 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 194 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
-| 2023-11-23 | 141,057 | 194 |
+| 2023-11-23 | 141,063 | 194 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

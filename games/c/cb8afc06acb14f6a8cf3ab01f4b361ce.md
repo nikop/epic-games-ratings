@@ -1,14 +1,14 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.20 (Ranked 912)  
+Rating: 4.20 (Ranked 911)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 2.00% | ~6,335 |
-| The touch of Chaos | 2.00% | ~6,335 |
-| A powerful aura was here | 1.00% | ~3,167 |
-| Let's raise the stakes!! | 0.60% | ~1,900 |
+| May the Torchbearer light our way | 2.00% | ~6,336 |
+| The touch of Chaos | 2.00% | ~6,336 |
+| A powerful aura was here | 1.00% | ~3,168 |
+| Let's raise the stakes!! | 0.60% | ~1,901 |
 | Rumors are true | 0.40% | ~1,267 |
 | Pride is a sin, young Knight | 0.40% | ~1,267 |
 | Your wounds… They are healing so fast! | 0.40% | ~1,267 |
@@ -16,15 +16,15 @@ Rating: 4.20 (Ranked 912)
 | Back to your senses | 0.30% | ~950 |
 | They won't last long | 0.30% | ~950 |
 | Bring it on! | 0.30% | ~950 |
-| They tricked me | 0.20% | ~633 |
-| We need to talk | 0.20% | ~633 |
-| I feel drawn to it | 0.20% | ~633 |
-| Here to stay | 0.20% | ~633 |
-| Counting on you | 0.20% | ~633 |
-| This is the end | 0.20% | ~633 |
-| We can choose to fight | 0.20% | ~633 |
-| Chaos be damned! | 0.20% | ~633 |
-| I took a risk | 0.20% | ~633 |
+| They tricked me | 0.20% | ~634 |
+| We need to talk | 0.20% | ~634 |
+| I feel drawn to it | 0.20% | ~634 |
+| Here to stay | 0.20% | ~634 |
+| Counting on you | 0.20% | ~634 |
+| This is the end | 0.20% | ~634 |
+| We can choose to fight | 0.20% | ~634 |
+| Chaos be damned! | 0.20% | ~634 |
+| I took a risk | 0.20% | ~634 |
 | No damsels in distress | 0.10% | ~317 |
 | The immortal is bound to reborn | 0.10% | ~317 |
 | A legend among Chimeras | 0.10% | ~317 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 912)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316,746 (Ranked 51)  
+Progressed: 316,778 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 4 (0.00%) (Ranked 358)
 | 2023-11-20 | 315,462 | 4 |
 | 2023-11-21 | 316,102 | 4 |
 | 2023-11-22 | 316,666 | 4 |
-| 2023-11-23 | 316,746 | 4 |
+| 2023-11-23 | 316,778 | 4 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 414)  
 Sum: 61 (Ranked 474)  

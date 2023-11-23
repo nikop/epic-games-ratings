@@ -50,7 +50,7 @@
 | Raiders of the Lost Stone | 11.00% | ~38 |
 | The Rune Sockets of Finitude (Part 1) | 11.00% | ~38 |
 | My Little Torture Chamber | 10.00% | ~35 |
-| Lavalumps on Ice! | 9.00% | ~32 |
+| Lavalumps on Ice! | 10.00% | ~35 |
 | The Rune Sockets of Finitude (Part 2) | 9.00% | ~32 |
 | Untouchable | 8.00% | ~28 |
 | Rubble and Ashes | 8.00% | ~28 |

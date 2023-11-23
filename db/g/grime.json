@@ -1531,9 +1531,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159611,
+  "EOS_Progressed": 159615,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1171,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16706,6 +16706,11 @@
       "Time": "2023-11-23T03:04:23.2759748+00:00",
       "NumProgressed": 159611,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T04:03:49.7387121+00:00",
+      "NumProgressed": 159615,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16741,7 +16746,7 @@
       "Name": "Assimilation",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -16765,7 +16770,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6384
+      "UsersEstimate": 6385
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -16877,7 +16882,7 @@
       "Name": "Celebration",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -16989,7 +16994,7 @@
       "Name": "Ravenous",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6384
+      "UsersEstimate": 6385
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -17084,21 +17089,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159194,
+      "Progressed": 159198,
       "Completed": 1215
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159611,
+      "Progressed": 159615,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-22T17:57:06.1502636+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:04:23.2759744+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:03:49.7387118+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:57:16.1803176+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:04:23.2760736+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:57:20.5259508+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:03:49.7387944+00:00"
 }

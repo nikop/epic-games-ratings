@@ -2,9 +2,9 @@
   "ID": "f183540c1c2141c6a3d01208022eb1b7",
   "Name": "Paperplanes",
   "ProductSlug": "paperplanes-b05dc7",
-  "Ranking_EOS_Progress": 756,
+  "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T20:59:23.4257997+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:57:35.870277+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:06:27.6119917+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:57:33.5584603+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:05:19.0082514+00:00"
 }

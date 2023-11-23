@@ -12,8 +12,8 @@ Rating: 4.39 (Ranked 746)
 | The Vanishing of the Lady Shannon | 30.00% | ~39,319 |
 | Seaside Serenade | 30.00% | ~39,319 |
 | Halfway there | 29.00% | ~38,008 |
-| A brigantine, a brig and a barque | 28.00% | ~36,697 |
-| 506 East Hampden Avenue | 28.00% | ~36,697 |
+| A brigantine, a brig and a barque | 28.00% | ~36,698 |
+| 506 East Hampden Avenue | 28.00% | ~36,698 |
 | Weekend at Walakea's | 27.00% | ~35,387 |
 | Quite a Show | 27.00% | ~35,387 |
 | Dark Water Ride | 25.00% | ~32,766 |
@@ -32,7 +32,7 @@ Rating: 4.39 (Ranked 746)
 | Written in Stone | 6.00% | ~7,864 |
 | Fawning Developers | 5.00% | ~6,553 |
 | Candid Photo | 5.00% | ~6,553 |
-| The Amazing Adventures of Norah Everhart | 4.00% | ~5,242 |
+| The Amazing Adventures of Norah Everhart | 4.00% | ~5,243 |
 | You looked that up in a guide! | 3.00% | ~3,932 |
 | The Lady Shannon Recording | 3.00% | ~3,932 |
 | Otherwordly Portal | 3.00% | ~3,932 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 746)
 | Gently down the stream... | 1.00% | ~1,311 |
 | Meta-reference | 1.00% | ~1,311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,062 (Ranked 83)  
+Progressed: 131,063 (Ranked 83)  
 Completed: 1,133 (0.86%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 1,133 (0.86%) (Ranked 175)
 | 2023-11-20 | 130,795 | 1,129 |
 | 2023-11-21 | 130,917 | 1,130 |
 | 2023-11-22 | 131,047 | 1,132 |
-| 2023-11-23 | 131,062 | 1,133 |
+| 2023-11-23 | 131,063 | 1,133 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

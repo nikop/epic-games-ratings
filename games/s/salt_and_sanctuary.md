@@ -1,19 +1,19 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 382)  
+Rating: 4.61 (Ranked 383)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~447,307 |
-| The Three | 64.00% | ~344,911 |
+| Find Sanctuary | 83.00% | ~447,308 |
+| The Three | 64.00% | ~344,912 |
 | The Banquet | 40.00% | ~215,570 |
-| Devara's Light | 31.00% | ~167,066 |
+| Devara's Light | 31.00% | ~167,067 |
 | The Iron Ones | 19.00% | ~102,396 |
 | The Village | 17.00% | ~91,617 |
 | The Forest | 15.00% | ~80,839 |
-| The Keep | 14.00% | ~75,449 |
+| The Keep | 14.00% | ~75,450 |
 | Branded | 13.00% | ~70,060 |
 | The Imposter | 13.00% | ~70,060 |
 | The Castle | 11.00% | ~59,282 |
@@ -24,10 +24,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Cave | 7.00% | ~37,725 |
 | The Mire | 7.00% | ~37,725 |
 | The Stone Roots | 7.00% | ~37,725 |
-| Storied | 6.00% | ~32,335 |
-| The Construct | 6.00% | ~32,335 |
-| The Lake | 6.00% | ~32,335 |
-| The Ruins | 6.00% | ~32,335 |
+| Storied | 6.00% | ~32,336 |
+| The Construct | 6.00% | ~32,336 |
+| The Lake | 6.00% | ~32,336 |
+| The Ruins | 6.00% | ~32,336 |
 | The Alkymancery | 5.00% | ~26,946 |
 | The Pitchwoods | 5.00% | ~26,946 |
 | Honed | 4.00% | ~21,557 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,778 |
 | Fading Fast | 1.00% | ~5,389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 538,924 (Ranked 34)  
+Progressed: 538,925 (Ranked 34)  
 Completed: 1,621 (0.30%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 1,621 (0.30%) (Ranked 236)
 | 2023-11-20 | 538,744 | 1,618 |
 | 2023-11-21 | 538,831 | 1,619 |
 | 2023-11-22 | 538,916 | 1,621 |
-| 2023-11-23 | 538,924 | 1,621 |
+| 2023-11-23 | 538,925 | 1,621 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 255)  
 Sum: 1,997 (Ranked 212)  

@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~968 |
-| Whatever It Takes | 2.00% | ~968 |
-| Pork Chopped | 2.00% | ~968 |
+| One of Us | 2.00% | ~969 |
+| Whatever It Takes | 2.00% | ~969 |
+| Pork Chopped | 2.00% | ~969 |
 | Dr. Reed, I Presume? | 1.00% | ~7,229 |
 | Git Gutte! | 1.00% | ~7,229 |
 | Anger Management | 1.00% | ~7,229 |
@@ -41,10 +41,10 @@ Rating: 4.54 (Ranked 526)
 | Jumbo Keyring | 0.50% | ~3,614 |
 | Go, Bobcats! | 0.50% | ~3,614 |
 | Rising Star | 0.50% | ~3,614 |
-| On Safari | 0.40% | ~2,891 |
-| Smorgasbord | 0.40% | ~2,891 |
-| Internet Famous | 0.40% | ~2,891 |
-| Variety is the Spice of Death | 0.40% | ~2,891 |
+| On Safari | 0.40% | ~2,892 |
+| Smorgasbord | 0.40% | ~2,892 |
+| Internet Famous | 0.40% | ~2,892 |
+| Variety is the Spice of Death | 0.40% | ~2,892 |
 | Make it So | 0.30% | ~2,169 |
 | LA Influential | 0.30% | ~2,169 |
 | Gore Horse | 0.30% | ~2,169 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,861 (Ranked 21)  
+Progressed: 722,889 (Ranked 21)  
 Completed: 2,426 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2,426 (0.34%) (Ranked 228)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 722,861 | 2,426 |
+| 2023-11-23 | 722,889 | 2,426 |
 ## Awards
 Max (Great Boss Battles): 7,661  (Ranked 50)  
 Sum: 11,686 (Ranked 83)  

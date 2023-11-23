@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-11-23T01:52:58.0335013+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T04:05:15.8093585+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -720,7 +725,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "REMAKE_004",
@@ -879,14 +884,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:06:22.9514436+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:05:15.809358+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:02:51.7431723+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:06:22.9514571+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:02:45.1737659+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:05:15.8093781+00:00"
 }

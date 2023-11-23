@@ -8239,9 +8239,9 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236445,
+  "EOS_Progressed": 236449,
   "EOS_Completed": 2468,
-  "EOS_NewPlayers": 1224,
+  "EOS_NewPlayers": 1222,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32544,6 +32544,11 @@
       "Time": "2023-11-23T03:09:56.2163824+00:00",
       "NumProgressed": 236445,
       "NumCompleted": 2468
+    },
+    {
+      "Time": "2023-11-23T04:09:29.588938+00:00",
+      "NumProgressed": 236449,
+      "NumCompleted": 2468
     }
   ],
   "TotalAchievements": 532,
@@ -32841,9 +32846,9 @@
       "ID": "objective_completed_1087",
       "SetID": "415jc5c",
       "Name": "Second Third Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1088",
@@ -33809,9 +33814,9 @@
       "ID": "objective_completed_172",
       "SetID": "415jc5c",
       "Name": "The Newcomers of Notoriety",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_179",
@@ -33977,9 +33982,9 @@
       "ID": "objective_completed_231",
       "SetID": "cc37lbc",
       "Name": "Chatty Nobles",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_232",
@@ -34137,9 +34142,9 @@
       "ID": "objective_completed_268",
       "SetID": "cc37lbc",
       "Name": "Visions of Strahd",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_269",
@@ -34321,9 +34326,9 @@
       "ID": "objective_completed_386",
       "SetID": "415jc5c",
       "Name": "Spirit of the Trickster Gods",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_388",
@@ -34769,9 +34774,9 @@
       "ID": "objective_completed_55",
       "SetID": "cc37lbc",
       "Name": "Flying Monkey Skulls of Doom",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_550",
@@ -35449,9 +35454,9 @@
       "ID": "objective_completed_655",
       "SetID": "415jc5c",
       "Name": "Alterdeep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_656",
@@ -35617,9 +35622,9 @@
       "ID": "objective_completed_687",
       "SetID": "415jc5c",
       "Name": "Prisoners of Unknown Choices",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_69",
@@ -36017,9 +36022,9 @@
       "ID": "objective_completed_844",
       "SetID": "415jc5c",
       "Name": "Reya Reborn",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_847",
@@ -36241,9 +36246,9 @@
       "ID": "objective_completed_889",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 1",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_892",
@@ -36393,9 +36398,9 @@
       "ID": "objective_completed_930",
       "SetID": "415jc5c",
       "Name": "An Icewind Dale Reunion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_933",
@@ -36810,21 +36815,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202719,
+      "Progressed": 202723,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236445,
+      "Progressed": 236449,
       "Completed": 2468
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-22T21:57:49.5338651+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:09:56.216382+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:09:29.5889377+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:57:51.6976564+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:09:56.2185267+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:57:44.0112833+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:09:29.5910826+00:00"
 }

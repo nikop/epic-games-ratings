@@ -8665,10 +8665,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28312,
       "NumberOfAwardsMax": 7620
+    },
+    {
+      "Time": "2023-11-23T04:02:49.5241742+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28313,
+      "NumberOfAwardsMax": 7620
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28312,
+  "NumberOfAwards": 28313,
   "NumberOfAwardsMax": 7620,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8694,7 +8700,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1693
+      "Count": 1694
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8751,9 +8757,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 809447,
+  "EOS_Progressed": 809449,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33076,6 +33082,11 @@
       "Time": "2023-11-23T02:30:58.9848586+00:00",
       "NumProgressed": 809447,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-23T04:08:32.7007937+00:00",
+      "NumProgressed": 809449,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -33167,7 +33178,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259023
+      "UsersEstimate": 259024
     },
     {
       "ID": "Bookworm",
@@ -33567,7 +33578,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161889
+      "UsersEstimate": 161890
     },
     {
       "ID": "RevenantOfLedechko",
@@ -33607,7 +33618,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161889
+      "UsersEstimate": 161890
     },
     {
       "ID": "SerialKiller",
@@ -33742,15 +33753,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 809447,
+      "Progressed": 809449,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-22T15:03:14.8741599+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:08:38.6378964+00:00",
+  "LastChanged": "2023-11-23T04:02:49.524174+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:08:32.7007934+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.9251245+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:02:58.1293686+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:08:38.6380499+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:02:49.5241746+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:08:32.7009387+00:00"
 }

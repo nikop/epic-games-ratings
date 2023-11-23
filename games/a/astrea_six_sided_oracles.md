@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Meissa's Savior | 45.00% | ~33 |
 | Purification Pioneer | 43.00% | ~32 |
-| Dicesmithing Time! | 39.00% | ~29 |
-| Mechanical Buddy | 39.00% | ~29 |
-| Endless Tricks | 38.00% | ~28 |
-| Sanctuary Guardian | 35.00% | ~26 |
+| Dicesmithing Time! | 41.00% | ~30 |
+| Mechanical Buddy | 41.00% | ~30 |
+| Endless Tricks | 39.00% | ~29 |
+| Sanctuary Guardian | 36.00% | ~27 |
 | Noctuan Champion | 35.00% | ~26 |
 | Mind Illuminator | 32.00% | ~24 |
 | Wild's Keeper | 32.00% | ~24 |
@@ -18,12 +18,12 @@
 | Apian Champion | 28.00% | ~21 |
 | Anomaly Destroyer | 27.00% | ~20 |
 | Stellar Dismantler | 27.00% | ~20 |
-| Loyal Partner | 24.00% | ~18 |
+| Loyal Partner | 26.00% | ~19 |
 | Behenian Champion | 24.00% | ~18 |
 | Star Killer | 23.00% | ~17 |
 | Astral Adventurer | 22.00% | ~16 |
+| Shard Spender | 20.00% | ~15 |
 | Aquarian Champion | 20.00% | ~15 |
-| Shard Spender | 19.00% | ~14 |
 | Unbeatable | 19.00% | ~14 |
 | Astral Seeker | 18.00% | ~13 |
 | Heart Gate | 18.00% | ~13 |
@@ -35,6 +35,7 @@
 | Apian Hero | 12.00% | ~9 |
 | Anomaly Control | 11.00% | ~8 |
 | Lacertian Hero | 11.00% | ~8 |
+| Sadistic Plan | 9.00% | ~7 |
 | The Chaos Artisan | 9.00% | ~7 |
 | The Dark Moon | 9.00% | ~7 |
 | The Distorted Sage | 9.00% | ~7 |
@@ -43,7 +44,6 @@
 | Artificer | 8.00% | ~6 |
 | Can't touch this | 8.00% | ~6 |
 | Denying Destiny | 8.00% | ~6 |
-| Sadistic Plan | 8.00% | ~6 |
 | If I Had Failed... | 7.00% | ~5 |
 | Purification Avatar | 7.00% | ~5 |
 | The Abyssal Terror | 7.00% | ~5 |

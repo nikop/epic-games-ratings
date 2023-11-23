@@ -50,12 +50,12 @@ Rating: 4.12 (Ranked 962)
 | Engineer Mastery | 7.00% | ~179 |
 | The Expeditioner | 7.00% | ~179 |
 | Weekly Quest Completionist | 7.00% | ~179 |
+| Active Member | 6.00% | ~154 |
 | How Do You Turn This On? | 6.00% | ~154 |
 | Lock And Load | 6.00% | ~154 |
 | Missions Dedication | 6.00% | ~154 |
 | Sailor | 6.00% | ~154 |
 | The Alchemist | 6.00% | ~154 |
-| Active Member | 5.00% | ~128 |
 | Ancient Knowledge | 5.00% | ~128 |
 | Arena Challenger | 5.00% | ~128 |
 | Background Story | 5.00% | ~128 |

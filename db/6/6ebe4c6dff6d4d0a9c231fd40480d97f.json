@@ -2,9 +2,9 @@
   "ID": "6ebe4c6dff6d4d0a9c231fd40480d97f",
   "Name": "Duel Princess",
   "ProductSlug": "duel-princess-ec50b3",
-  "Ranking_EOS_Progress": 756,
+  "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-25T04:59:18.4675975+00:00",
   "LastUpdate_AppInfo": "2023-11-16T07:57:20.4777639+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:00:57.5783802+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:04:24.5825022+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:59:46.9567873+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:03:50.6718847+00:00"
 }

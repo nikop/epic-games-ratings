@@ -2,9 +2,9 @@
   "ID": "38d47d297f224e2c8f4f6ad10c76e0c0",
   "Name": "Good Heavens!",
   "ProductSlug": "good-heavens-323f08",
-  "Ranking_EOS_Progress": 756,
+  "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T16:57:10.6835552+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:57:50.2606509+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:05:22.0105724+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:57:43.1459843+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:04:31.5103615+00:00"
 }

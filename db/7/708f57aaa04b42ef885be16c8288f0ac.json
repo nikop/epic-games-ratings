@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5960,
+  "EOS_Progressed": 5965,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4147,6 +4147,11 @@
       "Time": "2023-11-23T03:09:24.8993743+00:00",
       "NumProgressed": 5960,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-23T04:09:06.2306635+00:00",
+      "NumProgressed": 5965,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4167,7 +4172,7 @@
       "Name": "Baby Steps",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "BeLikeWater",
@@ -4199,7 +4204,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "Eavesdropper",
@@ -4229,9 +4234,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1193
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4309,9 +4314,9 @@
       "ID": "NoMoreTotems",
       "SetID": "acc6ea0",
       "Name": "No More Totems",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 298
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4367,7 +4372,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -4397,9 +4402,9 @@
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 418
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -4415,7 +4420,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "k01101110",
@@ -4423,14 +4428,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5960,
+      "Progressed": 5965,
       "Completed": 7
     }
   ],
@@ -4438,8 +4443,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-21T21:59:36.2748065+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:09:24.8993738+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:09:06.230663+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:00:14.2400694+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:09:24.8994136+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:59:18.2569186+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:09:06.23074+00:00"
 }

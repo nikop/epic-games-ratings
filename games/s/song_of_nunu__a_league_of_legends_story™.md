@@ -11,8 +11,8 @@
 | Blue Dreams | 68.00% | ~547 |
 | He's Famous! | 68.00% | ~547 |
 | Cutie Poro | 68.00% | ~547 |
-| Krugmazing | 66.00% | ~531 |
-| The Fire Below the Mountain | 63.00% | ~507 |
+| Krugmazing | 67.00% | ~539 |
+| The Fire Below the Mountain | 64.00% | ~515 |
 | Moneyball | 61.00% | ~490 |
 | Iceborn | 58.00% | ~466 |
 | No Bites | 57.00% | ~458 |
@@ -33,7 +33,7 @@
 | Freeze The Ice Witch | 38.00% | ~306 |
 | Bullseye | 38.00% | ~306 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~306 |
-| On The Rocks | 36.00% | ~289 |
+| On The Rocks | 37.00% | ~297 |
 | It Is Not Over | 35.00% | ~281 |
 | Snowy Poro | 32.00% | ~257 |
 | Never Gets Old | 32.00% | ~257 |

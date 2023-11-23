@@ -1989,9 +1989,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 1289633,
+  "EOS_Progressed": 1289636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1582,
+  "EOS_NewPlayers": 1580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22394,6 +22394,11 @@
       "Time": "2023-11-23T03:04:11.5765508+00:00",
       "NumProgressed": 1289633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T04:03:41.2568767+00:00",
+      "NumProgressed": 1289636,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -22541,7 +22546,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206341
+      "UsersEstimate": 206342
     },
     {
       "ID": "10_hunter_wins",
@@ -22693,7 +22698,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 128963
+      "UsersEstimate": 128964
     },
     {
       "ID": "ghost_win",
@@ -22701,7 +22706,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 760883
+      "UsersEstimate": 760885
     },
     {
       "ID": "hunter_win",
@@ -22709,7 +22714,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 696402
+      "UsersEstimate": 696403
     },
     {
       "ID": "master_of_loadouts",
@@ -22740,7 +22745,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1289633,
+      "Progressed": 1289636,
       "Completed": 0
     }
   ],
@@ -22748,8 +22753,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-11-22T20:59:09.2812818+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:04:11.5765502+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:03:41.2568764+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:23.6547045+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:59:50.7858981+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:04:11.5766835+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:59:02.8831649+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:03:41.2569829+00:00"
 }

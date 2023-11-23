@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 558,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.62,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -1940,6 +1940,11 @@
       "Time": "2023-11-22T20:08:49.4590062+00:00",
       "NumProgressed": 557,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-23T04:08:54.6050824+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1960,7 +1965,7 @@
       "Name": "Holey Moley",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_11",
@@ -1976,7 +1981,7 @@
       "Name": "From Way Downtown",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_13",
@@ -1984,7 +1989,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_14",
@@ -2008,7 +2013,7 @@
       "Name": "Star Power",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "achievement_17",
@@ -2024,7 +2029,7 @@
       "Name": "Perfect Round",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_2",
@@ -2032,7 +2037,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_3",
@@ -2056,7 +2061,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_6",
@@ -2064,7 +2069,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_7",
@@ -2080,7 +2085,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_9",
@@ -2095,13 +2100,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 558,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:09:09.0863562+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:08:54.6050819+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.8610082+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:00:12.1623387+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:09:09.0863762+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:59:16.9239729+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:08:54.6051005+00:00"
 }

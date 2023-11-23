@@ -7,10 +7,10 @@ Rating: 4.46 (Ranked 647)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,796 |
 | Confirming Suspicions | 41.00% | ~1,601 |
-| The Kraken Wakes | 37.00% | ~1,444 |
-| It's Starting to Crack | 34.00% | ~1,327 |
-| Change the Channel | 31.00% | ~1,210 |
-| Lord of War | 30.00% | ~1,171 |
+| The Kraken Wakes | 37.00% | ~1,445 |
+| It's Starting to Crack | 34.00% | ~1,328 |
+| Change the Channel | 31.00% | ~1,211 |
+| Lord of War | 30.00% | ~1,172 |
 | Taking it back | 29.00% | ~1,132 |
 | Resourceful | 27.00% | ~1,054 |
 | Target America | 27.00% | ~1,054 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 647)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,904 (Ranked 197)  
+Progressed: 3,905 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,6 +292,7 @@ Completed: 11 (0.28%) (Ranked 241)
 | 2023-11-20 | 3,892 | 11 |
 | 2023-11-21 | 3,897 | 11 |
 | 2023-11-22 | 3,904 | 11 |
+| 2023-11-23 | 3,905 | 11 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 520)  
 Sum: 25 (Ranked 527)  

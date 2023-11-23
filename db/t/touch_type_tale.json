@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3788,
+  "EOS_Progressed": 3789,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4577,6 +4577,11 @@
       "Time": "2023-11-23T02:26:24.7847152+00:00",
       "NumProgressed": 3788,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-23T04:03:36.7763533+00:00",
+      "NumProgressed": 3789,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4588,7 +4593,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "bonus2",
@@ -4636,7 +4641,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "campaign10",
@@ -4724,7 +4729,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "campaign20",
@@ -4764,7 +4769,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "campaign7",
@@ -4788,7 +4793,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "scenario1",
@@ -4796,7 +4801,7 @@
       "Name": "Do the Splits",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "scenario2",
@@ -4851,7 +4856,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3788,
+      "Progressed": 3789,
       "Completed": 11
     }
   ],
@@ -4859,8 +4864,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:04:05.7752206+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:03:36.7763531+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:09.4027746+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:57:49.513716+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:04:05.7752514+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:57:42.6376186+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:03:36.7763838+00:00"
 }

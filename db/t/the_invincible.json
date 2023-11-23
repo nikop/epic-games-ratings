@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -823,9 +823,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "AchvReachCamp",
@@ -894,8 +894,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:08:34.0500173+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:08:29.063496+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:59:37.6940791+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:08:34.050038+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:58:54.2698592+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:08:29.0635151+00:00"
 }

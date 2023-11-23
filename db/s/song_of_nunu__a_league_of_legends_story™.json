@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -1767,9 +1767,9 @@
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 539
     },
     {
       "ID": "EV_ACH17",
@@ -1791,9 +1791,9 @@
       "ID": "EV_ACH19",
       "SetID": "6jeac23",
       "Name": "On The Rocks",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 297
     },
     {
       "ID": "EV_ACH20",
@@ -1919,9 +1919,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 515
     },
     {
       "ID": "EV_ACH36",
@@ -2006,8 +2006,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:09:48.8687705+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:09:23.8553888+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:02:35.4421268+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:09:48.8688084+00:00"
+  "LastUpdate_Ratings": "2023-11-23T04:00:24.6750675+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:09:23.8554205+00:00"
 }

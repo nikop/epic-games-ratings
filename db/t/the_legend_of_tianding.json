@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -155,9 +155,9 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BeatBossKawa",
@@ -187,9 +187,9 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BeatBossWang",
@@ -372,8 +372,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:07:42.7541952+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:06:12.7577449+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.8117493+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:59:45.9081285+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:07:42.7542114+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:58:59.6137004+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:06:12.7577572+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 911,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 51,
@@ -359,9 +359,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 316746,
+  "EOS_Progressed": 316778,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5216,
+  "EOS_NewPlayers": 5227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6984,6 +6984,11 @@
       "Time": "2023-11-23T03:05:37.8394483+00:00",
       "NumProgressed": 316746,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T04:04:42.9287159+00:00",
+      "NumProgressed": 316778,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6996,7 +7001,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6335
+      "UsersEstimate": 6336
     },
     {
       "ID": "S02_BRDA",
@@ -7004,7 +7009,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "S03_OTWA",
@@ -7036,7 +7041,7 @@
       "Name": "They tricked me",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "S07_INWA",
@@ -7044,7 +7049,7 @@
       "Name": "We need to talk",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "S08_MNSA",
@@ -7052,7 +7057,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "S09_MNSE",
@@ -7060,7 +7065,7 @@
       "Name": "Here to stay",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "S10_GRSB",
@@ -7068,7 +7073,7 @@
       "Name": "Counting on you",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "S11_MMR6",
@@ -7076,7 +7081,7 @@
       "Name": "This is the end",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "S12_ALL",
@@ -7084,7 +7089,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "S13_ALL_HARD",
@@ -7132,7 +7137,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6335
+      "UsersEstimate": 6336
     },
     {
       "ID": "S19_CHALLENGES",
@@ -7292,7 +7297,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -7300,7 +7305,7 @@
       "Name": "I took a risk",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "S40_BONUS",
@@ -7308,14 +7313,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 316746,
+      "Progressed": 316778,
       "Completed": 4
     }
   ],
@@ -7323,8 +7328,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-23T01:49:19.1943033+00:00",
-  "LastChanged_Achievements": "2023-11-23T03:05:37.8394475+00:00",
+  "LastChanged_Achievements": "2023-11-23T04:04:42.9287155+00:00",
   "LastUpdate_AppInfo": "2023-11-16T18:57:23.3855841+00:00",
-  "LastUpdate_Ratings": "2023-11-23T02:56:56.6910277+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:05:37.8394945+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:57:07.5648773+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:04:42.9287732+00:00"
 }

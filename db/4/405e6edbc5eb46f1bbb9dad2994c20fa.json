@@ -2,9 +2,9 @@
   "ID": "405e6edbc5eb46f1bbb9dad2994c20fa",
   "Name": "DC Dual Force",
   "ProductSlug": "dc-dual-force-c9ba22",
-  "Ranking_EOS_Progress": 756,
+  "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-18T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-18T19:02:11.2665781+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:09.321302+00:00",
-  "LastUpdate_Ratings": "2023-11-23T03:00:53.7190645+00:00",
-  "LastUpdate_Achievements": "2023-11-23T03:08:39.4743681+00:00"
+  "LastUpdate_Ratings": "2023-11-23T03:59:44.373668+00:00",
+  "LastUpdate_Achievements": "2023-11-23T04:08:33.1587785+00:00"
 }
