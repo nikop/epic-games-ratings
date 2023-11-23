@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 10.00% | ~20 |
+| Find Allies | 7.00% | ~14 |
 | Adventurer | 7.00% | ~14 |
 | I Found It | 7.00% | ~14 |
 | The Collector | 7.00% | ~14 |
 | Break Out | 6.00% | ~12 |
-| Find Allies | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
 | Geared Up | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |

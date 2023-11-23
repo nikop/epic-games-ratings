@@ -44,14 +44,14 @@
 | Hovering around | 25.00% | ~32 |
 | A Megapint...? | 24.00% | ~31 |
 | You're not so Big anymore, Boi! | 23.00% | ~30 |
-| Your daily dose of Vitamin C. | 21.00% | ~27 |
+| Your daily dose of Vitamin C. | 22.00% | ~29 |
 | I cant stand still! | 21.00% | ~27 |
 | Just wing it! | 18.00% | ~23 |
 | Slimy... yet satisfying | 18.00% | ~23 |
 | Master Butcher | 17.00% | ~22 |
-| Deal with it | 16.00% | ~21 |
+| Deal with it | 17.00% | ~22 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~18 |
-| Yeehaw!!! | 13.00% | ~17 |
+| Yeehaw!!! | 14.00% | ~18 |
 | You're looking mozzare-hella good! | 12.00% | ~16 |
 | Spoiler alert! | 10.00% | ~13 |
 | Timber! | 10.00% | ~13 |

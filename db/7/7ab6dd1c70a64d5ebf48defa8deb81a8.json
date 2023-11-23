@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -812,9 +812,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_03",
@@ -1099,8 +1099,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:10:06.5148303+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:15:00.553966+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:57:38.7297235+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:10:06.5148556+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:03:01.6754015+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:15:00.5539861+00:00"
 }

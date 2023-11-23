@@ -20,8 +20,8 @@
 | Cable guy | 18.00% | ~120 |
 | Champollion | 18.00% | ~120 |
 | In this together | 17.00% | ~113 |
+| Open door | 16.00% | ~106 |
 | Feels like springtime | 16.00% | ~106 |
-| Open door | 15.00% | ~100 |
 | Alchemists Express | 15.00% | ~100 |
 | Free at last | 13.00% | ~86 |
 | Rascal | 12.00% | ~80 |

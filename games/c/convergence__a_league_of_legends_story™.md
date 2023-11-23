@@ -5,23 +5,23 @@ Rating: 4.62 (Ranked 365)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 32.00% | ~296 |
+| Time Heals All Wounds | 32.00% | ~297 |
 | Rail Rat | 26.00% | ~241 |
 | The Mysterious Stranger | 25.00% | ~232 |
 | The Prince in Heels | 22.00% | ~204 |
 | Immaculate Aim | 22.00% | ~204 |
 | The Brass Boss | 22.00% | ~204 |
-| The Steel Shadow | 21.00% | ~194 |
-| Make Up For Lost Time | 21.00% | ~194 |
-| Time Flies | 21.00% | ~194 |
-| The Harder They Fall | 21.00% | ~194 |
-| No, Thanks! | 21.00% | ~194 |
-| Breaking Down Barriers | 21.00% | ~194 |
-| The Wicked Twins | 21.00% | ~194 |
-| Fast Learner | 21.00% | ~194 |
-| Immaculate Aim | 21.00% | ~194 |
+| The Steel Shadow | 21.00% | ~195 |
+| Make Up For Lost Time | 21.00% | ~195 |
+| Time Flies | 21.00% | ~195 |
+| The Harder They Fall | 21.00% | ~195 |
+| No, Thanks! | 21.00% | ~195 |
+| Breaking Down Barriers | 21.00% | ~195 |
+| The Wicked Twins | 21.00% | ~195 |
+| Immaculate Aim | 21.00% | ~195 |
 | The Betrayer | 20.00% | ~185 |
 | Honest Mistake | 20.00% | ~185 |
+| Fast Learner | 20.00% | ~185 |
 | Like Clockwork | 19.00% | ~176 |
 | Golem Chaser | 19.00% | ~176 |
 | Check Your Pulse | 19.00% | ~176 |
@@ -29,11 +29,11 @@ Rating: 4.62 (Ranked 365)
 | The Man Who Shattered Time | 18.00% | ~167 |
 | The Loose Cannon | 18.00% | ~167 |
 | The Family Fortune | 18.00% | ~167 |
-| Street Style | 17.00% | ~157 |
+| Street Style | 17.00% | ~158 |
 | Treasure Trove | 15.00% | ~139 |
 | Whiz Kid | 15.00% | ~139 |
 | Cartographer | 15.00% | ~139 |
-| Good Neighbor | 13.00% | ~120 |
+| Good Neighbor | 13.00% | ~121 |
 | Chaincrawler Explorer | 12.00% | ~111 |
 | Family Memories | 12.00% | ~111 |
 | Sump Explorer | 11.00% | ~102 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 365)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 926 (Ranked 268)  
+Progressed: 927 (Ranked 268)  
 Completed: 6 (0.65%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 6 (0.65%) (Ranked 185)
 | 2023-11-15 | 920 | 6 |
 | 2023-11-21 | 923 | 6 |
 | 2023-11-22 | 925 | 6 |
-| 2023-11-23 | 926 | 6 |
+| 2023-11-23 | 927 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

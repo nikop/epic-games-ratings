@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 442,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -962,6 +962,11 @@
       "Time": "2023-11-23T12:06:03.4289321+00:00",
       "NumProgressed": 440,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T13:10:33.3415657+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -980,9 +985,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1030,7 +1035,7 @@
       "Name": "Pathfinder",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 323
     },
     {
       "ID": "CompleteChapter10",
@@ -1094,7 +1099,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -1110,7 +1115,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CompleteChapter2",
@@ -1118,15 +1123,15 @@
       "Name": "Met the Enemy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "CompleteChapter4",
@@ -1134,23 +1139,23 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "CompleteChapter7",
@@ -1220,9 +1225,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1269,14 +1274,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 442,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:06:03.4289316+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:10:33.3415652+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:58:17.7053358+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:06:03.428955+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:03:28.3033018+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:10:33.3415924+00:00"
 }

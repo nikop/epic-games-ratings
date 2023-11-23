@@ -25,9 +25,9 @@ Number of Ratings: 98  (23.09.2022)
 | Payback Time | 7.00% | ~125 |
 | No Witness | 5.00% | ~90 |
 | Strategist | 4.00% | ~72 |
+| Do a Barrel Roll! | 2.00% | ~36 |
 | Unbreakable Wall | 2.00% | ~36 |
 | Experienced Strategist | 2.00% | ~36 |
-| Do a Barrel Roll! | 1.00% | ~18 |
 | How?! | 0.90% | ~16 |
 | Tough as Nails | 0.40% | ~7 |
 | Commandos | 0.30% | ~5 |

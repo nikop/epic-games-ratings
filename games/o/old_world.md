@@ -11,18 +11,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 6.00% | ~926 |
 | Intrepid | 5.00% | ~772 |
 | Friendly Family | 5.00% | ~772 |
-| Able | 4.00% | ~617 |
-| Architect | 4.00% | ~617 |
-| Good | 4.00% | ~617 |
-| Learned | 4.00% | ~617 |
-| Mason | 4.00% | ~617 |
-| Noble | 4.00% | ~617 |
-| Pioneer | 4.00% | ~617 |
-| Strong | 4.00% | ~617 |
-| Hanging Gardens | 4.00% | ~617 |
-| Oracle | 4.00% | ~617 |
-| Naming Landmarks | 4.00% | ~617 |
-| Trade Caravan | 4.00% | ~617 |
+| Able | 4.00% | ~618 |
+| Architect | 4.00% | ~618 |
+| Good | 4.00% | ~618 |
+| Learned | 4.00% | ~618 |
+| Mason | 4.00% | ~618 |
+| Noble | 4.00% | ~618 |
+| Pioneer | 4.00% | ~618 |
+| Strong | 4.00% | ~618 |
+| Hanging Gardens | 4.00% | ~618 |
+| Oracle | 4.00% | ~618 |
+| Naming Landmarks | 4.00% | ~618 |
+| Trade Caravan | 4.00% | ~618 |
 | Ambitious | 3.00% | ~463 |
 | Brilliant | 3.00% | ~463 |
 | Enlightened | 3.00% | ~463 |
@@ -128,11 +128,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.90% | ~139 |
 | Egypt | 0.90% | ~139 |
 | Enlightenment | 0.90% | ~139 |
-| Bad Heir Day | 0.80% | ~123 |
-| Rome | 0.80% | ~123 |
-| Hittite Paganism | 0.80% | ~123 |
-| Turreted Elephant | 0.80% | ~123 |
-| Poetic Leader | 0.80% | ~123 |
+| Bad Heir Day | 0.80% | ~124 |
+| Rome | 0.80% | ~124 |
+| Hittite Paganism | 0.80% | ~124 |
+| Turreted Elephant | 0.80% | ~124 |
+| Poetic Leader | 0.80% | ~124 |
 | Ishtar Gate in Babylon | 0.70% | ~108 |
 | Peacemaker | 0.70% | ~108 |
 | Noble Difficulty | 0.70% | ~108 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,436 (Ranked 151)  
+Progressed: 15,438 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -566,7 +566,7 @@ Completed: 5 (0.03%) (Ranked 320)
 | 2023-11-20 | 15,405 | 5 |
 | 2023-11-21 | 15,417 | 5 |
 | 2023-11-22 | 15,428 | 5 |
-| 2023-11-23 | 15,436 | 5 |
+| 2023-11-23 | 15,438 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,873 (Ranked 218)  

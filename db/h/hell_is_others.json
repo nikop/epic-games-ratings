@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1249,9 +1249,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258647,
+  "EOS_Progressed": 258650,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22209,6 +22209,11 @@
       "Time": "2023-11-23T11:03:34.9910549+00:00",
       "NumProgressed": 258647,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-23T13:09:16.3901594+00:00",
+      "NumProgressed": 258650,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22220,7 +22225,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18105
+      "UsersEstimate": 18106
     },
     {
       "ID": "Act2",
@@ -22268,7 +22273,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80181
+      "UsersEstimate": 80182
     },
     {
       "ID": "BackHomeNTimes",
@@ -22332,7 +22337,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7759
+      "UsersEstimate": 7760
     },
     {
       "ID": "CreditLevel3",
@@ -22492,7 +22497,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7759
+      "UsersEstimate": 7760
     },
     {
       "ID": "KillOtherWithMine",
@@ -22508,7 +22513,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59489
+      "UsersEstimate": 59490
     },
     {
       "ID": "KillOthers2",
@@ -22667,7 +22672,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258647,
+      "Progressed": 258650,
       "Completed": 3
     }
   ],
@@ -22675,8 +22680,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-17T15:57:42.0675492+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:04:17.4338399+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:09:16.3901592+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.5809709+00:00",
-  "LastUpdate_Ratings": "2023-11-23T12:01:54.7884054+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:04:17.4339968+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:05:55.3944634+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:09:16.3902807+00:00"
 }

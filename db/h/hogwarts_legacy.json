@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10825,10 +10825,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48889,
       "NumberOfAwardsMax": 24536
+    },
+    {
+      "Time": "2023-11-23T13:03:25.5943627+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48891,
+      "NumberOfAwardsMax": 24536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48889,
+  "NumberOfAwards": 48891,
   "NumberOfAwardsMax": 24536,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10848,7 +10854,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 1051
+      "Count": 1053
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10905,9 +10911,9 @@
       "Count": 809
     }
   ],
-  "EOS_Progressed": 302761,
+  "EOS_Progressed": 302766,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34230,6 +34236,11 @@
       "Time": "2023-11-23T12:10:06.2765444+00:00",
       "NumProgressed": 302761,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-23T13:15:00.4231413+00:00",
+      "NumProgressed": 302766,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34241,7 +34252,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48442
+      "UsersEstimate": 48443
     },
     {
       "ID": "PFA_10",
@@ -34313,7 +34324,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27248
+      "UsersEstimate": 27249
     },
     {
       "ID": "PFA_19",
@@ -34361,7 +34372,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39359
+      "UsersEstimate": 39360
     },
     {
       "ID": "PFA_24",
@@ -34369,7 +34380,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36331
+      "UsersEstimate": 36332
     },
     {
       "ID": "PFA_25",
@@ -34393,7 +34404,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12110
+      "UsersEstimate": 12111
     },
     {
       "ID": "PFA_28",
@@ -34425,7 +34436,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36331
+      "UsersEstimate": 36332
     },
     {
       "ID": "PFA_31",
@@ -34441,7 +34452,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12110
+      "UsersEstimate": 12111
     },
     {
       "ID": "PFA_33",
@@ -34465,7 +34476,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30276
+      "UsersEstimate": 30277
     },
     {
       "ID": "PFA_36",
@@ -34489,7 +34500,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12110
+      "UsersEstimate": 12111
     },
     {
       "ID": "PFA_39",
@@ -34545,7 +34556,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27248
+      "UsersEstimate": 27249
     },
     {
       "ID": "PFA_45",
@@ -34561,7 +34572,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12110
+      "UsersEstimate": 12111
     },
     {
       "ID": "PFA_6",
@@ -34569,7 +34580,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45414
+      "UsersEstimate": 45415
     },
     {
       "ID": "PFA_7",
@@ -34585,7 +34596,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39359
+      "UsersEstimate": 39360
     },
     {
       "ID": "PFA_9",
@@ -34593,23 +34604,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30276
+      "UsersEstimate": 30277
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302761,
+      "Progressed": 302766,
       "Completed": 513
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-23T08:57:48.4891815+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:10:06.2765439+00:00",
+  "LastChanged": "2023-11-23T13:03:25.5943626+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:15:00.4231411+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:58:13.7622412+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:10:06.2766621+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:03:25.5943634+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:15:00.4234723+00:00"
 }

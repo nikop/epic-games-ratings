@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 926,
+  "EOS_Progressed": 927,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2449,6 +2449,11 @@
       "Time": "2023-11-23T09:08:56.6470879+00:00",
       "NumProgressed": 926,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-23T13:14:24.2289489+00:00",
+      "NumProgressed": 927,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2468,7 +2473,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2532,7 +2537,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "CultivairChests1",
@@ -2652,7 +2657,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "MapCompletion1",
@@ -2700,7 +2705,7 @@
       "Name": "Time Flies",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ParryBoss",
@@ -2708,7 +2713,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ParryRepeated1",
@@ -2716,7 +2721,7 @@
       "Name": "No, Thanks!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2724,7 +2729,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2732,7 +2737,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "PidgeDefeated",
@@ -2748,7 +2753,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "RewindParry",
@@ -2786,9 +2791,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 185
     },
     {
       "ID": "SpeedRun",
@@ -2844,7 +2849,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "WatcherFought",
@@ -2860,7 +2865,7 @@
       "Name": "Good Neighbor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2883,7 +2888,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 926,
+      "Progressed": 927,
       "Completed": 6
     }
   ],
@@ -2891,8 +2896,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:09:16.5149888+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:14:24.2289486+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:00.3419172+00:00",
-  "LastUpdate_Ratings": "2023-11-23T12:03:02.1065912+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:09:16.5150272+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:08:23.2588296+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:14:24.2289876+00:00"
 }

@@ -4555,10 +4555,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 5761,
       "NumberOfAwardsMax": 2401
+    },
+    {
+      "Time": "2023-11-23T13:08:40.8510517+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 5767,
+      "NumberOfAwardsMax": 2401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5761,
+  "NumberOfAwards": 5767,
   "NumberOfAwardsMax": 2401,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4602,7 +4608,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 346
+      "Count": 352
     },
     {
       "Text": "This game has a Creative Community",
@@ -4629,10 +4635,10 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 226231,
-  "EOS_Completed": 505,
-  "EOS_NewPlayers": 4603,
-  "EOS_NewCompleters": 44,
+  "EOS_Progressed": 226263,
+  "EOS_Completed": 506,
+  "EOS_NewPlayers": 4606,
+  "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -19504,6 +19510,11 @@
       "Time": "2023-11-23T12:09:01.5776143+00:00",
       "NumProgressed": 226231,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-23T13:14:13.5363072+00:00",
+      "NumProgressed": 226263,
+      "NumCompleted": 506
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19596,7 +19607,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -19700,7 +19711,7 @@
       "Name": "First of Many",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -19955,22 +19966,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 226231,
-      "Completed": 505
+      "Progressed": 226263,
+      "Completed": 506
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 5396,
-      "Completed": 141
+      "Progressed": 5428,
+      "Completed": 142
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-23T10:03:23.4003808+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:09:01.577614+00:00",
+  "LastChanged": "2023-11-23T13:08:40.8510515+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:14:13.5363068+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-23T12:03:28.0288324+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:09:01.5777017+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:08:40.8510521+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:14:13.5364043+00:00"
 }

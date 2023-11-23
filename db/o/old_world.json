@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2016,9 +2016,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15436,
+  "EOS_Progressed": 15438,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16381,6 +16381,11 @@
       "Time": "2023-11-23T11:05:56.3079482+00:00",
       "NumProgressed": 15436,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-23T13:11:40.1999637+00:00",
+      "NumProgressed": 15438,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16448,7 +16453,7 @@
       "Name": "Bad Heir Day",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -16720,7 +16725,7 @@
       "Name": "Able",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -16744,7 +16749,7 @@
       "Name": "Architect",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -16848,7 +16853,7 @@
       "Name": "Good",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -16912,7 +16917,7 @@
       "Name": "Learned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -16944,7 +16949,7 @@
       "Name": "Mason",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -16960,7 +16965,7 @@
       "Name": "Noble",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -16984,7 +16989,7 @@
       "Name": "Pioneer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -17024,7 +17029,7 @@
       "Name": "Strong",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -17760,7 +17765,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -17840,7 +17845,7 @@
       "Name": "Oracle",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -18048,7 +18053,7 @@
       "Name": "Rome",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -18232,7 +18237,7 @@
       "Name": "Hittite Paganism",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -18312,7 +18317,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -18424,7 +18429,7 @@
       "Name": "Trade Caravan",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -18488,7 +18493,7 @@
       "Name": "Turreted Elephant",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -18728,7 +18733,7 @@
       "Name": "Poetic Leader",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -19127,21 +19132,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15436,
+      "Progressed": 15438,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15436,
+      "Progressed": 15438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-21T15:57:15.4241342+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:07:34.942683+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:11:40.1999631+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:58:43.0424677+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:07:34.9437267+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:03:45.3376648+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:11:40.2008392+00:00"
 }

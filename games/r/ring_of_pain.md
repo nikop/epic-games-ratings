@@ -16,6 +16,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 0.40% | ~960 |
 | An Offering | 0.40% | ~960 |
 | Expensive Look | 0.40% | ~6 |
+| What Doesn't Kill You | 0.40% | ~6 |
 | Ambitious Intent | 0.30% | ~720 |
 | Nothing To Lose | 0.30% | ~720 |
 | Heavy Hitter | 0.30% | ~720 |
@@ -44,7 +45,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.30% | ~720 |
 | Flesh Wound | 0.30% | ~720 |
 | Shapeshifting | 0.30% | ~720 |
-| What Doesn't Kill You | 0.30% | ~5 |
 | Thank You, Friend | 0.20% | ~480 |
 | Consecutive Curses | 0.20% | ~480 |
 | Shadow Spreads | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,096 (Ranked 62)  
+Progressed: 240,099 (Ranked 62)  
 Completed: 290 (0.12%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -362,15 +362,15 @@ Completed: 290 (0.12%) (Ranked 275)
 | 2023-11-20 | 239,989 | 289 |
 | 2023-11-21 | 240,034 | 290 |
 | 2023-11-22 | 240,077 | 290 |
-| 2023-11-23 | 240,096 | 290 |
+| 2023-11-23 | 240,099 | 290 |
 ## Awards
-Max (Quickly Understood Controls): 1,503  (Ranked 132)  
-Sum: 11,687 (Ranked 84)  
+Max (Quickly Understood Controls): 1,505  (Ranked 132)  
+Sum: 11,689 (Ranked 84)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,506 |
-| This game has Quickly Understood Controls | 1,503 |
+| This game has Quickly Understood Controls | 1,505 |
 | This game is Relaxing | 1,437 |
 | This game has Challenging Combat | 1,435 |
 | This game is Extremely Fun | 1,414 |
@@ -597,4 +597,4 @@ Diff (max vs sum): 48
 | 2023-11-18 | 4.58 | - | 1,503 | 11,681 |
 | 2023-11-19 | 4.58 | - | 1,503 | 11,684 |
 | 2023-11-20 | 4.58 | - | 1,503 | 11,685 |
-| 2023-11-23 | 4.58 | - | 1,503 | 11,687 |
+| 2023-11-23 | 4.58 | - | 1,505 | 11,689 |

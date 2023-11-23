@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47437,
+  "EOS_Progressed": 47438,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 879,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25377,6 +25377,11 @@
       "Time": "2023-11-23T12:07:19.8455138+00:00",
       "NumProgressed": 47437,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-23T13:11:29.0989074+00:00",
+      "NumProgressed": 47438,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -25396,7 +25401,7 @@
       "Name": "Adventurer",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "distance250000",
@@ -25644,7 +25649,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "unlockmaya",
@@ -25699,15 +25704,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47437,
+      "Progressed": 47438,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-22T16:02:50.5767845+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:07:19.8455134+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:11:29.0989069+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.043749+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:57:38.9235504+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:07:19.8456199+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:03:01.8019241+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:11:29.099029+00:00"
 }

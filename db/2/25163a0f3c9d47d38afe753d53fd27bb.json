@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1614,
+  "EOS_Progressed": 1615,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 6.51,
+  "EOS_Completed_Percentage": 6.5,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3699,6 +3699,11 @@
       "Time": "2023-11-23T09:09:31.8448447+00:00",
       "NumProgressed": 1614,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-11-23T13:14:59.1638827+00:00",
+      "NumProgressed": 1615,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 30,
@@ -3710,7 +3715,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "LEVEL_002",
@@ -3718,7 +3723,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "LEVEL_003",
@@ -3726,7 +3731,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "LEVEL_004",
@@ -3734,7 +3739,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "LEVEL_005",
@@ -3742,7 +3747,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "LEVEL_006",
@@ -3750,7 +3755,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "LEVEL_007",
@@ -3758,7 +3763,7 @@
       "Name": "Animals in the farm",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "LEVEL_008",
@@ -3806,7 +3811,7 @@
       "Name": "Higher ground",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "LEVEL_014",
@@ -3862,7 +3867,7 @@
       "Name": "Go round and round",
       "Percentage": 10,
       "XP": 110,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "LEVEL_021",
@@ -3876,9 +3881,9 @@
       "ID": "LEVEL_022",
       "SetID": "212bg48",
       "Name": "Who likes bridges?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_023",
@@ -3949,14 +3954,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1614,
+      "Progressed": 1615,
       "Completed": 105
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:10:04.6875995+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:14:59.1638819+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:58:41.8638363+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:10:04.6876278+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:03:44.5382437+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:14:59.1639131+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -30,9 +30,267 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-23T13:12:02.8509977+00:00",
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_100_WINS",
+      "SetID": "1lnhagg",
+      "Name": "I Like Winning Games",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_20_CHAMPIONSHIPS",
+      "SetID": "1lnhagg",
+      "Name": "Title Collector",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_500_WINS",
+      "SetID": "1lnhagg",
+      "Name": "Unbeatable",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_50_WINS",
+      "SetID": "1lnhagg",
+      "Name": "Winning is Quite Alright",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AMERICAN_CAREER",
+      "SetID": "1lnhagg",
+      "Name": "To the States!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ASSISTS_DELIVERY",
+      "SetID": "1lnhagg",
+      "Name": "Best Assistant",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COACH_OF_THE_SEASON",
+      "SetID": "1lnhagg",
+      "Name": "Standing at the Top",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EMPTY_ARENA",
+      "SetID": "1lnhagg",
+      "Name": "Phantom Arena",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRST_CHAMPIONSHIP",
+      "SetID": "1lnhagg",
+      "Name": "First is Always Special",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRST_STAR_MANAGER",
+      "SetID": "1lnhagg",
+      "Name": "The First Star",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRST_WIN",
+      "SetID": "1lnhagg",
+      "Name": "The First of Many to Come",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIVE_STARS_MANAGER",
+      "SetID": "1lnhagg",
+      "Name": "Five Star Manager",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FRANCHISE_PLAYER",
+      "SetID": "1lnhagg",
+      "Name": "Franchise Player",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FULL_ARENA",
+      "SetID": "1lnhagg",
+      "Name": "Full Arena",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HALL_OF_FAME",
+      "SetID": "1lnhagg",
+      "Name": "Hall of Fame",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_INFINITE_PROGRESSION",
+      "SetID": "1lnhagg",
+      "Name": "Endless Progression",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_JUNIOR_BEARD",
+      "SetID": "1lnhagg",
+      "Name": "What a man!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LOSER_STREAK",
+      "SetID": "1lnhagg",
+      "Name": "Let the Streak End!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LOST_BY_40",
+      "SetID": "1lnhagg",
+      "Name": "If Only I Had Known",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MANAGERS_FAN",
+      "SetID": "1lnhagg",
+      "Name": "Manager\u0027s Fan",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ON_FIRE",
+      "SetID": "1lnhagg",
+      "Name": "On Fire!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PLAYER_RECRUIT",
+      "SetID": "1lnhagg",
+      "Name": "Recruited player",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_REBOUNDER",
+      "SetID": "1lnhagg",
+      "Name": "Rebound Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SCORING_MACHINE",
+      "SetID": "1lnhagg",
+      "Name": "Cumpulsive Scorer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STAR_IS_BORN",
+      "SetID": "1lnhagg",
+      "Name": "A Star is Born",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TRIPLE_DOUBLE",
+      "SetID": "1lnhagg",
+      "Name": "Triple-Double",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WELCOME",
+      "SetID": "1lnhagg",
+      "Name": "Welcome to IBM 23!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WINNER_STREAK",
+      "SetID": "1lnhagg",
+      "Name": "Keep the Streak Up!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIN_BY_40",
+      "SetID": "1lnhagg",
+      "Name": "Overpowered",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIN_EUROLEAGUE",
+      "SetID": "1lnhagg",
+      "Name": "Europe is Mine",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIN_NBA",
+      "SetID": "1lnhagg",
+      "Name": "One to Rule Them All",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIN_NCAA",
+      "SetID": "1lnhagg",
+      "Name": "College Championship",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1lnhagg",
@@ -43,8 +301,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:08:05.7956238+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:12:02.8509965+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:01.2482545+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:59:16.9578772+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:08:05.7956266+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:04:07.9810858+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:12:02.8838361+00:00"
 }

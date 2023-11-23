@@ -8245,7 +8245,7 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236469,
+  "EOS_Progressed": 236472,
   "EOS_Completed": 2469,
   "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 18,
@@ -32595,6 +32595,11 @@
       "Time": "2023-11-23T12:10:14.8426737+00:00",
       "NumProgressed": 236469,
       "NumCompleted": 2469
+    },
+    {
+      "Time": "2023-11-23T13:15:07.0468071+00:00",
+      "NumProgressed": 236472,
+      "NumCompleted": 2469
     }
   ],
   "TotalAchievements": 532,
@@ -35660,9 +35665,9 @@
       "ID": "objective_completed_686",
       "SetID": "415jc5c",
       "Name": "Prisoners of Lolth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_687",
@@ -36324,9 +36329,9 @@
       "ID": "objective_completed_897",
       "SetID": "415jc5c",
       "Name": "Reghed Glacier Mysteries",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_898",
@@ -36861,21 +36866,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202743,
+      "Progressed": 202746,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236469,
+      "Progressed": 236472,
       "Completed": 2469
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-23T06:57:43.4318598+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:10:14.8426732+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:15:07.0468067+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:58:27.0076513+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:10:14.8449247+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:03:34.5038029+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:15:07.0489727+00:00"
 }

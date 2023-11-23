@@ -377,6 +377,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tenday at Golgamann's | 0.10% | ~203 |
 | A Nightmare Occasion | 0.10% | ~203 |
 | The Prison of Velkynvelve | 0.10% | ~203 |
+| Prisoners of Lolth | 0.10% | ~203 |
 | Prisoners of Unknown Choices | 0.10% | ~203 |
 | Escort to Waterdeep | 0.10% | ~236 |
 | The Giant's Bane Tavern | 0.10% | ~203 |
@@ -458,6 +459,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.10% | ~203 |
 | Ambitious Speakers - Part 2 | 0.10% | ~203 |
 | Shady Sidekicks - Part 2 | 0.10% | ~203 |
+| Reghed Glacier Mysteries | 0.10% | ~203 |
 | Mysteries Unlocked | 0.10% | ~203 |
 | Male Pattern Boldness | 0.10% | ~203 |
 | Pure Energy | 0.10% | ~236 |
@@ -530,16 +532,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Form Ranks | 0.00% | ~0 |
 | Faerûn's Most Wanted | 0.00% | ~0 |
 | Vault of Pixies | 0.00% | ~0 |
-| Prisoners of Lolth | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Reghed Glacier Mysteries | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
 | Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | 3,720 to 1 | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,469 (Ranked 64)  
+Progressed: 236,472 (Ranked 64)  
 Completed: 2,469 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,469 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,469 | 2,469 |
+| 2023-11-23 | 236,472 | 2,469 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,580 (Ranked 41)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -400,9 +400,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -432,17 +432,17 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 34,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:06:10.0826686+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:10:38.2235035+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.647609+00:00",
-  "LastUpdate_Ratings": "2023-11-23T12:01:47.3681565+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:06:10.08269+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:05:50.3902599+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:10:38.2235297+00:00"
 }

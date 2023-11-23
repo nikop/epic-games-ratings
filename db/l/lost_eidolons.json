@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1134,
+  "EOS_Progressed": 1135,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1550,6 +1550,11 @@
       "Time": "2023-11-23T00:05:18.9550906+00:00",
       "NumProgressed": 1134,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T13:10:15.611641+00:00",
+      "NumProgressed": 1135,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1609,7 +1614,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "08",
@@ -1633,7 +1638,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "11",
@@ -1697,7 +1702,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "19",
@@ -1744,7 +1749,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1134,
+      "Progressed": 1135,
       "Completed": 1
     }
   ],
@@ -1752,8 +1757,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-11-08T19:00:27.8145289+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:05:39.1523865+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:10:15.6116407+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:21.2319809+00:00",
-  "LastUpdate_Ratings": "2023-11-23T12:01:13.1177021+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:05:39.1524042+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:05:26.737306+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:10:15.611659+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.67 (Ranked 275)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,518 |
+| Getting on the Step | 94.00% | ~5,519 |
 | On the Top Step | 88.00% | ~5,166 |
-| Setting up for Success | 77.00% | ~4,520 |
-| Team Orders | 75.00% | ~4,402 |
+| Setting up for Success | 77.00% | ~4,521 |
+| Team Orders | 75.00% | ~4,403 |
 | Engineer | 55.00% | ~3,229 |
 | Familiar Faces | 48.00% | ~2,818 |
-| Sharing the Love | 42.00% | ~2,465 |
-| Going the Extra Mile | 42.00% | ~2,465 |
+| Sharing the Love | 42.00% | ~2,466 |
+| Going the Extra Mile | 42.00% | ~2,466 |
 | Hitting a Season | 38.00% | ~2,231 |
 | A Dozen Pieces | 33.00% | ~1,937 |
 | Challenge Yourself | 33.00% | ~1,937 |
@@ -33,8 +33,8 @@ Rating: 4.67 (Ranked 275)
 | Lightning Round the World | 13.00% | ~763 |
 | Switcheroo | 13.00% | ~763 |
 | Spinning Around | 13.00% | ~763 |
-| All in a Weekend's Work | 12.00% | ~704 |
-| Friendly Competition | 12.00% | ~704 |
+| All in a Weekend's Work | 12.00% | ~705 |
+| Friendly Competition | 12.00% | ~705 |
 | Recycle | 11.00% | ~646 |
 | Tinkerer | 10.00% | ~587 |
 | Undisputed Winner | 9.00% | ~528 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 275)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,870 (Ranked 186)  
+Progressed: 5,871 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 5,836 | 0 |
 | 2023-11-21 | 5,850 | 0 |
 | 2023-11-22 | 5,863 | 0 |
-| 2023-11-23 | 5,870 | 0 |
+| 2023-11-23 | 5,871 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 524)  
 Sum: 87 (Ranked 456)  

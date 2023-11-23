@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,055 |
-| Basic in Bulk | 5.00% | ~7,055 |
-| Tinkle of Coins | 5.00% | ~7,055 |
-| Titan's First Steps | 5.00% | ~7,055 |
+| Sponsored by Argon | 5.00% | ~7,056 |
+| Basic in Bulk | 5.00% | ~7,056 |
+| Tinkle of Coins | 5.00% | ~7,056 |
+| Titan's First Steps | 5.00% | ~7,056 |
 | Disintermediation | 4.00% | ~5,644 |
 | Capitalism Ho! | 4.00% | ~5,644 |
 | One Easy Payment | 3.00% | ~4,233 |
@@ -62,6 +62,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 1.00% | ~1,411 |
 | Special Ingredient | 1.00% | ~1,411 |
 | Complete Monopoly | 1.00% | ~1,411 |
+| Cream of the Crop | 0.90% | ~1,270 |
 | Above the Norm | 0.90% | ~1,270 |
 | A Ronin Reborn | 0.90% | ~1,270 |
 | Omae wa Mou Shindeiru | 0.90% | ~1,270 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.90% | ~1,270 |
 | Exotic Commodities | 0.90% | ~1,270 |
 | King's Blade | 0.90% | ~1,270 |
-| Cream of the Crop | 0.80% | ~1,129 |
 | Top of the World | 0.80% | ~1,129 |
 | Proud Paladin | 0.80% | ~1,129 |
 | Thirst for Knowledge | 0.80% | ~1,129 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,100 (Ranked 80)  
+Progressed: 141,111 (Ranked 80)  
 Completed: 195 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 195 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
-| 2023-11-23 | 141,100 | 195 |
+| 2023-11-23 | 141,111 | 195 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

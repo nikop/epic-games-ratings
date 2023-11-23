@@ -885,9 +885,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 442046,
+  "EOS_Progressed": 442162,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 21655,
+  "EOS_NewPlayers": 21564,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4590,6 +4590,11 @@
       "Time": "2023-11-23T12:05:39.445825+00:00",
       "NumProgressed": 442046,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-11-23T13:10:15.8984848+00:00",
+      "NumProgressed": 442162,
+      "NumCompleted": 125
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:14.4921824+00:00",
@@ -4602,7 +4607,7 @@
       "Name": "Rookie",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 44205
+      "UsersEstimate": 44216
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -4610,7 +4615,7 @@
       "Name": "Survivor",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 26523
+      "UsersEstimate": 26530
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -4618,7 +4623,7 @@
       "Name": "Against All Odds",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4422
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -4634,7 +4639,7 @@
       "Name": "Welcome to Union",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 256387
+      "UsersEstimate": 256454
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -4642,7 +4647,7 @@
       "Name": "Taken",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 123773
+      "UsersEstimate": 123805
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -4650,7 +4655,7 @@
       "Name": "Not Running This Time",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 97250
+      "UsersEstimate": 97276
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -4658,7 +4663,7 @@
       "Name": "The Team Psychologist",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 88409
+      "UsersEstimate": 88432
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -4666,7 +4671,7 @@
       "Name": "Premature Finale",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 75148
+      "UsersEstimate": 75168
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4674,7 +4679,7 @@
       "Name": "Another Ally",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 70727
+      "UsersEstimate": 70746
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -4682,7 +4687,7 @@
       "Name": "Crossing to the Other Side",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 66307
+      "UsersEstimate": 66324
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -4690,7 +4695,7 @@
       "Name": "Spiritual Awakening",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 61886
+      "UsersEstimate": 61903
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -4698,7 +4703,7 @@
       "Name": "Fire Walk With Me",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 57466
+      "UsersEstimate": 57481
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -4706,7 +4711,7 @@
       "Name": "Overcome the Past",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 53046
+      "UsersEstimate": 53059
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -4714,7 +4719,7 @@
       "Name": "Everything Comes Crumbling Down",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48625
+      "UsersEstimate": 48638
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -4722,7 +4727,7 @@
       "Name": "Unfortunate Consequence",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 48625
+      "UsersEstimate": 48638
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -4730,7 +4735,7 @@
       "Name": "Backup Ain\u0027t Coming",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 97250
+      "UsersEstimate": 97276
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -4738,7 +4743,7 @@
       "Name": "Sykes Out",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 35364
+      "UsersEstimate": 35373
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -4746,7 +4751,7 @@
       "Name": "Finally Free",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 39784
+      "UsersEstimate": 39795
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -4754,7 +4759,7 @@
       "Name": "You Got Red in You",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 97250
+      "UsersEstimate": 97276
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -4762,7 +4767,7 @@
       "Name": "Stick it in My Veins",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17682
+      "UsersEstimate": 17686
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -4770,7 +4775,7 @@
       "Name": "Making Things a Little Easier",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 119352
+      "UsersEstimate": 119384
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -4778,7 +4783,7 @@
       "Name": "Now You\u0027re Playing with Power",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 79568
+      "UsersEstimate": 79589
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -4786,7 +4791,7 @@
       "Name": "A Little Extra Kick to it",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 26523
+      "UsersEstimate": 26530
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -4794,7 +4799,7 @@
       "Name": "They Never Even Stood A Chance",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -4802,7 +4807,7 @@
       "Name": "DIY",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 203341
+      "UsersEstimate": 203395
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -4810,7 +4815,7 @@
       "Name": "Handyman",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -4818,7 +4823,7 @@
       "Name": "Echoes Within STEM",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8843
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -4826,7 +4831,7 @@
       "Name": "Doing Some Detecting",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 79568
+      "UsersEstimate": 79589
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -4834,7 +4839,7 @@
       "Name": "Diligent Reader",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -4842,7 +4847,7 @@
       "Name": "Half the Stash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8843
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -4850,7 +4855,7 @@
       "Name": "Locksmith",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4858,7 +4863,7 @@
       "Name": "Good to See You Again",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 159137
+      "UsersEstimate": 159178
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -4866,7 +4871,7 @@
       "Name": "Chatting With Kidman",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8843
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4882,7 +4887,7 @@
       "Name": "All in the Family",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -4890,7 +4895,7 @@
       "Name": "Caffeine Addict",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 13261
+      "UsersEstimate": 13265
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -4898,7 +4903,7 @@
       "Name": "Thinning Them Out",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 137034
+      "UsersEstimate": 137070
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -4906,7 +4911,7 @@
       "Name": "Clearing a Path",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 110512
+      "UsersEstimate": 110540
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -4914,7 +4919,7 @@
       "Name": "Smoke Assassin",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4422
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -4922,7 +4927,7 @@
       "Name": "Shock Therapy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48625
+      "UsersEstimate": 48638
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -4930,7 +4935,7 @@
       "Name": "Wait For It...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 30943
+      "UsersEstimate": 30951
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -4938,7 +4943,7 @@
       "Name": "Kick, Shoot, Burn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 39784
+      "UsersEstimate": 39795
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -4946,7 +4951,7 @@
       "Name": "Bootable Offense",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13261
+      "UsersEstimate": 13265
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -4954,7 +4959,7 @@
       "Name": "I Am The Night",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 83989
+      "UsersEstimate": 84011
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -4962,7 +4967,7 @@
       "Name": "Sometimes Fighting Isn\u0027t the Answer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "ACHIEVEMENT_47",
@@ -4978,7 +4983,7 @@
       "Name": "No More Playing With Fire",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "ACHIEVEMENT_49",
@@ -4986,7 +4991,7 @@
       "Name": "Melancholy Memories",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22102
+      "UsersEstimate": 22108
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -4994,7 +4999,7 @@
       "Name": "I\u0027ll Take You Down Myself",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4422
     },
     {
       "ID": "ACHIEVEMENT_51",
@@ -5009,7 +5014,7 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 442046,
+      "Progressed": 442162,
       "Completed": 125
     }
   ],
@@ -5017,8 +5022,8 @@
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
   "LastChanged": "2023-11-23T11:57:30.7232108+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:05:39.4458247+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:10:15.8984845+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:19:16.6282479+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:57:30.7232113+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:05:39.445881+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:02:56.3171596+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:10:15.8985308+00:00"
 }

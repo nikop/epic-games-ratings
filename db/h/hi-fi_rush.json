@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4275,
+  "EOS_Progressed": 4280,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7520,6 +7520,11 @@
       "Time": "2023-11-23T12:08:34.1743003+00:00",
       "NumProgressed": 4275,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-23T13:13:53.6453636+00:00",
+      "NumProgressed": 4280,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7531,7 +7536,7 @@
       "Name": "Start with a bang!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "Ach002",
@@ -7547,7 +7552,7 @@
       "Name": "This will cost you big time",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Ach004",
@@ -7691,7 +7696,7 @@
       "Name": "I have to read these things?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Ach022",
@@ -7707,7 +7712,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "Ach024",
@@ -7771,7 +7776,7 @@
       "Name": "Perfect Parry",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "Ach032",
@@ -7779,7 +7784,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Ach033",
@@ -7787,7 +7792,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Ach034",
@@ -7803,7 +7808,7 @@
       "Name": "OK, well THEY came after ME!",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Ach036",
@@ -7899,7 +7904,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "Ach048",
@@ -7907,7 +7912,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "Ach049",
@@ -7931,7 +7936,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "Ach052",
@@ -8098,13 +8103,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4275,
+      "Progressed": 4280,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2796,
+      "Progressed": 2801,
       "Completed": 1930
     }
   ],
@@ -8112,8 +8117,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:08:34.1743+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:13:53.6453634+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:58:44.1247286+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:08:34.1743855+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:03:46.0757764+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:13:53.6454528+00:00"
 }

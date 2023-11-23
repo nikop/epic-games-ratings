@@ -17,7 +17,7 @@
 | Acquaintance | 8.00% | ~16 |
 | Taskmaster | 8.00% | ~16 |
 | Scholar | 7.00% | ~14 |
-| The More the Merrier | 6.00% | ~12 |
+| The More the Merrier | 7.00% | ~14 |
 | Harbinger | 6.00% | ~12 |
 | Tail-wind | 6.00% | ~12 |
 | Strategist | 5.00% | ~10 |

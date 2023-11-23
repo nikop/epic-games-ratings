@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1549,9 +1549,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13754,
+  "EOS_Progressed": 13755,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14879,6 +14879,11 @@
       "Time": "2023-11-23T09:09:04.4110593+00:00",
       "NumProgressed": 13754,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-23T13:14:31.8420748+00:00",
+      "NumProgressed": 13755,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14890,7 +14895,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11278
+      "UsersEstimate": 11279
     },
     {
       "ID": "ACH02",
@@ -14970,7 +14975,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "ACH12",
@@ -15169,7 +15174,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13754,
+      "Progressed": 13755,
       "Completed": 53
     }
   ],
@@ -15177,8 +15182,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-22T23:59:03.127393+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:09:27.2560973+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:14:31.8420743+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:30.7041733+00:00",
-  "LastUpdate_Ratings": "2023-11-23T11:59:20.4053751+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:09:27.2561905+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:04:10.5006569+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:14:31.8421641+00:00"
 }

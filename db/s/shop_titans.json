@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7171,9 +7171,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141100,
+  "EOS_Progressed": 141111,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1088,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29541,6 +29541,11 @@
       "Time": "2023-11-23T12:08:11.7021561+00:00",
       "NumProgressed": 141100,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-11-23T13:13:36.9395504+00:00",
+      "NumProgressed": 141111,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 112,
@@ -29574,9 +29579,9 @@
       "ID": "advlevel04",
       "SetID": "anfd17p",
       "Name": "Cream of the Crop",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1270
     },
     {
       "ID": "advlevel05",
@@ -29720,7 +29725,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7055
+      "UsersEstimate": 7056
     },
     {
       "ID": "chest02",
@@ -29784,7 +29789,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7055
+      "UsersEstimate": 7056
     },
     {
       "ID": "commonres02",
@@ -30024,7 +30029,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7055
+      "UsersEstimate": 7056
     },
     {
       "ID": "gold02",
@@ -30368,7 +30373,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7055
+      "UsersEstimate": 7056
     },
     {
       "ID": "twinenchant01",
@@ -30447,15 +30452,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141100,
+      "Progressed": 141111,
       "Completed": 195
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-22T17:03:17.3746506+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:08:11.7021557+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:13:36.93955+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-23T12:03:04.7895863+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:08:11.7023508+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:08:25.0267353+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:13:36.939807+00:00"
 }

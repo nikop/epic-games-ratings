@@ -5,17 +5,17 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 17.00% | ~727 |
-| Feeling the beat! | 17.00% | ~727 |
-| You can pet the cat! | 16.00% | ~684 |
-| Who put gears in there? | 15.00% | ~641 |
+| Start with a bang! | 17.00% | ~728 |
+| Feeling the beat! | 17.00% | ~728 |
+| You can pet the cat! | 16.00% | ~685 |
+| Who put gears in there? | 15.00% | ~642 |
 | Cream of the Crop | 14.00% | ~599 |
 | Thanks for the free chip, Peppermint! | 14.00% | ~599 |
 | You got this, Peppermint? | 13.00% | ~556 |
-| Perfect Parry | 12.00% | ~513 |
-| Alright, that felt AWESOME! | 12.00% | ~513 |
-| This will cost you big time | 11.00% | ~470 |
-| Uh, they were broken when I got here | 11.00% | ~470 |
+| Perfect Parry | 12.00% | ~514 |
+| Alright, that felt AWESOME! | 12.00% | ~514 |
+| This will cost you big time | 11.00% | ~471 |
+| Uh, they were broken when I got here | 11.00% | ~471 |
 | I play my own way! | 10.00% | ~428 |
 | Z-shielding's got nothing on us! | 10.00% | ~428 |
 | Kissing the sky! | 10.00% | ~428 |
@@ -29,8 +29,8 @@ Rating: 4.87 (Ranked 24)
 | You must like calling me in, Chai | 8.00% | ~342 |
 | Does that say weakpoint? | 8.00% | ~342 |
 | NOW we got a kickass hideout! | 8.00% | ~224 |
-| I have to read these things? | 7.00% | ~299 |
-| Perfecter Parry-er! | 7.00% | ~299 |
+| I have to read these things? | 7.00% | ~300 |
+| Perfecter Parry-er! | 7.00% | ~300 |
 | Well that was a rush! | 5.00% | ~214 |
 | Beat-hit mania | 5.00% | ~214 |
 | That's a lot of junk metal… | 5.00% | ~214 |
@@ -49,7 +49,7 @@ Rating: 4.87 (Ranked 24)
 | First we parry, then we counter | 1.00% | ~43 |
 | You ever parry a volcano? | 1.00% | ~43 |
 | New bad guys? No problem! | 1.00% | ~28 |
-| OK, well THEY came after ME! | 0.90% | ~38 |
+| OK, well THEY came after ME! | 0.90% | ~39 |
 | Easy Listening | 0.60% | ~26 |
 | Choose your own adventure | 0.60% | ~17 |
 | Problem solved... wait, what? | 0.50% | ~21 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,275 (Ranked 194)  
+Progressed: 4,280 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 8 (0.19%) (Ranked 260)
 | 2023-11-20 | 4,232 | 8 |
 | 2023-11-21 | 4,235 | 8 |
 | 2023-11-22 | 4,261 | 8 |
-| 2023-11-23 | 4,275 | 8 |
+| 2023-11-23 | 4,280 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

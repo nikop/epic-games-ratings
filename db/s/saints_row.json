@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4065,9 +4065,9 @@
       "Count": 1077
     }
   ],
-  "EOS_Progressed": 79682,
+  "EOS_Progressed": 79683,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28665,6 +28665,11 @@
       "Time": "2023-11-23T12:09:12.9071893+00:00",
       "NumProgressed": 79682,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-23T13:14:21.7086439+00:00",
+      "NumProgressed": 79683,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -28724,7 +28729,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 20717
+      "UsersEstimate": 20718
     },
     {
       "ID": "complet_epilogue_mission",
@@ -28772,7 +28777,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 24701
+      "UsersEstimate": 24702
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -28780,7 +28785,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 25498
+      "UsersEstimate": 25499
     },
     {
       "ID": "complete_mission_1",
@@ -28804,7 +28809,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29482
+      "UsersEstimate": 29483
     },
     {
       "ID": "cutting_edge_materials",
@@ -28852,7 +28857,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 20717
+      "UsersEstimate": 20718
     },
     {
       "ID": "empire_tier_3",
@@ -28908,7 +28913,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 11155
+      "UsersEstimate": 11156
     },
     {
       "ID": "get_betrayed",
@@ -28930,9 +28935,9 @@
       "ID": "hit_max_level",
       "SetID": "3ib2d0i",
       "Name": "Took It to The Limit",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 12749
+      "UsersEstimate": 13546
     },
     {
       "ID": "infinite_boost_refill",
@@ -28948,7 +28953,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15936
+      "UsersEstimate": 15937
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -29060,7 +29065,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33466
+      "UsersEstimate": 33467
     },
     {
       "ID": "whole_map_purple",
@@ -29099,13 +29104,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 79682,
+      "Progressed": 79683,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 51319,
+      "Progressed": 51320,
       "Completed": 4359
     }
   ],
@@ -29113,8 +29118,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-23T08:03:00.733749+00:00",
-  "LastChanged_Achievements": "2023-11-23T12:09:12.9071888+00:00",
+  "LastChanged_Achievements": "2023-11-23T13:14:21.7086435+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:50.0708943+00:00",
-  "LastUpdate_Ratings": "2023-11-23T12:03:22.5841775+00:00",
-  "LastUpdate_Achievements": "2023-11-23T12:09:12.9073308+00:00"
+  "LastUpdate_Ratings": "2023-11-23T13:08:37.2619326+00:00",
+  "LastUpdate_Achievements": "2023-11-23T13:14:21.708776+00:00"
 }
