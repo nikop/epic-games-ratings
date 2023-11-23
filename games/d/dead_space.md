@@ -12,8 +12,8 @@ Rating: 4.64 (Ranked 333)
 | Brute Force | 66.00% | ~1,280 |
 | Cannon Fodder | 62.00% | ~1,202 |
 | Autofire | 58.00% | ~1,125 |
-| True Believer | 57.00% | ~1,105 |
-| Story Teller | 56.00% | ~1,086 |
+| True Believer | 58.00% | ~1,125 |
+| Story Teller | 57.00% | ~1,105 |
 | Raise the Stakes | 56.00% | ~1,086 |
 | Surgeon | 54.00% | ~1,047 |
 | Freeze | 52.00% | ~1,008 |
@@ -40,7 +40,7 @@ Rating: 4.64 (Ranked 333)
 | Final Regeneration | 25.00% | ~485 |
 | Full Clearance | 24.00% | ~465 |
 | Pusher | 23.00% | ~446 |
-| Z-Baller | 22.00% | ~427 |
+| Z-Baller | 23.00% | ~446 |
 | Marked | 21.00% | ~407 |
 | Eviscerator | 19.00% | ~368 |
 | Backbreaker | 14.00% | ~271 |

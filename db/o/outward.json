@@ -3,11 +3,11 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 505,
-  "Ranking_Popularity": 471,
+  "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3675,
+  "EOS_Progressed": 3676,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5623,6 +5623,11 @@
       "Time": "2023-11-22T23:04:50.4817938+00:00",
       "NumProgressed": 3675,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T11:04:31.0013281+00:00",
+      "NumProgressed": 3676,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5666,7 +5671,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "CordonBleu_28",
@@ -5730,7 +5735,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "HomeSweetHome_25",
@@ -5842,7 +5847,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -5858,7 +5863,7 @@
       "Name": "Tapped!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5954,7 +5959,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5969,15 +5974,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3675,
+      "Progressed": 3676,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-23T10:04:59.3478106+00:00",
+  "LastChanged_Achievements": "2023-11-23T11:04:31.0013277+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:00:34.7220021+00:00",
-  "LastUpdate_Achievements": "2023-11-23T10:04:59.3478516+00:00"
+  "LastUpdate_Ratings": "2023-11-23T11:00:09.7818249+00:00",
+  "LastUpdate_Achievements": "2023-11-23T11:04:31.0013955+00:00"
 }

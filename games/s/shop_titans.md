@@ -86,6 +86,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 0.80% | ~1,129 |
 | Booty by the Boatload | 0.80% | ~1,129 |
 | Archivist | 0.80% | ~1,129 |
+| Industrial Evolution | 0.80% | ~1,129 |
 | Ritualist | 0.80% | ~1,129 |
 | By Your Powers Combined... | 0.80% | ~1,129 |
 | Item of Renown | 0.80% | ~1,129 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.80% | ~1,129 |
 | Constellated | 0.70% | ~988 |
 | Fillin' the Bin | 0.70% | ~988 |
-| Industrial Evolution | 0.70% | ~988 |
 | A Legend is Born | 0.70% | ~988 |
 | Economy of Scarce | 0.70% | ~988 |
 | Thank You Tom Nook | 0.60% | ~847 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,092 (Ranked 80)  
+Progressed: 141,094 (Ranked 80)  
 Completed: 195 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 195 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
-| 2023-11-23 | 141,092 | 195 |
+| 2023-11-23 | 141,094 | 195 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

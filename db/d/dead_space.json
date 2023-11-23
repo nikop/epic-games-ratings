@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -715,7 +715,7 @@
   ],
   "EOS_Progressed": 1939,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -6073,9 +6073,9 @@
       "ID": "achievement_28",
       "SetID": "222fo9l",
       "Name": "Story Teller",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1105
     },
     {
       "ID": "achievement_29",
@@ -6169,9 +6169,9 @@
       "ID": "achievement_39",
       "SetID": "222fo9l",
       "Name": "Z-Baller",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 446
     },
     {
       "ID": "achievement_4",
@@ -6249,9 +6249,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1125
     },
     {
       "ID": "achievement_6",
@@ -6298,8 +6298,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-23T06:58:07.5368544+00:00",
-  "LastChanged_Achievements": "2023-11-23T10:06:31.753933+00:00",
+  "LastChanged_Achievements": "2023-11-23T11:05:55.1273736+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-23T09:58:32.8741537+00:00",
-  "LastUpdate_Achievements": "2023-11-23T10:06:31.7539788+00:00"
+  "LastUpdate_Ratings": "2023-11-23T10:58:19.0777468+00:00",
+  "LastUpdate_Achievements": "2023-11-23T11:05:55.1274728+00:00"
 }

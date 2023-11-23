@@ -4,39 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 96.00% | ~24 |
-| First to the post | 96.00% | ~24 |
-| Home Sweet Home | 92.00% | ~23 |
-| A kind of Magic | 88.00% | ~22 |
-| Connected | 88.00% | ~22 |
-| Expansion | 80.00% | ~20 |
-| Harvest Time | 76.00% | ~19 |
-| Artificer's Apprentice | 68.00% | ~17 |
-| Mine! | 64.00% | ~16 |
-| Alchemist's Apprentice | 60.00% | ~15 |
-| Get out of here! | 60.00% | ~15 |
-| Friend of Lyraine | 56.00% | ~14 |
-| Fly the friendly Sky | 56.00% | ~14 |
-| The Circle | 52.00% | ~13 |
-| Necromancer's Apprentice | 48.00% | ~12 |
-| Redecorating | 44.00% | ~11 |
-| Friend of Sevenkeeps | 36.00% | ~9 |
-| Slave to the rhythm | 28.00% | ~7 |
-| Sevenkeeps Seat of Kings | 28.00% | ~7 |
-| Castle Meldec | 24.00% | ~6 |
-| Friend of Gillyshire | 24.00% | ~6 |
-| Break Free | 24.00% | ~6 |
-| Philo's Tale | 20.00% | ~5 |
-| Friend of Alluvyan | 20.00% | ~5 |
-| Friend of Connach | 20.00% | ~5 |
-| Friend of Bastion | 20.00% | ~5 |
-| Bad JuJu | 20.00% | ~5 |
-| Defeat Gor | 16.00% | ~4 |
-| Defeat Uram | 16.00% | ~4 |
-| Stormwatch Faste | 16.00% | ~4 |
-| Friend of Orgash | 16.00% | ~4 |
-| Friend of Silver Drift Hollow | 16.00% | ~4 |
-| Friend of Windholme | 16.00% | ~4 |
+| Enough rooms to swing a cat | 96.00% | ~25 |
+| First to the post | 96.00% | ~25 |
+| Home Sweet Home | 92.00% | ~24 |
+| A kind of Magic | 88.00% | ~23 |
+| Connected | 88.00% | ~23 |
+| Expansion | 81.00% | ~21 |
+| Harvest Time | 77.00% | ~20 |
+| Artificer's Apprentice | 69.00% | ~18 |
+| Mine! | 65.00% | ~17 |
+| Get out of here! | 62.00% | ~16 |
+| Alchemist's Apprentice | 58.00% | ~15 |
+| Friend of Lyraine | 58.00% | ~15 |
+| Fly the friendly Sky | 58.00% | ~15 |
+| The Circle | 54.00% | ~14 |
+| Necromancer's Apprentice | 50.00% | ~13 |
+| Redecorating | 46.00% | ~12 |
+| Friend of Sevenkeeps | 38.00% | ~10 |
+| Slave to the rhythm | 31.00% | ~8 |
+| Sevenkeeps Seat of Kings | 31.00% | ~8 |
+| Castle Meldec | 23.00% | ~6 |
+| Friend of Alluvyan | 23.00% | ~6 |
+| Friend of Gillyshire | 23.00% | ~6 |
+| Friend of Bastion | 23.00% | ~6 |
+| Break Free | 23.00% | ~6 |
+| Bad JuJu | 23.00% | ~6 |
+| Philo's Tale | 19.00% | ~5 |
+| Stormwatch Faste | 19.00% | ~5 |
+| Friend of Orgash | 19.00% | ~5 |
+| Friend of Connach | 19.00% | ~5 |
+| Defeat Gor | 15.00% | ~4 |
+| Defeat Uram | 15.00% | ~4 |
+| Friend of Silver Drift Hollow | 15.00% | ~4 |
+| Friend of Windholme | 15.00% | ~4 |
+| A Joke | 15.00% | ~4 |
 | Defeat Hokan | 12.00% | ~3 |
 | Defeat Ianna | 12.00% | ~3 |
 | Defeat Isgrimm | 12.00% | ~3 |
@@ -46,7 +47,6 @@
 | Silver Drift Hollow Mine | 12.00% | ~3 |
 | A Master of Magic | 12.00% | ~3 |
 | Magic Academy | 12.00% | ~3 |
-| A Joke | 12.00% | ~3 |
 | Get to the Airship! | 8.00% | ~2 |
 | Defeat Rohen | 8.00% | ~2 |
 | Defeat Undergast | 8.00% | ~2 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 537)  
+Progressed: 26 (Ranked 535)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-19 | 21 | 0 |
 | 2023-11-21 | 22 | 0 |
 | 2023-11-22 | 25 | 0 |
+| 2023-11-23 | 26 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

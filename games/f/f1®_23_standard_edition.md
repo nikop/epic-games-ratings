@@ -5,20 +5,20 @@ Rating: 4.67 (Ranked 274)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,517 |
-| On the Top Step | 88.00% | ~5,165 |
-| Setting up for Success | 77.00% | ~4,519 |
+| Getting on the Step | 94.00% | ~5,518 |
+| On the Top Step | 88.00% | ~5,166 |
+| Setting up for Success | 77.00% | ~4,520 |
 | Team Orders | 75.00% | ~4,402 |
-| Engineer | 55.00% | ~3,228 |
-| Familiar Faces | 48.00% | ~2,817 |
+| Engineer | 55.00% | ~3,229 |
+| Familiar Faces | 48.00% | ~2,818 |
 | Sharing the Love | 42.00% | ~2,465 |
 | Going the Extra Mile | 42.00% | ~2,465 |
-| Hitting a Season | 38.00% | ~2,230 |
+| Hitting a Season | 38.00% | ~2,231 |
 | A Dozen Pieces | 33.00% | ~1,937 |
 | Challenge Yourself | 33.00% | ~1,937 |
-| Making History | 31.00% | ~1,819 |
+| Making History | 31.00% | ~1,820 |
 | Network Success | 27.00% | ~1,585 |
-| Writing a new Chapter | 25.00% | ~1,467 |
+| Writing a new Chapter | 25.00% | ~1,468 |
 | Spring Cleaning | 24.00% | ~1,409 |
 | Reduce | 20.00% | ~1,174 |
 | Ups and Downs | 20.00% | ~1,174 |
@@ -41,7 +41,7 @@ Rating: 4.67 (Ranked 274)
 | Smooth Operator | 7.00% | ~411 |
 | For all Those Back at the Factory | 6.00% | ~352 |
 | Living up to Expectations | 6.00% | ~352 |
-| Peak Performance | 5.00% | ~293 |
+| Peak Performance | 5.00% | ~294 |
 | Loyal Bond | 4.00% | ~235 |
 | Seasoned Rookie | 3.00% | ~176 |
 | Hitting a Century | 3.00% | ~176 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 274)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,869 (Ranked 186)  
+Progressed: 5,870 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 5,836 | 0 |
 | 2023-11-21 | 5,850 | 0 |
 | 2023-11-22 | 5,863 | 0 |
-| 2023-11-23 | 5,869 | 0 |
+| 2023-11-23 | 5,870 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 524)  
 Sum: 87 (Ranked 456)  

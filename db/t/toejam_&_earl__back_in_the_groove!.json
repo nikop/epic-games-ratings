@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57928,
+  "EOS_Progressed": 57929,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12951,6 +12951,11 @@
       "Time": "2023-11-23T08:03:27.6867029+00:00",
       "NumProgressed": 57928,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-23T11:03:30.2535836+00:00",
+      "NumProgressed": 57929,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13250,7 +13255,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "SecretLevel",
@@ -13282,7 +13287,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -13353,7 +13358,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57928,
+      "Progressed": 57929,
       "Completed": 6
     }
   ],
@@ -13361,8 +13366,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-23T10:03:52.5107313+00:00",
+  "LastChanged_Achievements": "2023-11-23T11:03:30.2535833+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.5926184+00:00",
-  "LastUpdate_Ratings": "2023-11-23T09:57:39.2536876+00:00",
-  "LastUpdate_Achievements": "2023-11-23T10:03:52.5108144+00:00"
+  "LastUpdate_Ratings": "2023-11-23T10:57:30.5441197+00:00",
+  "LastUpdate_Achievements": "2023-11-23T11:03:30.2536956+00:00"
 }

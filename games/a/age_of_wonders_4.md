@@ -35,11 +35,11 @@ Rating: 4.61 (Ranked 383)
 | Dawn of the Dread | 0.80% | ~43 |
 | Return of the Wizard King | 0.70% | ~38 |
 | Fiery Friend | 0.70% | ~38 |
+| Blood of the Dragon | 0.70% | ~38 |
 | Prometheus Avenged | 0.70% | ~38 |
 | Arch Mage | 0.60% | ~33 |
 | Crimson Caldera | 0.60% | ~33 |
 | Preparation Is Everything | 0.60% | ~33 |
-| Blood of the Dragon | 0.60% | ~33 |
 | A Conqueror's Cohort | 0.60% | ~33 |
 | The Creator | 0.50% | ~27 |
 | Lord of Chaos | 0.40% | ~22 |

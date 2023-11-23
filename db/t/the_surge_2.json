@@ -3310,9 +3310,9 @@
       "ID": "ACHV_09",
       "SetID": "8p5mlmc",
       "Name": "Bad Dog",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 310
     },
     {
       "ID": "ACHV_10",
@@ -3711,8 +3711,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-11-23T10:05:28.7594398+00:00",
+  "LastChanged_Achievements": "2023-11-23T11:04:57.7262008+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:00.2297931+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:00:24.1287253+00:00",
-  "LastUpdate_Achievements": "2023-11-23T10:05:28.7594984+00:00"
+  "LastUpdate_Ratings": "2023-11-23T10:59:59.8453874+00:00",
+  "LastUpdate_Achievements": "2023-11-23T11:04:57.726274+00:00"
 }

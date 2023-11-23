@@ -11,24 +11,24 @@ Rating: 4.64 (Ranked 333)
 | First Bounty Down | 3.00% | ~736 |
 | G3 Graduation | 3.00% | ~736 |
 | Cold-Blooded Driller | 3.00% | ~736 |
-| Creature Feature | 2.00% | ~490 |
-| Bring A Knife to a Gun Fight | 2.00% | ~490 |
-| Lezduit! | 2.00% | ~490 |
-| RIP Davey Glutes | 2.00% | ~490 |
-| We're All Very Impressed, Trust Me | 2.00% | ~490 |
-| Legendary Bounty Hunter | 2.00% | ~490 |
-| Hardest Battle In The Game | 2.00% | ~490 |
-| Self-Actualization | 2.00% | ~490 |
-| Who's The Boss? | 2.00% | ~490 |
-| Fallout Doesn't Let You Do This | 2.00% | ~490 |
-| Don't Knife The Hand That Feeds | 2.00% | ~490 |
-| Spent 15 Hours At The Alien Strip Club | 2.00% | ~490 |
-| Series Wrap on Suit-O | 2.00% | ~490 |
+| Creature Feature | 2.00% | ~491 |
+| Bring A Knife to a Gun Fight | 2.00% | ~491 |
+| Lezduit! | 2.00% | ~491 |
+| RIP Davey Glutes | 2.00% | ~491 |
+| We're All Very Impressed, Trust Me | 2.00% | ~491 |
+| Legendary Bounty Hunter | 2.00% | ~491 |
+| Hardest Battle In The Game | 2.00% | ~491 |
+| Self-Actualization | 2.00% | ~491 |
+| Who's The Boss? | 2.00% | ~491 |
+| Fallout Doesn't Let You Do This | 2.00% | ~491 |
+| Don't Knife The Hand That Feeds | 2.00% | ~491 |
+| Spent 15 Hours At The Alien Strip Club | 2.00% | ~491 |
+| Series Wrap on Suit-O | 2.00% | ~491 |
 | Eatin' Good in the Neighborhood | 1.00% | ~245 |
 | Eye Scream, You Scream | 1.00% | ~245 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~18 |
 | Bathe With A Giant Nude Alien | 1.00% | ~18 |
-| Mux Ado About Shipping | 0.70% | ~13 |
+| Mux Ado About Shipping | 0.80% | ~15 |
 | Gunning For Your Job | 0.60% | ~147 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.50% | ~123 |
 | Fall In Love With A Parasite | 0.50% | ~9 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 333)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,525 (Ranked 128)  
+Progressed: 24,526 (Ranked 128)  
 Completed: 13 (0.05%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 13 (0.05%) (Ranked 306)
 | 2023-11-20 | 24,506 | 13 |
 | 2023-11-21 | 24,511 | 13 |
 | 2023-11-22 | 24,520 | 13 |
-| 2023-11-23 | 24,525 | 13 |
+| 2023-11-23 | 24,526 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

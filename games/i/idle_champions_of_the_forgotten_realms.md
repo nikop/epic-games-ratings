@@ -143,6 +143,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~236 |
 | No Good at All | 0.10% | ~236 |
 | Fall From Grace | 0.10% | ~236 |
+| Captured! | 0.10% | ~236 |
 | Home Field Advantage | 0.10% | ~236 |
 | Double Vision | 0.10% | ~236 |
 | Underground Railroad | 0.10% | ~236 |
@@ -366,6 +367,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fight Dragons with Dragons | 0.10% | ~203 |
 | Questlines | 0.10% | ~203 |
 | Raggadragga's Crew | 0.10% | ~203 |
+| Just The Worst | 0.10% | ~203 |
 | Bel's Forge | 0.10% | ~203 |
 | Fire and Brimstone | 0.10% | ~203 |
 | Into the Unknown | 0.10% | ~203 |
@@ -519,14 +521,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Play's the Thing! | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Welcome to the Band | 0.00% | ~0 |
-| Captured! | 0.00% | ~0 |
 | Invisible Shadows | 0.00% | ~0 |
 | Form Ranks | 0.00% | ~0 |
 | Faerûn's Most Wanted | 0.00% | ~0 |
 | Vault of Dragons | 0.00% | ~0 |
 | Vault of Pixies | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
-| Just The Worst | 0.00% | ~0 |
 | Extreme Heat | 0.00% | ~0 |
 | Prisoners of Lolth | 0.00% | ~0 |
 | Lone Wolf Party | 0.00% | ~0 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | 3,720 to 1 | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,463 (Ranked 64)  
+Progressed: 236,466 (Ranked 64)  
 Completed: 2,469 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,469 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,463 | 2,469 |
+| 2023-11-23 | 236,466 | 2,469 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,580 (Ranked 41)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -479,7 +479,7 @@
   ],
   "EOS_Progressed": 5431,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7677,9 +7677,9 @@
       "ID": "48",
       "SetID": "7132754",
       "Name": "Blood of the Dragon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "49",
@@ -7796,8 +7796,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-23T07:02:54.0495595+00:00",
-  "LastChanged_Achievements": "2023-11-23T10:04:57.5891366+00:00",
+  "LastChanged_Achievements": "2023-11-23T11:04:29.4352764+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-23T10:03:03.7919085+00:00",
-  "LastUpdate_Achievements": "2023-11-23T10:04:57.5892388+00:00"
+  "LastUpdate_Ratings": "2023-11-23T11:02:44.7341467+00:00",
+  "LastUpdate_Achievements": "2023-11-23T11:04:29.4353668+00:00"
 }

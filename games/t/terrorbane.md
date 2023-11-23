@@ -18,8 +18,8 @@
 | Bugged, not stupid | 14.00% | ~6 |
 | Hackerman | 14.00% | ~6 |
 | A Rank Bug-catcher | 12.00% | ~5 |
+| S Rank Bug-catcher | 12.00% | ~5 |
 | Deepest lore | 12.00% | ~5 |
-| S Rank Bug-catcher | 10.00% | ~4 |
 | Thanks for Playing | 10.00% | ~4 |
 | Pool party | 7.00% | ~3 |
 | Brute forcing | 5.00% | ~2 |

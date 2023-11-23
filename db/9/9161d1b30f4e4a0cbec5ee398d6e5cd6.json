@@ -2,9 +2,9 @@
   "ID": "9161d1b30f4e4a0cbec5ee398d6e5cd6",
   "Name": "Quantum Recharged",
   "ProductSlug": "quantum-recharged-6553fd",
-  "Ranking_EOS_Progress": 694,
+  "Ranking_EOS_Progress": 663,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-11-09T14:05:36.8753035+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T11:08:46.8175312+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -50,7 +55,7 @@
       "ID": "ACH_Acquire_Pickups",
       "SetID": "a2lh3dj",
       "Name": "Built to Last",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -98,7 +103,7 @@
       "ID": "ACH_Kill_Enemies_With_Single_Deadzone",
       "SetID": "a2lh3dj",
       "Name": "The Eleven",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "ACH_Kill_Enemies_With_Single_Deadzone_2",
       "SetID": "a2lh3dj",
       "Name": "Operator",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "ACH_Maintain_Max_Combo",
       "SetID": "a2lh3dj",
       "Name": "Unbroken Chain",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -147,13 +152,13 @@
     {
       "ID": "a2lh3dj",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-27T17:02:16.8413806+00:00",
-  "LastChanged_Achievements": "2023-11-23T10:08:51.2579297+00:00",
+  "LastChanged_Achievements": "2023-11-23T11:08:46.8175307+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:42.4688982+00:00",
-  "LastUpdate_Ratings": "2023-11-23T09:59:44.7889327+00:00",
-  "LastUpdate_Achievements": "2023-11-23T10:08:51.2579395+00:00"
+  "LastUpdate_Ratings": "2023-11-23T10:59:24.2608742+00:00",
+  "LastUpdate_Achievements": "2023-11-23T11:08:46.8175419+00:00"
 }

@@ -123,7 +123,7 @@
   ],
   "EOS_Progressed": 479,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1286,9 +1286,9 @@
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "IntoTheMachine",
@@ -1607,8 +1607,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-23T03:59:15.2049017+00:00",
-  "LastChanged_Achievements": "2023-11-23T10:04:30.9639968+00:00",
+  "LastChanged_Achievements": "2023-11-23T11:04:05.1966307+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-23T09:59:48.0633599+00:00",
-  "LastUpdate_Achievements": "2023-11-23T10:04:30.9640354+00:00"
+  "LastUpdate_Ratings": "2023-11-23T10:59:27.1840113+00:00",
+  "LastUpdate_Achievements": "2023-11-23T11:04:05.1966903+00:00"
 }
