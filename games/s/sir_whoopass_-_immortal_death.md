@@ -59,21 +59,21 @@
 | Grumpy Immortal | 10.00% | ~13 |
 | I drink, but I'm not a drunk! | 9.00% | ~12 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~10 |
-| I want to throw up! | 7.00% | ~9 |
+| I want to throw up! | 8.00% | ~10 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~9 |
 | Scrambled Eggs | 7.00% | ~9 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~6 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~6 |
 | Ancient Ruins of Leaky Roof | 5.00% | ~6 |
+| Fifty Shades of Gruyere | 4.00% | ~5 |
 | Ancient Ruins of Empty Echoes | 4.00% | ~5 |
 | Ancient Ruins of Vitamin D Addition | 4.00% | ~5 |
+| Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~5 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~5 |
+| Ancient Ruins of Stuffed Pantrys | 4.00% | ~5 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~5 |
 | Out of bounds | 4.00% | ~5 |
-| Fifty Shades of Gruyere | 3.00% | ~4 |
-| Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 3.00% | ~4 |
-| Ancient Ruins of Stuffed Pantrys | 3.00% | ~4 |
 | Ancient Ruins of Chilly Winds | 3.00% | ~4 |
 | European karaoke king | 3.00% | ~4 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~3 |

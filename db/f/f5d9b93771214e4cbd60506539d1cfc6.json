@@ -3,10 +3,10 @@
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
   "Ranking_Rating": 526,
-  "Ranking_Popularity": 552,
-  "Ranking_PopularitySum": 552,
+  "Ranking_Popularity": 553,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153932,
+  "EOS_Progressed": 153936,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 954,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19148,6 +19148,11 @@
       "Time": "2023-11-23T14:08:00.8723475+00:00",
       "NumProgressed": 153932,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2023-11-23T15:08:18.5633129+00:00",
+      "NumProgressed": 153936,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 31,
@@ -19167,7 +19172,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 107752
+      "UsersEstimate": 107755
     },
     {
       "ID": "EAwards_10",
@@ -19175,7 +19180,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 21550
+      "UsersEstimate": 21551
     },
     {
       "ID": "EAwards_11",
@@ -19183,7 +19188,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32326
+      "UsersEstimate": 32327
     },
     {
       "ID": "EAwards_12",
@@ -19191,7 +19196,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 26168
+      "UsersEstimate": 26169
     },
     {
       "ID": "EAwards_13",
@@ -19207,7 +19212,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60033
+      "UsersEstimate": 60035
     },
     {
       "ID": "EAwards_15",
@@ -19231,7 +19236,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33865
+      "UsersEstimate": 33866
     },
     {
       "ID": "EAwards_18",
@@ -19239,7 +19244,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33865
+      "UsersEstimate": 33866
     },
     {
       "ID": "EAwards_19",
@@ -19255,7 +19260,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43101
+      "UsersEstimate": 43102
     },
     {
       "ID": "EAwards_20",
@@ -19343,7 +19348,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 29247
+      "UsersEstimate": 29248
     },
     {
       "ID": "EAwards_30",
@@ -19375,7 +19380,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 38483
+      "UsersEstimate": 38484
     },
     {
       "ID": "EAwards_7",
@@ -19391,7 +19396,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 58494
+      "UsersEstimate": 58496
     },
     {
       "ID": "EAwards_9",
@@ -19406,7 +19411,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 153932,
+      "Progressed": 153936,
       "Completed": 340
     }
   ],
@@ -19414,8 +19419,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:08:00.8723471+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:08:18.5633125+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:52.4824712+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:57:26.5137306+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:08:00.872441+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:57:30.3906011+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:08:18.5634056+00:00"
 }

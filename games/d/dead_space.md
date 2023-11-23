@@ -12,13 +12,13 @@ Rating: 4.64 (Ranked 333)
 | Brute Force | 66.00% | ~1,282 |
 | Cannon Fodder | 62.00% | ~1,204 |
 | Autofire | 58.00% | ~1,126 |
+| True Believer | 58.00% | ~1,126 |
 | Story Teller | 57.00% | ~1,107 |
-| True Believer | 57.00% | ~1,107 |
 | Raise the Stakes | 56.00% | ~1,088 |
 | Surgeon | 54.00% | ~1,049 |
+| Greenhouse Effect | 53.00% | ~1,029 |
 | Freeze | 52.00% | ~1,010 |
 | Exterminator | 52.00% | ~1,010 |
-| Greenhouse Effect | 52.00% | ~1,010 |
 | S.O.S. | 47.00% | ~913 |
 | Full Arsenal | 46.00% | ~893 |
 | Get Off My Ship! | 45.00% | ~874 |
@@ -54,7 +54,7 @@ Rating: 4.64 (Ranked 333)
 | One Gun | 2.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,942 (Ranked 226)  
-Completed: 10 (0.51%) (Ranked 201)  
+Completed: 11 (0.57%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 10 (0.51%) (Ranked 201)
 | 2023-11-20 | 1,910 | 10 |
 | 2023-11-21 | 1,918 | 10 |
 | 2023-11-22 | 1,929 | 10 |
-| 2023-11-23 | 1,942 | 10 |
+| 2023-11-23 | 1,942 | 11 |
 ## Awards
 Max (Great Boss Battles): 114  (Ranked 343)  
 Sum: 114 (Ranked 437)  

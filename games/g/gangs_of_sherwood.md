@@ -14,6 +14,7 @@
 | Tap Dancing | 50.00% | ~3 |
 | Right between the eyes | 50.00% | ~3 |
 | MAX LEVEL | 50.00% | ~3 |
+| Brilliant Executioner | 33.00% | ~2 |
 | The Gang prevails | 33.00% | ~2 |
 | Oo-De-Lally | 33.00% | ~2 |
 | Finish Him! | 33.00% | ~2 |
@@ -26,7 +27,6 @@
 | First Aid | 33.00% | ~2 |
 | Merry Go Round | 33.00% | ~2 |
 | Starry Night | 17.00% | ~1 |
-| Brilliant Executioner | 17.00% | ~1 |
 | King of the Iron Fist | 17.00% | ~1 |
 | Ultra Combo | 17.00% | ~1 |
 | Bold and Bossy | 17.00% | ~1 |
@@ -36,6 +36,7 @@
 | A Gest of Robyn Hode | 17.00% | ~1 |
 | Assault on the Ram | 17.00% | ~1 |
 | Into the Lion's Den | 17.00% | ~1 |
+| Money can not buy happiness | 17.00% | ~1 |
 | Haute Couture | 17.00% | ~1 |
 | Ascending Will | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
@@ -49,7 +50,6 @@
 | Sherwood Moment 37 | 0.00% | ~0 |
 | Sky High Fighter | 0.00% | ~0 |
 | The Crowkiller | 0.00% | ~0 |
-| Money can not buy happiness | 0.00% | ~0 |
 | Only Child | 0.00% | ~0 |
 | The transmuted game | 0.00% | ~0 |
 | The Arsenal | 0.00% | ~0 |

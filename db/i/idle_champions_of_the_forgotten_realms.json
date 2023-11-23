@@ -8251,9 +8251,9 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236475,
+  "EOS_Progressed": 236483,
   "EOS_Completed": 2470,
-  "EOS_NewPlayers": 1192,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32611,6 +32611,11 @@
       "Time": "2023-11-23T14:09:08.5628858+00:00",
       "NumProgressed": 236475,
       "NumCompleted": 2470
+    },
+    {
+      "Time": "2023-11-23T15:09:33.158026+00:00",
+      "NumProgressed": 236483,
+      "NumCompleted": 2470
     }
   ],
   "TotalAchievements": 532,
@@ -33980,9 +33985,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_210",
@@ -34116,9 +34121,9 @@
       "ID": "objective_completed_248",
       "SetID": "cc37lbc",
       "Name": "Form Ranks",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_249",
@@ -36564,9 +36569,9 @@
       "ID": "objective_completed_1042",
       "SetID": "415jc5c",
       "Name": "Willing to Sacrifice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1047",
@@ -36877,21 +36882,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202749,
-      "Completed": 3936
+      "Progressed": 202757,
+      "Completed": 3937
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236475,
+      "Progressed": 236483,
       "Completed": 2470
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-23T13:57:54.2511643+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:09:08.5628855+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:09:33.1580255+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:57:54.2511651+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:09:08.5650719+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:58:01.4685093+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:09:33.1601835+00:00"
 }

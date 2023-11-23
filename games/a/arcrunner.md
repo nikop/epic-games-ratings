@@ -11,8 +11,8 @@
 | Unlocked and Loaded | 22.00% | ~180 |
 | Terminated II | 19.00% | ~155 |
 | The City | 17.00% | ~139 |
+| Terminated III | 15.00% | ~123 |
 | Challenge Mastered | 14.00% | ~115 |
-| Terminated III | 14.00% | ~115 |
 | Nanonic II | 12.00% | ~98 |
 | Fully Modded | 10.00% | ~82 |
 | Supply Run | 10.00% | ~82 |
@@ -22,8 +22,8 @@
 | The Bigger They Are | 7.00% | ~57 |
 | Rookie | 7.00% | ~57 |
 | Eden Heights | 6.00% | ~49 |
+| Up Close And Personal | 6.00% | ~49 |
 | Outer Core | 5.00% | ~41 |
-| Up Close And Personal | 5.00% | ~41 |
 | Inner Core | 4.00% | ~33 |
 | Integration | 3.00% | ~25 |
 | Trickshot | 2.00% | ~16 |

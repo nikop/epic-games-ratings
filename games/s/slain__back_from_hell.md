@@ -11,8 +11,8 @@ Rating: 4.29 (Ranked 842)
 | Right Back Atcha | 6.00% | ~2,450 |
 | Killed by Death | 5.00% | ~2,041 |
 | Kill 'Em All | 4.00% | ~1,633 |
-| Down Boy! | 2.00% | ~816 |
-| A Snowball's Chance in Hell | 2.00% | ~816 |
+| Down Boy! | 2.00% | ~817 |
+| A Snowball's Chance in Hell | 2.00% | ~817 |
 | Enjoy The Silence | 1.00% | ~408 |
 | Sure Footed As A Goat | 0.90% | ~367 |
 | Backdoor Man | 0.90% | ~367 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 842)
 | Heart Of Steel | 0.10% | ~41 |
 | Death or Glory | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,825 (Ranked 119)  
+Progressed: 40,826 (Ranked 119)  
 Completed: 26 (0.06%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 26 (0.06%) (Ranked 300)
 | 2023-11-20 | 40,692 | 26 |
 | 2023-11-21 | 40,753 | 26 |
 | 2023-11-22 | 40,800 | 26 |
-| 2023-11-23 | 40,825 | 26 |
+| 2023-11-23 | 40,826 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 333)  
 Sum: 127 (Ranked 430)  

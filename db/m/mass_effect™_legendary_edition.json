@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1371,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4646,9 +4646,9 @@
       "ID": "achievement_76",
       "SetID": "d252ncf",
       "Name": "Broke, Blind, and Bedlam",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_77",
@@ -4686,9 +4686,9 @@
       "ID": "achievement_80",
       "SetID": "d252ncf",
       "Name": "Bringer of War",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_81",
@@ -4866,8 +4866,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:08:03.6073171+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:08:21.6766993+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:02:52.7414031+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:08:03.6074782+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:02:56.904945+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:08:21.6768542+00:00"
 }

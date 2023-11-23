@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7026,
+  "EOS_Progressed": 7028,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12889,6 +12889,11 @@
       "Time": "2023-11-23T14:06:10.5889655+00:00",
       "NumProgressed": 7026,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T15:06:35.2179241+00:00",
+      "NumProgressed": 7028,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -12916,7 +12921,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "12",
@@ -12956,7 +12961,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "3",
@@ -12964,7 +12969,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "4",
@@ -13019,7 +13024,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7026,
+      "Progressed": 7028,
       "Completed": 0
     }
   ],
@@ -13027,8 +13032,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:06:10.5889651+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:06:35.2179238+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:26.1738037+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:59:59.582493+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:06:10.5890808+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:00:21.4030709+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:06:35.2179954+00:00"
 }

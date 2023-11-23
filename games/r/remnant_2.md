@@ -5,8 +5,8 @@ Rating: 4.76 (Ranked 127)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Regicide | 0.50% | ~27 |
-| Master of the Dark Arts | 0.50% | ~27 |
+| Regicide | 0.50% | ~28 |
+| Master of the Dark Arts | 0.50% | ~28 |
 | The Killing Jar | 0.20% | ~453 |
 | First of Many | 0.20% | ~453 |
 | Expanding Horizons | 0.10% | ~226 |
@@ -57,12 +57,12 @@ Rating: 4.76 (Ranked 127)
 | Trait Chaser | 0.10% | ~226 |
 | Maxed Out! | 0.10% | ~226 |
 | Transmutate | 0.10% | ~226 |
-| Succession | 0.10% | ~5 |
-| A Foul Feast | 0.10% | ~5 |
-| You Shall Pass | 0.10% | ~5 |
+| Succession | 0.10% | ~6 |
+| A Foul Feast | 0.10% | ~6 |
+| You Shall Pass | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,303 (Ranked 69)  
-Completed: 506 (0.22%) (Ranked 249)  
+Progressed: 226,345 (Ranked 69)  
+Completed: 506 (0.22%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 506 (0.22%) (Ranked 249)
 | 2023-11-20 | 224,687 | 495 |
 | 2023-11-21 | 225,251 | 498 |
 | 2023-11-22 | 225,927 | 503 |
-| 2023-11-23 | 226,303 | 506 |
+| 2023-11-23 | 226,345 | 506 |
 ## Awards
 Max (Great Boss Battles): 2,401  (Ranked 105)  
 Sum: 5,767 (Ranked 130)  

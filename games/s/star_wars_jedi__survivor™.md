@@ -26,7 +26,7 @@ Rating: 4.50 (Ranked 588)
 | Hey, Luke At Us | 50.00% | ~4,259 |
 | At the Precipice | 49.00% | ~4,174 |
 | Into the Abyss | 47.00% | ~4,003 |
-| Riposte | 46.00% | ~3,918 |
+| Riposte | 47.00% | ~4,003 |
 | A Place You Could Call Home | 45.00% | ~3,833 |
 | Greezy Money | 44.00% | ~3,748 |
 | Catch! | 41.00% | ~3,492 |
@@ -130,7 +130,7 @@ Completed: 49 (0.58%) (Ranked 192)
 | 2023-11-23 | 8,518 | 49 |
 ## Awards
 Max (Great Boss Battles): 3,300  (Ranked 95)  
-Sum: 5,075 (Ranked 137)  
+Sum: 5,077 (Ranked 137)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -138,7 +138,7 @@ Diff (max vs sum): -42
 | This game has Amazing Storytelling | 229 |
 | This game has Quickly Understood Controls | 221 |
 | This game has Amazing Characters | 210 |
-| This game has Diverse Characters | 204 |
+| This game has Diverse Characters | 206 |
 | This game is Relaxing | 198 |
 | This game is Highly Recommended | 196 |
 | This game is Extremely Fun | 196 |
@@ -354,4 +354,4 @@ Diff (max vs sum): -42
 | 2023-11-20 | 4.50 | 3,275 | 5,025 |
 | 2023-11-21 | 4.50 | 3,282 | 5,042 |
 | 2023-11-22 | 4.50 | 3,293 | 5,062 |
-| 2023-11-23 | 4.50 | 3,300 | 5,075 |
+| 2023-11-23 | 4.50 | 3,300 | 5,077 |

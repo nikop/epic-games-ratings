@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -920,6 +920,11 @@
       "Time": "2023-11-23T14:08:57.5562421+00:00",
       "NumProgressed": 374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T15:09:20.8037557+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -940,7 +945,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_11",
@@ -948,7 +953,7 @@
       "Name": "Gravel Guru",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_12",
@@ -956,7 +961,7 @@
       "Name": "Snow Specialist",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_13",
@@ -970,9 +975,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_15",
@@ -980,7 +985,7 @@
       "Name": "Master Vehicle Builder",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_16",
@@ -996,7 +1001,7 @@
       "Name": "Your first time?",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_18",
@@ -1018,9 +1023,9 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 292
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_20",
@@ -1060,7 +1065,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_25",
@@ -1074,9 +1079,9 @@
       "ID": "achievement_26",
       "SetID": "jnappp",
       "Name": "Driver\u0027s Alliance",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_3",
@@ -1084,7 +1089,7 @@
       "Name": "Rookie Season",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_4",
@@ -1116,7 +1121,7 @@
       "Name": "NEW PB!",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_8",
@@ -1139,14 +1144,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 378,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:08:57.5562418+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:09:20.8037553+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:00:15.3717611+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:08:57.5562616+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:02:28.3281918+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:09:20.8037759+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1046,
-  "Ranking_Popularity": 552,
-  "Ranking_PopularitySum": 552,
+  "Ranking_Popularity": 553,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 194,
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1891,
+  "EOS_Progressed": 1892,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -7133,6 +7133,11 @@
       "Time": "2023-11-23T14:06:14.8857283+00:00",
       "NumProgressed": 1891,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T15:06:39.938018+00:00",
+      "NumProgressed": 1892,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7144,7 +7149,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7216,7 +7221,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_headquarters_10",
@@ -7232,7 +7237,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_headquarters_20",
@@ -7312,7 +7317,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -7320,7 +7325,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7447,7 +7452,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1891,
+      "Progressed": 1892,
       "Completed": 1
     }
   ],
@@ -7455,8 +7460,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:06:14.8857279+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:06:39.9380176+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:45.1710661+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:02:29.4799634+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:06:14.8857832+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:02:31.3398721+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:06:39.9380663+00:00"
 }

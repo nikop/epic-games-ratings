@@ -17,8 +17,8 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 2.00% | ~3,193 |
 | Sharpened Vessel | 2.00% | ~3,193 |
 | Shapely | 1.00% | ~1,597 |
-| Scion | 1.00% | ~1,592 |
-| Glare | 1.00% | ~1,592 |
+| Scion | 1.00% | ~1,593 |
+| Glare | 1.00% | ~1,593 |
 | Jawcrab | 1.00% | ~1,597 |
 | Jawstag | 1.00% | ~1,597 |
 | Feast | 1.00% | ~1,597 |
@@ -45,15 +45,15 @@ Number of Ratings: 46  (23.09.2022)
 | Listen | 0.30% | ~478 |
 | Weakness | 0.20% | ~319 |
 | Generous | 0.20% | ~319 |
-| Enrich | 0.20% | ~318 |
-| Intensify | 0.20% | ~318 |
+| Enrich | 0.20% | ~319 |
+| Intensify | 0.20% | ~319 |
 | Spiral Heart | 0.10% | ~160 |
 | Skinmaker | 0.10% | ~160 |
 | Instruments | 0.10% | ~160 |
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,663 (Ranked 78)  
+Progressed: 159,668 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 1 (0.00%) (Ranked 358)
 | 2023-11-20 | 159,313 | 1 |
 | 2023-11-21 | 159,459 | 1 |
 | 2023-11-22 | 159,591 | 1 |
-| 2023-11-23 | 159,663 | 1 |
+| 2023-11-23 | 159,668 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 423)  
 Sum: 380 (Ranked 346)  

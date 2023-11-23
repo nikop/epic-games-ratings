@@ -3,12 +3,12 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 149,
-  "Ranking_Popularity": 552,
-  "Ranking_PopularitySum": 552,
+  "Ranking_Popularity": 553,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 862,
+  "EOS_Progressed": 863,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.48,
   "EosHistory": [
@@ -2793,6 +2793,11 @@
       "Time": "2023-11-23T13:08:45.8799305+00:00",
       "NumProgressed": 862,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-23T15:03:12.6974056+00:00",
+      "NumProgressed": 863,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2813,7 +2818,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "_03_FinishAct1",
@@ -2821,7 +2826,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2829,7 +2834,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "_05_FinishAct2",
@@ -2837,7 +2842,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2853,7 +2858,7 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "_08_Completion_10",
@@ -2917,7 +2922,7 @@
       "Name": "Marauder",
       "Percentage": 4,
       "XP": 125,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -2933,7 +2938,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2947,9 +2952,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 147
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3005,14 +3010,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 4,
       "XP": 140,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 862,
+      "Progressed": 863,
       "Completed": 30
     }
   ],
@@ -3020,8 +3025,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:03:05.8311257+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:03:12.6974053+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:58:14.3765044+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:03:05.8311524+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:58:24.0977583+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:03:12.6974372+00:00"
 }

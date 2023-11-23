@@ -3,11 +3,11 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 552,
-  "Ranking_PopularitySum": 552,
+  "Ranking_Popularity": 553,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4284,
+  "EOS_Progressed": 4289,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7530,6 +7530,11 @@
       "Time": "2023-11-23T14:07:54.6406098+00:00",
       "NumProgressed": 4284,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-23T15:08:11.7243236+00:00",
+      "NumProgressed": 4289,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7541,7 +7546,7 @@
       "Name": "Start with a bang!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "Ach002",
@@ -7557,7 +7562,7 @@
       "Name": "This will cost you big time",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Ach004",
@@ -7669,7 +7674,7 @@
       "Name": "I play my own way!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Ach018",
@@ -7717,7 +7722,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "Ach024",
@@ -7733,7 +7738,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Ach026",
@@ -7749,7 +7754,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Ach028",
@@ -7781,7 +7786,7 @@
       "Name": "Perfect Parry",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "Ach032",
@@ -7797,7 +7802,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Ach034",
@@ -7821,7 +7826,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Ach037",
@@ -7917,7 +7922,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "Ach049",
@@ -7941,7 +7946,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "Ach052",
@@ -7995,9 +8000,9 @@
       "ID": "Ach058",
       "SetID": "12n4k20",
       "Name": "With our powers combined\u2026and to the rhythm\u2026",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach059",
@@ -8029,7 +8034,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Ach063",
@@ -8108,13 +8113,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4284,
+      "Progressed": 4289,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2805,
+      "Progressed": 2810,
       "Completed": 1930
     }
   ],
@@ -8122,8 +8127,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:07:54.6406095+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:08:11.7243232+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:58:06.2204391+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:07:54.6406967+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:58:14.6892559+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:08:11.7244009+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
     "PcReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -5275,10 +5275,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 5075,
       "NumberOfAwardsMax": 3300
+    },
+    {
+      "Time": "2023-11-23T15:02:47.2493219+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5077,
+      "NumberOfAwardsMax": 3300
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5075,
+  "NumberOfAwards": 5077,
   "NumberOfAwardsMax": 3300,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5322,7 +5328,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 204
+      "Count": 206
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5345,7 +5351,7 @@
   ],
   "EOS_Progressed": 8518,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -12582,9 +12588,9 @@
       "ID": "achievement_a26",
       "SetID": "3m4b0pk",
       "Name": "Riposte",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3918
+      "UsersEstimate": 4003
     },
     {
       "ID": "achievement_a27",
@@ -12870,9 +12876,9 @@
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2023-11-23T11:02:46.7680142+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:08:16.4877489+00:00",
+  "LastChanged": "2023-11-23T15:02:47.2493215+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:08:35.9614254+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:04.5854641+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:02:43.8298312+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:08:16.4878067+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:02:47.2493223+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:08:35.9615009+00:00"
 }

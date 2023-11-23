@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 666,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
@@ -2800,6 +2800,11 @@
       "Time": "2023-11-23T09:06:14.3535009+00:00",
       "NumProgressed": 665,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-23T15:06:42.8461049+00:00",
+      "NumProgressed": 666,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2811,7 +2816,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "END_GOOD",
@@ -2851,7 +2856,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2859,7 +2864,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2867,7 +2872,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2875,7 +2880,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2883,7 +2888,7 @@
       "Name": "A great audience",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2955,15 +2960,15 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 140
     },
     {
       "ID": "PROGRESS_N1",
@@ -3010,14 +3015,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 666,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:06:17.5602972+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:06:42.8461045+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:58:36.9905989+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:06:17.5603324+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:58:48.9945742+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:06:42.846132+00:00"
 }

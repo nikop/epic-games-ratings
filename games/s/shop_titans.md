@@ -19,17 +19,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 3.00% | ~4,234 |
 | Budding Merchant | 3.00% | ~4,234 |
 | Own the Means of Production | 3.00% | ~4,234 |
-| The Daily Grind | 2.00% | ~2,822 |
-| Bounty Hunters | 2.00% | ~2,822 |
-| Demand for Supplies | 2.00% | ~2,822 |
-| Flooding the Market | 2.00% | ~2,822 |
-| Where it Hurts | 2.00% | ~2,822 |
-| Gild-Gotten Goods | 2.00% | ~2,822 |
-| One-Armed Bandit | 2.00% | ~2,822 |
-| Dungeon Imports | 2.00% | ~2,822 |
-| Through Repetition, Perfection | 2.00% | ~2,822 |
-| Did we pack lunch? | 2.00% | ~2,822 |
-| Arcane Industries | 2.00% | ~2,822 |
+| The Daily Grind | 2.00% | ~2,823 |
+| Bounty Hunters | 2.00% | ~2,823 |
+| Demand for Supplies | 2.00% | ~2,823 |
+| Flooding the Market | 2.00% | ~2,823 |
+| Where it Hurts | 2.00% | ~2,823 |
+| Gild-Gotten Goods | 2.00% | ~2,823 |
+| One-Armed Bandit | 2.00% | ~2,823 |
+| Dungeon Imports | 2.00% | ~2,823 |
+| Through Repetition, Perfection | 2.00% | ~2,823 |
+| Did we pack lunch? | 2.00% | ~2,823 |
+| Arcane Industries | 2.00% | ~2,823 |
 | On the Path to Greatness | 1.00% | ~1,411 |
 | A Notch Above the Rest | 1.00% | ~1,411 |
 | Ascended | 1.00% | ~1,411 |
@@ -80,6 +80,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.90% | ~1,270 |
 | Attrition Mission | 0.90% | ~1,270 |
 | Glittering Collection | 0.90% | ~1,270 |
+| Master Recycler | 0.90% | ~1,270 |
 | Exotic Commodities | 0.90% | ~1,270 |
 | King's Blade | 0.90% | ~1,270 |
 | Top of the World | 0.80% | ~1,129 |
@@ -95,7 +96,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Treasure Trove | 0.80% | ~1,129 |
 | Moment of Respite | 0.80% | ~1,129 |
 | King's Shadow | 0.80% | ~1,129 |
-| Master Recycler | 0.80% | ~1,129 |
 | Constellated | 0.70% | ~988 |
 | Fillin' the Bin | 0.70% | ~988 |
 | A Legend is Born | 0.70% | ~988 |
@@ -105,9 +105,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.60% | ~847 |
 | All Accounted For | 0.60% | ~847 |
 | The Free Encyclopedia | 0.50% | ~706 |
-| The Greatest Grind | 0.40% | ~564 |
-| All or Nothing! | 0.40% | ~564 |
-| Marvels from the World Over | 0.40% | ~564 |
+| The Greatest Grind | 0.40% | ~565 |
+| All or Nothing! | 0.40% | ~565 |
+| Marvels from the World Over | 0.40% | ~565 |
 | Bane of Legends | 0.30% | ~423 |
 | Ultimate Collector | 0.30% | ~423 |
 | Unleashed Potential | 0.30% | ~423 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,119 (Ranked 80)  
-Completed: 195 (0.14%) (Ranked 269)  
+Progressed: 141,130 (Ranked 80)  
+Completed: 196 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,7 +336,7 @@ Completed: 195 (0.14%) (Ranked 269)
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
-| 2023-11-23 | 141,119 | 195 |
+| 2023-11-23 | 141,130 | 196 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1377,
+  "EOS_Progressed": 1378,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -4064,6 +4064,11 @@
       "Time": "2023-11-23T12:10:11.5871473+00:00",
       "NumProgressed": 1377,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T15:09:30.8164332+00:00",
+      "NumProgressed": 1378,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4348,7 +4353,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "achievement_41",
@@ -4579,13 +4584,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1377,
+      "Progressed": 1378,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1377,
+      "Progressed": 1378,
       "Completed": 1
     }
   ],
@@ -4593,8 +4598,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:09:06.8421057+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:09:30.8164327+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:57:53.3788676+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:09:06.8421814+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:58:00.3425445+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:09:30.8165059+00:00"
 }

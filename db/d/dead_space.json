@@ -6,9 +6,9 @@
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -714,10 +714,10 @@
     }
   ],
   "EOS_Progressed": 1942,
-  "EOS_Completed": 10,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 118,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.51,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-09-19T18:06:12.9172474+00:00",
@@ -5908,6 +5908,11 @@
       "Time": "2023-11-23T12:07:33.0313497+00:00",
       "NumProgressed": 1942,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-23T15:06:25.2647103+00:00",
+      "NumProgressed": 1942,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6254,17 +6259,17 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1126
     },
     {
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1029
     },
     {
       "ID": "achievement_7",
@@ -6296,15 +6301,15 @@
       "ID": "222fo9l",
       "IsBase": true,
       "Progressed": 1942,
-      "Completed": 10
+      "Completed": 11
     }
   ],
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-23T06:58:07.5368544+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:06:01.083235+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:06:25.2647098+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:58:19.7603346+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:06:01.0832834+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:58:29.9175021+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:06:25.2647562+00:00"
 }

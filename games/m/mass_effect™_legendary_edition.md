@@ -41,11 +41,11 @@
 | The Convict | 35.00% | ~480 |
 | Colony Defense | 34.00% | ~466 |
 | The Krogan | 34.00% | ~466 |
+| Broke, Blind, and Bedlam | 33.00% | ~452 |
 | Ghost Ship | 32.00% | ~439 |
 | The Quarian | 32.00% | ~439 |
 | The Prodigal | 32.00% | ~439 |
 | Galactic Explorer | 32.00% | ~439 |
-| Broke, Blind, and Bedlam | 32.00% | ~439 |
 | A Personal Touch | 31.00% | ~425 |
 | The Assassin | 31.00% | ~425 |
 | The Justicar | 31.00% | ~425 |
@@ -59,13 +59,13 @@
 | Big Game Hunter | 30.00% | ~411 |
 | Revenge! | 30.00% | ~411 |
 | Heart of Darkness | 30.00% | ~411 |
+| Bringer of War | 30.00% | ~411 |
 | Focused | 29.00% | ~398 |
 | Archivist | 29.00% | ~398 |
 | Fade Away | 29.00% | ~398 |
 | Treason | 29.00% | ~398 |
 | Agent | 29.00% | ~398 |
 | Digital Exorcist | 29.00% | ~398 |
-| Bringer of War | 29.00% | ~398 |
 | Friend or Foe | 28.00% | ~384 |
 | Cat's in the Cradle | 28.00% | ~384 |
 | Doppelganger | 28.00% | ~384 |

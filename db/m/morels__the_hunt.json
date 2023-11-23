@@ -2,7 +2,7 @@
   "ID": "bec475d6b8ce4d5aa5618c87fe508e9d",
   "Name": "Morels: The Hunt",
   "ProductSlug": "morels-ed7501",
-  "Ranking_EOS_Progress": 757,
+  "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 122,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-20T17:57:59.6531695+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.0097792+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:57:57.69081+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:08:19.1901268+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:58:05.2101345+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:08:38.8289428+00:00"
 }

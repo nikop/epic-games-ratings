@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1009,
-  "Ranking_Popularity": 204,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4767,9 +4767,9 @@
       "Count": 496
     }
   ],
-  "EOS_Progressed": 91450,
+  "EOS_Progressed": 91454,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26227,6 +26227,11 @@
       "Time": "2023-11-23T14:05:26.9307562+00:00",
       "NumProgressed": 91450,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-23T15:05:47.7022573+00:00",
+      "NumProgressed": 91454,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26254,7 +26259,7 @@
       "Name": "Roid Ranger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_0013",
@@ -26454,7 +26459,7 @@
       "Name": "Case Closed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_0420",
@@ -26462,7 +26467,7 @@
       "Name": "King of the Hill",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_0430",
@@ -26494,7 +26499,7 @@
       "Name": "Off the Rocks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_0451",
@@ -26502,7 +26507,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_0452",
@@ -26510,7 +26515,7 @@
       "Name": "Dragonslayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_0460",
@@ -26526,7 +26531,7 @@
       "Name": "Rockay Rex",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_1010",
@@ -26565,13 +26570,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91450,
+      "Progressed": 91454,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19797,
+      "Progressed": 19801,
       "Completed": 15579
     }
   ],
@@ -26579,8 +26584,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-23T13:04:42.7626159+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:05:26.9307559+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:05:47.7022571+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:59:03.577001+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:05:26.9309101+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:59:18.8906955+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:05:47.702366+00:00"
 }

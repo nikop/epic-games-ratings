@@ -6,7 +6,7 @@
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -4635,10 +4635,10 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 226303,
+  "EOS_Progressed": 226345,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 4620,
-  "EOS_NewCompleters": 45,
+  "EOS_NewPlayers": 4621,
+  "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -19520,6 +19520,11 @@
       "Time": "2023-11-23T14:08:14.4778653+00:00",
       "NumProgressed": 226303,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-11-23T15:08:33.6612586+00:00",
+      "NumProgressed": 226345,
+      "NumCompleted": 506
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19932,7 +19937,7 @@
       "Name": "Regicide",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -19940,7 +19945,7 @@
       "Name": "Succession",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -19948,7 +19953,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -19956,7 +19961,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -19964,20 +19969,20 @@
       "Name": "You Shall Pass",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 226303,
+      "Progressed": 226345,
       "Completed": 506
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 5468,
+      "Progressed": 5510,
       "Completed": 142
     }
   ],
@@ -19985,8 +19990,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-23T13:08:40.8510515+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:08:14.477865+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:08:33.6612583+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-23T14:02:59.3316377+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:08:14.4779701+00:00"
+  "LastUpdate_Ratings": "2023-11-23T15:03:04.3734168+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:08:33.6614063+00:00"
 }

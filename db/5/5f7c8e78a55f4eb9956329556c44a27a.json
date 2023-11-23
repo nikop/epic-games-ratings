@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -579,9 +579,9 @@
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -778,8 +778,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:05:46.3960568+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:06:09.673849+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:58:07.6317181+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:05:46.3960844+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:58:16.288281+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:06:09.6738739+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2074,9 +2074,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 115
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -2098,9 +2098,9 @@
       "ID": "ACHV_UPCLOSEANDPERSONAL",
       "SetID": "cceobco",
       "Name": "Up Close And Personal",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHV_WEAPONSMITH",
@@ -2137,8 +2137,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:08:16.075529+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:08:35.4217232+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.4021607+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:59:23.7499528+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:08:16.0755623+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:59:41.6024258+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:08:35.4217527+00:00"
 }

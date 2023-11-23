@@ -170,6 +170,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.10% | ~236 |
 | The Mists of Ravenloft | 0.10% | ~236 |
 | The Hunt for Owl-y | 0.10% | ~236 |
+| Invisible Shadows | 0.10% | ~236 |
 | Werewolves in the Mist | 0.10% | ~236 |
 | We're not in Faerûn Anymore | 0.10% | ~236 |
 | Family Entanglements | 0.10% | ~236 |
@@ -186,6 +187,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | This Quest Stinks! | 0.10% | ~203 |
 | The Immortal Warrior | 0.10% | ~236 |
 | Hold for the Red Wizards | 0.10% | ~236 |
+| Form Ranks | 0.10% | ~236 |
 | Drop of Time | 0.10% | ~203 |
 | The Wyrmheart Mine | 0.10% | ~236 |
 | They Who Smelt It | 0.10% | ~236 |
@@ -488,6 +490,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.10% | ~203 |
 | Beware the Jabberwock | 0.10% | ~203 |
 | Quick or Quack | 0.10% | ~203 |
+| Willing to Sacrifice | 0.10% | ~203 |
 | The Champion's Guide to Wildspace | 0.10% | ~203 |
 | Not That Type of Helm! | 0.10% | ~203 |
 | All The World's A Stage | 0.10% | ~203 |
@@ -528,18 +531,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Play's the Thing! | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Welcome to the Band | 0.00% | ~0 |
-| Invisible Shadows | 0.00% | ~0 |
-| Form Ranks | 0.00% | ~0 |
 | Faerûn's Most Wanted | 0.00% | ~0 |
 | Vault of Pixies | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Willing to Sacrifice | 0.00% | ~0 |
 | Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | 3,720 to 1 | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,475 (Ranked 64)  
+Progressed: 236,483 (Ranked 64)  
 Completed: 2,470 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,470 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,475 | 2,470 |
+| 2023-11-23 | 236,483 | 2,470 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,584 (Ranked 41)  

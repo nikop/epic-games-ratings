@@ -871,9 +871,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 11074,
+  "EOS_Progressed": 11075,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -13161,6 +13161,11 @@
       "Time": "2023-11-23T14:08:08.4550777+00:00",
       "NumProgressed": 11074,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-23T15:08:27.0492967+00:00",
+      "NumProgressed": 11075,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13188,7 +13193,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH04",
@@ -13204,7 +13209,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH06",
@@ -13276,7 +13281,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4651
+      "UsersEstimate": 4652
     },
     {
       "ID": "ACH15",
@@ -13348,7 +13353,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "ACH24",
@@ -13396,7 +13401,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH30",
@@ -13412,7 +13417,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH32",
@@ -13443,7 +13448,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11074,
+      "Progressed": 11075,
       "Completed": 65
     }
   ],
@@ -13451,8 +13456,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-22T23:57:24.8595018+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:08:08.4550774+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:08:27.0492963+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.2542846+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:57:24.7816344+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:08:08.4551567+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:57:28.2447997+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:08:27.0493875+00:00"
 }

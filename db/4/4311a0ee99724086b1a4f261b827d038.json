@@ -543,10 +543,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 156,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-11-23T14:57:55.5668093+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 157,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 156,
+  "NumberOfAwards": 157,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -596,12 +602,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     }
   ],
-  "EOS_Progressed": 233783,
+  "EOS_Progressed": 233789,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1213,
+  "EOS_NewPlayers": 1214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14779,6 +14785,11 @@
       "Time": "2023-11-23T14:08:54.5261892+00:00",
       "NumProgressed": 233783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T15:09:17.2740488+00:00",
+      "NumProgressed": 233789,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -14847,7 +14858,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49094
+      "UsersEstimate": 49096
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -14855,7 +14866,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21040
+      "UsersEstimate": 21041
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -14871,7 +14882,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9351
+      "UsersEstimate": 9352
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -14887,7 +14898,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7014
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -14895,7 +14906,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7014
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -14927,7 +14938,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -14935,7 +14946,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -15031,7 +15042,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -15047,7 +15058,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58446
+      "UsersEstimate": 58447
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -15062,16 +15073,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 233783,
+      "Progressed": 233789,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-11-21T12:00:33.4565363+00:00",
-  "LastChanged_Achievements": "2023-11-23T14:08:54.5261887+00:00",
+  "LastChanged": "2023-11-23T14:57:55.5668091+00:00",
+  "LastChanged_Achievements": "2023-11-23T15:09:17.2740483+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:41.0208311+00:00",
-  "LastUpdate_Ratings": "2023-11-23T13:57:49.1688431+00:00",
-  "LastUpdate_Achievements": "2023-11-23T14:08:54.5262962+00:00"
+  "LastUpdate_Ratings": "2023-11-23T14:57:55.5668096+00:00",
+  "LastUpdate_Achievements": "2023-11-23T15:09:17.2741331+00:00"
 }
