@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 122,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 433,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -932,6 +932,11 @@
       "Time": "2023-11-23T05:05:26.4768623+00:00",
       "NumProgressed": 430,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T06:04:24.3301938+00:00",
+      "NumProgressed": 433,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -950,9 +955,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -960,7 +965,7 @@
       "Name": "Chosen Victor",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -998,9 +1003,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 312
     },
     {
       "ID": "CompleteChapter10",
@@ -1014,9 +1019,9 @@
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "CompleteChapter12",
@@ -1032,7 +1037,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CompleteChapter14",
@@ -1088,7 +1093,7 @@
       "Name": "Met the Enemy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "CompleteChapter3",
@@ -1096,15 +1101,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 108
     },
     {
       "ID": "CompleteChapter5",
@@ -1112,15 +1117,15 @@
       "Name": "Breathing Easy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "CompleteChapter7",
@@ -1128,15 +1133,15 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "CompleteChapter9",
@@ -1192,7 +1197,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1216,7 +1221,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1239,14 +1244,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 433,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:05:26.4768615+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:04:24.3301933+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:57:54.971775+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:05:26.4768891+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:57:31.2998124+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:04:24.3302204+00:00"
 }

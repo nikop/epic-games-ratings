@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1146,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 4.1,
   "EosHistory": [
@@ -2424,6 +2424,11 @@
       "Time": "2023-11-23T01:55:56.6043417+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-11-23T06:08:29.730242+00:00",
+      "NumProgressed": 1146,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2452,7 +2457,7 @@
       "Name": "Sweet tooth",
       "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2460,7 +2465,7 @@
       "Name": "An apple a day",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2492,7 +2497,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2515,14 +2520,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1146,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:09:12.378133+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:08:29.7302417+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:00:32.5227668+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:09:12.378149+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:59:23.0282452+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:08:29.7302601+00:00"
 }

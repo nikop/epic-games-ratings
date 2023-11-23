@@ -6,24 +6,24 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~30,939 |
-| Final touch | 35.00% | ~29,267 |
-| Prop-M Rover | 32.00% | ~26,758 |
-| Changing the Planet | 28.00% | ~23,413 |
-| Sojourner | 26.00% | ~21,741 |
-| New Home | 23.00% | ~19,232 |
-| Beagle 2 | 23.00% | ~19,232 |
-| Winner Winner Terraformer | 21.00% | ~17,560 |
+| It's a steal! | 37.00% | ~30,940 |
+| Final touch | 35.00% | ~29,268 |
+| Prop-M Rover | 32.00% | ~26,759 |
+| Changing the Planet | 28.00% | ~23,414 |
+| Sojourner | 26.00% | ~21,742 |
+| New Home | 23.00% | ~19,233 |
+| Beagle 2 | 23.00% | ~19,233 |
+| Winner Winner Terraformer | 21.00% | ~17,561 |
 | Project Manager | 19.00% | ~15,888 |
 | Curiosity | 19.00% | ~15,888 |
 | Collector | 19.00% | ~15,888 |
 | Master | 19.00% | ~15,888 |
-| No Longer Red | 18.00% | ~15,051 |
-| Self-sufficient | 18.00% | ~15,051 |
+| No Longer Red | 18.00% | ~15,052 |
+| Self-sufficient | 18.00% | ~15,052 |
 | Money money | 15.00% | ~12,543 |
 | Biggest Reward | 14.00% | ~11,707 |
-| First Journey | 13.00% | ~10,870 |
-| Acquired knowledge | 12.00% | ~10,034 |
+| First Journey | 13.00% | ~10,871 |
+| Acquired knowledge | 12.00% | ~10,035 |
 | Landlord | 11.00% | ~9,198 |
 | Most Achievements | 11.00% | ~9,198 |
 | Hellenic Elysium | 11.00% | ~9,198 |
@@ -37,8 +37,8 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,509 |
 | Opportunity | 3.00% | ~2,509 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,619 (Ranked 94)  
-Completed: 164 (0.20%) (Ranked 255)  
+Progressed: 83,622 (Ranked 94)  
+Completed: 165 (0.20%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,7 +254,7 @@ Completed: 164 (0.20%) (Ranked 255)
 | 2023-11-20 | 83,402 | 163 |
 | 2023-11-21 | 83,502 | 164 |
 | 2023-11-22 | 83,591 | 164 |
-| 2023-11-23 | 83,619 | 164 |
+| 2023-11-23 | 83,622 | 165 |
 ## Awards
 Max (Relaxing): 527  (Ranked 207)  
 Sum: 3,265 (Ranked 171)  

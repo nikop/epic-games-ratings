@@ -6733,10 +6733,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11686,
       "NumberOfAwardsMax": 7661
+    },
+    {
+      "Time": "2023-11-23T05:57:50.9546662+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11689,
+      "NumberOfAwardsMax": 7661
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11686,
+  "NumberOfAwards": 11689,
   "NumberOfAwardsMax": 7661,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6792,13 +6798,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 484
+      "Count": 487
     }
   ],
-  "EOS_Progressed": 722911,
-  "EOS_Completed": 2426,
-  "EOS_NewPlayers": 3892,
-  "EOS_NewCompleters": 33,
+  "EOS_Progressed": 722928,
+  "EOS_Completed": 2427,
+  "EOS_NewPlayers": 3895,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -31585,6 +31591,11 @@
       "Time": "2023-11-23T05:05:13.3289372+00:00",
       "NumProgressed": 722911,
       "NumCompleted": 2426
+    },
+    {
+      "Time": "2023-11-23T06:04:14.3805049+00:00",
+      "NumProgressed": 722928,
+      "NumCompleted": 2427
     }
   ],
   "TotalAchievements": 51,
@@ -31626,9 +31637,9 @@
       "ID": "ach_ayeaye_captain_vixen",
       "SetID": "7km39fm",
       "Name": "Make it So",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2892
     },
     {
       "ID": "ach_big_name_in_town",
@@ -31732,7 +31743,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "ach_hazardous_materials",
@@ -31836,7 +31847,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "ach_revival_tour",
@@ -31852,7 +31863,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "ach_secrets_of_la",
@@ -32003,22 +32014,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 722911,
-      "Completed": 2426
+      "Progressed": 722928,
+      "Completed": 2427
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 48453,
+      "Progressed": 48470,
       "Completed": 36584
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-23T01:44:42.2971937+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:05:13.3289368+00:00",
+  "LastChanged": "2023-11-23T05:57:50.9546661+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:04:14.3805044+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:58:22.0299992+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:05:13.3291053+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:57:50.9546667+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:04:14.3806571+00:00"
 }

@@ -45,6 +45,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.10% | ~236 |
 | Wet Feet | 0.10% | ~236 |
 | The Dark Heart | 0.10% | ~203 |
+| Undergeared | 0.10% | ~203 |
+| Underdark Chill | 0.10% | ~203 |
 | The Alien Underdark | 0.10% | ~203 |
 | Thoughts on the Menu | 0.10% | ~203 |
 | Brains on Ice | 0.10% | ~203 |
@@ -232,6 +234,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Servants of the Demon Prince | 0.10% | ~203 |
 | Enter the Sargauth | 0.10% | ~236 |
 | Elder Rune Madness | 0.10% | ~236 |
+| The Madness Grows | 0.10% | ~236 |
 | Who Lurks in Lurkwood | 0.10% | ~236 |
 | Bullywugs in the Bog | 0.10% | ~236 |
 | Modrons in the Mud | 0.10% | ~236 |
@@ -251,6 +254,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sneak Attack | 0.10% | ~203 |
 | Flying Monkey Skulls of Doom | 0.10% | ~236 |
 | Lair of the Xanathar | 0.10% | ~236 |
+| Dreams of Beholders | 0.10% | ~236 |
+| Feigned Weakness | 0.10% | ~236 |
 | DPS in the Deeps | 0.10% | ~203 |
 | Waterdeep Under Siege | 0.10% | ~236 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~236 |
@@ -260,6 +265,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sunless Citadel | 0.10% | ~236 |
 | Veteran Brigade | 0.10% | ~236 |
 | Social Grace | 0.10% | ~203 |
+| Evergreens with an Evergreen | 0.10% | ~203 |
 | Meepo's Quest | 0.10% | ~236 |
 | She's Harmless! | 0.10% | ~236 |
 | The Tallest of Kobolds | 0.10% | ~203 |
@@ -483,8 +489,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.00% | ~0 |
 | End of the Line | 0.00% | ~0 |
 | Zarak's Revenge | 0.00% | ~0 |
-| Undergeared | 0.00% | ~0 |
-| Underdark Chill | 0.00% | ~0 |
 | All Damage, All The Time | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
@@ -504,12 +508,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.00% | ~0 |
 | Frantic Excavation | 0.00% | ~0 |
 | Bazaar Exploits | 0.00% | ~0 |
-| The Madness Grows | 0.00% | ~0 |
 | The Madness Peaks | 0.00% | ~0 |
 | And a Pixie in a Pear Treant | 0.00% | ~0 |
-| Dreams of Beholders | 0.00% | ~0 |
-| Feigned Weakness | 0.00% | ~0 |
-| Evergreens with an Evergreen | 0.00% | ~0 |
 | Faerûn's Most Wanted | 0.00% | ~0 |
 | Vault of Dragons | 0.00% | ~0 |
 | Vault of Pixies | 0.00% | ~0 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.00% | ~0 |
 | Slow Down Showdown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,451 (Ranked 64)  
+Progressed: 236,454 (Ranked 64)  
 Completed: 2,469 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,469 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,451 | 2,469 |
+| 2023-11-23 | 236,454 | 2,469 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,575 (Ranked 41)  

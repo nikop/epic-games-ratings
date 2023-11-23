@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3211,10 +3211,10 @@
       "Count": 253
     }
   ],
-  "EOS_Progressed": 83619,
-  "EOS_Completed": 164,
-  "EOS_NewPlayers": 828,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 83622,
+  "EOS_Completed": 165,
+  "EOS_NewPlayers": 829,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -27371,6 +27371,11 @@
       "Time": "2023-11-23T05:08:20.8667328+00:00",
       "NumProgressed": 83619,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-11-23T06:06:21.1305518+00:00",
+      "NumProgressed": 83622,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 30,
@@ -27382,7 +27387,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10870
+      "UsersEstimate": 10871
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -27406,7 +27411,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 19232
+      "UsersEstimate": 19233
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -27414,7 +27419,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 15051
+      "UsersEstimate": 15052
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -27462,7 +27467,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30939
+      "UsersEstimate": 30940
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -27470,7 +27475,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23413
+      "UsersEstimate": 23414
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -27478,7 +27483,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 26758
+      "UsersEstimate": 26759
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -27510,7 +27515,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19232
+      "UsersEstimate": 19233
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -27518,7 +27523,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21741
+      "UsersEstimate": 21742
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -27534,7 +27539,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17560
+      "UsersEstimate": 17561
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -27542,7 +27547,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10034
+      "UsersEstimate": 10035
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -27558,7 +27563,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 29267
+      "UsersEstimate": 29268
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -27566,7 +27571,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 15051
+      "UsersEstimate": 15052
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -27621,15 +27626,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 83619,
-      "Completed": 164
+      "Progressed": 83622,
+      "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-22T22:58:43.6898803+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:08:20.8667324+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:06:21.1305514+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.492431+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:58:52.4173186+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:08:20.8668583+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:58:12.263976+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:06:21.1307087+00:00"
 }

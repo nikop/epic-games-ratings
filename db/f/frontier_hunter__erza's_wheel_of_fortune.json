@@ -882,17 +882,17 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_26",
       "SetID": "7pimpda",
       "Name": "Master Artificer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1115,8 +1115,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:06:57.2578601+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:05:32.938915+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:59:19.0278941+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:06:57.257895+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:58:31.0997959+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:05:32.9389472+00:00"
 }

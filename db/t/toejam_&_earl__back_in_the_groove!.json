@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57925,
+  "EOS_Progressed": 57927,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12941,6 +12941,11 @@
       "Time": "2023-11-23T01:50:23.3989658+00:00",
       "NumProgressed": 57925,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-23T06:03:05.4757116+00:00",
+      "NumProgressed": 57927,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -12960,7 +12965,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "BoomBox",
@@ -13208,7 +13213,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "RhythmStar",
@@ -13248,7 +13253,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "StruckLove",
@@ -13343,7 +13348,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57925,
+      "Progressed": 57927,
       "Completed": 6
     }
   ],
@@ -13351,8 +13356,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:03:41.8183127+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:03:05.4757112+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.5926184+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:57:31.7407852+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:03:41.8183918+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:57:14.8394673+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:03:05.4757829+00:00"
 }

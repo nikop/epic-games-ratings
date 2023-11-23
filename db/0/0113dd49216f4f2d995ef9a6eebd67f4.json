@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -480,9 +480,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -608,9 +608,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:03:48.4952297+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:03:10.5030905+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.1987617+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:59:04.9079504+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:03:48.4952547+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:58:20.9688454+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:03:10.5031119+00:00"
 }

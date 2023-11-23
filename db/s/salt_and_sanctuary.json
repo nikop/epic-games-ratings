@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2796,9 +2796,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 538926,
+  "EOS_Progressed": 538927,
   "EOS_Completed": 1621,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -26691,6 +26691,11 @@
       "Time": "2023-11-23T05:08:22.6227696+00:00",
       "NumProgressed": 538926,
       "NumCompleted": 1621
+    },
+    {
+      "Time": "2023-11-23T06:06:22.4354366+00:00",
+      "NumProgressed": 538927,
+      "NumCompleted": 1621
     }
   ],
   "TotalAchievements": 37,
@@ -26702,7 +26707,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70060
+      "UsersEstimate": 70061
     },
     {
       "ID": "COASTROCK",
@@ -26814,7 +26819,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215570
+      "UsersEstimate": 215571
     },
     {
       "ID": "THE_CASTLE",
@@ -26870,7 +26875,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70060
+      "UsersEstimate": 70061
     },
     {
       "ID": "THE_IRON_ONES",
@@ -26974,7 +26979,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91617
+      "UsersEstimate": 91618
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -26997,15 +27002,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 538926,
+      "Progressed": 538927,
       "Completed": 1621
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-18T12:59:55.4246283+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:08:22.622769+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:06:22.4354361+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:11.7243126+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:00:17.4981164+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:08:22.6229177+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:59:12.580026+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:06:22.4356157+00:00"
 }

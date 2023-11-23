@@ -12,8 +12,8 @@
 | Fashion Connoisseur | 57.00% | ~100 |
 | Arms Mechanic | 49.00% | ~86 |
 | Flower Thief | 48.00% | ~84 |
+| Beginner Artificer | 43.00% | ~76 |
 | Apostle of Flame | 43.00% | ~76 |
-| Beginner Artificer | 42.00% | ~74 |
 | Beginner Cook | 41.00% | ~72 |
 | Seal Breaker | 37.00% | ~65 |
 | Handyman | 34.00% | ~60 |
@@ -24,10 +24,10 @@
 | Weapon Boost | 27.00% | ~48 |
 | Flying Kobold Killer | 23.00% | ~40 |
 | Youth Magnet | 23.00% | ~40 |
+| Master Artificer | 23.00% | ~40 |
 | Furious Scorpion Killer | 22.00% | ~39 |
 | Lethal Blade Mantis Killer | 22.00% | ~39 |
 | Squeaky Clean | 22.00% | ~39 |
-| Master Artificer | 22.00% | ~39 |
 | Kind Adventurer | 18.00% | ~32 |
 | Mermaid Killer | 18.00% | ~32 |
 | Face Slapper | 18.00% | ~32 |

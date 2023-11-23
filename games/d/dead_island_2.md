@@ -35,17 +35,17 @@ Rating: 4.54 (Ranked 526)
 | Making Your Mark | 0.70% | ~5,060 |
 | I Am the Resurrection | 0.70% | ~5,060 |
 | Max Headroom | 0.70% | ~5,060 |
-| Not Even My Final Form | 0.60% | ~4,337 |
-| Humanity Distilled | 0.60% | ~4,337 |
-| Down with the Sickness | 0.60% | ~4,337 |
+| Not Even My Final Form | 0.60% | ~4,338 |
+| Humanity Distilled | 0.60% | ~4,338 |
+| Down with the Sickness | 0.60% | ~4,338 |
 | Jumbo Keyring | 0.50% | ~3,615 |
 | Go, Bobcats! | 0.50% | ~3,615 |
 | Rising Star | 0.50% | ~3,615 |
+| Make it So | 0.40% | ~2,892 |
 | On Safari | 0.40% | ~2,892 |
 | Smorgasbord | 0.40% | ~2,892 |
 | Internet Famous | 0.40% | ~2,892 |
 | Variety is the Spice of Death | 0.40% | ~2,892 |
-| Make it So | 0.30% | ~2,169 |
 | LA Influential | 0.30% | ~2,169 |
 | Gore Horse | 0.30% | ~2,169 |
 | Top That, Tisha! | 0.30% | ~145 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,911 (Ranked 21)  
-Completed: 2,426 (0.34%) (Ranked 228)  
+Progressed: 722,928 (Ranked 21)  
+Completed: 2,427 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,10 +274,10 @@ Completed: 2,426 (0.34%) (Ranked 228)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 722,911 | 2,426 |
+| 2023-11-23 | 722,928 | 2,427 |
 ## Awards
 Max (Great Boss Battles): 7,661  (Ranked 50)  
-Sum: 11,686 (Ranked 83)  
+Sum: 11,689 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 559 |
 | This game has Quickly Understood Controls | 522 |
 | This game is Relaxing | 505 |
-| This game has Amazing Storytelling | 484 |
+| This game has Amazing Storytelling | 487 |
 | This game is Highly Recommended | 471 |
 | This game is Extremely Fun | 468 |
 | This game has Amazing Characters | 434 |
@@ -509,4 +509,4 @@ Diff (max vs sum): -33
 | 2023-11-20 | 4.54 | 7,589 | 11,585 |
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
-| 2023-11-23 | 4.54 | 7,661 | 11,686 |
+| 2023-11-23 | 4.54 | 7,661 | 11,689 |

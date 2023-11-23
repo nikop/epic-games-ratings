@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -776,9 +776,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5024,
+  "EOS_Progressed": 5025,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -9701,6 +9701,11 @@
       "Time": "2023-11-23T05:07:33.6346011+00:00",
       "NumProgressed": 5024,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T06:06:00.616954+00:00",
+      "NumProgressed": 5025,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9753,7 +9758,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9777,7 +9782,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -9793,7 +9798,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -9825,7 +9830,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -9833,7 +9838,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9841,7 +9846,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -9896,15 +9901,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5024,
+      "Progressed": 5025,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:07:33.6346007+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:06:00.6169535+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-23T05:00:00.1461011+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:07:33.6346495+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:59:00.2331285+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:06:00.6170129+00:00"
 }

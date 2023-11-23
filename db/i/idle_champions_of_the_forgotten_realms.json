@@ -8239,9 +8239,9 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236451,
+  "EOS_Progressed": 236454,
   "EOS_Completed": 2469,
-  "EOS_NewPlayers": 1216,
+  "EOS_NewPlayers": 1215,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32554,6 +32554,11 @@
       "Time": "2023-11-23T05:09:53.0597955+00:00",
       "NumProgressed": 236451,
       "NumCompleted": 2469
+    },
+    {
+      "Time": "2023-11-23T06:09:00.6040102+00:00",
+      "NumProgressed": 236454,
+      "NumCompleted": 2469
     }
   ],
   "TotalAchievements": 532,
@@ -32955,17 +32960,17 @@
       "ID": "objective_completed_1101",
       "SetID": "415jc5c",
       "Name": "Undergeared",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1102",
       "SetID": "415jc5c",
       "Name": "Underdark Chill",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1105",
@@ -34619,9 +34624,9 @@
       "ID": "objective_completed_425",
       "SetID": "cc37lbc",
       "Name": "The Madness Grows",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_426",
@@ -34795,17 +34800,17 @@
       "ID": "objective_completed_551",
       "SetID": "cc37lbc",
       "Name": "Dreams of Beholders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_552",
       "SetID": "cc37lbc",
       "Name": "Feigned Weakness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_553",
@@ -34883,9 +34888,9 @@
       "ID": "objective_completed_563",
       "SetID": "415jc5c",
       "Name": "Evergreens with an Evergreen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_565",
@@ -36820,21 +36825,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202725,
+      "Progressed": 202728,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236451,
+      "Progressed": 236454,
       "Completed": 2469
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-22T21:57:49.5338651+00:00",
-  "LastChanged_Achievements": "2023-11-23T05:09:53.059795+00:00",
+  "LastChanged_Achievements": "2023-11-23T06:09:00.6040099+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T04:58:03.2940092+00:00",
-  "LastUpdate_Achievements": "2023-11-23T05:09:53.0621382+00:00"
+  "LastUpdate_Ratings": "2023-11-23T05:57:37.2811992+00:00",
+  "LastUpdate_Achievements": "2023-11-23T06:09:00.606238+00:00"
 }

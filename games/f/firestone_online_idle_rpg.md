@@ -5,20 +5,20 @@ Rating: 4.12 (Ranked 962)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,384 |
-| World Map | 79.00% | ~2,025 |
+| Victor | 93.00% | ~2,385 |
+| World Map | 79.00% | ~2,026 |
 | Temple of Eternals | 57.00% | ~1,461 |
-| Prestigious | 54.00% | ~1,384 |
-| Fellowship Power | 42.00% | ~1,076 |
+| Prestigious | 54.00% | ~1,385 |
+| Fellowship Power | 42.00% | ~1,077 |
 | Guild Power | 25.00% | ~641 |
 | Prestigious x10 | 21.00% | ~538 |
 | The game is on | 20.00% | ~513 |
-| Exotic Merchant | 18.00% | ~461 |
-| Dragon Clicker | 17.00% | ~436 |
+| Exotic Merchant | 18.00% | ~462 |
+| Dragon Clicker | 16.00% | ~410 |
 | Inspection | 16.00% | ~410 |
 | Miner Clicker | 16.00% | ~410 |
-| Enlightenment | 15.00% | ~384 |
-| Full Party | 15.00% | ~384 |
+| Enlightenment | 15.00% | ~385 |
+| Full Party | 15.00% | ~385 |
 | Dragon Master | 14.00% | ~359 |
 | Hero inspection | 14.00% | ~359 |
 | Lieutenant | 14.00% | ~359 |
@@ -50,12 +50,12 @@ Rating: 4.12 (Ranked 962)
 | Engineer Mastery | 7.00% | ~179 |
 | The Expeditioner | 7.00% | ~179 |
 | Weekly Quest Completionist | 7.00% | ~179 |
-| Active Member | 6.00% | ~154 |
 | How Do You Turn This On? | 6.00% | ~154 |
 | Lock And Load | 6.00% | ~154 |
 | Missions Dedication | 6.00% | ~154 |
 | Sailor | 6.00% | ~154 |
 | The Alchemist | 6.00% | ~154 |
+| Active Member | 5.00% | ~128 |
 | Ancient Knowledge | 5.00% | ~128 |
 | Arena Challenger | 5.00% | ~128 |
 | Background Story | 5.00% | ~128 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 962)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,563 (Ranked 216)  
+Progressed: 2,564 (Ranked 216)  
 Completed: 2 (0.08%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 2 (0.08%) (Ranked 294)
 | 2023-11-20 | 2,503 | 2 |
 | 2023-11-21 | 2,525 | 2 |
 | 2023-11-22 | 2,554 | 2 |
-| 2023-11-23 | 2,563 | 2 |
+| 2023-11-23 | 2,564 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 483)  
 Sum: 110 (Ranked 442)  

@@ -7,28 +7,28 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~28,456 |
-| The Evilest Evil | 59.00% | ~23,984 |
+| The Evilest Evil | 59.00% | ~23,985 |
 | Twistram is devastated | 58.00% | ~23,578 |
 | The Gehenna Stones | 50.00% | ~20,326 |
 | No one has to die today! | 47.00% | ~19,106 |
-| Death and destruction! | 46.00% | ~18,699 |
-| The Swamplanders from the swamplands | 44.00% | ~17,886 |
+| Death and destruction! | 46.00% | ~18,700 |
+| The Swamplanders from the swamplands | 44.00% | ~17,887 |
 | The One-Huge-Army-Building Evil | 41.00% | ~16,667 |
 | Rusty Steel | 41.00% | ~16,667 |
-| Braiiiiins! | 38.00% | ~15,447 |
+| Braiiiiins! | 38.00% | ~15,448 |
 | The last burger | 37.00% | ~15,041 |
-| Hands off the Dungeonheart! | 36.00% | ~14,634 |
-| A trip on sea, what fun it can be | 34.00% | ~13,821 |
+| Hands off the Dungeonheart! | 36.00% | ~14,635 |
+| A trip on sea, what fun it can be | 34.00% | ~13,822 |
 | Damned good | 33.00% | ~13,415 |
 | Stock Market Crash | 31.00% | ~12,602 |
 | Factory farming | 31.00% | ~12,602 |
-| Shadow hunter | 30.00% | ~12,195 |
-| Not-So-Overproud | 30.00% | ~12,195 |
-| For a handfull of Catapults | 28.00% | ~11,382 |
+| Shadow hunter | 30.00% | ~12,196 |
+| Not-So-Overproud | 30.00% | ~12,196 |
+| For a handfull of Catapults | 28.00% | ~11,383 |
 | Thirst quencher | 27.00% | ~10,976 |
 | Ogre Solo! | 27.00% | ~10,976 |
-| Destroy the thing | 26.00% | ~10,569 |
-| Tide Master | 26.00% | ~10,569 |
+| Destroy the thing | 26.00% | ~10,570 |
+| Tide Master | 26.00% | ~10,570 |
 | Difficult family relationships | 25.00% | ~10,163 |
 | MASS-O-BOT | 25.00% | ~10,163 |
 | Prepare the grave | 24.00% | ~9,756 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~813 |
 | Sacrifices! | 2.00% | ~813 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,651 (Ranked 121)  
+Progressed: 40,652 (Ranked 121)  
 Completed: 323 (0.79%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 323 (0.79%) (Ranked 180)
 | 2023-11-20 | 40,375 | 321 |
 | 2023-11-21 | 40,514 | 322 |
 | 2023-11-22 | 40,634 | 323 |
-| 2023-11-23 | 40,651 | 323 |
+| 2023-11-23 | 40,652 | 323 |
 ## Awards
 Max (Great for Beginners): 375  (Ranked 235)  
 Sum: 2,766 (Ranked 182)  
