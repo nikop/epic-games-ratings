@@ -86,7 +86,7 @@
 | 78 | [The Messenger](games/t/the_messenger.md) | 4.81 | 342 | 242 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 551 |
 | 86 | [Aground](games/a/aground.md) | 4.80 | 0 | 551 |
-| 86 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,467 | 59 |
+| 86 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,469 | 59 |
 | 86 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 551 |
 | 86 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.80 | 0 | 551 |
 | 86 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,521 | 102 |
@@ -485,7 +485,7 @@
 | 472 | [Risen](games/r/risen.md) | 4.57 | 0 | 551 |
 | 472 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.57 | 98 | 360 |
 | 472 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 551 |
-| 472 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,399 | 81 |
+| 472 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,418 | 81 |
 | 472 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 494 |
 | 472 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,505 | 21 |
 | 472 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,791 | 121 |
@@ -521,24 +521,24 @@
 | 505 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 97 | 364 |
 | 505 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 27 | 509 |
 | 505 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 0 | 551 |
-| 505 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.55 | 592 | 196 |
 | 505 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 551 |
 | 505 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 370 | 239 |
 | 505 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 81 | 389 |
 | 505 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,351 | 135 |
-| 527 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 551 |
-| 527 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,563 | 128 |
-| 527 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,661 | 50 |
-| 527 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 469 |
-| 527 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 111 | 348 |
-| 527 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 551 |
-| 527 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 167 | 308 |
-| 527 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 551 |
-| 527 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 978 | 154 |
-| 527 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 478 |
-| 527 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 523 |
-| 527 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 364 |
-| 527 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 551 |
+| 526 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 551 |
+| 526 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,563 | 128 |
+| 526 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,661 | 50 |
+| 526 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 469 |
+| 526 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 111 | 348 |
+| 526 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 551 |
+| 526 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 167 | 308 |
+| 526 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 551 |
+| 526 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 978 | 154 |
+| 526 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 478 |
+| 526 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 523 |
+| 526 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 364 |
+| 526 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 551 |
+| 526 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 592 | 196 |
 | 540 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.53 | 0 | 551 |
 | 540 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,969 | 18 |
 | 540 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 532 |
@@ -864,7 +864,7 @@
 | 860 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.27 | 38 | 461 |
 | 860 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 546 |
 | 860 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 551 |
-| 860 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,711 | 100 |
+| 860 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,717 | 100 |
 | 860 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 551 |
 | 860 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 551 |
 | 868 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.26 | 0 | 551 |
