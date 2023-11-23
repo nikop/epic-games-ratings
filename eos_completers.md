@@ -7,11 +7,11 @@
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.01% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.16% |
-| 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.20% |
+| 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.00% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.32% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.37% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.35% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.57% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -157,7 +157,7 @@
 | 155 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 155 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 157 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 158 | [Dungeons 4](games/d/dungeons_4.md) | 1.13% |
+| 158 | [Dungeons 4](games/d/dungeons_4.md) | 1.12% |
 | 159 | [Adios](games/a/adios.md) | 1.08% |
 | 160 | [The Devil's Face](games/t/the_devil's_face.md) | 1.05% |
 | 160 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
@@ -233,9 +233,9 @@
 | 230 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.33% |
 | 232 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
 | 232 | [Them and Us](games/t/them_and_us.md) | 0.32% |
-| 234 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 234 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 236 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
+| 235 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 235 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 237 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 237 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
 | 237 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
