@@ -134,7 +134,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 347,960 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 348,010 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -402,6 +402,7 @@
 | [Splitgate](games/s/splitgate.md) | 2099-01-01 | - |  | - | - |
 | [Star★Vaders](games/s/star★vaders.md) | 2099-01-01 | - |  | - | - |
 | [StarSim](games/5/5eb69318a2c84bc3905cd67ae6d74835.md) | 2099-01-01 | - |  | - | - |
+| [Starvin Martian](games/1/1255e14898d542979c0257aa9763649c.md) | 2099-01-01 | - |  | - | - |
 | [SteamWorld Dig](games/a/a204bb2c58bf4cc495fbbc802a5ee782.md) | 2099-01-01 | - |  | - | - |
 | [SteamWorld Dig 2](games/2/265225bd4d5c45faa16faf2c17a27206.md) | 2099-01-01 | - |  | - | - |
 | [SteamWorld Quest](games/9/9cbb1921589842ff989f8ff9b6b18b36.md) | 2099-01-01 | - |  | - | - |
