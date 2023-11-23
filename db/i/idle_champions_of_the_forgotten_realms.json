@@ -8239,9 +8239,9 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236441,
+  "EOS_Progressed": 236443,
   "EOS_Completed": 2468,
-  "EOS_NewPlayers": 1224,
+  "EOS_NewPlayers": 1223,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32534,6 +32534,11 @@
       "Time": "2023-11-23T01:56:37.3797347+00:00",
       "NumProgressed": 236441,
       "NumCompleted": 2468
+    },
+    {
+      "Time": "2023-11-23T02:32:16.865926+00:00",
+      "NumProgressed": 236443,
+      "NumCompleted": 2468
     }
   ],
   "TotalAchievements": 532,
@@ -32575,9 +32580,9 @@
       "ID": "objective_completed_102",
       "SetID": "cc37lbc",
       "Name": "Starving in the Jungle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_1040",
@@ -33015,9 +33020,9 @@
       "ID": "objective_completed_112",
       "SetID": "cc37lbc",
       "Name": "Don\u0027t Look Up!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_1121",
@@ -34103,9 +34108,9 @@
       "ID": "objective_completed_264",
       "SetID": "cc37lbc",
       "Name": "Shorty\u0027s Day Off",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_265",
@@ -34135,9 +34140,9 @@
       "ID": "objective_completed_269",
       "SetID": "cc37lbc",
       "Name": "Seeds of Corruption",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_270",
@@ -34455,9 +34460,9 @@
       "ID": "objective_completed_405",
       "SetID": "cc37lbc",
       "Name": "Spined Nuisances",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_406",
@@ -35263,9 +35268,9 @@
       "ID": "objective_completed_622",
       "SetID": "415jc5c",
       "Name": "Misty Undermountain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_623",
@@ -35415,9 +35420,9 @@
       "ID": "objective_completed_646",
       "SetID": "415jc5c",
       "Name": "Zapper Overload",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_647",
@@ -35799,9 +35804,9 @@
       "ID": "objective_completed_805",
       "SetID": "415jc5c",
       "Name": "Ten in Ten-Towns",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_807",
@@ -35983,9 +35988,9 @@
       "ID": "objective_completed_839",
       "SetID": "415jc5c",
       "Name": "Going To Eleven",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_842",
@@ -36800,21 +36805,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202715,
+      "Progressed": 202717,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236441,
+      "Progressed": 236443,
       "Completed": 2468
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-22T21:57:49.5338651+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:56:37.3797342+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:32:16.8659255+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:44:23.7500625+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:56:37.3820041+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:20:11.9046738+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:32:16.8681354+00:00"
 }

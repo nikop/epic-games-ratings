@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7946,
+  "EOS_Progressed": 7947,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7236,6 +7236,11 @@
       "Time": "2023-11-23T00:10:01.9333089+00:00",
       "NumProgressed": 7946,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T02:32:05.7354528+00:00",
+      "NumProgressed": 7947,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7288,7 +7293,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -7336,7 +7341,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -7360,7 +7365,7 @@
       "Name": "Beach Comber",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -7400,7 +7405,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4847
+      "UsersEstimate": 4848
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7432,7 +7437,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -7527,22 +7532,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7946,
+      "Progressed": 7947,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 563,
-      "Completed": 563
+      "Progressed": 564,
+      "Completed": 564
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:56:26.8834468+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:32:05.7354522+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:49:51.3503836+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:56:26.8835094+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:25:20.0131742+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:32:05.7354985+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4331,9 +4331,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 12146,
+  "EOS_Progressed": 12147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15891,6 +15891,11 @@
       "Time": "2023-11-22T22:08:41.3716131+00:00",
       "NumProgressed": 12146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T02:31:10.0615289+00:00",
+      "NumProgressed": 12147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15918,7 +15923,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "04_FithCrusade",
@@ -16829,21 +16834,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10928,
+      "Progressed": 10929,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12146,
+      "Progressed": 12147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-22T17:57:09.1717388+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:55:35.4064973+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:31:10.0615282+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:05.4492632+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:43:55.0081868+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:55:35.4066564+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:19:40.6271244+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:31:10.0617112+00:00"
 }

@@ -31,8 +31,8 @@ Rating: 4.46 (Ranked 647)
 | Brains of the Operation | 15.00% | ~586 |
 | No Stone Unturned | 14.00% | ~547 |
 | Opposing Force | 14.00% | ~547 |
+| Enemy at the Gates | 14.00% | ~547 |
 | Fields of Glory | 14.00% | ~547 |
-| Enemy at the Gates | 13.00% | ~508 |
 | Set Europe Ablaze | 13.00% | ~508 |
 | Precision Is Key | 10.00% | ~390 |
 | My Little Friend | 10.00% | ~390 |

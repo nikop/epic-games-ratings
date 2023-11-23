@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1368,
+  "EOS_Progressed": 1369,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -4039,6 +4039,11 @@
       "Time": "2023-11-23T00:10:10.7304466+00:00",
       "NumProgressed": 1368,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T02:32:14.3906537+00:00",
+      "NumProgressed": 1369,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4227,7 +4232,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_30",
@@ -4291,7 +4296,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_38",
@@ -4531,7 +4536,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_8",
@@ -4554,13 +4559,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1368,
+      "Progressed": 1369,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1368,
+      "Progressed": 1369,
       "Completed": 1
     }
   ],
@@ -4568,8 +4573,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:56:34.9730936+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:32:14.3906531+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:44:22.8485024+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:56:34.9731661+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:20:10.9636522+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:32:14.3907258+00:00"
 }

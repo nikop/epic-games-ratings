@@ -10893,7 +10893,7 @@
       "Count": 804
     }
   ],
-  "EOS_Progressed": 302729,
+  "EOS_Progressed": 302730,
   "EOS_Completed": 513,
   "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 1,
@@ -34163,6 +34163,11 @@
       "Time": "2023-11-23T01:56:29.8074969+00:00",
       "NumProgressed": 302729,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-23T02:32:08.7886399+00:00",
+      "NumProgressed": 302730,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34302,7 +34307,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36327
+      "UsersEstimate": 36328
     },
     {
       "ID": "PFA_25",
@@ -34358,7 +34363,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36327
+      "UsersEstimate": 36328
     },
     {
       "ID": "PFA_31",
@@ -34502,7 +34507,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45409
+      "UsersEstimate": 45410
     },
     {
       "ID": "PFA_7",
@@ -34533,7 +34538,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302729,
+      "Progressed": 302730,
       "Completed": 513
     }
   ],
@@ -34541,8 +34546,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-22T23:57:55.763053+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:56:29.8074962+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:32:08.7886385+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:44:11.868123+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:56:29.8076332+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:19:59.1047905+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:32:08.7887522+00:00"
 }

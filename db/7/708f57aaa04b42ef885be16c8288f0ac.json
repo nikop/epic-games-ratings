@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5953,
+  "EOS_Progressed": 5957,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4137,6 +4137,11 @@
       "Time": "2023-11-23T01:56:08.3717543+00:00",
       "NumProgressed": 5953,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-23T02:31:45.6458304+00:00",
+      "NumProgressed": 5957,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4157,7 +4162,7 @@
       "Name": "Baby Steps",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "BeLikeWater",
@@ -4205,7 +4210,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "FasterThanLight",
@@ -4221,7 +4226,7 @@
       "Name": "First Time?",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4253,7 +4258,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -4341,7 +4346,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "TheQuarterback",
@@ -4349,7 +4354,7 @@
       "Name": "The Quarterback",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ThisIsDharma",
@@ -4365,7 +4370,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "UnResurrected",
@@ -4381,15 +4386,15 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 357
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -4420,7 +4425,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5953,
+      "Progressed": 5957,
       "Completed": 7
     }
   ],
@@ -4428,8 +4433,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-21T21:59:36.2748065+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:56:08.3717537+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:31:45.6458299+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:46:34.0078096+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:56:08.3717956+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:22:33.9741159+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:31:45.6458662+00:00"
 }

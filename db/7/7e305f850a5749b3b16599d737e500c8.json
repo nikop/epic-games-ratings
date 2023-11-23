@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 40.34,
+  "EOS_Completed_Percentage": 40,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -759,6 +759,11 @@
       "Time": "2023-11-23T01:50:41.762085+00:00",
       "NumProgressed": 119,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-23T02:26:15.1891208+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 18,
@@ -784,7 +789,7 @@
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 50,
       "UsersEstimate": 88
     },
@@ -800,7 +805,7 @@
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 90
     },
@@ -810,13 +815,13 @@
       "Name": "Fisher",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
       "UsersEstimate": 76
     },
@@ -848,7 +853,7 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
       "UsersEstimate": 64
     },
@@ -856,7 +861,7 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
       "UsersEstimate": 65
     },
@@ -898,7 +903,7 @@
       "Name": "Tower builder",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Troubleshooter",
@@ -913,14 +918,14 @@
     {
       "ID": "b7i210",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 48
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:50:41.7620845+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:26:15.1891203+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:46:21.1433496+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:50:41.7621068+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:22:20.1000281+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:26:15.189132+00:00"
 }

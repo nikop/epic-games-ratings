@@ -35,8 +35,8 @@
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~306 |
 | On The Rocks | 36.00% | ~289 |
 | It Is Not Over | 35.00% | ~281 |
+| Snowy Poro | 32.00% | ~257 |
 | Never Gets Old | 32.00% | ~257 |
-| Snowy Poro | 31.00% | ~249 |
 | Vertical Power | 28.00% | ~225 |
 | One From The Heart | 14.00% | ~113 |
 | Yummy | 11.00% | ~88 |

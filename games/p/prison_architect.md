@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~49,144 |
-| Get Busy Living | 16.00% | ~31,452 |
+| Stone Walls | 25.00% | ~49,145 |
+| Get Busy Living | 16.00% | ~31,453 |
 | Samuel Norton | 9.00% | ~17,692 |
 | Spare The Rod | 5.00% | ~9,829 |
 | Don't Put Me In The Dark | 3.00% | ~5,897 |
 | Wait and Hope | 3.00% | ~5,897 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,897 |
-| Throw The Book At Them | 2.00% | ~3,931 |
-| Iron Bars | 2.00% | ~3,931 |
+| Throw The Book At Them | 2.00% | ~3,932 |
+| Iron Bars | 2.00% | ~3,932 |
 | D.B. Cooper | 1.00% | ~1,966 |
 | Reformation | 0.60% | ~1,179 |
 | Crowd Control | 0.50% | ~983 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~197 |
 | ... It's What You Can Prove | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,574 (Ranked 75)  
+Progressed: 196,580 (Ranked 75)  
 Completed: 10 (0.01%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,10 +240,10 @@ Completed: 10 (0.01%) (Ranked 336)
 | 2023-11-20 | 195,897 | 10 |
 | 2023-11-21 | 196,236 | 10 |
 | 2023-11-22 | 196,550 | 10 |
-| 2023-11-23 | 196,574 | 10 |
+| 2023-11-23 | 196,580 | 10 |
 ## Awards
 Max (Great for Beginners): 574  (Ranked 201)  
-Sum: 4,439 (Ranked 147)  
+Sum: 4,441 (Ranked 147)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -255,7 +255,7 @@ Diff (max vs sum): 54
 | This game has Diverse Characters | 480 |
 | This game has Amazing Storytelling | 473 |
 | This game is Educational | 459 |
-| This game has Amazing Characters | 432 |
+| This game has Amazing Characters | 434 |
 | This game has a Creative Community | 344 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -565,3 +565,4 @@ Diff (max vs sum): 54
 | 2023-11-20 | 4.61 | - | 573 | 4,426 |
 | 2023-11-21 | 4.61 | - | 574 | 4,431 |
 | 2023-11-22 | 4.61 | - | 574 | 4,439 |
+| 2023-11-23 | 4.61 | - | 574 | 4,441 |

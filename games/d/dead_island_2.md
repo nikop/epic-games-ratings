@@ -1,28 +1,28 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 527)  
+Rating: 4.54 (Ranked 526)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | One of Us | 2.00% | ~968 |
 | Whatever It Takes | 2.00% | ~968 |
 | Pork Chopped | 2.00% | ~968 |
-| Dr. Reed, I Presume? | 1.00% | ~7,228 |
-| Git Gutte! | 1.00% | ~7,228 |
-| Anger Management | 1.00% | ~7,228 |
-| Bookworm | 1.00% | ~7,228 |
-| Break A Leg | 1.00% | ~7,228 |
-| But Doctor, I am Butcho | 1.00% | ~7,228 |
-| Coup de Grâce | 1.00% | ~7,228 |
-| Hazardous Materials | 1.00% | ~7,228 |
-| Friends Like These | 1.00% | ~7,228 |
-| Hotel California | 1.00% | ~7,228 |
-| Apex Predator | 1.00% | ~7,228 |
-| Stacking the Deck | 1.00% | ~7,228 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,228 |
-| This is My Weapon | 1.00% | ~7,228 |
-| Welcome To Hell-A | 1.00% | ~7,228 |
+| Dr. Reed, I Presume? | 1.00% | ~7,229 |
+| Git Gutte! | 1.00% | ~7,229 |
+| Anger Management | 1.00% | ~7,229 |
+| Bookworm | 1.00% | ~7,229 |
+| Break A Leg | 1.00% | ~7,229 |
+| But Doctor, I am Butcho | 1.00% | ~7,229 |
+| Coup de Grâce | 1.00% | ~7,229 |
+| Hazardous Materials | 1.00% | ~7,229 |
+| Friends Like These | 1.00% | ~7,229 |
+| Hotel California | 1.00% | ~7,229 |
+| Apex Predator | 1.00% | ~7,229 |
+| Stacking the Deck | 1.00% | ~7,229 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,229 |
+| This is My Weapon | 1.00% | ~7,229 |
+| Welcome To Hell-A | 1.00% | ~7,229 |
 | Can't Handle the Truth | 0.90% | ~6,506 |
 | Like Riding a Bike | 0.90% | ~6,506 |
 | A Patton Emerges | 0.90% | ~6,506 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,841 (Ranked 21)  
+Progressed: 722,851 (Ranked 21)  
 Completed: 2,426 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2,426 (0.34%) (Ranked 228)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 722,841 | 2,426 |
+| 2023-11-23 | 722,851 | 2,426 |
 ## Awards
 Max (Great Boss Battles): 7,661  (Ranked 50)  
 Sum: 11,686 (Ranked 83)  

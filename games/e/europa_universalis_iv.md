@@ -32,6 +32,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | These Banners need a Saga | 0.10% | ~462 |
 | Basileus | 0.10% | ~462 |
 | Basque in Glory | 0.10% | ~462 |
+| Bengal Tiger | 0.10% | ~462 |
 | Better than Napoleon | 0.10% | ~462 |
 | Big Blue Blob | 0.10% | ~462 |
 | Black Jack | 0.10% | ~462 |
@@ -250,7 +251,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Back to the Piast | 0.00% | ~0 |
 | Baltic Crusader | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
-| Bengal Tiger | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,540 (Ranked 41)  
+Progressed: 461,549 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 1 (0.00%) (Ranked 358)
 | 2023-11-20 | 460,274 | 1 |
 | 2023-11-21 | 460,913 | 1 |
 | 2023-11-22 | 461,499 | 1 |
-| 2023-11-23 | 461,540 | 1 |
+| 2023-11-23 | 461,549 | 1 |
 ## Awards
 Max (Educational): 7,119  (Ranked 54)  
 Sum: 58,585 (Ranked 24)  

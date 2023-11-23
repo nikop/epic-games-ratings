@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2224,
+  "EOS_Progressed": 2225,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -5217,6 +5217,11 @@
       "Time": "2023-11-23T00:10:10.0597751+00:00",
       "NumProgressed": 2224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T02:32:13.7430023+00:00",
+      "NumProgressed": 2225,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5229,7 +5234,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5237,7 +5242,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5429,7 +5434,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -5517,7 +5522,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5531,9 +5536,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 534
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5620,14 +5625,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2224,
+      "Progressed": 2225,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:56:34.5124432+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:32:13.7430016+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:49:26.3053616+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:56:34.5124957+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:24:53.1482925+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:32:13.7430649+00:00"
 }

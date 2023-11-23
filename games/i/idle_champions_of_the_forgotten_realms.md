@@ -10,6 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.10% | ~236 |
 | Pros and CONs | 0.10% | ~236 |
 | Upholding the Law | 0.10% | ~236 |
+| Starving in the Jungle | 0.10% | ~236 |
 | Cold as Ice | 0.10% | ~203 |
 | Friends and Foes | 0.10% | ~203 |
 | Tall Tales | 0.10% | ~203 |
@@ -48,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Levelheaded | 0.10% | ~203 |
 | The Madness of Zuggtmoy | 0.10% | ~203 |
 | It's So Pretty… | 0.10% | ~203 |
+| Don't Look Up! | 0.10% | ~236 |
 | The Cult of Lolth | 0.10% | ~203 |
 | Head over Heals | 0.10% | ~203 |
 | The Demon Lords of the Abyss | 0.10% | ~203 |
@@ -157,7 +159,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mongrelfolk Incursion | 0.10% | ~203 |
 | Tower on the Lake | 0.10% | ~236 |
 | Only the Strong Survive | 0.10% | ~236 |
+| Shorty's Day Off | 0.10% | ~236 |
 | Seeds of Deceit | 0.10% | ~236 |
+| Seeds of Corruption | 0.10% | ~236 |
 | The Strahd Squad | 0.10% | ~203 |
 | Trollskull Manor | 0.10% | ~236 |
 | The Gargoyle's Apprentice | 0.10% | ~236 |
@@ -190,6 +194,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.10% | ~236 |
 | Fugitives | 0.10% | ~236 |
 | From The Shadows | 0.10% | ~236 |
+| Spined Nuisances | 0.10% | ~236 |
 | Twilight Twist | 0.10% | ~203 |
 | Excavating History | 0.10% | ~236 |
 | Screams of the Dead | 0.10% | ~236 |
@@ -272,6 +277,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relay Race | 0.10% | ~236 |
 | An Illithid Undertaking | 0.10% | ~203 |
 | An Illithid Ambush | 0.10% | ~203 |
+| Misty Undermountain | 0.10% | ~203 |
 | An Owlbear of an Undertaking | 0.10% | ~203 |
 | Déjà Vu | 0.10% | ~203 |
 | Wait, What? | 0.10% | ~203 |
@@ -289,6 +295,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Trials | 0.10% | ~203 |
 | Bad Odds in Avernus | 0.10% | ~203 |
 | The Lost Hollyphant | 0.10% | ~203 |
+| Zapper Overload | 0.10% | ~203 |
 | Best Friend Search Squad! | 0.10% | ~203 |
 | An Even Worse Time in Avernus | 0.10% | ~203 |
 | Elder Rune Attack | 0.10% | ~203 |
@@ -325,6 +332,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.10% | ~203 |
 | An Awakened Axe | 0.10% | ~203 |
 | CONtagious Cold | 0.10% | ~203 |
+| Ten in Ten-Towns | 0.10% | ~203 |
 | Civilization | 0.10% | ~203 |
 | Trench Coat Run | 0.10% | ~203 |
 | Durable Deep | 0.10% | ~236 |
@@ -342,6 +350,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hats off to you! | 0.10% | ~203 |
 | The Bleeding Citadel | 0.10% | ~203 |
 | Don't Pick at the Scab | 0.10% | ~203 |
+| Going To Eleven | 0.10% | ~203 |
 | Idyllglen | 0.10% | ~203 |
 | The Madness of Yeenoghu | 0.10% | ~203 |
 | The Radiant Nightmare | 0.10% | ~203 |
@@ -422,7 +431,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~203 |
 | The End is the Beginning | 0.10% | ~203 |
 | See You on the Flipside | 0.10% | ~203 |
-| Starving in the Jungle | 0.00% | ~0 |
 | Keep Your Friends Close | 0.00% | ~0 |
 | And Your Enemies Closer | 0.00% | ~0 |
 | Back to Nature | 0.00% | ~0 |
@@ -439,7 +447,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zarak's Revenge | 0.00% | ~0 |
 | Undergeared | 0.00% | ~0 |
 | Underdark Chill | 0.00% | ~0 |
-| Don't Look Up! | 0.00% | ~0 |
 | All Damage, All The Time | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
 | The Lutes of Loomlurch | 0.00% | ~0 |
@@ -466,10 +473,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Form Ranks | 0.00% | ~0 |
 | Drop of Time | 0.00% | ~0 |
 | The Wyrmheart Mine | 0.00% | ~0 |
-| Shorty's Day Off | 0.00% | ~0 |
 | Intelligence Hunt | 0.00% | ~0 |
 | Visions of Strahd | 0.00% | ~0 |
-| Seeds of Corruption | 0.00% | ~0 |
 | Treasure Hunters | 0.00% | ~0 |
 | The Guardian of Orolunga | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
@@ -477,7 +482,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.00% | ~0 |
 | Stumbling Escape | 0.00% | ~0 |
 | Distracted Escape | 0.00% | ~0 |
-| Spined Nuisances | 0.00% | ~0 |
 | Premature Betrayal | 0.00% | ~0 |
 | Frantic Excavation | 0.00% | ~0 |
 | Bazaar Exploits | 0.00% | ~0 |
@@ -496,9 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.00% | ~0 |
 | Vault of Pixies | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
-| Misty Undermountain | 0.00% | ~0 |
 | The Devil Arrives | 0.00% | ~0 |
-| Zapper Overload | 0.00% | ~0 |
 | Alterdeep | 0.00% | ~0 |
 | The Gargoyle | 0.00% | ~0 |
 | Just The Worst | 0.00% | ~0 |
@@ -510,13 +512,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.00% | ~0 |
 | Mirage Arcane | 0.00% | ~0 |
 | The Long Haul | 0.00% | ~0 |
-| Ten in Ten-Towns | 0.00% | ~0 |
 | The Taunting Lord | 0.00% | ~0 |
 | Lone Wolf Party | 0.00% | ~0 |
 | Mimic Perception | 0.00% | ~0 |
 | Fortress Assault | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
-| Going To Eleven | 0.00% | ~0 |
 | Reya Reborn | 0.00% | ~0 |
 | Tough Acting | 0.00% | ~0 |
 | Witty Riposting | 0.00% | ~0 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.00% | ~0 |
 | Slow Down Showdown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,441 (Ranked 64)  
+Progressed: 236,443 (Ranked 64)  
 Completed: 2,468 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,468 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,441 | 2,468 |
+| 2023-11-23 | 236,443 | 2,468 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,575 (Ranked 41)  

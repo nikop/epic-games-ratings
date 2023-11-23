@@ -8,8 +8,8 @@ Rating: 4.16 (Ranked 939)
 | Attachments | 10.00% | ~4,290 |
 | Unlocked Potential | 9.00% | ~3,861 |
 | Tinkerer | 7.00% | ~3,003 |
+| Knock 'Em Dead | 7.00% | ~3,003 |
 | Leapfrogger | 6.00% | ~2,574 |
-| Knock 'Em Dead | 6.00% | ~2,574 |
 | Pilgrimage: Initiate | 6.00% | ~2,574 |
 | Hell of a Run | 6.00% | ~2,574 |
 | Call of the Fount: Baptized | 6.00% | ~2,574 |

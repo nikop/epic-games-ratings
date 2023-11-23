@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -930,7 +930,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 227805,
+  "EOS_Progressed": 227806,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 0,
@@ -24610,6 +24610,11 @@
       "Time": "2023-11-23T01:56:20.9292652+00:00",
       "NumProgressed": 227805,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-23T02:31:59.1383192+00:00",
+      "NumProgressed": 227806,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -24629,7 +24634,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59229
+      "UsersEstimate": 59230
     },
     {
       "ID": "ACH_BASE_11",
@@ -24661,7 +24666,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20502
+      "UsersEstimate": 20503
     },
     {
       "ID": "ACH_BASE_16",
@@ -24669,7 +24674,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22780
+      "UsersEstimate": 22781
     },
     {
       "ID": "ACH_BASE_17",
@@ -24677,7 +24682,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20502
+      "UsersEstimate": 20503
     },
     {
       "ID": "ACH_BASE_18",
@@ -24685,7 +24690,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20502
+      "UsersEstimate": 20503
     },
     {
       "ID": "ACH_BASE_19",
@@ -24885,14 +24890,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20502
+      "UsersEstimate": 20503
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 227805,
+      "Progressed": 227806,
       "Completed": 5
     }
   ],
@@ -24900,8 +24905,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-22T21:58:40.324486+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:56:20.9292646+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:31:59.1383187+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.2223415+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:45:25.7500636+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:56:20.9293986+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:21:19.4620737+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:31:59.1384172+00:00"
 }

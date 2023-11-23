@@ -5,31 +5,31 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~104,846 |
-| 74 miles East of Otaheité | 56.00% | ~73,392 |
-| Interesting... | 42.00% | ~55,044 |
-| The Everhart Expedition | 40.00% | ~52,423 |
-| The Vanishing of the Lady Shannon | 30.00% | ~39,317 |
-| Seaside Serenade | 30.00% | ~39,317 |
+| A Family Heirloom | 80.00% | ~104,848 |
+| 74 miles East of Otaheité | 56.00% | ~73,394 |
+| Interesting... | 42.00% | ~55,045 |
+| The Everhart Expedition | 40.00% | ~52,424 |
+| The Vanishing of the Lady Shannon | 30.00% | ~39,318 |
+| Seaside Serenade | 30.00% | ~39,318 |
 | Halfway there | 29.00% | ~38,007 |
-| A brigantine, a brig and a barque | 28.00% | ~36,696 |
-| 506 East Hampden Avenue | 28.00% | ~36,696 |
-| Weekend at Walakea's | 27.00% | ~35,385 |
-| Quite a Show | 27.00% | ~35,385 |
-| Dark Water Ride | 25.00% | ~32,764 |
+| A brigantine, a brig and a barque | 28.00% | ~36,697 |
+| 506 East Hampden Avenue | 28.00% | ~36,697 |
+| Weekend at Walakea's | 27.00% | ~35,386 |
+| Quite a Show | 27.00% | ~35,386 |
+| Dark Water Ride | 25.00% | ~32,765 |
 | Sunken | 24.00% | ~31,454 |
 | Deep Cut | 24.00% | ~31,454 |
-| FHALGOF'N' | 23.00% | ~30,143 |
-| Marsh Cannery | 21.00% | ~27,522 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~23,590 |
+| FHALGOF'N' | 23.00% | ~30,144 |
+| Marsh Cannery | 21.00% | ~27,523 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~23,591 |
 | The only thing I have now | 17.00% | ~22,280 |
-| Naacalvision | 16.00% | ~20,969 |
+| Naacalvision | 16.00% | ~20,970 |
 | Not Another Boring Slideshow! | 15.00% | ~19,659 |
 | I'll make a note of that... | 9.00% | ~11,795 |
 | The Norahnomicon | 9.00% | ~11,795 |
 | Play it again, Norah | 7.00% | ~9,174 |
 | Underwater Royalty | 7.00% | ~9,174 |
-| Written in Stone | 6.00% | ~7,863 |
+| Written in Stone | 6.00% | ~7,864 |
 | Fawning Developers | 5.00% | ~6,553 |
 | Candid Photo | 5.00% | ~6,553 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~5,242 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 746)
 | Gently down the stream... | 1.00% | ~1,311 |
 | Meta-reference | 1.00% | ~1,311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,057 (Ranked 83)  
+Progressed: 131,060 (Ranked 83)  
 Completed: 1,133 (0.86%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 1,133 (0.86%) (Ranked 175)
 | 2023-11-20 | 130,795 | 1,129 |
 | 2023-11-21 | 130,917 | 1,130 |
 | 2023-11-22 | 131,047 | 1,132 |
-| 2023-11-23 | 131,057 | 1,133 |
+| 2023-11-23 | 131,060 | 1,133 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

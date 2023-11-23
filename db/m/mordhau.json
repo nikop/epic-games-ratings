@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-13T15:00:00+00:00",
     "PcReleaseDate": "2019-04-29T00:00:00+00:00",
@@ -5967,9 +5967,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1561055,
+  "EOS_Progressed": 1561058,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 3678,
+  "EOS_NewPlayers": 3680,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30742,6 +30742,11 @@
       "Time": "2023-11-23T01:50:09.7056722+00:00",
       "NumProgressed": 1561055,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-23T02:25:40.6406257+00:00",
+      "NumProgressed": 1561058,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 38,
@@ -30833,7 +30838,7 @@
       "Name": "Guts",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 312211
+      "UsersEstimate": 312212
     },
     {
       "ID": "Highlander",
@@ -30849,7 +30854,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 640033
+      "UsersEstimate": 640034
     },
     {
       "ID": "JustScratch",
@@ -30865,7 +30870,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 764917
+      "UsersEstimate": 764918
     },
     {
       "ID": "KeepsComingOff",
@@ -30873,7 +30878,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 640033
+      "UsersEstimate": 640034
     },
     {
       "ID": "KungFu",
@@ -30913,7 +30918,7 @@
       "Name": "Meat Grinder",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 296600
+      "UsersEstimate": 296601
     },
     {
       "ID": "NoOrdinaryCold",
@@ -30985,7 +30990,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 671254
+      "UsersEstimate": 671255
     },
     {
       "ID": "ToughNut",
@@ -31001,7 +31006,7 @@
       "Name": "Training Accident",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 14049
+      "UsersEstimate": 14050
     },
     {
       "ID": "Unstoppable",
@@ -31056,7 +31061,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1561055,
+      "Progressed": 1561058,
       "Completed": 68
     }
   ],
@@ -31064,8 +31069,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-11-23T01:46:07.3707793+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:50:09.7056715+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:25:40.640625+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.2635782+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:46:07.3707798+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:50:09.7058229+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:22:05.2800111+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:25:40.6407503+00:00"
 }

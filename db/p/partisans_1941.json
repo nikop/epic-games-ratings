@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1789,
+  "EOS_Progressed": 1790,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4109,6 +4109,11 @@
       "Time": "2023-11-22T21:07:49.518395+00:00",
       "NumProgressed": 1789,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-23T02:30:22.7407732+00:00",
+      "NumProgressed": 1790,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4200,7 +4205,7 @@
       "Name": "E1M1",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "Everyone_is_here",
@@ -4232,7 +4237,7 @@
       "Name": "Grenadier",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "Hard_Serpent",
@@ -4272,7 +4277,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "KillAllM2",
@@ -4280,7 +4285,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Kultprosvet",
@@ -4296,7 +4301,7 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Miner",
@@ -4336,7 +4341,7 @@
       "Name": "War Never Changes",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "We_were_not_here",
@@ -4352,22 +4357,22 @@
       "Name": "Your Answer",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1789,
+      "Progressed": 1790,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:54:30.8353094+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:30:22.7407727+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:07.4089299+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:45:26.7242149+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:54:30.8353444+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:21:20.4029248+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:30:22.7408226+00:00"
 }

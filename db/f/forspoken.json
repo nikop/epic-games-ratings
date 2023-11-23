@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -429,7 +429,7 @@
   ],
   "EOS_Progressed": 42904,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13396,9 +13396,9 @@
       "ID": "MAGIC_BREAK",
       "SetID": "6d0g7k8",
       "Name": "Knock \u0027Em Dead",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2574
+      "UsersEstimate": 3003
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -13595,8 +13595,8 @@
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:54:07.5024966+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:29:57.4161161+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:28.9444808+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:43:47.6447599+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:54:07.5025846+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:19:32.5120046+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:29:57.4162131+00:00"
 }

@@ -1,26 +1,26 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 527)  
+Rating: 4.54 (Ranked 526)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~969,939 |
-| I Need a Bigger Garage | 63.00% | ~678,957 |
-| Pump my Ride | 47.00% | ~506,524 |
-| Ghostbuster | 34.00% | ~366,421 |
-| Call Roadside Assistance | 18.00% | ~193,988 |
-| That Was Close | 18.00% | ~193,988 |
-| Quickie | 11.00% | ~118,548 |
+| The First of Many | 90.00% | ~969,945 |
+| I Need a Bigger Garage | 63.00% | ~678,962 |
+| Pump my Ride | 47.00% | ~506,527 |
+| Ghostbuster | 34.00% | ~366,424 |
+| Call Roadside Assistance | 18.00% | ~193,989 |
+| That Was Close | 18.00% | ~193,989 |
+| Quickie | 11.00% | ~118,549 |
 | California Dreamer | 7.00% | ~75,440 |
 | Can't Touch This | 5.00% | ~53,886 |
-| Carménère Taster | 4.00% | ~43,108 |
-| Comeback | 4.00% | ~43,108 |
-| Driver from Ipanema | 3.00% | ~32,331 |
-| Supersonic | 3.00% | ~32,331 |
-| Marathonist | 3.00% | ~32,331 |
-| Living Legend | 3.00% | ~32,331 |
+| Carménère Taster | 4.00% | ~43,109 |
+| Comeback | 4.00% | ~43,109 |
+| Driver from Ipanema | 3.00% | ~32,332 |
+| Supersonic | 3.00% | ~32,332 |
+| Marathonist | 3.00% | ~32,332 |
+| Living Legend | 3.00% | ~32,332 |
 | God of Roads | 2.00% | ~21,554 |
 | Pathfinder | 2.00% | ~21,554 |
 | Go-Kart Champion | 2.00% | ~21,554 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,078 |
 | Look Mom, No Hands! | 0.10% | ~1,078 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,077,710 (Ranked 13)  
+Progressed: 1,077,717 (Ranked 13)  
 Completed: 494 (0.05%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 494 (0.05%) (Ranked 307)
 | 2023-11-20 | 1,077,060 | 492 |
 | 2023-11-21 | 1,077,382 | 493 |
 | 2023-11-22 | 1,077,684 | 494 |
-| 2023-11-23 | 1,077,710 | 494 |
+| 2023-11-23 | 1,077,717 | 494 |
 ## Awards
 Max (Great for Beginners): 167  (Ranked 308)  
 Sum: 1,530 (Ranked 233)  

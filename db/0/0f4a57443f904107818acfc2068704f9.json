@@ -2,10 +2,10 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 425,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -912,6 +912,11 @@
       "Time": "2023-11-23T01:52:08.039613+00:00",
       "NumProgressed": 423,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T02:27:48.7409153+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -980,7 +985,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "CompleteChapter10",
@@ -1010,9 +1015,9 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter14",
@@ -1044,7 +1049,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -1060,7 +1065,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CompleteChapter2",
@@ -1068,7 +1073,7 @@
       "Name": "Met the Enemy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "CompleteChapter3",
@@ -1108,7 +1113,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CompleteChapter8",
@@ -1196,7 +1201,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1219,14 +1224,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 425,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-23T01:52:08.0396125+00:00",
+  "LastChanged_Achievements": "2023-11-23T02:27:48.7409148+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-23T01:44:15.3221041+00:00",
-  "LastUpdate_Achievements": "2023-11-23T01:52:08.0396391+00:00"
+  "LastUpdate_Ratings": "2023-11-23T02:20:02.8842376+00:00",
+  "LastUpdate_Achievements": "2023-11-23T02:27:48.7409429+00:00"
 }
