@@ -174,6 +174,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | This Quest Stinks! | 0.10% | ~203 |
 | The Immortal Warrior | 0.10% | ~236 |
 | Hold for the Red Wizards | 0.10% | ~236 |
+| Drop of Time | 0.10% | ~203 |
 | They Who Smelt It | 0.10% | ~236 |
 | Distribute Your Weight | 0.10% | ~236 |
 | Mongrelfolk Incursion | 0.10% | ~203 |
@@ -198,6 +199,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.10% | ~236 |
 | The Death Curse | 0.10% | ~236 |
 | Treasure Hunters | 0.10% | ~236 |
+| The Guardian of Orolunga | 0.10% | ~236 |
 | Think Your Way Out Of It | 0.10% | ~236 |
 | Air's Getting Pretty Thin | 0.10% | ~236 |
 | Red Wizard 'Escort' | 0.10% | ~203 |
@@ -206,6 +208,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.10% | ~236 |
 | Spirit of the Trickster Gods | 0.10% | ~203 |
 | Flies on the Wall | 0.10% | ~236 |
+| The Killer Mists | 0.10% | ~236 |
 | Seeking Allies | 0.10% | ~236 |
 | Class Vacation | 0.10% | ~236 |
 | A Nod from Strahd | 0.10% | ~203 |
@@ -362,6 +365,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.10% | ~203 |
 | Giant-Size Adventure | 0.10% | ~203 |
 | Power of Three | 0.10% | ~203 |
+| The Everlasting Rime | 0.10% | ~203 |
 | Enemy Summit | 0.10% | ~203 |
 | Mirage Arcane | 0.10% | ~203 |
 | Only Human | 0.10% | ~203 |
@@ -511,10 +515,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.00% | ~0 |
 | Invisible Shadows | 0.00% | ~0 |
 | Form Ranks | 0.00% | ~0 |
-| Drop of Time | 0.00% | ~0 |
 | The Wyrmheart Mine | 0.00% | ~0 |
-| The Guardian of Orolunga | 0.00% | ~0 |
-| The Killer Mists | 0.00% | ~0 |
 | And a Pixie in a Pear Treant | 0.00% | ~0 |
 | Faerûn's Most Wanted | 0.00% | ~0 |
 | Vault of Dragons | 0.00% | ~0 |
@@ -524,7 +525,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Extreme Heat | 0.00% | ~0 |
 | Prisoners of Lolth | 0.00% | ~0 |
 | Rime Bandits | 0.00% | ~0 |
-| The Everlasting Rime | 0.00% | ~0 |
 | Lone Wolf Party | 0.00% | ~0 |
 | Mimic Perception | 0.00% | ~0 |
 | Frontline Fighters | 0.00% | ~0 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | 3,720 to 1 | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,457 (Ranked 64)  
+Progressed: 236,459 (Ranked 64)  
 Completed: 2,469 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,469 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,457 | 2,469 |
+| 2023-11-23 | 236,459 | 2,469 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,580 (Ranked 41)  

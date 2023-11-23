@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1900,6 +1900,11 @@
       "Time": "2023-11-23T07:08:26.9180468+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T08:08:24.7921933+00:00",
+      "NumProgressed": 1151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1936,7 +1941,7 @@
       "Name": "Endless Biographer",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_BLOB_BOSS",
@@ -1944,7 +1949,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -1960,7 +1965,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -1992,7 +1997,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 806
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2000,7 +2005,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -2032,7 +2037,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -2120,7 +2125,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -2151,14 +2156,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:08:26.9180464+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:08:24.792193+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.2825313+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:00:10.0344199+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:08:26.9180811+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:00.1730796+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:08:24.7922199+00:00"
 }

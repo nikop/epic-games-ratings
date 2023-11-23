@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,223 |
+| New Recruit | 89.00% | ~1,224 |
 | Off to a good start | 67.00% | ~921 |
-| Do... or do not. There is no try | 50.00% | ~687 |
+| Do... or do not. There is no try | 50.00% | ~688 |
 | A good blaster at your side | 31.00% | ~426 |
 | I suggest a new strategy | 19.00% | ~261 |
-| Scrap collector | 18.00% | ~247 |
+| Scrap collector | 18.00% | ~248 |
 | All right, I'll give it a try | 17.00% | ~234 |
 | Great shot, kid! | 17.00% | ~234 |
-| The power of the Force | 14.00% | ~192 |
-| Together we can rule the galaxy | 14.00% | ~192 |
-| Shoot first | 14.00% | ~192 |
+| The power of the Force | 14.00% | ~193 |
+| Together we can rule the galaxy | 14.00% | ~193 |
+| Shoot first | 14.00% | ~193 |
 | Collector | 13.00% | ~179 |
-| Survivor | 10.00% | ~137 |
+| Survivor | 10.00% | ~138 |
 | Tell Jabba that I've got his money | 9.00% | ~124 |
 | Best star-pilot in the galaxy | 9.00% | ~124 |
 | Never tell me the odds! | 8.00% | ~110 |
@@ -39,14 +39,14 @@
 | On the ball | 3.00% | ~41 |
 | Precision shot | 3.00% | ~41 |
 | That's no moon | 3.00% | ~41 |
-| Hold the line! | 2.00% | ~27 |
-| The Force is strong with this one | 2.00% | ~27 |
-| This is a new day, a new beginning | 2.00% | ~27 |
-| City in the Clouds | 2.00% | ~27 |
-| Alternative solution | 2.00% | ~27 |
-| What will you become? | 2.00% | ~27 |
-| The circle is now complete | 2.00% | ~27 |
-| Disturbed tranquility | 2.00% | ~27 |
+| Hold the line! | 2.00% | ~28 |
+| The Force is strong with this one | 2.00% | ~28 |
+| This is a new day, a new beginning | 2.00% | ~28 |
+| City in the Clouds | 2.00% | ~28 |
+| Alternative solution | 2.00% | ~28 |
+| What will you become? | 2.00% | ~28 |
+| The circle is now complete | 2.00% | ~28 |
+| Disturbed tranquility | 2.00% | ~28 |
 | Playing the objective | 1.00% | ~14 |
 | Ackbar's Elite | 1.00% | ~14 |
 | You have your moments | 1.00% | ~14 |
@@ -58,17 +58,17 @@
 | A New Hope | 0.80% | ~11 |
 | Walker defender | 0.80% | ~11 |
 | I’ll take that bet | 0.70% | ~10 |
-| Stay on target | 0.40% | ~5 |
-| Don't get cocky | 0.40% | ~5 |
-| Master | 0.40% | ~5 |
-| Greed can be a very powerful ally | 0.40% | ~5 |
+| Stay on target | 0.40% | ~6 |
+| Don't get cocky | 0.40% | ~6 |
+| Master | 0.40% | ~6 |
+| Greed can be a very powerful ally | 0.40% | ~6 |
 | That got him! | 0.30% | ~4 |
 | in a galaxy far, far away.... | 0.30% | ~4 |
 | Stay in attack formation | 0.30% | ~4 |
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,374 (Ranked 242)  
+Progressed: 1,375 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 1 (0.07%) (Ranked 298)
 | 2023-11-20 | 1,335 | 1 |
 | 2023-11-21 | 1,352 | 1 |
 | 2023-11-22 | 1,367 | 1 |
-| 2023-11-23 | 1,374 | 1 |
+| 2023-11-23 | 1,375 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1531,9 +1531,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159628,
+  "EOS_Progressed": 159636,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1175,
+  "EOS_NewPlayers": 1180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16726,6 +16726,11 @@
       "Time": "2023-11-23T07:04:05.8090412+00:00",
       "NumProgressed": 159628,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T08:04:01.5638281+00:00",
+      "NumProgressed": 159636,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16801,7 +16806,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7981
+      "UsersEstimate": 7982
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -16953,7 +16958,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7981
+      "UsersEstimate": 7982
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -17033,7 +17038,7 @@
       "Name": "Dream",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "QUEST_CODA",
@@ -17104,21 +17109,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159211,
+      "Progressed": 159219,
       "Completed": 1216
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159628,
+      "Progressed": 159636,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-22T17:57:06.1502636+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:04:05.809041+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:04:01.5638279+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:20.2131314+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:04:05.8091282+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:19.3391993+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:04:01.5639102+00:00"
 }

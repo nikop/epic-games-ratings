@@ -3235,9 +3235,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 40654,
+  "EOS_Progressed": 40655,
   "EOS_Completed": 323,
-  "EOS_NewPlayers": 1320,
+  "EOS_NewPlayers": 1314,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -27290,6 +27290,11 @@
       "Time": "2023-11-23T07:04:57.2230617+00:00",
       "NumProgressed": 40654,
       "NumCompleted": 323
+    },
+    {
+      "Time": "2023-11-23T08:04:53.6238072+00:00",
+      "NumProgressed": 40655,
+      "NumCompleted": 323
     }
   ],
   "TotalAchievements": 60,
@@ -27309,7 +27314,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 19107
+      "UsersEstimate": 19108
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -27317,7 +27322,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 23579
+      "UsersEstimate": 23580
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -27349,7 +27354,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -27389,7 +27394,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 13822
+      "UsersEstimate": 13823
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -27405,7 +27410,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4066
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -27413,7 +27418,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 20327
+      "UsersEstimate": 20328
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -27453,7 +27458,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -27517,7 +27522,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 16668
+      "UsersEstimate": 16669
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -27525,7 +27530,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 14635
+      "UsersEstimate": 14636
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -27533,7 +27538,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 16668
+      "UsersEstimate": 16669
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -27605,7 +27610,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 9350
+      "UsersEstimate": 9351
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -27653,7 +27658,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 8537
+      "UsersEstimate": 8538
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -27765,7 +27770,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4066
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -27780,15 +27785,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 40654,
+      "Progressed": 40655,
       "Completed": 323
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-22T17:58:51.2282015+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:04:57.2230611+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:04:53.6238071+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:33.1928949+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:59:00.999479+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:04:57.2231856+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:59:02.9014229+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:04:53.6239404+00:00"
 }

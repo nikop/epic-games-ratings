@@ -4331,7 +4331,7 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 12149,
+  "EOS_Progressed": 12151,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -15906,6 +15906,11 @@
       "Time": "2023-11-23T04:08:40.7613194+00:00",
       "NumProgressed": 12149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T08:08:47.2102571+00:00",
+      "NumProgressed": 12151,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15965,7 +15970,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "08_PathOfAngel",
@@ -15989,7 +15994,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "11_PathOfAeon",
@@ -16005,7 +16010,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "13_PathOfLich",
@@ -16037,7 +16042,7 @@
       "Name": "Path of the Legend",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "17_Transformation",
@@ -16045,7 +16050,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "18_MythicChoices",
@@ -16053,7 +16058,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "19_EqualToAroden",
@@ -16101,7 +16106,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "25_MasterfulDispell",
@@ -16133,7 +16138,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -16141,7 +16146,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "31_DivideAndRule",
@@ -16165,7 +16170,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -16181,7 +16186,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -16189,7 +16194,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -16261,7 +16266,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "46_AllPathsOpen",
@@ -16269,7 +16274,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -16285,7 +16290,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "49_Flame",
@@ -16325,7 +16330,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "54_DeathByColumn",
@@ -16341,7 +16346,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "56_GetToad",
@@ -16349,7 +16354,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "57_PathOfDevil",
@@ -16844,21 +16849,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10931,
+      "Progressed": 10933,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12149,
+      "Progressed": 12151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-22T17:57:09.1717388+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:08:48.6764504+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:08:47.2102569+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:05.4492632+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:22.9054128+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:08:48.6766137+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:22.0946184+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:08:47.2104148+00:00"
 }

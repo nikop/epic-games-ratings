@@ -43,7 +43,7 @@ Number of Ratings: 495  (23.09.2022)
 | High Five the Moon | 0.80% | ~1,722 |
 | The Cave | 0.80% | ~1,722 |
 | Time Paradox | 0.60% | ~1,292 |
-| Merciful | 0.50% | ~1,076 |
+| Merciful | 0.50% | ~1,077 |
 | Five Shadows | 0.40% | ~861 |
 | Complete Mastery | 0.20% | ~431 |
 | Praise the Shogun | 0.20% | ~431 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~215 |
 | Release the Kraken | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,300 (Ranked 71)  
+Progressed: 215,303 (Ranked 71)  
 Completed: 98 (0.05%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 98 (0.05%) (Ranked 306)
 | 2023-11-20 | 214,967 | 98 |
 | 2023-11-21 | 215,122 | 98 |
 | 2023-11-22 | 215,269 | 98 |
-| 2023-11-23 | 215,300 | 98 |
+| 2023-11-23 | 215,303 | 98 |
 ## Awards
 Max (Great for Beginners): 576  (Ranked 198)  
 Sum: 4,865 (Ranked 144)  

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -247,6 +247,11 @@
       "Time": "2023-11-23T05:08:16.7253133+00:00",
       "NumProgressed": 119,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T08:08:23.0672106+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -315,7 +320,7 @@
       "Name": "Combo Convert",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -329,9 +334,9 @@
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -347,7 +352,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -355,15 +360,15 @@
       "Name": "Celestial Rain",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -377,9 +382,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -465,9 +470,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Memories",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -578,14 +583,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:06:44.3081746+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:08:23.0672104+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:58.1871803+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:06:44.3082015+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:58.4509523+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:08:23.06724+00:00"
 }

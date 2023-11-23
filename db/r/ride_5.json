@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2226,
+  "EOS_Progressed": 2227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5227,6 +5227,11 @@
       "Time": "2023-11-23T07:09:33.7208584+00:00",
       "NumProgressed": 2226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T08:09:32.8723509+00:00",
+      "NumProgressed": 2227,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5239,7 +5244,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5247,7 +5252,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5311,7 +5316,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5541,9 +5546,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 557
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5591,7 +5596,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5630,14 +5635,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2226,
+      "Progressed": 2227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:09:33.7208579+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:09:32.8723507+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:02:49.8912188+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:09:33.7209111+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:02:42.7634992+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:09:32.8723971+00:00"
 }

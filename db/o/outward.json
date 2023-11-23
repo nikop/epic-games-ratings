@@ -4,7 +4,7 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 505,
   "Ranking_Popularity": 471,
-  "Ranking_PopularitySum": 382,
+  "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 271,
@@ -5976,8 +5976,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:04:32.6435351+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:04:28.811166+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:59:53.5876034+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:04:32.6435917+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:59:57.251056+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:04:28.811207+00:00"
 }

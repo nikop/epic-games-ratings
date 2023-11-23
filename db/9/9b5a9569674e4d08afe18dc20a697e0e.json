@@ -2,9 +2,9 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38,
+  "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -174,6 +174,11 @@
       "Time": "2023-11-23T05:07:35.9294638+00:00",
       "NumProgressed": 38,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T08:06:27.8312212+00:00",
+      "NumProgressed": 39,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -184,9 +189,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "BARON",
@@ -224,7 +229,7 @@
       "ID": "DISCIPLE",
       "SetID": "40o4f14",
       "Name": "Disciple",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -344,7 +349,7 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -400,7 +405,7 @@
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -433,14 +438,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 38,
+      "Progressed": 39,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:06:28.8922306+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:06:27.831221+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:58:37.1808019+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:06:28.8922675+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:58:38.3796849+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:06:27.8312443+00:00"
 }

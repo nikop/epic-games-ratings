@@ -179,10 +179,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101863,
-  "EOS_Completed": 4622,
-  "EOS_NewPlayers": 704,
-  "EOS_NewCompleters": 76,
+  "EOS_Progressed": 101864,
+  "EOS_Completed": 4624,
+  "EOS_NewPlayers": 703,
+  "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 4.54,
   "EosHistory": [
     {
@@ -8259,6 +8259,11 @@
       "Time": "2023-11-23T07:03:17.8022808+00:00",
       "NumProgressed": 101863,
       "NumCompleted": 4622
+    },
+    {
+      "Time": "2023-11-23T08:03:12.5592355+00:00",
+      "NumProgressed": 101864,
+      "NumCompleted": 4624
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -8279,7 +8284,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 15,
       "XP": 125,
-      "UsersEstimate": 15279
+      "UsersEstimate": 15280
     },
     {
       "ID": "GoldPact",
@@ -8311,7 +8316,7 @@
       "Name": "Ship Dip!",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 51950
+      "UsersEstimate": 51951
     },
     {
       "ID": "TheArtOfParley",
@@ -8319,7 +8324,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 76397
+      "UsersEstimate": 76398
     },
     {
       "ID": "TheGoldenRatio",
@@ -8335,7 +8340,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 60099
+      "UsersEstimate": 60100
     },
     {
       "ID": "WeCanDoBetter",
@@ -8351,7 +8356,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 79453
+      "UsersEstimate": 79454
     },
     {
       "ID": "WelcomeAboard",
@@ -8359,23 +8364,23 @@
       "Name": "Welcome Aboard!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 79453
+      "UsersEstimate": 79454
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 101863,
-      "Completed": 4622
+      "Progressed": 101864,
+      "Completed": 4624
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-17T20:58:16.4880709+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:03:17.8022803+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:03:12.5592352+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:02.959945+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:25.8627862+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:03:17.8023345+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:25.0911153+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:03:12.5592866+00:00"
 }

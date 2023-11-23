@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 547,
+  "EOS_Progressed": 548,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2503,6 +2503,11 @@
       "Time": "2023-11-22T17:06:24.1785707+00:00",
       "NumProgressed": 547,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T08:05:06.4838222+00:00",
+      "NumProgressed": 548,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2578,7 +2583,7 @@
       "Name": "Earth Shattering",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2586,7 +2591,7 @@
       "Name": "La Der des Ders",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2594,7 +2599,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2609,7 +2614,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 547,
+      "Progressed": 548,
       "Completed": 0
     }
   ],
@@ -2617,8 +2622,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:05:09.6272456+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:05:06.4838218+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:59.0407492+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:25.2857432+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:05:09.6272663+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:24.4917492+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:05:06.4838426+00:00"
 }

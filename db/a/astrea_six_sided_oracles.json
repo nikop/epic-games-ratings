@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -754,9 +754,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1026,9 +1026,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ApianChampion",
@@ -1185,8 +1185,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:03:44.5837263+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:03:39.6476969+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:38.9498707+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:58.94925+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:03:44.5838229+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:59.29248+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:03:39.647771+00:00"
 }

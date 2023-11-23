@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 124,
-  "EOS_Completed": 48,
+  "EOS_Completed": 49,
   "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 38.71,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 39.52,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -774,6 +774,11 @@
       "Time": "2023-11-23T06:03:18.9858226+00:00",
       "NumProgressed": 124,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-23T08:03:41.8799936+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 18,
@@ -783,17 +788,17 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 150,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Dust_fighter",
@@ -807,9 +812,9 @@
       "ID": "Engineer",
       "SetID": "b7i210",
       "Name": "Engineer",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Express_home_delivery",
@@ -823,9 +828,9 @@
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "Fixer",
@@ -839,9 +844,9 @@
       "ID": "Florist",
       "SetID": "b7i210",
       "Name": "Florist",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Game_changer",
@@ -855,9 +860,9 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Liberator",
@@ -871,33 +876,33 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Street_food",
@@ -929,13 +934,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 124,
-      "Completed": 48
+      "Completed": 49
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:03:46.7526849+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:03:41.8799932+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:59:06.8981674+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:03:46.7526971+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:59:09.0655394+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:03:41.8800091+00:00"
 }

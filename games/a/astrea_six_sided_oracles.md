@@ -11,8 +11,8 @@
 | Endless Tricks | 39.00% | ~29 |
 | Sanctuary Guardian | 36.00% | ~27 |
 | Noctuan Champion | 36.00% | ~27 |
-| Mind Illuminator | 32.00% | ~24 |
-| Wild's Keeper | 32.00% | ~24 |
+| Mind Illuminator | 33.00% | ~25 |
+| Wild's Keeper | 33.00% | ~25 |
 | Eridanian Champion | 32.00% | ~24 |
 | Lacertian Champion | 31.00% | ~23 |
 | Stellar Dismantler | 28.00% | ~21 |

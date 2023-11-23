@@ -12,10 +12,10 @@ Rating: 4.20 (Ranked 911)
 | Rumors are true | 0.40% | ~1,267 |
 | Pride is a sin, young Knight | 0.40% | ~1,267 |
 | Your wounds… They are healing so fast! | 0.40% | ~1,267 |
-| We'll be careful | 0.30% | ~950 |
-| Back to your senses | 0.30% | ~950 |
-| They won't last long | 0.30% | ~950 |
-| Bring it on! | 0.30% | ~950 |
+| We'll be careful | 0.30% | ~951 |
+| Back to your senses | 0.30% | ~951 |
+| They won't last long | 0.30% | ~951 |
+| Bring it on! | 0.30% | ~951 |
 | They tricked me | 0.20% | ~634 |
 | We need to talk | 0.20% | ~634 |
 | I feel drawn to it | 0.20% | ~634 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 911)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316,831 (Ranked 51)  
+Progressed: 316,848 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 4 (0.00%) (Ranked 358)
 | 2023-11-20 | 315,462 | 4 |
 | 2023-11-21 | 316,102 | 4 |
 | 2023-11-22 | 316,666 | 4 |
-| 2023-11-23 | 316,831 | 4 |
+| 2023-11-23 | 316,848 | 4 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 414)  
 Sum: 61 (Ranked 474)  

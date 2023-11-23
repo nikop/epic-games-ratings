@@ -6233,9 +6233,9 @@
       "ID": "ACH_PREVENT_ABDUCTED",
       "SetID": "816efe",
       "Name": "Snatched Out",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2722
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6306,8 +6306,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-22T11:02:36.7715383+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:04:05.5082013+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:04:01.3575957+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.2076053+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:20.6551006+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:04:05.5082497+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:19.719294+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:04:01.3576518+00:00"
 }

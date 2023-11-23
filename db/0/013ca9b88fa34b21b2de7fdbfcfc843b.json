@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7953,
+  "EOS_Progressed": 7954,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7256,6 +7256,11 @@
       "Time": "2023-11-23T07:09:27.7497835+00:00",
       "NumProgressed": 7953,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T08:09:26.9002127+00:00",
+      "NumProgressed": 7954,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7308,7 +7313,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -7356,7 +7361,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -7380,7 +7385,7 @@
       "Name": "Beach Comber",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -7420,7 +7425,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4851
+      "UsersEstimate": 4852
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7452,7 +7457,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -7547,22 +7552,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7953,
+      "Progressed": 7954,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 570,
-      "Completed": 570
+      "Progressed": 571,
+      "Completed": 571
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:09:27.749783+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:09:26.9002124+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-23T07:03:03.6366263+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:09:27.7498287+00:00"
+  "LastUpdate_Ratings": "2023-11-23T08:02:56.7138353+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:09:26.9002746+00:00"
 }

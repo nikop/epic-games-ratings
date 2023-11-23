@@ -19,8 +19,8 @@ Rating: 3.95 (Ranked 1,009)
 | Dragonslayer | 1.00% | ~914 |
 | Rockay Rex | 1.00% | ~914 |
 | Hidden Sonata | 0.90% | ~823 |
-| Track Star | 0.80% | ~731 |
-| True Player | 0.80% | ~731 |
+| Track Star | 0.80% | ~732 |
+| True Player | 0.80% | ~732 |
 | Headhunter | 0.70% | ~640 |
 | I Like Trains | 0.60% | ~549 |
 | Freebooter | 0.60% | ~549 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,009)
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,437 (Ranked 92)  
+Progressed: 91,440 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 57 (0.06%) (Ranked 300)
 | 2023-11-20 | 91,347 | 57 |
 | 2023-11-21 | 91,374 | 57 |
 | 2023-11-22 | 91,428 | 57 |
-| 2023-11-23 | 91,437 | 57 |
+| 2023-11-23 | 91,440 | 57 |
 ## Awards
 Max (Diverse Characters): 542  (Ranked 204)  
 Sum: 3,083 (Ranked 175)  

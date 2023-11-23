@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1134,
+  "EOS_Progressed": 1135,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2407,6 +2407,11 @@
       "Time": "2023-11-23T07:08:28.4213638+00:00",
       "NumProgressed": 1134,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T08:08:26.3300325+00:00",
+      "NumProgressed": 1135,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2499,7 +2504,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -2563,7 +2568,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2595,7 +2600,7 @@
       "Name": "The Scorpion",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2675,7 +2680,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2691,7 +2696,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2755,27 +2760,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1134,
+      "Progressed": 1135,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 802,
-      "Completed": 802
+      "Progressed": 803,
+      "Completed": 803
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:08:28.4213634+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:08:26.3300323+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:15.8143934+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:08:28.4214051+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:14.7051451+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:08:26.3300732+00:00"
 }

@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 37.00% | ~88 |
-| The Teleprobe | 29.00% | ~69 |
+| The Teleprobe | 30.00% | ~72 |
+| The City | 28.00% | ~67 |
 | The field base | 27.00% | ~65 |
-| The City | 27.00% | ~65 |
 | Survivors | 24.00% | ~57 |
 | The Condor | 21.00% | ~50 |
 | The End | 20.00% | ~48 |
 | The Necroevolution | 17.00% | ~41 |
+| Volcanologist | 15.00% | ~36 |
 | On her own | 14.00% | ~33 |
-| Volcanologist | 14.00% | ~33 |
 | Peacemaker | 13.00% | ~31 |
 | The Alliance | 13.00% | ~31 |
-| Krauta is alive | 12.00% | ~29 |
+| Krauta is alive | 13.00% | ~31 |
 | I remember everything! | 10.00% | ~24 |
 | Fierce fight | 10.00% | ~24 |
 | Evacuation | 10.00% | ~24 |

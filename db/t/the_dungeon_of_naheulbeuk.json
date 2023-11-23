@@ -1371,7 +1371,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 238975,
+  "EOS_Progressed": 238979,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1589,
   "EOS_NewCompleters": 0,
@@ -19616,6 +19616,11 @@
       "Time": "2023-11-23T07:08:50.8224369+00:00",
       "NumProgressed": 238975,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-23T08:08:48.9981492+00:00",
+      "NumProgressed": 238979,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19675,7 +19680,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14338
+      "UsersEstimate": 14339
     },
     {
       "ID": "Chapter2",
@@ -20027,7 +20032,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16728
+      "UsersEstimate": 16729
     },
     {
       "ID": "DwarfElf15Support",
@@ -20075,7 +20080,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83641
+      "UsersEstimate": 83643
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20330,21 +20335,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 238975,
+      "Progressed": 238979,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 238975,
+      "Progressed": 238979,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-21T01:49:15.3509206+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:08:50.8224364+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:08:48.998149+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.8409819+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:59:02.0583648+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:08:50.8225777+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:59:03.9963772+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:08:48.9982818+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 9.00% | ~1,376 |
+| Oyedang, Kopengs | 9.00% | ~1,377 |
 | The Pit and the Pirates | 5.00% | ~765 |
 | Drone Dodger | 5.00% | ~765 |
 | Bosmang | 5.00% | ~765 |
@@ -24,7 +24,7 @@ Rating: 4.56 (Ranked 491)
 | Data Archivist | 3.00% | ~459 |
 | Heal Thy Medic | 3.00% | ~459 |
 | Khan's Revenge | 3.00% | ~459 |
-| Master Negotiator | 3.00% | ~37 |
+| Master Negotiator | 3.00% | ~38 |
 | Doctor Approved | 2.00% | ~306 |
 | Bottoms up! | 2.00% | ~306 |
 | Thorston Mayer | 2.00% | ~306 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,292 (Ranked 152)  
+Progressed: 15,296 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 35 (0.23%) (Ranked 246)
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
 | 2023-11-22 | 15,266 | 35 |
-| 2023-11-23 | 15,292 | 35 |
+| 2023-11-23 | 15,296 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

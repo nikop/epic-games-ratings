@@ -105,6 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 1.00% | ~154 |
 | One True Faith | 1.00% | ~154 |
 | Power to the People | 1.00% | ~154 |
+| Assyrian Paganism | 1.00% | ~154 |
 | Persian Paganism | 1.00% | ~154 |
 | Building Wonders | 1.00% | ~154 |
 | Economic Reform | 1.00% | ~154 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.90% | ~139 |
 | Clerics | 0.90% | ~139 |
 | Egypt | 0.90% | ~139 |
-| Assyrian Paganism | 0.90% | ~139 |
 | Enlightenment | 0.90% | ~139 |
 | Bad Heir Day | 0.80% | ~123 |
 | Rome | 0.80% | ~123 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,432 (Ranked 151)  
+Progressed: 15,434 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -566,7 +566,7 @@ Completed: 5 (0.03%) (Ranked 320)
 | 2023-11-20 | 15,405 | 5 |
 | 2023-11-21 | 15,417 | 5 |
 | 2023-11-22 | 15,428 | 5 |
-| 2023-11-23 | 15,432 | 5 |
+| 2023-11-23 | 15,434 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,873 (Ranked 218)  

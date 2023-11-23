@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -665,9 +665,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "AchvAllMemories",
@@ -761,17 +761,17 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -849,9 +849,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "AchvReachCondor",
@@ -904,8 +904,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:08:37.6590869+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:08:35.8447661+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:58:52.1663609+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:08:37.6591037+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:58:53.8387027+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:08:35.8447817+00:00"
 }

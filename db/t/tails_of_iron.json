@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2033,
+  "EOS_Progressed": 2034,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -3227,6 +3227,11 @@
       "Time": "2023-11-23T06:05:03.3768207+00:00",
       "NumProgressed": 2033,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-23T08:05:28.386287+00:00",
+      "NumProgressed": 2034,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -3238,7 +3243,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "Collect20Gold",
@@ -3254,7 +3259,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "Collect50MonsterParts",
@@ -3262,7 +3267,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "CollectAllStatues",
@@ -3270,7 +3275,7 @@
       "Name": "Return the Statues",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -3318,7 +3323,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3358,7 +3363,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -3388,9 +3393,9 @@
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1159
     },
     {
       "ID": "Kill25Bugs",
@@ -3422,7 +3427,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "MysteryKingsChamber",
@@ -3462,7 +3467,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3470,29 +3475,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2033,
+      "Progressed": 2034,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 674,
-      "Completed": 674
+      "Progressed": 675,
+      "Completed": 675
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:05:30.9695884+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:05:28.3862868+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.2100047+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:26.9601031+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:05:30.9696166+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:26.2319649+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:05:28.386319+00:00"
 }

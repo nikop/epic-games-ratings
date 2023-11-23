@@ -15,7 +15,7 @@
 | Beginner Artificer | 43.00% | ~76 |
 | Apostle of Flame | 43.00% | ~76 |
 | Beginner Cook | 42.00% | ~74 |
-| Seal Breaker | 37.00% | ~65 |
+| Seal Breaker | 38.00% | ~67 |
 | Handyman | 34.00% | ~60 |
 | Giant Lizard Killer | 33.00% | ~58 |
 | Guardian | 31.00% | ~55 |

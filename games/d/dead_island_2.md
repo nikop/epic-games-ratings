@@ -8,24 +8,24 @@ Rating: 4.54 (Ranked 526)
 | One of Us | 2.00% | ~970 |
 | Whatever It Takes | 2.00% | ~970 |
 | Pork Chopped | 2.00% | ~970 |
-| Dr. Reed, I Presume? | 1.00% | ~7,229 |
-| Git Gutte! | 1.00% | ~7,229 |
-| Anger Management | 1.00% | ~7,229 |
-| Bookworm | 1.00% | ~7,229 |
-| Break A Leg | 1.00% | ~7,229 |
-| But Doctor, I am Butcho | 1.00% | ~7,229 |
-| Coup de Grâce | 1.00% | ~7,229 |
-| Hazardous Materials | 1.00% | ~7,229 |
-| Friends Like These | 1.00% | ~7,229 |
-| Hotel California | 1.00% | ~7,229 |
-| Apex Predator | 1.00% | ~7,229 |
-| Stacking the Deck | 1.00% | ~7,229 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,229 |
-| This is My Weapon | 1.00% | ~7,229 |
-| Welcome To Hell-A | 1.00% | ~7,229 |
-| Can't Handle the Truth | 0.90% | ~6,506 |
-| Like Riding a Bike | 0.90% | ~6,506 |
-| A Patton Emerges | 0.90% | ~6,506 |
+| Dr. Reed, I Presume? | 1.00% | ~7,230 |
+| Git Gutte! | 1.00% | ~7,230 |
+| Anger Management | 1.00% | ~7,230 |
+| Bookworm | 1.00% | ~7,230 |
+| Break A Leg | 1.00% | ~7,230 |
+| But Doctor, I am Butcho | 1.00% | ~7,230 |
+| Coup de Grâce | 1.00% | ~7,230 |
+| Hazardous Materials | 1.00% | ~7,230 |
+| Friends Like These | 1.00% | ~7,230 |
+| Hotel California | 1.00% | ~7,230 |
+| Apex Predator | 1.00% | ~7,230 |
+| Stacking the Deck | 1.00% | ~7,230 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,230 |
+| This is My Weapon | 1.00% | ~7,230 |
+| Welcome To Hell-A | 1.00% | ~7,230 |
+| Can't Handle the Truth | 0.90% | ~6,507 |
+| Like Riding a Bike | 0.90% | ~6,507 |
+| A Patton Emerges | 0.90% | ~6,507 |
 | Perks of the Job | 0.80% | ~5,784 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,784 |
 | Slayer Squad | 0.80% | ~5,784 |
@@ -48,16 +48,16 @@ Rating: 4.54 (Ranked 526)
 | Variety is the Spice of Death | 0.40% | ~2,892 |
 | LA Influential | 0.30% | ~2,169 |
 | Gore Horse | 0.30% | ~2,169 |
-| Top That, Tisha! | 0.30% | ~145 |
+| Top That, Tisha! | 0.30% | ~146 |
 | Sole Survivor | 0.20% | ~1,446 |
 | Sharpest Tool in the Box | 0.20% | ~1,446 |
 | Survival Skills | 0.20% | ~1,446 |
 | Lawn and Order | 0.20% | ~97 |
 | Donk! | 0.10% | ~723 |
 | Bucket List | 0.10% | ~723 |
-| Wilhelm | 0.10% | ~48 |
+| Wilhelm | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,944 (Ranked 21)  
+Progressed: 722,961 (Ranked 21)  
 Completed: 2,427 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2,427 (0.34%) (Ranked 228)
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
-| 2023-11-23 | 722,944 | 2,427 |
+| 2023-11-23 | 722,961 | 2,427 |
 ## Awards
 Max (Great Boss Battles): 7,661  (Ranked 50)  
 Sum: 11,689 (Ranked 83)  

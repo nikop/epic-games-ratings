@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8245,7 +8245,7 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236457,
+  "EOS_Progressed": 236459,
   "EOS_Completed": 2469,
   "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 19,
@@ -32570,6 +32570,11 @@
       "Time": "2023-11-23T07:09:36.5277628+00:00",
       "NumProgressed": 236457,
       "NumCompleted": 2469
+    },
+    {
+      "Time": "2023-11-23T08:09:35.2768002+00:00",
+      "NumProgressed": 236459,
+      "NumCompleted": 2469
     }
   ],
   "TotalAchievements": 532,
@@ -34083,9 +34088,9 @@
       "ID": "objective_completed_249",
       "SetID": "415jc5c",
       "Name": "Drop of Time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_251",
@@ -34291,9 +34296,9 @@
       "ID": "objective_completed_378",
       "SetID": "cc37lbc",
       "Name": "The Guardian of Orolunga",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_379",
@@ -34363,9 +34368,9 @@
       "ID": "objective_completed_389",
       "SetID": "cc37lbc",
       "Name": "The Killer Mists",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_39",
@@ -35691,9 +35696,9 @@
       "ID": "objective_completed_695",
       "SetID": "415jc5c",
       "Name": "The Everlasting Rime",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_696",
@@ -36836,21 +36841,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202731,
+      "Progressed": 202733,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236457,
+      "Progressed": 236459,
       "Completed": 2469
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-23T06:57:43.4318598+00:00",
-  "LastChanged_Achievements": "2023-11-23T07:09:36.5277624+00:00",
+  "LastChanged_Achievements": "2023-11-23T08:09:35.2767999+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T06:57:43.4318604+00:00",
-  "LastUpdate_Achievements": "2023-11-23T07:09:36.5300207+00:00"
+  "LastUpdate_Ratings": "2023-11-23T07:57:43.2433191+00:00",
+  "LastUpdate_Achievements": "2023-11-23T08:09:35.2789862+00:00"
 }

@@ -8,17 +8,17 @@ Number of Ratings: 1,635  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~28,458 |
 | The Evilest Evil | 59.00% | ~23,986 |
-| Twistram is devastated | 58.00% | ~23,579 |
-| The Gehenna Stones | 50.00% | ~20,327 |
-| No one has to die today! | 47.00% | ~19,107 |
+| Twistram is devastated | 58.00% | ~23,580 |
+| The Gehenna Stones | 50.00% | ~20,328 |
+| No one has to die today! | 47.00% | ~19,108 |
 | Death and destruction! | 46.00% | ~18,701 |
 | The Swamplanders from the swamplands | 44.00% | ~17,888 |
-| The One-Huge-Army-Building Evil | 41.00% | ~16,668 |
-| Rusty Steel | 41.00% | ~16,668 |
+| The One-Huge-Army-Building Evil | 41.00% | ~16,669 |
+| Rusty Steel | 41.00% | ~16,669 |
 | Braiiiiins! | 38.00% | ~15,449 |
 | The last burger | 37.00% | ~15,042 |
-| Hands off the Dungeonheart! | 36.00% | ~14,635 |
-| A trip on sea, what fun it can be | 34.00% | ~13,822 |
+| Hands off the Dungeonheart! | 36.00% | ~14,636 |
+| A trip on sea, what fun it can be | 34.00% | ~13,823 |
 | Damned good | 33.00% | ~13,416 |
 | Stock Market Crash | 31.00% | ~12,603 |
 | Factory farming | 31.00% | ~12,603 |
@@ -33,9 +33,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | MASS-O-BOT | 25.00% | ~10,164 |
 | Prepare the grave | 24.00% | ~9,757 |
 | Angel of Fire | 24.00% | ~9,757 |
-| Where there is Light, there is Shadow | 23.00% | ~9,350 |
+| Where there is Light, there is Shadow | 23.00% | ~9,351 |
 | At the foot of Mount Destiny | 22.00% | ~8,944 |
-| The Force disturbed | 21.00% | ~8,537 |
+| The Force disturbed | 21.00% | ~8,538 |
 | The Victorious Evil | 20.00% | ~8,131 |
 | Chorus of damnation | 19.00% | ~7,724 |
 | We don’t have time! | 19.00% | ~7,724 |
@@ -43,10 +43,10 @@ Number of Ratings: 1,635  (23.09.2022)
 | Flat as a pancake | 17.00% | ~6,911 |
 | Lifeguard | 17.00% | ~6,911 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,098 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~4,878 |
-| Then let them eat cake! | 12.00% | ~4,878 |
-| The White Knight | 10.00% | ~4,065 |
-| Please, no interruptions! | 10.00% | ~4,065 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~4,879 |
+| Then let them eat cake! | 12.00% | ~4,879 |
+| The White Knight | 10.00% | ~4,066 |
+| Please, no interruptions! | 10.00% | ~4,066 |
 | Use the terrain | 9.00% | ~3,659 |
 | Master of Traps | 9.00% | ~3,659 |
 | Prison Break | 9.00% | ~3,659 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~813 |
 | Sacrifices! | 2.00% | ~813 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,654 (Ranked 121)  
+Progressed: 40,655 (Ranked 121)  
 Completed: 323 (0.79%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 323 (0.79%) (Ranked 180)
 | 2023-11-20 | 40,375 | 321 |
 | 2023-11-21 | 40,514 | 322 |
 | 2023-11-22 | 40,634 | 323 |
-| 2023-11-23 | 40,654 | 323 |
+| 2023-11-23 | 40,655 | 323 |
 ## Awards
 Max (Great for Beginners): 375  (Ranked 236)  
 Sum: 2,766 (Ranked 182)  

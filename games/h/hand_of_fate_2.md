@@ -6,26 +6,26 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,767 |
-| Apprentice | 58.00% | ~385,673 |
-| Close Shave | 25.00% | ~166,238 |
-| Mercenary | 23.00% | ~152,939 |
-| Ninja | 23.00% | ~152,939 |
-| Northern Scourge | 17.00% | ~113,042 |
+| The Fool | 72.00% | ~478,770 |
+| Apprentice | 58.00% | ~385,676 |
+| Close Shave | 25.00% | ~166,240 |
+| Mercenary | 23.00% | ~152,941 |
+| Ninja | 23.00% | ~152,941 |
+| Northern Scourge | 17.00% | ~113,043 |
 | Thief Bane | 14.00% | ~93,094 |
-| Master of Arms | 12.00% | ~79,794 |
-| Gambler | 10.00% | ~66,495 |
-| Dice Master | 10.00% | ~66,495 |
+| Master of Arms | 12.00% | ~79,795 |
+| Gambler | 10.00% | ~66,496 |
+| Dice Master | 10.00% | ~66,496 |
 | Swordsman | 9.00% | ~59,846 |
-| Knight | 8.00% | ~53,196 |
-| Cure for Corruption | 8.00% | ~53,196 |
-| Focused | 8.00% | ~53,196 |
-| Flurry of Fury | 8.00% | ~53,196 |
+| Knight | 8.00% | ~53,197 |
+| Cure for Corruption | 8.00% | ~53,197 |
+| Focused | 8.00% | ~53,197 |
+| Flurry of Fury | 8.00% | ~53,197 |
 | Long Shot | 7.00% | ~46,547 |
 | Devil Dice | 7.00% | ~46,547 |
 | Broken Heart | 7.00% | ~46,547 |
-| Adventurer | 6.00% | ~39,897 |
-| Empire's Bane | 6.00% | ~39,897 |
+| Adventurer | 6.00% | ~39,898 |
+| Empire's Bane | 6.00% | ~39,898 |
 | Jack of all Trades | 5.00% | ~33,248 |
 | Smithy | 5.00% | ~33,248 |
 | Leap of Faith | 3.00% | ~19,949 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,954 (Ranked 28)  
+Progressed: 664,959 (Ranked 28)  
 Completed: 171 (0.03%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 171 (0.03%) (Ranked 320)
 | 2023-11-20 | 664,882 | 171 |
 | 2023-11-21 | 664,911 | 171 |
 | 2023-11-22 | 664,945 | 171 |
-| 2023-11-23 | 664,954 | 171 |
+| 2023-11-23 | 664,959 | 171 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 469)  
 Sum: 192 (Ranked 405)  
