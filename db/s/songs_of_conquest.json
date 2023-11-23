@@ -3,11 +3,11 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
-  "Ranking_Popularity": 509,
+  "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 197,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1042,9 +1042,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "AttackCount",
@@ -1458,8 +1458,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:05:40.7246727+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:05:15.1755922+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:00:15.247234+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:05:40.7247048+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:59:47.7059708+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:05:15.1756266+00:00"
 }

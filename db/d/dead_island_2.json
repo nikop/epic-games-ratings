@@ -6757,10 +6757,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11701,
       "NumberOfAwardsMax": 7661
+    },
+    {
+      "Time": "2023-11-23T19:58:31.9623195+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11704,
+      "NumberOfAwardsMax": 7661
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11701,
+  "NumberOfAwards": 11704,
   "NumberOfAwardsMax": 7661,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6792,7 +6798,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 471
+      "Count": 474
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6819,10 +6825,10 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 723315,
+  "EOS_Progressed": 723347,
   "EOS_Completed": 2428,
-  "EOS_NewPlayers": 4024,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 4027,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -31679,6 +31685,11 @@
       "Time": "2023-11-23T19:05:31.11555+00:00",
       "NumProgressed": 723315,
       "NumCompleted": 2428
+    },
+    {
+      "Time": "2023-11-23T20:05:07.3709001+00:00",
+      "NumProgressed": 723347,
+      "NumCompleted": 2428
     }
   ],
   "TotalAchievements": 51,
@@ -32024,9 +32035,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7233
+      "UsersEstimate": 14467
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32050,7 +32061,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ach_dark_magic",
@@ -32058,7 +32069,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ach_gardening_tools",
@@ -32074,7 +32085,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32097,22 +32108,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723315,
+      "Progressed": 723347,
       "Completed": 2428
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 48857,
+      "Progressed": 48889,
       "Completed": 36587
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-23T16:59:08.5784703+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:05:31.1155497+00:00",
+  "LastChanged": "2023-11-23T19:58:31.9623192+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:05:07.3708994+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:58:40.5721786+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:05:31.1156997+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:58:31.9623198+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:05:07.3710407+00:00"
 }

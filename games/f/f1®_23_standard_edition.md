@@ -5,19 +5,19 @@ Rating: 4.67 (Ranked 275)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,522 |
-| On the Top Step | 88.00% | ~5,170 |
-| Setting up for Success | 77.00% | ~4,524 |
-| Team Orders | 75.00% | ~4,406 |
-| Engineer | 55.00% | ~3,231 |
+| Getting on the Step | 94.00% | ~5,523 |
+| On the Top Step | 88.00% | ~5,171 |
+| Setting up for Success | 77.00% | ~4,525 |
+| Team Orders | 75.00% | ~4,407 |
+| Engineer | 55.00% | ~3,232 |
 | Familiar Faces | 48.00% | ~2,820 |
-| Sharing the Love | 43.00% | ~2,526 |
+| Sharing the Love | 43.00% | ~2,527 |
 | Going the Extra Mile | 42.00% | ~2,468 |
-| Hitting a Season | 38.00% | ~2,232 |
+| Hitting a Season | 38.00% | ~2,233 |
 | A Dozen Pieces | 33.00% | ~1,939 |
 | Challenge Yourself | 33.00% | ~1,939 |
-| Making History | 31.00% | ~1,821 |
-| Network Success | 27.00% | ~1,586 |
+| Making History | 31.00% | ~1,822 |
+| Network Success | 27.00% | ~1,587 |
 | Writing a new Chapter | 25.00% | ~1,469 |
 | Spring Cleaning | 24.00% | ~1,410 |
 | Reduce | 20.00% | ~1,175 |
@@ -35,12 +35,12 @@ Rating: 4.67 (Ranked 275)
 | Spinning Around | 13.00% | ~764 |
 | All in a Weekend's Work | 12.00% | ~705 |
 | Friendly Competition | 12.00% | ~705 |
-| Recycle | 11.00% | ~646 |
+| Recycle | 12.00% | ~705 |
 | Tinkerer | 10.00% | ~588 |
 | Undisputed Winner | 9.00% | ~529 |
 | Smooth Operator | 7.00% | ~411 |
-| For all Those Back at the Factory | 6.00% | ~352 |
-| Living up to Expectations | 6.00% | ~352 |
+| For all Those Back at the Factory | 6.00% | ~353 |
+| Living up to Expectations | 6.00% | ~353 |
 | Peak Performance | 5.00% | ~294 |
 | Loyal Bond | 4.00% | ~235 |
 | Seasoned Rookie | 3.00% | ~176 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 275)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,875 (Ranked 186)  
+Progressed: 5,876 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 5,836 | 0 |
 | 2023-11-21 | 5,850 | 0 |
 | 2023-11-22 | 5,863 | 0 |
-| 2023-11-23 | 5,875 | 0 |
+| 2023-11-23 | 5,876 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 524)  
 Sum: 87 (Ranked 456)  

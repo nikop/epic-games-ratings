@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10318,
+  "EOS_Progressed": 10319,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1874,6 +1874,11 @@
       "Time": "2023-11-23T02:28:44.9969683+00:00",
       "NumProgressed": 10318,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-23T20:06:03.915418+00:00",
+      "NumProgressed": 10319,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1989,7 +1994,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -2045,7 +2050,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8048
+      "UsersEstimate": 8049
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2093,7 +2098,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5881
+      "UsersEstimate": 5882
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2109,7 +2114,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9905
+      "UsersEstimate": 9906
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2181,7 +2186,7 @@
       "Name": "mittens",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACH_TERMINAL_DAMAGE",
@@ -2189,7 +2194,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -2221,22 +2226,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7429
+      "UsersEstimate": 7430
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10318,
+      "Progressed": 10319,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:06:39.3964356+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:06:03.9154176+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:12.6218807+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:02:43.6718419+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:06:39.3964698+00:00"
+  "LastUpdate_Ratings": "2023-11-23T20:02:46.3157951+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:06:03.9154534+00:00"
 }

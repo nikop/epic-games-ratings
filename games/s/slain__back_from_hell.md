@@ -1,21 +1,21 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.29 (Ranked 842)  
+Rating: 4.29 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~8,575 |
-| A Good Day To Die | 15.00% | ~6,125 |
+| Man 'O War | 21.00% | ~8,576 |
+| A Good Day To Die | 15.00% | ~6,126 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,450 |
 | Right Back Atcha | 6.00% | ~2,450 |
 | Killed by Death | 5.00% | ~2,042 |
-| Kill 'Em All | 4.00% | ~1,633 |
+| Kill 'Em All | 4.00% | ~1,634 |
 | Down Boy! | 2.00% | ~817 |
 | A Snowball's Chance in Hell | 2.00% | ~817 |
 | Enjoy The Silence | 1.00% | ~408 |
-| Sure Footed As A Goat | 0.90% | ~367 |
-| Backdoor Man | 0.90% | ~367 |
+| Sure Footed As A Goat | 0.90% | ~368 |
+| Backdoor Man | 0.90% | ~368 |
 | Thorn in My Herbicide | 0.80% | ~327 |
 | Red In Tooth And Claw | 0.80% | ~327 |
 | Death Becomes Her | 0.80% | ~327 |
@@ -28,14 +28,14 @@ Rating: 4.29 (Ranked 842)
 | Oh God, Mother! Blood! Blood! | 0.50% | ~204 |
 | Ice To See You | 0.40% | ~163 |
 | Smack My Imp Up | 0.40% | ~163 |
-| Vroll With It | 0.30% | ~122 |
-| Swift of Foot, Keen of Blade | 0.30% | ~122 |
+| Vroll With It | 0.30% | ~123 |
+| Swift of Foot, Keen of Blade | 0.30% | ~123 |
 | Flame Retardant | 0.20% | ~82 |
 | Too Metal For Magic | 0.10% | ~41 |
 | Heart Of Steel | 0.10% | ~41 |
 | Death or Glory | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,832 (Ranked 119)  
+Progressed: 40,838 (Ranked 119)  
 Completed: 26 (0.06%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 26 (0.06%) (Ranked 300)
 | 2023-11-20 | 40,692 | 26 |
 | 2023-11-21 | 40,753 | 26 |
 | 2023-11-22 | 40,800 | 26 |
-| 2023-11-23 | 40,832 | 26 |
+| 2023-11-23 | 40,838 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 333)  
 Sum: 127 (Ranked 430)  

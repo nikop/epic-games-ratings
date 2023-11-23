@@ -742,9 +742,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41044,
+  "EOS_Progressed": 41048,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22862,6 +22862,11 @@
       "Time": "2023-11-23T19:03:43.9131023+00:00",
       "NumProgressed": 41044,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-23T20:03:36.8517351+00:00",
+      "NumProgressed": 41048,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -22889,7 +22894,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6977
+      "UsersEstimate": 6978
     },
     {
       "ID": "ach_antiquarian10",
@@ -22993,7 +22998,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14776
+      "UsersEstimate": 14777
     },
     {
       "ID": "ach_die10",
@@ -23065,7 +23070,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4926
     },
     {
       "ID": "ach_legacypupil",
@@ -23081,7 +23086,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "ach_legacysalvager",
@@ -23225,7 +23230,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7388
+      "UsersEstimate": 7389
     },
     {
       "ID": "ach_terror100",
@@ -23233,7 +23238,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4926
     },
     {
       "ID": "ach_terror90",
@@ -23273,7 +23278,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4926
     },
     {
       "ID": "ach_year1",
@@ -23304,15 +23309,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41044,
+      "Progressed": 41048,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-14T11:58:18.1801292+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:03:43.913102+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:03:36.8517346+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.6571384+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:00:35.5175035+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:03:43.9132433+00:00"
+  "LastUpdate_Ratings": "2023-11-23T20:00:03.7556436+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:03:36.8518981+00:00"
 }

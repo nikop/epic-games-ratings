@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1382,
+  "EOS_Progressed": 1383,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4079,6 +4079,11 @@
       "Time": "2023-11-23T19:09:50.4815161+00:00",
       "NumProgressed": 1382,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-23T20:09:43.7406234+00:00",
+      "NumProgressed": 1383,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4163,7 +4168,7 @@
       "Name": "The power of the Force",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "achievement_19",
@@ -4235,7 +4240,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "achievement_27",
@@ -4315,7 +4320,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "achievement_36",
@@ -4329,9 +4334,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 927
     },
     {
       "ID": "achievement_38",
@@ -4361,9 +4366,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 692
     },
     {
       "ID": "achievement_41",
@@ -4385,9 +4390,9 @@
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_44",
@@ -4395,7 +4400,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_45",
@@ -4443,7 +4448,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "achievement_50",
@@ -4594,13 +4599,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1382,
+      "Progressed": 1383,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1382,
+      "Progressed": 1383,
       "Completed": 1
     }
   ],
@@ -4608,8 +4613,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:09:50.4815158+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:09:43.7406228+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:58:19.6193304+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:09:50.4815705+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:58:14.9857429+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:09:43.7406872+00:00"
 }

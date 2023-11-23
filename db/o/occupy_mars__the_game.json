@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1729,
+  "EOS_Progressed": 1730,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4306,6 +4306,11 @@
       "Time": "2023-11-23T17:04:37.5634903+00:00",
       "NumProgressed": 1729,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T20:03:57.1562539+00:00",
+      "NumProgressed": 1730,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4533,7 +4538,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4541,7 +4546,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4700,7 +4705,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1729,
+      "Progressed": 1730,
       "Completed": 0
     }
   ],
@@ -4708,8 +4713,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:04:07.7281652+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:03:57.1562536+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.8108323+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:59:39.8617718+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:04:07.7282073+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:59:19.0166938+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:03:57.1563129+00:00"
 }

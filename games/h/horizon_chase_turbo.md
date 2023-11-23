@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~970,160 |
-| I Need a Bigger Garage | 63.00% | ~679,112 |
-| Pump my Ride | 47.00% | ~506,639 |
-| Ghostbuster | 34.00% | ~366,505 |
-| Call Roadside Assistance | 18.00% | ~194,032 |
-| That Was Close | 18.00% | ~194,032 |
-| Quickie | 11.00% | ~118,575 |
-| California Dreamer | 7.00% | ~75,457 |
-| Can't Touch This | 5.00% | ~53,898 |
-| Carménère Taster | 4.00% | ~43,118 |
-| Comeback | 4.00% | ~43,118 |
+| The First of Many | 90.00% | ~970,176 |
+| I Need a Bigger Garage | 63.00% | ~679,123 |
+| Pump my Ride | 47.00% | ~506,647 |
+| Ghostbuster | 34.00% | ~366,511 |
+| Call Roadside Assistance | 18.00% | ~194,035 |
+| That Was Close | 18.00% | ~194,035 |
+| Quickie | 11.00% | ~118,577 |
+| California Dreamer | 7.00% | ~75,458 |
+| Can't Touch This | 5.00% | ~53,899 |
+| Carménère Taster | 4.00% | ~43,119 |
+| Comeback | 4.00% | ~43,119 |
 | Driver from Ipanema | 3.00% | ~32,339 |
 | Supersonic | 3.00% | ~32,339 |
 | Marathonist | 3.00% | ~32,339 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,078 |
 | Look Mom, No Hands! | 0.10% | ~1,078 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,077,956 (Ranked 13)  
+Progressed: 1,077,973 (Ranked 13)  
 Completed: 494 (0.05%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,10 +261,10 @@ Completed: 494 (0.05%) (Ranked 306)
 | 2023-11-20 | 1,077,060 | 492 |
 | 2023-11-21 | 1,077,382 | 493 |
 | 2023-11-22 | 1,077,684 | 494 |
-| 2023-11-23 | 1,077,956 | 494 |
+| 2023-11-23 | 1,077,973 | 494 |
 ## Awards
 Max (Great for Beginners): 167  (Ranked 308)  
-Sum: 1,530 (Ranked 233)  
+Sum: 1,531 (Ranked 233)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): 75
 | This game has Quickly Understood Controls | 143 |
 | This game is Great for Quick Sessions | 141 |
 | This game is Relaxing | 138 |
-| This game is Highly Recommended | 132 |
+| This game is Highly Recommended | 133 |
 | This game has Playful Visuals | 125 |
 | This game has Competitive Players | 124 |
 | This game is Extremely Fun | 121 |
@@ -531,3 +531,4 @@ Diff (max vs sum): 75
 | 2023-11-20 | 4.54 | - | 167 | 1,528 |
 | 2023-11-21 | 4.54 | - | 167 | 1,529 |
 | 2023-11-22 | 4.54 | - | 167 | 1,530 |
+| 2023-11-23 | 4.54 | - | 167 | 1,531 |

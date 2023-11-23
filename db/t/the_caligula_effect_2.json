@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 240,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.84,
+  "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:18.7038891+00:00",
@@ -128,6 +128,11 @@
       "Time": "2023-11-23T07:09:32.3289296+00:00",
       "NumProgressed": 239,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-23T20:09:41.5802292+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 49,
@@ -147,7 +152,7 @@
       "Name": "Welcome to Redo",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_03",
@@ -155,7 +160,7 @@
       "Name": "Daily Life Begins Anew",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_04",
@@ -163,7 +168,7 @@
       "Name": "Go-Home Club Activities START!",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_05",
@@ -203,7 +208,7 @@
       "Name": "Selfish Decisions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_10",
@@ -259,7 +264,7 @@
       "Name": "Friendly Neighborhood",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_17",
@@ -283,7 +288,7 @@
       "Name": "Philanthropist",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_20",
@@ -403,7 +408,7 @@
       "Name": "Test Your Luck",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_35",
@@ -419,7 +424,7 @@
       "Name": "Lost Souls For Sale",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_37",
@@ -449,9 +454,9 @@
       "ID": "ACH_40",
       "SetID": "2eg5kgc",
       "Name": "Never Saw It Coming",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_41",
@@ -473,9 +478,9 @@
       "ID": "ACH_43",
       "SetID": "2eg5kgc",
       "Name": "Our World Now",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_44",
@@ -491,7 +496,7 @@
       "Name": "Combo Commando",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_46",
@@ -530,15 +535,15 @@
     {
       "ID": "2eg5kgc",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:09:47.9539304+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:09:41.5802287+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:10.4881859+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:57:55.5333512+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:09:47.9539556+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:57:55.061811+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:09:41.5802652+00:00"
 }

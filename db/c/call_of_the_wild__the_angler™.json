@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -913,9 +913,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6631,
+  "EOS_Progressed": 6632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10353,6 +10353,11 @@
       "Time": "2023-11-23T19:06:14.6017138+00:00",
       "NumProgressed": 6631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T20:05:43.652638+00:00",
+      "NumProgressed": 6632,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10410,9 +10415,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -10594,9 +10599,9 @@
       "ID": "ACHIEVEMENT_030",
       "SetID": "1a05lfd",
       "Name": "Gonna Need a Bigger Boat",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -10683,13 +10688,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6631,
+      "Progressed": 6632,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6003,
+      "Progressed": 6004,
       "Completed": 113
     }
   ],
@@ -10697,8 +10702,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-17T16:57:26.9437298+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:06:14.6017136+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:05:43.6526376+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.6723901+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:02:24.4860512+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:06:14.6017669+00:00"
+  "LastUpdate_Ratings": "2023-11-23T20:02:30.6315531+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:05:43.6527232+00:00"
 }

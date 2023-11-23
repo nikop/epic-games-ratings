@@ -52,7 +52,7 @@
 | Deal with it | 17.00% | ~22 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~18 |
 | Yeehaw!!! | 14.00% | ~18 |
-| You're looking mozzare-hella good! | 12.00% | ~16 |
+| You're looking mozzare-hella good! | 13.00% | ~17 |
 | Timber! | 11.00% | ~14 |
 | Free Of Chains | 11.00% | ~14 |
 | Spoiler alert! | 10.00% | ~13 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 409)  
+Progressed: 131 (Ranked 410)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |

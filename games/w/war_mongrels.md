@@ -16,7 +16,7 @@ Number of Ratings: 34  (23.09.2022)
 | Sniper Wolf | 39.00% | ~249 |
 | Treasure Hunter | 38.00% | ~243 |
 | The Motivation | 38.00% | ~243 |
-| Heroism | 35.00% | ~224 |
+| Heroism | 36.00% | ~230 |
 | Missing in Action | 34.00% | ~217 |
 | Collectibles of Chapter I | 33.00% | ~211 |
 | Consequences | 32.00% | ~204 |
@@ -29,7 +29,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter II | 23.00% | ~147 |
 | Broken Hopes | 23.00% | ~147 |
 | Bullseye! | 22.00% | ~141 |
-| Sorrow | 19.00% | ~121 |
+| Sorrow | 20.00% | ~128 |
 | Atonement | 18.00% | ~115 |
 | Food Massacre | 18.00% | ~115 |
 | Helping Hand | 16.00% | ~102 |

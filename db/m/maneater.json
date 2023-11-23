@@ -2,12 +2,12 @@
   "ID": "turtle",
   "Name": "Maneater",
   "ProductSlug": "maneater",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-05-22T09:00:00+00:00",
@@ -3624,10 +3624,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 18117,
       "NumberOfAwardsMax": 13816
+    },
+    {
+      "Time": "2023-11-23T19:57:07.8137397+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 18118,
+      "NumberOfAwardsMax": 13816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18117,
+  "NumberOfAwards": 18118,
   "NumberOfAwardsMax": 13816,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3665,7 +3671,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game is Educational",
@@ -3727,8 +3733,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2023-11-23T14:00:06.1350728+00:00",
+  "LastChanged": "2023-11-23T19:57:07.8137394+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.1991177+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:00:18.5206563+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:04:44.6688146+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:57:07.81374+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:04:28.3669365+00:00"
 }

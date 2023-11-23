@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1623,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 6.59,
   "EosHistory": [
@@ -3874,9 +3874,9 @@
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 195
     },
     {
       "ID": "LEVEL_019",
@@ -3985,8 +3985,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:09:43.6210896+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:09:37.7978566+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:58:35.2895194+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:09:43.6211282+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:58:27.3592141+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:09:37.7979085+00:00"
 }

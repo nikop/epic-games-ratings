@@ -8,12 +8,12 @@ Number of Ratings: 281  (23.09.2022)
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 3.00% | ~199 |
 | Hey Good Hookin | 3.00% | ~199 |
+| More Fish in the Sea | 3.00% | ~199 |
 | Scaling up | 3.00% | ~199 |
 | Can you smell what the Rod is Hooking | 2.00% | ~133 |
 | Ready to Rod and Roll | 2.00% | ~133 |
 | Fish Out of Water | 2.00% | ~133 |
 | I'm on a Boat! | 2.00% | ~133 |
-| More Fish in the Sea | 2.00% | ~133 |
 | Things that go Splash in the Night | 2.00% | ~133 |
 | License to Gill | 1.00% | ~66 |
 | Goldfish? | 1.00% | ~66 |
@@ -23,10 +23,10 @@ Number of Ratings: 281  (23.09.2022)
 | I'm the Captain Now | 0.30% | ~20 |
 | Marathon | 0.30% | ~20 |
 | Diamond in the Rough | 0.30% | ~20 |
+| Gonna Need a Bigger Boat | 0.30% | ~20 |
 | More than a Tourist | 0.20% | ~13 |
 | Hook, Line and Sinker | 0.20% | ~13 |
 | No Fin left to give | 0.20% | ~13 |
-| Gonna Need a Bigger Boat | 0.20% | ~13 |
 | Aguas Claras Conquistador | 0.20% | ~12 |
 | All Good Kings Must Come to an End | 0.20% | ~12 |
 | Three Square Meals | 0.20% | ~12 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,631 (Ranked 182)  
+Progressed: 6,632 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-20 | 6,600 | 0 |
 | 2023-11-21 | 6,609 | 0 |
 | 2023-11-22 | 6,624 | 0 |
-| 2023-11-23 | 6,631 | 0 |
+| 2023-11-23 | 6,632 | 0 |
 ## Awards
 Max (Relaxing): 37  (Ranked 465)  
 Sum: 195 (Ranked 400)  

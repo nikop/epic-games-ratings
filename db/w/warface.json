@@ -4,10 +4,10 @@
   "ProductSlug": "warface",
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 221,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
@@ -4096,10 +4096,16 @@
       "Rating": 3.9,
       "NumberOfAwards": 3398,
       "NumberOfAwardsMax": 450
+    },
+    {
+      "Time": "2023-11-23T20:00:38.1751924+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 3399,
+      "NumberOfAwardsMax": 450
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3398,
+  "NumberOfAwards": 3399,
   "NumberOfAwardsMax": 450,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4113,7 +4119,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 373
+      "Count": 374
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4181,8 +4187,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-11-23T19:01:18.1633296+00:00",
+  "LastChanged": "2023-11-23T20:00:38.1751921+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:31.6743697+00:00",
-  "LastUpdate_Ratings": "2023-11-23T19:01:18.1633302+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:04:48.1910278+00:00"
+  "LastUpdate_Ratings": "2023-11-23T20:00:38.1751928+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:04:31.3418654+00:00"
 }

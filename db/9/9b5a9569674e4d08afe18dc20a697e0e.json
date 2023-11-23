@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -209,6 +209,11 @@
       "Time": "2023-11-23T19:03:14.1888476+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T20:03:11.0883001+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -219,9 +224,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 76,
+      "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "BARON",
@@ -379,9 +384,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "MOUNTAINEER",
@@ -435,9 +440,9 @@
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "WASHING",
@@ -468,14 +473,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:03:14.1888473+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:03:11.0882995+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:59:40.378175+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:03:14.1888754+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:59:19.4001703+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:03:11.0883424+00:00"
 }

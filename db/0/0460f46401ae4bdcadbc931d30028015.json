@@ -3,7 +3,7 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 911,
-  "Ranking_Popularity": 483,
+  "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 358,
@@ -717,9 +717,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3813,
+  "EOS_Progressed": 3815,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5812,6 +5812,11 @@
       "Time": "2023-11-23T19:03:38.8093388+00:00",
       "NumProgressed": 3813,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-23T20:03:32.3070832+00:00",
+      "NumProgressed": 3815,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5832,7 +5837,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_11",
@@ -5856,7 +5861,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "achievement_14",
@@ -5864,7 +5869,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "achievement_15",
@@ -5920,7 +5925,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "achievement_21",
@@ -5960,7 +5965,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "achievement_7",
@@ -5991,7 +5996,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3813,
+      "Progressed": 3815,
       "Completed": 0
     }
   ],
@@ -5999,8 +6004,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-23T01:47:22.3104022+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:03:38.8093384+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:03:32.3070825+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
   "LastUpdate_Ratings": "2023-11-23T19:02:18.1648857+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:03:38.8093759+00:00"
+  "LastUpdate_Achievements": "2023-11-23T20:03:32.3071277+00:00"
 }

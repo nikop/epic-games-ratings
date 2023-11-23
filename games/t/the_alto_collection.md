@@ -6,18 +6,18 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,817 |
-| Finding Your Footing | 26.00% | ~12,342 |
-| Nomad | 17.00% | ~8,070 |
-| Picking Up Speed | 16.00% | ~7,595 |
-| Welcome Maya | 14.00% | ~6,646 |
+| Rookie | 27.00% | ~12,819 |
+| Finding Your Footing | 26.00% | ~12,344 |
+| Nomad | 17.00% | ~8,071 |
+| Picking Up Speed | 16.00% | ~7,596 |
+| Welcome Maya | 14.00% | ~6,647 |
 | Scout | 11.00% | ~5,222 |
 | Sightseer | 11.00% | ~5,222 |
-| Amateur | 10.00% | ~4,747 |
+| Amateur | 10.00% | ~4,748 |
 | Unlock Maya | 8.00% | ~3,798 |
 | Wanderer | 8.00% | ~3,798 |
 | Enter Paz | 7.00% | ~3,323 |
-| Aviator | 6.00% | ~2,848 |
+| Aviator | 6.00% | ~2,849 |
 | My Little Friend | 5.00% | ~2,374 |
 | One With The Board | 5.00% | ~2,374 |
 | Voyager | 5.00% | ~2,374 |
@@ -27,11 +27,11 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Paz | 3.00% | ~1,424 |
 | Human Flight | 3.00% | ~1,424 |
 | Sandboarder | 3.00% | ~1,424 |
-| Explorer | 2.00% | ~949 |
-| Pro | 2.00% | ~949 |
-| Journeyer | 2.00% | ~949 |
-| Unlock Izel | 2.00% | ~949 |
-| Here Comes Felipe | 2.00% | ~949 |
+| Explorer | 2.00% | ~950 |
+| Pro | 2.00% | ~950 |
+| Journeyer | 2.00% | ~950 |
+| Unlock Izel | 2.00% | ~950 |
+| Here Comes Felipe | 2.00% | ~950 |
 | Hoist the Mainsail | 1.00% | ~475 |
 | Daredevil | 1.00% | ~475 |
 | Introducing Sumara | 1.00% | ~475 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~47 |
 | Windswept | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,471 (Ranked 113)  
+Progressed: 47,476 (Ranked 113)  
 Completed: 5 (0.01%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 5 (0.01%) (Ranked 336)
 | 2023-11-20 | 47,146 | 5 |
 | 2023-11-21 | 47,253 | 5 |
 | 2023-11-22 | 47,383 | 5 |
-| 2023-11-23 | 47,471 | 5 |
+| 2023-11-23 | 47,476 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 439)  
-Sum: 372 (Ranked 348)  
+Sum: 373 (Ranked 348)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
@@ -274,8 +274,8 @@ Diff (max vs sum): 91
 | This game is Great for Beginners | 44 |
 | This game is Highly Recommended | 42 |
 | This game has Beautiful Visuals | 41 |
+| This game has Quickly Understood Controls | 39 |
 | This game is Extremely Fun | 38 |
-| This game has Quickly Understood Controls | 38 |
 | This game is Relaxing | 35 |
 | This game has Diverse Characters | 31 |
 | This game has Amazing Storytelling | 29 |
@@ -396,3 +396,4 @@ Diff (max vs sum): 91
 | 2023-11-09 | 4.71 | - | 48 | 372 |
 | 2023-11-18 | 4.70 | - | 48 | 372 |
 | 2023-11-22 | 4.71 | - | 48 | 372 |
+| 2023-11-23 | 4.71 | - | 48 | 373 |

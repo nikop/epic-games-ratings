@@ -1,36 +1,36 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.48 (Ranked 625)  
+Rating: 4.48 (Ranked 626)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 25.00% | ~1,259 |
+| Faceroll the Bones | 25.00% | ~1,260 |
 | Hit 'Em Where It Hurts | 24.00% | ~1,209 |
 | Perk Shard Punch Card | 24.00% | ~1,209 |
 | That'll Leave a Mark | 24.00% | ~1,209 |
 | Debuff Dogpile | 23.00% | ~1,159 |
-| Mushroom Madness! | 22.00% | ~1,108 |
+| Mushroom Madness! | 22.00% | ~1,109 |
 | First Strike | 19.00% | ~957 |
 | Spending Spree | 18.00% | ~907 |
-| Horder Better Faster Stronger | 17.00% | ~856 |
+| Horder Better Faster Stronger | 17.00% | ~857 |
 | Ten Steps from the Grave | 15.00% | ~756 |
 | Everything Must Go! | 14.00% | ~705 |
-| Next Time on MythForce... | 14.00% | ~705 |
+| Next Time on MythForce... | 13.00% | ~655 |
 | Cold-Blooded Critters | 10.00% | ~504 |
 | Death Becomes You | 8.00% | ~403 |
 | Flawless Victory | 6.00% | ~302 |
 | The Harder They Fall | 6.00% | ~302 |
 | On this Episode! | 6.00% | ~302 |
-| Deadication | 4.00% | ~201 |
-| Season Finale | 4.00% | ~201 |
+| Deadication | 4.00% | ~202 |
+| Season Finale | 4.00% | ~202 |
 | We've Got a Kaiju on the Field | 3.00% | ~151 |
 | The Fourth Gate | 2.00% | ~101 |
 | Vexed Her | 0.40% | ~20 |
 | Deadalus and Loving It | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,037 (Ranked 191)  
+Progressed: 5,039 (Ranked 191)  
 Completed: 4 (0.08%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,11 +161,11 @@ Completed: 4 (0.08%) (Ranked 294)
 | 2023-11-20 | 4,982 | 3 |
 | 2023-11-21 | 5,004 | 3 |
 | 2023-11-22 | 5,020 | 3 |
-| 2023-11-23 | 5,037 | 4 |
+| 2023-11-23 | 5,039 | 4 |
 ## Awards
-Max (Great for Beginners): 35  (Ranked 473)  
+Max (Great for Beginners): 35  (Ranked 474)  
 Sum: 286 (Ranked 370)  
-Diff (max vs sum): 103  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |

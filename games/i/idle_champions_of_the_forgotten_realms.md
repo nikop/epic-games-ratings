@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,551 (Ranked 64)  
+Progressed: 236,561 (Ranked 64)  
 Completed: 2,471 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -756,7 +756,7 @@ Completed: 2,471 (1.04%) (Ranked 162)
 | 2023-11-20 | 236,146 | 2,463 |
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
-| 2023-11-23 | 236,551 | 2,471 |
+| 2023-11-23 | 236,561 | 2,471 |
 ## Awards
 Max (Great for Beginners): 5,556  (Ranked 70)  
 Sum: 32,584 (Ranked 41)  

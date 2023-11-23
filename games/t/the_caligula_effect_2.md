@@ -6,29 +6,29 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 98.00% | ~234 |
-| Daily Life Begins Anew | 82.00% | ~196 |
-| Our World Now | 82.00% | ~196 |
-| Never Saw It Coming | 67.00% | ~160 |
+| Welcome to Redo | 98.00% | ~235 |
+| Daily Life Begins Anew | 82.00% | ~197 |
+| Our World Now | 81.00% | ~194 |
+| Never Saw It Coming | 66.00% | ~158 |
 | Coup de Grace | 58.00% | ~139 |
-| Go-Home Club Activities START! | 49.00% | ~117 |
-| Philanthropist | 39.00% | ~93 |
-| Test Your Luck | 34.00% | ~81 |
+| Go-Home Club Activities START! | 49.00% | ~118 |
+| Philanthropist | 39.00% | ~94 |
+| Test Your Luck | 34.00% | ~82 |
 | Behind the Curtain | 33.00% | ~79 |
 | Master of Surprise | 30.00% | ~72 |
 | Be Who You Wanna Be | 27.00% | ~65 |
 | Investment Ban-χ-ing | 25.00% | ~60 |
 | Counter Champion | 25.00% | ~60 |
-| Friendly Neighborhood | 24.00% | ~57 |
-| Combo Commando | 24.00% | ~57 |
+| Friendly Neighborhood | 24.00% | ~58 |
+| Combo Commando | 24.00% | ~58 |
 | One-Track Mind | 23.00% | ~55 |
 | Nice Doing Business | 23.00% | ~55 |
 | Stay Winning | 23.00% | ~55 |
 | WIRE Guru | 21.00% | ~50 |
 | The Greater Good | 20.00% | ~48 |
 | Depths of the Heart | 20.00% | ~48 |
-| Selfish Decisions | 19.00% | ~45 |
-| Lost Souls For Sale | 19.00% | ~45 |
+| Selfish Decisions | 19.00% | ~46 |
+| Lost Souls For Sale | 19.00% | ~46 |
 | Pulling Heartstrings | 18.00% | ~43 |
 | Extracurricular Affair | 18.00% | ~43 |
 | Trigger Finger | 18.00% | ~43 |
@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239 (Ranked 368)  
-Completed: 2 (0.84%) (Ranked 177)  
+Progressed: 240 (Ranked 368)  
+Completed: 2 (0.83%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,7 +72,7 @@ Completed: 2 (0.84%) (Ranked 177)
 | 2023-09-02 | 236 | 2 |
 | 2023-10-21 | 237 | 2 |
 | 2023-11-22 | 238 | 2 |
-| 2023-11-23 | 239 | 2 |
+| 2023-11-23 | 240 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

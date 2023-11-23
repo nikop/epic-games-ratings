@@ -4265,9 +4265,9 @@
       "ID": "archmage_2",
       "SetID": "53c1p3k",
       "Name": "Archmage 2",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "archmage_3",
@@ -4768,8 +4768,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-23T19:09:49.3436196+00:00",
+  "LastChanged_Achievements": "2023-11-23T20:09:42.8671948+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:57.5802496+00:00",
-  "LastUpdate_Ratings": "2023-11-23T18:59:22.6549058+00:00",
-  "LastUpdate_Achievements": "2023-11-23T19:09:49.3436738+00:00"
+  "LastUpdate_Ratings": "2023-11-23T19:59:05.1299779+00:00",
+  "LastUpdate_Achievements": "2023-11-23T20:09:42.8672624+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.64 (Ranked 333)
 | Welcome Aboard | 85.00% | ~1,653 |
 | Lab Rat | 76.00% | ~1,478 |
 | All Systems Go | 68.00% | ~1,323 |
-| Brute Force | 66.00% | ~1,284 |
+| Brute Force | 67.00% | ~1,303 |
 | Cannon Fodder | 62.00% | ~1,206 |
 | Autofire | 59.00% | ~1,148 |
 | True Believer | 58.00% | ~1,128 |
@@ -40,7 +40,7 @@ Rating: 4.64 (Ranked 333)
 | Final Regeneration | 25.00% | ~486 |
 | Full Clearance | 24.00% | ~467 |
 | Pusher | 23.00% | ~447 |
-| Z-Baller | 22.00% | ~428 |
+| Z-Baller | 23.00% | ~447 |
 | Marked | 21.00% | ~408 |
 | Eviscerator | 19.00% | ~370 |
 | Backbreaker | 14.00% | ~272 |
