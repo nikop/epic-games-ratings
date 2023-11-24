@@ -8,22 +8,22 @@
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.16% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.50% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.32% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.06% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.05% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.02% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.48% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 21.95% |
+| 19 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 24.39% |
+| 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
-| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.99% |
+| 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.17% |
+| 24 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
 | 25 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
 | 26 | [Island Cities](games/i/island_cities.md) | 17.19% |
 | 27 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
@@ -165,9 +165,9 @@
 | 163 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 163 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.04% |
 | 165 | [Sable](games/s/sable.md) | 1.01% |
-| 166 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.98% |
 | 166 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
-| 168 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.97% |
+| 167 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.97% |
+| 167 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.97% |
 | 169 | [Trifox](games/t/trifox.md) | 0.96% |
 | 170 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 170 | [Infindustry](games/i/infindustry.md) | 0.94% |
@@ -757,4 +757,4 @@
 | 359 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 359 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 359 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,604 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,606 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
