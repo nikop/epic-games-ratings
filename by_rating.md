@@ -524,7 +524,7 @@
 | 505 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 553 |
 | 505 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 371 | 239 |
 | 505 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 81 | 389 |
-| 505 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,351 | 135 |
+| 505 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,356 | 135 |
 | 526 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 553 |
 | 526 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,566 | 128 |
 | 526 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,695 | 50 |
@@ -752,7 +752,7 @@
 | 746 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 0 | 553 |
 | 746 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 51 | 432 |
 | 746 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 553 |
-| 746 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 600 | 193 |
+| 746 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 601 | 193 |
 | 746 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,790 | 35 |
 | 746 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 0 | 553 |
 | 746 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 553 |
@@ -926,7 +926,7 @@
 | 923 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 436 |
 | 923 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 2,966 | 98 |
 | 923 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 553 |
-| 923 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.19 | 169 | 307 |
+| 923 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.19 | 170 | 307 |
 | 923 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 553 |
 | 923 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 82 | 388 |
 | 923 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 553 |
