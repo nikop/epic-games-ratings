@@ -929,9 +929,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -953,9 +953,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -969,9 +969,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -993,9 +993,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1009,9 +1009,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1161,9 +1161,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1210,8 +1210,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:03:22.4101825+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:03:10.2716788+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:00:00.1287428+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:03:22.4102717+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:59:12.8212602+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:03:10.2717216+00:00"
 }

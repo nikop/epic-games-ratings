@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-11-08T00:00:00+00:00",
@@ -7933,9 +7933,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 359930,
+  "EOS_Progressed": 359931,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 2236,
+  "EOS_NewPlayers": 2230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32458,6 +32458,11 @@
       "Time": "2023-11-24T06:10:16.7244649+00:00",
       "NumProgressed": 359930,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-24T07:09:27.2208589+00:00",
+      "NumProgressed": 359931,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 100,
@@ -32581,7 +32586,7 @@
       "Name": "Beating Expectations",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 89982
+      "UsersEstimate": 89983
     },
     {
       "ID": "achievement_big_win",
@@ -32589,7 +32594,7 @@
       "Name": "Thumping",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 136773
+      "UsersEstimate": 136774
     },
     {
       "ID": "achievement_bragging_rights",
@@ -32613,7 +32618,7 @@
       "Name": "Clean Sheet",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 194362
+      "UsersEstimate": 194363
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -32741,7 +32746,7 @@
       "Name": "What A Goal!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 75585
+      "UsersEstimate": 75586
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -32773,7 +32778,7 @@
       "Name": "Hat-trick",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 161968
+      "UsersEstimate": 161969
     },
     {
       "ID": "achievement_head_to_head",
@@ -32853,7 +32858,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 244752
+      "UsersEstimate": 244753
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -32869,7 +32874,7 @@
       "Name": "One Of Our Own",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 125975
+      "UsersEstimate": 125976
     },
     {
       "ID": "achievement_one_of_us",
@@ -32877,7 +32882,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 219557
+      "UsersEstimate": 219558
     },
     {
       "ID": "achievement_people_pleaser",
@@ -32885,7 +32890,7 @@
       "Name": "People Pleaser",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 136773
+      "UsersEstimate": 136774
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -32917,7 +32922,7 @@
       "Name": "Star Player",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 100780
+      "UsersEstimate": 100781
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -32941,7 +32946,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 111578
+      "UsersEstimate": 111579
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -32973,7 +32978,7 @@
       "Name": "Off the Books",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 183564
+      "UsersEstimate": 183565
     },
     {
       "ID": "achievement_shots_for_days",
@@ -33013,7 +33018,7 @@
       "Name": "Super-Sub",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 183564
+      "UsersEstimate": 183565
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -33021,7 +33026,7 @@
       "Name": "The Only Stat That Matters",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 100780
+      "UsersEstimate": 100781
     },
     {
       "ID": "achievement_the_peoples_champion",
@@ -33037,7 +33042,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 241153
+      "UsersEstimate": 241154
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -33205,7 +33210,7 @@
       "Name": "You Can Buy Happiness",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 17996
+      "UsersEstimate": 17997
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -33268,7 +33273,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 359930,
+      "Progressed": 359931,
       "Completed": 26
     }
   ],
@@ -33276,8 +33281,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-11-24T06:03:04.2057933+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:10:16.7244648+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:09:27.2208587+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.5620034+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:03:04.2057939+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:10:16.7246638+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:02:57.1275421+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:09:27.2210305+00:00"
 }

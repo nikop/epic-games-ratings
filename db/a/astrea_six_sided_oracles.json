@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -636,9 +636,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -764,9 +764,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1195,8 +1195,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:04:34.3266698+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:04:03.4041506+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:38.9498707+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:59:05.5239473+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:04:34.3267453+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:58:33.8126977+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:04:03.4042242+00:00"
 }

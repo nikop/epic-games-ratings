@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1053,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3059,17 +3059,17 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 906
+      "UsersEstimate": 916
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 505
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -3148,8 +3148,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:06:47.4266658+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:05:42.4572669+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:57:31.5743008+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:06:47.4267704+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:57:27.6134722+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:05:42.4573514+00:00"
 }

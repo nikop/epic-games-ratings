@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4301,
+  "EOS_Progressed": 4303,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7560,6 +7560,11 @@
       "Time": "2023-11-24T03:08:46.0453027+00:00",
       "NumProgressed": 4301,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-24T07:06:41.2450521+00:00",
+      "NumProgressed": 4303,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7571,7 +7576,7 @@
       "Name": "Start with a bang!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "Ach002",
@@ -7747,7 +7752,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "Ach024",
@@ -7817,9 +7822,9 @@
       "ID": "Ach032",
       "SetID": "12n4k20",
       "Name": "Perfecter Parry-er!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 344
     },
     {
       "ID": "Ach033",
@@ -8138,13 +8143,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4301,
+      "Progressed": 4303,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2822,
+      "Progressed": 2824,
       "Completed": 1930
     }
   ],
@@ -8152,8 +8157,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:08:47.6630919+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:06:41.2450517+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:58:59.026711+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:08:47.663209+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:58:29.0923346+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:06:41.2451306+00:00"
 }

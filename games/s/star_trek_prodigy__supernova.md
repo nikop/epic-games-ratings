@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 53.00% | ~8 |
-| Three Watchers, Two Phasers | 40.00% | ~6 |
-| Guess who's back | 33.00% | ~5 |
-| One for the Crew | 27.00% | ~4 |
-| The Clock is Ticking | 27.00% | ~4 |
-| A Helping Hand | 27.00% | ~4 |
-| I've Got You | 20.00% | ~3 |
+| Restoring the Protostar | 50.00% | ~8 |
+| Three Watchers, Two Phasers | 38.00% | ~6 |
+| Guess who's back | 31.00% | ~5 |
+| One for the Crew | 25.00% | ~4 |
+| The Clock is Ticking | 25.00% | ~4 |
+| A Helping Hand | 25.00% | ~4 |
+| I've Got You | 19.00% | ~3 |
 | Up your Arsenal | 13.00% | ~2 |
 | Punny Lover | 13.00% | ~2 |
 | Back online | 13.00% | ~2 |
@@ -18,20 +18,20 @@
 | First Contact? | 13.00% | ~2 |
 | Not Too Long | 13.00% | ~2 |
 | Getting Better | 13.00% | ~2 |
-| Priceless Collection | 7.00% | ~1 |
-| One Man Army | 7.00% | ~1 |
-| Quest for Loot | 7.00% | ~1 |
-| Proto Menagerie | 7.00% | ~1 |
-| Naroan History | 7.00% | ~1 |
-| Playing with Time | 7.00% | ~1 |
-| Escape from Mirios | 7.00% | ~1 |
-| Coming in from the Cold | 7.00% | ~1 |
-| Searching for Al'Shams | 7.00% | ~1 |
-| Seeking Discovery | 7.00% | ~1 |
-| Trekkie | 7.00% | ~1 |
-| The Crew is Back! | 7.00% | ~1 |
-| Welcome back | 7.00% | ~1 |
-| Teamwork makes the dream work | 7.00% | ~1 |
+| Priceless Collection | 6.00% | ~1 |
+| One Man Army | 6.00% | ~1 |
+| Quest for Loot | 6.00% | ~1 |
+| Proto Menagerie | 6.00% | ~1 |
+| Naroan History | 6.00% | ~1 |
+| Playing with Time | 6.00% | ~1 |
+| Escape from Mirios | 6.00% | ~1 |
+| Coming in from the Cold | 6.00% | ~1 |
+| Searching for Al'Shams | 6.00% | ~1 |
+| Seeking Discovery | 6.00% | ~1 |
+| Trekkie | 6.00% | ~1 |
+| The Crew is Back! | 6.00% | ~1 |
+| Welcome back | 6.00% | ~1 |
+| Teamwork makes the dream work | 6.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |
 | A True Merit Badge | 0.00% | ~0 |
 | Wilderness Badge | 0.00% | ~0 |
@@ -46,7 +46,7 @@
 | Relic Hunter | 0.00% | ~0 |
 | Maxed out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 578)  
+Progressed: 16 (Ranked 570)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-06-03 | 13 | 0 |
 | 2023-06-25 | 14 | 0 |
 | 2023-11-11 | 15 | 0 |
+| 2023-11-24 | 16 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

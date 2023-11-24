@@ -6775,10 +6775,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11743,
       "NumberOfAwardsMax": 7695
+    },
+    {
+      "Time": "2023-11-24T06:58:31.5584068+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11745,
+      "NumberOfAwardsMax": 7695
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11743,
+  "NumberOfAwards": 11745,
   "NumberOfAwardsMax": 7695,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6828,7 +6834,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 505
+      "Count": 507
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6837,9 +6843,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 723566,
+  "EOS_Progressed": 723587,
   "EOS_Completed": 2429,
-  "EOS_NewPlayers": 4089,
+  "EOS_NewPlayers": 4096,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31752,6 +31758,11 @@
       "Time": "2023-11-24T06:05:50.8326011+00:00",
       "NumProgressed": 723566,
       "NumCompleted": 2429
+    },
+    {
+      "Time": "2023-11-24T07:04:59.8210011+00:00",
+      "NumProgressed": 723587,
+      "NumCompleted": 2429
     }
   ],
   "TotalAchievements": 51,
@@ -31899,7 +31910,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4341
+      "UsersEstimate": 4342
     },
     {
       "ID": "ach_hazardous_materials",
@@ -32019,7 +32030,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4341
+      "UsersEstimate": 4342
     },
     {
       "ID": "ach_secrets_of_la",
@@ -32099,7 +32110,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14471
+      "UsersEstimate": 14472
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32123,7 +32134,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ach_dark_magic",
@@ -32131,7 +32142,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "ach_gardening_tools",
@@ -32147,7 +32158,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32170,22 +32181,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723566,
+      "Progressed": 723587,
       "Completed": 2429
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 49108,
+      "Progressed": 49129,
       "Completed": 36591
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-24T02:59:16.8435969+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:05:50.8326007+00:00",
+  "LastChanged": "2023-11-24T06:58:31.5584066+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:04:59.8210009+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:59:02.5181226+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:05:50.8327414+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:58:31.5584071+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:04:59.821148+00:00"
 }

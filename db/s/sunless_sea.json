@@ -742,9 +742,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41078,
+  "EOS_Progressed": 41080,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22912,6 +22912,11 @@
       "Time": "2023-11-24T06:04:06.8720371+00:00",
       "NumProgressed": 41078,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T07:03:42.8640957+00:00",
+      "NumProgressed": 41080,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -22939,7 +22944,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "ach_antiquarian10",
@@ -23043,7 +23048,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14788
+      "UsersEstimate": 14789
     },
     {
       "ID": "ach_die10",
@@ -23115,7 +23120,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "ach_legacypupil",
@@ -23123,7 +23128,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ach_legacyrival",
@@ -23139,7 +23144,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ach_legacyshipmate",
@@ -23155,7 +23160,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ach_portbell",
@@ -23267,7 +23272,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ach_sweetheart",
@@ -23283,7 +23288,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "ach_terror90",
@@ -23323,7 +23328,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "ach_year1",
@@ -23354,15 +23359,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41078,
+      "Progressed": 41080,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-14T11:58:18.1801292+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:04:06.8720367+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:03:42.8640955+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.6571384+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:00:53.8548657+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:04:06.8721473+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:59:49.7528298+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:03:42.8642069+00:00"
 }

@@ -8063,7 +8063,7 @@
       "Count": 1215
     }
   ],
-  "EOS_Progressed": 845388,
+  "EOS_Progressed": 845404,
   "EOS_Completed": 203,
   "EOS_NewPlayers": 4861,
   "EOS_NewCompleters": 4,
@@ -29533,6 +29533,11 @@
       "Time": "2023-11-24T06:04:32.3411674+00:00",
       "NumProgressed": 845388,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2023-11-24T07:04:01.9714782+00:00",
+      "NumProgressed": 845404,
+      "NumCompleted": 203
     }
   ],
   "TotalAchievements": 75,
@@ -29544,7 +29549,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 211347
+      "UsersEstimate": 211351
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -29624,7 +29629,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 50723
+      "UsersEstimate": 50724
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -29640,7 +29645,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 50723
+      "UsersEstimate": 50724
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -29768,7 +29773,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 42269
+      "UsersEstimate": 42270
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -29840,7 +29845,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50723
+      "UsersEstimate": 50724
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -29880,7 +29885,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50723
+      "UsersEstimate": 50724
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -29952,7 +29957,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 42269
+      "UsersEstimate": 42270
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -30016,7 +30021,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 50723
+      "UsersEstimate": 50724
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -30096,7 +30101,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 42269
+      "UsersEstimate": 42270
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -30136,20 +30141,20 @@
       "Name": "You Run Barter Town",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 42269
+      "UsersEstimate": 42270
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 845388,
+      "Progressed": 845404,
       "Completed": 249
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 845388,
+      "Progressed": 845404,
       "Completed": 203
     }
   ],
@@ -30157,8 +30162,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-11-24T00:02:34.5230231+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:04:32.3411669+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:04:01.971478+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.3200366+00:00",
   "LastUpdate_Ratings": "2023-11-24T06:02:47.2858406+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:04:32.3413067+00:00"
+  "LastUpdate_Achievements": "2023-11-24T07:04:01.9716061+00:00"
 }

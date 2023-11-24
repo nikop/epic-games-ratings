@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -568,9 +568,9 @@
       "ID": "aq_achievement_33",
       "SetID": "7jh86ne",
       "Name": "No posters allowed",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "aq_achievement_34",
@@ -681,8 +681,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:10:12.2080652+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:09:23.5125823+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.2442322+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:02:35.7399992+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:10:12.2080924+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:00:17.5808712+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:09:23.5126024+00:00"
 }

@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8214,
+  "EOS_Progressed": 8216,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7146,6 +7146,11 @@
       "Time": "2023-11-24T06:10:17.2280586+00:00",
       "NumProgressed": 8214,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T07:09:27.5754139+00:00",
+      "NumProgressed": 8216,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7262,7 +7267,7 @@
       "Name": "Upgraded Fast Recharge to Level 3",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GPurchased1",
@@ -7270,7 +7275,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "GamesPlayed1",
@@ -7278,7 +7283,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "GamesPlayed10",
@@ -7350,7 +7355,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "HAUpgraded1",
@@ -7550,7 +7555,7 @@
       "Name": "2000 Minion Eliminations",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NIUpgraded1",
@@ -7749,7 +7754,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8214,
+      "Progressed": 8216,
       "Completed": 1
     }
   ],
@@ -7757,8 +7762,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:10:17.2280583+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:09:27.5754135+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:02:53.7337313+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:10:17.2281438+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:02:49.6276938+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:09:27.5754934+00:00"
 }

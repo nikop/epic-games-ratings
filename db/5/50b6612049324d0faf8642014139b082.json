@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 406,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1000,6 +1000,11 @@
       "Time": "2023-11-24T06:10:04.7950161+00:00",
       "NumProgressed": 405,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T07:09:17.9034086+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1050,9 +1055,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_15",
@@ -1100,7 +1105,7 @@
       "Name": "Team Principal",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "achievement_20",
@@ -1178,9 +1183,9 @@
       "ID": "achievement_5",
       "SetID": "jnappp",
       "Name": "Consistency is key",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_6",
@@ -1219,14 +1224,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 406,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:10:04.7950154+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:09:17.9034083+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:57:23.552181+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:10:04.7950341+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:57:22.0328201+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:09:17.903428+00:00"
 }

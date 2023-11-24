@@ -4065,9 +4065,9 @@
       "Count": 1077
     }
   ],
-  "EOS_Progressed": 79805,
+  "EOS_Progressed": 79806,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 1032,
+  "EOS_NewPlayers": 1029,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28750,6 +28750,11 @@
       "Time": "2023-11-24T05:09:18.2944212+00:00",
       "NumProgressed": 79805,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-24T07:08:45.9324764+00:00",
+      "NumProgressed": 79806,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -28809,7 +28814,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 20749
+      "UsersEstimate": 20750
     },
     {
       "ID": "complet_epilogue_mission",
@@ -28873,7 +28878,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 36710
+      "UsersEstimate": 36711
     },
     {
       "ID": "customize_a_vehicle",
@@ -28929,7 +28934,7 @@
       "Name": "The Spins",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7980
+      "UsersEstimate": 7981
     },
     {
       "ID": "empire_tier_2",
@@ -28937,7 +28942,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 20749
+      "UsersEstimate": 20750
     },
     {
       "ID": "empire_tier_3",
@@ -28985,7 +28990,7 @@
       "Name": "The Mechanic",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7980
+      "UsersEstimate": 7981
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -29041,7 +29046,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22345
+      "UsersEstimate": 22346
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -29113,7 +29118,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 21547
+      "UsersEstimate": 21548
     },
     {
       "ID": "two_thirds_purple",
@@ -29145,7 +29150,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33518
+      "UsersEstimate": 33519
     },
     {
       "ID": "whole_map_purple",
@@ -29184,22 +29189,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 79805,
+      "Progressed": 79806,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 51442,
-      "Completed": 4364
+      "Progressed": 51443,
+      "Completed": 4365
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-23T08:03:00.733749+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:09:21.5525746+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:08:45.9324761+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:50.0708943+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:03:11.5033877+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:09:21.552713+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:03:02.1757819+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:08:45.9326675+00:00"
 }

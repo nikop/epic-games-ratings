@@ -16,8 +16,8 @@
 | Quite A Snack | 60.00% | ~115 |
 | Impenetrable Skin | 57.00% | ~109 |
 | Overwhelming Power | 55.00% | ~105 |
+| Supreme Power | 46.00% | ~88 |
 | Chomp Chomp! | 46.00% | ~88 |
-| Supreme Power | 45.00% | ~86 |
 | The Duelist | 43.00% | ~82 |
 | Target Practice | 43.00% | ~82 |
 | Glorious Battle | 42.00% | ~80 |
@@ -25,9 +25,9 @@
 | Meat Larder | 41.00% | ~78 |
 | Mutant And Proud | 39.00% | ~74 |
 | The Emperor's New Clothes | 33.00% | ~63 |
+| Final Evolution | 33.00% | ~63 |
 | You Shall Not Pass | 32.00% | ~61 |
 | Happy Little Home | 32.00% | ~61 |
-| Final Evolution | 32.00% | ~61 |
 | Godlike Power | 31.00% | ~59 |
 | Undying Skin | 31.00% | ~59 |
 | Animal Lover | 30.00% | ~57 |
@@ -37,8 +37,8 @@
 | Back To The Future | 26.00% | ~50 |
 | Loyal Companion | 26.00% | ~50 |
 | Immortal Skin | 25.00% | ~48 |
+| Fire Beacon | 24.00% | ~46 |
 | Lunch Before The Lunch | 23.00% | ~44 |
-| Fire Beacon | 23.00% | ~44 |
 | From Here To Eternity | 20.00% | ~38 |
 | Building Blocks | 20.00% | ~38 |
 | Octopostructure | 18.00% | ~34 |

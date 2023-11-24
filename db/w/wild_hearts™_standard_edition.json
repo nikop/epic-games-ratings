@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 317,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.21,
   "EosHistory": [
@@ -1504,9 +1504,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_12",
@@ -1640,9 +1640,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_28",
@@ -1878,8 +1878,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:08:33.3074477+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:06:30.4717035+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:07.8893552+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:57:42.7773053+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:08:33.3074838+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:57:35.4166553+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:06:30.4717647+00:00"
 }

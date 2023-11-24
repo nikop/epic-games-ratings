@@ -8,25 +8,25 @@
 | Find Allies | 8.00% | ~17 |
 | Adventurer | 8.00% | ~17 |
 | Geared Up | 8.00% | ~17 |
-| Powerful Allies | 7.00% | ~14 |
-| A Taste of Wrath | 7.00% | ~14 |
-| Fashion Victim | 7.00% | ~14 |
-| Scholar | 7.00% | ~14 |
-| I Found It | 7.00% | ~14 |
-| The Collector | 7.00% | ~14 |
+| Powerful Allies | 7.00% | ~15 |
+| A Taste of Wrath | 7.00% | ~15 |
+| Fashion Victim | 7.00% | ~15 |
+| Scholar | 7.00% | ~15 |
+| I Found It | 7.00% | ~15 |
+| The Collector | 7.00% | ~15 |
 | Break Out | 6.00% | ~12 |
 | Tributes of Caladrias | 6.00% | ~12 |
 | Stone Collection | 6.00% | ~12 |
 | Calm before the Storm | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
 | Shatter Them All | 4.00% | ~8 |
+| The Mentor | 3.00% | ~6 |
 | Essence Blow | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |
 | Alchemist | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | Clear Sight | 2.00% | ~4 |
-| The Mentor | 2.00% | ~4 |
 | Airborne | 2.00% | ~4 |
 | Shatterer | 2.00% | ~4 |
 | Slayer | 1.00% | ~2 |
@@ -41,8 +41,8 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207 (Ranked 384)  
-Completed: 2 (0.97%) (Ranked 167)  
+Progressed: 208 (Ranked 383)  
+Completed: 2 (0.96%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,4 +86,4 @@ Completed: 2 (0.97%) (Ranked 167)
 | 2023-11-21 | 197 | 1 |
 | 2023-11-22 | 203 | 2 |
 | 2023-11-23 | 204 | 2 |
-| 2023-11-24 | 207 | 2 |
+| 2023-11-24 | 208 | 2 |

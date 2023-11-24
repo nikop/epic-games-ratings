@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3914,
+  "EOS_Progressed": 3915,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8116,6 +8116,11 @@
       "Time": "2023-11-24T06:05:03.523965+00:00",
       "NumProgressed": 3914,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-24T07:04:24.634332+00:00",
+      "NumProgressed": 3915,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8127,7 +8132,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8183,7 +8188,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8207,7 +8212,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8287,7 +8292,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8319,7 +8324,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -8359,7 +8364,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8375,7 +8380,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8463,7 +8468,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8535,7 +8540,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8694,13 +8699,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3865,
+      "Progressed": 3866,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3914,
+      "Progressed": 3915,
       "Completed": 11
     }
   ],
@@ -8708,8 +8713,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:05:03.5239646+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:04:24.6343318+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:00:10.2681344+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:05:03.5240653+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:59:19.9126681+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:04:24.6344057+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,473 |
-| Welcome To Hell-A | 2.00% | ~14,471 |
-| One of Us | 2.00% | ~982 |
-| Pork Chopped | 2.00% | ~982 |
+| Whatever It Takes | 3.00% | ~1,474 |
+| Welcome To Hell-A | 2.00% | ~14,472 |
+| One of Us | 2.00% | ~983 |
+| Pork Chopped | 2.00% | ~983 |
 | Dr. Reed, I Presume? | 1.00% | ~7,236 |
 | Git Gutte! | 1.00% | ~7,236 |
 | Anger Management | 1.00% | ~7,236 |
@@ -36,8 +36,8 @@ Rating: 4.54 (Ranked 526)
 | Making Your Mark | 0.70% | ~5,065 |
 | Humanity Distilled | 0.70% | ~5,065 |
 | Max Headroom | 0.70% | ~5,065 |
-| Not Even My Final Form | 0.60% | ~4,341 |
-| Down with the Sickness | 0.60% | ~4,341 |
+| Not Even My Final Form | 0.60% | ~4,342 |
+| Down with the Sickness | 0.60% | ~4,342 |
 | Jumbo Keyring | 0.50% | ~3,618 |
 | Go, Bobcats! | 0.50% | ~3,618 |
 | Rising Star | 0.50% | ~3,618 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~724 |
 | Wilhelm | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,566 (Ranked 21)  
+Progressed: 723,587 (Ranked 21)  
 Completed: 2,429 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,10 +275,10 @@ Completed: 2,429 (0.34%) (Ranked 229)
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
 | 2023-11-23 | 723,442 | 2,428 |
-| 2023-11-24 | 723,566 | 2,429 |
+| 2023-11-24 | 723,587 | 2,429 |
 ## Awards
 Max (Great Boss Battles): 7,695  (Ranked 50)  
-Sum: 11,743 (Ranked 83)  
+Sum: 11,745 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): -33
 | This game is Great for Beginners | 584 |
 | This game has Diverse Characters | 564 |
 | This game has Quickly Understood Controls | 528 |
-| This game is Relaxing | 505 |
+| This game is Relaxing | 507 |
 | This game has Amazing Storytelling | 487 |
 | This game is Highly Recommended | 474 |
 | This game is Extremely Fun | 472 |
@@ -511,4 +511,4 @@ Diff (max vs sum): -33
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
-| 2023-11-24 | 4.54 | 7,695 | 11,743 |
+| 2023-11-24 | 4.54 | 7,695 | 11,745 |

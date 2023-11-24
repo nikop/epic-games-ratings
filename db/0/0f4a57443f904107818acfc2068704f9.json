@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -1201,9 +1201,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 268
     },
     {
       "ID": "CompleteChapter3",
@@ -1360,8 +1360,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:06:04.2471617+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:05:10.0089373+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:58:34.6557604+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:06:04.2471895+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:58:11.8450484+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:05:10.0089638+00:00"
 }

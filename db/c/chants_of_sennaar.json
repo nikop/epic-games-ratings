@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.1,
+  "EOS_Completed_Percentage": 5.09,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2860,6 +2860,11 @@
       "Time": "2023-11-24T06:08:23.3644183+00:00",
       "NumProgressed": 686,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-24T07:06:22.9392058+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2871,7 +2876,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "END_GOOD",
@@ -2887,7 +2892,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2895,7 +2900,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2911,7 +2916,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2959,7 +2964,7 @@
       "Name": "A Link to the Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2991,7 +2996,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3007,7 +3012,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3015,7 +3020,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3070,14 +3075,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:08:23.3644179+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:06:22.9392055+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:59:41.0425431+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:08:23.364479+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:58:58.9803197+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:06:22.9392312+00:00"
 }

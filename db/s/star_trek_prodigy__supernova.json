@@ -2,9 +2,9 @@
   "ID": "3628612cd9ca49248cd5b4d8a95c9f11",
   "Name": "Star Trek Prodigy: Supernova",
   "ProductSlug": "star-trek-prodigy-supernova-cdb770",
-  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-18T19:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -86,6 +86,11 @@
       "Time": "2023-11-11T15:08:42.3941991+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T07:08:49.3218562+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -127,7 +132,7 @@
       "ID": "AllCollectibles",
       "SetID": "7270ipa",
       "Name": "Priceless Collection",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "BuyAllWeapons",
       "SetID": "7270ipa",
       "Name": "One Man Army",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "Chests_50",
       "SetID": "7270ipa",
       "Name": "Quest for Loot",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -175,7 +180,7 @@
       "ID": "CompleteCrewMission",
       "SetID": "7270ipa",
       "Name": "One for the Crew",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -183,7 +188,7 @@
       "ID": "Creatures_100",
       "SetID": "7270ipa",
       "Name": "Proto Menagerie",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -199,7 +204,7 @@
       "ID": "Finish_P1L1",
       "SetID": "7270ipa",
       "Name": "Restoring the Protostar",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -207,7 +212,7 @@
       "ID": "Finish_P1L2",
       "SetID": "7270ipa",
       "Name": "The Clock is Ticking",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -239,7 +244,7 @@
       "ID": "Finish_P2L2",
       "SetID": "7270ipa",
       "Name": "Naroan History",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -247,7 +252,7 @@
       "ID": "Finish_P2L3",
       "SetID": "7270ipa",
       "Name": "Playing with Time",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -255,7 +260,7 @@
       "ID": "Finish_P2L4",
       "SetID": "7270ipa",
       "Name": "Escape from Mirios",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -263,7 +268,7 @@
       "ID": "Finish_P3L1",
       "SetID": "7270ipa",
       "Name": "Coming in from the Cold",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -271,7 +276,7 @@
       "ID": "Finish_P3L2",
       "SetID": "7270ipa",
       "Name": "Searching for Al\u0027Shams",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -295,7 +300,7 @@
       "ID": "Hit3EnemiesWithPhaser",
       "SetID": "7270ipa",
       "Name": "Three Watchers, Two Phasers",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -303,7 +308,7 @@
       "ID": "OpenAllSecretZones",
       "SetID": "7270ipa",
       "Name": "Seeking Discovery",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -335,7 +340,7 @@
       "ID": "Relics_100",
       "SetID": "7270ipa",
       "Name": "Trekkie",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -351,7 +356,7 @@
       "ID": "RescueJankomPog",
       "SetID": "7270ipa",
       "Name": "Guess who\u0027s back",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -359,7 +364,7 @@
       "ID": "RescueMurf",
       "SetID": "7270ipa",
       "Name": "The Crew is Back!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -375,7 +380,7 @@
       "ID": "RescueZero",
       "SetID": "7270ipa",
       "Name": "Welcome back",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -383,7 +388,7 @@
       "ID": "ReviveTeammate",
       "SetID": "7270ipa",
       "Name": "I\u0027ve Got You",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -407,7 +412,7 @@
       "ID": "UseAllCrewMembers",
       "SetID": "7270ipa",
       "Name": "Teamwork makes the dream work",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -415,7 +420,7 @@
       "ID": "UseCrewMember",
       "SetID": "7270ipa",
       "Name": "A Helping Hand",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 4
     }
@@ -424,7 +429,7 @@
     {
       "ID": "7270ipa",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
@@ -432,8 +437,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:09:26.1403039+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:08:49.3218559+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:29.0374275+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:59:14.0524526+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:09:26.1403274+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:58:39.6631717+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:08:49.3218818+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1169,
+  "EOS_Progressed": 1170,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1114,6 +1114,11 @@
       "Time": "2023-11-19T05:09:38.7381028+00:00",
       "NumProgressed": 1169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T07:09:24.2593401+00:00",
+      "NumProgressed": 1170,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1181,7 +1186,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -1253,7 +1258,7 @@
       "Name": "Rookie No More",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "CAREERADVANCED",
@@ -1437,7 +1442,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ONEPAINT",
@@ -1445,7 +1450,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ONEPLATINUM",
@@ -1461,7 +1466,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1540,7 +1545,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1169,
+      "Progressed": 1170,
       "Completed": 0
     }
   ],
@@ -1548,8 +1553,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:10:13.0444482+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:09:24.2593398+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:59.6095535+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:00:04.8176236+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:10:13.0444806+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:59:15.9456086+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:09:24.2593819+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,066 |
-| Basic in Bulk | 5.00% | ~7,066 |
-| Tinkle of Coins | 5.00% | ~7,066 |
-| Titan's First Steps | 5.00% | ~7,066 |
+| Sponsored by Argon | 5.00% | ~7,067 |
+| Basic in Bulk | 5.00% | ~7,067 |
+| Tinkle of Coins | 5.00% | ~7,067 |
+| Titan's First Steps | 5.00% | ~7,067 |
 | Disintermediation | 4.00% | ~5,653 |
 | Capitalism Ho! | 4.00% | ~5,653 |
 | One Easy Payment | 3.00% | ~4,240 |
@@ -19,18 +19,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 3.00% | ~4,240 |
 | Budding Merchant | 3.00% | ~4,240 |
 | Own the Means of Production | 3.00% | ~4,240 |
-| The Daily Grind | 2.00% | ~2,826 |
-| Bounty Hunters | 2.00% | ~2,826 |
-| Demand for Supplies | 2.00% | ~2,826 |
-| Flooding the Market | 2.00% | ~2,826 |
-| Where it Hurts | 2.00% | ~2,826 |
-| Gild-Gotten Goods | 2.00% | ~2,826 |
-| One-Armed Bandit | 2.00% | ~2,826 |
-| Accomplished Merchant | 2.00% | ~2,826 |
-| Dungeon Imports | 2.00% | ~2,826 |
-| Through Repetition, Perfection | 2.00% | ~2,826 |
-| Did we pack lunch? | 2.00% | ~2,826 |
-| Arcane Industries | 2.00% | ~2,826 |
+| The Daily Grind | 2.00% | ~2,827 |
+| Bounty Hunters | 2.00% | ~2,827 |
+| Demand for Supplies | 2.00% | ~2,827 |
+| Flooding the Market | 2.00% | ~2,827 |
+| Where it Hurts | 2.00% | ~2,827 |
+| Gild-Gotten Goods | 2.00% | ~2,827 |
+| One-Armed Bandit | 2.00% | ~2,827 |
+| Accomplished Merchant | 2.00% | ~2,827 |
+| Dungeon Imports | 2.00% | ~2,827 |
+| Through Repetition, Perfection | 2.00% | ~2,827 |
+| Did we pack lunch? | 2.00% | ~2,827 |
+| Arcane Industries | 2.00% | ~2,827 |
 | On the Path to Greatness | 1.00% | ~1,413 |
 | A Notch Above the Rest | 1.00% | ~1,413 |
 | Ascended | 1.00% | ~1,413 |
@@ -76,6 +76,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.90% | ~1,272 |
 | Fat Cat Tag Team | 0.90% | ~1,272 |
 | Necromancer Queen | 0.90% | ~1,272 |
+| Item of Renown | 0.90% | ~1,272 |
 | Master Merchant | 0.90% | ~1,272 |
 | Scourge of the Seas | 0.90% | ~1,272 |
 | Attrition Mission | 0.90% | ~1,272 |
@@ -94,7 +95,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.80% | ~1,131 |
 | Ritualist | 0.80% | ~1,131 |
 | A Legend is Born | 0.80% | ~1,131 |
-| Item of Renown | 0.80% | ~1,131 |
 | Bountiful Harvest | 0.80% | ~1,131 |
 | Precision Engineering | 0.80% | ~1,131 |
 | Moment of Respite | 0.80% | ~1,131 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,321 (Ranked 80)  
+Progressed: 141,331 (Ranked 80)  
 Completed: 201 (0.14%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 201 (0.14%) (Ranked 270)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,321 | 201 |
+| 2023-11-24 | 141,331 | 201 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,585 (Ranked 50)  

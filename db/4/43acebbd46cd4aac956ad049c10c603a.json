@@ -5,7 +5,7 @@
   "Ranking_Rating": 6,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 510,
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 121,
@@ -121,9 +121,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 527,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1196,6 +1196,11 @@
       "Time": "2023-11-24T06:05:05.1061531+00:00",
       "NumProgressed": 526,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T07:04:25.799268+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1216,7 +1221,7 @@
       "Name": "Ab Initio",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "AnthropicHills",
@@ -1248,7 +1253,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "BreakTheLoop",
@@ -1294,9 +1299,9 @@
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "Discovery",
@@ -1304,7 +1309,7 @@
       "Name": "Discovery",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "EasternWetlands",
@@ -1336,7 +1341,7 @@
       "Name": "Flooded Valley",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GnothiSeauton",
@@ -1384,7 +1389,7 @@
       "Name": "Just One Lap",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LordOfTheFiles",
@@ -1470,9 +1475,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 126
     },
     {
       "ID": "PrometheusUnbound",
@@ -1488,7 +1493,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "RemnantsOfThePast",
@@ -1496,7 +1501,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "RenaissanceRobot",
@@ -1520,7 +1525,7 @@
       "Name": "Signatory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "SingleRod",
@@ -1590,7 +1595,7 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -1616,7 +1621,7 @@
       "Name": "The Word Endures",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "TouchGrass",
@@ -1648,7 +1653,7 @@
       "Name": "Wanderers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WesternDelta",
@@ -1679,7 +1684,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 527,
       "Completed": 1
     }
   ],
@@ -1687,8 +1692,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-23T03:59:15.2049017+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:05:05.1061528+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:04:25.7992677+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:00:51.4894849+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:05:05.1061947+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:59:48.1373174+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:04:25.7993058+00:00"
 }

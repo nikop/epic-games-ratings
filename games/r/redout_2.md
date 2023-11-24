@@ -5,16 +5,16 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 28.00% | ~327 |
-| Increasing your Power Level | 28.00% | ~327 |
+| Rookie No More | 28.00% | ~328 |
+| Increasing your Power Level | 28.00% | ~328 |
 | Enter the Speed Gauntlet | 25.00% | ~292 |
 | I just can't choose | 25.00% | ~292 |
 | A Cheese Grater to the Face | 20.00% | ~234 |
-| It's like an haircut | 18.00% | ~210 |
-| Put it on a shelf | 18.00% | ~210 |
+| It's like an haircut | 18.00% | ~211 |
+| Put it on a shelf | 18.00% | ~211 |
 | Ride in the rising sun | 16.00% | ~187 |
 | Suit up | 16.00% | ~187 |
-| Walked like an Egyptian | 15.00% | ~175 |
+| Walked like an Egyptian | 15.00% | ~176 |
 | Running at the speed of sound | 14.00% | ~164 |
 | Rookie No-No More | 13.00% | ~152 |
 | Martian explorer | 11.00% | ~129 |
@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 588)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,169 (Ranked 250)  
+Progressed: 1,170 (Ranked 250)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-13 | 1,166 | 0 |
 | 2023-11-17 | 1,168 | 0 |
 | 2023-11-19 | 1,169 | 0 |
+| 2023-11-24 | 1,170 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

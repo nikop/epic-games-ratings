@@ -645,7 +645,7 @@
   ],
   "EOS_Progressed": 471270,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23917,9 +23917,9 @@
       "ID": "achievement_unlock_pragmah_battleship",
       "SetID": "7plcbc4",
       "Name": "Hand of the Emperor",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -24003,8 +24003,8 @@
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-24T06:10:15.9027048+00:00",
+  "LastChanged_Achievements": "2023-11-24T07:09:26.5093298+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:59:48.0274189+00:00",
-  "LastUpdate_Achievements": "2023-11-24T06:10:15.902843+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:59:03.9772671+00:00",
+  "LastUpdate_Achievements": "2023-11-24T07:09:26.5094707+00:00"
 }
