@@ -8,16 +8,16 @@
 | Find Allies | 8.00% | ~17 |
 | Adventurer | 8.00% | ~17 |
 | Geared Up | 8.00% | ~17 |
+| Powerful Allies | 7.00% | ~14 |
 | A Taste of Wrath | 7.00% | ~14 |
 | Fashion Victim | 7.00% | ~14 |
 | Scholar | 7.00% | ~14 |
 | I Found It | 7.00% | ~14 |
 | The Collector | 7.00% | ~14 |
 | Break Out | 6.00% | ~12 |
-| Powerful Allies | 6.00% | ~12 |
+| Tributes of Caladrias | 6.00% | ~12 |
 | Stone Collection | 6.00% | ~12 |
 | Calm before the Storm | 5.00% | ~10 |
-| Tributes of Caladrias | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
 | Shatter Them All | 4.00% | ~8 |
 | Essence Blow | 3.00% | ~6 |

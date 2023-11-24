@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 86.00% | ~318 |
 | Thalya – Simply Immortal | 86.00% | ~318 |
-| For the Horde! | 80.00% | ~296 |
+| For the Horde! | 81.00% | ~300 |
 | Hammer Time, Round Two | 79.00% | ~292 |
 | The Hellwoods | 74.00% | ~274 |
 | The Plains of Strothalm | 68.00% | ~252 |
@@ -19,8 +19,8 @@
 | Heroes’ Gorge | 58.00% | ~215 |
 | Trap Master | 54.00% | ~200 |
 | Minions, Minions! | 54.00% | ~200 |
-| The Ascent | 48.00% | ~178 |
-| It's Warm and Cozy at Home | 48.00% | ~178 |
+| The Ascent | 49.00% | ~181 |
+| It's Warm and Cozy at Home | 49.00% | ~181 |
 | Hard Work | 44.00% | ~163 |
 | The Big Eaty | 44.00% | ~163 |
 | YOU SHALL NOT PASS! | 43.00% | ~159 |
@@ -62,8 +62,8 @@
 | Gorgu is in the Best of Health | 5.00% | ~18 |
 | Laser Eyes Are So Useless | 5.00% | ~18 |
 | Heal Heal Blessing | 5.00% | ~18 |
+| Hands Off My Stones | 5.00% | ~18 |
 | No Mana, No Cry | 4.00% | ~15 |
-| Hands Off My Stones | 4.00% | ~15 |
 | I Don't Need Any Help | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 370 (Ranked 328)  

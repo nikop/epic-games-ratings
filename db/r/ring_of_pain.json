@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3460,9 +3460,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240132,
+  "EOS_Progressed": 240134,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26005,6 +26005,11 @@
       "Time": "2023-11-24T05:09:59.5465684+00:00",
       "NumProgressed": 240132,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-11-24T06:10:16.6445423+00:00",
+      "NumProgressed": 240134,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 138,
@@ -26758,9 +26763,9 @@
       "ID": "SPECIALROOMS1",
       "SetID": "5l8oe0h",
       "Name": "Uncharted Territory",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 961
+      "UsersEstimate": 1201
     },
     {
       "ID": "SPECIALROOMS10",
@@ -27119,22 +27124,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240132,
+      "Progressed": 240134,
       "Completed": 290
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1612,
-      "Completed": 388
+      "Progressed": 1614,
+      "Completed": 389
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-23T20:58:01.4117644+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:09:59.5465679+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:10:16.644542+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:58:04.7120868+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:09:59.5468099+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:58:09.2070717+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:10:16.6447818+00:00"
 }

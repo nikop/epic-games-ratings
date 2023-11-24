@@ -840,9 +840,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_04",
@@ -936,9 +936,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_16",
@@ -1119,8 +1119,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:09:55.2096974+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:10:11.3694431+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:57:57.1830392+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:09:55.2097285+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:57:58.7239538+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:10:11.3694673+00:00"
 }

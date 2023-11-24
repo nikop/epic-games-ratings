@@ -36,8 +36,8 @@ Rating: 4.64 (Ranked 333)
 | Whole Again | 29.00% | ~565 |
 | Set A Benchmark | 29.00% | ~565 |
 | Pack Rat | 27.00% | ~526 |
+| Final Regeneration | 26.00% | ~507 |
 | Full Contact | 26.00% | ~507 |
-| Final Regeneration | 25.00% | ~487 |
 | Full Clearance | 25.00% | ~487 |
 | Pusher | 23.00% | ~448 |
 | Z-Baller | 23.00% | ~448 |
@@ -126,9 +126,9 @@ Completed: 12 (0.62%) (Ranked 187)
 | 2023-11-23 | 1,945 | 12 |
 | 2023-11-24 | 1,949 | 12 |
 ## Awards
-Max (Great Boss Battles): 114  (Ranked 343)  
+Max (Great Boss Battles): 114  (Ranked 344)  
 Sum: 114 (Ranked 437)  
-Diff (max vs sum): -94  
+Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 114 |

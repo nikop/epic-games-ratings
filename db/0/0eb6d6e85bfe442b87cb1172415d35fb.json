@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2023-11-22T17:04:09.5519288+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T06:04:28.4260898+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -275,7 +280,7 @@
       "ID": "AvianVeterinarian",
       "SetID": "d11cl5p",
       "Name": "Avian veterinarian",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -307,7 +312,7 @@
       "ID": "FiveThousand",
       "SetID": "d11cl5p",
       "Name": "0.005 million",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -379,7 +384,7 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -411,7 +416,7 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -443,7 +448,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 25,
       "UsersEstimate": 28
     },
@@ -461,7 +466,7 @@
       "Name": "Taking off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TheAirportCEO",
@@ -507,7 +512,7 @@
       "ID": "TravelToExecutiveBathroomIsland",
       "SetID": "d11cl5p",
       "Name": "Travel to executive bathroom island",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -532,14 +537,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:04:08.2150361+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:04:28.4260891+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:01.2285354+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:02:48.4942321+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:04:08.2150584+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:02:35.5660629+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:04:28.4261119+00:00"
 }

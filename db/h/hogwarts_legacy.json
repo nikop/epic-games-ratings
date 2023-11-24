@@ -10959,9 +10959,9 @@
       "Count": 809
     }
   ],
-  "EOS_Progressed": 302869,
+  "EOS_Progressed": 302873,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34369,6 +34369,11 @@
       "Time": "2023-11-24T05:09:55.0525133+00:00",
       "NumProgressed": 302869,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-24T06:10:11.2944604+00:00",
+      "NumProgressed": 302873,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34380,7 +34385,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48459
+      "UsersEstimate": 48460
     },
     {
       "ID": "PFA_10",
@@ -34436,7 +34441,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36344
+      "UsersEstimate": 36345
     },
     {
       "ID": "PFA_17",
@@ -34452,7 +34457,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27258
+      "UsersEstimate": 27259
     },
     {
       "ID": "PFA_19",
@@ -34468,7 +34473,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15143
+      "UsersEstimate": 15144
     },
     {
       "ID": "PFA_20",
@@ -34508,7 +34513,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36344
+      "UsersEstimate": 36345
     },
     {
       "ID": "PFA_25",
@@ -34564,7 +34569,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36344
+      "UsersEstimate": 36345
     },
     {
       "ID": "PFA_31",
@@ -34644,7 +34649,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15143
+      "UsersEstimate": 15144
     },
     {
       "ID": "PFA_40",
@@ -34660,7 +34665,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15143
+      "UsersEstimate": 15144
     },
     {
       "ID": "PFA_42",
@@ -34684,7 +34689,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27258
+      "UsersEstimate": 27259
     },
     {
       "ID": "PFA_45",
@@ -34708,7 +34713,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45430
+      "UsersEstimate": 45431
     },
     {
       "ID": "PFA_7",
@@ -34739,7 +34744,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302869,
+      "Progressed": 302873,
       "Completed": 513
     }
   ],
@@ -34747,8 +34752,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-24T04:58:19.6800418+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:09:55.0525126+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:10:11.2944601+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:58:19.6800428+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:09:55.0526881+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:58:31.0214997+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:10:11.2946328+00:00"
 }

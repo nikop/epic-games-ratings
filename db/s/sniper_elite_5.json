@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3913,
+  "EOS_Progressed": 3914,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8111,6 +8111,11 @@
       "Time": "2023-11-24T05:04:33.8946586+00:00",
       "NumProgressed": 3913,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-24T06:05:03.523965+00:00",
+      "NumProgressed": 3914,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8242,7 +8247,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8290,7 +8295,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8322,7 +8327,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8434,7 +8439,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8586,7 +8591,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -8689,13 +8694,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3864,
+      "Progressed": 3865,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3913,
+      "Progressed": 3914,
       "Completed": 11
     }
   ],
@@ -8703,8 +8708,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:04:33.8946581+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:05:03.5239646+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:59:28.513503+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:04:33.8947579+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:00:10.2681344+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:05:03.5240653+00:00"
 }

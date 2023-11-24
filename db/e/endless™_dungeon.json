@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1168,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -1960,6 +1960,11 @@
       "Time": "2023-11-24T05:08:53.9249229+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T06:08:49.1796854+00:00",
+      "NumProgressed": 1168,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1972,7 +1977,7 @@
       "Name": "Grab \u0027Em All",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_10K_OPEN_DOORS",
@@ -2028,7 +2033,7 @@
       "Name": "Pest Control",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -2036,7 +2041,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -2052,7 +2057,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2068,7 +2073,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -2116,7 +2121,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -2146,9 +2151,9 @@
       "ID": "ACHIEVEMENT_REUNITED",
       "SetID": "9991201",
       "Name": "Long Live Rock",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -2211,14 +2216,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1168,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:08:53.9249223+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:08:49.1796852+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.2825313+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:57:46.8413857+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:08:53.9249634+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:57:43.7998357+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:08:49.1797408+00:00"
 }

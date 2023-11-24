@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 121,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 495,
+  "EOS_Progressed": 497,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1042,6 +1042,11 @@
       "Time": "2023-11-24T05:05:19.4584651+00:00",
       "NumProgressed": 495,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T06:06:04.247162+00:00",
+      "NumProgressed": 497,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1062,7 +1067,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1110,7 +1115,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 358
     },
     {
       "ID": "CompleteChapter10",
@@ -1148,9 +1153,9 @@
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "CompleteChapter15",
@@ -1196,9 +1201,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 263
     },
     {
       "ID": "CompleteChapter3",
@@ -1206,15 +1211,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "CompleteChapter5",
@@ -1230,7 +1235,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CompleteChapter7",
@@ -1238,7 +1243,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CompleteChapter8",
@@ -1246,7 +1251,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CompleteChapter9",
@@ -1302,7 +1307,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1326,7 +1331,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1349,14 +1354,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 495,
+      "Progressed": 497,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:05:19.4584646+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:06:04.2471617+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:58:22.1635352+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:05:19.4584904+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:58:34.6557604+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:06:04.2471895+00:00"
 }

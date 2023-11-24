@@ -23,16 +23,16 @@ Rating: 4.54 (Ranked 526)
 | Stacking the Deck | 1.00% | ~7,236 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,236 |
 | This is My Weapon | 1.00% | ~7,236 |
+| Slayer Squad | 0.90% | ~6,512 |
 | Can't Handle the Truth | 0.90% | ~6,512 |
 | Like Riding a Bike | 0.90% | ~6,512 |
 | Zombologist | 0.90% | ~6,512 |
 | A Patton Emerges | 0.90% | ~6,512 |
 | Our True Nature | 0.90% | ~6,512 |
-| Perks of the Job | 0.80% | ~5,788 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,788 |
-| Slayer Squad | 0.80% | ~5,788 |
-| Ooh, Shiny! | 0.80% | ~5,788 |
-| I Am the Resurrection | 0.80% | ~5,788 |
+| Perks of the Job | 0.80% | ~5,789 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,789 |
+| Ooh, Shiny! | 0.80% | ~5,789 |
+| I Am the Resurrection | 0.80% | ~5,789 |
 | Making Your Mark | 0.70% | ~5,065 |
 | Humanity Distilled | 0.70% | ~5,065 |
 | Max Headroom | 0.70% | ~5,065 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~724 |
 | Wilhelm | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,551 (Ranked 21)  
+Progressed: 723,566 (Ranked 21)  
 Completed: 2,429 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2,429 (0.34%) (Ranked 229)
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
 | 2023-11-23 | 723,442 | 2,428 |
-| 2023-11-24 | 723,551 | 2,429 |
+| 2023-11-24 | 723,566 | 2,429 |
 ## Awards
 Max (Great Boss Battles): 7,695  (Ranked 50)  
 Sum: 11,743 (Ranked 83)  

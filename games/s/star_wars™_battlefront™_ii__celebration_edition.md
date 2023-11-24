@@ -4,51 +4,51 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Strike | 69.00% | ~119,225 |
-| The Cleaner | 68.00% | ~117,497 |
-| Battle Beyond the Stars | 63.00% | ~108,858 |
-| The Battle of Endor | 59.00% | ~101,946 |
-| A Job Well Done | 55.00% | ~95,035 |
-| The Dauntless | 55.00% | ~95,035 |
-| The Observatory | 53.00% | ~91,579 |
-| The Storm | 50.00% | ~86,395 |
-| Heavy is the Hand | 49.00% | ~84,667 |
-| Outcasts | 49.00% | ~84,667 |
-| There Has Been An Awakening | 48.00% | ~82,939 |
-| Royalty | 48.00% | ~82,939 |
-| General Distress | 45.00% | ~77,756 |
-| There is No Such Thing As Luck | 44.00% | ~76,028 |
-| Under Covered Skies | 42.00% | ~72,572 |
-| Cache Grab | 41.00% | ~70,844 |
-| The Battle of Jakku | 39.00% | ~67,388 |
-| Until Ashes | 39.00% | ~67,388 |
-| Discoveries | 38.00% | ~65,660 |
-| Outbound Flight | 36.00% | ~62,204 |
-| We are the Spark | 35.00% | ~60,476 |
-| What a Blast | 32.00% | ~55,293 |
-| Scoped | 31.00% | ~53,565 |
-| Choose Your Path | 30.00% | ~51,837 |
-| Project: Resurrection | 30.00% | ~51,837 |
-| Ashes of the Empire | 28.00% | ~48,381 |
-| X-wing vs. TIE Fighter | 27.00% | ~46,653 |
-| Sentry Mode Engaged | 26.00% | ~44,925 |
-| Inferno | 26.00% | ~44,925 |
-| A Dominating Presence | 24.00% | ~41,470 |
-| Do. Or Do Not. There is no Try. | 22.00% | ~38,014 |
-| Dark Forces | 21.00% | ~36,286 |
-| The Force is Strong With This One | 18.00% | ~31,102 |
-| Strike Back | 18.00% | ~31,102 |
-| Master of Deception | 13.00% | ~22,463 |
-| Not All Miss | 13.00% | ~22,463 |
-| Complete Your Training | 10.00% | ~17,279 |
-| The Interceptor | 7.00% | ~12,095 |
-| Ignore Your Instincts At Your Peril | 7.00% | ~12,095 |
-| A Galaxy at War | 7.00% | ~12,095 |
-| Balance Point | 4.00% | ~6,912 |
+| Quick Strike | 69.00% | ~119,255 |
+| The Cleaner | 68.00% | ~117,527 |
+| Battle Beyond the Stars | 63.00% | ~108,885 |
+| The Battle of Endor | 59.00% | ~101,972 |
+| A Job Well Done | 55.00% | ~95,059 |
+| The Dauntless | 55.00% | ~95,059 |
+| The Observatory | 53.00% | ~91,602 |
+| The Storm | 50.00% | ~86,417 |
+| Heavy is the Hand | 49.00% | ~84,689 |
+| Outcasts | 49.00% | ~84,689 |
+| There Has Been An Awakening | 48.00% | ~82,960 |
+| Royalty | 48.00% | ~82,960 |
+| General Distress | 45.00% | ~77,775 |
+| There is No Such Thing As Luck | 44.00% | ~76,047 |
+| Under Covered Skies | 42.00% | ~72,590 |
+| Cache Grab | 41.00% | ~70,862 |
+| The Battle of Jakku | 39.00% | ~67,405 |
+| Until Ashes | 39.00% | ~67,405 |
+| Discoveries | 38.00% | ~65,677 |
+| Outbound Flight | 36.00% | ~62,220 |
+| We are the Spark | 35.00% | ~60,492 |
+| What a Blast | 32.00% | ~55,307 |
+| Scoped | 31.00% | ~53,579 |
+| Choose Your Path | 30.00% | ~51,850 |
+| Project: Resurrection | 30.00% | ~51,850 |
+| Ashes of the Empire | 28.00% | ~48,394 |
+| X-wing vs. TIE Fighter | 27.00% | ~46,665 |
+| Sentry Mode Engaged | 26.00% | ~44,937 |
+| Inferno | 26.00% | ~44,937 |
+| A Dominating Presence | 24.00% | ~41,480 |
+| Do. Or Do Not. There is no Try. | 22.00% | ~38,023 |
+| Dark Forces | 21.00% | ~36,295 |
+| The Force is Strong With This One | 18.00% | ~31,110 |
+| Strike Back | 18.00% | ~31,110 |
+| Master of Deception | 13.00% | ~22,468 |
+| Not All Miss | 13.00% | ~22,468 |
+| Complete Your Training | 10.00% | ~17,283 |
+| The Interceptor | 7.00% | ~12,098 |
+| Ignore Your Instincts At Your Peril | 7.00% | ~12,098 |
+| A Galaxy at War | 7.00% | ~12,098 |
+| Balance Point | 4.00% | ~6,913 |
 | Multi-tasking | 0.70% | ~1,210 |
 | The Bomber | 0.40% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172,790 (Ranked 77)  
+Progressed: 172,834 (Ranked 77)  
 Completed: 44 (0.03%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 44 (0.03%) (Ranked 321)
 | 2023-11-21 | 168,897 | 44 |
 | 2023-11-22 | 170,608 | 44 |
 | 2023-11-23 | 172,434 | 44 |
-| 2023-11-24 | 172,790 | 44 |
+| 2023-11-24 | 172,834 | 44 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

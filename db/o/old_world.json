@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2022,9 +2022,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15454,
+  "EOS_Progressed": 15455,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16432,6 +16432,11 @@
       "Time": "2023-11-24T00:05:57.2579122+00:00",
       "NumProgressed": 15454,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-24T06:03:22.7962442+00:00",
+      "NumProgressed": 15455,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17017,9 +17022,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
       "SetID": "9201eeb",
       "Name": "Old",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
@@ -19178,21 +19183,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15454,
+      "Progressed": 15455,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15454,
+      "Progressed": 15455,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-23T17:58:16.2133838+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:06:12.1562944+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:03:22.7962438+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:58:38.4205611+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:06:12.1571949+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:58:58.5111066+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:03:22.797154+00:00"
 }

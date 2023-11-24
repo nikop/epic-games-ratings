@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7177,10 +7177,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141311,
-  "EOS_Completed": 200,
+  "EOS_Progressed": 141321,
+  "EOS_Completed": 201,
   "EOS_NewPlayers": 1174,
-  "EOS_NewCompleters": 13,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -29632,6 +29632,11 @@
       "Time": "2023-11-24T05:08:43.1664158+00:00",
       "NumProgressed": 141311,
       "NumCompleted": 200
+    },
+    {
+      "Time": "2023-11-24T06:08:34.7750125+00:00",
+      "NumProgressed": 141321,
+      "NumCompleted": 201
     }
   ],
   "TotalAchievements": 112,
@@ -29675,7 +29680,7 @@
       "Name": "Top of the World",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "argon_a",
@@ -29683,7 +29688,7 @@
       "Name": "Proud Paladin",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "ascend01",
@@ -29707,7 +29712,7 @@
       "Name": "Constellated",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "ashley_a",
@@ -29723,7 +29728,7 @@
       "Name": "One Easy Payment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "bigsale02",
@@ -29747,7 +29752,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "blueprint02",
@@ -29763,7 +29768,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "bookentry",
@@ -29827,7 +29832,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "collection01",
@@ -29851,7 +29856,7 @@
       "Name": "Archivist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "collection04",
@@ -29899,7 +29904,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "craft01",
@@ -29907,7 +29912,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "craft02",
@@ -29931,7 +29936,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "craft05",
@@ -29995,7 +30000,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "energy02",
@@ -30019,7 +30024,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "expansion02",
@@ -30043,7 +30048,7 @@
       "Name": "Ritualist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "furniture01",
@@ -30091,7 +30096,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "fuseuncommon",
@@ -30123,7 +30128,7 @@
       "Name": "Pretty Penny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "gold03",
@@ -30219,7 +30224,7 @@
       "Name": "Item of Renown",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "level01",
@@ -30227,7 +30232,7 @@
       "Name": "Budding Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "level02",
@@ -30249,9 +30254,9 @@
       "ID": "level04",
       "SetID": "anfd17p",
       "Name": "Merchant Extraordinaire",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 424
     },
     {
       "ID": "lilu_a",
@@ -30283,7 +30288,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "loot04",
@@ -30323,7 +30328,7 @@
       "Name": "Precision Engineering",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "master05",
@@ -30411,7 +30416,7 @@
       "Name": "Moment of Respite",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "sell01",
@@ -30419,7 +30424,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "sell02",
@@ -30443,7 +30448,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "transmuter",
@@ -30507,7 +30512,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "workers02",
@@ -30538,15 +30543,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141311,
-      "Completed": 200
+      "Progressed": 141321,
+      "Completed": 201
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-24T01:47:37.4172495+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:08:43.1664152+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:08:34.7749949+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:03:01.7435131+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:08:43.1666468+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:02:54.6138434+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:08:34.775223+00:00"
 }

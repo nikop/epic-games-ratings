@@ -4671,10 +4671,10 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 226684,
-  "EOS_Completed": 511,
-  "EOS_NewPlayers": 4651,
-  "EOS_NewCompleters": 45,
+  "EOS_Progressed": 226706,
+  "EOS_Completed": 512,
+  "EOS_NewPlayers": 4654,
+  "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -19631,6 +19631,11 @@
       "Time": "2023-11-24T05:09:09.6264233+00:00",
       "NumProgressed": 226684,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2023-11-24T06:09:10.1303062+00:00",
+      "NumProgressed": 226706,
+      "NumCompleted": 512
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19721,9 +19726,9 @@
       "ID": "Defeat_Mantis",
       "SetID": "bkp3b1a",
       "Name": "The Killing Jar",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 680
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20082,13 +20087,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 226684,
-      "Completed": 511
+      "Progressed": 226706,
+      "Completed": 512
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 5849,
+      "Progressed": 5871,
       "Completed": 144
     }
   ],
@@ -20096,8 +20101,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-24T03:03:33.1565658+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:09:09.6264227+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:09:10.1303056+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-24T05:03:17.1619999+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:09:09.6265451+00:00"
+  "LastUpdate_Ratings": "2023-11-24T06:03:16.7057345+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:09:10.1303922+00:00"
 }

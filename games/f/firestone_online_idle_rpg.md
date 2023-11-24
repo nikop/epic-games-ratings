@@ -5,15 +5,15 @@ Rating: 4.12 (Ranked 962)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,429 |
-| World Map | 78.00% | ~2,037 |
-| Temple of Eternals | 57.00% | ~1,489 |
-| Prestigious | 53.00% | ~1,384 |
-| Fellowship Power | 42.00% | ~1,097 |
-| Guild Power | 25.00% | ~653 |
+| Victor | 93.00% | ~2,432 |
+| World Map | 78.00% | ~2,040 |
+| Temple of Eternals | 57.00% | ~1,491 |
+| Prestigious | 53.00% | ~1,386 |
+| Fellowship Power | 42.00% | ~1,098 |
+| Guild Power | 25.00% | ~654 |
 | Prestigious x10 | 21.00% | ~549 |
-| The game is on | 20.00% | ~522 |
-| Exotic Merchant | 18.00% | ~470 |
+| The game is on | 20.00% | ~523 |
+| Exotic Merchant | 18.00% | ~471 |
 | Dragon Clicker | 16.00% | ~418 |
 | Inspection | 16.00% | ~418 |
 | Miner Clicker | 16.00% | ~418 |
@@ -22,18 +22,18 @@ Rating: 4.12 (Ranked 962)
 | Enlightenment | 14.00% | ~366 |
 | Hero inspection | 14.00% | ~366 |
 | Lieutenant | 14.00% | ~366 |
-| Milestone collector | 12.00% | ~313 |
-| Mysterious Rock | 12.00% | ~313 |
-| Natural Talent | 12.00% | ~313 |
-| Superior | 12.00% | ~313 |
-| The Unstoppable | 12.00% | ~313 |
-| Scientist | 11.00% | ~287 |
-| Challenger | 10.00% | ~261 |
-| Daily Quest Completionist | 10.00% | ~261 |
-| Doing My Part | 10.00% | ~261 |
-| Hunter | 10.00% | ~261 |
-| Mastery | 10.00% | ~261 |
-| The power of Awakening | 10.00% | ~261 |
+| Milestone collector | 12.00% | ~314 |
+| Mysterious Rock | 12.00% | ~314 |
+| Natural Talent | 12.00% | ~314 |
+| Superior | 12.00% | ~314 |
+| The Unstoppable | 12.00% | ~314 |
+| Scientist | 11.00% | ~288 |
+| Challenger | 10.00% | ~262 |
+| Daily Quest Completionist | 10.00% | ~262 |
+| Doing My Part | 10.00% | ~262 |
+| Hunter | 10.00% | ~262 |
+| Mastery | 10.00% | ~262 |
+| The power of Awakening | 10.00% | ~262 |
 | Four Leaf Clover | 9.00% | ~235 |
 | Frostfire Liberator | 9.00% | ~235 |
 | Moving Up The Ladder | 9.00% | ~235 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 962)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,612 (Ranked 215)  
+Progressed: 2,615 (Ranked 215)  
 Completed: 2 (0.08%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2 (0.08%) (Ranked 295)
 | 2023-11-21 | 2,525 | 2 |
 | 2023-11-22 | 2,554 | 2 |
 | 2023-11-23 | 2,599 | 2 |
-| 2023-11-24 | 2,612 | 2 |
+| 2023-11-24 | 2,615 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 484)  
 Sum: 110 (Ranked 442)  

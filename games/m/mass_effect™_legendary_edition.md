@@ -79,11 +79,11 @@
 | First Aid Specialist | 26.00% | ~358 |
 | A House Divided | 26.00% | ~358 |
 | World Shaker | 25.00% | ~344 |
+| Weapon Specialist | 24.00% | ~330 |
 | Pathfinder | 24.00% | ~330 |
 | Tunnel Rat | 24.00% | ~330 |
 | Liberator | 24.00% | ~330 |
 | Savior | 23.00% | ~316 |
-| Weapon Specialist | 23.00% | ~316 |
 | Arbiter | 23.00% | ~316 |
 | Lost and Found | 22.00% | ~303 |
 | Paramour II | 21.00% | ~289 |

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -342,6 +342,11 @@
       "Time": "2023-11-24T05:08:52.0068089+00:00",
       "NumProgressed": 168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T06:08:46.7260105+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -416,9 +421,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -458,7 +463,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -466,15 +471,15 @@
       "Name": "Speed Demon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -673,14 +678,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 169,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:08:52.0068084+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:08:46.7260101+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:58:42.7351105+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:08:52.0068395+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:59:04.6712425+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:08:46.7260474+00:00"
 }

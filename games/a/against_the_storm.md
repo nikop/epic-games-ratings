@@ -33,15 +33,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 4.00% | ~697 |
 | Corrosive Torrent | 4.00% | ~697 |
 | Cursed Lands | 4.00% | ~697 |
-| Serving Ale | 3.00% | ~522 |
-| Refinery | 3.00% | ~522 |
-| Dangerous Lands | 3.00% | ~522 |
-| Fishmen Ritual Site | 3.00% | ~522 |
-| Forbidden Lands | 3.00% | ~522 |
-| Forsaken Gods Temple | 3.00% | ~522 |
-| Like a Machine | 3.00% | ~522 |
-| Defying the Crown | 3.00% | ~522 |
-| Into the Forest | 3.00% | ~522 |
+| Serving Ale | 3.00% | ~523 |
+| Refinery | 3.00% | ~523 |
+| Dangerous Lands | 3.00% | ~523 |
+| Fishmen Ritual Site | 3.00% | ~523 |
+| Forbidden Lands | 3.00% | ~523 |
+| Forsaken Gods Temple | 3.00% | ~523 |
+| Like a Machine | 3.00% | ~523 |
+| Defying the Crown | 3.00% | ~523 |
+| Into the Forest | 3.00% | ~523 |
 | Feeding The People | 2.00% | ~348 |
 | Efficient Explorer | 2.00% | ~348 |
 | Victory through Prosperity | 2.00% | ~348 |
@@ -50,14 +50,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 1.00% | ~174 |
 | Human Utopia | 0.90% | ~157 |
 | Beaver Utopia | 0.70% | ~122 |
-| The Queen's Chosen | 0.60% | ~104 |
+| The Queen's Chosen | 0.60% | ~105 |
 | Harpy Utopia | 0.50% | ~87 |
 | Ruins | 0.50% | ~87 |
 | Treasure | 0.40% | ~70 |
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,416 (Ranked 146)  
+Progressed: 17,417 (Ranked 146)  
 Completed: 56 (0.32%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 56 (0.32%) (Ranked 232)
 | 2023-11-21 | 17,370 | 56 |
 | 2023-11-22 | 17,396 | 56 |
 | 2023-11-23 | 17,412 | 56 |
-| 2023-11-24 | 17,416 | 56 |
+| 2023-11-24 | 17,417 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 440  (Ranked 222)  
 Sum: 3,230 (Ranked 172)  

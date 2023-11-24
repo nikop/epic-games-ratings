@@ -28,11 +28,11 @@ Rating: 4.08 (Ranked 971)
 | Hey, thanks! | 4.00% | ~148 |
 | Murderous Mascot Mayhem | 3.00% | ~111 |
 | New Business | 0.90% | ~33 |
-| Okay, Vain Much? | 0.50% | ~18 |
+| Okay, Vain Much? | 0.50% | ~19 |
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,700 (Ranked 200)  
+Progressed: 3,701 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,6 +191,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-19 | 3,697 | 0 |
 | 2023-11-20 | 3,699 | 0 |
 | 2023-11-23 | 3,700 | 0 |
+| 2023-11-24 | 3,701 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

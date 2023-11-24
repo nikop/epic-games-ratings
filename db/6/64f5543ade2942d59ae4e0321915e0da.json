@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Completed": 121,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -219,6 +219,11 @@
       "Time": "2023-11-23T22:04:57.6087249+00:00",
       "NumProgressed": 42,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T06:06:10.308649+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -245,7 +250,7 @@
       "ID": "AC_ALL_MONEYSACKS",
       "SetID": "16i2akc",
       "Name": "Bowels",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -269,7 +274,7 @@
       "ID": "AC_ALL_WEAPONS",
       "SetID": "16i2akc",
       "Name": "Arsenal",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -293,7 +298,7 @@
       "ID": "AC_BLACKJACK_GAMES_2",
       "SetID": "16i2akc",
       "Name": "Ludopath",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -301,7 +306,7 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -309,7 +314,7 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -341,7 +346,7 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -373,7 +378,7 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -397,7 +402,7 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -405,7 +410,7 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -413,7 +418,7 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 45,
       "UsersEstimate": 13
     },
@@ -421,7 +426,7 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -429,7 +434,7 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 25,
       "UsersEstimate": 23
     },
@@ -445,7 +450,7 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -453,7 +458,7 @@
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -485,7 +490,7 @@
       "ID": "AC_MONEY_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Winner",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -533,7 +538,7 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -549,7 +554,7 @@
       "ID": "AC_SNIPER_MAX",
       "SetID": "16i2akc",
       "Name": "Crosshair",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -557,7 +562,7 @@
       "ID": "AC_UZI_MAX",
       "SetID": "16i2akc",
       "Name": "Machine",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 4
     }
@@ -566,14 +571,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:05:23.8975022+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:06:10.3086486+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.647609+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:57:25.043759+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:05:23.8975366+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:57:12.6267702+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:06:10.3086721+00:00"
 }

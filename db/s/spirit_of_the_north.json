@@ -333,7 +333,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74993,
+  "EOS_Progressed": 74994,
   "EOS_Completed": 399,
   "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 6,
@@ -24293,6 +24293,11 @@
       "Time": "2023-11-24T04:08:44.1445499+00:00",
       "NumProgressed": 74993,
       "NumCompleted": 399
+    },
+    {
+      "Time": "2023-11-24T06:09:30.354955+00:00",
+      "NumProgressed": 74994,
+      "NumCompleted": 399
     }
   ],
   "TotalAchievements": 24,
@@ -24312,7 +24317,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16498
+      "UsersEstimate": 16499
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -24320,7 +24325,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50995
+      "UsersEstimate": 50996
     },
     {
       "ID": "BEST_FRIENDS",
@@ -24328,7 +24333,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16498
+      "UsersEstimate": 16499
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -24384,7 +24389,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39746
+      "UsersEstimate": 39747
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -24400,7 +24405,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5999
+      "UsersEstimate": 6000
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -24416,7 +24421,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5999
+      "UsersEstimate": 6000
     },
     {
       "ID": "OLD_COMPANION",
@@ -24440,7 +24445,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5999
+      "UsersEstimate": 6000
     },
     {
       "ID": "SPIRIT_BARK",
@@ -24495,7 +24500,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74993,
+      "Progressed": 74994,
       "Completed": 399
     }
   ],
@@ -24503,8 +24508,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-24T05:09:24.6820001+00:00",
+  "LastChanged_Achievements": "2023-11-24T06:09:30.3549547+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:11.1118359+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:58:23.3864378+00:00",
-  "LastUpdate_Achievements": "2023-11-24T05:09:24.6821754+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:58:36.4404063+00:00",
+  "LastUpdate_Achievements": "2023-11-24T06:09:30.3550715+00:00"
 }
