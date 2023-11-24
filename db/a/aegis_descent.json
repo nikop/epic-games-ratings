@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 421,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -395,6 +395,11 @@
       "Time": "2023-11-20T02:27:02.2657176+00:00",
       "NumProgressed": 420,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T04:04:47.1331878+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -446,15 +451,15 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "Award_DeathFromAbove",
       "SetID": "9ojec6n",
       "Name": "Death from Above",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 143
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -478,7 +483,7 @@
       "Name": "DocKing",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Award_EarlyBird",
@@ -518,7 +523,7 @@
       "Name": "Gunner",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Award_HalfwayThere",
@@ -542,7 +547,7 @@
       "Name": "Hazardous Duty",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Award_HeavyMetal",
@@ -582,7 +587,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -757,7 +762,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 1
     }
   ],
@@ -765,8 +770,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:06:05.2719665+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:04:47.1331876+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:07.6510615+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:58:28.1349628+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:06:05.2719939+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:57:46.6075006+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:04:47.1332118+00:00"
 }

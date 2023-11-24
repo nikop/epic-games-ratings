@@ -20,7 +20,7 @@ Rating: 4.56 (Ranked 491)
 | Spore Taste | 4.00% | ~614 |
 | Martian Music | 4.00% | ~614 |
 | Call it Even | 4.00% | ~614 |
-| Keep Arjun in Check | 4.00% | ~52 |
+| Keep Arjun in Check | 4.00% | ~53 |
 | Data Archivist | 3.00% | ~461 |
 | Heal Thy Medic | 3.00% | ~461 |
 | Khan's Revenge | 3.00% | ~461 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,358 (Ranked 152)  
+Progressed: 15,361 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-21 | 15,203 | 35 |
 | 2023-11-22 | 15,266 | 35 |
 | 2023-11-23 | 15,346 | 35 |
-| 2023-11-24 | 15,358 | 35 |
+| 2023-11-24 | 15,361 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

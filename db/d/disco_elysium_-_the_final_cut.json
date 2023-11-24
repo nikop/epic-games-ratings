@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1484,7 +1484,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131125,
+  "EOS_Progressed": 131126,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
@@ -22749,6 +22749,11 @@
       "Time": "2023-11-24T03:05:51.9291644+00:00",
       "NumProgressed": 131125,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-24T04:04:37.8267993+00:00",
+      "NumProgressed": 131126,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22792,7 +22797,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23602
+      "UsersEstimate": 23603
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22800,7 +22805,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "ACH_COP_BORING",
@@ -22880,7 +22885,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -22912,7 +22917,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "ACH_DOLORES",
@@ -22920,7 +22925,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13112
+      "UsersEstimate": 13113
     },
     {
       "ID": "ACH_GLUTEN",
@@ -23048,7 +23053,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -23079,15 +23084,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131125,
+      "Progressed": 131126,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-21T09:00:02.2217381+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:05:51.9291639+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:04:37.8267992+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:02:40.2089085+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:05:51.929274+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:00:05.1711173+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:04:37.8268942+00:00"
 }

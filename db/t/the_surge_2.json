@@ -6,9 +6,9 @@
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -3459,9 +3459,9 @@
       "ID": "ACHV_27",
       "SetID": "8p5mlmc",
       "Name": "High Performance",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 664
+      "UsersEstimate": 686
     },
     {
       "ID": "ACHV_28",
@@ -3716,8 +3716,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:06:38.3490641+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:05:10.8774824+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:00.2297931+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:02:44.2206721+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:06:38.3491228+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:02:27.6394828+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:05:10.8775277+00:00"
 }

@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15358,
+  "EOS_Progressed": 15361,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12062,6 +12062,11 @@
       "Time": "2023-11-24T03:06:04.2536773+00:00",
       "NumProgressed": 15358,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-24T04:04:46.3711361+00:00",
+      "NumProgressed": 15361,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12314,7 +12319,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "32",
@@ -12353,13 +12358,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15358,
+      "Progressed": 15361,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1312,
+      "Progressed": 1315,
       "Completed": 693
     }
   ],
@@ -12367,8 +12372,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:06:04.2536768+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:04:46.3711359+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:57:49.0316744+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:06:04.2537564+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:57:19.2460251+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:04:46.3712123+00:00"
 }

@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,616 (Ranked 64)  
+Progressed: 236,626 (Ranked 64)  
 Completed: 2,472 (1.04%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -757,16 +757,16 @@ Completed: 2,472 (1.04%) (Ranked 163)
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
 | 2023-11-23 | 236,580 | 2,472 |
-| 2023-11-24 | 236,616 | 2,472 |
+| 2023-11-24 | 236,626 | 2,472 |
 ## Awards
 Max (Great for Beginners): 5,559  (Ranked 70)  
-Sum: 32,590 (Ranked 41)  
+Sum: 32,592 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,559 |
 | This game has Diverse Characters | 5,533 |
-| This game has Quickly Understood Controls | 4,818 |
+| This game has Quickly Understood Controls | 4,820 |
 | This game is Relaxing | 4,712 |
 | This game has Amazing Characters | 4,223 |
 | This game is Highly Recommended | 4,215 |
@@ -1076,3 +1076,4 @@ Diff (max vs sum): 29
 | 2023-11-21 | 4.06 | - | 5,549 | 32,557 |
 | 2023-11-22 | 4.06 | - | 5,556 | 32,575 |
 | 2023-11-23 | 4.06 | - | 5,559 | 32,590 |
+| 2023-11-24 | 4.06 | - | 5,559 | 32,592 |

@@ -6,8 +6,8 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 41.00% | ~5,533 |
-| It's a good start | 10.00% | ~1,349 |
+| Bye Bye | 41.00% | ~5,534 |
+| It's a good start | 10.00% | ~1,350 |
 | Bonjour! | 8.00% | ~1,080 |
 | Quack | 7.00% | ~945 |
 | The Assistant | 6.00% | ~810 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~13 |
 | Master Winemaker | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,494 (Ranked 156)  
+Progressed: 13,497 (Ranked 156)  
 Completed: 12 (0.09%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,16 +129,16 @@ Completed: 12 (0.09%) (Ranked 288)
 | 2023-11-21 | 13,246 | 11 |
 | 2023-11-22 | 13,364 | 12 |
 | 2023-11-23 | 13,485 | 12 |
-| 2023-11-24 | 13,494 | 12 |
+| 2023-11-24 | 13,497 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 285)  
-Sum: 1,728 (Ranked 220)  
+Sum: 1,729 (Ranked 220)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 207 |
 | This game is Extremely Fun | 204 |
-| This game has Quickly Understood Controls | 202 |
+| This game has Quickly Understood Controls | 203 |
 | This game is Great for Beginners | 200 |
 | This game is Highly Recommended | 194 |
 | This game is Educational | 179 |
@@ -214,3 +214,4 @@ Diff (max vs sum): 65
 | 2023-11-07 | 4.35 | - | 206 | 1,725 |
 | 2023-11-14 | 4.35 | - | 207 | 1,726 |
 | 2023-11-22 | 4.35 | - | 207 | 1,728 |
+| 2023-11-24 | 4.35 | - | 207 | 1,729 |

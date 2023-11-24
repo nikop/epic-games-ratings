@@ -18,29 +18,29 @@ Number of Ratings: 892  (23.09.2022)
 | Pack Mule | 59.00% | ~266 |
 | Diamonds are Forever | 59.00% | ~266 |
 | Unboxing | 55.00% | ~248 |
+| Super Spelunker | 54.00% | ~244 |
 | First Love | 54.00% | ~244 |
-| Super Spelunker | 53.00% | ~239 |
 | Chatterbox | 50.00% | ~226 |
 | Big Game Hunter | 49.00% | ~221 |
 | I Do! | 49.00% | ~221 |
+| Got Served | 48.00% | ~216 |
 | You Don't Win Friends With Salad | 48.00% | ~216 |
 | Financially Secure | 47.00% | ~212 |
 | Happier-est Place on Earth | 47.00% | ~212 |
-| Got Served | 47.00% | ~212 |
 | Builder of the Month | 45.00% | ~203 |
 | Call Me Fishmael | 45.00% | ~203 |
 | Commissions, commissions...! | 44.00% | ~198 |
 | Anti-Santa | 43.00% | ~194 |
+| Panda-kin | 42.00% | ~189 |
+| Finishing Touches | 42.00% | ~189 |
+| Martle's Dream | 42.00% | ~189 |
 | What Plants Crave | 42.00% | ~189 |
 | Mole Masher | 42.00% | ~189 |
 | Waste Not Want Not | 42.00% | ~189 |
-| Panda-kin | 41.00% | ~185 |
-| Finishing Touches | 41.00% | ~185 |
 | Better Late than Never | 41.00% | ~185 |
-| Martle's Dream | 41.00% | ~185 |
 | Bridging the Gap | 40.00% | ~180 |
+| The Little Wood that Could | 40.00% | ~180 |
 | Knowledge is Power | 39.00% | ~176 |
-| The Little Wood that Could | 39.00% | ~176 |
 | Officially Official | 39.00% | ~176 |
 | Elementary, My Dear | 39.00% | ~176 |
 | My Time Mansion | 37.00% | ~167 |

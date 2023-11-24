@@ -6837,10 +6837,10 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 723504,
-  "EOS_Completed": 2428,
-  "EOS_NewPlayers": 4060,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 723526,
+  "EOS_Completed": 2429,
+  "EOS_NewPlayers": 4065,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -31737,6 +31737,11 @@
       "Time": "2023-11-24T03:06:13.4701629+00:00",
       "NumProgressed": 723504,
       "NumCompleted": 2428
+    },
+    {
+      "Time": "2023-11-24T04:04:52.9300905+00:00",
+      "NumProgressed": 723526,
+      "NumCompleted": 2429
     }
   ],
   "TotalAchievements": 51,
@@ -32084,7 +32089,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14470
+      "UsersEstimate": 14471
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32116,7 +32121,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "ach_gardening_tools",
@@ -32155,22 +32160,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723504,
-      "Completed": 2428
+      "Progressed": 723526,
+      "Completed": 2429
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 49046,
-      "Completed": 36589
+      "Progressed": 49068,
+      "Completed": 36591
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-24T02:59:16.8435969+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:06:13.4701625+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:04:52.9300903+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:59:16.8435977+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:06:13.4703144+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:58:18.5687013+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:04:52.9302427+00:00"
 }

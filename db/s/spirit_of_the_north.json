@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74992,
+  "EOS_Progressed": 74993,
   "EOS_Completed": 399,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -24288,6 +24288,11 @@
       "Time": "2023-11-24T03:09:32.1734071+00:00",
       "NumProgressed": 74992,
       "NumCompleted": 399
+    },
+    {
+      "Time": "2023-11-24T04:08:44.1445499+00:00",
+      "NumProgressed": 74993,
+      "NumCompleted": 399
     }
   ],
   "TotalAchievements": 24,
@@ -24339,7 +24344,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15748
+      "UsersEstimate": 15749
     },
     {
       "ID": "FETCH",
@@ -24443,7 +24448,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15748
+      "UsersEstimate": 15749
     },
     {
       "ID": "SPIRIT_DASH",
@@ -24490,7 +24495,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74992,
+      "Progressed": 74993,
       "Completed": 399
     }
   ],
@@ -24498,8 +24503,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:09:32.1734068+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:08:44.1445497+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:11.1118359+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:58:48.8129447+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:09:32.1735137+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:57:59.7651113+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:08:44.1446828+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "eiyuden-chronicle-hundred-heroes",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2024-04-23T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T20:59:38.7730257+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:59:19.68875+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:10:07.6339703+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:58:20.4228593+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:09:09.2155752+00:00"
 }

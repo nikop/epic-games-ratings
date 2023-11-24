@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~447,367 |
-| The Three | 64.00% | ~344,957 |
-| The Banquet | 40.00% | ~215,598 |
-| Devara's Light | 31.00% | ~167,089 |
-| The Iron Ones | 19.00% | ~102,409 |
-| The Village | 17.00% | ~91,629 |
-| The Forest | 15.00% | ~80,849 |
-| The Keep | 14.00% | ~75,459 |
-| Branded | 13.00% | ~70,069 |
-| The Imposter | 13.00% | ~70,069 |
+| Find Sanctuary | 83.00% | ~447,369 |
+| The Three | 64.00% | ~344,959 |
+| The Banquet | 40.00% | ~215,600 |
+| Devara's Light | 31.00% | ~167,090 |
+| The Iron Ones | 19.00% | ~102,410 |
+| The Village | 17.00% | ~91,630 |
+| The Forest | 15.00% | ~80,850 |
+| The Keep | 14.00% | ~75,460 |
+| Branded | 13.00% | ~70,070 |
+| The Imposter | 13.00% | ~70,070 |
 | The Castle | 11.00% | ~59,290 |
 | The Dome | 9.00% | ~48,510 |
 | The Red Hall | 9.00% | ~48,510 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,780 |
 | Fading Fast | 1.00% | ~5,390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 538,996 (Ranked 34)  
+Progressed: 538,999 (Ranked 34)  
 Completed: 1,621 (0.30%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,10 +262,10 @@ Completed: 1,621 (0.30%) (Ranked 236)
 | 2023-11-21 | 538,831 | 1,619 |
 | 2023-11-22 | 538,916 | 1,621 |
 | 2023-11-23 | 538,984 | 1,621 |
-| 2023-11-24 | 538,996 | 1,621 |
+| 2023-11-24 | 538,999 | 1,621 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 256)  
-Sum: 1,997 (Ranked 213)  
+Sum: 1,998 (Ranked 213)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -274,7 +274,7 @@ Diff (max vs sum): 43
 | This game has Quickly Understood Controls | 263 |
 | This game has Diverse Characters | 245 |
 | This game is Extremely Fun | 244 |
-| This game has Amazing Storytelling | 234 |
+| This game has Amazing Storytelling | 235 |
 | This game has Amazing Characters | 230 |
 | This game has Unique Visuals | 224 |
 | This game has Obsessive Gameplay | 164 |
@@ -465,3 +465,4 @@ Diff (max vs sum): 43
 | 2023-11-12 | 4.61 | - | 293 | 1,992 |
 | 2023-11-17 | 4.61 | - | 293 | 1,993 |
 | 2023-11-18 | 4.61 | - | 293 | 1,997 |
+| 2023-11-24 | 4.61 | - | 293 | 1,998 |

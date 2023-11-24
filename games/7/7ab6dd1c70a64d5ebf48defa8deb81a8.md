@@ -16,9 +16,9 @@
 | Break Out | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
 | Stone Collection | 6.00% | ~12 |
+| Calm before the Storm | 5.00% | ~10 |
 | Tributes of Caladrias | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
-| Calm before the Storm | 4.00% | ~8 |
 | Shatter Them All | 4.00% | ~8 |
 | Essence Blow | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |

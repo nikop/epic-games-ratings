@@ -7177,10 +7177,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141294,
-  "EOS_Completed": 199,
+  "EOS_Progressed": 141306,
+  "EOS_Completed": 200,
   "EOS_NewPlayers": 1177,
-  "EOS_NewCompleters": 12,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -29622,6 +29622,11 @@
       "Time": "2023-11-24T03:08:31.9699207+00:00",
       "NumProgressed": 141294,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-11-24T04:08:00.8883402+00:00",
+      "NumProgressed": 141306,
+      "NumCompleted": 200
     }
   ],
   "TotalAchievements": 112,
@@ -29849,7 +29854,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "collection05",
@@ -30383,9 +30388,9 @@
       "ID": "rareres02",
       "SetID": "anfd17p",
       "Name": "Treasure Trove",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1272
     },
     {
       "ID": "rareres03",
@@ -30528,15 +30533,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141294,
-      "Completed": 199
+      "Progressed": 141306,
+      "Completed": 200
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-24T01:47:37.4172495+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:08:31.9699203+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:08:00.88834+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:03:09.3027158+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:08:31.9701235+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:02:44.3388891+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:08:00.8885276+00:00"
 }

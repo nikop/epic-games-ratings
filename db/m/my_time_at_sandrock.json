@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1664,7 +1664,7 @@
   ],
   "EOS_Progressed": 451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4056,9 +4056,9 @@
       "ID": "C_STAYUP",
       "SetID": "80dcan0",
       "Name": "Panda-kin",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "C_YEAR",
@@ -4096,9 +4096,9 @@
       "ID": "F_RUIN_S_ALL",
       "SetID": "80dcan0",
       "Name": "Super Spelunker",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 244
     },
     {
       "ID": "M_ASSEMBLER_DIAGRAM",
@@ -4176,9 +4176,9 @@
       "ID": "P_BEAUTIFYSANDROCK",
       "SetID": "80dcan0",
       "Name": "Finishing Touches",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "P_BRIDGE",
@@ -4200,17 +4200,17 @@
       "ID": "P_ENVIRONMENT",
       "SetID": "80dcan0",
       "Name": "Martle\u0027s Dream",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "P_FOREST",
       "SetID": "80dcan0",
       "Name": "The Little Wood that Could",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "P_HYDROGEL",
@@ -4336,9 +4336,9 @@
       "ID": "S_DANCE",
       "SetID": "80dcan0",
       "Name": "Got Served",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 216
     },
     {
       "ID": "S_FRIEND",
@@ -4520,8 +4520,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-23T16:01:12.8340711+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:04:22.4716285+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:03:34.8892775+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:18.4533523+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:01:38.9401386+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:04:22.4716784+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:59:51.9601169+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:03:34.8893236+00:00"
 }

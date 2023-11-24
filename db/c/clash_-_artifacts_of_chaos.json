@@ -3,9 +3,9 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 420,
-  "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -321,6 +321,11 @@
       "Time": "2023-11-23T21:10:14.3417756+00:00",
       "NumProgressed": 114,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T04:09:15.3082845+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -346,9 +351,9 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement12",
@@ -388,21 +393,21 @@
       "Name": "The Bigger They Are",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 78
+      "UsersEstimate": 77
     },
     {
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 90,
       "UsersEstimate": 36
     },
@@ -418,9 +423,9 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement20",
@@ -436,13 +441,13 @@
       "Name": "Stilt House",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
       "UsersEstimate": 36
     },
@@ -466,9 +471,9 @@
       "ID": "Achievement6",
       "SetID": "jf6ho5",
       "Name": "Total Eclipse",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement7",
@@ -499,7 +504,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 1
     }
   ],
@@ -507,8 +512,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:10:16.1509862+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:09:15.3082843+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:57.1780056+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:00:06.848831+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:10:16.1509969+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:58:51.2884817+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:09:15.3082973+00:00"
 }

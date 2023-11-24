@@ -7,19 +7,19 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~259,068 |
-| Cavalier | 25.00% | ~202,396 |
+| Cavalier | 25.00% | ~202,397 |
 | Fatso | 23.00% | ~186,205 |
-| Awakening | 21.00% | ~170,013 |
-| Ranger | 20.00% | ~161,917 |
-| Scrooge | 20.00% | ~161,917 |
+| Awakening | 21.00% | ~170,014 |
+| Ranger | 20.00% | ~161,918 |
+| Scrooge | 20.00% | ~161,918 |
 | Anorectic | 16.00% | ~129,534 |
 | Bookworm | 15.00% | ~121,438 |
 | Firestarter | 15.00% | ~121,438 |
-| Insomniac | 13.00% | ~105,246 |
-| Buddy | 12.00% | ~97,150 |
-| Thief | 12.00% | ~97,150 |
-| Sinner | 11.00% | ~89,054 |
-| Traveller | 11.00% | ~89,054 |
+| Insomniac | 13.00% | ~105,247 |
+| Buddy | 12.00% | ~97,151 |
+| Thief | 12.00% | ~97,151 |
+| Sinner | 11.00% | ~89,055 |
+| Traveller | 11.00% | ~89,055 |
 | Convict | 10.00% | ~80,959 |
 | Haggler | 9.00% | ~72,863 |
 | McLovin | 7.00% | ~56,671 |
@@ -28,9 +28,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bad Trip | 5.00% | ~40,479 |
 | Monk | 5.00% | ~40,479 |
 | Serial Killer | 5.00% | ~40,479 |
-| Bastard | 4.00% | ~32,383 |
-| Hunter | 4.00% | ~32,383 |
-| Plague Doctor | 4.00% | ~32,383 |
+| Bastard | 4.00% | ~32,384 |
+| Hunter | 4.00% | ~32,384 |
+| Plague Doctor | 4.00% | ~32,384 |
 | Bard | 3.00% | ~24,288 |
 | Conqueror | 3.00% | ~24,288 |
 | Ginger in a Pickle | 3.00% | ~24,288 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~810 |
 | Wingman | 0.10% | ~810 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,586 (Ranked 17)  
+Progressed: 809,589 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 51 (0.01%) (Ranked 337)
 | 2023-11-21 | 809,319 | 51 |
 | 2023-11-22 | 809,432 | 51 |
 | 2023-11-23 | 809,566 | 51 |
-| 2023-11-24 | 809,586 | 51 |
+| 2023-11-24 | 809,589 | 51 |
 ## Awards
 Max (Character Customization): 7,623  (Ranked 51)  
 Sum: 28,324 (Ranked 49)  

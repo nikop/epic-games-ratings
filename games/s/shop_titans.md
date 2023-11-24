@@ -80,6 +80,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.90% | ~1,272 |
 | Attrition Mission | 0.90% | ~1,272 |
 | Glittering Collection | 0.90% | ~1,272 |
+| Treasure Trove | 0.90% | ~1,272 |
 | Master Recycler | 0.90% | ~1,272 |
 | Exotic Commodities | 0.90% | ~1,272 |
 | King's Blade | 0.90% | ~1,272 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Item of Renown | 0.80% | ~1,130 |
 | Bountiful Harvest | 0.80% | ~1,130 |
 | Precision Engineering | 0.80% | ~1,130 |
-| Treasure Trove | 0.80% | ~1,130 |
 | Moment of Respite | 0.80% | ~1,130 |
 | King's Shadow | 0.80% | ~1,130 |
 | Economy of Scarce | 0.70% | ~989 |
@@ -104,7 +104,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.60% | ~848 |
 | Eternal Crusade | 0.60% | ~848 |
 | All Accounted For | 0.60% | ~848 |
-| The Free Encyclopedia | 0.50% | ~706 |
+| The Free Encyclopedia | 0.50% | ~707 |
 | The Greatest Grind | 0.40% | ~565 |
 | All or Nothing! | 0.40% | ~565 |
 | Marvels from the World Over | 0.40% | ~565 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,294 (Ranked 80)  
-Completed: 199 (0.14%) (Ranked 270)  
+Progressed: 141,306 (Ranked 80)  
+Completed: 200 (0.14%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,7 +337,7 @@ Completed: 199 (0.14%) (Ranked 270)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,294 | 199 |
+| 2023-11-24 | 141,306 | 200 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,585 (Ranked 50)  

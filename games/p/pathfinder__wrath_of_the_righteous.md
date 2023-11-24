@@ -14,7 +14,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Banner over the Citadel | 14.00% | ~1,702 |
 | Queen's Gratitude | 12.00% | ~1,459 |
 | Fifth Crusade | 8.00% | ~973 |
-| Embrace of the Abyss | 6.00% | ~730 |
+| Embrace of the Abyss | 7.00% | ~851 |
 | Path of the Angel | 6.00% | ~730 |
 | Great Upstart | 6.00% | ~730 |
 | Demonic and Divine | 6.00% | ~730 |

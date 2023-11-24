@@ -16,8 +16,8 @@
 | Mega Kill | 24.00% | ~17 |
 | Almost There I | 20.00% | ~14 |
 | Stoic | 19.00% | ~13 |
+| Galactic Cadet | 17.00% | ~12 |
 | Omicron Alpha | 16.00% | ~11 |
-| Galactic Cadet | 16.00% | ~11 |
 | Bronze Prince of Ball-air | 13.00% | ~9 |
 | Pacifist | 13.00% | ~9 |
 | Collateral Damage I | 13.00% | ~9 |

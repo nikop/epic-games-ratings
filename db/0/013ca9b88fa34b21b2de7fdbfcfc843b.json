@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7976,
+  "EOS_Progressed": 7977,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7326,6 +7326,11 @@
       "Time": "2023-11-24T03:10:13.9860526+00:00",
       "NumProgressed": 7976,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T04:09:13.715899+00:00",
+      "NumProgressed": 7977,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7346,7 +7351,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5663
+      "UsersEstimate": 5664
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7370,7 +7375,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -7442,7 +7447,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3908
+      "UsersEstimate": 3909
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7490,7 +7495,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7498,7 +7503,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -7554,7 +7559,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -7617,22 +7622,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7976,
+      "Progressed": 7977,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 593,
-      "Completed": 593
+      "Progressed": 594,
+      "Completed": 594
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-24T03:10:13.9860522+00:00",
+  "LastChanged_Achievements": "2023-11-24T04:09:13.7158987+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:03:21.6311371+00:00",
-  "LastUpdate_Achievements": "2023-11-24T03:10:13.9861+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:02:52.3549595+00:00",
+  "LastUpdate_Achievements": "2023-11-24T04:09:13.7159579+00:00"
 }

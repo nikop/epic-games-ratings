@@ -6,26 +6,26 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,511 |
-| Student | 22.00% | ~12,188 |
-| Knower | 16.00% | ~8,864 |
-| Aspen Tree | 14.00% | ~7,756 |
-| Healer | 14.00% | ~7,756 |
-| Listener | 14.00% | ~7,756 |
-| Soldier | 12.00% | ~6,648 |
-| Scientist | 11.00% | ~6,094 |
-| Cow Level | 10.00% | ~5,540 |
-| Water | 10.00% | ~5,540 |
-| Old Friend | 9.00% | ~4,986 |
-| Herbalist | 9.00% | ~4,986 |
-| New Spirits | 9.00% | ~4,986 |
-| Voipel | 9.00% | ~4,986 |
-| Black Mage | 9.00% | ~4,986 |
-| Card Player | 8.00% | ~4,432 |
-| Dead Friend | 8.00% | ~4,432 |
-| Pine Tree | 8.00% | ~4,432 |
-| Collector | 8.00% | ~4,432 |
-| Wolf | 8.00% | ~4,432 |
+| Initiation | 28.00% | ~15,514 |
+| Student | 22.00% | ~12,190 |
+| Knower | 16.00% | ~8,865 |
+| Aspen Tree | 14.00% | ~7,757 |
+| Healer | 14.00% | ~7,757 |
+| Listener | 14.00% | ~7,757 |
+| Soldier | 12.00% | ~6,649 |
+| Scientist | 11.00% | ~6,095 |
+| Cow Level | 10.00% | ~5,541 |
+| Water | 10.00% | ~5,541 |
+| Old Friend | 9.00% | ~4,987 |
+| Herbalist | 9.00% | ~4,987 |
+| New Spirits | 9.00% | ~4,987 |
+| Voipel | 9.00% | ~4,987 |
+| Black Mage | 9.00% | ~4,987 |
+| Card Player | 8.00% | ~4,433 |
+| Dead Friend | 8.00% | ~4,433 |
+| Pine Tree | 8.00% | ~4,433 |
+| Collector | 8.00% | ~4,433 |
+| Wolf | 8.00% | ~4,433 |
 | Worthy | 7.00% | ~3,878 |
 | Black Book | 7.00% | ~3,878 |
 | Black Sorcerer | 7.00% | ~3,878 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,108 |
 | Word Master | 0.20% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,398 (Ranked 108)  
+Progressed: 55,407 (Ranked 108)  
 Completed: 54 (0.10%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 54 (0.10%) (Ranked 281)
 | 2023-11-21 | 54,904 | 53 |
 | 2023-11-22 | 55,133 | 54 |
 | 2023-11-23 | 55,367 | 54 |
-| 2023-11-24 | 55,398 | 54 |
+| 2023-11-24 | 55,407 | 54 |
 ## Awards
 Max (Character Customization): 89  (Ranked 380)  
 Sum: 89 (Ranked 455)  
