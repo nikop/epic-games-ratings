@@ -7,11 +7,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 6.00% | ~8,486 |
-| Basic in Bulk | 5.00% | ~7,071 |
-| Tinkle of Coins | 5.00% | ~7,071 |
-| Titan's First Steps | 5.00% | ~7,071 |
-| Disintermediation | 4.00% | ~5,657 |
-| Capitalism Ho! | 4.00% | ~5,657 |
+| Basic in Bulk | 5.00% | ~7,072 |
+| Tinkle of Coins | 5.00% | ~7,072 |
+| Titan's First Steps | 5.00% | ~7,072 |
+| Disintermediation | 4.00% | ~5,658 |
+| Capitalism Ho! | 4.00% | ~5,658 |
 | One Easy Payment | 3.00% | ~4,243 |
 | Some Assembly Required | 3.00% | ~4,243 |
 | Another Satisfied Customer | 3.00% | ~4,243 |
@@ -86,20 +86,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.90% | ~1,273 |
 | Necromancer Queen | 0.90% | ~1,273 |
 | Item of Renown | 0.90% | ~1,273 |
+| Bountiful Harvest | 0.90% | ~1,273 |
 | Precision Engineering | 0.90% | ~1,273 |
 | Treasure Trove | 0.90% | ~1,273 |
 | Master Recycler | 0.90% | ~1,273 |
 | King's Blade | 0.90% | ~1,273 |
-| Top of the World | 0.80% | ~1,131 |
-| Constellated | 0.80% | ~1,131 |
-| Thirst for Knowledge | 0.80% | ~1,131 |
-| Fillin' the Bin | 0.80% | ~1,131 |
-| Industrial Evolution | 0.80% | ~1,131 |
-| A Legend is Born | 0.80% | ~1,131 |
-| Bountiful Harvest | 0.80% | ~1,131 |
-| Moment of Respite | 0.80% | ~1,131 |
-| King's Shadow | 0.80% | ~1,131 |
-| Economy of Scarce | 0.80% | ~1,131 |
+| Top of the World | 0.80% | ~1,132 |
+| Constellated | 0.80% | ~1,132 |
+| Thirst for Knowledge | 0.80% | ~1,132 |
+| Fillin' the Bin | 0.80% | ~1,132 |
+| Industrial Evolution | 0.80% | ~1,132 |
+| A Legend is Born | 0.80% | ~1,132 |
+| Moment of Respite | 0.80% | ~1,132 |
+| King's Shadow | 0.80% | ~1,132 |
+| Economy of Scarce | 0.80% | ~1,132 |
 | Jackpot! | 0.70% | ~990 |
 | All Accounted For | 0.70% | ~990 |
 | The Free Encyclopedia | 0.60% | ~849 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,429 (Ranked 80)  
-Completed: 208 (0.15%) (Ranked 268)  
+Progressed: 141,439 (Ranked 80)  
+Completed: 209 (0.15%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,15 +337,15 @@ Completed: 208 (0.15%) (Ranked 268)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,429 | 208 |
+| 2023-11-24 | 141,439 | 209 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
-Sum: 27,587 (Ranked 50)  
+Sum: 27,589 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,842 |
-| This game is Relaxing | 4,044 |
+| This game is Relaxing | 4,046 |
 | This game has Quickly Understood Controls | 4,031 |
 | This game has Diverse Characters | 3,949 |
 | This game is Highly Recommended | 3,783 |
@@ -652,4 +652,4 @@ Diff (max vs sum): 25
 | 2023-11-20 | 3.99 | - | 4,836 | 27,570 |
 | 2023-11-21 | 3.99 | - | 4,837 | 27,572 |
 | 2023-11-22 | 3.99 | - | 4,839 | 27,581 |
-| 2023-11-24 | 3.99 | - | 4,842 | 27,587 |
+| 2023-11-24 | 3.99 | - | 4,842 | 27,589 |

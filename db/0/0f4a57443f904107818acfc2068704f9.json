@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 518,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1082,6 +1082,11 @@
       "Time": "2023-11-24T15:06:25.2159972+00:00",
       "NumProgressed": 517,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T16:06:39.0820775+00:00",
+      "NumProgressed": 518,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1124,9 +1129,9 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -1150,7 +1155,7 @@
       "Name": "Pathfinder",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "CompleteChapter10",
@@ -1228,9 +1233,9 @@
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 31
     },
     {
       "ID": "CompleteChapter2",
@@ -1238,7 +1243,7 @@
       "Name": "Met the Enemy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "CompleteChapter3",
@@ -1254,7 +1259,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CompleteChapter5",
@@ -1268,9 +1273,9 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "CompleteChapter7",
@@ -1364,9 +1369,9 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1389,14 +1394,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 518,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:06:25.2159967+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:06:39.0820771+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:58:53.6161589+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:06:25.2160273+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:58:56.7541883+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:06:39.0820997+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -776,9 +776,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5050,
+  "EOS_Progressed": 5051,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -9786,6 +9786,11 @@
       "Time": "2023-11-24T15:08:20.8174279+00:00",
       "NumProgressed": 5050,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T16:08:35.1179319+00:00",
+      "NumProgressed": 5051,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9846,7 +9851,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9918,7 +9923,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9981,15 +9986,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5050,
+      "Progressed": 5051,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:08:20.8174276+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:08:35.1179314+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:01:14.5379705+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:08:20.8175386+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:01:18.0680924+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:08:35.1179991+00:00"
 }

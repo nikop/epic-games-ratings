@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,10 +413,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24786,
+  "EOS_Progressed": 24790,
   "EOS_Completed": 472,
   "EOS_NewPlayers": 483,
-  "EOS_NewCompleters": 9,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
     {
@@ -23828,6 +23828,11 @@
       "Time": "2023-11-24T15:04:27.3434447+00:00",
       "NumProgressed": 24786,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-11-24T16:04:41.4818186+00:00",
+      "NumProgressed": 24790,
+      "NumCompleted": 472
     }
   ],
   "TotalAchievements": 20,
@@ -23847,7 +23852,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "EAST_FINISHED",
@@ -23855,7 +23860,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -23871,7 +23876,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -23895,7 +23900,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -23903,7 +23908,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "FOUND_ERIN",
@@ -23911,7 +23916,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -23935,7 +23940,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -23951,7 +23956,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "INTRO_FINISHED",
@@ -23959,7 +23964,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 19085
+      "UsersEstimate": 19088
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23967,7 +23972,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6692
+      "UsersEstimate": 6693
     },
     {
       "ID": "NORTH_FINISHED",
@@ -23975,7 +23980,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -23991,22 +23996,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24786,
+      "Progressed": 24790,
       "Completed": 472
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:04:27.3434442+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:04:41.4818181+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:58:26.2784177+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:04:27.3435747+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:58:29.5122344+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:04:41.4819387+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 876,
+  "EOS_Progressed": 877,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.42,
   "EosHistory": [
@@ -2838,6 +2838,11 @@
       "Time": "2023-11-24T14:03:24.1610037+00:00",
       "NumProgressed": 876,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-24T16:04:08.4022862+00:00",
+      "NumProgressed": 877,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2858,7 +2863,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "_03_FinishAct1",
@@ -2874,7 +2879,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "_05_FinishAct2",
@@ -2890,7 +2895,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "_07_FinishAct3",
@@ -2906,7 +2911,7 @@
       "Name": "Swabbie",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "_09_Completion_20",
@@ -2922,7 +2927,7 @@
       "Name": "Buccaneer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "_11_Completion_40",
@@ -3057,7 +3062,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 876,
+      "Progressed": 877,
       "Completed": 30
     }
   ],
@@ -3065,8 +3070,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:03:53.1261667+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:04:08.402286+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:59:33.6584482+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:03:53.1261983+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:59:36.4038797+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:04:08.40231+00:00"
 }

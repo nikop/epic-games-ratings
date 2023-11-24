@@ -1,7 +1,7 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -62,7 +62,7 @@ Number of Ratings: 401  (23.09.2022)
 | Ten Years at Zee | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41,099 (Ranked 118)  
-Completed: 4 (0.01%) (Ranked 337)  
+Completed: 4 (0.01%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,12 +281,12 @@ Completed: 4 (0.01%) (Ranked 337)
 | 2023-11-23 | 41,060 | 4 |
 | 2023-11-24 | 41,099 | 4 |
 ## Awards
-Max (Character Customization): 217  (Ranked 282)  
-Sum: 290 (Ranked 367)  
+Max (Character Customization): 218  (Ranked 282)  
+Sum: 291 (Ranked 367)  
 Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 217 |
+| This game has Inclusive Character Customization | 218 |
 | This game has Amazing Storytelling | 26 |
 | This game has Unique Visuals | 25 |
 | This game has Quickly Understood Controls | 22 |
@@ -392,3 +392,4 @@ Diff (max vs sum): -85
 | 2023-10-14 | 4.58 | - | 215 | 288 |
 | 2023-11-05 | 4.58 | - | 216 | 289 |
 | 2023-11-14 | 4.58 | - | 217 | 290 |
+| 2023-11-24 | 4.58 | - | 218 | 291 |

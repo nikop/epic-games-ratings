@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 62,
@@ -3460,9 +3460,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240152,
+  "EOS_Progressed": 240153,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26050,6 +26050,11 @@
       "Time": "2023-11-24T15:10:05.9249688+00:00",
       "NumProgressed": 240152,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-11-24T16:10:21.3948451+00:00",
+      "NumProgressed": 240153,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 138,
@@ -26107,9 +26112,9 @@
       "ID": "CURSEDPOTIONS",
       "SetID": "5l8oe0h",
       "Name": "Consecutive Curses",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 720
     },
     {
       "ID": "DAILY7",
@@ -27115,9 +27120,9 @@
       "ID": "KILLBOSSINDIRECTLY",
       "SetID": "1peahb6",
       "Name": "Not Touching You",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -27164,13 +27169,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240152,
+      "Progressed": 240153,
       "Completed": 290
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1632,
+      "Progressed": 1633,
       "Completed": 389
     }
   ],
@@ -27178,8 +27183,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-23T20:58:01.4117644+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:10:05.9249683+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:10:21.3948447+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:58:25.4429879+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:10:05.9252254+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:58:28.3938206+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:10:21.3950724+00:00"
 }

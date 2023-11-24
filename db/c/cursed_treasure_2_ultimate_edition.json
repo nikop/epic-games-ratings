@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -280,9 +280,9 @@
       "ID": "BADGE_BOSS_2_KILL",
       "SetID": "ak6pfjk",
       "Name": "Top of the World",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "BADGE_BOSS_3_KILL",
@@ -392,9 +392,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_7",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Free Coast",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_8",
@@ -480,9 +480,9 @@
       "ID": "BADGE_BUILDINGS_CAPTURE",
       "SetID": "ak6pfjk",
       "Name": "Takeover",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL",
@@ -512,17 +512,17 @@
       "ID": "BADGE_ENEMIES_FRIGHTEN",
       "SetID": "ak6pfjk",
       "Name": "Go Home!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "BADGE_ENEMIES_KILL",
       "SetID": "ak6pfjk",
       "Name": "The Apotheosis of War",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "BADGE_ENEMIES_USING_MINES_KILL",
@@ -656,17 +656,17 @@
       "ID": "BADGE_STASIS_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Stasis Alcatraz",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "BADGE_THUNDER_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Thunderstorm",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "BADGE_TOWER_UPGRADE",
@@ -697,8 +697,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:07:24.2885434+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:07:37.8501983+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:54.867623+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:59:46.8136407+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:07:24.2885757+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:59:49.7599559+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:07:37.8502286+00:00"
 }

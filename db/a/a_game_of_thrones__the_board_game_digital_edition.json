@@ -3,7 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 904,
-  "Ranking_Popularity": 334,
+  "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 244,
@@ -1258,11 +1258,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 797,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2023-11-24T16:03:24.7183263+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 798,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 797,
-  "NumberOfAwardsMax": 126,
+  "NumberOfAwards": 798,
+  "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1299,7 +1305,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 126
+      "Count": 127
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1320,7 +1326,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29019,
+  "EOS_Progressed": 29023,
   "EOS_Completed": 79,
   "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 2,
@@ -24765,6 +24771,11 @@
       "Time": "2023-11-24T15:09:29.655437+00:00",
       "NumProgressed": 29019,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-24T16:09:43.7109625+00:00",
+      "NumProgressed": 29023,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24808,7 +24819,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "1020",
@@ -24864,7 +24875,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "1027",
@@ -24880,7 +24891,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5223
+      "UsersEstimate": 5224
     },
     {
       "ID": "1029",
@@ -24896,7 +24907,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5804
+      "UsersEstimate": 5805
     },
     {
       "ID": "1031",
@@ -24912,7 +24923,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11608
+      "UsersEstimate": 11609
     },
     {
       "ID": "1033",
@@ -24928,7 +24939,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "1035",
@@ -24936,7 +24947,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3773
     },
     {
       "ID": "1036",
@@ -24951,15 +24962,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29019,
+      "Progressed": 29023,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:09:29.6554367+00:00",
+  "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:09:43.710962+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:03:09.5926578+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:09:29.6555714+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:03:24.7183269+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:09:43.7110863+00:00"
 }

@@ -10,22 +10,22 @@
 | Hammer Time, Round Two | 78.00% | ~298 |
 | The Hellwoods | 73.00% | ~279 |
 | The Plains of Strothalm | 68.00% | ~260 |
-| Experienced Thalya | 67.00% | ~256 |
+| Experienced Thalya | 68.00% | ~260 |
 | Thalya's Concentrated Fury | 66.00% | ~252 |
 | Master of Magic | 63.00% | ~241 |
 | Bad Elves Go Everywhere | 63.00% | ~241 |
+| Unicorn steaks – fresh off the hoof! | 58.00% | ~222 |
+| Heroes’ Gorge | 58.00% | ~222 |
 | Magic Accidents | 57.00% | ~218 |
-| Unicorn steaks – fresh off the hoof! | 57.00% | ~218 |
-| Heroes’ Gorge | 57.00% | ~218 |
+| Minions, Minions! | 54.00% | ~206 |
 | Trap Master | 53.00% | ~202 |
-| Minions, Minions! | 53.00% | ~202 |
 | The Ascent | 48.00% | ~183 |
 | It's Warm and Cozy at Home | 48.00% | ~183 |
 | YOU SHALL NOT PASS! | 43.00% | ~164 |
 | Hard Work | 43.00% | ~164 |
 | The Big Eaty | 43.00% | ~164 |
 | Pure Dynamite! | 39.00% | ~149 |
-| “… like son” | 38.00% | ~145 |
+| “… like son” | 39.00% | ~149 |
 | Mana Cannon | 34.00% | ~130 |
 | Dungeonlord Gorgu | 34.00% | ~130 |
 | Shame! Shame! Shame! | 34.00% | ~130 |
@@ -36,17 +36,17 @@
 | Master of the Undead | 23.00% | ~88 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~84 |
 | Hungry, Hungry Gorgu! | 21.00% | ~80 |
+| Forbidden Knowledge | 21.00% | ~80 |
 | The Duel | 21.00% | ~80 |
-| Forbidden Knowledge | 20.00% | ~76 |
 | Ghost Pirates? Ghost Heroes! | 19.00% | ~73 |
 | If Looks Could Kill | 19.00% | ~73 |
 | Stop Tanos! | 17.00% | ~65 |
 | The Finitude Drill | 17.00% | ~65 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~61 |
 | Doom Hill | 15.00% | ~57 |
+| Sabotage! | 13.00% | ~50 |
 | Brimstone Shaken, Not Stirred | 13.00% | ~50 |
 | Bonus Evilness | 12.00% | ~46 |
-| Sabotage! | 12.00% | ~46 |
 | Raiders of the Lost Stone | 12.00% | ~46 |
 | The Rune Sockets of Finitude (Part 1) | 12.00% | ~46 |
 | My Little Torture Chamber | 11.00% | ~42 |

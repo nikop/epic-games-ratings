@@ -2,10 +2,10 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 44,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -189,6 +189,11 @@
       "Time": "2023-11-24T15:07:01.2121099+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T16:07:15.0264979+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -247,7 +252,7 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -311,9 +316,9 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -392,14 +397,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 44,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:07:01.2121095+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:07:15.0264975+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:57:14.0683586+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:07:01.2121226+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:57:16.8936033+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:07:15.0265118+00:00"
 }

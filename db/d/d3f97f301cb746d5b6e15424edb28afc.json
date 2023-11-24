@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2426,9 +2426,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -2530,9 +2530,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 898
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -2554,9 +2554,9 @@
       "ID": "GSS_ACH_07_FUEL_02",
       "SetID": "5fn8ia4",
       "Name": "Fueled it better!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 950
     },
     {
       "ID": "GSS_ACH_08_FUEL_03",
@@ -2842,9 +2842,9 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 180
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
@@ -2906,9 +2906,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 591
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -3058,9 +3058,9 @@
       "ID": "GSS_ACH_71_UNCLE_LOAN_PAID",
       "SetID": "5fn8ia4",
       "Name": "Impossible!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GSS_ACH_72_GAME_COMPLETE",
@@ -3074,9 +3074,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 908
+      "UsersEstimate": 919
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -3163,8 +3163,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:07:12.74998+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:07:26.3967734+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:57:43.92764+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:07:12.750072+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:57:46.3395557+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:07:26.3968536+00:00"
 }

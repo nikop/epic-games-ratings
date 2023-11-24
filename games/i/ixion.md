@@ -7,21 +7,21 @@ Rating: 4.57 (Ranked 472)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 29.00% | ~968 |
 | Sputnik 2049 | 26.00% | ~868 |
-| Infinite Growth... | 25.00% | ~834 |
+| Infinite Growth... | 25.00% | ~835 |
 | Without Breaking Some Eggs... | 24.00% | ~801 |
 | Ready for a New World | 18.00% | ~601 |
-| Space Society | 17.00% | ~567 |
-| A Thousand Strong | 17.00% | ~567 |
+| Space Society | 17.00% | ~568 |
+| A Thousand Strong | 17.00% | ~568 |
 | Permanent Redesigns | 15.00% | ~501 |
 | Fully Recycled | 14.00% | ~467 |
 | The Ship of Theseus | 14.00% | ~467 |
 | Guy de Borderlands | 13.00% | ~434 |
 | Ain't Nobody Got Time for That | 13.00% | ~434 |
-| Exceeding Capacity | 12.00% | ~400 |
-| Hope Seeker | 12.00% | ~400 |
+| Exceeding Capacity | 12.00% | ~401 |
+| Hope Seeker | 12.00% | ~401 |
 | A Hunk of Junk | 11.00% | ~367 |
 | Breaking Protocol | 11.00% | ~367 |
-| Man's Best Friend | 9.00% | ~300 |
+| Man's Best Friend | 9.00% | ~301 |
 | Power Outage | 8.00% | ~267 |
 | Convenient Transport | 8.00% | ~267 |
 | Please Make it Stop! | 8.00% | ~267 |
@@ -35,10 +35,10 @@ Rating: 4.57 (Ranked 472)
 | ...  in a finite world | 5.00% | ~167 |
 | BRAWL! | 5.00% | ~167 |
 | What the Ruins Teach Us | 5.00% | ~167 |
-| Sustainable Energy | 4.00% | ~133 |
-| In Dolos We Trust | 4.00% | ~133 |
-| Pedal to the Metal | 4.00% | ~133 |
-| Drill-dozer | 4.00% | ~133 |
+| Sustainable Energy | 4.00% | ~134 |
+| In Dolos We Trust | 4.00% | ~134 |
+| Pedal to the Metal | 4.00% | ~134 |
+| Drill-dozer | 4.00% | ~134 |
 | Praise the Hull! | 3.00% | ~100 |
 | Delivery! | 3.00% | ~100 |
 | Help of the Forgotten Member | 3.00% | ~100 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 472)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,337 (Ranked 207)  
+Progressed: 3,339 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 3,323 | 0 |
 | 2023-11-22 | 3,331 | 0 |
 | 2023-11-23 | 3,334 | 0 |
-| 2023-11-24 | 3,337 | 0 |
+| 2023-11-24 | 3,339 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "58c35a214bbb4656a536126ad1552d42",
   "Name": "Death Coming",
   "ProductSlug": "death-coming",
-  "Ranking_Rating": 662,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-05-07T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 91,
   "RatingHistory": [
     {
@@ -424,6 +424,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-24T16:01:41.4848163+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -441,8 +447,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:20.4886047+00:00",
-  "LastChanged": "2023-10-25T22:59:10.3952557+00:00",
+  "LastChanged": "2023-11-24T16:01:41.4848161+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.4450389+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:01:37.1412131+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:06:36.167571+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:01:41.4848168+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:06:49.6563272+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1010,
-  "Ranking_Popularity": 206,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4705,11 +4705,17 @@
       "Rating": 3.95,
       "NumberOfAwards": 3087,
       "NumberOfAwardsMax": 542
+    },
+    {
+      "Time": "2023-11-24T16:00:50.6315161+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3091,
+      "NumberOfAwardsMax": 544
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3087,
-  "NumberOfAwardsMax": 542,
+  "NumberOfAwards": 3091,
+  "NumberOfAwardsMax": 544,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4722,13 +4728,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 542
+      "Count": 544
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 496
+      "Count": 498
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4767,10 +4773,10 @@
       "Count": 496
     }
   ],
-  "EOS_Progressed": 91499,
+  "EOS_Progressed": 91503,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 253,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 254,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
@@ -26332,6 +26338,11 @@
       "Time": "2023-11-24T15:07:10.2740958+00:00",
       "NumProgressed": 91499,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-24T16:07:23.9821595+00:00",
+      "NumProgressed": 91503,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26367,7 +26378,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_0014",
@@ -26383,7 +26394,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_0016",
@@ -26399,7 +26410,7 @@
       "Name": "Rockay Raider",
       "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_0022",
@@ -26431,7 +26442,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_0060",
@@ -26455,7 +26466,7 @@
       "Name": "Headhunter",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACH_0101",
@@ -26471,7 +26482,7 @@
       "Name": "Full House",
       "Percentage": 0.1,
       "XP": 55,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_0110",
@@ -26479,7 +26490,7 @@
       "Name": "Moneybags",
       "Percentage": 0.5,
       "XP": 55,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_0200",
@@ -26503,7 +26514,7 @@
       "Name": "Groundhog Days",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_0220",
@@ -26527,7 +26538,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_0330",
@@ -26551,7 +26562,7 @@
       "Name": "Geek Out",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_0400",
@@ -26583,7 +26594,7 @@
       "Name": "Classy Joint",
       "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_0440",
@@ -26591,7 +26602,7 @@
       "Name": "True Player",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_0450",
@@ -26670,22 +26681,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91499,
+      "Progressed": 91503,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19846,
+      "Progressed": 19850,
       "Completed": 15579
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-23T13:04:42.7626159+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:07:10.2740951+00:00",
+  "LastChanged": "2023-11-24T16:00:50.6315159+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:07:23.9821591+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:00:46.9591841+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:07:10.2742277+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:00:50.6315166+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:07:23.9822892+00:00"
 }

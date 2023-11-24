@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -372,17 +372,17 @@
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
       "SetID": "caeik3h",
       "Name": "Mistress of Shadows",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KR4_ACHIEVEMENT_BARNY",
       "SetID": "caeik3h",
       "Name": "BUUURP!",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "KR4_ACHIEVEMENT_BILBO_DOOR",
@@ -412,9 +412,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
       "SetID": "caeik3h",
       "Name": "The Skeleton War",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEHART",
@@ -444,9 +444,9 @@
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -540,9 +540,9 @@
       "ID": "KR4_ACHIEVEMENT_GLYPTODON",
       "SetID": "caeik3h",
       "Name": "Morphball",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOBLIRANGS",
@@ -556,9 +556,9 @@
       "ID": "KR4_ACHIEVEMENT_GOLLUM",
       "SetID": "caeik3h",
       "Name": "My Precious!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOOD_DINOSAUR",
@@ -628,9 +628,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -676,9 +676,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -772,9 +772,9 @@
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
       "SetID": "caeik3h",
       "Name": "Mouserthon",
-      "Percentage": 87,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLAF",
@@ -924,9 +924,9 @@
       "ID": "KR4_ACHIEVEMENT_T800",
       "SetID": "caeik3h",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
@@ -956,9 +956,9 @@
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
       "SetID": "caeik3h",
       "Name": "Champion Of The Arena",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
@@ -987,8 +987,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:06:57.120239+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:07:11.0025211+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:58:46.0722357+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:06:57.1203026+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:58:49.2492176+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:07:11.0025792+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~50,310 |
-| Worth it | 63.00% | ~40,635 |
-| Eagle Eye | 55.00% | ~35,475 |
-| Corpseman I | 40.00% | ~25,800 |
-| Blast fishing | 37.00% | ~23,865 |
-| Not alone | 32.00% | ~20,640 |
-| Headhunter I | 26.00% | ~16,770 |
-| Manual Labour I | 25.00% | ~16,125 |
-| Developers, Developers, Developers | 24.00% | ~15,480 |
-| Basic Training | 24.00% | ~15,480 |
-| Furchtlos und Treu | 13.00% | ~8,385 |
-| Gott Mit Uns | 12.00% | ~7,740 |
-| This We'll Defend! | 9.00% | ~5,805 |
-| Anker wirf! | 9.00% | ~5,805 |
-| Providentiea Memor | 9.00% | ~5,805 |
-| For King and Country | 9.00% | ~5,805 |
-| Battle hardened | 8.00% | ~5,160 |
-| Semper Fidelis! | 7.00% | ~4,515 |
-| Honneur et Patrie | 7.00% | ~4,515 |
+| Setting an example | 78.00% | ~50,316 |
+| Worth it | 63.00% | ~40,640 |
+| Eagle Eye | 55.00% | ~35,479 |
+| Corpseman I | 40.00% | ~25,803 |
+| Blast fishing | 37.00% | ~23,868 |
+| Not alone | 32.00% | ~20,643 |
+| Headhunter I | 26.00% | ~16,772 |
+| Manual Labour I | 25.00% | ~16,127 |
+| Developers, Developers, Developers | 24.00% | ~15,482 |
+| Basic Training | 24.00% | ~15,482 |
+| Furchtlos und Treu | 13.00% | ~8,386 |
+| Gott Mit Uns | 12.00% | ~7,741 |
+| This We'll Defend! | 9.00% | ~5,806 |
+| Anker wirf! | 9.00% | ~5,806 |
+| Providentiea Memor | 9.00% | ~5,806 |
+| For King and Country | 9.00% | ~5,806 |
+| Battle hardened | 8.00% | ~5,161 |
+| Semper Fidelis! | 7.00% | ~4,516 |
+| Honneur et Patrie | 7.00% | ~4,516 |
 | In Treue Fest | 5.00% | ~3,225 |
 | Voor De Koning | 5.00% | ~3,225 |
 | Extreme Headhunter | 5.00% | ~3,225 |
@@ -55,19 +55,19 @@ Number of Ratings: 1,999  (23.09.2022)
 | Manual Labour III | 0.40% | ~258 |
 | Buddy | 0.30% | ~194 |
 | War is better with friends II | 0.20% | ~129 |
-| Gold Collector | 0.10% | ~64 |
-| Gold Hoarder | 0.10% | ~64 |
-| Silver Collector | 0.10% | ~64 |
-| Silver Hoarder | 0.10% | ~64 |
-| War is better with friends III | 0.10% | ~64 |
-| War is better with friends IV | 0.10% | ~64 |
-| Aimbot | 0.10% | ~64 |
-| Headhunter III | 0.10% | ~64 |
-| Comrade | 0.10% | ~64 |
-| Blood Brother | 0.10% | ~64 |
+| Gold Collector | 0.10% | ~65 |
+| Gold Hoarder | 0.10% | ~65 |
+| Silver Collector | 0.10% | ~65 |
+| Silver Hoarder | 0.10% | ~65 |
+| War is better with friends III | 0.10% | ~65 |
+| War is better with friends IV | 0.10% | ~65 |
+| Aimbot | 0.10% | ~65 |
+| Headhunter III | 0.10% | ~65 |
+| Comrade | 0.10% | ~65 |
+| Blood Brother | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,500 (Ranked 105)  
-Completed: 4 (0.01%) (Ranked 337)  
+Progressed: 64,508 (Ranked 105)  
+Completed: 4 (0.01%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,10 +284,10 @@ Completed: 4 (0.01%) (Ranked 337)
 | 2023-11-21 | 64,309 | 4 |
 | 2023-11-22 | 64,384 | 4 |
 | 2023-11-23 | 64,460 | 4 |
-| 2023-11-24 | 64,500 | 4 |
+| 2023-11-24 | 64,508 | 4 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 355)  
-Sum: 809 (Ranked 280)  
+Sum: 810 (Ranked 280)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -296,9 +296,9 @@ Diff (max vs sum): 75
 | This game is Extremely Fun | 95 |
 | This game has Diverse Characters | 92 |
 | This game has Quickly Understood Controls | 90 |
+| This game has Amazing Characters | 76 |
 | This game is Educational | 76 |
 | This game is Relaxing | 75 |
-| This game has Amazing Characters | 75 |
 | This game has Competitive Players | 74 |
 | This game has Realistic Visuals | 73 |
 | This game has a Competitive Community | 71 |
@@ -454,3 +454,4 @@ Diff (max vs sum): 75
 | 2023-11-12 | 4.53 | - | 106 | 911 |
 | 2023-11-18 | 4.53 | - | 106 | 912 |
 | 2023-11-19 | 4.53 | - | 103 | 809 |
+| 2023-11-24 | 4.53 | - | 103 | 810 |

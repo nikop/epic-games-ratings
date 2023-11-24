@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3045,9 +3045,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 198
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -3141,9 +3141,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 501
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3228,8 +3228,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:09:48.7537531+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:10:03.8437668+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:53.7695274+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:57:24.8253811+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:09:48.7538224+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:57:27.1957586+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:10:03.8438463+00:00"
 }

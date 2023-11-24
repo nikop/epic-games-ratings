@@ -5,29 +5,29 @@ Rating: 4.60 (Ranked 416)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,746 |
-| A Thorny Situation | 71.00% | ~5,666 |
-| ... And Spit Back Out | 61.00% | ~4,868 |
-| Break-Net Speed | 49.00% | ~3,910 |
-| Bramble Breaker | 47.00% | ~3,751 |
-| Miner 49er | 43.00% | ~3,431 |
-| Humble Collector | 43.00% | ~3,431 |
+| Azoria Beckons | 72.00% | ~5,747 |
+| A Thorny Situation | 71.00% | ~5,667 |
+| ... And Spit Back Out | 61.00% | ~4,869 |
+| Break-Net Speed | 49.00% | ~3,911 |
+| Bramble Breaker | 47.00% | ~3,752 |
+| Miner 49er | 43.00% | ~3,432 |
+| Humble Collector | 43.00% | ~3,432 |
 | Calm Sailing | 37.00% | ~2,953 |
-| Open the Gate! | 34.00% | ~2,713 |
+| Open the Gate! | 34.00% | ~2,714 |
 | Mist Walker | 32.00% | ~2,554 |
 | Lumberjack | 27.00% | ~2,155 |
-| Oui, Chef! | 23.00% | ~1,835 |
-| Clear the Air | 19.00% | ~1,516 |
+| Oui, Chef! | 23.00% | ~1,836 |
+| Clear the Air | 19.00% | ~1,517 |
 | Botanical Breakthrough | 17.00% | ~1,357 |
 | Search for the Hairy Grell | 14.00% | ~1,117 |
 | Beach Comber | 14.00% | ~1,117 |
 | Higher Tax Bracket | 14.00% | ~1,117 |
 | Skilled | 9.00% | ~718 |
-| Flaming Hot Completos | 8.00% | ~638 |
-| Fae Farmer | 8.00% | ~638 |
-| Got to Catch Them All | 8.00% | ~638 |
-| Rumble in the Jumble | 8.00% | ~638 |
-| Fanatical Farmer | 8.00% | ~638 |
+| Flaming Hot Completos | 8.00% | ~639 |
+| Fae Farmer | 8.00% | ~639 |
+| Got to Catch Them All | 8.00% | ~639 |
+| Rumble in the Jumble | 8.00% | ~639 |
+| Fanatical Farmer | 8.00% | ~639 |
 | Scattered Scroll Scrounger | 6.00% | ~479 |
 | Azorian Anniversary | 6.00% | ~479 |
 | I Now Pronounce You... | 5.00% | ~399 |
@@ -41,8 +41,8 @@ Rating: 4.60 (Ranked 416)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,980 (Ranked 175)  
-Completed: 1 (0.01%) (Ranked 337)  
+Progressed: 7,982 (Ranked 175)  
+Completed: 1 (0.01%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,7 +133,7 @@ Completed: 1 (0.01%) (Ranked 337)
 | 2023-11-21 | 7,915 | 1 |
 | 2023-11-22 | 7,942 | 1 |
 | 2023-11-23 | 7,973 | 1 |
-| 2023-11-24 | 7,980 | 1 |
+| 2023-11-24 | 7,982 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

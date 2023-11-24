@@ -4,11 +4,11 @@
   "ProductSlug": "fist-forged-in-shadow-torch",
   "Ranking_Rating": 491,
   "Ranking_Popularity": 158,
-  "Ranking_PopularitySum": 258,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-12-14T08:00:00+00:00",
     "PcReleaseDate": "2021-12-14T08:00:00+00:00",
@@ -1443,10 +1443,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 1062,
       "NumberOfAwardsMax": 936
+    },
+    {
+      "Time": "2023-11-24T16:00:24.1846276+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1063,
+      "NumberOfAwardsMax": 936
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1062,
+  "NumberOfAwards": 1063,
   "NumberOfAwardsMax": 936,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1484,7 +1490,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -1498,8 +1504,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2023-11-24T13:05:07.2481873+00:00",
+  "LastChanged": "2023-11-24T16:00:24.1846274+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:17.1178735+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:00:21.2701325+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:08:19.9690854+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:00:24.1846282+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:08:34.2045546+00:00"
 }

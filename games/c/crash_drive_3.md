@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 30.00% | ~122 |
-| Baby's First Car | 28.00% | ~114 |
-| Pushover | 28.00% | ~114 |
-| A Forest Walk | 28.00% | ~114 |
+| Brace for impact! | 30.00% | ~123 |
+| Baby's First Car | 28.00% | ~115 |
+| Pushover | 28.00% | ~115 |
+| A Forest Walk | 28.00% | ~115 |
 | Amateur Mechanic | 27.00% | ~110 |
 | Multiply that! | 26.00% | ~106 |
 | C-C-C-Combo! | 25.00% | ~102 |
@@ -29,24 +29,24 @@
 | Take that Frosty! | 20.00% | ~82 |
 | Your Highness | 20.00% | ~82 |
 | Beach Party! | 20.00% | ~82 |
-| Event Amateur | 18.00% | ~73 |
-| Feeling Hot Hot Hot! | 17.00% | ~69 |
-| Feeling Dizzy? | 17.00% | ~69 |
+| Event Amateur | 18.00% | ~74 |
+| Feeling Hot Hot Hot! | 17.00% | ~70 |
+| Feeling Dizzy? | 17.00% | ~70 |
 | Drift King! | 16.00% | ~65 |
 | Ferry Good! | 16.00% | ~65 |
 | Assert Dominance | 16.00% | ~65 |
 | Speed of light | 16.00% | ~65 |
 | Out of this League | 13.00% | ~53 |
 | Special Forces | 12.00% | ~49 |
-| Toot Toot! | 12.00% | ~49 |
-| Blasting away! | 12.00% | ~49 |
 | Earth Defense Force | 11.00% | ~45 |
+| Toot Toot! | 11.00% | ~45 |
 | Rocketman | 11.00% | ~45 |
+| Blasting away! | 11.00% | ~45 |
 | High Roller | 10.00% | ~41 |
 | Event Pro | 10.00% | ~41 |
 | Space Crash | 7.00% | ~29 |
-| To war! | 6.00% | ~24 |
-| Hoarder | 6.00% | ~24 |
+| To war! | 6.00% | ~25 |
+| Hoarder | 6.00% | ~25 |
 | Event Master | 5.00% | ~20 |
 | A Starting Collector | 4.00% | ~16 |
 | Best Friends! | 4.00% | ~16 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 324)  
+Progressed: 409 (Ranked 324)  
 Completed: 2 (0.49%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 2 (0.49%) (Ranked 204)
 | 2023-11-10 | 406 | 2 |
 | 2023-11-18 | 407 | 2 |
 | 2023-11-21 | 408 | 2 |
+| 2023-11-24 | 409 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1170,
+  "EOS_Progressed": 1172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1975,6 +1975,11 @@
       "Time": "2023-11-24T09:08:28.7619264+00:00",
       "NumProgressed": 1170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T16:08:47.5895135+00:00",
+      "NumProgressed": 1172,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2027,7 +2032,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -2043,7 +2048,7 @@
       "Name": "Pest Control",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -2067,7 +2072,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 809
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2083,7 +2088,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -2091,7 +2096,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -2107,7 +2112,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -2131,7 +2136,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -2161,9 +2166,9 @@
       "ID": "ACHIEVEMENT_REUNITED",
       "SetID": "9991201",
       "Name": "Long Live Rock",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -2226,14 +2231,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1170,
+      "Progressed": 1172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:08:33.1262035+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:08:47.5895131+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.2825313+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:57:57.4722993+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:08:33.1262276+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:58:00.1265553+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:08:47.5895404+00:00"
 }

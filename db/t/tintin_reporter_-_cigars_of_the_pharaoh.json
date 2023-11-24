@@ -2,10 +2,10 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -327,9 +327,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement20",
@@ -542,8 +542,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:08:08.1719925+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:08:22.3400077+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:59:15.3789082+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:08:08.172022+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:59:18.234778+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:08:22.3400315+00:00"
 }

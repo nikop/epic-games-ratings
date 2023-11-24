@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2091,9 +2091,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 21355,
+  "EOS_Progressed": 21357,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10636,6 +10636,11 @@
       "Time": "2023-11-24T15:06:51.0419427+00:00",
       "NumProgressed": 21355,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-24T16:07:04.8537463+00:00",
+      "NumProgressed": 21357,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10695,7 +10700,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20287
+      "UsersEstimate": 20289
     },
     {
       "ID": "GameOver",
@@ -10799,7 +10804,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "Strongman",
@@ -10807,7 +10812,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6620
+      "UsersEstimate": 6621
     },
     {
       "ID": "VeronicaLiptson",
@@ -10830,15 +10835,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21355,
+      "Progressed": 21357,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-22T20:59:11.4911366+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:06:51.0419423+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:07:04.853746+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:56:56.4663346+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:01:08.6860687+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:06:51.0420021+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:01:12.0692592+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:07:04.8537996+00:00"
 }

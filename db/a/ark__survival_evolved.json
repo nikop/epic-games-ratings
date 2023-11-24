@@ -2,13 +2,13 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14502,10 +14502,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 278044,
       "NumberOfAwardsMax": 63956
+    },
+    {
+      "Time": "2023-11-24T16:03:02.9156723+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 278065,
+      "NumberOfAwardsMax": 63956
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 278044,
+  "NumberOfAwards": 278065,
   "NumberOfAwardsMax": 63956,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14573,7 +14579,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23776
+      "Count": 23797
     },
     {
       "Text": "This game is Relaxing",
@@ -14593,8 +14599,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-11-24T15:02:48.3100707+00:00",
+  "LastChanged": "2023-11-24T16:03:02.9156721+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:01.8149608+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:02:48.3100714+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:06:03.9668704+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:03:02.9156727+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:06:17.8830681+00:00"
 }

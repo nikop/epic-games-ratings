@@ -6,18 +6,18 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~11,608 |
-| Battering Crew | 20.00% | ~5,804 |
-| The Kingsroad | 18.00% | ~5,223 |
+| Conqueror | 40.00% | ~11,609 |
+| Battering Crew | 20.00% | ~5,805 |
+| The Kingsroad | 18.00% | ~5,224 |
 | Well Stocked | 14.00% | ~4,063 |
-| Royal Fleet | 13.00% | ~3,772 |
+| Royal Fleet | 13.00% | ~3,773 |
 | The Kraken’s Grasp | 9.00% | ~2,612 |
 | Daggers in the Dark | 8.00% | ~2,322 |
 | Alliance | 8.00% | ~2,322 |
 | A Long Journey | 8.00% | ~2,322 |
-| Winter is Coming | 7.00% | ~2,031 |
-| Oathkeeper | 7.00% | ~2,031 |
-| Influential | 7.00% | ~2,031 |
+| Winter is Coming | 7.00% | ~2,032 |
+| Oathkeeper | 7.00% | ~2,032 |
+| Influential | 7.00% | ~2,032 |
 | Ours is the Fury | 6.00% | ~1,741 |
 | We Do Not Sow | 6.00% | ~1,741 |
 | Defender of the Wall | 6.00% | ~1,741 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~580 |
 | War of the Five Kings | 1.00% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,019 (Ranked 125)  
+Progressed: 29,023 (Ranked 125)  
 Completed: 79 (0.27%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,14 +247,14 @@ Completed: 79 (0.27%) (Ranked 244)
 | 2023-11-21 | 28,873 | 79 |
 | 2023-11-22 | 28,927 | 79 |
 | 2023-11-23 | 28,994 | 79 |
-| 2023-11-24 | 29,019 | 79 |
+| 2023-11-24 | 29,023 | 79 |
 ## Awards
-Max (Quickly Understood Controls): 126  (Ranked 334)  
-Sum: 797 (Ranked 282)  
-Diff (max vs sum): 52  
+Max (Quickly Understood Controls): 127  (Ranked 333)  
+Sum: 798 (Ranked 282)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 126 |
+| This game has Quickly Understood Controls | 127 |
 | This game is Highly Recommended | 112 |
 | This game is Extremely Fun | 110 |
 | This game has Competitive Players | 100 |
@@ -356,3 +356,4 @@ Diff (max vs sum): 52
 | 2023-11-01 | 4.21 | - | 124 | 794 |
 | 2023-11-03 | 4.21 | - | 126 | 796 |
 | 2023-11-17 | 4.21 | - | 126 | 797 |
+| 2023-11-24 | 4.21 | - | 127 | 798 |

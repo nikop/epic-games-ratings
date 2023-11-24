@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3677,
+  "EOS_Progressed": 3678,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5633,6 +5633,11 @@
       "Time": "2023-11-23T20:04:57.0194516+00:00",
       "NumProgressed": 3677,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T16:06:11.492282+00:00",
+      "NumProgressed": 3678,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5650,9 +5655,9 @@
       "ID": "AceDetective_9",
       "SetID": "c4hee28",
       "Name": "Ace Detective",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 331
     },
     {
       "ID": "AncestorsPride_13",
@@ -5700,7 +5705,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "Eureka_23",
@@ -5708,7 +5713,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5836,7 +5841,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5844,7 +5849,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5868,7 +5873,7 @@
       "Name": "Tapped!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5979,15 +5984,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3677,
+      "Progressed": 3678,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:05:57.5449035+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:06:11.4922817+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:57:23.5029602+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:05:57.5449577+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:57:25.9120544+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:06:11.4923353+00:00"
 }

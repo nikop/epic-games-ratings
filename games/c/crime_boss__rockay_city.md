@@ -18,24 +18,24 @@ Rating: 3.95 (Ranked 1,010)
 | Raider’s Ruin | 1.00% | ~915 |
 | Dragonslayer | 1.00% | ~915 |
 | Rockay Rex | 1.00% | ~915 |
-| Hidden Sonata | 0.90% | ~823 |
-| True Player | 0.90% | ~823 |
+| Hidden Sonata | 0.90% | ~824 |
+| True Player | 0.90% | ~824 |
 | Track Star | 0.80% | ~732 |
-| Headhunter | 0.70% | ~640 |
+| Headhunter | 0.70% | ~641 |
 | I Like Trains | 0.60% | ~549 |
 | Freebooter | 0.60% | ~549 |
-| Legend Looter | 0.50% | ~457 |
-| Foo Finder | 0.50% | ~457 |
-| Moneybags | 0.50% | ~457 |
+| Legend Looter | 0.50% | ~458 |
+| Foo Finder | 0.50% | ~458 |
+| Moneybags | 0.50% | ~458 |
 | Imports and Exports | 0.40% | ~366 |
 | Savvy Seeker | 0.40% | ~366 |
 | Olympus Ascended | 0.40% | ~366 |
 | Ding Dong | 0.40% | ~366 |
 | All that Glitters | 0.40% | ~79 |
-| Rockay Raider | 0.30% | ~274 |
-| Groundhog Days | 0.30% | ~274 |
-| Cracked the Jack | 0.30% | ~274 |
-| Classy Joint | 0.30% | ~274 |
+| Rockay Raider | 0.30% | ~275 |
+| Groundhog Days | 0.30% | ~275 |
+| Cracked the Jack | 0.30% | ~275 |
+| Classy Joint | 0.30% | ~275 |
 | All for One | 0.30% | ~60 |
 | Rockay Knight | 0.20% | ~183 |
 | Privateer | 0.20% | ~183 |
@@ -44,10 +44,10 @@ Rating: 3.95 (Ranked 1,010)
 | Impossible Dreamer | 0.20% | ~183 |
 | One for All | 0.20% | ~40 |
 | Now You See Me | 0.20% | ~40 |
-| Full House | 0.10% | ~91 |
-| Geek Out | 0.10% | ~91 |
+| Full House | 0.10% | ~92 |
+| Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,499 (Ranked 92)  
+Progressed: 91,503 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,18 +265,18 @@ Completed: 57 (0.06%) (Ranked 301)
 | 2023-11-21 | 91,374 | 57 |
 | 2023-11-22 | 91,428 | 57 |
 | 2023-11-23 | 91,464 | 57 |
-| 2023-11-24 | 91,499 | 57 |
+| 2023-11-24 | 91,503 | 57 |
 ## Awards
-Max (Diverse Characters): 542  (Ranked 206)  
-Sum: 3,087 (Ranked 175)  
-Diff (max vs sum): 31  
+Max (Diverse Characters): 544  (Ranked 205)  
+Sum: 3,091 (Ranked 175)  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 542 |
+| This game has Diverse Characters | 544 |
 | This game is Highly Recommended | 529 |
 | This game has Quickly Understood Controls | 516 |
 | This game has Challenging Combat | 508 |
-| This game has Amazing Characters | 496 |
+| This game has Amazing Characters | 498 |
 | This game is Extremely Fun | 496 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -520,3 +520,4 @@ Diff (max vs sum): 31
 | 2023-11-21 | 3.95 | 540 | 3,073 |
 | 2023-11-22 | 3.95 | 542 | 3,083 |
 | 2023-11-23 | 3.95 | 542 | 3,087 |
+| 2023-11-24 | 3.95 | 544 | 3,091 |

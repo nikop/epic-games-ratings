@@ -4,8 +4,8 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "Highway2Hell",
       "SetID": "bl5ebnd",
       "Name": "Highway to Hell",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "LikeDislike",
@@ -362,8 +362,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:04:17.6917348+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:04:31.9536276+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7329411+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:58:55.8488174+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:04:17.6917448+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:58:58.8481038+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:04:31.9536368+00:00"
 }

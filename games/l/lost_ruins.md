@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Inquisitor | 38.00% | ~188 |
-| Goblin Tales | 30.00% | ~148 |
+| Goblin Tales | 30.00% | ~149 |
 | Bug Hunter | 25.00% | ~124 |
 | Boss Killer | 23.00% | ~114 |
 | The Fallen | 21.00% | ~104 |
@@ -18,8 +18,8 @@
 | Gladiator | 13.00% | ~64 |
 | Lumberjack | 13.00% | ~64 |
 | Orcs Must Die! | 13.00% | ~64 |
-| The End | 12.00% | ~59 |
-| Troubleshooter | 11.00% | ~54 |
+| The End | 12.00% | ~60 |
+| Troubleshooter | 11.00% | ~55 |
 | Money Swag | 8.00% | ~40 |
 | Oops | 8.00% | ~40 |
 | Shield Crusher | 7.00% | ~35 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 495 (Ranked 309)  
+Progressed: 496 (Ranked 308)  
 Completed: 1 (0.20%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 1 (0.20%) (Ranked 254)
 | 2023-11-09 | 491 | 1 |
 | 2023-11-10 | 492 | 1 |
 | 2023-11-16 | 493 | 1 |
-| 2023-11-24 | 495 | 1 |
+| 2023-11-24 | 496 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

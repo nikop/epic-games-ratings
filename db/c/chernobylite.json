@@ -2,13 +2,13 @@
   "ID": "640854c119af44d39a5bcf98edb6cd60",
   "Name": "Chernobylite",
   "ProductSlug": "chernobylite",
-  "Ranking_Rating": 946,
+  "Ranking_Rating": 952,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-07-28T10:00:00+00:00",
     "PcReleaseDate": "2019-10-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.14,
   "NumberOfRatings": 149,
   "RatingHistory": [
     {
@@ -472,6 +472,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-24T16:00:09.434318+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -504,9 +510,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:09.6414614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7523636+00:00",
-  "LastChanged": "2023-10-24T19:04:57.5884908+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:04:46.3223687+00:00",
+  "LastChanged": "2023-11-24T16:00:09.4343178+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:05:00.1239771+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.6187691+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:00:06.490672+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:04:46.3223723+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:00:09.4343183+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:05:00.1239803+00:00"
 }

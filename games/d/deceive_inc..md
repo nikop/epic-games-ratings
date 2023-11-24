@@ -1,19 +1,19 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.58 (Ranked 444)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,667 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,668 |
 | Mainframe Hacker | 23.00% | ~4,345 |
 | The Spy who eliminated me | 23.00% | ~4,345 |
 | Tomorrow Never Dyes | 22.00% | ~4,156 |
-| From the Vault with Love | 18.00% | ~3,400 |
-| Never Say Loser Again | 18.00% | ~3,400 |
-| Tailor-Made | 18.00% | ~3,400 |
-| For your Eyes only | 18.00% | ~3,400 |
-| Assistant Accountant | 17.00% | ~3,211 |
+| From the Vault with Love | 18.00% | ~3,401 |
+| Never Say Loser Again | 18.00% | ~3,401 |
+| Tailor-Made | 18.00% | ~3,401 |
+| For your Eyes only | 18.00% | ~3,401 |
+| Assistant Accountant | 17.00% | ~3,212 |
 | You Only Live Twice | 16.00% | ~3,023 |
 | Fully Decked Out | 16.00% | ~3,023 |
 | A view to Win | 13.00% | ~2,456 |
@@ -26,7 +26,7 @@ Rating: 4.58 (Ranked 443)
 | Keycards Royale | 10.00% | ~1,889 |
 | Dr. No Kill | 10.00% | ~1,889 |
 | In It to Win It | 9.00% | ~1,700 |
-| Security Supervisor | 6.00% | ~1,133 |
+| Security Supervisor | 6.00% | ~1,134 |
 | License to Thrill | 5.00% | ~945 |
 | Social of Solace | 4.00% | ~756 |
 | Live and let lie | 3.00% | ~567 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 443)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,891 (Ranked 143)  
+Progressed: 18,893 (Ranked 143)  
 Completed: 4 (0.02%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 4 (0.02%) (Ranked 328)
 | 2023-11-21 | 18,873 | 4 |
 | 2023-11-22 | 18,878 | 4 |
 | 2023-11-23 | 18,887 | 4 |
-| 2023-11-24 | 18,891 | 4 |
+| 2023-11-24 | 18,893 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -758,17 +758,17 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MindIlluminator",
@@ -838,9 +838,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ReflexiveMind",
@@ -1205,8 +1205,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:04:47.8963509+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:05:01.6617544+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:38.9498707+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:59:27.880419+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:04:47.8964584+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:59:30.9520642+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:05:01.6618517+00:00"
 }

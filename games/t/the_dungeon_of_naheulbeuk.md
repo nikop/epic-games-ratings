@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,738 |
-| Alt+F4 | 9.00% | ~21,533 |
-| Where's that freaking Dwarf? | 7.00% | ~16,748 |
-| Déjà vu | 6.00% | ~14,355 |
+| Sowwy! | 35.00% | ~83,743 |
+| Alt+F4 | 9.00% | ~21,534 |
+| Where's that freaking Dwarf? | 7.00% | ~16,749 |
+| Déjà vu | 6.00% | ~14,356 |
 | Sock! SOCK! | 5.00% | ~11,963 |
 | Speedrun | 5.00% | ~11,963 |
-| A beer, two curses, three companions | 4.00% | ~9,570 |
-| GG EZ | 4.00% | ~9,570 |
-| DM intervention | 4.00% | ~9,570 |
-| Fireproof Wizardess | 4.00% | ~9,570 |
+| A beer, two curses, three companions | 4.00% | ~9,571 |
+| GG EZ | 4.00% | ~9,571 |
+| DM intervention | 4.00% | ~9,571 |
+| Fireproof Wizardess | 4.00% | ~9,571 |
 | Livin' in a dwarven paradise | 3.00% | ~7,178 |
 | Way of the Wimp | 3.00% | ~7,178 |
 | The plot thickens... At the tavern | 3.00% | ~7,178 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~239 |
 | Dwarf Candy | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,252 (Ranked 63)  
+Progressed: 239,267 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 7 (0.00%) (Ranked 359)
 | 2023-11-21 | 238,762 | 7 |
 | 2023-11-22 | 238,936 | 7 |
 | 2023-11-23 | 239,137 | 7 |
-| 2023-11-24 | 239,252 | 7 |
+| 2023-11-24 | 239,267 | 7 |
 ## Awards
 Max (Character Customization): 238  (Ranked 272)  
 Sum: 478 (Ranked 330)  

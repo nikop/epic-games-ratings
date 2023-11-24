@@ -14,9 +14,9 @@
 | Honorarium of Corporate Service | 60.00% | ~826 |
 | Council Legion of Merit | 54.00% | ~744 |
 | Medal of Exploration II | 53.00% | ~730 |
+| Medal of Honor | 52.00% | ~716 |
 | Meritorious Service Medal | 52.00% | ~716 |
 | Turian Ally | 52.00% | ~716 |
-| Medal of Honor | 51.00% | ~702 |
 | Soldier | 50.00% | ~688 |
 | Charismatic | 50.00% | ~688 |
 | Asari Ally | 47.00% | ~647 |
@@ -42,22 +42,22 @@
 | Colony Defense | 34.00% | ~468 |
 | The Krogan | 34.00% | ~468 |
 | Broke, Blind, and Bedlam | 33.00% | ~454 |
+| A Personal Touch | 32.00% | ~441 |
 | Ghost Ship | 32.00% | ~441 |
 | The Quarian | 32.00% | ~441 |
 | The Prodigal | 32.00% | ~441 |
 | Galactic Explorer | 32.00% | ~441 |
 | Driven | 32.00% | ~441 |
-| A Personal Touch | 31.00% | ~427 |
+| Shopaholic | 32.00% | ~441 |
 | The Assassin | 31.00% | ~427 |
 | The Justicar | 31.00% | ~427 |
 | Battlemaster | 31.00% | ~427 |
 | Ghost of the Father | 31.00% | ~427 |
 | The Cure | 31.00% | ~427 |
-| Shopaholic | 31.00% | ~427 |
+| Big Game Hunter | 31.00% | ~427 |
 | Completionist | 30.00% | ~413 |
 | Catharsis | 30.00% | ~413 |
 | Fade Away | 30.00% | ~413 |
-| Big Game Hunter | 30.00% | ~413 |
 | Revenge! | 30.00% | ~413 |
 | Heart of Darkness | 30.00% | ~413 |
 | Bringer of War | 30.00% | ~413 |
@@ -73,7 +73,7 @@
 | Friend or Foe | 28.00% | ~386 |
 | Doppelganger | 28.00% | ~386 |
 | Mobilizer | 28.00% | ~386 |
-| Untouchable | 26.00% | ~358 |
+| Untouchable | 27.00% | ~372 |
 | Eye of the Hurricane | 26.00% | ~358 |
 | Giant Killer | 26.00% | ~358 |
 | A House Divided | 26.00% | ~358 |
@@ -89,11 +89,11 @@
 | Party Crasher | 22.00% | ~303 |
 | Paramour II | 21.00% | ~289 |
 | Hard Target | 21.00% | ~289 |
+| Problem Solver | 21.00% | ~289 |
 | Last Resort | 20.00% | ~275 |
 | Saboteur | 20.00% | ~275 |
 | Last Witness | 20.00% | ~275 |
 | Fact Finder | 20.00% | ~275 |
-| Problem Solver | 20.00% | ~275 |
 | Pyromaniac | 19.00% | ~262 |
 | Under Pressure | 19.00% | ~262 |
 | No One Left Behind | 19.00% | ~262 |

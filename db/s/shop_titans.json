@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7127,10 +7127,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27587,
       "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-11-24T16:03:01.7867294+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27589,
+      "NumberOfAwardsMax": 4842
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27587,
+  "NumberOfAwards": 27589,
   "NumberOfAwardsMax": 4842,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7168,7 +7174,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4044
+      "Count": 4046
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7183,10 +7189,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141429,
-  "EOS_Completed": 208,
-  "EOS_NewPlayers": 1203,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 141439,
+  "EOS_Completed": 209,
+  "EOS_NewPlayers": 1202,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -29688,6 +29694,11 @@
       "Time": "2023-11-24T15:08:18.152093+00:00",
       "NumProgressed": 141429,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-11-24T16:08:32.5796727+00:00",
+      "NumProgressed": 141439,
+      "NumCompleted": 209
     }
   ],
   "TotalAchievements": 112,
@@ -29731,7 +29742,7 @@
       "Name": "Top of the World",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "argon_a",
@@ -29763,7 +29774,7 @@
       "Name": "Constellated",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ashley_a",
@@ -29819,7 +29830,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "bookentry",
@@ -29931,7 +29942,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7071
+      "UsersEstimate": 7072
     },
     {
       "ID": "commonres02",
@@ -29955,7 +29966,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "craft01",
@@ -29963,7 +29974,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5657
+      "UsersEstimate": 5658
     },
     {
       "ID": "craft02",
@@ -29987,7 +29998,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "craft05",
@@ -30147,7 +30158,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "fuseuncommon",
@@ -30171,7 +30182,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7071
+      "UsersEstimate": 7072
     },
     {
       "ID": "gold02",
@@ -30337,9 +30348,9 @@
       "ID": "loot03",
       "SetID": "anfd17p",
       "Name": "Bountiful Harvest",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1273
     },
     {
       "ID": "loot04",
@@ -30467,7 +30478,7 @@
       "Name": "Moment of Respite",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "sell01",
@@ -30475,7 +30486,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5657
+      "UsersEstimate": 5658
     },
     {
       "ID": "sell02",
@@ -30499,7 +30510,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "transmuter",
@@ -30515,7 +30526,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7071
+      "UsersEstimate": 7072
     },
     {
       "ID": "twinenchant01",
@@ -30555,7 +30566,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "workers01",
@@ -30594,15 +30605,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141429,
-      "Completed": 208
+      "Progressed": 141439,
+      "Completed": 209
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-24T11:03:04.7878959+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:08:18.1520926+00:00",
+  "LastChanged": "2023-11-24T16:03:01.7867292+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:08:32.5796723+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:02:47.1863155+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:08:18.1522898+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:03:01.7867298+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:08:32.5798969+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -477,9 +477,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5454,
+  "EOS_Progressed": 5455,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7357,6 +7357,11 @@
       "Time": "2023-11-24T13:10:58.313417+00:00",
       "NumProgressed": 5454,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T16:06:09.6193473+00:00",
+      "NumProgressed": 5455,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7806,9 +7811,9 @@
       "ID": "56",
       "SetID": "7132754",
       "Name": "A Conqueror\u0027s Cohort",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "57",
@@ -7847,13 +7852,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5454,
+      "Progressed": 5455,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5454,
+      "Progressed": 5455,
       "Completed": 7
     }
   ],
@@ -7861,8 +7866,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-23T07:02:54.0495595+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:05:55.5994809+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:06:09.6193468+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:02:44.3445823+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:05:55.5995549+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:02:58.9531784+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:06:09.619429+00:00"
 }

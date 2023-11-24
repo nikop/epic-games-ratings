@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8275,9 +8275,9 @@
       "Count": 3534
     }
   ],
-  "EOS_Progressed": 236713,
+  "EOS_Progressed": 236719,
   "EOS_Completed": 2475,
-  "EOS_NewPlayers": 1206,
+  "EOS_NewPlayers": 1198,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -32760,6 +32760,11 @@
       "Time": "2023-11-24T15:10:07.5453916+00:00",
       "NumProgressed": 236713,
       "NumCompleted": 2475
+    },
+    {
+      "Time": "2023-11-24T16:10:23.4057933+00:00",
+      "NumProgressed": 236719,
+      "NumCompleted": 2475
     }
   ],
   "TotalAchievements": 532,
@@ -36361,9 +36366,9 @@
       "ID": "objective_completed_868",
       "SetID": "415jc5c",
       "Name": "Might Makes Right",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_869",
@@ -37026,21 +37031,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202987,
+      "Progressed": 202993,
       "Completed": 3939
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236713,
+      "Progressed": 236719,
       "Completed": 2475
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-24T11:58:35.9013106+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:10:07.5453913+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:10:23.4057929+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:59:03.619246+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:10:07.5475489+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:59:06.3025784+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:10:23.4079584+00:00"
 }

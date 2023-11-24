@@ -13,23 +13,23 @@
 | Air Defense | 85.00% | ~151 |
 | Your War is Over | 83.00% | ~148 |
 | The Starry Night | 78.00% | ~139 |
-| Go Home! | 76.00% | ~135 |
+| Go Home! | 77.00% | ~137 |
 | Brilliant: Meadowshire | 75.00% | ~134 |
 | Sergeant of the Evil | 75.00% | ~134 |
 | Look After the Pence... | 74.00% | ~132 |
 | Drunken Master | 74.00% | ~132 |
 | V.I.P. Cemetery | 72.00% | ~128 |
+| Top of the World | 71.00% | ~126 |
+| Takeover | 71.00% | ~126 |
 | Woodcutter | 71.00% | ~126 |
 | Architect of Darkness | 71.00% | ~126 |
-| Top of the World | 70.00% | ~125 |
-| Takeover | 70.00% | ~125 |
 | Sharpshooter | 70.00% | ~125 |
-| The Apotheosis of War | 68.00% | ~121 |
-| Stasis Alcatraz | 68.00% | ~121 |
+| The Apotheosis of War | 69.00% | ~123 |
+| Stasis Alcatraz | 69.00% | ~123 |
 | Tastes Like Chicken | 64.00% | ~114 |
+| Thunderstorm | 64.00% | ~114 |
 | Brilliant: Holy Mountain | 63.00% | ~112 |
 | Combo Breaker | 63.00% | ~112 |
-| Thunderstorm | 63.00% | ~112 |
 | Clean Forests | 62.00% | ~110 |
 | Starry: Meadowshire | 58.00% | ~103 |
 | Lieutenant of the Evil | 58.00% | ~103 |
@@ -50,8 +50,8 @@
 | Dwarven Countdown | 30.00% | ~53 |
 | Starry: Wasteland | 30.00% | ~53 |
 | Deadman's Chest | 29.00% | ~52 |
+| Brilliant: Free Coast | 28.00% | ~50 |
 | Monument Keeper | 28.00% | ~50 |
-| Brilliant: Free Coast | 27.00% | ~48 |
 | Brilliant: The Deep | 24.00% | ~43 |
 | Starry: Free Coast | 24.00% | ~43 |
 | Starry: The Deep | 22.00% | ~39 |

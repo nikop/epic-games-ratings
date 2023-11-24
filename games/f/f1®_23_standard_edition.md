@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-24 | 5,885 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 525)  
-Sum: 87 (Ranked 456)  
+Sum: 88 (Ranked 456)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -138,7 +138,7 @@ Diff (max vs sum): 69
 | This game is Great for Quick Sessions | 24 |
 | This game is Highly Recommended | 24 |
 | This game has Diverse Characters | 23 |
-| This game has a Competitive Community | 20 |
+| This game has a Competitive Community | 21 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -219,3 +219,4 @@ Diff (max vs sum): 69
 | 2023-11-20 | 4.67 | 36 | 120 |
 | 2023-11-21 | 4.67 | 23 | 85 |
 | 2023-11-23 | 4.67 | 24 | 87 |
+| 2023-11-24 | 4.67 | 24 | 88 |

@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1377,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -3863,9 +3863,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 125,
-      "UsersEstimate": 702
+      "UsersEstimate": 716
     },
     {
       "ID": "achievement_10",
@@ -3879,9 +3879,9 @@
       "ID": "achievement_100",
       "SetID": "d252ncf",
       "Name": "A Personal Touch",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_101",
@@ -3903,9 +3903,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_104",
@@ -4543,9 +4543,9 @@
       "ID": "achievement_61",
       "SetID": "d252ncf",
       "Name": "Big Game Hunter",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_62",
@@ -4831,9 +4831,9 @@
       "ID": "achievement_94",
       "SetID": "d252ncf",
       "Name": "Problem Solver",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_95",
@@ -4855,9 +4855,9 @@
       "ID": "achievement_97",
       "SetID": "d252ncf",
       "Name": "Shopaholic",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_98",
@@ -4891,8 +4891,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:08:41.5863471+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:08:56.1134855+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:03:01.049911+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:08:41.5865083+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:03:16.2900597+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:08:56.1136461+00:00"
 }

@@ -24,9 +24,9 @@
 | Professional Survivor | 20.00% | ~58 |
 | Pork Chop Express | 19.00% | ~65 |
 | Skin Of Your Teeth | 18.00% | ~61 |
+| This Is My Boomstick | 17.00% | ~49 |
+| Getting Started | 16.00% | ~55 |
 | Carrocketeer | 16.00% | ~55 |
-| This Is My Boomstick | 16.00% | ~47 |
-| Getting Started | 15.00% | ~51 |
 | Eggtraordinary | 15.00% | ~51 |
 | Oh My Gourd | 14.00% | ~41 |
 | Summers Here | 12.00% | ~35 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341 (Ranked 333)  
+Progressed: 341 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,15 +6,16 @@
 | ---- | ---------- | ----- |
 | Air Fighter | 88.00% | ~7 |
 | Act of Kindness | 75.00% | ~6 |
-| The Altruist | 63.00% | ~5 |
+| The Altruist | 75.00% | ~6 |
+| Watch your Step! | 63.00% | ~5 |
+| Treasure Hunter | 63.00% | ~5 |
 | Merry Co-operation | 50.00% | ~4 |
 | Savior | 50.00% | ~4 |
-| Watch your Step! | 50.00% | ~4 |
-| Treasure Hunter | 50.00% | ~4 |
+| Tap Dancing | 50.00% | ~4 |
+| Right between the eyes | 50.00% | ~4 |
+| MAX LEVEL | 50.00% | ~4 |
 | Oo-De-Lally | 38.00% | ~3 |
-| Tap Dancing | 38.00% | ~3 |
-| Right between the eyes | 38.00% | ~3 |
-| MAX LEVEL | 38.00% | ~3 |
+| Starry Night | 25.00% | ~2 |
 | Brilliant Executioner | 25.00% | ~2 |
 | King of the Iron Fist | 25.00% | ~2 |
 | The Gang prevails | 25.00% | ~2 |
@@ -28,7 +29,6 @@
 | Rebel Unleashed | 25.00% | ~2 |
 | First Aid | 25.00% | ~2 |
 | Merry Go Round | 25.00% | ~2 |
-| Starry Night | 13.00% | ~1 |
 | Ultra Combo | 13.00% | ~1 |
 | Bold and Bossy | 13.00% | ~1 |
 | Power of Friendship! | 13.00% | ~1 |

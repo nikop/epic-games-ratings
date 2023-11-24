@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 763,
+  "EOS_Progressed": 764,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 17.17,
+  "EOS_Completed_Percentage": 17.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3296,6 +3296,11 @@
       "Time": "2023-11-24T15:08:06.0144776+00:00",
       "NumProgressed": 763,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-11-24T16:08:20.1473554+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 22,
@@ -3307,7 +3312,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "LEVEL_002",
@@ -3315,7 +3320,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "LEVEL_003",
@@ -3363,7 +3368,7 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "LEVEL_009",
@@ -3379,7 +3384,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "LEVEL_011",
@@ -3403,7 +3408,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LEVEL_014",
@@ -3451,7 +3456,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LEVEL_020",
@@ -3459,7 +3464,7 @@
       "Name": "City of dreams",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LEVEL_021",
@@ -3482,7 +3487,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 763,
+      "Progressed": 764,
       "Completed": 131
     }
   ],
@@ -3490,8 +3495,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:08:06.0144771+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:08:20.1473542+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:26.26929+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:57:02.1661543+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:08:06.0145102+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:57:04.8380025+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:08:20.1473798+00:00"
 }

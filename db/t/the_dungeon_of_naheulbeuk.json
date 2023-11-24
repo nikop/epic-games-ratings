@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1389,9 +1389,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239252,
+  "EOS_Progressed": 239267,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1599,
+  "EOS_NewPlayers": 1604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19794,6 +19794,11 @@
       "Time": "2023-11-24T15:09:05.7106673+00:00",
       "NumProgressed": 239252,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T16:09:19.6975233+00:00",
+      "NumProgressed": 239267,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19853,7 +19858,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14355
+      "UsersEstimate": 14356
     },
     {
       "ID": "Chapter2",
@@ -19861,7 +19866,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9570
+      "UsersEstimate": 9571
     },
     {
       "ID": "Chapter3",
@@ -20205,7 +20210,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16748
+      "UsersEstimate": 16749
     },
     {
       "ID": "DwarfElf15Support",
@@ -20253,7 +20258,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83738
+      "UsersEstimate": 83743
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20269,7 +20274,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9570
+      "UsersEstimate": 9571
     },
     {
       "ID": "EndCombatOneHp",
@@ -20277,7 +20282,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9570
+      "UsersEstimate": 9571
     },
     {
       "ID": "EndGameCursed",
@@ -20301,7 +20306,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21533
+      "UsersEstimate": 21534
     },
     {
       "ID": "FollowBraztok",
@@ -20501,28 +20506,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9570
+      "UsersEstimate": 9571
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 239252,
+      "Progressed": 239267,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 239252,
+      "Progressed": 239267,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-23T22:59:47.2360206+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:09:05.710667+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:09:19.697523+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.8409819+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:01:07.7408798+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:09:05.710806+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:01:11.1020048+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:09:19.6976569+00:00"
 }

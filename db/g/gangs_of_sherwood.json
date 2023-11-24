@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -70,9 +70,9 @@
       "ID": "ACH_100_ARROW",
       "SetID": "5akmpni",
       "Name": "Starry Night",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_100_CHARGE",
@@ -222,17 +222,17 @@
       "ID": "ACH_ENEMY_FIRE",
       "SetID": "5akmpni",
       "Name": "Tap Dancing",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ENEMY_LEDGE_THROW",
@@ -254,9 +254,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -294,9 +294,9 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HIGH_FIVE",
@@ -382,9 +382,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -430,9 +430,9 @@
       "ID": "ACH_REPUTATION_LVL_4",
       "SetID": "5akmpni",
       "Name": "MAX LEVEL",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_REVIVE_ALLY",
@@ -500,8 +500,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-24T15:05:34.2977253+00:00",
+  "LastChanged_Achievements": "2023-11-24T16:05:48.1866819+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.5358459+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:01:00.8563546+00:00",
-  "LastUpdate_Achievements": "2023-11-24T15:05:34.297758+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:01:04.2889679+00:00",
+  "LastUpdate_Achievements": "2023-11-24T16:05:48.1867139+00:00"
 }
