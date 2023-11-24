@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2056,
+  "EOS_Progressed": 2057,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -3307,6 +3307,11 @@
       "Time": "2023-11-24T14:05:54.8487061+00:00",
       "NumProgressed": 2056,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-24T15:07:20.8569074+00:00",
+      "NumProgressed": 2057,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -3318,7 +3323,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "Collect20Gold",
@@ -3342,7 +3347,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "CollectAllStatues",
@@ -3358,7 +3363,7 @@
       "Name": "Complete Redgi\u0027s Armory",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "CompleteAll",
@@ -3366,7 +3371,7 @@
       "Name": "King of Kings",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "CompleteArenaFaction",
@@ -3398,7 +3403,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3454,7 +3459,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "GetRangedWeapon",
@@ -3476,9 +3481,9 @@
       "ID": "Kill25Bugs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Grubs",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1090
     },
     {
       "ID": "Kill25Frogs",
@@ -3486,15 +3491,15 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 987
+      "UsersEstimate": 967
     },
     {
       "ID": "MeetTheMoles",
@@ -3557,22 +3562,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2056,
+      "Progressed": 2057,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 697,
-      "Completed": 697
+      "Progressed": 698,
+      "Completed": 698
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:05:54.8487058+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:07:20.856907+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.2100047+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:58:07.139749+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:05:54.8487371+00:00"
+  "LastUpdate_Ratings": "2023-11-24T14:58:37.0711319+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:07:20.8569431+00:00"
 }

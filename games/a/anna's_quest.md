@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escape artist | 76.00% | ~62 |
-| Book Worm | 46.00% | ~38 |
+| Book Worm | 48.00% | ~39 |
 | Ooh, it's shiny! | 46.00% | ~38 |
 | My lost nightingale | 37.00% | ~30 |
 | Through the woods | 35.00% | ~29 |

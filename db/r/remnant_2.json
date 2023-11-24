@@ -4677,10 +4677,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 226925,
+  "EOS_Progressed": 226972,
   "EOS_Completed": 514,
-  "EOS_NewPlayers": 4669,
-  "EOS_NewCompleters": 47,
+  "EOS_NewPlayers": 4680,
+  "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -19682,6 +19682,11 @@
       "Time": "2023-11-24T14:08:22.8043592+00:00",
       "NumProgressed": 226925,
       "NumCompleted": 514
+    },
+    {
+      "Time": "2023-11-24T15:08:54.026999+00:00",
+      "NumProgressed": 226972,
+      "NumCompleted": 514
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20094,7 +20099,7 @@
       "Name": "Regicide",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -20110,7 +20115,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -20133,13 +20138,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 226925,
+      "Progressed": 226972,
       "Completed": 514
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 6090,
+      "Progressed": 6137,
       "Completed": 146
     }
   ],
@@ -20147,8 +20152,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-24T11:03:28.1040703+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:08:22.8043586+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:08:54.0269985+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:02:55.3149272+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:08:22.8044589+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:03:10.9464414+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:08:54.0271224+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,240 |
-| Off to a good start | 66.00% | ~919 |
-| Do... or do not. There is no try | 50.00% | ~696 |
+| New Recruit | 89.00% | ~1,241 |
+| Off to a good start | 66.00% | ~920 |
+| Do... or do not. There is no try | 50.00% | ~697 |
 | A good blaster at your side | 31.00% | ~432 |
 | I suggest a new strategy | 19.00% | ~265 |
 | Scrap collector | 18.00% | ~251 |
@@ -19,15 +19,15 @@
 | Survivor | 10.00% | ~139 |
 | Tell Jabba that I've got his money | 9.00% | ~125 |
 | Best star-pilot in the galaxy | 9.00% | ~125 |
-| Never tell me the odds! | 8.00% | ~111 |
-| A cunning warrior | 8.00% | ~111 |
+| Never tell me the odds! | 8.00% | ~112 |
+| A cunning warrior | 8.00% | ~112 |
 | What's the cargo? | 7.00% | ~98 |
 | "Gonk? Gonk!" | 6.00% | ~84 |
+| Distinguished | 6.00% | ~84 |
 | Impressive. Most impressive. | 6.00% | ~84 |
 | Judge me by my size, do you? | 6.00% | ~84 |
-| Distinguished | 5.00% | ~70 |
+| Support the troops | 6.00% | ~84 |
 | A tremor in the Force | 5.00% | ~70 |
-| Support the troops | 5.00% | ~70 |
 | Safety ain't the point of a joyride | 4.00% | ~56 |
 | Not bad for a little furball | 4.00% | ~56 |
 | Patience you must have | 4.00% | ~56 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,393 (Ranked 242)  
+Progressed: 1,394 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1 (0.07%) (Ranked 299)
 | 2023-11-21 | 1,352 | 1 |
 | 2023-11-22 | 1,367 | 1 |
 | 2023-11-23 | 1,384 | 1 |
-| 2023-11-24 | 1,393 | 1 |
+| 2023-11-24 | 1,394 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

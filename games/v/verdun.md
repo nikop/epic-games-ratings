@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~50,307 |
-| Worth it | 63.00% | ~40,632 |
-| Eagle Eye | 55.00% | ~35,473 |
-| Corpseman I | 40.00% | ~25,798 |
-| Blast fishing | 37.00% | ~23,864 |
-| Not alone | 32.00% | ~20,639 |
-| Headhunter I | 26.00% | ~16,769 |
-| Manual Labour I | 25.00% | ~16,124 |
-| Developers, Developers, Developers | 24.00% | ~15,479 |
-| Basic Training | 24.00% | ~15,479 |
-| Furchtlos und Treu | 13.00% | ~8,384 |
+| Setting an example | 78.00% | ~50,310 |
+| Worth it | 63.00% | ~40,635 |
+| Eagle Eye | 55.00% | ~35,475 |
+| Corpseman I | 40.00% | ~25,800 |
+| Blast fishing | 37.00% | ~23,865 |
+| Not alone | 32.00% | ~20,640 |
+| Headhunter I | 26.00% | ~16,770 |
+| Manual Labour I | 25.00% | ~16,125 |
+| Developers, Developers, Developers | 24.00% | ~15,480 |
+| Basic Training | 24.00% | ~15,480 |
+| Furchtlos und Treu | 13.00% | ~8,385 |
 | Gott Mit Uns | 12.00% | ~7,740 |
 | This We'll Defend! | 9.00% | ~5,805 |
 | Anker wirf! | 9.00% | ~5,805 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Corpseman III | 1.00% | ~645 |
 | Elite Player | 0.80% | ~516 |
 | Manual Labour III | 0.40% | ~258 |
-| Buddy | 0.30% | ~193 |
+| Buddy | 0.30% | ~194 |
 | War is better with friends II | 0.20% | ~129 |
 | Gold Collector | 0.10% | ~64 |
 | Gold Hoarder | 0.10% | ~64 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~64 |
 | Blood Brother | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,496 (Ranked 105)  
+Progressed: 64,500 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 4 (0.01%) (Ranked 337)
 | 2023-11-21 | 64,309 | 4 |
 | 2023-11-22 | 64,384 | 4 |
 | 2023-11-23 | 64,460 | 4 |
-| 2023-11-24 | 64,496 | 4 |
+| 2023-11-24 | 64,500 | 4 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 355)  
 Sum: 809 (Ranked 280)  

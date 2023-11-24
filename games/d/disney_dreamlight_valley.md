@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~8,316 |
-| Photographer | 68.00% | ~8,078 |
-| Valley's Helper | 62.00% | ~7,366 |
-| Constructor | 51.00% | ~6,059 |
-| Renovator | 51.00% | ~6,059 |
-| Bestest Friend | 47.00% | ~5,584 |
-| Banker | 39.00% | ~4,633 |
+| Goofy's Investor | 70.00% | ~8,317 |
+| Photographer | 68.00% | ~8,080 |
+| Valley's Helper | 62.00% | ~7,367 |
+| Constructor | 51.00% | ~6,060 |
+| Renovator | 51.00% | ~6,060 |
+| Bestest Friend | 47.00% | ~5,585 |
+| Banker | 39.00% | ~4,634 |
 | Gardener | 31.00% | ~3,683 |
 | Generous | 25.00% | ~2,970 |
-| Chef Cook | 18.00% | ~2,138 |
+| Chef Cook | 18.00% | ~2,139 |
 | Miner | 10.00% | ~1,188 |
 | Duty Bound | 7.00% | ~832 |
 | Thorn Cleaner | 6.00% | ~713 |
 | Angler | 5.00% | ~594 |
 | Chit Chatter | 3.00% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,880 (Ranked 159)  
+Progressed: 11,882 (Ranked 159)  
 Completed: 282 (2.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,14 +191,14 @@ Completed: 282 (2.37%) (Ranked 119)
 | 2023-11-21 | 11,805 | 280 |
 | 2023-11-22 | 11,837 | 281 |
 | 2023-11-23 | 11,868 | 281 |
-| 2023-11-24 | 11,880 | 282 |
+| 2023-11-24 | 11,882 | 282 |
 ## Awards
-Max (Great for Beginners): 1,069  (Ranked 147)  
-Sum: 7,945 (Ranked 107)  
+Max (Great for Beginners): 1,071  (Ranked 147)  
+Sum: 7,947 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,069 |
+| This game is Great for Beginners | 1,071 |
 | This game has Diverse Characters | 903 |
 | This game is Highly Recommended | 828 |
 | This game has Amazing Characters | 823 |
@@ -466,4 +466,4 @@ Diff (max vs sum): 40
 | 2023-11-21 | 4.76 | - | 1,066 | 7,929 |
 | 2023-11-22 | 4.76 | - | 1,067 | 7,937 |
 | 2023-11-23 | 4.76 | - | 1,069 | 7,943 |
-| 2023-11-24 | 4.76 | - | 1,069 | 7,945 |
+| 2023-11-24 | 4.76 | - | 1,071 | 7,947 |

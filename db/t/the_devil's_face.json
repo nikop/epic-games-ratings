@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 573,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -2479,6 +2479,11 @@
       "Time": "2023-11-24T11:08:24.6955142+00:00",
       "NumProgressed": 572,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-24T15:08:07.9031356+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 14,
@@ -2498,7 +2503,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2554,7 +2559,7 @@
       "Name": "This looks really bad",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2562,7 +2567,7 @@
       "Name": "Unholy lands",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2578,7 +2583,7 @@
       "Name": "The court",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2601,14 +2606,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 573,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:07:39.4998415+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:08:07.9031351+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.3122643+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:00:07.9442552+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:07:39.499864+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:01:33.5731042+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:08:07.9031639+00:00"
 }

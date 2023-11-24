@@ -6,41 +6,41 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~55,404 |
-| Let There Be Light | 48.00% | ~45,852 |
-| Float Like a Butterfly | 46.00% | ~43,942 |
-| Nordic Walking | 38.00% | ~36,300 |
-| Bright Falls' Finest | 37.00% | ~35,344 |
-| Under a Thin Layer of Skin | 33.00% | ~31,523 |
-| Park Ranger | 28.00% | ~26,747 |
-| Paging Mr. Wake | 28.00% | ~26,747 |
-| Back! Back, I Say! | 26.00% | ~24,836 |
-| Finders Keepers | 26.00% | ~24,836 |
-| Sound and Fury | 24.00% | ~22,926 |
-| Damn Good Cup of Coffee | 24.00% | ~22,926 |
-| They're Heeeeeere! | 23.00% | ~21,971 |
-| Missed by a Mile | 23.00% | ~21,971 |
-| Wheels Within Wheels | 22.00% | ~21,016 |
-| The Six-Gun Scribe | 22.00% | ~21,016 |
-| Collateral Carnage | 21.00% | ~20,060 |
-| Heavy Metal | 20.00% | ~19,105 |
-| Iron Horse | 20.00% | ~19,105 |
-| Perchance to Dream | 20.00% | ~19,105 |
-| Come One, Come All | 20.00% | ~19,105 |
-| It's Not Just a Typewriter Brand | 18.00% | ~17,194 |
-| Thunder and Lightning | 18.00% | ~17,194 |
-| Gatekeeper | 17.00% | ~16,239 |
-| Two For the Price of One | 17.00% | ~16,239 |
-| Energized! | 17.00% | ~16,239 |
-| The Lady of the Light | 16.00% | ~15,284 |
-| What Light Through Yonder Window | 14.00% | ~13,374 |
-| Right of Way | 14.00% | ~13,374 |
-| Tornado Wrangler | 12.00% | ~11,463 |
-| Departure | 11.00% | ~10,508 |
-| Drink 'Em Both Up | 9.00% | ~8,597 |
-| Hardboiled Writer | 9.00% | ~8,597 |
-| A Friend in Need | 9.00% | ~5,309 |
-| Children of the Elder God | 8.00% | ~7,642 |
+| Follow the Light | 58.00% | ~55,410 |
+| Let There Be Light | 48.00% | ~45,857 |
+| Float Like a Butterfly | 46.00% | ~43,946 |
+| Nordic Walking | 38.00% | ~36,303 |
+| Bright Falls' Finest | 37.00% | ~35,348 |
+| Under a Thin Layer of Skin | 33.00% | ~31,527 |
+| Park Ranger | 28.00% | ~26,750 |
+| Paging Mr. Wake | 28.00% | ~26,750 |
+| Back! Back, I Say! | 26.00% | ~24,839 |
+| Finders Keepers | 26.00% | ~24,839 |
+| Sound and Fury | 24.00% | ~22,928 |
+| Damn Good Cup of Coffee | 24.00% | ~22,928 |
+| They're Heeeeeere! | 23.00% | ~21,973 |
+| Missed by a Mile | 23.00% | ~21,973 |
+| Wheels Within Wheels | 22.00% | ~21,018 |
+| The Six-Gun Scribe | 22.00% | ~21,018 |
+| Collateral Carnage | 21.00% | ~20,062 |
+| Heavy Metal | 20.00% | ~19,107 |
+| Iron Horse | 20.00% | ~19,107 |
+| Perchance to Dream | 20.00% | ~19,107 |
+| Come One, Come All | 20.00% | ~19,107 |
+| It's Not Just a Typewriter Brand | 18.00% | ~17,196 |
+| Thunder and Lightning | 18.00% | ~17,196 |
+| Gatekeeper | 17.00% | ~16,241 |
+| Two For the Price of One | 17.00% | ~16,241 |
+| Energized! | 17.00% | ~16,241 |
+| The Lady of the Light | 16.00% | ~15,286 |
+| What Light Through Yonder Window | 14.00% | ~13,375 |
+| Right of Way | 14.00% | ~13,375 |
+| Tornado Wrangler | 12.00% | ~11,464 |
+| Departure | 11.00% | ~10,509 |
+| Hardboiled Writer | 10.00% | ~9,554 |
+| Drink 'Em Both Up | 9.00% | ~8,598 |
+| A Friend in Need | 9.00% | ~5,310 |
+| Children of the Elder God | 8.00% | ~7,643 |
 | Boob Tube | 7.00% | ~6,687 |
 | If It Flies, It Burns | 7.00% | ~6,687 |
 | KBF-FM | 7.00% | ~6,687 |
@@ -52,7 +52,7 @@ Number of Ratings: 524  (23.09.2022)
 | Heartbreaker | 4.00% | ~2,360 |
 | Medical Opinions | 3.00% | ~2,866 |
 | Taken Season | 3.00% | ~2,866 |
-| Couch Potato | 2.00% | ~1,910 |
+| Couch Potato | 2.00% | ~1,911 |
 | Iron Will | 2.00% | ~1,180 |
 | Go Gentle Into That Good Light | 1.00% | ~590 |
 | Words Will Never Harm You | 0.70% | ~413 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~118 |
 | Licensed Properties | 0.20% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,525 (Ranked 90)  
+Progressed: 95,535 (Ranked 90)  
 Completed: 98 (0.10%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 98 (0.10%) (Ranked 282)
 | 2023-11-21 | 94,922 | 98 |
 | 2023-11-22 | 95,156 | 98 |
 | 2023-11-23 | 95,401 | 98 |
-| 2023-11-24 | 95,525 | 98 |
+| 2023-11-24 | 95,535 | 98 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6500,
+  "EOS_Progressed": 6501,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6372,6 +6372,11 @@
       "Time": "2023-11-24T12:03:31.4026734+00:00",
       "NumProgressed": 6500,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-24T15:03:25.927047+00:00",
+      "NumProgressed": 6501,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6383,7 +6388,7 @@
       "Name": "Against All Odds",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Amy",
@@ -6399,7 +6404,7 @@
       "Name": "Amy: Scavenger Hunt",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Ashley",
@@ -6415,7 +6420,7 @@
       "Name": "Benedict Brahrnold",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BeBack",
@@ -6423,7 +6428,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BeyondTheCall",
@@ -6455,7 +6460,7 @@
       "Name": "Casabrova",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Casanova",
@@ -6487,7 +6492,7 @@
       "Name": "D-Club Certified",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DeckTheBalls",
@@ -6543,7 +6548,7 @@
       "Name": "Duck n\u0027 Weave",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FirstImpressions",
@@ -6591,7 +6596,7 @@
       "Name": "Hijinks Averted",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HostHijinks",
@@ -6599,7 +6604,7 @@
       "Name": "Host Hijinks",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HungryHungryHotTubs",
@@ -6623,7 +6628,7 @@
       "Name": "Ice Bath",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Inspector",
@@ -6655,7 +6660,7 @@
       "Name": "Love Conquers All",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LifeFoundAWay",
@@ -6671,7 +6676,7 @@
       "Name": "Money Shot",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NC_Vickie",
@@ -6687,7 +6692,7 @@
       "Name": "Notice Me, Sensei",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NowItsAParty",
@@ -6719,7 +6724,7 @@
       "Name": "Party Pooper",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Rachael",
@@ -6775,7 +6780,7 @@
       "Name": "Stephanie",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "StrikingResemblance",
@@ -6799,7 +6804,7 @@
       "Name": "Sucker Punch",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TM_Derek",
@@ -6847,7 +6852,7 @@
       "Name": "The Crush(es)",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TheMagicNumber",
@@ -6871,7 +6876,7 @@
       "Name": "Vickie",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "cooch",
@@ -6879,7 +6884,7 @@
       "Name": "La Coochadora",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "derezzed",
@@ -6903,7 +6908,7 @@
       "Name": "Simple Geometry",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "gooddays",
@@ -6934,21 +6939,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3539,
+      "Progressed": 3540,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6500,
+      "Progressed": 6501,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:03:04.479609+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:03:25.9270467+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:04.8203344+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:59:37.9057248+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:03:04.4796826+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:00:50.3663621+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:03:25.9271271+00:00"
 }

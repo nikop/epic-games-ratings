@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1730,
+  "EOS_Progressed": 1731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4311,6 +4311,11 @@
       "Time": "2023-11-23T20:03:57.1562539+00:00",
       "NumProgressed": 1730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T15:04:42.2418772+00:00",
+      "NumProgressed": 1731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4394,7 +4399,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -4482,7 +4487,7 @@
       "Name": "DeDust",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -4576,9 +4581,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 727
+      "UsersEstimate": 710
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4705,7 +4710,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1730,
+      "Progressed": 1731,
       "Completed": 0
     }
   ],
@@ -4713,8 +4718,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:03:58.7851447+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:04:42.2418767+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.8108323+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:59:22.2368604+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:03:58.7851949+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:00:27.5881487+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:04:42.2419217+00:00"
 }

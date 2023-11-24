@@ -6,24 +6,24 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~30,650 |
-| Quick Understanding of Block Extrusion | 68.00% | ~27,790 |
-| Nature or Nurture | 52.00% | ~21,251 |
-| Power Glove | 50.00% | ~20,434 |
-| Forgotten Memories | 43.00% | ~17,573 |
-| Cogs in the Machine | 36.00% | ~14,712 |
-| Mission Success | 22.00% | ~8,991 |
-| There's No Place Like Home | 22.00% | ~8,991 |
-| Green Cube Killer | 19.00% | ~7,765 |
-| Infinity Loop | 16.00% | ~6,539 |
-| Path to Salvation | 16.00% | ~6,539 |
-| Descendants | 14.00% | ~5,721 |
-| The Flawed Teacher | 12.00% | ~4,904 |
-| To Infinity and Beyond | 5.00% | ~2,043 |
-| The Truthful Enemy | 4.00% | ~1,635 |
-| Home Stretch | 2.00% | ~817 |
-| Get me out of here | 2.00% | ~817 |
-| Laser Sharp | 2.00% | ~817 |
+| Lost in Space | 75.00% | ~30,656 |
+| Quick Understanding of Block Extrusion | 68.00% | ~27,795 |
+| Nature or Nurture | 52.00% | ~21,255 |
+| Power Glove | 50.00% | ~20,438 |
+| Forgotten Memories | 43.00% | ~17,576 |
+| Cogs in the Machine | 36.00% | ~14,715 |
+| Mission Success | 22.00% | ~8,992 |
+| There's No Place Like Home | 22.00% | ~8,992 |
+| Green Cube Killer | 19.00% | ~7,766 |
+| Infinity Loop | 16.00% | ~6,540 |
+| Path to Salvation | 16.00% | ~6,540 |
+| Descendants | 14.00% | ~5,723 |
+| The Flawed Teacher | 12.00% | ~4,905 |
+| To Infinity and Beyond | 6.00% | ~2,452 |
+| The Truthful Enemy | 5.00% | ~2,044 |
+| Home Stretch | 2.00% | ~818 |
+| Get me out of here | 2.00% | ~818 |
+| Laser Sharp | 2.00% | ~818 |
 | True collector | 1.00% | ~409 |
 | Bronze collector | 1.00% | ~409 |
 | Gold collector | 1.00% | ~409 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~409 |
 | Expert Collector | 1.00% | ~409 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,867 (Ranked 120)  
-Completed: 169 (0.41%) (Ranked 217)  
+Progressed: 40,875 (Ranked 120)  
+Completed: 170 (0.42%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,7 +131,7 @@ Completed: 169 (0.41%) (Ranked 217)
 | 2023-11-21 | 40,476 | 166 |
 | 2023-11-22 | 40,632 | 166 |
 | 2023-11-23 | 40,778 | 168 |
-| 2023-11-24 | 40,867 | 169 |
+| 2023-11-24 | 40,875 | 170 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

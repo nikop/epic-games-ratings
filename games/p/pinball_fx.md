@@ -6,8 +6,8 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~230,507 |
-| I know the Rules | 34.00% | ~95,576 |
+| Ball Launched | 82.00% | ~230,509 |
+| I know the Rules | 34.00% | ~95,577 |
 | I Found it! | 11.00% | ~30,922 |
 | Contender | 10.00% | ~28,111 |
 | First but not Last | 5.00% | ~14,055 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,106 (Ranked 55)  
+Progressed: 281,108 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,15 +255,15 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 280,819 | 0 |
 | 2023-11-22 | 280,921 | 0 |
 | 2023-11-23 | 281,046 | 0 |
-| 2023-11-24 | 281,106 | 0 |
+| 2023-11-24 | 281,108 | 0 |
 ## Awards
 Max (Great for Beginners): 202  (Ranked 287)  
-Sum: 1,600 (Ranked 231)  
+Sum: 1,601 (Ranked 231)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 202 |
-| This game is Great for Quick Sessions | 189 |
+| This game is Great for Quick Sessions | 190 |
 | This game has Quickly Understood Controls | 166 |
 | This game is Relaxing | 164 |
 | This game is Extremely Fun | 159 |
@@ -466,3 +466,4 @@ Diff (max vs sum): 56
 | 2023-11-16 | 4.06 | - | 202 | 1,598 |
 | 2023-11-18 | 4.06 | - | 202 | 1,599 |
 | 2023-11-23 | 4.06 | - | 202 | 1,600 |
+| 2023-11-24 | 4.06 | - | 202 | 1,601 |

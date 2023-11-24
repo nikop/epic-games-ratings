@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 762,
+  "EOS_Progressed": 763,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 17.19,
+  "EOS_Completed_Percentage": 17.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3291,6 +3291,11 @@
       "Time": "2023-11-23T05:07:06.6095385+00:00",
       "NumProgressed": 762,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-11-24T15:08:06.0144776+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 22,
@@ -3310,15 +3315,15 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 511
+      "UsersEstimate": 504
     },
     {
       "ID": "LEVEL_004",
@@ -3326,15 +3331,15 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 389
+      "UsersEstimate": 382
     },
     {
       "ID": "LEVEL_006",
@@ -3342,7 +3347,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "LEVEL_007",
@@ -3350,7 +3355,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "LEVEL_008",
@@ -3366,7 +3371,7 @@
       "Name": "Who loves trains?",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "LEVEL_010",
@@ -3390,7 +3395,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_013",
@@ -3422,7 +3427,7 @@
       "Name": "The beach is right there",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "LEVEL_017",
@@ -3477,7 +3482,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 762,
+      "Progressed": 763,
       "Completed": 131
     }
   ],
@@ -3485,8 +3490,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:07:38.1130427+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:08:06.0144771+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:26.26929+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:57:01.9606099+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:07:38.1130688+00:00"
+  "LastUpdate_Ratings": "2023-11-24T14:57:02.1661543+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:08:06.0145102+00:00"
 }

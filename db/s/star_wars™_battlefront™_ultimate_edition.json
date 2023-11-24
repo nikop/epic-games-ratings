@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1393,
+  "EOS_Progressed": 1394,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4114,6 +4114,11 @@
       "Time": "2023-11-24T12:09:52.276239+00:00",
       "NumProgressed": 1393,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T15:10:05.48086+00:00",
+      "NumProgressed": 1394,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4236,9 +4241,9 @@
       "ID": "achievement_22",
       "SetID": "271ol84",
       "Name": "Distinguished",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_23",
@@ -4302,7 +4307,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_30",
@@ -4350,7 +4355,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "achievement_36",
@@ -4366,7 +4371,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "achievement_38",
@@ -4398,7 +4403,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "achievement_41",
@@ -4532,9 +4537,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_57",
@@ -4606,7 +4611,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_8",
@@ -4629,13 +4634,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1393,
+      "Progressed": 1394,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1393,
+      "Progressed": 1394,
       "Completed": 1
     }
   ],
@@ -4643,8 +4648,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:09:15.3574992+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:10:05.4808597+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:58:24.226217+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:09:15.3575594+00:00"
+  "LastUpdate_Ratings": "2023-11-24T14:59:02.3016063+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:10:05.4809167+00:00"
 }

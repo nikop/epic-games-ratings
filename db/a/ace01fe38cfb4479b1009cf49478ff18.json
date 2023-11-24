@@ -4,8 +4,8 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2023-11-24T10:08:55.0448172+00:00",
       "NumProgressed": 131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T15:09:31.3143059+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -602,7 +607,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -610,7 +615,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -634,7 +639,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 8,
       "XP": 95,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -648,9 +653,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -681,14 +686,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:08:49.7702705+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:09:31.3143054+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.3392935+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:58:43.0610532+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:08:49.7702808+00:00"
+  "LastUpdate_Ratings": "2023-11-24T14:59:30.3970738+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:09:31.3143173+00:00"
 }

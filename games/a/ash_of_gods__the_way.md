@@ -9,9 +9,9 @@
 | First blood | 33.00% | ~11 |
 | Train hard, fight easy | 30.00% | ~10 |
 | Under cover | 30.00% | ~10 |
+| A hidden snake | 27.00% | ~9 |
 | All for one! | 24.00% | ~8 |
 | Royal blessing | 24.00% | ~8 |
-| A hidden snake | 24.00% | ~8 |
 | Blood and sand | 24.00% | ~8 |
 | Vene, vidi, vici | 18.00% | ~6 |
 | Crimson rivers | 15.00% | ~5 |

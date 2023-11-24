@@ -24,18 +24,18 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Madison | 1.00% | ~65 |
 | Smooth Operator: Ashley | 0.80% | ~52 |
 | The Crush | 0.80% | ~52 |
-| Amy: Scavenger Hunt | 0.70% | ~45 |
+| Amy: Scavenger Hunt | 0.70% | ~46 |
 | It Smells Like Roses | 0.70% | ~25 |
-| Stephanie | 0.70% | ~45 |
-| Vickie | 0.70% | ~45 |
+| Stephanie | 0.70% | ~46 |
+| Vickie | 0.70% | ~46 |
 | Casanova | 0.60% | ~39 |
 | Now It's a Party! | 0.60% | ~39 |
 | The Magic Number | 0.60% | ~39 |
 | Te Amo Lety | 0.60% | ~39 |
-| Benedict Brahrnold | 0.50% | ~32 |
-| I'll Be Back | 0.50% | ~32 |
+| Benedict Brahrnold | 0.50% | ~33 |
+| I'll Be Back | 0.50% | ~33 |
 | Deck the Balls | 0.50% | ~18 |
-| Love Conquers All | 0.50% | ~32 |
+| Love Conquers All | 0.50% | ~33 |
 | Ashley | 0.40% | ~26 |
 | Good Ol' Days | 0.40% | ~26 |
 | The Bride | 0.30% | ~20 |
@@ -57,26 +57,26 @@ Number of Ratings: 177  (23.09.2022)
 | Howz It Goin Dood | 0.20% | ~13 |
 | Derezzed | 0.20% | ~13 |
 | Snapped | 0.20% | ~13 |
-| Against All Odds | 0.10% | ~6 |
-| Casabrova | 0.10% | ~6 |
+| Against All Odds | 0.10% | ~7 |
+| Casabrova | 0.10% | ~7 |
 | Congrats, A Celebrity Hates You | 0.10% | ~4 |
-| D-Club Certified | 0.10% | ~6 |
-| Duck n' Weave | 0.10% | ~6 |
-| Hijinks Averted | 0.10% | ~6 |
-| Host Hijinks | 0.10% | ~6 |
+| D-Club Certified | 0.10% | ~7 |
+| Duck n' Weave | 0.10% | ~7 |
+| Hijinks Averted | 0.10% | ~7 |
+| Host Hijinks | 0.10% | ~7 |
 | Hungry Hungry Hot Tubs | 0.10% | ~4 |
-| Ice Bath | 0.10% | ~6 |
-| Money Shot | 0.10% | ~6 |
-| Notice Me, Sensei | 0.10% | ~6 |
-| Party Pooper | 0.10% | ~6 |
-| Sucker Punch | 0.10% | ~6 |
+| Ice Bath | 0.10% | ~7 |
+| Money Shot | 0.10% | ~7 |
+| Notice Me, Sensei | 0.10% | ~7 |
+| Party Pooper | 0.10% | ~7 |
+| Sucker Punch | 0.10% | ~7 |
 | That's a Nice Bush! | 0.10% | ~4 |
-| The Crush(es) | 0.10% | ~6 |
+| The Crush(es) | 0.10% | ~7 |
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
-| La Coochadora | 0.10% | ~6 |
-| Simple Geometry | 0.10% | ~6 |
+| La Coochadora | 0.10% | ~7 |
+| Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,500 (Ranked 183)  
+Progressed: 6,501 (Ranked 183)  
 Completed: 3 (0.05%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 3 (0.05%) (Ranked 307)
 | 2023-11-21 | 6,485 | 3 |
 | 2023-11-22 | 6,492 | 3 |
 | 2023-11-23 | 6,498 | 3 |
-| 2023-11-24 | 6,500 | 3 |
+| 2023-11-24 | 6,501 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

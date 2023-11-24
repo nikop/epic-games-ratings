@@ -14,9 +14,9 @@
 | Honorarium of Corporate Service | 60.00% | ~826 |
 | Council Legion of Merit | 54.00% | ~744 |
 | Medal of Exploration II | 53.00% | ~730 |
+| Meritorious Service Medal | 52.00% | ~716 |
 | Turian Ally | 52.00% | ~716 |
 | Medal of Honor | 51.00% | ~702 |
-| Meritorious Service Medal | 51.00% | ~702 |
 | Soldier | 50.00% | ~688 |
 | Charismatic | 50.00% | ~688 |
 | Asari Ally | 47.00% | ~647 |
@@ -77,16 +77,16 @@
 | Eye of the Hurricane | 26.00% | ~358 |
 | Giant Killer | 26.00% | ~358 |
 | A House Divided | 26.00% | ~358 |
+| World Shaker | 26.00% | ~358 |
 | First Aid Specialist | 25.00% | ~344 |
-| World Shaker | 25.00% | ~344 |
 | Liberator | 25.00% | ~344 |
 | Weapon Specialist | 24.00% | ~330 |
 | Pathfinder | 24.00% | ~330 |
 | Tunnel Rat | 24.00% | ~330 |
 | Savior | 23.00% | ~317 |
 | Arbiter | 23.00% | ~317 |
+| Lost and Found | 23.00% | ~317 |
 | Party Crasher | 22.00% | ~303 |
-| Lost and Found | 22.00% | ~303 |
 | Paramour II | 21.00% | ~289 |
 | Hard Target | 21.00% | ~289 |
 | Last Resort | 20.00% | ~275 |

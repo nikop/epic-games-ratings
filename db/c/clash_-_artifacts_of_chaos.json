@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -351,9 +351,9 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement12",
@@ -391,9 +391,9 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement17",
@@ -512,8 +512,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:09:10.943884+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:09:59.9524936+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:57.1780056+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:59:13.796302+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:09:10.9438997+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:00:15.1065768+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:09:59.9525084+00:00"
 }

@@ -42,12 +42,12 @@ Rating: 4.61 (Ranked 383)
 | Crimson Caldera | 0.60% | ~33 |
 | A Conqueror's Cohort | 0.60% | ~33 |
 | The Creator | 0.50% | ~27 |
+| God Emperor | 0.40% | ~22 |
 | Lord of Chaos | 0.40% | ~22 |
 | Manufactured War | 0.40% | ~22 |
 | The Eternal Court | 0.40% | ~22 |
 | Pruning for Progress | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
-| God Emperor | 0.30% | ~16 |
 | The Goddess of Nature | 0.30% | ~16 |
 | Eternal Lord | 0.30% | ~16 |
 | Grexolis | 0.30% | ~16 |

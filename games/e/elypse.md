@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 99.00% | ~99 |
-| A bottomless pit | 84.00% | ~84 |
-| Pigeon | 80.00% | ~80 |
-| Baited | 68.00% | ~68 |
-| "Swoosh" | 60.00% | ~60 |
-| The light at the end of the tunnel | 59.00% | ~59 |
-| Splash! | 54.00% | ~54 |
-| Masochistic | 53.00% | ~53 |
+| A path of no return | 99.00% | ~100 |
+| A bottomless pit | 84.00% | ~85 |
+| Pigeon | 80.00% | ~81 |
+| Baited | 67.00% | ~68 |
+| "Swoosh" | 60.00% | ~61 |
+| The light at the end of the tunnel | 59.00% | ~60 |
+| Splash! | 54.00% | ~55 |
+| Masochistic | 52.00% | ~53 |
 | Soft skin | 50.00% | ~50 |
 | Squid game | 44.00% | ~44 |
 | Rock Solid | 35.00% | ~35 |
@@ -32,14 +32,14 @@
 | GG EZ | 16.00% | ~16 |
 | Comeback | 16.00% | ~16 |
 | MayDay! MayDay! | 12.00% | ~12 |
-| Gooooooaaaaal!!! | 8.00% | ~8 |
+| Gooooooaaaaal!!! | 9.00% | ~9 |
 | Sadistic | 2.00% | ~2 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 432)  
+Progressed: 101 (Ranked 432)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-10-10 | 98 | 0 |
 | 2023-10-13 | 99 | 0 |
 | 2023-11-04 | 100 | 0 |
+| 2023-11-24 | 101 | 0 |

@@ -2,7 +2,7 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 123,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1035,6 +1035,11 @@
       "Time": "2023-11-24T14:09:05.8604374+00:00",
       "NumProgressed": 420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T15:09:53.3977341+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1055,7 +1060,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_11",
@@ -1111,7 +1116,7 @@
       "Name": "Your first time?",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_18",
@@ -1135,7 +1140,7 @@
       "Name": "Team Principal",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_20",
@@ -1175,7 +1180,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_25",
@@ -1229,9 +1234,9 @@
       "ID": "achievement_7",
       "SetID": "jnappp",
       "Name": "NEW PB!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 147
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_8",
@@ -1254,14 +1259,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:09:05.860437+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:09:53.3977336+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:57:24.1951803+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:09:05.8604561+00:00"
+  "LastUpdate_Ratings": "2023-11-24T14:57:34.9292714+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:09:53.3977563+00:00"
 }

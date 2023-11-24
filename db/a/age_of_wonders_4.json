@@ -479,7 +479,7 @@
   ],
   "EOS_Progressed": 5454,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7422,9 +7422,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "17",
@@ -7861,8 +7861,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-23T07:02:54.0495595+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:04:52.3244102+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:05:55.5994809+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-24T14:02:36.9540586+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:04:52.324481+00:00"
+  "LastUpdate_Ratings": "2023-11-24T15:02:44.3445823+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:05:55.5995549+00:00"
 }

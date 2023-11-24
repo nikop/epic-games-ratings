@@ -6,18 +6,18 @@
 | ---- | ---------- | ----- |
 | Trinity | 11.00% | ~23 |
 | Find Allies | 8.00% | ~17 |
+| Powerful Allies | 8.00% | ~17 |
 | Adventurer | 8.00% | ~17 |
 | Geared Up | 8.00% | ~17 |
-| Powerful Allies | 7.00% | ~15 |
+| Scholar | 8.00% | ~17 |
+| The Collector | 8.00% | ~17 |
 | A Taste of Wrath | 7.00% | ~15 |
 | Fashion Victim | 7.00% | ~15 |
-| Scholar | 7.00% | ~15 |
 | I Found It | 7.00% | ~15 |
-| The Collector | 7.00% | ~15 |
+| Stone Collection | 7.00% | ~15 |
 | Break Out | 6.00% | ~13 |
 | Tributes of Caladrias | 6.00% | ~13 |
 | Big Bazar | 6.00% | ~13 |
-| Stone Collection | 6.00% | ~13 |
 | Calm before the Storm | 5.00% | ~10 |
 | Shatter Them All | 4.00% | ~8 |
 | Fine Feathers Make Fine Birds | 4.00% | ~8 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -937,9 +937,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 8934,
+  "EOS_Progressed": 8935,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8037,6 +8037,11 @@
       "Time": "2023-11-24T14:03:56.515053+00:00",
       "NumProgressed": 8934,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-24T15:04:38.723695+00:00",
+      "NumProgressed": 8935,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -8136,7 +8141,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -8320,7 +8325,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -8336,7 +8341,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -8376,7 +8381,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4467
+      "UsersEstimate": 4468
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8384,7 +8389,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -8392,7 +8397,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -8400,14 +8405,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4467
+      "UsersEstimate": 4468
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 8934,
+      "Progressed": 8935,
       "Completed": 9
     }
   ],
@@ -8415,8 +8420,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-24T13:57:50.9628182+00:00",
-  "LastChanged_Achievements": "2023-11-24T14:03:56.5150526+00:00",
+  "LastChanged_Achievements": "2023-11-24T15:04:38.7236945+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.1611041+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:57:50.9628187+00:00",
-  "LastUpdate_Achievements": "2023-11-24T14:03:56.5151011+00:00"
+  "LastUpdate_Ratings": "2023-11-24T14:58:13.9592694+00:00",
+  "LastUpdate_Achievements": "2023-11-24T15:04:38.7237653+00:00"
 }
