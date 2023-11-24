@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,358 |
+| Lawbringer | 40.00% | ~26,359 |
 | Landlord | 33.00% | ~21,746 |
-| Bannerlord | 24.00% | ~15,815 |
-| Horde breaker | 24.00% | ~15,815 |
-| Trained | 24.00% | ~15,815 |
-| Lawmaker | 23.00% | ~15,156 |
-| The king is pleased | 19.00% | ~12,520 |
-| King Solomon | 18.00% | ~11,861 |
-| Apple of my eye | 16.00% | ~10,543 |
-| I can do it | 16.00% | ~10,543 |
-| Against all odds | 13.00% | ~8,566 |
-| God of the Arena | 13.00% | ~8,566 |
-| This Is Our Land | 13.00% | ~8,566 |
+| Bannerlord | 24.00% | ~15,816 |
+| Horde breaker | 24.00% | ~15,816 |
+| Lawmaker | 24.00% | ~15,816 |
+| Trained | 24.00% | ~15,816 |
+| The king is pleased | 19.00% | ~12,521 |
+| King Solomon | 18.00% | ~11,862 |
+| Apple of my eye | 16.00% | ~10,544 |
+| I can do it | 16.00% | ~10,544 |
+| Against all odds | 13.00% | ~8,567 |
+| God of the Arena | 13.00% | ~8,567 |
+| This Is Our Land | 13.00% | ~8,567 |
 | Duelist | 10.00% | ~6,590 |
 | Dynasty | 10.00% | ~6,590 |
 | I spit on your grave | 10.00% | ~6,590 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,896 (Ranked 104)  
+Progressed: 65,898 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,15 +276,15 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 65,597 | 0 |
 | 2023-11-22 | 65,712 | 0 |
 | 2023-11-23 | 65,837 | 0 |
-| 2023-11-24 | 65,896 | 0 |
+| 2023-11-24 | 65,898 | 0 |
 ## Awards
 Max (Character Customization): 7,420  (Ranked 53)  
-Sum: 15,411 (Ranked 68)  
+Sum: 15,412 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,420 |
-| This game is Great for Beginners | 1,075 |
+| This game is Great for Beginners | 1,076 |
 | This game has Diverse Characters | 1,017 |
 | This game is Highly Recommended | 943 |
 | This game is Extremely Fun | 883 |
@@ -611,4 +611,4 @@ Diff (max vs sum): -15
 | 2023-11-21 | 4.74 | - | 7,410 | 15,375 |
 | 2023-11-22 | 4.74 | - | 7,416 | 15,390 |
 | 2023-11-23 | 4.74 | - | 7,420 | 15,405 |
-| 2023-11-24 | 4.74 | - | 7,420 | 15,411 |
+| 2023-11-24 | 4.74 | - | 7,420 | 15,412 |

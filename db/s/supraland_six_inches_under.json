@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -2613,9 +2613,9 @@
       "ID": "Revenge",
       "SetID": "5lok9mm",
       "Name": "Revenge",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2177
     },
     {
       "ID": "RocketLaunched",
@@ -2717,8 +2717,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-11-22T14:57:20.2412748+00:00",
-  "LastChanged_Achievements": "2023-11-24T11:05:43.5036458+00:00",
+  "LastChanged_Achievements": "2023-11-24T12:05:02.4234322+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.1418874+00:00",
-  "LastUpdate_Ratings": "2023-11-24T10:58:47.524772+00:00",
-  "LastUpdate_Achievements": "2023-11-24T11:05:43.5036948+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:58:12.5845877+00:00",
+  "LastUpdate_Achievements": "2023-11-24T12:05:02.4234784+00:00"
 }

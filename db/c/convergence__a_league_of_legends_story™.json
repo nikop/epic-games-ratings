@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 931,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.65,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -2469,6 +2469,11 @@
       "Time": "2023-11-24T11:09:27.028023+00:00",
       "NumProgressed": 930,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-24T12:09:09.1830611+00:00",
+      "NumProgressed": 931,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2488,7 +2493,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2512,7 +2517,7 @@
       "Name": "Right On Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2600,7 +2605,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2616,7 +2621,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "GadgetCompletion1",
@@ -2648,7 +2653,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2664,7 +2669,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "LacunaCompleted",
@@ -2672,7 +2677,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "MapCompletion1",
@@ -2720,7 +2725,7 @@
       "Name": "Time Flies",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ParryBoss",
@@ -2728,7 +2733,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ParryRepeated1",
@@ -2736,7 +2741,7 @@
       "Name": "No, Thanks!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2744,7 +2749,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2752,7 +2757,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "PidgeDefeated",
@@ -2766,9 +2771,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 307
     },
     {
       "ID": "RewindParry",
@@ -2800,7 +2805,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SkillProgress1",
@@ -2864,7 +2869,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "WatcherFought",
@@ -2896,14 +2901,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 931,
       "Completed": 6
     }
   ],
@@ -2911,8 +2916,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-24T11:09:27.0280226+00:00",
+  "LastChanged_Achievements": "2023-11-24T12:09:09.1830608+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:00.3419172+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:03:02.3916539+00:00",
-  "LastUpdate_Achievements": "2023-11-24T11:09:27.0280734+00:00"
+  "LastUpdate_Ratings": "2023-11-24T12:03:03.4180725+00:00",
+  "LastUpdate_Achievements": "2023-11-24T12:09:09.1831051+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -1067,9 +1067,9 @@
       "ID": "achievement_13",
       "SetID": "jnappp",
       "Name": "Long Haul Hero",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_14",
@@ -1250,8 +1250,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-24T11:10:08.6473538+00:00",
+  "LastChanged_Achievements": "2023-11-24T12:09:42.5047645+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-24T10:57:51.3924443+00:00",
-  "LastUpdate_Achievements": "2023-11-24T11:10:08.6473754+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:57:29.4831525+00:00",
+  "LastUpdate_Achievements": "2023-11-24T12:09:42.5047954+00:00"
 }

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,238 |
-| Off to a good start | 66.00% | ~918 |
+| New Recruit | 89.00% | ~1,240 |
+| Off to a good start | 66.00% | ~919 |
 | Do... or do not. There is no try | 50.00% | ~696 |
-| A good blaster at your side | 31.00% | ~431 |
-| I suggest a new strategy | 19.00% | ~264 |
-| Scrap collector | 18.00% | ~250 |
-| All right, I'll give it a try | 17.00% | ~236 |
-| Great shot, kid! | 17.00% | ~236 |
+| A good blaster at your side | 31.00% | ~432 |
+| I suggest a new strategy | 19.00% | ~265 |
+| Scrap collector | 18.00% | ~251 |
+| All right, I'll give it a try | 17.00% | ~237 |
+| Great shot, kid! | 17.00% | ~237 |
 | The power of the Force | 14.00% | ~195 |
 | Together we can rule the galaxy | 14.00% | ~195 |
 | Shoot first | 14.00% | ~195 |
@@ -21,10 +21,10 @@
 | Best star-pilot in the galaxy | 9.00% | ~125 |
 | Never tell me the odds! | 8.00% | ~111 |
 | A cunning warrior | 8.00% | ~111 |
-| What's the cargo? | 7.00% | ~97 |
-| "Gonk? Gonk!" | 6.00% | ~83 |
-| Impressive. Most impressive. | 6.00% | ~83 |
-| Judge me by my size, do you? | 6.00% | ~83 |
+| What's the cargo? | 7.00% | ~98 |
+| "Gonk? Gonk!" | 6.00% | ~84 |
+| Impressive. Most impressive. | 6.00% | ~84 |
+| Judge me by my size, do you? | 6.00% | ~84 |
 | Distinguished | 5.00% | ~70 |
 | A tremor in the Force | 5.00% | ~70 |
 | Support the troops | 5.00% | ~70 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,391 (Ranked 242)  
+Progressed: 1,393 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1 (0.07%) (Ranked 299)
 | 2023-11-21 | 1,352 | 1 |
 | 2023-11-22 | 1,367 | 1 |
 | 2023-11-23 | 1,384 | 1 |
-| 2023-11-24 | 1,391 | 1 |
+| 2023-11-24 | 1,393 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

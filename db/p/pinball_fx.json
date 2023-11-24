@@ -2,13 +2,13 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 980,
+  "Ranking_Rating": 979,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2029,9 +2029,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 281092,
+  "EOS_Progressed": 281094,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26969,6 +26969,11 @@
       "Time": "2023-11-24T11:07:15.496959+00:00",
       "NumProgressed": 281092,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T12:06:15.4896628+00:00",
+      "NumProgressed": 281094,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -27204,7 +27209,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 230495
+      "UsersEstimate": 230497
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -27212,22 +27217,22 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 95571
+      "UsersEstimate": 95572
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 281092,
+      "Progressed": 281094,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-23T12:03:27.4764238+00:00",
-  "LastChanged_Achievements": "2023-11-24T11:07:15.4969586+00:00",
+  "LastChanged_Achievements": "2023-11-24T12:06:15.4896624+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.7413731+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:03:27.5188072+00:00",
-  "LastUpdate_Achievements": "2023-11-24T11:07:15.4971031+00:00"
+  "LastUpdate_Ratings": "2023-11-24T12:03:22.3237105+00:00",
+  "LastUpdate_Achievements": "2023-11-24T12:06:15.4897668+00:00"
 }

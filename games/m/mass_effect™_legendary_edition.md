@@ -14,9 +14,9 @@
 | Honorarium of Corporate Service | 60.00% | ~826 |
 | Council Legion of Merit | 54.00% | ~743 |
 | Medal of Exploration II | 53.00% | ~729 |
+| Medal of Honor | 52.00% | ~716 |
+| Meritorious Service Medal | 52.00% | ~716 |
 | Turian Ally | 52.00% | ~716 |
-| Medal of Honor | 51.00% | ~702 |
-| Meritorious Service Medal | 51.00% | ~702 |
 | Charismatic | 51.00% | ~702 |
 | Soldier | 50.00% | ~688 |
 | Asari Ally | 47.00% | ~647 |

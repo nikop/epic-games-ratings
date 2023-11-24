@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -121,9 +121,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 535,
+  "EOS_Progressed": 536,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1216,6 +1216,11 @@
       "Time": "2023-11-24T11:05:39.7322+00:00",
       "NumProgressed": 535,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T12:04:59.4067432+00:00",
+      "NumProgressed": 536,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1290,9 +1295,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 80
     },
     {
       "ID": "Chicken",
@@ -1346,9 +1351,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "FloodedValley",
@@ -1372,7 +1377,7 @@
       "Name": "Good Citizen",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "GrasslandsRing",
@@ -1394,9 +1399,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 166
     },
     {
       "ID": "JustOneLap",
@@ -1412,7 +1417,7 @@
       "Name": "Lord of the Files",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "LostMarshes",
@@ -1428,7 +1433,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Mnemosyne",
@@ -1450,9 +1455,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 155
     },
     {
       "ID": "NewBeginning",
@@ -1474,9 +1479,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "Overload",
@@ -1484,7 +1489,7 @@
       "Name": "Overload",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Persistent",
@@ -1492,7 +1497,7 @@
       "Name": "Persistent",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "PrometheusUnbound",
@@ -1532,7 +1537,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Signatory",
@@ -1588,7 +1593,7 @@
       "Name": "The All-Gifted",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1642,9 +1647,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 204
     },
     {
       "ID": "TrevorsBiographer",
@@ -1668,7 +1673,7 @@
       "Name": "Wanderers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "WesternDelta",
@@ -1699,7 +1704,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 535,
+      "Progressed": 536,
       "Completed": 1
     }
   ],
@@ -1707,8 +1712,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-23T03:59:15.2049017+00:00",
-  "LastChanged_Achievements": "2023-11-24T11:05:39.7321995+00:00",
+  "LastChanged_Achievements": "2023-11-24T12:04:59.4067428+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:01:36.3289979+00:00",
-  "LastUpdate_Achievements": "2023-11-24T11:05:39.732241+00:00"
+  "LastUpdate_Ratings": "2023-11-24T12:00:21.4028248+00:00",
+  "LastUpdate_Achievements": "2023-11-24T12:04:59.4067979+00:00"
 }

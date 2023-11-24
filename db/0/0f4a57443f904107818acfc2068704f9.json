@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -1253,9 +1253,9 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "CompleteChapter7",
@@ -1380,8 +1380,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T11:06:42.4506632+00:00",
+  "LastChanged_Achievements": "2023-11-24T12:05:49.4722245+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-24T10:59:08.4165598+00:00",
-  "LastUpdate_Achievements": "2023-11-24T11:06:42.4506912+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:58:28.6409431+00:00",
+  "LastUpdate_Achievements": "2023-11-24T12:05:49.4722549+00:00"
 }

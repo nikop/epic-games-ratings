@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 76.00% | ~31 |
-| A Loyal Friend | 32.00% | ~13 |
-| Abandon Ship! | 22.00% | ~9 |
-| The Tomb of Kih-Oskh | 17.00% | ~7 |
+| A Loyal Friend | 34.00% | ~14 |
+| Abandon Ship! | 24.00% | ~10 |
+| The Tomb of Kih-Oskh | 20.00% | ~8 |
 | The Weighing of the Soul | 15.00% | ~6 |
 | Cat Lover | 10.00% | ~4 |
 | The Curse of Kih-Oskh | 10.00% | ~4 |

@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,002)  
+Rating: 3.99 (Ranked 1,001)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,13 +12,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 5.00% | ~7,069 |
 | Disintermediation | 4.00% | ~5,655 |
 | Capitalism Ho! | 4.00% | ~5,655 |
-| One Easy Payment | 3.00% | ~4,241 |
-| Some Assembly Required | 3.00% | ~4,241 |
-| Another Satisfied Customer | 3.00% | ~4,241 |
-| It's Free Real Estate | 3.00% | ~4,241 |
-| Pretty Penny | 3.00% | ~4,241 |
-| Budding Merchant | 3.00% | ~4,241 |
-| Own the Means of Production | 3.00% | ~4,241 |
+| One Easy Payment | 3.00% | ~4,242 |
+| Some Assembly Required | 3.00% | ~4,242 |
+| Another Satisfied Customer | 3.00% | ~4,242 |
+| It's Free Real Estate | 3.00% | ~4,242 |
+| Pretty Penny | 3.00% | ~4,242 |
+| Budding Merchant | 3.00% | ~4,242 |
+| Own the Means of Production | 3.00% | ~4,242 |
 | The Daily Grind | 2.00% | ~2,828 |
 | Bounty Hunters | 2.00% | ~2,828 |
 | Demand for Supplies | 2.00% | ~2,828 |
@@ -65,6 +65,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 1.00% | ~1,414 |
 | Magical Harmony | 1.00% | ~1,414 |
 | Special Ingredient | 1.00% | ~1,414 |
+| Exotic Commodities | 1.00% | ~1,414 |
 | Complete Monopoly | 1.00% | ~1,414 |
 | Cream of the Crop | 0.90% | ~1,272 |
 | Above the Norm | 0.90% | ~1,272 |
@@ -86,7 +87,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.90% | ~1,272 |
 | Treasure Trove | 0.90% | ~1,272 |
 | Master Recycler | 0.90% | ~1,272 |
-| Exotic Commodities | 0.90% | ~1,272 |
 | King's Blade | 0.90% | ~1,272 |
 | Top of the World | 0.80% | ~1,131 |
 | Proud Paladin | 0.80% | ~1,131 |
@@ -100,12 +100,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.80% | ~1,131 |
 | King's Shadow | 0.80% | ~1,131 |
 | Economy of Scarce | 0.80% | ~1,131 |
+| Jackpot! | 0.70% | ~990 |
 | All Accounted For | 0.70% | ~990 |
 | The Free Encyclopedia | 0.60% | ~848 |
 | Thank You Tom Nook | 0.60% | ~848 |
-| Jackpot! | 0.60% | ~848 |
 | Eternal Crusade | 0.60% | ~848 |
 | All or Nothing! | 0.50% | ~707 |
+| Anything not Nailed Down | 0.40% | ~566 |
 | The Greatest Grind | 0.40% | ~566 |
 | Marvels from the World Over | 0.40% | ~566 |
 | Bane of Legends | 0.30% | ~424 |
@@ -114,13 +115,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.30% | ~424 |
 | JACKPOT!!! | 0.30% | ~424 |
 | Merchant Extraordinaire | 0.30% | ~424 |
-| Anything not Nailed Down | 0.30% | ~424 |
 | To Hell and Back | 0.20% | ~283 |
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,375 (Ranked 80)  
-Completed: 204 (0.14%) (Ranked 270)  
+Progressed: 141,384 (Ranked 80)  
+Completed: 205 (0.14%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,7 +337,7 @@ Completed: 204 (0.14%) (Ranked 270)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,375 | 204 |
+| 2023-11-24 | 141,384 | 205 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,587 (Ranked 50)  

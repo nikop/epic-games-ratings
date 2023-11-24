@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 39.00% | ~107 |
+| The Camp | 40.00% | ~110 |
 | The Teleprobe | 32.00% | ~88 |
 | The City | 28.00% | ~77 |
 | The field base | 27.00% | ~74 |
 | Survivors | 23.00% | ~63 |
 | The Condor | 21.00% | ~58 |
 | The End | 21.00% | ~58 |
+| Volcanologist | 16.00% | ~44 |
 | The Necroevolution | 16.00% | ~44 |
-| Volcanologist | 15.00% | ~41 |
 | The Alliance | 14.00% | ~39 |
 | On her own | 13.00% | ~36 |
 | Peacemaker | 13.00% | ~36 |

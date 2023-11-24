@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23086,
+  "EOS_Progressed": 23087,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -25025,6 +25025,11 @@
       "Time": "2023-11-24T11:04:39.7462253+00:00",
       "NumProgressed": 23086,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-11-24T12:04:11.7184778+00:00",
+      "NumProgressed": 23087,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 45,
@@ -25100,7 +25105,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 6002
+      "UsersEstimate": 6003
     },
     {
       "ID": "GRProjectComplete",
@@ -25172,7 +25177,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17545
+      "UsersEstimate": 17546
     },
     {
       "ID": "MoreThanHuman",
@@ -25180,7 +25185,7 @@
       "Name": "More than human",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "Neuromancer",
@@ -25260,7 +25265,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12466
+      "UsersEstimate": 12467
     },
     {
       "ID": "RunningWild",
@@ -25308,7 +25313,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 14082
+      "UsersEstimate": 14083
     },
     {
       "ID": "SwordToAGunfight",
@@ -25372,7 +25377,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9234
+      "UsersEstimate": 9235
     },
     {
       "ID": "WhereHeStood",
@@ -25395,21 +25400,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 23086,
+      "Progressed": 23087,
       "Completed": 57
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 23086,
+      "Progressed": 23087,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-24T11:04:39.7462252+00:00",
+  "LastChanged_Achievements": "2023-11-24T12:04:11.7184774+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-24T10:58:03.4285991+00:00",
-  "LastUpdate_Achievements": "2023-11-24T11:04:39.7463397+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:57:38.953016+00:00",
+  "LastUpdate_Achievements": "2023-11-24T12:04:11.7186592+00:00"
 }

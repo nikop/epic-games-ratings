@@ -5,30 +5,30 @@ Rating: 4.62 (Ranked 365)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 32.00% | ~298 |
+| Time Heals All Wounds | 33.00% | ~307 |
 | Rail Rat | 26.00% | ~242 |
-| The Mysterious Stranger | 25.00% | ~232 |
+| The Mysterious Stranger | 25.00% | ~233 |
 | The Prince in Heels | 22.00% | ~205 |
 | Immaculate Aim | 22.00% | ~205 |
 | The Brass Boss | 22.00% | ~205 |
-| The Steel Shadow | 21.00% | ~195 |
-| Make Up For Lost Time | 21.00% | ~195 |
-| Time Flies | 21.00% | ~195 |
-| The Harder They Fall | 21.00% | ~195 |
-| No, Thanks! | 21.00% | ~195 |
-| Breaking Down Barriers | 21.00% | ~195 |
-| The Wicked Twins | 21.00% | ~195 |
-| Immaculate Aim | 21.00% | ~195 |
+| The Steel Shadow | 21.00% | ~196 |
+| Make Up For Lost Time | 21.00% | ~196 |
+| Time Flies | 21.00% | ~196 |
+| The Harder They Fall | 21.00% | ~196 |
+| No, Thanks! | 21.00% | ~196 |
+| Breaking Down Barriers | 21.00% | ~196 |
+| The Wicked Twins | 21.00% | ~196 |
+| Immaculate Aim | 21.00% | ~196 |
 | The Betrayer | 20.00% | ~186 |
 | Honest Mistake | 20.00% | ~186 |
 | Fast Learner | 20.00% | ~186 |
 | Like Clockwork | 19.00% | ~177 |
 | Golem Chaser | 19.00% | ~177 |
 | Check Your Pulse | 19.00% | ~177 |
-| Right On Time | 18.00% | ~167 |
-| The Man Who Shattered Time | 18.00% | ~167 |
-| The Loose Cannon | 18.00% | ~167 |
-| The Family Fortune | 18.00% | ~167 |
+| Right On Time | 18.00% | ~168 |
+| The Man Who Shattered Time | 18.00% | ~168 |
+| The Loose Cannon | 18.00% | ~168 |
+| The Family Fortune | 18.00% | ~168 |
 | Street Style | 17.00% | ~158 |
 | Treasure Trove | 15.00% | ~140 |
 | Whiz Kid | 15.00% | ~140 |
@@ -48,8 +48,8 @@ Rating: 4.62 (Ranked 365)
 | Sartorialist | 8.00% | ~74 |
 | Golem Hunter | 7.00% | ~65 |
 | Clovemary for Remembering | 6.00% | ~56 |
-| Hexlock for Protection | 5.00% | ~46 |
-| Rungs Was Right | 5.00% | ~46 |
+| Hexlock for Protection | 5.00% | ~47 |
+| Rungs Was Right | 5.00% | ~47 |
 | Wunderkind | 2.00% | ~19 |
 | Fitting In | 2.00% | ~19 |
 | Thinking Two Steps Ahead | 1.00% | ~9 |
@@ -59,8 +59,8 @@ Rating: 4.62 (Ranked 365)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930 (Ranked 268)  
-Completed: 6 (0.65%) (Ranked 186)  
+Progressed: 931 (Ranked 268)  
+Completed: 6 (0.64%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 6 (0.65%) (Ranked 186)
 | 2023-11-21 | 923 | 6 |
 | 2023-11-22 | 925 | 6 |
 | 2023-11-23 | 929 | 6 |
-| 2023-11-24 | 930 | 6 |
+| 2023-11-24 | 931 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

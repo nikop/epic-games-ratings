@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1320,7 +1320,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29012,
+  "EOS_Progressed": 29015,
   "EOS_Completed": 79,
   "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 2,
@@ -24745,6 +24745,11 @@
       "Time": "2023-11-24T11:09:45.9665043+00:00",
       "NumProgressed": 29012,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-24T12:09:23.989994+00:00",
+      "NumProgressed": 29015,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24860,7 +24865,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "1029",
@@ -24876,7 +24881,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5802
+      "UsersEstimate": 5803
     },
     {
       "ID": "1031",
@@ -24892,7 +24897,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11605
+      "UsersEstimate": 11606
     },
     {
       "ID": "1033",
@@ -24931,15 +24936,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29012,
+      "Progressed": 29015,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-24T11:09:45.9665039+00:00",
+  "LastChanged_Achievements": "2023-11-24T12:09:23.9899937+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:03:26.7806186+00:00",
-  "LastUpdate_Achievements": "2023-11-24T11:09:45.9666178+00:00"
+  "LastUpdate_Ratings": "2023-11-24T12:03:21.7589353+00:00",
+  "LastUpdate_Achievements": "2023-11-24T12:09:23.9901042+00:00"
 }

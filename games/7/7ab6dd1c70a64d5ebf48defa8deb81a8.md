@@ -16,9 +16,9 @@
 | The Collector | 7.00% | ~15 |
 | Break Out | 6.00% | ~12 |
 | Tributes of Caladrias | 6.00% | ~12 |
+| Big Bazar | 6.00% | ~12 |
 | Stone Collection | 6.00% | ~12 |
 | Calm before the Storm | 5.00% | ~10 |
-| Big Bazar | 5.00% | ~10 |
 | Shatter Them All | 4.00% | ~8 |
 | The Mentor | 3.00% | ~6 |
 | Essence Blow | 3.00% | ~6 |

@@ -6,11 +6,11 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,989 |
-| Imprint | 5.00% | ~7,989 |
-| The Hunt | 4.00% | ~6,391 |
-| Ravenous | 4.00% | ~6,391 |
-| Weeper | 3.00% | ~4,793 |
+| Taste | 5.00% | ~7,990 |
+| Imprint | 5.00% | ~7,990 |
+| The Hunt | 4.00% | ~6,392 |
+| Ravenous | 4.00% | ~6,392 |
+| Weeper | 3.00% | ~4,794 |
 | Harmless | 2.00% | ~3,196 |
 | Silenced Whispers | 2.00% | ~3,196 |
 | Devourer | 2.00% | ~3,196 |
@@ -27,9 +27,9 @@ Number of Ratings: 46  (23.09.2022)
 | Assimilation | 0.90% | ~1,438 |
 | Host | 0.90% | ~1,434 |
 | Celebration | 0.90% | ~1,438 |
-| Hunt Down | 0.70% | ~1,118 |
-| Inevitable | 0.70% | ~1,118 |
-| All-Seeing | 0.70% | ~1,118 |
+| Hunt Down | 0.70% | ~1,119 |
+| Inevitable | 0.70% | ~1,119 |
+| All-Seeing | 0.70% | ~1,119 |
 | Dream | 0.70% | ~1,116 |
 | Breath | 0.60% | ~959 |
 | Artisan | 0.60% | ~959 |
@@ -38,7 +38,7 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 0.50% | ~799 |
 | Passage | 0.50% | ~799 |
 | Bloodhunter | 0.40% | ~639 |
-| Zygote | 0.40% | ~637 |
+| Zygote | 0.40% | ~638 |
 | Proportions | 0.40% | ~639 |
 | Kinship | 0.30% | ~479 |
 | Kin | 0.30% | ~478 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,783 (Ranked 78)  
+Progressed: 159,792 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 1 (0.00%) (Ranked 359)
 | 2023-11-21 | 159,459 | 1 |
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
-| 2023-11-24 | 159,783 | 1 |
+| 2023-11-24 | 159,792 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 423)  
 Sum: 380 (Ranked 346)  

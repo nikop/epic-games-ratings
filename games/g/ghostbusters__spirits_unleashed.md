@@ -27,17 +27,17 @@ Rating: 4.50 (Ranked 588)
 | Right back at ya | 3.00% | ~944 |
 | Side Hustle | 3.00% | ~944 |
 | Summoner | 3.00% | ~944 |
-| Back Off | 2.00% | ~629 |
-| We have the best insurance | 2.00% | ~629 |
-| Collector | 2.00% | ~629 |
-| Escape Artist | 2.00% | ~629 |
-| Legions | 2.00% | ~629 |
-| Pesky Jerks | 2.00% | ~629 |
-| Rift Destroyer | 2.00% | ~629 |
-| Seasoned | 2.00% | ~629 |
-| Skilled | 2.00% | ~629 |
-| Stunner | 2.00% | ~629 |
-| Welcome to the Crew | 2.00% | ~629 |
+| Back Off | 2.00% | ~630 |
+| We have the best insurance | 2.00% | ~630 |
+| Collector | 2.00% | ~630 |
+| Escape Artist | 2.00% | ~630 |
+| Legions | 2.00% | ~630 |
+| Pesky Jerks | 2.00% | ~630 |
+| Rift Destroyer | 2.00% | ~630 |
+| Seasoned | 2.00% | ~630 |
+| Skilled | 2.00% | ~630 |
+| Stunner | 2.00% | ~630 |
+| Welcome to the Crew | 2.00% | ~630 |
 | Diabolical | 1.00% | ~315 |
 | Liability | 1.00% | ~315 |
 | Reckless | 1.00% | ~315 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,473 (Ranked 124)  
+Progressed: 31,475 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 68 (0.22%) (Ranked 250)
 | 2023-11-21 | 31,349 | 68 |
 | 2023-11-22 | 31,398 | 68 |
 | 2023-11-23 | 31,445 | 68 |
-| 2023-11-24 | 31,473 | 68 |
+| 2023-11-24 | 31,475 | 68 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 249)  
 Sum: 2,846 (Ranked 179)  

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4064,
+  "EOS_Progressed": 4065,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -2829,6 +2829,11 @@
       "Time": "2023-11-24T11:05:25.885563+00:00",
       "NumProgressed": 4064,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-24T12:04:48.3222643+00:00",
+      "NumProgressed": 4065,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -2968,14 +2973,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4064,
+      "Progressed": 4065,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-24T11:05:25.8855626+00:00",
+  "LastChanged_Achievements": "2023-11-24T12:04:48.3222638+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:02.5242204+00:00",
   "LastUpdate_Ratings": "2023-11-24T11:02:40.552044+00:00",
-  "LastUpdate_Achievements": "2023-11-24T11:05:25.8855848+00:00"
+  "LastUpdate_Achievements": "2023-11-24T12:04:48.3222932+00:00"
 }

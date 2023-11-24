@@ -12,7 +12,7 @@
 | Sanctuary Guardian | 38.00% | ~29 |
 | Mind Illuminator | 36.00% | ~28 |
 | Noctuan Champion | 36.00% | ~28 |
-| Wild's Keeper | 34.00% | ~26 |
+| Wild's Keeper | 35.00% | ~27 |
 | Eridanian Champion | 31.00% | ~24 |
 | Lacertian Champion | 31.00% | ~24 |
 | Apian Champion | 29.00% | ~22 |
