@@ -22,7 +22,7 @@
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.17% |
+| 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.09% |
 | 24 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
 | 25 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
 | 26 | [Island Cities](games/i/island_cities.md) | 17.19% |
@@ -72,7 +72,7 @@
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.59% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 72 | [JARS](games/j/jars.md) | 5.15% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.13% |
+| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.12% |
 | 74 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.82% |
 | 76 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
