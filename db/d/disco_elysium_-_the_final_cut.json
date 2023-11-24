@@ -1490,9 +1490,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131135,
+  "EOS_Progressed": 131137,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22785,6 +22785,11 @@
       "Time": "2023-11-24T10:04:38.892988+00:00",
       "NumProgressed": 131135,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-24T11:06:06.6074717+00:00",
+      "NumProgressed": 131137,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22828,7 +22833,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23604
+      "UsersEstimate": 23605
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22852,7 +22857,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31472
+      "UsersEstimate": 31473
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22908,7 +22913,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27538
+      "UsersEstimate": 27539
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -23115,15 +23120,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131135,
+      "Progressed": 131137,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-24T05:00:25.0913499+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:04:38.8929877+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:06:06.6074712+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:57:06.806477+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:04:38.8930919+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:57:23.0525447+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:06:06.607578+00:00"
 }

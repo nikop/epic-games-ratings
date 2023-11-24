@@ -1451,9 +1451,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429138,
+  "EOS_Progressed": 429139,
   "EOS_Completed": 548,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15641,6 +15641,11 @@
       "Time": "2023-11-24T08:08:23.5418598+00:00",
       "NumProgressed": 429138,
       "NumCompleted": 548
+    },
+    {
+      "Time": "2023-11-24T11:08:30.0952204+00:00",
+      "NumProgressed": 429139,
+      "NumCompleted": 548
     }
   ],
   "TotalAchievements": 41,
@@ -15684,7 +15689,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107284
+      "UsersEstimate": 107285
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -15708,7 +15713,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128741
+      "UsersEstimate": 128742
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -15820,7 +15825,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407681
+      "UsersEstimate": 407682
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15836,7 +15841,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308979
+      "UsersEstimate": 308980
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -15868,7 +15873,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343310
+      "UsersEstimate": 343311
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -15900,7 +15905,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197403
+      "UsersEstimate": 197404
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -15916,7 +15921,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115867
+      "UsersEstimate": 115868
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -15932,7 +15937,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240317
+      "UsersEstimate": 240318
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -15956,7 +15961,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115867
+      "UsersEstimate": 115868
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -15979,15 +15984,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429138,
+      "Progressed": 429139,
       "Completed": 548
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-19T15:02:24.7874888+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:08:00.8425579+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:08:30.0952199+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:06.8328833+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:59:09.5782085+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:08:00.8426675+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:00:32.8837755+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:08:30.0953001+00:00"
 }

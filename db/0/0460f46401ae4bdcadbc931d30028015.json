@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 198,
@@ -5886,9 +5886,9 @@
       "ID": "achievement_10",
       "SetID": "aiin7da",
       "Name": "Stud Finder",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1340
     },
     {
       "ID": "achievement_11",
@@ -6055,8 +6055,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-24T01:42:02.0226304+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:03:32.5538564+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:04:32.9560647+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:57:22.1602218+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:03:32.5538947+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:57:47.0131281+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:04:32.9560975+00:00"
 }

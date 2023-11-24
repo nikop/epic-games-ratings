@@ -6,20 +6,20 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,647 |
-| Worker Specialization | 77.00% | ~5,647 |
-| First Contact | 72.00% | ~5,280 |
-| Win a Battle | 65.00% | ~4,767 |
+| Colonize a Planet | 77.00% | ~5,648 |
+| Worker Specialization | 77.00% | ~5,648 |
+| First Contact | 72.00% | ~5,281 |
+| Win a Battle | 65.00% | ~4,768 |
 | Anomaly Researcher | 61.00% | ~4,474 |
 | Unleash My Power | 61.00% | ~4,474 |
-| Own 30 Planets | 33.00% | ~2,420 |
+| Own 30 Planets | 33.00% | ~2,421 |
 | Xenocide | 31.00% | ~2,274 |
 | Design a Civilization | 31.00% | ~2,274 |
 | Commodity Trader | 29.00% | ~2,127 |
 | Design a Ship | 27.00% | ~1,980 |
 | Commodity Seller | 24.00% | ~1,760 |
-| Prestige Victory! | 13.00% | ~953 |
-| Galactic War | 10.00% | ~733 |
+| Prestige Victory! | 13.00% | ~954 |
+| Galactic War | 10.00% | ~734 |
 | Trading Partner | 8.00% | ~587 |
 | Fleet Victory | 8.00% | ~587 |
 | Gain an Ally | 6.00% | ~440 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,334 (Ranked 178)  
+Progressed: 7,335 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,17 +297,17 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 7,322 | 0 |
 | 2023-11-22 | 7,323 | 0 |
 | 2023-11-23 | 7,330 | 0 |
-| 2023-11-24 | 7,334 | 0 |
+| 2023-11-24 | 7,335 | 0 |
 ## Awards
 Max (Diverse Characters): 97  (Ranked 364)  
-Sum: 685 (Ranked 297)  
+Sum: 686 (Ranked 297)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 97 |
 | This game is Relaxing | 89 |
 | This game is Highly Recommended | 87 |
-| This game has Quickly Understood Controls | 85 |
+| This game has Quickly Understood Controls | 86 |
 | This game is Extremely Fun | 82 |
 | This game has Amazing Storytelling | 77 |
 | This game has Competitive Players | 72 |
@@ -430,3 +430,4 @@ Diff (max vs sum): 67
 | 2023-09-22 | 4.17 | - | 93 | 680 |
 | 2023-09-24 | 4.17 | - | 94 | 681 |
 | 2023-11-21 | 4.17 | - | 97 | 685 |
+| 2023-11-24 | 4.17 | - | 97 | 686 |

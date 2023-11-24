@@ -6,8 +6,8 @@
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -373,9 +373,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1655,
+  "EOS_Progressed": 1656,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2423,6 +2423,11 @@
       "Time": "2023-11-24T10:08:05.1679983+00:00",
       "NumProgressed": 1655,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-24T11:08:36.3157372+00:00",
+      "NumProgressed": 1656,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2434,7 +2439,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2482,7 +2487,7 @@
       "Name": "K.O.!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2490,7 +2495,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2512,9 +2517,9 @@
       "ID": "ACHIEVEMENTS_11",
       "SetID": "d4o538a",
       "Name": "Expert Chemist",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 248
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -2546,7 +2551,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2562,7 +2567,7 @@
       "Name": "Kind-hearted",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2737,7 +2742,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1655,
+      "Progressed": 1656,
       "Completed": 10
     }
   ],
@@ -2745,8 +2750,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:08:05.167998+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:08:36.3157366+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:49.0461133+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:57:30.0263677+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:08:05.1680366+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:57:59.172448+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:08:36.315787+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4767,9 +4767,9 @@
       "Count": 496
     }
   ],
-  "EOS_Progressed": 91486,
+  "EOS_Progressed": 91489,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26307,6 +26307,11 @@
       "Time": "2023-11-24T10:05:35.1304302+00:00",
       "NumProgressed": 91486,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-24T11:07:26.4763512+00:00",
+      "NumProgressed": 91489,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26622,7 +26627,7 @@
       "Name": "All for One",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_1021",
@@ -26645,13 +26650,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91486,
+      "Progressed": 91489,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19833,
+      "Progressed": 19836,
       "Completed": 15579
     }
   ],
@@ -26659,8 +26664,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-23T13:04:42.7626159+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:05:35.1304297+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:07:26.4763504+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:59:26.6324615+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:05:35.1305418+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:00:59.157985+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:07:26.4764814+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 929,
+  "EOS_Progressed": 930,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2464,6 +2464,11 @@
       "Time": "2023-11-23T18:08:49.0418613+00:00",
       "NumProgressed": 929,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-24T11:09:27.028023+00:00",
+      "NumProgressed": 930,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2491,7 +2496,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ChestCompletion1",
@@ -2499,7 +2504,7 @@
       "Name": "Treasure Trove",
       "Percentage": 15,
       "XP": 75,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2571,7 +2576,7 @@
       "Name": "Family Memories",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "FactorywoodChests1",
@@ -2627,7 +2632,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "GrindingTime1",
@@ -2675,7 +2680,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "NoCritterSump",
@@ -2755,7 +2760,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "RewindDamage1",
@@ -2763,7 +2768,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "RewindParry",
@@ -2851,7 +2856,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "WarwickDefeated",
@@ -2883,7 +2888,7 @@
       "Name": "The Brass Boss",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2898,7 +2903,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 929,
+      "Progressed": 930,
       "Completed": 6
     }
   ],
@@ -2906,8 +2911,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:08:40.8469669+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:09:27.0280226+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:00.3419172+00:00",
-  "LastUpdate_Ratings": "2023-11-24T10:02:39.3863769+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:08:40.8470064+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:03:02.3916539+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:09:27.0280734+00:00"
 }

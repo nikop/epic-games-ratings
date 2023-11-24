@@ -2,7 +2,7 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 506,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 121,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -229,9 +229,9 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement10",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:07:57.3056829+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:08:24.9290013+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:58:28.6151472+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:07:57.3057106+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:59:29.6866876+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:08:24.9290342+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1376,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4834,9 +4834,9 @@
       "ID": "achievement_95",
       "SetID": "d252ncf",
       "Name": "Patriot",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_96",
@@ -4886,8 +4886,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:08:20.3887795+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:08:58.5076005+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-24T10:02:49.7426277+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:08:20.3889274+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:03:18.2400797+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:08:58.5077554+00:00"
 }

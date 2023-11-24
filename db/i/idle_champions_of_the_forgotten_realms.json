@@ -8269,10 +8269,10 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236665,
-  "EOS_Completed": 2472,
-  "EOS_NewPlayers": 1203,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 236672,
+  "EOS_Completed": 2473,
+  "EOS_NewPlayers": 1205,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -32729,6 +32729,11 @@
       "Time": "2023-11-24T10:09:21.9208536+00:00",
       "NumProgressed": 236665,
       "NumCompleted": 2472
+    },
+    {
+      "Time": "2023-11-24T11:10:23.2956505+00:00",
+      "NumProgressed": 236672,
+      "NumCompleted": 2473
     }
   ],
   "TotalAchievements": 532,
@@ -33322,9 +33327,9 @@
       "ID": "objective_completed_1144",
       "SetID": "415jc5c",
       "Name": "G. O. A. T.",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1147",
@@ -36995,21 +37000,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202939,
+      "Progressed": 202946,
       "Completed": 3938
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236665,
-      "Completed": 2472
+      "Progressed": 236672,
+      "Completed": 2473
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-24T03:58:04.8012589+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:09:21.9208532+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:10:23.2956501+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:58:21.1255677+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:09:21.9229614+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:59:17.8187162+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:10:23.2978344+00:00"
 }

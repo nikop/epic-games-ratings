@@ -5,12 +5,12 @@ Rating: 4.62 (Ranked 365)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 32.00% | ~297 |
+| Time Heals All Wounds | 32.00% | ~298 |
 | Rail Rat | 26.00% | ~242 |
 | The Mysterious Stranger | 25.00% | ~232 |
-| The Prince in Heels | 22.00% | ~204 |
-| Immaculate Aim | 22.00% | ~204 |
-| The Brass Boss | 22.00% | ~204 |
+| The Prince in Heels | 22.00% | ~205 |
+| Immaculate Aim | 22.00% | ~205 |
+| The Brass Boss | 22.00% | ~205 |
 | The Steel Shadow | 21.00% | ~195 |
 | Make Up For Lost Time | 21.00% | ~195 |
 | Time Flies | 21.00% | ~195 |
@@ -30,12 +30,12 @@ Rating: 4.62 (Ranked 365)
 | The Loose Cannon | 18.00% | ~167 |
 | The Family Fortune | 18.00% | ~167 |
 | Street Style | 17.00% | ~158 |
-| Treasure Trove | 15.00% | ~139 |
-| Whiz Kid | 15.00% | ~139 |
-| Cartographer | 15.00% | ~139 |
+| Treasure Trove | 15.00% | ~140 |
+| Whiz Kid | 15.00% | ~140 |
+| Cartographer | 15.00% | ~140 |
 | Good Neighbor | 13.00% | ~121 |
-| Chaincrawler Explorer | 12.00% | ~111 |
-| Family Memories | 12.00% | ~111 |
+| Chaincrawler Explorer | 12.00% | ~112 |
+| Family Memories | 12.00% | ~112 |
 | Sump Explorer | 11.00% | ~102 |
 | Syron for Hope | 11.00% | ~102 |
 | Ask Questions Later | 11.00% | ~102 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 365)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 929 (Ranked 268)  
+Progressed: 930 (Ranked 268)  
 Completed: 6 (0.65%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 6 (0.65%) (Ranked 186)
 | 2023-11-21 | 923 | 6 |
 | 2023-11-22 | 925 | 6 |
 | 2023-11-23 | 929 | 6 |
+| 2023-11-24 | 930 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

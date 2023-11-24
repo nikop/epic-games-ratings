@@ -5,17 +5,17 @@ Rating: 4.56 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 10.00% | ~1,537 |
-| Bosmang | 6.00% | ~922 |
+| Oyedang, Kopengs | 10.00% | ~1,538 |
+| Bosmang | 6.00% | ~923 |
 | The Pit and the Pirates | 5.00% | ~769 |
 | Martian Music | 5.00% | ~769 |
 | Drone Dodger | 5.00% | ~769 |
 | Captain Drummer | 5.00% | ~769 |
 | Celebrations are in Order | 5.00% | ~769 |
 | Impossible Objects | 5.00% | ~769 |
-| Safe Cracker | 5.00% | ~66 |
-| Zen Master | 5.00% | ~66 |
-| Madame Undersecretary | 5.00% | ~66 |
+| Safe Cracker | 5.00% | ~67 |
+| Zen Master | 5.00% | ~67 |
+| Madame Undersecretary | 5.00% | ~67 |
 | Stogie for Fogey | 4.00% | ~615 |
 | Drug Gifter | 4.00% | ~615 |
 | Spore Taste | 4.00% | ~615 |
@@ -25,23 +25,23 @@ Rating: 4.56 (Ranked 491)
 | Heal Thy Medic | 3.00% | ~461 |
 | Khan's Revenge | 3.00% | ~461 |
 | Master Negotiator | 3.00% | ~40 |
-| Doctor Approved | 2.00% | ~307 |
-| Bottoms up! | 2.00% | ~307 |
-| Thorston Mayer | 2.00% | ~307 |
-| Miraculous Maya | 2.00% | ~307 |
+| Doctor Approved | 2.00% | ~308 |
+| Bottoms up! | 2.00% | ~308 |
+| Thorston Mayer | 2.00% | ~308 |
+| Miraculous Maya | 2.00% | ~308 |
 | Data Logger | 1.00% | ~154 |
 | Data Master | 1.00% | ~154 |
 | Brother's Reaper | 0.80% | ~123 |
 | No Belter Left Behind | 0.80% | ~123 |
 | Debris Spree | 0.70% | ~108 |
 | Data Recoverer | 0.70% | ~108 |
-| Urshanabi Hoarder | 0.40% | ~61 |
+| Urshanabi Hoarder | 0.40% | ~62 |
 | Data Miner | 0.20% | ~31 |
 | Grave Robber | 0.20% | ~31 |
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,374 (Ranked 152)  
+Progressed: 15,379 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-21 | 15,203 | 35 |
 | 2023-11-22 | 15,266 | 35 |
 | 2023-11-23 | 15,346 | 35 |
-| 2023-11-24 | 15,374 | 35 |
+| 2023-11-24 | 15,379 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

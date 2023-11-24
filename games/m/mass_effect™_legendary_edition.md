@@ -99,8 +99,8 @@
 | No One Left Behind | 19.00% | ~261 |
 | Well Connected | 19.00% | ~261 |
 | Executioner | 18.00% | ~248 |
+| Patriot | 18.00% | ~248 |
 | Master and Commander | 18.00% | ~248 |
-| Patriot | 17.00% | ~234 |
 | Legend | 17.00% | ~234 |
 | Sabotage Specialist | 16.00% | ~220 |
 | Long Service Medal | 15.00% | ~206 |

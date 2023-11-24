@@ -52,6 +52,7 @@ Rating: 3.45 (Ranked 1,045)
 | Good Samaritan | 0.30% | ~5 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
+| Scream Team | 0.10% | ~2 |
 | Monster Hunters Club | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
 | Friendgineering | 0.10% | ~2 |
@@ -60,7 +61,6 @@ Rating: 3.45 (Ranked 1,045)
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
-| Scream Team | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
 | A Cry in the Dark | 0.00% | ~0 |
 | Ask Not For Whom The Horns Blow | 0.00% | ~0 |

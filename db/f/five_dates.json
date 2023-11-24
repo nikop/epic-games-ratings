@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
@@ -1645,6 +1645,11 @@
       "Time": "2023-11-23T21:09:49.3919508+00:00",
       "NumProgressed": 663,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-24T11:09:51.462161+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1656,7 +1661,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "booty_call",
@@ -1680,7 +1685,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "hold_my_beer",
@@ -1688,7 +1693,7 @@
       "Name": "Hold my Beer",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1712,7 +1717,7 @@
       "Name": "Light Sleepers",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "not_alone",
@@ -1775,7 +1780,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 11
     }
   ],
@@ -1783,8 +1788,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:08:57.9889384+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:09:51.4621608+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:39.9190585+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:58:27.7537173+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:08:57.9889707+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:59:28.3855026+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:09:51.4621777+00:00"
 }

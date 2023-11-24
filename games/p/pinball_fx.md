@@ -6,11 +6,11 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~230,492 |
-| I know the Rules | 34.00% | ~95,570 |
+| Ball Launched | 82.00% | ~230,495 |
+| I know the Rules | 34.00% | ~95,571 |
 | I Found it! | 11.00% | ~30,920 |
 | Contender | 10.00% | ~28,109 |
-| First but not Last | 5.00% | ~14,054 |
+| First but not Last | 5.00% | ~14,055 |
 | Ready Steady Score | 4.00% | ~11,244 |
 | Dress Code | 3.00% | ~8,433 |
 | Full Loot Madness | 2.00% | ~5,622 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,088 (Ranked 55)  
+Progressed: 281,092 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 280,819 | 0 |
 | 2023-11-22 | 280,921 | 0 |
 | 2023-11-23 | 281,046 | 0 |
-| 2023-11-24 | 281,088 | 0 |
+| 2023-11-24 | 281,092 | 0 |
 ## Awards
 Max (Great for Beginners): 202  (Ranked 287)  
 Sum: 1,600 (Ranked 231)  

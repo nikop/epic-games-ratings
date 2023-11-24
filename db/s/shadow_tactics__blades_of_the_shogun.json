@@ -2134,9 +2134,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 215497,
+  "EOS_Progressed": 215501,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1347,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27074,6 +27074,11 @@
       "Time": "2023-11-24T10:04:34.7573142+00:00",
       "NumProgressed": 215497,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-24T11:06:00.5638273+00:00",
+      "NumProgressed": 215501,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -27101,7 +27106,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Chunin",
@@ -27213,7 +27218,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "Meticulous",
@@ -27229,7 +27234,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "MugenUnchained",
@@ -27293,7 +27298,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "RescueTakuma",
@@ -27413,7 +27418,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "WinnerWinner",
@@ -27436,15 +27441,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 215497,
+      "Progressed": 215501,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-23T22:00:20.021746+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:04:34.7573137+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:06:00.5638269+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.854091+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:57:14.4145582+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:04:34.7574509+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:57:35.1486204+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:06:00.5639408+00:00"
 }

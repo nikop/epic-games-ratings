@@ -7121,10 +7121,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27585,
       "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-11-24T11:03:04.7878961+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27587,
+      "NumberOfAwardsMax": 4842
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27585,
+  "NumberOfAwards": 27587,
   "NumberOfAwardsMax": 4842,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7138,7 +7144,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3947
+      "Count": 3949
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7177,10 +7183,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141366,
-  "EOS_Completed": 203,
-  "EOS_NewPlayers": 1193,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 141375,
+  "EOS_Completed": 204,
+  "EOS_NewPlayers": 1195,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -29657,6 +29663,11 @@
       "Time": "2023-11-24T10:08:04.7648885+00:00",
       "NumProgressed": 141366,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2023-11-24T11:08:35.799868+00:00",
+      "NumProgressed": 141375,
+      "NumCompleted": 204
     }
   ],
   "TotalAchievements": 112,
@@ -29668,7 +29679,7 @@
       "Name": "The Daily Grind",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "advlevel02",
@@ -29804,7 +29815,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "boss02",
@@ -29836,7 +29847,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7068
+      "UsersEstimate": 7069
     },
     {
       "ID": "chest02",
@@ -29900,7 +29911,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7068
+      "UsersEstimate": 7069
     },
     {
       "ID": "commonres02",
@@ -29908,7 +29919,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "commonres03",
@@ -29940,7 +29951,7 @@
       "Name": "Flooding the Market",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "craft03",
@@ -29972,7 +29983,7 @@
       "Name": "Where it Hurts",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "damage02",
@@ -30132,7 +30143,7 @@
       "Name": "Gem Expert",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "gold01",
@@ -30140,7 +30151,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7068
+      "UsersEstimate": 7069
     },
     {
       "ID": "gold02",
@@ -30156,7 +30167,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "gold04",
@@ -30220,7 +30231,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "jackslot02",
@@ -30260,7 +30271,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "level03",
@@ -30292,7 +30303,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "loot02",
@@ -30324,7 +30335,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "master02",
@@ -30356,7 +30367,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "masterpiece",
@@ -30380,7 +30391,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "quest02",
@@ -30428,7 +30439,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "rudo_a",
@@ -30484,7 +30495,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7068
+      "UsersEstimate": 7069
     },
     {
       "ID": "twinenchant01",
@@ -30540,7 +30551,7 @@
       "Name": "Arcane Industries",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "workers03",
@@ -30563,15 +30574,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141366,
-      "Completed": 203
+      "Progressed": 141375,
+      "Completed": 204
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-24T01:47:37.4172495+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:08:04.764888+00:00",
+  "LastChanged": "2023-11-24T11:03:04.7878959+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:08:35.7998636+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-24T10:02:40.9532706+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:08:04.7650991+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:03:04.7878965+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:08:35.8000626+00:00"
 }

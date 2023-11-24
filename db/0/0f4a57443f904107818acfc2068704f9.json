@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 505,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1062,6 +1062,11 @@
       "Time": "2023-11-24T10:05:03.7337054+00:00",
       "NumProgressed": 503,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T11:06:42.4506635+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1082,7 +1087,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1130,15 +1135,15 @@
       "Name": "Pathfinder",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 359
     },
     {
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChapter11",
@@ -1218,7 +1223,7 @@
       "Name": "Met the Enemy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "CompleteChapter3",
@@ -1226,15 +1231,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "CompleteChapter5",
@@ -1250,7 +1255,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "CompleteChapter7",
@@ -1258,7 +1263,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CompleteChapter8",
@@ -1266,7 +1271,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CompleteChapter9",
@@ -1322,7 +1327,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1346,7 +1351,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1369,14 +1374,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 505,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:05:03.7337049+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:06:42.4506632+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:58:14.8377574+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:05:03.7337368+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:59:08.4165598+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:06:42.4506912+00:00"
 }

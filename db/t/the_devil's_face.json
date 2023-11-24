@@ -2,9 +2,9 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
@@ -2474,6 +2474,11 @@
       "Time": "2023-11-23T17:08:20.7720949+00:00",
       "NumProgressed": 571,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-24T11:08:24.6955142+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 14,
@@ -2485,15 +2490,15 @@
       "Name": "The gateway to the underworld",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 257
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2515,9 +2520,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "296pn27",
       "Name": "Hubris",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -2533,7 +2538,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2541,7 +2546,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2596,14 +2601,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:07:57.0970947+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:08:24.6955138+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.3122643+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:59:56.9247589+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:07:57.0971142+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:01:45.7470673+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:08:24.6955421+00:00"
 }

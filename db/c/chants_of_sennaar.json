@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 690,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.08,
+  "EOS_Completed_Percentage": 5.07,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2870,6 +2870,11 @@
       "Time": "2023-11-24T09:06:57.0297638+00:00",
       "NumProgressed": 689,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-24T11:08:24.8133158+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2977,7 +2982,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3025,7 +3030,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3041,7 +3046,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "PROGRESS_N2",
@@ -3057,7 +3062,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PROGRESS_N4",
@@ -3080,14 +3085,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 690,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:07:57.1527211+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:08:24.8133142+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:59:01.2847478+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:07:57.1527449+00:00"
+  "LastUpdate_Ratings": "2023-11-24T11:00:20.0916898+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:08:24.8133475+00:00"
 }

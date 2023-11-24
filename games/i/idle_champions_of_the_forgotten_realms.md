@@ -79,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.10% | ~237 |
 | Best Laid Plans | 0.10% | ~203 |
 | Pincushion Party | 0.10% | ~203 |
+| G. O. A. T. | 0.10% | ~203 |
 | The Howling Peaks of Yon | 0.10% | ~203 |
 | Strength of Character | 0.10% | ~203 |
 | The Invisible Wizards of Thay | 0.10% | ~203 |
@@ -536,11 +537,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~203 |
 | The End is the Beginning | 0.10% | ~203 |
 | See You on the Flipside | 0.10% | ~203 |
-| G. O. A. T. | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,665 (Ranked 64)  
-Completed: 2,472 (1.04%) (Ranked 163)  
+Progressed: 236,672 (Ranked 64)  
+Completed: 2,473 (1.04%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -757,7 +757,7 @@ Completed: 2,472 (1.04%) (Ranked 163)
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
 | 2023-11-23 | 236,580 | 2,472 |
-| 2023-11-24 | 236,665 | 2,472 |
+| 2023-11-24 | 236,672 | 2,473 |
 ## Awards
 Max (Great for Beginners): 5,559  (Ranked 70)  
 Sum: 32,592 (Ranked 41)  

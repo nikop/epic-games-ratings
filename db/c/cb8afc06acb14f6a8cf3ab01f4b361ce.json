@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 904,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 51,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-09-29T19:00:17.3026687+00:00",
@@ -339,6 +339,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 61,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-11-24T10:58:21.9690537+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 61,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
@@ -359,9 +365,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 317470,
+  "EOS_Progressed": 317494,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5114,
+  "EOS_NewPlayers": 5108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7139,6 +7145,11 @@
       "Time": "2023-11-24T10:05:10.1899069+00:00",
       "NumProgressed": 317470,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T11:06:50.8043898+00:00",
+      "NumProgressed": 317494,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7151,7 +7162,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "S02_BRDA",
@@ -7287,7 +7298,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "S19_CHALLENGES",
@@ -7470,16 +7481,16 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 317470,
+      "Progressed": 317494,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2023-11-23T01:49:19.1943033+00:00",
-  "LastChanged_Achievements": "2023-11-24T10:05:10.1899065+00:00",
+  "LastChanged": "2023-11-24T10:58:21.9690534+00:00",
+  "LastChanged_Achievements": "2023-11-24T11:06:50.8043892+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:57:44.8146438+00:00",
-  "LastUpdate_Achievements": "2023-11-24T10:05:10.1899596+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:58:21.9690539+00:00",
+  "LastUpdate_Achievements": "2023-11-24T11:06:50.8044483+00:00"
 }

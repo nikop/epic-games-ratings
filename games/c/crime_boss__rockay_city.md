@@ -36,7 +36,7 @@ Rating: 3.95 (Ranked 1,009)
 | Groundhog Days | 0.30% | ~274 |
 | Cracked the Jack | 0.30% | ~274 |
 | Classy Joint | 0.30% | ~274 |
-| All for One | 0.30% | ~59 |
+| All for One | 0.30% | ~60 |
 | Rockay Knight | 0.20% | ~183 |
 | Privateer | 0.20% | ~183 |
 | Talent Scout | 0.20% | ~183 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,009)
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,486 (Ranked 92)  
+Progressed: 91,489 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 57 (0.06%) (Ranked 301)
 | 2023-11-21 | 91,374 | 57 |
 | 2023-11-22 | 91,428 | 57 |
 | 2023-11-23 | 91,464 | 57 |
-| 2023-11-24 | 91,486 | 57 |
+| 2023-11-24 | 91,489 | 57 |
 ## Awards
 Max (Diverse Characters): 542  (Ranked 206)  
 Sum: 3,087 (Ranked 175)  
