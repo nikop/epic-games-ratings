@@ -36,7 +36,7 @@
 | 32 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 139 | 324 |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 42 | 453 |
 | 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 347 | 240 |
-| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 13,236 | 30 |
+| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 13,247 | 30 |
 | 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 361 |
 | 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 159 | 312 |
 | 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,559 | 129 |
@@ -78,7 +78,7 @@
 | 67 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.82 | 0 | 553 |
 | 67 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 96 | 367 |
 | 78 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 440 | 222 |
-| 78 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,864 | 115 |
+| 78 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,872 | 115 |
 | 78 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 0 | 553 |
 | 78 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.81 | 0 | 553 |
 | 78 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.81 | 0 | 553 |
@@ -192,7 +192,7 @@
 | 186 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 252 | 269 |
 | 186 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 79 | 392 |
 | 186 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 134 | 327 |
-| 186 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 346 | 241 |
+| 186 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 347 | 240 |
 | 186 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 553 |
 | 186 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 553 |
 | 186 | [Timberborn](games/t/timberborn.md) | 4.72 | 147 | 320 |
@@ -262,7 +262,7 @@
 | 253 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,051 | 84 |
 | 253 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 731 | 180 |
 | 253 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,590 | 69 |
-| 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 316,133 | 3 |
+| 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 316,230 | 3 |
 | 253 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 263,507 | 4 |
 | 253 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 553 |
 | 253 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 553 |
@@ -933,7 +933,7 @@
 | 923 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 553 |
 | 932 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 553 |
 | 932 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 553 |
-| 932 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 212,494 | 5 |
+| 932 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 212,587 | 5 |
 | 932 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 367 |
 | 936 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 364 |
 | 936 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.17 | 29 | 500 |
@@ -986,16 +986,16 @@
 | 980 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 553 |
 | 985 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.05 | 0 | 553 |
 | 985 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 553 |
+| 985 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.05 | 0 | 553 |
 | 985 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.05 | 0 | 553 |
 | 985 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 477 | 214 |
 | 985 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 553 |
-| 990 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 553 |
-| 990 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 4.04 | 0 | 553 |
-| 992 | [Lake](games/l/lake.md) | 4.03 | 0 | 553 |
-| 992 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.03 | 0 | 553 |
-| 992 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 553 |
-| 992 | [The Front](games/t/the_front.md) | 4.03 | 0 | 553 |
-| 996 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.02 | 0 | 553 |
+| 991 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 553 |
+| 991 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 4.04 | 0 | 553 |
+| 993 | [Lake](games/l/lake.md) | 4.03 | 0 | 553 |
+| 993 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.03 | 0 | 553 |
+| 993 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 553 |
+| 993 | [The Front](games/t/the_front.md) | 4.03 | 0 | 553 |
 | 997 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 0 | 553 |
 | 998 | [Astria Ascending](games/a/astria_ascending.md) | 4.00 | 0 | 553 |
 | 998 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.00 | 0 | 553 |

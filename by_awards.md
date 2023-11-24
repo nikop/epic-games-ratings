@@ -2,9 +2,9 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 2,208,507 | 4.28 | 852 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 627,441 | 4.47 | 637 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 316,133 | 4.68 | 253 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 316,230 | 4.68 | 253 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 263,507 | 4.68 | 253 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 212,494 | 4.18 | 932 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 212,587 | 4.18 | 932 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 200,927 | 4.88 | 17 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 152,075 | 4.51 | 568 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 121,139 | 4.69 | 233 |
@@ -29,7 +29,7 @@
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,024 | 4.60 | 416 |
 | 28 | [Maneater](games/m/maneater.md) | 13,816 | 4.49 | 608 |
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,719 | 4.43 | 692 |
-| 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 13,236 | 4.86 | 32 |
+| 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 13,247 | 4.86 | 32 |
 | 31 | [Satisfactory](games/s/satisfactory.md) | 13,068 | 4.87 | 24 |
 | 32 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,775 | 4.36 | 780 |
 | 33 | [SnowRunner](games/s/snowrunner.md) | 12,447 | 4.76 | 127 |
@@ -114,7 +114,7 @@
 | 112 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,948 | 4.90 | 7 |
 | 113 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,942 | 4.66 | 295 |
 | 114 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,939 | 4.70 | 215 |
-| 115 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,864 | 4.81 | 78 |
+| 115 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,872 | 4.81 | 78 |
 | 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,851 | 4.77 | 114 |
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,836 | 4.50 | 588 |
 | 118 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,818 | 4.56 | 491 |
@@ -240,7 +240,7 @@
 | 238 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 372 | 4.31 | 829 |
 | 239 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 371 | 4.55 | 505 |
 | 240 | [Inscryption](games/i/inscryption.md) | 347 | 4.86 | 32 |
-| 241 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 346 | 4.72 | 186 |
+| 240 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 347 | 4.72 | 186 |
 | 242 | [The Messenger](games/t/the_messenger.md) | 342 | 4.81 | 78 |
 | 243 | [Alan Wake 2](games/a/alan_wake_2.md) | 339 | 4.78 | 107 |
 | 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 339 | 4.57 | 472 |

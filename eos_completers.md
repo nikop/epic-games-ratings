@@ -11,7 +11,7 @@
 | 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.17% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 28.96% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 28.95% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.48% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -23,8 +23,8 @@
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
-| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.93% |
-| 25 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
+| 24 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.78% |
 | 26 | [Island Cities](games/i/island_cities.md) | 17.19% |
 | 27 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
 | 28 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.25% |
@@ -72,7 +72,7 @@
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.59% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 72 | [JARS](games/j/jars.md) | 5.15% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.10% |
+| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.09% |
 | 74 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.82% |
 | 76 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
@@ -136,9 +136,9 @@
 | 134 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.75% |
 | 135 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.69% |
 | 136 | [Five Dates](games/f/five_dates.md) | 1.66% |
-| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
+| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.65% |
 | 138 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.64% |
-| 139 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.60% |
+| 139 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.59% |
 | 140 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 141 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.50% |
 | 142 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -166,9 +166,9 @@
 | 163 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.04% |
 | 165 | [Sable](games/s/sable.md) | 1.01% |
 | 166 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
-| 167 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.97% |
 | 167 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.97% |
-| 169 | [Trifox](games/t/trifox.md) | 0.96% |
+| 168 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.96% |
+| 168 | [Trifox](games/t/trifox.md) | 0.96% |
 | 170 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 171 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.93% |
 | 171 | [Infindustry](games/i/infindustry.md) | 0.93% |
@@ -757,4 +757,4 @@
 | 359 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 359 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 359 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,607 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,608 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
