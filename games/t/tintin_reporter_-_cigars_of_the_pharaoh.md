@@ -23,9 +23,9 @@
 | Punctual | 6.00% | ~2 |
 | Barking Dog | 6.00% | ~2 |
 | Threat | 6.00% | ~2 |
+| Keep the Doctor Away | 3.00% | ~1 |
+| Just a Palm Tree | 3.00% | ~1 |
 | Eyes Shut | 3.00% | ~1 |
-| Keep the Doctor Away | 0.00% | ~0 |
-| Just a Palm Tree | 0.00% | ~0 |
 | Under the Hood | 0.00% | ~0 |
 | Long Live Gaipajama! | 0.00% | ~0 |
 | Cookie Accomplished | 0.00% | ~0 |

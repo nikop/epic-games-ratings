@@ -13,6 +13,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | That Was Quick | 0.40% | ~960 |
 | Colorful Corpse | 0.40% | ~960 |
 | Defeat The Dark | 0.40% | ~960 |
+| Goodbye, Frog Friend | 0.40% | ~960 |
 | A Donation | 0.40% | ~960 |
 | A Quick Escape | 0.40% | ~960 |
 | Uncharted Territory | 0.40% | ~960 |
@@ -32,7 +33,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | I Am Overburdened | 0.30% | ~720 |
 | Destroy Your Fears | 0.30% | ~720 |
 | The Bestiary | 0.30% | ~720 |
-| Goodbye, Frog Friend | 0.30% | ~720 |
 | Heartless | 0.30% | ~720 |
 | What's Yours Is Mine | 0.30% | ~720 |
 | Spine Breaker | 0.30% | ~720 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,120 (Ranked 62)  
+Progressed: 240,122 (Ranked 62)  
 Completed: 290 (0.12%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,6 +363,7 @@ Completed: 290 (0.12%) (Ranked 276)
 | 2023-11-21 | 240,034 | 290 |
 | 2023-11-22 | 240,077 | 290 |
 | 2023-11-23 | 240,120 | 290 |
+| 2023-11-24 | 240,122 | 290 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 132)  
 Sum: 11,691 (Ranked 84)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -715,7 +715,7 @@
   ],
   "EOS_Progressed": 1945,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6090,9 +6090,9 @@
       "ID": "achievement_27",
       "SetID": "222fo9l",
       "Name": "Pack Rat",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 525
     },
     {
       "ID": "achievement_28",
@@ -6282,9 +6282,9 @@
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1031
     },
     {
       "ID": "achievement_7",
@@ -6323,8 +6323,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-23T06:58:07.5368544+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:06:21.4148437+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:05:53.8553586+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:58:44.4536517+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:06:21.4148886+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:58:22.9360088+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:05:53.8554164+00:00"
 }

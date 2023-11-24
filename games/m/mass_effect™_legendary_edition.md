@@ -98,7 +98,7 @@
 | Under Pressure | 19.00% | ~261 |
 | No One Left Behind | 19.00% | ~261 |
 | Well Connected | 19.00% | ~261 |
-| Executioner | 17.00% | ~234 |
+| Executioner | 18.00% | ~248 |
 | Patriot | 17.00% | ~234 |
 | Legend | 17.00% | ~234 |
 | Master and Commander | 17.00% | ~234 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-14T16:00:00+00:00",
     "PcReleaseDate": "2021-03-11T07:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16239,
+  "EOS_Progressed": 16240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6520,
+  "EOS_NewPlayers": 6402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -829,6 +829,11 @@
       "Time": "2023-11-23T13:10:40.9419501+00:00",
       "NumProgressed": 16239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T00:04:57.0970594+00:00",
+      "NumProgressed": 16240,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-12T12:03:32.4502016+00:00",
@@ -1017,7 +1022,7 @@
       "Name": "1.000.000 Scovilles",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1025,7 +1030,7 @@
       "Name": "Don\u0027t interrupt my research!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -1376,7 +1381,7 @@
     {
       "ID": "h261mm",
       "IsBase": true,
-      "Progressed": 16239,
+      "Progressed": 16240,
       "Completed": 0
     }
   ],
@@ -1384,8 +1389,8 @@
   "FirstSeenRating": "2023-11-17T10:00:31.8324772+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
   "LastChanged": "2023-11-22T09:59:30.7782774+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:05:18.1444456+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:04:57.097059+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:18.1387515+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:00:12.3079597+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:05:18.1444938+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:59:38.982893+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:04:57.0971063+00:00"
 }

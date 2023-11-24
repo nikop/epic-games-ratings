@@ -2,13 +2,13 @@
   "ID": "038295c445bb40d1b06545fd75741af1",
   "Name": "Kerbal Space Program 2",
   "ProductSlug": "kerbal-space-program-2",
-  "Ranking_Rating": 939,
-  "Ranking_Popularity": 505,
+  "Ranking_Rating": 937,
+  "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-02-27T02:15:09.7091153+00:00",
@@ -605,12 +605,18 @@
       "Rating": 4.16,
       "NumberOfAwards": 146,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-11-24T00:02:57.2838186+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 147,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 146,
-  "NumberOfAwardsMax": 28,
-  "MaxAwardTitle": "Educational",
+  "NumberOfAwards": 147,
+  "NumberOfAwardsMax": 29,
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Educational",
@@ -622,7 +628,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
@@ -661,8 +667,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2023-11-23T17:03:39.9469224+00:00",
+  "LastChanged": "2023-11-24T00:02:57.2838182+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:16.1529475+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:03:02.6796986+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:03:15.6552872+00:00"
+  "LastUpdate_Ratings": "2023-11-24T00:02:57.2838189+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:03:09.861858+00:00"
 }

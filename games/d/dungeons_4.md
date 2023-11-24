@@ -14,7 +14,7 @@
 | Thalya's Concentrated Fury | 66.00% | ~242 |
 | Master of Magic | 64.00% | ~235 |
 | Bad Elves Go Everywhere | 62.00% | ~228 |
-| Magic Accidents | 57.00% | ~209 |
+| Magic Accidents | 58.00% | ~213 |
 | Unicorn steaks – fresh off the hoof! | 57.00% | ~209 |
 | Heroes’ Gorge | 57.00% | ~209 |
 | Trap Master | 54.00% | ~198 |
@@ -28,8 +28,8 @@
 | “… like son” | 39.00% | ~143 |
 | Mana Cannon | 34.00% | ~125 |
 | Dungeonlord Gorgu | 34.00% | ~125 |
+| The Cathedral of Light | 34.00% | ~125 |
 | Shame! Shame! Shame! | 34.00% | ~125 |
-| The Cathedral of Light | 33.00% | ~121 |
 | Tanos' Crusade Against Thalya | 30.00% | ~110 |
 | Unstoppable Horde | 25.00% | ~92 |
 | All’s Well That Ends Evil | 25.00% | ~92 |

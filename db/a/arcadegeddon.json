@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -820,7 +820,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9705,
+  "EOS_Progressed": 9706,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -11845,6 +11845,11 @@
       "Time": "2023-11-23T23:03:18.5482679+00:00",
       "NumProgressed": 9705,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T00:03:12.4852282+00:00",
+      "NumProgressed": 9706,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -11856,7 +11861,7 @@
       "Name": "Adventure Time",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 7376
+      "UsersEstimate": 7377
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -11928,7 +11933,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -11952,7 +11957,7 @@
       "Name": "Guardian Angel",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -12000,7 +12005,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 8540
+      "UsersEstimate": 8541
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -12024,7 +12029,7 @@
       "Name": "Meching Enemies",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4562
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -12056,7 +12061,7 @@
       "Name": "Photogenic",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 8152
+      "UsersEstimate": 8153
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -12072,7 +12077,7 @@
       "Name": "Plug It In",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7764
+      "UsersEstimate": 7765
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -12128,7 +12133,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -12152,7 +12157,7 @@
       "Name": "Surge Ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -12160,7 +12165,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7861
+      "UsersEstimate": 7862
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -12208,7 +12213,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -12224,7 +12229,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4173
+      "UsersEstimate": 4174
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -12255,15 +12260,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9705,
+      "Progressed": 9706,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:03:18.5482674+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:03:12.4852278+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:43.4613889+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:58:18.3431723+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:03:18.5483397+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:58:00.4928802+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:03:12.4853546+00:00"
 }

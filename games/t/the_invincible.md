@@ -14,19 +14,19 @@
 | The Necroevolution | 17.00% | ~45 |
 | Volcanologist | 16.00% | ~42 |
 | On her own | 14.00% | ~37 |
+| The Alliance | 14.00% | ~37 |
 | Peacemaker | 13.00% | ~34 |
-| The Alliance | 13.00% | ~34 |
 | Krauta is alive | 13.00% | ~34 |
 | Fierce fight | 11.00% | ~29 |
+| Evacuation | 11.00% | ~29 |
 | Beyond divisions | 11.00% | ~29 |
-| Evacuation | 10.00% | ~26 |
 | Flying Objects Operator | 10.00% | ~26 |
 | I remember everything! | 9.00% | ~24 |
-| Violent solution | 6.00% | ~16 |
+| Violent solution | 7.00% | ~18 |
 | The Invincible | 5.00% | ~13 |
+| Another giant | 5.00% | ~13 |
 | Innate curiosity | 5.00% | ~13 |
-| Another giant | 4.00% | ~10 |
-| Strong objection | 4.00% | ~10 |
+| Strong objection | 4.00% | ~11 |
 | Ubiquitous holes | 3.00% | ~8 |
 | I leave no man behind | 3.00% | ~8 |
 | Got lost again | 3.00% | ~8 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~3 |
 | No more mistakes | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 362)  
+Progressed: 263 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,3 +53,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 204 | 0 |
 | 2023-11-22 | 233 | 0 |
 | 2023-11-23 | 262 | 0 |
+| 2023-11-24 | 263 | 0 |

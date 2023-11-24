@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 205,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2023-11-23T23:09:25.6900625+00:00",
       "NumProgressed": 204,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-24T00:09:03.4926246+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -865,9 +870,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_09",
@@ -985,9 +990,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_24",
@@ -1098,14 +1103,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 205,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:09:25.6900623+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:09:03.4926241+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:57:40.8040045+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:09:25.6901063+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:57:27.8338865+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:09:03.4926458+00:00"
 }

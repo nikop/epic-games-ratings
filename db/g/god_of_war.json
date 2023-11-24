@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
     "PcReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -3855,10 +3855,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 8451,
       "NumberOfAwardsMax": 4398
+    },
+    {
+      "Time": "2023-11-23T23:58:28.8562183+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 8452,
+      "NumberOfAwardsMax": 4398
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8451,
+  "NumberOfAwards": 8452,
   "NumberOfAwardsMax": 4398,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3872,7 +3878,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2288
+      "Count": 2289
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3964,8 +3970,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2023-11-23T16:59:35.0120572+00:00",
+  "LastChanged": "2023-11-23T23:58:28.8562181+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:53.5766315+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:58:51.4234577+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:04:59.3906452+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:58:28.8562187+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:04:40.5564317+00:00"
 }

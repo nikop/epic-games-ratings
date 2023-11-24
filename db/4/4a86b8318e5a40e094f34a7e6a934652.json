@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.43,
+  "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -964,6 +964,11 @@
       "Time": "2023-11-23T18:06:04.7480065+00:00",
       "NumProgressed": 210,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-24T00:05:42.9353041+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -976,7 +981,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -992,7 +997,7 @@
       "Name": "Retro Diva",
       "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1014,9 +1019,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1032,7 +1037,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1048,7 +1053,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LUNCH_LEECH",
@@ -1056,7 +1061,7 @@
       "Name": "Leech Lunch",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1078,7 +1083,7 @@
       "ID": "PREPARE_10_COFFEE",
       "SetID": "aniflfk",
       "Name": "Barista",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1086,9 +1091,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1096,7 +1101,7 @@
       "Name": "Bridge Builder",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -1104,7 +1109,7 @@
       "Name": "Sleepyhead",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -1112,7 +1117,7 @@
       "Name": "Crypto Bro",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "TAKE_LEECH",
@@ -1120,7 +1125,7 @@
       "Name": "Uppies!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1135,14 +1140,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:06:09.5367249+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:05:42.9353036+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:01.3377699+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:02:45.6681403+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:06:09.5367407+00:00"
+  "LastUpdate_Ratings": "2023-11-24T00:02:42.8255586+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:05:42.9353209+00:00"
 }

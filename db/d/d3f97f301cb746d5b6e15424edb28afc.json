@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2497,9 +2497,9 @@
       "ID": "GSS_ACH_03_TIP_01",
       "SetID": "5fn8ia4",
       "Name": "The first tip",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 966
     },
     {
       "ID": "GSS_ACH_04_TIP_02",
@@ -2529,9 +2529,9 @@
       "ID": "GSS_ACH_07_FUEL_02",
       "SetID": "5fn8ia4",
       "Name": "Fueled it better!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 945
     },
     {
       "ID": "GSS_ACH_08_FUEL_03",
@@ -2577,9 +2577,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 976
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -2625,9 +2625,9 @@
       "ID": "GSS_ACH_19_RUDY",
       "SetID": "5fn8ia4",
       "Name": "Rudy!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 1008
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
@@ -3041,17 +3041,17 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 231
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 914
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -3138,8 +3138,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:05:46.4903628+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:05:22.5369422+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:57:17.9034701+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:05:46.4905014+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:57:08.5354869+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:05:22.5370219+00:00"
 }

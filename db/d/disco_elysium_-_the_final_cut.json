@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1484,9 +1484,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131117,
+  "EOS_Progressed": 131120,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22729,6 +22729,11 @@
       "Time": "2023-11-23T23:04:42.1110519+00:00",
       "NumProgressed": 131117,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-24T00:04:25.5441989+00:00",
+      "NumProgressed": 131120,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22772,7 +22777,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23601
+      "UsersEstimate": 23602
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22796,7 +22801,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31468
+      "UsersEstimate": 31469
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22820,7 +22825,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36713
+      "UsersEstimate": 36714
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22868,7 +22873,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17045
+      "UsersEstimate": 17046
     },
     {
       "ID": "ACH_COP_STAR",
@@ -22956,7 +22961,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18356
+      "UsersEstimate": 18357
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -23020,7 +23025,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18356
+      "UsersEstimate": 18357
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -23059,15 +23064,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131117,
+      "Progressed": 131120,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-21T09:00:02.2217381+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:04:42.1110517+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:04:25.5441985+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:00:32.9748882+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:04:42.1111578+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:59:56.3781546+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:04:25.5443143+00:00"
 }

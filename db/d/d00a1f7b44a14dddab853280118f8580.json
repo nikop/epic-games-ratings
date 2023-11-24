@@ -1083,41 +1083,41 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 60,
-      "UsersEstimate": 182
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_skip_1",
@@ -1131,17 +1131,17 @@
       "ID": "ach_skip_3",
       "SetID": "5e260i9",
       "Name": "Advance further!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_skip_5",
       "SetID": "5e260i9",
       "Name": "Skip and conquer!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 150,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
@@ -1154,8 +1154,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:06:42.4406238+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:06:12.8027099+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.0966584+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:57:28.6352938+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:06:42.4406368+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:57:17.412243+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:06:12.8027223+00:00"
 }

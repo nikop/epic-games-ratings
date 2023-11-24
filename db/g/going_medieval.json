@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1481,7 +1481,7 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 6890,
+  "EOS_Progressed": 6891,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -13246,6 +13246,11 @@
       "Time": "2023-11-23T23:04:02.8167534+00:00",
       "NumProgressed": 6890,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-24T00:03:50.8141177+00:00",
+      "NumProgressed": 6891,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13289,7 +13294,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4616
+      "UsersEstimate": 4617
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -13297,7 +13302,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5236
+      "UsersEstimate": 5237
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -13353,7 +13358,7 @@
       "Name": "Where Wolf?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "HUNT_WOLF_5",
@@ -13377,7 +13382,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -13401,7 +13406,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -13417,7 +13422,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -13441,7 +13446,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -13465,7 +13470,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4616
+      "UsersEstimate": 4617
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -13473,7 +13478,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -13489,7 +13494,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3928
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -13504,15 +13509,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6890,
+      "Progressed": 6891,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-23T22:00:14.1144671+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:04:02.8167529+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:03:50.8141173+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:31.1840815+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:00:35.0225889+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:04:02.8168373+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:59:58.1611246+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:03:50.8141733+00:00"
 }

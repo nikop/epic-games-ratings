@@ -9,6 +9,7 @@ Rating: 4.75 (Ranked 148)
 | Master of the Dark Arts | 0.50% | ~29 |
 | The Killing Jar | 0.20% | ~453 |
 | First of Many | 0.20% | ~453 |
+| Not Your Average Trait | 0.20% | ~453 |
 | Expanding Horizons | 0.10% | ~227 |
 | Crafty | 0.10% | ~227 |
 | Am I Seeing This? | 0.10% | ~227 |
@@ -45,7 +46,6 @@ Rating: 4.75 (Ranked 148)
 | The Collector | 0.10% | ~227 |
 | Scrap Collector | 0.10% | ~227 |
 | Scrap Hoarder | 0.10% | ~227 |
-| Not Your Average Trait | 0.10% | ~227 |
 | All These Traits� | 0.10% | ~227 |
 | Proving Grounds | 0.10% | ~227 |
 | Carnage in C-Minor | 0.10% | ~227 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~6 |
 | You Shall Pass | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,595 (Ranked 69)  
-Completed: 509 (0.22%) (Ranked 249)  
+Progressed: 226,608 (Ranked 69)  
+Completed: 510 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,6 +192,7 @@ Completed: 509 (0.22%) (Ranked 249)
 | 2023-11-21 | 225,251 | 498 |
 | 2023-11-22 | 225,927 | 503 |
 | 2023-11-23 | 226,595 | 509 |
+| 2023-11-24 | 226,608 | 510 |
 ## Awards
 Max (Great Boss Battles): 2,401  (Ranked 105)  
 Sum: 5,787 (Ranked 130)  

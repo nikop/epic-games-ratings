@@ -6,7 +6,7 @@
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -4659,11 +4659,11 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 226595,
-  "EOS_Completed": 509,
-  "EOS_NewPlayers": 4660,
-  "EOS_NewCompleters": 43,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Progressed": 226608,
+  "EOS_Completed": 510,
+  "EOS_NewPlayers": 4655,
+  "EOS_NewCompleters": 44,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-07-21T17:05:35.5618698+00:00",
@@ -19589,6 +19589,11 @@
       "Time": "2023-11-23T23:08:33.2334177+00:00",
       "NumProgressed": 226595,
       "NumCompleted": 509
+    },
+    {
+      "Time": "2023-11-24T00:08:17.4922085+00:00",
+      "NumProgressed": 226608,
+      "NumCompleted": 510
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19903,9 +19908,9 @@
       "ID": "Obtain_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Not Your Average Trait",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 453
     },
     {
       "ID": "Obtain_Traits_B",
@@ -20040,13 +20045,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 226595,
-      "Completed": 509
+      "Progressed": 226608,
+      "Completed": 510
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 5760,
+      "Progressed": 5773,
       "Completed": 143
     }
   ],
@@ -20054,8 +20059,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-23T23:02:59.8466062+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:08:33.2334175+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:08:17.492208+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:02:59.8466066+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:08:33.2335309+00:00"
+  "LastUpdate_Ratings": "2023-11-24T00:02:54.8083402+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:08:17.4922947+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6107,
+  "EOS_Progressed": 6111,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 0,
@@ -4253,6 +4253,11 @@
       "Time": "2023-11-23T23:09:06.4016614+00:00",
       "NumProgressed": 6107,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T00:08:46.8381242+00:00",
+      "NumProgressed": 6111,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4273,7 +4278,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "BeLikeWater",
@@ -4337,7 +4342,7 @@
       "Name": "First Time?",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4345,7 +4350,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "GarbageMan",
@@ -4407,9 +4412,9 @@
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 672
+      "UsersEstimate": 733
     },
     {
       "ID": "NoMoreTotems",
@@ -4417,7 +4422,7 @@
       "Name": "No More Totems",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4465,7 +4470,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ThisIsDharma",
@@ -4473,7 +4478,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -4489,15 +4494,15 @@
       "Name": "Un-Resurrected",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WereNotInKansasAnymore",
       "SetID": "acc6ea0",
       "Name": "We\u0027re Not In Kansas Anymore",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 550
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -4505,7 +4510,7 @@
       "Name": "Digestive Issues",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -4536,7 +4541,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6107,
+      "Progressed": 6111,
       "Completed": 7
     }
   ],
@@ -4544,8 +4549,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-23T21:59:45.7390093+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:09:06.4016612+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:08:46.8381237+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:00:03.1827777+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:09:06.4016919+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:59:31.1388666+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:08:46.8381651+00:00"
 }

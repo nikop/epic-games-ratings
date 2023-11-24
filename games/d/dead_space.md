@@ -16,9 +16,9 @@ Rating: 4.64 (Ranked 333)
 | Story Teller | 57.00% | ~1,109 |
 | Raise the Stakes | 56.00% | ~1,089 |
 | Surgeon | 54.00% | ~1,050 |
+| Greenhouse Effect | 53.00% | ~1,031 |
 | Freeze | 52.00% | ~1,011 |
 | Exterminator | 52.00% | ~1,011 |
-| Greenhouse Effect | 52.00% | ~1,011 |
 | S.O.S. | 47.00% | ~914 |
 | Full Arsenal | 46.00% | ~895 |
 | Get Off My Ship! | 45.00% | ~875 |
@@ -35,8 +35,8 @@ Rating: 4.64 (Ranked 333)
 | Front Toward Enemy | 33.00% | ~642 |
 | Whole Again | 29.00% | ~564 |
 | Set A Benchmark | 29.00% | ~564 |
+| Pack Rat | 27.00% | ~525 |
 | Full Contact | 26.00% | ~506 |
-| Pack Rat | 26.00% | ~506 |
 | Final Regeneration | 25.00% | ~486 |
 | Full Clearance | 24.00% | ~467 |
 | Pusher | 23.00% | ~447 |

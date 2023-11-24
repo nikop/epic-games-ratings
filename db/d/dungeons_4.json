@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -908,9 +908,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1068,9 +1068,9 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -1339,8 +1339,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:04:41.2876307+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:04:24.8008462+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:57:35.9736794+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:04:41.2876716+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:57:23.7970714+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:04:24.8008865+00:00"
 }

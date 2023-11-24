@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -477,9 +477,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5446,
+  "EOS_Progressed": 5448,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7332,6 +7332,11 @@
       "Time": "2023-11-23T23:04:46.9739129+00:00",
       "NumProgressed": 5446,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T00:04:29.9185659+00:00",
+      "NumProgressed": 5448,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7485,9 +7490,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 109
     },
     {
       "ID": "27",
@@ -7822,13 +7827,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5446,
+      "Progressed": 5448,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5446,
+      "Progressed": 5448,
       "Completed": 7
     }
   ],
@@ -7836,8 +7841,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-23T07:02:54.0495595+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:04:46.9739126+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:04:29.9185654+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:02:39.9847038+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:04:46.9739842+00:00"
+  "LastUpdate_Ratings": "2023-11-24T00:02:37.9105601+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:04:29.9186311+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6932,
+  "EOS_Progressed": 6933,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -5963,6 +5963,11 @@
       "Time": "2023-11-23T22:07:56.1672507+00:00",
       "NumProgressed": 6932,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-24T00:06:29.4213346+00:00",
+      "NumProgressed": 6933,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5975,7 +5980,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6031
+      "UsersEstimate": 6032
     },
     {
       "ID": "achievement_01_02",
@@ -5983,7 +5988,7 @@
       "Name": "Tournament Star",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_01_03",
@@ -5991,7 +5996,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4436
+      "UsersEstimate": 4437
     },
     {
       "ID": "achievement_01_04",
@@ -6007,7 +6012,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "achievement_01_06",
@@ -6015,7 +6020,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "achievement_01_07",
@@ -6023,7 +6028,7 @@
       "Name": "Car Workshop",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2911
+      "UsersEstimate": 2912
     },
     {
       "ID": "achievement_01_08",
@@ -6069,9 +6074,9 @@
       "ID": "achievement_02_03",
       "SetID": "4f1m94d",
       "Name": "Professional Champion",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 416
     },
     {
       "ID": "achievement_02_04",
@@ -6119,7 +6124,7 @@
       "Name": "USA - Check!",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "achievement_03_02",
@@ -6127,7 +6132,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "achievement_03_03",
@@ -6207,7 +6212,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "achievement_04_02",
@@ -6215,7 +6220,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "achievement_04_03",
@@ -6255,7 +6260,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "achievement_04_08",
@@ -6278,7 +6283,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6932,
+      "Progressed": 6933,
       "Completed": 40
     }
   ],
@@ -6286,8 +6291,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-18T21:58:48.6399645+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:08:12.1611118+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:06:29.4213341+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:06.7248226+00:00",
-  "LastUpdate_Ratings": "2023-11-23T22:57:41.4933918+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:08:12.1611605+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:57:28.4482405+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:06:29.4213886+00:00"
 }

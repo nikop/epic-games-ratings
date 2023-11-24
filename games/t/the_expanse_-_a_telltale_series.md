@@ -6,12 +6,12 @@ Rating: 4.56 (Ranked 491)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 10.00% | ~1,535 |
-| The Pit and the Pirates | 5.00% | ~767 |
-| Drone Dodger | 5.00% | ~767 |
-| Bosmang | 5.00% | ~767 |
-| Captain Drummer | 5.00% | ~767 |
-| Celebrations are in Order | 5.00% | ~767 |
-| Impossible Objects | 5.00% | ~767 |
+| The Pit and the Pirates | 5.00% | ~768 |
+| Drone Dodger | 5.00% | ~768 |
+| Bosmang | 5.00% | ~768 |
+| Captain Drummer | 5.00% | ~768 |
+| Celebrations are in Order | 5.00% | ~768 |
+| Impossible Objects | 5.00% | ~768 |
 | Safe Cracker | 5.00% | ~65 |
 | Zen Master | 5.00% | ~65 |
 | Madame Undersecretary | 5.00% | ~65 |
@@ -21,16 +21,16 @@ Rating: 4.56 (Ranked 491)
 | Martian Music | 4.00% | ~614 |
 | Call it Even | 4.00% | ~614 |
 | Keep Arjun in Check | 4.00% | ~52 |
-| Data Archivist | 3.00% | ~460 |
-| Heal Thy Medic | 3.00% | ~460 |
-| Khan's Revenge | 3.00% | ~460 |
+| Data Archivist | 3.00% | ~461 |
+| Heal Thy Medic | 3.00% | ~461 |
+| Khan's Revenge | 3.00% | ~461 |
 | Master Negotiator | 3.00% | ~39 |
 | Doctor Approved | 2.00% | ~307 |
 | Bottoms up! | 2.00% | ~307 |
 | Thorston Mayer | 2.00% | ~307 |
 | Miraculous Maya | 2.00% | ~307 |
-| Data Logger | 1.00% | ~153 |
-| Data Master | 1.00% | ~153 |
+| Data Logger | 1.00% | ~154 |
+| Data Master | 1.00% | ~154 |
 | Brother's Reaper | 0.80% | ~123 |
 | No Belter Left Behind | 0.80% | ~123 |
 | Debris Spree | 0.70% | ~107 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,346 (Ranked 152)  
+Progressed: 15,351 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,6 +166,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-21 | 15,203 | 35 |
 | 2023-11-22 | 15,266 | 35 |
 | 2023-11-23 | 15,346 | 35 |
+| 2023-11-24 | 15,351 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

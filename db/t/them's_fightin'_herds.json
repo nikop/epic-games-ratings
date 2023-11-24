@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232639,
+  "EOS_Progressed": 232641,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22422,6 +22422,11 @@
       "Time": "2023-11-23T23:05:52.7360177+00:00",
       "NumProgressed": 232639,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-24T00:05:27.933696+00:00",
+      "NumProgressed": 232641,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -22497,7 +22502,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83750
+      "UsersEstimate": 83751
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -22577,7 +22582,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79097
+      "UsersEstimate": 79098
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -22656,7 +22661,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232639,
+      "Progressed": 232641,
       "Completed": 5
     }
   ],
@@ -22664,8 +22669,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-22T11:00:30.8027045+00:00",
-  "LastChanged_Achievements": "2023-11-23T23:05:52.7360175+00:00",
+  "LastChanged_Achievements": "2023-11-24T00:05:27.9336951+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:27.6645592+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:00:30.4763139+00:00",
-  "LastUpdate_Achievements": "2023-11-23T23:05:52.7361187+00:00"
+  "LastUpdate_Ratings": "2023-11-23T23:59:54.2851971+00:00",
+  "LastUpdate_Achievements": "2023-11-24T00:05:27.9337923+00:00"
 }

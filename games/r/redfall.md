@@ -48,10 +48,10 @@ Rating: 3.45 (Ranked 1,045)
 | Blacklight Down | 0.30% | ~5 |
 | Under a Bushel | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |
+| Good Samaritan | 0.30% | ~5 |
 | So Anyway I Started Blasting | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
-| Good Samaritan | 0.20% | ~4 |
 | Monster Hunters Club | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
 | Friendgineering | 0.10% | ~2 |

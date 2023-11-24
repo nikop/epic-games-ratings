@@ -9,13 +9,13 @@ Rating: 4.24 (Ranked 885)
 | First fall | 36.00% | ~5,846 |
 | Don't play with fire, kids | 27.00% | ~4,385 |
 | First steps | 27.00% | ~4,385 |
-| 1.000.000 Scovilles | 19.00% | ~3,085 |
+| 1.000.000 Scovilles | 19.00% | ~3,086 |
 | An Old Timer | 18.00% | ~2,923 |
 | I'll give this one a 0 star rating | 18.00% | ~2,923 |
 | Hands up! | 16.00% | ~2,598 |
 | Feeling Better | 16.00% | ~2,598 |
 | Unfortunate Plumber | 15.00% | ~2,436 |
-| Don't interrupt my research! | 14.00% | ~2,273 |
+| Don't interrupt my research! | 14.00% | ~2,274 |
 | A Good Read | 11.00% | ~1,786 |
 | Boot for an eye | 10.00% | ~1,624 |
 | Pacifist Run | 7.00% | ~1,137 |
@@ -73,7 +73,7 @@ Rating: 4.24 (Ranked 885)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,239 (Ranked 150)  
+Progressed: 16,240 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 16,237 | 0 |
 | 2023-11-22 | 16,238 | 0 |
 | 2023-11-23 | 16,239 | 0 |
+| 2023-11-24 | 16,240 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
