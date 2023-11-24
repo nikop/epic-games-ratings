@@ -97,7 +97,7 @@
 | 95 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,312 | 4.35 | 789 |
 | 96 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,300 | 4.50 | 588 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,038 | 4.50 | 588 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,966 | 4.19 | 923 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,970 | 4.19 | 923 |
 | 99 | [Among Us](games/a/among_us.md) | 2,847 | 4.57 | 472 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,717 | 4.27 | 861 |
 | 101 | [Path of Exile](games/p/path_of_exile.md) | 2,691 | 4.61 | 383 |
@@ -158,7 +158,7 @@
 | 156 | [Sonic Mania](games/s/sonic_mania.md) | 966 | 4.78 | 107 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 953 | 4.45 | 662 |
 | 158 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 934 | 4.56 | 491 |
-| 159 | [Train Valley 2](games/t/train_valley_2.md) | 908 | 4.44 | 675 |
+| 159 | [Train Valley 2](games/t/train_valley_2.md) | 915 | 4.44 | 675 |
 | 160 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 895 | 4.45 | 662 |
 | 161 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 893 | 4.49 | 608 |
 | 162 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 889 | 4.82 | 67 |
@@ -213,7 +213,7 @@
 | 211 | [Surviving Mars](games/s/surviving_mars.md) | 515 | 4.61 | 383 |
 | 212 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 493 | 4.41 | 723 |
 | 213 | [Loop Hero](games/l/loop_hero.md) | 481 | 4.67 | 275 |
-| 214 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.05 | 985 |
+| 214 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.05 | 986 |
 | 215 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 467 | 4.84 | 52 |
 | 216 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 463 | 4.66 | 295 |
 | 217 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 462 | 4.71 | 199 |
@@ -340,13 +340,13 @@
 | 338 | [BIOMUTANT](games/b/biomutant.md) | 124 | 4.33 | 813 |
 | 339 | [Overcooked](games/o/overcooked.md) | 121 | 4.66 | 295 |
 | 339 | [Tropico 5](games/t/tropico_5.md) | 121 | 4.45 | 662 |
-| 341 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 118 | 4.64 | 333 |
-| 341 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 118 | 4.38 | 764 |
+| 341 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 119 | 4.38 | 764 |
+| 342 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 118 | 4.64 | 333 |
 | 343 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 117 | 4.70 | 215 |
-| 344 | [Cave Story+](games/c/cave_story+.md) | 114 | 4.70 | 215 |
-| 344 | [Dead Space](games/d/dead_space.md) | 114 | 4.64 | 333 |
-| 344 | [Faeria](games/f/faeria.md) | 114 | 4.45 | 662 |
-| 344 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 114 | 4.50 | 588 |
+| 344 | [Dead Space](games/d/dead_space.md) | 115 | 4.64 | 333 |
+| 345 | [Cave Story+](games/c/cave_story+.md) | 114 | 4.70 | 215 |
+| 345 | [Faeria](games/f/faeria.md) | 114 | 4.45 | 662 |
+| 345 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 114 | 4.50 | 588 |
 | 348 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 111 | 4.50 | 588 |
 | 348 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 111 | 4.45 | 662 |
 | 348 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 111 | 4.54 | 526 |

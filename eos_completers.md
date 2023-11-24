@@ -8,10 +8,10 @@
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.16% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.06% |
-| 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.17% |
+| 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.88% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 28.94% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 28.93% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.48% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -24,7 +24,7 @@
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
 | 24 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
-| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.70% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.55% |
 | 26 | [Island Cities](games/i/island_cities.md) | 17.19% |
 | 27 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
 | 28 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.25% |
@@ -72,7 +72,7 @@
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.59% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 72 | [JARS](games/j/jars.md) | 5.15% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.09% |
+| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.08% |
 | 74 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.82% |
 | 76 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
@@ -124,7 +124,7 @@
 | 122 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 123 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.28% |
 | 124 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.24% |
-| 125 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.21% |
+| 125 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.20% |
 | 126 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.15% |
 | 127 | [Night Book](games/n/night_book.md) | 2.05% |
 | 128 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
@@ -133,10 +133,10 @@
 | 130 | [Somerville](games/s/somerville.md) | 1.87% |
 | 132 | [Sifu](games/s/sifu.md) | 1.80% |
 | 133 | [Frogun](games/f/frogun.md) | 1.79% |
-| 134 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.75% |
+| 134 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.72% |
 | 135 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.69% |
 | 136 | [Five Dates](games/f/five_dates.md) | 1.66% |
-| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.65% |
+| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
 | 138 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.64% |
 | 139 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.59% |
 | 140 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
@@ -215,8 +215,8 @@
 | 211 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.44% |
 | 211 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 211 | [Tchia](games/t/tchia.md) | 0.44% |
-| 216 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
-| 216 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.41% |
+| 216 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 217 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.41% |
 | 218 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.40% |
 | 218 | [Wildermyth](games/w/wildermyth.md) | 0.40% |
 | 220 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.39% |
