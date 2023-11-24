@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131206,
+  "EOS_Progressed": 131207,
   "EOS_Completed": 1137,
-  "EOS_NewPlayers": 1133,
+  "EOS_NewPlayers": 1132,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -25082,6 +25082,11 @@
       "Time": "2023-11-24T01:49:49.8282709+00:00",
       "NumProgressed": 131206,
       "NumCompleted": 1137
+    },
+    {
+      "Time": "2023-11-24T02:25:09.9050167+00:00",
+      "NumProgressed": 131207,
+      "NumCompleted": 1137
     }
   ],
   "TotalAchievements": 34,
@@ -25149,7 +25154,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 104965
+      "UsersEstimate": 104966
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -25165,7 +25170,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 73475
+      "UsersEstimate": 73476
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -25181,7 +25186,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 52482
+      "UsersEstimate": 52483
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -25307,9 +25312,9 @@
       "ID": "ACH_L05_TOWN_END",
       "SetID": "agbm7mn",
       "Name": "Sunken",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 31489
+      "UsersEstimate": 32802
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -25341,7 +25346,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 31489
+      "UsersEstimate": 31490
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -25349,7 +25354,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 30177
+      "UsersEstimate": 30178
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -25364,7 +25369,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 131206,
+      "Progressed": 131207,
       "Completed": 1137
     }
   ],
@@ -25372,8 +25377,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:49:49.8282707+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:25:09.9050164+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.8048519+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:43:45.1098513+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:49:49.8283958+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:19:01.3796607+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:25:09.9051455+00:00"
 }

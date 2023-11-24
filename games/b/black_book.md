@@ -6,13 +6,13 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,508 |
+| Initiation | 28.00% | ~15,509 |
 | Student | 22.00% | ~12,185 |
 | Knower | 16.00% | ~8,862 |
 | Aspen Tree | 14.00% | ~7,754 |
 | Healer | 14.00% | ~7,754 |
 | Listener | 14.00% | ~7,754 |
-| Soldier | 12.00% | ~6,646 |
+| Soldier | 12.00% | ~6,647 |
 | Scientist | 11.00% | ~6,093 |
 | Cow Level | 10.00% | ~5,539 |
 | Water | 10.00% | ~5,539 |
@@ -43,9 +43,9 @@ Number of Ratings: 96  (23.09.2022)
 | Vorsa | 5.00% | ~2,769 |
 | Susanin | 5.00% | ~2,769 |
 | Traveller | 5.00% | ~2,769 |
-| Righteous | 4.00% | ~2,215 |
-| Musician | 4.00% | ~2,215 |
-| Koldun | 4.00% | ~2,215 |
+| Righteous | 4.00% | ~2,216 |
+| Musician | 4.00% | ~2,216 |
+| Koldun | 4.00% | ~2,216 |
 | Black Sorceress | 3.00% | ~1,662 |
 | Cheater | 3.00% | ~1,662 |
 | Diplomat | 3.00% | ~1,662 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,108 |
 | Word Master | 0.20% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,387 (Ranked 108)  
+Progressed: 55,388 (Ranked 108)  
 Completed: 54 (0.10%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 54 (0.10%) (Ranked 281)
 | 2023-11-21 | 54,904 | 53 |
 | 2023-11-22 | 55,133 | 54 |
 | 2023-11-23 | 55,367 | 54 |
-| 2023-11-24 | 55,387 | 54 |
+| 2023-11-24 | 55,388 | 54 |
 ## Awards
 Max (Character Customization): 89  (Ranked 380)  
 Sum: 89 (Ranked 455)  

@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53726,
+  "EOS_Progressed": 53766,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 47484,
+  "EOS_NewPlayers": 47223,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -965,6 +965,11 @@
       "Time": "2023-11-24T01:48:14.0896316+00:00",
       "NumProgressed": 53726,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T02:23:36.0251892+00:00",
+      "NumProgressed": 53766,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -977,7 +982,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 19879
+      "UsersEstimate": 19893
     },
     {
       "ID": "Achievement_10",
@@ -985,7 +990,7 @@
       "Name": "Inside Ma\u00E1to\u0027s Mind",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Achievement_11",
@@ -993,7 +998,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Achievement_12",
@@ -1047,9 +1052,9 @@
       "ID": "Achievement_18",
       "SetID": "2md12pi",
       "Name": "Champions of Umbra",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "Achievement_19",
@@ -1065,7 +1070,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14517
     },
     {
       "ID": "Achievement_20",
@@ -1097,7 +1102,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Achievement_24",
@@ -1129,7 +1134,7 @@
       "Name": "Critter King",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Achievement_28",
@@ -1137,7 +1142,7 @@
       "Name": "A Better World",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Achievement_29",
@@ -1153,7 +1158,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 5910
+      "UsersEstimate": 5914
     },
     {
       "ID": "Achievement_30",
@@ -1185,7 +1190,7 @@
       "Name": "Family Ties",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Achievement_34",
@@ -1201,7 +1206,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3764
     },
     {
       "ID": "Achievement_5",
@@ -1209,7 +1214,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2688
     },
     {
       "ID": "Achievement_6",
@@ -1225,7 +1230,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "Achievement_8",
@@ -1233,7 +1238,7 @@
       "Name": "House In Order",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "Achievement_9",
@@ -1248,7 +1253,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 53726,
+      "Progressed": 53766,
       "Completed": 7
     }
   ],
@@ -1256,8 +1261,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-11-23T10:57:23.7298025+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:48:14.0896313+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:23:36.0251887+00:00",
   "LastUpdate_AppInfo": "2023-11-23T11:57:10.0145945+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:42:32.5458906+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:48:14.0896742+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:17:50.0571358+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:23:36.0252225+00:00"
 }

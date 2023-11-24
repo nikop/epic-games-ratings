@@ -5542,9 +5542,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 715280,
+  "EOS_Progressed": 715281,
   "EOS_Completed": 6496,
-  "EOS_NewPlayers": 1124,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -29087,6 +29087,11 @@
       "Time": "2023-11-24T01:53:59.5116607+00:00",
       "NumProgressed": 715280,
       "NumCompleted": 6496
+    },
+    {
+      "Time": "2023-11-24T02:29:15.1227111+00:00",
+      "NumProgressed": 715281,
+      "NumCompleted": 6496
     }
   ],
   "TotalAchievements": 49,
@@ -29098,7 +29103,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 271806
+      "UsersEstimate": 271807
     },
     {
       "ID": "AchAresKills",
@@ -29122,7 +29127,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 92986
+      "UsersEstimate": 92987
     },
     {
       "ID": "AchBuffedButterfly",
@@ -29162,7 +29167,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 565071
+      "UsersEstimate": 565072
     },
     {
       "ID": "AchClearElysium",
@@ -29178,7 +29183,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 92986
+      "UsersEstimate": 92987
     },
     {
       "ID": "AchClearHeatGate",
@@ -29186,7 +29191,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 128750
+      "UsersEstimate": 128751
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -29202,7 +29207,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 636599
+      "UsersEstimate": 636600
     },
     {
       "ID": "AchCrushedThanatos",
@@ -29226,7 +29231,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 200278
+      "UsersEstimate": 200279
     },
     {
       "ID": "AchForgedBond",
@@ -29234,7 +29239,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 200278
+      "UsersEstimate": 200279
     },
     {
       "ID": "AchFoundAllSummons",
@@ -29394,7 +29399,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 164514
+      "UsersEstimate": 164515
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -29458,7 +29463,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 500696
+      "UsersEstimate": 500697
     },
     {
       "ID": "AchWeaponClears",
@@ -29466,7 +29471,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 164514
+      "UsersEstimate": 164515
     },
     {
       "ID": "AchWellShopItems",
@@ -29489,15 +29494,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 715280,
+      "Progressed": 715281,
       "Completed": 6496
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-11-23T19:59:22.2230686+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:53:59.5116604+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:29:15.1227108+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:59.2392385+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:43:59.8538579+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:53:59.5117676+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:19:16.0695771+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:29:15.1228887+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224,
+  "EOS_Progressed": 225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -759,6 +759,11 @@
       "Time": "2023-11-24T01:53:50.4593025+00:00",
       "NumProgressed": 224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T02:29:06.5880359+00:00",
+      "NumProgressed": 225,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -843,7 +848,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -859,7 +864,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TIME_JINX",
@@ -930,14 +935,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 224,
+      "Progressed": 225,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:53:50.4593023+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:29:06.5880356+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:09.7789217+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:45:09.6342744+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:53:50.4593133+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:20:22.944656+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:29:06.5880515+00:00"
 }

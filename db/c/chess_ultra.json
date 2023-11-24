@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219085,
+  "EOS_Progressed": 219086,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1062,
+  "EOS_NewPlayers": 1061,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25218,6 +25218,11 @@
       "Time": "2023-11-24T01:51:19.4329311+00:00",
       "NumProgressed": 219085,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-24T02:26:38.4015221+00:00",
+      "NumProgressed": 219086,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -25317,7 +25322,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 124878
+      "UsersEstimate": 124879
     },
     {
       "ID": "Elo",
@@ -25397,7 +25402,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 52580
+      "UsersEstimate": 52581
     },
     {
       "ID": "O-O-O",
@@ -25445,7 +25450,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 67916
+      "UsersEstimate": 67917
     },
     {
       "ID": "QueenSacrifice",
@@ -25532,7 +25537,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 219085,
+      "Progressed": 219086,
       "Completed": 2
     }
   ],
@@ -25540,8 +25545,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-14T13:07:38.4889289+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:51:19.4329309+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:26:38.4015217+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:05.7637143+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:47:43.5208274+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:51:19.43304+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:23:04.8560043+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:26:38.4016575+00:00"
 }

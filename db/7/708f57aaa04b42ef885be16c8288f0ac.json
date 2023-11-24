@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6127,
+  "EOS_Progressed": 6128,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4263,6 +4263,11 @@
       "Time": "2023-11-24T01:54:01.4074349+00:00",
       "NumProgressed": 6127,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T02:29:17.0146078+00:00",
+      "NumProgressed": 6128,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4491,7 +4496,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "UnResurrected",
@@ -4507,7 +4512,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -4546,7 +4551,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6127,
+      "Progressed": 6128,
       "Completed": 7
     }
   ],
@@ -4554,8 +4559,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-23T21:59:45.7390093+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:54:01.4074346+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:29:17.0146076+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:44:37.6089062+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:54:01.407465+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:19:52.9826462+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:29:17.0146481+00:00"
 }

@@ -67,12 +67,12 @@
 | Treason | 29.00% | ~399 |
 | Agent | 29.00% | ~399 |
 | Digital Exorcist | 29.00% | ~399 |
+| Suicide Mission | 28.00% | ~385 |
 | Against All Odds | 28.00% | ~385 |
 | Friend or Foe | 28.00% | ~385 |
 | Doppelganger | 28.00% | ~385 |
 | Mobilizer | 28.00% | ~385 |
 | Mission Accomplished | 27.00% | ~371 |
-| Suicide Mission | 27.00% | ~371 |
 | Untouchable | 26.00% | ~358 |
 | Eye of the Hurricane | 26.00% | ~358 |
 | Giant Killer | 26.00% | ~358 |

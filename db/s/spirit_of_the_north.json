@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74989,
+  "EOS_Progressed": 74990,
   "EOS_Completed": 399,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -24278,6 +24278,11 @@
       "Time": "2023-11-24T01:53:46.611315+00:00",
       "NumProgressed": 74989,
       "NumCompleted": 399
+    },
+    {
+      "Time": "2023-11-24T02:29:02.9704325+00:00",
+      "NumProgressed": 74990,
+      "NumCompleted": 399
     }
   ],
   "TotalAchievements": 24,
@@ -24369,7 +24374,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39744
+      "UsersEstimate": 39745
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -24480,7 +24485,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74989,
+      "Progressed": 74990,
       "Completed": 399
     }
   ],
@@ -24488,8 +24493,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:53:46.6113147+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:29:02.9704322+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:11.1118359+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:42:57.3267914+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:53:46.6114296+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:18:14.4400296+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:29:02.9705389+00:00"
 }

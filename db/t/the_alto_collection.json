@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47517,
+  "EOS_Progressed": 47518,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25448,6 +25448,11 @@
       "Time": "2023-11-24T01:50:48.0658666+00:00",
       "NumProgressed": 47517,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-24T02:26:07.301855+00:00",
+      "NumProgressed": 47518,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -25667,7 +25672,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12354
+      "UsersEstimate": 12355
     },
     {
       "ID": "sandboarder",
@@ -25723,7 +25728,7 @@
       "Name": "Welcome Maya",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6652
+      "UsersEstimate": 6653
     },
     {
       "ID": "unlockpaz",
@@ -25770,15 +25775,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47517,
+      "Progressed": 47518,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-23T19:57:38.7280718+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:50:48.0658664+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:26:07.3018547+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.043749+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:42:30.3318708+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:50:48.065976+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:17:47.7052626+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:26:07.3020201+00:00"
 }

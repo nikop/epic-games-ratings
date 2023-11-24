@@ -4,7 +4,7 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -1120,9 +1120,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "ach_skip_1",
@@ -1159,8 +1159,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:51:16.714069+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:26:35.9168397+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.0966584+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:42:19.4935739+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:51:16.7140806+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:17:36.5143591+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:26:35.9168645+00:00"
 }

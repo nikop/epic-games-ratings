@@ -5,22 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Restoring the Protostar | 53.00% | ~8 |
-| Three Watchers, Two Phasers | 33.00% | ~5 |
+| Three Watchers, Two Phasers | 40.00% | ~6 |
 | Guess who's back | 33.00% | ~5 |
 | One for the Crew | 27.00% | ~4 |
 | The Clock is Ticking | 27.00% | ~4 |
 | A Helping Hand | 27.00% | ~4 |
+| I've Got You | 20.00% | ~3 |
 | Up your Arsenal | 13.00% | ~2 |
 | Punny Lover | 13.00% | ~2 |
 | Back online | 13.00% | ~2 |
+| Rok and Roll | 13.00% | ~2 |
 | First Contact? | 13.00% | ~2 |
-| I've Got You | 13.00% | ~2 |
+| Not Too Long | 13.00% | ~2 |
 | Getting Better | 13.00% | ~2 |
 | Priceless Collection | 7.00% | ~1 |
 | One Man Army | 7.00% | ~1 |
 | Quest for Loot | 7.00% | ~1 |
 | Proto Menagerie | 7.00% | ~1 |
-| Rok and Roll | 7.00% | ~1 |
 | Naroan History | 7.00% | ~1 |
 | Playing with Time | 7.00% | ~1 |
 | Escape from Mirios | 7.00% | ~1 |
@@ -29,7 +30,6 @@
 | Seeking Discovery | 7.00% | ~1 |
 | Trekkie | 7.00% | ~1 |
 | The Crew is Back! | 7.00% | ~1 |
-| Not Too Long | 7.00% | ~1 |
 | Welcome back | 7.00% | ~1 |
 | Teamwork makes the dream work | 7.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |

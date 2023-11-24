@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -458,9 +458,9 @@
       "ID": "ach_25_dash2",
       "SetID": "16n29hg",
       "Name": "Dash! Dash!",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_26_tiLung",
@@ -705,8 +705,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:49:41.9011108+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:25:01.6194228+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:01.1957453+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:45:09.9940782+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:49:41.9011519+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:20:23.347598+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:25:01.6195038+00:00"
 }

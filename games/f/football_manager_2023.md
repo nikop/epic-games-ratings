@@ -7,13 +7,13 @@ Rating: 4.76 (Ranked 127)
 | ---- | ---------- | ----- |
 | Motivational Speaker | 68.00% | ~244,737 |
 | The Player Whisperer | 67.00% | ~241,138 |
-| One of Us, One of Us! | 61.00% | ~219,543 |
+| One of Us, One of Us! | 61.00% | ~219,544 |
 | First Victory | 55.00% | ~197,949 |
 | Clean Sheet | 54.00% | ~194,350 |
 | #DoneDeal | 53.00% | ~190,751 |
 | Off the Books | 51.00% | ~183,553 |
 | Super-Sub | 51.00% | ~183,553 |
-| Hat-trick | 45.00% | ~161,958 |
+| Hat-trick | 45.00% | ~161,959 |
 | Planned Signing | 43.00% | ~154,760 |
 | "I Would Love It If We Beat Them" | 42.00% | ~151,161 |
 | Scoring Streak | 39.00% | ~140,364 |
@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 127)
 | Thumping | 38.00% | ~136,765 |
 | People Pleaser | 38.00% | ~136,765 |
 | Unbeatable! | 37.00% | ~133,166 |
-| One Of Our Own | 35.00% | ~125,967 |
+| One Of Our Own | 35.00% | ~125,968 |
 | Record Signing | 31.00% | ~111,571 |
 | They're a Natural | 30.00% | ~107,972 |
 | Team Performance | 29.00% | ~104,373 |
@@ -42,11 +42,11 @@ Rating: 4.76 (Ranked 127)
 | On a Roll | 22.00% | ~79,180 |
 | Flavour Of The Month | 22.00% | ~79,180 |
 | The Special One | 22.00% | ~79,180 |
-| What A Goal! | 21.00% | ~75,580 |
-| Goal Machine | 20.00% | ~71,981 |
-| Splashing the Cash | 19.00% | ~68,382 |
-| Immovable Object | 19.00% | ~68,382 |
-| Cup Glory! | 19.00% | ~68,382 |
+| What A Goal! | 21.00% | ~75,581 |
+| Goal Machine | 20.00% | ~71,982 |
+| Splashing the Cash | 19.00% | ~68,383 |
+| Immovable Object | 19.00% | ~68,383 |
+| Cup Glory! | 19.00% | ~68,383 |
 | Irresistible Force | 17.00% | ~61,184 |
 | Do The Double | 15.00% | ~53,986 |
 | Cash to Burn | 15.00% | ~53,986 |
@@ -61,7 +61,7 @@ Rating: 4.76 (Ranked 127)
 | Superb Strike | 8.00% | ~28,793 |
 | Tête-à-tête | 8.00% | ~28,793 |
 | Best in the World | 8.00% | ~28,793 |
-| Invincible! | 7.00% | ~25,193 |
+| Invincible! | 7.00% | ~25,194 |
 | Best in the Business | 6.00% | ~21,594 |
 | National Service | 6.00% | ~21,594 |
 | Total Support | 6.00% | ~21,594 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 127)
 | Draft Dominator | 0.10% | ~360 |
 | Draft Value | 0.10% | ~360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359,907 (Ranked 47)  
+Progressed: 359,908 (Ranked 47)  
 Completed: 26 (0.01%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 26 (0.01%) (Ranked 337)
 | 2023-11-21 | 359,351 | 26 |
 | 2023-11-22 | 359,643 | 26 |
 | 2023-11-23 | 359,891 | 26 |
-| 2023-11-24 | 359,907 | 26 |
+| 2023-11-24 | 359,908 | 26 |
 ## Awards
 Max (Diverse Characters): 1,201  (Ranked 141)  
 Sum: 8,338 (Ranked 101)  

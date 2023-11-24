@@ -9,6 +9,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.90% | ~14 |
 | First Steps | 0.50% | ~1,201 |
 | Not Touching You | 0.50% | ~8 |
+| Heavy Hitter | 0.40% | ~961 |
 | Getting A Glimpse | 0.40% | ~961 |
 | That Was Quick | 0.40% | ~961 |
 | Colorful Corpse | 0.40% | ~961 |
@@ -23,7 +24,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.40% | ~6 |
 | Ambitious Intent | 0.30% | ~720 |
 | Nothing To Lose | 0.30% | ~720 |
-| Heavy Hitter | 0.30% | ~720 |
 | Delving Deeper | 0.30% | ~720 |
 | R.I.P | 0.30% | ~720 |
 | Dig Your Own Grave | 0.30% | ~720 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,127 (Ranked 62)  
+Progressed: 240,128 (Ranked 62)  
 Completed: 290 (0.12%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 290 (0.12%) (Ranked 276)
 | 2023-11-21 | 240,034 | 290 |
 | 2023-11-22 | 240,077 | 290 |
 | 2023-11-23 | 240,120 | 290 |
-| 2023-11-24 | 240,127 | 290 |
+| 2023-11-24 | 240,128 | 290 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 132)  
 Sum: 11,691 (Ranked 84)  

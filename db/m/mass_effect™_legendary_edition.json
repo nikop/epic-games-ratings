@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -4349,9 +4349,9 @@
       "ID": "achievement_40",
       "SetID": "b9pe172",
       "Name": "Suicide Mission",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_41",
@@ -4881,8 +4881,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:53:20.9666208+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:28:38.1243424+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:47:46.3099857+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:53:20.9667681+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:23:07.4864625+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:28:38.1244966+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4043,
+  "EOS_Progressed": 4045,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -2779,6 +2779,11 @@
       "Time": "2023-11-24T01:48:58.6203195+00:00",
       "NumProgressed": 4043,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-24T02:24:18.9526943+00:00",
+      "NumProgressed": 4045,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -2805,9 +2810,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
       "SetID": "4d50jip",
       "Name": "Collect the mask",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -2823,7 +2828,7 @@
       "Name": "Unlock the PC",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -2839,7 +2844,7 @@
       "Name": "Turn on the TV",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2265
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -2847,7 +2852,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3196
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -2918,14 +2923,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4043,
+      "Progressed": 4045,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:48:58.6203193+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:24:18.952694+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:02.5242204+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:44:57.8967651+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:48:58.6203358+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:20:11.9201213+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:24:18.9527191+00:00"
 }

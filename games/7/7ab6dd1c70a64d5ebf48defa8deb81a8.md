@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 10.00% | ~21 |
+| Trinity | 11.00% | ~23 |
 | Find Allies | 8.00% | ~16 |
 | Adventurer | 8.00% | ~16 |
 | Geared Up | 8.00% | ~16 |

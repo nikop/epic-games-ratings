@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-06-08T15:00:00+00:00",
     "PcReleaseDate": "2013-08-12T22:00:00+00:00",
@@ -7339,7 +7339,7 @@
       "Count": 1345
     }
   ],
-  "EOS_Progressed": 1782770,
+  "EOS_Progressed": 1782784,
   "EOS_Completed": 705,
   "EOS_NewPlayers": 7113,
   "EOS_NewCompleters": 10,
@@ -27149,6 +27149,11 @@
       "Time": "2023-11-24T01:54:26.7984046+00:00",
       "NumProgressed": 1782770,
       "NumCompleted": 705
+    },
+    {
+      "Time": "2023-11-24T02:29:42.021492+00:00",
+      "NumProgressed": 1782784,
+      "NumCompleted": 705
     }
   ],
   "TotalAchievements": 1328,
@@ -27216,7 +27221,7 @@
       "Name": "The Collector",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89138
+      "UsersEstimate": 89139
     },
     {
       "ID": "armed_and_dangerous",
@@ -27224,7 +27229,7 @@
       "Name": "Armed and Dangerous",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "armed_to_the_teeth",
@@ -27232,7 +27237,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89138
+      "UsersEstimate": 89139
     },
     {
       "ID": "armored_1",
@@ -28360,7 +28365,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 178277
+      "UsersEstimate": 178278
     },
     {
       "ID": "brooklyn_2",
@@ -28376,7 +28381,7 @@
       "Name": "I Never Asked for This",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 53483
+      "UsersEstimate": 53484
     },
     {
       "ID": "brooklyn_4",
@@ -28584,7 +28589,7 @@
       "Name": "Virus",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 106966
+      "UsersEstimate": 106967
     },
     {
       "ID": "cac_29",
@@ -30264,7 +30269,7 @@
       "Name": "Pink Slip",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 53483
+      "UsersEstimate": 53484
     },
     {
       "ID": "fort_3",
@@ -30424,7 +30429,7 @@
       "Name": "HOLY SHI-",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 53483
+      "UsersEstimate": 53484
     },
     {
       "ID": "gage2_9",
@@ -31624,7 +31629,7 @@
       "Name": "Going Places",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "gone_in_30_seconds",
@@ -31776,7 +31781,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 124794
+      "UsersEstimate": 124795
     },
     {
       "ID": "halloween_1",
@@ -31912,7 +31917,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 106966
+      "UsersEstimate": 106967
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -32744,7 +32749,7 @@
       "Name": "I Got It, I Got It!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "nbm_1",
@@ -32872,7 +32877,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 142622
+      "UsersEstimate": 142623
     },
     {
       "ID": "no_turning_back",
@@ -32880,7 +32885,7 @@
       "Name": "No Turning Back",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 142622
+      "UsersEstimate": 142623
     },
     {
       "ID": "orange_1",
@@ -34776,7 +34781,7 @@
       "Name": "Spend Money to Make Money",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "squek",
@@ -35240,7 +35245,7 @@
       "Name": "No Thermal Drill was Harmed During the Heist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 53483
+      "UsersEstimate": 53484
     },
     {
       "ID": "trk_bc_1",
@@ -35304,7 +35309,7 @@
       "Name": "Taking the Bars",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "trk_bg_1",
@@ -35960,7 +35965,7 @@
       "Name": "Being Precious",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "trk_ds_1",
@@ -36240,7 +36245,7 @@
       "Name": "Go, Go, Go",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "trk_gb_1",
@@ -36512,7 +36517,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 53483
+      "UsersEstimate": 53484
     },
     {
       "ID": "trk_js_1",
@@ -37288,7 +37293,7 @@
       "Name": "Precious Delicious",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "trk_uj_1",
@@ -37448,7 +37453,7 @@
       "Name": "A Good Haul",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "uno_2",
@@ -37664,7 +37669,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89138
+      "UsersEstimate": 89139
     },
     {
       "ID": "wwh_1",
@@ -37768,7 +37773,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 160449
+      "UsersEstimate": 160451
     },
     {
       "ID": "you_shall_not_pass",
@@ -37783,13 +37788,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1782770,
+      "Progressed": 1782784,
       "Completed": 705
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1782770,
+      "Progressed": 1782784,
       "Completed": 115
     }
   ],
@@ -37797,8 +37802,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-11-24T01:42:31.3148064+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:54:26.7984044+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:29:42.0214913+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:52.9203585+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:42:31.3148068+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:54:26.8105036+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:17:48.788166+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:29:42.0337465+00:00"
 }

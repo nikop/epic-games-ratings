@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,232 |
-| Off to a good start | 66.00% | ~913 |
-| Do... or do not. There is no try | 50.00% | ~692 |
-| A good blaster at your side | 31.00% | ~429 |
+| New Recruit | 89.00% | ~1,234 |
+| Off to a good start | 66.00% | ~915 |
+| Do... or do not. There is no try | 50.00% | ~693 |
+| A good blaster at your side | 31.00% | ~430 |
 | I suggest a new strategy | 19.00% | ~263 |
 | Scrap collector | 18.00% | ~249 |
-| All right, I'll give it a try | 17.00% | ~235 |
-| Great shot, kid! | 17.00% | ~235 |
+| All right, I'll give it a try | 17.00% | ~236 |
+| Great shot, kid! | 17.00% | ~236 |
 | The power of the Force | 14.00% | ~194 |
 | Together we can rule the galaxy | 14.00% | ~194 |
 | Shoot first | 14.00% | ~194 |
 | Collector | 13.00% | ~180 |
-| Survivor | 10.00% | ~138 |
+| Survivor | 10.00% | ~139 |
 | Tell Jabba that I've got his money | 9.00% | ~125 |
 | Best star-pilot in the galaxy | 9.00% | ~125 |
 | Never tell me the odds! | 8.00% | ~111 |
@@ -57,7 +57,7 @@
 | No such thing as luck | 0.90% | ~12 |
 | Do we take prisoners? | 0.90% | ~12 |
 | A New Hope | 0.80% | ~11 |
-| I’ll take that bet | 0.70% | ~10 |
+| I’ll take that bet | 0.60% | ~8 |
 | Stay on target | 0.40% | ~6 |
 | Don't get cocky | 0.40% | ~6 |
 | Master | 0.40% | ~6 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,384 (Ranked 242)  
+Progressed: 1,386 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 1 (0.07%) (Ranked 299)
 | 2023-11-21 | 1,352 | 1 |
 | 2023-11-22 | 1,367 | 1 |
 | 2023-11-23 | 1,384 | 1 |
+| 2023-11-24 | 1,386 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

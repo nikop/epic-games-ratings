@@ -64,31 +64,32 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 1.00% | ~1,413 |
 | Special Ingredient | 1.00% | ~1,413 |
 | Complete Monopoly | 1.00% | ~1,413 |
-| Cream of the Crop | 0.90% | ~1,271 |
-| Above the Norm | 0.90% | ~1,271 |
-| A Ronin Reborn | 0.90% | ~1,271 |
-| Omae wa Mou Shindeiru | 0.90% | ~1,271 |
-| Master of Transmutation | 0.90% | ~1,271 |
-| Supercharged | 0.90% | ~1,271 |
-| Fit for a King | 0.90% | ~1,271 |
-| By Your Powers Combined... | 0.90% | ~1,271 |
-| Wealth Beyond Measure | 0.90% | ~1,271 |
-| Fat Cat Tag Team | 0.90% | ~1,271 |
-| Necromancer Queen | 0.90% | ~1,271 |
-| Master Merchant | 0.90% | ~1,271 |
-| Miracle Alchemist | 0.90% | ~1,271 |
-| Scourge of the Seas | 0.90% | ~1,271 |
-| Attrition Mission | 0.90% | ~1,271 |
-| Glittering Collection | 0.90% | ~1,271 |
-| Master Recycler | 0.90% | ~1,271 |
-| Exotic Commodities | 0.90% | ~1,271 |
-| King's Blade | 0.90% | ~1,271 |
+| Cream of the Crop | 0.90% | ~1,272 |
+| Above the Norm | 0.90% | ~1,272 |
+| A Ronin Reborn | 0.90% | ~1,272 |
+| Omae wa Mou Shindeiru | 0.90% | ~1,272 |
+| Master of Transmutation | 0.90% | ~1,272 |
+| Supercharged | 0.90% | ~1,272 |
+| Fit for a King | 0.90% | ~1,272 |
+| By Your Powers Combined... | 0.90% | ~1,272 |
+| Wealth Beyond Measure | 0.90% | ~1,272 |
+| Fat Cat Tag Team | 0.90% | ~1,272 |
+| Necromancer Queen | 0.90% | ~1,272 |
+| Master Merchant | 0.90% | ~1,272 |
+| Miracle Alchemist | 0.90% | ~1,272 |
+| Scourge of the Seas | 0.90% | ~1,272 |
+| Attrition Mission | 0.90% | ~1,272 |
+| Glittering Collection | 0.90% | ~1,272 |
+| Master Recycler | 0.90% | ~1,272 |
+| Exotic Commodities | 0.90% | ~1,272 |
+| King's Blade | 0.90% | ~1,272 |
 | Top of the World | 0.80% | ~1,130 |
 | Proud Paladin | 0.80% | ~1,130 |
 | Constellated | 0.80% | ~1,130 |
 | Thirst for Knowledge | 0.80% | ~1,130 |
 | Booty by the Boatload | 0.80% | ~1,130 |
 | Archivist | 0.80% | ~1,130 |
+| Fillin' the Bin | 0.80% | ~1,130 |
 | Industrial Evolution | 0.80% | ~1,130 |
 | Ritualist | 0.80% | ~1,130 |
 | A Legend is Born | 0.80% | ~1,130 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Treasure Trove | 0.80% | ~1,130 |
 | Moment of Respite | 0.80% | ~1,130 |
 | King's Shadow | 0.80% | ~1,130 |
-| Fillin' the Bin | 0.70% | ~989 |
 | Economy of Scarce | 0.70% | ~989 |
 | Thank You Tom Nook | 0.60% | ~848 |
 | Jackpot! | 0.60% | ~848 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,276 (Ranked 80)  
-Completed: 197 (0.14%) (Ranked 270)  
+Progressed: 141,282 (Ranked 80)  
+Completed: 198 (0.14%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,7 +337,7 @@ Completed: 197 (0.14%) (Ranked 270)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,276 | 197 |
+| 2023-11-24 | 141,282 | 198 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,585 (Ranked 50)  

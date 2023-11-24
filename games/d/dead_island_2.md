@@ -7,8 +7,8 @@ Rating: 4.54 (Ranked 526)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,471 |
 | Welcome To Hell-A | 2.00% | ~14,470 |
-| One of Us | 2.00% | ~980 |
-| Pork Chopped | 2.00% | ~980 |
+| One of Us | 2.00% | ~981 |
+| Pork Chopped | 2.00% | ~981 |
 | Dr. Reed, I Presume? | 1.00% | ~7,235 |
 | Git Gutte! | 1.00% | ~7,235 |
 | Anger Management | 1.00% | ~7,235 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,478 (Ranked 21)  
+Progressed: 723,486 (Ranked 21)  
 Completed: 2,428 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,14 +275,14 @@ Completed: 2,428 (0.34%) (Ranked 229)
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
 | 2023-11-23 | 723,442 | 2,428 |
-| 2023-11-24 | 723,478 | 2,428 |
+| 2023-11-24 | 723,486 | 2,428 |
 ## Awards
-Max (Great Boss Battles): 7,661  (Ranked 50)  
-Sum: 11,704 (Ranked 83)  
+Max (Great Boss Battles): 7,695  (Ranked 50)  
+Sum: 11,738 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,661 |
+| This game has Great Boss Battles | 7,695 |
 | This game is Great for Beginners | 584 |
 | This game has Diverse Characters | 559 |
 | This game has Quickly Understood Controls | 528 |
@@ -511,3 +511,4 @@ Diff (max vs sum): -33
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
+| 2023-11-24 | 4.54 | 7,695 | 11,738 |

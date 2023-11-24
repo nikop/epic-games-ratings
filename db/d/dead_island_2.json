@@ -6763,18 +6763,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11704,
       "NumberOfAwardsMax": 7661
+    },
+    {
+      "Time": "2023-11-24T02:18:32.6251228+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11738,
+      "NumberOfAwardsMax": 7695
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11704,
-  "NumberOfAwardsMax": 7661,
+  "NumberOfAwards": 11738,
+  "NumberOfAwardsMax": 7695,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7661
+      "Count": 7695
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6825,9 +6831,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 723478,
+  "EOS_Progressed": 723486,
   "EOS_Completed": 2428,
-  "EOS_NewPlayers": 4046,
+  "EOS_NewPlayers": 4049,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31715,6 +31721,11 @@
       "Time": "2023-11-24T01:49:42.5566764+00:00",
       "NumProgressed": 723478,
       "NumCompleted": 2428
+    },
+    {
+      "Time": "2023-11-24T02:25:02.2618702+00:00",
+      "NumProgressed": 723486,
+      "NumCompleted": 2428
     }
   ],
   "TotalAchievements": 51,
@@ -32086,7 +32097,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ach_dark_magic",
@@ -32110,7 +32121,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32133,22 +32144,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723478,
+      "Progressed": 723486,
       "Completed": 2428
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 49020,
+      "Progressed": 49028,
       "Completed": 36589
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-23T19:58:31.9623192+00:00",
-  "LastChanged_Achievements": "2023-11-24T01:49:42.5566761+00:00",
+  "LastChanged": "2023-11-24T02:18:32.6251226+00:00",
+  "LastChanged_Achievements": "2023-11-24T02:25:02.26187+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-24T01:43:16.0308335+00:00",
-  "LastUpdate_Achievements": "2023-11-24T01:49:42.5567905+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:18:32.6251231+00:00",
+  "LastUpdate_Achievements": "2023-11-24T02:25:02.2620382+00:00"
 }
