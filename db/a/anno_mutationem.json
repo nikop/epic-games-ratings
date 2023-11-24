@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 697,
+  "EOS_Progressed": 698,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -652,6 +652,11 @@
       "Time": "2023-11-24T00:03:48.9249721+00:00",
       "NumProgressed": 697,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T10:04:02.194866+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -717,9 +722,9 @@
       "ID": "Deadly_Kombationem",
       "SetID": "gl7plp",
       "Name": "Deadly Kombationem",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 126
     },
     {
       "ID": "Fire in the hole!",
@@ -727,7 +732,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -791,7 +796,7 @@
       "Name": "Omnipotence",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "SERENITY_NOW",
@@ -829,9 +834,9 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 530
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -871,7 +876,7 @@
       "Name": "The Warlord",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -919,7 +924,7 @@
       "Name": "You are the One",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "manhole",
@@ -927,7 +932,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "posters",
@@ -950,7 +955,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 697,
+      "Progressed": 698,
       "Completed": 0
     }
   ],
@@ -958,8 +963,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:04:24.1943525+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:04:02.1948657+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:33.6518262+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:58:41.8081806+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:04:24.1943832+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:58:24.7910413+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:04:02.1948885+00:00"
 }

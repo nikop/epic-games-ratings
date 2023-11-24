@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74999,
+  "EOS_Progressed": 75002,
   "EOS_Completed": 399,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -24308,6 +24308,11 @@
       "Time": "2023-11-24T09:09:01.7389937+00:00",
       "NumProgressed": 74999,
       "NumCompleted": 399
+    },
+    {
+      "Time": "2023-11-24T10:08:44.6943377+00:00",
+      "NumProgressed": 75002,
+      "NumCompleted": 399
     }
   ],
   "TotalAchievements": 24,
@@ -24335,7 +24340,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50999
+      "UsersEstimate": 51001
     },
     {
       "ID": "BEST_FRIENDS",
@@ -24351,7 +24356,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19500
+      "UsersEstimate": 19501
     },
     {
       "ID": "ERADICATE",
@@ -24367,7 +24372,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21000
+      "UsersEstimate": 21001
     },
     {
       "ID": "FOXIN_AROUND",
@@ -24375,7 +24380,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21750
+      "UsersEstimate": 21751
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -24399,7 +24404,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39749
+      "UsersEstimate": 39751
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -24510,7 +24515,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74999,
+      "Progressed": 75002,
       "Completed": 399
     }
   ],
@@ -24518,8 +24523,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:09:01.7389935+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:08:44.6943373+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:11.1118359+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:58:31.8086186+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:09:01.7391005+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:58:16.2589241+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:08:44.6944582+00:00"
 }

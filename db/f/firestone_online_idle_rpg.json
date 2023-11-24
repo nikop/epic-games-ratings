@@ -8106,9 +8106,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 655
     },
     {
       "ID": "herewegoagain",
@@ -8330,9 +8330,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1494
     },
     {
       "ID": "thealchemist",
@@ -8483,8 +8483,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-23T00:01:24.3515304+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:08:59.5422458+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:08:42.748782+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:02:39.0085583+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:08:59.5423336+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:02:29.4028367+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:08:42.7488643+00:00"
 }

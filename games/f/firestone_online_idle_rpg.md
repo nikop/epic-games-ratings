@@ -7,10 +7,10 @@ Rating: 4.12 (Ranked 962)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~2,438 |
 | World Map | 78.00% | ~2,044 |
-| Temple of Eternals | 56.00% | ~1,468 |
+| Temple of Eternals | 57.00% | ~1,494 |
 | Prestigious | 53.00% | ~1,389 |
 | Fellowship Power | 42.00% | ~1,101 |
-| Guild Power | 24.00% | ~629 |
+| Guild Power | 25.00% | ~655 |
 | Prestigious x10 | 21.00% | ~550 |
 | The game is on | 19.00% | ~498 |
 | Exotic Merchant | 18.00% | ~472 |

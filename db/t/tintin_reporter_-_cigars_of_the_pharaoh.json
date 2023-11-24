@@ -2,9 +2,9 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -214,6 +214,11 @@
       "Time": "2023-11-24T07:06:23.1468652+00:00",
       "NumProgressed": 39,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T10:07:57.3056833+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -224,7 +229,7 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 77,
+      "Percentage": 73,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -232,7 +237,7 @@
       "ID": "Achievement10",
       "SetID": "9fa3l5n",
       "Name": "In the Name of the Law",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -240,7 +245,7 @@
       "ID": "Achievement11",
       "SetID": "9fa3l5n",
       "Name": "Au Revoir, Abudin",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -248,7 +253,7 @@
       "ID": "Achievement12",
       "SetID": "9fa3l5n",
       "Name": "Mysterious Bungalow",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -264,7 +269,7 @@
       "ID": "Achievement14",
       "SetID": "9fa3l5n",
       "Name": "Keep the Doctor Away",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -272,7 +277,7 @@
       "ID": "Achievement15",
       "SetID": "9fa3l5n",
       "Name": "Just a Palm Tree",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -280,7 +285,7 @@
       "ID": "Achievement16",
       "SetID": "9fa3l5n",
       "Name": "Under the Hood",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -312,7 +317,7 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -328,7 +333,7 @@
       "ID": "Achievement21",
       "SetID": "9fa3l5n",
       "Name": "Eyes Shut",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -368,7 +373,7 @@
       "ID": "Achievement26",
       "SetID": "9fa3l5n",
       "Name": "Mummy Nightmare",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -400,7 +405,7 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -472,7 +477,7 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -504,7 +509,7 @@
       "ID": "Achievement8",
       "SetID": "9fa3l5n",
       "Name": "Dynamite, Treason and Coconuts",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -512,7 +517,7 @@
       "ID": "Achievement9",
       "SetID": "9fa3l5n",
       "Name": "Save a Friend",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 3
     }
@@ -521,14 +526,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:06:57.1689987+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:07:57.3056829+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:58:46.4376648+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:06:57.1690249+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:58:28.6151472+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:07:57.3057106+00:00"
 }

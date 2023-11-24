@@ -2,7 +2,7 @@
   "ID": "cea01263911a4e179a5e3892ef710930",
   "Name": "Dodo Peak",
   "ProductSlug": "dodo-peak-159276",
-  "Ranking_Rating": 1020,
+  "Ranking_Rating": 1013,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 93,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.92,
+  "Rating": 3.94,
   "RatingHistory": [
     {
       "Time": "2023-08-27T07:59:18.2658047+00:00",
@@ -185,15 +185,21 @@
       "Rating": 3.92,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-24T09:59:32.7266207+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87474,
+  "EOS_Progressed": 87475,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -11991,6 +11997,11 @@
       "Time": "2023-11-24T09:06:16.237661+00:00",
       "NumProgressed": 87474,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-11-24T10:05:41.9840632+00:00",
+      "NumProgressed": 87475,
+      "NumCompleted": 291
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -12003,7 +12014,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 69979
+      "UsersEstimate": 69980
     },
     {
       "ID": "grp_beet",
@@ -12019,7 +12030,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 67355
+      "UsersEstimate": 67356
     },
     {
       "ID": "grp_endless",
@@ -12043,7 +12054,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 21868
+      "UsersEstimate": 21869
     },
     {
       "ID": "grp_level10",
@@ -12099,7 +12110,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 64731
+      "UsersEstimate": 64732
     },
     {
       "ID": "grp_speed",
@@ -12138,16 +12149,16 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 87474,
+      "Progressed": 87475,
       "Completed": 291
     }
   ],
   "FirstSeen": "2023-08-08T23:57:15.7691389+00:00",
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged": "2023-11-21T10:04:58.8400801+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:06:16.2376603+00:00",
+  "LastChanged": "2023-11-24T09:59:32.7266205+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:05:41.9840625+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.1314286+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:00:02.8007956+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:06:16.2377262+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:59:32.7266211+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:05:41.9841268+00:00"
 }

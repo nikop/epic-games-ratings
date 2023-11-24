@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2796,6 +2796,11 @@
       "Time": "2023-11-22T16:03:58.4343195+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T10:04:16.8162435+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2863,7 +2868,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH008",
@@ -2895,7 +2900,7 @@
       "Name": "Intangible",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH012",
@@ -2903,7 +2908,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH013",
@@ -2943,7 +2948,7 @@
       "Name": "Pearly gates",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH018",
@@ -3039,7 +3044,7 @@
       "Name": "Licence to Kill",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH030",
@@ -3047,7 +3052,7 @@
       "Name": "Walk the plank",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH031",
@@ -3063,7 +3068,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH033",
@@ -3199,22 +3204,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:04:40.713405+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:04:16.8162431+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.0945183+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:59:10.6538567+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:04:40.7134646+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:58:49.0973328+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:04:16.8162833+00:00"
 }

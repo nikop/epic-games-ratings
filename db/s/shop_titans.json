@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7177,10 +7177,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141354,
-  "EOS_Completed": 202,
-  "EOS_NewPlayers": 1190,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 141366,
+  "EOS_Completed": 203,
+  "EOS_NewPlayers": 1193,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -29652,6 +29652,11 @@
       "Time": "2023-11-24T09:08:16.6395912+00:00",
       "NumProgressed": 141354,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-11-24T10:08:04.7648885+00:00",
+      "NumProgressed": 141366,
+      "NumCompleted": 203
     }
   ],
   "TotalAchievements": 112,
@@ -29845,9 +29850,9 @@
       "ID": "chest03",
       "SetID": "anfd17p",
       "Name": "Booty by the Boatload",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1272
     },
     {
       "ID": "collection01",
@@ -29877,9 +29882,9 @@
       "ID": "collection04",
       "SetID": "anfd17p",
       "Name": "The Free Encyclopedia",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 848
     },
     {
       "ID": "collection05",
@@ -29927,7 +29932,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5654
+      "UsersEstimate": 5655
     },
     {
       "ID": "craft02",
@@ -30125,9 +30130,9 @@
       "ID": "gemsspent",
       "SetID": "anfd17p",
       "Name": "Gem Expert",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1414
+      "UsersEstimate": 2827
     },
     {
       "ID": "gold01",
@@ -30189,9 +30194,9 @@
       "ID": "help02",
       "SetID": "anfd17p",
       "Name": "Fat Cat Tag Team",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1414
     },
     {
       "ID": "help03",
@@ -30439,7 +30444,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5654
+      "UsersEstimate": 5655
     },
     {
       "ID": "sell02",
@@ -30493,9 +30498,9 @@
       "ID": "typeunlock01",
       "SetID": "anfd17p",
       "Name": "All Accounted For",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 848
+      "UsersEstimate": 990
     },
     {
       "ID": "uncommonres01",
@@ -30558,15 +30563,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141354,
-      "Completed": 202
+      "Progressed": 141366,
+      "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-24T01:47:37.4172495+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:08:16.6395906+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:08:04.764888+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:02:52.4983606+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:08:16.6398536+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:02:40.9532706+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:08:04.7650991+00:00"
 }

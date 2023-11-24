@@ -2,7 +2,7 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 121,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -362,6 +362,11 @@
       "Time": "2023-11-24T09:08:26.7984991+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T10:08:13.6178568+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -444,9 +449,9 @@
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -454,15 +459,15 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -470,13 +475,13 @@
       "Name": "Celestial Rain",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
       "UsersEstimate": 145
     },
@@ -484,9 +489,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "FIRST_S_RANK",
@@ -534,7 +539,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -566,7 +571,7 @@
       "Name": "The Journey Begins",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -580,9 +585,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Memories",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -614,7 +619,7 @@
       "Name": "Herculean Hedgehog",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
@@ -622,7 +627,7 @@
       "Name": "Hearty Hedgehog",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -638,7 +643,7 @@
       "Name": "Hypersonic Hedgehog",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -686,21 +691,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:08:26.7984987+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:08:13.6178563+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:58:54.8707962+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:08:26.7985215+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:58:35.8363+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:08:13.617879+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2242,
+  "EOS_Progressed": 2243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5287,6 +5287,11 @@
       "Time": "2023-11-24T08:10:14.9008266+00:00",
       "NumProgressed": 2242,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T10:09:19.0799465+00:00",
+      "NumProgressed": 2243,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5307,7 +5312,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5371,7 +5376,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5387,7 +5392,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5507,7 +5512,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5587,7 +5592,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5690,14 +5695,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2242,
+      "Progressed": 2243,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:09:40.0530198+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:09:19.0799461+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:57:42.5388187+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:09:40.0530699+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:57:35.1904126+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:09:19.0799998+00:00"
 }

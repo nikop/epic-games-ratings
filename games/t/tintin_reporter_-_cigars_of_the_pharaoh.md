@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 77.00% | ~30 |
-| A Loyal Friend | 33.00% | ~13 |
-| Abandon Ship! | 23.00% | ~9 |
-| The Tomb of Kih-Oskh | 18.00% | ~7 |
+| My Papyrus! | 73.00% | ~30 |
+| A Loyal Friend | 32.00% | ~13 |
+| Abandon Ship! | 22.00% | ~9 |
+| The Tomb of Kih-Oskh | 17.00% | ~7 |
 | The Weighing of the Soul | 15.00% | ~6 |
 | Cat Lover | 10.00% | ~4 |
 | The Curse of Kih-Oskh | 10.00% | ~4 |
 | It's a Deal! | 10.00% | ~4 |
-| In the Name of the Law | 8.00% | ~3 |
-| Au Revoir, Abudin | 8.00% | ~3 |
-| Mysterious Bungalow | 8.00% | ~3 |
-| Mummy Nightmare | 8.00% | ~3 |
-| Dynamite, Treason and Coconuts | 8.00% | ~3 |
-| Save a Friend | 8.00% | ~3 |
+| In the Name of the Law | 7.00% | ~3 |
+| Au Revoir, Abudin | 7.00% | ~3 |
+| Mysterious Bungalow | 7.00% | ~3 |
+| Mummy Nightmare | 7.00% | ~3 |
+| Dynamite, Treason and Coconuts | 7.00% | ~3 |
+| Save a Friend | 7.00% | ~3 |
 | The Eyes! | 5.00% | ~2 |
 | The Corporal's Golden Boy | 5.00% | ~2 |
 | Punctual | 5.00% | ~2 |
 | Barking Dog | 5.00% | ~2 |
 | Threat | 5.00% | ~2 |
-| Keep the Doctor Away | 3.00% | ~1 |
-| Just a Palm Tree | 3.00% | ~1 |
-| Under the Hood | 3.00% | ~1 |
-| Eyes Shut | 3.00% | ~1 |
+| Keep the Doctor Away | 2.00% | ~1 |
+| Just a Palm Tree | 2.00% | ~1 |
+| Under the Hood | 2.00% | ~1 |
+| Eyes Shut | 2.00% | ~1 |
 | Long Live Gaipajama! | 0.00% | ~0 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Tintin, Reporter | 0.00% | ~0 |
@@ -42,7 +42,7 @@
 | Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 512)  
+Progressed: 41 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 24 | 0 |
 | 2023-11-22 | 29 | 0 |
 | 2023-11-23 | 36 | 0 |
-| 2023-11-24 | 39 | 0 |
+| 2023-11-24 | 41 | 0 |

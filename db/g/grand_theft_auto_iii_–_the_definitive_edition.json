@@ -535,9 +535,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8642,
+  "EOS_Progressed": 8643,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -11355,6 +11355,11 @@
       "Time": "2023-11-24T07:03:55.4183291+00:00",
       "NumProgressed": 8642,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-11-24T10:03:49.2469745+00:00",
+      "NumProgressed": 8643,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 29,
@@ -11366,7 +11371,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7173
+      "UsersEstimate": 7174
     },
     {
       "ID": "ACH02",
@@ -11374,7 +11379,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "ACH03",
@@ -11550,7 +11555,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ACH25",
@@ -11590,14 +11595,14 @@
       "Name": "King of Liberty City",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8642,
+      "Progressed": 8643,
       "Completed": 59
     }
   ],
@@ -11605,8 +11610,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-18T13:00:01.75974+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:04:09.4272544+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:03:49.246974+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.3385878+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:00:38.4436711+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:04:09.4273451+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:00:02.7965628+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:03:49.247043+00:00"
 }

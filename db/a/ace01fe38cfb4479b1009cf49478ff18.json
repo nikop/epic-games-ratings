@@ -2,9 +2,9 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 411,
-  "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.77,
+  "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -569,6 +569,11 @@
       "Time": "2023-11-24T05:09:35.2901423+00:00",
       "NumProgressed": 130,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T10:08:55.0448172+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -581,7 +586,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 31,
       "XP": 45,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -595,17 +600,17 @@
       "ID": "ach_chapter_complete_3",
       "SetID": "d499apg",
       "Name": "Chapter III - Complete",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_complete_difficulty_easy",
       "SetID": "d499apg",
       "Name": "The Emperor Protects",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -676,14 +681,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:09:13.5810315+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:08:55.0448168+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.9012837+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:58:57.2914099+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:09:13.5810428+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:58:37.8533518+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:08:55.0448284+00:00"
 }

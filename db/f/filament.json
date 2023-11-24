@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 813,
+  "Ranking_Rating": 812,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 73,
@@ -324,9 +324,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205900,
+  "EOS_Progressed": 205902,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -23669,6 +23669,11 @@
       "Time": "2023-11-24T09:04:28.632881+00:00",
       "NumProgressed": 205900,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-11-24T10:04:05.9203367+00:00",
+      "NumProgressed": 205902,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 29,
@@ -23704,7 +23709,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193546
+      "UsersEstimate": 193548
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -23911,7 +23916,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205900,
+      "Progressed": 205902,
       "Completed": 530
     }
   ],
@@ -23919,8 +23924,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-21T01:49:33.7358829+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:04:28.6328806+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:04:05.9203363+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:23.3132898+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:00:26.9164459+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:04:28.6330206+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:59:53.1355295+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:04:05.9204472+00:00"
 }

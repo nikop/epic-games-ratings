@@ -4722,9 +4722,9 @@
       "ID": "achievement_82",
       "SetID": "d252ncf",
       "Name": "World Shaker",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_83",
@@ -4746,9 +4746,9 @@
       "ID": "achievement_85",
       "SetID": "d252ncf",
       "Name": "Party Crasher",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_86",
@@ -4886,8 +4886,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:08:34.5605291+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:08:20.3887795+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-24T09:03:02.9417979+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:08:34.5607152+00:00"
+  "LastUpdate_Ratings": "2023-11-24T10:02:49.7426277+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:08:20.3889274+00:00"
 }

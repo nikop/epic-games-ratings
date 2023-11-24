@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 90.00% | ~198 |
-| Training Simulation | 79.00% | ~174 |
-| Kuku Bird Hunter | 65.00% | ~143 |
+| Travel Streamer | 90.00% | ~199 |
+| Training Simulation | 79.00% | ~175 |
+| Kuku Bird Hunter | 65.00% | ~144 |
 | Storm Traveller | 59.00% | ~130 |
-| Fashion Connoisseur | 55.00% | ~121 |
-| Wolf King Killer | 55.00% | ~121 |
+| Fashion Connoisseur | 56.00% | ~124 |
+| Wolf King Killer | 55.00% | ~122 |
 | Arms Mechanic | 49.00% | ~108 |
 | Flower Thief | 45.00% | ~99 |
-| Apostle of Flame | 40.00% | ~88 |
 | Beginner Cook | 39.00% | ~86 |
+| Apostle of Flame | 39.00% | ~86 |
 | Beginner Artificer | 38.00% | ~84 |
-| Seal Breaker | 34.00% | ~75 |
+| Seal Breaker | 33.00% | ~73 |
 | Handyman | 30.00% | ~66 |
 | Giant Lizard Killer | 29.00% | ~64 |
-| Guardian | 27.00% | ~59 |
-| Nosebleeder | 27.00% | ~59 |
+| Guardian | 27.00% | ~60 |
+| Nosebleeder | 27.00% | ~60 |
 | Trader | 25.00% | ~55 |
 | Weapon Boost | 23.00% | ~51 |
-| Youth Magnet | 20.00% | ~44 |
 | Master Artificer | 20.00% | ~44 |
 | Flying Kobold Killer | 19.00% | ~42 |
+| Youth Magnet | 19.00% | ~42 |
 | Lethal Blade Mantis Killer | 19.00% | ~42 |
 | Squeaky Clean | 19.00% | ~42 |
 | Furious Scorpion Killer | 18.00% | ~40 |
-| Kind Adventurer | 15.00% | ~33 |
+| Kind Adventurer | 16.00% | ~35 |
 | Mermaid Killer | 15.00% | ~33 |
 | Face Slapper | 15.00% | ~33 |
 | Cave Master | 14.00% | ~31 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~4 |
 | Warden Challenge | 2.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 378)  
+Progressed: 221 (Ranked 378)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 120 | 0 |
 | 2023-11-22 | 168 | 0 |
 | 2023-11-23 | 209 | 0 |
-| 2023-11-24 | 220 | 0 |
+| 2023-11-24 | 221 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

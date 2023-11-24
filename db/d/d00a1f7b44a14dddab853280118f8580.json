@@ -3,9 +3,9 @@
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 364,
-  "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 248,
-  "EOS_Completed": 46,
+  "EOS_Completed": 47,
   "EOS_NewPlayers": 83,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 18.55,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 18.95,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1084,6 +1084,11 @@
       "Time": "2023-11-24T09:07:01.7261898+00:00",
       "NumProgressed": 248,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-11-24T10:08:01.2782382+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1158,9 +1163,9 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_skip_3",
@@ -1184,13 +1189,13 @@
       "ID": "5e260i9",
       "IsBase": true,
       "Progressed": 248,
-      "Completed": 46
+      "Completed": 47
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:07:01.7261893+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:08:01.2782376+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:57:47.1609016+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:07:01.7262024+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:57:39.1565379+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:08:01.2782648+00:00"
 }

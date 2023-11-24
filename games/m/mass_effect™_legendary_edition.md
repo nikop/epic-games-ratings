@@ -78,16 +78,16 @@
 | Giant Killer | 26.00% | ~358 |
 | First Aid Specialist | 26.00% | ~358 |
 | A House Divided | 26.00% | ~358 |
-| World Shaker | 25.00% | ~344 |
+| World Shaker | 26.00% | ~358 |
 | Weapon Specialist | 24.00% | ~330 |
 | Pathfinder | 24.00% | ~330 |
 | Tunnel Rat | 24.00% | ~330 |
 | Liberator | 24.00% | ~330 |
 | Savior | 23.00% | ~316 |
 | Arbiter | 23.00% | ~316 |
+| Party Crasher | 22.00% | ~303 |
 | Lost and Found | 22.00% | ~303 |
 | Paramour II | 21.00% | ~289 |
-| Party Crasher | 21.00% | ~289 |
 | Hard Target | 21.00% | ~289 |
 | Last Resort | 20.00% | ~275 |
 | Saboteur | 20.00% | ~275 |

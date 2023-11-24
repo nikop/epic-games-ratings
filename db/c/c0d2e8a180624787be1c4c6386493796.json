@@ -423,9 +423,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -487,9 +487,9 @@
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
@@ -655,9 +655,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -671,9 +671,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -695,9 +695,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -927,9 +927,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
       "SetID": "caeik3h",
       "Name": "The Gill-man",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_THING",
@@ -943,17 +943,17 @@
       "ID": "KR4_ACHIEVEMENT_TROLL",
       "SetID": "caeik3h",
       "Name": "Oh My God!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
       "SetID": "caeik3h",
       "Name": "Champion Of The Arena",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
@@ -982,8 +982,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-24T09:05:58.4627498+00:00",
+  "LastChanged_Achievements": "2023-11-24T10:05:25.8114645+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:58:23.8031872+00:00",
-  "LastUpdate_Achievements": "2023-11-24T09:05:58.4628082+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:58:10.0007941+00:00",
+  "LastUpdate_Achievements": "2023-11-24T10:05:25.8115253+00:00"
 }
