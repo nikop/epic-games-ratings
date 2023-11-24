@@ -8,17 +8,17 @@
 | Thalya – Simply Immortal | 85.00% | ~321 |
 | For the Horde! | 80.00% | ~302 |
 | Hammer Time, Round Two | 78.00% | ~295 |
-| The Hellwoods | 73.00% | ~276 |
-| The Plains of Strothalm | 67.00% | ~253 |
+| The Hellwoods | 74.00% | ~280 |
+| The Plains of Strothalm | 68.00% | ~257 |
 | Experienced Thalya | 67.00% | ~253 |
 | Thalya's Concentrated Fury | 66.00% | ~249 |
 | Master of Magic | 63.00% | ~238 |
-| Bad Elves Go Everywhere | 62.00% | ~234 |
+| Bad Elves Go Everywhere | 63.00% | ~238 |
 | Magic Accidents | 57.00% | ~215 |
 | Unicorn steaks – fresh off the hoof! | 57.00% | ~215 |
 | Heroes’ Gorge | 57.00% | ~215 |
+| Minions, Minions! | 54.00% | ~204 |
 | Trap Master | 53.00% | ~200 |
-| Minions, Minions! | 53.00% | ~200 |
 | The Ascent | 48.00% | ~181 |
 | It's Warm and Cozy at Home | 48.00% | ~181 |
 | Hard Work | 44.00% | ~166 |
@@ -52,8 +52,8 @@
 | My Little Torture Chamber | 11.00% | ~42 |
 | Lavalumps on Ice! | 10.00% | ~38 |
 | The Rune Sockets of Finitude (Part 2) | 10.00% | ~38 |
+| Rubble and Ashes | 9.00% | ~34 |
 | The Last Stand - This Time For Real! | 9.00% | ~34 |
-| Rubble and Ashes | 8.00% | ~30 |
 | To Infinity And Beyond! | 8.00% | ~30 |
 | Mirror, Mirror | 7.00% | ~26 |
 | Untouchable | 7.00% | ~26 |
@@ -62,8 +62,8 @@
 | Laser Eyes Are So Useless | 6.00% | ~23 |
 | Evilification | 6.00% | ~23 |
 | Heal Heal Blessing | 5.00% | ~19 |
+| Hands Off My Stones | 5.00% | ~19 |
 | No Mana, No Cry | 4.00% | ~15 |
-| Hands Off My Stones | 4.00% | ~15 |
 | I Don't Need Any Help | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 378 (Ranked 328)  

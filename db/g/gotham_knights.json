@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4343,9 +4343,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76978,
+  "EOS_Progressed": 76979,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23748,6 +23748,11 @@
       "Time": "2023-11-24T12:05:58.2579396+00:00",
       "NumProgressed": 76978,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-24T13:11:38.8842228+00:00",
+      "NumProgressed": 76979,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23863,7 +23868,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16165
+      "UsersEstimate": 16166
     },
     {
       "ID": "CLAYFACE_2",
@@ -23903,7 +23908,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5388
+      "UsersEstimate": 5389
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -24063,7 +24068,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26942
+      "UsersEstimate": 26943
     },
     {
       "ID": "HARLEY_2",
@@ -24071,7 +24076,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19244
+      "UsersEstimate": 19245
     },
     {
       "ID": "HARLEY_3",
@@ -24087,7 +24092,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12316
+      "UsersEstimate": 12317
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -24159,7 +24164,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19244
+      "UsersEstimate": 19245
     },
     {
       "ID": "MYSTERY_03",
@@ -24246,13 +24251,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76978,
+      "Progressed": 76979,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47258,
+      "Progressed": 47259,
       "Completed": 2675
     }
   ],
@@ -24260,8 +24265,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-24T08:59:50.1862915+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:05:58.2579386+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:11:38.8842224+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:59:47.6472276+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:05:58.2580873+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:05:26.0715251+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:11:38.8843289+00:00"
 }

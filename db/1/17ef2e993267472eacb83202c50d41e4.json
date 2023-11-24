@@ -2,13 +2,13 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 1021,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.92,
+  "Rating": 4,
   "RatingHistory": [
     {
       "Time": "2023-09-24T07:59:49.2549091+00:00",
@@ -65,15 +65,21 @@
       "Rating": 3.92,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-24T13:07:54.0480227+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8219,
+  "EOS_Progressed": 8220,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7161,6 +7167,11 @@
       "Time": "2023-11-24T11:10:21.7483749+00:00",
       "NumProgressed": 8219,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T13:15:08.680406+00:00",
+      "NumProgressed": 8220,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7581,7 +7592,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "NeutralKills200",
@@ -7764,16 +7775,16 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8219,
+      "Progressed": 8220,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:09:53.0785284+00:00",
+  "LastChanged": "2023-11-24T13:07:54.0480111+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:15:08.6804056+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-24T12:03:04.5970595+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:09:53.0786666+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:07:54.048023+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:15:08.6804828+00:00"
 }

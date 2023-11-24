@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~50,299 |
-| Worth it | 63.00% | ~40,626 |
-| Eagle Eye | 55.00% | ~35,467 |
-| Corpseman I | 40.00% | ~25,794 |
-| Blast fishing | 37.00% | ~23,860 |
+| Setting an example | 78.00% | ~50,301 |
+| Worth it | 63.00% | ~40,627 |
+| Eagle Eye | 55.00% | ~35,468 |
+| Corpseman I | 40.00% | ~25,795 |
+| Blast fishing | 37.00% | ~23,861 |
 | Not alone | 32.00% | ~20,636 |
-| Headhunter I | 26.00% | ~16,766 |
+| Headhunter I | 26.00% | ~16,767 |
 | Manual Labour I | 25.00% | ~16,122 |
 | Developers, Developers, Developers | 24.00% | ~15,477 |
 | Basic Training | 24.00% | ~15,477 |
 | Furchtlos und Treu | 13.00% | ~8,383 |
-| Gott Mit Uns | 12.00% | ~7,738 |
+| Gott Mit Uns | 12.00% | ~7,739 |
 | This We'll Defend! | 9.00% | ~5,804 |
 | Anker wirf! | 9.00% | ~5,804 |
 | Providentiea Memor | 9.00% | ~5,804 |
@@ -28,12 +28,12 @@ Number of Ratings: 1,999  (23.09.2022)
 | In Treue Fest | 5.00% | ~3,224 |
 | Voor De Koning | 5.00% | ~3,224 |
 | Extreme Headhunter | 5.00% | ~3,224 |
-| Advance Australia | 4.00% | ~2,579 |
-| We Stand on Guard | 4.00% | ~2,579 |
-| Sidi Brahim | 4.00% | ~2,579 |
-| War is better with friends I | 4.00% | ~2,579 |
-| Let them, come to us | 4.00% | ~2,579 |
-| Corpseman II | 4.00% | ~2,579 |
+| Advance Australia | 4.00% | ~2,580 |
+| We Stand on Guard | 4.00% | ~2,580 |
+| Sidi Brahim | 4.00% | ~2,580 |
+| War is better with friends I | 4.00% | ~2,580 |
+| Let them, come to us | 4.00% | ~2,580 |
+| Corpseman II | 4.00% | ~2,580 |
 | Offense is the best defence | 3.00% | ~1,935 |
 | There is no I in team | 3.00% | ~1,935 |
 | Veteran | 3.00% | ~1,935 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~64 |
 | Blood Brother | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,486 (Ranked 105)  
+Progressed: 64,488 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 4 (0.01%) (Ranked 337)
 | 2023-11-21 | 64,309 | 4 |
 | 2023-11-22 | 64,384 | 4 |
 | 2023-11-23 | 64,460 | 4 |
-| 2023-11-24 | 64,486 | 4 |
+| 2023-11-24 | 64,488 | 4 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 355)  
 Sum: 809 (Ranked 280)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -532,9 +532,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "631ndc2",
       "Name": "Lion Tamer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -925,8 +925,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:07:13.4637002+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:13:15.182513+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:09.0423155+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:58:33.4481963+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:07:13.4637487+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:03:47.558688+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:13:15.1825452+00:00"
 }

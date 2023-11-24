@@ -6849,9 +6849,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 723685,
+  "EOS_Progressed": 723727,
   "EOS_Completed": 2429,
-  "EOS_NewPlayers": 4146,
+  "EOS_NewPlayers": 4166,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31794,6 +31794,11 @@
       "Time": "2023-11-24T12:05:38.3452766+00:00",
       "NumProgressed": 723685,
       "NumCompleted": 2429
+    },
+    {
+      "Time": "2023-11-24T13:11:13.6855647+00:00",
+      "NumProgressed": 723727,
+      "NumCompleted": 2429
     }
   ],
   "TotalAchievements": 51,
@@ -31853,7 +31858,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "ach_bookworm",
@@ -31885,7 +31890,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -31901,7 +31906,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6513
+      "UsersEstimate": 6514
     },
     {
       "ID": "ach_explorer",
@@ -31915,9 +31920,9 @@
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6513
+      "UsersEstimate": 7237
     },
     {
       "ID": "ach_finisher",
@@ -31933,7 +31938,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6513
+      "UsersEstimate": 6514
     },
     {
       "ID": "ach_good_eyesight",
@@ -31997,7 +32002,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "ach_knock_down",
@@ -32013,7 +32018,7 @@
       "Name": "Zombologist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6513
+      "UsersEstimate": 6514
     },
     {
       "ID": "ach_legendary",
@@ -32021,7 +32026,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "ach_magnum_opus",
@@ -32037,7 +32042,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6513
+      "UsersEstimate": 6514
     },
     {
       "ID": "ach_mind_over_monster",
@@ -32053,7 +32058,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "ach_salvation",
@@ -32067,9 +32072,9 @@
       "ID": "ach_secrets_of_la",
       "SetID": "7km39fm",
       "Name": "Sharpest Tool in the Box",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1447
+      "UsersEstimate": 2171
     },
     {
       "ID": "ach_skilled_up",
@@ -32109,7 +32114,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "ach_thesacrifice",
@@ -32117,7 +32122,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 6513
+      "UsersEstimate": 6514
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -32141,7 +32146,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14474
+      "UsersEstimate": 14475
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32149,7 +32154,7 @@
       "Name": "Rising Star",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "ach_well_trained",
@@ -32173,7 +32178,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "ach_gardening_tools",
@@ -32181,7 +32186,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_pork_chops",
@@ -32212,13 +32217,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723685,
+      "Progressed": 723727,
       "Completed": 2429
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 49227,
+      "Progressed": 49269,
       "Completed": 36591
     }
   ],
@@ -32226,8 +32231,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-24T10:59:38.4561418+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:05:38.3452761+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:11:13.6855644+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:58:51.4176194+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:05:38.3454474+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:04:11.6249913+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:11:13.6857118+00:00"
 }

@@ -31,7 +31,7 @@
 | No posters allowed | 27.00% | ~22 |
 | Little genius | 26.00% | ~21 |
 | Pain in the hands | 24.00% | ~20 |
-| Turn the last page | 22.00% | ~18 |
+| Turn the last page | 23.00% | ~19 |
 | Kill it! KILL IT! | 22.00% | ~18 |
 | Close the deal | 21.00% | ~17 |
 | Ring-a-ding-ding | 21.00% | ~17 |

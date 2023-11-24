@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131247,
+  "EOS_Progressed": 131249,
   "EOS_Completed": 1137,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -25137,6 +25137,11 @@
       "Time": "2023-11-24T12:05:46.1486847+00:00",
       "NumProgressed": 131247,
       "NumCompleted": 1137
+    },
+    {
+      "Time": "2023-11-24T13:11:23.6664149+00:00",
+      "NumProgressed": 131249,
+      "NumCompleted": 1137
     }
   ],
   "TotalAchievements": 34,
@@ -25164,7 +25169,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 55124
+      "UsersEstimate": 55125
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -25204,7 +25209,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 104998
+      "UsersEstimate": 104999
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -25220,7 +25225,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 73498
+      "UsersEstimate": 73499
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -25228,7 +25233,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 36749
+      "UsersEstimate": 36750
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -25236,7 +25241,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 52499
+      "UsersEstimate": 52500
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -25260,7 +25265,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 39374
+      "UsersEstimate": 39375
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -25276,7 +25281,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 39374
+      "UsersEstimate": 39375
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -25324,7 +25329,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 36749
+      "UsersEstimate": 36750
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -25332,7 +25337,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 23624
+      "UsersEstimate": 23625
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -25396,7 +25401,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 31499
+      "UsersEstimate": 31500
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -25419,7 +25424,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 131247,
+      "Progressed": 131249,
       "Completed": 1137
     }
   ],
@@ -25427,8 +25432,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:05:46.1486843+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:11:23.6664145+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.8048519+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:59:24.5521241+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:05:46.1488425+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:04:55.6888265+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:11:23.6665534+00:00"
 }

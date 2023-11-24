@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 979,
+  "Ranking_Rating": 980,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8275,11 +8275,11 @@
       "Count": 3534
     }
   ],
-  "EOS_Progressed": 236677,
-  "EOS_Completed": 2473,
-  "EOS_NewPlayers": 1198,
-  "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Progressed": 236690,
+  "EOS_Completed": 2474,
+  "EOS_NewPlayers": 1201,
+  "EOS_NewCompleters": 18,
+  "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -32745,6 +32745,11 @@
       "Time": "2023-11-24T12:09:54.5188801+00:00",
       "NumProgressed": 236677,
       "NumCompleted": 2473
+    },
+    {
+      "Time": "2023-11-24T13:15:10.2493749+00:00",
+      "NumProgressed": 236690,
+      "NumCompleted": 2474
     }
   ],
   "TotalAchievements": 532,
@@ -37011,21 +37016,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202951,
-      "Completed": 3938
+      "Progressed": 202964,
+      "Completed": 3939
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236677,
-      "Completed": 2473
+      "Progressed": 236690,
+      "Completed": 2474
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-24T11:58:35.9013106+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:09:54.5188797+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:15:10.2493744+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:58:35.9013116+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:09:54.5212365+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:03:50.8937033+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:15:10.2515323+00:00"
 }

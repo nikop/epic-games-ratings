@@ -14,8 +14,8 @@
 | Dispel Rumors | 36.00% | ~8 |
 | The End of an Outlaw | 36.00% | ~8 |
 | Captain Mustache | 32.00% | ~7 |
+| Demon Slayer | 27.00% | ~6 |
 | Big Eater | 23.00% | ~5 |
-| Demon Slayer | 23.00% | ~5 |
 | Urban Explorer | 23.00% | ~5 |
 | Steal Her Away | 23.00% | ~5 |
 | Sewer Rat | 23.00% | ~5 |

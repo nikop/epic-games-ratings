@@ -6,27 +6,27 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~77,591 |
-| No Escape | 86.00% | ~68,792 |
-| Seeker of Power | 85.00% | ~67,992 |
+| Manifestation of the Soul | 97.00% | ~77,592 |
+| No Escape | 86.00% | ~68,793 |
+| Seeker of Power | 85.00% | ~67,993 |
 | Hopes and Dreams | 82.00% | ~65,593 |
-| Lantern Smasher | 78.00% | ~62,393 |
-| The Pirate's Way | 74.00% | ~59,193 |
+| Lantern Smasher | 78.00% | ~62,394 |
+| The Pirate's Way | 74.00% | ~59,194 |
 | Dark Crystal, Warrior's Heart | 71.00% | ~56,794 |
-| The King of the Dark Elves | 68.00% | ~54,394 |
-| Memories of the Distant Past | 66.00% | ~52,794 |
-| Distortion's Progeny | 63.00% | ~50,394 |
-| Savant | 62.00% | ~49,594 |
+| The King of the Dark Elves | 68.00% | ~54,395 |
+| Memories of the Distant Past | 66.00% | ~52,795 |
+| Distortion's Progeny | 63.00% | ~50,395 |
+| Savant | 62.00% | ~49,595 |
 | A Landscape of Memory | 58.00% | ~46,395 |
-| The Wind's Light | 54.00% | ~43,195 |
+| The Wind's Light | 54.00% | ~43,196 |
 | Vague Remembrances | 49.00% | ~39,196 |
 | The Fire's Light | 47.00% | ~37,596 |
 | Phantom Memories | 47.00% | ~37,596 |
 | Imbued Memories | 47.00% | ~37,596 |
 | The Earth's Light | 45.00% | ~35,996 |
-| Shared Recollections | 42.00% | ~33,596 |
-| The Water's Light | 40.00% | ~31,996 |
-| Path of the Sage | 40.00% | ~31,996 |
+| Shared Recollections | 42.00% | ~33,597 |
+| The Water's Light | 40.00% | ~31,997 |
+| Path of the Sage | 40.00% | ~31,997 |
 | Malice Takes Root | 38.00% | ~30,397 |
 | Path of the Dark Knight | 37.00% | ~29,597 |
 | Path of the Paladin | 37.00% | ~29,597 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,400 |
 | A Tale of Origins and Endings | 2.00% | ~1,600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,991 (Ranked 95)  
+Progressed: 79,992 (Ranked 95)  
 Completed: 2,193 (2.74%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2,193 (2.74%) (Ranked 112)
 | 2023-11-21 | 79,962 | 2,192 |
 | 2023-11-22 | 79,972 | 2,193 |
 | 2023-11-23 | 79,985 | 2,193 |
-| 2023-11-24 | 79,991 | 2,193 |
+| 2023-11-24 | 79,992 | 2,193 |
 ## Awards
 Max (Great Boss Battles): 775  (Ranked 172)  
 Sum: 1,594 (Ranked 232)  

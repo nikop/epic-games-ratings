@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -931,7 +931,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 8931,
+  "EOS_Progressed": 8933,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 0,
@@ -8021,6 +8021,11 @@
       "Time": "2023-11-24T12:04:26.9652449+00:00",
       "NumProgressed": 8931,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-24T13:09:43.129736+00:00",
+      "NumProgressed": 8933,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -8048,7 +8053,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -8080,7 +8085,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -8096,7 +8101,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -8104,7 +8109,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -8112,7 +8117,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -8184,7 +8189,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -8224,7 +8229,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4198
+      "UsersEstimate": 4199
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8240,7 +8245,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -8280,7 +8285,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -8336,7 +8341,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -8344,7 +8349,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -8352,7 +8357,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -8391,7 +8396,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 8931,
+      "Progressed": 8933,
       "Completed": 9
     }
   ],
@@ -8399,8 +8404,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-22T21:57:11.9377566+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:04:26.9652445+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:09:43.1297357+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.1611041+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:57:58.6174333+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:04:26.9653178+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:03:01.8666741+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:09:43.1298027+00:00"
 }

@@ -14,8 +14,8 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 6.00% | ~12 |
 | Sorcerous Spree | 5.00% | ~10 |
 | Veni, Vidi, Vici | 5.00% | ~10 |
+| Whoops! | 4.00% | ~8 |
 | Multi Kill | 3.00% | ~6 |
-| Whoops! | 3.00% | ~6 |
 | Master | 3.00% | ~6 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~6 |
 | This Spot's Taken | 2.00% | ~4 |

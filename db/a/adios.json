@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79035,
+  "EOS_Progressed": 79037,
   "EOS_Completed": 850,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24467,6 +24467,11 @@
       "Time": "2023-11-24T12:06:53.3616914+00:00",
       "NumProgressed": 79035,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-24T13:12:49.1864956+00:00",
+      "NumProgressed": 79037,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24494,7 +24499,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 14226
+      "UsersEstimate": 14227
     },
     {
       "ID": "Audiophile",
@@ -24518,7 +24523,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14226
+      "UsersEstimate": 14227
     },
     {
       "ID": "Butcher",
@@ -24582,7 +24587,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16597
+      "UsersEstimate": 16598
     },
     {
       "ID": "Meaty",
@@ -24614,7 +24619,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5532
+      "UsersEstimate": 5533
     },
     {
       "ID": "Piano Man",
@@ -24638,7 +24643,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5532
+      "UsersEstimate": 5533
     },
     {
       "ID": "Spicy",
@@ -24677,7 +24682,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79035,
+      "Progressed": 79037,
       "Completed": 850
     }
   ],
@@ -24685,8 +24690,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:06:53.3616911+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:12:49.1864952+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:57:32.0505043+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:06:53.3618882+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:02:26.9602712+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:12:49.1866193+00:00"
 }

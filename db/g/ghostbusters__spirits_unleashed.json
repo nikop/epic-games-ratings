@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3507,9 +3507,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31475,
+  "EOS_Progressed": 31477,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20317,6 +20317,11 @@
       "Time": "2023-11-24T12:06:02.175142+00:00",
       "NumProgressed": 31475,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-24T13:11:43.9608157+00:00",
+      "NumProgressed": 31477,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -20328,7 +20333,7 @@
       "Name": "Advancement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "Animated",
@@ -20630,9 +20635,9 @@
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2833
     },
     {
       "ID": "Summoner",
@@ -20735,7 +20740,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31475,
+      "Progressed": 31477,
       "Completed": 68
     }
   ],
@@ -20743,8 +20748,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-24T05:03:05.9731122+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:06:02.1751416+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:11:43.9608153+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-24T12:03:10.306079+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:06:02.1752857+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:08:01.7958456+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:11:43.9609049+00:00"
 }

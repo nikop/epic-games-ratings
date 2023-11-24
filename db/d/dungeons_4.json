@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -932,9 +932,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 280
     },
     {
       "ID": "ach_main03demon_doors",
@@ -956,17 +956,17 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 257
     },
     {
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 204
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -980,9 +980,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 238
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1268,9 +1268,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_main17stone_completed",
@@ -1340,9 +1340,9 @@
       "ID": "ach_main19war_stonedamage",
       "SetID": "4hg22ll",
       "Name": "Hands Off My Stones",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_main20end_completed",
@@ -1379,8 +1379,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:05:20.4071027+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:10:51.2530157+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:57:54.1269682+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:05:20.4071595+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:02:55.6856329+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:10:51.2530962+00:00"
 }

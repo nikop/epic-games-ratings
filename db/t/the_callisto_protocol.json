@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1505,9 +1505,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 16474,
+  "EOS_Progressed": 16475,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9145,6 +9145,11 @@
       "Time": "2023-11-24T08:05:45.5099804+00:00",
       "NumProgressed": 16474,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-24T13:10:39.4356543+00:00",
+      "NumProgressed": 16475,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 47,
@@ -9260,7 +9265,7 @@
       "Name": "Get a Grip",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9268,7 +9273,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "KILL_2HEAD",
@@ -9531,13 +9536,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16474,
+      "Progressed": 16475,
       "Completed": 80
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4400,
+      "Progressed": 4401,
       "Completed": 29
     }
   ],
@@ -9545,8 +9550,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-23T22:02:44.1261785+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:05:11.0072963+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:10:39.4356538+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:43.3850362+00:00",
-  "LastUpdate_Ratings": "2023-11-24T12:03:10.4584072+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:05:11.0074421+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:08:01.9868295+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:10:39.4357223+00:00"
 }

@@ -1,17 +1,17 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,001)  
+Rating: 3.99 (Ranked 1,002)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,069 |
-| Basic in Bulk | 5.00% | ~7,069 |
-| Tinkle of Coins | 5.00% | ~7,069 |
-| Titan's First Steps | 5.00% | ~7,069 |
-| Disintermediation | 4.00% | ~5,655 |
-| Capitalism Ho! | 4.00% | ~5,655 |
+| Sponsored by Argon | 5.00% | ~7,070 |
+| Basic in Bulk | 5.00% | ~7,070 |
+| Tinkle of Coins | 5.00% | ~7,070 |
+| Titan's First Steps | 5.00% | ~7,070 |
+| Disintermediation | 4.00% | ~5,656 |
+| Capitalism Ho! | 4.00% | ~5,656 |
 | One Easy Payment | 3.00% | ~4,242 |
 | Some Assembly Required | 3.00% | ~4,242 |
 | Another Satisfied Customer | 3.00% | ~4,242 |
@@ -35,6 +35,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | On the Path to Greatness | 1.00% | ~1,414 |
 | A Notch Above the Rest | 1.00% | ~1,414 |
 | Ascended | 1.00% | ~1,414 |
+| Above the Norm | 1.00% | ~1,414 |
 | Tax not Included | 1.00% | ~1,414 |
 | The King's Caprice | 1.00% | ~1,414 |
 | Research & Development | 1.00% | ~1,414 |
@@ -62,41 +63,40 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 1.00% | ~1,414 |
 | Natural 20 | 1.00% | ~1,414 |
 | Seasoned Journeyman | 1.00% | ~1,414 |
+| Scourge of the Seas | 1.00% | ~1,414 |
 | Black Friday Special | 1.00% | ~1,414 |
 | Magical Harmony | 1.00% | ~1,414 |
 | Special Ingredient | 1.00% | ~1,414 |
 | Exotic Commodities | 1.00% | ~1,414 |
 | Complete Monopoly | 1.00% | ~1,414 |
-| Cream of the Crop | 0.90% | ~1,272 |
-| Above the Norm | 0.90% | ~1,272 |
-| A Ronin Reborn | 0.90% | ~1,272 |
-| Booty by the Boatload | 0.90% | ~1,272 |
-| Archivist | 0.90% | ~1,272 |
-| Omae wa Mou Shindeiru | 0.90% | ~1,272 |
-| Master of Transmutation | 0.90% | ~1,272 |
-| Supercharged | 0.90% | ~1,272 |
-| Ritualist | 0.90% | ~1,272 |
-| Fit for a King | 0.90% | ~1,272 |
-| By Your Powers Combined... | 0.90% | ~1,272 |
-| Wealth Beyond Measure | 0.90% | ~1,272 |
-| Necromancer Queen | 0.90% | ~1,272 |
-| Item of Renown | 0.90% | ~1,272 |
-| Master Merchant | 0.90% | ~1,272 |
-| Scourge of the Seas | 0.90% | ~1,272 |
-| Attrition Mission | 0.90% | ~1,272 |
-| Glittering Collection | 0.90% | ~1,272 |
-| Treasure Trove | 0.90% | ~1,272 |
-| Master Recycler | 0.90% | ~1,272 |
-| King's Blade | 0.90% | ~1,272 |
+| Cream of the Crop | 0.90% | ~1,273 |
+| Proud Paladin | 0.90% | ~1,273 |
+| A Ronin Reborn | 0.90% | ~1,273 |
+| Booty by the Boatload | 0.90% | ~1,273 |
+| Archivist | 0.90% | ~1,273 |
+| Omae wa Mou Shindeiru | 0.90% | ~1,273 |
+| Master of Transmutation | 0.90% | ~1,273 |
+| Supercharged | 0.90% | ~1,273 |
+| Ritualist | 0.90% | ~1,273 |
+| Fit for a King | 0.90% | ~1,273 |
+| By Your Powers Combined... | 0.90% | ~1,273 |
+| Wealth Beyond Measure | 0.90% | ~1,273 |
+| Necromancer Queen | 0.90% | ~1,273 |
+| Item of Renown | 0.90% | ~1,273 |
+| Master Merchant | 0.90% | ~1,273 |
+| Precision Engineering | 0.90% | ~1,273 |
+| Attrition Mission | 0.90% | ~1,273 |
+| Glittering Collection | 0.90% | ~1,273 |
+| Treasure Trove | 0.90% | ~1,273 |
+| Master Recycler | 0.90% | ~1,273 |
+| King's Blade | 0.90% | ~1,273 |
 | Top of the World | 0.80% | ~1,131 |
-| Proud Paladin | 0.80% | ~1,131 |
 | Constellated | 0.80% | ~1,131 |
 | Thirst for Knowledge | 0.80% | ~1,131 |
 | Fillin' the Bin | 0.80% | ~1,131 |
 | Industrial Evolution | 0.80% | ~1,131 |
 | A Legend is Born | 0.80% | ~1,131 |
 | Bountiful Harvest | 0.80% | ~1,131 |
-| Precision Engineering | 0.80% | ~1,131 |
 | Moment of Respite | 0.80% | ~1,131 |
 | King's Shadow | 0.80% | ~1,131 |
 | Economy of Scarce | 0.80% | ~1,131 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,384 (Ranked 80)  
-Completed: 205 (0.14%) (Ranked 270)  
+Progressed: 141,397 (Ranked 80)  
+Completed: 206 (0.15%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,7 +337,7 @@ Completed: 205 (0.14%) (Ranked 270)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,384 | 205 |
+| 2023-11-24 | 141,397 | 206 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,587 (Ranked 50)  

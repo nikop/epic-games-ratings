@@ -14,10 +14,10 @@
 | Scholar | 7.00% | ~15 |
 | I Found It | 7.00% | ~15 |
 | The Collector | 7.00% | ~15 |
-| Break Out | 6.00% | ~12 |
-| Tributes of Caladrias | 6.00% | ~12 |
-| Big Bazar | 6.00% | ~12 |
-| Stone Collection | 6.00% | ~12 |
+| Break Out | 6.00% | ~13 |
+| Tributes of Caladrias | 6.00% | ~13 |
+| Big Bazar | 6.00% | ~13 |
+| Stone Collection | 6.00% | ~13 |
 | Calm before the Storm | 5.00% | ~10 |
 | Shatter Them All | 4.00% | ~8 |
 | The Mentor | 3.00% | ~6 |
@@ -41,7 +41,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208 (Ranked 383)  
+Progressed: 209 (Ranked 382)  
 Completed: 2 (0.96%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 2 (0.96%) (Ranked 167)
 | 2023-11-21 | 197 | 1 |
 | 2023-11-22 | 203 | 2 |
 | 2023-11-23 | 204 | 2 |
-| 2023-11-24 | 208 | 2 |
+| 2023-11-24 | 209 | 2 |

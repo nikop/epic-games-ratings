@@ -9,7 +9,7 @@ Rating: 4.64 (Ranked 333)
 | Welcome Aboard | 85.00% | ~1,659 |
 | Lab Rat | 76.00% | ~1,484 |
 | All Systems Go | 67.00% | ~1,308 |
-| Brute Force | 66.00% | ~1,288 |
+| Brute Force | 67.00% | ~1,308 |
 | Cannon Fodder | 62.00% | ~1,210 |
 | Autofire | 59.00% | ~1,152 |
 | True Believer | 58.00% | ~1,132 |

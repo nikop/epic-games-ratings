@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236080,
+  "EOS_Progressed": 236081,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23242,6 +23242,11 @@
       "Time": "2023-11-24T11:05:43.0032717+00:00",
       "NumProgressed": 236080,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-24T13:10:27.6646318+00:00",
+      "NumProgressed": 236081,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23269,7 +23274,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66102
+      "UsersEstimate": 66103
     },
     {
       "ID": "CENTAUR",
@@ -23389,7 +23394,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77906
+      "UsersEstimate": 77907
     },
     {
       "ID": "NOBUNAGA",
@@ -23524,15 +23529,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236080,
+      "Progressed": 236081,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:05:01.8980385+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:10:27.6646314+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8860637+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:59:59.3802149+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:05:01.8982343+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:05:41.8853095+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:10:27.6647652+00:00"
 }

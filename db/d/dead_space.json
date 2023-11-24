@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -721,7 +721,7 @@
   ],
   "EOS_Progressed": 1952,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -6262,9 +6262,9 @@
       "ID": "achievement_42",
       "SetID": "222fo9l",
       "Name": "Brute Force",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1308
     },
     {
       "ID": "achievement_43",
@@ -6359,8 +6359,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-24T08:59:05.9325653+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:07:01.2136956+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:12:59.4338797+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:59:03.836444+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:07:01.2137666+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:04:28.3510269+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:12:59.4339311+00:00"
 }

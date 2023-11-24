@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -820,6 +820,11 @@
       "Time": "2023-11-24T07:09:22.8506379+00:00",
       "NumProgressed": 208,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-24T13:15:02.3206897+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -831,7 +836,7 @@
       "Name": "Break Out",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_02",
@@ -943,7 +948,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_16",
@@ -991,7 +996,7 @@
       "Name": "Big Bazar",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_22",
@@ -1071,7 +1076,7 @@
       "Name": "Stone Collection",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_33",
@@ -1118,14 +1123,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:09:47.6790569+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:15:02.3206892+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:57:58.607309+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:09:47.6790784+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:03:01.8763397+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:15:02.3207117+00:00"
 }

@@ -11,8 +11,8 @@
 | Connected | 93.00% | ~25 |
 | Expansion | 81.00% | ~22 |
 | Harvest Time | 81.00% | ~22 |
-| Artificer's Apprentice | 70.00% | ~19 |
-| Mine! | 67.00% | ~18 |
+| Artificer's Apprentice | 74.00% | ~20 |
+| Mine! | 70.00% | ~19 |
 | Fly the friendly Sky | 63.00% | ~17 |
 | Alchemist's Apprentice | 59.00% | ~16 |
 | Friend of Lyraine | 59.00% | ~16 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 534)  
+Progressed: 27 (Ranked 535)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |

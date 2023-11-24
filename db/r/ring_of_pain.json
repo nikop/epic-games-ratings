@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3460,9 +3460,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240143,
+  "EOS_Progressed": 240148,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26035,6 +26035,11 @@
       "Time": "2023-11-24T12:09:52.6877836+00:00",
       "NumProgressed": 240143,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-11-24T13:15:08.2413434+00:00",
+      "NumProgressed": 240148,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 138,
@@ -27126,7 +27131,7 @@
       "Name": "Expensive Look",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -27134,7 +27139,7 @@
       "Name": "What Doesn\u0027t Kill You",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -27149,13 +27154,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240143,
+      "Progressed": 240148,
       "Completed": 290
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1623,
+      "Progressed": 1628,
       "Completed": 389
     }
   ],
@@ -27163,8 +27168,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-23T20:58:01.4117644+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:09:52.6877833+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:15:08.241343+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:58:07.4550642+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:09:52.6880205+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:03:13.354442+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:15:08.2415713+00:00"
 }

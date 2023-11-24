@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 690,
+  "EOS_Progressed": 691,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.07,
   "EosHistory": [
@@ -2875,6 +2875,11 @@
       "Time": "2023-11-24T11:08:24.8133158+00:00",
       "NumProgressed": 690,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-24T13:13:11.1730038+00:00",
+      "NumProgressed": 691,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2932,9 +2937,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 104
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2950,7 +2955,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3006,7 +3011,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3052,9 +3057,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 187
     },
     {
       "ID": "PROGRESS_N3",
@@ -3085,14 +3090,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 690,
+      "Progressed": 691,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:07:10.1846247+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:13:11.1730035+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:59:22.7216127+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:07:10.1846629+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:04:53.2096813+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:13:11.1730356+00:00"
 }

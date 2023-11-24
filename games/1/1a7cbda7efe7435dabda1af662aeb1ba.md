@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 37.00% | ~10 |
-| Overcoming Weakness | 19.00% | ~5 |
+| Breaking Free | 36.00% | ~10 |
+| Overcoming Weakness | 18.00% | ~5 |
 | Boulder Breaker | 11.00% | ~3 |
 | Fence-Sitter | 11.00% | ~3 |
 | Green Thumb | 11.00% | ~3 |
@@ -35,7 +35,7 @@
 | Astral Envoy | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 534)  
+Progressed: 28 (Ranked 532)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,3 +60,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-09-25 | 25 | 0 |
 | 2023-09-27 | 26 | 0 |
 | 2023-10-18 | 27 | 0 |
+| 2023-11-24 | 28 | 0 |

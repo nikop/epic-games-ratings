@@ -4677,9 +4677,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 226836,
+  "EOS_Progressed": 226872,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 4665,
+  "EOS_NewPlayers": 4649,
   "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -19672,6 +19672,11 @@
       "Time": "2023-11-24T12:08:56.3188473+00:00",
       "NumProgressed": 226836,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-24T13:13:57.0027661+00:00",
+      "NumProgressed": 226872,
+      "NumCompleted": 513
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19698,9 +19703,9 @@
       "ID": "Defeat_Abberations_A",
       "SetID": "bkp3b1a",
       "Name": "Am I Seeing This?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 454
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -20123,22 +20128,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 226836,
+      "Progressed": 226872,
       "Completed": 513
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 6001,
-      "Completed": 144
+      "Progressed": 6037,
+      "Completed": 145
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-24T11:03:28.1040703+00:00",
-  "LastChanged_Achievements": "2023-11-24T12:08:56.318847+00:00",
+  "LastChanged_Achievements": "2023-11-24T13:13:57.0027657+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-24T12:03:22.7743985+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:08:56.3189556+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:08:18.6174826+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:13:57.0028521+00:00"
 }

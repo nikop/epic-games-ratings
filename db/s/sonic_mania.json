@@ -2,13 +2,13 @@
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
   "ProductSlug": "sonic-mania",
-  "Ranking_Rating": 107,
+  "Ranking_Rating": 113,
   "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T18:52:05+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.77,
   "NumberOfRatings": 2185,
   "RatingHistory": [
     {
@@ -1714,6 +1714,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 1642,
       "NumberOfAwardsMax": 966
+    },
+    {
+      "Time": "2023-11-24T13:03:19.4975825+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1642,
+      "NumberOfAwardsMax": 966
     }
   ],
   "ReviewsDisabled": false,
@@ -1817,8 +1823,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2023-11-21T13:10:16.0214826+00:00",
+  "LastChanged": "2023-11-24T13:03:19.4975824+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:03.6316645+00:00",
-  "LastUpdate_Ratings": "2023-11-24T11:58:12.0655215+00:00",
-  "LastUpdate_Achievements": "2023-11-24T12:05:48.5879815+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:03:19.4975828+00:00",
+  "LastUpdate_Achievements": "2023-11-24T13:11:26.6806855+00:00"
 }
