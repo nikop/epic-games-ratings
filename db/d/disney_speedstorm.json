@@ -1419,9 +1419,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 309551,
+  "EOS_Progressed": 309604,
   "EOS_Completed": 322,
-  "EOS_NewPlayers": 10409,
+  "EOS_NewPlayers": 10413,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13394,6 +13394,11 @@
       "Time": "2023-11-24T02:26:07.7516137+00:00",
       "NumProgressed": 309551,
       "NumCompleted": 322
+    },
+    {
+      "Time": "2023-11-24T03:07:45.9046254+00:00",
+      "NumProgressed": 309604,
+      "NumCompleted": 322
     }
   ],
   "TotalAchievements": 24,
@@ -13413,7 +13418,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15478
+      "UsersEstimate": 15480
     },
     {
       "ID": "11",
@@ -13427,9 +13432,9 @@
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2477
     },
     {
       "ID": "13",
@@ -13437,7 +13442,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.6,
       "XP": 70,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "14",
@@ -13445,7 +13450,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 21669
+      "UsersEstimate": 21672
     },
     {
       "ID": "15",
@@ -13469,7 +13474,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "18",
@@ -13485,7 +13490,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 0.8,
       "XP": 85,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "2",
@@ -13501,7 +13506,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12382
+      "UsersEstimate": 12384
     },
     {
       "ID": "21",
@@ -13525,7 +13530,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6191
+      "UsersEstimate": 6192
     },
     {
       "ID": "24",
@@ -13533,7 +13538,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9287
+      "UsersEstimate": 9288
     },
     {
       "ID": "3",
@@ -13541,7 +13546,7 @@
       "Name": "FRIENDLY",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "4",
@@ -13549,7 +13554,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9287
+      "UsersEstimate": 9288
     },
     {
       "ID": "5",
@@ -13557,7 +13562,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34051
+      "UsersEstimate": 34056
     },
     {
       "ID": "6",
@@ -13565,7 +13570,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12382
+      "UsersEstimate": 12384
     },
     {
       "ID": "7",
@@ -13589,14 +13594,14 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 309551,
+      "Progressed": 309604,
       "Completed": 322
     }
   ],
@@ -13604,8 +13609,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-24T01:44:27.3530234+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:26:07.7516134+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:07:45.904625+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:55.8240924+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:19:43.1342949+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:26:07.7516887+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:01:04.8427968+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:07:45.9047209+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1146,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2452,6 +2452,11 @@
       "Time": "2023-11-23T22:07:59.6307496+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T03:08:51.1987861+00:00",
+      "NumProgressed": 1146,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2464,7 +2469,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2614,9 +2619,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 183
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -2632,7 +2637,7 @@
       "Name": "The Octopus",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2640,7 +2645,7 @@
       "Name": "The Scorpion",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2807,20 +2812,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1146,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 813,
-      "Completed": 813
+      "Progressed": 814,
+      "Completed": 814
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:28:34.1261182+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:08:51.1987857+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:17:51.361923+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:28:34.1261514+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:58:12.8086935+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:08:51.1988223+00:00"
 }

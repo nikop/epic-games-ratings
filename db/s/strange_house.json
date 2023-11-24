@@ -221,9 +221,9 @@
       "ID": "LostCat",
       "SetID": "a2ci5mh",
       "Name": "Lost Cat",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Underground",
@@ -251,8 +251,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:23:54.6694234+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:04:35.1514605+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:47.7003936+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:22:51.1064626+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:23:54.6694293+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:02:57.5252236+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:04:35.1514665+00:00"
 }

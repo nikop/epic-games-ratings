@@ -23,41 +23,41 @@ Rating: 4.54 (Ranked 526)
 | Stacking the Deck | 1.00% | ~7,235 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,235 |
 | This is My Weapon | 1.00% | ~7,235 |
-| Can't Handle the Truth | 0.90% | ~6,511 |
-| Like Riding a Bike | 0.90% | ~6,511 |
-| Zombologist | 0.90% | ~6,511 |
-| A Patton Emerges | 0.90% | ~6,511 |
-| Our True Nature | 0.90% | ~6,511 |
+| Can't Handle the Truth | 0.90% | ~6,512 |
+| Like Riding a Bike | 0.90% | ~6,512 |
+| Zombologist | 0.90% | ~6,512 |
+| A Patton Emerges | 0.90% | ~6,512 |
+| Our True Nature | 0.90% | ~6,512 |
 | Perks of the Job | 0.80% | ~5,788 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,788 |
 | Slayer Squad | 0.80% | ~5,788 |
 | Ooh, Shiny! | 0.80% | ~5,788 |
 | I Am the Resurrection | 0.80% | ~5,788 |
-| Making Your Mark | 0.70% | ~5,064 |
-| Humanity Distilled | 0.70% | ~5,064 |
-| Max Headroom | 0.70% | ~5,064 |
+| Making Your Mark | 0.70% | ~5,065 |
+| Humanity Distilled | 0.70% | ~5,065 |
+| Max Headroom | 0.70% | ~5,065 |
 | Not Even My Final Form | 0.60% | ~4,341 |
 | Down with the Sickness | 0.60% | ~4,341 |
-| Jumbo Keyring | 0.50% | ~3,617 |
-| Go, Bobcats! | 0.50% | ~3,617 |
-| Rising Star | 0.50% | ~3,617 |
+| Jumbo Keyring | 0.50% | ~3,618 |
+| Go, Bobcats! | 0.50% | ~3,618 |
+| Rising Star | 0.50% | ~3,618 |
 | Make it So | 0.40% | ~2,894 |
 | On Safari | 0.40% | ~2,894 |
 | Smorgasbord | 0.40% | ~2,894 |
 | Internet Famous | 0.40% | ~2,894 |
 | Variety is the Spice of Death | 0.40% | ~2,894 |
-| LA Influential | 0.30% | ~2,170 |
-| Sole Survivor | 0.30% | ~2,170 |
-| Gore Horse | 0.30% | ~2,170 |
+| LA Influential | 0.30% | ~2,171 |
+| Sole Survivor | 0.30% | ~2,171 |
+| Gore Horse | 0.30% | ~2,171 |
 | Top That, Tisha! | 0.30% | ~147 |
 | Sharpest Tool in the Box | 0.20% | ~1,447 |
 | Survival Skills | 0.20% | ~1,447 |
 | Lawn and Order | 0.20% | ~98 |
-| Donk! | 0.10% | ~723 |
-| Bucket List | 0.10% | ~723 |
+| Donk! | 0.10% | ~724 |
+| Bucket List | 0.10% | ~724 |
 | Wilhelm | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,486 (Ranked 21)  
+Progressed: 723,504 (Ranked 21)  
 Completed: 2,428 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,16 +275,16 @@ Completed: 2,428 (0.34%) (Ranked 229)
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
 | 2023-11-23 | 723,442 | 2,428 |
-| 2023-11-24 | 723,486 | 2,428 |
+| 2023-11-24 | 723,504 | 2,428 |
 ## Awards
 Max (Great Boss Battles): 7,695  (Ranked 50)  
-Sum: 11,738 (Ranked 83)  
+Sum: 11,743 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,695 |
 | This game is Great for Beginners | 584 |
-| This game has Diverse Characters | 559 |
+| This game has Diverse Characters | 564 |
 | This game has Quickly Understood Controls | 528 |
 | This game is Relaxing | 505 |
 | This game has Amazing Storytelling | 487 |
@@ -511,4 +511,4 @@ Diff (max vs sum): -33
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
-| 2023-11-24 | 4.54 | 7,695 | 11,738 |
+| 2023-11-24 | 4.54 | 7,695 | 11,743 |

@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8260,
+  "EOS_Progressed": 8267,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 3632,
+  "EOS_NewPlayers": 3626,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1851,6 +1851,11 @@
       "Time": "2023-11-24T02:26:30.8357355+00:00",
       "NumProgressed": 8260,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-24T03:08:18.8551104+00:00",
+      "NumProgressed": 8267,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -1871,7 +1876,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -1911,7 +1916,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -1942,7 +1947,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 8260,
+      "Progressed": 8267,
       "Completed": 26
     }
   ],
@@ -1950,8 +1955,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-23T09:59:48.6030243+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:26:30.8357352+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:08:18.85511+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.5649017+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:19:50.4121427+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:26:30.8357515+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:01:16.0862183+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:08:18.8551232+00:00"
 }

@@ -6769,10 +6769,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11738,
       "NumberOfAwardsMax": 7695
+    },
+    {
+      "Time": "2023-11-24T02:59:16.843597+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11743,
+      "NumberOfAwardsMax": 7695
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11738,
+  "NumberOfAwards": 11743,
   "NumberOfAwardsMax": 7695,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6786,7 +6792,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 559
+      "Count": 564
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6831,9 +6837,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 723486,
+  "EOS_Progressed": 723504,
   "EOS_Completed": 2428,
-  "EOS_NewPlayers": 4049,
+  "EOS_NewPlayers": 4060,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31726,6 +31732,11 @@
       "Time": "2023-11-24T02:25:02.2618702+00:00",
       "NumProgressed": 723486,
       "NumCompleted": 2428
+    },
+    {
+      "Time": "2023-11-24T03:06:13.4701629+00:00",
+      "NumProgressed": 723504,
+      "NumCompleted": 2428
     }
   ],
   "TotalAchievements": 51,
@@ -31745,7 +31756,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "ach_ammo_ran",
@@ -31777,7 +31788,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "ach_blueprinted",
@@ -31849,7 +31860,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6511
+      "UsersEstimate": 6512
     },
     {
       "ID": "ach_finisher",
@@ -31865,7 +31876,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6511
+      "UsersEstimate": 6512
     },
     {
       "ID": "ach_good_eyesight",
@@ -31905,7 +31916,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ach_internet_famous",
@@ -31921,7 +31932,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -31929,7 +31940,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3617
+      "UsersEstimate": 3618
     },
     {
       "ID": "ach_knock_down",
@@ -31945,7 +31956,7 @@
       "Name": "Zombologist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6511
+      "UsersEstimate": 6512
     },
     {
       "ID": "ach_legendary",
@@ -31961,7 +31972,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "ach_metropolitan",
@@ -31969,7 +31980,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6511
+      "UsersEstimate": 6512
     },
     {
       "ID": "ach_mind_over_monster",
@@ -31977,7 +31988,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "ach_revival_tour",
@@ -32033,7 +32044,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "ach_the_vcla",
@@ -32041,7 +32052,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3617
+      "UsersEstimate": 3618
     },
     {
       "ID": "ach_thesacrifice",
@@ -32049,7 +32060,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 6511
+      "UsersEstimate": 6512
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -32081,7 +32092,7 @@
       "Name": "Rising Star",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 3617
+      "UsersEstimate": 3618
     },
     {
       "ID": "ach_well_trained",
@@ -32089,7 +32100,7 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ach_brink_of_success",
@@ -32144,22 +32155,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723486,
+      "Progressed": 723504,
       "Completed": 2428
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 49028,
+      "Progressed": 49046,
       "Completed": 36589
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-24T02:18:32.6251226+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:25:02.26187+00:00",
+  "LastChanged": "2023-11-24T02:59:16.8435969+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:06:13.4701625+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:18:32.6251231+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:25:02.2620382+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:59:16.8435977+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:06:13.4703144+00:00"
 }

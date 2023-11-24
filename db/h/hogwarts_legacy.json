@@ -10953,9 +10953,9 @@
       "Count": 809
     }
   ],
-  "EOS_Progressed": 302853,
+  "EOS_Progressed": 302856,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34348,6 +34348,11 @@
       "Time": "2023-11-24T02:29:33.516043+00:00",
       "NumProgressed": 302853,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-24T03:10:16.4258352+00:00",
+      "NumProgressed": 302856,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34359,7 +34364,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48456
+      "UsersEstimate": 48457
     },
     {
       "ID": "PFA_10",
@@ -34415,7 +34420,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36342
+      "UsersEstimate": 36343
     },
     {
       "ID": "PFA_17",
@@ -34487,7 +34492,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36342
+      "UsersEstimate": 36343
     },
     {
       "ID": "PFA_25",
@@ -34543,7 +34548,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36342
+      "UsersEstimate": 36343
     },
     {
       "ID": "PFA_31",
@@ -34583,7 +34588,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30285
+      "UsersEstimate": 30286
     },
     {
       "ID": "PFA_36",
@@ -34695,7 +34700,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42399
+      "UsersEstimate": 42400
     },
     {
       "ID": "PFA_8",
@@ -34711,14 +34716,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30285
+      "UsersEstimate": 30286
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302853,
+      "Progressed": 302856,
       "Completed": 513
     }
   ],
@@ -34726,8 +34731,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-24T01:42:53.4906621+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:29:33.5160426+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:10:16.4258349+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:18:10.6567692+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:29:33.5161834+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:58:42.731496+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:10:16.4259545+00:00"
 }

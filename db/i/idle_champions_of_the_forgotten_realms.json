@@ -8263,7 +8263,7 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236610,
+  "EOS_Progressed": 236616,
   "EOS_Completed": 2472,
   "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 17,
@@ -32683,6 +32683,11 @@
       "Time": "2023-11-24T02:29:40.0043405+00:00",
       "NumProgressed": 236610,
       "NumCompleted": 2472
+    },
+    {
+      "Time": "2023-11-24T03:10:24.3496019+00:00",
+      "NumProgressed": 236616,
+      "NumCompleted": 2472
     }
   ],
   "TotalAchievements": 532,
@@ -36668,9 +36673,9 @@
       "ID": "objective_completed_1327",
       "SetID": "415jc5c",
       "Name": "Tiny Treaty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1332",
@@ -36949,21 +36954,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202884,
+      "Progressed": 202890,
       "Completed": 3938
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236610,
+      "Progressed": 236616,
       "Completed": 2472
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-23T22:58:16.7135298+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:29:40.00434+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:10:24.3496016+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:18:19.2147734+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:29:40.0065085+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:58:56.2497486+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:10:24.3518336+00:00"
 }

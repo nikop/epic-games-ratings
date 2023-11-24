@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -865,9 +865,9 @@
       "ID": "ach_main01begin_storm",
       "SetID": "4hg22ll",
       "Name": "Thalya\u0027s Concentrated Fury",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 247
     },
     {
       "ID": "ach_main02horde_completed",
@@ -945,25 +945,25 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 236
     },
     {
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 250
     },
     {
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -1089,9 +1089,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -1344,8 +1344,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:24:46.71758+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:05:51.059749+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:17:43.273327+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:24:46.7176275+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:58:01.336167+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:05:51.0597952+00:00"
 }

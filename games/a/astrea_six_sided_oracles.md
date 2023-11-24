@@ -19,18 +19,18 @@
 | Anomaly Destroyer | 28.00% | ~21 |
 | Stellar Dismantler | 28.00% | ~21 |
 | Loyal Partner | 25.00% | ~19 |
+| Behenian Champion | 25.00% | ~19 |
 | Star Killer | 24.00% | ~18 |
-| Behenian Champion | 24.00% | ~18 |
 | Astral Adventurer | 22.00% | ~17 |
 | Shard Spender | 20.00% | ~15 |
 | Unbeatable | 20.00% | ~15 |
 | Aquarian Champion | 20.00% | ~15 |
-| Astral Seeker | 17.00% | ~13 |
+| Astral Seeker | 18.00% | ~14 |
 | Heart Gate | 17.00% | ~13 |
 | Favored by the Cosmos | 16.00% | ~12 |
 | The Corruption Goddess | 16.00% | ~12 |
 | The Goddes Avatar | 16.00% | ~12 |
-| Stellar Haste | 13.00% | ~10 |
+| Stellar Haste | 14.00% | ~11 |
 | Heavy Purger | 12.00% | ~9 |
 | Apian Hero | 12.00% | ~9 |
 | Anomaly Control | 11.00% | ~8 |
@@ -47,9 +47,9 @@
 | If I Had Failed... | 7.00% | ~5 |
 | Purification Avatar | 7.00% | ~5 |
 | The Abyssal Terror | 7.00% | ~5 |
+| Behenian Mastery | 7.00% | ~5 |
 | Aquarian Hero | 5.00% | ~4 |
 | Aquarian Mastery | 5.00% | ~4 |
-| Behenian Mastery | 5.00% | ~4 |
 | Eridanian Hero | 5.00% | ~4 |
 | Noctuan Hero | 5.00% | ~4 |
 | Astrarium of Holding | 4.00% | ~3 |
@@ -60,6 +60,7 @@
 | Eridanian Mastery | 4.00% | ~3 |
 | Lacertian Mastery | 4.00% | ~3 |
 | Noctuan Mastery | 4.00% | ~3 |
+| Astromancer | 3.00% | ~2 |
 | Prestidigitation | 3.00% | ~2 |
 | Royal Choir | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
@@ -68,7 +69,6 @@
 | Astral Tinkerer | 1.00% | ~1 |
 | Astrea's Saviors | 1.00% | ~1 |
 | Astrium Specialist | 1.00% | ~1 |
-| Astromancer | 1.00% | ~1 |
 | Gotta tinker'em all! | 1.00% | ~1 |
 | Plague Doctor | 1.00% | ~1 |
 | Pocket Astrarium | 1.00% | ~1 |

@@ -12,11 +12,11 @@
 | Wolf King Killer | 55.00% | ~117 |
 | Arms Mechanic | 49.00% | ~104 |
 | Flower Thief | 45.00% | ~95 |
+| Apostle of Flame | 41.00% | ~87 |
 | Beginner Cook | 40.00% | ~85 |
-| Apostle of Flame | 40.00% | ~85 |
 | Beginner Artificer | 39.00% | ~83 |
-| Seal Breaker | 33.00% | ~70 |
-| Handyman | 30.00% | ~64 |
+| Seal Breaker | 34.00% | ~72 |
+| Handyman | 31.00% | ~66 |
 | Giant Lizard Killer | 29.00% | ~61 |
 | Nosebleeder | 28.00% | ~59 |
 | Guardian | 27.00% | ~57 |

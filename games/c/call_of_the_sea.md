@@ -20,15 +20,15 @@ Rating: 4.39 (Ranked 746)
 | Sunken | 25.00% | ~32,802 |
 | Deep Cut | 24.00% | ~31,490 |
 | FHALGOF'N' | 23.00% | ~30,178 |
-| Marsh Cannery | 21.00% | ~27,553 |
+| Marsh Cannery | 21.00% | ~27,554 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~23,617 |
 | The only thing I have now | 17.00% | ~22,305 |
 | Naacalvision | 16.00% | ~20,993 |
 | Not Another Boring Slideshow! | 15.00% | ~19,681 |
 | I'll make a note of that... | 9.00% | ~11,809 |
 | The Norahnomicon | 9.00% | ~11,809 |
-| Play it again, Norah | 7.00% | ~9,184 |
-| Underwater Royalty | 7.00% | ~9,184 |
+| Play it again, Norah | 7.00% | ~9,185 |
+| Underwater Royalty | 7.00% | ~9,185 |
 | Written in Stone | 6.00% | ~7,872 |
 | Fawning Developers | 5.00% | ~6,560 |
 | Candid Photo | 5.00% | ~6,560 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 746)
 | Gently down the stream... | 1.00% | ~1,312 |
 | Meta-reference | 1.00% | ~1,312 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,207 (Ranked 82)  
+Progressed: 131,208 (Ranked 82)  
 Completed: 1,137 (0.87%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 1,137 (0.87%) (Ranked 176)
 | 2023-11-21 | 130,917 | 1,130 |
 | 2023-11-22 | 131,047 | 1,132 |
 | 2023-11-23 | 131,196 | 1,136 |
-| 2023-11-24 | 131,207 | 1,137 |
+| 2023-11-24 | 131,208 | 1,137 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

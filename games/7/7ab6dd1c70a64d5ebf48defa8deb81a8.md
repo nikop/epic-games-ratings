@@ -9,12 +9,12 @@
 | Adventurer | 8.00% | ~16 |
 | Geared Up | 8.00% | ~16 |
 | A Taste of Wrath | 7.00% | ~14 |
+| Fashion Victim | 7.00% | ~14 |
 | Scholar | 7.00% | ~14 |
 | I Found It | 7.00% | ~14 |
 | The Collector | 7.00% | ~14 |
 | Break Out | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
-| Fashion Victim | 6.00% | ~12 |
 | Stone Collection | 6.00% | ~12 |
 | Tributes of Caladrias | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
@@ -25,10 +25,10 @@
 | Alchemist | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
+| Clear Sight | 2.00% | ~4 |
 | The Mentor | 2.00% | ~4 |
 | Airborne | 2.00% | ~4 |
 | Shatterer | 2.00% | ~4 |
-| Clear Sight | 1.00% | ~2 |
 | Slayer | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
 | All That Gold | 1.00% | ~2 |

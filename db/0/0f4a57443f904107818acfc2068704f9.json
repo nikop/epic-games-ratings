@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -1098,9 +1098,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 354
     },
     {
       "ID": "CompleteChapter10",
@@ -1345,8 +1345,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:25:12.8490664+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:06:28.1072535+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:18:13.1583823+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:25:12.849094+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:58:46.7584559+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:06:28.1072823+00:00"
 }

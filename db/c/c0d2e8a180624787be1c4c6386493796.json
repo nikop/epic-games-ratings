@@ -914,9 +914,9 @@
       "ID": "KR4_ACHIEVEMENT_T800",
       "SetID": "caeik3h",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
@@ -977,8 +977,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:25:34.5175646+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:06:58.5678329+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:18:08.3886031+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:25:34.5176373+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:58:39.1331527+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:06:58.5678913+00:00"
 }

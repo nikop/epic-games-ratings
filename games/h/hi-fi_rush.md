@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 17.00% | ~730 |
-| Feeling the beat! | 17.00% | ~730 |
+| Start with a bang! | 17.00% | ~731 |
+| Feeling the beat! | 17.00% | ~731 |
 | You can pet the cat! | 16.00% | ~688 |
 | Who put gears in there? | 15.00% | ~645 |
 | Cream of the Crop | 14.00% | ~602 |
@@ -28,7 +28,7 @@ Rating: 4.87 (Ranked 24)
 | Who's the boss now? | 8.00% | ~344 |
 | You must like calling me in, Chai | 8.00% | ~344 |
 | Does that say weakpoint? | 8.00% | ~344 |
-| NOW we got a kickass hideout! | 8.00% | ~225 |
+| NOW we got a kickass hideout! | 8.00% | ~226 |
 | I have to read these things? | 7.00% | ~301 |
 | Perfecter Parry-er! | 7.00% | ~301 |
 | Well that was a rush! | 5.00% | ~215 |
@@ -52,8 +52,8 @@ Rating: 4.87 (Ranked 24)
 | OK, well THEY came after ME! | 0.90% | ~39 |
 | Easy Listening | 0.60% | ~26 |
 | Choose your own adventure | 0.60% | ~17 |
-| Problem solved... wait, what? | 0.50% | ~21 |
-| Now this is how you fight like a team! | 0.50% | ~21 |
+| Problem solved... wait, what? | 0.50% | ~22 |
+| Now this is how you fight like a team! | 0.50% | ~22 |
 | It'll do, CNMN | 0.40% | ~11 |
 | And the crowd goes wild! | 0.30% | ~13 |
 | I can't see this ever being a problem again | 0.30% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,297 (Ranked 194)  
+Progressed: 4,301 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,6 +285,7 @@ Completed: 8 (0.19%) (Ranked 260)
 | 2023-11-21 | 4,235 | 8 |
 | 2023-11-22 | 4,261 | 8 |
 | 2023-11-23 | 4,297 | 8 |
+| 2023-11-24 | 4,301 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

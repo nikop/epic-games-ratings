@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Nice Glass | 16.00% | ~5 |
+| Lost Cat | 13.00% | ~4 |
 | Alcoholic | 9.00% | ~3 |
 | Chapter 1 | 9.00% | ~3 |
-| Lost Cat | 9.00% | ~3 |
 | Underground | 9.00% | ~3 |
 | Piglet | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

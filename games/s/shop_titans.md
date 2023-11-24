@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,064 |
-| Basic in Bulk | 5.00% | ~7,064 |
-| Tinkle of Coins | 5.00% | ~7,064 |
-| Titan's First Steps | 5.00% | ~7,064 |
-| Disintermediation | 4.00% | ~5,651 |
-| Capitalism Ho! | 4.00% | ~5,651 |
-| One Easy Payment | 3.00% | ~4,238 |
-| Some Assembly Required | 3.00% | ~4,238 |
-| Another Satisfied Customer | 3.00% | ~4,238 |
-| It's Free Real Estate | 3.00% | ~4,238 |
-| Pretty Penny | 3.00% | ~4,238 |
-| Budding Merchant | 3.00% | ~4,238 |
-| Own the Means of Production | 3.00% | ~4,238 |
+| Sponsored by Argon | 5.00% | ~7,065 |
+| Basic in Bulk | 5.00% | ~7,065 |
+| Tinkle of Coins | 5.00% | ~7,065 |
+| Titan's First Steps | 5.00% | ~7,065 |
+| Disintermediation | 4.00% | ~5,652 |
+| Capitalism Ho! | 4.00% | ~5,652 |
+| One Easy Payment | 3.00% | ~4,239 |
+| Some Assembly Required | 3.00% | ~4,239 |
+| Another Satisfied Customer | 3.00% | ~4,239 |
+| It's Free Real Estate | 3.00% | ~4,239 |
+| Pretty Penny | 3.00% | ~4,239 |
+| Budding Merchant | 3.00% | ~4,239 |
+| Own the Means of Production | 3.00% | ~4,239 |
 | The Daily Grind | 2.00% | ~2,826 |
 | Bounty Hunters | 2.00% | ~2,826 |
 | Demand for Supplies | 2.00% | ~2,826 |
@@ -57,6 +57,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 1.00% | ~1,413 |
 | Mammonite | 1.00% | ~1,413 |
 | Helping Hand | 1.00% | ~1,413 |
+| Miracle Alchemist | 1.00% | ~1,413 |
 | Laden with Loot | 1.00% | ~1,413 |
 | Natural 20 | 1.00% | ~1,413 |
 | Seasoned Journeyman | 1.00% | ~1,413 |
@@ -76,7 +77,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fat Cat Tag Team | 0.90% | ~1,272 |
 | Necromancer Queen | 0.90% | ~1,272 |
 | Master Merchant | 0.90% | ~1,272 |
-| Miracle Alchemist | 0.90% | ~1,272 |
 | Scourge of the Seas | 0.90% | ~1,272 |
 | Attrition Mission | 0.90% | ~1,272 |
 | Glittering Collection | 0.90% | ~1,272 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,282 (Ranked 80)  
-Completed: 198 (0.14%) (Ranked 270)  
+Progressed: 141,294 (Ranked 80)  
+Completed: 199 (0.14%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,7 +337,7 @@ Completed: 198 (0.14%) (Ranked 270)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,282 | 198 |
+| 2023-11-24 | 141,294 | 199 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,585 (Ranked 50)  

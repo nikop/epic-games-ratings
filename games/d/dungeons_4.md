@@ -10,12 +10,12 @@
 | Hammer Time, Round Two | 79.00% | ~291 |
 | The Hellwoods | 74.00% | ~272 |
 | The Plains of Strothalm | 68.00% | ~250 |
-| Experienced Thalya | 67.00% | ~247 |
-| Thalya's Concentrated Fury | 66.00% | ~243 |
+| Experienced Thalya | 68.00% | ~250 |
+| Thalya's Concentrated Fury | 67.00% | ~247 |
 | Master of Magic | 64.00% | ~236 |
-| Bad Elves Go Everywhere | 63.00% | ~232 |
+| Bad Elves Go Everywhere | 64.00% | ~236 |
 | Magic Accidents | 58.00% | ~213 |
-| Unicorn steaks – fresh off the hoof! | 57.00% | ~210 |
+| Unicorn steaks – fresh off the hoof! | 58.00% | ~213 |
 | Heroes’ Gorge | 57.00% | ~210 |
 | Trap Master | 54.00% | ~199 |
 | Minions, Minions! | 54.00% | ~199 |
@@ -28,8 +28,8 @@
 | “… like son” | 39.00% | ~144 |
 | Mana Cannon | 34.00% | ~125 |
 | Dungeonlord Gorgu | 34.00% | ~125 |
+| Shame! Shame! Shame! | 34.00% | ~125 |
 | The Cathedral of Light | 33.00% | ~121 |
-| Shame! Shame! Shame! | 33.00% | ~121 |
 | Tanos' Crusade Against Thalya | 30.00% | ~110 |
 | Unstoppable Horde | 25.00% | ~92 |
 | All’s Well That Ends Evil | 25.00% | ~92 |

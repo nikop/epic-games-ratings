@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131207,
+  "EOS_Progressed": 131208,
   "EOS_Completed": 1137,
-  "EOS_NewPlayers": 1132,
+  "EOS_NewPlayers": 1126,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -25087,6 +25087,11 @@
       "Time": "2023-11-24T02:25:09.9050167+00:00",
       "NumProgressed": 131207,
       "NumCompleted": 1137
+    },
+    {
+      "Time": "2023-11-24T03:06:23.7258378+00:00",
+      "NumProgressed": 131208,
+      "NumCompleted": 1137
     }
   ],
   "TotalAchievements": 34,
@@ -25146,7 +25151,7 @@
       "Name": "Play it again, Norah",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 9184
+      "UsersEstimate": 9185
     },
     {
       "ID": "ACH_L00_INTRO_END",
@@ -25218,7 +25223,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 27553
+      "UsersEstimate": 27554
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -25322,7 +25327,7 @@
       "Name": "Underwater Royalty",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 9184
+      "UsersEstimate": 9185
     },
     {
       "ID": "ACH_L06_ARCADIA",
@@ -25369,7 +25374,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 131207,
+      "Progressed": 131208,
       "Completed": 1137
     }
   ],
@@ -25377,8 +25382,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:25:09.9050164+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:06:23.7258375+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.8048519+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:19:01.3796607+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:25:09.9051455+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:00:01.5412139+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:06:23.7259681+00:00"
 }

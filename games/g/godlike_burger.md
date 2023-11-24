@@ -1,26 +1,26 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 569)  
+Rating: 4.51 (Ranked 568)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~168,084 |
-| FIRST BLOOD | 40.00% | ~149,408 |
-| KEVIN! | 30.00% | ~112,056 |
-| JACK OF ALL TRADES | 23.00% | ~85,910 |
-| CRIMINAL | 20.00% | ~74,704 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~41,087 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~33,617 |
-| HONORS STUDENT | 8.00% | ~29,882 |
-| BUTCHER | 6.00% | ~22,411 |
-| INDIVIDUAL APPROACH | 5.00% | ~18,676 |
-| RAMBO | 5.00% | ~18,676 |
-| HELL'S KITCHEN | 4.00% | ~14,941 |
+| MASTER CHEF | 45.00% | ~168,094 |
+| FIRST BLOOD | 40.00% | ~149,417 |
+| KEVIN! | 30.00% | ~112,063 |
+| JACK OF ALL TRADES | 23.00% | ~85,915 |
+| CRIMINAL | 20.00% | ~74,709 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~41,090 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~33,619 |
+| HONORS STUDENT | 8.00% | ~29,883 |
+| BUTCHER | 6.00% | ~22,413 |
+| INDIVIDUAL APPROACH | 5.00% | ~18,677 |
+| RAMBO | 5.00% | ~18,677 |
+| HELL'S KITCHEN | 4.00% | ~14,942 |
 | CELEBRITY | 3.00% | ~11,206 |
 | MARTYR | 3.00% | ~11,206 |
-| GRATITUDE | 2.00% | ~7,470 |
-| PATTY-KILLER | 2.00% | ~7,470 |
+| GRATITUDE | 2.00% | ~7,471 |
+| PATTY-KILLER | 2.00% | ~7,471 |
 | EXPERIMENTALIST | 1.00% | ~3,735 |
 | GOURMET | 1.00% | ~3,735 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,735 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 569)
 | MISTER ALL THUMBS | 0.10% | ~374 |
 | TRAVELER | 0.10% | ~374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373,520 (Ranked 46)  
+Progressed: 373,543 (Ranked 46)  
 Completed: 39 (0.01%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 39 (0.01%) (Ranked 337)
 | 2023-11-21 | 372,203 | 39 |
 | 2023-11-22 | 372,789 | 39 |
 | 2023-11-23 | 373,458 | 39 |
-| 2023-11-24 | 373,520 | 39 |
+| 2023-11-24 | 373,543 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

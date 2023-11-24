@@ -846,9 +846,9 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -902,9 +902,9 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "TKO2_DOMINO",
@@ -941,8 +941,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:29:06.5880356+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:09:37.3500905+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:09.7789217+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:20:22.944656+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:29:06.5880515+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:02:47.2742894+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:09:37.3501046+00:00"
 }

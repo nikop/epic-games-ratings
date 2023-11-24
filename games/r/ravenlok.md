@@ -39,11 +39,11 @@
 | Heartbreaker | 36.00% | ~404 |
 | Kidnapped! | 36.00% | ~404 |
 | Pull the Plug | 35.00% | ~393 |
+| Soul Slayer | 35.00% | ~393 |
 | All Heart | 35.00% | ~393 |
 | Trick Question! | 35.00% | ~393 |
-| Soul Slayer | 34.00% | ~382 |
+| Final Showdown | 35.00% | ~393 |
 | The Downfall | 34.00% | ~382 |
-| Final Showdown | 34.00% | ~382 |
 | Spot of Tea? | 34.00% | ~382 |
 | Going Home | 34.00% | ~382 |
 | Extraordinary! | 33.00% | ~371 |

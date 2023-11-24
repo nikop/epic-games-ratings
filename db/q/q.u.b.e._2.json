@@ -5,10 +5,10 @@
   "Ranking_Rating": 675,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
-  "Ranking_EOS_Progress": 120,
+  "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -539,10 +539,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40799,
+  "EOS_Progressed": 40800,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 1330,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 1327,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
@@ -8134,6 +8134,11 @@
       "Time": "2023-11-24T02:28:38.1896124+00:00",
       "NumProgressed": 40799,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-11-24T03:08:56.7915052+00:00",
+      "NumProgressed": 40800,
+      "NumCompleted": 168
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -8306,7 +8311,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21215
+      "UsersEstimate": 21216
     },
     {
       "ID": "ACH_PEAK",
@@ -8338,7 +8343,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 27743
+      "UsersEstimate": 27744
     },
     {
       "ID": "ACH_S4",
@@ -8362,7 +8367,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 30599
+      "UsersEstimate": 30600
     },
     {
       "ID": "ACH_STATUE",
@@ -8377,15 +8382,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 40799,
+      "Progressed": 40800,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-22T13:59:49.1323206+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:28:38.1896121+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:08:56.7915047+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:56:59.167548+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:17:15.1232049+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:28:38.1896708+00:00"
+  "LastUpdate_Ratings": "2023-11-24T02:57:18.6901344+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:08:56.7915537+00:00"
 }

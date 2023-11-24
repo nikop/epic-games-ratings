@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8210,
+  "EOS_Progressed": 8211,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7131,6 +7131,11 @@
       "Time": "2023-11-24T02:29:38.3900824+00:00",
       "NumProgressed": 8210,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T03:10:22.6705846+00:00",
+      "NumProgressed": 8211,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7183,7 +7188,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "CreditsEarned50000",
@@ -7367,7 +7372,7 @@
       "Name": "Purchased Healing Station Ultimate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "HandCannonUpgraded1",
@@ -7415,7 +7420,7 @@
       "Name": "Destroyed 3 Inhibitors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "InhibitorKills30",
@@ -7439,7 +7444,7 @@
       "Name": "Upgraded the Laser to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MaxCreditsEarned50000",
@@ -7463,7 +7468,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MaxHealingDone30000",
@@ -7631,7 +7636,7 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "RSPurchased1",
@@ -7639,7 +7644,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "SEUpgraded1",
@@ -7679,7 +7684,7 @@
       "Name": "Upgraded the Shotgun to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "SniperUpgraded1",
@@ -7734,7 +7739,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8210,
+      "Progressed": 8211,
       "Completed": 1
     }
   ],
@@ -7742,8 +7747,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-24T02:29:38.3900821+00:00",
+  "LastChanged_Achievements": "2023-11-24T03:10:22.6705841+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-24T02:22:57.9341028+00:00",
-  "LastUpdate_Achievements": "2023-11-24T02:29:38.390183+00:00"
+  "LastUpdate_Ratings": "2023-11-24T03:03:08.1911116+00:00",
+  "LastUpdate_Achievements": "2023-11-24T03:10:22.6706644+00:00"
 }
