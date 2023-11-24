@@ -7,7 +7,7 @@
 | Harvester | 14.00% | ~15 |
 | Workforce | 14.00% | ~15 |
 | Builder | 9.00% | ~10 |
-| Cook | 6.00% | ~6 |
+| Cook | 6.00% | ~7 |
 | Crafter | 3.00% | ~3 |
 | Healer | 3.00% | ~3 |
 | Rep1 | 2.00% | ~2 |
@@ -17,8 +17,8 @@
 | Rep3 | 0.90% | ~1 |
 | Researcher | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 424)  
-Completed: 1 (0.93%) (Ranked 171)  
+Progressed: 109 (Ranked 424)  
+Completed: 1 (0.92%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,4 +86,4 @@ Completed: 1 (0.93%) (Ranked 171)
 | 2023-11-09 | 96 | 1 |
 | 2023-11-22 | 100 | 1 |
 | 2023-11-23 | 106 | 1 |
-| 2023-11-24 | 108 | 1 |
+| 2023-11-24 | 109 | 1 |

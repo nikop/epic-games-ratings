@@ -7,7 +7,7 @@
 | Finish Him | 91.00% | ~52 |
 | Just a Taste | 79.00% | ~45 |
 | Strange Skulls | 63.00% | ~36 |
-| Treasure Hunter | 60.00% | ~34 |
+| Treasure Hunter | 61.00% | ~35 |
 | Crab Cakes | 53.00% | ~30 |
 | Personally Punched | 28.00% | ~16 |
 | Flight of the Raven | 26.00% | ~15 |

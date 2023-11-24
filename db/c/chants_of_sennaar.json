@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 691,
+  "EOS_Progressed": 692,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.07,
+  "EOS_Completed_Percentage": 5.06,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2880,6 +2880,11 @@
       "Time": "2023-11-24T13:13:11.1730038+00:00",
       "NumProgressed": 691,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-24T14:07:39.629231+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2889,9 +2894,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 125
     },
     {
       "ID": "END_GOOD",
@@ -2899,7 +2904,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "META_ALL_LINK",
@@ -2907,7 +2912,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2915,7 +2920,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3027,7 +3032,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3090,14 +3095,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 691,
+      "Progressed": 692,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-24T13:13:11.1730035+00:00",
+  "LastChanged_Achievements": "2023-11-24T14:07:39.6292307+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:04:53.2096813+00:00",
-  "LastUpdate_Achievements": "2023-11-24T13:13:11.1730356+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:59:08.4616238+00:00",
+  "LastUpdate_Achievements": "2023-11-24T14:07:39.629266+00:00"
 }

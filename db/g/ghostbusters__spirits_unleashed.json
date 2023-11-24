@@ -3507,9 +3507,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31477,
+  "EOS_Progressed": 31479,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20322,6 +20322,11 @@
       "Time": "2023-11-24T13:11:43.9608157+00:00",
       "NumProgressed": 31477,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-24T14:05:26.1979237+00:00",
+      "NumProgressed": 31479,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -20445,7 +20450,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "Escape_Artist",
@@ -20699,9 +20704,9 @@
       "ID": "Tobins_Prodigy",
       "SetID": "819popo",
       "Name": "Tobin\u0027s Prodigy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 630
     },
     {
       "ID": "Ultimate_Defense",
@@ -20740,7 +20745,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31477,
+      "Progressed": 31479,
       "Completed": 68
     }
   ],
@@ -20748,8 +20753,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-24T05:03:05.9731122+00:00",
-  "LastChanged_Achievements": "2023-11-24T13:11:43.9608153+00:00",
+  "LastChanged_Achievements": "2023-11-24T14:05:26.1979234+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:08:01.7958456+00:00",
-  "LastUpdate_Achievements": "2023-11-24T13:11:43.9609049+00:00"
+  "LastUpdate_Ratings": "2023-11-24T14:02:43.8334878+00:00",
+  "LastUpdate_Achievements": "2023-11-24T14:05:26.1980371+00:00"
 }

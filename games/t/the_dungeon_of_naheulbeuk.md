@@ -1,17 +1,17 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 443)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,729 |
-| Alt+F4 | 9.00% | ~21,530 |
-| Where's that freaking Dwarf? | 7.00% | ~16,746 |
+| Sowwy! | 35.00% | ~83,733 |
+| Alt+F4 | 9.00% | ~21,531 |
+| Where's that freaking Dwarf? | 7.00% | ~16,747 |
 | Déjà vu | 6.00% | ~14,354 |
-| Sock! SOCK! | 5.00% | ~11,961 |
-| Speedrun | 5.00% | ~11,961 |
+| Sock! SOCK! | 5.00% | ~11,962 |
+| Speedrun | 5.00% | ~11,962 |
 | A beer, two curses, three companions | 4.00% | ~9,569 |
 | GG EZ | 4.00% | ~9,569 |
 | DM intervention | 4.00% | ~9,569 |
@@ -19,25 +19,25 @@ Number of Ratings: 118  (23.09.2022)
 | Livin' in a dwarven paradise | 3.00% | ~7,177 |
 | Way of the Wimp | 3.00% | ~7,177 |
 | The plot thickens... At the tavern | 3.00% | ~7,177 |
-| Shiny and Crôm | 2.00% | ~4,784 |
-| The demons' feast | 2.00% | ~4,784 |
-| The Great Library | 2.00% | ~4,784 |
-| Torture and Sensibility | 2.00% | ~4,784 |
-| Urik's Depths | 2.00% | ~4,784 |
-| The Dungeon Master | 2.00% | ~4,784 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,784 |
-| Res Judicata | 2.00% | ~4,784 |
-| The Woman in the High Castle | 2.00% | ~4,784 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,784 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,784 |
-| Dwarf Fortress | 2.00% | ~4,784 |
-| Look but don't touch | 2.00% | ~4,784 |
-| The beards of change | 2.00% | ~4,784 |
-| The Ranger of Chaos | 2.00% | ~4,784 |
-| I am the night | 2.00% | ~4,784 |
-| Thieves' Guild Accreditation | 2.00% | ~4,784 |
-| Team Building Exercise | 2.00% | ~4,784 |
-| Oh, when I'll be level 10... | 2.00% | ~4,784 |
+| Shiny and Crôm | 2.00% | ~4,785 |
+| The demons' feast | 2.00% | ~4,785 |
+| The Great Library | 2.00% | ~4,785 |
+| Torture and Sensibility | 2.00% | ~4,785 |
+| Urik's Depths | 2.00% | ~4,785 |
+| The Dungeon Master | 2.00% | ~4,785 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,785 |
+| Res Judicata | 2.00% | ~4,785 |
+| The Woman in the High Castle | 2.00% | ~4,785 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,785 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,785 |
+| Dwarf Fortress | 2.00% | ~4,785 |
+| Look but don't touch | 2.00% | ~4,785 |
+| The beards of change | 2.00% | ~4,785 |
+| The Ranger of Chaos | 2.00% | ~4,785 |
+| I am the night | 2.00% | ~4,785 |
+| Thieves' Guild Accreditation | 2.00% | ~4,785 |
+| Team Building Exercise | 2.00% | ~4,785 |
+| Oh, when I'll be level 10... | 2.00% | ~4,785 |
 | %#*!$*! | 1.00% | ~2,392 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,392 |
 | Dead for good | 1.00% | ~2,392 |
@@ -63,6 +63,7 @@ Number of Ratings: 118  (23.09.2022)
 | Insult to injury | 0.20% | ~478 |
 | 100% satisfaction guarantee | 0.20% | ~478 |
 | Death is for wimps | 0.20% | ~478 |
+| Super-Ultra-Lydian | 0.20% | ~478 |
 | Demisemiquaver | 0.20% | ~478 |
 | Cursed die | 0.10% | ~239 |
 | Necrophilia | 0.10% | ~239 |
@@ -90,12 +91,11 @@ Number of Ratings: 118  (23.09.2022)
 | And they lived happily ever after... | 0.10% | ~239 |
 | Star-crossed lovers | 0.10% | ~239 |
 | Pyrrhic victory | 0.10% | ~239 |
-| Super-Ultra-Lydian | 0.10% | ~239 |
 | Lord of the Drunks | 0.10% | ~239 |
 | Dumb and dumber | 0.10% | ~239 |
 | Dwarf Candy | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,225 (Ranked 63)  
+Progressed: 239,236 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 7 (0.00%) (Ranked 359)
 | 2023-11-21 | 238,762 | 7 |
 | 2023-11-22 | 238,936 | 7 |
 | 2023-11-23 | 239,137 | 7 |
-| 2023-11-24 | 239,225 | 7 |
+| 2023-11-24 | 239,236 | 7 |
 ## Awards
 Max (Character Customization): 238  (Ranked 272)  
 Sum: 478 (Ranked 330)  

@@ -27,13 +27,13 @@ Rating: 4.61 (Ranked 383)
 | Spoils of War | 1.00% | ~55 |
 | Here be Dragons | 0.90% | ~49 |
 | Tipping the Scales | 0.90% | ~49 |
+| Mighty Hoard | 0.90% | ~49 |
 | Return of the Wizard King | 0.80% | ~44 |
 | Enchanted Archipelago | 0.80% | ~44 |
 | Digging for Treasure | 0.80% | ~44 |
 | My Final Form | 0.80% | ~44 |
 | Fiery Friend | 0.80% | ~44 |
 | Impenetrable Fortress | 0.80% | ~44 |
-| Mighty Hoard | 0.80% | ~44 |
 | Dawn of the Dread | 0.80% | ~44 |
 | Preparation Is Everything | 0.70% | ~38 |
 | Blood of the Dragon | 0.70% | ~38 |
@@ -48,11 +48,11 @@ Rating: 4.61 (Ranked 383)
 | Pruning for Progress | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
 | God Emperor | 0.30% | ~16 |
+| The Goddess of Nature | 0.30% | ~16 |
 | Eternal Lord | 0.30% | ~16 |
 | Grexolis | 0.30% | ~16 |
 | One for All, All for One | 0.30% | ~16 |
 | Duality | 0.30% | ~16 |
-| The Goddess of Nature | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |

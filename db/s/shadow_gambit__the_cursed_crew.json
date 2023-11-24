@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,11 +113,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 873,
+  "EOS_Progressed": 876,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.44,
+  "EOS_Completed_Percentage": 3.42,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2833,6 +2833,11 @@
       "Time": "2023-11-24T03:03:58.626528+00:00",
       "NumProgressed": 873,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-24T14:03:24.1610037+00:00",
+      "NumProgressed": 876,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2845,7 +2850,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2853,15 +2858,15 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 569
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 447
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2869,7 +2874,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "_05_FinishAct2",
@@ -2877,7 +2882,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2885,7 +2890,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "_07_FinishAct3",
@@ -2901,7 +2906,7 @@
       "Name": "Swabbie",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "_09_Completion_20",
@@ -2909,7 +2914,7 @@
       "Name": "Powder Monkey",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "_10_Completion_30",
@@ -2925,7 +2930,7 @@
       "Name": "Seadog",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "_12_Completion_50",
@@ -2965,7 +2970,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2973,7 +2978,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 342
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2989,7 +2994,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2997,7 +3002,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3013,7 +3018,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3021,7 +3026,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -3029,7 +3034,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3052,7 +3057,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 873,
+      "Progressed": 876,
       "Completed": 30
     }
   ],
@@ -3060,8 +3065,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-24T13:08:58.5620484+00:00",
+  "LastChanged_Achievements": "2023-11-24T14:03:24.1610032+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:04:20.4474937+00:00",
-  "LastUpdate_Achievements": "2023-11-24T13:08:58.5620693+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:58:45.2711947+00:00",
+  "LastUpdate_Achievements": "2023-11-24T14:03:24.1610407+00:00"
 }

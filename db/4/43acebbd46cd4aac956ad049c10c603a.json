@@ -6,7 +6,7 @@
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
@@ -1484,9 +1484,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 65
     },
     {
       "ID": "Overload",
@@ -1516,9 +1516,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 70
     },
     {
       "ID": "RemnantsOfThePast",
@@ -1548,9 +1548,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 97
     },
     {
       "ID": "SingleRod",
@@ -1644,9 +1644,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 351
     },
     {
       "ID": "TouchGrass",
@@ -1717,8 +1717,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-23T03:59:15.2049017+00:00",
-  "LastChanged_Achievements": "2023-11-24T13:10:24.5253625+00:00",
+  "LastChanged_Achievements": "2023-11-24T14:04:27.1948153+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:06:10.0230565+00:00",
-  "LastUpdate_Achievements": "2023-11-24T13:10:24.5254022+00:00"
+  "LastUpdate_Ratings": "2023-11-24T14:00:01.2918451+00:00",
+  "LastUpdate_Achievements": "2023-11-24T14:04:27.1948568+00:00"
 }

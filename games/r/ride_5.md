@@ -5,31 +5,31 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 45.00% | ~1,012 |
-| First Love | 43.00% | ~967 |
+| First Love | 43.00% | ~968 |
 | Clean Race | 41.00% | ~922 |
-| Hear That Roar! | 39.00% | ~877 |
+| Hear That Roar! | 39.00% | ~878 |
 | Rivals to the End | 28.00% | ~630 |
-| Bitter Rivalry | 27.00% | ~607 |
+| Bitter Rivalry | 27.00% | ~608 |
 | We're Going to Need a Bigger Garage | 25.00% | ~562 |
 | Champagne Spray | 24.00% | ~540 |
 | Legendary!!! | 20.00% | ~450 |
-| Restored and Ready | 19.00% | ~427 |
-| I Want One Too! | 19.00% | ~427 |
-| Quick Pit Stop | 19.00% | ~427 |
+| Restored and Ready | 19.00% | ~428 |
+| I Want One Too! | 19.00% | ~428 |
+| Quick Pit Stop | 19.00% | ~428 |
 | Go-Faster Stripes | 18.00% | ~405 |
 | I'm Here Too! | 16.00% | ~360 |
-| We've Just Begun | 11.00% | ~247 |
+| We've Just Begun | 11.00% | ~248 |
 | Stamina Star | 8.00% | ~180 |
 | Is It the Right Size? | 8.00% | ~180 |
 | Evangelist | 6.00% | ~135 |
 | Make It Your Own! | 5.00% | ~112 |
 | Cherry Blossom and Temples | 4.00% | ~90 |
 | I Make the Rules! | 4.00% | ~90 |
-| Spoilt for Choice | 3.00% | ~67 |
-| La Dolce Vita | 3.00% | ~67 |
-| The Road to Liberty | 3.00% | ~67 |
-| Romantic Races | 3.00% | ~67 |
-| Rounding Off | 3.00% | ~67 |
+| Spoilt for Choice | 3.00% | ~68 |
+| La Dolce Vita | 3.00% | ~68 |
+| The Road to Liberty | 3.00% | ~68 |
+| Romantic Races | 3.00% | ~68 |
+| Rounding Off | 3.00% | ~68 |
 | Iconic! | 2.00% | ~45 |
 | Back in Blighty | 2.00% | ~45 |
 | Still Here | 2.00% | ~45 |
@@ -38,8 +38,8 @@
 | I'll Be the Best! | 1.00% | ~22 |
 | Next Level | 1.00% | ~22 |
 | I Don't Stop | 1.00% | ~22 |
-| Exhausted but Happy | 0.60% | ~13 |
-| In Search of Perfection | 0.60% | ~13 |
+| Exhausted but Happy | 0.60% | ~14 |
+| In Search of Perfection | 0.60% | ~14 |
 | Globe-trotter | 0.50% | ~11 |
 | Maximum Endurance | 0.30% | ~7 |
 | All My Own Toys | 0.20% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,249 (Ranked 220)  
+Progressed: 2,250 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,4 +138,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 2,209 | 0 |
 | 2023-11-22 | 2,223 | 0 |
 | 2023-11-23 | 2,237 | 0 |
-| 2023-11-24 | 2,249 | 0 |
+| 2023-11-24 | 2,250 | 0 |

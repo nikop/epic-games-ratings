@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 46.00% | ~36 |
-| Purification Pioneer | 45.00% | ~35 |
-| Dicesmithing Time! | 42.00% | ~33 |
-| Mechanical Buddy | 42.00% | ~33 |
-| Endless Tricks | 41.00% | ~32 |
+| Meissa's Savior | 47.00% | ~37 |
+| Purification Pioneer | 46.00% | ~36 |
+| Dicesmithing Time! | 44.00% | ~34 |
+| Mechanical Buddy | 44.00% | ~34 |
+| Endless Tricks | 42.00% | ~33 |
 | Sanctuary Guardian | 37.00% | ~29 |
 | Mind Illuminator | 36.00% | ~28 |
+| Wild's Keeper | 36.00% | ~28 |
 | Noctuan Champion | 36.00% | ~28 |
-| Wild's Keeper | 35.00% | ~27 |
 | Eridanian Champion | 31.00% | ~24 |
 | Lacertian Champion | 31.00% | ~24 |
 | Apian Champion | 28.00% | ~22 |

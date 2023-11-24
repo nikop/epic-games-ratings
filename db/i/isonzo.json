@@ -2,12 +2,12 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 505,
-  "Ranking_Popularity": 465,
+  "Ranking_Rating": 491,
+  "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 98,
   "RatingHistory": [
     {
@@ -857,11 +857,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 284,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-11-24T13:57:50.9628184+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 285,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 284,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 285,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -892,7 +898,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",
@@ -931,9 +937,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 8933,
+  "EOS_Progressed": 8934,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8026,6 +8032,11 @@
       "Time": "2023-11-24T13:09:43.129736+00:00",
       "NumProgressed": 8933,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-24T14:03:56.515053+00:00",
+      "NumProgressed": 8934,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -8149,7 +8160,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -8205,7 +8216,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 3037
+      "UsersEstimate": 3038
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -8365,7 +8376,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4466
+      "UsersEstimate": 4467
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8389,23 +8400,23 @@
       "Name": "You Shall Not Pass",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4466
+      "UsersEstimate": 4467
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 8933,
+      "Progressed": 8934,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-11-22T21:57:11.9377566+00:00",
-  "LastChanged_Achievements": "2023-11-24T13:09:43.1297357+00:00",
+  "LastChanged": "2023-11-24T13:57:50.9628182+00:00",
+  "LastChanged_Achievements": "2023-11-24T14:03:56.5150526+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.1611041+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:03:01.8666741+00:00",
-  "LastUpdate_Achievements": "2023-11-24T13:09:43.1298027+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:57:50.9628187+00:00",
+  "LastUpdate_Achievements": "2023-11-24T14:03:56.5151011+00:00"
 }

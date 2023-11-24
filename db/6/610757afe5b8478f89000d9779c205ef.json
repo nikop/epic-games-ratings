@@ -4,7 +4,7 @@
   "ProductSlug": "the-shape-of-things-dc5b26",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-26T11:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-27T04:57:25.3370697+00:00",
   "LastUpdate_AppInfo": "2023-11-19T04:57:23.4617032+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:02:46.5889737+00:00",
-  "LastUpdate_Achievements": "2023-11-24T13:10:56.4436782+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:57:40.2640556+00:00",
+  "LastUpdate_Achievements": "2023-11-24T14:04:50.8379525+00:00"
 }

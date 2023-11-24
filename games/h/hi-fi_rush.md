@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 18.00% | ~775 |
 | Start with a bang! | 17.00% | ~732 |
-| Feeling the beat! | 17.00% | ~732 |
 | You can pet the cat! | 16.00% | ~689 |
 | Who put gears in there? | 15.00% | ~646 |
 | Cream of the Crop | 14.00% | ~603 |
@@ -23,14 +23,14 @@ Rating: 4.87 (Ranked 24)
 | The Negotiator | 9.00% | ~388 |
 | Out in a puff of smoke | 9.00% | ~388 |
 | I look cool. But I can look COOLER. | 9.00% | ~388 |
-| Headliner | 8.00% | ~344 |
-| Time to pay up! | 8.00% | ~344 |
-| Who's the boss now? | 8.00% | ~344 |
-| You must like calling me in, Chai | 8.00% | ~344 |
-| Perfecter Parry-er! | 8.00% | ~344 |
-| Does that say weakpoint? | 8.00% | ~344 |
+| Headliner | 8.00% | ~345 |
+| Time to pay up! | 8.00% | ~345 |
+| Who's the boss now? | 8.00% | ~345 |
+| You must like calling me in, Chai | 8.00% | ~345 |
+| Does that say weakpoint? | 8.00% | ~345 |
 | NOW we got a kickass hideout! | 8.00% | ~226 |
-| I have to read these things? | 7.00% | ~301 |
+| I have to read these things? | 7.00% | ~302 |
+| Perfecter Parry-er! | 7.00% | ~302 |
 | Well that was a rush! | 5.00% | ~215 |
 | Beat-hit mania | 5.00% | ~215 |
 | That's a lot of junk metal… | 5.00% | ~215 |
@@ -77,8 +77,8 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,306 (Ranked 194)  
-Completed: 8 (0.19%) (Ranked 260)  
+Progressed: 4,308 (Ranked 194)  
+Completed: 8 (0.19%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,7 +285,7 @@ Completed: 8 (0.19%) (Ranked 260)
 | 2023-11-21 | 4,235 | 8 |
 | 2023-11-22 | 4,261 | 8 |
 | 2023-11-23 | 4,297 | 8 |
-| 2023-11-24 | 4,306 | 8 |
+| 2023-11-24 | 4,308 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

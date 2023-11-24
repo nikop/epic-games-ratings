@@ -1,30 +1,30 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.55 (Ranked 505)  
+Rating: 4.55 (Ranked 506)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,685 |
+| Complete Guard Faction | 82.00% | ~1,686 |
 | Become King | 74.00% | ~1,521 |
 | Defeat 25 Frogs | 63.00% | ~1,295 |
-| Ranged Weapon | 62.00% | ~1,274 |
-| Collect Monster Parts | 59.00% | ~1,212 |
-| Two Handed Weapon | 57.00% | ~1,171 |
+| Ranged Weapon | 62.00% | ~1,275 |
+| Collect Monster Parts | 59.00% | ~1,213 |
+| Two Handed Weapon | 57.00% | ~1,172 |
 | Defeat 25 Grubs | 54.00% | ~1,110 |
-| Rescue Redgi's Brothers | 53.00% | ~1,089 |
-| Collect Iron Ore | 48.00% | ~986 |
-| Kitchen Ready To Cook | 48.00% | ~986 |
-| Defeat 25 Mozis | 47.00% | ~966 |
-| Collect Gold | 46.00% | ~945 |
-| Smithy Ready to Craft | 46.00% | ~945 |
+| Rescue Redgi's Brothers | 53.00% | ~1,090 |
+| Collect Iron Ore | 48.00% | ~987 |
+| Defeat 25 Mozis | 48.00% | ~987 |
+| Kitchen Ready To Cook | 48.00% | ~987 |
+| Collect Gold | 46.00% | ~946 |
+| Smithy Ready to Craft | 46.00% | ~946 |
 | Fix the Travellers Wagon | 45.00% | ~925 |
-| Complete Elder Faction | 42.00% | ~863 |
-| End of the Mozis | 39.00% | ~801 |
-| Throne Room Fit For A King | 39.00% | ~801 |
-| Meet the Creatures from the Deep | 37.00% | ~760 |
-| Return Power To The Depths | 37.00% | ~760 |
-| Defeat Ratnor Rodentson | 30.00% | ~616 |
+| Complete Elder Faction | 42.00% | ~864 |
+| End of the Mozis | 39.00% | ~802 |
+| Throne Room Fit For A King | 39.00% | ~802 |
+| Meet the Creatures from the Deep | 37.00% | ~761 |
+| Return Power To The Depths | 37.00% | ~761 |
+| Defeat Ratnor Rodentson | 30.00% | ~617 |
 | Return the Statues | 27.00% | ~555 |
 | Defeat Rattus Augustail | 27.00% | ~555 |
 | Complete the Chefs Book | 25.00% | ~514 |
@@ -36,8 +36,8 @@ Rating: 4.55 (Ranked 505)
 | King of Kings | 8.00% | ~164 |
 | A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,055 (Ranked 223)  
-Completed: 9 (0.44%) (Ranked 211)  
+Progressed: 2,056 (Ranked 223)  
+Completed: 9 (0.44%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,7 +209,7 @@ Completed: 9 (0.44%) (Ranked 211)
 | 2023-11-21 | 2,011 | 9 |
 | 2023-11-22 | 2,030 | 9 |
 | 2023-11-23 | 2,045 | 9 |
-| 2023-11-24 | 2,055 | 9 |
+| 2023-11-24 | 2,056 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

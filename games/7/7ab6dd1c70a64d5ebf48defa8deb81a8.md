@@ -20,9 +20,9 @@
 | Stone Collection | 6.00% | ~13 |
 | Calm before the Storm | 5.00% | ~10 |
 | Shatter Them All | 4.00% | ~8 |
+| Fine Feathers Make Fine Birds | 4.00% | ~8 |
 | The Mentor | 3.00% | ~6 |
 | Essence Blow | 3.00% | ~6 |
-| Fine Feathers Make Fine Birds | 3.00% | ~6 |
 | Alchemist | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |

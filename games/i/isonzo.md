@@ -1,18 +1,18 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.55 (Ranked 505)  
+Rating: 4.56 (Ranked 491)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 50.00% | ~4,466 |
-| You Shall Not Pass | 50.00% | ~4,466 |
+| Tutti Eroi! | 50.00% | ~4,467 |
+| You Shall Not Pass | 50.00% | ~4,467 |
 | Peak Performance | 47.00% | ~4,199 |
 | Avanti Savoia! | 44.00% | ~3,931 |
-| Mamma Mia! | 34.00% | ~3,037 |
+| Mamma Mia! | 34.00% | ~3,038 |
 | Conrad von Hotzensocks | 32.00% | ~2,859 |
-| Gabriele D'Annunzio | 31.00% | ~2,769 |
+| Gabriele D'Annunzio | 31.00% | ~2,770 |
 | Silver Lining | 27.00% | ~2,412 |
 | Aurelio Baruzzi | 21.00% | ~1,876 |
 | Decimation | 20.00% | ~1,787 |
@@ -52,8 +52,8 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~36 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,933 (Ranked 168)  
-Completed: 9 (0.10%) (Ranked 281)  
+Progressed: 8,934 (Ranked 168)  
+Completed: 9 (0.10%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,15 +264,15 @@ Completed: 9 (0.10%) (Ranked 281)
 | 2023-11-21 | 8,816 | 9 |
 | 2023-11-22 | 8,892 | 9 |
 | 2023-11-23 | 8,926 | 9 |
-| 2023-11-24 | 8,933 | 9 |
+| 2023-11-24 | 8,934 | 9 |
 ## Awards
-Max (Diverse Characters): 37  (Ranked 465)  
-Sum: 284 (Ranked 372)  
-Diff (max vs sum): 93  
+Max (Diverse Characters): 38  (Ranked 461)  
+Sum: 285 (Ranked 372)  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
+| This game has Diverse Characters | 38 |
 | This game is Highly Recommended | 37 |
-| This game has Diverse Characters | 37 |
 | This game is Extremely Fun | 35 |
 | This game has Realistic Visuals | 34 |
 | This game has Amazing Characters | 32 |
@@ -408,3 +408,4 @@ Diff (max vs sum): 93
 | 2023-11-20 | 4.55 | - | 37 | 281 |
 | 2023-11-21 | 4.55 | - | 37 | 283 |
 | 2023-11-22 | 4.55 | - | 37 | 284 |
+| 2023-11-24 | 4.56 | - | 38 | 285 |

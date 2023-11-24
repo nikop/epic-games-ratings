@@ -57,13 +57,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 1.00% | ~1,414 |
 | Royal Ransom | 1.00% | ~1,414 |
 | Mammonite | 1.00% | ~1,414 |
+| Wealth Beyond Measure | 1.00% | ~1,414 |
 | Helping Hand | 1.00% | ~1,414 |
 | Fat Cat Tag Team | 1.00% | ~1,414 |
+| Master Merchant | 1.00% | ~1,414 |
 | Miracle Alchemist | 1.00% | ~1,414 |
 | Laden with Loot | 1.00% | ~1,414 |
 | Natural 20 | 1.00% | ~1,414 |
 | Seasoned Journeyman | 1.00% | ~1,414 |
 | Scourge of the Seas | 1.00% | ~1,414 |
+| Attrition Mission | 1.00% | ~1,414 |
+| Glittering Collection | 1.00% | ~1,414 |
 | Black Friday Special | 1.00% | ~1,414 |
 | Magical Harmony | 1.00% | ~1,414 |
 | Special Ingredient | 1.00% | ~1,414 |
@@ -80,13 +84,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.90% | ~1,273 |
 | Fit for a King | 0.90% | ~1,273 |
 | By Your Powers Combined... | 0.90% | ~1,273 |
-| Wealth Beyond Measure | 0.90% | ~1,273 |
 | Necromancer Queen | 0.90% | ~1,273 |
 | Item of Renown | 0.90% | ~1,273 |
-| Master Merchant | 0.90% | ~1,273 |
 | Precision Engineering | 0.90% | ~1,273 |
-| Attrition Mission | 0.90% | ~1,273 |
-| Glittering Collection | 0.90% | ~1,273 |
 | Treasure Trove | 0.90% | ~1,273 |
 | Master Recycler | 0.90% | ~1,273 |
 | King's Blade | 0.90% | ~1,273 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,397 (Ranked 80)  
+Progressed: 141,410 (Ranked 80)  
 Completed: 206 (0.15%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 206 (0.15%) (Ranked 268)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,397 | 206 |
+| 2023-11-24 | 141,410 | 206 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,587 (Ranked 50)  

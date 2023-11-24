@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1055,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2541,17 +2541,17 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 971
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
       "SetID": "5fn8ia4",
       "Name": "Fueled it better!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 950
     },
     {
       "ID": "GSS_ACH_08_FUEL_03",
@@ -3158,8 +3158,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-24T13:12:14.7197436+00:00",
+  "LastChanged_Achievements": "2023-11-24T14:05:49.0701096+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:02:32.3115187+00:00",
-  "LastUpdate_Achievements": "2023-11-24T13:12:14.7198207+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:57:30.3246051+00:00",
+  "LastUpdate_Achievements": "2023-11-24T14:05:49.0701984+00:00"
 }

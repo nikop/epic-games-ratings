@@ -2,12 +2,12 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 505,
+  "Ranking_Rating": 506,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2055,
+  "EOS_Progressed": 2056,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -3302,6 +3302,11 @@
       "Time": "2023-11-24T12:06:32.6228067+00:00",
       "NumProgressed": 2055,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-24T14:05:54.8487061+00:00",
+      "NumProgressed": 2056,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -3321,7 +3326,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Collect20Iron",
@@ -3329,7 +3334,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "Collect50MonsterParts",
@@ -3337,7 +3342,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "CollectAllStatues",
@@ -3385,7 +3390,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3393,7 +3398,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3425,7 +3430,7 @@
       "Name": "End of the Mozis",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -3433,7 +3438,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -3457,7 +3462,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "GetTHWeapon",
@@ -3465,7 +3470,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "Kill25Bugs",
@@ -3487,9 +3492,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 987
     },
     {
       "ID": "MeetTheMoles",
@@ -3497,7 +3502,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "MysteryKingsChamber",
@@ -3513,7 +3518,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "RepairSmith",
@@ -3521,7 +3526,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "RepairThroneRoom",
@@ -3529,7 +3534,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "RescueBrothers",
@@ -3537,7 +3542,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3545,29 +3550,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2055,
+      "Progressed": 2056,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 696,
-      "Completed": 696
+      "Progressed": 697,
+      "Completed": 697
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-24T13:12:22.7778567+00:00",
+  "LastChanged_Achievements": "2023-11-24T14:05:54.8487058+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.2100047+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:03:24.9856181+00:00",
-  "LastUpdate_Achievements": "2023-11-24T13:12:22.7778901+00:00"
+  "LastUpdate_Ratings": "2023-11-24T13:58:07.139749+00:00",
+  "LastUpdate_Achievements": "2023-11-24T14:05:54.8487371+00:00"
 }

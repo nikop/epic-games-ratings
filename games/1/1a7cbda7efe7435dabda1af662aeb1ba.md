@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breaking Free | 36.00% | ~10 |
-| Overcoming Weakness | 18.00% | ~5 |
+| Overcoming Weakness | 21.00% | ~6 |
+| Fence-Sitter | 14.00% | ~4 |
 | Boulder Breaker | 11.00% | ~3 |
-| Fence-Sitter | 11.00% | ~3 |
 | Green Thumb | 11.00% | ~3 |
 | Crystal Hunter | 7.00% | ~2 |
 | Danger | 7.00% | ~2 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7183,9 +7183,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141397,
+  "EOS_Progressed": 141410,
   "EOS_Completed": 206,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1197,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -29678,6 +29678,11 @@
       "Time": "2023-11-24T13:13:20.9614026+00:00",
       "NumProgressed": 141397,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2023-11-24T14:07:46.9492607+00:00",
+      "NumProgressed": 141410,
+      "NumCompleted": 206
     }
   ],
   "TotalAchievements": 112,
@@ -30199,9 +30204,9 @@
       "ID": "gold06",
       "SetID": "anfd17p",
       "Name": "Wealth Beyond Measure",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1414
     },
     {
       "ID": "help01",
@@ -30287,9 +30292,9 @@
       "ID": "level03",
       "SetID": "anfd17p",
       "Name": "Master Merchant",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1414
     },
     {
       "ID": "level04",
@@ -30407,9 +30412,9 @@
       "ID": "quest02",
       "SetID": "anfd17p",
       "Name": "Attrition Mission",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1414
     },
     {
       "ID": "quest03",
@@ -30431,9 +30436,9 @@
       "ID": "rareres01",
       "SetID": "anfd17p",
       "Name": "Glittering Collection",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1414
     },
     {
       "ID": "rareres02",
@@ -30584,15 +30589,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141397,
+      "Progressed": 141410,
       "Completed": 206
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-24T11:03:04.7878959+00:00",
-  "LastChanged_Achievements": "2023-11-24T13:13:20.9614024+00:00",
+  "LastChanged_Achievements": "2023-11-24T14:07:46.9492604+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-24T13:07:55.038844+00:00",
-  "LastUpdate_Achievements": "2023-11-24T13:13:20.9617841+00:00"
+  "LastUpdate_Ratings": "2023-11-24T14:02:38.8008126+00:00",
+  "LastUpdate_Achievements": "2023-11-24T14:07:46.9494533+00:00"
 }

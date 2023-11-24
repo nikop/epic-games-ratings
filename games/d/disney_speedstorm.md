@@ -5,16 +5,16 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,099 |
-| IT MAKES BOOM! | 7.00% | ~21,699 |
-| EXTRA BOOST | 5.00% | ~15,500 |
-| PROTECTED | 4.00% | ~12,400 |
-| PRO | 4.00% | ~12,400 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,300 |
-| AGGRESSIVE RACER | 3.00% | ~9,300 |
-| A TIGER'S FEAR | 2.00% | ~6,200 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,100 |
-| ACE SPEEDSTER | 1.00% | ~3,100 |
+| ROOKIE | 11.00% | ~34,106 |
+| IT MAKES BOOM! | 7.00% | ~21,704 |
+| EXTRA BOOST | 5.00% | ~15,503 |
+| PROTECTED | 4.00% | ~12,402 |
+| PRO | 4.00% | ~12,402 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,302 |
+| AGGRESSIVE RACER | 3.00% | ~9,302 |
+| A TIGER'S FEAR | 2.00% | ~6,201 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,101 |
+| ACE SPEEDSTER | 1.00% | ~3,101 |
 | RELEASE THE KRAKEN | 0.90% | ~2,790 |
 | MASTER | 0.90% | ~2,790 |
 | TRAINING HARD | 0.80% | ~2,480 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 746)
 | ACE TRICKSTER | 0.30% | ~930 |
 | PERFECTLY POISED | 0.20% | ~620 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309,992 (Ranked 52)  
-Completed: 325 (0.10%) (Ranked 281)  
+Progressed: 310,054 (Ranked 52)  
+Completed: 326 (0.11%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,11 +244,11 @@ Completed: 325 (0.10%) (Ranked 281)
 | 2023-11-21 | 306,872 | 316 |
 | 2023-11-22 | 308,028 | 320 |
 | 2023-11-23 | 309,325 | 322 |
-| 2023-11-24 | 309,992 | 325 |
+| 2023-11-24 | 310,054 | 326 |
 ## Awards
 Max (Great for Beginners): 81  (Ranked 389)  
-Sum: 631 (Ranked 310)  
-Diff (max vs sum): 79  
+Sum: 632 (Ranked 309)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 81 |
@@ -260,8 +260,8 @@ Diff (max vs sum): 79
 | This game has Competitive Players | 46 |
 | This game has a Competitive Community | 44 |
 | This game has Quickly Understood Controls | 42 |
+| This game is Extremely Fun | 42 |
 | This game has Amazing Storytelling | 41 |
-| This game is Extremely Fun | 41 |
 | This game is Relaxing | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -320,4 +320,4 @@ Diff (max vs sum): 79
 | 2023-11-21 | 4.39 | 77 | 609 |
 | 2023-11-22 | 4.39 | 80 | 618 |
 | 2023-11-23 | 4.39 | 81 | 628 |
-| 2023-11-24 | 4.39 | 81 | 631 |
+| 2023-11-24 | 4.39 | 81 | 632 |

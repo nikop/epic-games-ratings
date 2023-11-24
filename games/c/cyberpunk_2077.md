@@ -6,50 +6,50 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 7.00% | ~65,138 |
-| Gun Fu | 4.00% | ~37,222 |
-| The Fool | 3.00% | ~27,916 |
-| Right Back At Ya | 2.00% | ~18,611 |
-| Full Body Conversion | 1.00% | ~9,305 |
-| Stanislavski's Method | 1.00% | ~9,305 |
-| The Lovers | 1.00% | ~9,305 |
-| True Soldier | 1.00% | ~9,305 |
-| Relic Ruler | 1.00% | ~592 |
-| All the President's Men | 0.90% | ~533 |
-| Arachnophobia | 0.90% | ~533 |
-| The Hermit | 0.80% | ~7,444 |
-| The Wheel of Fortune | 0.80% | ~7,444 |
-| Christmas Tree Attack | 0.70% | ~6,514 |
-| The Quick and the Dead | 0.70% | ~6,514 |
-| True Warrior | 0.70% | ~6,514 |
-| Legend of The Afterlife | 0.70% | ~6,514 |
-| Bushido and Chill | 0.60% | ~5,583 |
-| Life of the Road | 0.60% | ~5,583 |
-| The High Priestess | 0.60% | ~5,583 |
-| The World | 0.60% | ~5,583 |
-| Spin Doctor | 0.60% | ~355 |
-| To Protect and Serve | 0.50% | ~4,653 |
-| Master Crafter | 0.50% | ~4,653 |
-| I Am The Law | 0.50% | ~4,653 |
-| Judy vs Night City | 0.50% | ~4,653 |
-| Dirty Deeds | 0.50% | ~296 |
-| Easy Come, Easy Go | 0.50% | ~296 |
-| The Wandering Fool | 0.40% | ~3,722 |
-| Two Heads, One Bullet | 0.40% | ~3,722 |
-| King of Wands | 0.40% | ~237 |
-| To Bad Decisions! | 0.30% | ~2,792 |
-| Breathtaking | 0.30% | ~2,792 |
-| Ten out of Ten | 0.30% | ~2,792 |
-| The Star | 0.30% | ~2,792 |
-| The Sun | 0.30% | ~2,792 |
-| King of Swords | 0.30% | ~178 |
-| The Tower | 0.30% | ~178 |
-| Autojock | 0.20% | ~1,861 |
-| Must Be Rats | 0.20% | ~1,861 |
-| Temperance | 0.20% | ~1,861 |
-| The APB is Not Enough | 0.20% | ~118 |
-| Judgement Day | 0.20% | ~118 |
-| King of Pentacles | 0.20% | ~118 |
+| V for Vendetta | 7.00% | ~65,179 |
+| Gun Fu | 4.00% | ~37,245 |
+| The Fool | 3.00% | ~27,934 |
+| Right Back At Ya | 2.00% | ~18,623 |
+| The Lovers | 2.00% | ~18,623 |
+| Full Body Conversion | 1.00% | ~9,311 |
+| Stanislavski's Method | 1.00% | ~9,311 |
+| True Soldier | 1.00% | ~9,311 |
+| Relic Ruler | 1.00% | ~598 |
+| All the President's Men | 0.90% | ~538 |
+| Arachnophobia | 0.90% | ~538 |
+| The Hermit | 0.80% | ~7,449 |
+| The Wheel of Fortune | 0.80% | ~7,449 |
+| Christmas Tree Attack | 0.70% | ~6,518 |
+| The Quick and the Dead | 0.70% | ~6,518 |
+| True Warrior | 0.70% | ~6,518 |
+| Legend of The Afterlife | 0.70% | ~6,518 |
+| Bushido and Chill | 0.60% | ~5,587 |
+| Life of the Road | 0.60% | ~5,587 |
+| The High Priestess | 0.60% | ~5,587 |
+| The World | 0.60% | ~5,587 |
+| Spin Doctor | 0.60% | ~359 |
+| To Protect and Serve | 0.50% | ~4,656 |
+| Master Crafter | 0.50% | ~4,656 |
+| I Am The Law | 0.50% | ~4,656 |
+| Judy vs Night City | 0.50% | ~4,656 |
+| Dirty Deeds | 0.50% | ~299 |
+| Easy Come, Easy Go | 0.50% | ~299 |
+| The Wandering Fool | 0.40% | ~3,725 |
+| Two Heads, One Bullet | 0.40% | ~3,725 |
+| King of Wands | 0.40% | ~239 |
+| To Bad Decisions! | 0.30% | ~2,793 |
+| Breathtaking | 0.30% | ~2,793 |
+| Ten out of Ten | 0.30% | ~2,793 |
+| The Star | 0.30% | ~2,793 |
+| The Sun | 0.30% | ~2,793 |
+| King of Swords | 0.30% | ~179 |
+| The Tower | 0.30% | ~179 |
+| Autojock | 0.20% | ~1,862 |
+| Must Be Rats | 0.20% | ~1,862 |
+| Temperance | 0.20% | ~1,862 |
+| The APB is Not Enough | 0.20% | ~120 |
+| Judgement Day | 0.20% | ~120 |
+| King of Pentacles | 0.20% | ~120 |
 | City Lights | 0.10% | ~931 |
 | Frequent Flyer | 0.10% | ~931 |
 | Gunslinger | 0.10% | ~931 |
@@ -62,7 +62,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.10% | ~931 |
 | The Jungle | 0.10% | ~931 |
 | It's Elementary | 0.10% | ~931 |
-| King of Cups | 0.10% | ~59 |
+| King of Cups | 0.10% | ~60 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930,547 (Ranked 15)  
+Progressed: 931,130 (Ranked 15)  
 Completed: 2,807 (0.30%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 2,807 (0.30%) (Ranked 236)
 | 2023-11-21 | 898,478 | 2,799 |
 | 2023-11-22 | 914,026 | 2,804 |
 | 2023-11-23 | 925,314 | 2,805 |
-| 2023-11-24 | 930,547 | 2,807 |
+| 2023-11-24 | 931,130 | 2,807 |
 ## Awards
 Max (Character Customization): 106,938  (Ranked 9)  
 Sum: 361,598 (Ranked 10)  
