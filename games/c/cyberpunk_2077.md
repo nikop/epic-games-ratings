@@ -6,37 +6,37 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 8.00% | ~74,712 |
-| Gun Fu | 4.00% | ~37,356 |
-| The Fool | 3.00% | ~28,017 |
-| Right Back At Ya | 2.00% | ~18,678 |
-| The Lovers | 2.00% | ~18,678 |
-| Full Body Conversion | 1.00% | ~9,339 |
-| Stanislavski's Method | 1.00% | ~9,339 |
-| True Soldier | 1.00% | ~9,339 |
-| Relic Ruler | 1.00% | ~625 |
-| The Wheel of Fortune | 0.90% | ~8,405 |
-| All the President's Men | 0.90% | ~563 |
-| Arachnophobia | 0.90% | ~563 |
-| Christmas Tree Attack | 0.80% | ~7,471 |
-| The Hermit | 0.80% | ~7,471 |
-| The Quick and the Dead | 0.70% | ~6,537 |
-| Life of the Road | 0.70% | ~6,537 |
-| True Warrior | 0.70% | ~6,537 |
-| Legend of The Afterlife | 0.70% | ~6,537 |
-| Bushido and Chill | 0.60% | ~5,603 |
-| The High Priestess | 0.60% | ~5,603 |
-| The World | 0.60% | ~5,603 |
-| Spin Doctor | 0.60% | ~375 |
-| To Protect and Serve | 0.50% | ~4,669 |
-| Master Crafter | 0.50% | ~4,669 |
-| I Am The Law | 0.50% | ~4,669 |
-| Judy vs Night City | 0.50% | ~4,669 |
-| Dirty Deeds | 0.50% | ~313 |
-| Easy Come, Easy Go | 0.50% | ~313 |
+| V for Vendetta | 8.00% | ~74,726 |
+| Gun Fu | 4.00% | ~37,363 |
+| The Fool | 3.00% | ~28,022 |
+| Right Back At Ya | 2.00% | ~18,682 |
+| The Lovers | 2.00% | ~18,682 |
+| Full Body Conversion | 1.00% | ~9,341 |
+| Stanislavski's Method | 1.00% | ~9,341 |
+| True Soldier | 1.00% | ~9,341 |
+| Relic Ruler | 1.00% | ~627 |
+| The Wheel of Fortune | 0.90% | ~8,407 |
+| All the President's Men | 0.90% | ~564 |
+| Arachnophobia | 0.90% | ~564 |
+| Christmas Tree Attack | 0.80% | ~7,473 |
+| The Hermit | 0.80% | ~7,473 |
+| The Quick and the Dead | 0.70% | ~6,539 |
+| Life of the Road | 0.70% | ~6,539 |
+| True Warrior | 0.70% | ~6,539 |
+| Legend of The Afterlife | 0.70% | ~6,539 |
+| Bushido and Chill | 0.60% | ~5,604 |
+| The High Priestess | 0.60% | ~5,604 |
+| The World | 0.60% | ~5,604 |
+| Spin Doctor | 0.60% | ~376 |
+| To Protect and Serve | 0.50% | ~4,670 |
+| Master Crafter | 0.50% | ~4,670 |
+| I Am The Law | 0.50% | ~4,670 |
+| Judy vs Night City | 0.50% | ~4,670 |
+| Dirty Deeds | 0.50% | ~314 |
+| Easy Come, Easy Go | 0.50% | ~314 |
 | The Wandering Fool | 0.40% | ~3,736 |
 | Two Heads, One Bullet | 0.40% | ~3,736 |
-| King of Wands | 0.40% | ~250 |
+| King of Wands | 0.40% | ~251 |
 | To Bad Decisions! | 0.30% | ~2,802 |
 | Breathtaking | 0.30% | ~2,802 |
 | Ten out of Ten | 0.30% | ~2,802 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933,895 (Ranked 15)  
+Progressed: 934,081 (Ranked 15)  
 Completed: 2,810 (0.30%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 2,810 (0.30%) (Ranked 236)
 | 2023-11-21 | 898,478 | 2,799 |
 | 2023-11-22 | 914,026 | 2,804 |
 | 2023-11-23 | 925,314 | 2,805 |
-| 2023-11-24 | 933,895 | 2,810 |
+| 2023-11-24 | 934,081 | 2,810 |
 ## Awards
 Max (Character Customization): 107,456  (Ranked 9)  
 Sum: 362,468 (Ranked 10)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3341,
+  "EOS_Progressed": 3342,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5843,6 +5843,11 @@
       "Time": "2023-11-24T18:07:59.4808365+00:00",
       "NumProgressed": 3341,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T22:06:27.6320382+00:00",
+      "NumProgressed": 3342,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5918,7 +5923,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_BASE_19",
@@ -6054,7 +6059,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH_BASE_35",
@@ -6070,7 +6075,7 @@
       "Name": "Access Granted",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_BASE_37",
@@ -6198,7 +6203,7 @@
       "Name": "All in Good Health",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_BASE_56",
@@ -6309,13 +6314,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1525,
+      "Progressed": 1526,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3341,
+      "Progressed": 3342,
       "Completed": 0
     }
   ],
@@ -6323,8 +6328,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:08:21.6669475+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:06:27.6320378+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.7251955+00:00",
   "LastUpdate_Ratings": "2023-11-24T21:02:44.9625658+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:08:21.6670236+00:00"
+  "LastUpdate_Achievements": "2023-11-24T22:06:27.6321127+00:00"
 }

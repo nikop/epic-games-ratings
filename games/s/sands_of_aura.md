@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Setting Sail | 88.00% | ~76 |
 | A Small Thirsty Thing | 14.00% | ~12 |
+| Dousing a Venerable Flame | 10.00% | ~9 |
 | Spirit Within | 10.00% | ~9 |
 | Rain Must Fall | 9.00% | ~8 |
 | Overboard | 9.00% | ~8 |
-| Dousing a Venerable Flame | 9.00% | ~8 |
 | Leisis Bless You | 9.00% | ~8 |
 | Advanced Armaments | 9.00% | ~8 |
 | Bladesmith | 6.00% | ~5 |
@@ -18,8 +18,8 @@
 | Sovereignty of Irons | 6.00% | ~5 |
 | A Sandwyrm's Hoard | 6.00% | ~5 |
 | Sommelier | 5.00% | ~4 |
+| Let Me Solo Them | 5.00% | ~4 |
 | Twin Thorns | 5.00% | ~4 |
-| Let Me Solo Them | 3.00% | ~3 |
 | Frigid Winds | 3.00% | ~3 |
 | The River Styx | 2.00% | ~2 |
 | Smotherly Love | 1.00% | ~1 |

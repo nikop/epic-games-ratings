@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1483,7 +1483,7 @@
   ],
   "EOS_Progressed": 6908,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13552,9 +13552,9 @@
       "ID": "UNLOCK_RESEARCH_3",
       "SetID": "5349c2e",
       "Name": "Onward",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 3938
+      "UsersEstimate": 4007
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -13576,8 +13576,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-23T22:00:14.1144671+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:05:13.4927821+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:04:17.5572109+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:31.1840815+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:57:35.4654253+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:05:13.4928751+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:57:31.1587055+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:04:17.5572796+00:00"
 }

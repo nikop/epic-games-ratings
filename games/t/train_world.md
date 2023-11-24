@@ -13,6 +13,7 @@
 | Speed Demon | 13.00% | ~2 |
 | Regional Express | 13.00% | ~2 |
 | Urban Network | 13.00% | ~2 |
+| Heavy Load | 13.00% | ~2 |
 | Industrial Revolution | 13.00% | ~2 |
 | Double Trouble | 13.00% | ~2 |
 | World Explorer | 7.00% | ~1 |
@@ -28,7 +29,7 @@
 | Supply Chain | 7.00% | ~1 |
 | Train Spotter | 7.00% | ~1 |
 | Mega Train | 7.00% | ~1 |
-| Heavy Load | 7.00% | ~1 |
+| Crowd Pleaser | 7.00% | ~1 |
 | Line Master | 7.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
@@ -50,7 +51,6 @@
 | Mixed Bag | 0.00% | ~0 |
 | Green Energy | 0.00% | ~0 |
 | Task Master | 0.00% | ~0 |
-| Crowd Pleaser | 0.00% | ~0 |
 | Bullet Train | 0.00% | ~0 |
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |

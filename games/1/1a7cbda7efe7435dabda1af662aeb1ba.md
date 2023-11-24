@@ -35,7 +35,7 @@
 | Astral Envoy | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 532)  
+Progressed: 28 (Ranked 533)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |

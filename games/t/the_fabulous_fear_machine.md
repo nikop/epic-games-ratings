@@ -7,27 +7,28 @@
 | Master trainee | 15.00% | ~6 |
 | You have three wishes left | 13.00% | ~5 |
 | Jung's dream | 10.00% | ~4 |
+| Giant | 10.00% | ~4 |
 | The battle of Great Britain | 10.00% | ~4 |
 | Pulp! Terror Tales in the Night | 10.00% | ~4 |
 | Pulp! Where Monsters Dwell | 10.00% | ~4 |
 | A continent with chemistry | 10.00% | ~4 |
-| Giant | 8.00% | ~3 |
 | A rival with no options | 8.00% | ~3 |
+| The happy farmer girl | 8.00% | ~3 |
 | Bread and bocaua | 5.00% | ~2 |
 | Fanatacism is... poisonous | 5.00% | ~2 |
+| The artist | 5.00% | ~2 |
 | The adventurer | 5.00% | ~2 |
 | ECO mode | 5.00% | ~2 |
-| The happy farmer girl | 5.00% | ~2 |
 | You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
-| The artist | 3.00% | ~1 |
 | The seer | 3.00% | ~1 |
 | The scholar | 3.00% | ~1 |
 | Pulp! Out of this World | 3.00% | ~1 |
 | Pulp! Adventures into the Unknown | 3.00% | ~1 |
 | Kirlian's best disciple | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
+| The barbarian invasions | 3.00% | ~1 |
 | Diagnosis: fear | 3.00% | ~1 |
 | Ambition is... blind | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |
-| The barbarian invasions | 0.00% | ~0 |
 | America had no Faith | 0.00% | ~0 |
 | Vaccine fans | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |

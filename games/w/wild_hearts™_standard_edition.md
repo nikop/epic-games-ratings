@@ -34,9 +34,9 @@
 | Karakuri Isle | 33.00% | ~106 |
 | Reincarnation Cycle Stopper | 32.00% | ~103 |
 | Left Arm Leverager | 28.00% | ~90 |
+| Unrivaled in Arms | 28.00% | ~90 |
 | Style Seeker | 27.00% | ~87 |
 | Human Believer | 27.00% | ~87 |
-| Unrivaled in Arms | 27.00% | ~87 |
 | Karakuri Minato | 27.00% | ~87 |
 | Canyon of Karakuri | 26.00% | ~84 |
 | Threaded Harmony | 25.00% | ~80 |

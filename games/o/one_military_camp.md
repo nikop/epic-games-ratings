@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 53.00% | ~106 |
-| The 4 Pillars | 51.00% | ~102 |
+| First Step | 53.00% | ~107 |
+| The 4 Pillars | 50.00% | ~100 |
 | Capitalism | 20.00% | ~40 |
-| There's something in those trees | 11.00% | ~22 |
 | Great Producer | 11.00% | ~22 |
 | Green Energy | 11.00% | ~22 |
-| Desert Power | 10.00% | ~20 |
+| There's something in those trees | 10.00% | ~20 |
 | Indebted | 10.00% | ~20 |
+| Desert Power | 9.00% | ~18 |
 | Desert Rat | 9.00% | ~18 |
-| Perfect Soldier | 8.00% | ~16 |
 | Health Care | 8.00% | ~16 |
-| Ammo Tycoon | 8.00% | ~16 |
-| Healing | 7.00% | ~14 |
-| Good payer | 7.00% | ~14 |
+| Perfect Soldier | 7.00% | ~14 |
 | Food Tycoon | 7.00% | ~14 |
-| Fuel Tycoon | 7.00% | ~14 |
-| Jantine: the Misfortunes of Evil | 6.00% | ~12 |
-| Overpopulation | 6.00% | ~12 |
+| Ammo Tycoon | 7.00% | ~14 |
+| Healing | 6.00% | ~12 |
+| Good payer | 6.00% | ~12 |
 | Pathfinder | 6.00% | ~12 |
 | Self-sufficient | 6.00% | ~12 |
-| Outdoor Decorator | 5.00% | ~10 |
+| Fuel Tycoon | 6.00% | ~12 |
+| Jantine: the Misfortunes of Evil | 5.00% | ~10 |
+| Overpopulation | 5.00% | ~10 |
 | Property Bro | 5.00% | ~10 |
 | Medicine Tycoon | 5.00% | ~10 |
-| Supersoldier | 4.00% | ~8 |
+| Outdoor Decorator | 4.00% | ~8 |
 | Tear Down the Wall! | 3.00% | ~6 |
-| Vive le Résistance | 3.00% | ~6 |
+| Supersoldier | 3.00% | ~6 |
 | Human Resources | 3.00% | ~6 |
 | Training Camp | 3.00% | ~6 |
-| Economist | 2.00% | ~4 |
-| Crisis Committee | 2.00% | ~4 |
+| Vive le Résistance | 2.00% | ~4 |
 | No News is Good News | 2.00% | ~4 |
-| Snowman | 2.00% | ~4 |
-| Reconquest | 2.00% | ~4 |
 | Winter Soldier | 2.00% | ~4 |
-| Researcher | 2.00% | ~4 |
+| Economist | 1.00% | ~2 |
 | Counter-espionage | 1.00% | ~2 |
+| Crisis Committee | 1.00% | ~2 |
+| Snowman | 1.00% | ~2 |
+| Reconquest | 1.00% | ~2 |
+| Researcher | 1.00% | ~2 |
 | Conveyor Belt Madness | 0.50% | ~1 |
 | Against Adversity | 0.50% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 388)  
+Progressed: 201 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,4 +118,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-18 | 192 | 0 |
 | 2023-11-22 | 193 | 0 |
 | 2023-11-23 | 196 | 0 |
-| 2023-11-24 | 200 | 0 |
+| 2023-11-24 | 201 | 0 |

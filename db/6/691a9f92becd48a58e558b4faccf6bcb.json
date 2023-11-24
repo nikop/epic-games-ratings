@@ -4,8 +4,8 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 277,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1311,9 +1311,9 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
       "SetID": "5lffoo5",
       "Name": "Lost forever",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -1415,9 +1415,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
       "SetID": "5lffoo5",
       "Name": "Silver Scarf",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_MAIN_WRONG_PATH",
@@ -1437,8 +1437,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:09:43.3629758+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:09:04.7901212+00:00",
   "LastUpdate_AppInfo": "2023-11-19T23:56:58.2168064+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:58:11.6306206+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:09:43.3629927+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:57:54.5648276+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:09:04.7901363+00:00"
 }

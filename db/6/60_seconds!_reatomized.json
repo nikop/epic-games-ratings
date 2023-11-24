@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -7463,9 +7463,9 @@
       "ID": "ACH_GOOD_ENDING",
       "SetID": "5nj1ea3",
       "Name": "Rescue time!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH_HARD",
@@ -7704,8 +7704,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-11-17T19:00:10.4063992+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:05:51.7937833+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:04:44.4472623+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:34.1034181+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:00:15.0976243+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:05:51.793886+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:59:18.1816877+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:04:44.4473384+00:00"
 }

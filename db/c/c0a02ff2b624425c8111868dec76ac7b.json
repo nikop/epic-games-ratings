@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "ACH_ADAPTATION_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Adaptation",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ALL_COMBAT_SKILLS",
@@ -280,17 +280,17 @@
       "ID": "ACH_BIPOLAR_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Duality",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
@@ -423,8 +423,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:07:19.1523057+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:05:43.9631619+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:57:33.4707512+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:07:19.1523213+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:57:29.8027837+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:05:43.9631783+00:00"
 }

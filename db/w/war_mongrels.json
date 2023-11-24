@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -2300,9 +2300,9 @@
       "ID": "ACH_COLL_CH01",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter I",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -2396,9 +2396,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 397
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2652,8 +2652,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-18T22:59:33.9450808+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:09:54.6589199+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:09:12.3252632+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.3118815+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:59:49.9749317+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:09:54.6589699+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:59:00.6981717+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:09:12.3253033+00:00"
 }

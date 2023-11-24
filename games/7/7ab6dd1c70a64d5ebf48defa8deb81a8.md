@@ -19,8 +19,8 @@
 | Tributes of Caladrias | 6.00% | ~13 |
 | Big Bazar | 6.00% | ~13 |
 | Calm before the Storm | 5.00% | ~11 |
-| Shatter Them All | 4.00% | ~8 |
-| Fine Feathers Make Fine Birds | 4.00% | ~8 |
+| Shatter Them All | 4.00% | ~9 |
+| Fine Feathers Make Fine Birds | 4.00% | ~9 |
 | To Battle | 3.00% | ~6 |
 | Godslayer | 3.00% | ~6 |
 | The Mentor | 3.00% | ~6 |
@@ -41,7 +41,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 382)  
+Progressed: 213 (Ranked 382)  
 Completed: 2 (0.94%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 2 (0.94%) (Ranked 168)
 | 2023-11-21 | 197 | 1 |
 | 2023-11-22 | 203 | 2 |
 | 2023-11-23 | 204 | 2 |
-| 2023-11-24 | 212 | 2 |
+| 2023-11-24 | 213 | 2 |

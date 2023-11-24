@@ -24,9 +24,9 @@ Rating: 4.67 (Ranked 274)
 | Ups and Downs | 20.00% | ~1,178 |
 | Crucial Combo | 19.00% | ~1,119 |
 | Reuse | 17.00% | ~1,002 |
+| Proving Them Wrong | 17.00% | ~1,002 |
 | Gathering Dust | 16.00% | ~943 |
 | One for the Book | 16.00% | ~943 |
-| Proving Them Wrong | 16.00% | ~943 |
 | Oil and Water | 15.00% | ~884 |
 | Hitting a Bullseye | 14.00% | ~825 |
 | Eagle Eye | 13.00% | ~766 |

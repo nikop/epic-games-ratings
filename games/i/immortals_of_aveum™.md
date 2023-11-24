@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.07 (Ranked 976)  
+Rating: 4.07 (Ranked 975)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,14 +9,14 @@ Rating: 4.07 (Ranked 976)
 | Battlefields Have Memories | 88.00% | ~264 |
 | Enlisted | 85.00% | ~255 |
 | Maybe Engage a Little | 81.00% | ~243 |
-| No More Names | 69.00% | ~207 |
+| No More Names | 70.00% | ~210 |
 | Initiate | 56.00% | ~168 |
 | Thrada-Kul | 51.00% | ~153 |
 | Gravity-Challenged Rocks | 42.00% | ~126 |
-| Soldier | 34.00% | ~102 |
+| Soldier | 35.00% | ~105 |
 | All the Major Food Groups | 34.00% | ~102 |
-| Beggars Would Ride | 30.00% | ~90 |
-| Socialite | 29.00% | ~87 |
+| Beggars Would Ride | 31.00% | ~93 |
+| Socialite | 30.00% | ~90 |
 | Control is an Illusion | 28.00% | ~84 |
 | The Means to Save It | 23.00% | ~69 |
 | Resilience to Sin | 21.00% | ~63 |
@@ -24,7 +24,7 @@ Rating: 4.07 (Ranked 976)
 | Periapt Alizarin | 21.00% | ~63 |
 | Geas Aristeya | 20.00% | ~60 |
 | A Perfect Cycle | 18.00% | ~54 |
-| Recruit | 17.00% | ~51 |
+| Recruit | 18.00% | ~54 |
 | Armsman | 17.00% | ~51 |
 | Lights Army | 12.00% | ~36 |
 | Good Boy | 12.00% | ~36 |

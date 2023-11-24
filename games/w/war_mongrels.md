@@ -7,7 +7,7 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~435 |
-| Cowardice | 61.00% | ~390 |
+| Cowardice | 62.00% | ~397 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~301 |
 | Eat Lead! | 45.00% | ~288 |
 | The Breaking Point | 44.00% | ~282 |
@@ -17,8 +17,8 @@ Number of Ratings: 34  (23.09.2022)
 | Treasure Hunter | 38.00% | ~243 |
 | The Motivation | 38.00% | ~243 |
 | Heroism | 36.00% | ~230 |
+| Collectibles of Chapter I | 34.00% | ~218 |
 | Missing in Action | 34.00% | ~218 |
-| Collectibles of Chapter I | 33.00% | ~211 |
 | King of Knives | 33.00% | ~211 |
 | Consequences | 32.00% | ~205 |
 | Opportunities | 31.00% | ~198 |

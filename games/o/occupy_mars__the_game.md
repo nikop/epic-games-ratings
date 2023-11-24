@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 4.03 (Ranked 993)  
+Rating: 4.03 (Ranked 992)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,8 +30,8 @@ Rating: 4.03 (Ranked 993)
 | Explosive Miner | 2.00% | ~35 |
 | Planetary Defence | 2.00% | ~35 |
 | Rocket Jump | 2.00% | ~35 |
-| Thunderstruck | 2.00% | ~35 |
 | Caveman | 1.00% | ~17 |
+| Thunderstruck | 1.00% | ~17 |
 | One does not simply... | 0.90% | ~16 |
 | 5G Network | 0.80% | ~14 |
 | Rover Mechanic | 0.50% | ~9 |
@@ -54,7 +54,7 @@ Rating: 4.03 (Ranked 993)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,733 (Ranked 233)  
+Progressed: 1,734 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-19 | 1,721 | 0 |
 | 2023-11-22 | 1,726 | 0 |
 | 2023-11-23 | 1,730 | 0 |
-| 2023-11-24 | 1,733 | 0 |
+| 2023-11-24 | 1,734 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

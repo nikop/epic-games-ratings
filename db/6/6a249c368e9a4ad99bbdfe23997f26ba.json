@@ -4,8 +4,8 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2023-05-03T15:00:00+00:00",
@@ -567,9 +567,9 @@
       "ID": "A2",
       "SetID": "7f5j12l",
       "Name": "Level 2 Completed",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A20",
@@ -599,9 +599,9 @@
       "ID": "A23",
       "SetID": "7f5j12l",
       "Name": "Pyramids Destroyed",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A24",
@@ -758,8 +758,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:06:34.83284+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:05:12.8257238+00:00",
   "LastUpdate_AppInfo": "2023-11-21T10:03:49.5206967+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:59:03.4457522+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:06:34.8328653+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:58:28.7939798+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:05:12.8257445+00:00"
 }

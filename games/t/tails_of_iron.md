@@ -9,7 +9,7 @@ Rating: 4.55 (Ranked 506)
 | Become King | 74.00% | ~1,531 |
 | Defeat 25 Frogs | 63.00% | ~1,303 |
 | Ranged Weapon | 62.00% | ~1,283 |
-| Collect Monster Parts | 58.00% | ~1,200 |
+| Collect Monster Parts | 59.00% | ~1,221 |
 | Two Handed Weapon | 57.00% | ~1,179 |
 | Defeat 25 Grubs | 53.00% | ~1,097 |
 | Rescue Redgi's Brothers | 53.00% | ~1,097 |
@@ -37,7 +37,7 @@ Rating: 4.55 (Ranked 506)
 | A new Warchief rises | 0.80% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,069 (Ranked 223)  
-Completed: 9 (0.43%) (Ranked 215)  
+Completed: 9 (0.43%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

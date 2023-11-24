@@ -14,6 +14,7 @@
 | Tap Dancing | 50.00% | ~4 |
 | Right between the eyes | 50.00% | ~4 |
 | MAX LEVEL | 50.00% | ~4 |
+| The Gang prevails | 38.00% | ~3 |
 | Oo-De-Lally | 38.00% | ~3 |
 | Finish Him! | 38.00% | ~3 |
 | Locksley's Tears | 38.00% | ~3 |
@@ -28,18 +29,17 @@
 | Brilliant Executioner | 25.00% | ~2 |
 | King of the Iron Fist | 25.00% | ~2 |
 | Ultra Combo | 25.00% | ~2 |
-| The Gang prevails | 25.00% | ~2 |
+| Bold and Bossy | 25.00% | ~2 |
+| Power of Friendship! | 25.00% | ~2 |
 | Five of Friends | 25.00% | ~2 |
 | Hidden Experiment | 25.00% | ~2 |
+| Into the Lion's Den | 25.00% | ~2 |
+| Haute Couture | 25.00% | ~2 |
 | Ascending Will | 13.00% | ~1 |
-| Bold and Bossy | 13.00% | ~1 |
-| Power of Friendship! | 13.00% | ~1 |
 | Out of the ring | 13.00% | ~1 |
 | The Crowkiller | 13.00% | ~1 |
 | A Gest of Robyn Hode | 13.00% | ~1 |
-| Into the Lion's Den | 13.00% | ~1 |
 | Money can not buy happiness | 13.00% | ~1 |
-| Haute Couture | 13.00% | ~1 |
 | No Mercy | 0.00% | ~0 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |

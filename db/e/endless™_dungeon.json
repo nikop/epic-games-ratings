@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1174,
+  "EOS_Progressed": 1175,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -1985,6 +1985,11 @@
       "Time": "2023-11-24T20:08:12.7531527+00:00",
       "NumProgressed": 1174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T22:08:24.4512876+00:00",
+      "NumProgressed": 1175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2013,7 +2018,7 @@
       "Name": "Turret Syndrome",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_BIOGRAPHER",
@@ -2053,7 +2058,7 @@
       "Name": "Pest Control",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -2077,7 +2082,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2093,7 +2098,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -2236,14 +2241,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1174,
+      "Progressed": 1175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:08:46.0117133+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:08:24.4512874+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.2825313+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:58:16.8537078+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:08:46.0117434+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:57:57.9519036+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:08:24.4513115+00:00"
 }

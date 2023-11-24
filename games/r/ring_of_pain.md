@@ -23,29 +23,29 @@ Number of Ratings: 15,086  (23.09.2022)
 | An Offering | 0.40% | ~961 |
 | Expensive Look | 0.40% | ~7 |
 | What Doesn't Kill You | 0.40% | ~7 |
-| Ambitious Intent | 0.30% | ~720 |
-| Nothing To Lose | 0.30% | ~720 |
-| Consecutive Curses | 0.30% | ~720 |
-| Delving Deeper | 0.30% | ~720 |
-| R.I.P | 0.30% | ~720 |
-| Dig Your Own Grave | 0.30% | ~720 |
-| Who To Trust? | 0.30% | ~720 |
-| Walk It Off | 0.30% | ~720 |
-| Cold Hearted | 0.30% | ~720 |
-| I Am Overburdened | 0.30% | ~720 |
-| Destroy Your Fears | 0.30% | ~720 |
-| The Bestiary | 0.30% | ~720 |
-| Heartless | 0.30% | ~720 |
-| What's Yours Is Mine | 0.30% | ~720 |
-| Spine Breaker | 0.30% | ~720 |
-| Shootout | 0.30% | ~720 |
-| C-C-Combo | 0.30% | ~720 |
-| Stone Touch | 0.30% | ~720 |
-| Toxic | 0.30% | ~720 |
-| Sneaky | 0.30% | ~720 |
-| Shadow Walker | 0.30% | ~720 |
-| Flesh Wound | 0.30% | ~720 |
-| Shapeshifting | 0.30% | ~720 |
+| Ambitious Intent | 0.30% | ~721 |
+| Nothing To Lose | 0.30% | ~721 |
+| Consecutive Curses | 0.30% | ~721 |
+| Delving Deeper | 0.30% | ~721 |
+| R.I.P | 0.30% | ~721 |
+| Dig Your Own Grave | 0.30% | ~721 |
+| Who To Trust? | 0.30% | ~721 |
+| Walk It Off | 0.30% | ~721 |
+| Cold Hearted | 0.30% | ~721 |
+| I Am Overburdened | 0.30% | ~721 |
+| Destroy Your Fears | 0.30% | ~721 |
+| The Bestiary | 0.30% | ~721 |
+| Heartless | 0.30% | ~721 |
+| What's Yours Is Mine | 0.30% | ~721 |
+| Spine Breaker | 0.30% | ~721 |
+| Shootout | 0.30% | ~721 |
+| C-C-Combo | 0.30% | ~721 |
+| Stone Touch | 0.30% | ~721 |
+| Toxic | 0.30% | ~721 |
+| Sneaky | 0.30% | ~721 |
+| Shadow Walker | 0.30% | ~721 |
+| Flesh Wound | 0.30% | ~721 |
+| Shapeshifting | 0.30% | ~721 |
 | Thank You, Friend | 0.20% | ~480 |
 | Shadow Spreads | 0.20% | ~480 |
 | Max Damage! | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,166 (Ranked 62)  
+Progressed: 240,170 (Ranked 62)  
 Completed: 290 (0.12%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 290 (0.12%) (Ranked 276)
 | 2023-11-21 | 240,034 | 290 |
 | 2023-11-22 | 240,077 | 290 |
 | 2023-11-23 | 240,120 | 290 |
-| 2023-11-24 | 240,166 | 290 |
+| 2023-11-24 | 240,170 | 290 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 132)  
 Sum: 11,691 (Ranked 84)  

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/b/blazing_sails.json)  
 Rating: 3.93 (Ranked 1,018)  
 ## Awards
-Max (Highly Recommended): 375  (Ranked 236)  
-Sum: 2,669 (Ranked 185)  
-Diff (max vs sum): 51  
+Max (Highly Recommended): 381  (Ranked 234)  
+Sum: 2,675 (Ranked 185)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 375 |
+| This game is Highly Recommended | 381 |
 | This game has Competitive Players | 365 |
 | This game is Extremely Fun | 357 |
 | This game has Quickly Understood Controls | 329 |
@@ -63,4 +63,4 @@ Diff (max vs sum): 51
 | 2023-11-21 | 3.92 | 365 | 2,584 |
 | 2023-11-22 | 3.93 | 371 | 2,613 |
 | 2023-11-23 | 3.93 | 375 | 2,652 |
-| 2023-11-24 | 3.93 | 375 | 2,669 |
+| 2023-11-24 | 3.93 | 381 | 2,675 |

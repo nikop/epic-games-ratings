@@ -4,11 +4,11 @@
   "ProductSlug": "ancient-enemy",
   "Ranking_Rating": 1010,
   "Ranking_Popularity": 447,
-  "Ranking_PopularitySum": 400,
+  "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2020-04-09T16:00:00+00:00",
@@ -792,6 +792,6 @@
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
   "LastChanged": "2023-11-05T09:57:52.1074536+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:15.5879287+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:00:36.6273269+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:05:25.5840873+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:59:32.0779859+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:04:26.1239168+00:00"
 }

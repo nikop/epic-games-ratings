@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 535,
+  "EOS_Progressed": 538,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1112,6 +1112,11 @@
       "Time": "2023-11-24T21:06:43.7083031+00:00",
       "NumProgressed": 535,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T22:05:19.1832863+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1132,7 +1137,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1140,7 +1145,7 @@
       "Name": "Chosen Victor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -1180,15 +1185,15 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 387
     },
     {
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "CompleteChapter11",
@@ -1220,7 +1225,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CompleteChapter15",
@@ -1268,7 +1273,7 @@
       "Name": "Met the Enemy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 291
     },
     {
       "ID": "CompleteChapter3",
@@ -1276,7 +1281,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "CompleteChapter4",
@@ -1284,7 +1289,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "CompleteChapter5",
@@ -1292,7 +1297,7 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "CompleteChapter6",
@@ -1316,7 +1321,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CompleteChapter9",
@@ -1372,7 +1377,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1396,7 +1401,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1419,14 +1424,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 535,
+      "Progressed": 538,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:06:43.7083026+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:05:19.183286+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:59:13.3842638+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:06:43.7083337+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:58:35.4896374+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:05:19.1833117+00:00"
 }

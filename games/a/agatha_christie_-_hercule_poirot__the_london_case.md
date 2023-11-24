@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 77.00% | ~24 |
-| Marc Allard | 77.00% | ~24 |
-| The Ship | 74.00% | ~23 |
-| Seeking the truth | 65.00% | ~20 |
-| An old friend | 61.00% | ~19 |
-| The Gala | 58.00% | ~18 |
-| A curious gathering | 58.00% | ~18 |
-| Little grey cells | 55.00% | ~17 |
-| Impossible is possible | 55.00% | ~17 |
-| The Missing Magdalene | 55.00% | ~17 |
-| Arthur Hastings | 55.00% | ~17 |
-| Everything matters | 48.00% | ~15 |
-| Order and method | 48.00% | ~15 |
-| An expert mediator | 45.00% | ~14 |
-| DI Hardwicke | 45.00% | ~14 |
-| Betty Allen | 35.00% | ~11 |
-| The Investigation Begins | 35.00% | ~11 |
-| An odd series of events | 29.00% | ~9 |
-| Ms. Camilla B. Culsham | 29.00% | ~9 |
-| Irene Court-Smyth | 29.00% | ~9 |
-| The Apartment | 29.00% | ~9 |
-| A rude awakening | 26.00% | ~8 |
-| Nathaniel Dryden | 26.00% | ~8 |
-| Well-acquainted | 23.00% | ~7 |
-| Truth from within | 23.00% | ~7 |
-| Anastasia Babanin | 23.00% | ~7 |
-| Zakariya Demir | 23.00% | ~7 |
-| Bartholomew | 23.00% | ~7 |
-| The Scheme | 23.00% | ~7 |
+| Little ideas | 75.00% | ~24 |
+| Marc Allard | 75.00% | ~24 |
+| The Ship | 72.00% | ~23 |
+| Seeking the truth | 63.00% | ~20 |
+| An old friend | 59.00% | ~19 |
+| The Gala | 56.00% | ~18 |
+| A curious gathering | 56.00% | ~18 |
+| Little grey cells | 53.00% | ~17 |
+| Impossible is possible | 53.00% | ~17 |
+| The Missing Magdalene | 53.00% | ~17 |
+| Arthur Hastings | 53.00% | ~17 |
+| Everything matters | 47.00% | ~15 |
+| Order and method | 47.00% | ~15 |
+| An expert mediator | 44.00% | ~14 |
+| DI Hardwicke | 44.00% | ~14 |
+| Betty Allen | 34.00% | ~11 |
+| The Investigation Begins | 34.00% | ~11 |
+| An odd series of events | 28.00% | ~9 |
+| Ms. Camilla B. Culsham | 28.00% | ~9 |
+| Irene Court-Smyth | 28.00% | ~9 |
+| The Apartment | 28.00% | ~9 |
+| A rude awakening | 25.00% | ~8 |
+| Nathaniel Dryden | 25.00% | ~8 |
+| Well-acquainted | 22.00% | ~7 |
+| Truth from within | 22.00% | ~7 |
+| Anastasia Babanin | 22.00% | ~7 |
+| Zakariya Demir | 22.00% | ~7 |
+| Bartholomew | 22.00% | ~7 |
+| The Scheme | 22.00% | ~7 |
 | A curious phrase | 19.00% | ~6 |
 | Well-travelled | 16.00% | ~5 |
 | A peculiar fellow | 16.00% | ~5 |
@@ -48,11 +48,11 @@
 | The Penitent Magdalene | 13.00% | ~4 |
 | A true performance | 13.00% | ~4 |
 | Johan Kristiansen | 13.00% | ~4 |
-| Perkins | 10.00% | ~3 |
+| Perkins | 9.00% | ~3 |
 | A perilous journey | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 527)  
-Completed: 1 (3.23%) (Ranked 96)  
+Progressed: 32 (Ranked 524)  
+Completed: 1 (3.12%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,3 +82,4 @@ Completed: 1 (3.23%) (Ranked 96)
 | 2023-11-01 | 29 | 1 |
 | 2023-11-12 | 30 | 1 |
 | 2023-11-20 | 31 | 1 |
+| 2023-11-24 | 32 | 1 |

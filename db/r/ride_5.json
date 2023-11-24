@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2261,
+  "EOS_Progressed": 2262,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -5337,6 +5337,11 @@
       "Time": "2023-11-24T21:10:18.0268496+00:00",
       "NumProgressed": 2261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T22:09:29.2130082+00:00",
+      "NumProgressed": 2262,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5349,7 +5354,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5365,7 +5370,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5637,7 +5642,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5645,15 +5650,15 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 543
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5740,14 +5745,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2261,
+      "Progressed": 2262,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:10:18.0268493+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:09:29.2130077+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:58:10.8796868+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:10:18.026906+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:57:54.159681+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:09:29.2130666+00:00"
 }

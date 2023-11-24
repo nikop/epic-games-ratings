@@ -2,10 +2,10 @@
   "ID": "0904b974619a436ebc70ec7a374572d8",
   "Name": "Picklock",
   "ProductSlug": "picklock-33eab8",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -297,9 +297,9 @@
       "ID": "ach_picklock24",
       "SetID": "753ghg2",
       "Name": "Shadow",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_picklock3",
@@ -368,8 +368,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:09:50.342333+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:09:09.4591383+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:18.3013152+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:57:52.3527282+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:09:50.3423475+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:57:41.9741814+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:09:09.4591513+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -332,9 +332,9 @@
       "ID": "2",
       "SetID": "6bgoh8g",
       "Name": "I do not like your face, Mr Ratchett",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "20",
@@ -396,9 +396,9 @@
       "ID": "27",
       "SetID": "6bgoh8g",
       "Name": "Dessert Connoisseur!",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "3",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-24T21:06:27.291947+00:00",
+  "LastChanged_Achievements": "2023-11-24T22:05:09.4119449+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:19:11.5878853+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:59:45.2965596+00:00",
-  "LastUpdate_Achievements": "2023-11-24T21:06:27.2919666+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:58:57.8083314+00:00",
+  "LastUpdate_Achievements": "2023-11-24T22:05:09.4119596+00:00"
 }
