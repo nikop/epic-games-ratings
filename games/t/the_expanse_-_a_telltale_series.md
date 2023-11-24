@@ -6,9 +6,9 @@ Rating: 4.56 (Ranked 491)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 10.00% | ~1,537 |
+| Bosmang | 6.00% | ~922 |
 | The Pit and the Pirates | 5.00% | ~768 |
 | Drone Dodger | 5.00% | ~768 |
-| Bosmang | 5.00% | ~768 |
 | Captain Drummer | 5.00% | ~768 |
 | Celebrations are in Order | 5.00% | ~768 |
 | Impossible Objects | 5.00% | ~768 |
@@ -34,14 +34,14 @@ Rating: 4.56 (Ranked 491)
 | Brother's Reaper | 0.80% | ~123 |
 | No Belter Left Behind | 0.80% | ~123 |
 | Debris Spree | 0.70% | ~108 |
-| Data Recoverer | 0.60% | ~92 |
+| Data Recoverer | 0.70% | ~108 |
 | Urshanabi Hoarder | 0.40% | ~61 |
 | Data Miner | 0.20% | ~31 |
 | Grave Robber | 0.20% | ~31 |
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,368 (Ranked 152)  
+Progressed: 15,370 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-21 | 15,203 | 35 |
 | 2023-11-22 | 15,266 | 35 |
 | 2023-11-23 | 15,346 | 35 |
-| 2023-11-24 | 15,368 | 35 |
+| 2023-11-24 | 15,370 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

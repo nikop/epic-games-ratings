@@ -2382,9 +2382,9 @@
       "ID": "ACH_GOLDEN_EGGS_ALL",
       "SetID": "7k95e4n",
       "Name": "Aesop\u0027s fable",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -2470,9 +2470,9 @@
       "ID": "ACH_STAR_3",
       "SetID": "7k95e4n",
       "Name": "Still more work ahead",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_STAR_4",
@@ -2527,8 +2527,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-06T04:59:47.279974+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:03:11.0023626+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:03:42.8146077+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.1971937+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:58:33.6414968+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:03:11.0024071+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:59:38.3279592+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:03:42.8146349+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -5548,9 +5548,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 715299,
+  "EOS_Progressed": 715300,
   "EOS_Completed": 6496,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1130,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -29123,6 +29123,11 @@
       "Time": "2023-11-24T07:09:04.6782855+00:00",
       "NumProgressed": 715299,
       "NumCompleted": 6496
+    },
+    {
+      "Time": "2023-11-24T08:09:44.9882809+00:00",
+      "NumProgressed": 715300,
+      "NumCompleted": 6496
     }
   ],
   "TotalAchievements": 49,
@@ -29190,7 +29195,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 371955
+      "UsersEstimate": 371956
     },
     {
       "ID": "AchClearAsphodel",
@@ -29198,7 +29203,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 565086
+      "UsersEstimate": 565087
     },
     {
       "ID": "AchClearElysium",
@@ -29206,7 +29211,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 472097
+      "UsersEstimate": 472098
     },
     {
       "ID": "AchClearElysiumEM",
@@ -29238,7 +29243,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 636616
+      "UsersEstimate": 636617
     },
     {
       "ID": "AchCrushedThanatos",
@@ -29302,7 +29307,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 479250
+      "UsersEstimate": 479251
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -29358,7 +29363,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 443485
+      "UsersEstimate": 443486
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -29494,7 +29499,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 500709
+      "UsersEstimate": 500710
     },
     {
       "ID": "AchWeaponClears",
@@ -29525,15 +29530,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 715299,
+      "Progressed": 715300,
       "Completed": 6496
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-11-24T06:00:03.6335646+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:09:04.678285+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:09:44.9882805+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:59.2392385+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:59:15.0723422+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:09:04.6784325+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:00:43.5880933+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:09:44.9883902+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4767,9 +4767,9 @@
       "Count": 496
     }
   ],
-  "EOS_Progressed": 91478,
+  "EOS_Progressed": 91482,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26292,6 +26292,11 @@
       "Time": "2023-11-24T07:05:40.8590489+00:00",
       "NumProgressed": 91478,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-24T08:07:17.2280758+00:00",
+      "NumProgressed": 91482,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26341,9 +26346,9 @@
       "ID": "ACH_0015",
       "SetID": "3kam13l",
       "Name": "Legend Looter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_0016",
@@ -26630,13 +26635,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91478,
+      "Progressed": 91482,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19825,
+      "Progressed": 19829,
       "Completed": 15579
     }
   ],
@@ -26644,8 +26649,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-23T13:04:42.7626159+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:05:40.8590485+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:07:17.2280753+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:59:24.51191+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:05:40.8591705+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:00:58.0380998+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:07:17.228234+00:00"
 }

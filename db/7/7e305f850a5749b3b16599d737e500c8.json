@@ -851,9 +851,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Dust_fighter",
@@ -867,9 +867,9 @@
       "ID": "Engineer",
       "SetID": "b7i210",
       "Name": "Engineer",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "Express_home_delivery",
@@ -883,9 +883,9 @@
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "Fixer",
@@ -899,25 +899,25 @@
       "ID": "Florist",
       "SetID": "b7i210",
       "Name": "Florist",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Liberator",
@@ -963,9 +963,9 @@
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Tower_builder",
@@ -994,8 +994,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:04:04.3656772+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:04:59.6233949+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:59:42.1337498+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:04:04.3656912+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:01:26.3827975+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:04:59.6234106+00:00"
 }

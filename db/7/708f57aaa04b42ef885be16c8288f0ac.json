@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6170,
+  "EOS_Progressed": 6172,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4293,6 +4293,11 @@
       "Time": "2023-11-24T07:09:06.5415594+00:00",
       "NumProgressed": 6170,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T08:09:47.4355067+00:00",
+      "NumProgressed": 6172,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4311,9 +4316,9 @@
       "ID": "BabySteps",
       "SetID": "acc6ea0",
       "Name": "Baby Steps",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 987
+      "UsersEstimate": 1049
     },
     {
       "ID": "BeLikeWater",
@@ -4449,7 +4454,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "NoMoreTotems",
@@ -4457,7 +4462,7 @@
       "Name": "No More Totems",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4529,7 +4534,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -4576,7 +4581,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6170,
+      "Progressed": 6172,
       "Completed": 7
     }
   ],
@@ -4584,8 +4589,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-23T21:59:45.7390093+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:09:06.541559+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:09:47.4355062+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:59:51.1904021+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:09:06.5415976+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:01:40.962627+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:09:47.4355572+00:00"
 }

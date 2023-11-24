@@ -20,9 +20,9 @@ Rating: 4.38 (Ranked 764)
 | Moving up | 42.00% | ~478 |
 | No need to call anyone | 40.00% | ~455 |
 | Big fortune | 33.00% | ~375 |
-| Still more work ahead | 30.00% | ~341 |
+| Still more work ahead | 31.00% | ~352 |
+| Aesop's fable | 29.00% | ~330 |
 | Kaboom | 28.00% | ~318 |
-| Aesop's fable | 28.00% | ~318 |
 | Hotel sleuthing | 28.00% | ~318 |
 | Nearly there | 26.00% | ~296 |
 | Broken heart | 24.00% | ~273 |

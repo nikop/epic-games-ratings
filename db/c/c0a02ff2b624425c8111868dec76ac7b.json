@@ -2,9 +2,9 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
       "Time": "2023-11-24T04:05:28.6358625+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T08:07:08.6734902+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -251,9 +256,9 @@
       "ID": "ACH_DARK_PALADIN_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Dark Paladin",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -293,7 +298,7 @@
       "Name": "Absorption",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -347,7 +352,7 @@
       "ID": "ACH_UNDERSTANDINGS",
       "SetID": "cagp2pi",
       "Name": "Understandings",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -372,14 +377,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:05:34.9832024+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:07:08.6734897+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.2590305+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:57:08.5723916+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:05:34.9832226+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:57:27.6273463+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:07:08.6735021+00:00"
 }

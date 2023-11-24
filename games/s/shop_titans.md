@@ -10,8 +10,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 5.00% | ~7,067 |
 | Tinkle of Coins | 5.00% | ~7,067 |
 | Titan's First Steps | 5.00% | ~7,067 |
-| Disintermediation | 4.00% | ~5,653 |
-| Capitalism Ho! | 4.00% | ~5,653 |
+| Disintermediation | 4.00% | ~5,654 |
+| Capitalism Ho! | 4.00% | ~5,654 |
 | One Easy Payment | 3.00% | ~4,240 |
 | Some Assembly Required | 3.00% | ~4,240 |
 | Another Satisfied Customer | 3.00% | ~4,240 |
@@ -68,6 +68,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.90% | ~1,272 |
 | Above the Norm | 0.90% | ~1,272 |
 | A Ronin Reborn | 0.90% | ~1,272 |
+| Archivist | 0.90% | ~1,272 |
 | Omae wa Mou Shindeiru | 0.90% | ~1,272 |
 | Master of Transmutation | 0.90% | ~1,272 |
 | Supercharged | 0.90% | ~1,272 |
@@ -90,7 +91,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.80% | ~1,131 |
 | Thirst for Knowledge | 0.80% | ~1,131 |
 | Booty by the Boatload | 0.80% | ~1,131 |
-| Archivist | 0.80% | ~1,131 |
 | Fillin' the Bin | 0.80% | ~1,131 |
 | Industrial Evolution | 0.80% | ~1,131 |
 | Ritualist | 0.80% | ~1,131 |
@@ -99,28 +99,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | Precision Engineering | 0.80% | ~1,131 |
 | Moment of Respite | 0.80% | ~1,131 |
 | King's Shadow | 0.80% | ~1,131 |
-| Economy of Scarce | 0.70% | ~989 |
+| Economy of Scarce | 0.80% | ~1,131 |
 | Thank You Tom Nook | 0.60% | ~848 |
 | Jackpot! | 0.60% | ~848 |
 | Eternal Crusade | 0.60% | ~848 |
 | All Accounted For | 0.60% | ~848 |
 | The Free Encyclopedia | 0.50% | ~707 |
+| All or Nothing! | 0.50% | ~707 |
 | The Greatest Grind | 0.40% | ~565 |
-| All or Nothing! | 0.40% | ~565 |
 | Marvels from the World Over | 0.40% | ~565 |
 | Bane of Legends | 0.30% | ~424 |
 | Ultimate Collector | 0.30% | ~424 |
+| Oligarch Monarch | 0.30% | ~424 |
 | Unleashed Potential | 0.30% | ~424 |
 | JACKPOT!!! | 0.30% | ~424 |
 | Merchant Extraordinaire | 0.30% | ~424 |
 | Anything not Nailed Down | 0.30% | ~424 |
-| Oligarch Monarch | 0.20% | ~283 |
 | To Hell and Back | 0.20% | ~283 |
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,331 (Ranked 80)  
-Completed: 201 (0.14%) (Ranked 270)  
+Progressed: 141,348 (Ranked 80)  
+Completed: 202 (0.14%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,7 +337,7 @@ Completed: 201 (0.14%) (Ranked 270)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,331 | 201 |
+| 2023-11-24 | 141,348 | 202 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,585 (Ranked 50)  

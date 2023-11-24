@@ -18,12 +18,12 @@
 | So soothing... | 32.00% | ~26 |
 | Roostwig has entered the building | 32.00% | ~26 |
 | Mystery solved | 30.00% | ~25 |
+| GG | 30.00% | ~25 |
 | Sorry Grandpa | 30.00% | ~25 |
-| GG | 29.00% | ~24 |
+| You've got mail! | 29.00% | ~24 |
 | Far away from home | 29.00% | ~24 |
 | NOW GO AWAY! | 29.00% | ~24 |
 | Shattered | 28.00% | ~23 |
-| You've got mail! | 28.00% | ~23 |
 | Mischief maker | 28.00% | ~23 |
 | Show me your true self | 27.00% | ~22 |
 | Beekeeper | 27.00% | ~22 |

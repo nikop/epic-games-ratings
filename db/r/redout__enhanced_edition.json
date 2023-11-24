@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236074,
+  "EOS_Progressed": 236075,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 1,
@@ -23227,6 +23227,11 @@
       "Time": "2023-11-24T07:04:28.2520202+00:00",
       "NumProgressed": 236074,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-24T08:05:34.1047925+00:00",
+      "NumProgressed": 236075,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23374,7 +23379,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77904
+      "UsersEstimate": 77905
     },
     {
       "ID": "NOBUNAGA",
@@ -23422,7 +23427,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "QAREEN",
@@ -23438,7 +23443,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -23446,7 +23451,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "SHOWOFF",
@@ -23502,22 +23507,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96790
+      "UsersEstimate": 96791
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236074,
+      "Progressed": 236075,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:04:28.2520199+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:05:34.1047909+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8860637+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:59:30.2755493+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:04:28.2521461+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:01:07.4222896+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:05:34.1049078+00:00"
 }

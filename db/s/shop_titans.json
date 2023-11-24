@@ -7177,10 +7177,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 141331,
-  "EOS_Completed": 201,
-  "EOS_NewPlayers": 1180,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 141348,
+  "EOS_Completed": 202,
+  "EOS_NewPlayers": 1189,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -29642,6 +29642,11 @@
       "Time": "2023-11-24T07:06:31.5875217+00:00",
       "NumProgressed": 141331,
       "NumCompleted": 201
+    },
+    {
+      "Time": "2023-11-24T08:08:30.7306789+00:00",
+      "NumProgressed": 141348,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 112,
@@ -29859,9 +29864,9 @@
       "ID": "collection03",
       "SetID": "anfd17p",
       "Name": "Archivist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1272
     },
     {
       "ID": "collection04",
@@ -29917,7 +29922,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5653
+      "UsersEstimate": 5654
     },
     {
       "ID": "craft02",
@@ -29947,9 +29952,9 @@
       "ID": "craft05",
       "SetID": "anfd17p",
       "Name": "Oligarch Monarch",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 424
     },
     {
       "ID": "damage01",
@@ -30347,9 +30352,9 @@
       "ID": "masterpiece",
       "SetID": "anfd17p",
       "Name": "All or Nothing!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 707
     },
     {
       "ID": "polonia_a",
@@ -30429,7 +30434,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5653
+      "UsersEstimate": 5654
     },
     {
       "ID": "sell02",
@@ -30507,9 +30512,9 @@
       "ID": "uncommonres03",
       "SetID": "anfd17p",
       "Name": "Economy of Scarce",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 989
+      "UsersEstimate": 1131
     },
     {
       "ID": "workers01",
@@ -30548,15 +30553,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141331,
-      "Completed": 201
+      "Progressed": 141348,
+      "Completed": 202
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-24T01:47:37.4172495+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:06:31.5875213+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:08:30.7306784+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-24T07:02:50.2313298+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:06:31.5877148+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:03:09.3225564+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:08:30.7308929+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 394,
+  "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -352,6 +352,11 @@
       "Time": "2023-11-24T07:06:40.4952872+00:00",
       "NumProgressed": 172,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T08:08:43.3729507+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -370,9 +375,9 @@
       "ID": "CHALLENGE_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Explorer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -418,9 +423,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -428,15 +433,15 @@
       "Name": "Perfect Run",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -444,7 +449,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -452,15 +457,15 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -468,15 +473,15 @@
       "Name": "Unknown Threat",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "FIRST_S_RANK",
@@ -508,7 +513,7 @@
       "Name": "Koco Leader",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -516,7 +521,7 @@
       "Name": "The Beginning",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -554,9 +559,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -572,7 +577,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -676,21 +681,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 174,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:06:40.495287+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:08:43.3729503+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:58:33.2180169+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:06:40.4953091+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:59:37.6077279+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:08:43.372973+00:00"
 }

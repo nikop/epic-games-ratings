@@ -424,17 +424,17 @@
       "ID": "aq_achievement_17",
       "SetID": "7jh86ne",
       "Name": "GG",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "aq_achievement_18",
       "SetID": "7jh86ne",
       "Name": "You\u0027ve got mail!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "aq_achievement_19",
@@ -681,8 +681,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:09:23.5125823+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:10:11.4006176+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.2442322+00:00",
-  "LastUpdate_Ratings": "2023-11-24T07:00:17.5808712+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:09:23.5126024+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:02:21.8705634+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:10:11.4006445+00:00"
 }

@@ -471,9 +471,9 @@
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
       "SetID": "caeik3h",
       "Name": "That\u0027s a strange flower",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
@@ -607,9 +607,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -679,9 +679,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
       "SetID": "caeik3h",
       "Name": "No Survivors I",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
@@ -727,9 +727,9 @@
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
       "SetID": "caeik3h",
       "Name": "You Didn\u0027t See Nothing",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
@@ -775,9 +775,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -903,9 +903,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -982,8 +982,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:05:31.5637394+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:07:03.8754253+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:58:06.9354851+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:05:31.5637983+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:58:57.8733645+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:07:03.8754824+00:00"
 }

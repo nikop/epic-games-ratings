@@ -23,8 +23,8 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 0.90% | ~13 |
 | Thematic Divergence | 0.70% | ~10 |
 | Pyrrhic Victory | 0.70% | ~10 |
+| Turncoat | 0.70% | ~10 |
 | A Story of Heroes | 0.60% | ~9 |
-| Turncoat | 0.60% | ~9 |
 | Another Tale to Tell | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
 | Chain Reaction | 0.40% | ~6 |

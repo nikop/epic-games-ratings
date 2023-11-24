@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 86.00% | ~319 |
 | Thalya – Simply Immortal | 86.00% | ~319 |
-| For the Horde! | 80.00% | ~297 |
+| For the Horde! | 81.00% | ~301 |
 | Hammer Time, Round Two | 79.00% | ~293 |
 | The Hellwoods | 74.00% | ~275 |
 | The Plains of Strothalm | 68.00% | ~252 |
@@ -17,8 +17,8 @@
 | Magic Accidents | 58.00% | ~215 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~215 |
 | Heroes’ Gorge | 58.00% | ~215 |
+| Trap Master | 54.00% | ~200 |
 | Minions, Minions! | 54.00% | ~200 |
-| Trap Master | 53.00% | ~197 |
 | The Ascent | 49.00% | ~182 |
 | It's Warm and Cozy at Home | 49.00% | ~182 |
 | Hard Work | 44.00% | ~163 |
@@ -35,7 +35,7 @@
 | All’s Well That Ends Evil | 25.00% | ~93 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~85 |
 | Master of the Undead | 23.00% | ~85 |
-| Hungry, Hungry Gorgu! | 21.00% | ~78 |
+| Hungry, Hungry Gorgu! | 22.00% | ~82 |
 | The Duel | 21.00% | ~78 |
 | Forbidden Knowledge | 20.00% | ~74 |
 | Ghost Pirates? Ghost Heroes! | 19.00% | ~70 |

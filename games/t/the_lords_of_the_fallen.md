@@ -12,8 +12,8 @@ Rating: 4.19 (Ranked 923)
 | No Mercy | 0.50% | ~9 |
 | Shades of Violence | 0.50% | ~9 |
 | Thriving in Darkness | 0.50% | ~9 |
-| The Past Shapes the Present | 0.40% | ~7 |
-| A Rest Among the Dead | 0.40% | ~7 |
+| The Past Shapes the Present | 0.40% | ~8 |
+| A Rest Among the Dead | 0.40% | ~8 |
 | Vengeance for the Fallen | 0.30% | ~6 |
 | Rise and Fall | 0.30% | ~6 |
 | Together in Death | 0.30% | ~6 |
@@ -69,7 +69,7 @@ Rating: 4.19 (Ranked 923)
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,874 (Ranked 228)  
+Progressed: 1,875 (Ranked 228)  
 Completed: 1 (0.05%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,14 +106,14 @@ Completed: 1 (0.05%) (Ranked 307)
 | 2023-11-21 | 1,696 | 1 |
 | 2023-11-22 | 1,798 | 1 |
 | 2023-11-23 | 1,857 | 1 |
-| 2023-11-24 | 1,874 | 1 |
+| 2023-11-24 | 1,875 | 1 |
 ## Awards
-Max (Character Customization): 169  (Ranked 307)  
-Sum: 310 (Ranked 361)  
+Max (Character Customization): 170  (Ranked 307)  
+Sum: 311 (Ranked 361)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 169 |
+| This game has Inclusive Character Customization | 170 |
 | This game has Great Boss Battles | 121 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -155,3 +155,4 @@ Diff (max vs sum): -54
 | 2023-11-21 | 4.21 | 166 | 286 |
 | 2023-11-22 | 4.19 | 169 | 309 |
 | 2023-11-23 | 4.19 | 169 | 310 |
+| 2023-11-24 | 4.19 | 170 | 311 |

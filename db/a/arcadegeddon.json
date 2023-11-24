@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9707,
+  "EOS_Progressed": 9708,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11855,6 +11855,11 @@
       "Time": "2023-11-24T04:03:22.752895+00:00",
       "NumProgressed": 9707,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T08:04:13.5330241+00:00",
+      "NumProgressed": 9708,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -11866,7 +11871,7 @@
       "Name": "Adventure Time",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 7377
+      "UsersEstimate": 7378
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -11890,7 +11895,7 @@
       "Name": "Clips and Crits",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -12010,7 +12015,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 8542
+      "UsersEstimate": 8543
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -12034,7 +12039,7 @@
       "Name": "Meching Enemies",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -12066,7 +12071,7 @@
       "Name": "Photogenic",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 8154
+      "UsersEstimate": 8155
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -12074,7 +12079,7 @@
       "Name": "Playing With Power",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 7183
+      "UsersEstimate": 7184
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -12106,7 +12111,7 @@
       "Name": "Rapid Response",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -12265,15 +12270,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9707,
+      "Progressed": 9708,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:03:32.0346036+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:04:13.5330237+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:43.4613889+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:58:19.342573+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:03:32.0346762+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:59:17.0633534+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:04:13.5331191+00:00"
 }

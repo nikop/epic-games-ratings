@@ -11,7 +11,7 @@
 | Survivors | 24.00% | ~65 |
 | The Condor | 21.00% | ~57 |
 | The End | 21.00% | ~57 |
-| The Necroevolution | 16.00% | ~43 |
+| The Necroevolution | 16.00% | ~44 |
 | Volcanologist | 15.00% | ~41 |
 | On her own | 14.00% | ~38 |
 | The Alliance | 14.00% | ~38 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~3 |
 | No more mistakes | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271 (Ranked 360)  
+Progressed: 272 (Ranked 360)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,4 +53,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 204 | 0 |
 | 2023-11-22 | 233 | 0 |
 | 2023-11-23 | 262 | 0 |
-| 2023-11-24 | 271 | 0 |
+| 2023-11-24 | 272 | 0 |

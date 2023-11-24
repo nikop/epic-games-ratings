@@ -4,7 +4,7 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2023-11-23T14:09:06.680761+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T08:10:15.2268924+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -267,7 +272,7 @@
       "ID": "CK",
       "SetID": "2621k8c",
       "Name": "Conversation Killer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -283,7 +288,7 @@
       "ID": "Cremation",
       "SetID": "2621k8c",
       "Name": "Cremation",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -291,7 +296,7 @@
       "ID": "Curse",
       "SetID": "2621k8c",
       "Name": "Curse",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -323,7 +328,7 @@
       "ID": "DW",
       "SetID": "2621k8c",
       "Name": "Dim-witted",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -363,9 +368,9 @@
       "ID": "EI",
       "SetID": "2621k8c",
       "Name": "Exceptional intelligence",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Empathy",
@@ -419,7 +424,7 @@
       "ID": "Frivolous",
       "SetID": "2621k8c",
       "Name": "Frivolous",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -427,7 +432,7 @@
       "ID": "GE",
       "SetID": "2621k8c",
       "Name": "Gender equality",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -467,7 +472,7 @@
       "ID": "HH",
       "SetID": "2621k8c",
       "Name": "High Heels",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -499,9 +504,9 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "IWM",
@@ -531,7 +536,7 @@
       "ID": "Indifferent",
       "SetID": "2621k8c",
       "Name": "Indifferent",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -571,7 +576,7 @@
       "ID": "LP",
       "SetID": "2621k8c",
       "Name": "Lazy person",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -579,7 +584,7 @@
       "ID": "LTW",
       "SetID": "2621k8c",
       "Name": "Good Bye",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -595,7 +600,7 @@
       "ID": "LYALBM",
       "SetID": "2621k8c",
       "Name": "Love you a little bit more",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -619,7 +624,7 @@
       "ID": "MB",
       "SetID": "2621k8c",
       "Name": "Movie Buff",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -651,9 +656,9 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Mistress",
@@ -747,7 +752,7 @@
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -755,7 +760,7 @@
       "ID": "Rationality",
       "SetID": "2621k8c",
       "Name": "Rationality",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -763,7 +768,7 @@
       "ID": "Regret",
       "SetID": "2621k8c",
       "Name": "Regret",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -851,7 +856,7 @@
       "ID": "Sneakerhead",
       "SetID": "2621k8c",
       "Name": "Sneakerhead",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -899,7 +904,7 @@
       "ID": "TAAM",
       "SetID": "2621k8c",
       "Name": "Timid as a mouse",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -915,7 +920,7 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -963,7 +968,7 @@
       "ID": "Unreasonable",
       "SetID": "2621k8c",
       "Name": "Unreasonable",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -971,7 +976,7 @@
       "ID": "VG",
       "SetID": "2621k8c",
       "Name": "Virtual Girl",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1004,14 +1009,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-24T07:09:26.3084629+00:00",
+  "LastChanged_Achievements": "2023-11-24T08:10:15.2268917+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.1854671+00:00",
-  "LastUpdate_Ratings": "2023-11-24T06:58:22.6920017+00:00",
-  "LastUpdate_Achievements": "2023-11-24T07:09:26.308562+00:00"
+  "LastUpdate_Ratings": "2023-11-24T07:59:22.1964856+00:00",
+  "LastUpdate_Achievements": "2023-11-24T08:10:15.226968+00:00"
 }
