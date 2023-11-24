@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1053,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2707,9 +2707,9 @@
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 800
+      "UsersEstimate": 811
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -3148,8 +3148,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:05:36.3663456+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:05:51.4437488+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:57:11.7840964+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:05:36.3664253+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:57:38.199871+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:05:51.4438433+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,715 |
-| Biggest Communism Builder | 24.00% | ~31,470 |
-| The World's Most Laughable Centrist | 21.00% | ~27,536 |
+| Goodest Of The Good Cops | 28.00% | ~36,716 |
+| Biggest Communism Builder | 24.00% | ~31,471 |
+| The World's Most Laughable Centrist | 21.00% | ~27,537 |
 | Il Coppo Del'Arte! | 18.00% | ~23,603 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,980 |
 | Hyperstellar Law Official | 16.00% | ~20,980 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,358 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,358 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,046 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,047 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,424 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,113 |
-| Unbelievably Boring **** | 9.00% | ~11,801 |
-| Enemy Of The Physical Realm | 9.00% | ~11,801 |
+| Unbelievably Boring **** | 9.00% | ~11,802 |
+| Enemy Of The Physical Realm | 9.00% | ~11,802 |
 | Hardie's Heroes | 6.00% | ~7,868 |
 | The Lawbringer | 4.00% | ~5,245 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,245 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,126 (Ranked 83)  
+Progressed: 131,128 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,17 +265,17 @@ Completed: 28 (0.02%) (Ranked 328)
 | 2023-11-21 | 131,043 | 28 |
 | 2023-11-22 | 131,081 | 28 |
 | 2023-11-23 | 131,117 | 28 |
-| 2023-11-24 | 131,126 | 28 |
+| 2023-11-24 | 131,128 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 179)  
-Sum: 1,123 (Ranked 252)  
+Sum: 1,124 (Ranked 252)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 737 |
 | This game has Amazing Storytelling | 51 |
 | This game is Educational | 46 |
-| This game is Highly Recommended | 44 |
+| This game is Highly Recommended | 45 |
 | This game has Quickly Understood Controls | 43 |
 | This game has Unique Visuals | 38 |
 | This game is Relaxing | 37 |
@@ -442,3 +442,4 @@ Diff (max vs sum): -73
 | 2023-11-16 | 4.87 | - | 737 | 1,120 |
 | 2023-11-18 | 4.87 | - | 737 | 1,122 |
 | 2023-11-21 | 4.87 | - | 737 | 1,123 |
+| 2023-11-24 | 4.87 | - | 737 | 1,124 |

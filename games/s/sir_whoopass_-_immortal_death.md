@@ -50,9 +50,9 @@
 | Just wing it! | 18.00% | ~24 |
 | Slimy... yet satisfying | 18.00% | ~24 |
 | Deal with it | 17.00% | ~22 |
+| You're looking mozzare-hella good! | 14.00% | ~18 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~18 |
 | Yeehaw!!! | 14.00% | ~18 |
-| You're looking mozzare-hella good! | 13.00% | ~17 |
 | Timber! | 11.00% | ~14 |
 | Free Of Chains | 11.00% | ~14 |
 | Spoiler alert! | 10.00% | ~13 |
@@ -62,10 +62,10 @@
 | I want to throw up! | 8.00% | ~10 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~9 |
 | Scrambled Eggs | 7.00% | ~9 |
+| Ancient Ruins of Leaky Roof | 6.00% | ~8 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~7 |
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~7 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~7 |
-| Ancient Ruins of Leaky Roof | 5.00% | ~7 |
 | Fifty Shades of Gruyere | 4.00% | ~5 |
 | Ancient Ruins of Empty Echoes | 4.00% | ~5 |
 | Ancient Ruins of Vitamin D Addition | 4.00% | ~5 |

@@ -18,25 +18,25 @@
 | So soothing... | 32.00% | ~26 |
 | Roostwig has entered the building | 32.00% | ~26 |
 | Mystery solved | 30.00% | ~25 |
+| Sorry Grandpa | 30.00% | ~25 |
 | GG | 29.00% | ~24 |
 | Far away from home | 29.00% | ~24 |
-| Sorry Grandpa | 29.00% | ~24 |
+| NOW GO AWAY! | 29.00% | ~24 |
 | Shattered | 28.00% | ~23 |
 | You've got mail! | 28.00% | ~23 |
 | Mischief maker | 28.00% | ~23 |
-| NOW GO AWAY! | 28.00% | ~23 |
+| Show me your true self | 27.00% | ~22 |
 | Beekeeper | 27.00% | ~22 |
-| Show me your true self | 26.00% | ~21 |
 | Memories | 26.00% | ~21 |
 | No posters allowed | 26.00% | ~21 |
 | Little genius | 26.00% | ~21 |
 | Pain in the hands | 24.00% | ~20 |
 | Turn the last page | 22.00% | ~18 |
 | Kill it! KILL IT! | 22.00% | ~18 |
+| Close the deal | 21.00% | ~17 |
 | Ring-a-ding-ding | 21.00% | ~17 |
-| Close the deal | 20.00% | ~16 |
+| Bahahahaha... | 20.00% | ~16 |
 | Singstar | 18.00% | ~15 |
-| Bahahahaha... | 18.00% | ~15 |
 | Makeover | 17.00% | ~14 |
 | Cameodalic | 17.00% | ~14 |
 | Clever reference #451 | 15.00% | ~12 |

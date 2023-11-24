@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24769,
+  "EOS_Progressed": 24771,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -23788,6 +23788,11 @@
       "Time": "2023-11-24T04:03:41.7296801+00:00",
       "NumProgressed": 24769,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-11-24T05:03:59.1118047+00:00",
+      "NumProgressed": 24771,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 20,
@@ -23807,7 +23812,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "EAST_FINISHED",
@@ -23855,7 +23860,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -23911,7 +23916,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "INTRO_FINISHED",
@@ -23919,7 +23924,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 19072
+      "UsersEstimate": 19074
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23951,22 +23956,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4458
+      "UsersEstimate": 4459
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24769,
+      "Progressed": 24771,
       "Completed": 471
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:03:41.7296799+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:03:59.1118042+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:57:40.1796521+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:03:41.7298+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:58:05.293493+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:03:59.1119435+00:00"
 }

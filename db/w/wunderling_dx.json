@@ -4,7 +4,7 @@
   "ProductSlug": "wunderling-dx",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-28T15:00:00+00:00",
@@ -383,8 +383,8 @@
   "FirstSeenRating": "2023-03-31T05:58:37.2849807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.9093929+00:00",
   "LastChanged": "2023-03-31T05:58:37.2849808+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:03:35.161915+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:03:52.7744625+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:08.3112429+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:57:38.1256318+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:03:35.1619389+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:58:03.5107794+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:03:52.7744865+00:00"
 }

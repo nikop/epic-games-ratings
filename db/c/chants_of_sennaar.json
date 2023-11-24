@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.12,
   "EosHistory": [
@@ -2850,6 +2850,11 @@
       "Time": "2023-11-24T03:08:20.0089882+00:00",
       "NumProgressed": 683,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-24T05:08:34.5882296+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2941,7 +2946,7 @@
       "Name": "For its own good",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2957,7 +2962,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3005,7 +3010,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3013,7 +3018,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "PROGRESS_N1",
@@ -3029,7 +3034,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "PROGRESS_N3",
@@ -3045,29 +3050,29 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 130
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:07:52.1353869+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:08:34.5882292+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:58:46.1731047+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:07:52.1354152+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:59:07.9515117+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:08:34.5882579+00:00"
 }

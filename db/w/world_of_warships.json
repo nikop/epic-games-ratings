@@ -11227,11 +11227,17 @@
       "Rating": 4.41,
       "NumberOfAwards": 12826,
       "NumberOfAwardsMax": 1533
+    },
+    {
+      "Time": "2023-11-24T04:58:09.5266947+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 12827,
+      "NumberOfAwardsMax": 1534
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12826,
-  "NumberOfAwardsMax": 1533,
+  "NumberOfAwards": 12827,
+  "NumberOfAwardsMax": 1534,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -11292,12 +11298,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1533
+      "Count": 1534
     }
   ],
-  "EOS_Progressed": 56646,
+  "EOS_Progressed": 56653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2152,
+  "EOS_NewPlayers": 2154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23000,6 +23006,11 @@
       "Time": "2023-11-24T04:05:34.2680602+00:00",
       "NumProgressed": 56646,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T05:05:49.407272+00:00",
+      "NumProgressed": 56653,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-18T08:07:13.1799428+00:00",
@@ -23012,7 +23023,7 @@
       "Name": "Battle Hero",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 9063
+      "UsersEstimate": 9064
     },
     {
       "ID": "PCH026",
@@ -23036,7 +23047,7 @@
       "Name": "Amateur",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 17560
+      "UsersEstimate": 17562
     },
     {
       "ID": "PCH029",
@@ -23044,7 +23055,7 @@
       "Name": "Warrior",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7365
     },
     {
       "ID": "PCH030",
@@ -23052,7 +23063,7 @@
       "Name": "Veteran",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3965
+      "UsersEstimate": 3966
     },
     {
       "ID": "PCH031",
@@ -23060,7 +23071,7 @@
       "Name": "Initial Capital",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 37953
+      "UsersEstimate": 37958
     },
     {
       "ID": "PCH032",
@@ -23068,7 +23079,7 @@
       "Name": "Moneybags",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 25491
+      "UsersEstimate": 25494
     },
     {
       "ID": "PCH033",
@@ -23076,7 +23087,7 @@
       "Name": "Business Magnate",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 9630
+      "UsersEstimate": 9631
     },
     {
       "ID": "PCH034",
@@ -23084,7 +23095,7 @@
       "Name": "Naval Warfare. Arson",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 19260
+      "UsersEstimate": 19262
     },
     {
       "ID": "PCH035",
@@ -23092,7 +23103,7 @@
       "Name": "Naval Warfare. Flooding",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "PCH036",
@@ -23100,7 +23111,7 @@
       "Name": "Naval Warfare. Ramming",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 18693
+      "UsersEstimate": 18695
     },
     {
       "ID": "PCH037",
@@ -23108,7 +23119,7 @@
       "Name": "Naval Warfare. Lucky Shot",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 11329
+      "UsersEstimate": 11331
     },
     {
       "ID": "PCH038",
@@ -23116,7 +23127,7 @@
       "Name": "Naval Warfare. Tactics",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 17560
+      "UsersEstimate": 17562
     },
     {
       "ID": "PCH039",
@@ -23124,7 +23135,7 @@
       "Name": "Naval Warfare. Weaponry Basics",
       "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 13029
+      "UsersEstimate": 13030
     },
     {
       "ID": "PCH044",
@@ -23132,7 +23143,7 @@
       "Name": "Junior Naval Designer",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 45317
+      "UsersEstimate": 45322
     },
     {
       "ID": "PCH045",
@@ -23140,7 +23151,7 @@
       "Name": "Naval Constructor",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 17560
+      "UsersEstimate": 17562
     },
     {
       "ID": "PCH046",
@@ -23148,7 +23159,7 @@
       "Name": "Chief Naval Architect",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "PCH064",
@@ -23156,7 +23167,7 @@
       "Name": "Junior Supply Officer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 25491
+      "UsersEstimate": 25494
     },
     {
       "ID": "PCH065",
@@ -23164,7 +23175,7 @@
       "Name": "Supply Officer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7365
     },
     {
       "ID": "PCH066",
@@ -23180,7 +23191,7 @@
       "Name": "Smooth Supply",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7365
     },
     {
       "ID": "PCH070",
@@ -23228,7 +23239,7 @@
       "Name": "Old-Timer",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "PCH100",
@@ -23244,7 +23255,7 @@
       "Name": "Important Missions",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "PCH103",
@@ -23252,7 +23263,7 @@
       "Name": "Special Orders",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "PCH104",
@@ -23284,7 +23295,7 @@
       "Name": "Protector",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "PCH111",
@@ -23340,7 +23351,7 @@
       "Name": "American Cruisers",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "PCH184",
@@ -23363,15 +23374,15 @@
     {
       "ID": "4pi10fc",
       "IsBase": true,
-      "Progressed": 56646,
+      "Progressed": 56653,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2023-11-23T22:57:54.6546563+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:05:34.26806+00:00",
+  "LastChanged": "2023-11-24T04:58:09.5266944+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:05:49.4072715+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:56.5383744+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:57:44.6722917+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:05:34.2681531+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:58:09.526695+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:05:49.4073618+00:00"
 }

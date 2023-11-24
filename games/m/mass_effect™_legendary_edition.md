@@ -17,12 +17,12 @@
 | Turian Ally | 52.00% | ~716 |
 | Medal of Honor | 51.00% | ~702 |
 | Meritorious Service Medal | 51.00% | ~702 |
+| Charismatic | 51.00% | ~702 |
 | Soldier | 50.00% | ~688 |
-| Charismatic | 50.00% | ~688 |
 | Asari Ally | 47.00% | ~647 |
+| Medal of Exploration III | 46.00% | ~633 |
 | Soldier Ally | 46.00% | ~633 |
 | Principled | 46.00% | ~633 |
-| Medal of Exploration III | 45.00% | ~619 |
 | Colonial Savior | 44.00% | ~605 |
 | Paramour I | 43.00% | ~592 |
 | Missing in Action | 43.00% | ~592 |
@@ -99,9 +99,9 @@
 | No One Left Behind | 19.00% | ~261 |
 | Well Connected | 19.00% | ~261 |
 | Executioner | 18.00% | ~248 |
+| Master and Commander | 18.00% | ~248 |
 | Patriot | 17.00% | ~234 |
 | Legend | 17.00% | ~234 |
-| Master and Commander | 17.00% | ~234 |
 | Sabotage Specialist | 16.00% | ~220 |
 | Long Service Medal | 15.00% | ~206 |
 | Throw Mastery | 15.00% | ~206 |

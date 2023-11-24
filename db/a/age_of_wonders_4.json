@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -477,9 +477,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5449,
+  "EOS_Progressed": 5451,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7342,6 +7342,11 @@
       "Time": "2023-11-24T02:24:51.6825534+00:00",
       "NumProgressed": 5449,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T05:04:59.1032516+00:00",
+      "NumProgressed": 5451,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7353,7 +7358,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "10",
@@ -7369,7 +7374,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "12",
@@ -7393,15 +7398,15 @@
       "Name": "Full Ascension",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "16",
@@ -7521,7 +7526,7 @@
       "Name": "Stronger Together",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "3",
@@ -7545,7 +7550,7 @@
       "Name": "Magical Synergy",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "32",
@@ -7561,7 +7566,7 @@
       "Name": "Seat of Power",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "34",
@@ -7569,7 +7574,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "35",
@@ -7583,9 +7588,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "37",
@@ -7625,7 +7630,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "41",
@@ -7761,7 +7766,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "53",
@@ -7777,7 +7782,7 @@
       "Name": "Chaos Surge",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "55",
@@ -7785,7 +7790,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "56",
@@ -7801,7 +7806,7 @@
       "Name": "Spoils of War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "58",
@@ -7817,7 +7822,7 @@
       "Name": "But this one is mine",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "60",
@@ -7832,13 +7837,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5449,
+      "Progressed": 5451,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5449,
+      "Progressed": 5451,
       "Completed": 7
     }
   ],
@@ -7846,8 +7851,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-23T07:02:54.0495595+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:04:42.2097166+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:04:59.1032511+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:02:42.3702448+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:04:42.2097799+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:03:00.0675611+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:04:59.1033329+00:00"
 }

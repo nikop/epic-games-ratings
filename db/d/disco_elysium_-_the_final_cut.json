@@ -1398,10 +1398,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1123,
       "NumberOfAwardsMax": 737
+    },
+    {
+      "Time": "2023-11-24T05:00:25.0913501+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1124,
+      "NumberOfAwardsMax": 737
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1123,
+  "NumberOfAwards": 1124,
   "NumberOfAwardsMax": 737,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1445,7 +1451,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Relaxing",
@@ -1484,9 +1490,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131126,
+  "EOS_Progressed": 131128,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22754,6 +22760,11 @@
       "Time": "2023-11-24T04:04:37.8267993+00:00",
       "NumProgressed": 131126,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-24T05:04:54.686995+00:00",
+      "NumProgressed": 131128,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22813,7 +22824,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11801
+      "UsersEstimate": 11802
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -22821,7 +22832,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31470
+      "UsersEstimate": 31471
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22829,7 +22840,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11801
+      "UsersEstimate": 11802
     },
     {
       "ID": "ACH_COP_DORK",
@@ -22845,7 +22856,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36715
+      "UsersEstimate": 36716
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22877,7 +22888,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27536
+      "UsersEstimate": 27537
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22893,7 +22904,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17046
+      "UsersEstimate": 17047
     },
     {
       "ID": "ACH_COP_STAR",
@@ -23084,15 +23095,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131126,
+      "Progressed": 131128,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-11-21T09:00:02.2217381+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:04:37.8267992+00:00",
+  "LastChanged": "2023-11-24T05:00:25.0913499+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:04:54.6869946+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:00:05.1711173+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:04:37.8268942+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:00:25.0913503+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:04:54.6871327+00:00"
 }

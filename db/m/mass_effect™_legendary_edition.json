@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -4202,9 +4202,9 @@
       "ID": "achievement_23",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration III",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 633
     },
     {
       "ID": "achievement_24",
@@ -4282,9 +4282,9 @@
       "ID": "achievement_32",
       "SetID": "b9pe172",
       "Name": "Charismatic",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 702
     },
     {
       "ID": "achievement_33",
@@ -4858,9 +4858,9 @@
       "ID": "achievement_98",
       "SetID": "d252ncf",
       "Name": "Master and Commander",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_99",
@@ -4886,8 +4886,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:08:18.498614+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:09:00.151187+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-24T04:02:53.3562621+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:08:18.4987619+00:00"
+  "LastUpdate_Ratings": "2023-11-24T05:03:10.4177407+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:09:00.1513761+00:00"
 }

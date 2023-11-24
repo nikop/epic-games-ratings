@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1146,
+  "EOS_Progressed": 1147,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2457,6 +2457,11 @@
       "Time": "2023-11-24T03:08:51.1987861+00:00",
       "NumProgressed": 1146,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T05:08:56.1360859+00:00",
+      "NumProgressed": 1147,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2477,7 +2482,7 @@
       "Name": "Acrobat",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2485,7 +2490,7 @@
       "Name": "Out of control",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2549,7 +2554,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -2621,7 +2626,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -2725,7 +2730,7 @@
       "Name": "Spin the wheel",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2805,27 +2810,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1146,
+      "Progressed": 1147,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 814,
-      "Completed": 814
+      "Progressed": 815,
+      "Completed": 815
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:08:14.31352+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:08:56.1360854+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:57:35.2736655+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:08:14.3135578+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:58:00.635905+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:08:56.1361233+00:00"
 }

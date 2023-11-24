@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47522,
+  "EOS_Progressed": 47524,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 887,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25463,6 +25463,11 @@
       "Time": "2023-11-24T04:05:58.0536458+00:00",
       "NumProgressed": 47522,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-24T05:06:12.8540424+00:00",
+      "NumProgressed": 47524,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -25498,7 +25503,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5228
     },
     {
       "ID": "distance500000",
@@ -25698,7 +25703,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5228
     },
     {
       "ID": "ultimate",
@@ -25785,15 +25790,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47522,
+      "Progressed": 47524,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-23T19:57:38.7280718+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:05:58.0536456+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:06:12.854042+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.043749+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:57:31.5643029+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:05:58.05378+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:57:57.3777493+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:06:12.85424+00:00"
 }

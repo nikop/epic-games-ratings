@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2238,
+  "EOS_Progressed": 2240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5272,6 +5272,11 @@
       "Time": "2023-11-24T01:54:21.7611446+00:00",
       "NumProgressed": 2238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T05:09:58.4213332+00:00",
+      "NumProgressed": 2240,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5284,7 +5289,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5292,7 +5297,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5316,7 +5321,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -5340,7 +5345,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5388,7 +5393,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -5572,7 +5577,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5580,7 +5585,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5675,14 +5680,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2238,
+      "Progressed": 2240,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:09:18.8866511+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:09:58.4213327+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:57:16.5330418+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:09:18.8866976+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:57:43.0730504+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:09:58.4213921+00:00"
 }

@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 36,
   "EOS_Completed": 0,
@@ -289,9 +291,9 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -374,9 +376,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:05:28.6358623+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:05:43.9250204+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.2590305+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:02:40.8711736+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:05:28.6358732+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:57:19.5140052+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:05:43.9250397+00:00"
 }

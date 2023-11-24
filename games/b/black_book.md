@@ -6,9 +6,9 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,514 |
+| Initiation | 28.00% | ~15,515 |
 | Student | 22.00% | ~12,190 |
-| Knower | 16.00% | ~8,865 |
+| Knower | 16.00% | ~8,866 |
 | Aspen Tree | 14.00% | ~7,757 |
 | Healer | 14.00% | ~7,757 |
 | Listener | 14.00% | ~7,757 |
@@ -26,20 +26,20 @@ Number of Ratings: 96  (23.09.2022)
 | Pine Tree | 8.00% | ~4,433 |
 | Collector | 8.00% | ~4,433 |
 | Wolf | 8.00% | ~4,433 |
-| Worthy | 7.00% | ~3,878 |
-| Black Book | 7.00% | ~3,878 |
-| Black Sorcerer | 7.00% | ~3,878 |
-| Dead Man | 7.00% | ~3,878 |
-| Fern | 7.00% | ~3,878 |
-| 100 Friends | 7.00% | ~3,878 |
-| Researcher | 7.00% | ~3,878 |
-| Savvy | 7.00% | ~3,878 |
-| Encyclopedist | 6.00% | ~3,324 |
-| Witch | 6.00% | ~3,324 |
-| Old Spirits | 6.00% | ~3,324 |
-| Sinner | 6.00% | ~3,324 |
-| Folklorist | 6.00% | ~3,324 |
-| Keeper of Knowledge | 6.00% | ~3,324 |
+| Worthy | 7.00% | ~3,879 |
+| Black Book | 7.00% | ~3,879 |
+| Black Sorcerer | 7.00% | ~3,879 |
+| Dead Man | 7.00% | ~3,879 |
+| Fern | 7.00% | ~3,879 |
+| 100 Friends | 7.00% | ~3,879 |
+| Researcher | 7.00% | ~3,879 |
+| Savvy | 7.00% | ~3,879 |
+| Encyclopedist | 6.00% | ~3,325 |
+| Witch | 6.00% | ~3,325 |
+| Old Spirits | 6.00% | ~3,325 |
+| Sinner | 6.00% | ~3,325 |
+| Folklorist | 6.00% | ~3,325 |
+| Keeper of Knowledge | 6.00% | ~3,325 |
 | Vorsa | 5.00% | ~2,770 |
 | Susanin | 5.00% | ~2,770 |
 | Traveller | 5.00% | ~2,770 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,108 |
 | Word Master | 0.20% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,407 (Ranked 108)  
+Progressed: 55,410 (Ranked 108)  
 Completed: 54 (0.10%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 54 (0.10%) (Ranked 281)
 | 2023-11-21 | 54,904 | 53 |
 | 2023-11-22 | 55,133 | 54 |
 | 2023-11-23 | 55,367 | 54 |
-| 2023-11-24 | 55,407 | 54 |
+| 2023-11-24 | 55,410 | 54 |
 ## Awards
 Max (Character Customization): 89  (Ranked 380)  
 Sum: 89 (Ranked 455)  

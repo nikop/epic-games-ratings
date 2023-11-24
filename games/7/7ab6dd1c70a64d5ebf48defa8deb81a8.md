@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 11.00% | ~23 |
-| Find Allies | 8.00% | ~16 |
-| Adventurer | 8.00% | ~16 |
-| Geared Up | 8.00% | ~16 |
+| Find Allies | 8.00% | ~17 |
+| Adventurer | 8.00% | ~17 |
+| Geared Up | 8.00% | ~17 |
 | A Taste of Wrath | 7.00% | ~14 |
 | Fashion Victim | 7.00% | ~14 |
 | Scholar | 7.00% | ~14 |
@@ -41,7 +41,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 384)  
+Progressed: 207 (Ranked 384)  
 Completed: 2 (0.97%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 2 (0.97%) (Ranked 167)
 | 2023-11-21 | 197 | 1 |
 | 2023-11-22 | 203 | 2 |
 | 2023-11-23 | 204 | 2 |
-| 2023-11-24 | 206 | 2 |
+| 2023-11-24 | 207 | 2 |

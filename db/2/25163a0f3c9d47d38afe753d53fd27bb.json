@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1626,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 6.58,
   "EosHistory": [
@@ -3924,9 +3924,9 @@
       "ID": "LEVEL_023",
       "SetID": "212bg48",
       "Name": "Flowing from high ground",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 114
+      "UsersEstimate": 130
     },
     {
       "ID": "LEVEL_024",
@@ -3995,8 +3995,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:09:14.0862042+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:09:53.6787596+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:58:14.6567774+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:09:14.0862364+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:58:37.5666984+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:09:53.6788031+00:00"
 }

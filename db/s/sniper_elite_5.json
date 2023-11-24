@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3911,
+  "EOS_Progressed": 3913,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8106,6 +8106,11 @@
       "Time": "2023-11-23T19:04:41.5971215+00:00",
       "NumProgressed": 3911,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-24T05:04:33.8946586+00:00",
+      "NumProgressed": 3913,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8189,7 +8194,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -8197,7 +8202,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8253,7 +8258,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8269,7 +8274,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8325,7 +8330,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8341,7 +8346,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8365,7 +8370,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8445,7 +8450,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -8453,7 +8458,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8485,7 +8490,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8509,7 +8514,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8651,9 +8656,9 @@
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
       "SetID": "83mdf7p",
       "Name": "Stroll in the Woods",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -8684,13 +8689,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3862,
+      "Progressed": 3864,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3911,
+      "Progressed": 3913,
       "Completed": 11
     }
   ],
@@ -8698,8 +8703,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:04:16.9117148+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:04:33.8946581+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:59:07.3042751+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:04:16.9117884+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:59:28.513503+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:04:33.8947579+00:00"
 }

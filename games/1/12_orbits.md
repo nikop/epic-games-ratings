@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | [Tier 1] Fireworks | 40.00% | ~10 |
-| [Tier 1] Instant Karma | 32.00% | ~8 |
+| [Tier 1] Instant Karma | 36.00% | ~9 |
 | [Tier 1] Worth the trouble | 8.00% | ~2 |
 | [Tier 1] Mix and match | 8.00% | ~2 |
 | [Tier 4] The oncoming storm | 4.00% | ~1 |

@@ -723,9 +723,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3827,
+  "EOS_Progressed": 3828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5858,6 +5858,11 @@
       "Time": "2023-11-24T04:03:30.68651+00:00",
       "NumProgressed": 3827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T05:03:48.4635438+00:00",
+      "NumProgressed": 3828,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5878,7 +5883,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "achievement_11",
@@ -5894,7 +5899,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_13",
@@ -5958,7 +5963,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_20",
@@ -5998,7 +6003,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "achievement_6",
@@ -6037,7 +6042,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3827,
+      "Progressed": 3828,
       "Completed": 0
     }
   ],
@@ -6045,8 +6050,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-24T01:42:02.0226304+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:03:30.6865098+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:03:48.4635432+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:57:02.8732341+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:03:30.6865438+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:57:29.8781637+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:03:48.4635828+00:00"
 }

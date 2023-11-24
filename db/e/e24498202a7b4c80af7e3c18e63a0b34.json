@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6937,
+  "EOS_Progressed": 6938,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
@@ -5983,6 +5983,11 @@
       "Time": "2023-11-24T03:08:45.7723725+00:00",
       "NumProgressed": 6937,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-24T05:08:52.4593598+00:00",
+      "NumProgressed": 6938,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5995,7 +6000,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6035
+      "UsersEstimate": 6036
     },
     {
       "ID": "achievement_01_02",
@@ -6003,7 +6008,7 @@
       "Name": "Tournament Star",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "achievement_01_03",
@@ -6019,7 +6024,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5133
+      "UsersEstimate": 5134
     },
     {
       "ID": "achievement_01_05",
@@ -6035,7 +6040,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "achievement_01_07",
@@ -6051,7 +6056,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5133
+      "UsersEstimate": 5134
     },
     {
       "ID": "achievement_01_09",
@@ -6067,7 +6072,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3815
+      "UsersEstimate": 3816
     },
     {
       "ID": "achievement_02_01",
@@ -6099,7 +6104,7 @@
       "Name": "Master Champion",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "achievement_02_05",
@@ -6123,7 +6128,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "achievement_02_08",
@@ -6171,7 +6176,7 @@
       "Name": "Thailand - Check!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "achievement_03_06",
@@ -6203,7 +6208,7 @@
       "Name": "Golden Master Champion",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "achievement_03_10",
@@ -6219,7 +6224,7 @@
       "Name": "Japan - Check!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "achievement_04_01",
@@ -6235,7 +6240,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "achievement_04_03",
@@ -6283,7 +6288,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5966
+      "UsersEstimate": 5967
     },
     {
       "ID": "achievement_04_09",
@@ -6298,7 +6303,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6937,
+      "Progressed": 6938,
       "Completed": 40
     }
   ],
@@ -6306,8 +6311,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-18T21:58:48.6399645+00:00",
-  "LastChanged_Achievements": "2023-11-24T04:08:10.5241499+00:00",
+  "LastChanged_Achievements": "2023-11-24T05:08:52.4593593+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:06.7248226+00:00",
-  "LastUpdate_Ratings": "2023-11-24T03:57:32.3300033+00:00",
-  "LastUpdate_Achievements": "2023-11-24T04:08:10.5241949+00:00"
+  "LastUpdate_Ratings": "2023-11-24T04:57:57.8999129+00:00",
+  "LastUpdate_Achievements": "2023-11-24T05:08:52.4594259+00:00"
 }

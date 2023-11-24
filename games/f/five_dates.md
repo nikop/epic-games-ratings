@@ -13,7 +13,7 @@
 | Not Alone | 30.00% | ~199 |
 | Booty Call | 28.00% | ~186 |
 | In Contempt of Duvet | 27.00% | ~179 |
-| Planting the Seed | 21.00% | ~139 |
+| Planting the Seed | 22.00% | ~146 |
 | Light Sleepers | 15.00% | ~99 |
 | Smooth Criminal | 9.00% | ~60 |
 | Sore Loser | 8.00% | ~53 |
