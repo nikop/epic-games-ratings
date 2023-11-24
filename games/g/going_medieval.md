@@ -1,28 +1,28 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 416)  
+Rating: 4.60 (Ranked 417)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,249 |
-| Get A Room | 75.00% | ~5,180 |
-| Reap What You Sow | 73.00% | ~5,042 |
-| The First Day | 69.00% | ~4,766 |
+| Having A Field Day | 76.00% | ~5,250 |
+| Get A Room | 75.00% | ~5,181 |
+| Reap What You Sow | 73.00% | ~5,043 |
+| The First Day | 69.00% | ~4,767 |
 | Green Thumb | 67.00% | ~4,628 |
 | Novice Researcher | 67.00% | ~4,628 |
-| Home Cooked Meal | 61.00% | ~4,213 |
-| Onward | 57.00% | ~3,937 |
+| Home Cooked Meal | 61.00% | ~4,214 |
+| Onward | 57.00% | ~3,938 |
 | The First Week | 55.00% | ~3,799 |
 | Beam Me Up | 52.00% | ~3,592 |
 | Studious Researcher | 52.00% | ~3,592 |
-| Putting Food on the Table | 48.00% | ~3,315 |
-| Adept Researcher | 45.00% | ~3,108 |
+| Putting Food on the Table | 48.00% | ~3,316 |
+| Adept Researcher | 45.00% | ~3,109 |
 | Retribution | 42.00% | ~2,901 |
 | ...And Don’t Come Back! | 42.00% | ~2,901 |
 | Feast or Famine | 39.00% | ~2,694 |
-| Heating Up | 32.00% | ~2,210 |
+| Heating Up | 32.00% | ~2,211 |
 | Luminary Researcher | 31.00% | ~2,141 |
 | Fit For A King | 29.00% | ~2,003 |
 | Winter Is Coming | 29.00% | ~2,003 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~138 |
 | Wabbit Season | 0.50% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,907 (Ranked 181)  
+Progressed: 6,908 (Ranked 181)  
 Completed: 14 (0.20%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 14 (0.20%) (Ranked 254)
 | 2023-11-21 | 6,851 | 14 |
 | 2023-11-22 | 6,869 | 14 |
 | 2023-11-23 | 6,890 | 14 |
-| 2023-11-24 | 6,907 | 14 |
+| 2023-11-24 | 6,908 | 14 |
 ## Awards
 Max (Great for Beginners): 125  (Ranked 336)  
 Sum: 1,020 (Ranked 260)  

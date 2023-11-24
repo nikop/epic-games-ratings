@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "ACH_KILL_KIRKLEES",
       "SetID": "5akmpni",
       "Name": "Hidden Experiment",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILL_PRIORESS_ROBIN",
@@ -500,8 +500,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:04:48.328069+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:05:50.5445821+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.5358459+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:00:05.8780003+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:04:48.3281065+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:01:19.6202384+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:05:50.5446202+00:00"
 }

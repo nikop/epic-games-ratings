@@ -2,12 +2,12 @@
   "ID": "calluna",
   "Name": "Control",
   "ProductSlug": "control",
-  "Ranking_Rating": 416,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 41,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 16122,
   "RatingHistory": [
     {
@@ -5492,18 +5492,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 13196,
       "NumberOfAwardsMax": 8776
+    },
+    {
+      "Time": "2023-11-24T21:00:02.2543491+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 13205,
+      "NumberOfAwardsMax": 8783
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13196,
-  "NumberOfAwardsMax": 8776,
+  "NumberOfAwards": 13205,
+  "NumberOfAwardsMax": 8783,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8776
+      "Count": 8783
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5515,7 +5521,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 519
+      "Count": 521
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5571,8 +5577,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2023-11-24T14:59:43.5732384+00:00",
+  "LastChanged": "2023-11-24T21:00:02.2543489+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.014799+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:59:07.7930046+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:05:00.9861437+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:00:02.2543495+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:06:06.9854054+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,435 |
-| ''I don't like you either!'' | 79.00% | ~41,076 |
-| ''Impressive, most impressive'' | 72.00% | ~37,436 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,436 |
-| The Phantom Menace | 59.00% | ~30,677 |
-| ''Aggressive Negotiations'' | 59.00% | ~30,677 |
-| ''I can fly anything'' | 57.00% | ~29,637 |
-| ''And who gave you permission...?'' | 54.00% | ~28,077 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,436 |
+| ''I don't like you either!'' | 79.00% | ~41,077 |
+| ''Impressive, most impressive'' | 72.00% | ~37,437 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,437 |
+| The Phantom Menace | 59.00% | ~30,678 |
+| ''Aggressive Negotiations'' | 59.00% | ~30,678 |
+| ''I can fly anything'' | 57.00% | ~29,638 |
+| ''And who gave you permission...?'' | 54.00% | ~28,078 |
 | A New Hope | 48.00% | ~24,958 |
 | Attack of the Clones | 47.00% | ~24,438 |
 | Revenge of the Sith | 41.00% | ~21,318 |
 | The Empire Strikes Back | 38.00% | ~19,758 |
 | ''A fine addition to my collection'' | 38.00% | ~19,758 |
-| Return of the Jedi | 32.00% | ~16,638 |
+| Return of the Jedi | 32.00% | ~16,639 |
 | The Force Awakens | 27.00% | ~14,039 |
 | The Last Jedi | 23.00% | ~11,959 |
 | The Rise of Skywalker | 20.00% | ~10,399 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~520 |
 | ''I've never seen a real one!'' | 1.00% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,995 (Ranked 112)  
+Progressed: 51,996 (Ranked 112)  
 Completed: 250 (0.48%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 250 (0.48%) (Ranked 207)
 | 2023-11-21 | 51,979 | 250 |
 | 2023-11-22 | 51,986 | 250 |
 | 2023-11-23 | 51,989 | 250 |
-| 2023-11-24 | 51,995 | 250 |
+| 2023-11-24 | 51,996 | 250 |
 ## Awards
 Max (Great Boss Battles): 2,445  (Ranked 104)  
 Sum: 6,710 (Ranked 126)  

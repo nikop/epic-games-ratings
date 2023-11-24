@@ -19,31 +19,31 @@
 | Tough conversation | 14.00% | ~12 |
 | The tragedy unfolds | 13.00% | ~11 |
 | First steps | 12.00% | ~10 |
+| True Reflection | 12.00% | ~10 |
 | Whispers long forgotten | 12.00% | ~10 |
 | A new way | 11.00% | ~9 |
 | Breaking free | 11.00% | ~9 |
 | A Slice of Life | 11.00% | ~9 |
 | Debut | 11.00% | ~9 |
 | The art of movement | 11.00% | ~9 |
-| True Reflection | 11.00% | ~9 |
 | Another perspective | 8.00% | ~7 |
 | Sound Bite | 8.00% | ~7 |
 | Heavy Burden | 8.00% | ~7 |
 | Lights! Camera! Action! | 8.00% | ~7 |
-| Casting Finished | 6.00% | ~5 |
+| Casting Finished | 7.00% | ~6 |
 | Fisherman | 6.00% | ~5 |
 | We Are Not Alone | 5.00% | ~4 |
+| Body of Work | 5.00% | ~4 |
 | Something to think about | 4.00% | ~3 |
 | I remember It Like Was Yesterday | 4.00% | ~3 |
-| Body of Work | 4.00% | ~3 |
 | The Perfect Storm | 4.00% | ~3 |
 | Se7en Seas | 4.00% | ~3 |
+| A Mosaic of Misery | 4.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
 | It was worth a try | 2.00% | ~2 |
-| A Mosaic of Misery | 2.00% | ~2 |
+| Full Scoop | 2.00% | ~2 |
 | Immortalized in my heart | 1.00% | ~1 |
-| Full Scoop | 1.00% | ~1 |
 | In One Take | 1.00% | ~1 |
 | Preferred Parent | 1.00% | ~1 |
 | The Tree and the Apple | 1.00% | ~1 |

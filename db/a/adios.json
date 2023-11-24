@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79066,
+  "EOS_Progressed": 79069,
   "EOS_Completed": 850,
   "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 7,
@@ -24507,6 +24507,11 @@
       "Time": "2023-11-24T20:06:29.3626163+00:00",
       "NumProgressed": 79066,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-24T21:08:03.5992254+00:00",
+      "NumProgressed": 79069,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24532,9 +24537,9 @@
       "ID": "Adios, Friendo",
       "SetID": "1e8d2nk",
       "Name": "Adios, Friendo",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 14232
+      "UsersEstimate": 15023
     },
     {
       "ID": "Audiophile",
@@ -24590,7 +24595,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15813
+      "UsersEstimate": 15814
     },
     {
       "ID": "Hearty",
@@ -24662,7 +24667,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8697
+      "UsersEstimate": 8698
     },
     {
       "ID": "Right On Target",
@@ -24710,14 +24715,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6325
+      "UsersEstimate": 6326
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79066,
+      "Progressed": 79069,
       "Completed": 850
     }
   ],
@@ -24725,8 +24730,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:06:29.3626158+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:08:03.5992251+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:57:34.8011713+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:06:29.3628024+00:00"
+  "LastUpdate_Ratings": "2023-11-24T20:57:57.8658888+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:08:03.5993749+00:00"
 }

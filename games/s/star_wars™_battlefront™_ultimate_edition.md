@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,247 |
+| New Recruit | 89.00% | ~1,248 |
 | Off to a good start | 66.00% | ~925 |
-| Do... or do not. There is no try | 50.00% | ~700 |
-| A good blaster at your side | 31.00% | ~434 |
+| Do... or do not. There is no try | 50.00% | ~701 |
+| A good blaster at your side | 31.00% | ~435 |
 | I suggest a new strategy | 19.00% | ~266 |
 | Scrap collector | 18.00% | ~252 |
 | All right, I'll give it a try | 17.00% | ~238 |
@@ -23,11 +23,11 @@
 | A cunning warrior | 8.00% | ~112 |
 | What's the cargo? | 7.00% | ~98 |
 | "Gonk? Gonk!" | 6.00% | ~84 |
-| Distinguished | 6.00% | ~84 |
 | Impressive. Most impressive. | 6.00% | ~84 |
 | Judge me by my size, do you? | 6.00% | ~84 |
-| Support the troops | 6.00% | ~84 |
+| Distinguished | 5.00% | ~70 |
 | A tremor in the Force | 5.00% | ~70 |
+| Support the troops | 5.00% | ~70 |
 | Safety ain't the point of a joyride | 4.00% | ~56 |
 | Not bad for a little furball | 4.00% | ~56 |
 | Patience you must have | 4.00% | ~56 |
@@ -45,7 +45,6 @@
 | City in the Clouds | 2.00% | ~28 |
 | Alternative solution | 2.00% | ~28 |
 | What will you become? | 2.00% | ~28 |
-| The circle is now complete | 2.00% | ~28 |
 | Disturbed tranquility | 2.00% | ~28 |
 | Playing the objective | 1.00% | ~14 |
 | Ackbar's Elite | 1.00% | ~14 |
@@ -53,6 +52,7 @@
 | When surrounded by war... | 1.00% | ~14 |
 | Stop that Droid | 1.00% | ~14 |
 | Onwards! | 1.00% | ~14 |
+| The circle is now complete | 1.00% | ~14 |
 | Walker defender | 0.90% | ~13 |
 | No such thing as luck | 0.90% | ~13 |
 | Do we take prisoners? | 0.90% | ~13 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,401 (Ranked 242)  
+Progressed: 1,402 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1 (0.07%) (Ranked 299)
 | 2023-11-21 | 1,352 | 1 |
 | 2023-11-22 | 1,367 | 1 |
 | 2023-11-23 | 1,384 | 1 |
-| 2023-11-24 | 1,401 | 1 |
+| 2023-11-24 | 1,402 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

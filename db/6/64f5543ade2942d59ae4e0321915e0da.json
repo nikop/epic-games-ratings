@@ -455,9 +455,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -543,9 +543,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -582,8 +582,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:05:31.8495492+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:06:50.2480586+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.647609+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:57:23.2722927+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:05:31.8495781+00:00"
+  "LastUpdate_Ratings": "2023-11-24T20:57:42.1344152+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:06:50.2480839+00:00"
 }

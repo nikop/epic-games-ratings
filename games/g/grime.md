@@ -6,19 +6,19 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,993 |
-| Imprint | 5.00% | ~7,993 |
+| Taste | 5.00% | ~7,994 |
+| Imprint | 5.00% | ~7,994 |
 | The Hunt | 4.00% | ~6,395 |
 | Ravenous | 4.00% | ~6,395 |
 | Weeper | 3.00% | ~4,796 |
-| Harmless | 2.00% | ~3,197 |
-| Silenced Whispers | 2.00% | ~3,197 |
-| Devourer | 2.00% | ~3,197 |
-| Yank | 2.00% | ~3,197 |
-| Sharpened Vessel | 2.00% | ~3,197 |
+| Harmless | 2.00% | ~3,198 |
+| Silenced Whispers | 2.00% | ~3,198 |
+| Devourer | 2.00% | ~3,198 |
+| Yank | 2.00% | ~3,198 |
+| Sharpened Vessel | 2.00% | ~3,198 |
 | Shapely | 1.00% | ~1,599 |
-| Scion | 1.00% | ~1,594 |
-| Glare | 1.00% | ~1,594 |
+| Scion | 1.00% | ~1,595 |
+| Glare | 1.00% | ~1,595 |
 | Jawcrab | 1.00% | ~1,599 |
 | Jawstag | 1.00% | ~1,599 |
 | Feast | 1.00% | ~1,599 |
@@ -37,9 +37,9 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.60% | ~959 |
 | Unwrap the Gift | 0.50% | ~799 |
 | Passage | 0.50% | ~799 |
-| Bloodhunter | 0.40% | ~639 |
+| Bloodhunter | 0.40% | ~640 |
 | Zygote | 0.40% | ~638 |
-| Proportions | 0.40% | ~639 |
+| Proportions | 0.40% | ~640 |
 | Kinship | 0.30% | ~480 |
 | Kin | 0.30% | ~478 |
 | Listen | 0.30% | ~478 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,865 (Ranked 78)  
+Progressed: 159,875 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 1 (0.00%) (Ranked 359)
 | 2023-11-21 | 159,459 | 1 |
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
-| 2023-11-24 | 159,865 | 1 |
+| 2023-11-24 | 159,875 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 424)  
 Sum: 380 (Ranked 346)  

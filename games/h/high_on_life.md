@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 334)  
+Rating: 4.64 (Ranked 333)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 334)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,536 (Ranked 128)  
+Progressed: 24,539 (Ranked 128)  
 Completed: 13 (0.05%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 13 (0.05%) (Ranked 307)
 | 2023-11-21 | 24,511 | 13 |
 | 2023-11-22 | 24,520 | 13 |
 | 2023-11-23 | 24,530 | 13 |
-| 2023-11-24 | 24,536 | 13 |
+| 2023-11-24 | 24,539 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

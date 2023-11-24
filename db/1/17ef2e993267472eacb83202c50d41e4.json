@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8227,
+  "EOS_Progressed": 8229,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7197,6 +7197,11 @@
       "Time": "2023-11-24T20:09:24.9336761+00:00",
       "NumProgressed": 8227,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T21:10:19.8458729+00:00",
+      "NumProgressed": 8229,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7257,7 +7262,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "CreditsSpent50000",
@@ -7329,7 +7334,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2551
     },
     {
       "ID": "GamesPlayed10",
@@ -7353,7 +7358,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "GamesWon10",
@@ -7425,7 +7430,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "HSUPurchased1",
@@ -7473,7 +7478,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "InhibitorKills3",
@@ -7577,7 +7582,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "MaxTowersKilled6",
@@ -7641,7 +7646,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "PlayerKills100",
@@ -7800,7 +7805,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8227,
+      "Progressed": 8229,
       "Completed": 1
     }
   ],
@@ -7808,8 +7813,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-24T13:07:54.0480111+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:09:24.9336757+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:10:19.8458723+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:02:36.737485+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:09:24.9338496+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:02:57.9748196+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:10:19.8459661+00:00"
 }

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 312)  
+Rating: 4.65 (Ranked 311)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.90% | ~139 |
 | Egypt | 0.90% | ~139 |
 | Turreted Elephant | 0.90% | ~139 |
+| Adur Burzen-Mihr | 0.80% | ~124 |
 | Rome | 0.80% | ~124 |
 | Hittite Paganism | 0.80% | ~124 |
 | All Nations | 0.80% | ~124 |
@@ -138,7 +139,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.70% | ~108 |
 | Noble Difficulty | 0.70% | ~108 |
 | Cao'an | 0.70% | ~108 |
-| Adur Burzen-Mihr | 0.70% | ~108 |
 | Learn to Play 5 | 0.70% | ~108 |
 | Cataphract Archer | 0.70% | ~108 |
 | The Great Mage | 0.70% | ~108 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,463 (Ranked 151)  
+Progressed: 15,465 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -567,7 +567,7 @@ Completed: 5 (0.03%) (Ranked 321)
 | 2023-11-21 | 15,417 | 5 |
 | 2023-11-22 | 15,428 | 5 |
 | 2023-11-23 | 15,453 | 5 |
-| 2023-11-24 | 15,463 | 5 |
+| 2023-11-24 | 15,465 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,874 (Ranked 218)  

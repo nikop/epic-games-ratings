@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 476,
+  "EOS_Progressed": 477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1059,6 +1059,11 @@
       "Time": "2023-11-17T21:08:57.7659987+00:00",
       "NumProgressed": 476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T21:10:04.9273502+00:00",
+      "NumProgressed": 477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1134,7 +1139,7 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1204,9 +1209,9 @@
       "ID": "ACHIEVEMENT_188",
       "SetID": "76k7b7p",
       "Name": "Amateur hitchhiker",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -2190,7 +2195,7 @@
       "Name": "Photo shoot",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -2365,14 +2370,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 476,
+      "Progressed": 477,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:09:12.7928779+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:10:04.9273498+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:04.9366467+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:58:19.0050784+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:09:12.7930991+00:00"
+  "LastUpdate_Ratings": "2023-11-24T20:58:58.8822849+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:10:04.9275705+00:00"
 }

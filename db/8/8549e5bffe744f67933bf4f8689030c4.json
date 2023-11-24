@@ -372,9 +372,9 @@
       "ID": "KillBoss1",
       "SetID": "59jf8f5",
       "Name": "Giant Mushroom Hunter",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KillBoss2",
@@ -444,9 +444,9 @@
       "ID": "KillEnemyByFailedGrow",
       "SetID": "59jf8f5",
       "Name": "Empty Fort Strategy",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KillEnemyByIceCrushing",
@@ -628,9 +628,9 @@
       "ID": "UnlockAllEditActor",
       "SetID": "59jf8f5",
       "Name": "The Alpha and Omega",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -642,8 +642,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:06:23.4034123+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:07:56.0123004+00:00",
   "LastUpdate_AppInfo": "2023-11-21T04:57:14.1198184+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:57:54.4586911+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:06:23.4034662+00:00"
+  "LastUpdate_Ratings": "2023-11-24T20:58:24.7664236+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:07:56.0123416+00:00"
 }

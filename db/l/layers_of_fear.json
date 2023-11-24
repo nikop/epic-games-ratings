@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "casting_finished",
       "SetID": "f2im8d",
       "Name": "Casting Finished",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "collect_items_mother",
@@ -503,9 +503,9 @@
       "ID": "collect_most_of_posters",
       "SetID": "f2im8d",
       "Name": "Body of Work",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "collect_notes_mother",
@@ -639,9 +639,9 @@
       "ID": "hear_most_of_interviews",
       "SetID": "f2im8d",
       "Name": "Full Scoop",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "hear_one_interview",
@@ -823,17 +823,17 @@
       "ID": "true_reflection",
       "SetID": "f2im8d",
       "Name": "True Reflection",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "view_most_of_photos",
       "SetID": "f2im8d",
       "Name": "A Mosaic of Misery",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "wanderer",
@@ -862,8 +862,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:03:20.4276755+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:03:56.4989307+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:10.5963519+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:00:28.5745126+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:03:20.4277276+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:01:51.5914593+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:03:56.4989624+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 46,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 701,
+  "EOS_Progressed": 702,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.99,
   "EosHistory": [
@@ -2900,6 +2900,11 @@
       "Time": "2023-11-24T19:03:34.9829339+00:00",
       "NumProgressed": 701,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-24T21:03:32.7016134+00:00",
+      "NumProgressed": 702,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -3031,7 +3036,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3055,7 +3060,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3071,15 +3076,15 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 190
     },
     {
       "ID": "PROGRESS_N3",
@@ -3110,14 +3115,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 701,
+      "Progressed": 702,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:03:01.6961064+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:03:32.7016119+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:59:25.4955816+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:03:01.6961511+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:00:25.797447+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:03:32.7016509+00:00"
 }

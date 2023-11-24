@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -445,9 +445,9 @@
       "ID": "ALAIRA_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Rain Must Fall",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -918,8 +918,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:03:57.6066152+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:04:44.6795336+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.0607711+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:57:23.5637497+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:03:57.6066826+00:00"
+  "LastUpdate_Ratings": "2023-11-24T20:57:42.5090449+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:04:44.6795825+00:00"
 }

@@ -30,12 +30,12 @@
 | Ultra Combo | 25.00% | ~2 |
 | The Gang prevails | 25.00% | ~2 |
 | Five of Friends | 25.00% | ~2 |
+| Hidden Experiment | 25.00% | ~2 |
 | Ascending Will | 13.00% | ~1 |
 | Bold and Bossy | 13.00% | ~1 |
 | Power of Friendship! | 13.00% | ~1 |
 | Out of the ring | 13.00% | ~1 |
 | The Crowkiller | 13.00% | ~1 |
-| Hidden Experiment | 13.00% | ~1 |
 | A Gest of Robyn Hode | 13.00% | ~1 |
 | Into the Lion's Den | 13.00% | ~1 |
 | Money can not buy happiness | 13.00% | ~1 |

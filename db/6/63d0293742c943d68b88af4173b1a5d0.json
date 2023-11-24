@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244,
+  "EOS_Progressed": 245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -719,6 +719,11 @@
       "Time": "2023-11-24T20:06:08.324837+00:00",
       "NumProgressed": 244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T21:07:37.6412352+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -737,9 +742,9 @@
       "ID": "4",
       "SetID": "5pi96jj",
       "Name": "Iced Iced Baby",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "5",
@@ -769,9 +774,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "9",
@@ -795,15 +800,15 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "Remake_005",
@@ -841,9 +846,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "Remake_010",
@@ -921,9 +926,9 @@
       "ID": "Remake_19",
       "SetID": "5pi96jj",
       "Name": "Pan Head",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Remake_20",
@@ -954,14 +959,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 244,
+      "Progressed": 245,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:06:08.3248367+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:07:37.6412348+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:02:38.9383633+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:06:08.3248577+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:03:01.0191733+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:07:37.6412551+00:00"
 }

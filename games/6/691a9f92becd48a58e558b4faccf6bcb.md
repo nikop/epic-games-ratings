@@ -11,17 +11,17 @@
 | A new HOME | 1.00% | ~3 |
 | At least you tried | 1.00% | ~3 |
 | Golden Button | 1.00% | ~3 |
+| Golden Carrot | 1.00% | ~3 |
+| Golden Hat | 1.00% | ~3 |
 | Silver Carrot | 1.00% | ~3 |
 | Silver Hat | 1.00% | ~3 |
 | Lesson learned | 0.70% | ~2 |
 | Good list | 0.70% | ~2 |
-| Golden Carrot | 0.70% | ~2 |
-| Golden Hat | 0.70% | ~2 |
+| Naughty list | 0.70% | ~2 |
+| So close! | 0.70% | ~2 |
 | Golden Scarf | 0.40% | ~1 |
-| Naughty list | 0.40% | ~1 |
 | Bling Bling | 0.40% | ~1 |
 | Silver Scarf | 0.40% | ~1 |
-| So close! | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 277 (Ranked 358)  
 Completed: 1 (0.36%) (Ranked 226)  

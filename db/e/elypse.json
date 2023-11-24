@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -697,9 +697,9 @@
       "ID": "Ach_FirstGolem",
       "SetID": "4o5gjp0",
       "Name": "Soft skin",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "Ach_HutLay",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-11-24T20:05:25.1966914+00:00",
+  "LastChanged_Achievements": "2023-11-24T21:06:41.484536+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.2420207+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:57:20.3055386+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:05:25.1967102+00:00"
+  "LastUpdate_Ratings": "2023-11-24T20:57:38.2005844+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:06:41.4845574+00:00"
 }

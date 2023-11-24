@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,494 |
-| Titan's First Steps | 6.00% | ~8,494 |
-| Basic in Bulk | 5.00% | ~7,079 |
-| Tinkle of Coins | 5.00% | ~7,079 |
-| Disintermediation | 4.00% | ~5,663 |
-| Capitalism Ho! | 4.00% | ~5,663 |
-| One Easy Payment | 3.00% | ~4,247 |
-| Some Assembly Required | 3.00% | ~4,247 |
-| Another Satisfied Customer | 3.00% | ~4,247 |
-| It's Free Real Estate | 3.00% | ~4,247 |
-| Pretty Penny | 3.00% | ~4,247 |
-| Budding Merchant | 3.00% | ~4,247 |
-| Own the Means of Production | 3.00% | ~4,247 |
+| Sponsored by Argon | 6.00% | ~8,496 |
+| Titan's First Steps | 6.00% | ~8,496 |
+| Basic in Bulk | 5.00% | ~7,080 |
+| Tinkle of Coins | 5.00% | ~7,080 |
+| Disintermediation | 4.00% | ~5,664 |
+| It's Free Real Estate | 4.00% | ~5,664 |
+| Capitalism Ho! | 4.00% | ~5,664 |
+| One Easy Payment | 3.00% | ~4,248 |
+| Some Assembly Required | 3.00% | ~4,248 |
+| Another Satisfied Customer | 3.00% | ~4,248 |
+| Pretty Penny | 3.00% | ~4,248 |
+| Budding Merchant | 3.00% | ~4,248 |
+| Own the Means of Production | 3.00% | ~4,248 |
 | The Daily Grind | 2.00% | ~2,832 |
 | On the Path to Greatness | 2.00% | ~2,832 |
 | Ascended | 2.00% | ~2,832 |
@@ -68,6 +68,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 1.00% | ~1,416 |
 | Fat Cat Tag Team | 1.00% | ~1,416 |
 | Necromancer Queen | 1.00% | ~1,416 |
+| Item of Renown | 1.00% | ~1,416 |
 | Master Merchant | 1.00% | ~1,416 |
 | Miracle Alchemist | 1.00% | ~1,416 |
 | Laden with Loot | 1.00% | ~1,416 |
@@ -76,6 +77,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 1.00% | ~1,416 |
 | Attrition Mission | 1.00% | ~1,416 |
 | Glittering Collection | 1.00% | ~1,416 |
+| Treasure Trove | 1.00% | ~1,416 |
 | Black Friday Special | 1.00% | ~1,416 |
 | Master Recycler | 1.00% | ~1,416 |
 | Magical Harmony | 1.00% | ~1,416 |
@@ -92,23 +94,21 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.90% | ~1,274 |
 | Ritualist | 0.90% | ~1,274 |
 | A Legend is Born | 0.90% | ~1,274 |
-| Item of Renown | 0.90% | ~1,274 |
 | Bountiful Harvest | 0.90% | ~1,274 |
 | Precision Engineering | 0.90% | ~1,274 |
-| Treasure Trove | 0.90% | ~1,274 |
 | Moment of Respite | 0.90% | ~1,274 |
 | King's Shadow | 0.90% | ~1,274 |
 | Fillin' the Bin | 0.80% | ~1,133 |
+| All Accounted For | 0.80% | ~1,133 |
 | Economy of Scarce | 0.80% | ~1,133 |
 | Thank You Tom Nook | 0.70% | ~991 |
 | Jackpot! | 0.70% | ~991 |
-| All Accounted For | 0.70% | ~991 |
-| The Free Encyclopedia | 0.60% | ~849 |
-| Eternal Crusade | 0.60% | ~849 |
+| The Free Encyclopedia | 0.60% | ~850 |
+| Eternal Crusade | 0.60% | ~850 |
+| The Greatest Grind | 0.50% | ~708 |
 | All or Nothing! | 0.50% | ~708 |
 | JACKPOT!!! | 0.40% | ~566 |
 | Anything not Nailed Down | 0.40% | ~566 |
-| The Greatest Grind | 0.40% | ~566 |
 | Marvels from the World Over | 0.40% | ~566 |
 | Bane of Legends | 0.30% | ~425 |
 | Ultimate Collector | 0.30% | ~425 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,575 (Ranked 80)  
-Completed: 212 (0.15%) (Ranked 268)  
+Progressed: 141,604 (Ranked 80)  
+Completed: 215 (0.15%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,7 +337,7 @@ Completed: 212 (0.15%) (Ranked 268)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,575 | 212 |
+| 2023-11-24 | 141,604 | 215 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,589 (Ranked 50)  

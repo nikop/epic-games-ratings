@@ -2,12 +2,12 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 295,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -13584,10 +13584,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 32924,
       "NumberOfAwardsMax": 4021
+    },
+    {
+      "Time": "2023-11-24T21:01:24.1383281+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 32927,
+      "NumberOfAwardsMax": 4021
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32924,
+  "NumberOfAwards": 32927,
   "NumberOfAwardsMax": 4021,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13649,7 +13655,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2046
+      "Count": 2049
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13675,8 +13681,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-11-24T20:00:09.0899142+00:00",
+  "LastChanged": "2023-11-24T21:01:24.1383279+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:04.9190952+00:00",
-  "LastUpdate_Ratings": "2023-11-24T20:00:09.0899148+00:00",
-  "LastUpdate_Achievements": "2023-11-24T20:09:09.2983918+00:00"
+  "LastUpdate_Ratings": "2023-11-24T21:01:24.1383285+00:00",
+  "LastUpdate_Achievements": "2023-11-24T21:10:00.2778312+00:00"
 }

@@ -5,35 +5,35 @@ Rating: 4.53 (Ranked 540)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~5,251 |
-| All thumbs | 92.00% | ~5,194 |
-| I will survive! | 92.00% | ~5,194 |
-| Home, sweet home | 91.00% | ~5,138 |
-| Survivalist | 90.00% | ~5,081 |
-| One way ticket | 85.00% | ~4,799 |
-| Last man standing | 80.00% | ~4,517 |
-| Family guy | 77.00% | ~4,347 |
-| Out of the Bag | 76.00% | ~4,291 |
-| The Dark Side | 70.00% | ~3,952 |
-| Duck and cover! | 66.00% | ~3,726 |
-| Souper! | 65.00% | ~3,670 |
-| 2-1-6 | 59.00% | ~3,331 |
-| Pacifist | 59.00% | ~3,331 |
-| A gift | 54.00% | ~3,049 |
-| Girl Power | 49.00% | ~2,767 |
-| What goes around... | 44.00% | ~2,484 |
-| Be Prepared | 38.00% | ~2,145 |
-| Unbreakable | 37.00% | ~2,089 |
+| Prepper | 93.00% | ~5,253 |
+| All thumbs | 92.00% | ~5,196 |
+| I will survive! | 92.00% | ~5,196 |
+| Home, sweet home | 91.00% | ~5,140 |
+| Survivalist | 90.00% | ~5,083 |
+| One way ticket | 85.00% | ~4,801 |
+| Last man standing | 80.00% | ~4,518 |
+| Family guy | 77.00% | ~4,349 |
+| Out of the Bag | 76.00% | ~4,292 |
+| The Dark Side | 70.00% | ~3,954 |
+| Duck and cover! | 66.00% | ~3,728 |
+| Souper! | 65.00% | ~3,671 |
+| 2-1-6 | 59.00% | ~3,332 |
+| Pacifist | 59.00% | ~3,332 |
+| A gift | 54.00% | ~3,050 |
+| Girl Power | 49.00% | ~2,768 |
+| What goes around... | 44.00% | ~2,485 |
+| Be Prepared | 38.00% | ~2,146 |
+| Unbreakable | 37.00% | ~2,090 |
 | Gotta get 'em all | 34.00% | ~1,920 |
 | This is the end | 34.00% | ~1,920 |
 | Atomic drill | 32.00% | ~1,807 |
 | Disco Roach | 28.00% | ~1,581 |
-| Dawkins Residence | 22.00% | ~1,242 |
-| New order | 18.00% | ~1,016 |
-| Rescue time! | 18.00% | ~1,016 |
+| Dawkins Residence | 22.00% | ~1,243 |
+| New order | 18.00% | ~1,017 |
+| Rescue time! | 18.00% | ~1,017 |
 | New species | 17.00% | ~960 |
-| A New Hope | 16.00% | ~903 |
-| Enigma | 16.00% | ~903 |
+| A New Hope | 16.00% | ~904 |
+| Enigma | 16.00% | ~904 |
 | Challenger | 13.00% | ~734 |
 | Men in Black | 13.00% | ~734 |
 | No stone unturned | 12.00% | ~678 |
@@ -56,8 +56,8 @@ Rating: 4.53 (Ranked 540)
 | Cuckoo's nest | 1.00% | ~56 |
 | Raining Cats and Dogs | 1.00% | ~56 |
 | Konrad style! | 1.00% | ~56 |
-| Bughunter | 0.90% | ~51 |
 | Cat Lady | 0.90% | ~51 |
+| Bughunter | 0.80% | ~45 |
 | Naysayer | 0.70% | ~40 |
 | Pro gamer | 0.70% | ~40 |
 | Manhattan Project | 0.60% | ~34 |
@@ -66,7 +66,7 @@ Rating: 4.53 (Ranked 540)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,646 (Ranked 187)  
+Progressed: 5,648 (Ranked 187)  
 Completed: 1 (0.02%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 1 (0.02%) (Ranked 328)
 | 2023-11-21 | 5,623 | 1 |
 | 2023-11-22 | 5,631 | 1 |
 | 2023-11-23 | 5,640 | 1 |
-| 2023-11-24 | 5,646 | 1 |
+| 2023-11-24 | 5,648 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
