@@ -70,7 +70,7 @@
 | 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,108 | 62 |
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 553 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 479 |
-| 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 884 | 162 |
+| 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 889 | 162 |
 | 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,831 | 55 |
 | 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 427 | 226 |
 | 67 | [Superliminal](games/s/superliminal.md) | 4.82 | 0 | 553 |
@@ -87,15 +87,14 @@
 | 78 | [The Messenger](games/t/the_messenger.md) | 4.81 | 342 | 242 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 553 |
 | 87 | [Aground](games/a/aground.md) | 4.80 | 0 | 553 |
-| 87 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,469 | 59 |
+| 87 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,470 | 59 |
 | 87 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 553 |
 | 87 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,524 | 102 |
 | 87 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 317 | 251 |
 | 87 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 103 | 355 |
 | 87 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 515 |
 | 87 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 553 |
-| 95 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.79 | 53 | 423 |
-| 95 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,575 | 126 |
+| 95 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,576 | 126 |
 | 95 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 648 | 187 |
 | 95 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 166 | 309 |
 | 95 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.79 | 0 | 553 |
@@ -107,12 +106,13 @@
 | 95 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 401 | 231 |
 | 95 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 125 | 336 |
 | 95 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 44 | 449 |
-| 108 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 339 | 243 |
-| 108 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,783 | 37 |
-| 108 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,443 | 104 |
-| 108 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 553 |
-| 108 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 966 | 156 |
-| 108 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 29 | 500 |
+| 107 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 339 | 243 |
+| 107 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 423 |
+| 107 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,783 | 37 |
+| 107 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,443 | 104 |
+| 107 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 553 |
+| 107 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 966 | 156 |
+| 107 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 29 | 500 |
 | 114 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.77 | 36 | 469 |
 | 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 7,733 | 48 |
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.77 | 0 | 553 |
@@ -730,11 +730,11 @@
 | 723 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 553 |
 | 723 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 553 |
 | 723 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 38 | 461 |
-| 723 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 492 | 212 |
+| 723 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 493 | 212 |
 | 723 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,230 | 108 |
 | 723 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 401 |
 | 723 | [Sheltered](games/s/sheltered.md) | 4.41 | 276 | 263 |
-| 723 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,533 | 130 |
+| 723 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,534 | 130 |
 | 736 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 553 |
 | 736 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,051 | 149 |
 | 736 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 553 |
