@@ -4,10 +4,10 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 506,
   "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 383,
+  "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3679,
+  "EOS_Progressed": 3680,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5643,6 +5643,11 @@
       "Time": "2023-11-24T17:04:54.2470428+00:00",
       "NumProgressed": 3679,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T20:05:05.8363154+00:00",
+      "NumProgressed": 3680,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5654,7 +5659,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "AceDetective_9",
@@ -5846,7 +5851,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5862,7 +5867,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -5870,7 +5875,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Tapped_22",
@@ -5918,7 +5923,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -5974,7 +5979,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5989,15 +5994,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3679,
+      "Progressed": 3680,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:06:13.2549357+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:05:05.8363147+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:57:41.1566107+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:06:13.2549936+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:57:23.6369299+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:05:05.8363591+00:00"
 }

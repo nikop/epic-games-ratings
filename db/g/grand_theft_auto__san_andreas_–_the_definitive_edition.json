@@ -1567,9 +1567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13768,
+  "EOS_Progressed": 13769,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14967,6 +14967,11 @@
       "Time": "2023-11-24T19:09:28.3749516+00:00",
       "NumProgressed": 13768,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-24T20:08:50.0078462+00:00",
+      "NumProgressed": 13769,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14978,7 +14983,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11290
+      "UsersEstimate": 11291
     },
     {
       "ID": "ACH02",
@@ -14994,7 +14999,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACH04",
@@ -15082,7 +15087,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "ACH15",
@@ -15257,7 +15262,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13768,
+      "Progressed": 13769,
       "Completed": 53
     }
   ],
@@ -15265,8 +15270,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-24T19:00:12.1940024+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:09:28.3749511+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:08:50.0078456+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:30.7041733+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:00:12.1940043+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:09:28.3750357+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:59:18.8987357+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:08:50.0079193+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "3c06b15a8a2845c0b725d4f952fe00aa",
   "Name": "HITMAN",
   "ProductSlug": "hitman/standard-edition",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 334,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": null,
@@ -2656,10 +2656,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 1607,
       "NumberOfAwardsMax": 217
+    },
+    {
+      "Time": "2023-11-24T19:58:18.8447199+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1608,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1607,
+  "NumberOfAwards": 1608,
   "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2709,7 +2715,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 128
+      "Count": 129
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2735,8 +2741,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2023-11-16T16:57:51.6681998+00:00",
+  "LastChanged": "2023-11-24T19:58:18.8447197+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:14.3030919+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:58:54.4009523+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:08:12.1544139+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:58:18.8447202+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:06:40.3978119+00:00"
 }

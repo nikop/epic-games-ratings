@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,485 |
-| Welcome To Hell-A | 2.00% | ~14,479 |
-| One of Us | 2.00% | ~990 |
-| Pork Chopped | 2.00% | ~990 |
+| Whatever It Takes | 3.00% | ~1,486 |
+| Welcome To Hell-A | 2.00% | ~14,480 |
+| One of Us | 2.00% | ~991 |
+| Pork Chopped | 2.00% | ~991 |
 | Dr. Reed, I Presume? | 1.00% | ~7,240 |
 | Git Gutte! | 1.00% | ~7,240 |
 | Anger Management | 1.00% | ~7,240 |
@@ -27,11 +27,11 @@ Rating: 4.54 (Ranked 526)
 | Slayer Squad | 0.90% | ~6,516 |
 | Like Riding a Bike | 0.90% | ~6,516 |
 | Zombologist | 0.90% | ~6,516 |
+| Ooh, Shiny! | 0.90% | ~6,516 |
 | A Patton Emerges | 0.90% | ~6,516 |
 | Our True Nature | 0.90% | ~6,516 |
 | Perks of the Job | 0.80% | ~5,792 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,792 |
-| Ooh, Shiny! | 0.80% | ~5,792 |
 | I Am the Resurrection | 0.80% | ~5,792 |
 | Making Your Mark | 0.70% | ~5,068 |
 | Humanity Distilled | 0.70% | ~5,068 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~724 |
 | Wilhelm | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,963 (Ranked 21)  
+Progressed: 724,004 (Ranked 21)  
 Completed: 2,429 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,15 +275,15 @@ Completed: 2,429 (0.34%) (Ranked 229)
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
 | 2023-11-23 | 723,442 | 2,428 |
-| 2023-11-24 | 723,963 | 2,429 |
+| 2023-11-24 | 724,004 | 2,429 |
 ## Awards
 Max (Great Boss Battles): 7,695  (Ranked 50)  
-Sum: 11,752 (Ranked 83)  
+Sum: 11,761 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,695 |
-| This game is Great for Beginners | 584 |
+| This game is Great for Beginners | 593 |
 | This game has Diverse Characters | 564 |
 | This game has Quickly Understood Controls | 528 |
 | This game is Relaxing | 507 |
@@ -511,4 +511,4 @@ Diff (max vs sum): -33
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
-| 2023-11-24 | 4.54 | 7,695 | 11,752 |
+| 2023-11-24 | 4.54 | 7,695 | 11,761 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47591,
+  "EOS_Progressed": 47593,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 870,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25533,6 +25533,11 @@
       "Time": "2023-11-24T19:07:56.0218358+00:00",
       "NumProgressed": 47591,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-24T20:06:27.3890383+00:00",
+      "NumProgressed": 47593,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -25624,7 +25629,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "journeyer",
@@ -25664,7 +25669,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8090
+      "UsersEstimate": 8091
     },
     {
       "ID": "novice",
@@ -25816,7 +25821,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "vandal",
@@ -25855,15 +25860,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47591,
+      "Progressed": 47593,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-23T19:57:38.7280718+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:07:56.0218353+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:06:27.3890377+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.043749+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:58:30.5552524+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:07:56.0219855+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:58:01.0425009+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:06:27.3893155+00:00"
 }

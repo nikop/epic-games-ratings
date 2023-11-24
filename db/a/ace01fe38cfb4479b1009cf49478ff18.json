@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -584,6 +584,11 @@
       "Time": "2023-11-24T19:09:38.1089136+00:00",
       "NumProgressed": 133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T20:08:57.6440711+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -596,7 +601,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 31,
       "XP": 45,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -660,7 +665,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -674,31 +679,31 @@
       "ID": "ach_find_all_secrets_c2",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 2",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_find_all_secrets_c3",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 3",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:09:38.1089133+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:08:57.6440706+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.3392935+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:59:44.9836659+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:09:38.1089241+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:58:57.6335339+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:08:57.6440825+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -407,6 +407,11 @@
       "Time": "2023-11-24T19:08:39.3145223+00:00",
       "NumProgressed": 202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T20:08:11.3170206+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -483,7 +488,7 @@
       "Name": "Perfect Run",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -491,7 +496,7 @@
       "Name": "Big Encounter",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -529,9 +534,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "FIRST_S_RANK",
@@ -545,9 +550,9 @@
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "GET_FISH_ALL",
@@ -569,9 +574,9 @@
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -611,7 +616,7 @@
       "Name": "The Journey Begins",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -738,14 +743,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:08:39.3145219+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:08:11.3170202+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:59:40.9735132+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:08:39.3145512+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:58:55.1254891+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:08:11.3170453+00:00"
 }

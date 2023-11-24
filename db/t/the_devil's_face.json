@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 573,
+  "EOS_Progressed": 574,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -2484,6 +2484,11 @@
       "Time": "2023-11-24T15:08:07.9031356+00:00",
       "NumProgressed": 573,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-24T20:03:01.8426219+00:00",
+      "NumProgressed": 574,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 14,
@@ -2495,7 +2500,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2606,14 +2611,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 573,
+      "Progressed": 574,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:03:35.0488149+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:03:01.8426215+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.3122643+00:00",
-  "LastUpdate_Ratings": "2023-11-24T19:02:16.2193264+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:03:35.0488322+00:00"
+  "LastUpdate_Ratings": "2023-11-24T20:00:29.6255609+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:03:01.842687+00:00"
 }

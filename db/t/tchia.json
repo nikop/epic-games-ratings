@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7808,
+  "EOS_Progressed": 7809,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -8380,6 +8380,11 @@
       "Time": "2023-11-24T17:06:19.5405447+00:00",
       "NumProgressed": 7808,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-24T20:06:37.7876761+00:00",
+      "NumProgressed": 7809,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8439,7 +8444,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8479,7 +8484,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ICONOCLAST",
@@ -8487,7 +8492,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "IN_A_PINCH",
@@ -8535,7 +8540,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -8558,7 +8563,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7808,
+      "Progressed": 7809,
       "Completed": 34
     }
   ],
@@ -8566,8 +8571,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-22T17:57:52.5029935+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:08:08.8062101+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:06:37.7876753+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:29.7987835+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:59:52.6580853+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:08:08.8062723+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:59:03.8561252+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:06:37.7877393+00:00"
 }

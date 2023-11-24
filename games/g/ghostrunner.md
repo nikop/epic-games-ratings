@@ -6,20 +6,20 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,570 |
+| Longrunner | 76.00% | ~17,571 |
 | Sword Runner | 61.00% | ~14,103 |
-| Running out of breath | 54.00% | ~12,484 |
-| Wallrunner | 53.00% | ~12,253 |
+| Running out of breath | 54.00% | ~12,485 |
+| Wallrunner | 53.00% | ~12,254 |
 | Homerunner | 45.00% | ~10,404 |
-| Out of order | 44.00% | ~10,172 |
-| I call it luck | 43.00% | ~9,941 |
+| Out of order | 44.00% | ~10,173 |
+| I call it luck | 43.00% | ~9,942 |
 | Where are my Keys? | 40.00% | ~9,248 |
 | Back to hell | 37.00% | ~8,554 |
 | Perfection | 32.00% | ~7,398 |
 | Why not both | 30.00% | ~6,936 |
 | Sword to a gunfight | 29.00% | ~6,705 |
 | Upgrades not mandatory | 29.00% | ~6,705 |
-| Artificial selection | 28.00% | ~6,473 |
+| Artificial selection | 28.00% | ~6,474 |
 | Control freak | 27.00% | ~6,242 |
 | Running Wild | 27.00% | ~6,242 |
 | Finish line | 26.00% | ~6,011 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~92 |
 | Up Close And Personal | 0.40% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,119 (Ranked 131)  
+Progressed: 23,120 (Ranked 131)  
 Completed: 87 (0.38%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 87 (0.38%) (Ranked 222)
 | 2023-11-21 | 22,913 | 87 |
 | 2023-11-22 | 22,986 | 87 |
 | 2023-11-23 | 23,056 | 87 |
-| 2023-11-24 | 23,119 | 87 |
+| 2023-11-24 | 23,120 | 87 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 210)  
 Sum: 751 (Ranked 287)  

@@ -2,9 +2,9 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36,6 +36,11 @@
     {
       "Time": "2023-11-24T18:03:44.9056124+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T20:03:44.4177583+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -95,9 +100,9 @@
       "ID": "DEATH_LAVA",
       "SetID": "5629o35",
       "Name": "The floor is lava. Literally.",
-      "Percentage": 133,
+      "Percentage": 120,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -119,9 +124,9 @@
       "ID": "FIRST_DEATH",
       "SetID": "5629o35",
       "Name": "Welcome to the jumping challenge!",
-      "Percentage": 133,
+      "Percentage": 120,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "OWN_SKINS",
@@ -192,13 +197,13 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:04:28.9992498+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:03:44.417758+00:00",
   "LastUpdate_AppInfo": "2023-11-20T14:57:10.6743119+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:59:59.9313712+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:04:28.999258+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:59:09.7807851+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:03:44.4177686+00:00"
 }

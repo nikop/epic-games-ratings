@@ -6967,10 +6967,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4460,
       "NumberOfAwardsMax": 576
+    },
+    {
+      "Time": "2023-11-24T19:58:34.8551262+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4464,
+      "NumberOfAwardsMax": 576
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4460,
+  "NumberOfAwards": 4464,
   "NumberOfAwardsMax": 576,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6990,7 +6996,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 563
+      "Count": 567
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7041,9 +7047,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 197160,
+  "EOS_Progressed": 197189,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2416,
+  "EOS_NewPlayers": 2425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31941,6 +31947,11 @@
       "Time": "2023-11-24T19:09:31.669442+00:00",
       "NumProgressed": 197160,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-24T20:08:52.6287866+00:00",
+      "NumProgressed": 197189,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -31952,7 +31963,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "Achievement_1",
@@ -31968,7 +31979,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "Achievement_11",
@@ -31976,7 +31987,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "Achievement_12",
@@ -31984,7 +31995,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31546
+      "UsersEstimate": 31550
     },
     {
       "ID": "Achievement_13",
@@ -32008,7 +32019,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "Achievement_2",
@@ -32032,7 +32043,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 49290
+      "UsersEstimate": 49297
     },
     {
       "ID": "Achievement_5",
@@ -32040,7 +32051,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "Achievement_6",
@@ -32048,7 +32059,7 @@
       "Name": "Confined",
       "Percentage": 0.3,
       "XP": 120,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "Achievement_7",
@@ -32064,7 +32075,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17744
+      "UsersEstimate": 17747
     },
     {
       "ID": "Achievement_9",
@@ -32072,22 +32083,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9858
+      "UsersEstimate": 9859
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 197160,
+      "Progressed": 197189,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-24T18:59:14.654329+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:09:31.6694415+00:00",
+  "LastChanged": "2023-11-24T19:58:34.855126+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:08:52.6287858+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:32.1139212+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:59:14.6543297+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:09:31.6695794+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:58:34.8551266+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:08:52.6289252+00:00"
 }

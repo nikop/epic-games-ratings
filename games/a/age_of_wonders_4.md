@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 384)
 | Chaos Surge | 1.00% | ~55 |
 | Seal the Deal | 1.00% | ~55 |
 | Spoils of War | 1.00% | ~55 |
+| Impenetrable Fortress | 0.90% | ~49 |
 | Here be Dragons | 0.90% | ~49 |
 | Tipping the Scales | 0.90% | ~49 |
 | Mighty Hoard | 0.90% | ~49 |
@@ -33,7 +34,6 @@ Rating: 4.61 (Ranked 384)
 | Digging for Treasure | 0.80% | ~44 |
 | My Final Form | 0.80% | ~44 |
 | Fiery Friend | 0.80% | ~44 |
-| Impenetrable Fortress | 0.80% | ~44 |
 | Dawn of the Dread | 0.80% | ~44 |
 | Preparation Is Everything | 0.70% | ~38 |
 | Blood of the Dragon | 0.70% | ~38 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,461 (Ranked 189)  
+Progressed: 5,462 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 7 (0.13%) (Ranked 271)
 | 2023-11-21 | 5,414 | 7 |
 | 2023-11-22 | 5,428 | 7 |
 | 2023-11-23 | 5,446 | 7 |
-| 2023-11-24 | 5,461 | 7 |
+| 2023-11-24 | 5,462 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 484)  
 Sum: 59 (Ranked 476)  

@@ -17,6 +17,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 0.40% | ~961 |
 | Goodbye, Frog Friend | 0.40% | ~961 |
 | A Donation | 0.40% | ~961 |
+| Deflection | 0.40% | ~961 |
 | A Quick Escape | 0.40% | ~961 |
 | Explorer | 0.40% | ~961 |
 | An Offering | 0.40% | ~961 |
@@ -39,7 +40,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spine Breaker | 0.30% | ~720 |
 | Shootout | 0.30% | ~720 |
 | C-C-Combo | 0.30% | ~720 |
-| Deflection | 0.30% | ~720 |
 | Stone Touch | 0.30% | ~720 |
 | Toxic | 0.30% | ~720 |
 | Sneaky | 0.30% | ~720 |

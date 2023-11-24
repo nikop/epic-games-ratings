@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2969,
+  "EOS_Progressed": 2970,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -4301,6 +4301,11 @@
       "Time": "2023-11-24T19:05:20.5166958+00:00",
       "NumProgressed": 2969,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-24T20:04:25.7788736+00:00",
+      "NumProgressed": 2970,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4384,7 +4389,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "THE_END",
@@ -4408,14 +4413,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2969,
+      "Progressed": 2970,
       "Completed": 6
     }
   ],
@@ -4423,8 +4428,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:05:20.5166952+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:04:25.7788731+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:17.4994195+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:57:07.598183+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:05:20.5167284+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:56:58.4551074+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:04:25.7789036+00:00"
 }

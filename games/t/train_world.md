@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Trainee | 27.00% | ~4 |
 | City Link | 27.00% | ~4 |
-| Trainee | 20.00% | ~3 |
 | Line Up | 20.00% | ~3 |
 | Steam Power | 20.00% | ~3 |
 | Task Apprentice | 20.00% | ~3 |
@@ -55,7 +55,7 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 579)  
+Progressed: 15 (Ranked 580)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |

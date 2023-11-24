@@ -19,9 +19,9 @@
 | It's getting dark | 35.00% | ~35 |
 | Sensitive soul | 34.00% | ~34 |
 | Hard Rock | 32.00% | ~32 |
-| Rooftop | 30.00% | ~30 |
-| Homeless | 29.00% | ~29 |
-| Big badaboom! | 28.00% | ~28 |
+| Rooftop | 31.00% | ~31 |
+| Homeless | 30.00% | ~30 |
+| Big badaboom! | 29.00% | ~29 |
 | Bookworm | 26.00% | ~26 |
 | Payback | 25.00% | ~25 |
 | Nokron tower | 24.00% | ~24 |

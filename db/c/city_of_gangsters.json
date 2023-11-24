@@ -790,9 +790,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 353859,
+  "EOS_Progressed": 353862,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1085,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25595,6 +25595,11 @@
       "Time": "2023-11-24T19:07:27.6694627+00:00",
       "NumProgressed": 353859,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T20:06:04.3417416+00:00",
+      "NumProgressed": 353862,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -25814,7 +25819,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 162775
+      "UsersEstimate": 162777
     },
     {
       "ID": "ach028",
@@ -25830,7 +25835,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38924
+      "UsersEstimate": 38925
     },
     {
       "ID": "ach030",
@@ -26006,7 +26011,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38924
+      "UsersEstimate": 38925
     },
     {
       "ID": "ach052",
@@ -26118,7 +26123,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49540
+      "UsersEstimate": 49541
     },
     {
       "ID": "ach067",
@@ -26134,7 +26139,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56617
+      "UsersEstimate": 56618
     },
     {
       "ID": "ach069",
@@ -26142,7 +26147,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49540
+      "UsersEstimate": 49541
     },
     {
       "ID": "ach070",
@@ -26245,7 +26250,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 353859,
+      "Progressed": 353862,
       "Completed": 7
     }
   ],
@@ -26253,8 +26258,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-24T16:57:39.8312422+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:07:27.6694624+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:06:04.3417412+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:23.8503027+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:58:14.6381508+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:07:27.6696253+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:57:49.2948451+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:06:04.3419429+00:00"
 }

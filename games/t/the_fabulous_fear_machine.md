@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Master trainee | 15.00% | ~6 |
 | You have three wishes left | 13.00% | ~5 |
-| Jung's dream | 8.00% | ~3 |
+| Jung's dream | 10.00% | ~4 |
+| The battle of Great Britain | 10.00% | ~4 |
+| Pulp! Terror Tales in the Night | 10.00% | ~4 |
 | Giant | 8.00% | ~3 |
-| The battle of Great Britain | 8.00% | ~3 |
-| Pulp! Terror Tales in the Night | 8.00% | ~3 |
+| A rival with no options | 8.00% | ~3 |
 | Pulp! Where Monsters Dwell | 8.00% | ~3 |
 | A continent with chemistry | 8.00% | ~3 |
 | Bread and bocaua | 5.00% | ~2 |
 | Fanatacism is... poisonous | 5.00% | ~2 |
-| A rival with no options | 5.00% | ~2 |
 | The adventurer | 5.00% | ~2 |
 | ECO mode | 5.00% | ~2 |
 | The happy farmer girl | 5.00% | ~2 |

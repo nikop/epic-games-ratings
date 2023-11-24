@@ -4,7 +4,7 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1891,6 +1891,11 @@
       "Time": "2023-11-24T16:09:05.8069132+00:00",
       "NumProgressed": 425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T20:08:26.9851315+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1918,7 +1923,7 @@
       "Name": "Bad Blood",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_BLOODSTORM",
@@ -1956,9 +1961,9 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -2141,7 +2146,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 0
     }
   ],
@@ -2149,8 +2154,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:08:59.4772407+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:08:26.9851311+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:13.4446098+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:57:13.8137993+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:08:59.4772644+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:57:02.9069976+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:08:26.9851586+00:00"
 }

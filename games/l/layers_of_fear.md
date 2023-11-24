@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 80.00% | ~66 |
-| Something important | 76.00% | ~63 |
+| Wanderer | 81.00% | ~67 |
+| Something important | 77.00% | ~64 |
 | A piece of the story | 61.00% | ~51 |
 | It's covered up for a reason | 45.00% | ~37 |
 | Scraps of love | 43.00% | ~36 |
@@ -25,29 +25,29 @@
 | A Slice of Life | 11.00% | ~9 |
 | Debut | 11.00% | ~9 |
 | The art of movement | 11.00% | ~9 |
-| True Reflection | 10.00% | ~8 |
+| True Reflection | 11.00% | ~9 |
 | Another perspective | 8.00% | ~7 |
 | Sound Bite | 8.00% | ~7 |
 | Heavy Burden | 8.00% | ~7 |
 | Lights! Camera! Action! | 8.00% | ~7 |
-| Casting Finished | 5.00% | ~4 |
+| Casting Finished | 6.00% | ~5 |
+| Fisherman | 6.00% | ~5 |
 | We Are Not Alone | 5.00% | ~4 |
-| Fisherman | 5.00% | ~4 |
 | Something to think about | 4.00% | ~3 |
 | I remember It Like Was Yesterday | 4.00% | ~3 |
+| Body of Work | 4.00% | ~3 |
 | The Perfect Storm | 4.00% | ~3 |
+| Se7en Seas | 4.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |
-| Body of Work | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
 | It was worth a try | 2.00% | ~2 |
-| Se7en Seas | 2.00% | ~2 |
+| A Mosaic of Misery | 2.00% | ~2 |
 | Immortalized in my heart | 1.00% | ~1 |
 | Full Scoop | 1.00% | ~1 |
 | In One Take | 1.00% | ~1 |
 | Preferred Parent | 1.00% | ~1 |
 | The Tree and the Apple | 1.00% | ~1 |
 | Instinct of self-preservation | 1.00% | ~1 |
-| A Mosaic of Misery | 1.00% | ~1 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |

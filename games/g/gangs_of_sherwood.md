@@ -8,9 +8,9 @@
 | Act of Kindness | 75.00% | ~6 |
 | The Altruist | 75.00% | ~6 |
 | Merry Co-operation | 63.00% | ~5 |
+| Savior | 63.00% | ~5 |
 | Watch your Step! | 63.00% | ~5 |
 | Treasure Hunter | 63.00% | ~5 |
-| Savior | 50.00% | ~4 |
 | Tap Dancing | 50.00% | ~4 |
 | Right between the eyes | 50.00% | ~4 |
 | MAX LEVEL | 50.00% | ~4 |
@@ -19,7 +19,10 @@
 | Locksley's Tears | 38.00% | ~3 |
 | Assault on the Ram | 38.00% | ~3 |
 | Spring Board | 38.00% | ~3 |
+| Ultra Rebel Instinct | 38.00% | ~3 |
+| Take Action! | 38.00% | ~3 |
 | Rebel Unleashed | 38.00% | ~3 |
+| First Aid | 38.00% | ~3 |
 | Merry Go Round | 38.00% | ~3 |
 | Starry Night | 25.00% | ~2 |
 | Brilliant Executioner | 25.00% | ~2 |
@@ -27,9 +30,6 @@
 | Ultra Combo | 25.00% | ~2 |
 | The Gang prevails | 25.00% | ~2 |
 | Five of Friends | 25.00% | ~2 |
-| Ultra Rebel Instinct | 25.00% | ~2 |
-| Take Action! | 25.00% | ~2 |
-| First Aid | 25.00% | ~2 |
 | Ascending Will | 13.00% | ~1 |
 | Bold and Bossy | 13.00% | ~1 |
 | Power of Friendship! | 13.00% | ~1 |

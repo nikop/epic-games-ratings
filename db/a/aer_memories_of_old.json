@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,11 +413,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24795,
-  "EOS_Completed": 472,
-  "EOS_NewPlayers": 475,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 1.9,
+  "EOS_Progressed": 24799,
+  "EOS_Completed": 473,
+  "EOS_NewPlayers": 473,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -23848,6 +23848,11 @@
       "Time": "2023-11-24T19:04:44.324327+00:00",
       "NumProgressed": 24795,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-11-24T20:03:57.0506265+00:00",
+      "NumProgressed": 24799,
+      "NumCompleted": 473
     }
   ],
   "TotalAchievements": 20,
@@ -23859,7 +23864,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4215
+      "UsersEstimate": 4216
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -23875,7 +23880,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -23891,7 +23896,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -23915,7 +23920,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2975
+      "UsersEstimate": 2976
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -23923,7 +23928,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "FOUND_ERIN",
@@ -23955,7 +23960,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -23971,7 +23976,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2975
+      "UsersEstimate": 2976
     },
     {
       "ID": "INTRO_FINISHED",
@@ -23979,7 +23984,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 19092
+      "UsersEstimate": 19095
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23987,7 +23992,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6695
+      "UsersEstimate": 6696
     },
     {
       "ID": "NORTH_FINISHED",
@@ -23995,7 +24000,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -24011,22 +24016,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4463
+      "UsersEstimate": 4464
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24795,
-      "Completed": 472
+      "Progressed": 24799,
+      "Completed": 473
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:04:44.3243264+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:03:57.0506261+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:58:42.3319579+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:04:44.3244337+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:58:09.9384783+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:03:57.0507934+00:00"
 }

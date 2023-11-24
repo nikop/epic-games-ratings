@@ -6793,10 +6793,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11752,
       "NumberOfAwardsMax": 7695
+    },
+    {
+      "Time": "2023-11-24T19:58:53.5097063+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11761,
+      "NumberOfAwardsMax": 7695
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11752,
+  "NumberOfAwards": 11761,
   "NumberOfAwardsMax": 7695,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6822,7 +6828,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 584
+      "Count": 593
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6855,9 +6861,9 @@
       "Count": 490
     }
   ],
-  "EOS_Progressed": 723963,
+  "EOS_Progressed": 724004,
   "EOS_Completed": 2429,
-  "EOS_NewPlayers": 4255,
+  "EOS_NewPlayers": 4271,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31835,6 +31841,11 @@
       "Time": "2023-11-24T19:06:26.0411618+00:00",
       "NumProgressed": 723963,
       "NumCompleted": 2429
+    },
+    {
+      "Time": "2023-11-24T20:05:15.9481301+00:00",
+      "NumProgressed": 724004,
+      "NumCompleted": 2429
     }
   ],
   "TotalAchievements": 51,
@@ -32060,9 +32071,9 @@
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5792
+      "UsersEstimate": 6516
     },
     {
       "ID": "ach_magnum_opus",
@@ -32182,7 +32193,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14479
+      "UsersEstimate": 14480
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32206,7 +32217,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ach_dark_magic",
@@ -32214,7 +32225,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ach_gardening_tools",
@@ -32230,7 +32241,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32253,22 +32264,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 723963,
+      "Progressed": 724004,
       "Completed": 2429
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 49505,
-      "Completed": 36591
+      "Progressed": 49546,
+      "Completed": 36592
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-24T13:58:39.1235865+00:00",
-  "LastChanged_Achievements": "2023-11-24T19:06:26.0411613+00:00",
+  "LastChanged": "2023-11-24T19:58:53.5097061+00:00",
+  "LastChanged_Achievements": "2023-11-24T20:05:15.9481296+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:59:38.8992265+00:00",
-  "LastUpdate_Achievements": "2023-11-24T19:06:26.0413386+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:58:53.5097066+00:00",
+  "LastUpdate_Achievements": "2023-11-24T20:05:15.9482809+00:00"
 }
