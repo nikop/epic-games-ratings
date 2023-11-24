@@ -135,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.80% | ~124 |
 | All Nations | 0.80% | ~124 |
 | Poetic Leader | 0.80% | ~124 |
-| Kmt Unified | 0.80% | ~124 |
 | Ishtar Gate in Babylon | 0.70% | ~108 |
 | Peacemaker | 0.70% | ~108 |
 | Noble Difficulty | 0.70% | ~108 |
@@ -143,6 +142,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.70% | ~108 |
 | Cataphract Archer | 0.70% | ~108 |
 | The Great Mage | 0.70% | ~108 |
+| Kmt Unified | 0.70% | ~108 |
 | Carthage - Ox Hide | 0.60% | ~93 |
 | Old | 0.60% | ~93 |
 | Old World Order | 0.60% | ~93 |
@@ -175,6 +175,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.30% | ~46 |
 | Holy | 0.30% | ~46 |
 | Great Difficulty | 0.30% | ~46 |
+| Event Level High | 0.30% | ~46 |
 | Five Routs | 0.30% | ~46 |
 | A Good Start | 0.30% | ~46 |
 | Tell the Spartans | 0.30% | ~46 |
@@ -188,7 +189,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
 | Carthage - Rise of Rome | 0.20% | ~31 |
-| Event Level High | 0.20% | ~31 |
 | Get the Hellas Out | 0.20% | ~31 |
 | The Turning Point | 0.20% | ~31 |
 | Like a Lion | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,465 (Ranked 151)  
+Progressed: 15,467 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -567,7 +567,7 @@ Completed: 5 (0.03%) (Ranked 321)
 | 2023-11-21 | 15,417 | 5 |
 | 2023-11-22 | 15,428 | 5 |
 | 2023-11-23 | 15,453 | 5 |
-| 2023-11-24 | 15,465 | 5 |
+| 2023-11-24 | 15,467 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,874 (Ranked 218)  

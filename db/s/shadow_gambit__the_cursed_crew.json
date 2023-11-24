@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
@@ -2868,6 +2868,11 @@
       "Time": "2023-11-24T22:03:33.437276+00:00",
       "NumProgressed": 882,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-24T23:03:25.5409479+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2888,7 +2893,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "_03_FinishAct1",
@@ -2928,7 +2933,7 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "_08_Completion_10",
@@ -3000,7 +3005,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3062,9 +3067,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 115
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3087,7 +3092,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 30
     }
   ],
@@ -3095,8 +3100,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:03:33.4372757+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:03:25.5409476+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:59:02.413535+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:03:33.4373007+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:58:39.1270407+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:03:25.5409771+00:00"
 }

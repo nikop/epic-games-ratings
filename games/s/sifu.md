@@ -25,13 +25,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.50% | ~3,586 |
 | Old Child | 0.50% | ~3,586 |
 | Path of the Prospect | 0.50% | ~3,586 |
+| Take damage to save time | 0.50% | ~3,586 |
 | Martial Hub | 0.50% | ~133 |
 | Fight the way you practice | 0.50% | ~133 |
 | Scareless | 0.40% | ~2,869 |
 | Qi Gong: Mind | 0.40% | ~2,869 |
 | I know Kung-Fu | 0.40% | ~2,869 |
 | Kung-Fu Tussle | 0.40% | ~2,869 |
-| Take damage to save time | 0.40% | ~2,869 |
 | Bloody Sport | 0.40% | ~106 |
 | Muk Yan Master | 0.30% | ~2,152 |
 | Dance of the Praying Mantis | 0.30% | ~2,152 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,267 (Ranked 22)  
+Progressed: 717,272 (Ranked 22)  
 Completed: 12,939 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 12,939 (1.80%) (Ranked 132)
 | 2023-11-21 | 717,101 | 12,938 |
 | 2023-11-22 | 717,156 | 12,938 |
 | 2023-11-23 | 717,216 | 12,939 |
-| 2023-11-24 | 717,267 | 12,939 |
+| 2023-11-24 | 717,272 | 12,939 |
 ## Awards
 Max (Great Boss Battles): 6,831  (Ranked 55)  
 Sum: 11,953 (Ranked 82)  

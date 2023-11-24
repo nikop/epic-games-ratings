@@ -3,7 +3,7 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 904,
-  "Ranking_Popularity": 484,
+  "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 359,
@@ -735,9 +735,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3842,
+  "EOS_Progressed": 3843,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5915,6 +5915,11 @@
       "Time": "2023-11-24T22:03:45.9010898+00:00",
       "NumProgressed": 3842,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T23:03:38.2434863+00:00",
+      "NumProgressed": 3843,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5951,7 +5956,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "achievement_13",
@@ -5959,7 +5964,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "achievement_14",
@@ -6023,7 +6028,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "achievement_21",
@@ -6055,7 +6060,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "achievement_6",
@@ -6063,7 +6068,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "achievement_7",
@@ -6094,7 +6099,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3842,
+      "Progressed": 3843,
       "Completed": 0
     }
   ],
@@ -6102,8 +6107,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-24T21:57:40.5180136+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:03:45.9010895+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:03:38.243486+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:57:40.5180142+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:03:45.9011257+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:57:21.4695189+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:03:38.2435288+00:00"
 }

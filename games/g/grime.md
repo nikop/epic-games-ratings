@@ -8,9 +8,9 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 5.00% | ~7,994 |
 | Imprint | 5.00% | ~7,994 |
-| The Hunt | 4.00% | ~6,395 |
-| Ravenous | 4.00% | ~6,395 |
-| Weeper | 3.00% | ~4,796 |
+| The Hunt | 4.00% | ~6,396 |
+| Ravenous | 4.00% | ~6,396 |
+| Weeper | 3.00% | ~4,797 |
 | Harmless | 2.00% | ~3,198 |
 | Silenced Whispers | 2.00% | ~3,198 |
 | Devourer | 2.00% | ~3,198 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,879 (Ranked 78)  
+Progressed: 159,888 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 1 (0.00%) (Ranked 359)
 | 2023-11-21 | 159,459 | 1 |
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
-| 2023-11-24 | 159,879 | 1 |
+| 2023-11-24 | 159,888 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 424)  
 Sum: 380 (Ranked 346)  

@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 212,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1053,6 +1053,11 @@
       "Time": "2023-11-24T22:05:16.0642598+00:00",
       "NumProgressed": 210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T23:05:07.0291083+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1071,7 +1076,7 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1079,9 +1084,9 @@
       "ID": "ArleonCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "Death To Diplomacy",
-      "Percentage": 0.5,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ArtifactsEquipped",
@@ -1159,7 +1164,7 @@
       "ID": "ComingThrough",
       "SetID": "71c0n9i",
       "Name": "Coming Through!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1175,7 +1180,7 @@
       "ID": "Deepstrike",
       "SetID": "71c0n9i",
       "Name": "Deepstrike",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1209,7 +1214,7 @@
       "Name": "Double Kill",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1345,7 +1350,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1375,7 +1380,7 @@
       "ID": "TrojanHorse",
       "SetID": "71c0n9i",
       "Name": "Trojan Horse",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1391,9 +1396,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "WielderLevel2",
@@ -1431,7 +1436,7 @@
       "ID": "WinBattleWithOneUnitLeft",
       "SetID": "71c0n9i",
       "Name": "Pyrrhic Victory",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1449,7 +1454,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1496,15 +1501,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 212,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:05:16.0642595+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:05:07.0291081+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:00:03.8598375+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:05:16.0642986+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:59:37.3032543+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:05:07.0291412+00:00"
 }

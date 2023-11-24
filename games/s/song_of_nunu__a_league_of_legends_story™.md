@@ -30,9 +30,9 @@
 | Biggest Snowball Ever | 38.00% | ~327 |
 | Bullseye | 38.00% | ~327 |
 | Boosted! | 38.00% | ~327 |
+| Deadliest and Biggest Snowball Ever! | 38.00% | ~327 |
 | Family | 37.00% | ~318 |
 | Freeze The Ice Witch | 37.00% | ~318 |
-| Deadliest and Biggest Snowball Ever! | 37.00% | ~318 |
 | On The Rocks | 36.00% | ~310 |
 | It Is Not Over | 34.00% | ~292 |
 | Snowy Poro | 32.00% | ~275 |

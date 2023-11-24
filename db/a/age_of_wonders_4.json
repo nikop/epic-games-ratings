@@ -3,7 +3,7 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 384,
-  "Ranking_Popularity": 484,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 271,
@@ -457,18 +457,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 59,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-11-24T23:02:33.5267183+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 60,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59,
-  "NumberOfAwardsMax": 33,
+  "NumberOfAwards": 60,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7885,9 +7891,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-11-23T07:02:54.0495595+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:04:58.5467226+00:00",
+  "LastChanged": "2023-11-24T23:02:33.526718+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:04:50.0527995+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:02:42.7736848+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:04:58.5467858+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:02:33.5267185+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:04:50.0528711+00:00"
 }

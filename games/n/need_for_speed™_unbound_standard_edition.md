@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,006 |
-| Cool Whip | 90.00% | ~9,788 |
-| Fashion Killa | 88.00% | ~9,571 |
-| Drop the Beat | 86.00% | ~9,353 |
-| Hey Lakeshore | 84.00% | ~9,136 |
-| 100 Miles and Runnin' | 83.00% | ~9,027 |
-| Public Enemy | 82.00% | ~8,918 |
-| Rebel Without a Pause | 67.00% | ~7,287 |
-| Hey Speedie! | 67.00% | ~7,287 |
-| Most Wanted | 64.00% | ~6,961 |
-| New Crew | 62.00% | ~6,743 |
-| Serious Guap | 53.00% | ~5,764 |
-| Style it Out | 53.00% | ~5,764 |
-| Escape Artist | 53.00% | ~5,764 |
-| Untouchable | 52.00% | ~5,656 |
-| Oh, It's On | 50.00% | ~5,438 |
-| Rydell's Rydes | 48.00% | ~5,220 |
-| Cash Money Millionaire | 45.00% | ~4,894 |
+| Throwing up Tags | 92.00% | ~10,008 |
+| Cool Whip | 90.00% | ~9,790 |
+| Fashion Killa | 88.00% | ~9,573 |
+| Drop the Beat | 86.00% | ~9,355 |
+| Hey Lakeshore | 84.00% | ~9,138 |
+| 100 Miles and Runnin' | 83.00% | ~9,029 |
+| Public Enemy | 82.00% | ~8,920 |
+| Rebel Without a Pause | 67.00% | ~7,288 |
+| Hey Speedie! | 67.00% | ~7,288 |
+| Most Wanted | 64.00% | ~6,962 |
+| New Crew | 62.00% | ~6,744 |
+| Serious Guap | 53.00% | ~5,765 |
+| Style it Out | 53.00% | ~5,765 |
+| Escape Artist | 53.00% | ~5,765 |
+| Untouchable | 52.00% | ~5,657 |
+| Oh, It's On | 50.00% | ~5,439 |
+| Rydell's Rydes | 48.00% | ~5,221 |
+| Cash Money Millionaire | 45.00% | ~4,895 |
 | Lake Better Watch Out | 39.00% | ~4,242 |
-| #Blessed | 34.00% | ~3,698 |
-| Access All Areas | 33.00% | ~3,589 |
+| #Blessed | 34.00% | ~3,699 |
+| Access All Areas | 33.00% | ~3,590 |
 | Found Family | 31.00% | ~3,372 |
-| In the Flow | 29.00% | ~3,154 |
-| The Collector | 29.00% | ~3,154 |
-| Kick it | 29.00% | ~3,154 |
+| In the Flow | 29.00% | ~3,155 |
+| The Collector | 29.00% | ~3,155 |
+| Kick it | 29.00% | ~3,155 |
 | Top Billin' | 22.00% | ~2,393 |
-| Teacher's Pet | 20.00% | ~2,175 |
+| Teacher's Pet | 20.00% | ~2,176 |
 | Full House | 18.00% | ~1,958 |
 | Superstar | 18.00% | ~1,958 |
 | B for My Name | 17.00% | ~1,849 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~218 |
 | Cleaning Up | 2.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,876 (Ranked 162)  
+Progressed: 10,878 (Ranked 162)  
 Completed: 51 (0.47%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 51 (0.47%) (Ranked 208)
 | 2023-11-21 | 10,637 | 50 |
 | 2023-11-22 | 10,715 | 50 |
 | 2023-11-23 | 10,802 | 51 |
-| 2023-11-24 | 10,876 | 51 |
+| 2023-11-24 | 10,878 | 51 |

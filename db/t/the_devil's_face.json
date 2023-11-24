@@ -3,8 +3,8 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2489,6 +2489,11 @@
       "Time": "2023-11-24T20:03:01.8426219+00:00",
       "NumProgressed": 574,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-24T23:02:59.7667114+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 14,
@@ -2508,7 +2513,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2540,7 +2545,7 @@
       "Name": "Humility",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -2556,15 +2561,15 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 132
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2611,14 +2616,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:03:07.3089491+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:02:59.7667111+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.3122643+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:00:21.6228024+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:03:07.3089748+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:59:54.9745148+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:02:59.7667344+00:00"
 }

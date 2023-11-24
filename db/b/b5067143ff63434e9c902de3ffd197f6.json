@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11343,
+  "EOS_Progressed": 11350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1470,
+  "EOS_NewPlayers": 1463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6529,6 +6529,11 @@
       "Time": "2023-11-24T22:03:23.7729121+00:00",
       "NumProgressed": 11343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T23:03:16.2057494+00:00",
+      "NumProgressed": 11350,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -6565,7 +6570,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_LEVEL974",
@@ -6629,7 +6634,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -6637,7 +6642,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2949
+      "UsersEstimate": 2951
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -6645,7 +6650,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -6653,7 +6658,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -6732,14 +6737,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 11343,
+      "Progressed": 11350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:03:23.7729115+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:03:16.205749+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.1009511+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:57:27.0858284+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:03:23.7729591+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:57:08.4036132+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:03:16.2058008+00:00"
 }

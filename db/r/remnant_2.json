@@ -4701,9 +4701,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 227225,
+  "EOS_Progressed": 227254,
   "EOS_Completed": 515,
-  "EOS_NewPlayers": 4666,
+  "EOS_NewPlayers": 4671,
   "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -19746,6 +19746,11 @@
       "Time": "2023-11-24T22:08:39.3320362+00:00",
       "NumProgressed": 227225,
       "NumCompleted": 515
+    },
+    {
+      "Time": "2023-11-24T23:08:16.6889267+00:00",
+      "NumProgressed": 227254,
+      "NumCompleted": 515
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19758,7 +19763,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -19774,7 +19779,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -20062,7 +20067,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "Obtain_Traits_B",
@@ -20197,13 +20202,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 227225,
+      "Progressed": 227254,
       "Completed": 515
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 6390,
+      "Progressed": 6419,
       "Completed": 149
     }
   ],
@@ -20211,8 +20216,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-24T22:03:00.3828224+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:08:39.3320357+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:08:16.6889263+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:03:00.3828229+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:08:39.3321216+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:02:51.160286+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:08:16.6890258+00:00"
 }

@@ -6,35 +6,35 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 50.00% | ~4,484 |
-| You Shall Not Pass | 50.00% | ~4,484 |
-| Peak Performance | 47.00% | ~4,215 |
-| Avanti Savoia! | 44.00% | ~3,946 |
-| Mamma Mia! | 34.00% | ~3,049 |
+| Tutti Eroi! | 50.00% | ~4,485 |
+| You Shall Not Pass | 50.00% | ~4,485 |
+| Peak Performance | 47.00% | ~4,216 |
+| Avanti Savoia! | 44.00% | ~3,947 |
+| Mamma Mia! | 34.00% | ~3,050 |
 | Conrad von Hotzensocks | 32.00% | ~2,870 |
-| Gabriele D'Annunzio | 31.00% | ~2,780 |
-| Silver Lining | 27.00% | ~2,421 |
-| Aurelio Baruzzi | 21.00% | ~1,883 |
+| Gabriele D'Annunzio | 31.00% | ~2,781 |
+| Silver Lining | 27.00% | ~2,422 |
+| Aurelio Baruzzi | 21.00% | ~1,884 |
 | Decimation | 20.00% | ~1,794 |
 | Donatello | 19.00% | ~1,704 |
 | The Italian Job | 19.00% | ~1,704 |
 | Veni Vidi Vici | 19.00% | ~1,704 |
-| Insubordination | 18.00% | ~1,614 |
+| Insubordination | 18.00% | ~1,615 |
 | Ragazzi del '99 | 17.00% | ~1,525 |
-| Luigi Cadorna | 15.00% | ~1,345 |
-| The Lion of the Isonzo | 15.00% | ~1,345 |
+| Luigi Cadorna | 15.00% | ~1,346 |
+| The Lion of the Isonzo | 15.00% | ~1,346 |
 | Uomo Universale | 13.00% | ~1,166 |
 | Shaken, Not Stirred | 12.00% | ~1,076 |
-| Die Bosniaken Kommen! | 11.00% | ~986 |
-| Dirty Dozen | 11.00% | ~986 |
-| Machiavelli | 11.00% | ~986 |
-| Thus With A Kiss | 11.00% | ~986 |
+| Die Bosniaken Kommen! | 11.00% | ~987 |
+| Dirty Dozen | 11.00% | ~987 |
+| Machiavelli | 11.00% | ~987 |
+| Thus With A Kiss | 11.00% | ~987 |
 | The Devil's Paintbrush | 10.00% | ~897 |
 | Dante's Inferno | 9.00% | ~807 |
 | I Have the High Ground | 9.00% | ~807 |
 | Millenial | 9.00% | ~807 |
-| The Show Must Go On | 8.00% | ~717 |
-| Tosca | 8.00% | ~717 |
+| The Show Must Go On | 8.00% | ~718 |
+| Tosca | 8.00% | ~718 |
 | 12th Bottle of the Isonzo | 6.00% | ~538 |
 | The Enlightment | 6.00% | ~538 |
 | Cercatore d'Oro | 5.00% | ~448 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~36 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,968 (Ranked 168)  
+Progressed: 8,970 (Ranked 168)  
 Completed: 9 (0.10%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 9 (0.10%) (Ranked 282)
 | 2023-11-21 | 8,816 | 9 |
 | 2023-11-22 | 8,892 | 9 |
 | 2023-11-23 | 8,926 | 9 |
-| 2023-11-24 | 8,968 | 9 |
+| 2023-11-24 | 8,970 | 9 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 461)  
 Sum: 285 (Ranked 372)  

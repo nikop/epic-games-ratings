@@ -3,7 +3,7 @@
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 541,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -1117,6 +1117,11 @@
       "Time": "2023-11-24T22:05:19.1832863+00:00",
       "NumProgressed": 538,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T23:05:09.8351845+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1185,7 +1190,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 390
     },
     {
       "ID": "CompleteChapter10",
@@ -1193,7 +1198,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CompleteChapter11",
@@ -1201,7 +1206,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CompleteChapter12",
@@ -1223,9 +1228,9 @@
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "CompleteChapter15",
@@ -1273,15 +1278,15 @@
       "Name": "Met the Enemy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 184
     },
     {
       "ID": "CompleteChapter4",
@@ -1289,7 +1294,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "CompleteChapter5",
@@ -1297,7 +1302,7 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "CompleteChapter6",
@@ -1305,7 +1310,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "CompleteChapter7",
@@ -1313,7 +1318,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "CompleteChapter8",
@@ -1377,7 +1382,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1424,14 +1429,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 541,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:05:19.183286+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:05:09.8351842+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:58:35.4896374+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:05:19.1833117+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:58:13.787102+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:05:09.8352131+00:00"
 }

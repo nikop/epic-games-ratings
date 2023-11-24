@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -2983,9 +2983,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 113
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3023,9 +3023,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 85
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3126,8 +3126,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:03:07.3211841+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:02:59.7948532+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:59:25.0353628+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:03:07.3212059+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:58:59.9119602+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:02:59.7948824+00:00"
 }

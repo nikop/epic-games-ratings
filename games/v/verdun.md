@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~50,356 |
-| Worth it | 63.00% | ~40,672 |
-| Eagle Eye | 55.00% | ~35,507 |
+| Setting an example | 78.00% | ~50,358 |
+| Worth it | 63.00% | ~40,673 |
+| Eagle Eye | 55.00% | ~35,509 |
 | Corpseman I | 40.00% | ~25,824 |
-| Blast fishing | 37.00% | ~23,887 |
-| Not alone | 32.00% | ~20,659 |
-| Headhunter I | 26.00% | ~16,785 |
+| Blast fishing | 37.00% | ~23,888 |
+| Not alone | 32.00% | ~20,660 |
+| Headhunter I | 26.00% | ~16,786 |
 | Manual Labour I | 25.00% | ~16,140 |
-| Developers, Developers, Developers | 24.00% | ~15,494 |
-| Basic Training | 24.00% | ~15,494 |
+| Developers, Developers, Developers | 24.00% | ~15,495 |
+| Basic Training | 24.00% | ~15,495 |
 | Furchtlos und Treu | 13.00% | ~8,393 |
 | Gott Mit Uns | 12.00% | ~7,747 |
 | This We'll Defend! | 9.00% | ~5,810 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~65 |
 | Blood Brother | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,559 (Ranked 105)  
+Progressed: 64,561 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 4 (0.01%) (Ranked 338)
 | 2023-11-21 | 64,309 | 4 |
 | 2023-11-22 | 64,384 | 4 |
 | 2023-11-23 | 64,460 | 4 |
-| 2023-11-24 | 64,559 | 4 |
+| 2023-11-24 | 64,561 | 4 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 356)  
-Sum: 810 (Ranked 280)  
+Sum: 811 (Ranked 280)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -298,8 +298,8 @@ Diff (max vs sum): 76
 | This game has Quickly Understood Controls | 90 |
 | This game has Amazing Characters | 76 |
 | This game is Educational | 76 |
+| This game has Competitive Players | 75 |
 | This game is Relaxing | 75 |
-| This game has Competitive Players | 74 |
 | This game has Realistic Visuals | 73 |
 | This game has a Competitive Community | 71 |
 | This game has Amazing Storytelling | 61 |
@@ -454,4 +454,4 @@ Diff (max vs sum): 76
 | 2023-11-12 | 4.53 | - | 106 | 911 |
 | 2023-11-18 | 4.53 | - | 106 | 912 |
 | 2023-11-19 | 4.53 | - | 103 | 809 |
-| 2023-11-24 | 4.53 | - | 103 | 810 |
+| 2023-11-24 | 4.53 | - | 103 | 811 |

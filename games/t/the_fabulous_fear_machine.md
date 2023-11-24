@@ -18,13 +18,13 @@
 | Fanatacism is... poisonous | 5.00% | ~2 |
 | The artist | 5.00% | ~2 |
 | The adventurer | 5.00% | ~2 |
+| Pulp! Out of this World | 5.00% | ~2 |
 | ECO mode | 5.00% | ~2 |
 | You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
 | The seer | 3.00% | ~1 |
 | The scholar | 3.00% | ~1 |
-| Pulp! Out of this World | 3.00% | ~1 |
 | Pulp! Adventures into the Unknown | 3.00% | ~1 |
 | Kirlian's best disciple | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |

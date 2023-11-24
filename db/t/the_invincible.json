@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
@@ -790,6 +790,11 @@
       "Time": "2023-11-24T21:08:58.1208703+00:00",
       "NumProgressed": 290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T23:08:00.8201976+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -800,17 +805,17 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "AchvAllMemories",
       "SetID": "1hj060c",
       "Name": "I remember everything!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "AchvAssertive",
@@ -890,15 +895,15 @@
       "Name": "Another giant",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "AchvLava",
@@ -906,7 +911,7 @@
       "Name": "Volcanologist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -938,7 +943,7 @@
       "Name": "Innate curiosity",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AchvNoHoles",
@@ -976,17 +981,17 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "AchvReachCondor",
@@ -1000,9 +1005,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1033,14 +1038,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:08:33.1046094+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:08:00.8201973+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:59:54.6575067+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:08:33.1046293+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:59:28.5408461+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:08:00.8202154+00:00"
 }

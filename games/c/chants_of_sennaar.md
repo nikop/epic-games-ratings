@@ -20,12 +20,12 @@
 | Cable guy | 18.00% | ~127 |
 | In this together | 17.00% | ~120 |
 | Champollion | 17.00% | ~120 |
+| Feels like springtime | 16.00% | ~113 |
 | Open door | 15.00% | ~106 |
-| Feels like springtime | 15.00% | ~106 |
 | Alchemists Express | 15.00% | ~106 |
 | Free at last | 13.00% | ~92 |
+| Rascal | 12.00% | ~85 |
 | A Link to the Past | 11.00% | ~78 |
-| Rascal | 11.00% | ~78 |
 | A great audience | 10.00% | ~71 |
 | For its own good | 9.00% | ~64 |
 | Fashion victim | 4.00% | ~28 |

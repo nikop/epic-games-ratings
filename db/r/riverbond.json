@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531920,
+  "EOS_Progressed": 531921,
   "EOS_Completed": 502,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -23692,6 +23692,11 @@
       "Time": "2023-11-24T22:05:31.4741603+00:00",
       "NumProgressed": 531920,
       "NumCompleted": 502
+    },
+    {
+      "Time": "2023-11-24T23:05:22.222844+00:00",
+      "NumProgressed": 531921,
+      "NumCompleted": 502
     }
   ],
   "TotalAchievements": 57,
@@ -23719,7 +23724,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372344
+      "UsersEstimate": 372345
     },
     {
       "ID": "12",
@@ -23727,7 +23732,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117022
+      "UsersEstimate": 117023
     },
     {
       "ID": "13",
@@ -23783,7 +23788,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329790
+      "UsersEstimate": 329791
     },
     {
       "ID": "2",
@@ -23999,7 +24004,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90426
+      "UsersEstimate": 90427
     },
     {
       "ID": "44",
@@ -24031,7 +24036,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329790
+      "UsersEstimate": 329791
     },
     {
       "ID": "48",
@@ -24079,7 +24084,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244683
+      "UsersEstimate": 244684
     },
     {
       "ID": "53",
@@ -24158,15 +24163,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531920,
+      "Progressed": 531921,
       "Completed": 502
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:05:31.4741598+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:05:22.2228436+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.3890508+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:02:46.2188541+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:05:31.4743042+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:02:37.8168101+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:05:22.2229799+00:00"
 }

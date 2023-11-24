@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-11-22T05:04:13.7204807+00:00",
       "NumProgressed": 333,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-24T23:04:48.913439+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -545,7 +550,7 @@
       "Name": "Believer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "clear",
@@ -615,9 +620,9 @@
       "ID": "origin",
       "SetID": "8b5dfcp",
       "Name": "Origin",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 164
     },
     {
       "ID": "realist",
@@ -625,7 +630,7 @@
       "Name": "Realist",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "tough",
@@ -656,7 +661,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 5
     }
   ],
@@ -664,8 +669,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:04:57.3372331+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:04:48.9134387+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:23.784053+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:57:19.1301144+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:04:57.3372451+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:57:01.4438629+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:04:48.9134489+00:00"
 }

@@ -6,68 +6,68 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 222.00% | ~999 |
-| Iron Chef | 161.00% | ~724 |
-| Greeno-B-Gone | 116.00% | ~522 |
-| Your Especially Earned Trajectory | 94.00% | ~423 |
-| Super Spelunker | 73.00% | ~328 |
-| No Mountain Wide Enough | 69.00% | ~310 |
-| One of the Cool Kids | 69.00% | ~310 |
-| On that Grindset | 66.00% | ~297 |
-| Yakmel Whisperer | 66.00% | ~297 |
-| Can We Keep It? | 65.00% | ~292 |
-| Diamonds are Forever | 62.00% | ~279 |
-| Pack Mule | 60.00% | ~270 |
-| Unboxing | 56.00% | ~252 |
-| The Little Wood that Could | 55.00% | ~248 |
-| First Love | 54.00% | ~243 |
-| Chatterbox | 53.00% | ~238 |
-| I Do! | 52.00% | ~234 |
-| Big Game Hunter | 50.00% | ~225 |
-| Financially Secure | 49.00% | ~220 |
-| Happier-est Place on Earth | 49.00% | ~220 |
-| Got Served | 48.00% | ~216 |
-| You Don't Win Friends With Salad | 48.00% | ~216 |
-| Call Me Fishmael | 47.00% | ~212 |
-| Builder of the Month | 46.00% | ~207 |
-| Anti-Santa | 46.00% | ~207 |
-| Commissions, commissions...! | 44.00% | ~198 |
-| Martle's Dream | 44.00% | ~198 |
-| Mole Masher | 44.00% | ~198 |
-| Panda-kin | 43.00% | ~194 |
-| Finishing Touches | 43.00% | ~194 |
-| Better Late than Never | 43.00% | ~194 |
-| What Plants Crave | 43.00% | ~194 |
-| Waste Not Want Not | 43.00% | ~194 |
-| Knowledge is Power | 42.00% | ~189 |
-| Officially Official | 42.00% | ~189 |
-| Elementary, My Dear | 42.00% | ~189 |
-| Bridging the Gap | 40.00% | ~180 |
-| Lifeline Pipeline | 40.00% | ~180 |
-| My Time Mansion | 38.00% | ~171 |
-| Got the Flow Back | 37.00% | ~166 |
-| Who Ya Gonna Call...? | 36.00% | ~162 |
-| Jewel of the Eufaula | 35.00% | ~158 |
-| Sepia Toned Memories | 35.00% | ~158 |
-| Kind of a Big Deal | 30.00% | ~135 |
-| He Can Spin A Yarn... | 30.00% | ~135 |
-| Time Flies | 29.00% | ~130 |
-| Santa In Training | 28.00% | ~126 |
-| Just What I Always Wanted! | 28.00% | ~126 |
-| Sandrunning Speedster | 27.00% | ~122 |
-| Newton | 26.00% | ~117 |
-| It Belongs in a Museum! | 26.00% | ~117 |
-| Do Your Part | 24.00% | ~108 |
-| Pro Gamer | 23.00% | ~104 |
-| Cardistry | 18.00% | ~81 |
-| It's High Noon... | 12.00% | ~54 |
-| Strong Arms | 12.00% | ~54 |
-| Got the Receipt? | 12.00% | ~54 |
-| Jack of All Trades | 8.00% | ~36 |
-| Sandrock's Hottest Club | 4.00% | ~18 |
+| Adept Assembler | 228.00% | ~999 |
+| Iron Chef | 166.00% | ~727 |
+| Greeno-B-Gone | 119.00% | ~521 |
+| Your Especially Earned Trajectory | 96.00% | ~420 |
+| Super Spelunker | 75.00% | ~328 |
+| No Mountain Wide Enough | 71.00% | ~311 |
+| One of the Cool Kids | 71.00% | ~311 |
+| On that Grindset | 68.00% | ~298 |
+| Yakmel Whisperer | 68.00% | ~298 |
+| Can We Keep It? | 67.00% | ~293 |
+| Diamonds are Forever | 64.00% | ~280 |
+| Pack Mule | 62.00% | ~272 |
+| The Little Wood that Could | 57.00% | ~250 |
+| Unboxing | 57.00% | ~250 |
+| First Love | 56.00% | ~245 |
+| Chatterbox | 55.00% | ~241 |
+| I Do! | 53.00% | ~232 |
+| Big Game Hunter | 52.00% | ~228 |
+| Financially Secure | 50.00% | ~219 |
+| Happier-est Place on Earth | 50.00% | ~219 |
+| Got Served | 50.00% | ~219 |
+| You Don't Win Friends With Salad | 50.00% | ~219 |
+| Builder of the Month | 48.00% | ~210 |
+| Call Me Fishmael | 48.00% | ~210 |
+| Anti-Santa | 47.00% | ~206 |
+| Mole Masher | 46.00% | ~201 |
+| Panda-kin | 45.00% | ~197 |
+| Commissions, commissions...! | 45.00% | ~197 |
+| Better Late than Never | 45.00% | ~197 |
+| Martle's Dream | 45.00% | ~197 |
+| Finishing Touches | 44.00% | ~193 |
+| What Plants Crave | 44.00% | ~193 |
+| Officially Official | 44.00% | ~193 |
+| Waste Not Want Not | 44.00% | ~193 |
+| Knowledge is Power | 43.00% | ~188 |
+| Elementary, My Dear | 43.00% | ~188 |
+| Bridging the Gap | 42.00% | ~184 |
+| Lifeline Pipeline | 41.00% | ~180 |
+| My Time Mansion | 39.00% | ~171 |
+| Got the Flow Back | 38.00% | ~166 |
+| Who Ya Gonna Call...? | 37.00% | ~162 |
+| Jewel of the Eufaula | 36.00% | ~158 |
+| Sepia Toned Memories | 36.00% | ~158 |
+| Kind of a Big Deal | 31.00% | ~136 |
+| He Can Spin A Yarn... | 31.00% | ~136 |
+| Time Flies | 30.00% | ~131 |
+| Santa In Training | 29.00% | ~127 |
+| Just What I Always Wanted! | 29.00% | ~127 |
+| Sandrunning Speedster | 27.00% | ~118 |
+| Newton | 27.00% | ~118 |
+| It Belongs in a Museum! | 27.00% | ~118 |
+| Do Your Part | 25.00% | ~110 |
+| Pro Gamer | 24.00% | ~105 |
+| Cardistry | 18.00% | ~79 |
+| Strong Arms | 13.00% | ~57 |
+| Got the Receipt? | 13.00% | ~57 |
+| It's High Noon... | 12.00% | ~53 |
+| Jack of All Trades | 8.00% | ~35 |
+| Sandrock's Hottest Club | 5.00% | ~22 |
 | Winner and Still Champeen | 4.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 316)  
+Progressed: 438 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,12 +96,12 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-23 | 452 | 0 |
 | 2023-11-24 | 455 | 0 |
 ## Awards
-Max (Character Customization): 597  (Ranked 196)  
-Sum: 1,389 (Ranked 240)  
-Diff (max vs sum): -44  
+Max (Character Customization): 599  (Ranked 194)  
+Sum: 1,393 (Ranked 240)  
+Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 597 |
+| This game has Inclusive Character Customization | 599 |
 | This game is Great for Beginners | 111 |
 | This game is Highly Recommended | 89 |
 | This game is Extremely Fun | 87 |
@@ -110,7 +110,7 @@ Diff (max vs sum): -44
 | This game is Relaxing | 74 |
 | This game has Amazing Characters | 72 |
 | This game has Amazing Storytelling | 71 |
-| This game has Easy Combat | 68 |
+| This game has Easy Combat | 70 |
 | This game has a Creative Community | 57 |
 | This game has a Kind Community | 46 |
 | This game has Obsessive Gameplay | 40 |
@@ -287,4 +287,4 @@ Diff (max vs sum): -44
 | 2023-11-21 | 4.68 | - | 597 | 1,380 |
 | 2023-11-22 | 4.68 | - | 597 | 1,383 |
 | 2023-11-23 | 4.68 | - | 597 | 1,387 |
-| 2023-11-24 | 4.68 | - | 597 | 1,389 |
+| 2023-11-24 | 4.68 | - | 599 | 1,393 |

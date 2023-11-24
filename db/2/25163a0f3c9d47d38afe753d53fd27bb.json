@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1634,
+  "EOS_Progressed": 1635,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 6.79,
   "EosHistory": [
@@ -3784,6 +3784,11 @@
       "Time": "2023-11-24T21:10:11.8539112+00:00",
       "NumProgressed": 1634,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-11-24T23:09:00.8119854+00:00",
+      "NumProgressed": 1635,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 30,
@@ -3795,7 +3800,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "LEVEL_002",
@@ -3803,7 +3808,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "LEVEL_003",
@@ -3811,7 +3816,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "LEVEL_004",
@@ -3819,7 +3824,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "LEVEL_005",
@@ -3843,7 +3848,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "LEVEL_008",
@@ -3899,7 +3904,7 @@
       "Name": "Cross-country",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "LEVEL_015",
@@ -3923,7 +3928,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "LEVEL_018",
@@ -4034,14 +4039,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1634,
+      "Progressed": 1635,
       "Completed": 111
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:09:24.4586584+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:09:00.811985+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:58:52.7581064+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:09:24.4586927+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:58:29.4705802+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:09:00.8120261+00:00"
 }

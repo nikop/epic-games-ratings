@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2022,9 +2022,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15465,
+  "EOS_Progressed": 15467,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16472,6 +16472,11 @@
       "Time": "2023-11-24T21:03:49.5206446+00:00",
       "NumProgressed": 15465,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-24T23:03:12.1748083+00:00",
+      "NumProgressed": 15467,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17305,9 +17310,9 @@
       "ID": "ACHIEVEMENT_EVENTLEVEL_HIGH",
       "SetID": "9201eeb",
       "Name": "Event Level High",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
@@ -18881,9 +18886,9 @@
       "ID": "ACHIEVEMENT_EGYPT1_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Kmt Unified",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MAJOR_VICTORY",
@@ -19218,21 +19223,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15465,
+      "Progressed": 15467,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15465,
+      "Progressed": 15467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-23T17:58:16.2133838+00:00",
-  "LastChanged_Achievements": "2023-11-24T22:03:19.4531387+00:00",
+  "LastChanged_Achievements": "2023-11-24T23:03:12.174808+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-24T21:58:53.6324908+00:00",
-  "LastUpdate_Achievements": "2023-11-24T22:03:19.4540058+00:00"
+  "LastUpdate_Ratings": "2023-11-24T22:58:30.2932092+00:00",
+  "LastUpdate_Achievements": "2023-11-24T23:03:12.1757308+00:00"
 }
