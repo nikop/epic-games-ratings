@@ -80,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Laid Plans | 0.10% | ~203 |
 | Pincushion Party | 0.10% | ~203 |
 | The Howling Peaks of Yon | 0.10% | ~203 |
+| Strength of Character | 0.10% | ~203 |
 | The Invisible Wizards of Thay | 0.10% | ~203 |
 | Heavy Burden | 0.10% | ~237 |
 | Seeds of Destruction | 0.10% | ~203 |
@@ -496,6 +497,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~203 |
 | Quick or Quack | 0.10% | ~203 |
 | Willing to Sacrifice | 0.10% | ~203 |
+| Devilishly Cold | 0.10% | ~203 |
 | The Champion's Guide to Wildspace | 0.10% | ~203 |
 | Not That Type of Helm! | 0.10% | ~203 |
 | All The World's A Stage | 0.10% | ~203 |
@@ -533,13 +535,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~203 |
 | See You on the Flipside | 0.10% | ~203 |
 | G. O. A. T. | 0.00% | ~0 |
-| Strength of Character | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Devilishly Cold | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,589 (Ranked 64)  
+Progressed: 236,603 (Ranked 64)  
 Completed: 2,472 (1.04%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -757,7 +757,7 @@ Completed: 2,472 (1.04%) (Ranked 163)
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
 | 2023-11-23 | 236,580 | 2,472 |
-| 2023-11-24 | 236,589 | 2,472 |
+| 2023-11-24 | 236,603 | 2,472 |
 ## Awards
 Max (Great for Beginners): 5,559  (Ranked 70)  
 Sum: 32,590 (Ranked 41)  

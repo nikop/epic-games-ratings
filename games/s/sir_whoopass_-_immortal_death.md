@@ -11,12 +11,12 @@
 | I like you...but I have to kill you... | 86.00% | ~113 |
 | AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~111 |
 | Not so hip anymore! | 84.00% | ~110 |
-| Nerd | 81.00% | ~106 |
-| Blurry depth perception | 81.00% | ~106 |
+| Nerd | 82.00% | ~107 |
+| Blurry depth perception | 82.00% | ~107 |
 | Up and down | 78.00% | ~102 |
 | Rolling, Rolling, Rolling | 75.00% | ~98 |
 | Fire-fighter! | 66.00% | ~86 |
-| Oh, you're up to no gouda! | 63.00% | ~83 |
+| Oh, you're up to no gouda! | 64.00% | ~84 |
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~81 |
 | Meat grinder | 61.00% | ~80 |
 | You're not going to blow me up! | 56.00% | ~73 |
@@ -57,8 +57,8 @@
 | Free Of Chains | 11.00% | ~14 |
 | Spoiler alert! | 10.00% | ~13 |
 | Grumpy Immortal | 10.00% | ~13 |
+| Ancient Ruins of Moist Overhangs | 9.00% | ~12 |
 | I drink, but I'm not a drunk! | 9.00% | ~12 |
-| Ancient Ruins of Moist Overhangs | 8.00% | ~10 |
 | I want to throw up! | 8.00% | ~10 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~9 |
 | Scrambled Eggs | 7.00% | ~9 |

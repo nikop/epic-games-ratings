@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1790,
+  "EOS_Progressed": 1791,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -4114,6 +4114,11 @@
       "Time": "2023-11-23T02:30:22.7407732+00:00",
       "NumProgressed": 1790,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-24T01:53:09.7249146+00:00",
+      "NumProgressed": 1791,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4125,7 +4130,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Auditor",
@@ -4157,7 +4162,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Commandos",
@@ -4213,7 +4218,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Experienced_strategist",
@@ -4309,7 +4314,7 @@
       "Name": "Bomberman",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "MoskitoBite",
@@ -4317,7 +4322,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "Scout",
@@ -4364,15 +4369,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1790,
+      "Progressed": 1791,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:06:25.8909984+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:53:09.7249142+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:07.4089299+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:58:43.1620312+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:06:25.8910468+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:43:48.0121583+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:53:09.724975+00:00"
 }

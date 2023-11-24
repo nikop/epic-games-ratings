@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -14108,10 +14108,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 97733,
       "NumberOfAwardsMax": 12419
+    },
+    {
+      "Time": "2023-11-24T01:42:58.4080801+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 97754,
+      "NumberOfAwardsMax": 12419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97733,
+  "NumberOfAwards": 97754,
   "NumberOfAwardsMax": 12419,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -14131,7 +14137,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9646
+      "Count": 9655
     },
     {
       "Text": "This game is Relaxing",
@@ -14155,7 +14161,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 8761
+      "Count": 8767
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14173,7 +14179,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6461
+      "Count": 6467
     },
     {
       "Text": "This game has a Competitive Community",
@@ -14193,8 +14199,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-11-23T23:57:55.2026371+00:00",
+  "LastChanged": "2023-11-24T01:42:58.4080799+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.0741929+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:57:55.202638+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:04:08.1659068+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:42:58.4080804+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:49:09.757065+00:00"
 }

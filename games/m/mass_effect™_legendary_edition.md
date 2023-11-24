@@ -67,12 +67,12 @@
 | Treason | 29.00% | ~399 |
 | Agent | 29.00% | ~399 |
 | Digital Exorcist | 29.00% | ~399 |
+| Against All Odds | 28.00% | ~385 |
 | Friend or Foe | 28.00% | ~385 |
 | Doppelganger | 28.00% | ~385 |
 | Mobilizer | 28.00% | ~385 |
 | Mission Accomplished | 27.00% | ~371 |
 | Suicide Mission | 27.00% | ~371 |
-| Against All Odds | 27.00% | ~371 |
 | Untouchable | 26.00% | ~358 |
 | Eye of the Hurricane | 26.00% | ~358 |
 | Giant Killer | 26.00% | ~358 |
@@ -117,9 +117,9 @@
 | Always Prepared | 9.00% | ~124 |
 | Lift Mastery | 9.00% | ~124 |
 | Sky High | 8.00% | ~110 |
+| Singularity Mastery | 7.00% | ~96 |
 | Insanity I | 6.00% | ~82 |
 | Damping Specialist | 6.00% | ~82 |
-| Singularity Mastery | 6.00% | ~82 |
 | Incineration Specialist | 5.00% | ~69 |
 | Shield Breaker | 4.00% | ~55 |
 | Warp Specialist | 4.00% | ~55 |

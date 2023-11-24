@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1370,9 +1370,9 @@
       "ID": "Vanilla_SadirarBlessing",
       "SetID": "27kik8p",
       "Name": "Spiritual Journey",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Vanilla_Scythichnis",
@@ -1571,8 +1571,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:05:38.3736175+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:50:42.4233076+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.4978725+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:59:10.3565218+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:05:38.3737017+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:44:15.6096179+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:50:42.4234154+00:00"
 }

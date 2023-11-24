@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 10.00% | ~20 |
+| Trinity | 10.00% | ~21 |
 | Find Allies | 8.00% | ~16 |
 | Adventurer | 8.00% | ~16 |
 | Geared Up | 8.00% | ~16 |
@@ -33,16 +33,16 @@
 | Flawless Victory | 1.00% | ~2 |
 | All That Gold | 1.00% | ~2 |
 | Miner | 1.00% | ~2 |
+| A Queen's Tale | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Shardbearer | 0.50% | ~1 |
 | All There Is | 0.50% | ~1 |
 | False God | 0.50% | ~1 |
-| A Queen's Tale | 0.50% | ~1 |
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205 (Ranked 385)  
-Completed: 2 (0.98%) (Ranked 166)  
+Progressed: 206 (Ranked 384)  
+Completed: 2 (0.97%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,4 +86,4 @@ Completed: 2 (0.98%) (Ranked 166)
 | 2023-11-21 | 197 | 1 |
 | 2023-11-22 | 203 | 2 |
 | 2023-11-23 | 204 | 2 |
-| 2023-11-24 | 205 | 2 |
+| 2023-11-24 | 206 | 2 |

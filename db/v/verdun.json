@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1841,9 +1841,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 64464,
+  "EOS_Progressed": 64466,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 722,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25741,6 +25741,11 @@
       "Time": "2023-11-24T00:03:13.1408145+00:00",
       "NumProgressed": 64464,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T01:48:13.0722427+00:00",
+      "NumProgressed": 64466,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -25752,7 +25757,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 35455
+      "UsersEstimate": 35456
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -25872,7 +25877,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15471
+      "UsersEstimate": 15472
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -26008,7 +26013,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20628
+      "UsersEstimate": 20629
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -26040,7 +26045,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 40612
+      "UsersEstimate": 40614
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -26064,7 +26069,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15471
+      "UsersEstimate": 15472
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -26088,7 +26093,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4512
+      "UsersEstimate": 4513
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -26120,7 +26125,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 50282
+      "UsersEstimate": 50283
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -26136,7 +26141,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4512
+      "UsersEstimate": 4513
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -26168,7 +26173,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8380
+      "UsersEstimate": 8381
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -26223,15 +26228,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 64464,
+      "Progressed": 64466,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-19T17:57:36.1682305+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:03:13.140814+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:48:13.0722424+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.223539+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:59:25.3410316+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:03:13.140931+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:44:31.8393943+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:48:13.0723573+00:00"
 }

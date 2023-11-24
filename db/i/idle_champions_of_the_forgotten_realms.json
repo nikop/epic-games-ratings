@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8263,9 +8263,9 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236589,
+  "EOS_Progressed": 236603,
   "EOS_Completed": 2472,
-  "EOS_NewPlayers": 1205,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32673,6 +32673,11 @@
       "Time": "2023-11-24T00:09:09.8095076+00:00",
       "NumProgressed": 236589,
       "NumCompleted": 2472
+    },
+    {
+      "Time": "2023-11-24T01:54:24.7589826+00:00",
+      "NumProgressed": 236603,
+      "NumCompleted": 2472
     }
   ],
   "TotalAchievements": 532,
@@ -33282,9 +33287,9 @@
       "ID": "objective_completed_1148",
       "SetID": "415jc5c",
       "Name": "Strength of Character",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1149",
@@ -36634,9 +36639,9 @@
       "ID": "objective_completed_1047",
       "SetID": "415jc5c",
       "Name": "Devilishly Cold",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1215",
@@ -36939,21 +36944,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202863,
+      "Progressed": 202877,
       "Completed": 3938
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236589,
+      "Progressed": 236603,
       "Completed": 2472
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-23T22:58:16.7135298+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:09:09.8095072+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:54:24.7589824+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:57:59.0213883+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:09:09.8116266+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:43:02.2910726+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:54:24.7610566+00:00"
 }

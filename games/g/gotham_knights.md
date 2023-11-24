@@ -1,56 +1,56 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 923)  
+Rating: 4.19 (Ranked 924)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,241 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,930 |
-| Loose Ends | 34.00% | ~26,161 |
-| To the Victor Go the Spoils | 28.00% | ~21,544 |
-| Knighthood | 27.00% | ~20,775 |
-| Get ReQ'd | 25.00% | ~19,236 |
-| Whispered Words | 25.00% | ~19,236 |
-| The Batman Family | 23.00% | ~17,697 |
-| Lock and Key | 22.00% | ~16,927 |
-| Something in the Clay | 21.00% | ~16,158 |
-| Quartzer Life Crisis | 20.00% | ~15,389 |
-| Working Hard or Harley Working? | 20.00% | ~15,389 |
-| Unstoppable Force | 20.00% | ~15,389 |
-| Bad Apples in Every Orchard | 20.00% | ~15,389 |
-| Snow Problem | 19.00% | ~14,619 |
-| The Show Mud Go On | 18.00% | ~13,850 |
-| From Inside Gotham's Walls | 18.00% | ~13,850 |
-| Protector of Gotham | 17.00% | ~13,080 |
-| Universal Health Scare | 16.00% | ~12,311 |
-| In Your Element | 15.00% | ~11,541 |
-| Voiceless | 15.00% | ~11,541 |
-| Rock and a Hard Place | 14.00% | ~10,772 |
-| Cooldown | 14.00% | ~10,772 |
-| Seeking Asylum | 14.00% | ~10,772 |
-| Not On My Watch | 13.00% | ~10,003 |
-| Shock Til They Drop | 13.00% | ~10,003 |
-| End of an Era | 12.00% | ~9,233 |
-| Bulldozed | 12.00% | ~9,233 |
-| Gotham Knight | 12.00% | ~9,233 |
-| Gotham City Confidential | 11.00% | ~8,464 |
-| Drone You Out | 10.00% | ~7,694 |
-| Out of Their League | 9.00% | ~6,925 |
-| Solid Alibi | 9.00% | ~6,925 |
-| Fusion Expert | 7.00% | ~5,386 |
+| First Step Into the Knight | 51.00% | ~39,245 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,933 |
+| Loose Ends | 34.00% | ~26,163 |
+| To the Victor Go the Spoils | 28.00% | ~21,546 |
+| Knighthood | 27.00% | ~20,777 |
+| Get ReQ'd | 25.00% | ~19,238 |
+| Whispered Words | 25.00% | ~19,238 |
+| The Batman Family | 23.00% | ~17,699 |
+| Lock and Key | 22.00% | ~16,929 |
+| Something in the Clay | 21.00% | ~16,160 |
+| Quartzer Life Crisis | 20.00% | ~15,390 |
+| Working Hard or Harley Working? | 20.00% | ~15,390 |
+| Unstoppable Force | 20.00% | ~15,390 |
+| Bad Apples in Every Orchard | 20.00% | ~15,390 |
+| Snow Problem | 19.00% | ~14,621 |
+| The Show Mud Go On | 18.00% | ~13,851 |
+| From Inside Gotham's Walls | 18.00% | ~13,851 |
+| Protector of Gotham | 17.00% | ~13,082 |
+| Universal Health Scare | 16.00% | ~12,312 |
+| In Your Element | 15.00% | ~11,543 |
+| Voiceless | 15.00% | ~11,543 |
+| Rock and a Hard Place | 14.00% | ~10,773 |
+| Cooldown | 14.00% | ~10,773 |
+| Seeking Asylum | 14.00% | ~10,773 |
+| Not On My Watch | 13.00% | ~10,004 |
+| Shock Til They Drop | 13.00% | ~10,004 |
+| End of an Era | 12.00% | ~9,234 |
+| Bulldozed | 12.00% | ~9,234 |
+| Gotham Knight | 12.00% | ~9,234 |
+| Gotham City Confidential | 11.00% | ~8,465 |
+| Drone You Out | 10.00% | ~7,695 |
+| Out of Their League | 9.00% | ~6,926 |
+| Solid Alibi | 9.00% | ~6,926 |
+| Fusion Expert | 7.00% | ~5,387 |
 | Expert Crime Fighter | 6.00% | ~4,617 |
 | Family Meeting | 6.00% | ~4,617 |
 | A Worthy Successor | 6.00% | ~4,617 |
 | Dressed to Impress | 4.00% | ~3,078 |
-| A Momentum Occasion | 3.00% | ~2,308 |
-| Bat Out of Hell | 3.00% | ~2,308 |
+| A Momentum Occasion | 3.00% | ~2,309 |
+| Bat Out of Hell | 3.00% | ~2,309 |
 | Practice Makes Perfect | 2.00% | ~1,539 |
 | He'd Be So Proud of You | 2.00% | ~1,539 |
-| Talonted | 1.00% | ~769 |
-| The Man-Bat Family | 1.00% | ~769 |
-| Batarang Collector | 1.00% | ~769 |
-| Claiming the Mural High Ground | 1.00% | ~769 |
+| Talonted | 1.00% | ~770 |
+| The Man-Bat Family | 1.00% | ~770 |
+| Batarang Collector | 1.00% | ~770 |
+| Claiming the Mural High Ground | 1.00% | ~770 |
 | Icebreaker | 0.80% | ~378 |
 | History Major | 0.80% | ~616 |
 | A Sophisticated Mallet | 0.80% | ~378 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 923)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,943 (Ranked 99)  
+Progressed: 76,951 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 124 (0.16%) (Ranked 266)
 | 2023-11-21 | 76,798 | 124 |
 | 2023-11-22 | 76,865 | 124 |
 | 2023-11-23 | 76,938 | 124 |
-| 2023-11-24 | 76,943 | 124 |
+| 2023-11-24 | 76,951 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,966  (Ranked 98)  
 Sum: 5,048 (Ranked 140)  

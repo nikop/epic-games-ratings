@@ -30,7 +30,7 @@ Rating: 4.64 (Ranked 333)
 | Bathe With A Giant Nude Alien | 1.00% | ~18 |
 | Mux Ado About Shipping | 0.80% | ~15 |
 | Gunning For Your Job | 0.60% | ~147 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.50% | ~123 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.60% | ~147 |
 | Fall In Love With A Parasite | 0.50% | ~9 |
 | Sequel-Bait | 0.40% | ~98 |
 | Playing Favorites | 0.30% | ~74 |

@@ -25,8 +25,8 @@
 | Threat | 6.00% | ~2 |
 | Keep the Doctor Away | 3.00% | ~1 |
 | Just a Palm Tree | 3.00% | ~1 |
+| Under the Hood | 3.00% | ~1 |
 | Eyes Shut | 3.00% | ~1 |
-| Under the Hood | 0.00% | ~0 |
 | Long Live Gaipajama! | 0.00% | ~0 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Tintin, Reporter | 0.00% | ~0 |

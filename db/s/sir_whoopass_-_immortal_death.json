@@ -4,8 +4,8 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -638,9 +638,9 @@
       "ID": "CHEESE_2",
       "SetID": "9gfkh7c",
       "Name": "Oh, you\u0027re up to no gouda!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CHEESE_3",
@@ -678,9 +678,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_01",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Moist Overhangs",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_02",
@@ -1158,9 +1158,9 @@
       "ID": "OTHER_1",
       "SetID": "9gfkh7c",
       "Name": "Nerd",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "OTHER_2",
@@ -1214,9 +1214,9 @@
       "ID": "SVEN_OLOF_1",
       "SetID": "9gfkh7c",
       "Name": "Blurry depth perception",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WEAPON_1",
@@ -1261,8 +1261,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:08:41.5540832+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:53:55.9472682+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:08.5244911+00:00",
-  "LastUpdate_Ratings": "2023-11-24T00:02:33.570698+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:08:41.5541471+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:47:31.0823089+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:53:55.9473408+00:00"
 }

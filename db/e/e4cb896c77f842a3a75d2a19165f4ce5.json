@@ -4,8 +4,8 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -1964,9 +1964,9 @@
       "ID": "LEVEL_004",
       "SetID": "7jk5g4e",
       "Name": "Two-story house",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 45,
-      "UsersEstimate": 473
+      "UsersEstimate": 479
     },
     {
       "ID": "LEVEL_006",
@@ -2043,8 +2043,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:08:13.5710957+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:53:26.9816697+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.8291287+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:57:12.1505356+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:08:13.5711133+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:42:14.3192412+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:53:26.9816856+00:00"
 }

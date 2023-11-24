@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3460,9 +3460,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240122,
+  "EOS_Progressed": 240127,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25985,6 +25985,11 @@
       "Time": "2023-11-24T00:09:07.7587+00:00",
       "NumProgressed": 240122,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-11-24T01:54:22.8533489+00:00",
+      "NumProgressed": 240127,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 138,
@@ -26116,7 +26121,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -26172,7 +26177,7 @@
       "Name": "That Was Quick",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -26180,7 +26185,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -26396,7 +26401,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "KILL1000",
@@ -26484,7 +26489,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "KILLNICEDOG",
@@ -26580,7 +26585,7 @@
       "Name": "A Donation",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -26644,7 +26649,7 @@
       "Name": "A Quick Escape",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "PETRIFY50",
@@ -26740,7 +26745,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "SPECIALROOMS10",
@@ -26748,7 +26753,7 @@
       "Name": "Explorer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "SPEEDRUN10",
@@ -26812,7 +26817,7 @@
       "Name": "An Offering",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -27090,22 +27095,22 @@
       "ID": "WEARSAMESETINSLOTS",
       "SetID": "1peahb6",
       "Name": "Matching",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240122,
+      "Progressed": 240127,
       "Completed": 290
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1602,
+      "Progressed": 1607,
       "Completed": 388
     }
   ],
@@ -27113,8 +27118,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-23T20:58:01.4117644+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:09:07.7586995+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:54:22.8533486+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:57:35.0018048+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:09:07.7589227+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:42:37.6623037+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:54:22.8535708+00:00"
 }

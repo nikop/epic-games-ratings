@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,063 |
-| Basic in Bulk | 5.00% | ~7,063 |
-| Tinkle of Coins | 5.00% | ~7,063 |
-| Titan's First Steps | 5.00% | ~7,063 |
+| Sponsored by Argon | 5.00% | ~7,064 |
+| Basic in Bulk | 5.00% | ~7,064 |
+| Tinkle of Coins | 5.00% | ~7,064 |
+| Titan's First Steps | 5.00% | ~7,064 |
 | Disintermediation | 4.00% | ~5,651 |
 | Capitalism Ho! | 4.00% | ~5,651 |
 | One Easy Payment | 3.00% | ~4,238 |
@@ -19,18 +19,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 3.00% | ~4,238 |
 | Budding Merchant | 3.00% | ~4,238 |
 | Own the Means of Production | 3.00% | ~4,238 |
-| The Daily Grind | 2.00% | ~2,825 |
-| Bounty Hunters | 2.00% | ~2,825 |
-| Demand for Supplies | 2.00% | ~2,825 |
-| Flooding the Market | 2.00% | ~2,825 |
-| Where it Hurts | 2.00% | ~2,825 |
-| Gild-Gotten Goods | 2.00% | ~2,825 |
-| One-Armed Bandit | 2.00% | ~2,825 |
-| Accomplished Merchant | 2.00% | ~2,825 |
-| Dungeon Imports | 2.00% | ~2,825 |
-| Through Repetition, Perfection | 2.00% | ~2,825 |
-| Did we pack lunch? | 2.00% | ~2,825 |
-| Arcane Industries | 2.00% | ~2,825 |
+| The Daily Grind | 2.00% | ~2,826 |
+| Bounty Hunters | 2.00% | ~2,826 |
+| Demand for Supplies | 2.00% | ~2,826 |
+| Flooding the Market | 2.00% | ~2,826 |
+| Where it Hurts | 2.00% | ~2,826 |
+| Gild-Gotten Goods | 2.00% | ~2,826 |
+| One-Armed Bandit | 2.00% | ~2,826 |
+| Accomplished Merchant | 2.00% | ~2,826 |
+| Dungeon Imports | 2.00% | ~2,826 |
+| Through Repetition, Perfection | 2.00% | ~2,826 |
+| Did we pack lunch? | 2.00% | ~2,826 |
+| Arcane Industries | 2.00% | ~2,826 |
 | On the Path to Greatness | 1.00% | ~1,413 |
 | A Notch Above the Rest | 1.00% | ~1,413 |
 | Ascended | 1.00% | ~1,413 |
@@ -50,6 +50,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 1.00% | ~1,413 |
 | Expansion in Session | 1.00% | ~1,413 |
 | Efficient Floor Space | 1.00% | ~1,413 |
+| Cranked up to 11 | 1.00% | ~1,413 |
 | Flawless Fusion | 1.00% | ~1,413 |
 | Trash to Treasure | 1.00% | ~1,413 |
 | Gem Expert | 1.00% | ~1,413 |
@@ -69,7 +70,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.90% | ~1,271 |
 | Master of Transmutation | 0.90% | ~1,271 |
 | Supercharged | 0.90% | ~1,271 |
-| Cranked up to 11 | 0.90% | ~1,271 |
 | Fit for a King | 0.90% | ~1,271 |
 | By Your Powers Combined... | 0.90% | ~1,271 |
 | Wealth Beyond Measure | 0.90% | ~1,271 |
@@ -85,6 +85,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.90% | ~1,271 |
 | Top of the World | 0.80% | ~1,130 |
 | Proud Paladin | 0.80% | ~1,130 |
+| Constellated | 0.80% | ~1,130 |
 | Thirst for Knowledge | 0.80% | ~1,130 |
 | Booty by the Boatload | 0.80% | ~1,130 |
 | Archivist | 0.80% | ~1,130 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Treasure Trove | 0.80% | ~1,130 |
 | Moment of Respite | 0.80% | ~1,130 |
 | King's Shadow | 0.80% | ~1,130 |
-| Constellated | 0.70% | ~989 |
 | Fillin' the Bin | 0.70% | ~989 |
 | Economy of Scarce | 0.70% | ~989 |
 | Thank You Tom Nook | 0.60% | ~848 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,263 (Ranked 80)  
-Completed: 196 (0.14%) (Ranked 270)  
+Progressed: 141,276 (Ranked 80)  
+Completed: 197 (0.14%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,20 +337,20 @@ Completed: 196 (0.14%) (Ranked 270)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,263 | 196 |
+| 2023-11-24 | 141,276 | 197 |
 ## Awards
-Max (Great for Beginners): 4,839  (Ranked 75)  
-Sum: 27,581 (Ranked 50)  
+Max (Great for Beginners): 4,842  (Ranked 75)  
+Sum: 27,585 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,839 |
+| This game is Great for Beginners | 4,842 |
 | This game is Relaxing | 4,044 |
 | This game has Quickly Understood Controls | 4,031 |
 | This game has Diverse Characters | 3,947 |
 | This game is Highly Recommended | 3,783 |
 | This game has Easy Combat | 3,730 |
-| This game has Playful Visuals | 3,207 |
+| This game has Playful Visuals | 3,208 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -652,3 +652,4 @@ Diff (max vs sum): 25
 | 2023-11-20 | 3.99 | - | 4,836 | 27,570 |
 | 2023-11-21 | 3.99 | - | 4,837 | 27,572 |
 | 2023-11-22 | 3.99 | - | 4,839 | 27,581 |
+| 2023-11-24 | 3.99 | - | 4,842 | 27,585 |

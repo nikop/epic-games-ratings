@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1375,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4357,9 +4357,9 @@
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 371
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_42",
@@ -4781,9 +4781,9 @@
       "ID": "achievement_9",
       "SetID": "b9pe172",
       "Name": "Singularity Mastery",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_90",
@@ -4881,8 +4881,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:08:07.7268265+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:53:20.9666208+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-24T00:02:48.3282598+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:08:07.7269782+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:47:46.3099857+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:53:20.9667681+00:00"
 }

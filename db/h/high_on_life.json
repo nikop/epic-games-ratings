@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -7070,9 +7070,9 @@
       "ID": "ACH_MOVIE_THEATER",
       "SetID": "cdkbb11",
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 45,
-      "UsersEstimate": 123
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -7229,8 +7229,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:03:08.9751892+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:48:08.8024236+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.5324656+00:00",
-  "LastUpdate_Ratings": "2023-11-24T00:00:04.9168539+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:03:08.9752491+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:45:13.9447592+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:48:08.8024942+00:00"
 }

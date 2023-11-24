@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 33.00% | ~225 |
 | Welcome to the Tower | 32.00% | ~218 |
-| The great escape | 27.00% | ~184 |
+| The great escape | 28.00% | ~191 |
 | The Preacher's fate | 26.00% | ~177 |
-| A new dawn | 23.00% | ~157 |
+| A new dawn | 24.00% | ~164 |
 | Scholar | 21.00% | ~143 |
 | The darkness | 21.00% | ~143 |
 | A good beginning | 20.00% | ~136 |
 | True G3M4R | 20.00% | ~136 |
 | One last step | 20.00% | ~136 |
+| I did it | 19.00% | ~130 |
 | Half the way | 19.00% | ~130 |
-| I did it | 18.00% | ~123 |
 | Peace walker | 18.00% | ~123 |
 | Cable guy | 18.00% | ~123 |
 | Champollion | 18.00% | ~123 |

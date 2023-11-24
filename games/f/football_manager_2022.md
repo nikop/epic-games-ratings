@@ -11,30 +11,30 @@ Number of Ratings: 19,160  (23.09.2022)
 | First Victory | 50.00% | ~238,282 |
 | He's Sold! | 48.00% | ~228,751 |
 | I'm The Boss! | 42.00% | ~200,157 |
-| Hat-trick | 41.00% | ~195,391 |
-| Scoring Streak | 38.00% | ~181,094 |
+| Hat-trick | 41.00% | ~195,392 |
+| Scoring Streak | 38.00% | ~181,095 |
 | Unbeatable! | 37.00% | ~176,329 |
 | Thumping | 37.00% | ~176,329 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,797 |
-| Total Support | 32.00% | ~152,500 |
-| Record Signing | 32.00% | ~152,500 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,798 |
+| Total Support | 32.00% | ~152,501 |
+| Record Signing | 32.00% | ~152,501 |
 | He's a Natural | 31.00% | ~147,735 |
 | Millionaire's Club | 31.00% | ~147,735 |
-| Team Performance | 30.00% | ~142,969 |
+| Team Performance | 30.00% | ~142,970 |
 | Parked The Bus | 29.00% | ~138,204 |
 | Shrewd Spender | 29.00% | ~138,204 |
 | Star Man | 29.00% | ~138,204 |
 | Attack! | 28.00% | ~133,438 |
-| You're On Fire | 27.00% | ~128,672 |
-| Tremendous Trio | 27.00% | ~128,672 |
-| Record Sale | 27.00% | ~128,672 |
+| You're On Fire | 27.00% | ~128,673 |
+| Tremendous Trio | 27.00% | ~128,673 |
+| Record Sale | 27.00% | ~128,673 |
 | On A Roll | 26.00% | ~123,907 |
 | Unstoppable Force | 26.00% | ~123,907 |
 | Armchair Expert | 25.00% | ~119,141 |
-| Fantastic Five | 24.00% | ~114,375 |
-| Full Faith | 24.00% | ~114,375 |
-| Iron Curtain | 24.00% | ~114,375 |
-| The Boss | 24.00% | ~114,375 |
+| Fantastic Five | 24.00% | ~114,376 |
+| Full Faith | 24.00% | ~114,376 |
+| Iron Curtain | 24.00% | ~114,376 |
+| The Boss | 24.00% | ~114,376 |
 | Top Of The Class | 23.00% | ~109,610 |
 | Goal Machine | 23.00% | ~109,610 |
 | Splashing The Cash | 22.00% | ~104,844 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~477 |
 | Shoestring Budget | 0.10% | ~477 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,564 (Ranked 39)  
+Progressed: 476,565 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,9 +323,10 @@ Completed: 22 (0.00%) (Ranked 359)
 | 2023-11-21 | 476,483 | 22 |
 | 2023-11-22 | 476,527 | 22 |
 | 2023-11-23 | 476,564 | 22 |
+| 2023-11-24 | 476,565 | 22 |
 ## Awards
 Max (Relaxing): 6,469  (Ranked 59)  
-Sum: 51,026 (Ranked 29)  
+Sum: 51,028 (Ranked 29)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +334,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 6,073 |
 | This game has Competitive Players | 5,912 |
 | This game is Highly Recommended | 5,898 |
-| This game has Quickly Understood Controls | 5,894 |
+| This game has Quickly Understood Controls | 5,896 |
 | This game is Educational | 5,885 |
 | This game has Diverse Characters | 5,579 |
 | This game has Amazing Storytelling | 4,929 |
@@ -640,3 +641,4 @@ Diff (max vs sum): 30
 | 2023-11-21 | 4.80 | - | 6,467 | 51,020 |
 | 2023-11-22 | 4.80 | - | 6,467 | 51,024 |
 | 2023-11-23 | 4.80 | - | 6,469 | 51,026 |
+| 2023-11-24 | 4.80 | - | 6,469 | 51,028 |

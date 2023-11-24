@@ -4,11 +4,11 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 491,
   "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 420,
+  "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -555,10 +555,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 157,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-11-24T01:42:57.1965028+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 157,
+  "NumberOfAwards": 159,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -578,7 +584,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game has Diverse Characters",
@@ -611,7 +617,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 233861,
+  "EOS_Progressed": 233873,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
@@ -14841,6 +14847,11 @@
       "Time": "2023-11-24T00:08:55.7573178+00:00",
       "NumProgressed": 233861,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T01:54:10.5066872+00:00",
+      "NumProgressed": 233873,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -14909,7 +14920,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49111
+      "UsersEstimate": 49113
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -14917,7 +14928,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21047
+      "UsersEstimate": 21049
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -14925,7 +14936,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11693
+      "UsersEstimate": 11694
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -14933,7 +14944,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9354
+      "UsersEstimate": 9355
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -15037,7 +15048,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32741
+      "UsersEstimate": 32742
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -15045,7 +15056,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16370
+      "UsersEstimate": 16371
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -15109,7 +15120,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58465
+      "UsersEstimate": 58468
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -15124,16 +15135,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 233861,
+      "Progressed": 233873,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-11-23T22:58:10.9786928+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:08:55.7573174+00:00",
+  "LastChanged": "2023-11-24T01:42:57.1965026+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:54:10.5066869+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:41.0208311+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:57:54.1153576+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:08:55.757388+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:42:57.196503+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:54:10.5067736+00:00"
 }

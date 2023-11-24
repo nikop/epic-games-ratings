@@ -24,6 +24,7 @@
 | Deputized | 5.00% | ~10 |
 | Courier | 5.00% | ~10 |
 | Been There | 5.00% | ~10 |
+| Spiritual Journey | 5.00% | ~10 |
 | Pilgrimage's End | 5.00% | ~10 |
 | Merchant | 5.00% | ~10 |
 | Trouble at Fort Larius | 5.00% | ~10 |
@@ -31,7 +32,6 @@
 | Potential Unlocked | 4.00% | ~8 |
 | Xevarian Gambit | 4.00% | ~8 |
 | The Voice of Hereafter | 4.00% | ~8 |
-| Spiritual Journey | 4.00% | ~8 |
 | Inquisitions of Discord | 4.00% | ~8 |
 | Unseen Patterns | 4.00% | ~8 |
 | Bounty Hunter | 3.00% | ~6 |

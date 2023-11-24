@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1031,9 +1031,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -1367,9 +1367,9 @@
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "WielderLevel4",
@@ -1383,9 +1383,9 @@
       "ID": "WinBattleBeforeEnemyTurn",
       "SetID": "71c0n9i",
       "Name": "Humiliation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1463,8 +1463,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:04:46.9513627+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:49:49.4324537+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:59:16.2278523+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:04:46.9513927+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:44:21.9473456+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:49:49.4324883+00:00"
 }

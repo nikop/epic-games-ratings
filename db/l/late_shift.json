@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -1550,6 +1550,11 @@
       "Time": "2023-11-23T20:08:38.620252+00:00",
       "NumProgressed": 666,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-24T01:53:23.265871+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1561,15 +1566,15 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "CHOICES_MATTER",
       "SetID": "8eejhlh",
       "Name": "Choices Matter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 47
     },
     {
       "ID": "ENDING_1",
@@ -1625,7 +1630,7 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1657,7 +1662,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "INTERROGATION",
@@ -1720,7 +1725,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 9
     }
   ],
@@ -1728,8 +1733,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:08:10.0983509+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:53:23.2658708+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:19.5323392+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:59:08.6839681+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:08:10.0983712+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:44:13.8906393+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:53:23.2658857+00:00"
 }

@@ -41,12 +41,12 @@ Rating: 4.05 (Ranked 985)
 | Master of Carmine | 2.00% | ~6 |
 | Shroudfane Surveyor | 2.00% | ~6 |
 | Tip of the Spear | 2.00% | ~6 |
+| Treasure Hunter | 2.00% | ~6 |
 | Backtracker | 2.00% | ~6 |
 | Grand Magnus | 1.00% | ~3 |
 | Petite Bourgeoisie | 1.00% | ~3 |
 | Master of Ultramarine | 1.00% | ~3 |
 | Master of Malachite | 1.00% | ~3 |
-| Treasure Hunter | 1.00% | ~3 |
 | Family Business | 0.70% | ~2 |
 | Diplomat | 0.70% | ~2 |
 | Witch-Taker | 0.70% | ~2 |

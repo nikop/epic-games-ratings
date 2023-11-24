@@ -7,25 +7,25 @@ Number of Ratings: 38  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My New Home | 63.00% | ~297 |
-| Mushroom Picker | 58.00% | ~273 |
-| Scrap Gatherer | 58.00% | ~273 |
-| Scrapper | 47.00% | ~221 |
+| Scrap Gatherer | 58.00% | ~274 |
+| Mushroom Picker | 57.00% | ~269 |
+| Scrapper | 47.00% | ~222 |
 | Teleport | 46.00% | ~217 |
 | Cook | 45.00% | ~212 |
 | Scrap Master | 39.00% | ~184 |
 | Smelter | 36.00% | ~170 |
-| Digger | 34.00% | ~160 |
-| Electro-Scrap Gatherer | 33.00% | ~155 |
+| Digger | 33.00% | ~156 |
+| Electro-Scrap Gatherer | 33.00% | ~156 |
 | Survivor | 32.00% | ~151 |
 | Lumberjack | 31.00% | ~146 |
-| Robot Destroyer | 30.00% | ~141 |
+| Robot Destroyer | 30.00% | ~142 |
 | Herbalist | 29.00% | ~137 |
-| Prepper | 27.00% | ~127 |
+| Prepper | 26.00% | ~123 |
 | Electro-Scrap Master | 25.00% | ~118 |
 | Robot Hunter | 22.00% | ~104 |
-| Advanced Survivalist | 19.00% | ~89 |
+| Advanced Survivalist | 19.00% | ~90 |
 | Master Of Technology | 17.00% | ~80 |
-| Treasure Hunter | 16.00% | ~75 |
+| Treasure Hunter | 16.00% | ~76 |
 | Mythical Smelter | 14.00% | ~66 |
 | Blacksmith | 12.00% | ~57 |
 | Master Of Management | 11.00% | ~52 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~9 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471 (Ranked 313)  
+Progressed: 472 (Ranked 313)  
 Completed: 1 (0.21%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,6 +178,7 @@ Completed: 1 (0.21%) (Ranked 252)
 | 2023-11-12 | 469 | 1 |
 | 2023-11-18 | 470 | 1 |
 | 2023-11-21 | 471 | 1 |
+| 2023-11-24 | 472 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

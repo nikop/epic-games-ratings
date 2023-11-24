@@ -2,10 +2,10 @@
   "ID": "2755e0338895421ebeb217fe1f742e7b",
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
     "PcReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -298,8 +298,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:09:01.8225049+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:54:16.801369+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.7025063+00:00",
-  "LastUpdate_Ratings": "2023-11-24T00:02:27.6437927+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:09:01.822514+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:45:15.1916932+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:54:16.8013754+00:00"
 }

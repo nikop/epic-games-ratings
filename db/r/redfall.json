@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2423,9 +2423,9 @@
       "ID": "Achievement_002",
       "SetID": "6b34g18",
       "Name": "Revelations",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_003",
@@ -2575,9 +2575,9 @@
       "ID": "Achievement_022",
       "SetID": "6b34g18",
       "Name": "Bell-ringer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_023",
@@ -2591,9 +2591,9 @@
       "ID": "Achievement_024",
       "SetID": "6b34g18",
       "Name": "Good Morning",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_025",
@@ -2783,9 +2783,9 @@
       "ID": "Achievement_050",
       "SetID": "6b34g18",
       "Name": "So Anyway I Started Blasting",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_051",
@@ -2807,9 +2807,9 @@
       "ID": "Achievement_053",
       "SetID": "6b34g18",
       "Name": "Harvest\u2019s End",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_055",
@@ -2952,8 +2952,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-11-22T22:57:36.1602113+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:08:11.3996165+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:53:24.8468075+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:21.147768+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:57:47.6242646+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:08:11.3996712+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:42:50.5158392+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:53:24.8468585+00:00"
 }

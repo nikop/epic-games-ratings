@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 564,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -1965,6 +1965,11 @@
       "Time": "2023-11-23T23:08:53.9914849+00:00",
       "NumProgressed": 563,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-24T01:53:49.8424133+00:00",
+      "NumProgressed": 564,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1977,7 +1982,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_10",
@@ -2001,7 +2006,7 @@
       "Name": "From Way Downtown",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_13",
@@ -2017,7 +2022,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_15",
@@ -2033,31 +2038,31 @@
       "Name": "Star Power",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_3",
@@ -2111,22 +2116,22 @@
       "ID": "achievement_9",
       "SetID": "7ldgi7j",
       "Name": "Ace in the Hole",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 175
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 564,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:08:35.7945824+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:53:49.842413+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.8610082+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:59:29.7954948+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:08:35.7945999+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:44:36.2184465+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:53:49.8424324+00:00"
 }

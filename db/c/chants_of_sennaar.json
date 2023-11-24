@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 682,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.13,
   "EosHistory": [
@@ -2854,9 +2854,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 130
     },
     {
       "ID": "END_GOOD",
@@ -3022,17 +3022,17 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 191
     },
     {
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 164
     },
     {
       "ID": "PROGRESS_N4",
@@ -3061,8 +3061,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-24T00:06:08.2309289+00:00",
+  "LastChanged_Achievements": "2023-11-24T01:51:12.310279+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-23T23:58:38.8466725+00:00",
-  "LastUpdate_Achievements": "2023-11-24T00:06:08.2309636+00:00"
+  "LastUpdate_Ratings": "2023-11-24T01:43:43.4954459+00:00",
+  "LastUpdate_Achievements": "2023-11-24T01:51:12.3103106+00:00"
 }

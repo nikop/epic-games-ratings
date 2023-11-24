@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,340 |
-| Powergamer | 27.00% | ~68,282 |
-| Write that down | 25.00% | ~63,224 |
-| Barely scratched the surface | 25.00% | ~63,224 |
-| Guns, lots of guns | 13.00% | ~32,876 |
-| Collector | 12.00% | ~30,347 |
+| I will finish what you started | 29.00% | ~73,342 |
+| Powergamer | 27.00% | ~68,284 |
+| Write that down | 25.00% | ~63,226 |
+| Barely scratched the surface | 25.00% | ~63,226 |
+| Guns, lots of guns | 13.00% | ~32,877 |
+| Collector | 12.00% | ~30,348 |
 | Elementary! | 9.00% | ~22,761 |
 | Griever | 8.00% | ~20,232 |
 | Pumpkin Jack | 8.00% | ~20,232 |
@@ -47,8 +47,8 @@ Number of Ratings: 33  (23.09.2022)
 | Let's try another | 0.80% | ~2,023 |
 | Home run | 0.80% | ~2,023 |
 | I have the high ground | 0.70% | ~1,770 |
-| Enjoy these little moments | 0.50% | ~1,264 |
-| Who wouldn't love a troll? | 0.50% | ~1,264 |
+| Enjoy these little moments | 0.50% | ~1,265 |
+| Who wouldn't love a troll? | 0.50% | ~1,265 |
 | Irondec | 0.40% | ~1,012 |
 | LET ME OUT! | 0.40% | ~1,012 |
 | Un-bear-able | 0.40% | ~1,012 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~506 |
 | Memory 5 | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,895 (Ranked 59)  
+Progressed: 252,903 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 7 (0.00%) (Ranked 359)
 | 2023-11-21 | 252,752 | 7 |
 | 2023-11-22 | 252,807 | 7 |
 | 2023-11-23 | 252,894 | 7 |
-| 2023-11-24 | 252,895 | 7 |
+| 2023-11-24 | 252,903 | 7 |
 ## Awards
 Max (Character Customization): 91  (Ranked 377)  
 Sum: 91 (Ranked 452)  
