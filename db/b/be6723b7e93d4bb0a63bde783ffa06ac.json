@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach28",
@@ -574,8 +574,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:03:31.3585682+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:04:10.4224992+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:17.7593441+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:56:52.3987659+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:03:31.3585869+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:57:11.7957032+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:04:10.4225166+00:00"
 }

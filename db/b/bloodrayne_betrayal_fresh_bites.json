@@ -4,7 +4,7 @@
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "PersonallyPunched",
       "SetID": "6jf74lf",
       "Name": "Personally Punched",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Skullector",
@@ -310,8 +310,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:09:06.0368326+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:09:47.7862592+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.2910561+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:59:26.0045139+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:09:06.0368461+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:00:59.4029737+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:09:47.7862696+00:00"
 }

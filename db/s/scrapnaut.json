@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 473,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1570,6 +1570,11 @@
       "Time": "2023-11-24T01:49:37.3748865+00:00",
       "NumProgressed": 472,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T19:06:18.6459989+00:00",
+      "NumProgressed": 473,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1629,15 +1634,15 @@
       "Name": "Mushroom Picker",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Technology",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -1677,7 +1682,7 @@
       "Name": "Cook",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1693,7 +1698,7 @@
       "Name": "Lumberjack",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1717,7 +1722,7 @@
       "Name": "My New Home",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_KILL_100",
@@ -1819,16 +1824,16 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 213
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 473,
       "Completed": 1
     }
   ],
@@ -1836,8 +1841,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:05:03.4414575+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:06:18.6459985+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.3361898+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:59:32.4404438+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:05:03.4414795+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:01:08.2093519+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:06:18.64602+00:00"
 }

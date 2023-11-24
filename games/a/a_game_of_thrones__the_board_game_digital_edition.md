@@ -21,15 +21,15 @@ Number of Ratings: 2,500  (23.09.2022)
 | Ours is the Fury | 6.00% | ~1,742 |
 | We Do Not Sow | 6.00% | ~1,742 |
 | Defender of the Wall | 6.00% | ~1,742 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,451 |
-| Growing Strong | 5.00% | ~1,451 |
-| Hear me Roar! | 5.00% | ~1,451 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,452 |
+| Growing Strong | 5.00% | ~1,452 |
+| Hear me Roar! | 5.00% | ~1,452 |
 | What is Dead may Never Die | 3.00% | ~871 |
 | The Swift | 3.00% | ~871 |
 | King in the North | 2.00% | ~581 |
 | War of the Five Kings | 1.00% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,029 (Ranked 125)  
+Progressed: 29,030 (Ranked 125)  
 Completed: 79 (0.27%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 79 (0.27%) (Ranked 244)
 | 2023-11-21 | 28,873 | 79 |
 | 2023-11-22 | 28,927 | 79 |
 | 2023-11-23 | 28,994 | 79 |
-| 2023-11-24 | 29,029 | 79 |
+| 2023-11-24 | 29,030 | 79 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 333)  
 Sum: 798 (Ranked 282)  

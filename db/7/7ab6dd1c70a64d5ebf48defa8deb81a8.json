@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -830,6 +830,11 @@
       "Time": "2023-11-24T16:10:15.2699908+00:00",
       "NumProgressed": 210,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-24T19:10:06.4672847+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -865,7 +870,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_05",
@@ -991,7 +996,7 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -1063,7 +1068,7 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -1128,14 +1133,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:09:19.7183989+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:10:06.4672842+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:57:45.1822662+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:09:19.7184236+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:58:30.1932235+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:10:06.4673291+00:00"
 }

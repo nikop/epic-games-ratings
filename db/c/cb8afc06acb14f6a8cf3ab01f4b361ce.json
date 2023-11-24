@@ -365,9 +365,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 317692,
+  "EOS_Progressed": 317733,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5024,
+  "EOS_NewPlayers": 5014,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7185,6 +7185,11 @@
       "Time": "2023-11-24T18:05:24.6286385+00:00",
       "NumProgressed": 317692,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T19:06:48.0376922+00:00",
+      "NumProgressed": 317733,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7197,7 +7202,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "S02_BRDA",
@@ -7333,7 +7338,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "S19_CHALLENGES",
@@ -7421,7 +7426,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "S30_DIAMOND",
@@ -7516,7 +7521,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 317692,
+      "Progressed": 317733,
       "Completed": 4
     }
   ],
@@ -7524,8 +7529,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-24T10:58:21.9690534+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:05:24.6286382+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:06:48.0376916+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:57:40.1864648+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:05:24.628696+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:58:22.8231912+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:06:48.0377407+00:00"
 }

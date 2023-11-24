@@ -15,6 +15,7 @@
 | Right between the eyes | 50.00% | ~4 |
 | MAX LEVEL | 50.00% | ~4 |
 | Oo-De-Lally | 38.00% | ~3 |
+| Finish Him! | 38.00% | ~3 |
 | Locksley's Tears | 38.00% | ~3 |
 | Assault on the Ram | 38.00% | ~3 |
 | Spring Board | 38.00% | ~3 |
@@ -25,7 +26,6 @@
 | King of the Iron Fist | 25.00% | ~2 |
 | Ultra Combo | 25.00% | ~2 |
 | The Gang prevails | 25.00% | ~2 |
-| Finish Him! | 25.00% | ~2 |
 | Five of Friends | 25.00% | ~2 |
 | Ultra Rebel Instinct | 25.00% | ~2 |
 | Take Action! | 25.00% | ~2 |

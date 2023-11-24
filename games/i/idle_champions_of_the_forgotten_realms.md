@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~203 |
 | See You on the Flipside | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,743 (Ranked 64)  
-Completed: 2,475 (1.05%) (Ranked 161)  
+Progressed: 236,751 (Ranked 64)  
+Completed: 2,476 (1.05%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -757,10 +757,10 @@ Completed: 2,475 (1.05%) (Ranked 161)
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
 | 2023-11-23 | 236,580 | 2,472 |
-| 2023-11-24 | 236,743 | 2,475 |
+| 2023-11-24 | 236,751 | 2,476 |
 ## Awards
 Max (Great for Beginners): 5,559  (Ranked 70)  
-Sum: 32,600 (Ranked 41)  
+Sum: 32,602 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -769,7 +769,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,820 |
 | This game is Relaxing | 4,712 |
 | This game has Amazing Characters | 4,223 |
-| This game is Highly Recommended | 4,215 |
+| This game is Highly Recommended | 4,217 |
 | This game has Playful Visuals | 3,534 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1076,4 +1076,4 @@ Diff (max vs sum): 29
 | 2023-11-21 | 4.06 | - | 5,549 | 32,557 |
 | 2023-11-22 | 4.06 | - | 5,556 | 32,575 |
 | 2023-11-23 | 4.06 | - | 5,559 | 32,590 |
-| 2023-11-24 | 4.06 | - | 5,559 | 32,600 |
+| 2023-11-24 | 4.06 | - | 5,559 | 32,602 |

@@ -505,9 +505,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2635,
+  "EOS_Progressed": 2636,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7900,6 +7900,11 @@
       "Time": "2023-11-24T18:08:46.6605977+00:00",
       "NumProgressed": 2635,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-24T19:09:20.7865849+00:00",
+      "NumProgressed": 2636,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7959,7 +7964,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "cauldronliberator",
@@ -7991,7 +7996,7 @@
       "Name": "Crystal Mining",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "dailyquestcompletionist",
@@ -8031,7 +8036,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ebonyjungleliberator",
@@ -8047,7 +8052,7 @@
       "Name": "Enchanting skill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "enchantingskillx5",
@@ -8063,7 +8068,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "enhancedwarmachines",
@@ -8085,9 +8090,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 474
     },
     {
       "ID": "fellowshippower",
@@ -8311,7 +8316,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "relicofthepast",
@@ -8367,7 +8372,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "thealchemist",
@@ -8383,7 +8388,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "thefatherofdragons",
@@ -8487,7 +8492,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "whatliesbehindthebush",
@@ -8503,14 +8508,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2635,
+      "Progressed": 2636,
       "Completed": 2
     }
   ],
@@ -8518,8 +8523,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-23T00:01:24.3515304+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:08:46.6605975+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:09:20.7865843+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:02:33.6603141+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:08:46.6606755+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:02:35.6106395+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:09:20.7866684+00:00"
 }

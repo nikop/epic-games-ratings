@@ -14,9 +14,9 @@
 | Honorarium of Corporate Service | 60.00% | ~827 |
 | Council Legion of Merit | 54.00% | ~744 |
 | Medal of Exploration II | 53.00% | ~730 |
+| Turian Ally | 53.00% | ~730 |
 | Medal of Honor | 52.00% | ~717 |
 | Meritorious Service Medal | 52.00% | ~717 |
-| Turian Ally | 52.00% | ~717 |
 | Soldier | 50.00% | ~689 |
 | Charismatic | 50.00% | ~689 |
 | Asari Ally | 47.00% | ~648 |
@@ -104,9 +104,9 @@
 | Legend | 17.00% | ~234 |
 | Sabotage Specialist | 16.00% | ~220 |
 | Long Service Medal | 15.00% | ~207 |
+| Electronics Specialist | 15.00% | ~207 |
 | Throw Mastery | 15.00% | ~207 |
 | Mail Slot | 14.00% | ~193 |
-| Electronics Specialist | 14.00% | ~193 |
 | Combined Arms | 12.00% | ~165 |
 | Bruiser | 11.00% | ~152 |
 | Warp Mastery | 11.00% | ~152 |

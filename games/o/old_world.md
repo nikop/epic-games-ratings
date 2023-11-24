@@ -144,12 +144,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.70% | ~108 |
 | Kmt Unified | 0.70% | ~108 |
 | Carthage - Ox Hide | 0.60% | ~93 |
+| Old | 0.60% | ~93 |
 | Old World Order | 0.60% | ~93 |
 | No Undo | 0.60% | ~93 |
 | Kush | 0.60% | ~93 |
 | Beja Archer | 0.60% | ~93 |
-| Old | 0.50% | ~77 |
 | Glorious Difficulty | 0.50% | ~77 |
+| Hatti | 0.50% | ~77 |
 | Persia | 0.50% | ~77 |
 | Pantheon of Gods | 0.50% | ~77 |
 | Play a Network Game | 0.50% | ~77 |
@@ -167,7 +168,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.40% | ~62 |
 | Nenikekamen | 0.40% | ~62 |
 | Assyria | 0.40% | ~62 |
-| Hatti | 0.40% | ~62 |
 | Three Man Chariot | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
@@ -198,6 +198,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
 | Word of God | 0.20% | ~31 |
+| Deposed Tribe | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
 | Glory to The Aten | 0.20% | ~31 |
 | Akhenaten's Legacy | 0.20% | ~31 |
@@ -300,7 +301,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.10% | ~15 |
 | Win a Network Game | 0.10% | ~15 |
 | Win a Play-By-Cloud Game | 0.10% | ~15 |
-| Deposed Tribe | 0.10% | ~15 |
 | Five Cults | 0.10% | ~15 |
 | The Mythical Beast | 0.10% | ~15 |
 | Pilgrimage | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,460 (Ranked 151)  
+Progressed: 15,461 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -567,7 +567,7 @@ Completed: 5 (0.03%) (Ranked 321)
 | 2023-11-21 | 15,417 | 5 |
 | 2023-11-22 | 15,428 | 5 |
 | 2023-11-23 | 15,453 | 5 |
-| 2023-11-24 | 15,460 | 5 |
+| 2023-11-24 | 15,461 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,874 (Ranked 218)  

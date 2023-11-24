@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4352,
+  "EOS_Progressed": 4353,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1576,6 +1576,11 @@
       "Time": "2023-11-24T09:09:41.6467144+00:00",
       "NumProgressed": 4352,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-24T19:10:12.5621406+00:00",
+      "NumProgressed": 4353,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -2217,9 +2222,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_WOODSHORTAGE",
       "SetID": "9eacipp",
       "Name": "The wood shortage",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_SERVE_PROTECT",
@@ -2394,15 +2399,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4352,
+      "Progressed": 4353,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-16T20:57:28.2396436+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:09:24.8574041+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:10:12.5621402+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:55.2034383+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:57:51.6179936+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:09:24.8574925+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:58:39.0963965+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:10:12.5622598+00:00"
 }

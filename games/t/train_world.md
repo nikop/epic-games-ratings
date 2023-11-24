@@ -4,22 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| City Link | 29.00% | ~4 |
-| Line Up | 21.00% | ~3 |
-| Steam Power | 21.00% | ~3 |
-| Task Apprentice | 21.00% | ~3 |
-| Trainee | 14.00% | ~2 |
-| Full House | 14.00% | ~2 |
-| Speed Demon | 14.00% | ~2 |
-| Regional Express | 14.00% | ~2 |
-| Urban Network | 14.00% | ~2 |
-| Industrial Revolution | 14.00% | ~2 |
-| Double Trouble | 14.00% | ~2 |
+| City Link | 27.00% | ~4 |
+| Trainee | 20.00% | ~3 |
+| Line Up | 20.00% | ~3 |
+| Steam Power | 20.00% | ~3 |
+| Task Apprentice | 20.00% | ~3 |
+| Full House | 13.00% | ~2 |
+| Speed Demon | 13.00% | ~2 |
+| Regional Express | 13.00% | ~2 |
+| Urban Network | 13.00% | ~2 |
+| Industrial Revolution | 13.00% | ~2 |
+| Double Trouble | 13.00% | ~2 |
+| World Explorer | 7.00% | ~1 |
 | Billionaire Club | 7.00% | ~1 |
 | Diesel Dream | 7.00% | ~1 |
 | Modern Times | 7.00% | ~1 |
 | Money Train | 7.00% | ~1 |
 | Future Vision | 7.00% | ~1 |
+| Bridge Over Troubled Water | 7.00% | ~1 |
 | Cargo King | 7.00% | ~1 |
 | People Mover | 7.00% | ~1 |
 | Industrial Giant | 7.00% | ~1 |
@@ -29,7 +31,6 @@
 | Heavy Load | 7.00% | ~1 |
 | Line Master | 7.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
-| World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
 | Electric Avenue | 0.00% | ~0 |
 | Super Long Train | 0.00% | ~0 |
@@ -42,7 +43,6 @@
 | Train Tycoon | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Steam Punk | 0.00% | ~0 |
-| Bridge Over Troubled Water | 0.00% | ~0 |
 | One Line Wonder | 0.00% | ~0 |
 | Tunnel Vision | 0.00% | ~0 |
 | Machine Maker | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 583)  
+Progressed: 15 (Ranked 579)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,4 +72,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-05 | 11 | 0 |
 | 2023-11-08 | 12 | 0 |
 | 2023-11-22 | 13 | 0 |
-| 2023-11-24 | 14 | 0 |
+| 2023-11-24 | 15 | 0 |

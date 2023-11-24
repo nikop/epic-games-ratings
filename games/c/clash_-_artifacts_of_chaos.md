@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Declawing | 68.00% | ~78 |
 | Target Practice | 43.00% | ~49 |
-| The Bigger They Are | 33.00% | ~38 |
+| The Bigger They Are | 34.00% | ~39 |
 | Your Training Continues | 31.00% | ~36 |
 | Over the Moon | 31.00% | ~36 |
 | Enemies of Fate | 31.00% | ~36 |

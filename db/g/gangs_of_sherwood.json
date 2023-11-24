@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -270,9 +270,9 @@
       "ID": "ACH_FINISHER",
       "SetID": "5akmpni",
       "Name": "Finish Him!",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
@@ -500,8 +500,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:04:43.1240231+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:05:50.7436693+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.5358459+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:59:35.6569491+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:04:43.1240515+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:01:13.2762707+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:05:50.7437006+00:00"
 }

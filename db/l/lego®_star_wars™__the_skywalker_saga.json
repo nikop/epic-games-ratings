@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3683,9 +3683,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51994,
+  "EOS_Progressed": 51995,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -13948,6 +13948,11 @@
       "Time": "2023-11-24T08:06:34.4867333+00:00",
       "NumProgressed": 51994,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-11-24T19:06:41.2879284+00:00",
+      "NumProgressed": 51995,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 45,
@@ -13983,7 +13988,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 41075
+      "UsersEstimate": 41076
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -14071,7 +14076,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30676
+      "UsersEstimate": 30677
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -14079,7 +14084,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24437
+      "UsersEstimate": 24438
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -14095,7 +14100,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24957
+      "UsersEstimate": 24958
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -14119,7 +14124,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 14038
+      "UsersEstimate": 14039
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -14199,7 +14204,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30676
+      "UsersEstimate": 30677
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -14223,7 +14228,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50434
+      "UsersEstimate": 50435
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14239,7 +14244,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4679
+      "UsersEstimate": 4680
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -14318,15 +14323,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51994,
+      "Progressed": 51995,
       "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-11-24T16:02:43.4134886+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:05:19.7311927+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:06:41.2879279+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:25.8644446+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:02:33.2208042+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:05:19.7312571+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:02:34.9243799+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:06:41.2879893+00:00"
 }

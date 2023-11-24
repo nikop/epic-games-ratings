@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The View From Windy Castle. | 58.00% | ~51 |
+| The View From Windy Castle. | 59.00% | ~52 |
 | Rocket to the Moon! | 56.00% | ~49 |
 | Daddy’s Glasses | 53.00% | ~47 |
 | The Best Snowman Ever! | 47.00% | ~41 |

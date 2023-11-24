@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,491 |
-| Titan's First Steps | 6.00% | ~8,491 |
-| Basic in Bulk | 5.00% | ~7,076 |
-| Tinkle of Coins | 5.00% | ~7,076 |
-| Disintermediation | 4.00% | ~5,661 |
-| Capitalism Ho! | 4.00% | ~5,661 |
+| Sponsored by Argon | 6.00% | ~8,493 |
+| Titan's First Steps | 6.00% | ~8,493 |
+| Basic in Bulk | 5.00% | ~7,077 |
+| Tinkle of Coins | 5.00% | ~7,077 |
+| Disintermediation | 4.00% | ~5,662 |
+| Capitalism Ho! | 4.00% | ~5,662 |
 | One Easy Payment | 3.00% | ~4,246 |
 | Some Assembly Required | 3.00% | ~4,246 |
 | Another Satisfied Customer | 3.00% | ~4,246 |
@@ -19,27 +19,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 3.00% | ~4,246 |
 | Budding Merchant | 3.00% | ~4,246 |
 | Own the Means of Production | 3.00% | ~4,246 |
-| The Daily Grind | 2.00% | ~2,830 |
-| Ascended | 2.00% | ~2,830 |
-| Vanity, Verily | 2.00% | ~2,830 |
-| Bounty Hunters | 2.00% | ~2,830 |
-| Blank Page Syndrome | 2.00% | ~2,830 |
-| Demand for Supplies | 2.00% | ~2,830 |
-| Flooding the Market | 2.00% | ~2,830 |
-| Where it Hurts | 2.00% | ~2,830 |
-| Efficient Floor Space | 2.00% | ~2,830 |
-| Gem Expert | 2.00% | ~2,830 |
-| Gild-Gotten Goods | 2.00% | ~2,830 |
-| One-Armed Bandit | 2.00% | ~2,830 |
-| Accomplished Merchant | 2.00% | ~2,830 |
-| Dungeon Imports | 2.00% | ~2,830 |
-| Through Repetition, Perfection | 2.00% | ~2,830 |
-| Did we pack lunch? | 2.00% | ~2,830 |
-| Arcane Industries | 2.00% | ~2,830 |
-| On the Path to Greatness | 1.00% | ~1,415 |
+| The Daily Grind | 2.00% | ~2,831 |
+| On the Path to Greatness | 2.00% | ~2,831 |
+| Ascended | 2.00% | ~2,831 |
+| Vanity, Verily | 2.00% | ~2,831 |
+| Bounty Hunters | 2.00% | ~2,831 |
+| Blank Page Syndrome | 2.00% | ~2,831 |
+| Demand for Supplies | 2.00% | ~2,831 |
+| Flooding the Market | 2.00% | ~2,831 |
+| Where it Hurts | 2.00% | ~2,831 |
+| Efficient Floor Space | 2.00% | ~2,831 |
+| Gem Expert | 2.00% | ~2,831 |
+| Gild-Gotten Goods | 2.00% | ~2,831 |
+| One-Armed Bandit | 2.00% | ~2,831 |
+| Accomplished Merchant | 2.00% | ~2,831 |
+| Dungeon Imports | 2.00% | ~2,831 |
+| Through Repetition, Perfection | 2.00% | ~2,831 |
+| Did we pack lunch? | 2.00% | ~2,831 |
+| Arcane Industries | 2.00% | ~2,831 |
 | A Notch Above the Rest | 1.00% | ~1,415 |
 | Cream of the Crop | 1.00% | ~1,415 |
 | Above the Norm | 1.00% | ~1,415 |
+| A Ronin Reborn | 1.00% | ~1,415 |
 | Tax not Included | 1.00% | ~1,415 |
 | The King's Caprice | 1.00% | ~1,415 |
 | Research & Development | 1.00% | ~1,415 |
@@ -81,29 +82,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 1.00% | ~1,415 |
 | Exotic Commodities | 1.00% | ~1,415 |
 | Complete Monopoly | 1.00% | ~1,415 |
+| King's Blade | 1.00% | ~1,415 |
+| Top of the World | 0.90% | ~1,274 |
 | Proud Paladin | 0.90% | ~1,274 |
-| A Ronin Reborn | 0.90% | ~1,274 |
 | Thirst for Knowledge | 0.90% | ~1,274 |
 | Booty by the Boatload | 0.90% | ~1,274 |
 | Archivist | 0.90% | ~1,274 |
 | Ritualist | 0.90% | ~1,274 |
+| A Legend is Born | 0.90% | ~1,274 |
 | Item of Renown | 0.90% | ~1,274 |
 | Bountiful Harvest | 0.90% | ~1,274 |
 | Precision Engineering | 0.90% | ~1,274 |
 | Treasure Trove | 0.90% | ~1,274 |
 | Moment of Respite | 0.90% | ~1,274 |
-| King's Blade | 0.90% | ~1,274 |
-| Top of the World | 0.80% | ~1,132 |
+| King's Shadow | 0.90% | ~1,274 |
 | Constellated | 0.80% | ~1,132 |
 | Fillin' the Bin | 0.80% | ~1,132 |
 | Industrial Evolution | 0.80% | ~1,132 |
-| A Legend is Born | 0.80% | ~1,132 |
-| King's Shadow | 0.80% | ~1,132 |
 | Economy of Scarce | 0.80% | ~1,132 |
+| Thank You Tom Nook | 0.70% | ~991 |
 | Jackpot! | 0.70% | ~991 |
 | All Accounted For | 0.70% | ~991 |
 | The Free Encyclopedia | 0.60% | ~849 |
-| Thank You Tom Nook | 0.60% | ~849 |
 | Eternal Crusade | 0.60% | ~849 |
 | All or Nothing! | 0.50% | ~708 |
 | JACKPOT!!! | 0.40% | ~566 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,521 (Ranked 80)  
+Progressed: 141,548 (Ranked 80)  
 Completed: 210 (0.15%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 210 (0.15%) (Ranked 268)
 | 2023-11-21 | 140,875 | 190 |
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
-| 2023-11-24 | 141,521 | 210 |
+| 2023-11-24 | 141,548 | 210 |
 ## Awards
 Max (Great for Beginners): 4,842  (Ranked 75)  
 Sum: 27,589 (Ranked 50)  

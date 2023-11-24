@@ -1,17 +1,17 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.05 (Ranked 985)  
+Rating: 4.05 (Ranked 986)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 92.00% | ~275 |
-| Battlefields Have Memories | 88.00% | ~263 |
-| Enlisted | 85.00% | ~254 |
-| Maybe Engage a Little | 81.00% | ~242 |
-| No More Names | 70.00% | ~209 |
-| Initiate | 56.00% | ~167 |
-| Thrada-Kul | 51.00% | ~152 |
+| Unforeseen | 92.00% | ~276 |
+| Battlefields Have Memories | 88.00% | ~264 |
+| Enlisted | 85.00% | ~255 |
+| Maybe Engage a Little | 81.00% | ~243 |
+| No More Names | 69.00% | ~207 |
+| Initiate | 56.00% | ~168 |
+| Thrada-Kul | 51.00% | ~153 |
 | Gravity-Challenged Rocks | 42.00% | ~126 |
 | Soldier | 34.00% | ~102 |
 | All the Major Food Groups | 33.00% | ~99 |
@@ -21,14 +21,14 @@ Rating: 4.05 (Ranked 985)
 | The Means to Save It | 23.00% | ~69 |
 | Resilience to Sin | 21.00% | ~63 |
 | A Familiar Nest | 21.00% | ~63 |
+| Periapt Alizarin | 21.00% | ~63 |
 | Geas Aristeya | 20.00% | ~60 |
-| Periapt Alizarin | 20.00% | ~60 |
 | A Perfect Cycle | 18.00% | ~54 |
 | Recruit | 17.00% | ~51 |
 | Armsman | 17.00% | ~51 |
 | Lights Army | 12.00% | ~36 |
+| Good Boy | 12.00% | ~36 |
 | Periapt Cerulean | 11.00% | ~33 |
-| Good Boy | 11.00% | ~33 |
 | Periapt Viridian | 9.00% | ~27 |
 | Shroudfane Explorer | 9.00% | ~27 |
 | Best Dressed | 8.00% | ~24 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 985)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 350)  
+Progressed: 300 (Ranked 350)  
 Completed: 1 (0.33%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 1 (0.33%) (Ranked 230)
 | 2023-11-21 | 287 | 1 |
 | 2023-11-22 | 295 | 1 |
 | 2023-11-23 | 298 | 1 |
-| 2023-11-24 | 299 | 1 |
+| 2023-11-24 | 300 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

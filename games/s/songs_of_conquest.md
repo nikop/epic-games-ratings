@@ -13,7 +13,7 @@ Number of Ratings: 292  (23.09.2022)
 | Dressed For Success | 7.00% | ~14 |
 | Sorcerous Spree | 5.00% | ~10 |
 | Humiliation | 5.00% | ~10 |
-| Veni, Vidi, Vici | 4.00% | ~8 |
+| Veni, Vidi, Vici | 5.00% | ~10 |
 | Whoops! | 3.00% | ~6 |
 | Multi Kill | 2.00% | ~4 |
 | Such A Fungi | 2.00% | ~4 |
@@ -34,6 +34,7 @@ Number of Ratings: 292  (23.09.2022)
 | Fully Charged | 0.50% | ~1 |
 | Don't Touch My Stuff | 0.50% | ~1 |
 | Get Over Here! | 0.50% | ~1 |
+| Landlord Extraordinaire | 0.50% | ~1 |
 | Ultra Kill | 0.50% | ~1 |
 | Grand Master | 0.50% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
@@ -55,7 +56,6 @@ Number of Ratings: 292  (23.09.2022)
 | From the Ashes | 0.00% | ~0 |
 | The Marsh Expands | 0.00% | ~0 |
 | Cleave | 0.00% | ~0 |
-| Landlord Extraordinaire | 0.00% | ~0 |
 | Kneel, peasant! | 0.00% | ~0 |
 | Contractually Obligated to Win | 0.00% | ~0 |
 | I like it a Loth | 0.00% | ~0 |

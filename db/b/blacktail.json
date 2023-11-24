@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 768,
+  "EOS_Progressed": 769,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2266,6 +2266,11 @@
       "Time": "2023-11-22T16:09:29.3881909+00:00",
       "NumProgressed": 768,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T19:09:53.4515746+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2389,7 +2394,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "LiarLiar",
@@ -2532,7 +2537,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 768,
+      "Progressed": 769,
       "Completed": 1
     }
   ],
@@ -2540,8 +2545,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:09:10.2609455+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:09:53.451574+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.4942077+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:58:31.2952091+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:09:10.2609786+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:59:38.7380117+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:09:53.4515997+00:00"
 }

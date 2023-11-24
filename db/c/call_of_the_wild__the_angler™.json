@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -919,9 +919,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6644,
+  "EOS_Progressed": 6645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10414,6 +10414,11 @@
       "Time": "2023-11-24T18:05:40.5568765+00:00",
       "NumProgressed": 6644,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T19:07:09.6926639+00:00",
+      "NumProgressed": 6645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10431,9 +10436,9 @@
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -10744,13 +10749,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6644,
+      "Progressed": 6645,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6016,
+      "Progressed": 6017,
       "Completed": 113
     }
   ],
@@ -10758,8 +10763,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-24T01:41:59.1460403+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:05:40.5568763+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:07:09.6926634+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.6723901+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:57:13.6495605+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:05:40.5569316+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:57:43.5459715+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:07:09.6927244+00:00"
 }

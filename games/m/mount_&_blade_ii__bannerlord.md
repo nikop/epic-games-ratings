@@ -6,26 +6,26 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,376 |
-| Landlord | 33.00% | ~21,760 |
-| Bannerlord | 24.00% | ~15,825 |
-| Horde breaker | 24.00% | ~15,825 |
-| Trained | 24.00% | ~15,825 |
-| Lawmaker | 23.00% | ~15,166 |
-| The king is pleased | 19.00% | ~12,528 |
-| King Solomon | 18.00% | ~11,869 |
-| Apple of my eye | 16.00% | ~10,550 |
-| I can do it | 16.00% | ~10,550 |
-| Against all odds | 13.00% | ~8,572 |
-| God of the Arena | 13.00% | ~8,572 |
-| This Is Our Land | 13.00% | ~8,572 |
+| Lawbringer | 40.00% | ~26,378 |
+| Landlord | 33.00% | ~21,762 |
+| Bannerlord | 24.00% | ~15,827 |
+| Horde breaker | 24.00% | ~15,827 |
+| Trained | 24.00% | ~15,827 |
+| Lawmaker | 23.00% | ~15,167 |
+| The king is pleased | 19.00% | ~12,529 |
+| King Solomon | 18.00% | ~11,870 |
+| Apple of my eye | 16.00% | ~10,551 |
+| I can do it | 16.00% | ~10,551 |
+| Against all odds | 13.00% | ~8,573 |
+| God of the Arena | 13.00% | ~8,573 |
+| This Is Our Land | 13.00% | ~8,573 |
 | Duelist | 10.00% | ~6,594 |
 | Dynasty | 10.00% | ~6,594 |
 | I spit on your grave | 10.00% | ~6,594 |
 | Swordbearer | 10.00% | ~6,594 |
 | What have the Romans ever done for us? | 10.00% | ~6,594 |
 | Butterlord | 9.00% | ~5,935 |
-| Mastery | 8.00% | ~5,275 |
+| Mastery | 8.00% | ~5,276 |
 | Know your enemy | 7.00% | ~4,616 |
 | Crowdfunded | 5.00% | ~3,297 |
 | Crush your enemies | 5.00% | ~3,297 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,939 (Ranked 104)  
+Progressed: 65,944 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 65,597 | 0 |
 | 2023-11-22 | 65,712 | 0 |
 | 2023-11-23 | 65,837 | 0 |
-| 2023-11-24 | 65,939 | 0 |
+| 2023-11-24 | 65,944 | 0 |
 ## Awards
 Max (Character Customization): 7,423  (Ranked 53)  
 Sum: 15,417 (Ranked 68)  

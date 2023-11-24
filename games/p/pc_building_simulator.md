@@ -6,24 +6,24 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,755,906 |
-| Easy to forget | 46.00% | ~1,648,402 |
-| Back in the black | 39.00% | ~1,397,558 |
-| That's what I'm talking about | 29.00% | ~1,039,210 |
-| The Best of Both Worlds | 25.00% | ~895,870 |
-| Get your wings | 20.00% | ~716,696 |
-| Double trouble | 16.00% | ~573,357 |
-| Smashing it | 11.00% | ~394,183 |
-| But can it run Crysis? | 9.00% | ~322,513 |
-| My favourite feature... | 9.00% | ~322,513 |
-| From humble beginnings... | 7.00% | ~250,844 |
-| Customer satisfaction | 7.00% | ~250,844 |
-| Keeping things neat | 4.00% | ~143,339 |
-| Seems you're pretty good at this | 4.00% | ~143,339 |
-| Bending over backwards | 4.00% | ~143,339 |
-| Triple threat | 3.00% | ~107,504 |
-| You rock at this! | 3.00% | ~107,504 |
-| Your music sucks | 3.00% | ~107,504 |
+| You need to plug it in... | 49.00% | ~1,755,918 |
+| Easy to forget | 46.00% | ~1,648,413 |
+| Back in the black | 39.00% | ~1,397,567 |
+| That's what I'm talking about | 29.00% | ~1,039,217 |
+| The Best of Both Worlds | 25.00% | ~895,876 |
+| Get your wings | 20.00% | ~716,701 |
+| Double trouble | 16.00% | ~573,361 |
+| Smashing it | 11.00% | ~394,186 |
+| But can it run Crysis? | 9.00% | ~322,516 |
+| My favourite feature... | 9.00% | ~322,516 |
+| From humble beginnings... | 7.00% | ~250,845 |
+| Customer satisfaction | 7.00% | ~250,845 |
+| Keeping things neat | 4.00% | ~143,340 |
+| Seems you're pretty good at this | 4.00% | ~143,340 |
+| Bending over backwards | 4.00% | ~143,340 |
+| Triple threat | 3.00% | ~107,505 |
+| You rock at this! | 3.00% | ~107,505 |
+| Your music sucks | 3.00% | ~107,505 |
 | I'm broke, Uncle! | 2.00% | ~71,670 |
 | Maybe you should try something else? | 2.00% | ~71,670 |
 | Taking care of business | 2.00% | ~71,670 |
@@ -37,29 +37,29 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,835 |
 | Majority Shareholder | 1.00% | ~35,835 |
 | Owner | 1.00% | ~35,835 |
-| Show off | 0.90% | ~32,251 |
-| Work ethic 101 | 0.70% | ~25,084 |
+| Show off | 0.90% | ~32,252 |
+| Work ethic 101 | 0.70% | ~25,085 |
 | Building momentum | 0.60% | ~21,501 |
 | Lead by example | 0.60% | ~21,501 |
-| Treat yourself - RAM | 0.50% | ~17,917 |
+| Treat yourself - RAM | 0.50% | ~17,918 |
 | Mr big business | 0.40% | ~14,334 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,750 |
-| Mister Big | 0.30% | ~10,750 |
-| Getting your feet wet | 0.30% | ~10,750 |
-| Customer's ALWAYS right. | 0.30% | ~10,750 |
-| Treat yourself - CPU | 0.30% | ~10,750 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,751 |
+| Mister Big | 0.30% | ~10,751 |
+| Getting your feet wet | 0.30% | ~10,751 |
+| Customer's ALWAYS right. | 0.30% | ~10,751 |
+| Treat yourself - CPU | 0.30% | ~10,751 |
 | 1920x1080 | 0.20% | ~7,167 |
 | Blow 'em away | 0.20% | ~7,167 |
-| Hasta La Vista, Baby. | 0.10% | ~3,583 |
-| Wow to build a PC! | 0.10% | ~3,583 |
-| Hoarder | 0.10% | ~3,583 |
-| Sitting on a fortune | 0.10% | ~3,583 |
-| Wow, you really like PCs | 0.10% | ~3,583 |
-| Going loopy | 0.10% | ~3,583 |
-| Stop it | 0.10% | ~3,583 |
-| Treat yourself - GPU | 0.10% | ~3,583 |
+| Hasta La Vista, Baby. | 0.10% | ~3,584 |
+| Wow to build a PC! | 0.10% | ~3,584 |
+| Hoarder | 0.10% | ~3,584 |
+| Sitting on a fortune | 0.10% | ~3,584 |
+| Wow, you really like PCs | 0.10% | ~3,584 |
+| Going loopy | 0.10% | ~3,584 |
+| Stop it | 0.10% | ~3,584 |
+| Treat yourself - GPU | 0.10% | ~3,584 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,583,482 (Ranked 5)  
+Progressed: 3,583,506 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 39 (0.00%) (Ranked 359)
 | 2023-11-21 | 3,582,458 | 38 |
 | 2023-11-22 | 3,582,835 | 39 |
 | 2023-11-23 | 3,583,212 | 39 |
-| 2023-11-24 | 3,583,482 | 39 |
+| 2023-11-24 | 3,583,506 | 39 |
 ## Awards
 Max (Great for Beginners): 1,106  (Ranked 144)  
 Sum: 8,150 (Ranked 104)  

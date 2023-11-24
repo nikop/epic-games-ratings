@@ -601,7 +601,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3918,
+  "EOS_Progressed": 3919,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -8136,6 +8136,11 @@
       "Time": "2023-11-24T17:04:27.0843249+00:00",
       "NumProgressed": 3918,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-24T19:05:35.1863257+00:00",
+      "NumProgressed": 3919,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8185,9 +8190,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 509
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8227,7 +8232,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8267,7 +8272,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8315,7 +8320,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8347,7 +8352,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8355,7 +8360,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8515,7 +8520,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8635,7 +8640,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -8643,7 +8648,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -8651,7 +8656,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -8714,13 +8719,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3869,
+      "Progressed": 3870,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3918,
+      "Progressed": 3919,
       "Completed": 11
     }
   ],
@@ -8728,8 +8733,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:04:32.5615246+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:05:35.1863253+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:59:21.3060215+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:04:32.5615974+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:00:52.0165729+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:05:35.1864018+00:00"
 }

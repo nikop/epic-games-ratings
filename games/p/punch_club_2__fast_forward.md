@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 89.00% | ~311 |
-| Your first fight | 86.00% | ~300 |
+| Your first fight | 87.00% | ~304 |
 | First winning | 85.00% | ~297 |
 | Good Person Chip | 85.00% | ~297 |
 | Your first job | 83.00% | ~290 |
 | Fitness professional | 79.00% | ~276 |
 | Old movies enjoyer | 79.00% | ~276 |
-| Depressed visitor | 78.00% | ~272 |
+| Depressed visitor | 79.00% | ~276 |
 | Employee of the week | 78.00% | ~272 |
 | Neurotrainer – power gainer! | 77.00% | ~269 |
 | Your own amateur gym | 73.00% | ~255 |

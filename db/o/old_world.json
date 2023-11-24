@@ -2022,7 +2022,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15460,
+  "EOS_Progressed": 15461,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -16457,6 +16457,11 @@
       "Time": "2023-11-24T18:03:17.1388707+00:00",
       "NumProgressed": 15460,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-24T19:03:51.2635173+00:00",
+      "NumProgressed": 15461,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17042,9 +17047,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
       "SetID": "9201eeb",
       "Name": "Old",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
@@ -18106,9 +18111,9 @@
       "ID": "ACHIEVEMENT_NATION_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hatti",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_NATION_PERSIA",
@@ -18754,9 +18759,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
       "SetID": "9201eeb",
       "Name": "Deposed Tribe",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
@@ -19203,21 +19208,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15460,
+      "Progressed": 15461,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15460,
+      "Progressed": 15461,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-23T17:58:16.2133838+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:03:17.1388704+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:03:51.2635169+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:58:28.4312404+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:03:17.1397372+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:59:34.4222937+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:03:51.2645199+00:00"
 }

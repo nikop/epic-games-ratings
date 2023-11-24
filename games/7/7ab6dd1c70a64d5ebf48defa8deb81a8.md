@@ -18,7 +18,7 @@
 | Break Out | 6.00% | ~13 |
 | Tributes of Caladrias | 6.00% | ~13 |
 | Big Bazar | 6.00% | ~13 |
-| Calm before the Storm | 5.00% | ~10 |
+| Calm before the Storm | 5.00% | ~11 |
 | Shatter Them All | 4.00% | ~8 |
 | Fine Feathers Make Fine Birds | 4.00% | ~8 |
 | The Mentor | 3.00% | ~6 |
@@ -30,18 +30,18 @@
 | Airborne | 2.00% | ~4 |
 | Shatterer | 2.00% | ~4 |
 | Slayer | 1.00% | ~2 |
-| Flawless Victory | 1.00% | ~2 |
-| All That Gold | 1.00% | ~2 |
 | Miner | 1.00% | ~2 |
 | A Queen's Tale | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
+| Flawless Victory | 0.90% | ~2 |
+| All That Gold | 0.90% | ~2 |
 | Shardbearer | 0.50% | ~1 |
 | All There Is | 0.50% | ~1 |
 | False God | 0.50% | ~1 |
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 382)  
+Progressed: 211 (Ranked 382)  
 Completed: 2 (0.95%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 2 (0.95%) (Ranked 168)
 | 2023-11-21 | 197 | 1 |
 | 2023-11-22 | 203 | 2 |
 | 2023-11-23 | 204 | 2 |
-| 2023-11-24 | 210 | 2 |
+| 2023-11-24 | 211 | 2 |

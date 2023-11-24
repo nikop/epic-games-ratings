@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29029,
+  "EOS_Progressed": 29030,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24786,6 +24786,11 @@
       "Time": "2023-11-24T18:08:57.9014563+00:00",
       "NumProgressed": 29029,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-24T19:09:36.2847023+00:00",
+      "NumProgressed": 29030,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24821,7 +24826,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "1019",
@@ -24837,7 +24842,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "1021",
@@ -24845,7 +24850,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "1022",
@@ -24972,15 +24977,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29029,
+      "Progressed": 29030,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:08:57.901456+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:09:36.2847019+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-24T18:03:00.3599154+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:08:57.9015583+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:03:24.92756+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:09:36.284809+00:00"
 }

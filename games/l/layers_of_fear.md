@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wanderer | 80.00% | ~66 |
-| Something important | 77.00% | ~63 |
-| A piece of the story | 62.00% | ~51 |
+| Something important | 76.00% | ~63 |
+| A piece of the story | 61.00% | ~51 |
 | It's covered up for a reason | 45.00% | ~37 |
-| Scraps of love | 44.00% | ~36 |
-| The artist’s impression | 44.00% | ~36 |
-| Do what you have to | 43.00% | ~35 |
-| Refuse to look | 37.00% | ~30 |
+| Scraps of love | 43.00% | ~36 |
+| The artist’s impression | 43.00% | ~36 |
+| Do what you have to | 42.00% | ~35 |
+| Refuse to look | 36.00% | ~30 |
 | Sign of weakness | 35.00% | ~29 |
 | Finished it | 28.00% | ~23 |
 | Face your fears | 23.00% | ~19 |
-| Playtime | 15.00% | ~12 |
-| Tough conversation | 15.00% | ~12 |
+| Playtime | 14.00% | ~12 |
+| Tough conversation | 14.00% | ~12 |
 | The tragedy unfolds | 13.00% | ~11 |
 | First steps | 12.00% | ~10 |
 | Whispers long forgotten | 12.00% | ~10 |
@@ -26,10 +26,10 @@
 | Debut | 11.00% | ~9 |
 | The art of movement | 11.00% | ~9 |
 | True Reflection | 10.00% | ~8 |
-| Another perspective | 9.00% | ~7 |
-| Sound Bite | 9.00% | ~7 |
-| Lights! Camera! Action! | 9.00% | ~7 |
-| Heavy Burden | 7.00% | ~6 |
+| Another perspective | 8.00% | ~7 |
+| Sound Bite | 8.00% | ~7 |
+| Heavy Burden | 8.00% | ~7 |
+| Lights! Camera! Action! | 8.00% | ~7 |
 | Casting Finished | 5.00% | ~4 |
 | We Are Not Alone | 5.00% | ~4 |
 | Fisherman | 5.00% | ~4 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 450)  
+Progressed: 83 (Ranked 449)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-20 | 77 | 0 |
 | 2023-11-21 | 78 | 0 |
 | 2023-11-22 | 79 | 0 |
-| 2023-11-24 | 82 | 0 |
+| 2023-11-24 | 83 | 0 |

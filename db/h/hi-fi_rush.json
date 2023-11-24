@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4314,
+  "EOS_Progressed": 4316,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7595,6 +7595,11 @@
       "Time": "2023-11-24T18:08:18.0181759+00:00",
       "NumProgressed": 4314,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-24T19:08:40.6898486+00:00",
+      "NumProgressed": 4316,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7606,7 +7611,7 @@
       "Name": "Start with a bang!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "Ach002",
@@ -7742,7 +7747,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Ach019",
@@ -7886,7 +7891,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Ach037",
@@ -8006,7 +8011,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Ach052",
@@ -8173,13 +8178,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4314,
+      "Progressed": 4316,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2835,
+      "Progressed": 2837,
       "Completed": 1930
     }
   ],
@@ -8187,8 +8192,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:08:18.0181756+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:08:40.6898482+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:58:28.7710268+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:08:18.0182708+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:59:34.8354993+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:08:40.6899542+00:00"
 }

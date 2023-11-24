@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 526,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1097,6 +1097,11 @@
       "Time": "2023-11-24T18:05:18.5828346+00:00",
       "NumProgressed": 522,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T19:06:39.7722168+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1157,7 +1162,7 @@
       "Name": "Knight-Vexillor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CompleteChapter1",
@@ -1165,7 +1170,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 379
     },
     {
       "ID": "CompleteChapter10",
@@ -1213,7 +1218,7 @@
       "Name": "The Great Scheme",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CompleteChapter16",
@@ -1221,7 +1226,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CompleteChapter17",
@@ -1229,7 +1234,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -1245,15 +1250,15 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 284
     },
     {
       "ID": "CompleteChapter3",
@@ -1261,7 +1266,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 179
     },
     {
       "ID": "CompleteChapter4",
@@ -1269,7 +1274,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "CompleteChapter5",
@@ -1293,7 +1298,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CompleteChapter8",
@@ -1307,9 +1312,9 @@
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1341,7 +1346,7 @@
       "Name": "Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CompleteConquestTzeentch",
@@ -1357,7 +1362,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 179
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1389,7 +1394,7 @@
       "Name": "Warmaster Supreme",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -1404,14 +1409,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 526,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:05:18.5828343+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:06:39.7722161+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:58:11.4036318+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:05:18.5828622+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:59:09.4265191+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:06:39.7722395+00:00"
 }

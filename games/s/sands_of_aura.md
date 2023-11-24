@@ -18,9 +18,9 @@
 | Sovereignty of Irons | 6.00% | ~5 |
 | A Sandwyrm's Hoard | 6.00% | ~5 |
 | Sommelier | 5.00% | ~4 |
+| Twin Thorns | 5.00% | ~4 |
 | Let Me Solo Them | 3.00% | ~3 |
 | Frigid Winds | 3.00% | ~3 |
-| Twin Thorns | 3.00% | ~3 |
 | The River Styx | 2.00% | ~2 |
 | Smotherly Love | 1.00% | ~1 |
 | Transformative Nature | 1.00% | ~1 |

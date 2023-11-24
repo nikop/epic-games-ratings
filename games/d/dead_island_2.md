@@ -5,37 +5,37 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,484 |
-| Welcome To Hell-A | 2.00% | ~14,478 |
-| One of Us | 2.00% | ~989 |
-| Pork Chopped | 2.00% | ~989 |
-| Dr. Reed, I Presume? | 1.00% | ~7,239 |
-| Git Gutte! | 1.00% | ~7,239 |
-| Anger Management | 1.00% | ~7,239 |
-| Bookworm | 1.00% | ~7,239 |
-| Break A Leg | 1.00% | ~7,239 |
-| But Doctor, I am Butcho | 1.00% | ~7,239 |
-| Can't Handle the Truth | 1.00% | ~7,239 |
-| Coup de Grâce | 1.00% | ~7,239 |
-| Hazardous Materials | 1.00% | ~7,239 |
-| Friends Like These | 1.00% | ~7,239 |
-| Hotel California | 1.00% | ~7,239 |
-| Apex Predator | 1.00% | ~7,239 |
-| Stacking the Deck | 1.00% | ~7,239 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,239 |
-| This is My Weapon | 1.00% | ~7,239 |
-| Slayer Squad | 0.90% | ~6,515 |
-| Like Riding a Bike | 0.90% | ~6,515 |
-| Zombologist | 0.90% | ~6,515 |
-| A Patton Emerges | 0.90% | ~6,515 |
-| Our True Nature | 0.90% | ~6,515 |
-| Perks of the Job | 0.80% | ~5,791 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,791 |
-| Ooh, Shiny! | 0.80% | ~5,791 |
-| I Am the Resurrection | 0.80% | ~5,791 |
-| Making Your Mark | 0.70% | ~5,067 |
-| Humanity Distilled | 0.70% | ~5,067 |
-| Max Headroom | 0.70% | ~5,067 |
+| Whatever It Takes | 3.00% | ~1,485 |
+| Welcome To Hell-A | 2.00% | ~14,479 |
+| One of Us | 2.00% | ~990 |
+| Pork Chopped | 2.00% | ~990 |
+| Dr. Reed, I Presume? | 1.00% | ~7,240 |
+| Git Gutte! | 1.00% | ~7,240 |
+| Anger Management | 1.00% | ~7,240 |
+| Bookworm | 1.00% | ~7,240 |
+| Break A Leg | 1.00% | ~7,240 |
+| But Doctor, I am Butcho | 1.00% | ~7,240 |
+| Can't Handle the Truth | 1.00% | ~7,240 |
+| Coup de Grâce | 1.00% | ~7,240 |
+| Hazardous Materials | 1.00% | ~7,240 |
+| Friends Like These | 1.00% | ~7,240 |
+| Hotel California | 1.00% | ~7,240 |
+| Apex Predator | 1.00% | ~7,240 |
+| Stacking the Deck | 1.00% | ~7,240 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,240 |
+| This is My Weapon | 1.00% | ~7,240 |
+| Slayer Squad | 0.90% | ~6,516 |
+| Like Riding a Bike | 0.90% | ~6,516 |
+| Zombologist | 0.90% | ~6,516 |
+| A Patton Emerges | 0.90% | ~6,516 |
+| Our True Nature | 0.90% | ~6,516 |
+| Perks of the Job | 0.80% | ~5,792 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,792 |
+| Ooh, Shiny! | 0.80% | ~5,792 |
+| I Am the Resurrection | 0.80% | ~5,792 |
+| Making Your Mark | 0.70% | ~5,068 |
+| Humanity Distilled | 0.70% | ~5,068 |
+| Max Headroom | 0.70% | ~5,068 |
 | Not Even My Final Form | 0.60% | ~4,344 |
 | Down with the Sickness | 0.60% | ~4,344 |
 | Jumbo Keyring | 0.50% | ~3,620 |
@@ -50,14 +50,14 @@ Rating: 4.54 (Ranked 526)
 | Sole Survivor | 0.30% | ~2,172 |
 | Gore Horse | 0.30% | ~2,172 |
 | Sharpest Tool in the Box | 0.30% | ~2,172 |
-| Top That, Tisha! | 0.30% | ~148 |
+| Top That, Tisha! | 0.30% | ~149 |
 | Survival Skills | 0.20% | ~1,448 |
 | Lawn and Order | 0.20% | ~99 |
 | Donk! | 0.10% | ~724 |
 | Bucket List | 0.10% | ~724 |
-| Wilhelm | 0.10% | ~49 |
+| Wilhelm | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,919 (Ranked 21)  
+Progressed: 723,963 (Ranked 21)  
 Completed: 2,429 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2,429 (0.34%) (Ranked 229)
 | 2023-11-21 | 722,031 | 2,423 |
 | 2023-11-22 | 722,778 | 2,425 |
 | 2023-11-23 | 723,442 | 2,428 |
-| 2023-11-24 | 723,919 | 2,429 |
+| 2023-11-24 | 723,963 | 2,429 |
 ## Awards
 Max (Great Boss Battles): 7,695  (Ranked 50)  
 Sum: 11,752 (Ranked 83)  

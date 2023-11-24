@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3690,
+  "EOS_Progressed": 3693,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3786,6 +3786,11 @@
       "Time": "2023-11-24T18:05:02.4567416+00:00",
       "NumProgressed": 3690,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T19:06:17.3864517+00:00",
+      "NumProgressed": 3693,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3893,7 +3898,7 @@
       "Name": "Missilis",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_MC",
@@ -3925,7 +3930,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_M_D1",
@@ -3933,7 +3938,7 @@
       "Name": "Modest Earnings",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_M_D2",
@@ -3989,7 +3994,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_M_SC",
@@ -4005,7 +4010,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_OB_BB",
@@ -4101,7 +4106,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_OB_LS",
@@ -4133,7 +4138,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_OB_SD",
@@ -4173,7 +4178,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_R_A",
@@ -4221,7 +4226,7 @@
       "Name": "Reign in Blood",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_TP",
@@ -4300,7 +4305,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3690,
+      "Progressed": 3693,
       "Completed": 0
     }
   ],
@@ -4308,8 +4313,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-11-24T18:05:02.4567413+00:00",
+  "LastChanged_Achievements": "2023-11-24T19:06:17.3864512+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:53.3893955+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:58:48.7388374+00:00",
-  "LastUpdate_Achievements": "2023-11-24T18:05:02.4567926+00:00"
+  "LastUpdate_Ratings": "2023-11-24T19:00:04.0097976+00:00",
+  "LastUpdate_Achievements": "2023-11-24T19:06:17.386508+00:00"
 }
