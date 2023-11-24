@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 18.00% | ~776 |
+| Feeling the beat! | 18.00% | ~777 |
 | Start with a bang! | 17.00% | ~733 |
 | You can pet the cat! | 16.00% | ~690 |
 | Who put gears in there? | 15.00% | ~647 |
@@ -14,10 +14,10 @@ Rating: 4.87 (Ranked 24)
 | You got this, Peppermint? | 13.00% | ~561 |
 | Perfect Parry | 13.00% | ~561 |
 | Alright, that felt AWESOME! | 12.00% | ~518 |
-| This will cost you big time | 11.00% | ~474 |
-| I play my own way! | 11.00% | ~474 |
-| Z-shielding's got nothing on us! | 11.00% | ~474 |
-| Uh, they were broken when I got here | 11.00% | ~474 |
+| This will cost you big time | 11.00% | ~475 |
+| I play my own way! | 11.00% | ~475 |
+| Z-shielding's got nothing on us! | 11.00% | ~475 |
+| Uh, they were broken when I got here | 11.00% | ~475 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~431 |
 | Kissing the sky! | 10.00% | ~431 |
 | The Negotiator | 9.00% | ~388 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,313 (Ranked 194)  
+Progressed: 4,314 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 8 (0.19%) (Ranked 259)
 | 2023-11-21 | 4,235 | 8 |
 | 2023-11-22 | 4,261 | 8 |
 | 2023-11-23 | 4,297 | 8 |
-| 2023-11-24 | 4,313 | 8 |
+| 2023-11-24 | 4,314 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

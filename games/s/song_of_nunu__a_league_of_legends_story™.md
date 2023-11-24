@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 77.00% | ~651 |
-| I Broke It | 74.00% | ~626 |
-| Better On Ice | 69.00% | ~584 |
-| Notai Notes | 69.00% | ~584 |
-| Blue Dreams | 67.00% | ~567 |
-| He's Famous! | 67.00% | ~567 |
-| Cutie Poro | 67.00% | ~567 |
-| Krugmazing | 66.00% | ~558 |
-| The Fire Below the Mountain | 63.00% | ~533 |
-| Moneyball | 61.00% | ~516 |
-| Iceborn | 57.00% | ~482 |
-| No Bites | 56.00% | ~474 |
-| Tear of Freedom | 54.00% | ~457 |
-| Boom Things | 54.00% | ~457 |
-| My Darkest Day | 50.00% | ~423 |
-| The Relentless Storm | 48.00% | ~406 |
-| Rhythm Of Willump | 47.00% | ~398 |
-| A Tragic Reminder | 46.00% | ~389 |
-| 3000 Year Blackout | 45.00% | ~381 |
-| The Finisher | 43.00% | ~364 |
-| So Close | 42.00% | ~355 |
-| You Get Used To It | 41.00% | ~347 |
-| True Legends | 41.00% | ~347 |
-| Family | 38.00% | ~321 |
-| Biggest Snowball Ever | 38.00% | ~321 |
-| Bullseye | 38.00% | ~321 |
-| Boosted! | 38.00% | ~321 |
-| Deadliest and Biggest Snowball Ever! | 38.00% | ~321 |
-| Freeze The Ice Witch | 37.00% | ~313 |
-| On The Rocks | 36.00% | ~305 |
-| It Is Not Over | 35.00% | ~296 |
-| Never Gets Old | 33.00% | ~279 |
-| Snowy Poro | 32.00% | ~271 |
-| Vertical Power | 28.00% | ~237 |
-| One From The Heart | 14.00% | ~118 |
+| Feels Familiar | 77.00% | ~654 |
+| I Broke It | 73.00% | ~620 |
+| Better On Ice | 69.00% | ~586 |
+| Notai Notes | 69.00% | ~586 |
+| Blue Dreams | 67.00% | ~569 |
+| He's Famous! | 67.00% | ~569 |
+| Cutie Poro | 67.00% | ~569 |
+| Krugmazing | 65.00% | ~552 |
+| The Fire Below the Mountain | 63.00% | ~535 |
+| Moneyball | 61.00% | ~518 |
+| Iceborn | 57.00% | ~484 |
+| No Bites | 56.00% | ~475 |
+| Boom Things | 54.00% | ~458 |
+| Tear of Freedom | 53.00% | ~450 |
+| My Darkest Day | 50.00% | ~424 |
+| Rhythm Of Willump | 47.00% | ~399 |
+| The Relentless Storm | 47.00% | ~399 |
+| A Tragic Reminder | 45.00% | ~382 |
+| 3000 Year Blackout | 45.00% | ~382 |
+| The Finisher | 43.00% | ~365 |
+| So Close | 42.00% | ~357 |
+| You Get Used To It | 41.00% | ~348 |
+| True Legends | 41.00% | ~348 |
+| Biggest Snowball Ever | 38.00% | ~323 |
+| Freeze The Ice Witch | 38.00% | ~323 |
+| Bullseye | 38.00% | ~323 |
+| Boosted! | 38.00% | ~323 |
+| Deadliest and Biggest Snowball Ever! | 38.00% | ~323 |
+| Family | 37.00% | ~314 |
+| On The Rocks | 36.00% | ~306 |
+| It Is Not Over | 35.00% | ~297 |
+| Snowy Poro | 32.00% | ~272 |
+| Never Gets Old | 32.00% | ~272 |
+| Vertical Power | 28.00% | ~238 |
+| One From The Heart | 14.00% | ~119 |
 | Yummy | 11.00% | ~93 |
 | Snowball Fightn't | 10.00% | ~85 |
 | It Was Him | 8.00% | ~68 |
@@ -49,8 +49,8 @@
 | Rock Star | 2.00% | ~17 |
 | We Are Speed | 2.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 846 (Ranked 270)  
-Completed: 8 (0.95%) (Ranked 168)  
+Progressed: 849 (Ranked 270)  
+Completed: 8 (0.94%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,4 +84,4 @@ Completed: 8 (0.95%) (Ranked 168)
 | 2023-11-21 | 768 | 7 |
 | 2023-11-22 | 800 | 8 |
 | 2023-11-23 | 823 | 8 |
-| 2023-11-24 | 846 | 8 |
+| 2023-11-24 | 849 | 8 |

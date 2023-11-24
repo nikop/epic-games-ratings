@@ -919,9 +919,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6642,
+  "EOS_Progressed": 6644,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10409,6 +10409,11 @@
       "Time": "2023-11-24T15:06:55.6638437+00:00",
       "NumProgressed": 6642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T18:05:40.5568765+00:00",
+      "NumProgressed": 6644,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10580,7 +10585,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -10739,13 +10744,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6642,
+      "Progressed": 6644,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6014,
+      "Progressed": 6016,
       "Completed": 113
     }
   ],
@@ -10753,8 +10758,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-24T01:41:59.1460403+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:05:35.6095044+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:05:40.5568763+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.6723901+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:57:19.0290171+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:05:35.6095776+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:57:13.6495605+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:05:40.5569316+00:00"
 }

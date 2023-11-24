@@ -10,10 +10,10 @@
 | Adventurer | 8.00% | ~17 |
 | Geared Up | 8.00% | ~17 |
 | Scholar | 8.00% | ~17 |
+| I Found It | 8.00% | ~17 |
 | The Collector | 8.00% | ~17 |
 | A Taste of Wrath | 7.00% | ~15 |
 | Fashion Victim | 7.00% | ~15 |
-| I Found It | 7.00% | ~15 |
 | Stone Collection | 7.00% | ~15 |
 | Break Out | 6.00% | ~13 |
 | Tributes of Caladrias | 6.00% | ~13 |

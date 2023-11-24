@@ -3,12 +3,12 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 148,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 877,
+  "EOS_Progressed": 878,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.42,
   "EosHistory": [
@@ -2843,6 +2843,11 @@
       "Time": "2023-11-24T16:04:08.4022862+00:00",
       "NumProgressed": 877,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-24T18:03:32.2254236+00:00",
+      "NumProgressed": 878,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2855,7 +2860,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2863,7 +2868,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "_03_FinishAct1",
@@ -2871,7 +2876,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2887,7 +2892,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2903,7 +2908,7 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "_08_Completion_10",
@@ -2943,7 +2948,7 @@
       "Name": "Privateer",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "_13_Completion_60",
@@ -3015,7 +3020,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3047,7 +3052,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -3062,7 +3067,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 877,
+      "Progressed": 878,
       "Completed": 30
     }
   ],
@@ -3070,8 +3075,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:03:25.8372788+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:03:32.2254233+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:43.4679413+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:03:25.8373098+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:37.1690415+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:03:32.2254514+00:00"
 }

@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 383)  
+Rating: 4.61 (Ranked 384)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 383)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,457 (Ranked 189)  
+Progressed: 5,461 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 7 (0.13%) (Ranked 271)
 | 2023-11-21 | 5,414 | 7 |
 | 2023-11-22 | 5,428 | 7 |
 | 2023-11-23 | 5,446 | 7 |
-| 2023-11-24 | 5,457 | 7 |
+| 2023-11-24 | 5,461 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 484)  
 Sum: 59 (Ranked 476)  

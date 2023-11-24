@@ -3,12 +3,12 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 841,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -488,10 +488,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93540,
+  "EOS_Progressed": 93547,
   "EOS_Completed": 425,
-  "EOS_NewPlayers": 654,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 655,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
@@ -24743,6 +24743,11 @@
       "Time": "2023-11-24T16:08:33.8058938+00:00",
       "NumProgressed": 93540,
       "NumCompleted": 425
+    },
+    {
+      "Time": "2023-11-24T18:08:08.4831753+00:00",
+      "NumProgressed": 93547,
+      "NumCompleted": 425
     }
   ],
   "TotalAchievements": 10,
@@ -24810,7 +24815,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9354
+      "UsersEstimate": 9355
     },
     {
       "ID": "Level00BowlingStrike",
@@ -24818,7 +24823,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32739
+      "UsersEstimate": 32741
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -24826,22 +24831,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10289
+      "UsersEstimate": 10290
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 93540,
+      "Progressed": 93547,
       "Completed": 425
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:08:04.6753108+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:08:08.483175+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:42.4881953+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:02:43.1629002+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:08:04.6754333+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:02:48.4230261+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:08:08.4832965+00:00"
 }

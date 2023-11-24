@@ -2,12 +2,12 @@
   "ID": "b9def67e597b4be7a16146146a044d02",
   "Name": "MechWarrior 5: Mercenaries Standard Edition",
   "ProductSlug": "mechwarrior-5",
-  "Ranking_Rating": 383,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -5692,6 +5692,6 @@
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
   "LastChanged": "2023-11-24T15:01:29.7439658+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:00.4740404+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:00:00.2597183+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:03:00.288103+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:59:54.9935751+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:03:06.9785705+00:00"
 }

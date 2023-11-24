@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1505,9 +1505,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 16475,
+  "EOS_Progressed": 16476,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9150,6 +9150,11 @@
       "Time": "2023-11-24T13:10:39.4356543+00:00",
       "NumProgressed": 16475,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-24T18:04:44.1375451+00:00",
+      "NumProgressed": 16476,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 47,
@@ -9281,7 +9286,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -9305,7 +9310,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -9329,7 +9334,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "PRINT_WEAPON",
@@ -9393,7 +9398,7 @@
       "Name": "Desperate Times",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -9536,13 +9541,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16475,
+      "Progressed": 16476,
       "Completed": 80
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4401,
+      "Progressed": 4402,
       "Completed": 29
     }
   ],
@@ -9550,8 +9555,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-23T22:02:44.1261785+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:04:38.8869739+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:04:44.1375448+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:43.3850362+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:02:44.7645381+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:04:38.8870414+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:02:49.9417181+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:04:44.1376162+00:00"
 }

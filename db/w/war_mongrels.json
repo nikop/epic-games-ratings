@@ -3,8 +3,8 @@
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
   "Ranking_Rating": 789,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 240,
@@ -2604,9 +2604,9 @@
       "ID": "ACH_KILL_THROW",
       "SetID": "1j25agn",
       "Name": "King of Knives",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_NEST1",
@@ -2652,8 +2652,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-18T22:59:33.9450808+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:09:02.636806+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:09:05.9923359+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.3118815+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:41.6911225+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:09:02.6368503+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:35.5507469+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:09:05.9923897+00:00"
 }

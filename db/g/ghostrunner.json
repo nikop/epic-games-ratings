@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23116,
+  "EOS_Progressed": 23117,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -25055,6 +25055,11 @@
       "Time": "2023-11-24T17:03:44.6343134+00:00",
       "NumProgressed": 23116,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-11-24T18:03:50.1122438+00:00",
+      "NumProgressed": 23117,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 45,
@@ -25074,7 +25079,7 @@
       "Name": "About Adam",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ArtificialSelection",
@@ -25082,7 +25087,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 6472
+      "UsersEstimate": 6473
     },
     {
       "ID": "BackToHell",
@@ -25106,7 +25111,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -25154,7 +25159,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10402
+      "UsersEstimate": 10403
     },
     {
       "ID": "ICallItLuck",
@@ -25186,7 +25191,7 @@
       "Name": "Just A Man",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "LegacyDrivers",
@@ -25202,7 +25207,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17568
+      "UsersEstimate": 17569
     },
     {
       "ID": "MoreThanHuman",
@@ -25218,7 +25223,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6241
+      "UsersEstimate": 6242
     },
     {
       "ID": "ObedientMachine",
@@ -25298,7 +25303,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6241
+      "UsersEstimate": 6242
     },
     {
       "ID": "Scrapped",
@@ -25354,7 +25359,7 @@
       "Name": "Triple A",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "UnstoppableForce",
@@ -25386,7 +25391,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 12251
+      "UsersEstimate": 12252
     },
     {
       "ID": "WaveOfMutilation",
@@ -25402,7 +25407,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9246
+      "UsersEstimate": 9247
     },
     {
       "ID": "WhereHeStood",
@@ -25425,21 +25430,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 23116,
+      "Progressed": 23117,
       "Completed": 57
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 23116,
+      "Progressed": 23117,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:03:44.634313+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:03:50.1122435+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:57:33.0434485+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:03:44.6344272+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:57:27.5968873+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:03:50.1123797+00:00"
 }

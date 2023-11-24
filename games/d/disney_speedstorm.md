@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,131 |
-| IT MAKES BOOM! | 7.00% | ~21,720 |
-| EXTRA BOOST | 5.00% | ~15,514 |
-| PROTECTED | 4.00% | ~12,411 |
-| PRO | 4.00% | ~12,411 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,308 |
-| AGGRESSIVE RACER | 3.00% | ~9,308 |
-| A TIGER'S FEAR | 2.00% | ~6,206 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,103 |
-| ACE SPEEDSTER | 1.00% | ~3,103 |
+| ROOKIE | 11.00% | ~34,139 |
+| IT MAKES BOOM! | 7.00% | ~21,725 |
+| EXTRA BOOST | 5.00% | ~15,518 |
+| PROTECTED | 4.00% | ~12,414 |
+| PRO | 4.00% | ~12,414 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,311 |
+| AGGRESSIVE RACER | 3.00% | ~9,311 |
+| A TIGER'S FEAR | 2.00% | ~6,207 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,104 |
+| ACE SPEEDSTER | 1.00% | ~3,104 |
 | RELEASE THE KRAKEN | 0.90% | ~2,793 |
 | MASTER | 0.90% | ~2,793 |
-| TRAINING HARD | 0.80% | ~2,482 |
-| BE OUR GUEST | 0.80% | ~2,482 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,482 |
-| FRIENDLY | 0.80% | ~2,482 |
-| LEGENDARY HERO | 0.80% | ~2,482 |
+| TRAINING HARD | 0.80% | ~2,483 |
+| BE OUR GUEST | 0.80% | ~2,483 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,483 |
+| FRIENDLY | 0.80% | ~2,483 |
+| LEGENDARY HERO | 0.80% | ~2,483 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,172 |
 | EXPERIENCED CREW | 0.60% | ~1,862 |
 | ACE BRAWLER | 0.40% | ~1,241 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 746)
 | ACE TRICKSTER | 0.30% | ~931 |
 | PERFECTLY POISED | 0.20% | ~621 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310,282 (Ranked 52)  
-Completed: 326 (0.11%) (Ranked 277)  
+Progressed: 310,351 (Ranked 52)  
+Completed: 327 (0.11%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,11 +244,11 @@ Completed: 326 (0.11%) (Ranked 277)
 | 2023-11-21 | 306,872 | 316 |
 | 2023-11-22 | 308,028 | 320 |
 | 2023-11-23 | 309,325 | 322 |
-| 2023-11-24 | 310,282 | 326 |
+| 2023-11-24 | 310,351 | 327 |
 ## Awards
 Max (Great for Beginners): 81  (Ranked 389)  
-Sum: 632 (Ranked 309)  
-Diff (max vs sum): 80  
+Sum: 632 (Ranked 310)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 81 |

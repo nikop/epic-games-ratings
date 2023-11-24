@@ -2022,9 +2022,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15459,
+  "EOS_Progressed": 15460,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16452,6 +16452,11 @@
       "Time": "2023-11-24T14:03:07.6540757+00:00",
       "NumProgressed": 15459,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-24T18:03:17.1388707+00:00",
+      "NumProgressed": 15460,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18013,9 +18018,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 5",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -18429,9 +18434,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -19198,21 +19203,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15459,
+      "Progressed": 15460,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15459,
+      "Progressed": 15460,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-23T17:58:16.2133838+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:03:10.4046761+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:03:17.1388704+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:34.3938809+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:03:10.4055899+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:28.4312404+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:03:17.1397372+00:00"
 }

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 80.00% | ~65 |
-| Something important | 77.00% | ~62 |
-| A piece of the story | 63.00% | ~51 |
-| It's covered up for a reason | 44.00% | ~36 |
+| Wanderer | 80.00% | ~66 |
+| Something important | 77.00% | ~63 |
+| A piece of the story | 62.00% | ~51 |
+| It's covered up for a reason | 45.00% | ~37 |
 | Scraps of love | 44.00% | ~36 |
 | The artist’s impression | 44.00% | ~36 |
 | Do what you have to | 43.00% | ~35 |
 | Refuse to look | 37.00% | ~30 |
-| Sign of weakness | 36.00% | ~29 |
+| Sign of weakness | 35.00% | ~29 |
 | Finished it | 28.00% | ~23 |
 | Face your fears | 23.00% | ~19 |
 | Playtime | 15.00% | ~12 |
 | Tough conversation | 15.00% | ~12 |
-| The tragedy unfolds | 14.00% | ~11 |
+| The tragedy unfolds | 13.00% | ~11 |
 | First steps | 12.00% | ~10 |
 | Whispers long forgotten | 12.00% | ~10 |
 | A new way | 11.00% | ~9 |
@@ -40,11 +40,11 @@
 | Body of Work | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
 | It was worth a try | 2.00% | ~2 |
+| Se7en Seas | 2.00% | ~2 |
 | Immortalized in my heart | 1.00% | ~1 |
 | Full Scoop | 1.00% | ~1 |
 | In One Take | 1.00% | ~1 |
 | Preferred Parent | 1.00% | ~1 |
-| Se7en Seas | 1.00% | ~1 |
 | The Tree and the Apple | 1.00% | ~1 |
 | Instinct of self-preservation | 1.00% | ~1 |
 | A Mosaic of Misery | 1.00% | ~1 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 451)  
+Progressed: 82 (Ranked 450)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-20 | 77 | 0 |
 | 2023-11-21 | 78 | 0 |
 | 2023-11-22 | 79 | 0 |
-| 2023-11-24 | 81 | 0 |
+| 2023-11-24 | 82 | 0 |

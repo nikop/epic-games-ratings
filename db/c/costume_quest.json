@@ -3,11 +3,11 @@
   "Name": "Costume Quest",
   "ProductSlug": "costume-quest",
   "Ranking_Rating": 506,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2019-10-31T15:00:00+00:00",
@@ -322,6 +322,6 @@
   "FirstSeen": "2022-07-22T20:24:30.9149572+00:00",
   "LastChanged": "2023-11-19T21:59:51.439795+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:31.6297969+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:41.9566815+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:06:18.758557+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:35.8038051+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:07:53.7608425+00:00"
 }

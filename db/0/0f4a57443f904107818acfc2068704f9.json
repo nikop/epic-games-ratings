@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 121,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 522,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1092,6 +1092,11 @@
       "Time": "2023-11-24T17:05:13.4855033+00:00",
       "NumProgressed": 520,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T18:05:18.5828346+00:00",
+      "NumProgressed": 522,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1112,7 +1117,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1120,7 +1125,7 @@
       "Name": "Chosen Victor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -1160,7 +1165,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 376
     },
     {
       "ID": "CompleteChapter10",
@@ -1200,7 +1205,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CompleteChapter15",
@@ -1246,9 +1251,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 287
     },
     {
       "ID": "CompleteChapter3",
@@ -1264,7 +1269,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "CompleteChapter5",
@@ -1272,7 +1277,7 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "CompleteChapter6",
@@ -1280,15 +1285,15 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     },
     {
       "ID": "CompleteChapter8",
@@ -1296,15 +1301,15 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1399,14 +1404,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 522,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:05:13.4855027+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:05:18.5828343+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:17.363088+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:05:13.4855261+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:11.4036318+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:05:18.5828622+00:00"
 }

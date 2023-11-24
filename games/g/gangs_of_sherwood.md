@@ -7,9 +7,9 @@
 | Air Fighter | 88.00% | ~7 |
 | Act of Kindness | 75.00% | ~6 |
 | The Altruist | 75.00% | ~6 |
+| Merry Co-operation | 63.00% | ~5 |
 | Watch your Step! | 63.00% | ~5 |
 | Treasure Hunter | 63.00% | ~5 |
-| Merry Co-operation | 50.00% | ~4 |
 | Savior | 50.00% | ~4 |
 | Tap Dancing | 50.00% | ~4 |
 | Right between the eyes | 50.00% | ~4 |
@@ -19,6 +19,7 @@
 | Assault on the Ram | 38.00% | ~3 |
 | Spring Board | 38.00% | ~3 |
 | Rebel Unleashed | 38.00% | ~3 |
+| Merry Go Round | 38.00% | ~3 |
 | Starry Night | 25.00% | ~2 |
 | Brilliant Executioner | 25.00% | ~2 |
 | King of the Iron Fist | 25.00% | ~2 |
@@ -29,7 +30,7 @@
 | Ultra Rebel Instinct | 25.00% | ~2 |
 | Take Action! | 25.00% | ~2 |
 | First Aid | 25.00% | ~2 |
-| Merry Go Round | 25.00% | ~2 |
+| Ascending Will | 13.00% | ~1 |
 | Bold and Bossy | 13.00% | ~1 |
 | Power of Friendship! | 13.00% | ~1 |
 | Out of the ring | 13.00% | ~1 |
@@ -39,7 +40,6 @@
 | Into the Lion's Den | 13.00% | ~1 |
 | Money can not buy happiness | 13.00% | ~1 |
 | Haute Couture | 13.00% | ~1 |
-| Ascending Will | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |

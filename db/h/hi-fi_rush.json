@@ -3,8 +3,8 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 187,
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4313,
+  "EOS_Progressed": 4314,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7590,6 +7590,11 @@
       "Time": "2023-11-24T16:08:47.083769+00:00",
       "NumProgressed": 4313,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-24T18:08:18.0181759+00:00",
+      "NumProgressed": 4314,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7617,7 +7622,7 @@
       "Name": "This will cost you big time",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "Ach004",
@@ -7729,7 +7734,7 @@
       "Name": "I play my own way!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "Ach018",
@@ -7777,7 +7782,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "Ach024",
@@ -7809,7 +7814,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "Ach028",
@@ -7857,7 +7862,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "Ach034",
@@ -8168,13 +8173,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4313,
+      "Progressed": 4314,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2834,
+      "Progressed": 2835,
       "Completed": 1930
     }
   ],
@@ -8182,8 +8187,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:08:13.9662329+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:08:18.0181756+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:34.7680639+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:08:13.9663142+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:28.7710268+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:08:18.0182708+00:00"
 }

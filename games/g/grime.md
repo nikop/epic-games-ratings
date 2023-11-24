@@ -6,10 +6,10 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,991 |
-| Imprint | 5.00% | ~7,991 |
-| The Hunt | 4.00% | ~6,393 |
-| Ravenous | 4.00% | ~6,393 |
+| Taste | 5.00% | ~7,992 |
+| Imprint | 5.00% | ~7,992 |
+| The Hunt | 4.00% | ~6,394 |
+| Ravenous | 4.00% | ~6,394 |
 | Weeper | 3.00% | ~4,795 |
 | Harmless | 2.00% | ~3,197 |
 | Silenced Whispers | 2.00% | ~3,197 |
@@ -24,9 +24,9 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 1.00% | ~1,598 |
 | Watcher | 1.00% | ~1,598 |
 | Predator | 1.00% | ~1,598 |
-| Assimilation | 0.90% | ~1,438 |
+| Assimilation | 0.90% | ~1,439 |
 | Host | 0.90% | ~1,435 |
-| Celebration | 0.90% | ~1,438 |
+| Celebration | 0.90% | ~1,439 |
 | Hunt Down | 0.70% | ~1,119 |
 | Inevitable | 0.70% | ~1,119 |
 | All-Seeing | 0.70% | ~1,119 |
@@ -40,7 +40,7 @@ Number of Ratings: 46  (23.09.2022)
 | Bloodhunter | 0.40% | ~639 |
 | Zygote | 0.40% | ~638 |
 | Proportions | 0.40% | ~639 |
-| Kinship | 0.30% | ~479 |
+| Kinship | 0.30% | ~480 |
 | Kin | 0.30% | ~478 |
 | Listen | 0.30% | ~478 |
 | Weakness | 0.20% | ~320 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,829 (Ranked 78)  
+Progressed: 159,845 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 1 (0.00%) (Ranked 359)
 | 2023-11-21 | 159,459 | 1 |
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
-| 2023-11-24 | 159,829 | 1 |
+| 2023-11-24 | 159,845 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 424)  
 Sum: 380 (Ranked 346)  

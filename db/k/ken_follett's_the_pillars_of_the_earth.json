@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16623,
+  "EOS_Progressed": 16624,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14768,6 +14768,11 @@
       "Time": "2023-11-24T17:06:14.8249882+00:00",
       "NumProgressed": 16623,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-24T18:07:49.8801517+00:00",
+      "NumProgressed": 16624,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14795,7 +14800,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3823
+      "UsersEstimate": 3824
     },
     {
       "ID": "tpote_achievement_12",
@@ -14955,7 +14960,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5319
+      "UsersEstimate": 5320
     },
     {
       "ID": "tpote_achievement_30",
@@ -15043,7 +15048,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6649
+      "UsersEstimate": 6650
     },
     {
       "ID": "tpote_achievement_40",
@@ -15106,15 +15111,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16623,
+      "Progressed": 16624,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:06:14.8249879+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:07:49.8801514+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-24T17:00:09.183496+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:06:14.8251003+00:00"
+  "LastUpdate_Ratings": "2023-11-24T18:00:04.5293592+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:07:49.8802651+00:00"
 }

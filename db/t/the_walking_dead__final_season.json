@@ -3,11 +3,11 @@
   "Name": "The Walking Dead: Final Season",
   "ProductSlug": "walking-dead-final-season",
   "Ranking_Rating": 113,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2018-08-14T15:00:00+00:00",
@@ -255,6 +255,6 @@
   "FirstSeen": "2022-07-22T20:21:34.1366366+00:00",
   "LastChanged": "2023-11-16T20:59:48.681359+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:02.1625339+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:59:49.916541+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:03:47.07335+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:59:45.1306481+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:03:52.5663179+00:00"
 }

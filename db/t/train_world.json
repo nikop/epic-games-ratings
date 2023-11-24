@@ -2,9 +2,9 @@
   "ID": "942b563ee0aa4086a55d8b746aca514d",
   "Name": "Train World",
   "ProductSlug": "train-world-07e156",
-  "Ranking_EOS_Progress": 586,
+  "Ranking_EOS_Progress": 583,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -94,6 +94,11 @@
       "Time": "2023-11-22T17:06:34.9665372+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T18:05:44.67543+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-14T15:04:55.3907399+00:00",
@@ -128,7 +133,7 @@
       "ID": "company_billion",
       "SetID": "5ia1dkp",
       "Name": "Billionaire Club",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "complete_tutorial",
       "SetID": "5ia1dkp",
       "Name": "Trainee",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -144,7 +149,7 @@
       "ID": "diesel_engine",
       "SetID": "5ia1dkp",
       "Name": "Diesel Dream",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -168,9 +173,9 @@
       "ID": "first_line",
       "SetID": "5ia1dkp",
       "Name": "Line Up",
-      "Percentage": 15,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "five_cities_connected",
@@ -208,9 +213,9 @@
       "ID": "full_second_era_unlocked",
       "SetID": "5ia1dkp",
       "Name": "Modern Times",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "full_third_era_unlocked",
@@ -232,15 +237,15 @@
       "ID": "hundred_million_company",
       "SetID": "5ia1dkp",
       "Name": "Money Train",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "hundred_passengers",
       "SetID": "5ia1dkp",
       "Name": "Full House",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -256,7 +261,7 @@
       "ID": "hundred_twenty_speed",
       "SetID": "5ia1dkp",
       "Name": "Speed Demon",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -280,9 +285,9 @@
       "ID": "late_era_unlocked",
       "SetID": "5ia1dkp",
       "Name": "Future Vision",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "long_bridge",
@@ -328,7 +333,7 @@
       "ID": "million_from_freight",
       "SetID": "5ia1dkp",
       "Name": "Cargo King",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -336,7 +341,7 @@
       "ID": "million_from_passengers",
       "SetID": "5ia1dkp",
       "Name": "People Mover",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -360,7 +365,7 @@
       "ID": "region_cities_connected",
       "SetID": "5ia1dkp",
       "Name": "Regional Express",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -368,7 +373,7 @@
       "ID": "region_industries_connected",
       "SetID": "5ia1dkp",
       "Name": "Industrial Giant",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -376,15 +381,15 @@
       "ID": "steam_engine",
       "SetID": "5ia1dkp",
       "Name": "Steam Power",
-      "Percentage": 15,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "task_complete",
       "SetID": "5ia1dkp",
       "Name": "Task Apprentice",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -392,7 +397,7 @@
       "ID": "ten_cities_connected",
       "SetID": "5ia1dkp",
       "Name": "Urban Network",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -400,7 +405,7 @@
       "ID": "ten_industries_connected",
       "SetID": "5ia1dkp",
       "Name": "Supply Chain",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -416,7 +421,7 @@
       "ID": "ten_trains",
       "SetID": "5ia1dkp",
       "Name": "Train Spotter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -424,7 +429,7 @@
       "ID": "thousand_freight_train",
       "SetID": "5ia1dkp",
       "Name": "Mega Train",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -432,7 +437,7 @@
       "ID": "three_hundred_freight_train",
       "SetID": "5ia1dkp",
       "Name": "Heavy Load",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -472,7 +477,7 @@
       "ID": "twenty_lines",
       "SetID": "5ia1dkp",
       "Name": "Line Master",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -480,15 +485,15 @@
       "ID": "two_cities_connected",
       "SetID": "5ia1dkp",
       "Name": "City Link",
-      "Percentage": 23,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "two_industries_connected",
       "SetID": "5ia1dkp",
       "Name": "Industrial Revolution",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -496,7 +501,7 @@
       "ID": "two_trains_line",
       "SetID": "5ia1dkp",
       "Name": "Double Trouble",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     }
@@ -505,14 +510,14 @@
     {
       "ID": "5ia1dkp",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:05:39.5917554+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:05:44.6754298+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.0123914+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:37.6477929+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:05:39.591784+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:31.6826473+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:05:44.6754569+00:00"
 }

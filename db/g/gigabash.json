@@ -3,11 +3,11 @@
   "Name": "GigaBash",
   "ProductSlug": "gigabash",
   "Ranking_Rating": 333,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-04T15:00:00+00:00",
@@ -130,8 +130,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2023-10-31T21:58:14.6375217+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:05:00.9868071+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:05:06.0099703+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.9944931+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:00.5751566+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:05:00.9868104+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:57:55.3546513+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:05:06.0099724+00:00"
 }

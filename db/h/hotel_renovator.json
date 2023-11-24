@@ -3,11 +3,11 @@
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
   "Ranking_Rating": 764,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -203,11 +203,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1138,
+  "EOS_Progressed": 1139,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.41,
+  "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -2298,6 +2298,11 @@
       "Time": "2023-11-24T09:03:18.1895476+00:00",
       "NumProgressed": 1138,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-11-24T18:03:15.4017815+00:00",
+      "NumProgressed": 1139,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 27,
@@ -2309,7 +2314,7 @@
       "Name": "Humble beginnings",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -2373,7 +2378,7 @@
       "Name": "No need to call anyone",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -2437,7 +2442,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2445,7 +2450,7 @@
       "Name": "Let there be light",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2461,7 +2466,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_STAR_2",
@@ -2477,7 +2482,7 @@
       "Name": "Still more work ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_STAR_4",
@@ -2509,7 +2514,7 @@
       "Name": "Excellent service",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -2524,7 +2529,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1138,
+      "Progressed": 1139,
       "Completed": 16
     }
   ],
@@ -2532,8 +2537,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-06T04:59:47.279974+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:03:08.736968+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:03:15.4017811+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.1971937+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:39.201778+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:03:08.7370254+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:33.1839442+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:03:15.4018095+00:00"
 }

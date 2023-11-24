@@ -42,13 +42,13 @@
 | Colony Defense | 34.00% | ~469 |
 | The Krogan | 34.00% | ~469 |
 | Broke, Blind, and Bedlam | 33.00% | ~455 |
+| A Personal Touch | 32.00% | ~441 |
 | Ghost Ship | 32.00% | ~441 |
 | The Quarian | 32.00% | ~441 |
 | The Prodigal | 32.00% | ~441 |
 | Galactic Explorer | 32.00% | ~441 |
 | Driven | 32.00% | ~441 |
 | Shopaholic | 32.00% | ~441 |
-| A Personal Touch | 31.00% | ~427 |
 | The Assassin | 31.00% | ~427 |
 | The Justicar | 31.00% | ~427 |
 | Battlemaster | 31.00% | ~427 |
@@ -73,7 +73,7 @@
 | Friend or Foe | 28.00% | ~386 |
 | Doppelganger | 28.00% | ~386 |
 | Mobilizer | 28.00% | ~386 |
-| Untouchable | 26.00% | ~358 |
+| Untouchable | 27.00% | ~372 |
 | Eye of the Hurricane | 26.00% | ~358 |
 | Giant Killer | 26.00% | ~358 |
 | A House Divided | 26.00% | ~358 |
@@ -83,7 +83,7 @@
 | Weapon Specialist | 24.00% | ~331 |
 | Pathfinder | 24.00% | ~331 |
 | Tunnel Rat | 24.00% | ~331 |
-| Arbiter | 23.00% | ~317 |
+| Arbiter | 24.00% | ~331 |
 | Savior | 22.00% | ~303 |
 | Party Crasher | 22.00% | ~303 |
 | Lost and Found | 22.00% | ~303 |

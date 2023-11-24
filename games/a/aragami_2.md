@@ -6,27 +6,27 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,911 |
-| First Steps | 80.00% | ~35,192 |
-| Control the Shadows | 67.00% | ~29,473 |
-| Tools of the Trade | 63.00% | ~27,714 |
-| Apprentice | 60.00% | ~26,394 |
-| Secret Seeker | 57.00% | ~25,074 |
-| Forge of Assassins | 55.00% | ~24,195 |
-| Revenant | 52.00% | ~22,875 |
+| Awakening | 93.00% | ~40,913 |
+| First Steps | 80.00% | ~35,194 |
+| Control the Shadows | 67.00% | ~29,475 |
+| Tools of the Trade | 63.00% | ~27,715 |
+| Apprentice | 60.00% | ~26,395 |
+| Secret Seeker | 57.00% | ~25,075 |
+| Forge of Assassins | 55.00% | ~24,196 |
+| Revenant | 52.00% | ~22,876 |
 | I don’t Care! | 45.00% | ~19,796 |
-| Bird of Prey | 37.00% | ~16,276 |
+| Bird of Prey | 37.00% | ~16,277 |
 | Engraved with Power | 32.00% | ~14,077 |
-| Lady | 31.00% | ~13,637 |
-| Fashionable Assassin | 27.00% | ~11,877 |
+| Lady | 31.00% | ~13,638 |
+| Fashionable Assassin | 27.00% | ~11,878 |
 | Apex Predator | 24.00% | ~10,558 |
 | Soul Reaver | 23.00% | ~10,118 |
 | Embers | 22.00% | ~9,678 |
 | Wall Lizard | 20.00% | ~8,798 |
-| Clinging to Life | 18.00% | ~7,918 |
-| Burning | 17.00% | ~7,478 |
-| Look Behind You | 16.00% | ~7,038 |
-| Sleeping on the Job | 16.00% | ~7,038 |
+| Clinging to Life | 18.00% | ~7,919 |
+| Burning | 17.00% | ~7,479 |
+| Look Behind You | 16.00% | ~7,039 |
+| Sleeping on the Job | 16.00% | ~7,039 |
 | Family | 14.00% | ~6,159 |
 | War Engines | 14.00% | ~6,159 |
 | Signature Move | 14.00% | ~6,159 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~880 |
 | Legacy | 2.00% | ~880 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,990 (Ranked 115)  
+Progressed: 43,992 (Ranked 115)  
 Completed: 241 (0.55%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 241 (0.55%) (Ranked 197)
 | 2023-11-21 | 43,943 | 241 |
 | 2023-11-22 | 43,960 | 241 |
 | 2023-11-23 | 43,983 | 241 |
-| 2023-11-24 | 43,990 | 241 |
+| 2023-11-24 | 43,992 | 241 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

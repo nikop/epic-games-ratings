@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 1.00% | ~155 |
 | Military Prestige | 1.00% | ~155 |
 | Dualism | 1.00% | ~155 |
+| Enlightenment | 1.00% | ~155 |
 | Gnosticism | 1.00% | ~155 |
 | Legalism | 1.00% | ~155 |
 | Redemption | 1.00% | ~155 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.90% | ~139 |
 | Clerics | 0.90% | ~139 |
 | Egypt | 0.90% | ~139 |
-| Enlightenment | 0.90% | ~139 |
 | Turreted Elephant | 0.90% | ~139 |
 | Rome | 0.80% | ~124 |
 | Hittite Paganism | 0.80% | ~124 |
@@ -139,11 +139,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.70% | ~108 |
 | Cao'an | 0.70% | ~108 |
 | Adur Burzen-Mihr | 0.70% | ~108 |
+| Learn to Play 5 | 0.70% | ~108 |
 | Cataphract Archer | 0.70% | ~108 |
 | The Great Mage | 0.70% | ~108 |
 | Kmt Unified | 0.70% | ~108 |
 | Carthage - Ox Hide | 0.60% | ~93 |
-| Learn to Play 5 | 0.60% | ~93 |
 | Old World Order | 0.60% | ~93 |
 | No Undo | 0.60% | ~93 |
 | Kush | 0.60% | ~93 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,459 (Ranked 151)  
+Progressed: 15,460 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -567,7 +567,7 @@ Completed: 5 (0.03%) (Ranked 321)
 | 2023-11-21 | 15,417 | 5 |
 | 2023-11-22 | 15,428 | 5 |
 | 2023-11-23 | 15,453 | 5 |
-| 2023-11-24 | 15,459 | 5 |
+| 2023-11-24 | 15,460 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,874 (Ranked 218)  

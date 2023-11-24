@@ -3,11 +3,11 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 506,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2060,
+  "EOS_Progressed": 2061,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -3322,6 +3322,11 @@
       "Time": "2023-11-24T17:05:53.2082256+00:00",
       "NumProgressed": 2060,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-24T18:05:58.9778434+00:00",
+      "NumProgressed": 2061,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -3333,7 +3338,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "Collect20Gold",
@@ -3357,7 +3362,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "CollectAllStatues",
@@ -3405,7 +3410,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3413,7 +3418,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3477,7 +3482,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "GetTHWeapon",
@@ -3485,7 +3490,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "Kill25Bugs",
@@ -3509,15 +3514,15 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 742
     },
     {
       "ID": "MysteryKingsChamber",
@@ -3549,7 +3554,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "RescueBrothers",
@@ -3565,29 +3570,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2060,
+      "Progressed": 2061,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 701,
-      "Completed": 701
+      "Progressed": 702,
+      "Completed": 702
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:05:53.2082251+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:05:58.9778431+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.2100047+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:05.9233234+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:05:53.2082524+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:00.6440339+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:05:58.9778681+00:00"
 }

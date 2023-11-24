@@ -3,9 +3,9 @@
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 465,
-  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 69,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 15,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.14,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 11.59,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -344,6 +344,11 @@
       "Time": "2023-11-24T17:09:13.4074401+00:00",
       "NumProgressed": 69,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T18:09:16.5528799+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -386,9 +391,9 @@
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "06_ACHIEVEMENT_Half_Complete",
@@ -410,17 +415,17 @@
       "ID": "08_ACHIEVEMENT_Game_Complete",
       "SetID": "6opd2eg",
       "Name": "Finish the game",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 150,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "09_ACHIEVEMENT_Complete_Master",
       "SetID": "6opd2eg",
       "Name": "Hanoi Master",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
@@ -434,9 +439,9 @@
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
       "SetID": "6opd2eg",
       "Name": "Shortcut Master",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -444,13 +449,13 @@
       "ID": "6opd2eg",
       "IsBase": true,
       "Progressed": 69,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:09:13.4074397+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:09:16.5528796+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.6558312+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:59.7649451+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:09:13.4074503+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:54.0390823+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:09:16.5528873+00:00"
 }

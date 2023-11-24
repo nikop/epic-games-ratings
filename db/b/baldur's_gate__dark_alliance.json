@@ -3,11 +3,11 @@
   "Name": "Baldur\u0027s Gate: Dark Alliance",
   "ProductSlug": "baldurs_gate_dark_alliance-8a2e77",
   "Ranking_Rating": 416,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-12-17T12:00:00+00:00",
@@ -121,6 +121,6 @@
   "FirstSeenRating": "2022-09-12T00:32:33.7215945+00:00",
   "LastChanged": "2023-08-13T15:02:24.5463285+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.3696378+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:06.6937156+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:04:08.1002784+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:01.260387+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:04:13.1693948+00:00"
 }

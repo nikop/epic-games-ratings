@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 145,
-  "EOS_Completed": 55,
+  "EOS_Completed": 56,
   "EOS_NewPlayers": 33,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 37.93,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 38.62,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -859,6 +859,11 @@
       "Time": "2023-11-24T16:05:02.1657377+00:00",
       "NumProgressed": 145,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-24T18:04:10.5335657+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 18,
@@ -956,9 +961,9 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "Repair",
@@ -1014,13 +1019,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 145,
-      "Completed": 55
+      "Completed": 56
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:04:05.4047481+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:04:10.5335655+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:59:49.7983454+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:04:05.4047624+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:59:45.0054457+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:04:10.5335753+00:00"
 }

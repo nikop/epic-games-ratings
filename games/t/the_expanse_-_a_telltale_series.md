@@ -1,18 +1,18 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 491)  
+Rating: 4.58 (Ranked 444)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 10.00% | ~1,540 |
-| Bosmang | 6.00% | ~924 |
-| The Pit and the Pirates | 5.00% | ~770 |
-| Martian Music | 5.00% | ~770 |
-| Drone Dodger | 5.00% | ~770 |
-| Captain Drummer | 5.00% | ~770 |
-| Celebrations are in Order | 5.00% | ~770 |
-| Impossible Objects | 5.00% | ~770 |
+| Oyedang, Kopengs | 10.00% | ~1,541 |
+| Bosmang | 6.00% | ~925 |
+| The Pit and the Pirates | 5.00% | ~771 |
+| Martian Music | 5.00% | ~771 |
+| Drone Dodger | 5.00% | ~771 |
+| Captain Drummer | 5.00% | ~771 |
+| Celebrations are in Order | 5.00% | ~771 |
+| Impossible Objects | 5.00% | ~771 |
 | Safe Cracker | 5.00% | ~68 |
 | Zen Master | 5.00% | ~68 |
 | Madame Undersecretary | 5.00% | ~68 |
@@ -20,7 +20,7 @@ Rating: 4.56 (Ranked 491)
 | Drug Gifter | 4.00% | ~616 |
 | Spore Taste | 4.00% | ~616 |
 | Call it Even | 4.00% | ~616 |
-| Keep Arjun in Check | 4.00% | ~54 |
+| Keep Arjun in Check | 4.00% | ~55 |
 | Data Archivist | 3.00% | ~462 |
 | Heal Thy Medic | 3.00% | ~462 |
 | Khan's Revenge | 3.00% | ~462 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,403 (Ranked 152)  
+Progressed: 15,411 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-21 | 15,203 | 35 |
 | 2023-11-22 | 15,266 | 35 |
 | 2023-11-23 | 15,346 | 35 |
-| 2023-11-24 | 15,403 | 35 |
+| 2023-11-24 | 15,411 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -201,3 +201,4 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-02 | 4.56 | 0 | 0 |
 | 2023-11-03 | 4.55 | 0 | 0 |
 | 2023-11-11 | 4.56 | 0 | 0 |
+| 2023-11-24 | 4.58 | 0 | 0 |

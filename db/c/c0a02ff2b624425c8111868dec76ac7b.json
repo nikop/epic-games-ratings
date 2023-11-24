@@ -4,7 +4,7 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -273,9 +273,9 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
@@ -385,9 +385,9 @@
       "ID": "ACH_UNICORN",
       "SetID": "cagp2pi",
       "Name": "Unicorn",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_YINYANG_ABSORBED",
@@ -408,8 +408,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:05:39.3973374+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:05:44.5249923+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:57:10.6460868+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:05:39.3973498+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:57:06.1519131+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:05:44.5250047+00:00"
 }

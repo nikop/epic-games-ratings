@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -653,9 +653,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -692,8 +692,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-24T17:08:55.6891855+00:00",
+  "LastChanged_Achievements": "2023-11-24T18:08:59.0583039+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.3392935+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:58:41.2304851+00:00",
-  "LastUpdate_Achievements": "2023-11-24T17:08:55.6891962+00:00"
+  "LastUpdate_Ratings": "2023-11-24T17:58:35.0712236+00:00",
+  "LastUpdate_Achievements": "2023-11-24T18:08:59.0583197+00:00"
 }

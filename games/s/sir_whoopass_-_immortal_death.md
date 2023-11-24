@@ -36,15 +36,15 @@
 | You are no match for me, Billy! | 32.00% | ~42 |
 | Catch the bus with me! | 32.00% | ~42 |
 | Karaoke king | 32.00% | ~42 |
+| Meatballs, coming up! | 31.00% | ~41 |
 | I'm going to get a concussion | 31.00% | ~41 |
-| Meatballs, coming up! | 30.00% | ~39 |
 | Another one bites the iron | 27.00% | ~35 |
 | Ripe Meat Off The Bone! | 26.00% | ~34 |
 | Kleptomaniac | 26.00% | ~34 |
 | A Megapint...? | 24.00% | ~31 |
 | Hovering around | 24.00% | ~31 |
 | You're not so Big anymore, Boi! | 23.00% | ~30 |
-| Your daily dose of Vitamin C. | 21.00% | ~28 |
+| Your daily dose of Vitamin C. | 23.00% | ~30 |
 | I cant stand still! | 21.00% | ~28 |
 | Slimy... yet satisfying | 19.00% | ~25 |
 | Master Butcher | 18.00% | ~24 |

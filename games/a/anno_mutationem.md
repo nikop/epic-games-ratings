@@ -1,20 +1,20 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.56 (Ranked 491)  
+Rating: 4.56 (Ranked 492)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~533 |
+| Tell me your story | 75.00% | ~526 |
 | Don't judge a manhole by its cover | 60.00% | ~421 |
-| I just love stuff! | 43.00% | ~301 |
-| Keep 'em coming! | 43.00% | ~301 |
-| The things they print nowadays | 40.00% | ~280 |
-| Big Spender | 39.00% | ~273 |
-| That's gotta hurt | 36.00% | ~252 |
-| I think it's broke | 26.00% | ~182 |
-| The Ann Flores Combo Experience | 26.00% | ~182 |
-| Club Star | 25.00% | ~175 |
+| I just love stuff! | 42.00% | ~295 |
+| Keep 'em coming! | 42.00% | ~295 |
+| The things they print nowadays | 40.00% | ~281 |
+| Big Spender | 38.00% | ~267 |
+| That's gotta hurt | 36.00% | ~253 |
+| I think it's broke | 26.00% | ~183 |
+| The Ann Flores Combo Experience | 26.00% | ~183 |
+| Club Star | 25.00% | ~176 |
 | Fire in the hole! | 21.00% | ~147 |
 | Omnipotence | 20.00% | ~140 |
 | The Warlord | 20.00% | ~140 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 491)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 701 (Ranked 279)  
+Progressed: 702 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-16 | 683 | 0 |
 | 2023-11-22 | 689 | 0 |
 | 2023-11-23 | 696 | 0 |
-| 2023-11-24 | 701 | 0 |
+| 2023-11-24 | 702 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

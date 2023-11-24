@@ -4,27 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Task Apprentice | 23.00% | ~3 |
-| City Link | 23.00% | ~3 |
-| Trainee | 15.00% | ~2 |
-| Line Up | 15.00% | ~2 |
-| Full House | 15.00% | ~2 |
-| Speed Demon | 15.00% | ~2 |
-| Regional Express | 15.00% | ~2 |
-| Steam Power | 15.00% | ~2 |
-| Urban Network | 15.00% | ~2 |
-| Industrial Revolution | 15.00% | ~2 |
-| Double Trouble | 15.00% | ~2 |
-| Billionaire Club | 8.00% | ~1 |
-| Diesel Dream | 8.00% | ~1 |
-| Cargo King | 8.00% | ~1 |
-| People Mover | 8.00% | ~1 |
-| Industrial Giant | 8.00% | ~1 |
-| Supply Chain | 8.00% | ~1 |
-| Train Spotter | 8.00% | ~1 |
-| Mega Train | 8.00% | ~1 |
-| Heavy Load | 8.00% | ~1 |
-| Line Master | 8.00% | ~1 |
+| City Link | 29.00% | ~4 |
+| Line Up | 21.00% | ~3 |
+| Steam Power | 21.00% | ~3 |
+| Task Apprentice | 21.00% | ~3 |
+| Trainee | 14.00% | ~2 |
+| Full House | 14.00% | ~2 |
+| Speed Demon | 14.00% | ~2 |
+| Regional Express | 14.00% | ~2 |
+| Urban Network | 14.00% | ~2 |
+| Industrial Revolution | 14.00% | ~2 |
+| Double Trouble | 14.00% | ~2 |
+| Billionaire Club | 7.00% | ~1 |
+| Diesel Dream | 7.00% | ~1 |
+| Modern Times | 7.00% | ~1 |
+| Money Train | 7.00% | ~1 |
+| Future Vision | 7.00% | ~1 |
+| Cargo King | 7.00% | ~1 |
+| People Mover | 7.00% | ~1 |
+| Industrial Giant | 7.00% | ~1 |
+| Supply Chain | 7.00% | ~1 |
+| Train Spotter | 7.00% | ~1 |
+| Mega Train | 7.00% | ~1 |
+| Heavy Load | 7.00% | ~1 |
+| Line Master | 7.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
@@ -34,14 +37,11 @@
 | Busy Station | 0.00% | ~0 |
 | Five Alive | 0.00% | ~0 |
 | Old School | 0.00% | ~0 |
-| Modern Times | 0.00% | ~0 |
 | Future Proof | 0.00% | ~0 |
 | Ultra Long Train | 0.00% | ~0 |
-| Money Train | 0.00% | ~0 |
 | Train Tycoon | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Steam Punk | 0.00% | ~0 |
-| Future Vision | 0.00% | ~0 |
 | Bridge Over Troubled Water | 0.00% | ~0 |
 | One Line Wonder | 0.00% | ~0 |
 | Tunnel Vision | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 586)  
+Progressed: 14 (Ranked 583)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,3 +72,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-05 | 11 | 0 |
 | 2023-11-08 | 12 | 0 |
 | 2023-11-22 | 13 | 0 |
+| 2023-11-24 | 14 | 0 |
