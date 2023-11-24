@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -996,9 +996,9 @@
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "Troubleshooter",
@@ -1019,8 +1019,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:05:02.1657369+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:04:05.4047481+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:01:18.4532226+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:05:02.1657539+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:59:49.7983454+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:04:05.4047624+00:00"
 }

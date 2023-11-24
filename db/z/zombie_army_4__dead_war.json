@@ -4,10 +4,10 @@
   "ProductSlug": "zombie-army-4-dead-war",
   "Ranking_Rating": 253,
   "Ranking_Popularity": 164,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2400,7 +2400,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43966,
+  "EOS_Progressed": 43967,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -9125,6 +9125,11 @@
       "Time": "2023-11-24T15:05:44.703237+00:00",
       "NumProgressed": 43966,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-24T17:04:45.1496079+00:00",
+      "NumProgressed": 43967,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9136,7 +9141,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27259
+      "UsersEstimate": 27260
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9192,7 +9197,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12310
+      "UsersEstimate": 12311
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -9344,7 +9349,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14948
+      "UsersEstimate": 14949
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -9384,7 +9389,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21543
+      "UsersEstimate": 21544
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9400,7 +9405,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13629
+      "UsersEstimate": 13630
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -9424,7 +9429,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16267
+      "UsersEstimate": 16268
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -9456,7 +9461,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16267
+      "UsersEstimate": 16268
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -9576,7 +9581,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14948
+      "UsersEstimate": 14949
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -9663,15 +9668,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43966,
+      "Progressed": 43967,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-23T18:56:57.7834533+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:05:58.587102+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:04:45.1496076+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.974388+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:57:37.1019504+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:05:58.5871681+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:57:24.7131149+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:04:45.1496761+00:00"
 }

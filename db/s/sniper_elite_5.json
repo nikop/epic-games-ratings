@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3917,
+  "EOS_Progressed": 3918,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8131,6 +8131,11 @@
       "Time": "2023-11-24T13:10:22.6914527+00:00",
       "NumProgressed": 3917,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-24T17:04:27.0843249+00:00",
+      "NumProgressed": 3918,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8166,7 +8171,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8174,7 +8179,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -8182,7 +8187,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8190,7 +8195,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -8390,7 +8395,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8478,7 +8483,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8550,7 +8555,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8709,13 +8714,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3868,
+      "Progressed": 3869,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3917,
+      "Progressed": 3918,
       "Completed": 11
     }
   ],
@@ -8723,8 +8728,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:05:33.0721596+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:04:27.0843246+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:00:43.0959419+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:05:33.072239+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:59:26.5576397+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:04:27.084401+00:00"
 }

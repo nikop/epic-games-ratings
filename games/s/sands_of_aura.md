@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 88.00% | ~75 |
+| Setting Sail | 88.00% | ~76 |
 | A Small Thirsty Thing | 14.00% | ~12 |
-| Spirit Within | 11.00% | ~9 |
+| Spirit Within | 10.00% | ~9 |
 | Overboard | 9.00% | ~8 |
 | Dousing a Venerable Flame | 9.00% | ~8 |
 | Leisis Bless You | 9.00% | ~8 |
@@ -18,9 +18,9 @@
 | Sovereignty of Irons | 6.00% | ~5 |
 | A Sandwyrm's Hoard | 6.00% | ~5 |
 | Sommelier | 5.00% | ~4 |
-| Let Me Solo Them | 4.00% | ~3 |
-| Frigid Winds | 4.00% | ~3 |
-| Twin Thorns | 4.00% | ~3 |
+| Let Me Solo Them | 3.00% | ~3 |
+| Frigid Winds | 3.00% | ~3 |
+| Twin Thorns | 3.00% | ~3 |
 | The River Styx | 2.00% | ~2 |
 | Smotherly Love | 1.00% | ~1 |
 | Transformative Nature | 1.00% | ~1 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 443)  
+Progressed: 86 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-21 | 80 | 0 |
 | 2023-11-22 | 81 | 0 |
 | 2023-11-23 | 82 | 0 |
-| 2023-11-24 | 85 | 0 |
+| 2023-11-24 | 86 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,14 +8,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 0.90% | ~239 |
 | Project Arena | 0.70% | ~186 |
-| The Old Grandmaster | 0.60% | ~4,303 |
-| The Assault | 0.60% | ~4,303 |
-| The Hateful Pole Fighter | 0.60% | ~4,303 |
-| Life is your teacher | 0.60% | ~4,303 |
-| State of constant learning | 0.60% | ~4,303 |
-| Qi Gong: Breath | 0.60% | ~4,303 |
-| Lightning Hands | 0.60% | ~4,303 |
-| Rumble in the Hangar | 0.60% | ~4,303 |
+| The Old Grandmaster | 0.60% | ~4,304 |
+| The Assault | 0.60% | ~4,304 |
+| The Hateful Pole Fighter | 0.60% | ~4,304 |
+| Life is your teacher | 0.60% | ~4,304 |
+| State of constant learning | 0.60% | ~4,304 |
+| Qi Gong: Breath | 0.60% | ~4,304 |
+| Lightning Hands | 0.60% | ~4,304 |
+| Rumble in the Hangar | 0.60% | ~4,304 |
 | A Lady's Blood in the Snow | 0.50% | ~3,586 |
 | Lady Wing Chun | 0.50% | ~3,586 |
 | Furious Fists | 0.50% | ~3,586 |
@@ -35,14 +35,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 0.40% | ~106 |
 | Muk Yan Master | 0.30% | ~2,152 |
 | Dance of the Praying Mantis | 0.30% | ~2,152 |
-| Tiger on Fire | 0.20% | ~1,434 |
-| Source of Flying Daggers | 0.20% | ~1,434 |
-| Iron Money | 0.20% | ~1,434 |
-| Legendary Talismans of Wuxing | 0.20% | ~1,434 |
-| Prodigal Child | 0.20% | ~1,434 |
-| Detective Story | 0.20% | ~1,434 |
-| The 36th Chamber of Kung-Fu | 0.20% | ~1,434 |
-| Sword Stained With Blood | 0.20% | ~1,434 |
+| Tiger on Fire | 0.20% | ~1,435 |
+| Source of Flying Daggers | 0.20% | ~1,435 |
+| Iron Money | 0.20% | ~1,435 |
+| Legendary Talismans of Wuxing | 0.20% | ~1,435 |
+| Prodigal Child | 0.20% | ~1,435 |
+| Detective Story | 0.20% | ~1,435 |
+| The 36th Chamber of Kung-Fu | 0.20% | ~1,435 |
+| Sword Stained With Blood | 0.20% | ~1,435 |
 | Deadly Venom | 0.20% | ~53 |
 | The best strikes are the ones we avoid | 0.20% | ~53 |
 | Beatmaker | 0.20% | ~53 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,249 (Ranked 22)  
+Progressed: 717,252 (Ranked 22)  
 Completed: 12,939 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 12,939 (1.80%) (Ranked 132)
 | 2023-11-21 | 717,101 | 12,938 |
 | 2023-11-22 | 717,156 | 12,938 |
 | 2023-11-23 | 717,216 | 12,939 |
-| 2023-11-24 | 717,249 | 12,939 |
+| 2023-11-24 | 717,252 | 12,939 |
 ## Awards
 Max (Great Boss Battles): 6,831  (Ranked 55)  
 Sum: 11,952 (Ranked 82)  

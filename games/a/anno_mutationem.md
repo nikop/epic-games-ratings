@@ -5,8 +5,8 @@ Rating: 4.56 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~532 |
-| Don't judge a manhole by its cover | 60.00% | ~420 |
+| Tell me your story | 76.00% | ~533 |
+| Don't judge a manhole by its cover | 60.00% | ~421 |
 | I just love stuff! | 43.00% | ~301 |
 | Keep 'em coming! | 43.00% | ~301 |
 | The things they print nowadays | 40.00% | ~280 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 491)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700 (Ranked 279)  
+Progressed: 701 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-16 | 683 | 0 |
 | 2023-11-22 | 689 | 0 |
 | 2023-11-23 | 696 | 0 |
-| 2023-11-24 | 700 | 0 |
+| 2023-11-24 | 701 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

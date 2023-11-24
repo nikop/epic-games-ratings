@@ -1537,9 +1537,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159821,
+  "EOS_Progressed": 159829,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16897,6 +16897,11 @@
       "Time": "2023-11-24T16:05:29.9034124+00:00",
       "NumProgressed": 159821,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T17:04:24.9253785+00:00",
+      "NumProgressed": 159829,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17044,7 +17049,7 @@
       "Name": "Harmless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3196
+      "UsersEstimate": 3197
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -17100,7 +17105,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3196
+      "UsersEstimate": 3197
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -17108,7 +17113,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3196
+      "UsersEstimate": 3197
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -17164,7 +17169,7 @@
       "Name": "Yank",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3196
+      "UsersEstimate": 3197
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -17172,7 +17177,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3196
+      "UsersEstimate": 3197
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -17275,21 +17280,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159404,
+      "Progressed": 159412,
       "Completed": 1220
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159821,
+      "Progressed": 159829,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-23T13:57:29.6901407+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:05:29.9034121+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:04:24.9253781+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:58:29.6973738+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:05:29.9034992+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:57:59.1042747+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:04:24.9254648+00:00"
 }

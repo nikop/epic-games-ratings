@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -464,9 +464,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_7",
       "SetID": "ak6pfjk",
       "Name": "Starry: Free Coast",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_8",
@@ -592,9 +592,9 @@
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
       "SetID": "ak6pfjk",
       "Name": "Sharpshooter",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "BADGE_MONUMENT_KEEPER",
@@ -632,9 +632,9 @@
       "ID": "BADGE_POLYMORPH_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Tastes Like Chicken",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "BADGE_SKILL_BRANCH_MAX",
@@ -697,8 +697,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:07:37.8501983+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:05:55.6461589+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:54.867623+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:59:49.7599559+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:07:37.8502286+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:58:52.0865595+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:05:55.6461902+00:00"
 }

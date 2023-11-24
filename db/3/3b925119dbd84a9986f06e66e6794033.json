@@ -901,9 +901,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -956,8 +956,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:09:35.1438711+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:08:48.2058312+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:09.7789217+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:56:59.8941057+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:09:35.1438883+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:56:59.0760316+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:08:48.2058445+00:00"
 }

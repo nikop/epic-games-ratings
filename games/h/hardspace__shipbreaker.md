@@ -11,7 +11,7 @@ Number of Ratings: 36  (23.09.2022)
 | Let’s patch things up | 66.00% | ~637 |
 | I can fix it! | 63.00% | ~608 |
 | Post No Bills | 55.00% | ~531 |
-| Truly Shocking! | 48.00% | ~463 |
+| Truly Shocking! | 49.00% | ~473 |
 | Critical Thinker | 36.00% | ~347 |
 | Always Finding Your Mark | 30.00% | ~290 |
 | The Weight of the World | 30.00% | ~290 |

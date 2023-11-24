@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~103 |
+| First Step | 53.00% | ~105 |
 | The 4 Pillars | 50.00% | ~100 |
 | Capitalism | 20.00% | ~40 |
 | There's something in those trees | 11.00% | ~22 |

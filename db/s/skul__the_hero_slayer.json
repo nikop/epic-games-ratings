@@ -1103,7 +1103,7 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 8333,
+  "EOS_Progressed": 8334,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
@@ -5503,6 +5503,11 @@
       "Time": "2023-11-24T16:08:32.0144927+00:00",
       "NumProgressed": 8333,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-11-24T17:08:03.2988698+00:00",
+      "NumProgressed": 8334,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 24,
@@ -5578,7 +5583,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -5674,7 +5679,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7750
+      "UsersEstimate": 7751
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5682,7 +5687,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5698,22 +5703,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7000
+      "UsersEstimate": 7001
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8333,
+      "Progressed": 8334,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-21T15:58:19.8594236+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:08:32.0144923+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:08:03.2988696+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:04.7381553+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:00:30.9873885+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:08:32.0145311+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:59:19.0247486+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:08:03.2988953+00:00"
 }

@@ -22,11 +22,11 @@
 | Top of the World | 71.00% | ~126 |
 | Takeover | 71.00% | ~126 |
 | Woodcutter | 71.00% | ~126 |
+| Sharpshooter | 71.00% | ~126 |
 | Architect of Darkness | 71.00% | ~126 |
-| Sharpshooter | 70.00% | ~125 |
 | The Apotheosis of War | 69.00% | ~123 |
 | Stasis Alcatraz | 69.00% | ~123 |
-| Tastes Like Chicken | 64.00% | ~114 |
+| Tastes Like Chicken | 65.00% | ~116 |
 | Thunderstorm | 64.00% | ~114 |
 | Brilliant: Holy Mountain | 63.00% | ~112 |
 | Combo Breaker | 63.00% | ~112 |
@@ -52,8 +52,8 @@
 | Deadman's Chest | 29.00% | ~52 |
 | Brilliant: Free Coast | 28.00% | ~50 |
 | Monument Keeper | 28.00% | ~50 |
+| Starry: Free Coast | 25.00% | ~44 |
 | Brilliant: The Deep | 24.00% | ~43 |
-| Starry: Free Coast | 24.00% | ~43 |
 | Starry: The Deep | 22.00% | ~39 |
 | Loveless | 19.00% | ~34 |
 | Hostile Waters | 18.00% | ~32 |

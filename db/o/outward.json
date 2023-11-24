@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3678,
+  "EOS_Progressed": 3679,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5638,6 +5638,11 @@
       "Time": "2023-11-24T16:06:11.492282+00:00",
       "NumProgressed": 3678,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T17:04:54.2470428+00:00",
+      "NumProgressed": 3679,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5673,7 +5678,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "BloodAndJustice_50",
@@ -5689,7 +5694,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "CrowdPleaser",
@@ -5777,7 +5782,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "LightofLevant_18",
@@ -5833,7 +5838,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5897,7 +5902,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -5929,7 +5934,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -5969,7 +5974,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5984,15 +5989,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3678,
+      "Progressed": 3679,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:06:11.4922817+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:04:54.2470424+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:57:25.9120544+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:06:11.4923353+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:57:17.2885564+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:04:54.247092+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
   "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 402,
-  "Ranking_EOS_Progress": 386,
+  "Ranking_PopularitySum": 403,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 121,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1033,6 +1033,11 @@
       "Time": "2023-11-24T16:06:34.2834585+00:00",
       "NumProgressed": 205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T17:05:10.351533+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1147,9 +1152,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "Deepstrike",
@@ -1476,15 +1481,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:06:34.2834582+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:05:10.3515328+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-24T16:01:09.5740564+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:06:34.2834934+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:59:44.0947065+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:05:10.3515704+00:00"
 }

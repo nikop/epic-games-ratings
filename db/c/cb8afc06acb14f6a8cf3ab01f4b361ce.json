@@ -365,9 +365,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 317626,
+  "EOS_Progressed": 317661,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5051,
+  "EOS_NewPlayers": 5036,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7175,6 +7175,11 @@
       "Time": "2023-11-24T16:06:47.5515067+00:00",
       "NumProgressed": 317626,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T17:05:19.4650595+00:00",
+      "NumProgressed": 317661,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7195,7 +7200,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "S03_OTWA",
@@ -7409,9 +7414,9 @@
       "ID": "S29_RECOVER",
       "SetID": "4j44ol8",
       "Name": "Your wounds\u2026 They are healing so fast!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1588
     },
     {
       "ID": "S30_DIAMOND",
@@ -7506,7 +7511,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 317626,
+      "Progressed": 317661,
       "Completed": 4
     }
   ],
@@ -7514,8 +7519,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-24T10:58:21.9690534+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:06:47.5515061+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:05:19.4650591+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:58:09.2702249+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:06:47.5515579+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:57:45.1026204+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:05:19.4651172+00:00"
 }

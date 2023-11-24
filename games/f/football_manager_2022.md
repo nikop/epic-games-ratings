@@ -10,21 +10,21 @@ Number of Ratings: 19,160  (23.09.2022)
 | He's Signed! | 50.00% | ~238,296 |
 | First Victory | 50.00% | ~238,296 |
 | He's Sold! | 48.00% | ~228,764 |
-| I'm The Boss! | 42.00% | ~200,168 |
-| Hat-trick | 41.00% | ~195,402 |
+| I'm The Boss! | 42.00% | ~200,169 |
+| Hat-trick | 41.00% | ~195,403 |
 | Scoring Streak | 38.00% | ~181,105 |
 | Unbeatable! | 37.00% | ~176,339 |
 | Thumping | 37.00% | ~176,339 |
 | Superb Dressing Room Atmosphere | 35.00% | ~166,807 |
 | Total Support | 32.00% | ~152,509 |
 | Record Signing | 32.00% | ~152,509 |
-| He's a Natural | 31.00% | ~147,743 |
-| Millionaire's Club | 31.00% | ~147,743 |
-| Team Performance | 30.00% | ~142,977 |
-| Parked The Bus | 29.00% | ~138,211 |
-| Shrewd Spender | 29.00% | ~138,211 |
-| Star Man | 29.00% | ~138,211 |
-| Attack! | 28.00% | ~133,445 |
+| He's a Natural | 31.00% | ~147,744 |
+| Millionaire's Club | 31.00% | ~147,744 |
+| Team Performance | 30.00% | ~142,978 |
+| Parked The Bus | 29.00% | ~138,212 |
+| Shrewd Spender | 29.00% | ~138,212 |
+| Star Man | 29.00% | ~138,212 |
+| Attack! | 28.00% | ~133,446 |
 | You're On Fire | 27.00% | ~128,680 |
 | Tremendous Trio | 27.00% | ~128,680 |
 | Record Sale | 27.00% | ~128,680 |
@@ -44,8 +44,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Irresistible Force | 20.00% | ~95,318 |
 | Excellent Match Cohesion | 20.00% | ~95,318 |
 | Do The Double | 19.00% | ~90,552 |
-| Top Form | 17.00% | ~81,020 |
-| Cash To Burn | 17.00% | ~81,020 |
+| Top Form | 17.00% | ~81,021 |
+| Cash To Burn | 17.00% | ~81,021 |
 | Overachiever! | 16.00% | ~76,255 |
 | Rushed signing | 16.00% | ~76,255 |
 | Beating Expectations | 15.00% | ~71,489 |
@@ -63,11 +63,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Headhunted | 9.00% | ~42,893 |
 | Domination | 9.00% | ~42,893 |
 | Best In The Business | 8.00% | ~38,127 |
-| Legend | 6.00% | ~28,595 |
-| Win the Club World Cup | 6.00% | ~28,595 |
-| Parked The Tank | 6.00% | ~28,595 |
-| World Renowned | 6.00% | ~28,595 |
-| Head-to-Head | 6.00% | ~28,595 |
+| Legend | 6.00% | ~28,596 |
+| Win the Club World Cup | 6.00% | ~28,596 |
+| Parked The Tank | 6.00% | ~28,596 |
+| World Renowned | 6.00% | ~28,596 |
+| Head-to-Head | 6.00% | ~28,596 |
 | Going Places | 5.00% | ~23,830 |
 | We Trust You | 5.00% | ~23,830 |
 | Trophy Hoarder | 4.00% | ~19,064 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~477 |
 | Shoestring Budget | 0.10% | ~477 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,591 (Ranked 39)  
+Progressed: 476,592 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 22 (0.00%) (Ranked 359)
 | 2023-11-21 | 476,483 | 22 |
 | 2023-11-22 | 476,527 | 22 |
 | 2023-11-23 | 476,564 | 22 |
-| 2023-11-24 | 476,591 | 22 |
+| 2023-11-24 | 476,592 | 22 |
 ## Awards
 Max (Relaxing): 6,470  (Ranked 59)  
 Sum: 51,031 (Ranked 29)  

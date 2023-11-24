@@ -1389,9 +1389,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6106,
+  "EOS_Progressed": 6107,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13384,6 +13384,11 @@
       "Time": "2023-11-24T15:10:02.5487585+00:00",
       "NumProgressed": 6106,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-24T17:09:18.2006088+00:00",
+      "NumProgressed": 6107,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13411,7 +13416,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -13515,7 +13520,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -13523,7 +13528,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -13667,7 +13672,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -13714,15 +13719,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6106,
+      "Progressed": 6107,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-20T18:59:34.5795733+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:10:17.7035581+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:09:18.2006084+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:32.3230973+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:57:16.4022541+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:10:17.703624+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:57:10.3742+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:09:18.2006901+00:00"
 }

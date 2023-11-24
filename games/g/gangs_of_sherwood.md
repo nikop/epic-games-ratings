@@ -15,21 +15,21 @@
 | Right between the eyes | 50.00% | ~4 |
 | MAX LEVEL | 50.00% | ~4 |
 | Oo-De-Lally | 38.00% | ~3 |
+| Locksley's Tears | 38.00% | ~3 |
+| Assault on the Ram | 38.00% | ~3 |
+| Spring Board | 38.00% | ~3 |
+| Rebel Unleashed | 38.00% | ~3 |
 | Starry Night | 25.00% | ~2 |
 | Brilliant Executioner | 25.00% | ~2 |
 | King of the Iron Fist | 25.00% | ~2 |
+| Ultra Combo | 25.00% | ~2 |
 | The Gang prevails | 25.00% | ~2 |
 | Finish Him! | 25.00% | ~2 |
 | Five of Friends | 25.00% | ~2 |
-| Locksley's Tears | 25.00% | ~2 |
-| Assault on the Ram | 25.00% | ~2 |
-| Spring Board | 25.00% | ~2 |
 | Ultra Rebel Instinct | 25.00% | ~2 |
 | Take Action! | 25.00% | ~2 |
-| Rebel Unleashed | 25.00% | ~2 |
 | First Aid | 25.00% | ~2 |
 | Merry Go Round | 25.00% | ~2 |
-| Ultra Combo | 13.00% | ~1 |
 | Bold and Bossy | 13.00% | ~1 |
 | Power of Friendship! | 13.00% | ~1 |
 | Out of the ring | 13.00% | ~1 |

@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200443,
+  "EOS_Progressed": 200445,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23423,6 +23423,11 @@
       "Time": "2023-11-24T16:05:38.6599809+00:00",
       "NumProgressed": 200443,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-24T17:04:30.9835354+00:00",
+      "NumProgressed": 200445,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -23434,7 +23439,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16035
+      "UsersEstimate": 16036
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -23442,7 +23447,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 142315
+      "UsersEstimate": 142316
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -23528,9 +23533,9 @@
       "ID": "ACH_WIN_90_MAP_CONTROL",
       "SetID": "1kj8hdc",
       "Name": "Mastermind",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 1002
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -23561,7 +23566,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200443,
+      "Progressed": 200445,
       "Completed": 4
     }
   ],
@@ -23569,8 +23574,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-11-24T16:05:38.6599804+00:00",
+  "LastChanged_Achievements": "2023-11-24T17:04:30.983535+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:10.5681178+00:00",
-  "LastUpdate_Ratings": "2023-11-24T15:58:57.3147084+00:00",
-  "LastUpdate_Achievements": "2023-11-24T16:05:38.6600902+00:00"
+  "LastUpdate_Ratings": "2023-11-24T16:58:17.7620698+00:00",
+  "LastUpdate_Achievements": "2023-11-24T17:04:30.9836531+00:00"
 }
