@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.06% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.00% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 28.98% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.48% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -158,8 +158,8 @@
 | 156 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 156 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 158 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 159 | [Dungeons 4](games/d/dungeons_4.md) | 1.09% |
-| 160 | [Adios](games/a/adios.md) | 1.08% |
+| 159 | [Adios](games/a/adios.md) | 1.08% |
+| 159 | [Dungeons 4](games/d/dungeons_4.md) | 1.08% |
 | 161 | [The Devil's Face](games/t/the_devil's_face.md) | 1.05% |
 | 161 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 163 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
@@ -170,12 +170,12 @@
 | 167 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.97% |
 | 169 | [Trifox](games/t/trifox.md) | 0.96% |
 | 170 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
-| 170 | [Infindustry](games/i/infindustry.md) | 0.94% |
-| 172 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.93% |
+| 171 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.93% |
+| 171 | [Infindustry](games/i/infindustry.md) | 0.93% |
 | 173 | [Hades](games/h/hades.md) | 0.91% |
-| 174 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.88% |
 | 174 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
-| 176 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
+| 175 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
+| 175 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 177 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.84% |
 | 178 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
 | 179 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.82% |
@@ -190,10 +190,10 @@
 | 188 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.61% |
 | 188 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.61% |
 | 190 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
-| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
-| 192 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
-| 192 | [Haven](games/h/haven.md) | 0.59% |
-| 192 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
+| 191 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
+| 191 | [Haven](games/h/haven.md) | 0.59% |
+| 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.59% |
+| 191 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 195 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 195 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.58% |
 | 197 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
@@ -253,12 +253,12 @@
 | 250 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.22% |
 | 252 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 252 | [Scrapnaut](games/s/scrapnaut.md) | 0.21% |
-| 252 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.21% |
-| 255 | [Blanc](games/b/blanc.md) | 0.20% |
-| 255 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
-| 255 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 255 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
-| 255 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 254 | [Blanc](games/b/blanc.md) | 0.20% |
+| 254 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
+| 254 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
+| 254 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
+| 254 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 254 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.20% |
 | 260 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 260 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.19% |
 | 262 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
