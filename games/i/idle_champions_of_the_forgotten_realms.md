@@ -136,6 +136,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Love Unsoiled | 0.10% | ~203 |
 | The Play's the Thing! | 0.10% | ~203 |
 | The Bitter End | 0.10% | ~203 |
+| A Nimble Approach | 0.10% | ~203 |
 | The Palace of Heart's Desire | 0.10% | ~203 |
 | The Egg of Nat's Desire | 0.10% | ~203 |
 | No One Can Hear You Scream | 0.10% | ~203 |
@@ -536,10 +537,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~203 |
 | See You on the Flipside | 0.10% | ~203 |
 | G. O. A. T. | 0.00% | ~0 |
-| A Nimble Approach | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,651 (Ranked 64)  
+Progressed: 236,661 (Ranked 64)  
 Completed: 2,472 (1.04%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -757,7 +757,7 @@ Completed: 2,472 (1.04%) (Ranked 163)
 | 2023-11-21 | 236,285 | 2,465 |
 | 2023-11-22 | 236,428 | 2,467 |
 | 2023-11-23 | 236,580 | 2,472 |
-| 2023-11-24 | 236,651 | 2,472 |
+| 2023-11-24 | 236,661 | 2,472 |
 ## Awards
 Max (Great for Beginners): 5,559  (Ranked 70)  
 Sum: 32,592 (Ranked 41)  

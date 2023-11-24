@@ -1280,9 +1280,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "Chicken",
@@ -1400,9 +1400,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 222
     },
     {
       "ID": "LostMarshes",
@@ -1480,9 +1480,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "PrometheusUnbound",
@@ -1697,8 +1697,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-23T03:59:15.2049017+00:00",
-  "LastChanged_Achievements": "2023-11-24T08:05:30.6408068+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:04:44.3398321+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:01:36.0863931+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:05:30.6408643+00:00"
+  "LastUpdate_Ratings": "2023-11-24T09:00:24.3061441+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:04:44.3398875+00:00"
 }

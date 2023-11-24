@@ -2,9 +2,9 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -374,6 +374,11 @@
       "Time": "2023-11-22T22:03:29.2401499+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T09:04:09.6963432+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -408,7 +413,7 @@
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -440,7 +445,7 @@
       "ID": "SG_CHARISMATIC",
       "SetID": "bj5g0n4",
       "Name": "Charismatic",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -458,7 +463,7 @@
       "Name": "End Of The Road",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -520,7 +525,7 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -552,7 +557,7 @@
       "ID": "SG_QUEENWITHOUTATHRONE",
       "SetID": "bj5g0n4",
       "Name": "Queen Without A Throne",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -560,7 +565,7 @@
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -592,7 +597,7 @@
       "ID": "SG_THEANSWERISYOU",
       "SetID": "bj5g0n4",
       "Name": "The Answer Is You",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -632,7 +637,7 @@
       "ID": "SG_THEMUSESENCORE",
       "SetID": "bj5g0n4",
       "Name": "The Muse\u2019s Encore",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -681,14 +686,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-11-24T08:04:47.5131561+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:04:09.6963428+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.7310198+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:00:24.2009045+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:04:47.5131837+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:59:28.9776907+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:04:09.6963689+00:00"
 }

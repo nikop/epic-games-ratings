@@ -16,8 +16,8 @@
 | Moneyball | 61.00% | ~506 |
 | No Bites | 57.00% | ~473 |
 | Iceborn | 57.00% | ~473 |
+| Boom Things | 55.00% | ~456 |
 | Tear of Freedom | 54.00% | ~448 |
-| Boom Things | 54.00% | ~448 |
 | My Darkest Day | 51.00% | ~423 |
 | Rhythm Of Willump | 48.00% | ~398 |
 | The Relentless Storm | 48.00% | ~398 |
@@ -27,11 +27,11 @@
 | So Close | 42.00% | ~348 |
 | You Get Used To It | 41.00% | ~340 |
 | True Legends | 41.00% | ~340 |
+| Boosted! | 39.00% | ~323 |
 | Family | 38.00% | ~315 |
 | Biggest Snowball Ever | 38.00% | ~315 |
 | Freeze The Ice Witch | 38.00% | ~315 |
 | Bullseye | 38.00% | ~315 |
-| Boosted! | 38.00% | ~315 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~315 |
 | On The Rocks | 36.00% | ~298 |
 | It Is Not Over | 35.00% | ~290 |

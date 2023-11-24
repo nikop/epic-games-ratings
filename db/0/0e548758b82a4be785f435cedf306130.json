@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "fn66n1",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-11-24T09:04:54.1532971+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:04:54.1532949+00:00",
   "LastUpdate_AppInfo": "2023-11-19T08:56:52.90959+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:00:38.18097+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:05:43.4680045+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:59:39.8547933+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:04:54.1532986+00:00"
 }

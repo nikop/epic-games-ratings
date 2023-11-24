@@ -16,9 +16,9 @@ Rating: 4.64 (Ranked 333)
 | Story Teller | 57.00% | ~1,111 |
 | Raise the Stakes | 56.00% | ~1,091 |
 | Surgeon | 54.00% | ~1,052 |
+| Exterminator | 53.00% | ~1,033 |
 | Greenhouse Effect | 53.00% | ~1,033 |
 | Freeze | 52.00% | ~1,013 |
-| Exterminator | 52.00% | ~1,013 |
 | S.O.S. | 47.00% | ~916 |
 | Full Arsenal | 46.00% | ~897 |
 | Get Off My Ship! | 45.00% | ~877 |
@@ -126,12 +126,12 @@ Completed: 12 (0.62%) (Ranked 187)
 | 2023-11-23 | 1,945 | 12 |
 | 2023-11-24 | 1,949 | 12 |
 ## Awards
-Max (Great Boss Battles): 114  (Ranked 344)  
-Sum: 114 (Ranked 437)  
-Diff (max vs sum): -93  
+Max (Great Boss Battles): 115  (Ranked 344)  
+Sum: 115 (Ranked 436)  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 114 |
+| This game has Great Boss Battles | 115 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -246,3 +246,4 @@ Diff (max vs sum): -93
 | 2023-11-13 | 4.64 | 110 | 110 |
 | 2023-11-18 | 4.64 | 112 | 112 |
 | 2023-11-23 | 4.64 | 114 | 114 |
+| 2023-11-24 | 4.64 | 115 | 115 |

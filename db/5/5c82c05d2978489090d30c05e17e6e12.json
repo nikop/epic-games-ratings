@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 985,
+  "Ranking_Rating": 986,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 110,
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54080,
+  "EOS_Progressed": 54118,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 45119,
+  "EOS_NewPlayers": 44753,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1012,6 +1012,11 @@
       "Time": "2023-11-24T08:04:15.6194597+00:00",
       "NumProgressed": 54080,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-24T09:03:44.2089522+00:00",
+      "NumProgressed": 54118,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -1024,7 +1029,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 20010
+      "UsersEstimate": 20024
     },
     {
       "ID": "Achievement_10",
@@ -1112,7 +1117,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 14602
+      "UsersEstimate": 14612
     },
     {
       "ID": "Achievement_20",
@@ -1200,7 +1205,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5953
     },
     {
       "ID": "Achievement_30",
@@ -1248,7 +1253,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3788
     },
     {
       "ID": "Achievement_5",
@@ -1256,7 +1261,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2706
     },
     {
       "ID": "Achievement_6",
@@ -1295,7 +1300,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 54080,
+      "Progressed": 54118,
       "Completed": 7
     }
   ],
@@ -1303,8 +1308,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-11-24T06:57:48.8429313+00:00",
-  "LastChanged_Achievements": "2023-11-24T08:04:15.6194593+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:03:44.2089516+00:00",
   "LastUpdate_AppInfo": "2023-11-23T11:57:10.0145945+00:00",
-  "LastUpdate_Ratings": "2023-11-24T07:58:30.2074445+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:04:15.6194814+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:58:02.2807989+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:03:44.2089816+00:00"
 }

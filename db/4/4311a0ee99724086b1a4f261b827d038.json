@@ -617,7 +617,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 233898,
+  "EOS_Progressed": 233902,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 0,
@@ -14887,6 +14887,11 @@
       "Time": "2023-11-24T08:09:59.8314406+00:00",
       "NumProgressed": 233898,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T09:09:27.9397249+00:00",
+      "NumProgressed": 233902,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -15051,7 +15056,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -15067,7 +15072,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -15075,7 +15080,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -15147,7 +15152,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -15155,7 +15160,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58474
+      "UsersEstimate": 58476
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -15170,7 +15175,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 233898,
+      "Progressed": 233902,
       "Completed": 0
     }
   ],
@@ -15178,8 +15183,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-24T01:42:57.1965026+00:00",
-  "LastChanged_Achievements": "2023-11-24T08:09:59.8314398+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:09:27.9397236+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.33261+00:00",
-  "LastUpdate_Ratings": "2023-11-24T07:59:07.291244+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:09:59.8315201+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:58:31.6706981+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:09:27.9398538+00:00"
 }

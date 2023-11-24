@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.75,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-07-18T11:03:12.9192606+00:00",
@@ -314,6 +314,11 @@
       "Time": "2023-11-23T18:06:36.8151928+00:00",
       "NumProgressed": 57,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T09:07:02.2079575+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-14T20:01:12.8113067+00:00",
@@ -332,7 +337,7 @@
       "ID": "ANCIENT_ARTIFACT",
       "SetID": "e4de54",
       "Name": "Ancient artifact",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -340,7 +345,7 @@
       "ID": "ANCIENT_TREASURE",
       "SetID": "e4de54",
       "Name": "Ancient treasure",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -388,7 +393,7 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -404,7 +409,7 @@
       "ID": "ATTENTIVENESS",
       "SetID": "e4de54",
       "Name": "Attentiveness",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -420,7 +425,7 @@
       "ID": "BAD_MUSICIAN",
       "SetID": "e4de54",
       "Name": "Bad musician",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -436,7 +441,7 @@
       "ID": "BEVERAGE_OF_THE_GODS",
       "SetID": "e4de54",
       "Name": "Beverage of the gods",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -444,7 +449,7 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -468,7 +473,7 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -476,7 +481,7 @@
       "ID": "FEEBLE_MINDEDNESS_AND_COURAGE",
       "SetID": "e4de54",
       "Name": "Feeble-mindedness and courage",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -516,7 +521,7 @@
       "ID": "HERA",
       "SetID": "e4de54",
       "Name": "Hera",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -524,7 +529,7 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -532,7 +537,7 @@
       "ID": "KNOWLEDGE_IS_POWER",
       "SetID": "e4de54",
       "Name": "Knowledge is power",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -550,7 +555,7 @@
       "Name": "Main menu",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MEDUSA_GAZE",
@@ -596,7 +601,7 @@
       "ID": "RAT_TERROR",
       "SetID": "e4de54",
       "Name": "Rat terror",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -620,7 +625,7 @@
       "ID": "SPIDER",
       "SetID": "e4de54",
       "Name": "Spider",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -653,14 +658,14 @@
     {
       "ID": "e4de54",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-11-24T08:08:24.8775745+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:07:02.207957+00:00",
   "LastUpdate_AppInfo": "2023-11-18T06:56:56.1392224+00:00",
-  "LastUpdate_Ratings": "2023-11-24T07:58:45.861933+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:08:24.8776079+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:58:14.4736279+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:07:02.2079851+00:00"
 }

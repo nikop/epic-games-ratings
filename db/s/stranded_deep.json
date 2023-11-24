@@ -4,7 +4,7 @@
   "ProductSlug": "stranded-deep",
   "Ranking_Rating": 899,
   "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 249,
+  "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 455,
@@ -2752,6 +2752,6 @@
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
   "LastChanged": "2023-11-21T14:57:55.7355568+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.6693011+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:00:30.3833367+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:03:59.7882224+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:59:33.6461303+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:03:31.6543109+00:00"
 }

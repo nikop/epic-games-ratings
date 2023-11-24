@@ -2531,9 +2531,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 22561,
+  "EOS_Progressed": 22562,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1499,
+  "EOS_NewPlayers": 1497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10506,6 +10506,11 @@
       "Time": "2023-11-24T08:06:12.2862104+00:00",
       "NumProgressed": 22561,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-24T09:05:16.8670008+00:00",
+      "NumProgressed": 22562,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -10526,7 +10531,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "Achievement_Trophy03",
@@ -10686,7 +10691,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "Achievement_Trophy23",
@@ -10814,7 +10819,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "Achievement_Trophy39",
@@ -11005,7 +11010,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 22561,
+      "Progressed": 22562,
       "Completed": 1
     }
   ],
@@ -11013,8 +11018,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-24T05:57:03.9910248+00:00",
-  "LastChanged_Achievements": "2023-11-24T08:06:12.28621+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:05:16.8670004+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:32.6007984+00:00",
-  "LastUpdate_Ratings": "2023-11-24T07:57:27.2162861+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:06:12.2862858+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:57:13.958298+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:05:16.8670807+00:00"
 }

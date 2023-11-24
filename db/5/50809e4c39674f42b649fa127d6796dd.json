@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -357,6 +357,11 @@
       "Time": "2023-11-24T08:08:43.3729507+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-24T09:08:26.7984991+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -385,7 +390,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -401,7 +406,7 @@
       "Name": "Ouranos Island Explorer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DEFENCE_LEVEL_REACH_NUM",
@@ -425,7 +430,7 @@
       "Name": "Combo Convert",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -457,15 +462,15 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -473,7 +478,7 @@
       "Name": "Unknown Threat",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -489,7 +494,7 @@
       "Name": "Superior Ranking",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -497,7 +502,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "GET_FISH_ALL",
@@ -545,7 +550,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -553,15 +558,15 @@
       "Name": "A Land at Peace",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -569,7 +574,7 @@
       "Name": "Threats Identified",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD1",
@@ -585,7 +590,7 @@
       "Name": "Ares Island Memories",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD3",
@@ -649,7 +654,7 @@
       "Name": "Kronos Island Expert",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -688,14 +693,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-24T08:08:43.3729503+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:08:26.7984987+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-24T07:59:37.6077279+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:08:43.372973+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:58:54.8707962+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:08:26.7985215+00:00"
 }

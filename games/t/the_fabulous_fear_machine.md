@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 11.00% | ~4 |
-| You have three wishes left | 11.00% | ~4 |
+| Master trainee | 13.00% | ~5 |
+| You have three wishes left | 10.00% | ~4 |
 | Jung's dream | 8.00% | ~3 |
 | Giant | 8.00% | ~3 |
 | The battle of Great Britain | 8.00% | ~3 |
@@ -52,7 +52,7 @@
 | A new Hindenburg | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 514)  
+Progressed: 40 (Ranked 508)  
 Completed: 0 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,3 +78,4 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-14 | 36 | 0 |
 | 2023-11-16 | 37 | 0 |
 | 2023-11-20 | 38 | 0 |
+| 2023-11-24 | 40 | 0 |

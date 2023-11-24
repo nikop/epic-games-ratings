@@ -4,7 +4,7 @@
   "ProductSlug": "dead-space",
   "Ranking_Rating": 333,
   "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 437,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 171,
@@ -699,18 +699,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-11-24T08:59:05.9325655+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 115,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 114,
-  "NumberOfAwardsMax": 114,
+  "NumberOfAwards": 115,
+  "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 114
+      "Count": 115
     }
   ],
   "EOS_Progressed": 1949,
@@ -6254,9 +6260,9 @@
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1033
     },
     {
       "ID": "achievement_44",
@@ -6342,9 +6348,9 @@
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
-  "LastChanged": "2023-11-23T06:58:07.5368544+00:00",
-  "LastChanged_Achievements": "2023-11-24T08:08:04.1443789+00:00",
+  "LastChanged": "2023-11-24T08:59:05.9325653+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:06:45.7400661+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-24T07:59:51.9961992+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:08:04.1444344+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:59:05.9325658+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:06:45.7401194+00:00"
 }

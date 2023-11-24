@@ -17,8 +17,8 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 2.00% | ~3,195 |
 | Sharpened Vessel | 2.00% | ~3,195 |
 | Shapely | 1.00% | ~1,598 |
-| Scion | 1.00% | ~1,593 |
-| Glare | 1.00% | ~1,593 |
+| Scion | 1.00% | ~1,594 |
+| Glare | 1.00% | ~1,594 |
 | Jawcrab | 1.00% | ~1,598 |
 | Jawstag | 1.00% | ~1,598 |
 | Feast | 1.00% | ~1,598 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,766 (Ranked 78)  
+Progressed: 159,770 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 1 (0.00%) (Ranked 359)
 | 2023-11-21 | 159,459 | 1 |
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
-| 2023-11-24 | 159,766 | 1 |
+| 2023-11-24 | 159,770 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 423)  
 Sum: 380 (Ranked 346)  

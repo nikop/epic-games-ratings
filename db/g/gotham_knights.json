@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4269,18 +4269,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 5050,
       "NumberOfAwardsMax": 2966
+    },
+    {
+      "Time": "2023-11-24T08:59:50.1862917+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5054,
+      "NumberOfAwardsMax": 2970
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5050,
-  "NumberOfAwardsMax": 2966,
+  "NumberOfAwards": 5054,
+  "NumberOfAwardsMax": 2970,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2966
+      "Count": 2970
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4339,7 +4345,7 @@
   ],
   "EOS_Progressed": 76974,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24243,9 +24249,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-24T03:59:07.8075468+00:00",
-  "LastChanged_Achievements": "2023-11-24T08:06:44.192205+00:00",
+  "LastChanged": "2023-11-24T08:59:50.1862915+00:00",
+  "LastChanged_Achievements": "2023-11-24T09:05:42.3602259+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-24T08:00:51.5088187+00:00",
-  "LastUpdate_Achievements": "2023-11-24T08:06:44.1923291+00:00"
+  "LastUpdate_Ratings": "2023-11-24T08:59:50.1862919+00:00",
+  "LastUpdate_Achievements": "2023-11-24T09:05:42.3603937+00:00"
 }
