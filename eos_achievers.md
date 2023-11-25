@@ -1,7 +1,7 @@
 | # | Game | Progressed | Completed |
 | - | ---- | ---------- | --------- |
 | 1 | [Fall Guys](games/f/fall_guys.md) | 36,607,709 | 46,683 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 26,810,551 | 2,508 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 26,810,552 | 2,508 |
 | 3 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4,075,065 | 48 |
 | 4 | [DEATH STRANDING](games/d/death_stranding.md) | 3,860,969 | 2,029 |
 | 5 | [PC Building Simulator](games/p/pc_building_simulator.md) | 3,583,588 | 39 |
