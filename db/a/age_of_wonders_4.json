@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5477,
+  "EOS_Progressed": 5480,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7418,6 +7418,11 @@
       "Time": "2023-11-25T12:06:19.9861426+00:00",
       "NumProgressed": 5477,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T14:05:13.6623654+00:00",
+      "NumProgressed": 5480,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7443,9 +7448,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "12",
@@ -7475,9 +7480,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "16",
@@ -7515,9 +7520,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "20",
@@ -7908,13 +7913,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5477,
+      "Progressed": 5480,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5477,
+      "Progressed": 5480,
       "Completed": 7
     }
   ],
@@ -7922,8 +7927,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:09:34.5202493+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:05:13.6623649+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:00:23.1489518+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:09:34.5203299+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:57:12.130341+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:05:13.6624289+00:00"
 }

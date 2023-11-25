@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 49.00% | ~40 |
-| Purification Pioneer | 46.00% | ~38 |
-| Dicesmithing Time! | 44.00% | ~36 |
-| Mechanical Buddy | 44.00% | ~36 |
+| Meissa's Savior | 49.00% | ~41 |
+| Purification Pioneer | 47.00% | ~39 |
+| Dicesmithing Time! | 45.00% | ~37 |
+| Mechanical Buddy | 45.00% | ~37 |
 | Endless Tricks | 41.00% | ~34 |
-| Sanctuary Guardian | 38.00% | ~31 |
-| Noctuan Champion | 37.00% | ~30 |
+| Sanctuary Guardian | 37.00% | ~31 |
+| Noctuan Champion | 36.00% | ~30 |
 | Mind Illuminator | 35.00% | ~29 |
 | Wild's Keeper | 34.00% | ~28 |
 | Eridanian Champion | 29.00% | ~24 |
@@ -27,21 +27,21 @@
 | Aquarian Champion | 18.00% | ~15 |
 | Astral Seeker | 17.00% | ~14 |
 | Heart Gate | 16.00% | ~13 |
-| Favored by the Cosmos | 15.00% | ~12 |
-| The Corruption Goddess | 15.00% | ~12 |
-| The Goddes Avatar | 15.00% | ~12 |
+| Favored by the Cosmos | 14.00% | ~12 |
+| The Corruption Goddess | 14.00% | ~12 |
+| The Goddes Avatar | 14.00% | ~12 |
 | Stellar Haste | 13.00% | ~11 |
 | Heavy Purger | 11.00% | ~9 |
 | Apian Hero | 11.00% | ~9 |
 | Anomaly Control | 10.00% | ~8 |
 | Wave Bender | 10.00% | ~8 |
 | Lacertian Hero | 10.00% | ~8 |
-| Artificer | 9.00% | ~7 |
-| Sadistic Plan | 9.00% | ~7 |
-| The Chaos Artisan | 9.00% | ~7 |
-| The Dark Moon | 9.00% | ~7 |
-| The Distorted Sage | 9.00% | ~7 |
-| Behenian Hero | 9.00% | ~7 |
+| Artificer | 8.00% | ~7 |
+| Sadistic Plan | 8.00% | ~7 |
+| The Chaos Artisan | 8.00% | ~7 |
+| The Dark Moon | 8.00% | ~7 |
+| The Distorted Sage | 8.00% | ~7 |
+| Behenian Hero | 8.00% | ~7 |
 | Can't touch this | 7.00% | ~6 |
 | Denying Destiny | 7.00% | ~6 |
 | If I Had Failed... | 6.00% | ~5 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 453)  
+Progressed: 83 (Ranked 452)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,4 +140,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 73 | 0 |
 | 2023-11-23 | 76 | 0 |
 | 2023-11-24 | 79 | 0 |
-| 2023-11-25 | 82 | 0 |
+| 2023-11-25 | 83 | 0 |

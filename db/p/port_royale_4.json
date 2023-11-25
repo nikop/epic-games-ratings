@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2806,6 +2806,11 @@
       "Time": "2023-11-24T12:04:55.5817488+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T14:04:45.5710457+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2817,7 +2822,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH001",
@@ -2825,7 +2830,7 @@
       "Name": "Seafarer",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH002",
@@ -2839,9 +2844,9 @@
       "ID": "ACH003",
       "SetID": "69nfp41",
       "Name": "Buccaneer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH004",
@@ -2857,7 +2862,7 @@
       "Name": "Premier Ma\u00EEtre",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH006",
@@ -2865,7 +2870,7 @@
       "Name": "Supreme conqueror",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH007",
@@ -2873,7 +2878,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH008",
@@ -2881,7 +2886,7 @@
       "Name": "Maker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH009",
@@ -2897,7 +2902,7 @@
       "Name": "Conglomerate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH011",
@@ -2905,7 +2910,7 @@
       "Name": "Intangible",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH012",
@@ -2913,7 +2918,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH013",
@@ -3015,9 +3020,9 @@
       "ID": "ACH025",
       "SetID": "69nfp41",
       "Name": "My precious!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH026",
@@ -3073,7 +3078,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH033",
@@ -3089,7 +3094,7 @@
       "Name": "Panic buying",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH035",
@@ -3105,7 +3110,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH037",
@@ -3121,7 +3126,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH039",
@@ -3216,15 +3221,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1050,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:08:53.5266016+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:04:45.5710452+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.0945183+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:03:34.7704037+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:08:53.5266485+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:59:18.1819994+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:04:45.5710842+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Ruined King: A League of Legends Story\u2122",
   "ProductSlug": "ruined-king-a-league-of-legends-story",
   "Ranking_Rating": 348,
-  "Ranking_Popularity": 294,
-  "Ranking_PopularitySum": 407,
+  "Ranking_Popularity": 295,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-11-16T16:30:00+00:00",
     "PcReleaseDate": "2021-11-16T16:30:00+00:00",
@@ -576,6 +576,6 @@
   "FirstSeen": "2022-07-22T20:24:34.6874306+00:00",
   "LastChanged": "2023-11-21T04:58:17.8384097+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:39.3896546+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:04:17.3477151+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:07:56.9067339+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:59:46.335415+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:04:05.1755908+00:00"
 }

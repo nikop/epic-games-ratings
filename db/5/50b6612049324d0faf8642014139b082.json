@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 490,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1131,6 +1131,11 @@
       "Time": "2023-11-25T13:13:05.9241937+00:00",
       "NumProgressed": 486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T14:09:13.210316+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1151,15 +1156,15 @@
       "Name": "Asphalt Artist",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 136
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_12",
@@ -1175,15 +1180,15 @@
       "Name": "Long Haul Hero",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_15",
@@ -1199,7 +1204,7 @@
       "Name": "Class Act",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_17",
@@ -1207,7 +1212,7 @@
       "Name": "Your first time?",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_18",
@@ -1231,7 +1236,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 374
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_20",
@@ -1271,7 +1276,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_25",
@@ -1319,7 +1324,7 @@
       "Name": "Keepin it real",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_7",
@@ -1327,7 +1332,7 @@
       "Name": "NEW PB!",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 165
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_8",
@@ -1350,7 +1355,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 490,
       "Completed": 0
     }
   ],
@@ -1358,8 +1363,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-25T01:40:43.9281934+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:13:05.9241934+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:09:13.2103158+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:01:18.9818172+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:13:05.9242162+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:57:49.0920061+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:09:13.2103332+00:00"
 }

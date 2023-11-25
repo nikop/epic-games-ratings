@@ -32,11 +32,11 @@
 | Krogan Ally | 41.00% | ~573 |
 | Sentinel Ally | 40.00% | ~559 |
 | Head Hunter | 40.00% | ~559 |
+| Operative | 39.00% | ~545 |
 | Scholar | 39.00% | ~545 |
-| Operative | 38.00% | ~531 |
 | Veteran | 37.00% | ~517 |
+| The Archangel | 37.00% | ~517 |
 | The Professor | 37.00% | ~517 |
-| The Archangel | 36.00% | ~503 |
 | Power Full | 36.00% | ~503 |
 | The Convict | 35.00% | ~489 |
 | Colony Defense | 34.00% | ~475 |
@@ -63,6 +63,7 @@
 | Focused | 29.00% | ~405 |
 | Archivist | 29.00% | ~405 |
 | Treason | 29.00% | ~405 |
+| Agent | 29.00% | ~405 |
 | Revenge! | 29.00% | ~405 |
 | Digital Exorcist | 29.00% | ~405 |
 | Suicide Mission | 28.00% | ~391 |
@@ -70,7 +71,6 @@
 | Friend or Foe | 28.00% | ~391 |
 | Cat's in the Cradle | 28.00% | ~391 |
 | Doppelganger | 28.00% | ~391 |
-| Agent | 28.00% | ~391 |
 | Mobilizer | 28.00% | ~391 |
 | Untouchable | 27.00% | ~377 |
 | Mission Accomplished | 27.00% | ~377 |

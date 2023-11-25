@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,513 |
-| Titan's First Steps | 6.00% | ~8,513 |
-| Basic in Bulk | 5.00% | ~7,094 |
-| Tinkle of Coins | 5.00% | ~7,094 |
+| Sponsored by Argon | 6.00% | ~8,514 |
+| Titan's First Steps | 6.00% | ~8,514 |
+| Basic in Bulk | 5.00% | ~7,095 |
+| Tinkle of Coins | 5.00% | ~7,095 |
 | Disintermediation | 4.00% | ~5,676 |
 | It's Free Real Estate | 4.00% | ~5,676 |
 | Capitalism Ho! | 4.00% | ~5,676 |
@@ -106,21 +106,21 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Free Encyclopedia | 0.70% | ~993 |
 | Eternal Crusade | 0.70% | ~993 |
 | All or Nothing! | 0.60% | ~851 |
-| The Greatest Grind | 0.50% | ~709 |
-| Marvels from the World Over | 0.50% | ~709 |
+| Anything not Nailed Down | 0.50% | ~710 |
+| The Greatest Grind | 0.50% | ~710 |
+| Marvels from the World Over | 0.50% | ~710 |
 | Bane of Legends | 0.40% | ~568 |
 | Ultimate Collector | 0.40% | ~568 |
 | Unleashed Potential | 0.40% | ~568 |
 | JACKPOT!!! | 0.40% | ~568 |
-| Anything not Nailed Down | 0.40% | ~568 |
 | Oligarch Monarch | 0.30% | ~426 |
 | Merchant Extraordinaire | 0.30% | ~426 |
 | To Hell and Back | 0.20% | ~284 |
 | Cash Only Please | 0.20% | ~284 |
 | Capitalist Camaraderie | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,890 (Ranked 80)  
-Completed: 261 (0.18%) (Ranked 261)  
+Progressed: 141,907 (Ranked 80)  
+Completed: 264 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,7 +338,7 @@ Completed: 261 (0.18%) (Ranked 261)
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
-| 2023-11-25 | 141,890 | 261 |
+| 2023-11-25 | 141,907 | 264 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,597 (Ranked 50)  

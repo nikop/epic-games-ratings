@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -1618,9 +1618,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 175,
-      "UsersEstimate": 205
+      "UsersEstimate": 209
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1673,8 +1673,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:11:19.890944+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:07:47.8638272+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:54.1546229+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:02:02.3602115+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:11:19.8909597+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:58:17.1930356+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:07:47.8638425+00:00"
 }

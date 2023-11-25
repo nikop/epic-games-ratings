@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2400,9 +2400,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43983,
+  "EOS_Progressed": 43984,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9175,6 +9175,11 @@
       "Time": "2023-11-25T11:06:34.3889893+00:00",
       "NumProgressed": 43983,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-25T14:05:06.3387557+00:00",
+      "NumProgressed": 43984,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9186,7 +9191,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27269
+      "UsersEstimate": 27270
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9242,7 +9247,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12315
+      "UsersEstimate": 12316
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -9266,7 +9271,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -9290,7 +9295,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17153
+      "UsersEstimate": 17154
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -9298,7 +9303,7 @@
       "Name": "People don\u0027t change. We go round in circles",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "SE_COMPLETE_HELLBASE",
@@ -9330,7 +9335,7 @@
       "Name": "The blighters got through a second time.",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_HELLBASE",
@@ -9378,7 +9383,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27709
+      "UsersEstimate": 27710
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9394,7 +9399,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14954
+      "UsersEstimate": 14955
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -9490,7 +9495,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22431
+      "UsersEstimate": 22432
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -9514,7 +9519,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30348
+      "UsersEstimate": 30349
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -9546,7 +9551,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25070
+      "UsersEstimate": 25071
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -9570,7 +9575,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11875
+      "UsersEstimate": 11876
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -9578,7 +9583,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19792
+      "UsersEstimate": 19793
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -9626,7 +9631,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14954
+      "UsersEstimate": 14955
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -9658,7 +9663,7 @@
       "Name": "I\u0027m a survivor!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "SE_REACH_WAVE_X_WITH_PISTOL",
@@ -9690,7 +9695,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6597
+      "UsersEstimate": 6598
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -9713,15 +9718,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43983,
+      "Progressed": 43984,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-23T18:56:57.7834533+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:09:23.9629392+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:05:06.3387553+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.974388+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:01:18.7283262+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:09:23.9630262+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:57:48.9082024+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:05:06.3388202+00:00"
 }

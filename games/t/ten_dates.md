@@ -9,7 +9,7 @@
 | The intellectual | 27.00% | ~82 |
 | The athlete | 27.00% | ~82 |
 | The boss | 25.00% | ~76 |
-| The activist | 22.00% | ~67 |
+| The activist | 23.00% | ~70 |
 | The individualist | 20.00% | ~61 |
 | The nice guy | 13.00% | ~40 |
 | The debonair | 11.00% | ~34 |

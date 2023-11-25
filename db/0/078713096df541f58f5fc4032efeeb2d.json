@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -135,9 +135,9 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 59,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "creepytale3_ach_12",
@@ -159,9 +159,9 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "creepytale3_ach_17",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:10:18.3457294+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:05:44.5794571+00:00",
   "LastUpdate_AppInfo": "2023-11-22T04:57:15.1907927+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:05:40.2567786+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:10:18.3457508+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:02:30.1866626+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:05:44.5794766+00:00"
 }

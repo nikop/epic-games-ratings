@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -159,7 +159,7 @@
   "Tags": [],
   "EOS_Progressed": 301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1475,9 +1475,9 @@
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_16",
@@ -1659,9 +1659,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_49",
@@ -1812,8 +1812,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-24T19:57:13.1524203+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:12:09.515615+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:08:33.0893468+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:00:52.6284692+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:12:09.515651+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:57:31.7466274+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:08:33.0893892+00:00"
 }

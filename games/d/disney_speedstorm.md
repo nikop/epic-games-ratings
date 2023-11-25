@@ -5,32 +5,32 @@ Rating: 4.39 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,268 |
-| IT MAKES BOOM! | 7.00% | ~21,807 |
-| EXTRA BOOST | 5.00% | ~15,577 |
-| PROTECTED | 4.00% | ~12,461 |
-| PRO | 4.00% | ~12,461 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,346 |
-| AGGRESSIVE RACER | 3.00% | ~9,346 |
-| A TIGER'S FEAR | 2.00% | ~6,231 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,115 |
-| ACE SPEEDSTER | 1.00% | ~3,115 |
+| ROOKIE | 11.00% | ~34,275 |
+| IT MAKES BOOM! | 7.00% | ~21,811 |
+| EXTRA BOOST | 5.00% | ~15,579 |
+| PROTECTED | 4.00% | ~12,463 |
+| PRO | 4.00% | ~12,463 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,348 |
+| AGGRESSIVE RACER | 3.00% | ~9,348 |
+| A TIGER'S FEAR | 2.00% | ~6,232 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,116 |
+| ACE SPEEDSTER | 1.00% | ~3,116 |
 | RELEASE THE KRAKEN | 0.90% | ~2,804 |
 | MASTER | 0.90% | ~2,804 |
 | LEGENDARY HERO | 0.90% | ~2,804 |
-| TRAINING HARD | 0.80% | ~2,492 |
-| BE OUR GUEST | 0.80% | ~2,492 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,492 |
-| FRIENDLY | 0.80% | ~2,492 |
+| TRAINING HARD | 0.80% | ~2,493 |
+| BE OUR GUEST | 0.80% | ~2,493 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,493 |
+| FRIENDLY | 0.80% | ~2,493 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,181 |
-| EXPERIENCED CREW | 0.60% | ~1,869 |
+| EXPERIENCED CREW | 0.60% | ~1,870 |
 | ACE BRAWLER | 0.40% | ~1,246 |
 | ACE DEFENDER | 0.40% | ~1,246 |
 | FRAMED! | 0.30% | ~935 |
 | ACE TRICKSTER | 0.30% | ~935 |
 | PERFECTLY POISED | 0.20% | ~623 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311,531 (Ranked 52)  
+Progressed: 311,587 (Ranked 52)  
 Completed: 329 (0.11%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 329 (0.11%) (Ranked 278)
 | 2023-11-22 | 308,028 | 320 |
 | 2023-11-23 | 309,325 | 322 |
 | 2023-11-24 | 310,756 | 327 |
-| 2023-11-25 | 311,531 | 329 |
+| 2023-11-25 | 311,587 | 329 |
 ## Awards
 Max (Great for Beginners): 83  (Ranked 387)  
-Sum: 638 (Ranked 308)  
+Sum: 639 (Ranked 308)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -256,8 +256,8 @@ Diff (max vs sum): 79
 | This game is Great for Quick Sessions | 79 |
 | This game has Diverse Characters | 74 |
 | This game has Amazing Characters | 55 |
+| This game is Highly Recommended | 47 |
 | This game has Playful Visuals | 47 |
-| This game is Highly Recommended | 46 |
 | This game has Competitive Players | 46 |
 | This game has a Competitive Community | 45 |
 | This game has Quickly Understood Controls | 42 |
@@ -322,4 +322,4 @@ Diff (max vs sum): 79
 | 2023-11-22 | 4.39 | 80 | 618 |
 | 2023-11-23 | 4.39 | 81 | 628 |
 | 2023-11-24 | 4.39 | 81 | 633 |
-| 2023-11-25 | 4.39 | 83 | 638 |
+| 2023-11-25 | 4.39 | 83 | 639 |

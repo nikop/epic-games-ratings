@@ -4,8 +4,8 @@
   "ProductSlug": "scp-horror-series-b7ca49",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-19T15:57:21.733432+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:04:15.0894958+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:10:59.3406313+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:59:45.1041227+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:06:13.86204+00:00"
 }

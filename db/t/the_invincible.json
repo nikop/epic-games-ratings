@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
@@ -835,6 +835,11 @@
       "Time": "2023-11-25T13:11:58.1345491+00:00",
       "NumProgressed": 307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T14:08:25.0422256+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -877,9 +882,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "AchvBombing",
@@ -887,7 +892,7 @@
       "Name": "Violent solution",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AchvConvoyList",
@@ -909,9 +914,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "AchvDoom",
@@ -941,9 +946,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "AchvLava",
@@ -975,7 +980,7 @@
       "Name": "The Necroevolution",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AchvNest",
@@ -989,7 +994,7 @@
       "ID": "AchvNoHoles",
       "SetID": "1hj060c",
       "Name": "No more mistakes",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1021,9 +1026,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 136
     },
     {
       "ID": "AchvReachCity",
@@ -1061,9 +1066,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 55,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "AchvUnity",
@@ -1078,14 +1083,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:11:58.1345487+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:08:25.0422254+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:04:40.0150922+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:11:58.1345669+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:00:00.520855+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:08:25.0422461+00:00"
 }

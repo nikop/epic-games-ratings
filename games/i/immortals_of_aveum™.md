@@ -7,7 +7,7 @@ Rating: 4.07 (Ranked 977)
 | ---- | ---------- | ----- |
 | Unforeseen | 92.00% | ~277 |
 | Battlefields Have Memories | 88.00% | ~265 |
-| Enlisted | 84.00% | ~253 |
+| Enlisted | 85.00% | ~256 |
 | Maybe Engage a Little | 81.00% | ~244 |
 | No More Names | 70.00% | ~211 |
 | Initiate | 56.00% | ~169 |
@@ -23,7 +23,7 @@ Rating: 4.07 (Ranked 977)
 | A Familiar Nest | 21.00% | ~63 |
 | Periapt Alizarin | 21.00% | ~63 |
 | Geas Aristeya | 20.00% | ~60 |
-| A Perfect Cycle | 18.00% | ~54 |
+| A Perfect Cycle | 19.00% | ~57 |
 | Recruit | 18.00% | ~54 |
 | Armsman | 17.00% | ~51 |
 | Lights Army | 12.00% | ~36 |

@@ -4731,9 +4731,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 227720,
+  "EOS_Progressed": 227768,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 4764,
+  "EOS_NewPlayers": 4752,
   "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -19836,6 +19836,11 @@
       "Time": "2023-11-25T13:12:07.0720708+00:00",
       "NumProgressed": 227720,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-11-25T14:08:31.2694282+00:00",
+      "NumProgressed": 227768,
+      "NumCompleted": 521
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19848,7 +19853,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -19864,7 +19869,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -19896,7 +19901,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -19952,7 +19957,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -19968,7 +19973,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -19992,7 +19997,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Meet_Flautist",
@@ -20000,7 +20005,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Meet_Meidra",
@@ -20080,7 +20085,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Obtain_Guns_A",
@@ -20152,7 +20157,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Obtain_Traits_B",
@@ -20248,7 +20253,7 @@
       "Name": "Regicide",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -20262,9 +20267,9 @@
       "ID": "DLC1_Obtain_Archetype",
       "SetID": "bkoie00",
       "Name": "Master of the Dark Arts",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -20287,22 +20292,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 227720,
+      "Progressed": 227768,
       "Completed": 521
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 6885,
-      "Completed": 154
+      "Progressed": 6933,
+      "Completed": 155
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-25T11:03:34.3115938+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:12:07.0720704+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:08:31.2694279+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:06:22.4214392+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:12:07.0722052+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:02:58.1435424+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:08:31.2695174+00:00"
 }

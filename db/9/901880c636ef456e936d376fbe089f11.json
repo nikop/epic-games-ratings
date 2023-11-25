@@ -2,10 +2,10 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -894,8 +894,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:06:29.8586711+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:03:03.6260607+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:56.257571+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:05:53.1264313+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:06:29.858707+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:02:38.645218+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:03:03.6260932+00:00"
 }

@@ -4446,9 +4446,9 @@
       "ID": "achievement_44",
       "SetID": "d252ncf",
       "Name": "The Archangel",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 517
     },
     {
       "ID": "achievement_45",
@@ -4654,9 +4654,9 @@
       "ID": "achievement_68",
       "SetID": "b9pe172",
       "Name": "Agent",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_69",
@@ -4678,9 +4678,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 531
+      "UsersEstimate": 545
     },
     {
       "ID": "achievement_71",
@@ -4946,8 +4946,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:11:56.5895827+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:08:24.0709399+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:06:12.5238651+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:11:56.5897634+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:02:51.7371105+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:08:24.0710875+00:00"
 }

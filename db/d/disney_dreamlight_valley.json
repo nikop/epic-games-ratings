@@ -4851,9 +4851,9 @@
       "Count": 530
     }
   ],
-  "EOS_Progressed": 11914,
+  "EOS_Progressed": 11915,
   "EOS_Completed": 284,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -19621,6 +19621,11 @@
       "Time": "2023-11-25T13:08:49.4074476+00:00",
       "NumProgressed": 11914,
       "NumCompleted": 284
+    },
+    {
+      "Time": "2023-11-25T14:04:42.0019977+00:00",
+      "NumProgressed": 11915,
+      "NumCompleted": 284
     }
   ],
   "TotalAchievements": 15,
@@ -19640,15 +19645,15 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4647
     },
     {
       "ID": "Bestest_Friend",
       "SetID": "chapdi4",
       "Name": "Bestest Friend",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5480
+      "UsersEstimate": 5600
     },
     {
       "ID": "Chef_Cook",
@@ -19672,7 +19677,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6076
+      "UsersEstimate": 6077
     },
     {
       "ID": "Duty_Bound",
@@ -19688,7 +19693,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "Generous",
@@ -19696,7 +19701,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "Goofys_Investor",
@@ -19712,7 +19717,7 @@
       "Name": "Miner",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "Photographer",
@@ -19728,7 +19733,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6076
+      "UsersEstimate": 6077
     },
     {
       "ID": "Thorn_Cleaner",
@@ -19751,7 +19756,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11914,
+      "Progressed": 11915,
       "Completed": 284
     }
   ],
@@ -19759,8 +19764,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-24T19:58:18.7274883+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:08:49.4074471+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:04:42.0019973+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.9264376+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:02:25.2631449+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:08:49.4075453+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:58:31.5644697+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:04:42.0020749+00:00"
 }

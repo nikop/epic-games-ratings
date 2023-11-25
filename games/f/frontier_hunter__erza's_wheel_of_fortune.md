@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~260 |
-| Training Simulation | 76.00% | ~217 |
-| Kuku Bird Hunter | 64.00% | ~183 |
-| Storm Traveller | 58.00% | ~166 |
-| Wolf King Killer | 53.00% | ~152 |
-| Fashion Connoisseur | 52.00% | ~149 |
-| Arms Mechanic | 48.00% | ~137 |
-| Flower Thief | 43.00% | ~123 |
-| Apostle of Flame | 37.00% | ~106 |
-| Beginner Cook | 36.00% | ~103 |
-| Beginner Artificer | 35.00% | ~100 |
-| Seal Breaker | 31.00% | ~89 |
-| Handyman | 28.00% | ~80 |
-| Giant Lizard Killer | 27.00% | ~77 |
-| Guardian | 26.00% | ~74 |
-| Nosebleeder | 26.00% | ~74 |
-| Trader | 23.00% | ~66 |
-| Weapon Boost | 21.00% | ~60 |
-| Master Artificer | 18.00% | ~51 |
+| Travel Streamer | 91.00% | ~263 |
+| Training Simulation | 76.00% | ~220 |
+| Kuku Bird Hunter | 64.00% | ~185 |
+| Storm Traveller | 57.00% | ~165 |
+| Fashion Connoisseur | 53.00% | ~153 |
+| Wolf King Killer | 53.00% | ~153 |
+| Arms Mechanic | 48.00% | ~139 |
+| Flower Thief | 44.00% | ~127 |
+| Apostle of Flame | 38.00% | ~110 |
+| Beginner Cook | 37.00% | ~107 |
+| Beginner Artificer | 36.00% | ~104 |
+| Seal Breaker | 31.00% | ~90 |
+| Handyman | 28.00% | ~81 |
+| Giant Lizard Killer | 27.00% | ~78 |
+| Guardian | 26.00% | ~75 |
+| Nosebleeder | 25.00% | ~72 |
+| Trader | 24.00% | ~69 |
+| Weapon Boost | 21.00% | ~61 |
+| Master Artificer | 18.00% | ~52 |
 | Flying Kobold Killer | 17.00% | ~49 |
 | Youth Magnet | 16.00% | ~46 |
 | Furious Scorpion Killer | 15.00% | ~43 |
 | Lethal Blade Mantis Killer | 15.00% | ~43 |
 | Squeaky Clean | 15.00% | ~43 |
-| Kind Adventurer | 12.00% | ~34 |
-| Mermaid Killer | 12.00% | ~34 |
-| Face Slapper | 12.00% | ~34 |
-| Cave Master | 11.00% | ~31 |
+| Kind Adventurer | 12.00% | ~35 |
+| Mermaid Killer | 12.00% | ~35 |
+| Face Slapper | 12.00% | ~35 |
+| Cave Master | 11.00% | ~32 |
 | Master Cook | 10.00% | ~29 |
 | Berserker Slayer | 7.00% | ~20 |
 | Boss challenge | 6.00% | ~17 |
@@ -50,7 +50,7 @@
 | Warden Challenge | 2.00% | ~6 |
 | Berserker Challenge | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 356)  
+Progressed: 289 (Ranked 356)  
 Completed: 1 (0.35%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 1 (0.35%) (Ranked 227)
 | 2023-11-22 | 168 | 0 |
 | 2023-11-23 | 209 | 0 |
 | 2023-11-24 | 254 | 0 |
-| 2023-11-25 | 286 | 1 |
+| 2023-11-25 | 289 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

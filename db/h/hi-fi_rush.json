@@ -6,9 +6,9 @@
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4332,
+  "EOS_Progressed": 4335,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7645,6 +7645,11 @@
       "Time": "2023-11-25T12:03:29.0374154+00:00",
       "NumProgressed": 4332,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T14:03:07.4245007+00:00",
+      "NumProgressed": 4335,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7656,15 +7661,15 @@
       "Name": "Start with a bang!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "Ach002",
       "SetID": "12n4k20",
       "Name": "Cream of the Crop",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 650
     },
     {
       "ID": "Ach003",
@@ -7768,7 +7773,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "Ach016",
@@ -7792,7 +7797,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Ach019",
@@ -7848,7 +7853,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Ach026",
@@ -7886,9 +7891,9 @@
       "ID": "Ach030",
       "SetID": "12n4k20",
       "Name": "This is a breeze!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 43
     },
     {
       "ID": "Ach031",
@@ -7896,7 +7901,7 @@
       "Name": "Perfect Parry",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Ach032",
@@ -7936,7 +7941,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Ach037",
@@ -8056,7 +8061,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "Ach052",
@@ -8223,13 +8228,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4332,
+      "Progressed": 4335,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2853,
+      "Progressed": 2856,
       "Completed": 1930
     }
   ],
@@ -8237,8 +8242,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:06:35.1870918+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:03:07.4245005+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:03:07.1776869+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:06:35.1872131+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:58:59.6037908+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:03:07.4245936+00:00"
 }

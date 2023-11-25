@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1255,9 +1255,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258720,
+  "EOS_Progressed": 258722,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22400,6 +22400,11 @@
       "Time": "2023-11-25T12:05:05.2644463+00:00",
       "NumProgressed": 258720,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-25T14:04:18.2299531+00:00",
+      "NumProgressed": 258722,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22411,7 +22416,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18110
+      "UsersEstimate": 18111
     },
     {
       "ID": "Act2",
@@ -22459,7 +22464,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80203
+      "UsersEstimate": 80204
     },
     {
       "ID": "BackHomeNTimes",
@@ -22858,7 +22863,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258720,
+      "Progressed": 258722,
       "Completed": 3
     }
   ],
@@ -22866,8 +22871,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-24T04:57:35.6826302+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:08:15.7658066+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:04:18.2299527+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.5809709+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:01:25.1937844+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:08:15.7659124+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:57:52.6133982+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:04:18.2300697+00:00"
 }

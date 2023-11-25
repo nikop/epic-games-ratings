@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 232,
-  "EOS_Completed": 24,
+  "EOS_Completed": 25,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.34,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 10.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -505,6 +505,11 @@
       "Time": "2023-11-24T23:08:33.6509363+00:00",
       "NumProgressed": 232,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-11-25T14:08:48.809723+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 17,
@@ -554,9 +559,9 @@
       "ID": "delusions",
       "SetID": "202dmm8",
       "Name": "Delusions",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -602,9 +607,9 @@
       "ID": "prove_it",
       "SetID": "202dmm8",
       "Name": "Prove it",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "sorry_kiddo",
@@ -618,17 +623,17 @@
       "ID": "the_truth",
       "SetID": "202dmm8",
       "Name": "The truth",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "the_whole_truth",
       "SetID": "202dmm8",
       "Name": "The whole truth",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "toby_foolery",
@@ -652,15 +657,15 @@
       "ID": "202dmm8",
       "IsBase": true,
       "Progressed": 232,
-      "Completed": 24
+      "Completed": 25
     }
   ],
   "FirstSeen": "2022-11-05T14:31:21.414427+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:12:32.006583+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:08:48.8097227+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:28.267339+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:00:48.9898992+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:12:32.0065954+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:57:28.9801001+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:08:48.8097344+00:00"
 }

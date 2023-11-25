@@ -2,10 +2,10 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:09:18.081409+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:05:02.2481207+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:01.1836955+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:03:57.1722403+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:09:18.0814258+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:59:33.4149298+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:05:02.2481357+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 870,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2183,6 +2183,11 @@
       "Time": "2023-11-22T01:53:21.5643979+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T14:05:20.2006353+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2376,9 +2381,9 @@
       "ID": "FIND_ATTACKS_SOURCE",
       "SetID": "6ohhfoc",
       "Name": "The City",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 129
     },
     {
       "ID": "GOLDMASTER",
@@ -2553,7 +2558,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1174,
       "Completed": 0
     }
   ],
@@ -2561,8 +2566,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:09:43.772267+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:05:20.200635+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:56:58.2949266+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:01:17.4520096+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:09:43.7722994+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:57:48.0656031+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:05:20.2006648+00:00"
 }

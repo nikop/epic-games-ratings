@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -405,9 +405,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3691,
+  "EOS_Progressed": 3692,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6005,6 +6005,11 @@
       "Time": "2023-11-25T13:08:55.9986108+00:00",
       "NumProgressed": 3691,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-25T14:04:47.36686+00:00",
+      "NumProgressed": 3692,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6048,7 +6053,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -6056,7 +6061,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -6112,7 +6117,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -6128,7 +6133,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6136,7 +6141,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -6192,7 +6197,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -6216,7 +6221,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "ACH_MISSION_03",
@@ -6240,7 +6245,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6256,7 +6261,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "ACH_MISSION_08",
@@ -6264,7 +6269,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_MISSION_09",
@@ -6272,7 +6277,7 @@
       "Name": "The Passenger",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ACH_MISSION_10",
@@ -6304,7 +6309,7 @@
       "Name": "The True Experience",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_PREVENT_ABDUCTED",
@@ -6312,7 +6317,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6320,7 +6325,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6344,7 +6349,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -6352,7 +6357,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -6375,7 +6380,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3691,
+      "Progressed": 3692,
       "Completed": 3
     }
   ],
@@ -6383,8 +6388,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-24T18:58:43.263284+00:00",
-  "LastChanged_Achievements": "2023-11-25T13:08:55.9986103+00:00",
+  "LastChanged_Achievements": "2023-11-25T14:04:47.3668595+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.2076053+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:02:13.4366383+00:00",
-  "LastUpdate_Achievements": "2023-11-25T13:08:55.9986611+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:58:23.964895+00:00",
+  "LastUpdate_Achievements": "2023-11-25T14:04:47.3669052+00:00"
 }

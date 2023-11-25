@@ -6,24 +6,24 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~447,480 |
-| The Three | 64.00% | ~345,044 |
-| The Banquet | 40.00% | ~215,653 |
-| Devara's Light | 31.00% | ~167,131 |
-| The Iron Ones | 19.00% | ~102,435 |
-| The Village | 17.00% | ~91,652 |
+| Find Sanctuary | 83.00% | ~447,483 |
+| The Three | 64.00% | ~345,047 |
+| The Banquet | 40.00% | ~215,654 |
+| Devara's Light | 31.00% | ~167,132 |
+| The Iron Ones | 19.00% | ~102,436 |
+| The Village | 17.00% | ~91,653 |
 | The Forest | 15.00% | ~80,870 |
-| The Keep | 14.00% | ~75,478 |
-| Branded | 13.00% | ~70,087 |
-| The Imposter | 13.00% | ~70,087 |
+| The Keep | 14.00% | ~75,479 |
+| Branded | 13.00% | ~70,088 |
+| The Imposter | 13.00% | ~70,088 |
 | The Castle | 11.00% | ~59,305 |
 | The Dome | 9.00% | ~48,522 |
 | The Red Hall | 9.00% | ~48,522 |
 | The Sacrifice | 8.00% | ~43,131 |
 | The Ziggurat | 8.00% | ~43,131 |
-| The Cave | 7.00% | ~37,739 |
-| The Mire | 7.00% | ~37,739 |
-| The Stone Roots | 7.00% | ~37,739 |
+| The Cave | 7.00% | ~37,740 |
+| The Mire | 7.00% | ~37,740 |
+| The Stone Roots | 7.00% | ~37,740 |
 | Storied | 6.00% | ~32,348 |
 | The Construct | 6.00% | ~32,348 |
 | The Lake | 6.00% | ~32,348 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,783 |
 | Fading Fast | 1.00% | ~5,391 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,132 (Ranked 34)  
+Progressed: 539,136 (Ranked 34)  
 Completed: 1,623 (0.30%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 1,623 (0.30%) (Ranked 237)
 | 2023-11-22 | 538,916 | 1,621 |
 | 2023-11-23 | 538,984 | 1,621 |
 | 2023-11-24 | 539,078 | 1,623 |
-| 2023-11-25 | 539,132 | 1,623 |
+| 2023-11-25 | 539,136 | 1,623 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 256)  
-Sum: 1,999 (Ranked 213)  
+Sum: 2,002 (Ranked 213)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -274,10 +274,10 @@ Diff (max vs sum): 43
 | This game is Highly Recommended | 264 |
 | This game has Quickly Understood Controls | 263 |
 | This game has Diverse Characters | 245 |
-| This game is Extremely Fun | 244 |
+| This game is Extremely Fun | 245 |
 | This game has Amazing Storytelling | 235 |
 | This game has Amazing Characters | 231 |
-| This game has Unique Visuals | 224 |
+| This game has Unique Visuals | 226 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
 ## Ratings History
@@ -467,4 +467,4 @@ Diff (max vs sum): 43
 | 2023-11-17 | 4.61 | - | 293 | 1,993 |
 | 2023-11-18 | 4.61 | - | 293 | 1,997 |
 | 2023-11-24 | 4.61 | - | 293 | 1,998 |
-| 2023-11-25 | 4.61 | - | 293 | 1,999 |
+| 2023-11-25 | 4.61 | - | 293 | 2,002 |

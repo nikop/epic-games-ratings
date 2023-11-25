@@ -14,16 +14,16 @@
 | Blow | 38.00% | ~88 |
 | Just like me | 35.00% | ~81 |
 | I bless the rain down in London | 33.00% | ~77 |
-| Delusions | 29.00% | ~67 |
+| Delusions | 30.00% | ~70 |
 | Brown nosing | 28.00% | ~65 |
 | Cheat | 28.00% | ~65 |
-| Prove it | 27.00% | ~63 |
-| The truth | 27.00% | ~63 |
+| Prove it | 28.00% | ~65 |
+| The truth | 28.00% | ~65 |
 | Making a murderer | 20.00% | ~46 |
-| The whole truth | 16.00% | ~37 |
+| The whole truth | 17.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 232 (Ranked 376)  
-Completed: 24 (10.34%) (Ranked 39)  
+Completed: 25 (10.78%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,6 +92,7 @@ Completed: 24 (10.34%) (Ranked 39)
 | 2023-11-22 | 230 | 24 |
 | 2023-11-23 | 231 | 24 |
 | 2023-11-24 | 232 | 24 |
+| 2023-11-25 | 232 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

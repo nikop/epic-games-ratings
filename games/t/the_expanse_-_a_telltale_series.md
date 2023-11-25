@@ -5,8 +5,8 @@ Rating: 4.58 (Ranked 444)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 10.00% | ~1,549 |
-| Bosmang | 6.00% | ~929 |
+| Oyedang, Kopengs | 10.00% | ~1,550 |
+| Bosmang | 6.00% | ~930 |
 | The Pit and the Pirates | 5.00% | ~775 |
 | Martian Music | 5.00% | ~775 |
 | Drone Dodger | 5.00% | ~775 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 444)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,491 (Ranked 151)  
+Progressed: 15,495 (Ranked 151)  
 Completed: 35 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 35 (0.23%) (Ranked 248)
 | 2023-11-22 | 15,266 | 35 |
 | 2023-11-23 | 15,346 | 35 |
 | 2023-11-24 | 15,437 | 35 |
-| 2023-11-25 | 15,491 | 35 |
+| 2023-11-25 | 15,495 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

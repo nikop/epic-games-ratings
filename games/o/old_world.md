@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 6.00% | ~928 |
-| Settler | 6.00% | ~928 |
-| Play a Single Player Game | 6.00% | ~928 |
+| Explorer | 6.00% | ~929 |
+| Settler | 6.00% | ~929 |
+| Play a Single Player Game | 6.00% | ~929 |
 | Intrepid | 5.00% | ~774 |
 | Friendly Family | 5.00% | ~774 |
 | Able | 4.00% | ~619 |
@@ -47,40 +47,40 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 3.00% | ~464 |
 | Roman Paganism | 3.00% | ~464 |
 | Zoroastrianism | 3.00% | ~464 |
-| Regicide | 2.00% | ~309 |
-| Beloved | 2.00% | ~309 |
-| Drillmaster | 2.00% | ~309 |
-| Conqueror | 2.00% | ~309 |
-| Great | 2.00% | ~309 |
-| Intercessor | 2.00% | ~309 |
-| Lion | 2.00% | ~309 |
-| Mighty | 2.00% | ~309 |
-| Valiant | 2.00% | ~309 |
-| Victorious | 2.00% | ~309 |
-| Legendary Cities | 2.00% | ~309 |
-| Good Difficulty | 2.00% | ~309 |
-| Just Difficulty | 2.00% | ~309 |
-| Artisans | 2.00% | ~309 |
-| Champions | 2.00% | ~309 |
-| Sages | 2.00% | ~309 |
-| Furious Family | 2.00% | ~309 |
-| Acropolis | 2.00% | ~309 |
-| Apadana | 2.00% | ~309 |
-| Colossus | 2.00% | ~309 |
-| Mausoleum | 2.00% | ~309 |
-| Musaeum | 2.00% | ~309 |
-| Necropolis | 2.00% | ~309 |
-| Learn to Play 2 | 2.00% | ~309 |
-| Learn to Play 3 | 2.00% | ~309 |
-| Greece | 2.00% | ~309 |
-| Manichaeism | 2.00% | ~309 |
-| Carthaginian Paganism | 2.00% | ~309 |
-| Egyptian Paganism | 2.00% | ~309 |
-| Mythology | 2.00% | ~309 |
-| Points Victory | 2.00% | ~309 |
-| Win a Single Player Game | 2.00% | ~309 |
-| Kushite Pyramids | 2.00% | ~309 |
-| Kushite Paganism | 2.00% | ~309 |
+| Regicide | 2.00% | ~310 |
+| Beloved | 2.00% | ~310 |
+| Drillmaster | 2.00% | ~310 |
+| Conqueror | 2.00% | ~310 |
+| Great | 2.00% | ~310 |
+| Intercessor | 2.00% | ~310 |
+| Lion | 2.00% | ~310 |
+| Mighty | 2.00% | ~310 |
+| Valiant | 2.00% | ~310 |
+| Victorious | 2.00% | ~310 |
+| Legendary Cities | 2.00% | ~310 |
+| Good Difficulty | 2.00% | ~310 |
+| Just Difficulty | 2.00% | ~310 |
+| Artisans | 2.00% | ~310 |
+| Champions | 2.00% | ~310 |
+| Sages | 2.00% | ~310 |
+| Furious Family | 2.00% | ~310 |
+| Acropolis | 2.00% | ~310 |
+| Apadana | 2.00% | ~310 |
+| Colossus | 2.00% | ~310 |
+| Mausoleum | 2.00% | ~310 |
+| Musaeum | 2.00% | ~310 |
+| Necropolis | 2.00% | ~310 |
+| Learn to Play 2 | 2.00% | ~310 |
+| Learn to Play 3 | 2.00% | ~310 |
+| Greece | 2.00% | ~310 |
+| Manichaeism | 2.00% | ~310 |
+| Carthaginian Paganism | 2.00% | ~310 |
+| Egyptian Paganism | 2.00% | ~310 |
+| Mythology | 2.00% | ~310 |
+| Points Victory | 2.00% | ~310 |
+| Win a Single Player Game | 2.00% | ~310 |
+| Kushite Pyramids | 2.00% | ~310 |
+| Kushite Paganism | 2.00% | ~310 |
 | Hanging Gardens in Babylon | 1.00% | ~155 |
 | Capable | 1.00% | ~155 |
 | Invincible | 1.00% | ~155 |
@@ -189,6 +189,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
 | Carthage - Rise of Rome | 0.20% | ~31 |
+| Game of the Week | 0.20% | ~31 |
 | Get the Hellas Out | 0.20% | ~31 |
 | The Turning Point | 0.20% | ~31 |
 | Like a Lion | 0.20% | ~31 |
@@ -239,7 +240,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.10% | ~15 |
 | Et tu Brutus? | 0.10% | ~15 |
 | Battle of the Fertile Crescent | 0.10% | ~15 |
-| Game of the Week | 0.10% | ~15 |
 | That Also Works | 0.10% | ~15 |
 | Defend Where? | 0.10% | ~15 |
 | Not a Chance | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,473 (Ranked 152)  
+Progressed: 15,476 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -568,14 +568,14 @@ Completed: 5 (0.03%) (Ranked 323)
 | 2023-11-22 | 15,428 | 5 |
 | 2023-11-23 | 15,453 | 5 |
 | 2023-11-24 | 15,467 | 5 |
-| 2023-11-25 | 15,473 | 5 |
+| 2023-11-25 | 15,476 | 5 |
 ## Awards
-Max (Relaxing): 227  (Ranked 274)  
-Sum: 1,874 (Ranked 218)  
+Max (Relaxing): 228  (Ranked 274)  
+Sum: 1,875 (Ranked 218)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 227 |
+| This game is Relaxing | 228 |
 | This game has Diverse Characters | 219 |
 | This game is Highly Recommended | 218 |
 | This game is Extremely Fun | 214 |
@@ -753,3 +753,4 @@ Diff (max vs sum): 56
 | 2023-11-09 | 4.65 | - | 226 | 1,872 |
 | 2023-11-21 | 4.65 | - | 227 | 1,873 |
 | 2023-11-23 | 4.65 | - | 227 | 1,874 |
+| 2023-11-25 | 4.65 | - | 228 | 1,875 |
