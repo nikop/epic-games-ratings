@@ -17,8 +17,8 @@ Number of Ratings: 98  (23.09.2022)
 | You're Gonna Go Far, Kid | 26.00% | ~467 |
 | Death to the Oppressor! | 18.00% | ~323 |
 | The Gang's All Here | 16.00% | ~287 |
+| Your Answer | 15.00% | ~269 |
 | One by One | 14.00% | ~251 |
-| Your Answer | 14.00% | ~251 |
 | The Big Bertha | 12.00% | ~216 |
 | Game Over | 11.00% | ~198 |
 | Lock, Stock | 8.00% | ~144 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,796 (Ranked 231)  
-Completed: 2 (0.11%) (Ranked 277)  
+Completed: 2 (0.11%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

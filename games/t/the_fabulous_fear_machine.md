@@ -4,16 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 15.00% | ~6 |
-| You have three wishes left | 12.00% | ~5 |
-| Jung's dream | 10.00% | ~4 |
+| Master trainee | 17.00% | ~7 |
+| You have three wishes left | 15.00% | ~6 |
+| Jung's dream | 12.00% | ~5 |
+| The battle of Great Britain | 12.00% | ~5 |
+| Pulp! Where Monsters Dwell | 12.00% | ~5 |
+| A continent with chemistry | 12.00% | ~5 |
 | Giant | 10.00% | ~4 |
-| The battle of Great Britain | 10.00% | ~4 |
+| A rival with no options | 10.00% | ~4 |
 | Pulp! Terror Tales in the Night | 10.00% | ~4 |
-| Pulp! Where Monsters Dwell | 10.00% | ~4 |
-| A continent with chemistry | 10.00% | ~4 |
-| A rival with no options | 7.00% | ~3 |
-| The happy farmer girl | 7.00% | ~3 |
+| The happy farmer girl | 10.00% | ~4 |
+| The seer | 7.00% | ~3 |
+| You have two wishes left | 7.00% | ~3 |
 | Bread and bocaua | 5.00% | ~2 |
 | Fanatacism is... poisonous | 5.00% | ~2 |
 | The artist | 5.00% | ~2 |
@@ -23,20 +25,19 @@
 | ECO mode | 5.00% | ~2 |
 | Diagnosis: fear | 5.00% | ~2 |
 | Ambition is... blind | 5.00% | ~2 |
-| You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 2.00% | ~1 |
 | Blood Red Island | 2.00% | ~1 |
-| The seer | 2.00% | ~1 |
+| Et in arcadia ego | 2.00% | ~1 |
 | The scholar | 2.00% | ~1 |
 | Kirlian's best disciple | 2.00% | ~1 |
 | Thirst for Oleum | 2.00% | ~1 |
 | The barbarian invasions | 2.00% | ~1 |
 | Vaccine fans | 2.00% | ~1 |
+| Welcome to Hellville | 2.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
-| Et in arcadia ego | 0.00% | ~0 |
 | The bully | 0.00% | ~0 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
@@ -50,10 +51,9 @@
 | America had no Faith | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
-| Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41 (Ranked 510)  
-Completed: 0 (0.00%) (Ranked 359)  
+Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

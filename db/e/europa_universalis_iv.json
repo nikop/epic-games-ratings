@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12483,9 +12483,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 462829,
+  "EOS_Progressed": 462882,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4936,
+  "EOS_NewPlayers": 4963,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37538,6 +37538,11 @@
       "Time": "2023-11-25T03:05:12.4037114+00:00",
       "NumProgressed": 462829,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T04:05:08.0635741+00:00",
+      "NumProgressed": 462882,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -39195,9 +39200,9 @@
       "ID": "achievement_no_trail_of_tears",
       "SetID": "8p2n7he",
       "Name": "No Trail of Tears",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_nobody_wants_to_die",
@@ -40452,21 +40457,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 462829,
+      "Progressed": 462882,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 462829,
+      "Progressed": 462882,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-25T01:41:56.3490029+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:05:12.4037111+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:05:08.0635738+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:59:02.6710481+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:05:12.4047158+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:59:10.0913303+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:05:08.064576+00:00"
 }

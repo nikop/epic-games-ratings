@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 3.00% | ~464 |
 | Strong Cities | 3.00% | ~464 |
 | Able Difficulty | 3.00% | ~464 |
+| Great Ziggurat | 3.00% | ~464 |
 | Ishtar Gate | 3.00% | ~464 |
 | Lighthouse | 3.00% | ~464 |
 | Pyramids | 3.00% | ~464 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 2.00% | ~309 |
 | Apadana | 2.00% | ~309 |
 | Colossus | 2.00% | ~309 |
-| Great Ziggurat | 2.00% | ~309 |
 | Mausoleum | 2.00% | ~309 |
 | Musaeum | 2.00% | ~309 |
 | Necropolis | 2.00% | ~309 |
@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.90% | ~139 |
 | Egypt | 0.90% | ~139 |
 | Turreted Elephant | 0.90% | ~139 |
+| Noble Difficulty | 0.80% | ~124 |
 | Adur Burzen-Mihr | 0.80% | ~124 |
 | Rome | 0.80% | ~124 |
 | Hittite Paganism | 0.80% | ~124 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.80% | ~124 |
 | Ishtar Gate in Babylon | 0.70% | ~108 |
 | Peacemaker | 0.70% | ~108 |
-| Noble Difficulty | 0.70% | ~108 |
 | Cao'an | 0.70% | ~108 |
 | Learn to Play 5 | 0.70% | ~108 |
 | Cataphract Archer | 0.70% | ~108 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,468 (Ranked 151)  
-Completed: 5 (0.03%) (Ranked 321)  
+Progressed: 15,469 (Ranked 151)  
+Completed: 5 (0.03%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -568,7 +568,7 @@ Completed: 5 (0.03%) (Ranked 321)
 | 2023-11-22 | 15,428 | 5 |
 | 2023-11-23 | 15,453 | 5 |
 | 2023-11-24 | 15,467 | 5 |
-| 2023-11-25 | 15,468 | 5 |
+| 2023-11-25 | 15,469 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,874 (Ranked 218)  

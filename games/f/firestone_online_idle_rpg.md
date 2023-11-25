@@ -5,84 +5,84 @@ Rating: 4.12 (Ranked 963)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,462 |
-| World Map | 78.00% | ~2,065 |
-| Temple of Eternals | 57.00% | ~1,509 |
-| Prestigious | 53.00% | ~1,403 |
-| Fellowship Power | 41.00% | ~1,085 |
-| Guild Power | 25.00% | ~662 |
-| Prestigious x10 | 21.00% | ~556 |
-| The game is on | 19.00% | ~503 |
-| Exotic Merchant | 17.00% | ~450 |
+| Victor | 93.00% | ~2,465 |
+| World Map | 78.00% | ~2,068 |
+| Temple of Eternals | 57.00% | ~1,511 |
+| Prestigious | 53.00% | ~1,405 |
+| Fellowship Power | 42.00% | ~1,113 |
+| Guild Power | 25.00% | ~663 |
+| Prestigious x10 | 21.00% | ~557 |
+| The game is on | 19.00% | ~504 |
+| Exotic Merchant | 17.00% | ~451 |
 | Dragon Clicker | 16.00% | ~424 |
+| Inspection | 16.00% | ~424 |
 | Miner Clicker | 16.00% | ~424 |
-| Full Party | 15.00% | ~397 |
-| Inspection | 15.00% | ~397 |
+| Full Party | 15.00% | ~398 |
 | Dragon Master | 14.00% | ~371 |
 | Enlightenment | 14.00% | ~371 |
 | Hero inspection | 14.00% | ~371 |
-| Lieutenant | 13.00% | ~344 |
+| Lieutenant | 13.00% | ~345 |
 | Milestone collector | 12.00% | ~318 |
 | Mysterious Rock | 12.00% | ~318 |
 | Natural Talent | 12.00% | ~318 |
 | Superior | 12.00% | ~318 |
 | The Unstoppable | 12.00% | ~318 |
-| Scientist | 11.00% | ~291 |
+| Scientist | 11.00% | ~292 |
 | Daily Quest Completionist | 10.00% | ~265 |
 | Doing My Part | 10.00% | ~265 |
 | Hunter | 10.00% | ~265 |
 | Mastery | 10.00% | ~265 |
 | The power of Awakening | 10.00% | ~265 |
-| Challenger | 9.00% | ~238 |
-| Four Leaf Clover | 9.00% | ~238 |
-| Frostfire Liberator | 9.00% | ~238 |
-| Moving Up The Ladder | 9.00% | ~238 |
-| Relic Of The Past | 9.00% | ~238 |
-| Scroll Master | 9.00% | ~238 |
+| Challenger | 9.00% | ~239 |
+| Four Leaf Clover | 9.00% | ~239 |
+| Frostfire Liberator | 9.00% | ~239 |
+| Moving Up The Ladder | 9.00% | ~239 |
+| Relic Of The Past | 9.00% | ~239 |
+| Scroll Master | 9.00% | ~239 |
 | Here We Go Again | 8.00% | ~212 |
 | Master Enchanter | 8.00% | ~212 |
 | The father of Dragons | 8.00% | ~212 |
 | Trader | 8.00% | ~212 |
-| Blueprint Upgrades | 7.00% | ~185 |
-| Crystal Mining | 7.00% | ~185 |
-| Dragon Slayer | 7.00% | ~185 |
-| Enchanting skill | 7.00% | ~185 |
-| Engineer Mastery | 7.00% | ~185 |
-| The Expeditioner | 7.00% | ~185 |
-| Weekly Quest Completionist | 7.00% | ~185 |
+| Blueprint Upgrades | 7.00% | ~186 |
+| Crystal Mining | 7.00% | ~186 |
+| Dragon Slayer | 7.00% | ~186 |
+| Enchanting skill | 7.00% | ~186 |
+| Engineer Mastery | 7.00% | ~186 |
+| The Expeditioner | 7.00% | ~186 |
+| Weekly Quest Completionist | 7.00% | ~186 |
 | How Do You Turn This On? | 6.00% | ~159 |
 | Lock And Load | 6.00% | ~159 |
 | Missions Dedication | 6.00% | ~159 |
 | Sailor | 6.00% | ~159 |
 | The Alchemist | 6.00% | ~159 |
-| Active Member | 5.00% | ~132 |
-| Ancient Knowledge | 5.00% | ~132 |
-| Arena Challenger | 5.00% | ~132 |
-| Background Story | 5.00% | ~132 |
-| Ebony Jungle Liberator | 5.00% | ~132 |
-| Legendary | 5.00% | ~132 |
-| Gear Enchanting | 3.00% | ~79 |
-| Guardian Master | 3.00% | ~79 |
-| Mythic Power | 3.00% | ~79 |
-| What lies behind the bush | 3.00% | ~79 |
+| Active Member | 5.00% | ~133 |
+| Ancient Knowledge | 5.00% | ~133 |
+| Arena Challenger | 5.00% | ~133 |
+| Background Story | 5.00% | ~133 |
+| Ebony Jungle Liberator | 5.00% | ~133 |
+| Legendary | 5.00% | ~133 |
+| Gear Enchanting | 3.00% | ~80 |
+| Guardian Master | 3.00% | ~80 |
+| Mythic Power | 3.00% | ~80 |
+| What lies behind the bush | 3.00% | ~80 |
 | Cauldron Liberator | 2.00% | ~53 |
 | Enchanting skill x5 | 2.00% | ~53 |
 | Pokerface | 2.00% | ~53 |
 | Titan Power | 2.00% | ~53 |
-| Angel Power | 1.00% | ~26 |
-| Conqueror | 1.00% | ~26 |
-| Enhanced War Machines | 1.00% | ~26 |
-| Training makes a Pro player | 1.00% | ~26 |
-| Transmute | 1.00% | ~26 |
-| Tree of Life | 1.00% | ~26 |
+| Angel Power | 1.00% | ~27 |
+| Conqueror | 1.00% | ~27 |
+| Enhanced War Machines | 1.00% | ~27 |
+| Training makes a Pro player | 1.00% | ~27 |
+| Transmute | 1.00% | ~27 |
+| Tree of Life | 1.00% | ~27 |
 | Beast War Machines | 0.90% | ~24 |
 | Silverwood liberator | 0.90% | ~24 |
 | Ultimate War Machines | 0.60% | ~16 |
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,647 (Ranked 215)  
-Completed: 2 (0.08%) (Ranked 295)  
+Progressed: 2,651 (Ranked 214)  
+Completed: 2 (0.08%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 2 (0.08%) (Ranked 295)
 | 2023-11-22 | 2,554 | 2 |
 | 2023-11-23 | 2,599 | 2 |
 | 2023-11-24 | 2,644 | 2 |
-| 2023-11-25 | 2,647 | 2 |
+| 2023-11-25 | 2,651 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 487)  
 Sum: 110 (Ranked 443)  

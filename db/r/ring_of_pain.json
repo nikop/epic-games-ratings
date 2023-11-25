@@ -6,9 +6,9 @@
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3460,10 +3460,10 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240178,
-  "EOS_Completed": 290,
-  "EOS_NewPlayers": 345,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 240184,
+  "EOS_Completed": 291,
+  "EOS_NewPlayers": 350,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -26090,6 +26090,11 @@
       "Time": "2023-11-25T03:09:46.3935307+00:00",
       "NumProgressed": 240178,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-11-25T04:09:28.9610083+00:00",
+      "NumProgressed": 240184,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -27204,13 +27209,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240178,
-      "Completed": 290
+      "Progressed": 240184,
+      "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1658,
+      "Progressed": 1664,
       "Completed": 389
     }
   ],
@@ -27218,8 +27223,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-23T20:58:01.4117644+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:09:46.3935303+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:09:28.9610076+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:58:31.6186582+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:09:46.3937689+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:58:35.3899503+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:09:28.9612413+00:00"
 }

@@ -26,8 +26,8 @@
 | Keep the Doctor Away | 2.00% | ~1 |
 | Just a Palm Tree | 2.00% | ~1 |
 | Under the Hood | 2.00% | ~1 |
+| Long Live Gaipajama! | 2.00% | ~1 |
 | Eyes Shut | 2.00% | ~1 |
-| Long Live Gaipajama! | 0.00% | ~0 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Tintin, Reporter | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
@@ -43,7 +43,7 @@
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 45 (Ranked 501)  
-Completed: 0 (0.00%) (Ranked 359)  
+Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,15 +5,15 @@ Rating: 4.16 (Ranked 941)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 35.00% | ~23,592 |
-| As Far Away As Possible | 18.00% | ~12,133 |
-| A Most Unstable Organism | 13.00% | ~8,763 |
-| No Time to Follow Protocol | 10.00% | ~6,741 |
-| Float Like a Butterfly... | 8.00% | ~5,393 |
-| Nano Connoisseur | 6.00% | ~4,044 |
-| In Two Places At Once | 6.00% | ~4,044 |
-| Pulling Your Weight | 3.00% | ~2,022 |
-| Reaping Rivals | 3.00% | ~2,022 |
+| Your Lucky Day | 35.00% | ~23,601 |
+| As Far Away As Possible | 18.00% | ~12,138 |
+| A Most Unstable Organism | 13.00% | ~8,766 |
+| No Time to Follow Protocol | 10.00% | ~6,743 |
+| Float Like a Butterfly... | 8.00% | ~5,394 |
+| Nano Connoisseur | 6.00% | ~4,046 |
+| In Two Places At Once | 6.00% | ~4,046 |
+| Pulling Your Weight | 3.00% | ~2,023 |
+| Reaping Rivals | 3.00% | ~2,023 |
 | fifteenth Time's the Charm | 1.00% | ~674 |
 | More Power to You | 1.00% | ~674 |
 | Memory Keeper | 0.40% | ~270 |
@@ -22,8 +22,8 @@ Rating: 4.16 (Ranked 941)
 | Completely Customizable | 0.30% | ~202 |
 | Runs for Your Money | 0.30% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,407 (Ranked 102)  
-Completed: 36 (0.05%) (Ranked 308)  
+Progressed: 67,431 (Ranked 102)  
+Completed: 36 (0.05%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,10 +112,11 @@ Completed: 36 (0.05%) (Ranked 308)
 | 2023-11-22 | 67,275 | 36 |
 | 2023-11-23 | 67,349 | 36 |
 | 2023-11-24 | 67,407 | 36 |
+| 2023-11-25 | 67,431 | 36 |
 ## Awards
 Max (Great for Beginners): 95  (Ranked 370)  
-Sum: 386 (Ranked 345)  
-Diff (max vs sum): 25  
+Sum: 387 (Ranked 344)  
+Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 95 |
@@ -123,7 +124,7 @@ Diff (max vs sum): 25
 | This game has Amazing Characters | 52 |
 | This game is Highly Recommended | 50 |
 | This game has a Competitive Community | 48 |
-| This game is Extremely Fun | 46 |
+| This game is Extremely Fun | 47 |
 | This game has Amazing Storytelling | 41 |
 | This game has Quickly Understood Controls | 38 |
 | This game is Relaxing | 28 |
@@ -202,3 +203,4 @@ Diff (max vs sum): 25
 | 2023-11-19 | 4.16 | 95 | 383 |
 | 2023-11-22 | 4.16 | 95 | 385 |
 | 2023-11-23 | 4.16 | 95 | 386 |
+| 2023-11-25 | 4.16 | 95 | 387 |

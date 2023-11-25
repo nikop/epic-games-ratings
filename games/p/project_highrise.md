@@ -48,10 +48,10 @@
 | Phoning It In | 9.00% | ~32 |
 | First 100 Days | 8.00% | ~28 |
 | Water Features | 8.00% | ~28 |
+| Revenue Royalty | 8.00% | ~28 |
 | Careful Constructor | 7.00% | ~25 |
 | Meet Me at HQ | 7.00% | ~25 |
 | Maximum Reuse | 7.00% | ~25 |
-| Revenue Royalty | 7.00% | ~25 |
 | Golden Opportunity | 7.00% | ~25 |
 | Pipe Up | 7.00% | ~25 |
 | I'm Busy Ruling | 6.00% | ~21 |
@@ -70,6 +70,7 @@
 | Luxury Boutiques | 3.00% | ~11 |
 | Four of a Kind | 3.00% | ~11 |
 | In the Money | 3.00% | ~11 |
+| It is Payday | 3.00% | ~11 |
 | Curated Class | 2.00% | ~7 |
 | Loft Life | 2.00% | ~7 |
 | Glut of Gastronomy | 2.00% | ~7 |
@@ -78,7 +79,6 @@
 | Royal Flush | 2.00% | ~7 |
 | The King of Cool | 2.00% | ~7 |
 | Such Great Heights | 2.00% | ~7 |
-| It is Payday | 2.00% | ~7 |
 | Scenario Success | 2.00% | ~7 |
 | Double Down | 1.00% | ~4 |
 | Lofty Landlord | 1.00% | ~4 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 354 (Ranked 331)  
-Completed: 0 (0.00%) (Ranked 359)  
+Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 557,
-  "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 360,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -142,9 +142,9 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 63,
+      "Percentage": 68,
       "XP": 145,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach3",
@@ -197,8 +197,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:03:41.3211151+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:03:28.5218611+00:00",
   "LastUpdate_AppInfo": "2023-11-22T17:57:01.1016789+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:59:12.7507313+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:03:41.3211198+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:59:21.9472987+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:03:28.5218683+00:00"
 }

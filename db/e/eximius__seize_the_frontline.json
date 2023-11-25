@@ -6,9 +6,9 @@
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 74,
-  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200466,
+  "EOS_Progressed": 200475,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23463,6 +23463,11 @@
       "Time": "2023-11-25T03:04:58.7371319+00:00",
       "NumProgressed": 200466,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-25T04:04:53.3664573+00:00",
+      "NumProgressed": 200475,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -23474,7 +23479,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16037
+      "UsersEstimate": 16038
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -23482,7 +23487,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 142331
+      "UsersEstimate": 142337
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -23490,7 +23495,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 10023
+      "UsersEstimate": 10024
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -23506,7 +23511,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36084
+      "UsersEstimate": 36086
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -23554,7 +23559,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10023
+      "UsersEstimate": 10024
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -23578,7 +23583,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -23594,14 +23599,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 10023
+      "UsersEstimate": 10024
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200466,
+      "Progressed": 200475,
       "Completed": 4
     }
   ],
@@ -23609,8 +23614,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:04:58.7371315+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:04:53.3664569+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:10.5681178+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:58:50.6410673+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:04:58.7372567+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:58:56.4229648+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:04:53.3665448+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -776,9 +776,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5068,
+  "EOS_Progressed": 5070,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -9826,6 +9826,11 @@
       "Time": "2023-11-25T03:03:23.2917618+00:00",
       "NumProgressed": 5068,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-25T04:03:08.7627761+00:00",
+      "NumProgressed": 5070,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9862,7 +9867,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -9886,7 +9891,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9926,7 +9931,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9990,7 +9995,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -10006,7 +10011,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -10021,15 +10026,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5068,
+      "Progressed": 5070,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:03:23.291761+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:03:08.7627757+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:00:21.2813586+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:03:23.2918302+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:00:39.6770751+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:03:08.7628326+00:00"
 }

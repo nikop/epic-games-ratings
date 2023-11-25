@@ -6,16 +6,16 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,996 |
-| Imprint | 5.00% | ~7,996 |
-| The Hunt | 4.00% | ~6,396 |
-| Ravenous | 4.00% | ~6,396 |
-| Weeper | 3.00% | ~4,797 |
-| Harmless | 2.00% | ~3,198 |
-| Silenced Whispers | 2.00% | ~3,198 |
-| Devourer | 2.00% | ~3,198 |
-| Yank | 2.00% | ~3,198 |
-| Sharpened Vessel | 2.00% | ~3,198 |
+| Taste | 5.00% | ~7,997 |
+| Imprint | 5.00% | ~7,997 |
+| The Hunt | 4.00% | ~6,397 |
+| Ravenous | 4.00% | ~6,397 |
+| Weeper | 3.00% | ~4,798 |
+| Harmless | 2.00% | ~3,199 |
+| Silenced Whispers | 2.00% | ~3,199 |
+| Devourer | 2.00% | ~3,199 |
+| Yank | 2.00% | ~3,199 |
+| Sharpened Vessel | 2.00% | ~3,199 |
 | Shapely | 1.00% | ~1,599 |
 | Scion | 1.00% | ~1,595 |
 | Glare | 1.00% | ~1,595 |
@@ -25,24 +25,24 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 1.00% | ~1,599 |
 | Predator | 1.00% | ~1,599 |
 | Assimilation | 0.90% | ~1,439 |
-| Host | 0.90% | ~1,435 |
+| Host | 0.90% | ~1,436 |
 | Celebration | 0.90% | ~1,439 |
-| Hunt Down | 0.70% | ~1,119 |
-| Inevitable | 0.70% | ~1,119 |
-| All-Seeing | 0.70% | ~1,119 |
-| Dream | 0.70% | ~1,116 |
-| Breath | 0.60% | ~959 |
-| Artisan | 0.60% | ~959 |
-| Hush | 0.60% | ~959 |
-| Breathsmith | 0.60% | ~959 |
+| Hunt Down | 0.70% | ~1,120 |
+| Inevitable | 0.70% | ~1,120 |
+| All-Seeing | 0.70% | ~1,120 |
+| Dream | 0.70% | ~1,117 |
+| Breath | 0.60% | ~960 |
+| Artisan | 0.60% | ~960 |
+| Hush | 0.60% | ~960 |
+| Breathsmith | 0.60% | ~960 |
 | Unwrap the Gift | 0.50% | ~800 |
 | Passage | 0.50% | ~800 |
 | Bloodhunter | 0.40% | ~640 |
 | Zygote | 0.40% | ~638 |
 | Proportions | 0.40% | ~640 |
 | Kinship | 0.30% | ~480 |
-| Kin | 0.30% | ~478 |
-| Listen | 0.30% | ~478 |
+| Kin | 0.30% | ~479 |
+| Listen | 0.30% | ~479 |
 | Weakness | 0.20% | ~320 |
 | Generous | 0.20% | ~320 |
 | Enrich | 0.20% | ~319 |
@@ -50,11 +50,11 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.10% | ~160 |
 | Skinmaker | 0.10% | ~160 |
 | Instruments | 0.10% | ~160 |
-| The Nightmare | 0.10% | ~159 |
-| Touch of Otherwhere | 0.10% | ~159 |
+| The Nightmare | 0.10% | ~160 |
+| Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,912 (Ranked 78)  
-Completed: 1 (0.00%) (Ranked 359)  
+Progressed: 159,936 (Ranked 78)  
+Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,7 +249,7 @@ Completed: 1 (0.00%) (Ranked 359)
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
 | 2023-11-24 | 159,888 | 1 |
-| 2023-11-25 | 159,912 | 1 |
+| 2023-11-25 | 159,936 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 424)  
 Sum: 380 (Ranked 346)  

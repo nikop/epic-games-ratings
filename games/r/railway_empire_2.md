@@ -9,14 +9,14 @@ Rating: 4.42 (Ranked 715)
 | A new Journey | 75.00% | ~1,659 |
 | Departure | 74.00% | ~1,637 |
 | From X to Y | 73.00% | ~1,615 |
-| Way of Iron | 70.00% | ~1,548 |
+| Way of Iron | 71.00% | ~1,571 |
 | Mystery Tour | 69.00% | ~1,526 |
 | We brake for nobody | 68.00% | ~1,504 |
 | Brainstorm | 66.00% | ~1,460 |
 | Travel Company | 66.00% | ~1,460 |
 | Mind the Gap | 65.00% | ~1,438 |
 | All around the World | 63.00% | ~1,394 |
-| Right through the middle | 58.00% | ~1,283 |
+| Right through the middle | 59.00% | ~1,305 |
 | Facility Manager | 54.00% | ~1,194 |
 | Poor Devil | 54.00% | ~1,194 |
 | Producer | 51.00% | ~1,128 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 715)
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,212 (Ranked 222)  
-Completed: 0 (0.00%) (Ranked 359)  
+Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 78.00% | ~1,199 |
-| Lovebirds | 49.00% | ~753 |
-| Life’s short, ride long | 44.00% | ~676 |
+| Balding bloot! | 78.00% | ~1,200 |
+| Lovebirds | 49.00% | ~754 |
+| Life’s short, ride long | 44.00% | ~677 |
 | Hug therapy | 43.00% | ~661 |
 | Over my dead body | 40.00% | ~615 |
 | Shake the rust off their feet | 21.00% | ~323 |
@@ -19,9 +19,9 @@ Number of Ratings: 38  (23.09.2022)
 | Like new! | 15.00% | ~231 |
 | Heartstrings | 13.00% | ~200 |
 | Head in the clouds | 13.00% | ~200 |
-| Back to rust | 12.00% | ~184 |
-| Flower Powered | 12.00% | ~184 |
-| Don't look back | 12.00% | ~184 |
+| Back to rust | 12.00% | ~185 |
+| Flower Powered | 12.00% | ~185 |
+| Don't look back | 12.00% | ~185 |
 | Unstoppable | 10.00% | ~154 |
 | Perfect timing | 9.00% | ~138 |
 | Self-sustainability | 8.00% | ~123 |
@@ -29,15 +29,15 @@ Number of Ratings: 38  (23.09.2022)
 | Can't get wetter... | 5.00% | ~77 |
 | Spring cleaning | 5.00% | ~77 |
 | An eye for an eye | 5.00% | ~77 |
-| Second thoughts | 4.00% | ~61 |
-| Mooning the moon | 4.00% | ~61 |
-| Strip-a-bobble | 4.00% | ~61 |
+| Second thoughts | 4.00% | ~62 |
+| Mooning the moon | 4.00% | ~62 |
+| Strip-a-bobble | 4.00% | ~62 |
 | Pearls before Birble | 3.00% | ~46 |
 | Last minute | 3.00% | ~46 |
 | Thar she blows | 2.00% | ~31 |
 | À la carte | 2.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,537 (Ranked 240)  
+Progressed: 1,538 (Ranked 240)  
 Completed: 9 (0.59%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 9 (0.59%) (Ranked 191)
 | 2023-11-22 | 1,532 | 9 |
 | 2023-11-23 | 1,535 | 9 |
 | 2023-11-24 | 1,536 | 9 |
-| 2023-11-25 | 1,537 | 9 |
+| 2023-11-25 | 1,538 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

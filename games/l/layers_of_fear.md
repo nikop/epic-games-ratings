@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 80.00% | ~67 |
-| Something important | 76.00% | ~64 |
+| Wanderer | 81.00% | ~68 |
+| Something important | 77.00% | ~65 |
 | A piece of the story | 61.00% | ~51 |
 | It's covered up for a reason | 44.00% | ~37 |
 | Scraps of love | 43.00% | ~36 |
@@ -58,7 +58,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 84 (Ranked 448)  
-Completed: 0 (0.00%) (Ranked 359)  
+Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 406,
-  "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 407,
+  "Ranking_EOS_Completed": 360,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -564,9 +564,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -628,9 +628,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 74,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -668,9 +668,9 @@
       "ID": "TINGWD_CHAP_END_06",
       "SetID": "c0imaa6",
       "Name": "Home at last",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "TINGWD_CLICKER",
@@ -684,17 +684,17 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 77,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 84,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -740,9 +740,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 84,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -756,9 +756,9 @@
       "ID": "TINGWD_PERPETUITY",
       "SetID": "c0imaa6",
       "Name": "Life sentence",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "TINGWD_PUNCHMAN",
@@ -780,17 +780,17 @@
       "ID": "TINGWD_RAIDERS",
       "SetID": "c0imaa6",
       "Name": "Raiders of the lost game",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TINGWD_RANDOM",
       "SetID": "c0imaa6",
       "Name": "Random luck!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TINGWD_SHIFUMI_LOSE",
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:06:31.2252033+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:06:35.7675656+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:59:08.6730257+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:06:31.225229+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:59:17.2007933+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:06:35.767593+00:00"
 }

@@ -23,8 +23,8 @@
 | Homeless | 30.00% | ~30 |
 | Big badaboom! | 29.00% | ~29 |
 | Bookworm | 26.00% | ~26 |
-| Payback | 25.00% | ~25 |
-| Nokron tower | 24.00% | ~24 |
+| Payback | 26.00% | ~26 |
+| Nokron tower | 25.00% | ~25 |
 | Magnitude 5 | 24.00% | ~24 |
 | Full power | 23.00% | ~23 |
 | "Ah sh*t... Here we go again!" | 23.00% | ~23 |
@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 101 (Ranked 432)  
-Completed: 0 (0.00%) (Ranked 359)  
+Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

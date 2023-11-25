@@ -5,27 +5,27 @@ Rating: 4.55 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 104.00% | ~19,107 |
-| Before the Downfall | 99.00% | ~18,188 |
-| Money like Water | 97.00% | ~17,821 |
-| Minimalist | 96.00% | ~17,637 |
-| Builder | 88.00% | ~16,167 |
-| Eraser | 74.00% | ~13,595 |
-| Pocket of Trains | 69.00% | ~12,677 |
-| Inspector | 63.00% | ~11,574 |
-| Going the Distance | 58.00% | ~10,656 |
-| Oil Baron | 45.00% | ~8,267 |
-| Loads-a-Money | 45.00% | ~8,267 |
-| Helper of the People | 42.00% | ~7,716 |
-| Simplification | 36.00% | ~6,614 |
+| Trevithick's Legacy | 104.00% | ~19,105 |
+| Before the Downfall | 99.00% | ~18,186 |
+| Money like Water | 97.00% | ~17,819 |
+| Minimalist | 96.00% | ~17,635 |
+| Builder | 88.00% | ~16,166 |
+| Eraser | 74.00% | ~13,594 |
+| Pocket of Trains | 69.00% | ~12,675 |
+| Inspector | 63.00% | ~11,573 |
+| Going the Distance | 58.00% | ~10,655 |
+| Oil Baron | 45.00% | ~8,266 |
+| Loads-a-Money | 45.00% | ~8,266 |
+| Helper of the People | 42.00% | ~7,715 |
+| Simplification | 36.00% | ~6,613 |
 | Box of Trains | 35.00% | ~6,430 |
 | Let There be Light | 35.00% | ~6,430 |
-| Hot Water | 33.00% | ~6,063 |
+| Hot Water | 33.00% | ~6,062 |
 | Indecisive | 31.00% | ~5,695 |
-| The scenic route | 29.00% | ~5,328 |
+| The scenic route | 29.00% | ~5,327 |
 | Industrialist | 27.00% | ~4,960 |
-| Perfectionist | 25.00% | ~4,593 |
-| Trains over Pipes | 25.00% | ~4,593 |
+| Perfectionist | 25.00% | ~4,592 |
+| Trains over Pipes | 25.00% | ~4,592 |
 | 8K is Enough for Everyone | 24.00% | ~4,409 |
 | Man of Steel | 18.00% | ~3,307 |
 | Room Full of Trains | 13.00% | ~2,388 |
@@ -43,8 +43,8 @@ Rating: 4.55 (Ranked 507)
 | Overdeer | 0.60% | ~110 |
 | Cloud Services | 0.30% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,372 (Ranked 145)  
-Completed: 27 (0.15%) (Ranked 269)  
+Progressed: 18,370 (Ranked 145)  
+Completed: 27 (0.15%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,6 +259,7 @@ Completed: 27 (0.15%) (Ranked 269)
 | 2023-11-22 | 18,409 | 28 |
 | 2023-11-23 | 18,396 | 28 |
 | 2023-11-24 | 18,382 | 28 |
+| 2023-11-25 | 18,370 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 375)  
 Sum: 678 (Ranked 299)  

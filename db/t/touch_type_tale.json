@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3793,
+  "EOS_Progressed": 3794,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4602,6 +4602,11 @@
       "Time": "2023-11-24T21:05:17.1695964+00:00",
       "NumProgressed": 3793,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-25T04:04:35.5272562+00:00",
+      "NumProgressed": 3794,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4661,7 +4666,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3339
     },
     {
       "ID": "campaign10",
@@ -4693,7 +4698,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "campaign14",
@@ -4821,7 +4826,7 @@
       "Name": "Do the Splits",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "scenario2",
@@ -4876,7 +4881,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3793,
+      "Progressed": 3794,
       "Completed": 11
     }
   ],
@@ -4884,8 +4889,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:04:42.3343236+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:04:35.5272551+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:09.4027746+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:58:54.8820878+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:04:42.3343596+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:59:01.1032253+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:04:35.5273037+00:00"
 }

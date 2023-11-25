@@ -6,9 +6,9 @@
   "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1490,9 +1490,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131169,
+  "EOS_Progressed": 131172,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22850,6 +22850,11 @@
       "Time": "2023-11-25T03:05:15.9885782+00:00",
       "NumProgressed": 131169,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-25T04:05:11.9280482+00:00",
+      "NumProgressed": 131172,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22893,7 +22898,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23610
+      "UsersEstimate": 23611
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22941,7 +22946,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36727
+      "UsersEstimate": 36728
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22965,7 +22970,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20987
+      "UsersEstimate": 20988
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -22973,7 +22978,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27545
+      "UsersEstimate": 27546
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22997,7 +23002,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20987
+      "UsersEstimate": 20988
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -23180,15 +23185,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131169,
+      "Progressed": 131172,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-24T05:00:25.0913499+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:05:15.9885779+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:05:11.9280479+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:57:40.2114849+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:05:15.9887085+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:57:38.142773+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:05:11.9281431+00:00"
 }

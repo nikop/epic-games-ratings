@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1484,
+  "EOS_Progressed": 1486,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1906,6 +1906,11 @@
       "Time": "2023-11-23T21:10:09.3242032+00:00",
       "NumProgressed": 1484,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-25T04:09:20.4372397+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1979,9 +1984,9 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -2003,9 +2008,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -2107,9 +2112,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -2347,9 +2352,9 @@
       "ID": "theme_wolf_killEveryEnemyType",
       "SetID": "95dc8p",
       "Name": "Lochias\u0027s Hunger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -2364,15 +2369,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1484,
+      "Progressed": 1486,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:09:38.8627608+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:09:20.4372391+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:35.6437946+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:59:50.0378462+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:09:38.8627993+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:00:04.6140168+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:09:20.4372796+00:00"
 }

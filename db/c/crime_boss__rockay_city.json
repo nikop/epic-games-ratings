@@ -6,9 +6,9 @@
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4717,10 +4717,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 3093,
       "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-11-25T04:00:19.4890166+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3096,
+      "NumberOfAwardsMax": 544
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3093,
+  "NumberOfAwards": 3096,
   "NumberOfAwardsMax": 544,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4764,7 +4770,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 529
+      "Count": 532
     },
     {
       "Text": "This game has a Silly Community",
@@ -4779,9 +4785,9 @@
       "Count": 496
     }
   ],
-  "EOS_Progressed": 91514,
+  "EOS_Progressed": 91517,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26384,6 +26390,11 @@
       "Time": "2023-11-25T03:06:13.3007383+00:00",
       "NumProgressed": 91514,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-25T04:06:15.5443069+00:00",
+      "NumProgressed": 91517,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26395,7 +26406,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "ACH_0011",
@@ -26539,7 +26550,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "ACH_0210",
@@ -26547,7 +26558,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "ACH_0211",
@@ -26722,22 +26733,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91514,
+      "Progressed": 91517,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19861,
+      "Progressed": 19864,
       "Completed": 15579
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-25T03:00:03.1446065+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:06:13.3007378+00:00",
+  "LastChanged": "2023-11-25T04:00:19.4890164+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:06:15.5443065+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:00:03.1446071+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:06:13.3008659+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:00:19.489017+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:06:15.5444086+00:00"
 }

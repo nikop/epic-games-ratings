@@ -6,40 +6,40 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~77,600 |
-| No Escape | 86.00% | ~68,800 |
-| Seeker of Power | 85.00% | ~68,000 |
-| Hopes and Dreams | 82.00% | ~65,600 |
-| Lantern Smasher | 78.00% | ~62,400 |
-| The Pirate's Way | 74.00% | ~59,200 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~56,800 |
-| The King of the Dark Elves | 68.00% | ~54,400 |
-| Memories of the Distant Past | 66.00% | ~52,800 |
-| Distortion's Progeny | 63.00% | ~50,400 |
-| Savant | 62.00% | ~49,600 |
-| A Landscape of Memory | 58.00% | ~46,400 |
-| The Wind's Light | 54.00% | ~43,200 |
-| Vague Remembrances | 49.00% | ~39,200 |
-| The Fire's Light | 47.00% | ~37,600 |
-| Phantom Memories | 47.00% | ~37,600 |
-| Imbued Memories | 47.00% | ~37,600 |
-| The Earth's Light | 45.00% | ~36,000 |
-| Shared Recollections | 42.00% | ~33,600 |
-| The Water's Light | 40.00% | ~32,000 |
-| Path of the Sage | 40.00% | ~32,000 |
-| Malice Takes Root | 38.00% | ~30,400 |
-| Path of the Dark Knight | 37.00% | ~29,600 |
-| Path of the Paladin | 37.00% | ~29,600 |
-| Path of the Breaker | 37.00% | ~29,600 |
-| Duty's Course | 36.00% | ~28,800 |
-| Path of the Liberator | 35.00% | ~28,000 |
-| Path of the Tyrant | 35.00% | ~28,000 |
-| Led by the Nose | 34.00% | ~27,200 |
-| Path of the Void Knight | 34.00% | ~27,200 |
-| Terminus of Fate | 33.00% | ~26,400 |
-| Path of the Ninja | 33.00% | ~26,400 |
-| His Name Is Garland | 33.00% | ~26,400 |
-| Path of the Assassin | 32.00% | ~25,600 |
+| Manifestation of the Soul | 97.00% | ~77,602 |
+| No Escape | 86.00% | ~68,802 |
+| Seeker of Power | 85.00% | ~68,002 |
+| Hopes and Dreams | 82.00% | ~65,602 |
+| Lantern Smasher | 78.00% | ~62,402 |
+| The Pirate's Way | 74.00% | ~59,201 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~56,801 |
+| The King of the Dark Elves | 68.00% | ~54,401 |
+| Memories of the Distant Past | 66.00% | ~52,801 |
+| Distortion's Progeny | 63.00% | ~50,401 |
+| Savant | 62.00% | ~49,601 |
+| A Landscape of Memory | 58.00% | ~46,401 |
+| The Wind's Light | 54.00% | ~43,201 |
+| Vague Remembrances | 49.00% | ~39,201 |
+| The Fire's Light | 47.00% | ~37,601 |
+| Phantom Memories | 47.00% | ~37,601 |
+| Imbued Memories | 47.00% | ~37,601 |
+| The Earth's Light | 45.00% | ~36,001 |
+| Shared Recollections | 42.00% | ~33,601 |
+| The Water's Light | 40.00% | ~32,001 |
+| Path of the Sage | 40.00% | ~32,001 |
+| Malice Takes Root | 38.00% | ~30,401 |
+| Path of the Dark Knight | 37.00% | ~29,601 |
+| Path of the Paladin | 37.00% | ~29,601 |
+| Path of the Breaker | 37.00% | ~29,601 |
+| Duty's Course | 36.00% | ~28,801 |
+| Path of the Liberator | 35.00% | ~28,001 |
+| Path of the Tyrant | 35.00% | ~28,001 |
+| Led by the Nose | 34.00% | ~27,201 |
+| Path of the Void Knight | 34.00% | ~27,201 |
+| Terminus of Fate | 33.00% | ~26,401 |
+| Path of the Ninja | 33.00% | ~26,401 |
+| His Name Is Garland | 33.00% | ~26,401 |
+| Path of the Assassin | 32.00% | ~25,601 |
 | Seeker of Ultimate Power | 24.00% | ~19,200 |
 | Artifact Collector | 22.00% | ~17,600 |
 | True Potential | 22.00% | ~17,600 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,400 |
 | A Tale of Origins and Endings | 2.00% | ~1,600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,000 (Ranked 96)  
+Progressed: 80,002 (Ranked 96)  
 Completed: 2,193 (2.74%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,10 +271,10 @@ Completed: 2,193 (2.74%) (Ranked 112)
 | 2023-11-22 | 79,972 | 2,193 |
 | 2023-11-23 | 79,985 | 2,193 |
 | 2023-11-24 | 79,996 | 2,193 |
-| 2023-11-25 | 80,000 | 2,193 |
+| 2023-11-25 | 80,002 | 2,193 |
 ## Awards
 Max (Great Boss Battles): 775  (Ranked 172)  
-Sum: 1,594 (Ranked 232)  
+Sum: 1,595 (Ranked 232)  
 Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): -60
 | This game has Amazing Storytelling | 106 |
 | This game has Quickly Understood Controls | 106 |
 | This game has Challenging Combat | 96 |
-| This game has Amazing Characters | 91 |
+| This game has Amazing Characters | 92 |
 | This game has Unique Visuals | 83 |
 | This game has a Creative Community | 58 |
 | This game has Obsessive Gameplay | 53 |
@@ -413,3 +413,4 @@ Diff (max vs sum): -60
 | 2023-11-18 | 4.51 | - | 775 | 1,592 |
 | 2023-11-21 | 4.51 | - | 775 | 1,593 |
 | 2023-11-22 | 4.51 | - | 775 | 1,594 |
+| 2023-11-25 | 4.51 | - | 775 | 1,595 |

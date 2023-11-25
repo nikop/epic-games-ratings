@@ -7,16 +7,16 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Me and My Familiar | 3.00% | ~45 |
+| Gotta Ca... Must Collect All of Them | 3.00% | ~45 |
 | This Too Shall Pass | 3.00% | ~45 |
 | The Cost of Heroism | 3.00% | ~45 |
-| Gotta Ca... Must Collect All of Them | 2.00% | ~30 |
+| Cutthroat Competitors | 3.00% | ~45 |
 | Passing Shadow | 2.00% | ~30 |
+| Completing the Look | 2.00% | ~30 |
 | How Romantic! | 2.00% | ~30 |
-| Cutthroat Competitors | 2.00% | ~30 |
 | War Endured | 2.00% | ~30 |
 | Daybreak | 2.00% | ~30 |
 | Core Failure | 2.00% | ~30 |
-| Completing the Look | 1.00% | ~15 |
 | Who's Counting? | 1.00% | ~15 |
 | A Mythic Menagerie | 0.90% | ~13 |
 | Let Me Get My Chisel | 0.90% | ~13 |
@@ -41,6 +41,7 @@ Number of Ratings: 45  (23.09.2022)
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
+| Lochias's Hunger | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
 | Overwhelming Monstrosity | 0.10% | ~1 |
 | Worldwalker | 0.10% | ~1 |
@@ -52,7 +53,6 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 0.10% | ~1 |
 | Some Say I'm Too Flashy | 0.10% | ~1 |
 | Tempest | 0.10% | ~1 |
-| Lochias's Hunger | 0.10% | ~1 |
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,484 (Ranked 241)  
+Progressed: 1,486 (Ranked 241)  
 Completed: 6 (0.40%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 6 (0.40%) (Ranked 218)
 | 2023-11-21 | 1,479 | 6 |
 | 2023-11-22 | 1,480 | 6 |
 | 2023-11-23 | 1,484 | 6 |
+| 2023-11-25 | 1,486 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 500)  
 Sum: 29 (Ranked 514)  

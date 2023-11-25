@@ -6,9 +6,9 @@
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29058,
+  "EOS_Progressed": 29064,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24816,6 +24816,11 @@
       "Time": "2023-11-25T03:09:19.9671326+00:00",
       "NumProgressed": 29058,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-25T04:08:59.4121748+00:00",
+      "NumProgressed": 29064,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24835,7 +24840,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "1017",
@@ -24843,7 +24848,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "1018",
@@ -24883,7 +24888,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "1023",
@@ -24923,7 +24928,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "1028",
@@ -24931,7 +24936,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5232
     },
     {
       "ID": "1029",
@@ -24947,7 +24952,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5813
     },
     {
       "ID": "1031",
@@ -24955,7 +24960,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "1032",
@@ -24963,7 +24968,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11623
+      "UsersEstimate": 11626
     },
     {
       "ID": "1033",
@@ -25002,15 +25007,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29058,
+      "Progressed": 29064,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:09:19.967132+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:08:59.4121743+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:03:13.2543284+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:09:19.967254+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:02:55.3630285+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:08:59.4122976+00:00"
 }

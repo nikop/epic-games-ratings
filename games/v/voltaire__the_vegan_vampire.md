@@ -10,8 +10,8 @@
 | Irrigation not irritation | 37.00% | ~42 |
 | Graduated | 33.00% | ~38 |
 | Night Shift | 23.00% | ~26 |
+| Ay ay yarrr! | 18.00% | ~21 |
 | Shine bright | 17.00% | ~19 |
-| Ay ay yarrr! | 17.00% | ~19 |
 | It's about the journey | 12.00% | ~14 |
 | C'who? | 11.00% | ~13 |
 | There be sand in me shorts | 11.00% | ~13 |
@@ -37,7 +37,7 @@
 | Daddy Issues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 114 (Ranked 421)  
-Completed: 0 (0.00%) (Ranked 359)  
+Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

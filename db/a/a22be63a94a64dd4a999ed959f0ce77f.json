@@ -3,9 +3,9 @@
   "Name": "John Carpenter\u2019s Toxic Commando",
   "ProductSlug": "john-carpenters-toxic-commando",
   "Ranking_EOS_Progress": 759,
-  "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 360,
+  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -38,8 +38,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-02T20:05:05.4582255+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:05:15.5202446+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:05:11.3713868+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.654969+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:58:29.0862024+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:05:15.5202486+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:58:32.6142084+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:05:11.3713896+00:00"
 }

@@ -137,6 +137,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Networking | 0.10% | ~463 |
 | No Country for Old Tercios | 0.10% | ~463 |
 | No Pirates in my Caribbean | 0.10% | ~463 |
+| No Trail of Tears | 0.10% | ~463 |
 | Nobody wants to die | 0.10% | ~463 |
 | Not just Pizza | 0.10% | ~463 |
 | Not so sad a state... | 0.10% | ~463 |
@@ -311,7 +312,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
 | New, New Deli | 0.00% | ~0 |
-| No Trail of Tears | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,829 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 359)  
+Progressed: 462,882 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -589,7 +589,7 @@ Completed: 1 (0.00%) (Ranked 359)
 | 2023-11-22 | 461,499 | 1 |
 | 2023-11-23 | 462,094 | 1 |
 | 2023-11-24 | 462,785 | 1 |
-| 2023-11-25 | 462,829 | 1 |
+| 2023-11-25 | 462,882 | 1 |
 ## Awards
 Max (Educational): 7,144  (Ranked 54)  
 Sum: 58,795 (Ranked 24)  

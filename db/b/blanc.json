@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2973,
+  "EOS_Progressed": 2977,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4316,6 +4316,11 @@
       "Time": "2023-11-25T03:04:44.8280804+00:00",
       "NumProgressed": 2973,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-25T04:04:38.3169997+00:00",
+      "NumProgressed": 2977,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4343,7 +4348,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -4357,9 +4362,9 @@
       "ID": "MOVE_ON",
       "SetID": "1a29mp6",
       "Name": "The will to move on",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 238
     },
     {
       "ID": "REUNION",
@@ -4391,7 +4396,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4399,7 +4404,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "THE_END",
@@ -4415,7 +4420,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4423,14 +4428,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2973,
+      "Progressed": 2977,
       "Completed": 6
     }
   ],
@@ -4438,8 +4443,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:04:44.8280799+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:04:38.3169993+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:17.4994195+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:57:28.2415607+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:04:44.8281084+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:57:25.7438578+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:04:38.3170271+00:00"
 }

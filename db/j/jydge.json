@@ -2,10 +2,10 @@
   "ID": "18567c7914ad48f594fd4b6e4c710b9f",
   "Name": "JYDGE",
   "ProductSlug": "jydge-14242d",
-  "Ranking_EOS_Progress": 584,
-  "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 580,
+  "Ranking_EOS_Completed": 360,
+  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-27T10:00:00+00:00",
     "PcReleaseDate": "2017-10-03T23:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -106,6 +106,11 @@
       "Time": "2023-11-05T07:06:23.3156562+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T04:06:21.6523556+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -115,7 +120,7 @@
       "ID": "ACT_1",
       "SetID": "7e5mm2p",
       "Name": "The Dawn of Jydgement",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 60,
       "UsersEstimate": 5
     },
@@ -123,7 +128,7 @@
       "ID": "ACT_2",
       "SetID": "7e5mm2p",
       "Name": "The Jydgement Day",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -195,7 +200,7 @@
       "ID": "SAVIOR",
       "SetID": "7e5mm2p",
       "Name": "Savior",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -203,9 +208,9 @@
       "ID": "THREE_MEDALS",
       "SetID": "7e5mm2p",
       "Name": "Mission Mastered",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "UPGRADE_FIREMODES",
@@ -236,7 +241,7 @@
     {
       "ID": "7e5mm2p",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
@@ -244,8 +249,8 @@
   "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:06:18.7414231+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:06:21.6523552+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:09.7655289+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:59:08.4348548+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:06:18.7414325+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:59:16.63385+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:06:21.6523644+00:00"
 }

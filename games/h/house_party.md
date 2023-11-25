@@ -37,13 +37,13 @@ Number of Ratings: 177  (23.09.2022)
 | Deck the Balls | 0.50% | ~18 |
 | Love Conquers All | 0.50% | ~33 |
 | Ashley | 0.40% | ~26 |
+| Rachael | 0.40% | ~26 |
 | Good Ol' Days | 0.40% | ~26 |
 | The Bride | 0.30% | ~20 |
 | Drunk and Disorderly: Madison | 0.30% | ~20 |
 | Do Not Burn | 0.30% | ~20 |
 | First Impressions | 0.30% | ~20 |
 | Rule 34 | 0.30% | ~20 |
-| Rachael | 0.30% | ~20 |
 | The Muse: Derek | 0.30% | ~20 |
 | The Elder Brahs | 0.30% | ~20 |
 | Beyond the Call of Dude-y | 0.20% | ~13 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,503 (Ranked 183)  
-Completed: 3 (0.05%) (Ranked 308)  
+Progressed: 6,504 (Ranked 183)  
+Completed: 3 (0.05%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,7 +287,7 @@ Completed: 3 (0.05%) (Ranked 308)
 | 2023-11-22 | 6,492 | 3 |
 | 2023-11-23 | 6,498 | 3 |
 | 2023-11-24 | 6,502 | 3 |
-| 2023-11-25 | 6,503 | 3 |
+| 2023-11-25 | 6,504 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

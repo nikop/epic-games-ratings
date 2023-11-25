@@ -29,7 +29,7 @@
 | Snare Specialist | 41.00% | ~132 |
 | Kemono at Heart | 40.00% | ~129 |
 | Karakuri Trail | 37.00% | ~119 |
-| Artful Assister | 36.00% | ~116 |
+| Artful Assister | 37.00% | ~119 |
 | Team Hunter | 35.00% | ~113 |
 | Karakuri Isle | 33.00% | ~106 |
 | Reincarnation Cycle Stopper | 32.00% | ~103 |
@@ -46,7 +46,7 @@
 | Volatile Vocation | 20.00% | ~64 |
 | Haven Hunter | 20.00% | ~64 |
 | Tender Touch | 19.00% | ~61 |
-| Superlative View | 18.00% | ~58 |
+| Superlative View | 19.00% | ~61 |
 | Relentless Kemono Hunter | 15.00% | ~48 |
 | Vanquisher of the Volatile | 15.00% | ~48 |
 | Bewitched by Bathing | 12.00% | ~39 |

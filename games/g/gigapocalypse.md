@@ -19,17 +19,17 @@
 | Supreme Power | 46.00% | ~88 |
 | Chomp Chomp! | 46.00% | ~88 |
 | The Duelist | 43.00% | ~82 |
+| Diaper Time! | 43.00% | ~82 |
 | Target Practice | 43.00% | ~82 |
 | Glorious Battle | 42.00% | ~80 |
-| Diaper Time! | 42.00% | ~80 |
 | Meat Larder | 41.00% | ~78 |
 | Mutant And Proud | 39.00% | ~74 |
 | The Emperor's New Clothes | 33.00% | ~63 |
 | Final Evolution | 33.00% | ~63 |
 | You Shall Not Pass | 32.00% | ~61 |
+| Undying Skin | 32.00% | ~61 |
 | Happy Little Home | 32.00% | ~61 |
 | Godlike Power | 31.00% | ~59 |
-| Undying Skin | 31.00% | ~59 |
 | Animal Lover | 30.00% | ~57 |
 | Fight Me! | 30.00% | ~57 |
 | Supremacy | 30.00% | ~57 |
@@ -59,7 +59,7 @@
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 191 (Ranked 391)  
-Completed: 1 (0.52%) (Ranked 202)  
+Completed: 1 (0.52%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

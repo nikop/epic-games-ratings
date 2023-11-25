@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 90.00% | ~71 |
+| Energy Seeker | 91.00% | ~72 |
 | Lightbulb Seeker | 89.00% | ~70 |
 | Grilled Mouse | 86.00% | ~68 |
-| Lightbulbs Collector | 78.00% | ~62 |
-| Energy Collector | 75.00% | ~59 |
+| Lightbulbs Collector | 80.00% | ~63 |
+| Energy Collector | 76.00% | ~60 |
 | East Street Energy | 52.00% | ~41 |
 | Lightbulbs Expert | 47.00% | ~37 |
 | Energy Expert | 46.00% | ~36 |
 | That's one way to travel | 43.00% | ~34 |
-| The Old Man and the Café | 39.00% | ~31 |
+| The Old Man and the Café | 41.00% | ~32 |
 | South Town Energy | 33.00% | ~26 |
 | Photogenic | 30.00% | ~24 |
 | North Town Energy | 29.00% | ~23 |
@@ -46,7 +46,7 @@
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79 (Ranked 457)  
-Completed: 0 (0.00%) (Ranked 359)  
+Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

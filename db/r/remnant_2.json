@@ -6,9 +6,9 @@
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4707,10 +4707,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 227304,
-  "EOS_Completed": 515,
-  "EOS_NewPlayers": 4626,
-  "EOS_NewCompleters": 46,
+  "EOS_Progressed": 227389,
+  "EOS_Completed": 519,
+  "EOS_NewPlayers": 4690,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -19762,6 +19762,11 @@
       "Time": "2023-11-25T03:08:54.8862657+00:00",
       "NumProgressed": 227304,
       "NumCompleted": 515
+    },
+    {
+      "Time": "2023-11-25T04:08:32.338735+00:00",
+      "NumProgressed": 227389,
+      "NumCompleted": 519
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19876,9 +19881,9 @@
       "ID": "Defeat_Special_Enemies",
       "SetID": "bkp3b1a",
       "Name": "Not So Special Now",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -19892,9 +19897,9 @@
       "ID": "Defeat_World_Boss",
       "SetID": "bkp3b1a",
       "Name": "Quest for Survival",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -19924,9 +19929,9 @@
       "ID": "Meet_Flautist",
       "SetID": "bkp3b1a",
       "Name": "Familiar Face",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "Meet_Meidra",
@@ -20004,9 +20009,9 @@
       "ID": "Obtain_Boss_Weapon",
       "SetID": "bkp3b1a",
       "Name": "Boss\u0027n Up",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "Obtain_Guns_A",
@@ -20174,7 +20179,7 @@
       "Name": "Regicide",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -20182,7 +20187,7 @@
       "Name": "Succession",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -20190,7 +20195,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -20198,7 +20203,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -20206,29 +20211,29 @@
       "Name": "You Shall Pass",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 227304,
-      "Completed": 515
+      "Progressed": 227389,
+      "Completed": 519
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 6469,
-      "Completed": 150
+      "Progressed": 6554,
+      "Completed": 154
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-25T02:20:53.8619066+00:00",
-  "LastChanged_Achievements": "2023-11-25T03:08:54.8862655+00:00",
+  "LastChanged_Achievements": "2023-11-25T04:08:32.3387345+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:03:14.1657529+00:00",
-  "LastUpdate_Achievements": "2023-11-25T03:08:54.886354+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:02:56.4465996+00:00",
+  "LastUpdate_Achievements": "2023-11-25T04:08:32.3388504+00:00"
 }
