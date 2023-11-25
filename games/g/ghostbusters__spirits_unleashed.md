@@ -1,12 +1,12 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 590)  
+Rating: 4.50 (Ranked 591)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 9.00% | ~2,837 |
-| Meticulously Efficient | 7.00% | ~2,206 |
+| Meticulously Efficient | 7.00% | ~2,207 |
 | Advancement | 6.00% | ~1,891 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,576 |
 | Discovery | 5.00% | ~1,576 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 590)
 | Mycophile | 0.10% | ~32 |
 | Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,518 (Ranked 124)  
+Progressed: 31,523 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 69 (0.22%) (Ranked 251)
 | 2023-11-22 | 31,398 | 68 |
 | 2023-11-23 | 31,445 | 68 |
 | 2023-11-24 | 31,499 | 68 |
-| 2023-11-25 | 31,518 | 69 |
+| 2023-11-25 | 31,523 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 249)  
 Sum: 2,846 (Ranked 179)  

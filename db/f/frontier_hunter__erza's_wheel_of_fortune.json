@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 271,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -932,6 +932,11 @@
       "Time": "2023-11-25T08:05:50.2734336+00:00",
       "NumProgressed": 269,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T09:03:33.7057588+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -943,7 +948,7 @@
       "Name": "Travel Streamer",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -951,7 +956,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1031,7 +1036,7 @@
       "Name": "Training Simulation",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1039,7 +1044,7 @@
       "Name": "Cave Master",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -1071,7 +1076,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1079,7 +1084,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1087,7 +1092,7 @@
       "Name": "Master Artificer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1095,15 +1100,15 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_28",
       "SetID": "7pimpda",
       "Name": "Trader",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1111,7 +1116,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1127,7 +1132,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1199,7 +1204,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1261,9 +1266,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1271,7 +1276,7 @@
       "Name": "Flower Thief",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1279,7 +1284,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1302,7 +1307,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 271,
       "Completed": 1
     }
   ],
@@ -1310,8 +1315,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:05:50.2734332+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:03:33.7057587+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:02:37.4307922+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:05:50.2734626+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:59:55.5423651+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:03:33.7057861+00:00"
 }

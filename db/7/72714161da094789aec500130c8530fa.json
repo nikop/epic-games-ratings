@@ -2,9 +2,9 @@
   "ID": "72714161da094789aec500130c8530fa",
   "Name": "SPACE WAR - INFINITY",
   "ProductSlug": "space-war-infinity-024a8f",
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 14.12,
+  "EOS_Completed_Percentage": 13.95,
   "EosHistory": [
     {
       "Time": "2023-08-15T16:04:17.9751205+00:00",
@@ -459,6 +459,11 @@
       "Time": "2023-11-24T19:07:06.2628057+00:00",
       "NumProgressed": 85,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-25T09:06:09.4053272+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-09T13:13:29.9534063+00:00",
@@ -469,9 +474,9 @@
       "ID": "_armor_v2",
       "SetID": "2d5739o",
       "Name": "Armor v2",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "_armor_v3",
@@ -503,31 +508,31 @@
       "Name": "Bomb",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "_bomb_m2",
       "SetID": "2d5739o",
       "Name": "Bomb m2",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "_bomb_m3",
       "SetID": "2d5739o",
       "Name": "Bomb m3",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_cannon",
       "SetID": "2d5739o",
       "Name": "Cannon",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "_cannon_sentinel",
@@ -541,9 +546,9 @@
       "ID": "_destroyer",
       "SetID": "2d5739o",
       "Name": "Destroyer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_double_item",
@@ -573,7 +578,7 @@
       "ID": "_forcefield",
       "SetID": "2d5739o",
       "Name": "Forcefield",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -581,9 +586,9 @@
       "ID": "_grenade",
       "SetID": "2d5739o",
       "Name": "Grenade",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_heavy_laser",
@@ -613,15 +618,15 @@
       "ID": "_laser",
       "SetID": "2d5739o",
       "Name": "Laser",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_laser_enemy",
       "SetID": "2d5739o",
       "Name": "Laser enemy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -647,15 +652,15 @@
       "Name": "Machinegun",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "_magnet",
       "SetID": "2d5739o",
       "Name": "Magnet",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "_minigun",
@@ -669,9 +674,9 @@
       "ID": "_missile",
       "SetID": "2d5739o",
       "Name": "Missile",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "_mothership",
@@ -685,9 +690,9 @@
       "ID": "_orbpack",
       "SetID": "2d5739o",
       "Name": "Orb pack",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_plasma",
@@ -725,17 +730,17 @@
       "ID": "_sentinel",
       "SetID": "2d5739o",
       "Name": "Sentinel",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_shield",
       "SetID": "2d5739o",
       "Name": "Shield",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_shotgun",
@@ -743,7 +748,7 @@
       "Name": "Shotgun",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "_slow_bullets",
@@ -765,17 +770,17 @@
       "ID": "_spc_v2",
       "SetID": "2d5739o",
       "Name": "SPC v2",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "_spc_v3",
       "SetID": "2d5739o",
       "Name": "SPC v3",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "_spc_v4",
@@ -799,7 +804,7 @@
       "Name": "2X Orb",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "_x2score",
@@ -807,21 +812,21 @@
       "Name": "2X Score",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "2d5739o",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:09:11.646934+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:06:09.4053269+00:00",
   "LastUpdate_AppInfo": "2023-11-22T21:57:10.0551085+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:59:34.9008685+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:09:11.646959+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:57:37.5600647+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:06:09.4053562+00:00"
 }

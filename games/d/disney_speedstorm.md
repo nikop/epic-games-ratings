@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,241 |
-| IT MAKES BOOM! | 7.00% | ~21,790 |
-| EXTRA BOOST | 5.00% | ~15,564 |
-| PROTECTED | 4.00% | ~12,451 |
-| PRO | 4.00% | ~12,451 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,339 |
-| AGGRESSIVE RACER | 3.00% | ~9,339 |
-| A TIGER'S FEAR | 2.00% | ~6,226 |
+| ROOKIE | 11.00% | ~34,246 |
+| IT MAKES BOOM! | 7.00% | ~21,793 |
+| EXTRA BOOST | 5.00% | ~15,566 |
+| PROTECTED | 4.00% | ~12,453 |
+| PRO | 4.00% | ~12,453 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,340 |
+| AGGRESSIVE RACER | 3.00% | ~9,340 |
+| A TIGER'S FEAR | 2.00% | ~6,227 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,113 |
 | ACE SPEEDSTER | 1.00% | ~3,113 |
 | RELEASE THE KRAKEN | 0.90% | ~2,802 |
 | MASTER | 0.90% | ~2,802 |
 | LEGENDARY HERO | 0.90% | ~2,802 |
-| TRAINING HARD | 0.80% | ~2,490 |
-| BE OUR GUEST | 0.80% | ~2,490 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,490 |
-| FRIENDLY | 0.80% | ~2,490 |
+| TRAINING HARD | 0.80% | ~2,491 |
+| BE OUR GUEST | 0.80% | ~2,491 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,491 |
+| FRIENDLY | 0.80% | ~2,491 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,179 |
 | EXPERIENCED CREW | 0.60% | ~1,868 |
 | ACE BRAWLER | 0.40% | ~1,245 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 747)
 | ACE TRICKSTER | 0.30% | ~934 |
 | PERFECTLY POISED | 0.20% | ~623 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311,285 (Ranked 52)  
+Progressed: 311,328 (Ranked 52)  
 Completed: 329 (0.11%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,11 +245,11 @@ Completed: 329 (0.11%) (Ranked 278)
 | 2023-11-22 | 308,028 | 320 |
 | 2023-11-23 | 309,325 | 322 |
 | 2023-11-24 | 310,756 | 327 |
-| 2023-11-25 | 311,285 | 329 |
+| 2023-11-25 | 311,328 | 329 |
 ## Awards
-Max (Great for Beginners): 83  (Ranked 386)  
+Max (Great for Beginners): 83  (Ranked 387)  
 Sum: 635 (Ranked 309)  
-Diff (max vs sum): 77  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 83 |

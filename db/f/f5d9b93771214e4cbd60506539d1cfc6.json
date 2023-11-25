@@ -233,7 +233,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154169,
+  "EOS_Progressed": 154172,
   "EOS_Completed": 342,
   "EOS_NewPlayers": 957,
   "EOS_NewCompleters": 8,
@@ -19343,6 +19343,11 @@
       "Time": "2023-11-25T08:05:46.5976533+00:00",
       "NumProgressed": 154169,
       "NumCompleted": 342
+    },
+    {
+      "Time": "2023-11-25T09:03:30.9228116+00:00",
+      "NumProgressed": 154172,
+      "NumCompleted": 342
     }
   ],
   "TotalAchievements": 31,
@@ -19362,7 +19367,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 107918
+      "UsersEstimate": 107920
     },
     {
       "ID": "EAwards_10",
@@ -19378,7 +19383,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32375
+      "UsersEstimate": 32376
     },
     {
       "ID": "EAwards_12",
@@ -19402,7 +19407,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60126
+      "UsersEstimate": 60127
     },
     {
       "ID": "EAwards_15",
@@ -19410,7 +19415,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18500
+      "UsersEstimate": 18501
     },
     {
       "ID": "EAwards_16",
@@ -19426,7 +19431,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33917
+      "UsersEstimate": 33918
     },
     {
       "ID": "EAwards_18",
@@ -19434,7 +19439,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33917
+      "UsersEstimate": 33918
     },
     {
       "ID": "EAwards_19",
@@ -19450,7 +19455,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43167
+      "UsersEstimate": 43168
     },
     {
       "ID": "EAwards_20",
@@ -19490,7 +19495,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7708
+      "UsersEstimate": 7709
     },
     {
       "ID": "EAwards_25",
@@ -19538,7 +19543,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 29292
+      "UsersEstimate": 29293
     },
     {
       "ID": "EAwards_30",
@@ -19554,7 +19559,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23125
+      "UsersEstimate": 23126
     },
     {
       "ID": "EAwards_5",
@@ -19562,7 +19567,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18500
+      "UsersEstimate": 18501
     },
     {
       "ID": "EAwards_6",
@@ -19570,7 +19575,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 38542
+      "UsersEstimate": 38543
     },
     {
       "ID": "EAwards_7",
@@ -19586,7 +19591,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 58584
+      "UsersEstimate": 58585
     },
     {
       "ID": "EAwards_9",
@@ -19594,14 +19599,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18500
+      "UsersEstimate": 18501
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 154169,
+      "Progressed": 154172,
       "Completed": 342
     }
   ],
@@ -19609,8 +19614,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:05:46.597653+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:03:30.9228114+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.3123546+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:00:31.1736865+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:05:46.597769+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:58:20.6329149+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:03:30.9229062+00:00"
 }

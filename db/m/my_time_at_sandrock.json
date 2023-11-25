@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -4222,9 +4222,9 @@
       "ID": "F_DUEL_PEN",
       "SetID": "80dcan0",
       "Name": "Strong Arms",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "F_MONSTER_ELITE",
@@ -4238,9 +4238,9 @@
       "ID": "F_RUIN_S_ALL",
       "SetID": "80dcan0",
       "Name": "Super Spelunker",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 370
     },
     {
       "ID": "M_ASSEMBLER_DIAGRAM",
@@ -4350,9 +4350,9 @@
       "ID": "P_FOREST",
       "SetID": "80dcan0",
       "Name": "The Little Wood that Could",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 269
     },
     {
       "ID": "P_HYDROGEL",
@@ -4470,9 +4470,9 @@
       "ID": "S_CHAT",
       "SetID": "80dcan0",
       "Name": "Chatterbox",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 245
     },
     {
       "ID": "S_DANCE",
@@ -4630,9 +4630,9 @@
       "ID": "X_GET_FECE",
       "SetID": "80dcan0",
       "Name": "Waste Not Want Not",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 199
     },
     {
       "ID": "X_KICK",
@@ -4662,8 +4662,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-24T23:00:01.9879403+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:06:39.8898267+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:04:12.2487241+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:18.4533523+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:04:34.5685751+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:06:39.8898736+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:02:36.2209428+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:04:12.2487842+00:00"
 }

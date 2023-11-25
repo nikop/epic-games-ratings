@@ -1,46 +1,46 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.50 (Ranked 590)  
+Rating: 4.50 (Ranked 591)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,560 |
-| For Saw Gerrera | 98.00% | ~8,473 |
-| Grab Some Seat | 91.00% | ~7,868 |
-| Can You Pet the Bogling? | 87.00% | ~7,522 |
-| The Past Made Present | 83.00% | ~7,176 |
-| Survivors, We Adapt | 79.00% | ~6,830 |
-| Among the Masters | 78.00% | ~6,744 |
-| They Never Saw It Coming | 77.00% | ~6,657 |
-| Who Gives a Puck | 74.00% | ~6,398 |
-| For the Path | 66.00% | ~5,706 |
-| Now, This Isn't Podracing | 65.00% | ~5,620 |
-| Mirror Match | 64.00% | ~5,533 |
-| Skywalker | 62.00% | ~5,361 |
-| Out of Bedlam | 61.00% | ~5,274 |
-| Cleaning Up | 54.00% | ~4,669 |
-| Tanalorr Bound | 53.00% | ~4,582 |
-| Kitted Out | 52.00% | ~4,496 |
-| Tragedy | 51.00% | ~4,409 |
-| Hey, Luke At Us | 50.00% | ~4,323 |
-| At the Precipice | 49.00% | ~4,237 |
-| Into the Abyss | 48.00% | ~4,150 |
-| A Place You Could Call Home | 46.00% | ~3,977 |
-| Riposte | 46.00% | ~3,977 |
-| Greezy Money | 44.00% | ~3,804 |
-| Catch! | 41.00% | ~3,545 |
-| They're Probably Fine | 40.00% | ~3,458 |
-| Han Slowlo | 38.00% | ~3,285 |
-| There Is No Try | 37.00% | ~3,199 |
-| The Jedi Path | 32.00% | ~2,767 |
-| This Is Canon | 29.00% | ~2,507 |
-| It's a Trap | 26.00% | ~2,248 |
+| Rooftop Duel | 99.00% | ~8,563 |
+| For Saw Gerrera | 98.00% | ~8,476 |
+| Grab Some Seat | 91.00% | ~7,871 |
+| Can You Pet the Bogling? | 87.00% | ~7,525 |
+| The Past Made Present | 83.00% | ~7,179 |
+| Survivors, We Adapt | 79.00% | ~6,833 |
+| Among the Masters | 78.00% | ~6,746 |
+| They Never Saw It Coming | 77.00% | ~6,660 |
+| Who Gives a Puck | 74.00% | ~6,400 |
+| For the Path | 66.00% | ~5,708 |
+| Now, This Isn't Podracing | 65.00% | ~5,622 |
+| Mirror Match | 64.00% | ~5,535 |
+| Skywalker | 62.00% | ~5,362 |
+| Out of Bedlam | 61.00% | ~5,276 |
+| Cleaning Up | 54.00% | ~4,670 |
+| Tanalorr Bound | 53.00% | ~4,584 |
+| Kitted Out | 52.00% | ~4,497 |
+| Tragedy | 51.00% | ~4,411 |
+| Hey, Luke At Us | 50.00% | ~4,324 |
+| At the Precipice | 49.00% | ~4,238 |
+| Into the Abyss | 48.00% | ~4,152 |
+| A Place You Could Call Home | 46.00% | ~3,979 |
+| Riposte | 46.00% | ~3,979 |
+| Greezy Money | 44.00% | ~3,806 |
+| Catch! | 41.00% | ~3,546 |
+| They're Probably Fine | 40.00% | ~3,460 |
+| Han Slowlo | 38.00% | ~3,287 |
+| There Is No Try | 37.00% | ~3,200 |
+| The Jedi Path | 32.00% | ~2,768 |
+| This Is Canon | 29.00% | ~2,508 |
+| It's a Trap | 26.00% | ~2,249 |
 | You've Got A Friend | 23.00% | ~1,989 |
-| King of the World | 16.00% | ~1,383 |
+| King of the World | 16.00% | ~1,384 |
 | Reconnaissance | 15.00% | ~1,297 |
-| Max Capacity | 14.00% | ~1,210 |
-| A Presence I've Not Felt Since... | 14.00% | ~1,210 |
+| Max Capacity | 14.00% | ~1,211 |
+| A Presence I've Not Felt Since... | 14.00% | ~1,211 |
 | Slam Dunk | 12.00% | ~1,038 |
 | Star Tours | 11.00% | ~951 |
 | Caij Match | 10.00% | ~865 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 590)
 | Blood, Sweat, and Tears | 3.00% | ~259 |
 | Pinpoint | 2.00% | ~173 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,646 (Ranked 171)  
+Progressed: 8,649 (Ranked 171)  
 Completed: 51 (0.59%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,10 +129,10 @@ Completed: 51 (0.59%) (Ranked 191)
 | 2023-11-22 | 8,487 | 49 |
 | 2023-11-23 | 8,549 | 51 |
 | 2023-11-24 | 8,616 | 51 |
-| 2023-11-25 | 8,646 | 51 |
+| 2023-11-25 | 8,649 | 51 |
 ## Awards
 Max (Great Boss Battles): 3,310  (Ranked 96)  
-Sum: 5,105 (Ranked 138)  
+Sum: 5,109 (Ranked 138)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -144,7 +144,7 @@ Diff (max vs sum): -42
 | This game is Highly Recommended | 201 |
 | This game is Relaxing | 200 |
 | This game is Extremely Fun | 199 |
-| This game has Challenging Combat | 194 |
+| This game has Challenging Combat | 198 |
 | This game has a Creative Community | 131 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -358,4 +358,4 @@ Diff (max vs sum): -42
 | 2023-11-22 | 4.50 | 3,293 | 5,062 |
 | 2023-11-23 | 4.50 | 3,300 | 5,083 |
 | 2023-11-24 | 4.50 | 3,310 | 5,099 |
-| 2023-11-25 | 4.50 | 3,310 | 5,105 |
+| 2023-11-25 | 4.50 | 3,310 | 5,109 |

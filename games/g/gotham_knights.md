@@ -5,44 +5,44 @@ Rating: 4.18 (Ranked 933)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,301 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,971 |
-| Loose Ends | 34.00% | ~26,201 |
-| To the Victor Go the Spoils | 28.00% | ~21,577 |
-| Knighthood | 27.00% | ~20,806 |
-| Get ReQ'd | 25.00% | ~19,265 |
-| Whispered Words | 25.00% | ~19,265 |
-| The Batman Family | 23.00% | ~17,724 |
-| Lock and Key | 22.00% | ~16,953 |
+| First Step Into the Knight | 51.00% | ~39,303 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,972 |
+| Loose Ends | 34.00% | ~26,202 |
+| To the Victor Go the Spoils | 28.00% | ~21,578 |
+| Knighthood | 27.00% | ~20,807 |
+| Get ReQ'd | 25.00% | ~19,266 |
+| Whispered Words | 25.00% | ~19,266 |
+| The Batman Family | 23.00% | ~17,725 |
+| Lock and Key | 22.00% | ~16,954 |
 | Something in the Clay | 21.00% | ~16,183 |
-| Quartzer Life Crisis | 20.00% | ~15,412 |
-| Working Hard or Harley Working? | 20.00% | ~15,412 |
-| Unstoppable Force | 20.00% | ~15,412 |
-| Bad Apples in Every Orchard | 20.00% | ~15,412 |
+| Quartzer Life Crisis | 20.00% | ~15,413 |
+| Working Hard or Harley Working? | 20.00% | ~15,413 |
+| Unstoppable Force | 20.00% | ~15,413 |
+| Bad Apples in Every Orchard | 20.00% | ~15,413 |
 | Snow Problem | 19.00% | ~14,642 |
-| The Show Mud Go On | 18.00% | ~13,871 |
-| From Inside Gotham's Walls | 18.00% | ~13,871 |
-| Protector of Gotham | 17.00% | ~13,100 |
+| The Show Mud Go On | 18.00% | ~13,872 |
+| From Inside Gotham's Walls | 18.00% | ~13,872 |
+| Protector of Gotham | 17.00% | ~13,101 |
 | Universal Health Scare | 16.00% | ~12,330 |
-| In Your Element | 15.00% | ~11,559 |
-| Voiceless | 15.00% | ~11,559 |
+| In Your Element | 15.00% | ~11,560 |
+| Voiceless | 15.00% | ~11,560 |
 | Rock and a Hard Place | 14.00% | ~10,789 |
 | Cooldown | 14.00% | ~10,789 |
 | Seeking Asylum | 14.00% | ~10,789 |
 | Not On My Watch | 13.00% | ~10,018 |
 | Shock Til They Drop | 13.00% | ~10,018 |
-| End of an Era | 12.00% | ~9,247 |
-| Bulldozed | 12.00% | ~9,247 |
-| Gotham Knight | 12.00% | ~9,247 |
+| End of an Era | 12.00% | ~9,248 |
+| Bulldozed | 12.00% | ~9,248 |
+| Gotham Knight | 12.00% | ~9,248 |
 | Gotham City Confidential | 11.00% | ~8,477 |
 | Drone You Out | 10.00% | ~7,706 |
-| Out of Their League | 9.00% | ~6,935 |
-| Solid Alibi | 9.00% | ~6,935 |
+| Out of Their League | 9.00% | ~6,936 |
+| Solid Alibi | 9.00% | ~6,936 |
 | Fusion Expert | 7.00% | ~5,394 |
 | Expert Crime Fighter | 6.00% | ~4,624 |
 | Family Meeting | 6.00% | ~4,624 |
 | A Worthy Successor | 6.00% | ~4,624 |
-| Dressed to Impress | 4.00% | ~3,082 |
+| Dressed to Impress | 4.00% | ~3,083 |
 | A Momentum Occasion | 3.00% | ~2,312 |
 | Bat Out of Hell | 3.00% | ~2,312 |
 | Practice Makes Perfect | 2.00% | ~1,541 |
@@ -52,7 +52,7 @@ Rating: 4.18 (Ranked 933)
 | Batarang Collector | 1.00% | ~771 |
 | Claiming the Mural High Ground | 1.00% | ~771 |
 | Icebreaker | 0.80% | ~379 |
-| History Major | 0.80% | ~616 |
+| History Major | 0.80% | ~617 |
 | A Sophisticated Mallet | 0.80% | ~379 |
 | Read Owl About It | 0.70% | ~539 |
 | Gotham's Greatest Depths | 0.60% | ~284 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 933)
 | Element of Surprise | 0.20% | ~95 |
 | It's Nice to Be Wanted | 0.20% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,061 (Ranked 99)  
+Progressed: 77,064 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,19 +286,19 @@ Completed: 124 (0.16%) (Ranked 268)
 | 2023-11-22 | 76,865 | 124 |
 | 2023-11-23 | 76,938 | 124 |
 | 2023-11-24 | 77,028 | 124 |
-| 2023-11-25 | 77,061 | 124 |
+| 2023-11-25 | 77,064 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,970  (Ranked 98)  
-Sum: 5,054 (Ranked 140)  
+Sum: 5,056 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,970 |
 | This game is Extremely Fun | 265 |
 | This game has Diverse Characters | 265 |
+| This game is Relaxing | 264 |
 | This game has Quickly Understood Controls | 262 |
 | This game is Great for Beginners | 262 |
-| This game is Relaxing | 262 |
 | This game has Amazing Characters | 258 |
 | This game is Highly Recommended | 257 |
 | This game has Amazing Storytelling | 253 |
@@ -579,4 +579,4 @@ Diff (max vs sum): -42
 | 2023-11-22 | 4.19 | 2,963 | 5,042 |
 | 2023-11-23 | 4.19 | 2,966 | 5,048 |
 | 2023-11-24 | 4.19 | 2,970 | 5,054 |
-| 2023-11-25 | 4.18 | 2,970 | 5,054 |
+| 2023-11-25 | 4.18 | 2,970 | 5,056 |

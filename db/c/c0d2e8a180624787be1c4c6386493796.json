@@ -665,9 +665,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -745,9 +745,9 @@
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
       "SetID": "caeik3h",
       "Name": "Presto Logs",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_MERCENARIES",
@@ -865,9 +865,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -969,9 +969,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
       "SetID": "caeik3h",
       "Name": "Lord of Winter",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
@@ -992,8 +992,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:09:17.5048498+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:06:14.1750373+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:00:56.0847852+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:09:17.5049051+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:58:39.2280223+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:06:14.175091+00:00"
 }

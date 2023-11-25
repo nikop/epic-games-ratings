@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1136,
+  "EOS_Progressed": 1137,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1560,6 +1560,11 @@
       "Time": "2023-11-25T06:06:18.4735151+00:00",
       "NumProgressed": 1136,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T09:05:28.9784409+00:00",
+      "NumProgressed": 1137,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1603,7 +1608,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "06",
@@ -1611,7 +1616,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "07",
@@ -1619,7 +1624,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "08",
@@ -1627,7 +1632,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "09",
@@ -1635,7 +1640,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "10",
@@ -1697,9 +1702,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 704
+      "UsersEstimate": 694
     },
     {
       "ID": "18",
@@ -1739,7 +1744,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "23",
@@ -1747,14 +1752,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1136,
+      "Progressed": 1137,
       "Completed": 1
     }
   ],
@@ -1762,8 +1767,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-11-08T19:00:27.8145289+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:08:20.1161822+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:05:28.9784406+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:21.2319809+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:58:36.4798432+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:08:20.1162023+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:56:53.9456122+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:05:28.9784603+00:00"
 }

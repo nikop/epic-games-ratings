@@ -31,7 +31,7 @@ Rating: 3.95 (Ranked 1,012)
 | Savvy Seeker | 0.40% | ~366 |
 | Olympus Ascended | 0.40% | ~366 |
 | Ding Dong | 0.40% | ~366 |
-| All that Glitters | 0.40% | ~79 |
+| All that Glitters | 0.40% | ~80 |
 | Rockay Raider | 0.30% | ~275 |
 | Groundhog Days | 0.30% | ~275 |
 | Cracked the Jack | 0.30% | ~275 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,012)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,527 (Ranked 92)  
+Progressed: 91,530 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 57 (0.06%) (Ranked 303)
 | 2023-11-22 | 91,428 | 57 |
 | 2023-11-23 | 91,464 | 57 |
 | 2023-11-24 | 91,512 | 57 |
-| 2023-11-25 | 91,527 | 57 |
+| 2023-11-25 | 91,530 | 57 |
 ## Awards
 Max (Diverse Characters): 544  (Ranked 205)  
-Sum: 3,096 (Ranked 176)  
+Sum: 3,099 (Ranked 176)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -277,8 +277,8 @@ Diff (max vs sum): 29
 | This game is Highly Recommended | 532 |
 | This game has Quickly Understood Controls | 517 |
 | This game has Challenging Combat | 509 |
+| This game is Extremely Fun | 499 |
 | This game has Amazing Characters | 498 |
-| This game is Extremely Fun | 496 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -522,4 +522,4 @@ Diff (max vs sum): 29
 | 2023-11-22 | 3.95 | 542 | 3,083 |
 | 2023-11-23 | 3.95 | 542 | 3,087 |
 | 2023-11-24 | 3.95 | 544 | 3,091 |
-| 2023-11-25 | 3.95 | 544 | 3,096 |
+| 2023-11-25 | 3.95 | 544 | 3,099 |

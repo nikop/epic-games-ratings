@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8243,
+  "EOS_Progressed": 8244,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7227,6 +7227,11 @@
       "Time": "2023-11-25T07:09:49.4361349+00:00",
       "NumProgressed": 8243,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T09:09:22.0039368+00:00",
+      "NumProgressed": 8244,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7359,7 +7364,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "GamesPlayed10",
@@ -7663,7 +7668,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "PlayerKills10",
@@ -7799,7 +7804,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "TSUPurchased1",
@@ -7830,7 +7835,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8243,
+      "Progressed": 8244,
       "Completed": 1
     }
   ],
@@ -7838,8 +7843,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-24T13:07:54.0480111+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:12:00.927858+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:09:22.0039365+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:04:46.7632721+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:12:00.9279455+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:02:45.8149144+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:09:22.0040421+00:00"
 }

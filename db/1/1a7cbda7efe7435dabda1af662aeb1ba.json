@@ -243,9 +243,9 @@
       "ID": "BOSS_KILL7",
       "SetID": "1icc7kd",
       "Name": "Green Thumb",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BOSS_KILL8",
@@ -355,9 +355,9 @@
       "ID": "STORY2",
       "SetID": "1icc7kd",
       "Name": "Eviction",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "STORY3",
@@ -410,8 +410,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:11:38.8411162+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:09:04.3445049+00:00",
   "LastUpdate_AppInfo": "2023-11-22T09:57:07.1061537+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:02:55.9678205+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:11:38.8411318+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:00:09.7858139+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:09:04.3445221+00:00"
 }

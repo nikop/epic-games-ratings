@@ -849,9 +849,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "AchvBombStop",
@@ -913,9 +913,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "AchvKrautaAlive",
@@ -993,9 +993,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "AchvReachCamp",
@@ -1041,9 +1041,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 55,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "AchvUnity",
@@ -1064,8 +1064,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:10:41.7115221+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:08:19.7046828+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:03:00.9790254+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:10:41.7115431+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:00:14.0581172+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:08:19.7047032+00:00"
 }

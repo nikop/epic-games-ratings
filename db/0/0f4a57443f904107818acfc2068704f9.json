@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 129,
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 566,
+  "EOS_Progressed": 569,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
@@ -1147,6 +1147,11 @@
       "Time": "2023-11-25T08:08:44.8374143+00:00",
       "NumProgressed": 566,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T09:05:48.3569775+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1167,7 +1172,7 @@
       "Name": "Territorial",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1215,7 +1220,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 410
     },
     {
       "ID": "CompleteChapter10",
@@ -1231,7 +1236,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CompleteChapter12",
@@ -1239,7 +1244,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CompleteChapter13",
@@ -1285,17 +1290,17 @@
       "ID": "CompleteChapter17NoIdenDeath",
       "SetID": "52ail55",
       "Name": "Who Needs Reinforcements?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter2",
@@ -1303,7 +1308,7 @@
       "Name": "Met the Enemy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "CompleteChapter3",
@@ -1311,7 +1316,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "CompleteChapter4",
@@ -1319,7 +1324,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "CompleteChapter5",
@@ -1327,7 +1332,7 @@
       "Name": "Breathing Easy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "CompleteChapter6",
@@ -1407,7 +1412,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1454,14 +1459,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 566,
+      "Progressed": 569,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:08:44.8374139+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:05:48.3569773+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:01:03.6656258+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:08:44.8374372+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:58:45.0523727+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:05:48.3569988+00:00"
 }

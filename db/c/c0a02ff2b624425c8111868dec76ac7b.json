@@ -2,9 +2,9 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -234,6 +234,11 @@
       "Time": "2023-11-25T05:07:09.9723202+00:00",
       "NumProgressed": 54,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T09:06:15.9176393+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -300,7 +305,7 @@
       "ID": "ACH_BIPOLAR_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Duality",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -308,7 +313,7 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -356,7 +361,7 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 20,
       "UsersEstimate": 46
     },
@@ -437,14 +442,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 54,
+      "Progressed": 55,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:09:19.9077793+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:06:15.917639+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:59:23.656737+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:09:19.9077926+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:57:29.2145265+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:06:15.9176515+00:00"
 }

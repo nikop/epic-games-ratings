@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Regicide | 0.50% | ~33 |
-| Master of the Dark Arts | 0.50% | ~33 |
+| Regicide | 0.50% | ~34 |
+| Master of the Dark Arts | 0.50% | ~34 |
 | The Killing Jar | 0.40% | ~910 |
 | First of Many | 0.30% | ~683 |
 | Expanding Horizons | 0.20% | ~455 |
@@ -14,6 +14,7 @@ Rating: 4.75 (Ranked 148)
 | Gleaming the Cube | 0.20% | ~455 |
 | Not So Special Now | 0.20% | ~455 |
 | Quest for Survival | 0.20% | ~455 |
+| Not a Janitor | 0.20% | ~455 |
 | Familiar Face | 0.20% | ~455 |
 | Boss'n Up | 0.20% | ~455 |
 | Not Your Average Trait | 0.20% | ~455 |
@@ -29,7 +30,6 @@ Rating: 4.75 (Ranked 148)
 | Madman's Paradise | 0.10% | ~228 |
 | Red Room | 0.10% | ~228 |
 | The Agenda | 0.10% | ~228 |
-| Not a Janitor | 0.10% | ~228 |
 | Equal Measures | 0.10% | ~228 |
 | Tall Tales | 0.10% | ~228 |
 | Blue Goddess | 0.10% | ~228 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,528 (Ranked 69)  
+Progressed: 227,549 (Ranked 69)  
 Completed: 520 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,10 +193,10 @@ Completed: 520 (0.23%) (Ranked 248)
 | 2023-11-22 | 225,927 | 503 |
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
-| 2023-11-25 | 227,528 | 520 |
+| 2023-11-25 | 227,549 | 520 |
 ## Awards
 Max (Great Boss Battles): 2,415  (Ranked 105)  
-Sum: 5,863 (Ranked 129)  
+Sum: 5,866 (Ranked 129)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -204,7 +204,7 @@ Diff (max vs sum): -24
 | This game has Diverse Characters | 393 |
 | This game is Highly Recommended | 371 |
 | This game has Challenging Combat | 368 |
-| This game is Extremely Fun | 363 |
+| This game is Extremely Fun | 366 |
 | This game has Amazing Storytelling | 358 |
 | This game is Relaxing | 353 |
 | This game has Quickly Understood Controls | 345 |
@@ -336,4 +336,4 @@ Diff (max vs sum): -24
 | 2023-11-22 | 4.75 | 2,385 | 5,732 |
 | 2023-11-23 | 4.76 | 2,401 | 5,787 |
 | 2023-11-24 | 4.75 | 2,415 | 5,845 |
-| 2023-11-25 | 4.75 | 2,415 | 5,863 |
+| 2023-11-25 | 4.75 | 2,415 | 5,866 |

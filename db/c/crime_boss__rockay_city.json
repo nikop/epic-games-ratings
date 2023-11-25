@@ -4723,10 +4723,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 3096,
       "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-11-25T09:00:09.4934889+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3099,
+      "NumberOfAwardsMax": 544
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3096,
+  "NumberOfAwards": 3099,
   "NumberOfAwardsMax": 544,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4782,12 +4788,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 496
+      "Count": 499
     }
   ],
-  "EOS_Progressed": 91527,
+  "EOS_Progressed": 91530,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26410,6 +26416,11 @@
       "Time": "2023-11-25T08:09:29.7736104+00:00",
       "NumProgressed": 91527,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-25T09:06:23.8344366+00:00",
+      "NumProgressed": 91530,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26717,7 +26728,7 @@
       "Name": "All that Glitters",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_1020",
@@ -26748,22 +26759,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91527,
+      "Progressed": 91530,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19874,
+      "Progressed": 19877,
       "Completed": 15579
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-25T04:00:19.4890164+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:09:29.77361+00:00",
+  "LastChanged": "2023-11-25T09:00:09.4934888+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:06:23.8344364+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:02:55.5943112+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:09:29.7737399+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:00:09.4934894+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:06:23.8345904+00:00"
 }

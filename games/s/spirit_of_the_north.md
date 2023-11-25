@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~51,071 |
-| INFUSED WITH LIGHT | 53.00% | ~39,805 |
-| FOXIN' AROUND | 29.00% | ~21,780 |
-| FETCH | 28.00% | ~21,029 |
-| BLOOMS OF LIGHT | 26.00% | ~19,527 |
-| AWAKEN | 22.00% | ~16,523 |
-| BEST FRIENDS | 22.00% | ~16,523 |
-| ERADICATE | 21.00% | ~15,772 |
-| SPIRIT BARK | 21.00% | ~15,772 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~51,073 |
+| INFUSED WITH LIGHT | 53.00% | ~39,807 |
+| FOXIN' AROUND | 29.00% | ~21,781 |
+| FETCH | 28.00% | ~21,030 |
+| BLOOMS OF LIGHT | 26.00% | ~19,528 |
+| AWAKEN | 22.00% | ~16,524 |
+| BEST FRIENDS | 22.00% | ~16,524 |
+| ERADICATE | 21.00% | ~15,773 |
+| SPIRIT BARK | 21.00% | ~15,773 |
 | GARDEN OF LIGHT | 18.00% | ~13,519 |
 | SPIRIT FORM | 17.00% | ~12,768 |
 | WRITTEN IN STONE | 16.00% | ~12,017 |
 | UPROOTING DARKNESS | 15.00% | ~11,266 |
-| WEIGHTLESS | 12.00% | ~9,012 |
-| SPIRIT DASH | 11.00% | ~8,261 |
-| OLD COMPANION | 9.00% | ~6,759 |
-| PLAGUE DOCTOR | 9.00% | ~6,759 |
-| MATCH MAKER | 8.00% | ~6,008 |
-| NORTHERN LIGHTS | 8.00% | ~6,008 |
-| SPIRITED AWAY | 8.00% | ~6,008 |
+| WEIGHTLESS | 12.00% | ~9,013 |
+| SPIRIT DASH | 11.00% | ~8,262 |
+| OLD COMPANION | 9.00% | ~6,760 |
+| PLAGUE DOCTOR | 9.00% | ~6,760 |
+| MATCH MAKER | 8.00% | ~6,009 |
+| NORTHERN LIGHTS | 8.00% | ~6,009 |
+| SPIRITED AWAY | 8.00% | ~6,009 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,004 |
 | ANCIENT HISTORY | 3.00% | ~2,253 |
 | NONE FORGOTTEN | 2.00% | ~1,502 |
 | KINDRED SPIRITS | 0.60% | ~451 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,104 (Ranked 100)  
+Progressed: 75,108 (Ranked 100)  
 Completed: 402 (0.54%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 402 (0.54%) (Ranked 199)
 | 2023-11-22 | 74,894 | 399 |
 | 2023-11-23 | 74,976 | 399 |
 | 2023-11-24 | 75,067 | 400 |
-| 2023-11-25 | 75,104 | 402 |
+| 2023-11-25 | 75,108 | 402 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 515)  
 Sum: 115 (Ranked 436)  

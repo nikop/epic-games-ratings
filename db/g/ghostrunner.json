@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23145,
+  "EOS_Progressed": 23146,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -25120,6 +25120,11 @@
       "Time": "2023-11-25T08:06:40.1965342+00:00",
       "NumProgressed": 23145,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-11-25T09:04:12.4904415+00:00",
+      "NumProgressed": 23146,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 45,
@@ -25219,7 +25224,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10415
+      "UsersEstimate": 10416
     },
     {
       "ID": "ICallItLuck",
@@ -25227,7 +25232,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 9952
+      "UsersEstimate": 9953
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -25235,7 +25240,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "Junkrunner",
@@ -25267,7 +25272,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17590
+      "UsersEstimate": 17591
     },
     {
       "ID": "MoreThanHuman",
@@ -25323,7 +25328,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7406
+      "UsersEstimate": 7407
     },
     {
       "ID": "PreempativeStrike",
@@ -25331,7 +25336,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "PushItToTheLimit",
@@ -25355,7 +25360,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12498
+      "UsersEstimate": 12499
     },
     {
       "ID": "RunningWild",
@@ -25395,7 +25400,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "SwordRunner",
@@ -25403,7 +25408,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 14118
+      "UsersEstimate": 14119
     },
     {
       "ID": "SwordToAGunfight",
@@ -25490,21 +25495,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 23145,
+      "Progressed": 23146,
       "Completed": 58
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 23145,
+      "Progressed": 23146,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:06:40.1965338+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:04:12.4904413+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:59:57.2120251+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:06:40.1966545+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:57:54.0947628+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:04:12.490564+00:00"
 }

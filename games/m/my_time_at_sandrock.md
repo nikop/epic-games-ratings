@@ -10,7 +10,7 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 158.00% | ~732 |
 | Greeno-B-Gone | 113.00% | ~523 |
 | Your Especially Earned Trajectory | 92.00% | ~426 |
-| Super Spelunker | 79.00% | ~366 |
+| Super Spelunker | 80.00% | ~370 |
 | No Mountain Wide Enough | 68.00% | ~315 |
 | One of the Cool Kids | 68.00% | ~315 |
 | On that Grindset | 66.00% | ~306 |
@@ -18,10 +18,10 @@ Number of Ratings: 892  (23.09.2022)
 | Can We Keep It? | 64.00% | ~296 |
 | Diamonds are Forever | 61.00% | ~282 |
 | Pack Mule | 60.00% | ~278 |
-| The Little Wood that Could | 57.00% | ~264 |
+| The Little Wood that Could | 58.00% | ~269 |
 | Unboxing | 56.00% | ~259 |
 | First Love | 54.00% | ~250 |
-| Chatterbox | 52.00% | ~241 |
+| Chatterbox | 53.00% | ~245 |
 | I Do! | 52.00% | ~241 |
 | Big Game Hunter | 50.00% | ~232 |
 | Financially Secure | 48.00% | ~222 |
@@ -36,10 +36,10 @@ Number of Ratings: 892  (23.09.2022)
 | Commissions, commissions...! | 43.00% | ~199 |
 | Better Late than Never | 43.00% | ~199 |
 | Martle's Dream | 43.00% | ~199 |
+| Waste Not Want Not | 43.00% | ~199 |
 | Finishing Touches | 42.00% | ~194 |
 | What Plants Crave | 42.00% | ~194 |
 | Officially Official | 42.00% | ~194 |
-| Waste Not Want Not | 42.00% | ~194 |
 | Knowledge is Power | 41.00% | ~190 |
 | Elementary, My Dear | 41.00% | ~190 |
 | Bridging the Gap | 40.00% | ~185 |
@@ -60,7 +60,7 @@ Number of Ratings: 892  (23.09.2022)
 | Do Your Part | 24.00% | ~111 |
 | Pro Gamer | 22.00% | ~102 |
 | Cardistry | 17.00% | ~79 |
-| Strong Arms | 12.00% | ~56 |
+| Strong Arms | 13.00% | ~60 |
 | Got the Receipt? | 12.00% | ~56 |
 | It's High Noon... | 11.00% | ~51 |
 | Jack of All Trades | 8.00% | ~37 |

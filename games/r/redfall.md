@@ -33,10 +33,10 @@ Rating: 3.45 (Ranked 1,047)
 | Silence Is Golden | 0.70% | ~12 |
 | Contingency Plans | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
+| Nice Try | 0.60% | ~11 |
 | You Clean It Up | 0.50% | ~9 |
 | Starve the Beast | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
-| Nice Try | 0.50% | ~9 |
 | Curious Finch | 0.50% | ~9 |
 | I Spit On Your Grave | 0.50% | ~9 |
 | Revelations | 0.40% | ~7 |

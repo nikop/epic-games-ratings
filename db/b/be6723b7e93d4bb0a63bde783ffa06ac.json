@@ -433,9 +433,9 @@
       "ID": "ach21",
       "SetID": "baneh2j",
       "Name": "Delicious",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach22",
@@ -584,8 +584,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:06:13.35311+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:03:51.6222779+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:17.7593441+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:59:02.7954615+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:06:13.3531302+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:57:13.5385656+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:03:51.6222968+00:00"
 }

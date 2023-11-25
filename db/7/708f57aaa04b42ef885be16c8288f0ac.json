@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6368,
+  "EOS_Progressed": 6372,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 876,
+  "EOS_NewPlayers": 879,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4409,6 +4409,11 @@
       "Time": "2023-11-25T08:11:32.2758077+00:00",
       "NumProgressed": 6368,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T09:08:59.349282+00:00",
+      "NumProgressed": 6372,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4429,7 +4434,7 @@
       "Name": "Baby Steps",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "BeLikeWater",
@@ -4493,7 +4498,7 @@
       "Name": "First Time?",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4507,9 +4512,9 @@
       "ID": "GarbageMan",
       "SetID": "acc6ea0",
       "Name": "Garbage Man",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "Godrunner",
@@ -4573,7 +4578,7 @@
       "Name": "No More Totems",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4613,7 +4618,7 @@
       "Name": "The Old-School Way",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "TheQuarterback",
@@ -4621,7 +4626,7 @@
       "Name": "The Quarterback",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ThisIsDharma",
@@ -4645,7 +4650,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -4677,7 +4682,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "k01101110",
@@ -4692,7 +4697,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6368,
+      "Progressed": 6372,
       "Completed": 7
     }
   ],
@@ -4700,8 +4705,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-24T22:00:19.133349+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:11:32.2758074+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:08:59.3492818+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:04:26.8567809+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:11:32.2758438+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:02:30.7801528+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:08:59.3493254+00:00"
 }

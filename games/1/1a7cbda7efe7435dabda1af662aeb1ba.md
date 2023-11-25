@@ -7,9 +7,9 @@
 | Breaking Free | 36.00% | ~10 |
 | Overcoming Weakness | 21.00% | ~6 |
 | Fence-Sitter | 14.00% | ~4 |
+| Green Thumb | 14.00% | ~4 |
 | Crystal Hunter | 11.00% | ~3 |
 | Boulder Breaker | 11.00% | ~3 |
-| Green Thumb | 11.00% | ~3 |
 | Danger | 7.00% | ~2 |
 | Column Crusher | 4.00% | ~1 |
 | Bye-Bye, Butcher | 4.00% | ~1 |
@@ -17,6 +17,7 @@
 | Setting Off | 4.00% | ~1 |
 | A Twist of Fate | 4.00% | ~1 |
 | Strength | 4.00% | ~1 |
+| Eviction | 4.00% | ~1 |
 | Rabbit Hunter | 4.00% | ~1 |
 | Breach of Contract | 4.00% | ~1 |
 | My Turn | 0.00% | ~0 |
@@ -30,7 +31,6 @@
 | Criminal Investigator | 0.00% | ~0 |
 | Elite Scholar | 0.00% | ~0 |
 | Conqueror of the Devil Blade | 0.00% | ~0 |
-| Eviction | 0.00% | ~0 |
 | For Justice | 0.00% | ~0 |
 | Astral Envoy | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |

@@ -337,9 +337,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement20",
@@ -552,8 +552,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:05:37.4903301+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:03:24.0160198+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:01:25.2379487+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:05:37.4903723+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:59:01.1780344+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:03:24.0160445+00:00"
 }

@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1907,
+  "EOS_Progressed": 1909,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7198,6 +7198,11 @@
       "Time": "2023-11-25T07:03:56.8413576+00:00",
       "NumProgressed": 1907,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T09:03:44.94272+00:00",
+      "NumProgressed": 1909,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7209,7 +7214,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7217,7 +7222,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_defeat_players_10",
@@ -7281,7 +7286,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "objective_headquarters_10",
@@ -7297,7 +7302,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "objective_headquarters_20",
@@ -7311,9 +7316,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7377,7 +7382,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -7512,7 +7517,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1907,
+      "Progressed": 1909,
       "Completed": 1
     }
   ],
@@ -7520,8 +7525,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:06:04.6992511+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:03:44.9427197+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:45.1710661+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:59:39.2899952+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:06:04.6993177+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:57:40.8367763+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:03:44.9427674+00:00"
 }

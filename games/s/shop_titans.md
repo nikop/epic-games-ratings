@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Top of the World | 1.00% | ~1,418 |
 | Proud Paladin | 1.00% | ~1,418 |
 | Above the Norm | 1.00% | ~1,418 |
+| Constellated | 1.00% | ~1,418 |
 | A Ronin Reborn | 1.00% | ~1,418 |
 | Tax not Included | 1.00% | ~1,418 |
 | The King's Caprice | 1.00% | ~1,418 |
@@ -95,16 +96,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 1.00% | ~1,418 |
 | Complete Monopoly | 1.00% | ~1,418 |
 | King's Blade | 1.00% | ~1,418 |
-| Constellated | 0.90% | ~1,276 |
 | Fillin' the Bin | 0.90% | ~1,276 |
 | Industrial Evolution | 0.90% | ~1,276 |
 | A Legend is Born | 0.90% | ~1,276 |
 | Economy of Scarce | 0.90% | ~1,276 |
 | Jackpot! | 0.80% | ~1,134 |
 | All Accounted For | 0.80% | ~1,134 |
+| The Free Encyclopedia | 0.70% | ~993 |
 | Thank You Tom Nook | 0.70% | ~993 |
 | Eternal Crusade | 0.70% | ~993 |
-| The Free Encyclopedia | 0.60% | ~851 |
 | The Greatest Grind | 0.50% | ~709 |
 | All or Nothing! | 0.50% | ~709 |
 | Marvels from the World Over | 0.50% | ~709 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~284 |
 | Capitalist Camaraderie | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,797 (Ranked 80)  
+Progressed: 141,807 (Ranked 80)  
 Completed: 258 (0.18%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 258 (0.18%) (Ranked 261)
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
-| 2023-11-25 | 141,797 | 258 |
+| 2023-11-25 | 141,807 | 258 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,597 (Ranked 50)  

@@ -37,11 +37,11 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 1.00% | ~33 |
 | Tactical Sabotage | 1.00% | ~33 |
 | Fleetmaster | 0.90% | ~30 |
+| Death Comes For All | 0.90% | ~30 |
 | Patron of Deimos | 0.80% | ~27 |
 | For the Machine God | 0.80% | ~27 |
 | Preservationist | 0.80% | ~27 |
 | Engine Kill | 0.80% | ~27 |
-| Death Comes For All | 0.80% | ~27 |
 | Harvest No More | 0.70% | ~23 |
 | Hands-On Research | 0.60% | ~20 |
 | Strike Force | 0.50% | ~17 |

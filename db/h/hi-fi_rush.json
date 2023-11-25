@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4325,
+  "EOS_Progressed": 4326,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7625,6 +7625,11 @@
       "Time": "2023-11-25T08:05:19.4228674+00:00",
       "NumProgressed": 4325,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T09:03:09.8197871+00:00",
+      "NumProgressed": 4326,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7708,7 +7713,7 @@
       "Name": "I think I deserve some praise, here!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach011",
@@ -7772,7 +7777,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "Ach019",
@@ -7812,7 +7817,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "Ach024",
@@ -7852,7 +7857,7 @@
       "Name": "I think I found your calling, Macaron",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach029",
@@ -7868,7 +7873,7 @@
       "Name": "This is a breeze!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach031",
@@ -7916,7 +7921,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "Ach037",
@@ -7924,7 +7929,7 @@
       "Name": "We\u0027re Jammin\u0027",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach038",
@@ -8020,7 +8025,7 @@
       "Name": "I hit things with a guitar really well.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach050",
@@ -8060,7 +8065,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach055",
@@ -8203,13 +8208,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4325,
+      "Progressed": 4326,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2846,
+      "Progressed": 2847,
       "Completed": 1930
     }
   ],
@@ -8217,8 +8222,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T08:05:19.4228671+00:00",
+  "LastChanged_Achievements": "2023-11-25T09:03:09.819787+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:01:30.3624448+00:00",
-  "LastUpdate_Achievements": "2023-11-25T08:05:19.4229491+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:59:04.8778733+00:00",
+  "LastUpdate_Achievements": "2023-11-25T09:03:09.8198692+00:00"
 }
