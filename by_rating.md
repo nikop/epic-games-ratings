@@ -71,7 +71,7 @@
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 554 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 480 |
 | 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 889 | 162 |
-| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,831 | 55 |
+| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,840 | 55 |
 | 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 427 | 226 |
 | 67 | [Superliminal](games/s/superliminal.md) | 4.82 | 0 | 554 |
 | 67 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 554 |
@@ -128,7 +128,7 @@
 | 113 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 554 |
 | 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 554 |
 | 127 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,938 | 24 |
-| 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,392 | 91 |
+| 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,397 | 91 |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,071 | 147 |
 | 127 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,207 | 141 |
 | 127 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 24,595 | 17 |
@@ -408,7 +408,7 @@
 | 383 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 554 |
 | 383 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 293 | 256 |
 | 383 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.61 | 0 | 554 |
-| 383 | [Supraland](games/s/supraland.md) | 4.61 | 7,732 | 49 |
+| 383 | [Supraland](games/s/supraland.md) | 4.61 | 7,734 | 49 |
 | 383 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 515 | 211 |
 | 383 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 554 |
 | 383 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 52 | 427 |
@@ -539,7 +539,7 @@
 | 527 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 525 |
 | 527 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 364 |
 | 527 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 554 |
-| 527 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 603 | 192 |
+| 527 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 609 | 192 |
 | 541 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.53 | 0 | 554 |
 | 541 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,027 | 18 |
 | 541 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 533 |
@@ -767,7 +767,7 @@
 | 764 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 554 |
 | 764 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.38 | 0 | 554 |
 | 764 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 166 | 310 |
-| 764 | [MORDHAU](games/m/mordhau.md) | 4.38 | 968 | 155 |
+| 764 | [MORDHAU](games/m/mordhau.md) | 4.38 | 972 | 155 |
 | 764 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 175 | 303 |
 | 764 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 83 | 386 |
 | 764 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 119 | 341 |
@@ -977,16 +977,16 @@
 | 971 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 554 |
 | 971 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 554 |
 | 977 | [Banished](games/b/banished.md) | 4.07 | 0 | 554 |
+| 977 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.07 | 0 | 554 |
 | 977 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 563 | 204 |
 | 977 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.07 | 0 | 554 |
 | 977 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 4.07 | 0 | 554 |
 | 977 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.07 | 24 | 525 |
-| 982 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.06 | 0 | 554 |
-| 982 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,562 | 70 |
-| 982 | [Lake](games/l/lake.md) | 4.06 | 0 | 554 |
-| 982 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.06 | 0 | 554 |
-| 982 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 203 | 287 |
-| 982 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 554 |
+| 983 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,562 | 70 |
+| 983 | [Lake](games/l/lake.md) | 4.06 | 0 | 554 |
+| 983 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.06 | 0 | 554 |
+| 983 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 203 | 287 |
+| 983 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 554 |
 | 988 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.05 | 0 | 554 |
 | 988 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 554 |
 | 988 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 477 | 214 |
