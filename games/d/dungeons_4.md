@@ -9,14 +9,14 @@
 | For the Horde! | 81.00% | ~344 |
 | Hammer Time, Round Two | 79.00% | ~336 |
 | The Hellwoods | 72.00% | ~306 |
-| The Plains of Strothalm | 68.00% | ~289 |
+| The Plains of Strothalm | 69.00% | ~293 |
 | Experienced Thalya | 68.00% | ~289 |
 | Thalya's Concentrated Fury | 66.00% | ~280 |
 | Master of Magic | 63.00% | ~268 |
 | Bad Elves Go Everywhere | 63.00% | ~268 |
-| Unicorn steaks – fresh off the hoof! | 58.00% | ~246 |
+| Unicorn steaks – fresh off the hoof! | 59.00% | ~251 |
+| Magic Accidents | 57.00% | ~242 |
 | Heroes’ Gorge | 57.00% | ~242 |
-| Magic Accidents | 56.00% | ~238 |
 | Trap Master | 55.00% | ~234 |
 | Minions, Minions! | 53.00% | ~225 |
 | The Ascent | 48.00% | ~204 |
@@ -25,8 +25,8 @@
 | Hard Work | 42.00% | ~178 |
 | The Big Eaty | 41.00% | ~174 |
 | Pure Dynamite! | 39.00% | ~166 |
-| “… like son” | 37.00% | ~157 |
-| Mana Cannon | 33.00% | ~140 |
+| “… like son” | 38.00% | ~162 |
+| Mana Cannon | 34.00% | ~144 |
 | Dungeonlord Gorgu | 33.00% | ~140 |
 | The Cathedral of Light | 33.00% | ~140 |
 | Shame! Shame! Shame! | 33.00% | ~140 |

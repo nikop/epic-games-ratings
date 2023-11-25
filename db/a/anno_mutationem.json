@@ -2,7 +2,7 @@
   "ID": "52a92e2c71b54d58a249946982a0a379",
   "Name": "ANNO Mutationem",
   "ProductSlug": "anno-mutationem-ef8b9e",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 493,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 279,
@@ -927,9 +927,9 @@
       "ID": "Thats_gotta_hurt",
       "SetID": "gl7plp",
       "Name": "That\u0027s gotta hurt",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 254
+      "UsersEstimate": 261
     },
     {
       "ID": "The Traveler",
@@ -1048,8 +1048,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:06:46.0001451+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:04:51.7559429+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:01:18.5483915+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:06:46.0001693+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:59:22.1795529+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:04:51.7559696+00:00"
 }

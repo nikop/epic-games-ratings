@@ -2,7 +2,7 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 492,
+  "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 125,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -254,6 +254,11 @@
       "Time": "2023-11-25T17:03:37.6142886+00:00",
       "NumProgressed": 51,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T23:03:35.4413523+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -266,7 +271,7 @@
       "Name": "My Papyrus!",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement10",
@@ -352,7 +357,7 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -512,7 +517,7 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -520,7 +525,7 @@
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -561,14 +566,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:05:39.2255621+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:03:35.4413519+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:09.384053+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:01:22.8962462+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:05:39.2255859+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:59:27.2461955+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:03:35.4413723+00:00"
 }

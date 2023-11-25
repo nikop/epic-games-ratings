@@ -2,9 +2,9 @@
   "ID": "d00a1f7b44a14dddab853280118f8580",
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 293,
+  "EOS_Progressed": 296,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 17.75,
+  "EOS_Completed_Percentage": 17.57,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1194,6 +1194,11 @@
       "Time": "2023-11-25T20:08:31.5127688+00:00",
       "NumProgressed": 293,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-25T23:07:52.429521+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1204,7 +1209,7 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 100,
       "UsersEstimate": 240
     },
@@ -1212,15 +1217,15 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 200,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "ach_complete_tutorial",
       "SetID": "5e260i9",
       "Name": "Welcome aboard!",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 80,
       "UsersEstimate": 284
     },
@@ -1230,39 +1235,39 @@
       "Name": "A helping hand!",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 70,
-      "UsersEstimate": 146
+      "UsersEstimate": 145
     },
     {
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 121
     },
     {
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 60,
-      "UsersEstimate": 223
+      "UsersEstimate": 222
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 80,
-      "UsersEstimate": 199
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_skip_1",
@@ -1270,7 +1275,7 @@
       "Name": "Keep moving on!",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_skip_3",
@@ -1278,7 +1283,7 @@
       "Name": "Advance further!",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_skip_5",
@@ -1293,14 +1298,14 @@
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 293,
+      "Progressed": 296,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:10:32.4235844+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:07:52.4295206+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:00:32.0469837+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:10:32.4235975+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:58:30.0101055+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:07:52.429534+00:00"
 }

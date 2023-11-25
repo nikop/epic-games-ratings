@@ -8,9 +8,9 @@
 | On the Crest of a Wave | 96.00% | ~172 |
 | Foreman of Darkness | 96.00% | ~172 |
 | Brilliant Day | 94.00% | ~168 |
-| Evil Genius | 88.00% | ~158 |
+| Evil Genius | 89.00% | ~159 |
+| Tinned Corpse | 85.00% | ~152 |
 | Air Defense | 85.00% | ~152 |
-| Tinned Corpse | 84.00% | ~150 |
 | Your War is Over | 83.00% | ~149 |
 | The Starry Night | 78.00% | ~140 |
 | Go Home! | 77.00% | ~138 |
@@ -20,10 +20,10 @@
 | Drunken Master | 74.00% | ~132 |
 | V.I.P. Cemetery | 72.00% | ~129 |
 | Woodcutter | 71.00% | ~127 |
+| Sharpshooter | 71.00% | ~127 |
 | Architect of Darkness | 71.00% | ~127 |
 | Top of the World | 70.00% | ~125 |
 | Takeover | 70.00% | ~125 |
-| Sharpshooter | 70.00% | ~125 |
 | The Apotheosis of War | 68.00% | ~122 |
 | Stasis Alcatraz | 68.00% | ~122 |
 | Brilliant: Holy Mountain | 64.00% | ~115 |

@@ -741,7 +741,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3869,
+  "EOS_Progressed": 3871,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
@@ -5986,6 +5986,11 @@
       "Time": "2023-11-25T22:06:16.8699763+00:00",
       "NumProgressed": 3869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T23:04:18.1431124+00:00",
+      "NumProgressed": 3871,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6006,7 +6011,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "achievement_11",
@@ -6014,7 +6019,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "achievement_12",
@@ -6028,9 +6033,9 @@
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1239
     },
     {
       "ID": "achievement_14",
@@ -6094,7 +6099,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "achievement_21",
@@ -6150,7 +6155,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "achievement_9",
@@ -6158,14 +6163,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3869,
+      "Progressed": 3871,
       "Completed": 0
     }
   ],
@@ -6173,8 +6178,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-25T18:58:11.6797848+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:06:16.8699759+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:04:18.143112+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:00:14.8638808+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:06:16.8700353+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:58:08.9180742+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:04:18.1431479+00:00"
 }

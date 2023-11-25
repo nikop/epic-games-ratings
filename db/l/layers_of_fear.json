@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -439,6 +439,11 @@
       "Time": "2023-11-25T10:04:00.942908+00:00",
       "NumProgressed": 85,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T23:03:54.2828901+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -449,7 +454,7 @@
       "ID": "a_new_way",
       "SetID": "f2im8d",
       "Name": "A new way",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -473,7 +478,7 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -489,7 +494,7 @@
       "ID": "collect_items_mother",
       "SetID": "f2im8d",
       "Name": "Something to think about",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -497,7 +502,7 @@
       "ID": "collect_most_of_memories",
       "SetID": "f2im8d",
       "Name": "I remember It Like Was Yesterday",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -529,7 +534,7 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -561,9 +566,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "earn_all_trophies",
@@ -577,7 +582,7 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -601,7 +606,7 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 37
     },
@@ -609,7 +614,7 @@
       "ID": "find_one_photo",
       "SetID": "f2im8d",
       "Name": "A Slice of Life",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -617,7 +622,7 @@
       "ID": "find_one_poster",
       "SetID": "f2im8d",
       "Name": "Debut",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -625,7 +630,7 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 37
     },
@@ -713,7 +718,7 @@
       "ID": "perfect_storm",
       "SetID": "f2im8d",
       "Name": "The Perfect Storm",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -721,7 +726,7 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 52
     },
@@ -753,7 +758,7 @@
       "ID": "save_all_rats",
       "SetID": "f2im8d",
       "Name": "Se7en Seas",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -787,7 +792,7 @@
       "Name": "Something important",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "spy_one_item",
@@ -809,7 +814,7 @@
       "ID": "the_art_of_movement",
       "SetID": "f2im8d",
       "Name": "The art of movement",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -841,7 +846,7 @@
       "ID": "view_most_of_photos",
       "SetID": "f2im8d",
       "Name": "A Mosaic of Misery",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -849,7 +854,7 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 5,
       "UsersEstimate": 69
     },
@@ -866,14 +871,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:05:55.8637405+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:03:54.2828893+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:59.9446154+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:04:45.6391292+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:05:55.8637721+00:00"
+  "LastUpdate_Ratings": "2023-11-25T23:02:30.4788996+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:03:54.2829394+00:00"
 }

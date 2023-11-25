@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4345,
+  "EOS_Progressed": 4346,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7680,6 +7680,11 @@
       "Time": "2023-11-25T22:05:27.5514961+00:00",
       "NumProgressed": 4345,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T23:03:21.9082185+00:00",
+      "NumProgressed": 4346,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7705,9 +7710,9 @@
       "ID": "Ach003",
       "SetID": "12n4k20",
       "Name": "This will cost you big time",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 522
     },
     {
       "ID": "Ach004",
@@ -7827,7 +7832,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "Ach019",
@@ -7971,7 +7976,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "Ach037",
@@ -8089,9 +8094,9 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 695
     },
     {
       "ID": "Ach052",
@@ -8258,13 +8263,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4345,
+      "Progressed": 4346,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2866,
+      "Progressed": 2867,
       "Completed": 1930
     }
   ],
@@ -8272,8 +8277,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:05:27.5514959+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:03:21.908218+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:01:26.0415792+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:05:27.5515924+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:59:31.1917866+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:03:21.9082939+00:00"
 }

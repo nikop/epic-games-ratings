@@ -604,9 +604,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -732,9 +732,9 @@
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -852,9 +852,9 @@
       "ID": "TINGWD_SPAM",
       "SetID": "c0imaa6",
       "Name": "Spam",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "TINGWD_TRAP",
@@ -883,8 +883,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:10:19.9202144+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:07:38.6121282+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:01:27.5723714+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:10:19.9202371+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:59:33.2103423+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:07:38.6121625+00:00"
 }

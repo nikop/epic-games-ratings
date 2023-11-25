@@ -7213,9 +7213,9 @@
       "Count": 3784
     }
   ],
-  "EOS_Progressed": 142059,
+  "EOS_Progressed": 142072,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 1572,
+  "EOS_NewPlayers": 1581,
   "EOS_NewCompleters": 78,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -29858,6 +29858,11 @@
       "Time": "2023-11-25T22:10:34.9965114+00:00",
       "NumProgressed": 142059,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2023-11-25T23:07:55.6361126+00:00",
+      "NumProgressed": 142072,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 112,
@@ -30085,7 +30090,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "collection05",
@@ -30101,7 +30106,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7103
+      "UsersEstimate": 7104
     },
     {
       "ID": "commonres02",
@@ -30133,7 +30138,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5682
+      "UsersEstimate": 5683
     },
     {
       "ID": "craft02",
@@ -30245,7 +30250,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5682
+      "UsersEstimate": 5683
     },
     {
       "ID": "expansion02",
@@ -30261,7 +30266,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "fullmoon",
@@ -30341,7 +30346,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7103
+      "UsersEstimate": 7104
     },
     {
       "ID": "gold02",
@@ -30429,7 +30434,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "jackslot03",
@@ -30597,7 +30602,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "quest04",
@@ -30645,7 +30650,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5682
+      "UsersEstimate": 5683
     },
     {
       "ID": "sell02",
@@ -30764,15 +30769,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142059,
+      "Progressed": 142072,
       "Completed": 265
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-25T18:02:45.9794931+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:10:34.9965112+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:07:55.6361122+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:04:55.8959222+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:10:34.9966919+00:00"
+  "LastUpdate_Ratings": "2023-11-25T23:02:42.8879309+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:07:55.6362971+00:00"
 }

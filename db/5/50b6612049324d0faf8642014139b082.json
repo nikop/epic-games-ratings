@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
@@ -1176,6 +1176,11 @@
       "Time": "2023-11-25T22:11:34.9562643+00:00",
       "NumProgressed": 520,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T23:09:03.4726042+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1204,7 +1209,7 @@
       "Name": "Gravel Guru",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_12",
@@ -1276,7 +1281,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "achievement_20",
@@ -1395,7 +1400,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 0
     }
   ],
@@ -1403,8 +1408,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-25T01:40:43.9281934+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:11:34.956264+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:09:03.4726037+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:00:17.6030105+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:11:34.9562855+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:58:12.305679+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:09:03.4726315+00:00"
 }

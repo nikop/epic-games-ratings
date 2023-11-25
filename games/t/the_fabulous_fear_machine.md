@@ -29,6 +29,7 @@
 | Ambition is... blind | 5.00% | ~2 |
 | You've awakened the beast | 2.00% | ~1 |
 | Hate is... addictive | 2.00% | ~1 |
+| Blessed antennas | 2.00% | ~1 |
 | Blood Red Island | 2.00% | ~1 |
 | Et in arcadia ego | 2.00% | ~1 |
 | The bully | 2.00% | ~1 |
@@ -37,7 +38,6 @@
 | The barbarian invasions | 2.00% | ~1 |
 | Vaccine fans | 2.00% | ~1 |
 | Welcome to Hellville | 2.00% | ~1 |
-| Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |

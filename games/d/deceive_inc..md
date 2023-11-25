@@ -1,21 +1,21 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 443)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,672 |
-| Mainframe Hacker | 23.00% | ~4,349 |
-| The Spy who eliminated me | 23.00% | ~4,349 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,673 |
+| Mainframe Hacker | 23.00% | ~4,350 |
+| The Spy who eliminated me | 23.00% | ~4,350 |
 | Tomorrow Never Dyes | 22.00% | ~4,160 |
-| From the Vault with Love | 18.00% | ~3,403 |
-| Never Say Loser Again | 18.00% | ~3,403 |
-| Tailor-Made | 18.00% | ~3,403 |
-| For your Eyes only | 18.00% | ~3,403 |
-| Assistant Accountant | 17.00% | ~3,214 |
-| You Only Live Twice | 16.00% | ~3,025 |
-| Fully Decked Out | 16.00% | ~3,025 |
+| From the Vault with Love | 18.00% | ~3,404 |
+| Never Say Loser Again | 18.00% | ~3,404 |
+| Tailor-Made | 18.00% | ~3,404 |
+| For your Eyes only | 18.00% | ~3,404 |
+| Assistant Accountant | 17.00% | ~3,215 |
+| You Only Live Twice | 16.00% | ~3,026 |
+| Fully Decked Out | 16.00% | ~3,026 |
 | A view to Win | 13.00% | ~2,458 |
 | The Living Portrait | 12.00% | ~2,269 |
 | Smells Like Trouble | 12.00% | ~2,269 |
@@ -26,8 +26,8 @@ Rating: 4.58 (Ranked 444)
 | Keycards Royale | 10.00% | ~1,891 |
 | Dr. No Kill | 10.00% | ~1,891 |
 | In It to Win It | 9.00% | ~1,702 |
-| Security Supervisor | 6.00% | ~1,134 |
-| License to Thrill | 5.00% | ~945 |
+| Security Supervisor | 6.00% | ~1,135 |
+| License to Thrill | 5.00% | ~946 |
 | Social of Solace | 4.00% | ~756 |
 | Live and let lie | 3.00% | ~567 |
 | Safe Withdrawal | 3.00% | ~567 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 444)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,908 (Ranked 144)  
+Progressed: 18,911 (Ranked 144)  
 Completed: 4 (0.02%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 4 (0.02%) (Ranked 331)
 | 2023-11-22 | 18,878 | 4 |
 | 2023-11-23 | 18,887 | 4 |
 | 2023-11-24 | 18,897 | 4 |
-| 2023-11-25 | 18,908 | 4 |
+| 2023-11-25 | 18,911 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

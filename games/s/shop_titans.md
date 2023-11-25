@@ -8,11 +8,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 6.00% | ~8,524 |
 | Titan's First Steps | 6.00% | ~8,524 |
-| Basic in Bulk | 5.00% | ~7,103 |
-| Tinkle of Coins | 5.00% | ~7,103 |
-| Disintermediation | 4.00% | ~5,682 |
-| It's Free Real Estate | 4.00% | ~5,682 |
-| Capitalism Ho! | 4.00% | ~5,682 |
+| Basic in Bulk | 5.00% | ~7,104 |
+| Tinkle of Coins | 5.00% | ~7,104 |
+| Disintermediation | 4.00% | ~5,683 |
+| It's Free Real Estate | 4.00% | ~5,683 |
+| Capitalism Ho! | 4.00% | ~5,683 |
 | One Easy Payment | 3.00% | ~4,262 |
 | Some Assembly Required | 3.00% | ~4,262 |
 | Another Satisfied Customer | 3.00% | ~4,262 |
@@ -101,10 +101,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 1.00% | ~1,421 |
 | King's Blade | 1.00% | ~1,421 |
 | All Accounted For | 0.90% | ~1,279 |
-| Thank You Tom Nook | 0.80% | ~1,136 |
-| Jackpot! | 0.80% | ~1,136 |
-| The Free Encyclopedia | 0.70% | ~994 |
-| Eternal Crusade | 0.70% | ~994 |
+| Thank You Tom Nook | 0.80% | ~1,137 |
+| Jackpot! | 0.80% | ~1,137 |
+| The Free Encyclopedia | 0.70% | ~995 |
+| Eternal Crusade | 0.70% | ~995 |
 | All or Nothing! | 0.60% | ~852 |
 | Anything not Nailed Down | 0.50% | ~710 |
 | The Greatest Grind | 0.50% | ~710 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.20% | ~284 |
 | Capitalist Camaraderie | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,059 (Ranked 80)  
+Progressed: 142,072 (Ranked 80)  
 Completed: 265 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 265 (0.19%) (Ranked 260)
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
-| 2023-11-25 | 142,059 | 265 |
+| 2023-11-25 | 142,072 | 265 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,598 (Ranked 50)  

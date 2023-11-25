@@ -32,6 +32,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.10% | ~464 |
 | Baa Baa Black Sheep | 0.10% | ~464 |
 | Back in Control | 0.10% | ~464 |
+| Back to the Piast | 0.10% | ~464 |
 | Baltic Crusader | 0.10% | ~464 |
 | These Banners need a Saga | 0.10% | ~464 |
 | Basileus | 0.10% | ~464 |
@@ -125,6 +126,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Liberty or Death | 0.10% | ~464 |
 | Lion of the North | 0.10% | ~464 |
 | Live Long and Prosper | 0.10% | ~464 |
+| Luck of the Irish | 0.10% | ~464 |
 | Made in Japan | 0.10% | ~464 |
 | Magellan’s Voyage | 0.10% | ~464 |
 | Maharana Pratap | 0.10% | ~464 |
@@ -255,7 +257,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Atwix Legacy | 0.00% | ~0 |
 | Auld Alliance Reversed | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
-| Back to the Piast | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
@@ -304,7 +305,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kushite Restoration | 0.00% | ~0 |
 | Lessons of Hemmingstedt | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
-| Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,639 (Ranked 41)  
+Progressed: 463,679 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-22 | 461,499 | 1 |
 | 2023-11-23 | 462,094 | 1 |
 | 2023-11-24 | 462,785 | 1 |
-| 2023-11-25 | 463,639 | 1 |
+| 2023-11-25 | 463,679 | 1 |
 ## Awards
 Max (Educational): 7,165  (Ranked 54)  
 Sum: 58,897 (Ranked 24)  

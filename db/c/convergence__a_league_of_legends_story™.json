@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2494,6 +2494,11 @@
       "Time": "2023-11-25T15:09:24.4219116+00:00",
       "NumProgressed": 935,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-25T23:08:31.6895067+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2513,7 +2518,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2655,9 +2660,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 140
     },
     {
       "ID": "GrindingTime1",
@@ -2697,7 +2702,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "MapCompletion1",
@@ -2745,7 +2750,7 @@
       "Name": "Time Flies",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ParryBoss",
@@ -2753,7 +2758,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ParryRepeated1",
@@ -2761,7 +2766,7 @@
       "Name": "No, Thanks!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2769,7 +2774,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2777,7 +2782,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "PidgeDefeated",
@@ -2801,7 +2806,7 @@
       "Name": "Honest Mistake",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2809,7 +2814,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ScrambotProgress1",
@@ -2833,7 +2838,7 @@
       "Name": "Fast Learner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "SpeedRun",
@@ -2889,7 +2894,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "WatcherFought",
@@ -2919,16 +2924,16 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 168
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 6
     }
   ],
@@ -2936,8 +2941,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:11:06.7591907+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:08:31.6895062+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-25T21:59:42.1496638+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:11:06.7592292+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:57:32.1426223+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:08:31.6895466+00:00"
 }

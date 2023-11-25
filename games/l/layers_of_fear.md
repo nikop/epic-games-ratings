@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 81.00% | ~69 |
-| Something important | 78.00% | ~66 |
-| A piece of the story | 61.00% | ~52 |
-| It's covered up for a reason | 45.00% | ~38 |
-| Scraps of love | 44.00% | ~37 |
-| The artist’s impression | 44.00% | ~37 |
-| Do what you have to | 42.00% | ~36 |
+| Wanderer | 80.00% | ~69 |
+| Something important | 78.00% | ~67 |
+| A piece of the story | 60.00% | ~52 |
+| It's covered up for a reason | 44.00% | ~38 |
+| Do what you have to | 43.00% | ~37 |
+| Scraps of love | 43.00% | ~37 |
+| The artist’s impression | 43.00% | ~37 |
 | Refuse to look | 36.00% | ~31 |
 | Sign of weakness | 35.00% | ~30 |
 | Finished it | 27.00% | ~23 |
-| Face your fears | 24.00% | ~20 |
+| Face your fears | 23.00% | ~20 |
 | Playtime | 14.00% | ~12 |
 | Tough conversation | 14.00% | ~12 |
 | The tragedy unfolds | 13.00% | ~11 |
 | First steps | 12.00% | ~10 |
 | True Reflection | 12.00% | ~10 |
 | Whispers long forgotten | 12.00% | ~10 |
-| A new way | 11.00% | ~9 |
-| Breaking free | 11.00% | ~9 |
-| A Slice of Life | 11.00% | ~9 |
-| Debut | 11.00% | ~9 |
-| The art of movement | 11.00% | ~9 |
+| A new way | 10.00% | ~9 |
+| Breaking free | 10.00% | ~9 |
+| A Slice of Life | 10.00% | ~9 |
+| Debut | 10.00% | ~9 |
+| The art of movement | 10.00% | ~9 |
 | Another perspective | 8.00% | ~7 |
 | Sound Bite | 8.00% | ~7 |
 | Heavy Burden | 8.00% | ~7 |
@@ -34,11 +34,11 @@
 | Fisherman | 6.00% | ~5 |
 | We Are Not Alone | 5.00% | ~4 |
 | Body of Work | 5.00% | ~4 |
-| Something to think about | 4.00% | ~3 |
-| I remember It Like Was Yesterday | 4.00% | ~3 |
-| The Perfect Storm | 4.00% | ~3 |
-| Se7en Seas | 4.00% | ~3 |
-| A Mosaic of Misery | 4.00% | ~3 |
+| Something to think about | 3.00% | ~3 |
+| I remember It Like Was Yesterday | 3.00% | ~3 |
+| The Perfect Storm | 3.00% | ~3 |
+| Se7en Seas | 3.00% | ~3 |
+| A Mosaic of Misery | 3.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
 | It was worth a try | 2.00% | ~2 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 448)  
+Progressed: 86 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-21 | 78 | 0 |
 | 2023-11-22 | 79 | 0 |
 | 2023-11-24 | 83 | 0 |
-| 2023-11-25 | 85 | 0 |
+| 2023-11-25 | 86 | 0 |

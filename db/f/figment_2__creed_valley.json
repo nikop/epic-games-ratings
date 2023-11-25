@@ -2,9 +2,9 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 528,
+  "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -187,6 +187,11 @@
       "Time": "2023-11-23T19:09:44.6878032+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T23:09:07.7863385+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -196,7 +201,7 @@
       "ID": "combat_slammer_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Slam-KABAM",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -220,7 +225,7 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -228,7 +233,7 @@
       "ID": "fluff_hit_by_coco_bulb",
       "SetID": "7e96e7l",
       "Name": "Ouch, that hurt!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -276,7 +281,7 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -284,7 +289,7 @@
       "ID": "story_conviction_lane",
       "SetID": "7e96e7l",
       "Name": "Fight like an idiot",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -300,7 +305,7 @@
       "ID": "story_end_credits",
       "SetID": "7e96e7l",
       "Name": "I\u0027m Back at the Surface now",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 120,
       "UsersEstimate": 3
     },
@@ -308,7 +313,7 @@
       "ID": "story_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "Repair the Mind Validation Machine",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -324,7 +329,7 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -341,7 +346,7 @@
     {
       "ID": "7e96e7l",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
@@ -349,8 +354,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:11:38.9743125+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:09:07.7863383+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.889774+00:00",
-  "LastUpdate_Ratings": "2023-11-25T21:59:23.8582557+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:11:38.9743273+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:57:11.6355483+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:09:07.7863486+00:00"
 }

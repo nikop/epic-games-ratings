@@ -4,7 +4,7 @@
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "PartingGift",
       "SetID": "6jf74lf",
       "Name": "Parting Gift",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PersonallyPunched",
@@ -315,8 +315,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:11:26.0561585+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:08:53.4481415+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:18.3184183+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:02:21.580624+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:11:26.0561723+00:00"
+  "LastUpdate_Ratings": "2023-11-25T23:00:35.5055409+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:08:53.448152+00:00"
 }

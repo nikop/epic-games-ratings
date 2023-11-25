@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 910,
+  "EOS_Progressed": 911,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.3,
+  "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2964,6 +2964,11 @@
       "Time": "2023-11-25T22:06:04.6297869+00:00",
       "NumProgressed": 910,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-25T23:04:04.0017603+00:00",
+      "NumProgressed": 911,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2992,7 +2997,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3000,7 +3005,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "_05_FinishAct2",
@@ -3008,7 +3013,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3048,7 +3053,7 @@
       "Name": "Buccaneer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "_11_Completion_40",
@@ -3183,7 +3188,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 910,
+      "Progressed": 911,
       "Completed": 30
     }
   ],
@@ -3191,8 +3196,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:06:04.6297867+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:04:04.0017591+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:01:33.95373+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:06:04.6298199+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:59:41.658089+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:04:04.001782+00:00"
 }

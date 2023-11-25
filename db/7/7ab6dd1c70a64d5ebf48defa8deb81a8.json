@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -1136,9 +1136,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_38",
@@ -1159,8 +1159,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:11:39.5318544+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:09:08.4751145+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:00:42.0498267+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:11:39.5318905+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:58:41.8140279+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:09:08.4751402+00:00"
 }

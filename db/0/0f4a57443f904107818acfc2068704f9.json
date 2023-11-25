@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 611,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1278,9 +1278,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 452
     },
     {
       "ID": "CompleteChapter10",
@@ -1525,8 +1525,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:07:47.996252+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:06:02.6290622+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:01:07.6407685+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:07:47.996279+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:59:10.9684598+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:06:02.6290887+00:00"
 }

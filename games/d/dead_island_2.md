@@ -5,27 +5,27 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,519 |
-| Hotel California | 2.00% | ~14,502 |
-| Welcome To Hell-A | 2.00% | ~14,502 |
-| One of Us | 2.00% | ~1,013 |
-| Pork Chopped | 2.00% | ~1,013 |
-| Dr. Reed, I Presume? | 1.00% | ~7,251 |
-| Git Gutte! | 1.00% | ~7,251 |
-| Anger Management | 1.00% | ~7,251 |
-| Bookworm | 1.00% | ~7,251 |
-| Break A Leg | 1.00% | ~7,251 |
-| But Doctor, I am Butcho | 1.00% | ~7,251 |
-| Can't Handle the Truth | 1.00% | ~7,251 |
-| Coup de Grâce | 1.00% | ~7,251 |
-| Like Riding a Bike | 1.00% | ~7,251 |
-| Hazardous Materials | 1.00% | ~7,251 |
-| Friends Like These | 1.00% | ~7,251 |
-| Apex Predator | 1.00% | ~7,251 |
-| A Patton Emerges | 1.00% | ~7,251 |
-| Stacking the Deck | 1.00% | ~7,251 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,251 |
-| This is My Weapon | 1.00% | ~7,251 |
+| Whatever It Takes | 3.00% | ~1,521 |
+| Hotel California | 2.00% | ~14,503 |
+| Welcome To Hell-A | 2.00% | ~14,503 |
+| One of Us | 2.00% | ~1,014 |
+| Pork Chopped | 2.00% | ~1,014 |
+| Dr. Reed, I Presume? | 1.00% | ~7,252 |
+| Git Gutte! | 1.00% | ~7,252 |
+| Anger Management | 1.00% | ~7,252 |
+| Bookworm | 1.00% | ~7,252 |
+| Break A Leg | 1.00% | ~7,252 |
+| But Doctor, I am Butcho | 1.00% | ~7,252 |
+| Can't Handle the Truth | 1.00% | ~7,252 |
+| Coup de Grâce | 1.00% | ~7,252 |
+| Like Riding a Bike | 1.00% | ~7,252 |
+| Hazardous Materials | 1.00% | ~7,252 |
+| Friends Like These | 1.00% | ~7,252 |
+| Apex Predator | 1.00% | ~7,252 |
+| A Patton Emerges | 1.00% | ~7,252 |
+| Stacking the Deck | 1.00% | ~7,252 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,252 |
+| This is My Weapon | 1.00% | ~7,252 |
 | Perks of the Job | 0.90% | ~6,526 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,526 |
 | Slayer Squad | 0.90% | ~6,526 |
@@ -42,10 +42,10 @@ Rating: 4.54 (Ranked 527)
 | Jumbo Keyring | 0.50% | ~3,626 |
 | Go, Bobcats! | 0.50% | ~3,626 |
 | Rising Star | 0.50% | ~3,626 |
-| Make it So | 0.40% | ~2,900 |
-| On Safari | 0.40% | ~2,900 |
-| Smorgasbord | 0.40% | ~2,900 |
-| Variety is the Spice of Death | 0.40% | ~2,900 |
+| Make it So | 0.40% | ~2,901 |
+| On Safari | 0.40% | ~2,901 |
+| Smorgasbord | 0.40% | ~2,901 |
+| Variety is the Spice of Death | 0.40% | ~2,901 |
 | LA Influential | 0.30% | ~2,175 |
 | Sole Survivor | 0.30% | ~2,175 |
 | Gore Horse | 0.30% | ~2,175 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~725 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,102 (Ranked 21)  
+Progressed: 725,153 (Ranked 21)  
 Completed: 2,436 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,15 +276,15 @@ Completed: 2,436 (0.34%) (Ranked 229)
 | 2023-11-22 | 722,778 | 2,425 |
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
-| 2023-11-25 | 725,102 | 2,436 |
+| 2023-11-25 | 725,153 | 2,436 |
 ## Awards
 Max (Great Boss Battles): 7,712  (Ranked 50)  
-Sum: 11,800 (Ranked 83)  
+Sum: 11,802 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,712 |
-| This game is Great for Beginners | 593 |
+| This game is Great for Beginners | 595 |
 | This game has Diverse Characters | 566 |
 | This game has Quickly Understood Controls | 530 |
 | This game is Relaxing | 510 |
@@ -513,4 +513,4 @@ Diff (max vs sum): -33
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
-| 2023-11-25 | 4.54 | 7,712 | 11,800 |
+| 2023-11-25 | 4.54 | 7,712 | 11,802 |

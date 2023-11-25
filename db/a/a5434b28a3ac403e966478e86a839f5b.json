@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 564,
+  "EOS_Progressed": 565,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -1820,6 +1820,11 @@
       "Time": "2023-11-25T20:04:56.027831+00:00",
       "NumProgressed": 564,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T23:04:45.8459521+00:00",
+      "NumProgressed": 565,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1840,7 +1845,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_eou2",
@@ -1886,9 +1891,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_eou8",
@@ -1904,7 +1909,7 @@
       "Name": "Disc Collector",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_n64",
@@ -1920,7 +1925,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_xatrix",
@@ -1935,14 +1940,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 564,
+      "Progressed": 565,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:06:40.7863734+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:04:45.8459511+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.8942797+00:00",
-  "LastUpdate_Ratings": "2023-11-25T21:59:26.4787422+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:06:40.7863899+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:57:14.8520982+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:04:45.8459731+00:00"
 }

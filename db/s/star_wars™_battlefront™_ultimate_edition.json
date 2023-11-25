@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1418,
+  "EOS_Progressed": 1421,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4204,6 +4204,11 @@
       "Time": "2023-11-25T21:09:18.5706791+00:00",
       "NumProgressed": 1418,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T23:09:12.8470218+00:00",
+      "NumProgressed": 1421,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4312,7 +4317,7 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_21",
@@ -4392,7 +4397,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_30",
@@ -4408,7 +4413,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_32",
@@ -4416,7 +4421,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_33",
@@ -4440,7 +4445,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1265
     },
     {
       "ID": "achievement_36",
@@ -4456,7 +4461,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 952
     },
     {
       "ID": "achievement_38",
@@ -4480,7 +4485,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_40",
@@ -4488,7 +4493,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "achievement_41",
@@ -4520,7 +4525,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_45",
@@ -4622,9 +4627,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 71
     },
     {
       "ID": "achievement_57",
@@ -4656,7 +4661,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_60",
@@ -4696,7 +4701,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_8",
@@ -4719,13 +4724,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1418,
+      "Progressed": 1421,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1418,
+      "Progressed": 1421,
       "Completed": 1
     }
   ],
@@ -4733,8 +4738,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:11:43.4335457+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:09:12.8470216+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:01:13.8020925+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:11:43.4336052+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:59:17.0432138+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:09:12.847098+00:00"
 }

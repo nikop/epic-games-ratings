@@ -484,9 +484,9 @@
       "ID": "ACH_40075_KM",
       "SetID": "8h8m55b",
       "Name": "40,075Km",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
@@ -899,8 +899,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:05:22.9746572+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:03:16.776588+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:56.257571+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:04:51.4444653+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:05:22.9746913+00:00"
+  "LastUpdate_Ratings": "2023-11-25T23:02:37.5431029+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:03:16.7766183+00:00"
 }

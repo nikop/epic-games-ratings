@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,023 |
+| Eat My Dust | 45.00% | ~1,024 |
 | First Love | 43.00% | ~978 |
-| Clean Race | 41.00% | ~932 |
+| Clean Race | 41.00% | ~933 |
 | Hear That Roar! | 39.00% | ~887 |
 | Rivals to the End | 28.00% | ~637 |
 | Bitter Rivalry | 27.00% | ~614 |
-| Champagne Spray | 25.00% | ~568 |
+| Champagne Spray | 25.00% | ~569 |
 | We're Going to Need a Bigger Garage | 24.00% | ~546 |
 | Legendary!!! | 20.00% | ~455 |
 | Restored and Ready | 19.00% | ~432 |
 | I Want One Too! | 19.00% | ~432 |
 | Quick Pit Stop | 19.00% | ~432 |
-| Go-Faster Stripes | 18.00% | ~409 |
+| Go-Faster Stripes | 18.00% | ~410 |
 | I'm Here Too! | 16.00% | ~364 |
 | We've Just Begun | 11.00% | ~250 |
 | Stamina Star | 8.00% | ~182 |
@@ -30,11 +30,11 @@
 | The Road to Liberty | 3.00% | ~68 |
 | Romantic Races | 3.00% | ~68 |
 | Rounding Off | 3.00% | ~68 |
-| Iconic! | 2.00% | ~45 |
-| Back in Blighty | 2.00% | ~45 |
-| Still Here | 2.00% | ~45 |
-| My Work Here Is Done | 2.00% | ~45 |
-| Overtaking the Master | 2.00% | ~45 |
+| Iconic! | 2.00% | ~46 |
+| Back in Blighty | 2.00% | ~46 |
+| Still Here | 2.00% | ~46 |
+| My Work Here Is Done | 2.00% | ~46 |
+| Overtaking the Master | 2.00% | ~46 |
 | I'll Be the Best! | 1.00% | ~23 |
 | Next Level | 1.00% | ~23 |
 | I Don't Stop | 1.00% | ~23 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,274 (Ranked 220)  
+Progressed: 2,275 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,4 +139,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 2,223 | 0 |
 | 2023-11-23 | 2,237 | 0 |
 | 2023-11-24 | 2,262 | 0 |
-| 2023-11-25 | 2,274 | 0 |
+| 2023-11-25 | 2,275 | 0 |

@@ -1,20 +1,20 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.57 (Ranked 474)  
+Rating: 4.57 (Ranked 473)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 10.00% | ~1,554 |
+| Oyedang, Kopengs | 10.00% | ~1,555 |
+| The Pit and the Pirates | 6.00% | ~933 |
 | Bosmang | 6.00% | ~933 |
-| The Pit and the Pirates | 5.00% | ~777 |
+| Zen Master | 6.00% | ~90 |
 | Martian Music | 5.00% | ~777 |
 | Drone Dodger | 5.00% | ~777 |
 | Captain Drummer | 5.00% | ~777 |
 | Celebrations are in Order | 5.00% | ~777 |
 | Impossible Objects | 5.00% | ~777 |
 | Safe Cracker | 5.00% | ~75 |
-| Zen Master | 5.00% | ~75 |
 | Madame Undersecretary | 5.00% | ~75 |
 | Stogie for Fogey | 4.00% | ~622 |
 | Drug Gifter | 4.00% | ~622 |
@@ -31,8 +31,8 @@ Rating: 4.57 (Ranked 474)
 | Data Logger | 2.00% | ~311 |
 | Miraculous Maya | 2.00% | ~311 |
 | Data Master | 1.00% | ~155 |
+| Brother's Reaper | 0.90% | ~140 |
 | No Belter Left Behind | 0.90% | ~140 |
-| Brother's Reaper | 0.80% | ~124 |
 | Debris Spree | 0.80% | ~124 |
 | Data Recoverer | 0.70% | ~109 |
 | Urshanabi Hoarder | 0.50% | ~78 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 474)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,545 (Ranked 151)  
+Progressed: 15,549 (Ranked 151)  
 Completed: 35 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 35 (0.23%) (Ranked 248)
 | 2023-11-22 | 15,266 | 35 |
 | 2023-11-23 | 15,346 | 35 |
 | 2023-11-24 | 15,437 | 35 |
-| 2023-11-25 | 15,545 | 35 |
+| 2023-11-25 | 15,549 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

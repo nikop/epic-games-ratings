@@ -363,9 +363,9 @@
       "ID": "EnterBackFirst",
       "SetID": "59jf8f5",
       "Name": "Parallel World",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "EnterStageEdit",
@@ -379,9 +379,9 @@
       "ID": "KillBoss1",
       "SetID": "59jf8f5",
       "Name": "Giant Mushroom Hunter",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KillBoss2",
@@ -635,9 +635,9 @@
       "ID": "UnlockAllEditActor",
       "SetID": "59jf8f5",
       "Name": "The Alpha and Omega",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -650,8 +650,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:05:18.9262494+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:03:12.1137783+00:00",
   "LastUpdate_AppInfo": "2023-11-21T04:57:14.1198184+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:00:36.3031046+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:05:18.9262948+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:58:35.1094935+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:03:12.1138186+00:00"
 }

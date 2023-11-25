@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2687,
+  "EOS_Progressed": 2688,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 9.04,
   "EosHistory": [
@@ -7411,6 +7411,11 @@
       "Time": "2023-11-25T22:06:59.2375932+00:00",
       "NumProgressed": 2687,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-11-25T23:05:07.2389514+00:00",
+      "NumProgressed": 2688,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 12,
@@ -7454,7 +7459,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "Jakob",
@@ -7510,14 +7515,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2687,
+      "Progressed": 2688,
       "Completed": 243
     }
   ],
@@ -7525,8 +7530,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-25T22:06:59.2375929+00:00",
+  "LastChanged_Achievements": "2023-11-25T23:05:07.2389507+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:10.2088874+00:00",
-  "LastUpdate_Ratings": "2023-11-25T21:59:46.4070979+00:00",
-  "LastUpdate_Achievements": "2023-11-25T22:06:59.2376408+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:57:36.8742434+00:00",
+  "LastUpdate_Achievements": "2023-11-25T23:05:07.239+00:00"
 }
