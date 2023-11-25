@@ -2,7 +2,7 @@
   "ID": "b7cca975adbf41e4a41f3ece9e61e08a",
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 164,
@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 9862,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1336,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
@@ -4642,9 +4642,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "7opfcp",
       "Name": "I Love How Tough You Are",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 7101
+      "UsersEstimate": 7199
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -4891,8 +4891,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-25T15:01:01.3586187+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:06:27.3396395+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:08:06.8840395+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:59:53.9746436+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:06:27.3397163+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:00:11.1920281+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:08:06.8841084+00:00"
 }

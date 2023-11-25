@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,305 |
-| Spectre Inductee | 79.00% | ~1,108 |
+| Spectre Inductee | 80.00% | ~1,122 |
 | Medal of Exploration I | 71.00% | ~996 |
 | Recruit | 67.00% | ~940 |
 | Search and Rescue | 67.00% | ~940 |
 | Quarian Ally | 63.00% | ~884 |
-| Medal of Heroism | 59.00% | ~828 |
+| Medal of Heroism | 60.00% | ~842 |
 | Honorarium of Corporate Service | 59.00% | ~828 |
 | Medal of Exploration II | 54.00% | ~758 |
 | Council Legion of Merit | 54.00% | ~758 |
@@ -99,7 +99,7 @@
 | No One Left Behind | 19.00% | ~267 |
 | Well Connected | 19.00% | ~267 |
 | Executioner | 18.00% | ~253 |
-| Patriot | 17.00% | ~239 |
+| Patriot | 18.00% | ~253 |
 | Legend | 17.00% | ~239 |
 | Master and Commander | 17.00% | ~239 |
 | Sabotage Specialist | 16.00% | ~224 |

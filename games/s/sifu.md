@@ -45,6 +45,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.20% | ~1,435 |
 | Deadly Venom | 0.20% | ~53 |
 | The best strikes are the ones we avoid | 0.20% | ~53 |
+| A Touch of Acumen | 0.20% | ~53 |
 | Beatmaker | 0.20% | ~53 |
 | Drunken Fighter | 0.10% | ~717 |
 | Martial Artist | 0.10% | ~717 |
@@ -57,7 +58,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~717 |
 | Come Snap With Me | 0.10% | ~717 |
 | Secure, Protect, Leave | 0.10% | ~27 |
-| A Touch of Acumen | 0.10% | ~27 |
 | Crouching Tiger | 0.10% | ~27 |
 | Hidden Dragon | 0.10% | ~27 |
 | Skill and an even stronger will | 0.10% | ~27 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,342 (Ranked 22)  
+Progressed: 717,348 (Ranked 22)  
 Completed: 12,939 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 12,939 (1.80%) (Ranked 132)
 | 2023-11-22 | 717,156 | 12,938 |
 | 2023-11-23 | 717,216 | 12,939 |
 | 2023-11-24 | 717,272 | 12,939 |
-| 2023-11-25 | 717,342 | 12,939 |
+| 2023-11-25 | 717,348 | 12,939 |
 ## Awards
 Max (Great Boss Battles): 6,840  (Ranked 55)  
 Sum: 11,973 (Ranked 82)  

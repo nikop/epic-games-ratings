@@ -1,17 +1,17 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 592)  
+Rating: 4.50 (Ranked 591)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,090 |
-| Jeef Skeejj | 44.00% | ~207,393 |
+| The Shutdown | 66.00% | ~311,091 |
+| Jeef Skeejj | 44.00% | ~207,394 |
 | Careful planning | 39.00% | ~183,826 |
-| Second Coming | 34.00% | ~160,258 |
-| Jeef Skagg | 30.00% | ~141,404 |
-| Mother | 25.00% | ~117,837 |
+| Second Coming | 34.00% | ~160,259 |
+| Jeef Skagg | 30.00% | ~141,405 |
+| Mother | 25.00% | ~117,838 |
 | In space, no one can hear you scream | 24.00% | ~113,124 |
 | Chapter I: Echoes | 22.00% | ~103,697 |
 | Excelsior Rule | 22.00% | ~103,697 |
@@ -45,17 +45,17 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,281 |
 | The Crazy Repairman | 6.00% | ~28,281 |
 | The Weasel | 6.00% | ~28,281 |
-| Kill the Doctor | 5.00% | ~23,567 |
-| Forsaken | 5.00% | ~23,567 |
-| Mercy | 5.00% | ~23,567 |
-| Jericho Rule | 5.00% | ~23,567 |
+| Kill the Doctor | 5.00% | ~23,568 |
+| Forsaken | 5.00% | ~23,568 |
+| Mercy | 5.00% | ~23,568 |
+| Jericho Rule | 5.00% | ~23,568 |
 | Geno Rule | 3.00% | ~14,140 |
 | Hammer Rule | 3.00% | ~14,140 |
 | Survivor | 2.00% | ~9,427 |
-| A Rock in the Dark | 1.00% | ~4,713 |
-| Emperor of Misery | 1.00% | ~4,713 |
-| A Frozen Lady | 1.00% | ~4,713 |
-| Void Rule | 1.00% | ~4,713 |
+| A Rock in the Dark | 1.00% | ~4,714 |
+| Emperor of Misery | 1.00% | ~4,714 |
+| A Frozen Lady | 1.00% | ~4,714 |
+| Void Rule | 1.00% | ~4,714 |
 | Excelsior Mastery | 0.90% | ~4,242 |
 | Hand of the Emperor | 0.60% | ~92 |
 | The greatest admiral of all time | 0.50% | ~2,357 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~15 |
 | Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,348 (Ranked 40)  
+Progressed: 471,350 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 20 (0.00%) (Ranked 360)
 | 2023-11-22 | 471,212 | 20 |
 | 2023-11-23 | 471,255 | 20 |
 | 2023-11-24 | 471,312 | 20 |
-| 2023-11-25 | 471,348 | 20 |
+| 2023-11-25 | 471,350 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 275)  
 Sum: 245 (Ranked 384)  

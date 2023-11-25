@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -966,9 +966,9 @@
       "ID": "TROP006",
       "SetID": "9n0dl35",
       "Name": "Maternity",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "TROP007",
@@ -1110,9 +1110,9 @@
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 163
     },
     {
       "ID": "TROP025",
@@ -1151,8 +1151,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:09:31.4730899+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:09:28.3061454+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:14.8567157+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:58:39.1905956+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:09:31.4731055+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:58:57.772928+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:09:28.3061641+00:00"
 }

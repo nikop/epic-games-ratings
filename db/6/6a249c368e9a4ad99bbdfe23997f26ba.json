@@ -567,9 +567,9 @@
       "ID": "A2",
       "SetID": "7f5j12l",
       "Name": "Level 2 Completed",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "A20",
@@ -599,9 +599,9 @@
       "ID": "A23",
       "SetID": "7f5j12l",
       "Name": "Pyramids Destroyed",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "A24",
@@ -758,8 +758,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:05:33.7264797+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:05:55.4651171+00:00",
   "LastUpdate_AppInfo": "2023-11-21T10:03:49.5206967+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:58:42.3755758+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:05:33.726506+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:59:00.8896343+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:05:55.4651405+00:00"
 }

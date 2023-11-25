@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1417,6 +1417,11 @@
       "Time": "2023-11-25T12:08:48.6256494+00:00",
       "NumProgressed": 301,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T19:08:43.2108612+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1427,9 +1432,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_10",
@@ -1437,7 +1442,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_11",
@@ -1509,15 +1514,15 @@
       "Name": "Socialite",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_20",
@@ -1573,7 +1578,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_36",
@@ -1659,9 +1664,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 254
     },
     {
       "ID": "achievement_49",
@@ -1669,7 +1674,7 @@
       "Name": "Soldier",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_5",
@@ -1779,9 +1784,9 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_8",
@@ -1789,7 +1794,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_9",
@@ -1797,14 +1802,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 1
     }
   ],
@@ -1812,8 +1817,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-24T19:57:13.1524203+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:08:46.3437861+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:08:43.2108607+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:57:37.1500326+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:08:46.3438201+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:57:58.22257+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:08:43.2109011+00:00"
 }

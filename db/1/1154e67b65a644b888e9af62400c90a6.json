@@ -4,7 +4,7 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 608,
   "Ranking_Popularity": 192,
-  "Ranking_PopularitySum": 239,
+  "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 469,
@@ -1007,10 +1007,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 1453,
       "NumberOfAwardsMax": 612
+    },
+    {
+      "Time": "2023-11-25T18:58:46.7711976+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1475,
+      "NumberOfAwardsMax": 612
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1453,
+  "NumberOfAwards": 1475,
   "NumberOfAwardsMax": 612,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1030,7 +1036,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 111
+      "Count": 117
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1054,7 +1060,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 74
+      "Count": 80
     },
     {
       "Text": "This game has a Kind Community",
@@ -1066,13 +1072,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 68
+      "Count": 74
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 55
+      "Count": 59
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1099,8 +1105,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-25T16:58:50.2802881+00:00",
+  "LastChanged": "2023-11-25T18:58:46.7711975+00:00",
   "LastUpdate_AppInfo": "2023-11-21T19:56:56.3514409+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:58:27.8003184+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:05:39.0761325+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:58:46.7711981+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:06:00.5566162+00:00"
 }

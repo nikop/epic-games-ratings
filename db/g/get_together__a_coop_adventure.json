@@ -2,9 +2,9 @@
   "ID": "162c788ef5924c688fa0d0663c15a763",
   "Name": "Get Together: A Coop Adventure",
   "ProductSlug": "get-together-176532",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 469,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -241,6 +241,11 @@
       "Time": "2023-11-19T11:03:47.6104572+00:00",
       "NumProgressed": 83,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T19:06:02.0991045+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -250,7 +255,7 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 100,
       "UsersEstimate": 53
     },
@@ -258,9 +263,9 @@
       "ID": "GT_ACH_ELEVATOR",
       "SetID": "883j7b4",
       "Name": "Elevator Pitch",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "GT_ACH_ENDBOTH",
@@ -298,7 +303,7 @@
       "ID": "GT_ACH_REALMLOW",
       "SetID": "883j7b4",
       "Name": "Rock Bottom",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 49
     },
@@ -324,14 +329,14 @@
       "Name": "Get lost!",
       "Percentage": 93,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "883j7b4",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 85,
       "Completed": 0
     }
   ],
@@ -339,8 +344,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:05:40.5934874+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:06:02.0991039+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.5977768+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:59:59.3178212+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:05:40.5935033+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:00:16.3296246+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:06:02.0991164+00:00"
 }

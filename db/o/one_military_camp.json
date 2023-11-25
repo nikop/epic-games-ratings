@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -899,9 +899,9 @@
       "ID": "ACHIEVEMENT_ID_0",
       "SetID": "c504de6",
       "Name": "Jantine: the Misfortunes of Evil",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_ID_1",
@@ -1011,17 +1011,17 @@
       "ID": "ACHIEVEMENT_ID_21",
       "SetID": "c504de6",
       "Name": "There\u0027s something in those trees",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
       "SetID": "c504de6",
       "Name": "Desert Power",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_ID_23",
@@ -1107,9 +1107,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1258,8 +1258,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:06:16.3952261+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:06:36.2514492+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:15.7776932+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:58:52.5848487+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:06:16.3952884+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:59:10.2137477+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:06:36.251481+00:00"
 }

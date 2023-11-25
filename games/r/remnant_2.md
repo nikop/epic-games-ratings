@@ -1,7 +1,7 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 147)  
+Rating: 4.75 (Ranked 148)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,6 +9,7 @@ Rating: 4.75 (Ranked 147)
 | Master of the Dark Arts | 0.60% | ~43 |
 | The Killing Jar | 0.40% | ~912 |
 | First of Many | 0.40% | ~912 |
+| Not Your Average Trait | 0.30% | ~684 |
 | Expanding Horizons | 0.20% | ~456 |
 | Am I Seeing This? | 0.20% | ~456 |
 | Gleaming the Cube | 0.20% | ~456 |
@@ -16,8 +17,8 @@ Rating: 4.75 (Ranked 147)
 | Quest for Survival | 0.20% | ~456 |
 | Not a Janitor | 0.20% | ~456 |
 | Familiar Face | 0.20% | ~456 |
+| Was This Supposed To Happen? | 0.20% | ~456 |
 | Boss'n Up | 0.20% | ~456 |
-| Not Your Average Trait | 0.20% | ~456 |
 | Almost There | 0.20% | ~456 |
 | Trait Chaser | 0.20% | ~456 |
 | Crafty | 0.10% | ~228 |
@@ -39,7 +40,6 @@ Rating: 4.75 (Ranked 147)
 | Top Performer | 0.10% | ~228 |
 | Shhh...It's a Secret | 0.10% | ~228 |
 | Bad Moon Rising | 0.10% | ~228 |
-| Was This Supposed To Happen? | 0.10% | ~228 |
 | Strapped | 0.10% | ~228 |
 | The Trigger | 0.10% | ~228 |
 | Edgelord | 0.10% | ~228 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 147)
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,972 (Ranked 69)  
-Completed: 526 (0.23%) (Ranked 248)  
+Progressed: 228,014 (Ranked 68)  
+Completed: 527 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 526 (0.23%) (Ranked 248)
 | 2023-11-22 | 225,927 | 503 |
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
-| 2023-11-25 | 227,972 | 526 |
+| 2023-11-25 | 228,014 | 527 |
 ## Awards
 Max (Great Boss Battles): 2,436  (Ranked 105)  
 Sum: 5,895 (Ranked 129)  

@@ -7,17 +7,17 @@ Rating: 4.87 (Ranked 23)
 | ---- | ---------- | ----- |
 | Start with a bang! | 18.00% | ~781 |
 | Feeling the beat! | 18.00% | ~781 |
-| You can pet the cat! | 16.00% | ~694 |
+| You can pet the cat! | 16.00% | ~695 |
 | Cream of the Crop | 15.00% | ~651 |
 | Who put gears in there? | 15.00% | ~651 |
 | Thanks for the free chip, Peppermint! | 14.00% | ~608 |
 | You got this, Peppermint? | 14.00% | ~608 |
 | Perfect Parry | 13.00% | ~564 |
 | Alright, that felt AWESOME! | 13.00% | ~564 |
-| This will cost you big time | 11.00% | ~477 |
-| I play my own way! | 11.00% | ~477 |
-| Z-shielding's got nothing on us! | 11.00% | ~477 |
-| Uh, they were broken when I got here | 11.00% | ~477 |
+| This will cost you big time | 11.00% | ~478 |
+| I play my own way! | 11.00% | ~478 |
+| Z-shielding's got nothing on us! | 11.00% | ~478 |
+| Uh, they were broken when I got here | 11.00% | ~478 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~434 |
 | Kissing the sky! | 10.00% | ~434 |
 | The Negotiator | 9.00% | ~391 |
@@ -37,12 +37,12 @@ Rating: 4.87 (Ranked 23)
 | There's such a thing as TOO helpful | 5.00% | ~217 |
 | Chip-tuned | 3.00% | ~130 |
 | Wanna hear my playlist? | 3.00% | ~130 |
+| I told you I'd be fine, Peppermint! | 3.00% | ~130 |
 | Check out my moves! | 3.00% | ~130 |
 | I think I deserve some praise, here! | 2.00% | ~87 |
 | I think I found your calling, Macaron | 2.00% | ~87 |
 | We're Jammin' | 2.00% | ~87 |
 | I hit things with a guitar really well. | 2.00% | ~87 |
-| I told you I'd be fine, Peppermint! | 2.00% | ~87 |
 | Call me Turbo Chai | 2.00% | ~57 |
 | This is a breeze! | 1.00% | ~43 |
 | I'm not done with you yet | 1.00% | ~43 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 23)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,340 (Ranked 194)  
+Progressed: 4,341 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 8 (0.18%) (Ranked 262)
 | 2023-11-22 | 4,261 | 8 |
 | 2023-11-23 | 4,297 | 8 |
 | 2023-11-24 | 4,316 | 8 |
-| 2023-11-25 | 4,340 | 8 |
+| 2023-11-25 | 4,341 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

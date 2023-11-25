@@ -1,13 +1,13 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.75 (Ranked 147)  
+Rating: 4.75 (Ranked 148)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 92.00% | ~9,073 |
 | I Challenge You To Save More Money! | 86.00% | ~8,481 |
-| I Love How Tough You Are | 72.00% | ~7,101 |
+| I Love How Tough You Are | 73.00% | ~7,199 |
 | Wanna Come To My Place For Dinner? | 66.00% | ~6,509 |
 | What I Want Is You | 60.00% | ~5,917 |
 | To Be Or Not To Be | 57.00% | ~5,621 |

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.10% | ~237 |
+| A Brief Tour of the Realms | 0.20% | ~474 |
 | Maddening | 0.10% | ~237 |
 | Pros and CONs | 0.10% | ~237 |
 | Upholding the Law | 0.10% | ~237 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~203 |
 | See You on the Flipside | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,925 (Ranked 64)  
+Progressed: 236,935 (Ranked 64)  
 Completed: 2,478 (1.05%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -758,7 +758,7 @@ Completed: 2,478 (1.05%) (Ranked 161)
 | 2023-11-22 | 236,428 | 2,467 |
 | 2023-11-23 | 236,580 | 2,472 |
 | 2023-11-24 | 236,781 | 2,476 |
-| 2023-11-25 | 236,925 | 2,478 |
+| 2023-11-25 | 236,935 | 2,478 |
 ## Awards
 Max (Great for Beginners): 5,562  (Ranked 70)  
 Sum: 32,614 (Ranked 41)  

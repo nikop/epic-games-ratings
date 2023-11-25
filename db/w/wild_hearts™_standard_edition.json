@@ -1691,9 +1691,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_3",
@@ -1715,9 +1715,9 @@
       "ID": "achievement_31",
       "SetID": "2cpn27e",
       "Name": "Snare Specialist",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_32",
@@ -1913,8 +1913,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:03:11.3962919+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:03:37.9167568+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.7646149+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:58:09.6143576+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:03:11.3963429+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:58:29.6762878+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:03:37.9168278+00:00"
 }

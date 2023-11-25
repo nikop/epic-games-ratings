@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1430,9 +1430,9 @@
       "ID": "TrojanHorse",
       "SetID": "71c0n9i",
       "Name": "Trojan Horse",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "UltraKill",
@@ -1494,9 +1494,9 @@
       "ID": "WinBattleWithoutAttacking",
       "SetID": "71c0n9i",
       "Name": "Expert Essence Employment",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -1558,8 +1558,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:05:37.6361328+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:05:59.1408609+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:00:17.0199081+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:05:37.6361668+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:00:34.5497502+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:05:59.1408983+00:00"
 }

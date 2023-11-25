@@ -17,13 +17,13 @@ Number of Ratings: 292  (23.09.2022)
 | Multi Kill | 3.00% | ~7 |
 | Whoops! | 3.00% | ~7 |
 | Master | 3.00% | ~7 |
+| Expert Essence Employment | 3.00% | ~7 |
 | The Song of Stoutheart | 2.00% | ~5 |
 | This Spot's Taken | 2.00% | ~5 |
 | Such A Fungi | 2.00% | ~5 |
-| Expert Essence Employment | 2.00% | ~5 |
+| Trojan Horse | 2.00% | ~5 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~5 |
 | Infernal Influence | 1.00% | ~2 |
-| Trojan Horse | 1.00% | ~2 |
 | Death To Diplomacy | 0.90% | ~2 |
 | Versatile Wielder | 0.90% | ~2 |
 | Coming Through! | 0.90% | ~2 |

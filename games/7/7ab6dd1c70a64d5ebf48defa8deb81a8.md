@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 10.00% | ~22 |
+| Trinity | 11.00% | ~24 |
 | Find Allies | 8.00% | ~17 |
 | Adventurer | 8.00% | ~17 |
 | Scholar | 8.00% | ~17 |
@@ -21,12 +21,12 @@
 | Calm before the Storm | 5.00% | ~11 |
 | Shatter Them All | 4.00% | ~9 |
 | Fine Feathers Make Fine Birds | 4.00% | ~9 |
+| Alchemist | 4.00% | ~9 |
 | To Battle | 3.00% | ~6 |
 | Godslayer | 3.00% | ~6 |
 | The Mentor | 3.00% | ~6 |
 | Airborne | 3.00% | ~6 |
 | Essence Blow | 3.00% | ~6 |
-| Alchemist | 3.00% | ~6 |
 | Clear Sight | 2.00% | ~4 |
 | Shatterer | 2.00% | ~4 |
 | Slayer | 1.00% | ~2 |

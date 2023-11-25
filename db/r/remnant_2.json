@@ -2,10 +2,10 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 129,
-  "Ranking_EOS_Progress": 69,
+  "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 7,
@@ -4737,9 +4737,9 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 227972,
-  "EOS_Completed": 526,
-  "EOS_NewPlayers": 4788,
+  "EOS_Progressed": 228014,
+  "EOS_Completed": 527,
+  "EOS_NewPlayers": 4783,
   "EOS_NewCompleters": 56,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -19867,6 +19867,11 @@
       "Time": "2023-11-25T18:08:44.5031434+00:00",
       "NumProgressed": 227972,
       "NumCompleted": 526
+    },
+    {
+      "Time": "2023-11-25T19:08:41.4847671+00:00",
+      "NumProgressed": 228014,
+      "NumCompleted": 527
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20101,9 +20106,9 @@
       "ID": "Obtain_Boss_Alt_Reward",
       "SetID": "bkp3b1a",
       "Name": "Was This Supposed To Happen?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -20181,9 +20186,9 @@
       "ID": "Obtain_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Not Your Average Trait",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 684
     },
     {
       "ID": "Obtain_Traits_B",
@@ -20318,13 +20323,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 227972,
-      "Completed": 526
+      "Progressed": 228014,
+      "Completed": 527
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 7137,
+      "Progressed": 7179,
       "Completed": 156
     }
   ],
@@ -20332,8 +20337,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-25T17:03:11.4398812+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:08:44.503143+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:08:41.4847666+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:03:00.7763333+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:08:44.5032351+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:03:26.2608838+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:08:41.4848817+00:00"
 }

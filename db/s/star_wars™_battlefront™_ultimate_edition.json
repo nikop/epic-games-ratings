@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1413,
+  "EOS_Progressed": 1415,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -4189,6 +4189,11 @@
       "Time": "2023-11-25T18:09:34.749784+00:00",
       "NumProgressed": 1413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T19:09:31.4912897+00:00",
+      "NumProgressed": 1415,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4393,7 +4398,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "achievement_32",
@@ -4401,7 +4406,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_33",
@@ -4425,7 +4430,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "achievement_36",
@@ -4441,7 +4446,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "achievement_38",
@@ -4449,7 +4454,7 @@
       "Name": "Survivor",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_39",
@@ -4465,7 +4470,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_40",
@@ -4473,7 +4478,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 708
     },
     {
       "ID": "achievement_41",
@@ -4505,7 +4510,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "achievement_45",
@@ -4641,7 +4646,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_60",
@@ -4704,13 +4709,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1413,
+      "Progressed": 1415,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1413,
+      "Progressed": 1415,
       "Completed": 1
     }
   ],
@@ -4718,8 +4723,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:09:34.7497837+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:09:31.4912892+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:58:54.5543187+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:09:34.7498409+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:59:12.1145389+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:09:31.4913504+00:00"
 }

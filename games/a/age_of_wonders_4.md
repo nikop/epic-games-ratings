@@ -42,11 +42,11 @@ Rating: 4.61 (Ranked 383)
 | Arch Mage | 0.60% | ~33 |
 | The Creator | 0.60% | ~33 |
 | Crimson Caldera | 0.60% | ~33 |
+| Manufactured War | 0.50% | ~27 |
 | The Eternal Court | 0.50% | ~27 |
 | I've Got Everything I Need Right Here | 0.40% | ~22 |
 | God Emperor | 0.40% | ~22 |
 | Lord of Chaos | 0.40% | ~22 |
-| Manufactured War | 0.40% | ~22 |
 | Pruning for Progress | 0.40% | ~22 |
 | The Goddess of Nature | 0.30% | ~16 |
 | Eternal Lord | 0.30% | ~16 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 383)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,484 (Ranked 189)  
+Progressed: 5,487 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,11 +253,11 @@ Completed: 7 (0.13%) (Ranked 272)
 | 2023-11-22 | 5,428 | 7 |
 | 2023-11-23 | 5,446 | 7 |
 | 2023-11-24 | 5,463 | 7 |
-| 2023-11-25 | 5,484 | 7 |
+| 2023-11-25 | 5,487 | 7 |
 ## Awards
-Max (Great for Beginners): 34  (Ranked 480)  
+Max (Great for Beginners): 34  (Ranked 481)  
 Sum: 60 (Ranked 477)  
-Diff (max vs sum): 3  
+Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |

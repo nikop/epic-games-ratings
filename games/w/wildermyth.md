@@ -36,6 +36,7 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 0.30% | ~4 |
 | Lochias's Hunger | 0.30% | ~4 |
 | Storied Past | 0.20% | ~3 |
+| No More Nightmares | 0.20% | ~3 |
 | In Soil, In Smoke | 0.20% | ~3 |
 | Wingknight's Prowess | 0.20% | ~3 |
 | All My Birds, Safely Home | 0.20% | ~3 |
@@ -47,7 +48,6 @@ Number of Ratings: 45  (23.09.2022)
 | Worldwalker | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | The Power of Friendship | 0.10% | ~1 |
-| No More Nightmares | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | War-Ender | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |

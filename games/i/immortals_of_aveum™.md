@@ -5,19 +5,19 @@ Rating: 4.07 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 92.00% | ~277 |
-| Battlefields Have Memories | 88.00% | ~265 |
-| Enlisted | 85.00% | ~256 |
-| Maybe Engage a Little | 81.00% | ~244 |
+| Unforeseen | 91.00% | ~275 |
+| Battlefields Have Memories | 87.00% | ~263 |
+| Enlisted | 84.00% | ~254 |
+| Maybe Engage a Little | 81.00% | ~245 |
 | No More Names | 70.00% | ~211 |
 | Initiate | 56.00% | ~169 |
 | Thrada-Kul | 52.00% | ~157 |
-| Gravity-Challenged Rocks | 43.00% | ~129 |
-| Soldier | 35.00% | ~105 |
-| All the Major Food Groups | 35.00% | ~105 |
-| Beggars Would Ride | 31.00% | ~93 |
-| Socialite | 30.00% | ~90 |
-| Control is an Illusion | 28.00% | ~84 |
+| Gravity-Challenged Rocks | 42.00% | ~127 |
+| Soldier | 35.00% | ~106 |
+| All the Major Food Groups | 35.00% | ~106 |
+| Beggars Would Ride | 31.00% | ~94 |
+| Socialite | 30.00% | ~91 |
+| Control is an Illusion | 28.00% | ~85 |
 | The Means to Save It | 23.00% | ~69 |
 | Resilience to Sin | 21.00% | ~63 |
 | A Familiar Nest | 21.00% | ~63 |
@@ -53,7 +53,7 @@ Rating: 4.07 (Ranked 977)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301 (Ranked 350)  
+Progressed: 302 (Ranked 350)  
 Completed: 1 (0.33%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.33%) (Ranked 230)
 | 2023-11-22 | 295 | 1 |
 | 2023-11-23 | 298 | 1 |
 | 2023-11-24 | 300 | 1 |
-| 2023-11-25 | 301 | 1 |
+| 2023-11-25 | 302 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

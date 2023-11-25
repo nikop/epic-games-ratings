@@ -927,7 +927,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7345,
+  "EOS_Progressed": 7346,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -8767,6 +8767,11 @@
       "Time": "2023-11-25T17:08:54.2951929+00:00",
       "NumProgressed": 7345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T19:08:48.6578175+00:00",
+      "NumProgressed": 7346,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8818,7 +8823,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "Control_All_Relics",
@@ -8890,7 +8895,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5289
     },
     {
       "ID": "First_Ship_Designed",
@@ -9096,9 +9101,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4408
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9114,15 +9119,15 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "War_Without_Translator",
       "SetID": "4h07amh",
       "Name": "War with the Unknown",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 367
     },
     {
       "ID": "Win_As_Altarian",
@@ -9266,7 +9271,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4774
+      "UsersEstimate": 4775
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9353,15 +9358,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7345,
+      "Progressed": 7346,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-24T10:59:15.0247193+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:08:51.8424092+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T17:57:05.0588965+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:58:53.6790847+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:08:51.8424875+00:00"
+  "LastChanged_Achievements": "2023-11-25T19:08:48.6578171+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T18:57:12.8136336+00:00",
+  "LastUpdate_Ratings": "2023-11-25T18:59:11.2581828+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:08:48.6578967+00:00"
 }

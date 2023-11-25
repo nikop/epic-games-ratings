@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 422,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -400,6 +400,11 @@
       "Time": "2023-11-24T04:04:47.1331878+00:00",
       "NumProgressed": 421,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T19:05:45.4501414+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -451,7 +456,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -481,9 +486,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 190
     },
     {
       "ID": "Award_EarlyBird",
@@ -523,7 +528,7 @@
       "Name": "Gunner",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Award_HalfwayThere",
@@ -563,7 +568,7 @@
       "Name": "Hull King",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Award_IntelKing",
@@ -587,7 +592,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -659,7 +664,7 @@
       "Name": "Scavenger",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Award_ShellShock",
@@ -755,14 +760,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 1
     }
   ],
@@ -770,8 +775,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:05:23.3868134+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:05:45.450141+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:07.6510615+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:58:36.8661557+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:05:23.3868497+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:58:55.4922317+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:05:45.4501718+00:00"
 }

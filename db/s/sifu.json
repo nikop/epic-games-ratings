@@ -7869,9 +7869,9 @@
       "Count": 423
     }
   ],
-  "EOS_Progressed": 717342,
+  "EOS_Progressed": 717348,
   "EOS_Completed": 12939,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -27284,6 +27284,11 @@
       "Time": "2023-11-25T18:06:20.1783066+00:00",
       "NumProgressed": 717342,
       "NumCompleted": 12939
+    },
+    {
+      "Time": "2023-11-25T19:06:40.1711738+00:00",
+      "NumProgressed": 717348,
+      "NumCompleted": 12939
     }
   ],
   "TotalAchievements": 60,
@@ -27685,9 +27690,9 @@
       "ID": "50_Arena_GoldTimePerf",
       "SetID": "14c2oii",
       "Name": "A Touch of Acumen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 53
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -27774,21 +27779,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26643,
+      "Progressed": 26649,
       "Completed": 10753
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717342,
+      "Progressed": 717348,
       "Completed": 12939
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-25T15:58:01.2110792+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:06:20.1783062+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:06:40.1711734+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.0924879+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:57:36.9813091+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:06:20.1784904+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:57:58.0564752+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:06:40.1713094+00:00"
 }

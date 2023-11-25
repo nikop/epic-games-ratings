@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~396 |
-| Scavenger | 73.00% | ~307 |
-| Line of Duty | 72.00% | ~303 |
-| Gunner | 57.00% | ~240 |
-| DocKing | 46.00% | ~194 |
-| What-A-Shot | 44.00% | ~185 |
+| Clean Sweep | 94.00% | ~397 |
+| Scavenger | 73.00% | ~308 |
+| Line of Duty | 72.00% | ~304 |
+| Gunner | 57.00% | ~241 |
+| DocKing | 45.00% | ~190 |
+| What-A-Shot | 44.00% | ~186 |
 | Batteries Included | 38.00% | ~160 |
 | Death from Above | 34.00% | ~143 |
-| Hull King | 26.00% | ~109 |
+| Hull King | 26.00% | ~110 |
 | Boss Down | 19.00% | ~80 |
 | Extra Ammo | 19.00% | ~80 |
 | Splash Damage | 19.00% | ~80 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421 (Ranked 323)  
+Progressed: 422 (Ranked 323)  
 Completed: 1 (0.24%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 1 (0.24%) (Ranked 247)
 | 2023-11-12 | 419 | 1 |
 | 2023-11-20 | 420 | 1 |
 | 2023-11-24 | 421 | 1 |
+| 2023-11-25 | 422 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

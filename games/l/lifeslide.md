@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Starts Here | 96.00% | ~317 |
-| Road to Improvement | 73.00% | ~241 |
+| All Starts Here | 95.00% | ~314 |
+| Road to Improvement | 73.00% | ~242 |
 | Wonderful World | 59.00% | ~195 |
-| Second Wind | 58.00% | ~191 |
-| Chain of Events | 58.00% | ~191 |
+| Second Wind | 58.00% | ~192 |
+| Chain of Events | 57.00% | ~189 |
 | Change of Heart | 56.00% | ~185 |
 | Turbulence | 37.00% | ~122 |
 | Endless Possibilities | 37.00% | ~122 |
 | Finding The Way | 24.00% | ~79 |
 | Tangibility | 20.00% | ~66 |
 | Around The World | 19.00% | ~63 |
-| On The Right Path | 18.00% | ~59 |
+| On The Right Path | 18.00% | ~60 |
 | Bigger Picture | 16.00% | ~53 |
 | Sunset | 13.00% | ~43 |
 | Spring Air | 12.00% | ~40 |
@@ -28,7 +28,7 @@
 | Night Air | 7.00% | ~23 |
 | Through The Vines | 6.00% | ~20 |
 | Under And Over | 6.00% | ~20 |
-| All The Pieces | 5.00% | ~16 |
+| All The Pieces | 5.00% | ~17 |
 | Take 'em For a Spin | 4.00% | ~13 |
 | Parallelogram | 4.00% | ~13 |
 | Welcome to The Jungle | 3.00% | ~10 |
@@ -36,7 +36,7 @@
 | In Love | 1.00% | ~3 |
 | Survivor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 339)  
+Progressed: 331 (Ranked 338)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,6 +57,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-10-09 | 328 | 0 |
 | 2023-11-18 | 329 | 0 |
 | 2023-11-21 | 330 | 0 |
+| 2023-11-25 | 331 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

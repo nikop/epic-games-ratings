@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2270,
+  "EOS_Progressed": 2272,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5372,6 +5372,11 @@
       "Time": "2023-11-25T13:13:16.9463462+00:00",
       "NumProgressed": 2270,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T19:09:30.7039494+00:00",
+      "NumProgressed": 2272,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5384,7 +5389,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5392,7 +5397,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5416,7 +5421,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -5440,7 +5445,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5472,7 +5477,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5488,7 +5493,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -5560,7 +5565,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5592,7 +5597,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5775,14 +5780,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2270,
+      "Progressed": 2272,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-25T18:09:33.9571715+00:00",
+  "LastChanged_Achievements": "2023-11-25T19:09:30.7039489+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:58:06.5439964+00:00",
-  "LastUpdate_Achievements": "2023-11-25T18:09:33.9572233+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:58:26.8416366+00:00",
+  "LastUpdate_Achievements": "2023-11-25T19:09:30.7040133+00:00"
 }
