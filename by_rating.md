@@ -262,7 +262,7 @@
 | 253 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,051 | 84 |
 | 253 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 731 | 180 |
 | 253 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,601 | 69 |
-| 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 316,230 | 3 |
+| 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 316,344 | 3 |
 | 253 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 263,954 | 4 |
 | 253 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 554 |
 | 253 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 554 |
@@ -504,7 +504,7 @@
 | 493 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 554 |
 | 493 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 25 | 520 |
 | 493 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,751 | 76 |
-| 493 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,818 | 119 |
+| 493 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,819 | 119 |
 | 493 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,881 | 74 |
 | 507 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 554 |
 | 507 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 554 |
@@ -935,7 +935,7 @@
 | 933 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 554 |
 | 933 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 554 |
 | 933 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,970 | 98 |
-| 933 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 212,587 | 5 |
+| 933 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 212,703 | 5 |
 | 933 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 367 |
 | 938 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 364 |
 | 938 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.17 | 29 | 500 |
