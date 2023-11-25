@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -949,17 +949,17 @@
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "Engineer",
       "SetID": "b7i210",
       "Name": "Engineer",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "Express_home_delivery",
@@ -981,33 +981,33 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 58,
-      "XP": 50,
-      "UsersEstimate": 93
-    },
-    {
-      "ID": "Florist",
-      "SetID": "b7i210",
-      "Name": "Florist",
-      "Percentage": 67,
-      "XP": 50,
-      "UsersEstimate": 107
-    },
-    {
-      "ID": "Game_changer",
-      "SetID": "b7i210",
-      "Name": "Game changer",
       "Percentage": 59,
       "XP": 50,
       "UsersEstimate": 94
     },
     {
+      "ID": "Florist",
+      "SetID": "b7i210",
+      "Name": "Florist",
+      "Percentage": 68,
+      "XP": 50,
+      "UsersEstimate": 109
+    },
+    {
+      "ID": "Game_changer",
+      "SetID": "b7i210",
+      "Name": "Game changer",
+      "Percentage": 60,
+      "XP": 50,
+      "UsersEstimate": 96
+    },
+    {
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "Liberator",
@@ -1053,9 +1053,9 @@
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "Tower_builder",
@@ -1084,8 +1084,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:05:28.8887099+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:04:47.6249419+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:02:41.8764664+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:05:28.8887256+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:00:54.9871374+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:04:47.6249554+00:00"
 }

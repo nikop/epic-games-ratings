@@ -1,55 +1,55 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.50 (Ranked 591)  
+Rating: 4.50 (Ranked 592)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,587 |
-| For Saw Gerrera | 98.00% | ~8,501 |
-| Grab Some Seat | 91.00% | ~7,893 |
-| Can You Pet the Bogling? | 87.00% | ~7,546 |
-| The Past Made Present | 83.00% | ~7,199 |
-| Survivors, We Adapt | 79.00% | ~6,852 |
-| Among the Masters | 78.00% | ~6,766 |
-| They Never Saw It Coming | 77.00% | ~6,679 |
-| Who Gives a Puck | 74.00% | ~6,419 |
-| For the Path | 66.00% | ~5,725 |
-| Now, This Isn't Podracing | 65.00% | ~5,638 |
-| Mirror Match | 64.00% | ~5,551 |
-| Skywalker | 62.00% | ~5,378 |
-| Out of Bedlam | 61.00% | ~5,291 |
-| Cleaning Up | 54.00% | ~4,684 |
-| Tanalorr Bound | 53.00% | ~4,597 |
-| Kitted Out | 52.00% | ~4,510 |
-| Tragedy | 51.00% | ~4,424 |
-| Hey, Luke At Us | 50.00% | ~4,337 |
-| At the Precipice | 49.00% | ~4,250 |
+| Rooftop Duel | 99.00% | ~8,589 |
+| For Saw Gerrera | 98.00% | ~8,502 |
+| Grab Some Seat | 91.00% | ~7,895 |
+| Can You Pet the Bogling? | 87.00% | ~7,548 |
+| The Past Made Present | 83.00% | ~7,201 |
+| Survivors, We Adapt | 79.00% | ~6,854 |
+| Among the Masters | 78.00% | ~6,767 |
+| They Never Saw It Coming | 77.00% | ~6,681 |
+| Who Gives a Puck | 74.00% | ~6,420 |
+| For the Path | 66.00% | ~5,726 |
+| Now, This Isn't Podracing | 65.00% | ~5,639 |
+| Mirror Match | 64.00% | ~5,553 |
+| Skywalker | 62.00% | ~5,379 |
+| Out of Bedlam | 61.00% | ~5,292 |
+| Cleaning Up | 54.00% | ~4,685 |
+| Tanalorr Bound | 53.00% | ~4,598 |
+| Kitted Out | 52.00% | ~4,512 |
+| Tragedy | 51.00% | ~4,425 |
+| Hey, Luke At Us | 50.00% | ~4,338 |
+| At the Precipice | 49.00% | ~4,251 |
 | Into the Abyss | 48.00% | ~4,164 |
-| A Place You Could Call Home | 46.00% | ~3,990 |
-| Riposte | 46.00% | ~3,990 |
+| A Place You Could Call Home | 46.00% | ~3,991 |
+| Riposte | 46.00% | ~3,991 |
 | Greezy Money | 44.00% | ~3,817 |
-| Catch! | 41.00% | ~3,556 |
+| Catch! | 41.00% | ~3,557 |
 | They're Probably Fine | 40.00% | ~3,470 |
-| Han Slowlo | 38.00% | ~3,296 |
-| There Is No Try | 37.00% | ~3,209 |
+| Han Slowlo | 38.00% | ~3,297 |
+| There Is No Try | 37.00% | ~3,210 |
 | The Jedi Path | 32.00% | ~2,776 |
-| This Is Canon | 29.00% | ~2,515 |
-| It's a Trap | 26.00% | ~2,255 |
+| This Is Canon | 29.00% | ~2,516 |
+| It's a Trap | 26.00% | ~2,256 |
 | You've Got A Friend | 23.00% | ~1,995 |
 | King of the World | 16.00% | ~1,388 |
 | Reconnaissance | 15.00% | ~1,301 |
-| Max Capacity | 14.00% | ~1,214 |
-| A Presence I've Not Felt Since... | 14.00% | ~1,214 |
+| Max Capacity | 14.00% | ~1,215 |
+| A Presence I've Not Felt Since... | 14.00% | ~1,215 |
 | Slam Dunk | 12.00% | ~1,041 |
 | Star Tours | 11.00% | ~954 |
-| Caij Match | 10.00% | ~867 |
-| Gambler | 10.00% | ~867 |
+| Caij Match | 10.00% | ~868 |
+| Gambler | 10.00% | ~868 |
 | Growth Spurt | 9.00% | ~781 |
 | Perk of the Job | 7.00% | ~607 |
-| I'm a Living Legend | 6.00% | ~520 |
-| Road House | 6.00% | ~520 |
-| Skoova Diving | 6.00% | ~520 |
+| I'm a Living Legend | 6.00% | ~521 |
+| Road House | 6.00% | ~521 |
+| Skoova Diving | 6.00% | ~521 |
 | Get Down From There | 5.00% | ~434 |
 | Intergalactic Geographic | 5.00% | ~434 |
 | So Uncivilized | 3.00% | ~260 |
@@ -57,9 +57,9 @@ Rating: 4.50 (Ranked 591)
 | Cobra Cal | 3.00% | ~260 |
 | Splurgle | 3.00% | ~260 |
 | Blood, Sweat, and Tears | 3.00% | ~260 |
-| Pinpoint | 2.00% | ~173 |
+| Pinpoint | 2.00% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,674 (Ranked 170)  
+Progressed: 8,676 (Ranked 170)  
 Completed: 51 (0.59%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 51 (0.59%) (Ranked 191)
 | 2023-11-22 | 8,487 | 49 |
 | 2023-11-23 | 8,549 | 51 |
 | 2023-11-24 | 8,616 | 51 |
-| 2023-11-25 | 8,674 | 51 |
+| 2023-11-25 | 8,676 | 51 |
 ## Awards
 Max (Great Boss Battles): 3,323  (Ranked 96)  
 Sum: 5,134 (Ranked 137)  

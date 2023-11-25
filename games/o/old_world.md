@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.50% | ~77 |
 | Capturing Cities | 0.50% | ~77 |
 | Ten Crowns | 0.50% | ~77 |
+| Three Man Chariot | 0.50% | ~77 |
 | Siege Tower | 0.50% | ~77 |
 | Conquest Victory | 0.50% | ~77 |
 | Rmt n Kmt Buhen | 0.50% | ~77 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.40% | ~62 |
 | Nenikekamen | 0.40% | ~62 |
 | Assyria | 0.40% | ~62 |
-| Three Man Chariot | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,477 (Ranked 152)  
+Progressed: 15,479 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -568,7 +568,7 @@ Completed: 5 (0.03%) (Ranked 323)
 | 2023-11-22 | 15,428 | 5 |
 | 2023-11-23 | 15,453 | 5 |
 | 2023-11-24 | 15,467 | 5 |
-| 2023-11-25 | 15,477 | 5 |
+| 2023-11-25 | 15,479 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,875 (Ranked 218)  

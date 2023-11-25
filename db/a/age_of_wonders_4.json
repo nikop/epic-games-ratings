@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5481,
+  "EOS_Progressed": 5483,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7428,6 +7428,11 @@
       "Time": "2023-11-25T16:06:35.0661894+00:00",
       "NumProgressed": 5481,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T17:05:40.6259116+00:00",
+      "NumProgressed": 5483,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7853,9 +7858,9 @@
       "ID": "53",
       "SetID": "7132754",
       "Name": "Prometheus Avenged",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "54",
@@ -7918,13 +7923,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5481,
+      "Progressed": 5483,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5481,
+      "Progressed": 5483,
       "Completed": 7
     }
   ],
@@ -7932,8 +7937,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:06:35.0661889+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:05:40.6259114+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:57:32.367632+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:06:35.0662598+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:57:34.3588292+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:05:40.6259724+00:00"
 }

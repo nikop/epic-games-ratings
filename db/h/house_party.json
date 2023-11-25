@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -6475,9 +6475,9 @@
       "ID": "Bride",
       "SetID": "bmkn7o4",
       "Name": "The Bride",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 26
     },
     {
       "ID": "Casabrova",
@@ -6977,8 +6977,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:04:12.6416628+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:03:46.3231806+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:05.3490956+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:01:31.4853799+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:04:12.6417297+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:00:39.2348439+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:03:46.3232494+00:00"
 }

@@ -29,10 +29,10 @@ Rating: 4.64 (Ranked 333)
 | Betrayed | 40.00% | ~790 |
 | Legend Teller | 39.00% | ~770 |
 | Exodus | 38.00% | ~750 |
+| There's Always Peng! | 38.00% | ~750 |
 | Mindless Prey | 38.00% | ~750 |
-| There's Always Peng! | 37.00% | ~730 |
+| Front Toward Enemy | 34.00% | ~671 |
 | A Cut Above | 33.00% | ~651 |
-| Front Toward Enemy | 33.00% | ~651 |
 | Set A Benchmark | 30.00% | ~592 |
 | Whole Again | 29.00% | ~572 |
 | Pack Rat | 27.00% | ~533 |

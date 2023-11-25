@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13909,
+  "EOS_Progressed": 13912,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15199,6 +15199,11 @@
       "Time": "2023-11-25T16:07:07.2231477+00:00",
       "NumProgressed": 13909,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T17:06:07.4937409+00:00",
+      "NumProgressed": 13912,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -15234,7 +15239,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -15282,7 +15287,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6120
+      "UsersEstimate": 6121
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -15409,14 +15414,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13909,
+      "Progressed": 13912,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:07:07.2231473+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:06:07.4937406+00:00",
   "LastUpdate_AppInfo": "2023-11-25T04:57:09.2141151+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:00:42.7652824+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:07:07.2232443+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:00:02.876804+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:06:07.4938261+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -770,10 +770,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 373,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-11-25T16:58:44.1865878+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 374,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 373,
+  "NumberOfAwards": 374,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -817,7 +823,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Diverse Characters",
@@ -838,7 +844,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47694,
+  "EOS_Progressed": 47705,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 850,
   "EOS_NewCompleters": 0,
@@ -25618,6 +25624,11 @@
       "Time": "2023-11-25T16:03:44.0446548+00:00",
       "NumProgressed": 47694,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-25T17:03:23.5230331+00:00",
+      "NumProgressed": 47705,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -25653,7 +25664,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5248
     },
     {
       "ID": "distance500000",
@@ -25669,7 +25680,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12877
+      "UsersEstimate": 12880
     },
     {
       "ID": "goals180",
@@ -25685,7 +25696,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4769
+      "UsersEstimate": 4770
     },
     {
       "ID": "goals75",
@@ -25749,7 +25760,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8108
+      "UsersEstimate": 8110
     },
     {
       "ID": "novice",
@@ -25757,7 +25768,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7631
+      "UsersEstimate": 7633
     },
     {
       "ID": "playerFelipe",
@@ -25805,7 +25816,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "playerWingsuit",
@@ -25835,9 +25846,9 @@
       "ID": "rookie",
       "SetID": "2lgngib",
       "Name": "Finding Your Footing",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12400
+      "UsersEstimate": 11926
     },
     {
       "ID": "sandboarder",
@@ -25853,7 +25864,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5248
     },
     {
       "ID": "ultimate",
@@ -25893,7 +25904,7 @@
       "Name": "Welcome Maya",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6677
+      "UsersEstimate": 6679
     },
     {
       "ID": "unlockpaz",
@@ -25940,15 +25951,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47694,
+      "Progressed": 47705,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2023-11-23T19:57:38.7280718+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:03:44.0446545+00:00",
+  "LastChanged": "2023-11-25T16:58:44.1865876+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:03:23.5230329+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.043749+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:59:03.0948713+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:03:44.044937+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:58:44.1865885+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:03:23.5231725+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12415,11 +12415,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 58807,
       "NumberOfAwardsMax": 7144
+    },
+    {
+      "Time": "2023-11-25T16:59:27.9045479+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 58844,
+      "NumberOfAwardsMax": 7165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58807,
-  "NumberOfAwardsMax": 7144,
+  "NumberOfAwards": 58844,
+  "NumberOfAwardsMax": 7165,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -12432,7 +12438,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 6768
+      "Count": 6784
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12450,7 +12456,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7144
+      "Count": 7165
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12489,9 +12495,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 463341,
+  "EOS_Progressed": 463389,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4943,
+  "EOS_NewPlayers": 4921,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37609,6 +37615,11 @@
       "Time": "2023-11-25T16:06:26.1438331+00:00",
       "NumProgressed": 463341,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T17:05:33.7840268+00:00",
+      "NumProgressed": 463389,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37930,9 +37941,9 @@
       "ID": "achievement_baltic_crusader",
       "SetID": "8p2n7he",
       "Name": "Baltic Crusader",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_banners_need_a_saga",
@@ -40523,21 +40534,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 463341,
+      "Progressed": 463389,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 463341,
+      "Progressed": 463389,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-25T15:59:59.0124411+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:06:26.1438328+00:00",
+  "LastChanged": "2023-11-25T16:59:27.9045477+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:05:33.7840266+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:59:59.0124417+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:06:26.144844+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:27.9045482+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:05:33.785052+00:00"
 }

@@ -17,8 +17,8 @@ Number of Ratings: 45  (23.09.2022)
 | Completing the Look | 2.00% | ~30 |
 | War Endured | 2.00% | ~30 |
 | Core Failure | 2.00% | ~30 |
+| A Mythic Menagerie | 1.00% | ~15 |
 | Who's Counting? | 1.00% | ~15 |
-| A Mythic Menagerie | 0.90% | ~13 |
 | Let Me Get My Chisel | 0.90% | ~13 |
 | Echoes Die | 0.90% | ~13 |
 | Thematic Divergence | 0.70% | ~10 |
@@ -34,6 +34,7 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 0.30% | ~4 |
 | Everfading | 0.30% | ~4 |
 | Astrology | 0.30% | ~4 |
+| Lochias's Hunger | 0.30% | ~4 |
 | Storied Past | 0.20% | ~3 |
 | In Soil, In Smoke | 0.20% | ~3 |
 | Wingknight's Prowess | 0.20% | ~3 |
@@ -41,7 +42,6 @@ Number of Ratings: 45  (23.09.2022)
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
-| Lochias's Hunger | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
 | Overwhelming Monstrosity | 0.10% | ~1 |
 | Worldwalker | 0.10% | ~1 |

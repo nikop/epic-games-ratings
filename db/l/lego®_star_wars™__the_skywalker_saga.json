@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3689,9 +3689,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 52002,
+  "EOS_Progressed": 52003,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -13989,6 +13989,11 @@
       "Time": "2023-11-25T14:05:35.2472602+00:00",
       "NumProgressed": 52002,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-11-25T17:06:04.8653248+00:00",
+      "NumProgressed": 52003,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 45,
@@ -14112,7 +14117,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30681
+      "UsersEstimate": 30682
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -14168,7 +14173,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11960
+      "UsersEstimate": 11961
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -14176,7 +14181,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10400
+      "UsersEstimate": 10401
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -14192,7 +14197,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29641
+      "UsersEstimate": 29642
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -14224,7 +14229,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 9880
+      "UsersEstimate": 9881
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -14240,7 +14245,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30681
+      "UsersEstimate": 30682
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -14248,7 +14253,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 9880
+      "UsersEstimate": 9881
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -14264,7 +14269,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50442
+      "UsersEstimate": 50443
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14304,7 +14309,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37441
+      "UsersEstimate": 37442
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -14336,7 +14341,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28081
+      "UsersEstimate": 28082
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -14352,22 +14357,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37441
+      "UsersEstimate": 37442
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 52002,
+      "Progressed": 52003,
       "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-11-25T05:57:13.4183485+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:07:04.0302048+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:06:04.8653244+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:25.8644446+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:57:35.7360761+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:07:04.0302869+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:57:37.0746769+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:06:04.8654032+00:00"
 }

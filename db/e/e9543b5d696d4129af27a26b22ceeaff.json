@@ -2,10 +2,10 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 643,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
     {
       "Time": "2023-11-25T09:03:48.6064607+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T17:04:02.373174+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -91,7 +96,7 @@
       "ID": "ACH_AMERICAN_CAREER",
       "SetID": "1lnhagg",
       "Name": "To the States!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -99,7 +104,7 @@
       "ID": "ACH_ASSISTS_DELIVERY",
       "SetID": "1lnhagg",
       "Name": "Best Assistant",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -115,7 +120,7 @@
       "ID": "ACH_EMPTY_ARENA",
       "SetID": "1lnhagg",
       "Name": "Phantom Arena",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -123,7 +128,7 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -131,7 +136,7 @@
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -139,7 +144,7 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 125,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -147,7 +152,7 @@
       "ID": "ACH_FIVE_STARS_MANAGER",
       "SetID": "1lnhagg",
       "Name": "Five Star Manager",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -267,9 +272,9 @@
       "ID": "ACH_WELCOME",
       "SetID": "1lnhagg",
       "Name": "Welcome to IBM 23!",
-      "Percentage": 150,
+      "Percentage": 140,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_WINNER_STREAK",
@@ -283,7 +288,7 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -316,14 +321,14 @@
     {
       "ID": "1lnhagg",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:04:32.1589189+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:04:02.3731737+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:54.711803+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:00:37.2227199+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:04:32.1589385+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:58.4265145+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:04:02.3731917+00:00"
 }

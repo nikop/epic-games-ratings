@@ -4,8 +4,8 @@
   "ProductSlug": "kibagames-0c1182",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.3443909+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:59:53.9591774+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:05:58.8887835+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:24.2346711+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:05:11.3208112+00:00"
 }

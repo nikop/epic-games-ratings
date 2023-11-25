@@ -37,9 +37,9 @@ Number of Ratings: 177  (23.09.2022)
 | Deck the Balls | 0.50% | ~18 |
 | Love Conquers All | 0.50% | ~33 |
 | Ashley | 0.40% | ~26 |
+| The Bride | 0.40% | ~26 |
 | Rachael | 0.40% | ~26 |
 | Good Ol' Days | 0.40% | ~26 |
-| The Bride | 0.30% | ~20 |
 | Drunk and Disorderly: Madison | 0.30% | ~20 |
 | Do Not Burn | 0.30% | ~20 |
 | First Impressions | 0.30% | ~20 |

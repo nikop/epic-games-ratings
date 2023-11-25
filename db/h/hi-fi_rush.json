@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4337,
+  "EOS_Progressed": 4340,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7660,6 +7660,11 @@
       "Time": "2023-11-25T16:03:44.3074173+00:00",
       "NumProgressed": 4337,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T17:03:23.8103234+00:00",
+      "NumProgressed": 4340,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7671,7 +7676,7 @@
       "Name": "Start with a bang!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "Ach002",
@@ -7695,7 +7700,7 @@
       "Name": "The Negotiator",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "Ach005",
@@ -7783,7 +7788,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "Ach016",
@@ -7863,7 +7868,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "Ach026",
@@ -7895,7 +7900,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "Ach030",
@@ -7999,7 +8004,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "Ach043",
@@ -8238,13 +8243,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4337,
+      "Progressed": 4340,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2858,
+      "Progressed": 2861,
       "Completed": 1930
     }
   ],
@@ -8252,8 +8257,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:03:44.3074172+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:03:23.8103233+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:00:05.5181544+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:03:44.3075165+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:33.3459464+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:03:23.8103988+00:00"
 }

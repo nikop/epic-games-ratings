@@ -3,9 +3,9 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 287,
-  "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 673,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.64,
+  "EOS_Completed_Percentage": 1.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -1685,6 +1685,11 @@
       "Time": "2023-11-25T15:09:47.0042223+00:00",
       "NumProgressed": 672,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-25T17:09:18.4465468+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1696,7 +1701,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "booty_call",
@@ -1720,7 +1725,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "hold_my_beer",
@@ -1736,7 +1741,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "interrogation",
@@ -1808,14 +1813,14 @@
       "Name": "We Go Again",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 11
     }
   ],
@@ -1823,8 +1828,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:09:46.2900459+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:09:18.4465464+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:39.9190585+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:59:59.7250565+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:09:46.2900656+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:28.4458708+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:09:18.4465622+00:00"
 }

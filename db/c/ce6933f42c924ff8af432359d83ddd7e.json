@@ -4,8 +4,8 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -24,10 +24,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1168,
+  "EOS_Progressed": 1169,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 197,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 192,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
     {
@@ -2514,6 +2514,11 @@
       "Time": "2023-11-25T14:08:52.2339174+00:00",
       "NumProgressed": 1168,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-25T17:09:09.1831177+00:00",
+      "NumProgressed": 1169,
+      "NumCompleted": 48
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2542,7 +2547,7 @@
       "Name": "Sweet tooth",
       "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2582,7 +2587,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2598,21 +2603,21 @@
       "Name": "Exit",
       "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1168,
+      "Progressed": 1169,
       "Completed": 48
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:09:34.9414643+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:09:09.1831174+00:00",
   "LastUpdate_AppInfo": "2023-11-24T16:56:56.882422+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:02:55.2738282+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:09:34.9414848+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:02:45.1126461+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:09:09.1831371+00:00"
 }

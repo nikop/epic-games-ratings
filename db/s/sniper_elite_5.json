@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3927,
+  "EOS_Progressed": 3928,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8181,6 +8181,11 @@
       "Time": "2023-11-25T16:06:00.7581529+00:00",
       "NumProgressed": 3927,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-25T17:05:12.9382481+00:00",
+      "NumProgressed": 3928,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8272,7 +8277,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8376,7 +8381,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -8416,7 +8421,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8504,7 +8509,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8528,7 +8533,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8584,7 +8589,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8656,7 +8661,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -8759,13 +8764,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3878,
+      "Progressed": 3879,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3927,
+      "Progressed": 3928,
       "Completed": 11
     }
   ],
@@ -8773,8 +8778,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:06:00.7581526+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:05:12.9382479+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.6853838+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:01:20.3746941+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:06:00.7582381+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:00:31.3790293+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:05:12.9383219+00:00"
 }

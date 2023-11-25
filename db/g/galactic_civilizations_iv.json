@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -927,7 +927,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7344,
+  "EOS_Progressed": 7345,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -8762,6 +8762,11 @@
       "Time": "2023-11-25T10:08:56.579124+00:00",
       "NumProgressed": 7344,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T17:08:54.2951929+00:00",
+      "NumProgressed": 7345,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8877,7 +8882,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5655
+      "UsersEstimate": 5656
     },
     {
       "ID": "First_Race_Met",
@@ -8909,7 +8914,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5655
+      "UsersEstimate": 5656
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9348,15 +9353,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7344,
+      "Progressed": 7345,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-24T10:59:15.0247193+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:09:16.7903977+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:08:54.2951927+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:05.0588965+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:59:47.0404451+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:09:16.7904787+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:18.4894191+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:08:54.2952917+00:00"
 }

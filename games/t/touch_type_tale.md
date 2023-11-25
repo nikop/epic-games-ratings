@@ -7,7 +7,7 @@
 | You and what Army? | 88.00% | ~3,340 |
 | Flanked! | 76.00% | ~2,884 |
 | Economics 101 | 60.00% | ~2,277 |
-| Get Rich Quick | 42.00% | ~1,594 |
+| Get Rich Quick | 43.00% | ~1,632 |
 | Do the Splits | 38.00% | ~1,442 |
 | Maestro | 26.00% | ~987 |
 | Full Employment | 18.00% | ~683 |
@@ -32,9 +32,9 @@
 | We Have the Technology | 4.00% | ~152 |
 | Figure of Breach | 4.00% | ~152 |
 | Work It | 3.00% | ~114 |
+| Almost Like Winning | 3.00% | ~114 |
 | The Handyman Can! | 3.00% | ~114 |
 | A Brief Moment of Respite | 3.00% | ~114 |
-| Almost Like Winning | 2.00% | ~76 |
 | Untouchable | 1.00% | ~38 |
 | All Geared Up | 0.90% | ~34 |
 ## Popularity (Based on EOS Achievements)

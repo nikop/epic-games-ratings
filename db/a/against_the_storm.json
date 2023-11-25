@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3293,9 +3293,9 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17462,
+  "EOS_Progressed": 17463,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -14163,6 +14163,11 @@
       "Time": "2023-11-25T16:08:53.7721084+00:00",
       "NumProgressed": 17462,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-25T17:08:35.2182324+00:00",
+      "NumProgressed": 17463,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 50,
@@ -14254,7 +14259,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinFirstGame",
@@ -14278,7 +14283,7 @@
       "Name": "Against All Odds",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinNearArmory",
@@ -14286,7 +14291,7 @@
       "Name": "Ruined Armory",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinNearBandit",
@@ -14302,7 +14307,7 @@
       "Name": "Barren Lands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinNearBattleground",
@@ -14358,7 +14363,7 @@
       "Name": "Haunted Forest",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinNearLevitating",
@@ -14366,7 +14371,7 @@
       "Name": "Levitating Monument",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinNearMines",
@@ -14374,7 +14379,7 @@
       "Name": "Flooded Mines",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinNearMonastery",
@@ -14382,7 +14387,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinNearOutpost",
@@ -14406,7 +14411,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinNearTemple",
@@ -14422,7 +14427,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinNearWatchtower",
@@ -14446,7 +14451,7 @@
       "Name": "Cursed Lands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WinOnMarshlands",
@@ -14573,15 +14578,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17462,
+      "Progressed": 17463,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-24T01:44:31.8803351+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:08:53.772108+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:08:35.2182322+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.2424074+00:00",
   "LastUpdate_Ratings": "2023-11-25T16:02:43.5497071+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:08:53.7721752+00:00"
+  "LastUpdate_Achievements": "2023-11-25T17:08:35.2182976+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -721,7 +721,7 @@
   ],
   "EOS_Progressed": 1974,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -6282,9 +6282,9 @@
       "ID": "achievement_38",
       "SetID": "222fo9l",
       "Name": "Front Toward Enemy",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 671
     },
     {
       "ID": "achievement_39",
@@ -6306,9 +6306,9 @@
       "ID": "achievement_40",
       "SetID": "222fo9l",
       "Name": "There\u0027s Always Peng!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 750
     },
     {
       "ID": "achievement_41",
@@ -6419,8 +6419,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-24T08:59:05.9325653+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:08:31.1160493+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:08:16.7786471+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:00:25.4414383+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:08:31.116108+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:49.3315411+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:08:16.7787053+00:00"
 }

@@ -258,8 +258,8 @@ Completed: 1,382 (4.82%) (Ranked 75)
 | 2023-11-25 | 28,650 | 1,382 |
 ## Awards
 Max (Amazing Storytelling): 42  (Ranked 453)  
-Sum: 363 (Ranked 352)  
-Diff (max vs sum): 101  
+Sum: 365 (Ranked 351)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 42 |
@@ -271,8 +271,8 @@ Diff (max vs sum): 101
 | This game has Diverse Characters | 31 |
 | This game is Extremely Fun | 31 |
 | This game has a Creative Community | 30 |
+| This game has Easy Combat | 29 |
 | This game is Relaxing | 28 |
-| This game has Easy Combat | 27 |
 | This game has Obsessive Gameplay | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -397,3 +397,4 @@ Diff (max vs sum): 101
 | 2023-11-20 | 4.86 | - | 42 | 360 |
 | 2023-11-22 | 4.86 | - | 42 | 362 |
 | 2023-11-23 | 4.86 | - | 42 | 363 |
+| 2023-11-25 | 4.86 | - | 42 | 365 |

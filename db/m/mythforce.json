@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 191,
@@ -776,9 +776,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5082,
+  "EOS_Progressed": 5084,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -9866,6 +9866,11 @@
       "Time": "2023-11-25T15:03:41.4903483+00:00",
       "NumProgressed": 5082,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-25T17:03:32.3462266+00:00",
+      "NumProgressed": 5084,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9918,7 +9923,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9926,7 +9931,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9982,7 +9987,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -10038,7 +10043,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -10061,15 +10066,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5082,
+      "Progressed": 5084,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:03:55.3067066+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:03:32.3462264+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:02:41.509134+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:03:55.3067742+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:00:54.7127974+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:03:32.346287+00:00"
 }

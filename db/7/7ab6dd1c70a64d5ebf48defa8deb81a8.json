@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -850,6 +850,11 @@
       "Time": "2023-11-25T03:09:41.6742598+00:00",
       "NumProgressed": 215,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-25T17:09:37.701926+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -915,9 +920,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_09",
@@ -971,9 +976,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_16",
@@ -1148,14 +1153,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:10:09.3020972+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:09:37.7019259+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:59:02.7844157+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:10:09.302122+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:58:43.9233756+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:09:37.7019462+00:00"
 }

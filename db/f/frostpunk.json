@@ -2,13 +2,13 @@
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
   "ProductSlug": "frostpunk",
-  "Ranking_Rating": 159,
+  "Ranking_Rating": 158,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -6189,10 +6189,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 7173,
       "NumberOfAwardsMax": 840
+    },
+    {
+      "Time": "2023-11-25T16:59:54.2412066+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7178,
+      "NumberOfAwardsMax": 840
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7173,
+  "NumberOfAwards": 7178,
   "NumberOfAwardsMax": 840,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -6224,13 +6230,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 766
+      "Count": 768
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 785
+      "Count": 786
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6248,7 +6254,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 581
+      "Count": 582
     },
     {
       "Text": "This game has a Creative Community",
@@ -6260,7 +6266,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 689
+      "Count": 690
     }
   ],
   "EOS_Progressed": 0,
@@ -6282,9 +6288,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-11-25T08:59:26.0517074+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:08:56.3351972+00:00",
+  "LastChanged": "2023-11-25T16:59:54.2412064+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:08:37.1866241+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.3490307+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:00:31.8864456+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:08:56.3351992+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:54.241207+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:08:37.186626+00:00"
 }

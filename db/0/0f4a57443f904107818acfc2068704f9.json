@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 598,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1182,6 +1182,11 @@
       "Time": "2023-11-25T16:07:01.9476849+00:00",
       "NumProgressed": 592,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T17:06:03.187132+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1202,7 +1207,7 @@
       "Name": "Territorial",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1210,7 +1215,7 @@
       "Name": "Chosen Victor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -1250,7 +1255,7 @@
       "Name": "Pathfinder",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 437
     },
     {
       "ID": "CompleteChapter10",
@@ -1258,7 +1263,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "CompleteChapter11",
@@ -1266,15 +1271,15 @@
       "Name": "The Artefact is Mine",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 48
     },
     {
       "ID": "CompleteChapter13",
@@ -1282,7 +1287,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CompleteChapter14",
@@ -1338,15 +1343,15 @@
       "Name": "Met the Enemy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 323
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 215
     },
     {
       "ID": "CompleteChapter4",
@@ -1354,15 +1359,15 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 126
     },
     {
       "ID": "CompleteChapter6",
@@ -1370,7 +1375,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CompleteChapter7",
@@ -1378,7 +1383,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CompleteChapter8",
@@ -1386,7 +1391,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CompleteChapter9",
@@ -1394,7 +1399,7 @@
       "Name": "Ingredients List",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1442,7 +1447,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 197
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1466,7 +1471,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1489,14 +1494,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 598,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:07:01.9476844+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:06:03.1871318+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:59:40.5268242+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:07:01.9477073+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:13.3830064+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:06:03.187153+00:00"
 }

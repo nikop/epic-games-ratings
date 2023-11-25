@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -311,9 +311,9 @@
       "ID": "creepytale3_ach_37",
       "SetID": "7idcjbn",
       "Name": "Inspector",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "creepytale3_ach_38",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:07:16.5947489+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:06:14.8574152+00:00",
   "LastUpdate_AppInfo": "2023-11-22T04:57:15.1907927+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:02:47.8884257+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:07:16.5947673+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:02:39.5325989+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:06:14.8574348+00:00"
 }

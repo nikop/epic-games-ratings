@@ -4,8 +4,8 @@
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 119,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.52,
   "EosHistory": [
@@ -432,8 +432,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:09:24.5990371+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T15:57:13.8772084+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:58:37.0101694+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:09:24.5990462+00:00"
+  "LastChanged_Achievements": "2023-11-25T17:09:00.7951868+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T16:57:11.0655621+00:00",
+  "LastUpdate_Ratings": "2023-11-25T16:58:23.3988627+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:09:00.7951956+00:00"
 }

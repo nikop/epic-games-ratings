@@ -21,8 +21,8 @@
 | Charismatic | 50.00% | ~701 |
 | Asari Ally | 47.00% | ~659 |
 | Soldier Ally | 46.00% | ~645 |
+| Principled | 46.00% | ~645 |
 | Medal of Exploration III | 45.00% | ~631 |
-| Principled | 45.00% | ~631 |
 | Colonial Savior | 44.00% | ~617 |
 | Paramour I | 43.00% | ~603 |
 | Missing in Action | 43.00% | ~603 |
@@ -58,6 +58,7 @@
 | Catharsis | 30.00% | ~421 |
 | Fade Away | 30.00% | ~421 |
 | Big Game Hunter | 30.00% | ~421 |
+| Revenge! | 30.00% | ~421 |
 | Heart of Darkness | 30.00% | ~421 |
 | Bringer of War | 30.00% | ~421 |
 | Focused | 29.00% | ~407 |
@@ -65,7 +66,6 @@
 | Cat's in the Cradle | 29.00% | ~407 |
 | Treason | 29.00% | ~407 |
 | Agent | 29.00% | ~407 |
-| Revenge! | 29.00% | ~407 |
 | Digital Exorcist | 29.00% | ~407 |
 | Against All Odds | 28.00% | ~393 |
 | Friend or Foe | 28.00% | ~393 |

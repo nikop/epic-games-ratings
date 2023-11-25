@@ -2,10 +2,10 @@
   "ID": "bce5e14327134bbd9f987dc12e220e20",
   "Name": "BloodRayne Betrayal Fresh Bites",
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 420,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
     "PcReleaseDate": "2021-09-09T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -100,6 +100,11 @@
       "Time": "2023-11-24T12:09:32.6211605+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T17:09:21.9045685+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -109,7 +114,7 @@
       "ID": "Betrayed",
       "SetID": "6jf74lf",
       "Name": "Betrayed",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -117,7 +122,7 @@
       "ID": "Chainsplosion",
       "SetID": "6jf74lf",
       "Name": "Chainsplosion!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -149,7 +154,7 @@
       "ID": "CrabCakes",
       "SetID": "6jf74lf",
       "Name": "Crab Cakes",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -157,7 +162,7 @@
       "ID": "DropIn",
       "SetID": "6jf74lf",
       "Name": "Drop In",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -173,7 +178,7 @@
       "ID": "FinishHim",
       "SetID": "6jf74lf",
       "Name": "Finish Him",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -205,7 +210,7 @@
       "ID": "JustATaste",
       "SetID": "6jf74lf",
       "Name": "Just a Taste",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -229,7 +234,7 @@
       "ID": "PartingGift",
       "SetID": "6jf74lf",
       "Name": "Parting Gift",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -237,7 +242,7 @@
       "ID": "PersonallyPunched",
       "SetID": "6jf74lf",
       "Name": "Personally Punched",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -261,7 +266,7 @@
       "ID": "StomachAche",
       "SetID": "6jf74lf",
       "Name": "Stomach Ache",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -269,7 +274,7 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -277,7 +282,7 @@
       "ID": "ToSunrise",
       "SetID": "6jf74lf",
       "Name": "Survived to Sunrise",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -285,7 +290,7 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
       "UsersEstimate": 35
     },
@@ -302,7 +307,7 @@
     {
       "ID": "6jf74lf",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
@@ -310,8 +315,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:09:50.5600008+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:09:21.9045682+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.2910561+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:01:28.2004925+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:09:50.5600148+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:00:36.7369272+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:09:21.9045834+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 727,
+  "EOS_Progressed": 728,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.95,
   "EosHistory": [
@@ -2960,6 +2960,11 @@
       "Time": "2023-11-25T15:03:47.4765044+00:00",
       "NumProgressed": 727,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-25T17:03:37.20359+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 25,
@@ -3003,15 +3008,15 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 138
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3033,9 +3038,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 116
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3051,7 +3056,7 @@
       "Name": "For its own good",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3081,9 +3086,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 153
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3091,7 +3096,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3115,15 +3120,15 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 160
     },
     {
       "ID": "PROGRESS_N1",
@@ -3170,14 +3175,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 727,
+      "Progressed": 728,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:04:01.3312302+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:03:37.2035898+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:00:49.2427805+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:04:01.3312581+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:00:07.8260595+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:03:37.2036165+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 227,
+  "EOS_Progressed": 230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1103,6 +1103,11 @@
       "Time": "2023-11-25T16:06:58.6251819+00:00",
       "NumProgressed": 227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T17:06:00.3702328+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1121,9 +1126,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -1259,7 +1264,7 @@
       "Name": "Double Kill",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1395,7 +1400,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1443,7 +1448,7 @@
       "Name": "Adept",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "WielderLevel2",
@@ -1499,7 +1504,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1546,15 +1551,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 227,
+      "Progressed": 230,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:06:58.6251816+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:06:00.3702326+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:02:37.2371245+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:06:58.6252229+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:00:51.4512627+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:06:00.370275+00:00"
 }

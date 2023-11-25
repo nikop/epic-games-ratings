@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,517 |
-| Titan's First Steps | 6.00% | ~8,517 |
-| Basic in Bulk | 5.00% | ~7,098 |
-| Tinkle of Coins | 5.00% | ~7,098 |
-| Disintermediation | 4.00% | ~5,678 |
-| It's Free Real Estate | 4.00% | ~5,678 |
-| Capitalism Ho! | 4.00% | ~5,678 |
+| Sponsored by Argon | 6.00% | ~8,518 |
+| Titan's First Steps | 6.00% | ~8,518 |
+| Basic in Bulk | 5.00% | ~7,099 |
+| Tinkle of Coins | 5.00% | ~7,099 |
+| Disintermediation | 4.00% | ~5,679 |
+| It's Free Real Estate | 4.00% | ~5,679 |
+| Capitalism Ho! | 4.00% | ~5,679 |
 | One Easy Payment | 3.00% | ~4,259 |
 | Some Assembly Required | 3.00% | ~4,259 |
 | Another Satisfied Customer | 3.00% | ~4,259 |
@@ -37,6 +37,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 2.00% | ~2,839 |
 | Gem Expert | 2.00% | ~2,839 |
 | Gild-Gotten Goods | 2.00% | ~2,839 |
+| Royal Ransom | 2.00% | ~2,839 |
 | Helping Hand | 2.00% | ~2,839 |
 | Accomplished Merchant | 2.00% | ~2,839 |
 | Dungeon Imports | 2.00% | ~2,839 |
@@ -60,6 +61,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 1.00% | ~1,420 |
 | Archivist | 1.00% | ~1,420 |
 | Locally Sourced | 1.00% | ~1,420 |
+| Fillin' the Bin | 1.00% | ~1,420 |
 | Flying off the Shelves | 1.00% | ~1,420 |
 | Industrial Evolution | 1.00% | ~1,420 |
 | This Power Level...! | 1.00% | ~1,420 |
@@ -74,7 +76,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 1.00% | ~1,420 |
 | A Legend is Born | 1.00% | ~1,420 |
 | Trash to Treasure | 1.00% | ~1,420 |
-| Royal Ransom | 1.00% | ~1,420 |
 | Mammonite | 1.00% | ~1,420 |
 | Wealth Beyond Measure | 1.00% | ~1,420 |
 | Fat Cat Tag Team | 1.00% | ~1,420 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 1.00% | ~1,420 |
 | Complete Monopoly | 1.00% | ~1,420 |
 | King's Blade | 1.00% | ~1,420 |
-| Fillin' the Bin | 0.90% | ~1,278 |
 | All Accounted For | 0.90% | ~1,278 |
 | Economy of Scarce | 0.90% | ~1,278 |
 | Thank You Tom Nook | 0.80% | ~1,136 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.20% | ~284 |
 | Capitalist Camaraderie | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,956 (Ranked 80)  
-Completed: 264 (0.19%) (Ranked 260)  
+Progressed: 141,973 (Ranked 80)  
+Completed: 265 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,7 +338,7 @@ Completed: 264 (0.19%) (Ranked 260)
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
-| 2023-11-25 | 141,956 | 264 |
+| 2023-11-25 | 141,973 | 265 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,597 (Ranked 50)  

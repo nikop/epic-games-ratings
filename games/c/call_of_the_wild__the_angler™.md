@@ -20,9 +20,9 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 1.00% | ~67 |
 | School's Out for Summer | 1.00% | ~67 |
 | I'm Hooked! | 0.80% | ~53 |
+| Marathon | 0.40% | ~27 |
 | More than a Tourist | 0.30% | ~20 |
 | I'm the Captain Now | 0.30% | ~20 |
-| Marathon | 0.30% | ~20 |
 | Diamond in the Rough | 0.30% | ~20 |
 | Gonna Need a Bigger Boat | 0.30% | ~20 |
 | Hook, Line and Sinker | 0.20% | ~13 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,662 (Ranked 182)  
+Progressed: 6,663 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 6,624 | 0 |
 | 2023-11-23 | 6,633 | 0 |
 | 2023-11-24 | 6,648 | 0 |
-| 2023-11-25 | 6,662 | 0 |
+| 2023-11-25 | 6,663 | 0 |
 ## Awards
 Max (Relaxing): 37  (Ranked 466)  
 Sum: 196 (Ranked 400)  

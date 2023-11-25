@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 640,
+  "EOS_Progressed": 641,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2169,6 +2169,11 @@
       "Time": "2023-11-23T21:09:53.6564877+00:00",
       "NumProgressed": 640,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T17:09:23.3393777+00:00",
+      "NumProgressed": 641,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2284,7 +2289,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH_COLL_20",
@@ -2292,7 +2297,7 @@
       "Name": "Prospector",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2300,7 +2305,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -2314,9 +2319,9 @@
       "ID": "ACH_COLL_CH02",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter II",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -2370,9 +2375,9 @@
       "ID": "ACH_COLL_CH09",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter IX",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COLL_CH10",
@@ -2402,9 +2407,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2420,7 +2425,7 @@
       "Name": "The Motivation",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -2428,7 +2433,7 @@
       "Name": "Heroism",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2444,7 +2449,7 @@
       "Name": "Opportunities",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2516,7 +2521,7 @@
       "Name": "Helping Hand",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -2612,15 +2617,15 @@
       "Name": "King of Knives",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_NEST1",
       "SetID": "1j25agn",
       "Name": "Bullseye!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_NEST2",
@@ -2651,15 +2656,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 640,
+      "Progressed": 641,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-24T23:59:00.6217659+00:00",
-  "LastChanged_Achievements": "2023-11-25T16:09:52.1221577+00:00",
+  "LastChanged_Achievements": "2023-11-25T17:09:23.3393775+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.3118815+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:00:15.5553057+00:00",
-  "LastUpdate_Achievements": "2023-11-25T16:09:52.1222009+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:59:41.3110146+00:00",
+  "LastUpdate_Achievements": "2023-11-25T17:09:23.3394179+00:00"
 }
