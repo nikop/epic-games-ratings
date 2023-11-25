@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -133,7 +133,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
@@ -1328,6 +1328,11 @@
       "Time": "2023-11-25T11:06:09.8920059+00:00",
       "NumProgressed": 591,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T12:05:46.3961012+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1348,7 +1353,7 @@
       "Name": "Ab Initio",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "AnthropicHills",
@@ -1378,9 +1383,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 308
     },
     {
       "ID": "BreakTheLoop",
@@ -1396,15 +1401,15 @@
       "Name": "Bridge Builder",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 89
     },
     {
       "ID": "Chicken",
@@ -1476,7 +1481,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "GoodCitizen",
@@ -1484,7 +1489,7 @@
       "Name": "Good Citizen",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "GrasslandsRing",
@@ -1508,15 +1513,15 @@
       "Name": "Into the Machine",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 77
     },
     {
       "ID": "LordOfTheFiles",
@@ -1524,7 +1529,7 @@
       "Name": "Lord of the Files",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "LostMarshes",
@@ -1556,7 +1561,7 @@
       "Name": "Museum Explorer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "MuseumVisitor",
@@ -1564,7 +1569,7 @@
       "Name": "Museum Visitor",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "NewBeginning",
@@ -1586,9 +1591,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 77
     },
     {
       "ID": "Overload",
@@ -1698,9 +1703,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 136
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1738,9 +1743,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 195
     },
     {
       "ID": "TheWordEndures",
@@ -1748,7 +1753,7 @@
       "Name": "The Word Endures",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "TouchGrass",
@@ -1764,7 +1769,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "VerdantCanyon",
@@ -1811,7 +1816,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 1
     }
   ],
@@ -1819,8 +1824,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-25T01:43:33.0435871+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:06:09.8920054+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:05:46.3961008+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:02:49.8779924+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:06:09.8920568+00:00"
+  "LastUpdate_Ratings": "2023-11-25T12:01:54.6747264+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:05:46.3961419+00:00"
 }

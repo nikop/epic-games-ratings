@@ -6,7 +6,7 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 85.00% | ~588 |
+| Our Man | 86.00% | ~595 |
 | Take-Off | 80.00% | ~554 |
 | Hokey-Pokey | 71.00% | ~491 |
 | Camellos | 58.00% | ~401 |

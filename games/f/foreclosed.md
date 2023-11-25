@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breaking Through | 72.00% | ~78 |
-| Silent Overload | 63.00% | ~69 |
-| Symbiotic Weapon | 57.00% | ~62 |
-| A.I. Training | 51.00% | ~56 |
+| Silent Overload | 64.00% | ~70 |
+| Symbiotic Weapon | 58.00% | ~63 |
+| A.I. Training | 52.00% | ~57 |
 | Sniper | 39.00% | ~43 |
-| The Red Herring | 34.00% | ~37 |
+| The Red Herring | 35.00% | ~38 |
 | Telekinesis | 29.00% | ~32 |
 | Sapper | 24.00% | ~26 |
 | Tough Decision | 22.00% | ~24 |
-| Veteran Sniper | 19.00% | ~21 |
+| Veteran Sniper | 20.00% | ~22 |
 | The Neuro-connector | 19.00% | ~21 |
 | Flatline | 19.00% | ~21 |
 | Mind Over Matter | 19.00% | ~21 |

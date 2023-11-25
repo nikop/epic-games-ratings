@@ -20,8 +20,8 @@ Number of Ratings: 266  (23.09.2022)
 | A Fortress Toppled! | 17.00% | ~626 |
 | Apex Predator | 17.00% | ~626 |
 | The Power of Family | 17.00% | ~626 |
+| Strange amalgams | 13.00% | ~478 |
 | The Power of Faith | 13.00% | ~478 |
-| Strange amalgams | 12.00% | ~442 |
 | The Power of Freedom | 10.00% | ~368 |
 | Ace Detective | 9.00% | ~331 |
 | Magic is a science | 9.00% | ~331 |

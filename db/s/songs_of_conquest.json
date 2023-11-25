@@ -5,10 +5,10 @@
   "Ranking_Rating": 233,
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 404,
-  "Ranking_EOS_Progress": 382,
+  "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 220,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -1078,6 +1078,11 @@
       "Time": "2023-11-25T08:08:41.0187526+00:00",
       "NumProgressed": 217,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T12:06:44.5066791+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1234,7 +1239,7 @@
       "Name": "Double Kill",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1418,7 +1423,7 @@
       "Name": "Adept",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "WielderLevel2",
@@ -1426,7 +1431,7 @@
       "Name": "Veteran",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "WielderLevel3",
@@ -1448,9 +1453,9 @@
       "ID": "WinBattleBeforeEnemyTurn",
       "SetID": "71c0n9i",
       "Name": "Humiliation",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1521,15 +1526,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 220,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:07:09.1239407+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:06:44.5066787+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:02:05.7031853+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:07:09.1239839+00:00"
+  "LastUpdate_Ratings": "2023-11-25T12:01:41.5749754+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:06:44.5067214+00:00"
 }

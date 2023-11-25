@@ -3,8 +3,8 @@
   "Name": "Bobolink",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 467,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:00.3284934+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:01:21.7317716+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:08:08.8687018+00:00"
+  "LastUpdate_Ratings": "2023-11-25T12:01:00.5424113+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:07:42.1017245+00:00"
 }

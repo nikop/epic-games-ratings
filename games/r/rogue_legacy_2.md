@@ -7,7 +7,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spells and Swords | 4.00% | ~943 |
-| Captain and Crew | 3.00% | ~707 |
+| Captain and Crew | 3.00% | ~708 |
 | Harvest and Home | 2.00% | ~472 |
 | Poise and Poisons | 2.00% | ~472 |
 | Suns and Soldiers | 2.00% | ~472 |
@@ -18,9 +18,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | Prequel to the Sequel | 1.00% | ~236 |
 | For Glory | 0.80% | ~189 |
 | Pillow Investments | 0.70% | ~165 |
-| Truly Blessed | 0.60% | ~141 |
-| Looks Familiar | 0.60% | ~141 |
-| Good Boy! | 0.60% | ~141 |
+| Truly Blessed | 0.60% | ~142 |
+| Looks Familiar | 0.60% | ~142 |
+| Good Boy! | 0.60% | ~142 |
 | For Justice | 0.50% | ~118 |
 | For Survival | 0.40% | ~94 |
 | Jack of all Trades | 0.40% | ~94 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,582 (Ranked 130)  
+Progressed: 23,584 (Ranked 130)  
 Completed: 35 (0.15%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 35 (0.15%) (Ranked 270)
 | 2023-11-22 | 23,550 | 35 |
 | 2023-11-23 | 23,566 | 35 |
 | 2023-11-24 | 23,580 | 35 |
-| 2023-11-25 | 23,582 | 35 |
+| 2023-11-25 | 23,584 | 35 |
 ## Awards
 Max (Extremely Fun): 223  (Ranked 275)  
 Sum: 1,703 (Ranked 222)  

@@ -5,19 +5,19 @@ Rating: 4.68 (Ranked 253)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,540 |
-| On the Top Step | 88.00% | ~5,187 |
-| Setting up for Success | 77.00% | ~4,538 |
-| Team Orders | 75.00% | ~4,420 |
+| Getting on the Step | 94.00% | ~5,541 |
+| On the Top Step | 88.00% | ~5,188 |
+| Setting up for Success | 77.00% | ~4,539 |
+| Team Orders | 75.00% | ~4,421 |
 | Engineer | 55.00% | ~3,242 |
-| Familiar Faces | 48.00% | ~2,829 |
-| Sharing the Love | 43.00% | ~2,534 |
-| Going the Extra Mile | 42.00% | ~2,475 |
+| Familiar Faces | 48.00% | ~2,830 |
+| Sharing the Love | 43.00% | ~2,535 |
+| Going the Extra Mile | 42.00% | ~2,476 |
 | Hitting a Season | 39.00% | ~2,299 |
 | A Dozen Pieces | 33.00% | ~1,945 |
 | Challenge Yourself | 33.00% | ~1,945 |
 | Making History | 31.00% | ~1,827 |
-| Network Success | 28.00% | ~1,650 |
+| Network Success | 28.00% | ~1,651 |
 | Writing a new Chapter | 25.00% | ~1,474 |
 | Spring Cleaning | 24.00% | ~1,415 |
 | Reduce | 20.00% | ~1,179 |
@@ -36,8 +36,8 @@ Rating: 4.68 (Ranked 253)
 | All in a Weekend's Work | 12.00% | ~707 |
 | Friendly Competition | 12.00% | ~707 |
 | Recycle | 12.00% | ~707 |
-| Tinkerer | 10.00% | ~589 |
-| Undisputed Winner | 9.00% | ~530 |
+| Tinkerer | 10.00% | ~590 |
+| Undisputed Winner | 9.00% | ~531 |
 | Smooth Operator | 7.00% | ~413 |
 | For all Those Back at the Factory | 6.00% | ~354 |
 | Living up to Expectations | 6.00% | ~354 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 253)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,894 (Ranked 186)  
+Progressed: 5,895 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 5,863 | 0 |
 | 2023-11-23 | 5,876 | 0 |
 | 2023-11-24 | 5,892 | 0 |
-| 2023-11-25 | 5,894 | 0 |
+| 2023-11-25 | 5,895 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 525)  
 Sum: 89 (Ranked 456)  

@@ -32,7 +32,7 @@
 | Artful Assister | 37.00% | ~120 |
 | Team Hunter | 35.00% | ~113 |
 | Karakuri Isle | 33.00% | ~107 |
-| Reincarnation Cycle Stopper | 32.00% | ~103 |
+| Reincarnation Cycle Stopper | 33.00% | ~107 |
 | Left Arm Leverager | 28.00% | ~90 |
 | Unrivaled in Arms | 28.00% | ~90 |
 | Style Seeker | 27.00% | ~87 |

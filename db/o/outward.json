@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5873,9 +5873,9 @@
       "ID": "StrangeAmalgams_53",
       "SetID": "c4hee28",
       "Name": "Strange amalgams",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 478
     },
     {
       "ID": "Tapped_22",
@@ -6001,8 +6001,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:06:46.5564415+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:06:22.0713518+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:58:20.6596581+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:06:46.5564916+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:58:08.0394506+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:06:22.0714015+00:00"
 }

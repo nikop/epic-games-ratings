@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1494,9 +1494,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23582,
+  "EOS_Progressed": 23584,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9889,6 +9889,11 @@
       "Time": "2023-11-25T07:09:10.1365028+00:00",
       "NumProgressed": 23582,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-25T12:09:01.3557778+00:00",
+      "NumProgressed": 23584,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -9908,7 +9913,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "AllEquipment",
@@ -9948,7 +9953,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -9964,7 +9969,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10148,7 +10153,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "PrequelReveal",
@@ -10211,21 +10216,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23582,
+      "Progressed": 23584,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2512,
+      "Progressed": 2514,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-23T01:44:15.9568537+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:09:31.5975699+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:09:01.3557774+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.4592535+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:59:51.5389525+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:09:31.5976309+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:59:35.8380577+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:09:01.3558324+00:00"
 }

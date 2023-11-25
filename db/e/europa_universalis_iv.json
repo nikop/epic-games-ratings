@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12483,9 +12483,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 463070,
+  "EOS_Progressed": 463109,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4948,
+  "EOS_NewPlayers": 4936,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37578,6 +37578,11 @@
       "Time": "2023-11-25T11:06:33.8601291+00:00",
       "NumProgressed": 463070,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T12:06:10.1974485+00:00",
+      "NumProgressed": 463109,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -39043,9 +39048,9 @@
       "ID": "achievement_made_in_japan",
       "SetID": "8p2n7he",
       "Name": "Made in Japan",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_magellans_voyage",
@@ -40492,21 +40497,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 463070,
+      "Progressed": 463109,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 463070,
+      "Progressed": 463109,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-25T01:41:56.3490029+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:06:33.8601286+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:06:10.1974481+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:00:10.339838+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:06:33.861195+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:59:53.6433782+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:06:10.1984415+00:00"
 }

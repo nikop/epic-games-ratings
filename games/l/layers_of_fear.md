@@ -8,8 +8,8 @@
 | Something important | 78.00% | ~66 |
 | A piece of the story | 61.00% | ~52 |
 | It's covered up for a reason | 45.00% | ~38 |
-| Scraps of love | 42.00% | ~36 |
-| The artist’s impression | 42.00% | ~36 |
+| Scraps of love | 44.00% | ~37 |
+| The artist’s impression | 44.00% | ~37 |
 | Do what you have to | 41.00% | ~35 |
 | Refuse to look | 35.00% | ~30 |
 | Sign of weakness | 34.00% | ~29 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 446)  
+Progressed: 85 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |

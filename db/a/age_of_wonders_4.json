@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5472,
+  "EOS_Progressed": 5477,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7413,6 +7413,11 @@
       "Time": "2023-11-25T11:06:44.4767053+00:00",
       "NumProgressed": 5472,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T12:06:19.9861426+00:00",
+      "NumProgressed": 5477,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7464,7 +7469,7 @@
       "Name": "Full Ascension",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "15",
@@ -7536,7 +7541,7 @@
       "Name": "Realm Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "23",
@@ -7544,7 +7549,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "24",
@@ -7560,7 +7565,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "26",
@@ -7568,7 +7573,7 @@
       "Name": "Bone Peddler",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "27",
@@ -7584,7 +7589,7 @@
       "Name": "From Friends to Family",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "29",
@@ -7654,9 +7659,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "37",
@@ -7806,9 +7811,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 49
     },
     {
       "ID": "50",
@@ -7824,7 +7829,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "52",
@@ -7903,13 +7908,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5472,
+      "Progressed": 5477,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5472,
+      "Progressed": 5477,
       "Completed": 7
     }
   ],
@@ -7917,8 +7922,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:06:44.476705+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:06:19.986142+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:57:36.3114529+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:06:44.4767789+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:57:25.9068079+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:06:19.9862243+00:00"
 }

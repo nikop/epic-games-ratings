@@ -11,7 +11,7 @@
 | First Commander | 20.00% | ~65 |
 | Second Commander | 19.00% | ~62 |
 | Adventurer | 19.00% | ~62 |
-| Third Commander | 17.00% | ~55 |
+| Third Commander | 17.00% | ~56 |
 | Janken The Great | 11.00% | ~36 |
 | Pacifist | 11.00% | ~36 |
 | Overwhelmed Beast | 9.00% | ~29 |
@@ -21,8 +21,8 @@
 | Stingy | 2.00% | ~7 |
 | Collector | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326 (Ranked 341)  
-Completed: 4 (1.23%) (Ranked 156)  
+Progressed: 327 (Ranked 341)  
+Completed: 4 (1.22%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,6 +94,7 @@ Completed: 4 (1.23%) (Ranked 156)
 | 2023-11-14 | 324 | 4 |
 | 2023-11-15 | 325 | 4 |
 | 2023-11-21 | 326 | 4 |
+| 2023-11-25 | 327 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

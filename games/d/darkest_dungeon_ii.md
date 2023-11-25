@@ -6,34 +6,34 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~115,925 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~88,502 |
-| A Clear Conscience | 69.00% | ~86,009 |
+| A Place to Lay Your Head | 93.00% | ~115,926 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~88,503 |
+| A Clear Conscience | 69.00% | ~86,010 |
 | Unleash Hell | 68.00% | ~84,763 |
 | Unfulfilled Desires | 68.00% | ~84,763 |
-| Funny Guy | 67.00% | ~83,516 |
-| Unshackled | 67.00% | ~83,516 |
+| Funny Guy | 67.00% | ~83,517 |
+| Unshackled | 67.00% | ~83,517 |
 | Long Live the King | 66.00% | ~82,270 |
-| Wyrdly Reconstructed | 63.00% | ~78,530 |
+| Wyrdly Reconstructed | 63.00% | ~78,531 |
 | Resurrection | 62.00% | ~77,284 |
-| Boxcar Kid | 61.00% | ~76,037 |
-| To Grandmother's House | 61.00% | ~76,037 |
+| Boxcar Kid | 61.00% | ~76,038 |
+| To Grandmother's House | 61.00% | ~76,038 |
 | Rush Hour | 60.00% | ~74,791 |
 | Serenity Now! | 54.00% | ~67,312 |
 | Hope Rekindled | 50.00% | ~62,326 |
 | Ramble On | 50.00% | ~62,326 |
 | Nope | 49.00% | ~61,079 |
-| This Looks Familiar | 38.00% | ~47,367 |
-| Now Stay Dead | 38.00% | ~47,367 |
+| This Looks Familiar | 38.00% | ~47,368 |
+| Now Stay Dead | 38.00% | ~47,368 |
 | Harvest Festival | 37.00% | ~46,121 |
 | Hot Air | 37.00% | ~46,121 |
-| Merry Time | 36.00% | ~44,874 |
-| Creep and Sleep | 34.00% | ~42,381 |
+| Merry Time | 36.00% | ~44,875 |
+| Creep and Sleep | 34.00% | ~42,382 |
 | Overdue Notice | 33.00% | ~41,135 |
-| Banishment | 32.00% | ~39,888 |
-| Whale | 32.00% | ~39,888 |
-| FNG | 30.00% | ~37,395 |
-| Predator | 26.00% | ~32,409 |
+| Banishment | 32.00% | ~39,889 |
+| Whale | 32.00% | ~39,889 |
+| FNG | 30.00% | ~37,396 |
+| Predator | 26.00% | ~32,410 |
 | Reverse Banditry | 25.00% | ~31,163 |
 | Autodidact | 25.00% | ~31,163 |
 | Meat and Greet | 23.00% | ~28,670 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~125 |
 | No Gravestone Left Unturned | 0.10% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,651 (Ranked 84)  
+Progressed: 124,652 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2 (0.00%) (Ranked 360)
 | 2023-11-22 | 124,358 | 2 |
 | 2023-11-23 | 124,476 | 2 |
 | 2023-11-24 | 124,584 | 2 |
-| 2023-11-25 | 124,651 | 2 |
+| 2023-11-25 | 124,652 | 2 |
 ## Awards
 Max (Character Customization): 7,533  (Ranked 52)  
 Sum: 19,849 (Ranked 59)  

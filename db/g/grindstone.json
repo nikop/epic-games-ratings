@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -1272,9 +1272,9 @@
       "ID": "ACHIEVE_QUICK_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "That Was Quick",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 881
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1312,8 +1312,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:05:33.3690258+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:05:11.4199074+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:32.9637713+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:02:05.0095673+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:05:33.3690559+00:00"
+  "LastUpdate_Ratings": "2023-11-25T12:01:41.1861592+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:05:11.4199368+00:00"
 }

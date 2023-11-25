@@ -30,8 +30,8 @@ Number of Ratings: 63  (23.09.2022)
 | Royal Flush, Again | 19.00% | ~985 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~933 |
 | Can't Touch This | 18.00% | ~933 |
+| That Was Quick | 17.00% | ~881 |
 | Yummy! | 16.00% | ~829 |
-| That Was Quick | 16.00% | ~829 |
 | Goldrush Glory Days | 15.00% | ~777 |
 | Best Party Guest | 15.00% | ~777 |
 | Shrub it Off | 15.00% | ~777 |

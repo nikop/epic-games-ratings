@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3343,
+  "EOS_Progressed": 3345,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5853,6 +5853,11 @@
       "Time": "2023-11-25T04:06:52.5213391+00:00",
       "NumProgressed": 3343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T12:03:22.0869409+00:00",
+      "NumProgressed": 3345,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5864,7 +5869,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH_BASE_10",
@@ -5952,7 +5957,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "ACH_BASE_22",
@@ -5968,7 +5973,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_BASE_24",
@@ -5976,7 +5981,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ACH_BASE_25",
@@ -6016,7 +6021,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_BASE_3",
@@ -6040,7 +6045,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_BASE_32",
@@ -6160,7 +6165,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_BASE_49",
@@ -6192,7 +6197,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_BASE_52",
@@ -6216,7 +6221,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_BASE_57",
@@ -6319,13 +6324,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1527,
+      "Progressed": 1529,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3343,
+      "Progressed": 3345,
       "Completed": 0
     }
   ],
@@ -6333,8 +6338,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:03:39.7665836+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:03:22.0869404+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.7251955+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:57:40.3719876+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:03:39.7673075+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:57:29.6055659+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:03:22.0876398+00:00"
 }

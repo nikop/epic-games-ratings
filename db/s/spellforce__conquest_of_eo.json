@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -192,9 +192,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Build_First_Room",
@@ -753,8 +753,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:03:45.6948479+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:03:27.7877384+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:05.0586165+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:58:26.5541484+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:03:45.6949009+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:58:13.37302+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:03:27.7877952+00:00"
 }

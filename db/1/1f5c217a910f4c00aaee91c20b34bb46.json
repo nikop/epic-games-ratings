@@ -4,8 +4,8 @@
   "ProductSlug": "magnetism-76d8e6",
   "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 467,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-23T03:00:00+00:00",
     "PcReleaseDate": "2022-09-17T08:30:00+00:00",
@@ -120,8 +120,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-23T04:03:01.983372+00:00",
-  "LastChanged_Achievements": "2023-11-25T11:04:55.9994719+00:00",
+  "LastChanged_Achievements": "2023-11-25T12:04:35.5794589+00:00",
   "LastUpdate_AppInfo": "2023-11-23T03:57:06.9116174+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:59:03.0565995+00:00",
-  "LastUpdate_Achievements": "2023-11-25T11:04:55.9994789+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:58:47.9081038+00:00",
+  "LastUpdate_Achievements": "2023-11-25T12:04:35.5794667+00:00"
 }

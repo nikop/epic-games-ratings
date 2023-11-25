@@ -122,6 +122,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Liberty or Death | 0.10% | ~463 |
 | Lion of the North | 0.10% | ~463 |
 | Live Long and Prosper | 0.10% | ~463 |
+| Made in Japan | 0.10% | ~463 |
 | Magellan’s Voyage | 0.10% | ~463 |
 | Maharana Pratap | 0.10% | ~463 |
 | Mansa Musa | 0.10% | ~463 |
@@ -305,7 +306,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Let It Go! | 0.00% | ~0 |
 | Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
-| Made in Japan | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,070 (Ranked 41)  
+Progressed: 463,109 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-22 | 461,499 | 1 |
 | 2023-11-23 | 462,094 | 1 |
 | 2023-11-24 | 462,785 | 1 |
-| 2023-11-25 | 463,070 | 1 |
+| 2023-11-25 | 463,109 | 1 |
 ## Awards
 Max (Educational): 7,144  (Ranked 54)  
 Sum: 58,795 (Ranked 24)  

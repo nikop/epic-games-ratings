@@ -8,6 +8,7 @@
 | Find Allies | 8.00% | ~17 |
 | Adventurer | 8.00% | ~17 |
 | Scholar | 8.00% | ~17 |
+| Break Out | 7.00% | ~15 |
 | Powerful Allies | 7.00% | ~15 |
 | A Taste of Wrath | 7.00% | ~15 |
 | Tributes of Caladrias | 7.00% | ~15 |
@@ -16,7 +17,6 @@
 | I Found It | 7.00% | ~15 |
 | Stone Collection | 7.00% | ~15 |
 | The Collector | 7.00% | ~15 |
-| Break Out | 6.00% | ~13 |
 | Big Bazar | 6.00% | ~13 |
 | Calm before the Storm | 5.00% | ~11 |
 | Shatter Them All | 4.00% | ~9 |
