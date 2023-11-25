@@ -1,7 +1,7 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.06 (Ranked 980)  
+Rating: 4.06 (Ranked 981)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -257,12 +257,12 @@ Completed: 0 (0.00%) (Ranked 359)
 | 2023-11-23 | 281,046 | 0 |
 | 2023-11-24 | 281,155 | 0 |
 ## Awards
-Max (Great for Beginners): 202  (Ranked 288)  
-Sum: 1,601 (Ranked 231)  
+Max (Great for Beginners): 203  (Ranked 287)  
+Sum: 1,602 (Ranked 230)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 202 |
+| This game is Great for Beginners | 203 |
 | This game is Great for Quick Sessions | 190 |
 | This game has Quickly Understood Controls | 166 |
 | This game is Relaxing | 164 |
@@ -467,3 +467,4 @@ Diff (max vs sum): 57
 | 2023-11-18 | 4.06 | - | 202 | 1,599 |
 | 2023-11-23 | 4.06 | - | 202 | 1,600 |
 | 2023-11-24 | 4.06 | - | 202 | 1,601 |
+| 2023-11-25 | 4.06 | - | 203 | 1,602 |

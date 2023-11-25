@@ -2,12 +2,12 @@
   "ID": "70d9536d99af4c70a55e4c23989f4225",
   "Name": "Lawn Mowing Simulator",
   "ProductSlug": "lawn-mowing-simulator-838bf3",
-  "Ranking_Rating": 969,
+  "Ranking_Rating": 970,
   "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2196,7 +2196,7 @@
   ],
   "EOS_Progressed": 683321,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1685,
+  "EOS_NewPlayers": 1666,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27623,8 +27623,8 @@
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-20T05:58:30.267487+00:00",
-  "LastChanged_Achievements": "2023-11-25T00:09:30.6510309+00:00",
+  "LastChanged_Achievements": "2023-11-25T01:52:47.9298917+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:30.7927329+00:00",
-  "LastUpdate_Ratings": "2023-11-24T23:57:31.8462649+00:00",
-  "LastUpdate_Achievements": "2023-11-25T00:09:30.6511939+00:00"
+  "LastUpdate_Ratings": "2023-11-25T01:40:26.2899055+00:00",
+  "LastUpdate_Achievements": "2023-11-25T01:52:47.9300081+00:00"
 }

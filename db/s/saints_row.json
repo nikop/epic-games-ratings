@@ -2,7 +2,7 @@
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
   "ProductSlug": "saints-row",
-  "Ranking_Rating": 1036,
+  "Ranking_Rating": 1037,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 97,
@@ -4079,7 +4079,7 @@
   ],
   "EOS_Progressed": 79914,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29295,8 +29295,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-24T23:02:47.5917307+00:00",
-  "LastChanged_Achievements": "2023-11-25T00:08:50.8214482+00:00",
+  "LastChanged_Achievements": "2023-11-25T01:52:04.6157504+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:50.0708943+00:00",
-  "LastUpdate_Ratings": "2023-11-25T00:02:59.5621851+00:00",
-  "LastUpdate_Achievements": "2023-11-25T00:08:50.8215744+00:00"
+  "LastUpdate_Ratings": "2023-11-25T01:46:03.6114884+00:00",
+  "LastUpdate_Achievements": "2023-11-25T01:52:04.615903+00:00"
 }

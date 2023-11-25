@@ -16,8 +16,8 @@ Number of Ratings: 56  (23.09.2022)
 | rwd only | 27.00% | ~2,786 |
 | food tour: pasta | 27.00% | ~2,786 |
 | autopilot | 22.00% | ~2,270 |
+| you can't treat a car like a human being. a car requires love | 22.00% | ~2,270 |
 | to finish first, first you must finish | 21.00% | ~2,167 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,167 |
 | turbo | 20.00% | ~2,064 |
 | food tour: pretzel | 20.00% | ~2,064 |
 | bicycle race | 15.00% | ~1,548 |

@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,002)  
+Rating: 3.99 (Ranked 1,003)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -40,6 +40,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 2.00% | ~2,833 |
 | A Notch Above the Rest | 1.00% | ~1,417 |
 | Cream of the Crop | 1.00% | ~1,417 |
+| Proud Paladin | 1.00% | ~1,417 |
 | Above the Norm | 1.00% | ~1,417 |
 | A Ronin Reborn | 1.00% | ~1,417 |
 | Tax not Included | 1.00% | ~1,417 |
@@ -89,7 +90,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 1.00% | ~1,417 |
 | King's Blade | 1.00% | ~1,417 |
 | Top of the World | 0.90% | ~1,275 |
-| Proud Paladin | 0.90% | ~1,275 |
 | Constellated | 0.90% | ~1,275 |
 | Thirst for Knowledge | 0.90% | ~1,275 |
 | Fillin' the Bin | 0.90% | ~1,275 |

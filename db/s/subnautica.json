@@ -4,7 +4,7 @@
   "ProductSlug": "subnautica",
   "Ranking_Rating": 44,
   "Ranking_Popularity": 176,
-  "Ranking_PopularitySum": 130,
+  "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 466,
@@ -5749,10 +5749,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 5843,
       "NumberOfAwardsMax": 750
+    },
+    {
+      "Time": "2023-11-25T01:42:02.4347414+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5846,
+      "NumberOfAwardsMax": 750
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5843,
+  "NumberOfAwards": 5846,
   "NumberOfAwardsMax": 750,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5796,7 +5802,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 681
+      "Count": 684
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5834,8 +5840,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-11-24T06:58:29.7291578+00:00",
+  "LastChanged": "2023-11-25T01:42:02.4347413+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:19.1205936+00:00",
-  "LastUpdate_Ratings": "2023-11-24T23:58:54.5369451+00:00",
-  "LastUpdate_Achievements": "2023-11-25T00:04:23.2451834+00:00"
+  "LastUpdate_Ratings": "2023-11-25T01:42:02.4347417+00:00",
+  "LastUpdate_Achievements": "2023-11-25T01:47:38.9682475+00:00"
 }

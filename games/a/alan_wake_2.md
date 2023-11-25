@@ -70,7 +70,7 @@ Rating: 4.78 (Ranked 106)
 | Shift in Reality | 7.00% | ~15,214 |
 | Coffee-Themed Fun | 7.00% | ~15,214 |
 | Hidden by the Trees | 6.00% | ~13,040 |
-| Rustic Charm | 5.00% | ~10,867 |
+| Rustic Charm | 6.00% | ~13,040 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 217,337 (Ranked 71)  
 Completed: 2,690 (1.24%) (Ranked 156)  
@@ -116,12 +116,12 @@ Completed: 2,690 (1.24%) (Ranked 156)
 | 2023-11-23 | 212,804 | 2,643 |
 | 2023-11-24 | 217,337 | 2,690 |
 ## Awards
-Max (Quickly Understood Controls): 339  (Ranked 244)  
-Sum: 2,039 (Ranked 212)  
-Diff (max vs sum): 32  
+Max (Quickly Understood Controls): 343  (Ranked 242)  
+Sum: 2,043 (Ranked 212)  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 339 |
+| This game has Quickly Understood Controls | 343 |
 | This game has Diverse Characters | 333 |
 | This game has Amazing Storytelling | 320 |
 | This game is Extremely Fun | 303 |
@@ -163,3 +163,4 @@ Diff (max vs sum): 32
 | 2023-11-22 | 4.78 | 332 | 1,977 |
 | 2023-11-23 | 4.78 | 332 | 1,997 |
 | 2023-11-24 | 4.78 | 339 | 2,039 |
+| 2023-11-25 | 4.78 | 343 | 2,043 |

@@ -2,13 +2,13 @@
   "ID": "d923c737f0d243ccab407605ea40d39e",
   "Name": "911 Operator",
   "ProductSlug": "911-operator-585edd",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2017-02-24T11:00:00+00:00",
@@ -217,7 +217,7 @@
   "Tags": [],
   "EOS_Progressed": 497473,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 4852,
+  "EOS_NewPlayers": 4795,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8913,8 +8913,8 @@
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
   "LastChanged": "2023-11-15T19:59:07.1352065+00:00",
-  "LastChanged_Achievements": "2023-11-25T00:06:22.2455863+00:00",
+  "LastChanged_Achievements": "2023-11-25T01:49:51.9015242+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:07.3906119+00:00",
-  "LastUpdate_Ratings": "2023-11-24T23:59:53.7411841+00:00",
-  "LastUpdate_Achievements": "2023-11-25T00:06:22.2456365+00:00"
+  "LastUpdate_Ratings": "2023-11-25T01:43:10.151085+00:00",
+  "LastUpdate_Achievements": "2023-11-25T01:49:51.9015799+00:00"
 }

@@ -6,43 +6,43 @@ Number of Ratings: 366,020  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pick-Me Up | 83.00% | ~22,252,757 |
-| First-Timer | 75.00% | ~20,107,913 |
+| Pick-Me Up | 83.00% | ~22,252,758 |
+| First-Timer | 75.00% | ~20,107,914 |
 | Triple Threat | 70.00% | ~18,767,386 |
-| Turbocharger | 63.00% | ~16,890,647 |
-| Tinkerer | 63.00% | ~16,890,647 |
+| Turbocharger | 63.00% | ~16,890,648 |
+| Tinkerer | 63.00% | ~16,890,648 |
 | Clean Sheet | 62.00% | ~16,622,542 |
-| Traveler | 61.00% | ~16,354,436 |
+| Traveler | 61.00% | ~16,354,437 |
 | Wall-Crawler | 60.00% | ~16,086,331 |
 | Winner | 60.00% | ~16,086,331 |
 | Minute to Win it | 54.00% | ~14,477,698 |
 | Barras Bravas | 54.00% | ~14,477,698 |
 | Pitch Veteran | 52.00% | ~13,941,487 |
 | Double Up | 52.00% | ~13,941,487 |
-| Speed Demon | 51.00% | ~13,673,381 |
-| Good Times | 51.00% | ~13,673,381 |
+| Speed Demon | 51.00% | ~13,673,382 |
+| Good Times | 51.00% | ~13,673,382 |
 | Coming On Strong | 49.00% | ~13,137,170 |
-| Trifecta | 44.00% | ~11,796,642 |
+| Trifecta | 44.00% | ~11,796,643 |
 | Drops in the Bucket | 43.00% | ~11,528,537 |
-| Super Victorious | 42.00% | ~11,260,431 |
-| Car Collector | 42.00% | ~11,260,431 |
-| Storm Trooper | 42.00% | ~11,260,431 |
+| Super Victorious | 42.00% | ~11,260,432 |
+| Car Collector | 42.00% | ~11,260,432 |
+| Storm Trooper | 42.00% | ~11,260,432 |
 | Helen's Pride | 41.00% | ~10,992,326 |
-| Rider's Block | 40.00% | ~10,724,220 |
-| Gladiator | 40.00% | ~10,724,220 |
-| GG | 40.00% | ~10,724,220 |
-| Still A Show-Off | 38.00% | ~10,188,009 |
-| Rank Up | 38.00% | ~10,188,009 |
+| Rider's Block | 40.00% | ~10,724,221 |
+| Gladiator | 40.00% | ~10,724,221 |
+| GG | 40.00% | ~10,724,221 |
+| Still A Show-Off | 38.00% | ~10,188,010 |
+| Rank Up | 38.00% | ~10,188,010 |
 | Singles Club | 37.00% | ~9,919,904 |
-| Far, Far Away... | 34.00% | ~9,115,587 |
+| Far, Far Away... | 34.00% | ~9,115,588 |
 | Grease Monkey | 33.00% | ~8,847,482 |
-| Sky High | 32.00% | ~8,579,376 |
+| Sky High | 32.00% | ~8,579,377 |
 | Family, Not Friends | 31.00% | ~8,311,271 |
-| Break Shot | 30.00% | ~8,043,165 |
-| Brave the Elements | 30.00% | ~8,043,165 |
+| Break Shot | 30.00% | ~8,043,166 |
+| Brave the Elements | 30.00% | ~8,043,166 |
 | Budding Artist | 29.00% | ~7,775,060 |
 | Rocket Repleter | 29.00% | ~7,775,060 |
-| Stocked | 26.00% | ~6,970,743 |
+| Stocked | 26.00% | ~6,970,744 |
 | All Fours | 24.00% | ~6,434,532 |
 | Trade Secret | 24.00% | ~6,434,532 |
 | Know the Drill | 23.00% | ~6,166,427 |
@@ -95,7 +95,7 @@ Number of Ratings: 366,020  (23.09.2022)
 | Virtuoso | 0.10% | ~26,811 |
 | Winning is Winning | 0.10% | ~26,811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,810,551 (Ranked 2)  
+Progressed: 26,810,552 (Ranked 2)  
 Completed: 2,508 (0.01%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,16 +314,16 @@ Completed: 2,508 (0.01%) (Ranked 338)
 | 2023-11-22 | 26,779,740 | 2,502 |
 | 2023-11-23 | 26,794,609 | 2,506 |
 | 2023-11-24 | 26,810,544 | 2,508 |
-| 2023-11-25 | 26,810,551 | 2,508 |
+| 2023-11-25 | 26,810,552 | 2,508 |
 ## Awards
-Max (Great for Quick Sessions): 627,441  (Ranked 2)  
-Sum: 4,268,153 (Ranked 2)  
+Max (Great for Quick Sessions): 628,952  (Ranked 2)  
+Sum: 4,270,251 (Ranked 2)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 627,441 |
+| This game is Great for Quick Sessions | 628,952 |
 | This game has Competitive Players | 548,609 |
-| This game has Quickly Understood Controls | 503,645 |
+| This game has Quickly Understood Controls | 504,232 |
 | This game is Extremely Fun | 484,744 |
 | This game is Highly Recommended | 463,249 |
 | This game has Challenging Combat | 450,471 |
@@ -640,3 +640,4 @@ Diff (max vs sum): 0
 | 2023-11-22 | 4.47 | - | 625,183 | 4,253,454 |
 | 2023-11-23 | 4.47 | - | 626,196 | 4,261,402 |
 | 2023-11-24 | 4.47 | - | 627,441 | 4,268,153 |
+| 2023-11-25 | 4.47 | - | 628,952 | 4,270,251 |

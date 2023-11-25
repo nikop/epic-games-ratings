@@ -1,7 +1,7 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.16 (Ranked 939)  
+Rating: 4.16 (Ranked 940)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -114,8 +114,8 @@ Completed: 36 (0.05%) (Ranked 308)
 | 2023-11-24 | 67,407 | 36 |
 ## Awards
 Max (Great for Beginners): 95  (Ranked 370)  
-Sum: 386 (Ranked 344)  
-Diff (max vs sum): 26  
+Sum: 386 (Ranked 345)  
+Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 95 |

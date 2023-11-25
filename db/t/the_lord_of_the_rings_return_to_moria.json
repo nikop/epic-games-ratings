@@ -3,12 +3,12 @@
   "Name": "The Lord of The Rings Return to Moria",
   "ProductSlug": "the-lord-of-the-rings-return-to-moria-f01344",
   "Ranking_Rating": 692,
-  "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 175,
+  "Ranking_Popularity": 208,
+  "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 12,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-10-24T13:00:00+00:00",
     "PcReleaseDate": "2023-10-24T13:00:00+00:00",
@@ -1108,11 +1108,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 3109,
       "NumberOfAwardsMax": 520
+    },
+    {
+      "Time": "2023-11-25T01:41:06.7063973+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 3117,
+      "NumberOfAwardsMax": 528
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3109,
-  "NumberOfAwardsMax": 520,
+  "NumberOfAwards": 3117,
+  "NumberOfAwardsMax": 528,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1131,7 +1137,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 520
+      "Count": 528
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1166,7 +1172,7 @@
   ],
   "EOS_Progressed": 269270,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 16044,
+  "EOS_NewPlayers": 15839,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4995,9 +5001,9 @@
       "ID": "CraftedFullSetBelegost",
       "SetID": "1cnmn8b",
       "Name": "Decked Out",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10771
+      "UsersEstimate": 13464
     },
     {
       "ID": "CraftedFullSetBrews",
@@ -5203,9 +5209,9 @@
   "FirstSeen": "2023-10-24T14:01:15.5324027+00:00",
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged": "2023-11-24T22:57:43.1063665+00:00",
-  "LastChanged_Achievements": "2023-11-25T00:03:42.3877784+00:00",
+  "LastChanged": "2023-11-25T01:41:06.7063971+00:00",
+  "LastChanged_Achievements": "2023-11-25T01:46:53.7089391+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:11.4877754+00:00",
-  "LastUpdate_Ratings": "2023-11-24T23:58:06.2863339+00:00",
-  "LastUpdate_Achievements": "2023-11-25T00:03:42.3878102+00:00"
+  "LastUpdate_Ratings": "2023-11-25T01:41:06.7063976+00:00",
+  "LastUpdate_Achievements": "2023-11-25T01:46:53.7089666+00:00"
 }

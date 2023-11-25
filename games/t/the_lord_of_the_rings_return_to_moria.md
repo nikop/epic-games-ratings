@@ -23,7 +23,7 @@ Rating: 4.43 (Ranked 692)
 | Shadow's Bane | 8.00% | ~21,542 |
 | Deeps Weaponcraft | 7.00% | ~18,849 |
 | Darkness Is Passing | 6.00% | ~16,156 |
-| Decked Out | 4.00% | ~10,771 |
+| Decked Out | 5.00% | ~13,464 |
 | Master of All Trades | 4.00% | ~10,771 |
 | Guarded from Despair | 3.00% | ~8,078 |
 | Eregion Weaponcraft | 3.00% | ~8,078 |
@@ -72,12 +72,12 @@ Completed: 9 (0.00%) (Ranked 359)
 | 2023-11-24 | 269,267 | 9 |
 | 2023-11-25 | 269,270 | 9 |
 ## Awards
-Max (Great for Beginners): 520  (Ranked 209)  
-Sum: 3,109 (Ranked 175)  
+Max (Great for Beginners): 528  (Ranked 208)  
+Sum: 3,117 (Ranked 174)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 520 |
+| This game is Great for Beginners | 528 |
 | This game is Highly Recommended | 448 |
 | This game is Extremely Fun | 425 |
 | This game has Amazing Storytelling | 385 |
@@ -120,3 +120,4 @@ Diff (max vs sum): 34
 | 2023-11-22 | 4.43 | 513 | 3,026 |
 | 2023-11-23 | 4.43 | 513 | 3,055 |
 | 2023-11-24 | 4.43 | 520 | 3,109 |
+| 2023-11-25 | 4.43 | 528 | 3,117 |

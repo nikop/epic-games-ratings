@@ -10,7 +10,7 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 162.00% | ~727 |
 | Greeno-B-Gone | 116.00% | ~521 |
 | Your Especially Earned Trajectory | 94.00% | ~422 |
-| Super Spelunker | 74.00% | ~332 |
+| Super Spelunker | 76.00% | ~341 |
 | No Mountain Wide Enough | 69.00% | ~310 |
 | One of the Cool Kids | 69.00% | ~310 |
 | On that Grindset | 66.00% | ~296 |

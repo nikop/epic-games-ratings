@@ -3,11 +3,11 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 6,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 511,
+  "Ranking_Popularity": 474,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -113,23 +113,29 @@
       "Rating": 4.9,
       "NumberOfAwards": 33,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-11-25T01:43:33.0435874+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33,
-  "NumberOfAwardsMax": 33,
+  "NumberOfAwards": 35,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 33
+      "Count": 35
     }
   ],
   "EOS_Progressed": 570,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1767,9 +1773,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-11-24T22:59:49.3796423+00:00",
-  "LastChanged_Achievements": "2023-11-25T00:04:39.8124671+00:00",
+  "LastChanged": "2023-11-25T01:43:33.0435871+00:00",
+  "LastChanged_Achievements": "2023-11-25T01:47:58.0423804+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-25T00:00:14.0734593+00:00",
-  "LastUpdate_Achievements": "2023-11-25T00:04:39.8125111+00:00"
+  "LastUpdate_Ratings": "2023-11-25T01:43:33.0435877+00:00",
+  "LastUpdate_Achievements": "2023-11-25T01:47:58.0424265+00:00"
 }

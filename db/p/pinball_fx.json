@@ -2,9 +2,9 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 980,
-  "Ranking_Popularity": 288,
-  "Ranking_PopularitySum": 231,
+  "Ranking_Rating": 981,
+  "Ranking_Popularity": 287,
+  "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 90,
@@ -1949,18 +1949,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 1601,
       "NumberOfAwardsMax": 202
+    },
+    {
+      "Time": "2023-11-25T01:46:07.4142271+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 1602,
+      "NumberOfAwardsMax": 203
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1601,
-  "NumberOfAwardsMax": 202,
+  "NumberOfAwards": 1602,
+  "NumberOfAwardsMax": 203,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 202
+      "Count": 203
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2037,7 +2043,7 @@
   ],
   "EOS_Progressed": 281155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 859,
+  "EOS_NewPlayers": 844,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27291,9 +27297,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-11-24T15:03:10.5483156+00:00",
-  "LastChanged_Achievements": "2023-11-25T00:05:46.9322559+00:00",
+  "LastChanged": "2023-11-25T01:46:07.4142269+00:00",
+  "LastChanged_Achievements": "2023-11-25T01:49:13.8396334+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.7413731+00:00",
-  "LastUpdate_Ratings": "2023-11-25T00:03:02.8483327+00:00",
-  "LastUpdate_Achievements": "2023-11-25T00:05:46.9323957+00:00"
+  "LastUpdate_Ratings": "2023-11-25T01:46:07.4142274+00:00",
+  "LastUpdate_Achievements": "2023-11-25T01:49:13.8397918+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1676,7 +1676,7 @@
   ],
   "EOS_Progressed": 449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4208,9 +4208,9 @@
       "ID": "F_RUIN_S_ALL",
       "SetID": "80dcan0",
       "Name": "Super Spelunker",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 341
     },
     {
       "ID": "M_ASSEMBLER_DIAGRAM",
@@ -4632,8 +4632,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-24T23:00:01.9879403+00:00",
-  "LastChanged_Achievements": "2023-11-25T00:03:56.4942846+00:00",
+  "LastChanged_Achievements": "2023-11-25T01:47:09.276662+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:18.4533523+00:00",
-  "LastUpdate_Ratings": "2023-11-25T00:00:26.5039264+00:00",
-  "LastUpdate_Achievements": "2023-11-25T00:03:56.4943339+00:00"
+  "LastUpdate_Ratings": "2023-11-25T01:45:37.8370653+00:00",
+  "LastUpdate_Achievements": "2023-11-25T01:47:09.2767156+00:00"
 }
