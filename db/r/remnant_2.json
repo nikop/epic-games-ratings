@@ -4633,10 +4633,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5851,
       "NumberOfAwardsMax": 2415
+    },
+    {
+      "Time": "2023-11-25T05:03:15.6717424+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5859,
+      "NumberOfAwardsMax": 2415
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5851,
+  "NumberOfAwards": 5859,
   "NumberOfAwardsMax": 2415,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4674,7 +4680,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 337
+      "Count": 345
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4707,9 +4713,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 227389,
+  "EOS_Progressed": 227419,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 4690,
+  "EOS_NewPlayers": 4700,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -19767,6 +19773,11 @@
       "Time": "2023-11-25T04:08:32.338735+00:00",
       "NumProgressed": 227389,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-25T05:08:58.1871829+00:00",
+      "NumProgressed": 227419,
+      "NumCompleted": 519
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19825,9 +19836,9 @@
       "ID": "Defeat_Cube",
       "SetID": "bkp3b1a",
       "Name": "Gleaming the Cube",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -20218,22 +20229,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 227389,
+      "Progressed": 227419,
       "Completed": 519
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 6554,
+      "Progressed": 6584,
       "Completed": 154
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-25T02:20:53.8619066+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:08:32.3387345+00:00",
+  "LastChanged": "2023-11-25T05:03:15.6717422+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:08:58.1871827+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-25T04:02:56.4465996+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:08:32.3388504+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:03:15.6717427+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:08:58.1873004+00:00"
 }

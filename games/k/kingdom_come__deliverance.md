@@ -6,15 +6,15 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,115 |
+| Blacksmith's Son | 32.00% | ~259,116 |
 | Cavalier | 25.00% | ~202,434 |
-| Fatso | 23.00% | ~186,239 |
-| Awakening | 21.00% | ~170,044 |
+| Fatso | 23.00% | ~186,240 |
+| Awakening | 21.00% | ~170,045 |
 | Ranger | 20.00% | ~161,947 |
 | Scrooge | 20.00% | ~161,947 |
 | Anorectic | 16.00% | ~129,558 |
-| Bookworm | 15.00% | ~121,460 |
-| Firestarter | 15.00% | ~121,460 |
+| Bookworm | 15.00% | ~121,461 |
+| Firestarter | 15.00% | ~121,461 |
 | Insomniac | 13.00% | ~105,266 |
 | Buddy | 12.00% | ~97,168 |
 | Thief | 12.00% | ~97,168 |
@@ -22,8 +22,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Traveller | 11.00% | ~89,071 |
 | Convict | 10.00% | ~80,974 |
 | Haggler | 9.00% | ~72,876 |
-| McLovin | 7.00% | ~56,681 |
-| Runt | 7.00% | ~56,681 |
+| McLovin | 7.00% | ~56,682 |
+| Runt | 7.00% | ~56,682 |
 | Casanova | 6.00% | ~48,584 |
 | Bad Trip | 5.00% | ~40,487 |
 | Monk | 5.00% | ~40,487 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~810 |
 | Wingman | 0.10% | ~810 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,735 (Ranked 17)  
+Progressed: 809,737 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,10 +308,10 @@ Completed: 52 (0.01%) (Ranked 340)
 | 2023-11-22 | 809,432 | 51 |
 | 2023-11-23 | 809,566 | 51 |
 | 2023-11-24 | 809,708 | 51 |
-| 2023-11-25 | 809,735 | 52 |
+| 2023-11-25 | 809,737 | 52 |
 ## Awards
 Max (Character Customization): 7,625  (Ranked 51)  
-Sum: 28,330 (Ranked 49)  
+Sum: 28,331 (Ranked 49)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -323,7 +323,7 @@ Diff (max vs sum): 2
 | This game is Highly Recommended | 1,697 |
 | This game is Extremely Fun | 1,695 |
 | This game has Realistic Visuals | 1,672 |
-| This game has Amazing Characters | 1,668 |
+| This game has Amazing Characters | 1,669 |
 | This game is Educational | 1,612 |
 | This game is Relaxing | 1,537 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -632,3 +632,4 @@ Diff (max vs sum): 2
 | 2023-11-22 | 4.71 | - | 7,620 | 28,312 |
 | 2023-11-23 | 4.71 | - | 7,623 | 28,324 |
 | 2023-11-24 | 4.71 | - | 7,625 | 28,330 |
+| 2023-11-25 | 4.71 | - | 7,625 | 28,331 |

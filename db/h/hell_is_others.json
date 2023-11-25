@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1255,9 +1255,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258707,
+  "EOS_Progressed": 258711,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22360,6 +22360,11 @@
       "Time": "2023-11-25T04:04:17.444375+00:00",
       "NumProgressed": 258707,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-25T05:04:56.0828002+00:00",
+      "NumProgressed": 258711,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22371,7 +22376,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18109
+      "UsersEstimate": 18110
     },
     {
       "ID": "Act2",
@@ -22419,7 +22424,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80199
+      "UsersEstimate": 80200
     },
     {
       "ID": "BackHomeNTimes",
@@ -22427,7 +22432,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12935
+      "UsersEstimate": 12936
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -22499,7 +22504,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12935
+      "UsersEstimate": 12936
     },
     {
       "ID": "CreedsInBank2",
@@ -22571,7 +22576,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15522
+      "UsersEstimate": 15523
     },
     {
       "ID": "GrowPlants2",
@@ -22627,7 +22632,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15522
+      "UsersEstimate": 15523
     },
     {
       "ID": "KillOtherWithKatana",
@@ -22659,7 +22664,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59503
+      "UsersEstimate": 59504
     },
     {
       "ID": "KillOthers2",
@@ -22818,7 +22823,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258707,
+      "Progressed": 258711,
       "Completed": 3
     }
   ],
@@ -22826,8 +22831,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-24T04:57:35.6826302+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:04:17.4443745+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:04:56.0827999+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.5809709+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:58:02.5889513+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:04:17.4445301+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:58:17.0919185+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:04:56.0829164+00:00"
 }

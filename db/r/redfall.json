@@ -2527,17 +2527,17 @@
       "ID": "Achievement_016",
       "SetID": "6b34g18",
       "Name": "Friendgineering",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_018",
@@ -2647,9 +2647,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement_032",
@@ -2952,8 +2952,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-11-22T22:57:36.1602113+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:08:26.8141401+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:08:51.3649401+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:21.147768+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:58:49.6856619+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:08:26.8141913+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:59:17.3163266+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:08:51.3650123+00:00"
 }

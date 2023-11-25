@@ -5,34 +5,34 @@ Rating: 4.12 (Ranked 963)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,465 |
-| World Map | 78.00% | ~2,068 |
-| Temple of Eternals | 57.00% | ~1,511 |
-| Prestigious | 53.00% | ~1,405 |
-| Fellowship Power | 42.00% | ~1,113 |
-| Guild Power | 25.00% | ~663 |
-| Prestigious x10 | 21.00% | ~557 |
+| Victor | 93.00% | ~2,469 |
+| World Map | 78.00% | ~2,071 |
+| Temple of Eternals | 57.00% | ~1,513 |
+| Prestigious | 53.00% | ~1,407 |
+| Fellowship Power | 42.00% | ~1,115 |
+| Guild Power | 25.00% | ~664 |
+| Prestigious x10 | 21.00% | ~558 |
 | The game is on | 19.00% | ~504 |
 | Exotic Merchant | 17.00% | ~451 |
-| Dragon Clicker | 16.00% | ~424 |
-| Inspection | 16.00% | ~424 |
-| Miner Clicker | 16.00% | ~424 |
+| Dragon Clicker | 16.00% | ~425 |
+| Miner Clicker | 16.00% | ~425 |
 | Full Party | 15.00% | ~398 |
-| Dragon Master | 14.00% | ~371 |
-| Enlightenment | 14.00% | ~371 |
-| Hero inspection | 14.00% | ~371 |
+| Inspection | 15.00% | ~398 |
+| Dragon Master | 14.00% | ~372 |
+| Enlightenment | 14.00% | ~372 |
+| Hero inspection | 14.00% | ~372 |
 | Lieutenant | 13.00% | ~345 |
-| Milestone collector | 12.00% | ~318 |
-| Mysterious Rock | 12.00% | ~318 |
-| Natural Talent | 12.00% | ~318 |
-| Superior | 12.00% | ~318 |
-| The Unstoppable | 12.00% | ~318 |
+| Milestone collector | 12.00% | ~319 |
+| Mysterious Rock | 12.00% | ~319 |
+| Natural Talent | 12.00% | ~319 |
+| Superior | 12.00% | ~319 |
+| The Unstoppable | 12.00% | ~319 |
 | Scientist | 11.00% | ~292 |
-| Daily Quest Completionist | 10.00% | ~265 |
-| Doing My Part | 10.00% | ~265 |
-| Hunter | 10.00% | ~265 |
-| Mastery | 10.00% | ~265 |
-| The power of Awakening | 10.00% | ~265 |
+| Daily Quest Completionist | 10.00% | ~266 |
+| Doing My Part | 10.00% | ~266 |
+| Hunter | 10.00% | ~266 |
+| Mastery | 10.00% | ~266 |
+| The power of Awakening | 10.00% | ~266 |
 | Challenger | 9.00% | ~239 |
 | Four Leaf Clover | 9.00% | ~239 |
 | Frostfire Liberator | 9.00% | ~239 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 963)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,651 (Ranked 214)  
+Progressed: 2,655 (Ranked 214)  
 Completed: 2 (0.08%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2 (0.08%) (Ranked 296)
 | 2023-11-22 | 2,554 | 2 |
 | 2023-11-23 | 2,599 | 2 |
 | 2023-11-24 | 2,644 | 2 |
-| 2023-11-25 | 2,651 | 2 |
+| 2023-11-25 | 2,655 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 487)  
 Sum: 110 (Ranked 443)  

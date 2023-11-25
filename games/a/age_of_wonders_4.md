@@ -21,13 +21,13 @@ Rating: 4.61 (Ranked 383)
 | Seat of Power | 1.00% | ~55 |
 | In a Liege of Your Own | 1.00% | ~55 |
 | Intimidation Tactics | 1.00% | ~55 |
+| Tipping the Scales | 1.00% | ~55 |
 | Sehiran Oasis | 1.00% | ~55 |
 | Chaos Surge | 1.00% | ~55 |
 | Seal the Deal | 1.00% | ~55 |
 | Spoils of War | 1.00% | ~55 |
 | Impenetrable Fortress | 0.90% | ~49 |
 | Here be Dragons | 0.90% | ~49 |
-| Tipping the Scales | 0.90% | ~49 |
 | Mighty Hoard | 0.90% | ~49 |
 | Dawn of the Dread | 0.90% | ~49 |
 | Return of the Wizard King | 0.80% | ~44 |

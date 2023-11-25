@@ -2,9 +2,9 @@
   "ID": "599554e2ea49491bb9ca088a43fec83a",
   "Name": "The Fabulous Fear Machine",
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -219,6 +219,11 @@
       "Time": "2023-11-25T03:08:35.67603+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T05:08:34.4651397+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-15T20:07:40.8374596+00:00",
@@ -229,9 +234,9 @@
       "ID": "1",
       "SetID": "d37idgg",
       "Name": "Master trainee",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "10",
@@ -317,7 +322,7 @@
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -341,9 +346,9 @@
       "ID": "22",
       "SetID": "d37idgg",
       "Name": "The artist",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "23",
@@ -606,14 +611,14 @@
     {
       "ID": "d37idgg",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:07:01.7434931+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:08:34.4651394+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:17.3101019+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:58:54.1625572+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:07:01.7435244+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:59:23.2257268+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:08:34.4651768+00:00"
 }

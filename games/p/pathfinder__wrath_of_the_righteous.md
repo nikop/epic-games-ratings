@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 26.00% | ~3,163 |
+| Devoured by Darkness | 26.00% | ~3,164 |
 | A Spark | 19.00% | ~2,312 |
 | Burning City | 18.00% | ~2,190 |
 | Mythic Choices | 15.00% | ~1,825 |
 | Defender's Heart | 15.00% | ~1,825 |
-| Banner over the Citadel | 14.00% | ~1,703 |
+| Banner over the Citadel | 14.00% | ~1,704 |
 | Queen's Gratitude | 12.00% | ~1,460 |
-| Fifth Crusade | 8.00% | ~973 |
+| Fifth Crusade | 8.00% | ~974 |
 | Embrace of the Abyss | 7.00% | ~852 |
 | Path of the Angel | 6.00% | ~730 |
 | Great Upstart | 6.00% | ~730 |
@@ -33,10 +33,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Trickster | 3.00% | ~365 |
 | Heroic Victory | 3.00% | ~365 |
 | Core of the Riddle | 3.00% | ~365 |
-| Hanged Man's Notes | 3.00% | ~328 |
-| Sarkoris Will Be Green | 3.00% | ~328 |
-| The Lady of the Forest | 3.00% | ~328 |
-| Beware Still Water | 3.00% | ~328 |
+| Hanged Man's Notes | 3.00% | ~329 |
+| Sarkoris Will Be Green | 3.00% | ~329 |
+| The Lady of the Forest | 3.00% | ~329 |
+| Beware Still Water | 3.00% | ~329 |
 | Path of the Demon | 2.00% | ~243 |
 | Path of the Aeon | 2.00% | ~243 |
 | Path of the Lich | 2.00% | ~243 |
@@ -49,17 +49,17 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 1.00% | ~122 |
 | Abyssal Conspiracy | 1.00% | ~122 |
 | Truly Profane Gift | 1.00% | ~122 |
-| This Wall Won't Fall | 1.00% | ~109 |
-| Not the Last Sarkorian | 1.00% | ~109 |
-| Path of the Dragon | 0.90% | ~109 |
-| End of Eternal Guard | 0.90% | ~109 |
+| This Wall Won't Fall | 1.00% | ~110 |
+| Not the Last Sarkorian | 1.00% | ~110 |
+| Path of the Dragon | 0.90% | ~110 |
+| End of Eternal Guard | 0.90% | ~110 |
 | Masterful Charge | 0.70% | ~85 |
 | Playful Mood | 0.70% | ~85 |
 | Dreadful Dragon | 0.70% | ~85 |
 | Prelate's Nemesis | 0.50% | ~61 |
 | Ashes to Ashes | 0.40% | ~49 |
-| Masterful Dispel | 0.30% | ~36 |
-| Just Pathetic | 0.30% | ~36 |
+| Masterful Dispel | 0.30% | ~37 |
+| Just Pathetic | 0.30% | ~37 |
 | Path of the Swarm | 0.20% | ~24 |
 | Equal to Aroden | 0.10% | ~12 |
 | Spirit of Adventure | 0.10% | ~12 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,166 (Ranked 158)  
+Progressed: 12,169 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,6 +342,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 12,146 | 0 |
 | 2023-11-23 | 12,158 | 0 |
 | 2023-11-24 | 12,166 | 0 |
+| 2023-11-25 | 12,169 | 0 |
 ## Awards
 Max (Character Customization): 1,747  (Ranked 122)  
 Sum: 7,088 (Ranked 120)  

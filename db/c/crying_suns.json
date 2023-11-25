@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471320,
+  "EOS_Progressed": 471321,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23438,6 +23438,11 @@
       "Time": "2023-11-25T04:09:27.7157602+00:00",
       "NumProgressed": 471320,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-25T05:10:02.9506209+00:00",
+      "NumProgressed": 471321,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23473,7 +23478,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103690
+      "UsersEstimate": 103691
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -23537,7 +23542,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311071
+      "UsersEstimate": 311072
     },
     {
       "ID": "achievement_story_landa",
@@ -23961,7 +23966,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103690
+      "UsersEstimate": 103691
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -24080,21 +24085,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15254,
+      "Progressed": 15255,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471320,
+      "Progressed": 471321,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:09:27.7157597+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:10:02.9506205+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:59:55.5038972+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:09:27.7159139+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:00:41.0543007+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:10:02.9508009+00:00"
 }

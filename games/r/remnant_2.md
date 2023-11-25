@@ -11,6 +11,7 @@ Rating: 4.75 (Ranked 148)
 | First of Many | 0.30% | ~682 |
 | Expanding Horizons | 0.20% | ~455 |
 | Am I Seeing This? | 0.20% | ~455 |
+| Gleaming the Cube | 0.20% | ~455 |
 | Not So Special Now | 0.20% | ~455 |
 | Quest for Survival | 0.20% | ~455 |
 | Familiar Face | 0.20% | ~455 |
@@ -20,7 +21,6 @@ Rating: 4.75 (Ranked 148)
 | Ghost in the Machine | 0.10% | ~227 |
 | Only Human | 0.10% | ~227 |
 | Chaos | 0.10% | ~227 |
-| Gleaming the Cube | 0.10% | ~227 |
 | Traitor | 0.10% | ~227 |
 | Forever is a Long Time Coming | 0.10% | ~227 |
 | Power Surge | 0.10% | ~227 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,389 (Ranked 69)  
+Progressed: 227,419 (Ranked 69)  
 Completed: 519 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,10 +193,10 @@ Completed: 519 (0.23%) (Ranked 248)
 | 2023-11-22 | 225,927 | 503 |
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
-| 2023-11-25 | 227,389 | 519 |
+| 2023-11-25 | 227,419 | 519 |
 ## Awards
 Max (Great Boss Battles): 2,415  (Ranked 105)  
-Sum: 5,851 (Ranked 129)  
+Sum: 5,859 (Ranked 129)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -207,7 +207,7 @@ Diff (max vs sum): -24
 | This game is Extremely Fun | 363 |
 | This game has Amazing Storytelling | 358 |
 | This game is Relaxing | 353 |
-| This game has Quickly Understood Controls | 337 |
+| This game has Quickly Understood Controls | 345 |
 | This game has Amazing Characters | 333 |
 | This game has Unique Visuals | 292 |
 | This game has a Creative Community | 268 |
@@ -336,4 +336,4 @@ Diff (max vs sum): -24
 | 2023-11-22 | 4.75 | 2,385 | 5,732 |
 | 2023-11-23 | 4.76 | 2,401 | 5,787 |
 | 2023-11-24 | 4.75 | 2,415 | 5,845 |
-| 2023-11-25 | 4.75 | 2,415 | 5,851 |
+| 2023-11-25 | 4.75 | 2,415 | 5,859 |

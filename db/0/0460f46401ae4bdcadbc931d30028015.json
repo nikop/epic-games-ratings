@@ -735,9 +735,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3856,
+  "EOS_Progressed": 3857,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5930,6 +5930,11 @@
       "Time": "2023-11-25T04:03:56.6449212+00:00",
       "NumProgressed": 3856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T05:04:30.4264412+00:00",
+      "NumProgressed": 3857,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5958,7 +5963,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "achievement_12",
@@ -6038,7 +6043,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "achievement_21",
@@ -6094,7 +6099,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "achievement_9",
@@ -6102,14 +6107,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3856,
+      "Progressed": 3857,
       "Completed": 0
     }
   ],
@@ -6117,8 +6122,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-24T21:57:40.5180136+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:03:56.6449207+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:04:30.4264409+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:57:55.3318325+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:03:56.644957+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:58:08.0657481+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:04:30.4264765+00:00"
 }

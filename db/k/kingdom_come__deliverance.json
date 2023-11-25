@@ -8731,10 +8731,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28330,
       "NumberOfAwardsMax": 7625
+    },
+    {
+      "Time": "2023-11-25T04:57:09.6876741+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28331,
+      "NumberOfAwardsMax": 7625
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28330,
+  "NumberOfAwards": 28331,
   "NumberOfAwardsMax": 7625,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8784,7 +8790,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1668
+      "Count": 1669
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8817,9 +8823,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 809735,
+  "EOS_Progressed": 809737,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 951,
+  "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33372,6 +33378,11 @@
       "Time": "2023-11-25T04:08:30.0469493+00:00",
       "NumProgressed": 809735,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-25T05:08:55.3598864+00:00",
+      "NumProgressed": 809737,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -33415,7 +33426,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170044
+      "UsersEstimate": 170045
     },
     {
       "ID": "BadGirl",
@@ -33463,7 +33474,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259115
+      "UsersEstimate": 259116
     },
     {
       "ID": "Bookworm",
@@ -33471,7 +33482,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121460
+      "UsersEstimate": 121461
     },
     {
       "ID": "Buddy",
@@ -33583,7 +33594,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186239
+      "UsersEstimate": 186240
     },
     {
       "ID": "Fighter",
@@ -33599,7 +33610,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121460
+      "UsersEstimate": 121461
     },
     {
       "ID": "Freud",
@@ -33783,7 +33794,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56681
+      "UsersEstimate": 56682
     },
     {
       "ID": "MercenarysHonor",
@@ -33887,7 +33898,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56681
+      "UsersEstimate": 56682
     },
     {
       "ID": "Saviour",
@@ -34038,15 +34049,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 809735,
+      "Progressed": 809737,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-24T23:02:41.9041768+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:08:30.0469488+00:00",
+  "LastChanged": "2023-11-25T04:57:09.687674+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:08:55.3598861+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.9251245+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:03:04.657598+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:08:30.0470963+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:57:09.6876745+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:08:55.3600272+00:00"
 }

@@ -11007,9 +11007,9 @@
       "Count": 812
     }
   ],
-  "EOS_Progressed": 303028,
+  "EOS_Progressed": 303031,
   "EOS_Completed": 514,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34517,6 +34517,11 @@
       "Time": "2023-11-25T04:09:24.4727172+00:00",
       "NumProgressed": 303028,
       "NumCompleted": 514
+    },
+    {
+      "Time": "2023-11-25T05:09:59.2067198+00:00",
+      "NumProgressed": 303031,
+      "NumCompleted": 514
     }
   ],
   "TotalAchievements": 45,
@@ -34528,7 +34533,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48484
+      "UsersEstimate": 48485
     },
     {
       "ID": "PFA_10",
@@ -34584,7 +34589,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36363
+      "UsersEstimate": 36364
     },
     {
       "ID": "PFA_17",
@@ -34616,7 +34621,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15151
+      "UsersEstimate": 15152
     },
     {
       "ID": "PFA_20",
@@ -34656,7 +34661,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36363
+      "UsersEstimate": 36364
     },
     {
       "ID": "PFA_25",
@@ -34712,7 +34717,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36363
+      "UsersEstimate": 36364
     },
     {
       "ID": "PFA_31",
@@ -34792,7 +34797,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15151
+      "UsersEstimate": 15152
     },
     {
       "ID": "PFA_40",
@@ -34808,7 +34813,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15151
+      "UsersEstimate": 15152
     },
     {
       "ID": "PFA_42",
@@ -34856,7 +34861,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45454
+      "UsersEstimate": 45455
     },
     {
       "ID": "PFA_7",
@@ -34887,7 +34892,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303028,
+      "Progressed": 303031,
       "Completed": 514
     }
   ],
@@ -34895,8 +34900,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-25T03:58:53.1492457+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:09:24.4727165+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:09:59.2067196+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:58:53.149247+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:09:24.4728586+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:59:21.7840818+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:09:59.2068312+00:00"
 }

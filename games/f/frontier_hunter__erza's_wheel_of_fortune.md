@@ -6,25 +6,25 @@
 | ---- | ---------- | ----- |
 | Travel Streamer | 91.00% | ~239 |
 | Training Simulation | 76.00% | ~200 |
-| Kuku Bird Hunter | 63.00% | ~166 |
+| Kuku Bird Hunter | 64.00% | ~168 |
 | Storm Traveller | 58.00% | ~153 |
 | Wolf King Killer | 54.00% | ~142 |
-| Fashion Connoisseur | 52.00% | ~137 |
-| Arms Mechanic | 48.00% | ~126 |
+| Fashion Connoisseur | 53.00% | ~139 |
+| Arms Mechanic | 49.00% | ~129 |
 | Flower Thief | 44.00% | ~116 |
-| Apostle of Flame | 38.00% | ~100 |
-| Beginner Cook | 37.00% | ~97 |
+| Apostle of Flame | 39.00% | ~103 |
+| Beginner Cook | 38.00% | ~100 |
 | Beginner Artificer | 37.00% | ~97 |
 | Seal Breaker | 33.00% | ~87 |
 | Handyman | 29.00% | ~76 |
 | Giant Lizard Killer | 27.00% | ~71 |
+| Nosebleeder | 26.00% | ~68 |
 | Guardian | 25.00% | ~66 |
-| Nosebleeder | 25.00% | ~66 |
 | Trader | 24.00% | ~63 |
 | Weapon Boost | 21.00% | ~55 |
 | Master Artificer | 18.00% | ~47 |
+| Flying Kobold Killer | 17.00% | ~45 |
 | Youth Magnet | 17.00% | ~45 |
-| Flying Kobold Killer | 16.00% | ~42 |
 | Furious Scorpion Killer | 16.00% | ~42 |
 | Lethal Blade Mantis Killer | 16.00% | ~42 |
 | Squeaky Clean | 16.00% | ~42 |

@@ -6,68 +6,68 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 215.00% | ~1,006 |
-| Iron Chef | 156.00% | ~730 |
-| Greeno-B-Gone | 112.00% | ~524 |
-| Your Especially Earned Trajectory | 90.00% | ~421 |
-| Super Spelunker | 76.00% | ~356 |
-| No Mountain Wide Enough | 68.00% | ~318 |
-| One of the Cool Kids | 67.00% | ~314 |
-| On that Grindset | 64.00% | ~300 |
-| Yakmel Whisperer | 64.00% | ~300 |
-| Can We Keep It? | 63.00% | ~295 |
-| Diamonds are Forever | 60.00% | ~281 |
-| Pack Mule | 58.00% | ~271 |
-| The Little Wood that Could | 55.00% | ~257 |
-| Unboxing | 54.00% | ~253 |
-| First Love | 53.00% | ~248 |
-| Chatterbox | 51.00% | ~239 |
-| I Do! | 51.00% | ~239 |
-| Big Game Hunter | 49.00% | ~229 |
-| Financially Secure | 47.00% | ~220 |
-| Happier-est Place on Earth | 47.00% | ~220 |
-| Got Served | 47.00% | ~220 |
-| You Don't Win Friends With Salad | 47.00% | ~220 |
-| Builder of the Month | 45.00% | ~211 |
-| Call Me Fishmael | 45.00% | ~211 |
-| Anti-Santa | 44.00% | ~206 |
-| Mole Masher | 44.00% | ~206 |
-| Panda-kin | 43.00% | ~201 |
-| Commissions, commissions...! | 43.00% | ~201 |
-| Finishing Touches | 42.00% | ~197 |
+| Adept Assembler | 214.00% | ~1,006 |
+| Iron Chef | 155.00% | ~728 |
+| Greeno-B-Gone | 111.00% | ~522 |
+| Your Especially Earned Trajectory | 90.00% | ~423 |
+| Super Spelunker | 76.00% | ~357 |
+| No Mountain Wide Enough | 67.00% | ~315 |
+| One of the Cool Kids | 67.00% | ~315 |
+| On that Grindset | 64.00% | ~301 |
+| Can We Keep It? | 63.00% | ~296 |
+| Yakmel Whisperer | 63.00% | ~296 |
+| Diamonds are Forever | 60.00% | ~282 |
+| Pack Mule | 58.00% | ~273 |
+| The Little Wood that Could | 56.00% | ~263 |
+| Unboxing | 55.00% | ~258 |
+| First Love | 53.00% | ~249 |
+| Chatterbox | 51.00% | ~240 |
+| I Do! | 51.00% | ~240 |
+| Big Game Hunter | 49.00% | ~230 |
+| Financially Secure | 47.00% | ~221 |
+| Happier-est Place on Earth | 47.00% | ~221 |
+| Got Served | 47.00% | ~221 |
+| You Don't Win Friends With Salad | 47.00% | ~221 |
+| Builder of the Month | 45.00% | ~212 |
+| Call Me Fishmael | 45.00% | ~212 |
+| Anti-Santa | 44.00% | ~207 |
+| Commissions, commissions...! | 43.00% | ~202 |
+| Mole Masher | 43.00% | ~202 |
+| Panda-kin | 42.00% | ~197 |
 | Better Late than Never | 42.00% | ~197 |
 | Martle's Dream | 42.00% | ~197 |
-| What Plants Crave | 42.00% | ~197 |
-| Waste Not Want Not | 42.00% | ~197 |
-| Officially Official | 41.00% | ~192 |
-| Elementary, My Dear | 41.00% | ~192 |
-| Knowledge is Power | 40.00% | ~187 |
+| Finishing Touches | 41.00% | ~193 |
+| What Plants Crave | 41.00% | ~193 |
+| Officially Official | 41.00% | ~193 |
+| Waste Not Want Not | 41.00% | ~193 |
+| Knowledge is Power | 40.00% | ~188 |
+| Elementary, My Dear | 40.00% | ~188 |
 | Bridging the Gap | 39.00% | ~183 |
-| Lifeline Pipeline | 38.00% | ~178 |
-| My Time Mansion | 37.00% | ~173 |
-| Got the Flow Back | 36.00% | ~168 |
-| Jewel of the Eufaula | 34.00% | ~159 |
-| Who Ya Gonna Call...? | 34.00% | ~159 |
-| Sepia Toned Memories | 33.00% | ~154 |
-| He Can Spin A Yarn... | 30.00% | ~140 |
+| Lifeline Pipeline | 38.00% | ~179 |
+| My Time Mansion | 37.00% | ~174 |
+| Got the Flow Back | 36.00% | ~169 |
+| Jewel of the Eufaula | 34.00% | ~160 |
+| Who Ya Gonna Call...? | 34.00% | ~160 |
+| Sepia Toned Memories | 33.00% | ~155 |
+| He Can Spin A Yarn... | 30.00% | ~141 |
 | Time Flies | 29.00% | ~136 |
 | Kind of a Big Deal | 29.00% | ~136 |
-| Just What I Always Wanted! | 28.00% | ~131 |
-| Santa In Training | 27.00% | ~126 |
+| Just What I Always Wanted! | 28.00% | ~132 |
+| Santa In Training | 27.00% | ~127 |
 | Sandrunning Speedster | 26.00% | ~122 |
 | Newton | 26.00% | ~122 |
-| It Belongs in a Museum! | 25.00% | ~117 |
+| It Belongs in a Museum! | 26.00% | ~122 |
 | Do Your Part | 23.00% | ~108 |
 | Pro Gamer | 22.00% | ~103 |
 | Cardistry | 17.00% | ~80 |
 | Strong Arms | 12.00% | ~56 |
 | Got the Receipt? | 12.00% | ~56 |
-| It's High Noon... | 11.00% | ~51 |
+| It's High Noon... | 11.00% | ~52 |
 | Jack of All Trades | 7.00% | ~33 |
 | Sandrock's Hottest Club | 4.00% | ~19 |
 | Winner and Still Champeen | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468 (Ranked 314)  
+Progressed: 470 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 382 | 0 |
 | 2023-11-23 | 452 | 0 |
 | 2023-11-24 | 455 | 0 |
-| 2023-11-25 | 468 | 0 |
+| 2023-11-25 | 470 | 0 |
 ## Awards
 Max (Character Customization): 599  (Ranked 194)  
 Sum: 1,393 (Ranked 240)  

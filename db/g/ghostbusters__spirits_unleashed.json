@@ -3507,9 +3507,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31510,
+  "EOS_Progressed": 31513,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20382,6 +20382,11 @@
       "Time": "2023-11-25T04:05:53.5729315+00:00",
       "NumProgressed": 31510,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-25T05:06:52.7648494+00:00",
+      "NumProgressed": 31513,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20433,7 +20438,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "Collect_Spores",
@@ -20457,7 +20462,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "Daily_Dose",
@@ -20529,7 +20534,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "GB_In_Training",
@@ -20729,7 +20734,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "Terrifying",
@@ -20753,7 +20758,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "Tobins_Prodigy",
@@ -20777,7 +20782,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "Welcome_Crew",
@@ -20793,14 +20798,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31510,
+      "Progressed": 31513,
       "Completed": 69
     }
   ],
@@ -20808,8 +20813,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-24T05:03:05.9731122+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:05:53.5729311+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:06:52.7648491+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-25T04:01:13.4468827+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:05:53.5730221+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:03:01.1633011+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:06:52.7649405+00:00"
 }

@@ -268,17 +268,17 @@
       "ID": "Ach-04-kukacka",
       "SetID": "2pjo9pi",
       "Name": "Kukacka",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach-04-mesto",
       "SetID": "2pjo9pi",
       "Name": "Mesto",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach-04-mura",
@@ -292,9 +292,9 @@
       "ID": "Ach-04-skritci",
       "SetID": "2pjo9pi",
       "Name": "Skritci",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach-04-snek",
@@ -332,9 +332,9 @@
       "ID": "Ach-04-zloB",
       "SetID": "2pjo9pi",
       "Name": "Zlo B",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach-05-burak",
@@ -388,9 +388,9 @@
       "ID": "Ach-05-krava",
       "SetID": "2pjo9pi",
       "Name": "Krava",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach-05-krotitel",
@@ -476,9 +476,9 @@
       "ID": "Ach-level-4",
       "SetID": "2pjo9pi",
       "Name": "Level 4",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach-level-5",
@@ -515,8 +515,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:03:14.1557039+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:03:39.3383565+00:00",
   "LastUpdate_AppInfo": "2023-11-22T17:57:01.0255803+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:59:12.0864335+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:03:14.1557371+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:59:46.2425677+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:03:39.3383943+00:00"
 }

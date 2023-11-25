@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6805,10 +6805,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11778,
       "NumberOfAwardsMax": 7712
+    },
+    {
+      "Time": "2023-11-25T04:59:53.9489092+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11781,
+      "NumberOfAwardsMax": 7712
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11778,
+  "NumberOfAwards": 11781,
   "NumberOfAwardsMax": 7712,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6840,7 +6846,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 474
+      "Count": 477
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6867,10 +6873,10 @@
       "Count": 490
     }
   ],
-  "EOS_Progressed": 724283,
+  "EOS_Progressed": 724320,
   "EOS_Completed": 2434,
-  "EOS_NewPlayers": 4400,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 4415,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -31882,6 +31888,11 @@
       "Time": "2023-11-25T04:05:29.3023223+00:00",
       "NumProgressed": 724283,
       "NumCompleted": 2434
+    },
+    {
+      "Time": "2023-11-25T05:06:23.4716967+00:00",
+      "NumProgressed": 724320,
+      "NumCompleted": 2434
     }
   ],
   "TotalAchievements": 51,
@@ -32085,7 +32096,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3621
+      "UsersEstimate": 3622
     },
     {
       "ID": "ach_knock_down",
@@ -32141,7 +32152,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5794
+      "UsersEstimate": 5795
     },
     {
       "ID": "ach_salvation",
@@ -32197,7 +32208,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3621
+      "UsersEstimate": 3622
     },
     {
       "ID": "ach_thesacrifice",
@@ -32237,7 +32248,7 @@
       "Name": "Rising Star",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 3621
+      "UsersEstimate": 3622
     },
     {
       "ID": "ach_well_trained",
@@ -32253,7 +32264,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ach_dark_magic",
@@ -32261,7 +32272,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "ach_gardening_tools",
@@ -32277,7 +32288,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32293,29 +32304,29 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 724283,
+      "Progressed": 724320,
       "Completed": 2434
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 49825,
-      "Completed": 36599
+      "Progressed": 49862,
+      "Completed": 36600
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-25T03:59:18.5227295+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:05:29.3023218+00:00",
+  "LastChanged": "2023-11-25T04:59:53.948909+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:06:23.4716964+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:59:18.5227304+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:05:29.3024724+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:59:53.9489096+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:06:23.4718106+00:00"
 }

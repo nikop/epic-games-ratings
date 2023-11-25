@@ -14,6 +14,7 @@ Rating: 3.45 (Ranked 1,047)
 | Peek-a-boo | 2.00% | ~35 |
 | Throw The First Stone | 2.00% | ~35 |
 | ICU | 2.00% | ~35 |
+| Sucks To Be You | 2.00% | ~35 |
 | Wounded Whispers | 2.00% | ~35 |
 | Catch and Release | 2.00% | ~35 |
 | Neighborhood Revitalization | 1.00% | ~18 |
@@ -22,13 +23,12 @@ Rating: 3.45 (Ranked 1,047)
 | Sic Transit Umbra | 1.00% | ~18 |
 | Radio Silence | 1.00% | ~18 |
 | Good Morning | 1.00% | ~18 |
-| Sucks To Be You | 1.00% | ~18 |
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
 | Harvest’s End | 1.00% | ~18 |
 | Bell-ringer | 0.90% | ~16 |
+| Bad Wiring | 0.80% | ~14 |
 | From the Shadows | 0.80% | ~14 |
-| Bad Wiring | 0.70% | ~12 |
 | Silence Is Golden | 0.70% | ~12 |
 | Helping Hand | 0.70% | ~12 |
 | Contingency Plans | 0.60% | ~11 |
@@ -50,12 +50,12 @@ Rating: 3.45 (Ranked 1,047)
 | Under a Bushel | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |
 | Good Samaritan | 0.30% | ~5 |
+| Friendgineering | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
 | Scream Team | 0.10% | ~2 |
 | Monster Hunters Club | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
-| Friendgineering | 0.10% | ~2 |
 | Faith Healer | 0.10% | ~2 |
 | Empty Nest Syndrome | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |

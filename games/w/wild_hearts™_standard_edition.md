@@ -16,9 +16,9 @@
 | Memory Rouser | 63.00% | ~203 |
 | Kemono Hunter | 60.00% | ~193 |
 | Expert Conjuror | 57.00% | ~184 |
+| Flawless Crystal | 54.00% | ~174 |
 | Bonds of Enmity | 54.00% | ~174 |
 | Distance Devourer | 53.00% | ~171 |
-| Flawless Crystal | 53.00% | ~171 |
 | Helpful Heart | 53.00% | ~171 |
 | Master of the Skies | 50.00% | ~161 |
 | Counter Specialist | 49.00% | ~158 |

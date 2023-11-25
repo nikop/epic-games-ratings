@@ -29,8 +29,8 @@ Rating: 4.53 (Ranked 541)
 | Atomic drill | 32.00% | ~1,808 |
 | Disco Roach | 28.00% | ~1,582 |
 | Dawkins Residence | 22.00% | ~1,243 |
+| Rescue time! | 19.00% | ~1,073 |
 | New order | 18.00% | ~1,017 |
-| Rescue time! | 18.00% | ~1,017 |
 | New species | 17.00% | ~960 |
 | A New Hope | 16.00% | ~904 |
 | Enigma | 16.00% | ~904 |

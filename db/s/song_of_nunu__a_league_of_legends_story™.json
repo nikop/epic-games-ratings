@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -1797,6 +1797,11 @@
       "Time": "2023-11-25T04:09:24.695451+00:00",
       "NumProgressed": 865,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T05:09:59.2111422+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -1817,7 +1822,7 @@
       "Name": "My Darkest Day",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "EV_ACH03",
@@ -1833,7 +1838,7 @@
       "Name": "No Bites",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "EV_ACH05",
@@ -1841,7 +1846,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "EV_ACH06",
@@ -1849,7 +1854,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "EV_ACH07",
@@ -1857,7 +1862,7 @@
       "Name": "3000 Year Blackout",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "EV_ACH08",
@@ -1913,7 +1918,7 @@
       "Name": "Boom Things",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "EV_ACH15",
@@ -1921,7 +1926,7 @@
       "Name": "Better On Ice",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "EV_ACH16",
@@ -1929,7 +1934,7 @@
       "Name": "Krugmazing",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "EV_ACH17",
@@ -1937,7 +1942,7 @@
       "Name": "Iceborn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "EV_ACH18",
@@ -1953,7 +1958,7 @@
       "Name": "On The Rocks",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "EV_ACH20",
@@ -2017,7 +2022,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "EV_ACH28",
@@ -2049,7 +2054,7 @@
       "Name": "Feels Familiar",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "EV_ACH32",
@@ -2065,7 +2070,7 @@
       "Name": "Notai Notes",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "EV_ACH34",
@@ -2081,7 +2086,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "EV_ACH36",
@@ -2153,21 +2158,21 @@
       "Name": "Snowball Fightn\u0027t",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:09:24.6954504+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:09:59.2111421+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:57:39.0887597+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:09:24.6954827+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:57:46.992332+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:09:59.2111709+00:00"
 }

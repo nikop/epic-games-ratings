@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 469,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1101,6 +1101,11 @@
       "Time": "2023-11-25T04:09:18.2200634+00:00",
       "NumProgressed": 466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T05:09:52.5355344+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1121,7 +1126,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_11",
@@ -1129,7 +1134,7 @@
       "Name": "Gravel Guru",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_12",
@@ -1153,7 +1158,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_15",
@@ -1177,7 +1182,7 @@
       "Name": "Your first time?",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_18",
@@ -1201,7 +1206,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_20",
@@ -1297,7 +1302,7 @@
       "Name": "NEW PB!",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_8",
@@ -1320,7 +1325,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 469,
       "Completed": 0
     }
   ],
@@ -1328,8 +1333,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-25T01:40:43.9281934+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:09:18.2200629+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:09:52.535534+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:57:58.5856538+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:09:18.2200817+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:58:12.2194106+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:09:52.5355505+00:00"
 }

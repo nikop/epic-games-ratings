@@ -16,6 +16,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A tale of two Families | 0.10% | ~463 |
 | AAA Credit | 0.10% | ~463 |
 | Absolutely | 0.10% | ~463 |
+| Abu Bakr II’s Ambition | 0.10% | ~463 |
 | AEIOU | 0.10% | ~463 |
 | Aggressive Expander | 0.10% | ~463 |
 | Albania or Iberia | 0.10% | ~463 |
@@ -123,6 +124,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Live Long and Prosper | 0.10% | ~463 |
 | Magellan’s Voyage | 0.10% | ~463 |
 | Maharana Pratap | 0.10% | ~463 |
+| Mansa Musa | 0.10% | ~463 |
 | Mare Nostrum | 0.10% | ~463 |
 | Market Control | 0.10% | ~463 |
 | Marshy March | 0.10% | ~463 |
@@ -239,7 +241,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~463 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
-| Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
@@ -305,7 +306,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Made in Japan | 0.00% | ~0 |
-| Mansa Musa | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,882 (Ranked 41)  
+Progressed: 462,907 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-22 | 461,499 | 1 |
 | 2023-11-23 | 462,094 | 1 |
 | 2023-11-24 | 462,785 | 1 |
-| 2023-11-25 | 462,882 | 1 |
+| 2023-11-25 | 462,907 | 1 |
 ## Awards
 Max (Educational): 7,144  (Ranked 54)  
 Sum: 58,795 (Ranked 24)  

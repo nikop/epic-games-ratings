@@ -2,9 +2,9 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -234,6 +234,11 @@
       "Time": "2023-11-24T18:03:05.8080344+00:00",
       "NumProgressed": 45,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T05:03:39.057072+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -244,9 +249,9 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement10",
@@ -332,7 +337,7 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -420,7 +425,7 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -500,7 +505,7 @@
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -541,14 +546,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:03:13.9575603+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:03:39.0570715+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:59:11.6240165+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:03:13.9575854+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:59:45.558872+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:03:39.0571021+00:00"
 }

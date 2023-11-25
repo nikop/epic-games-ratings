@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -774,9 +774,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1205,8 +1205,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:04:25.5050673+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:05:05.6431265+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:38.9498707+00:00",
-  "LastUpdate_Ratings": "2023-11-25T03:59:20.9741777+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:04:25.5051428+00:00"
+  "LastUpdate_Ratings": "2023-11-25T04:59:57.09355+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:05:05.6432222+00:00"
 }

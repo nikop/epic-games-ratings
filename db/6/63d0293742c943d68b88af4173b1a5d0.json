@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -813,9 +813,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 193
     },
     {
       "ID": "REMAKE_004",
@@ -845,9 +845,9 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "Remake_008",
@@ -861,9 +861,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "Remake_010",
@@ -980,8 +980,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-25T04:06:22.5362377+00:00",
+  "LastChanged_Achievements": "2023-11-25T05:07:27.4895743+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-25T04:01:09.7034292+00:00",
-  "LastUpdate_Achievements": "2023-11-25T04:06:22.5362569+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:02:56.4192897+00:00",
+  "LastUpdate_Achievements": "2023-11-25T05:07:27.489588+00:00"
 }
