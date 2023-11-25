@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1657,9 +1657,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1970,8 +1970,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:09:48.6628266+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:11:59.9203222+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:23.232036+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:58:53.6399291+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:09:48.6628868+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:00:56.6903426+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:11:59.9203822+00:00"
 }

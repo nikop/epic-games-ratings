@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6362,
+  "EOS_Progressed": 6368,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 875,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4404,6 +4404,11 @@
       "Time": "2023-11-25T07:09:28.1681413+00:00",
       "NumProgressed": 6362,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T08:11:32.2758077+00:00",
+      "NumProgressed": 6368,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4424,15 +4429,15 @@
       "Name": "Baby Steps",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "BeLikeWater",
       "SetID": "acc6ea0",
       "Name": "Be Like Water",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "Bikemaggedon",
@@ -4456,7 +4461,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Eavesdropper",
@@ -4488,7 +4493,7 @@
       "Name": "First Time?",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1465
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4560,7 +4565,7 @@
       "Name": "Nasty!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "NoMoreTotems",
@@ -4616,7 +4621,7 @@
       "Name": "The Quarterback",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ThisIsDharma",
@@ -4624,7 +4629,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -4656,7 +4661,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -4670,9 +4675,9 @@
       "ID": "YouveReachedTheRightNumber",
       "SetID": "acc6ea0",
       "Name": "You\u0027ve Reached The Right Number",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 318
     },
     {
       "ID": "k01101110",
@@ -4680,14 +4685,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6362,
+      "Progressed": 6368,
       "Completed": 7
     }
   ],
@@ -4695,8 +4700,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-24T22:00:19.133349+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:09:28.1681411+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:11:32.2758074+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:00:39.1512209+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:09:28.1681783+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:04:26.8567809+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:11:32.2758438+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -133,9 +133,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 584,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1308,6 +1308,11 @@
       "Time": "2023-11-25T07:05:04.7760924+00:00",
       "NumProgressed": 583,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T08:07:41.6268195+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1320,7 +1325,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "AbInitio",
@@ -1344,7 +1349,7 @@
       "Name": "Archaeologist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Balance",
@@ -1360,7 +1365,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "BreakTheLoop",
@@ -1368,7 +1373,7 @@
       "Name": "Break the Loop",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BridgeBuilder",
@@ -1392,7 +1397,7 @@
       "Name": "Chicken",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CircularOasis",
@@ -1424,7 +1429,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "EcstaticTruth",
@@ -1504,7 +1509,7 @@
       "Name": "Lord of the Files",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "LostMarshes",
@@ -1576,7 +1581,7 @@
       "Name": "Overload",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "Persistent",
@@ -1656,7 +1661,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TeamSpirit",
@@ -1720,7 +1725,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "TheWordEndures",
@@ -1728,7 +1733,7 @@
       "Name": "The Word Endures",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "TouchGrass",
@@ -1776,22 +1781,22 @@
       "Name": "Wooded Plateau",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 584,
       "Completed": 1
     }
   ],
@@ -1799,8 +1804,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-25T01:43:33.0435871+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:05:04.7760922+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:07:41.6268192+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:00:36.0711758+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:05:04.7761313+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:04:22.2438487+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:07:41.6268594+00:00"
 }

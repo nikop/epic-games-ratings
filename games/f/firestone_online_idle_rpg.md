@@ -5,7 +5,7 @@ Rating: 4.12 (Ranked 963)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,470 |
+| Victor | 93.00% | ~2,471 |
 | World Map | 78.00% | ~2,072 |
 | Temple of Eternals | 57.00% | ~1,514 |
 | Prestigious | 53.00% | ~1,408 |
@@ -16,8 +16,8 @@ Rating: 4.12 (Ranked 963)
 | Exotic Merchant | 17.00% | ~452 |
 | Dragon Clicker | 16.00% | ~425 |
 | Miner Clicker | 16.00% | ~425 |
-| Full Party | 15.00% | ~398 |
-| Inspection | 15.00% | ~398 |
+| Full Party | 15.00% | ~399 |
+| Inspection | 15.00% | ~399 |
 | Dragon Master | 14.00% | ~372 |
 | Enlightenment | 14.00% | ~372 |
 | Hero inspection | 14.00% | ~372 |
@@ -39,10 +39,10 @@ Rating: 4.12 (Ranked 963)
 | Moving Up The Ladder | 9.00% | ~239 |
 | Relic Of The Past | 9.00% | ~239 |
 | Scroll Master | 9.00% | ~239 |
-| Here We Go Again | 8.00% | ~212 |
-| Master Enchanter | 8.00% | ~212 |
-| The father of Dragons | 8.00% | ~212 |
-| Trader | 8.00% | ~212 |
+| Here We Go Again | 8.00% | ~213 |
+| Master Enchanter | 8.00% | ~213 |
+| The father of Dragons | 8.00% | ~213 |
+| Trader | 8.00% | ~213 |
 | Blueprint Upgrades | 7.00% | ~186 |
 | Crystal Mining | 7.00% | ~186 |
 | Dragon Slayer | 7.00% | ~186 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 963)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,656 (Ranked 214)  
+Progressed: 2,657 (Ranked 214)  
 Completed: 2 (0.08%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2 (0.08%) (Ranked 296)
 | 2023-11-22 | 2,554 | 2 |
 | 2023-11-23 | 2,599 | 2 |
 | 2023-11-24 | 2,644 | 2 |
-| 2023-11-25 | 2,656 | 2 |
+| 2023-11-25 | 2,657 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 487)  
 Sum: 110 (Ranked 443)  

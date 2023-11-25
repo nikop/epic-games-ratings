@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -825,9 +825,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "AchvAllMemories",
@@ -1001,9 +1001,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "AchvReachCity",
@@ -1025,9 +1025,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1064,8 +1064,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:08:52.4934088+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:10:41.7115221+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:00:15.5154546+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:08:52.4934292+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:03:00.9790254+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:10:41.7115431+00:00"
 }

@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 717,
+  "EOS_Progressed": 718,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.02,
+  "EOS_Completed_Percentage": 5.01,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2935,6 +2935,11 @@
       "Time": "2023-11-25T07:03:37.4834629+00:00",
       "NumProgressed": 717,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-25T08:05:37.0062515+00:00",
+      "NumProgressed": 718,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 25,
@@ -2978,7 +2983,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "META_HALF_LINK",
@@ -3040,9 +3045,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 101
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3058,7 +3063,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3066,7 +3071,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3106,7 +3111,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "PROGRESS_N2",
@@ -3128,9 +3133,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 151
+      "UsersEstimate": 144
     },
     {
       "ID": "PROGRESS_N5",
@@ -3145,14 +3150,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 717,
+      "Progressed": 718,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:03:37.4834627+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:05:37.0062511+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:59:46.1453713+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:03:37.4834832+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:02:16.2835558+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:05:37.0062843+00:00"
 }

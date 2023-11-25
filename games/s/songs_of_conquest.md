@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 30.00% | ~65 |
+| Adept | 29.00% | ~63 |
 | Double Kill | 23.00% | ~50 |
 | Critical Hit | 10.00% | ~22 |
 | Veteran | 8.00% | ~17 |
@@ -14,9 +14,9 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 6.00% | ~13 |
 | Sorcerous Spree | 5.00% | ~11 |
 | Veni, Vidi, Vici | 5.00% | ~11 |
-| Whoops! | 3.00% | ~6 |
+| Multi Kill | 3.00% | ~7 |
+| Whoops! | 3.00% | ~7 |
 | This Spot's Taken | 2.00% | ~4 |
-| Multi Kill | 2.00% | ~4 |
 | Such A Fungi | 2.00% | ~4 |
 | Master | 2.00% | ~4 |
 | Expert Essence Employment | 2.00% | ~4 |
@@ -24,12 +24,12 @@ Number of Ratings: 292  (23.09.2022)
 | Infernal Influence | 1.00% | ~2 |
 | The Song of Stoutheart | 0.90% | ~2 |
 | Death To Diplomacy | 0.90% | ~2 |
+| Versatile Wielder | 0.90% | ~2 |
 | Coming Through! | 0.90% | ~2 |
 | Deepstrike | 0.90% | ~2 |
 | Trojan Horse | 0.90% | ~2 |
 | Pyrrhic Victory | 0.90% | ~2 |
 | Hello There | 0.50% | ~1 |
-| Versatile Wielder | 0.50% | ~1 |
 | Unlimited Power! | 0.50% | ~1 |
 | Fully Charged | 0.50% | ~1 |
 | Barbecue | 0.50% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 383)  
+Progressed: 217 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 183 | 0 |
 | 2023-11-23 | 198 | 0 |
 | 2023-11-24 | 212 | 0 |
-| 2023-11-25 | 216 | 0 |
+| 2023-11-25 | 217 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 510)  
 Sum: 194 (Ranked 404)  

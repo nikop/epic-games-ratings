@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3507,9 +3507,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31516,
+  "EOS_Progressed": 31518,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20397,6 +20397,11 @@
       "Time": "2023-11-25T07:06:00.683474+00:00",
       "NumProgressed": 31516,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-25T08:09:01.7738165+00:00",
+      "NumProgressed": 31518,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20416,7 +20421,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Back_Off",
@@ -20480,7 +20485,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Diabolical",
@@ -20512,7 +20517,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Efficient",
@@ -20552,7 +20557,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Ghost_Expert",
@@ -20568,7 +20573,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Legions",
@@ -20656,7 +20661,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Rivalry",
@@ -20680,7 +20685,7 @@
       "Name": "Side Hustle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Skilled",
@@ -20712,7 +20717,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2837
     },
     {
       "ID": "Summoner",
@@ -20720,7 +20725,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Surprise",
@@ -20815,7 +20820,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31516,
+      "Progressed": 31518,
       "Completed": 69
     }
   ],
@@ -20823,8 +20828,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-24T05:03:05.9731122+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:06:00.6834737+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:09:01.773816+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:03:09.5346729+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:06:00.6835883+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:04:54.7884541+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:09:01.7739251+00:00"
 }

@@ -8,7 +8,7 @@ Rating: 4.75 (Ranked 148)
 | Regicide | 0.50% | ~33 |
 | Master of the Dark Arts | 0.50% | ~33 |
 | The Killing Jar | 0.40% | ~910 |
-| First of Many | 0.30% | ~682 |
+| First of Many | 0.30% | ~683 |
 | Expanding Horizons | 0.20% | ~455 |
 | Am I Seeing This? | 0.20% | ~455 |
 | Gleaming the Cube | 0.20% | ~455 |
@@ -17,51 +17,51 @@ Rating: 4.75 (Ranked 148)
 | Familiar Face | 0.20% | ~455 |
 | Boss'n Up | 0.20% | ~455 |
 | Not Your Average Trait | 0.20% | ~455 |
-| Crafty | 0.10% | ~227 |
-| Ghost in the Machine | 0.10% | ~227 |
-| Only Human | 0.10% | ~227 |
-| Chaos | 0.10% | ~227 |
-| Traitor | 0.10% | ~227 |
-| Forever is a Long Time Coming | 0.10% | ~227 |
-| Power Surge | 0.10% | ~227 |
-| The God Gambit | 0.10% | ~227 |
-| Dark Designs | 0.10% | ~227 |
-| Madman's Paradise | 0.10% | ~227 |
-| Red Room | 0.10% | ~227 |
-| The Agenda | 0.10% | ~227 |
-| Not a Janitor | 0.10% | ~227 |
-| Equal Measures | 0.10% | ~227 |
-| Tall Tales | 0.10% | ~227 |
-| Blue Goddess | 0.10% | ~227 |
-| Duality | 0.10% | ~227 |
-| Top Performer | 0.10% | ~227 |
-| Shhh...It's a Secret | 0.10% | ~227 |
-| Bad Moon Rising | 0.10% | ~227 |
-| Was This Supposed To Happen? | 0.10% | ~227 |
-| Strapped | 0.10% | ~227 |
-| The Trigger | 0.10% | ~227 |
-| Edgelord | 0.10% | ~227 |
-| Cutting Edge | 0.10% | ~227 |
-| The Web | 0.10% | ~227 |
-| The Collector | 0.10% | ~227 |
-| Scrap Collector | 0.10% | ~227 |
-| Scrap Hoarder | 0.10% | ~227 |
-| All These Traits� | 0.10% | ~227 |
-| Proving Grounds | 0.10% | ~227 |
-| Carnage in C-Minor | 0.10% | ~227 |
-| The Ultimate Weapon | 0.10% | ~227 |
-| Almost There | 0.10% | ~227 |
-| Make Some Room | 0.10% | ~227 |
-| Good, But Could Be Better! | 0.10% | ~227 |
-| No One Should Have All That Power | 0.10% | ~227 |
-| Trait Chaser | 0.10% | ~227 |
-| Maxed Out! | 0.10% | ~227 |
-| Transmutate | 0.10% | ~227 |
+| Crafty | 0.10% | ~228 |
+| Ghost in the Machine | 0.10% | ~228 |
+| Only Human | 0.10% | ~228 |
+| Chaos | 0.10% | ~228 |
+| Traitor | 0.10% | ~228 |
+| Forever is a Long Time Coming | 0.10% | ~228 |
+| Power Surge | 0.10% | ~228 |
+| The God Gambit | 0.10% | ~228 |
+| Dark Designs | 0.10% | ~228 |
+| Madman's Paradise | 0.10% | ~228 |
+| Red Room | 0.10% | ~228 |
+| The Agenda | 0.10% | ~228 |
+| Not a Janitor | 0.10% | ~228 |
+| Equal Measures | 0.10% | ~228 |
+| Tall Tales | 0.10% | ~228 |
+| Blue Goddess | 0.10% | ~228 |
+| Duality | 0.10% | ~228 |
+| Top Performer | 0.10% | ~228 |
+| Shhh...It's a Secret | 0.10% | ~228 |
+| Bad Moon Rising | 0.10% | ~228 |
+| Was This Supposed To Happen? | 0.10% | ~228 |
+| Strapped | 0.10% | ~228 |
+| The Trigger | 0.10% | ~228 |
+| Edgelord | 0.10% | ~228 |
+| Cutting Edge | 0.10% | ~228 |
+| The Web | 0.10% | ~228 |
+| The Collector | 0.10% | ~228 |
+| Scrap Collector | 0.10% | ~228 |
+| Scrap Hoarder | 0.10% | ~228 |
+| All These Traits� | 0.10% | ~228 |
+| Proving Grounds | 0.10% | ~228 |
+| Carnage in C-Minor | 0.10% | ~228 |
+| The Ultimate Weapon | 0.10% | ~228 |
+| Almost There | 0.10% | ~228 |
+| Make Some Room | 0.10% | ~228 |
+| Good, But Could Be Better! | 0.10% | ~228 |
+| No One Should Have All That Power | 0.10% | ~228 |
+| Trait Chaser | 0.10% | ~228 |
+| Maxed Out! | 0.10% | ~228 |
+| Transmutate | 0.10% | ~228 |
 | Succession | 0.10% | ~7 |
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,491 (Ranked 69)  
+Progressed: 227,528 (Ranked 69)  
 Completed: 520 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 520 (0.23%) (Ranked 248)
 | 2023-11-22 | 225,927 | 503 |
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
-| 2023-11-25 | 227,491 | 520 |
+| 2023-11-25 | 227,528 | 520 |
 ## Awards
 Max (Great Boss Battles): 2,415  (Ranked 105)  
 Sum: 5,863 (Ranked 129)  

@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 5.00% | ~7,998 |
 | The Hunt | 4.00% | ~6,398 |
 | Ravenous | 4.00% | ~6,398 |
-| Weeper | 3.00% | ~4,798 |
+| Weeper | 3.00% | ~4,799 |
 | Harmless | 2.00% | ~3,199 |
 | Silenced Whispers | 2.00% | ~3,199 |
 | Devourer | 2.00% | ~3,199 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~160 |
 | Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,950 (Ranked 78)  
+Progressed: 159,956 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,10 +249,10 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
 | 2023-11-24 | 159,888 | 1 |
-| 2023-11-25 | 159,950 | 1 |
+| 2023-11-25 | 159,956 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 424)  
-Sum: 380 (Ranked 346)  
+Sum: 382 (Ranked 346)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -263,7 +263,7 @@ Diff (max vs sum): 78
 | This game has Challenging Combat | 48 |
 | This game is Extremely Fun | 48 |
 | This game has Amazing Characters | 40 |
-| This game has a Creative Community | 36 |
+| This game has a Creative Community | 38 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -414,3 +414,4 @@ Diff (max vs sum): 78
 | 2023-11-21 | 4.59 | - | 52 | 376 |
 | 2023-11-22 | 4.59 | - | 53 | 379 |
 | 2023-11-23 | 4.58 | - | 53 | 380 |
+| 2023-11-25 | 4.58 | - | 53 | 382 |

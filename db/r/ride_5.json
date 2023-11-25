@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2265,
+  "EOS_Progressed": 2266,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -5357,6 +5357,11 @@
       "Time": "2023-11-25T06:09:54.1833508+00:00",
       "NumProgressed": 2265,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T08:11:59.6064342+00:00",
+      "NumProgressed": 2266,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5377,7 +5382,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5401,7 +5406,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -5425,7 +5430,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5457,7 +5462,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5545,7 +5550,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5665,7 +5670,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5760,14 +5765,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2265,
+      "Progressed": 2266,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:09:48.4126446+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:11:59.606434+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:58:17.0740417+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:09:48.4126902+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:00:01.0175983+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:11:59.606487+00:00"
 }

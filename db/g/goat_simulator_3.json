@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5341,9 +5341,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 251879,
+  "EOS_Progressed": 251880,
   "EOS_Completed": 886,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -29126,6 +29126,11 @@
       "Time": "2023-11-25T06:09:49.7346636+00:00",
       "NumProgressed": 251879,
       "NumCompleted": 886
+    },
+    {
+      "Time": "2023-11-25T08:11:54.8843041+00:00",
+      "NumProgressed": 251880,
+      "NumCompleted": 886
     }
   ],
   "TotalAchievements": 39,
@@ -29153,7 +29158,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 30225
+      "UsersEstimate": 30226
     },
     {
       "ID": "AchievementBaywatchID",
@@ -29169,7 +29174,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 68007
+      "UsersEstimate": 68008
     },
     {
       "ID": "AchievementBigFootID",
@@ -29201,7 +29206,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 229210
+      "UsersEstimate": 229211
     },
     {
       "ID": "AchievementClownID",
@@ -29209,7 +29214,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42819
+      "UsersEstimate": 42820
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -29305,7 +29310,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 143571
+      "UsersEstimate": 143572
     },
     {
       "ID": "AchievementLootBoxID",
@@ -29369,7 +29374,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 186390
+      "UsersEstimate": 186391
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -29385,7 +29390,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 128458
+      "UsersEstimate": 128459
     },
     {
       "ID": "AchievementStreakingID",
@@ -29409,7 +29414,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 138533
+      "UsersEstimate": 138534
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -29417,7 +29422,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 118383
+      "UsersEstimate": 118384
     },
     {
       "ID": "AchievementTrinketID",
@@ -29433,7 +29438,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 163721
+      "UsersEstimate": 163722
     },
     {
       "ID": "AchievementWhaleID",
@@ -29441,14 +29446,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68007
+      "UsersEstimate": 68008
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 251879,
+      "Progressed": 251880,
       "Completed": 886
     }
   ],
@@ -29456,8 +29461,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-25T02:17:48.0151299+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:09:44.785135+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:11:54.8843038+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:40.4673474+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:00:08.915114+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:09:44.7852722+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:02:50.9760758+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:11:54.884422+00:00"
 }

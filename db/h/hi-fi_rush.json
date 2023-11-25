@@ -6,9 +6,9 @@
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,11 +145,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4323,
+  "EOS_Progressed": 4325,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:13.776329+00:00",
@@ -7620,6 +7620,11 @@
       "Time": "2023-11-25T07:03:24.9946513+00:00",
       "NumProgressed": 4323,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T08:05:19.4228674+00:00",
+      "NumProgressed": 4325,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7639,7 +7644,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "Ach003",
@@ -7743,7 +7748,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "Ach016",
@@ -7999,7 +8004,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "Ach048",
@@ -8198,13 +8203,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4323,
+      "Progressed": 4325,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2844,
+      "Progressed": 2846,
       "Completed": 1930
     }
   ],
@@ -8212,8 +8217,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:03:24.9946509+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:05:19.4228671+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:59:15.990676+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:03:24.9947376+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:01:30.3624448+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:05:19.4229491+00:00"
 }

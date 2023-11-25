@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 218,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.3,
+  "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -440,6 +440,11 @@
       "Time": "2023-11-23T18:04:56.3307959+00:00",
       "NumProgressed": 217,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-25T08:08:28.8768274+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -451,7 +456,7 @@
       "Name": "Bromance",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "comedy_killer",
@@ -459,7 +464,7 @@
       "Name": "Comedy Killer",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -467,7 +472,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "deathlooper",
@@ -483,31 +488,31 @@
       "Name": "Good job, nerd",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "lootaphilia",
       "SetID": "84ad177",
       "Name": "Lootaphilia",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
       "SetID": "84ad177",
       "Name": "Maybe you should give it another go",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "mikey_lizard",
@@ -529,9 +534,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -539,7 +544,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "thats_my_boy",
@@ -555,7 +560,7 @@
       "Name": "This won\u0027t end well...",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "tried_to_warn_you",
@@ -571,7 +576,7 @@
       "Name": "Um, ok...",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -586,7 +591,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 218,
       "Completed": 5
     }
   ],
@@ -594,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:05:37.4024749+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:08:28.8768271+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:50.8963466+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:03:17.2162036+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:05:37.4024884+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:05:05.6082702+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:08:28.8768489+00:00"
 }

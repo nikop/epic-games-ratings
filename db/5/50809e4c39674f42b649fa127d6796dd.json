@@ -2,10 +2,10 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -452,6 +452,11 @@
       "Time": "2023-11-25T07:08:44.2352506+00:00",
       "NumProgressed": 226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T08:10:30.0948236+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -536,7 +541,7 @@
       "Name": "Big Encounter",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -566,9 +571,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -582,9 +587,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -592,7 +597,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "GET_FISH_ALL",
@@ -616,7 +621,7 @@
       "Name": "The Beginning",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -783,14 +788,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:08:44.2352503+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:10:30.0948232+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:59:20.2996972+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:08:44.2352773+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:01:36.6804329+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:10:30.0948517+00:00"
 }

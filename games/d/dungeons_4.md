@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~347 |
-| Thalya – Simply Immortal | 86.00% | ~347 |
-| For the Horde! | 80.00% | ~322 |
+| The Last Stand | 87.00% | ~351 |
+| Thalya – Simply Immortal | 87.00% | ~351 |
+| For the Horde! | 81.00% | ~326 |
 | Hammer Time, Round Two | 78.00% | ~314 |
 | The Hellwoods | 73.00% | ~294 |
 | The Plains of Strothalm | 68.00% | ~274 |
 | Experienced Thalya | 67.00% | ~270 |
 | Thalya's Concentrated Fury | 66.00% | ~266 |
-| Master of Magic | 63.00% | ~254 |
+| Master of Magic | 64.00% | ~258 |
 | Bad Elves Go Everywhere | 63.00% | ~254 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~234 |
 | Magic Accidents | 57.00% | ~230 |
@@ -21,7 +21,7 @@
 | Minions, Minions! | 53.00% | ~214 |
 | The Ascent | 47.00% | ~189 |
 | It's Warm and Cozy at Home | 47.00% | ~189 |
-| YOU SHALL NOT PASS! | 42.00% | ~169 |
+| YOU SHALL NOT PASS! | 43.00% | ~173 |
 | Hard Work | 42.00% | ~169 |
 | The Big Eaty | 42.00% | ~169 |
 | Pure Dynamite! | 39.00% | ~157 |

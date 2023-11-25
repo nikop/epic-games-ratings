@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2022,9 +2022,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15469,
+  "EOS_Progressed": 15471,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16487,6 +16487,11 @@
       "Time": "2023-11-25T04:03:28.3353871+00:00",
       "NumProgressed": 15469,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-25T08:05:57.3140989+00:00",
+      "NumProgressed": 15471,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16986,7 +16991,7 @@
       "Name": "Intrepid",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -17410,7 +17415,7 @@
       "Name": "Friendly Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -19233,21 +19238,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15469,
+      "Progressed": 15471,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15469,
+      "Progressed": 15471,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-23T17:58:16.2133838+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:03:51.4078956+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:05:57.3140986+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:59:15.5911061+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:03:51.4087625+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:01:29.6682875+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:05:57.3150043+00:00"
 }

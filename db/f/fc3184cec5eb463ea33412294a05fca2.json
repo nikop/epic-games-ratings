@@ -4,8 +4,8 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1353,9 +1353,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 187
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1393,9 +1393,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1433,9 +1433,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1449,9 +1449,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 200
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1473,9 +1473,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
@@ -1488,8 +1488,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:03:40.4056547+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:05:41.0983678+00:00",
   "LastUpdate_AppInfo": "2023-11-19T01:47:56.0538921+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:59:09.5603798+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:03:40.4056657+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:01:20.7144033+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:05:41.0983802+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -7207,9 +7207,9 @@
       "Count": 3784
     }
   ],
-  "EOS_Progressed": 141787,
+  "EOS_Progressed": 141797,
   "EOS_Completed": 258,
-  "EOS_NewPlayers": 1432,
+  "EOS_NewPlayers": 1437,
   "EOS_NewCompleters": 71,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -29777,6 +29777,11 @@
       "Time": "2023-11-25T07:08:37.6136474+00:00",
       "NumProgressed": 141787,
       "NumCompleted": 258
+    },
+    {
+      "Time": "2023-11-25T08:10:20.681606+00:00",
+      "NumProgressed": 141797,
+      "NumCompleted": 258
     }
   ],
   "TotalAchievements": 112,
@@ -29956,7 +29961,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8507
+      "UsersEstimate": 8508
     },
     {
       "ID": "chest02",
@@ -30010,9 +30015,9 @@
       "ID": "collection05",
       "SetID": "anfd17p",
       "Name": "Ultimate Collector",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 567
     },
     {
       "ID": "commonres01",
@@ -30020,7 +30025,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7089
+      "UsersEstimate": 7090
     },
     {
       "ID": "commonres02",
@@ -30052,7 +30057,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "craft02",
@@ -30164,7 +30169,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "expansion02",
@@ -30260,7 +30265,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7089
+      "UsersEstimate": 7090
     },
     {
       "ID": "gold02",
@@ -30564,7 +30569,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "sell02",
@@ -30586,9 +30591,9 @@
       "ID": "sia_a",
       "SetID": "anfd17p",
       "Name": "King\u0027s Shadow",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1418
     },
     {
       "ID": "transmuter",
@@ -30604,7 +30609,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8507
+      "UsersEstimate": 8508
     },
     {
       "ID": "twinenchant01",
@@ -30683,15 +30688,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141787,
+      "Progressed": 141797,
       "Completed": 258
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-25T07:03:05.2122011+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:08:37.6136472+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:10:20.6816057+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-25T07:03:05.212202+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:08:37.613835+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:04:48.0179276+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:10:20.6817866+00:00"
 }

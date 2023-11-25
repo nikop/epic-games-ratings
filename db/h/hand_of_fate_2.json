@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665025,
+  "EOS_Progressed": 665026,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21603,6 +21603,11 @@
       "Time": "2023-11-25T07:03:27.9922234+00:00",
       "NumProgressed": 665025,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-11-25T08:05:23.4395791+00:00",
+      "NumProgressed": 665026,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 48,
@@ -21614,7 +21619,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478818
+      "UsersEstimate": 478819
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -21622,7 +21627,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385714
+      "UsersEstimate": 385715
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -21670,7 +21675,7 @@
       "Name": "Card Sharp",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13300
+      "UsersEstimate": 13301
     },
     {
       "ID": "Achievement_09_Gambler",
@@ -21678,7 +21683,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66502
+      "UsersEstimate": 66503
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -21710,7 +21715,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66502
+      "UsersEstimate": 66503
     },
     {
       "ID": "Achievement_14_Magician",
@@ -21718,7 +21723,7 @@
       "Name": "Magician",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13300
+      "UsersEstimate": 13301
     },
     {
       "ID": "Achievement_15_Hero",
@@ -21934,7 +21939,7 @@
       "Name": "Draknar\u0027s Bane",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13300
+      "UsersEstimate": 13301
     },
     {
       "ID": "Achievement_42_Thomas_Bane",
@@ -21997,15 +22002,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665025,
+      "Progressed": 665026,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:03:27.9922231+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:05:23.4395788+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.8836+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:59:35.0438676+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:03:27.9923337+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:01:59.1291529+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:05:23.4397231+00:00"
 }

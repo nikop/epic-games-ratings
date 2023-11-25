@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 43.00% | ~129 |
-| The Teleprobe | 35.00% | ~105 |
+| The Camp | 44.00% | ~132 |
+| The Teleprobe | 36.00% | ~108 |
 | The City | 31.00% | ~93 |
 | The field base | 28.00% | ~84 |
-| Survivors | 24.00% | ~72 |
+| Survivors | 25.00% | ~75 |
 | The Condor | 22.00% | ~66 |
 | The End | 21.00% | ~63 |
 | The Necroevolution | 18.00% | ~54 |

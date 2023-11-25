@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1475,10 +1475,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 380,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-11-25T08:00:36.1208667+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 380,
+  "NumberOfAwards": 382,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1504,7 +1510,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1537,9 +1543,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159950,
+  "EOS_Progressed": 159956,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1124,
+  "EOS_NewPlayers": 1126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16962,6 +16968,11 @@
       "Time": "2023-11-25T07:05:00.6570918+00:00",
       "NumProgressed": 159950,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T08:07:35.6843286+00:00",
+      "NumProgressed": 159956,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17045,7 +17056,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4798
+      "UsersEstimate": 4799
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -17340,21 +17351,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159533,
+      "Progressed": 159539,
       "Completed": 1221
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159950,
+      "Progressed": 159956,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-23T13:57:29.6901407+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:05:00.6570915+00:00",
+  "LastChanged": "2023-11-25T08:00:36.1208665+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:07:35.6843283+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:58:40.3671276+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:05:00.6571952+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:00:36.120867+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:07:35.6844388+00:00"
 }

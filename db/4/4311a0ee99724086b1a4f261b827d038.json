@@ -4,11 +4,11 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 493,
   "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 420,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -561,10 +561,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 159,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-11-25T08:01:05.7544882+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 159,
+  "NumberOfAwards": 179,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -615,11 +621,17 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 22
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 234101,
+  "EOS_Progressed": 234107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1232,
+  "EOS_NewPlayers": 1223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14987,6 +14999,11 @@
       "Time": "2023-11-25T07:09:37.7721485+00:00",
       "NumProgressed": 234101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T08:11:45.1257954+00:00",
+      "NumProgressed": 234107,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -15055,7 +15072,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49161
+      "UsersEstimate": 49162
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -15063,7 +15080,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21069
+      "UsersEstimate": 21070
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -15183,7 +15200,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32774
+      "UsersEstimate": 32775
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -15255,7 +15272,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58525
+      "UsersEstimate": 58527
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -15270,16 +15287,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 234101,
+      "Progressed": 234107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-11-24T01:42:57.1965026+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:09:37.772148+00:00",
+  "LastChanged": "2023-11-25T08:01:05.754488+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:11:45.125795+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.33261+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:58:59.4627544+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:09:37.7722354+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:01:05.7544885+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:11:45.1258846+00:00"
 }

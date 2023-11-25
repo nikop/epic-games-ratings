@@ -14,7 +14,7 @@ Number of Ratings: 38  (23.09.2022)
 | Teleport | 45.00% | ~214 |
 | Scrap Master | 39.00% | ~185 |
 | Smelter | 36.00% | ~171 |
-| Digger | 33.00% | ~157 |
+| Digger | 34.00% | ~162 |
 | Electro-Scrap Gatherer | 33.00% | ~157 |
 | Survivor | 32.00% | ~152 |
 | Lumberjack | 31.00% | ~147 |

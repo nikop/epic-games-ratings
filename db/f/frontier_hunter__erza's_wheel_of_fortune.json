@@ -4,8 +4,8 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -927,6 +927,11 @@
       "Time": "2023-11-25T07:03:46.6861418+00:00",
       "NumProgressed": 268,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T08:05:50.2734336+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -938,7 +943,7 @@
       "Name": "Travel Streamer",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -976,9 +981,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1026,7 +1031,7 @@
       "Name": "Training Simulation",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1040,9 +1045,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "7pimpda",
       "Name": "Face Slapper",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1050,7 +1055,7 @@
       "Name": "Beginner Cook",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1064,9 +1069,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1074,7 +1079,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1088,17 +1093,17 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_28",
       "SetID": "7pimpda",
       "Name": "Trader",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1282,22 +1287,22 @@
       "Name": "Seal Breaker",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 1
     }
   ],
@@ -1305,8 +1310,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-25T07:03:46.6861414+00:00",
+  "LastChanged_Achievements": "2023-11-25T08:05:50.2734332+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:59:59.9457363+00:00",
-  "LastUpdate_Achievements": "2023-11-25T07:03:46.6861831+00:00"
+  "LastUpdate_Ratings": "2023-11-25T08:02:37.4307922+00:00",
+  "LastUpdate_Achievements": "2023-11-25T08:05:50.2734626+00:00"
 }
