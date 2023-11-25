@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Memories",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -764,8 +764,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:07:50.9329465+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:08:25.368288+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:58:35.0005325+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:07:50.9329845+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:58:57.9997531+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:08:25.3683152+00:00"
 }

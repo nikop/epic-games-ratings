@@ -4,7 +4,7 @@
   "ProductSlug": "dcl-the-game",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T19:57:03.6676717+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:59:33.8368079+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:05:41.1761812+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:59:58.391436+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:05:55.2661808+00:00"
 }

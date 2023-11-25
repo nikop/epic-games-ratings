@@ -60,6 +60,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Hand of the Emperor | 0.60% | ~91 |
 | The greatest admiral of all time | 0.50% | ~2,357 |
 | Soldiers of Fortune | 0.40% | ~61 |
+| The Extractor | 0.20% | ~30 |
 | Liberator | 0.10% | ~471 |
 | The Art of War | 0.10% | ~471 |
 | Geno Mastery | 0.10% | ~471 |
@@ -75,7 +76,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Excelsior Supremacy | 0.10% | ~471 |
 | The Blade | 0.10% | ~15 |
 | The Ghost | 0.10% | ~15 |
-| The Extractor | 0.10% | ~15 |
 | The Executioner | 0.10% | ~15 |
 | Savior | 0.10% | ~15 |
 | The God of War | 0.10% | ~15 |

@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -969,17 +969,17 @@
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 214
     },
     {
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 290
     },
     {
       "ID": "ach_main03demon_doors",
@@ -993,9 +993,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1424,8 +1424,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:04:45.241863+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:04:58.4644651+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:57:44.353206+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:04:45.2419038+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:58:07.6349826+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:04:58.4645186+00:00"
 }

@@ -8,17 +8,17 @@ Number of Ratings: 1,046,587  (23.09.2022)
 | ---- | ---------- | ----- |
 | One small trip | 14.00% | ~5,125,079 |
 | Snowflake | 13.00% | ~4,759,002 |
-| Fall Throttle | 12.00% | ~4,392,924 |
-| Big Bully | 10.00% | ~3,660,770 |
-| Face First | 10.00% | ~3,660,770 |
-| One to Watch | 9.00% | ~3,294,693 |
-| Style Points | 9.00% | ~3,294,693 |
-| Troublemaker | 9.00% | ~3,294,693 |
-| Fall Bae | 8.00% | ~2,928,616 |
-| Stumble Chums | 8.00% | ~2,928,616 |
-| Flawless Victory | 7.00% | ~2,562,539 |
-| Ahead of the Pack | 7.00% | ~2,562,539 |
-| Victory! | 7.00% | ~2,562,539 |
+| Fall Throttle | 12.00% | ~4,392,925 |
+| Big Bully | 10.00% | ~3,660,771 |
+| Face First | 10.00% | ~3,660,771 |
+| One to Watch | 9.00% | ~3,294,694 |
+| Style Points | 9.00% | ~3,294,694 |
+| Troublemaker | 9.00% | ~3,294,694 |
+| Fall Bae | 8.00% | ~2,928,617 |
+| Stumble Chums | 8.00% | ~2,928,617 |
+| Flawless Victory | 7.00% | ~2,562,540 |
+| Ahead of the Pack | 7.00% | ~2,562,540 |
+| Victory! | 7.00% | ~2,562,540 |
 | Bargain Bucket | 5.00% | ~1,830,385 |
 | Household Name | 4.00% | ~1,464,308 |
 | One giant leap | 4.00% | ~1,464,308 |
@@ -41,7 +41,7 @@ Number of Ratings: 1,046,587  (23.09.2022)
 | Fall Guy Fashionista | 0.40% | ~146,431 |
 | Infallible | 0.30% | ~109,823 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,607,704 (Ranked 1)  
+Progressed: 36,607,709 (Ranked 1)  
 Completed: 46,683 (0.13%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 46,683 (0.13%) (Ranked 271)
 | 2023-11-22 | 36,575,919 | 46,578 |
 | 2023-11-23 | 36,590,956 | 46,621 |
 | 2023-11-24 | 36,607,704 | 46,683 |
+| 2023-11-25 | 36,607,709 | 46,683 |
 ## Awards
 Max (Great for Beginners): 152,116  (Ranked 7)  
 Sum: 1,387,292 (Ranked 5)  

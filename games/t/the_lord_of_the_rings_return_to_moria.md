@@ -5,22 +5,22 @@ Rating: 4.43 (Ranked 692)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 84.00% | ~226,184 |
-| Delving Onward | 71.00% | ~191,180 |
-| Miner's Helper | 61.00% | ~164,253 |
-| Suit Up | 56.00% | ~150,790 |
-| To the Mountain's Roots | 50.00% | ~134,634 |
-| Remains To Be Seen | 34.00% | ~91,551 |
-| Covered Head to Toe | 33.00% | ~88,858 |
-| Line of Azog, Ended | 32.00% | ~86,165 |
-| Risk a Little Real Light | 30.00% | ~80,780 |
+| Speak Friend | 84.00% | ~226,187 |
+| Delving Onward | 71.00% | ~191,182 |
+| Miner's Helper | 61.00% | ~164,255 |
+| Suit Up | 56.00% | ~150,791 |
+| To the Mountain's Roots | 50.00% | ~134,635 |
+| Remains To Be Seen | 34.00% | ~91,552 |
+| Covered Head to Toe | 33.00% | ~88,859 |
+| Line of Azog, Ended | 32.00% | ~86,166 |
+| Risk a Little Real Light | 30.00% | ~80,781 |
 | Caradhras The Cruel | 16.00% | ~43,083 |
 | A Memory of this Place | 16.00% | ~43,083 |
 | False King, Deposed | 13.00% | ~35,005 |
 | Battering Ram | 12.00% | ~32,312 |
-| Baruk Khazâd! | 11.00% | ~29,619 |
+| Baruk Khazâd! | 11.00% | ~29,620 |
 | Westgate Weaponcraft | 9.00% | ~24,234 |
-| Shadow's Bane | 8.00% | ~21,541 |
+| Shadow's Bane | 8.00% | ~21,542 |
 | Deeps Weaponcraft | 7.00% | ~18,849 |
 | Darkness Is Passing | 6.00% | ~16,156 |
 | Decked Out | 4.00% | ~10,771 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 692)
 | Shielded | 0.90% | ~2,423 |
 | We're Gonna Need More Mugs | 0.10% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269,267 (Ranked 56)  
+Progressed: 269,270 (Ranked 56)  
 Completed: 9 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 9 (0.00%) (Ranked 359)
 | 2023-11-22 | 263,917 | 8 |
 | 2023-11-23 | 266,447 | 9 |
 | 2023-11-24 | 269,267 | 9 |
+| 2023-11-25 | 269,270 | 9 |
 ## Awards
 Max (Great for Beginners): 520  (Ranked 209)  
 Sum: 3,109 (Ranked 175)  

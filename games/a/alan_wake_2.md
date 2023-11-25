@@ -117,13 +117,13 @@ Completed: 2,690 (1.24%) (Ranked 156)
 | 2023-11-24 | 217,337 | 2,690 |
 ## Awards
 Max (Quickly Understood Controls): 339  (Ranked 244)  
-Sum: 2,031 (Ranked 212)  
+Sum: 2,039 (Ranked 212)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 339 |
 | This game has Diverse Characters | 333 |
-| This game has Amazing Storytelling | 312 |
+| This game has Amazing Storytelling | 320 |
 | This game is Extremely Fun | 303 |
 | This game is Highly Recommended | 293 |
 | This game has Amazing Characters | 283 |
@@ -162,4 +162,4 @@ Diff (max vs sum): 32
 | 2023-11-21 | 4.78 | 327 | 1,944 |
 | 2023-11-22 | 4.78 | 332 | 1,977 |
 | 2023-11-23 | 4.78 | 332 | 1,997 |
-| 2023-11-24 | 4.78 | 339 | 2,031 |
+| 2023-11-24 | 4.78 | 339 | 2,039 |

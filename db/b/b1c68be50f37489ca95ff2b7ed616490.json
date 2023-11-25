@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "10",
@@ -472,8 +472,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:05:00.6204279+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:05:13.8022361+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:19:11.5878853+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:58:34.6429575+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:05:00.6204449+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:58:57.6404688+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:05:13.802256+00:00"
 }

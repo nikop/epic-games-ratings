@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 541,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1284,9 +1284,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "CompleteChapter4",
@@ -1435,8 +1435,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:05:09.8351842+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:05:23.6109833+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:58:13.787102+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:05:09.8352131+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:58:36.878709+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:05:23.6110156+00:00"
 }

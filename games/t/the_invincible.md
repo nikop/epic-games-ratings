@@ -17,10 +17,10 @@
 | Peacemaker | 14.00% | ~41 |
 | The Alliance | 14.00% | ~41 |
 | On her own | 13.00% | ~38 |
+| Beyond divisions | 12.00% | ~35 |
 | Fierce fight | 11.00% | ~32 |
 | Evacuation | 11.00% | ~32 |
 | Flying Objects Operator | 11.00% | ~32 |
-| Beyond divisions | 11.00% | ~32 |
 | I remember everything! | 10.00% | ~29 |
 | Violent solution | 7.00% | ~20 |
 | Another giant | 5.00% | ~15 |

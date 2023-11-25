@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -415,7 +415,7 @@
   "Tags": [],
   "EOS_Progressed": 24811,
   "EOS_Completed": 473,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -23997,9 +23997,9 @@
       "ID": "INTRO_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Light at the end of the tunnel",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18856
+      "UsersEstimate": 19104
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24045,8 +24045,8 @@
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:03:49.2351615+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:04:02.5518161+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:57:56.6154362+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:03:49.2353019+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:58:19.6395263+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:04:02.551925+00:00"
 }

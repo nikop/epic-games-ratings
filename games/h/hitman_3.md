@@ -6,16 +6,16 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~625,939 |
-| Death From Above | 45.00% | ~612,332 |
-| Master of the Household | 38.00% | ~517,080 |
-| Death of the Party | 35.00% | ~476,258 |
+| Unseen Assassin | 46.00% | ~625,940 |
+| Death From Above | 45.00% | ~612,333 |
+| Master of the Household | 38.00% | ~517,081 |
+| Death of the Party | 35.00% | ~476,259 |
 | NEXUS-47 | 32.00% | ~435,436 |
 | The Last Tango | 31.00% | ~421,829 |
-| Nightmare Fuel | 30.00% | ~408,221 |
+| Nightmare Fuel | 30.00% | ~408,222 |
 | The Result of Previous Training | 28.00% | ~381,007 |
 | Tools of the Trade | 28.00% | ~381,007 |
-| Cleared for Field Duty | 27.00% | ~367,399 |
+| Cleared for Field Duty | 27.00% | ~367,400 |
 | Seizing the Opportunity | 26.00% | ~353,792 |
 | Bullet Train | 21.00% | ~285,755 |
 | Stylish Assassin | 20.00% | ~272,148 |
@@ -24,8 +24,8 @@ Number of Ratings: 21,082  (23.09.2022)
 | Evil Wine Club | 11.00% | ~149,681 |
 | Console Cowboy | 10.00% | ~136,074 |
 | Last Stop | 10.00% | ~136,074 |
-| A New Profile | 9.00% | ~122,466 |
-| Full House | 9.00% | ~122,466 |
+| A New Profile | 9.00% | ~122,467 |
+| Full House | 9.00% | ~122,467 |
 | Dune Raider | 8.00% | ~108,859 |
 | No Stone Unturned | 8.00% | ~108,859 |
 | Train Surfing | 8.00% | ~108,859 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,607 |
 | The Creative Assassin | 0.70% | ~9,525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,360,738 (Ranked 9)  
+Progressed: 1,360,739 (Ranked 9)  
 Completed: 2,190 (0.16%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,6 +273,7 @@ Completed: 2,190 (0.16%) (Ranked 266)
 | 2023-11-22 | 1,360,057 | 2,189 |
 | 2023-11-23 | 1,360,403 | 2,189 |
 | 2023-11-24 | 1,360,738 | 2,190 |
+| 2023-11-25 | 1,360,739 | 2,190 |
 ## Awards
 Max (Diverse Characters): 10,798  (Ranked 37)  
 Sum: 74,215 (Ranked 22)  

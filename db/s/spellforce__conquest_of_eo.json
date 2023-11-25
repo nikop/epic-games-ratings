@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -736,9 +736,9 @@
       "ID": "Zombify_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Bad JuJu",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -753,8 +753,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:07:51.4773829+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:08:25.9940238+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:05.0586165+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:57:20.757458+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:07:51.4774352+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:57:43.4953881+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:08:25.9940724+00:00"
 }

@@ -6009,9 +6009,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1561879,
+  "EOS_Progressed": 1561881,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 3566,
+  "EOS_NewPlayers": 3544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31014,6 +31014,11 @@
       "Time": "2023-11-24T23:03:39.5632405+00:00",
       "NumProgressed": 1561879,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-25T00:03:52.5597877+00:00",
+      "NumProgressed": 1561881,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 38,
@@ -31121,7 +31126,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 640370
+      "UsersEstimate": 640371
     },
     {
       "ID": "JustScratch",
@@ -31137,7 +31142,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 765321
+      "UsersEstimate": 765322
     },
     {
       "ID": "KeepsComingOff",
@@ -31145,7 +31150,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 640370
+      "UsersEstimate": 640371
     },
     {
       "ID": "KungFu",
@@ -31161,7 +31166,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 187425
+      "UsersEstimate": 187426
     },
     {
       "ID": "LivingSculpture",
@@ -31257,7 +31262,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 671608
+      "UsersEstimate": 671609
     },
     {
       "ID": "ToughNut",
@@ -31328,7 +31333,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1561879,
+      "Progressed": 1561881,
       "Completed": 68
     }
   ],
@@ -31336,8 +31341,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-11-24T20:00:05.1810203+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:03:39.5632402+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:03:52.5597872+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.2635782+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:59:33.4871481+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:03:39.5633675+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:59:58.0374942+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:03:52.5598995+00:00"
 }

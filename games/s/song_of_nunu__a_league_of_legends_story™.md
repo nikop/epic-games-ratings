@@ -18,7 +18,7 @@
 | No Bites | 56.00% | ~482 |
 | Tear of Freedom | 54.00% | ~464 |
 | Boom Things | 54.00% | ~464 |
-| My Darkest Day | 50.00% | ~430 |
+| My Darkest Day | 51.00% | ~439 |
 | Rhythm Of Willump | 47.00% | ~404 |
 | The Relentless Storm | 47.00% | ~404 |
 | A Tragic Reminder | 45.00% | ~387 |
@@ -34,7 +34,7 @@
 | Family | 37.00% | ~318 |
 | Freeze The Ice Witch | 37.00% | ~318 |
 | On The Rocks | 36.00% | ~310 |
-| It Is Not Over | 34.00% | ~292 |
+| It Is Not Over | 35.00% | ~301 |
 | Snowy Poro | 32.00% | ~275 |
 | Never Gets Old | 32.00% | ~275 |
 | Vertical Power | 28.00% | ~241 |

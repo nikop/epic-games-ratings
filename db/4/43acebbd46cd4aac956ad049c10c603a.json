@@ -129,7 +129,7 @@
   ],
   "EOS_Progressed": 570,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1295,9 +1295,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 234
     },
     {
       "ID": "AnthropicHills",
@@ -1479,9 +1479,9 @@
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 80
     },
     {
       "ID": "MistressOfRiddles",
@@ -1768,8 +1768,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-24T22:59:49.3796423+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:04:26.3183573+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:04:39.8124671+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:59:49.3796427+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:04:26.3183963+00:00"
+  "LastUpdate_Ratings": "2023-11-25T00:00:14.0734593+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:04:39.8125111+00:00"
 }

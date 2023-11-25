@@ -15096,10 +15096,10 @@
       "Count": 104298
     }
   ],
-  "EOS_Progressed": 36607704,
+  "EOS_Progressed": 36607709,
   "EOS_Completed": 46683,
-  "EOS_NewPlayers": 127106,
-  "EOS_NewCompleters": 381,
+  "EOS_NewPlayers": 126288,
+  "EOS_NewCompleters": 378,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -40161,6 +40161,11 @@
       "Time": "2023-11-24T23:05:06.4029798+00:00",
       "NumProgressed": 36607704,
       "NumCompleted": 46683
+    },
+    {
+      "Time": "2023-11-25T00:05:19.5795954+00:00",
+      "NumProgressed": 36607709,
+      "NumCompleted": 46683
     }
   ],
   "TotalAchievements": 34,
@@ -40196,7 +40201,7 @@
       "Name": "Big Bully",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3660770
+      "UsersEstimate": 3660771
     },
     {
       "ID": "ACH_BIG_TEASE",
@@ -40228,7 +40233,7 @@
       "Name": "Face First",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3660770
+      "UsersEstimate": 3660771
     },
     {
       "ID": "ACH_FALL_THROTTLE",
@@ -40236,7 +40241,7 @@
       "Name": "Fall Throttle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4392924
+      "UsersEstimate": 4392925
     },
     {
       "ID": "ACH_FAME_TIER_1",
@@ -40244,7 +40249,7 @@
       "Name": "One to Watch",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3294693
+      "UsersEstimate": 3294694
     },
     {
       "ID": "ACH_FAME_TIER_2",
@@ -40276,7 +40281,7 @@
       "Name": "Flawless Victory",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2562539
+      "UsersEstimate": 2562540
     },
     {
       "ID": "ACH_GRAB_PLAYER",
@@ -40284,7 +40289,7 @@
       "Name": "Fall Bae",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2928616
+      "UsersEstimate": 2928617
     },
     {
       "ID": "ACH_HEAD_TURNER",
@@ -40340,7 +40345,7 @@
       "Name": "Ahead of the Pack",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2562539
+      "UsersEstimate": 2562540
     },
     {
       "ID": "ACH_RACING_TIER_2",
@@ -40396,7 +40401,7 @@
       "Name": "Stumble Chums",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2928616
+      "UsersEstimate": 2928617
     },
     {
       "ID": "ACH_STYLE_POINTS",
@@ -40404,7 +40409,7 @@
       "Name": "Style Points",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3294693
+      "UsersEstimate": 3294694
     },
     {
       "ID": "ACH_TROUBLEMAKER",
@@ -40412,7 +40417,7 @@
       "Name": "Troublemaker",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3294693
+      "UsersEstimate": 3294694
     },
     {
       "ID": "ACH_WIN_1_EPISODE",
@@ -40420,7 +40425,7 @@
       "Name": "Victory!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2562539
+      "UsersEstimate": 2562540
     },
     {
       "ID": "ACH_WIN_EPISODES_TIER_2",
@@ -40443,15 +40448,15 @@
     {
       "ID": "59meapj",
       "IsBase": true,
-      "Progressed": 36607704,
+      "Progressed": 36607709,
       "Completed": 46683
     }
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "LastChanged": "2023-11-24T21:58:10.8240524+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:05:06.4029794+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:05:19.5795949+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.7805099+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:57:49.832138+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:05:06.403143+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:58:13.115232+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:05:19.5797148+00:00"
 }

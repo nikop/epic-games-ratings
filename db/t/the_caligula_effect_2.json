@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -454,9 +454,9 @@
       "ID": "ACH_40",
       "SetID": "2eg5kgc",
       "Name": "Never Saw It Coming",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_41",
@@ -542,8 +542,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:09:04.2543606+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:09:30.2208537+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:10.4881859+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:58:02.5914256+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:09:04.254402+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:58:25.5413846+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:09:30.2208824+00:00"
 }

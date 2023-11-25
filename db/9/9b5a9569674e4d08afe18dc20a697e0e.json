@@ -309,9 +309,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "BARON",
@@ -373,9 +373,9 @@
       "ID": "GAMBLER",
       "SetID": "40o4f14",
       "Name": "The Gambler",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GENERAL",
@@ -564,8 +564,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:03:20.0715779+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:03:33.2459832+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:59:13.519088+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:03:20.0715949+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:59:37.7856714+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:03:33.2460007+00:00"
 }

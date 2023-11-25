@@ -1273,9 +1273,9 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
@@ -1290,8 +1290,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-24T23:03:08.7922725+00:00",
+  "LastChanged_Achievements": "2023-11-25T00:03:21.4710737+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-24T22:59:13.6628963+00:00",
-  "LastUpdate_Achievements": "2023-11-24T23:03:08.7923213+00:00"
+  "LastUpdate_Ratings": "2023-11-24T23:59:37.9048361+00:00",
+  "LastUpdate_Achievements": "2023-11-25T00:03:21.4711092+00:00"
 }
