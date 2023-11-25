@@ -16,6 +16,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.60% | ~4,304 |
 | Qi Gong: Breath | 0.60% | ~4,304 |
 | Lightning Hands | 0.60% | ~4,304 |
+| Path of the Prospect | 0.60% | ~4,304 |
 | Rumble in the Hangar | 0.60% | ~4,304 |
 | Lady Wing Chun | 0.50% | ~3,587 |
 | Furious Fists | 0.50% | ~3,587 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.50% | ~3,587 |
 | Qi Gong: Essence | 0.50% | ~3,587 |
 | Old Child | 0.50% | ~3,587 |
-| Path of the Prospect | 0.50% | ~3,587 |
 | Take damage to save time | 0.50% | ~3,587 |
 | Martial Hub | 0.50% | ~133 |
 | Fight the way you practice | 0.50% | ~133 |
@@ -32,7 +32,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.40% | ~2,869 |
 | I know Kung-Fu | 0.40% | ~2,869 |
 | Kung-Fu Tussle | 0.40% | ~2,869 |
-| Bloody Sport | 0.40% | ~106 |
+| Bloody Sport | 0.40% | ~107 |
 | Muk Yan Master | 0.30% | ~2,152 |
 | Dance of the Praying Mantis | 0.30% | ~2,152 |
 | Tiger on Fire | 0.20% | ~1,435 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,324 (Ranked 22)  
+Progressed: 717,329 (Ranked 22)  
 Completed: 12,939 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 12,939 (1.80%) (Ranked 132)
 | 2023-11-22 | 717,156 | 12,938 |
 | 2023-11-23 | 717,216 | 12,939 |
 | 2023-11-24 | 717,272 | 12,939 |
-| 2023-11-25 | 717,324 | 12,939 |
+| 2023-11-25 | 717,329 | 12,939 |
 ## Awards
 Max (Great Boss Battles): 6,840  (Ranked 55)  
 Sum: 11,972 (Ranked 82)  

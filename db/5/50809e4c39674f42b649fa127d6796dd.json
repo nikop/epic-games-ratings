@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -482,6 +482,11 @@
       "Time": "2023-11-25T14:08:16.7193805+00:00",
       "NumProgressed": 235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T15:08:49.4644609+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -516,7 +521,7 @@
       "ID": "CHALLENGE_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Explorer",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -548,9 +553,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -558,7 +563,7 @@
       "Name": "Perfect Run",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -598,7 +603,7 @@
       "Name": "Unknown Threat",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -654,7 +659,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -684,9 +689,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -780,7 +785,7 @@
       "ID": "SUB_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ares Island Expert",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -806,21 +811,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:08:16.71938+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:08:49.4644602+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:59:03.8585238+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:08:16.7194034+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:59:59.2117396+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:08:49.4644879+00:00"
 }

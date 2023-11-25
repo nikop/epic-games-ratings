@@ -618,9 +618,9 @@
       "ID": "id_56",
       "SetID": "bk9jib6",
       "Name": "Master thief",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "id_57",
@@ -723,8 +723,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:08:52.0633317+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:09:35.641949+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:00.0515257+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:57:56.2352489+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:08:52.0633589+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:58:22.9683135+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:09:35.641979+00:00"
 }

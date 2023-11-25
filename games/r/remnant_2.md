@@ -1,7 +1,7 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 148)  
+Rating: 4.75 (Ranked 147)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,6 +18,7 @@ Rating: 4.75 (Ranked 148)
 | Familiar Face | 0.20% | ~456 |
 | Boss'n Up | 0.20% | ~456 |
 | Not Your Average Trait | 0.20% | ~456 |
+| Trait Chaser | 0.20% | ~456 |
 | Crafty | 0.10% | ~228 |
 | Ghost in the Machine | 0.10% | ~228 |
 | Only Human | 0.10% | ~228 |
@@ -54,15 +55,14 @@ Rating: 4.75 (Ranked 148)
 | Make Some Room | 0.10% | ~228 |
 | Good, But Could Be Better! | 0.10% | ~228 |
 | No One Should Have All That Power | 0.10% | ~228 |
-| Trait Chaser | 0.10% | ~228 |
 | Maxed Out! | 0.10% | ~228 |
 | Transmutate | 0.10% | ~228 |
 | Succession | 0.10% | ~7 |
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,768 (Ranked 69)  
-Completed: 521 (0.23%) (Ranked 248)  
+Progressed: 227,824 (Ranked 69)  
+Completed: 522 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 521 (0.23%) (Ranked 248)
 | 2023-11-22 | 225,927 | 503 |
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
-| 2023-11-25 | 227,768 | 521 |
+| 2023-11-25 | 227,824 | 522 |
 ## Awards
 Max (Great Boss Battles): 2,436  (Ranked 105)  
 Sum: 5,887 (Ranked 129)  

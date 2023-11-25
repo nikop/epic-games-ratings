@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7863,10 +7863,10 @@
       "Count": 423
     }
   ],
-  "EOS_Progressed": 717324,
+  "EOS_Progressed": 717329,
   "EOS_Completed": 12939,
   "EOS_NewPlayers": 343,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -27258,6 +27258,11 @@
       "Time": "2023-11-25T14:06:13.6357672+00:00",
       "NumProgressed": 717324,
       "NumCompleted": 12939
+    },
+    {
+      "Time": "2023-11-25T15:07:37.0826839+00:00",
+      "NumProgressed": 717329,
+      "NumCompleted": 12939
     }
   ],
   "TotalAchievements": 60,
@@ -27547,9 +27552,9 @@
       "ID": "36_Calbot_Trophy",
       "SetID": "adcm20g",
       "Name": "Path of the Prospect",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3587
+      "UsersEstimate": 4304
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -27621,7 +27626,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -27748,21 +27753,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26625,
+      "Progressed": 26630,
       "Completed": 10753
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717324,
+      "Progressed": 717329,
       "Completed": 12939
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-25T13:57:31.4718334+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:06:13.6357668+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:07:37.0826836+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.0924879+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:57:31.471834+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:06:13.6358853+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:57:48.6456608+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:07:37.0828179+00:00"
 }

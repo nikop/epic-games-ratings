@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1136,6 +1136,11 @@
       "Time": "2023-11-25T14:09:13.210316+00:00",
       "NumProgressed": 490,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T15:10:03.059142+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1164,7 +1169,7 @@
       "Name": "Gravel Guru",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_12",
@@ -1172,7 +1177,7 @@
       "Name": "Snow Specialist",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_13",
@@ -1212,7 +1217,7 @@
       "Name": "Your first time?",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_18",
@@ -1236,7 +1241,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "achievement_20",
@@ -1355,7 +1360,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 0
     }
   ],
@@ -1363,8 +1368,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-25T01:40:43.9281934+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:09:13.2103158+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:10:03.0591415+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:57:49.0920061+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:09:13.2103332+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:58:12.947918+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:10:03.059168+00:00"
 }

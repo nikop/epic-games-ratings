@@ -36,8 +36,8 @@ Rating: 4.57 (Ranked 475)
 | Workaholic | 18.00% | ~9 |
 | Fence | 18.00% | ~9 |
 | Showdown | 16.00% | ~8 |
+| Master thief | 16.00% | ~8 |
 | Safecracker | 14.00% | ~7 |
-| Master thief | 14.00% | ~7 |
 | Freedom fighter | 12.00% | ~6 |
 | Moneybags | 12.00% | ~6 |
 | Titan Lord | 10.00% | ~5 |

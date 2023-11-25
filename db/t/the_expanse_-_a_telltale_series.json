@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15495,
+  "EOS_Progressed": 15498,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12223,6 +12223,11 @@
       "Time": "2023-11-25T14:05:16.6502966+00:00",
       "NumProgressed": 15495,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-25T15:06:22.1444076+00:00",
+      "NumProgressed": 15498,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12483,7 +12488,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "33",
@@ -12491,7 +12496,7 @@
       "Name": "Zen Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "34",
@@ -12499,7 +12504,7 @@
       "Name": "Master Negotiator",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "35",
@@ -12507,29 +12512,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15495,
+      "Progressed": 15498,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1449,
-      "Completed": 708
+      "Progressed": 1452,
+      "Completed": 711
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-24T17:57:32.8861451+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:05:16.6502963+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:06:22.1444071+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:58:02.8420036+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:05:16.6503794+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:58:31.8542397+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:06:22.1444825+00:00"
 }

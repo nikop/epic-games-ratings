@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -1137,9 +1137,9 @@
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -1170,8 +1170,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:03:08.8890837+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:03:32.6571147+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:15.969291+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:57:00.4957537+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:03:08.8891148+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:57:04.7471377+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:03:32.6571367+00:00"
 }

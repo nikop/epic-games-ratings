@@ -9,6 +9,7 @@
 | Line Up | 20.00% | ~3 |
 | Steam Power | 20.00% | ~3 |
 | Task Apprentice | 20.00% | ~3 |
+| Billionaire Club | 13.00% | ~2 |
 | Full House | 13.00% | ~2 |
 | Speed Demon | 13.00% | ~2 |
 | Regional Express | 13.00% | ~2 |
@@ -18,7 +19,6 @@
 | Industrial Revolution | 13.00% | ~2 |
 | Double Trouble | 13.00% | ~2 |
 | World Explorer | 7.00% | ~1 |
-| Billionaire Club | 7.00% | ~1 |
 | Diesel Dream | 7.00% | ~1 |
 | Modern Times | 7.00% | ~1 |
 | Money Train | 7.00% | ~1 |

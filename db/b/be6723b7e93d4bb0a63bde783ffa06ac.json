@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -502,9 +502,9 @@
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach3",
@@ -589,8 +589,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:03:45.7207624+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:04:21.4961526+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:17.7593441+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:57:20.8326579+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:03:45.7207829+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:57:33.42263+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:04:21.4961724+00:00"
 }

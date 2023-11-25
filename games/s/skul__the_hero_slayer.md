@@ -6,22 +6,22 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,753 |
-| What should I buy? | 84.00% | ~7,003 |
-| Focus! | 63.00% | ~5,252 |
-| Rescued Elder Ent | 63.00% | ~5,252 |
-| The End of the Gold Mane Knights | 49.00% | ~4,085 |
-| Rules of Etiquette | 42.00% | ~3,502 |
-| False Goddess, Disappear | 41.00% | ~3,418 |
-| Quick Movements | 35.00% | ~2,918 |
-| Inventory Management | 35.00% | ~2,918 |
+| The Legend Begins | 93.00% | ~7,755 |
+| What should I buy? | 84.00% | ~7,005 |
+| Focus! | 63.00% | ~5,254 |
+| Rescued Elder Ent | 63.00% | ~5,254 |
+| The End of the Gold Mane Knights | 49.00% | ~4,086 |
+| False Goddess, Disappear | 41.00% | ~3,419 |
+| Rules of Etiquette | 41.00% | ~3,419 |
+| Quick Movements | 35.00% | ~2,919 |
+| Inventory Management | 35.00% | ~2,919 |
 | The Fall of the Leonia Order | 32.00% | ~2,668 |
-| The Hero Killer | 30.00% | ~2,501 |
+| The Hero Killer | 30.00% | ~2,502 |
 | Go Home... | 29.00% | ~2,418 |
-| The Final Battle of the First Hero | 28.00% | ~2,334 |
+| The Final Battle of the First Hero | 28.00% | ~2,335 |
 | Brain at Full Throttle | 24.00% | ~2,001 |
-| Rookies Welcome | 20.00% | ~1,667 |
-| Deadly Power | 17.00% | ~1,417 |
+| Rookies Welcome | 20.00% | ~1,668 |
+| Deadly Power | 17.00% | ~1,418 |
 | Castle Restoration Plans | 15.00% | ~1,251 |
 | The Dwarven Chandelier | 13.00% | ~1,084 |
 | Master of Speed | 10.00% | ~834 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~167 |
 | Cold-Blooded | 0.80% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,337 (Ranked 173)  
+Progressed: 8,339 (Ranked 173)  
 Completed: 16 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 16 (0.19%) (Ranked 260)
 | 2023-11-22 | 8,323 | 15 |
 | 2023-11-23 | 8,330 | 15 |
 | 2023-11-24 | 8,335 | 16 |
-| 2023-11-25 | 8,337 | 16 |
+| 2023-11-25 | 8,339 | 16 |
 ## Awards
 Max (Great for Beginners): 134  (Ranked 327)  
 Sum: 931 (Ranked 269)  

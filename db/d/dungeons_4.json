@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 412,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -1011,9 +1011,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 334
     },
     {
       "ID": "ach_main02horde_traps",
@@ -1027,9 +1027,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_main03demon_doors",
@@ -1043,9 +1043,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 235
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1091,9 +1091,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 243
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -1259,9 +1259,9 @@
       "ID": "ach_main12race_tanosevilness",
       "SetID": "4hg22ll",
       "Name": "Stop Tanos!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_main12race_torture",
@@ -1474,8 +1474,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:05:09.0517821+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:06:12.1342019+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:58:10.8008095+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:05:09.0518213+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:58:43.9164959+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:06:12.1342417+00:00"
 }

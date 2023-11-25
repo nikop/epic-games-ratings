@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 420,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -863,9 +863,9 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -1376,8 +1376,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:03:49.3872265+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:04:26.4841785+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:01.2096101+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:57:16.0647742+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:03:49.3872808+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:57:26.5838718+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:04:26.4842312+00:00"
 }

@@ -49,7 +49,7 @@
   "Tags": [],
   "EOS_Progressed": 1071,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2768,9 +2768,9 @@
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 814
+      "UsersEstimate": 825
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -2832,9 +2832,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 707
+      "UsersEstimate": 718
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -2856,17 +2856,17 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 589
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 685
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -2936,9 +2936,9 @@
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 5",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 289
+      "UsersEstimate": 300
     },
     {
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
@@ -3000,9 +3000,9 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 450
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
@@ -3128,9 +3128,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 525
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -3209,8 +3209,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-25T09:58:05.7161965+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:06:07.964145+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:07:30.0007963+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:57:55.2101589+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:06:07.9642325+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:58:21.6802348+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:07:30.0008749+00:00"
 }

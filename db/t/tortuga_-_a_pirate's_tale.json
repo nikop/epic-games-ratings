@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17119,
+  "EOS_Progressed": 17120,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6799,6 +6799,11 @@
       "Time": "2023-11-25T14:04:31.4220558+00:00",
       "NumProgressed": 17119,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T15:05:22.6231664+00:00",
+      "NumProgressed": 17120,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6810,7 +6815,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16263
+      "UsersEstimate": 16264
     },
     {
       "ID": "ACH001",
@@ -6818,7 +6823,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14722
+      "UsersEstimate": 14723
     },
     {
       "ID": "ACH0010",
@@ -6842,7 +6847,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8388
+      "UsersEstimate": 8389
     },
     {
       "ID": "ACH0013",
@@ -6850,7 +6855,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3937
+      "UsersEstimate": 3938
     },
     {
       "ID": "ACH0014",
@@ -6962,7 +6967,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9244
+      "UsersEstimate": 9245
     },
     {
       "ID": "ACH004",
@@ -7017,7 +7022,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17119,
+      "Progressed": 17120,
       "Completed": 1
     }
   ],
@@ -7025,8 +7030,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:04:31.4220555+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:05:22.623166+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:26.1699707+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:59:24.530952+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:04:31.4221063+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:00:27.9617714+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:05:22.6232025+00:00"
 }

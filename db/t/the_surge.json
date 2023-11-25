@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4849,
+  "EOS_Progressed": 4850,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3291,6 +3291,11 @@
       "Time": "2023-11-25T08:09:06.3760139+00:00",
       "NumProgressed": 4849,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-25T15:07:05.5298498+00:00",
+      "NumProgressed": 4850,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3358,7 +3363,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4559
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3382,7 +3387,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -3390,7 +3395,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -3406,7 +3411,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -3414,7 +3419,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -3430,7 +3435,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -3454,7 +3459,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -3462,7 +3467,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -3494,7 +3499,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -3510,7 +3515,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -3526,7 +3531,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -3542,7 +3547,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -3550,7 +3555,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3566,7 +3571,7 @@
       "Name": "Most Wanted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -3830,22 +3835,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4849,
+      "Progressed": 4850,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:05:49.4873153+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:07:05.5298493+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:14.8365013+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:59:51.0359423+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:05:49.4873732+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:01:06.8655119+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:07:05.5299205+00:00"
 }

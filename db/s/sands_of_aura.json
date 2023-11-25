@@ -597,9 +597,9 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CRAGBOSS_MASTER",
@@ -918,8 +918,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:04:10.8967373+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:04:55.2930883+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.0607711+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:57:40.8193947+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:04:10.8967722+00:00"
+  "LastUpdate_Ratings": "2023-11-25T14:58:02.372045+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:04:55.2931369+00:00"
 }

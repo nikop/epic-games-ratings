@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 269,
@@ -113,11 +113,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 896,
+  "EOS_Progressed": 897,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.35,
+  "EOS_Completed_Percentage": 3.34,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2923,6 +2923,11 @@
       "Time": "2023-11-25T13:07:30.2836801+00:00",
       "NumProgressed": 896,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-25T15:04:22.516772+00:00",
+      "NumProgressed": 897,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2943,7 +2948,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "_03_FinishAct1",
@@ -2991,7 +2996,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "_09_Completion_20",
@@ -3063,7 +3068,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3142,7 +3147,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 896,
+      "Progressed": 897,
       "Completed": 30
     }
   ],
@@ -3150,8 +3155,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:03:46.4309545+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:04:22.5167715+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:59:08.6556218+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:03:46.4309773+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:00:05.2984935+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:04:22.5168002+00:00"
 }

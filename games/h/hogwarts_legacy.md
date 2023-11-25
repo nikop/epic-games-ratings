@@ -1,28 +1,28 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 127)  
+Rating: 4.76 (Ranked 126)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,495 |
-| First Class Student | 15.00% | ~45,464 |
-| Troll with the Punches | 14.00% | ~42,433 |
-| A Keen Sense of Spell | 13.00% | ~39,402 |
-| That's a Keeper | 13.00% | ~39,402 |
-| The Defender of Dragons | 12.00% | ~36,371 |
-| Loom for Improvement | 12.00% | ~36,371 |
-| A Talent for Spending | 12.00% | ~36,371 |
-| Grappling with a Graphorn | 11.00% | ~33,340 |
-| The One Who Mastered Memories | 11.00% | ~33,340 |
-| The Hallowed Hero | 11.00% | ~33,340 |
-| The Hero of Hogwarts | 11.00% | ~33,340 |
-| Challenge Accepted | 11.00% | ~33,340 |
-| Coasting Along | 11.00% | ~33,340 |
-| Followed the Butterflies | 10.00% | ~30,309 |
-| Rising From the Ashes | 10.00% | ~30,309 |
-| A Sallow Grave | 9.00% | ~27,278 |
-| The Spell Master | 9.00% | ~27,278 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,496 |
+| First Class Student | 15.00% | ~45,465 |
+| Troll with the Punches | 14.00% | ~42,434 |
+| A Keen Sense of Spell | 13.00% | ~39,403 |
+| That's a Keeper | 13.00% | ~39,403 |
+| The Defender of Dragons | 12.00% | ~36,372 |
+| Loom for Improvement | 12.00% | ~36,372 |
+| A Talent for Spending | 12.00% | ~36,372 |
+| Grappling with a Graphorn | 11.00% | ~33,341 |
+| The One Who Mastered Memories | 11.00% | ~33,341 |
+| The Hallowed Hero | 11.00% | ~33,341 |
+| The Hero of Hogwarts | 11.00% | ~33,341 |
+| Challenge Accepted | 11.00% | ~33,341 |
+| Coasting Along | 11.00% | ~33,341 |
+| Followed the Butterflies | 10.00% | ~30,310 |
+| Rising From the Ashes | 10.00% | ~30,310 |
+| A Sallow Grave | 9.00% | ~27,279 |
+| The Spell Master | 9.00% | ~27,279 |
 | The Avenging Gazelle | 8.00% | ~24,248 |
 | Beast Friends | 8.00% | ~24,248 |
 | Flight the Good Flight | 8.00% | ~24,248 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,122 |
 | Collector's Edition | 0.30% | ~909 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,094 (Ranked 54)  
+Progressed: 303,103 (Ranked 54)  
 Completed: 514 (0.17%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 514 (0.17%) (Ranked 264)
 | 2023-11-22 | 302,711 | 513 |
 | 2023-11-23 | 302,837 | 513 |
 | 2023-11-24 | 302,992 | 514 |
-| 2023-11-25 | 303,094 | 514 |
+| 2023-11-25 | 303,103 | 514 |
 ## Awards
 Max (Character Customization): 24,595  (Ranked 17)  
-Sum: 49,055 (Ranked 30)  
+Sum: 49,064 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -283,7 +283,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,295 |
 | This game has Amazing Storytelling | 1,295 |
 | This game is Extremely Fun | 1,264 |
-| This game is Relaxing | 1,253 |
+| This game is Relaxing | 1,262 |
 | This game has Amazing Characters | 1,232 |
 | This game is Highly Recommended | 1,202 |
 | This game has Quickly Understood Controls | 1,161 |
@@ -538,4 +538,4 @@ Diff (max vs sum): -13
 | 2023-11-22 | 4.76 | 24,536 | 48,880 |
 | 2023-11-23 | 4.76 | 24,563 | 48,957 |
 | 2023-11-24 | 4.76 | 24,595 | 49,037 |
-| 2023-11-25 | 4.76 | 24,595 | 49,055 |
+| 2023-11-25 | 4.76 | 24,595 | 49,064 |

@@ -5,12 +5,12 @@ Rating: 3.21 (Ranked 1,048)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 27.00% | ~516 |
+| It's Good to have Allies | 27.00% | ~517 |
 | Defenses Online | 25.00% | ~478 |
-| Facility Online | 20.00% | ~382 |
+| Facility Online | 20.00% | ~383 |
 | Corporal | 15.00% | ~287 |
-| Sergeant | 12.00% | ~229 |
-| Covert Operative | 12.00% | ~229 |
+| Sergeant | 12.00% | ~230 |
+| Covert Operative | 12.00% | ~230 |
 | Lieutenant | 10.00% | ~191 |
 | Getting Deployment | 10.00% | ~191 |
 | Stocking Up | 10.00% | ~191 |
@@ -28,8 +28,8 @@ Rating: 3.21 (Ranked 1,048)
 | Brothers in Arms | 6.00% | ~115 |
 | Player Betrayer | 5.00% | ~96 |
 | Major | 5.00% | ~96 |
-| Gold Achiever | 4.00% | ~76 |
-| Resourceful | 4.00% | ~76 |
+| Gold Achiever | 4.00% | ~77 |
+| Resourceful | 4.00% | ~77 |
 | Colonel | 3.00% | ~57 |
 | Control the Skies | 3.00% | ~57 |
 | Advanced Warfare | 2.00% | ~38 |
@@ -44,7 +44,7 @@ Rating: 3.21 (Ranked 1,048)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,912 (Ranked 228)  
+Progressed: 1,913 (Ranked 228)  
 Completed: 1 (0.05%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 1 (0.05%) (Ranked 311)
 | 2023-11-22 | 1,885 | 1 |
 | 2023-11-23 | 1,895 | 1 |
 | 2023-11-24 | 1,904 | 1 |
-| 2023-11-25 | 1,912 | 1 |
+| 2023-11-25 | 1,913 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "party-monsterzz-f42535",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -444,9 +444,9 @@
       "ID": "Achievement_0",
       "SetID": "8556mdl",
       "Name": "One of Us! One of Us!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 200,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement_1",
@@ -491,8 +491,8 @@
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:05:43.0663862+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:06:56.8321316+00:00",
   "LastUpdate_AppInfo": "2023-11-24T16:56:56.725523+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:02:31.2368525+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:05:43.066392+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:02:38.4848466+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:06:56.8321412+00:00"
 }

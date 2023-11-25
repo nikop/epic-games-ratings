@@ -352,9 +352,9 @@
       "ID": "BARON",
       "SetID": "40o4f14",
       "Name": "Baron",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CHAIR",
@@ -384,9 +384,9 @@
       "ID": "DISCIPLE",
       "SetID": "40o4f14",
       "Name": "Disciple",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DRAGON",
@@ -408,9 +408,9 @@
       "ID": "GAMBLER",
       "SetID": "40o4f14",
       "Name": "The Gambler",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "GENERAL",
@@ -456,9 +456,9 @@
       "ID": "LIBERATOR",
       "SetID": "40o4f14",
       "Name": "Liberator",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LIBRARY",
@@ -568,9 +568,9 @@
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WITCH",
@@ -599,8 +599,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-25T14:03:41.3172803+00:00",
+  "LastChanged_Achievements": "2023-11-25T15:04:15.270466+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-25T13:59:44.9186846+00:00",
-  "LastUpdate_Achievements": "2023-11-25T14:03:41.3172963+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:00:57.8107281+00:00",
+  "LastUpdate_Achievements": "2023-11-25T15:04:15.2704867+00:00"
 }

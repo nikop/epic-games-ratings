@@ -5,28 +5,28 @@ Rating: 4.46 (Ranked 648)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,334 |
-| My First Runbow | 50.00% | ~125,787 |
-| It's The Fall | 26.00% | ~65,409 |
-| The Stunner | 22.00% | ~55,346 |
+| In The Zone | 53.00% | ~133,335 |
+| My First Runbow | 50.00% | ~125,788 |
+| It's The Fall | 26.00% | ~65,410 |
+| The Stunner | 22.00% | ~55,347 |
 | Be Aggressive | 21.00% | ~52,831 |
 | Curator | 20.00% | ~50,315 |
-| Crowning Around | 18.00% | ~45,283 |
+| Crowning Around | 18.00% | ~45,284 |
 | Can You Dig It? | 17.00% | ~42,768 |
 | You Juan-A-Go? | 16.00% | ~40,252 |
 | Chan-tastic | 15.00% | ~37,736 |
-| Muddy Waters | 14.00% | ~35,220 |
+| Muddy Waters | 14.00% | ~35,221 |
 | Toasty! | 13.00% | ~32,705 |
 | Lazy Laser | 8.00% | ~20,126 |
 | Just A Phaze | 7.00% | ~17,610 |
 | Into The Drift | 7.00% | ~17,610 |
 | Ready? Fight! | 7.00% | ~17,610 |
-| Butt Butt | 6.00% | ~15,094 |
+| Butt Butt | 6.00% | ~15,095 |
 | He Who Laughs Last | 3.00% | ~7,547 |
 | Shoo, Cat! | 3.00% | ~7,547 |
-| And You're Okay | 2.00% | ~5,031 |
-| Blotbuster | 2.00% | ~5,031 |
-| Thunderstruck | 2.00% | ~5,031 |
+| And You're Okay | 2.00% | ~5,032 |
+| Blotbuster | 2.00% | ~5,032 |
+| Thunderstruck | 2.00% | ~5,032 |
 | Just A Bit | 1.00% | ~2,516 |
 | Tubular, Dude | 1.00% | ~2,516 |
 | What A Trip | 1.00% | ~2,516 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 648)
 | Talent Scout | 0.10% | ~252 |
 | True Completionist | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,574 (Ranked 61)  
+Progressed: 251,576 (Ranked 61)  
 Completed: 6 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 6 (0.00%) (Ranked 360)
 | 2023-11-22 | 251,508 | 6 |
 | 2023-11-23 | 251,534 | 6 |
 | 2023-11-24 | 251,555 | 6 |
-| 2023-11-25 | 251,574 | 6 |
+| 2023-11-25 | 251,576 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
