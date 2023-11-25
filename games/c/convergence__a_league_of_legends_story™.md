@@ -18,17 +18,17 @@ Rating: 4.62 (Ranked 365)
 | No, Thanks! | 21.00% | ~196 |
 | Breaking Down Barriers | 21.00% | ~196 |
 | The Wicked Twins | 21.00% | ~196 |
+| Fast Learner | 21.00% | ~196 |
 | Immaculate Aim | 21.00% | ~196 |
 | The Betrayer | 20.00% | ~186 |
 | Honest Mistake | 20.00% | ~186 |
-| Fast Learner | 20.00% | ~186 |
 | Like Clockwork | 19.00% | ~177 |
 | Golem Chaser | 19.00% | ~177 |
 | Check Your Pulse | 19.00% | ~177 |
+| The Family Fortune | 19.00% | ~177 |
 | Right On Time | 18.00% | ~168 |
 | The Man Who Shattered Time | 18.00% | ~168 |
 | The Loose Cannon | 18.00% | ~168 |
-| The Family Fortune | 18.00% | ~168 |
 | Street Style | 17.00% | ~158 |
 | Cartographer | 15.00% | ~140 |
 | Treasure Trove | 14.00% | ~130 |

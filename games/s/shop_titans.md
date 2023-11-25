@@ -6,38 +6,38 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,500 |
-| Titan's First Steps | 6.00% | ~8,500 |
-| Basic in Bulk | 5.00% | ~7,083 |
-| Tinkle of Coins | 5.00% | ~7,083 |
-| Disintermediation | 4.00% | ~5,666 |
-| It's Free Real Estate | 4.00% | ~5,666 |
-| Capitalism Ho! | 4.00% | ~5,666 |
-| One Easy Payment | 3.00% | ~4,250 |
-| Some Assembly Required | 3.00% | ~4,250 |
-| Another Satisfied Customer | 3.00% | ~4,250 |
-| Pretty Penny | 3.00% | ~4,250 |
-| Budding Merchant | 3.00% | ~4,250 |
-| Own the Means of Production | 3.00% | ~4,250 |
-| The Daily Grind | 2.00% | ~2,833 |
-| On the Path to Greatness | 2.00% | ~2,833 |
-| Ascended | 2.00% | ~2,833 |
-| Vanity, Verily | 2.00% | ~2,833 |
-| Bounty Hunters | 2.00% | ~2,833 |
-| Blank Page Syndrome | 2.00% | ~2,833 |
-| Demand for Supplies | 2.00% | ~2,833 |
-| Flooding the Market | 2.00% | ~2,833 |
-| Where it Hurts | 2.00% | ~2,833 |
-| Efficient Floor Space | 2.00% | ~2,833 |
-| Gem Expert | 2.00% | ~2,833 |
-| Gild-Gotten Goods | 2.00% | ~2,833 |
-| Helping Hand | 2.00% | ~2,833 |
-| One-Armed Bandit | 2.00% | ~2,833 |
-| Accomplished Merchant | 2.00% | ~2,833 |
-| Dungeon Imports | 2.00% | ~2,833 |
-| Through Repetition, Perfection | 2.00% | ~2,833 |
-| Did we pack lunch? | 2.00% | ~2,833 |
-| Arcane Industries | 2.00% | ~2,833 |
+| Sponsored by Argon | 6.00% | ~8,501 |
+| Titan's First Steps | 6.00% | ~8,501 |
+| Basic in Bulk | 5.00% | ~7,084 |
+| Tinkle of Coins | 5.00% | ~7,084 |
+| Disintermediation | 4.00% | ~5,667 |
+| It's Free Real Estate | 4.00% | ~5,667 |
+| Capitalism Ho! | 4.00% | ~5,667 |
+| One Easy Payment | 3.00% | ~4,251 |
+| Some Assembly Required | 3.00% | ~4,251 |
+| Another Satisfied Customer | 3.00% | ~4,251 |
+| Pretty Penny | 3.00% | ~4,251 |
+| Budding Merchant | 3.00% | ~4,251 |
+| Own the Means of Production | 3.00% | ~4,251 |
+| The Daily Grind | 2.00% | ~2,834 |
+| On the Path to Greatness | 2.00% | ~2,834 |
+| Ascended | 2.00% | ~2,834 |
+| Vanity, Verily | 2.00% | ~2,834 |
+| Bounty Hunters | 2.00% | ~2,834 |
+| Blank Page Syndrome | 2.00% | ~2,834 |
+| Demand for Supplies | 2.00% | ~2,834 |
+| Flooding the Market | 2.00% | ~2,834 |
+| Where it Hurts | 2.00% | ~2,834 |
+| Efficient Floor Space | 2.00% | ~2,834 |
+| Gem Expert | 2.00% | ~2,834 |
+| Gild-Gotten Goods | 2.00% | ~2,834 |
+| Helping Hand | 2.00% | ~2,834 |
+| One-Armed Bandit | 2.00% | ~2,834 |
+| Accomplished Merchant | 2.00% | ~2,834 |
+| Dungeon Imports | 2.00% | ~2,834 |
+| Through Repetition, Perfection | 2.00% | ~2,834 |
+| Did we pack lunch? | 2.00% | ~2,834 |
+| Arcane Industries | 2.00% | ~2,834 |
 | A Notch Above the Rest | 1.00% | ~1,417 |
 | Cream of the Crop | 1.00% | ~1,417 |
 | Proud Paladin | 1.00% | ~1,417 |
@@ -78,6 +78,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 1.00% | ~1,417 |
 | Natural 20 | 1.00% | ~1,417 |
 | Seasoned Journeyman | 1.00% | ~1,417 |
+| Precision Engineering | 1.00% | ~1,417 |
 | Scourge of the Seas | 1.00% | ~1,417 |
 | Attrition Mission | 1.00% | ~1,417 |
 | Glittering Collection | 1.00% | ~1,417 |
@@ -96,31 +97,30 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.90% | ~1,275 |
 | A Legend is Born | 0.90% | ~1,275 |
 | Bountiful Harvest | 0.90% | ~1,275 |
-| Precision Engineering | 0.90% | ~1,275 |
 | Moment of Respite | 0.90% | ~1,275 |
 | King's Shadow | 0.90% | ~1,275 |
+| Economy of Scarce | 0.90% | ~1,275 |
 | All Accounted For | 0.80% | ~1,133 |
-| Economy of Scarce | 0.80% | ~1,133 |
 | Thank You Tom Nook | 0.70% | ~992 |
 | Jackpot! | 0.70% | ~992 |
 | The Free Encyclopedia | 0.60% | ~850 |
 | Eternal Crusade | 0.60% | ~850 |
 | The Greatest Grind | 0.50% | ~708 |
 | All or Nothing! | 0.50% | ~708 |
+| Unleashed Potential | 0.40% | ~567 |
 | JACKPOT!!! | 0.40% | ~567 |
 | Anything not Nailed Down | 0.40% | ~567 |
 | Marvels from the World Over | 0.40% | ~567 |
 | Bane of Legends | 0.30% | ~425 |
 | Ultimate Collector | 0.30% | ~425 |
 | Oligarch Monarch | 0.30% | ~425 |
-| Unleashed Potential | 0.30% | ~425 |
 | Merchant Extraordinaire | 0.30% | ~425 |
 | To Hell and Back | 0.20% | ~283 |
 | Cash Only Please | 0.20% | ~283 |
 | Capitalist Camaraderie | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,659 (Ranked 80)  
-Completed: 215 (0.15%) (Ranked 268)  
+Progressed: 141,685 (Ranked 80)  
+Completed: 225 (0.16%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,6 +338,7 @@ Completed: 215 (0.15%) (Ranked 268)
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
+| 2023-11-25 | 141,685 | 225 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,594 (Ranked 50)  

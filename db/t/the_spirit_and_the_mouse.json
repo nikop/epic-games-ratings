@@ -2,9 +2,9 @@
   "ID": "300ee26a2d6746cdb7dd515ae819f5d4",
   "Name": "The Spirit and the Mouse",
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
-  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 420,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -80,6 +80,11 @@
       "Time": "2023-11-12T20:03:52.7039436+00:00",
       "NumProgressed": 78,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T03:04:37.6067154+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -105,7 +110,7 @@
       "ID": "energy050",
       "SetID": "bbgli2k",
       "Name": "Energy Seeker",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 71
     },
@@ -113,7 +118,7 @@
       "ID": "energy1500",
       "SetID": "bbgli2k",
       "Name": "Unlimited Power!!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -121,7 +126,7 @@
       "ID": "energy250",
       "SetID": "bbgli2k",
       "Name": "Energy Collector",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
       "UsersEstimate": 59
     },
@@ -147,7 +152,7 @@
       "Name": "Grilled Mouse",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "kibblinbox.all",
@@ -169,7 +174,7 @@
       "ID": "lightbulbs.east",
       "SetID": "bbgli2k",
       "Name": "East Street Lightbulbs",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -201,15 +206,15 @@
       "ID": "lightbulbs1",
       "SetID": "bbgli2k",
       "Name": "Lightbulb Seeker",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "lightbulbs10",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Collector",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 15,
       "UsersEstimate": 62
     },
@@ -233,7 +238,7 @@
       "ID": "neighenergy.east",
       "SetID": "bbgli2k",
       "Name": "East Street Energy",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 41
     },
@@ -257,7 +262,7 @@
       "ID": "neighenergy.west",
       "SetID": "bbgli2k",
       "Name": "West Residence Energy",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -281,7 +286,7 @@
       "ID": "quest002",
       "SetID": "bbgli2k",
       "Name": "The Old Man and the Caf\u00E9",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
       "UsersEstimate": 31
     },
@@ -321,7 +326,7 @@
       "ID": "quest007",
       "SetID": "bbgli2k",
       "Name": "The Quiche and the Hair Dryer",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -369,7 +374,7 @@
       "ID": "shop.photo",
       "SetID": "bbgli2k",
       "Name": "Photogenic",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -377,7 +382,7 @@
       "ID": "shop.teleport",
       "SetID": "bbgli2k",
       "Name": "That\u0027s one way to travel",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 34
     },
@@ -410,7 +415,7 @@
     {
       "ID": "bbgli2k",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 0
     }
   ],
@@ -418,8 +423,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:22:14.5968497+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:04:37.6067149+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:12.4238825+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:17:10.2933865+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:22:14.5968799+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:59:22.1446103+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:04:37.6067399+00:00"
 }

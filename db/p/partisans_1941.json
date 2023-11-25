@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1795,
+  "EOS_Progressed": 1796,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4139,6 +4139,11 @@
       "Time": "2023-11-24T22:08:19.7754277+00:00",
       "NumProgressed": 1795,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-25T03:08:35.4505652+00:00",
+      "NumProgressed": 1796,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4174,7 +4179,7 @@
       "Name": "The Big Bertha",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Boy",
@@ -4254,7 +4259,7 @@
       "Name": "Game Over",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Grenadier",
@@ -4302,7 +4307,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "KillAllM2",
@@ -4342,7 +4347,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "Scout",
@@ -4389,15 +4394,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1795,
+      "Progressed": 1796,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:25:54.4169333+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:08:35.4505647+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:07.4089299+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:17:30.058562+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:25:54.416969+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:59:41.5544199+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:08:35.4505953+00:00"
 }

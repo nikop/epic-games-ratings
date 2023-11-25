@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4316,
+  "EOS_Progressed": 4317,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7600,6 +7600,11 @@
       "Time": "2023-11-24T19:08:40.6898486+00:00",
       "NumProgressed": 4316,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T03:08:39.9901358+00:00",
+      "NumProgressed": 4317,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7635,7 +7640,7 @@
       "Name": "The Negotiator",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Ach005",
@@ -7731,7 +7736,7 @@
       "Name": "Chip-tuned",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Ach017",
@@ -7835,7 +7840,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Ach030",
@@ -7939,7 +7944,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Ach043",
@@ -7979,7 +7984,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Ach048",
@@ -8019,7 +8024,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Ach053",
@@ -8035,7 +8040,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Ach055",
@@ -8083,7 +8088,7 @@
       "Name": "Check out my moves!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Ach061",
@@ -8178,13 +8183,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4316,
+      "Progressed": 4317,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2837,
+      "Progressed": 2838,
       "Completed": 1930
     }
   ],
@@ -8192,8 +8197,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:25:58.8993795+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:08:39.9901354+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:16:54.9930854+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:25:58.8994785+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:59:07.216132+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:08:39.9902168+00:00"
 }

@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,088 (Ranked 210)  
+Progressed: 3,089 (Ranked 210)  
 Completed: 2 (0.06%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,6 +253,7 @@ Completed: 2 (0.06%) (Ranked 301)
 | 2023-11-22 | 3,080 | 2 |
 | 2023-11-23 | 3,087 | 2 |
 | 2023-11-24 | 3,088 | 2 |
+| 2023-11-25 | 3,089 | 2 |
 ## Awards
 Max (Highly Recommended): 58  (Ranked 417)  
 Sum: 553 (Ranked 318)  

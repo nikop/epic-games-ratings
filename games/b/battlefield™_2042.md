@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adapt and Overcome | 100.00% | ~80,214 |
-| Foot Soldier | 91.00% | ~72,995 |
-| Making Dunn Proud | 89.00% | ~71,390 |
-| Good Company | 87.00% | ~69,786 |
-| Showoff | 84.00% | ~67,380 |
-| Squad Wiper | 77.00% | ~61,765 |
-| Luck of the Irish | 77.00% | ~61,765 |
-| Burnout | 74.00% | ~59,358 |
-| War machine | 68.00% | ~54,546 |
-| Deadshot | 65.00% | ~52,139 |
-| Thank you, Santa | 63.00% | ~50,535 |
-| The Winner Takes It All | 57.00% | ~45,722 |
-| No-one gets left behind | 56.00% | ~44,920 |
-| Going Places | 54.00% | ~43,316 |
-| Dead in their tracks! | 54.00% | ~43,316 |
-| Wrecking Crew | 48.00% | ~38,503 |
-| I'm Five by Five, B | 38.00% | ~30,481 |
+| Adapt and Overcome | 100.00% | ~80,216 |
+| Foot Soldier | 91.00% | ~72,997 |
+| Making Dunn Proud | 89.00% | ~71,392 |
+| Good Company | 87.00% | ~69,788 |
+| Showoff | 84.00% | ~67,381 |
+| Squad Wiper | 77.00% | ~61,766 |
+| Luck of the Irish | 77.00% | ~61,766 |
+| Burnout | 74.00% | ~59,360 |
+| War machine | 68.00% | ~54,547 |
+| Deadshot | 65.00% | ~52,140 |
+| Thank you, Santa | 63.00% | ~50,536 |
+| The Winner Takes It All | 57.00% | ~45,723 |
+| No-one gets left behind | 56.00% | ~44,921 |
+| Going Places | 54.00% | ~43,317 |
+| Dead in their tracks! | 54.00% | ~43,317 |
+| Wrecking Crew | 48.00% | ~38,504 |
+| I'm Five by Five, B | 38.00% | ~30,482 |
 | Command and Conquest | 34.00% | ~27,273 |
 | A bird?  A plane? | 18.00% | ~14,439 |
-| One Careful Owner | 17.00% | ~13,636 |
+| One Careful Owner | 17.00% | ~13,637 |
 | Happy birthday | 15.00% | ~12,032 |
 | Gun Master | 14.00% | ~11,230 |
 | Jack of all Trades | 14.00% | ~11,230 |
@@ -39,7 +39,7 @@
 | Pack Rat | 0.40% | ~321 |
 | Escape Artist | 0.10% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,214 (Ranked 95)  
+Progressed: 80,216 (Ranked 95)  
 Completed: 2 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.00%) (Ranked 359)
 | 2023-11-22 | 79,177 | 2 |
 | 2023-11-23 | 79,704 | 2 |
 | 2023-11-24 | 80,205 | 2 |
-| 2023-11-25 | 80,214 | 2 |
+| 2023-11-25 | 80,216 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

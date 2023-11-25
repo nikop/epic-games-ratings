@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.95,
+  "EOS_Completed_Percentage": 4.94,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2910,6 +2910,11 @@
       "Time": "2023-11-24T22:03:07.3211844+00:00",
       "NumProgressed": 707,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-25T03:03:27.7794631+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2953,7 +2958,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "META_HALF_LINK",
@@ -2961,7 +2966,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3033,7 +3038,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3055,9 +3060,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 127
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3065,7 +3070,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3073,7 +3078,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "PROGRESS_N1",
@@ -3081,7 +3086,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "PROGRESS_N2",
@@ -3105,7 +3110,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "PROGRESS_N5",
@@ -3113,21 +3118,21 @@
       "Name": "One last step",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:21:06.0469382+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:03:27.7794624+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:17:25.5157354+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:21:06.0469701+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:59:36.8890612+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:03:27.7794952+00:00"
 }

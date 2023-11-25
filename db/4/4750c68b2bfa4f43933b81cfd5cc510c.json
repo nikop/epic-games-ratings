@@ -2013,9 +2013,9 @@
       "Count": 340
     }
   ],
-  "EOS_Progressed": 54420,
+  "EOS_Progressed": 54421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1356,
+  "EOS_NewPlayers": 1353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9578,6 +9578,11 @@
       "Time": "2023-11-25T00:04:54.6758083+00:00",
       "NumProgressed": 54420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T03:05:11.7961555+00:00",
+      "NumProgressed": 54421,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -9662,7 +9667,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 25033
+      "UsersEstimate": 25034
     },
     {
       "ID": "achievement_19",
@@ -9694,7 +9699,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 45713
+      "UsersEstimate": 45714
     },
     {
       "ID": "achievement_22",
@@ -9886,7 +9891,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 20135
+      "UsersEstimate": 20136
     },
     {
       "ID": "achievement_8",
@@ -9894,7 +9899,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 40271
+      "UsersEstimate": 40272
     },
     {
       "ID": "achievement_9",
@@ -9909,7 +9914,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 54420,
+      "Progressed": 54421,
       "Completed": 0
     }
   ],
@@ -9917,8 +9922,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-25T00:00:11.824693+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:22:48.6177918+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:05:11.7961551+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.8436707+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:18:14.5109857+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:22:48.6178464+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:00:26.2198433+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:05:11.7962047+00:00"
 }

@@ -5,33 +5,33 @@ Rating: 3.55 (Ranked 1,046)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~17,397 |
-| Master, Commander | 21.00% | ~16,606 |
-| Hard Worker | 20.00% | ~15,816 |
-| Mechanic | 19.00% | ~15,025 |
-| Adios, Friendo | 18.00% | ~14,234 |
-| Bottom's Up | 18.00% | ~14,234 |
-| Nice Try | 16.00% | ~12,652 |
-| Right On Target | 13.00% | ~10,280 |
+| Be Seeing You | 22.00% | ~17,399 |
+| Master, Commander | 21.00% | ~16,608 |
+| Hard Worker | 20.00% | ~15,817 |
+| Mechanic | 19.00% | ~15,026 |
+| Adios, Friendo | 18.00% | ~14,235 |
+| Bottom's Up | 18.00% | ~14,235 |
+| Nice Try | 16.00% | ~12,654 |
+| Right On Target | 13.00% | ~10,281 |
 | Piano Man | 11.00% | ~8,699 |
-| Lazy Bones | 9.00% | ~7,117 |
-| Vinyl Vibes | 8.00% | ~6,326 |
-| Nothing Left to Say | 7.00% | ~5,535 |
-| Sniper | 7.00% | ~5,535 |
+| Lazy Bones | 9.00% | ~7,118 |
+| Vinyl Vibes | 8.00% | ~6,327 |
+| Nothing Left to Say | 7.00% | ~5,536 |
+| Sniper | 7.00% | ~5,536 |
 | Cut Call | 6.00% | ~4,745 |
 | Magnetic Miracles | 5.00% | ~3,954 |
 | Butcher | 4.00% | ~3,163 |
 | Fair's Fair | 4.00% | ~3,163 |
 | Spicy | 4.00% | ~3,163 |
-| A Man Of Taste | 3.00% | ~2,372 |
-| Ace in the Hole | 3.00% | ~2,372 |
-| Hearty | 3.00% | ~2,372 |
-| Meaty | 3.00% | ~2,372 |
-| Taco Toto | 3.00% | ~2,372 |
+| A Man Of Taste | 3.00% | ~2,373 |
+| Ace in the Hole | 3.00% | ~2,373 |
+| Hearty | 3.00% | ~2,373 |
+| Meaty | 3.00% | ~2,373 |
+| Taco Toto | 3.00% | ~2,373 |
 | Audiophile | 2.00% | ~1,582 |
 | Tape Head | 2.00% | ~1,582 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,078 (Ranked 98)  
+Progressed: 79,085 (Ranked 98)  
 Completed: 850 (1.07%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 850 (1.07%) (Ranked 160)
 | 2023-11-22 | 78,957 | 850 |
 | 2023-11-23 | 79,012 | 850 |
 | 2023-11-24 | 79,078 | 850 |
+| 2023-11-25 | 79,085 | 850 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

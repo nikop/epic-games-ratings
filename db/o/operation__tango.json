@@ -2,7 +2,7 @@
   "ID": "0cdc1f2bb18a4384a96ddac4c5c84886",
   "Name": "Operation: Tango",
   "ProductSlug": "operation-tango",
-  "Ranking_Rating": 384,
+  "Ranking_Rating": 383,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 759,
@@ -191,6 +191,6 @@
   "FirstSeenRating": "2022-08-07T15:01:29.3377422+00:00",
   "LastChanged": "2023-11-17T18:57:19.7902964+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:02.8974976+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:15:07.1564566+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:21:24.2143897+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:57:23.9422648+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:03:46.2880251+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "72a2d3937aaf45b082fc20ad5b6703ae",
   "Name": "The Making of Karateka",
   "ProductSlug": "the-making-of-karateka-7d9a6c",
-  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewPlayers": 420,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -283,8 +283,8 @@
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:22:38.7166174+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T02:57:11.3170919+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:15:17.7771263+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:22:38.7166304+00:00"
+  "LastChanged_Achievements": "2023-11-25T03:05:01.7882446+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T02:57:15.3012027+00:00",
+  "LastUpdate_Ratings": "2023-11-25T02:57:35.1246531+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:05:01.7882551+00:00"
 }

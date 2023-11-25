@@ -2816,9 +2816,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 196
     },
     {
       "ID": "SpeedRun",
@@ -2904,9 +2904,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 177
     }
   ],
   "AchievementSets": [
@@ -2921,8 +2921,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:26:25.365833+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:09:06.6049787+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:00.3419172+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:15:05.5563691+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:26:25.3658818+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:57:22.3194789+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:09:06.605039+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,7 +181,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7997,
+  "EOS_Progressed": 7998,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -7371,6 +7371,11 @@
       "Time": "2023-11-24T23:09:00.4040487+00:00",
       "NumProgressed": 7997,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T03:09:39.8822995+00:00",
+      "NumProgressed": 7998,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7383,7 +7388,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5758
+      "UsersEstimate": 5759
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7391,7 +7396,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5678
+      "UsersEstimate": 5679
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7415,7 +7420,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -7535,7 +7540,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7599,7 +7604,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -7607,7 +7612,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -7662,22 +7667,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7997,
+      "Progressed": 7998,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 614,
-      "Completed": 614
+      "Progressed": 615,
+      "Completed": 615
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:26:58.222246+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:09:39.882299+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:20:46.4955689+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:26:58.222296+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:03:06.7675046+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:09:39.8823531+00:00"
 }

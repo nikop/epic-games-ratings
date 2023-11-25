@@ -6,29 +6,29 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,801 |
-| Sweet Sorrow | 18.00% | ~7,401 |
-| Rules the Waves | 17.00% | ~6,990 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,167 |
-| Rival | 14.00% | ~5,756 |
-| Correspondent | 12.00% | ~4,934 |
-| Lose Your Mind | 12.00% | ~4,934 |
-| Sound Mind? | 12.00% | ~4,934 |
+| Sink Beneath the Waves | 36.00% | ~14,804 |
+| Sweet Sorrow | 18.00% | ~7,402 |
+| Rules the Waves | 17.00% | ~6,991 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,168 |
+| Rival | 14.00% | ~5,757 |
+| Correspondent | 12.00% | ~4,935 |
+| Lose Your Mind | 12.00% | ~4,935 |
+| Sound Mind? | 12.00% | ~4,935 |
 | Salt's Curse | 11.00% | ~4,523 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,523 |
 | The Fall of the House | 11.00% | ~4,523 |
 | Shipmate | 11.00% | ~4,523 |
-| One Year at Zee | 8.00% | ~3,289 |
-| Pupil | 7.00% | ~2,878 |
-| Salvager | 7.00% | ~2,878 |
-| Open Your Ears | 7.00% | ~2,878 |
-| The Ascent of Man | 7.00% | ~2,878 |
+| One Year at Zee | 8.00% | ~3,290 |
+| Pupil | 7.00% | ~2,879 |
+| Salvager | 7.00% | ~2,879 |
+| Open Your Ears | 7.00% | ~2,879 |
+| The Ascent of Man | 7.00% | ~2,879 |
 | Zee Fever | 5.00% | ~2,056 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,645 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,645 |
-| Storm's Curse | 3.00% | ~1,233 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,233 |
-| Come Closer | 3.00% | ~1,233 |
+| Storm's Curse | 3.00% | ~1,234 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,234 |
+| Come Closer | 3.00% | ~1,234 |
 | Roaring Rise | 2.00% | ~822 |
 | I am the Captain of my Soul | 2.00% | ~822 |
 | A buoyant escape | 1.00% | ~411 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~41 |
 | Ten Years at Zee | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,115 (Ranked 119)  
+Progressed: 41,122 (Ranked 119)  
 Completed: 4 (0.01%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,6 +280,7 @@ Completed: 4 (0.01%) (Ranked 338)
 | 2023-11-22 | 41,013 | 4 |
 | 2023-11-23 | 41,060 | 4 |
 | 2023-11-24 | 41,115 | 4 |
+| 2023-11-25 | 41,122 | 4 |
 ## Awards
 Max (Character Customization): 218  (Ranked 282)  
 Sum: 291 (Ranked 367)  

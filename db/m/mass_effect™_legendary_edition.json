@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -4219,9 +4219,9 @@
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 732
+      "UsersEstimate": 746
     },
     {
       "ID": "achievement_23",
@@ -4911,8 +4911,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:26:05.6466049+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:08:46.6397067+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:20:47.330281+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:26:05.6467571+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:03:07.5818183+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:08:46.6398563+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,994 |
-| Imprint | 5.00% | ~7,994 |
+| Taste | 5.00% | ~7,996 |
+| Imprint | 5.00% | ~7,996 |
 | The Hunt | 4.00% | ~6,396 |
 | Ravenous | 4.00% | ~6,396 |
 | Weeper | 3.00% | ~4,797 |
@@ -35,8 +35,8 @@ Number of Ratings: 46  (23.09.2022)
 | Artisan | 0.60% | ~959 |
 | Hush | 0.60% | ~959 |
 | Breathsmith | 0.60% | ~959 |
-| Unwrap the Gift | 0.50% | ~799 |
-| Passage | 0.50% | ~799 |
+| Unwrap the Gift | 0.50% | ~800 |
+| Passage | 0.50% | ~800 |
 | Bloodhunter | 0.40% | ~640 |
 | Zygote | 0.40% | ~638 |
 | Proportions | 0.40% | ~640 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,889 (Ranked 78)  
+Progressed: 159,912 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 1 (0.00%) (Ranked 359)
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
 | 2023-11-24 | 159,888 | 1 |
-| 2023-11-25 | 159,889 | 1 |
+| 2023-11-25 | 159,912 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 424)  
 Sum: 380 (Ranked 346)  

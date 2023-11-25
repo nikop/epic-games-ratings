@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -2051,9 +2051,9 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 488
     },
     {
       "ID": "achievement_17",
@@ -2145,8 +2145,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:26:32.0299648+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:09:13.6063112+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.8610082+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:18:18.2015246+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:26:32.0299851+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:00:30.0278589+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:09:13.6063303+00:00"
 }

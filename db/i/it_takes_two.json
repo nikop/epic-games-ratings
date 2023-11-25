@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23705,
+  "EOS_Progressed": 23706,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 1531,
+  "EOS_NewPlayers": 1527,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -7713,6 +7713,11 @@
       "Time": "2023-11-24T23:08:19.822959+00:00",
       "NumProgressed": 23705,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-11-25T03:08:57.9154773+00:00",
+      "NumProgressed": 23706,
+      "NumCompleted": 99
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -7725,7 +7730,7 @@
       "Name": "It Took Two",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 10193
+      "UsersEstimate": 10194
     },
     {
       "ID": "achievement_10",
@@ -7757,7 +7762,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "achievement_14",
@@ -7773,7 +7778,7 @@
       "Name": "Lost And Found",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "achievement_16",
@@ -7829,7 +7834,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 20623
+      "UsersEstimate": 20624
     },
     {
       "ID": "achievement_4",
@@ -7837,7 +7842,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 20860
+      "UsersEstimate": 20861
     },
     {
       "ID": "achievement_5",
@@ -7861,7 +7866,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 18490
+      "UsersEstimate": 18491
     },
     {
       "ID": "achievement_8",
@@ -7869,7 +7874,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 10193
+      "UsersEstimate": 10194
     },
     {
       "ID": "achievement_9",
@@ -7884,13 +7889,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 23705,
+      "Progressed": 23706,
       "Completed": 99
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:26:16.7381048+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:08:57.9154769+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:56.9678677+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:17:23.7858043+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:26:16.7381437+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:59:35.1909486+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:08:57.9155159+00:00"
 }

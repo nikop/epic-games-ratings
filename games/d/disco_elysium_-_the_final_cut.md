@@ -6,16 +6,16 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,726 |
-| Biggest Communism Builder | 24.00% | ~31,480 |
+| Goodest Of The Good Cops | 28.00% | ~36,727 |
+| Biggest Communism Builder | 24.00% | ~31,481 |
 | The World's Most Laughable Centrist | 21.00% | ~27,545 |
 | Il Coppo Del'Arte! | 18.00% | ~23,610 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,987 |
 | Hyperstellar Law Official | 16.00% | ~20,987 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,363 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,363 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,364 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,364 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,052 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,428 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,429 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,117 |
 | Unbelievably Boring **** | 9.00% | ~11,805 |
 | Enemy Of The Physical Realm | 9.00% | ~11,805 |
@@ -30,14 +30,14 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,623 |
 | Massive Torque Dork | 1.00% | ~1,312 |
 | Avowed Inframaterialist | 1.00% | ~1,312 |
-| Committee of la Responsabilité | 0.90% | ~1,180 |
-| Venture into the HARDCORE | 0.90% | ~1,180 |
-| Real Musor | 0.90% | ~1,180 |
+| Committee of la Responsabilité | 0.90% | ~1,181 |
+| Venture into the HARDCORE | 0.90% | ~1,181 |
+| Real Musor | 0.90% | ~1,181 |
 | Baddest Brow in Town | 0.80% | ~1,049 |
 | Networthy Individual | 0.70% | ~918 |
 | Leopard Mindset | 0.60% | ~787 |
-| Modus: Mullen | 0.30% | ~393 |
-| Palerunner | 0.30% | ~393 |
+| Modus: Mullen | 0.30% | ~394 |
+| Palerunner | 0.30% | ~394 |
 | Cause a ****storm | 0.20% | ~262 |
 | True Detective | 0.20% | ~262 |
 | The Icebreaker | 0.20% | ~262 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,166 (Ranked 83)  
+Progressed: 131,169 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,6 +266,7 @@ Completed: 28 (0.02%) (Ranked 328)
 | 2023-11-22 | 131,081 | 28 |
 | 2023-11-23 | 131,117 | 28 |
 | 2023-11-24 | 131,166 | 28 |
+| 2023-11-25 | 131,169 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 179)  
 Sum: 1,124 (Ranked 253)  

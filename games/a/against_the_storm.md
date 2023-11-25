@@ -22,17 +22,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 5.00% | ~872 |
 | A Real Challenge | 5.00% | ~872 |
 | Trade Baron | 5.00% | ~872 |
-| Homesick | 4.00% | ~697 |
-| Against All Odds | 4.00% | ~697 |
-| Ruined Armory | 4.00% | ~697 |
-| Barren Lands | 4.00% | ~697 |
-| Haunted Forest | 4.00% | ~697 |
-| Levitating Monument | 4.00% | ~697 |
-| Flooded Mines | 4.00% | ~697 |
-| Monastery of the Holy Flame | 4.00% | ~697 |
-| Statue of the Forefathers | 4.00% | ~697 |
-| Corrosive Torrent | 4.00% | ~697 |
-| Cursed Lands | 4.00% | ~697 |
+| Homesick | 4.00% | ~698 |
+| Against All Odds | 4.00% | ~698 |
+| Ruined Armory | 4.00% | ~698 |
+| Barren Lands | 4.00% | ~698 |
+| Haunted Forest | 4.00% | ~698 |
+| Levitating Monument | 4.00% | ~698 |
+| Flooded Mines | 4.00% | ~698 |
+| Monastery of the Holy Flame | 4.00% | ~698 |
+| Statue of the Forefathers | 4.00% | ~698 |
+| Corrosive Torrent | 4.00% | ~698 |
+| Cursed Lands | 4.00% | ~698 |
 | Serving Ale | 3.00% | ~523 |
 | Refinery | 3.00% | ~523 |
 | Dangerous Lands | 3.00% | ~523 |
@@ -49,7 +49,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 1.00% | ~174 |
 | Blood Flower Farmer | 1.00% | ~174 |
 | Human Utopia | 0.90% | ~157 |
-| Beaver Utopia | 0.80% | ~139 |
+| Beaver Utopia | 0.80% | ~140 |
 | The Queen's Chosen | 0.60% | ~105 |
 | Harpy Utopia | 0.50% | ~87 |
 | Ruins | 0.50% | ~87 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,437 (Ranked 146)  
+Progressed: 17,439 (Ranked 146)  
 Completed: 56 (0.32%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,6 +276,7 @@ Completed: 56 (0.32%) (Ranked 232)
 | 2023-11-22 | 17,396 | 56 |
 | 2023-11-23 | 17,412 | 56 |
 | 2023-11-24 | 17,437 | 56 |
+| 2023-11-25 | 17,439 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 440  (Ranked 223)  
 Sum: 3,230 (Ranked 172)  

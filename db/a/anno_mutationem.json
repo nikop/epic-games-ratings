@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 705,
+  "EOS_Progressed": 706,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -682,6 +682,11 @@
       "Time": "2023-11-24T22:04:15.9636627+00:00",
       "NumProgressed": 705,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T03:04:37.6150272+00:00",
+      "NumProgressed": 706,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -709,7 +714,7 @@
       "Name": "Arm Wrestlin\u0027",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Big_Spender",
@@ -741,7 +746,7 @@
       "Name": "1\u002B1\u003E2",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Deadly_Kombationem",
@@ -781,7 +786,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "I_think_its_broke",
@@ -789,7 +794,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "In the smacker...I think",
@@ -797,7 +802,7 @@
       "Name": "In the smacker...I think",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Keep_em_coming",
@@ -805,7 +810,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Lady_Luck",
@@ -861,7 +866,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -893,7 +898,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "The_Warlord",
@@ -923,9 +928,9 @@
       "ID": "This_cant_be_right",
       "SetID": "gl7plp",
       "Name": "This can\u0027t be right\u2026",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 56
     },
     {
       "ID": "Welcome_home_06",
@@ -955,9 +960,9 @@
       "ID": "manhole",
       "SetID": "gl7plp",
       "Name": "Don\u0027t judge a manhole by its cover",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 423
+      "UsersEstimate": 417
     },
     {
       "ID": "posters",
@@ -980,7 +985,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 705,
+      "Progressed": 706,
       "Completed": 0
     }
   ],
@@ -988,8 +993,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:22:14.6543395+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:04:37.615027+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:33.6518262+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:16:47.8232347+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:22:14.6543621+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:59:00.1062091+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:04:37.6150454+00:00"
 }

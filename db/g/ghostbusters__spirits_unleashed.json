@@ -3507,9 +3507,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31499,
+  "EOS_Progressed": 31500,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20372,6 +20372,11 @@
       "Time": "2023-11-24T23:05:21.4594797+00:00",
       "NumProgressed": 31499,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-25T03:05:53.3863619+00:00",
+      "NumProgressed": 31500,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -20511,7 +20516,7 @@
       "Name": "Fragile Panes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Fully_Upgraded",
@@ -20567,7 +20572,7 @@
       "Name": "Line em\u0027 up",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Little_Help",
@@ -20591,7 +20596,7 @@
       "Name": "Mycophile",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Pesky_Jerks",
@@ -20623,7 +20628,7 @@
       "Name": "Rift Seeker",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Right_Back",
@@ -20703,7 +20708,7 @@
       "Name": "Surprise!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Swift_Removers",
@@ -20759,7 +20764,7 @@
       "Name": "Ultimate Defense",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Vaporous_Expansion",
@@ -20790,7 +20795,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31499,
+      "Progressed": 31500,
       "Completed": 68
     }
   ],
@@ -20798,8 +20803,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-24T05:03:05.9731122+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:23:30.9619842+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:05:53.3863612+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:20:42.8171677+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:23:30.962094+00:00"
+  "LastUpdate_Ratings": "2023-11-25T03:03:02.9983231+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:05:53.3864752+00:00"
 }

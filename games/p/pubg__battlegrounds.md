@@ -5,23 +5,23 @@ Rating: 3.97 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 72.00% | ~524,759 |
-| Health Junkie | 39.00% | ~284,244 |
-| You Complete Me | 38.00% | ~276,956 |
-| Guardian Angel | 33.00% | ~240,515 |
-| Devil Inside Me | 26.00% | ~189,496 |
-| Fantastic Four | 19.00% | ~138,478 |
-| Killing Spree | 18.00% | ~131,190 |
-| Marksman Novice | 16.00% | ~116,613 |
-| First Blood | 12.00% | ~87,460 |
-| Top 10 | 12.00% | ~87,460 |
-| Now You See Me, Now You Don't | 10.00% | ~72,883 |
+| Blood on My Hands | 72.00% | ~524,767 |
+| Health Junkie | 39.00% | ~284,249 |
+| You Complete Me | 38.00% | ~276,960 |
+| Guardian Angel | 33.00% | ~240,518 |
+| Devil Inside Me | 26.00% | ~189,499 |
+| Fantastic Four | 19.00% | ~138,480 |
+| Killing Spree | 18.00% | ~131,192 |
+| Marksman Novice | 16.00% | ~116,615 |
+| First Blood | 12.00% | ~87,461 |
+| Top 10 | 12.00% | ~87,461 |
+| Now You See Me, Now You Don't | 10.00% | ~72,884 |
 | Marksman Expert | 8.00% | ~58,307 |
-| CQB Novice | 7.00% | ~51,018 |
-| Collateral Damage | 6.00% | ~43,730 |
-| Airborne | 6.00% | ~43,730 |
+| CQB Novice | 7.00% | ~51,019 |
+| Collateral Damage | 6.00% | ~43,731 |
+| Airborne | 6.00% | ~43,731 |
 | Pacifist | 5.00% | ~36,442 |
-| Last Survivor | 4.00% | ~29,153 |
+| Last Survivor | 4.00% | ~29,154 |
 | Marksman Master | 3.00% | ~21,865 |
 | Trigonometry Novice | 3.00% | ~21,865 |
 | First Come, First Served | 3.00% | ~21,865 |
@@ -43,7 +43,7 @@ Rating: 3.97 (Ranked 1,007)
 | Nade King Master | 0.10% | ~729 |
 | Shoot the Knee | 0.10% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,832 (Ranked 20)  
+Progressed: 728,843 (Ranked 20)  
 Completed: 11 (0.00%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 11 (0.00%) (Ranked 359)
 | 2023-11-22 | 724,605 | 11 |
 | 2023-11-23 | 726,651 | 11 |
 | 2023-11-24 | 728,805 | 11 |
-| 2023-11-25 | 728,832 | 11 |
+| 2023-11-25 | 728,843 | 11 |
 ## Awards
 Max (Competitive Players): 4,904  (Ranked 73)  
 Sum: 16,056 (Ranked 66)  

@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~341 |
-| Thalya – Simply Immortal | 86.00% | ~341 |
-| For the Horde! | 80.00% | ~318 |
-| Hammer Time, Round Two | 78.00% | ~310 |
-| The Hellwoods | 73.00% | ~290 |
-| The Plains of Strothalm | 68.00% | ~270 |
-| Experienced Thalya | 67.00% | ~266 |
-| Thalya's Concentrated Fury | 66.00% | ~262 |
-| Master of Magic | 63.00% | ~250 |
-| Bad Elves Go Everywhere | 62.00% | ~246 |
-| Unicorn steaks – fresh off the hoof! | 58.00% | ~230 |
-| Magic Accidents | 57.00% | ~226 |
-| Heroes’ Gorge | 56.00% | ~222 |
-| Trap Master | 54.00% | ~214 |
-| Minions, Minions! | 53.00% | ~210 |
-| The Ascent | 48.00% | ~191 |
-| It's Warm and Cozy at Home | 48.00% | ~191 |
-| Hard Work | 43.00% | ~171 |
-| YOU SHALL NOT PASS! | 42.00% | ~167 |
-| The Big Eaty | 42.00% | ~167 |
-| Pure Dynamite! | 40.00% | ~159 |
-| “… like son” | 38.00% | ~151 |
-| Mana Cannon | 33.00% | ~131 |
-| Dungeonlord Gorgu | 33.00% | ~131 |
-| Shame! Shame! Shame! | 33.00% | ~131 |
-| The Cathedral of Light | 32.00% | ~127 |
-| Tanos' Crusade Against Thalya | 29.00% | ~115 |
-| All’s Well That Ends Evil | 25.00% | ~99 |
-| Unstoppable Horde | 24.00% | ~95 |
-| Master of the Undead | 22.00% | ~87 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~83 |
-| The Duel | 21.00% | ~83 |
-| Hungry, Hungry Gorgu! | 20.00% | ~79 |
-| Forbidden Knowledge | 20.00% | ~79 |
-| Ghost Pirates? Ghost Heroes! | 19.00% | ~75 |
-| If Looks Could Kill | 18.00% | ~71 |
-| Stop Tanos! | 17.00% | ~67 |
-| The Finitude Drill | 17.00% | ~67 |
+| The Last Stand | 85.00% | ~339 |
+| Thalya – Simply Immortal | 85.00% | ~339 |
+| For the Horde! | 79.00% | ~315 |
+| Hammer Time, Round Two | 78.00% | ~311 |
+| The Hellwoods | 72.00% | ~287 |
+| The Plains of Strothalm | 67.00% | ~267 |
+| Experienced Thalya | 67.00% | ~267 |
+| Thalya's Concentrated Fury | 66.00% | ~263 |
+| Master of Magic | 63.00% | ~251 |
+| Bad Elves Go Everywhere | 62.00% | ~247 |
+| Magic Accidents | 57.00% | ~227 |
+| Unicorn steaks – fresh off the hoof! | 57.00% | ~227 |
+| Heroes’ Gorge | 56.00% | ~223 |
+| Trap Master | 54.00% | ~215 |
+| Minions, Minions! | 52.00% | ~207 |
+| The Ascent | 47.00% | ~188 |
+| It's Warm and Cozy at Home | 47.00% | ~188 |
+| Hard Work | 43.00% | ~172 |
+| YOU SHALL NOT PASS! | 42.00% | ~168 |
+| The Big Eaty | 42.00% | ~168 |
+| Pure Dynamite! | 39.00% | ~156 |
+| “… like son” | 37.00% | ~148 |
+| Mana Cannon | 33.00% | ~132 |
+| Dungeonlord Gorgu | 33.00% | ~132 |
+| Shame! Shame! Shame! | 33.00% | ~132 |
+| The Cathedral of Light | 32.00% | ~128 |
+| Tanos' Crusade Against Thalya | 29.00% | ~116 |
+| All’s Well That Ends Evil | 25.00% | ~100 |
+| Unstoppable Horde | 24.00% | ~96 |
+| Master of the Undead | 23.00% | ~92 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~84 |
+| The Duel | 21.00% | ~84 |
+| Hungry, Hungry Gorgu! | 20.00% | ~80 |
+| Forbidden Knowledge | 20.00% | ~80 |
+| Ghost Pirates? Ghost Heroes! | 19.00% | ~76 |
+| If Looks Could Kill | 18.00% | ~72 |
+| Stop Tanos! | 17.00% | ~68 |
+| The Finitude Drill | 17.00% | ~68 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~60 |
 | Doom Hill | 14.00% | ~56 |
 | Sabotage! | 13.00% | ~52 |
@@ -54,9 +54,9 @@
 | Lavalumps on Ice! | 9.00% | ~36 |
 | Rubble and Ashes | 9.00% | ~36 |
 | The Last Stand - This Time For Real! | 9.00% | ~36 |
+| Mirror, Mirror | 8.00% | ~32 |
 | Untouchable | 8.00% | ~32 |
 | To Infinity And Beyond! | 8.00% | ~32 |
-| Mirror, Mirror | 7.00% | ~28 |
 | To the Max! | 7.00% | ~28 |
 | Gorgu is in the Best of Health | 6.00% | ~24 |
 | Laser Eyes Are So Useless | 6.00% | ~24 |
@@ -66,8 +66,8 @@
 | No Mana, No Cry | 4.00% | ~16 |
 | I Don't Need Any Help | 4.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397 (Ranked 326)  
-Completed: 5 (1.26%) (Ranked 151)  
+Progressed: 399 (Ranked 326)  
+Completed: 5 (1.25%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,3 +87,4 @@ Completed: 5 (1.26%) (Ranked 151)
 | 2023-11-22 | 347 | 4 |
 | 2023-11-23 | 367 | 4 |
 | 2023-11-24 | 397 | 5 |
+| 2023-11-25 | 399 | 5 |

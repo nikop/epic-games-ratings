@@ -2,7 +2,7 @@
   "ID": "8f25cbefde7d4e7c8537aa860415d0b5",
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 122,
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -231,6 +231,11 @@
       "Time": "2023-09-09T14:05:01.9664271+00:00",
       "NumProgressed": 113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T03:06:06.8345043+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -264,15 +269,15 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 72
     },
@@ -280,9 +285,9 @@
       "ID": "FISH",
       "SetID": "3c20ib3",
       "Name": "C\u0027who?",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "GET_PETS",
@@ -312,7 +317,7 @@
       "ID": "GRAVEYARD",
       "SetID": "3c20ib3",
       "Name": "So it begins",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 5,
       "UsersEstimate": 103
     },
@@ -432,9 +437,9 @@
       "ID": "SILVERBANE",
       "SetID": "3c20ib3",
       "Name": "There be sand in me shorts",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "SNOWSCALE",
@@ -464,7 +469,7 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -489,7 +494,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 0
     }
   ],
@@ -497,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-11-25T02:23:44.3453377+00:00",
+  "LastChanged_Achievements": "2023-11-25T03:06:06.8345038+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:11.6895094+00:00",
-  "LastUpdate_Ratings": "2023-11-25T02:16:52.7604877+00:00",
-  "LastUpdate_Achievements": "2023-11-25T02:23:44.3453559+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:59:05.0129388+00:00",
+  "LastUpdate_Achievements": "2023-11-25T03:06:06.8345473+00:00"
 }
