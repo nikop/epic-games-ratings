@@ -2,12 +2,12 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -13787,10 +13787,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 105694,
       "NumberOfAwardsMax": 13167
+    },
+    {
+      "Time": "2023-11-25T16:01:39.1806032+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 105735,
+      "NumberOfAwardsMax": 13167
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 105694,
+  "NumberOfAwards": 105735,
   "NumberOfAwardsMax": 13167,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13846,7 +13852,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 9431
+      "Count": 9472
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13880,9 +13886,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2023-11-25T15:01:26.8873839+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:08:20.5121341+00:00",
+  "LastChanged": "2023-11-25T16:01:39.180603+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:08:18.2657686+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.6241304+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:01:26.8873846+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:08:20.5121372+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:01:39.1806035+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:08:18.2657712+00:00"
 }

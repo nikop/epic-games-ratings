@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18903,
+  "EOS_Progressed": 18906,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13154,6 +13154,11 @@
       "Time": "2023-11-25T13:09:56.8408023+00:00",
       "NumProgressed": 18903,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-25T16:06:56.2184536+00:00",
+      "NumProgressed": 18906,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13165,7 +13170,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "0002",
@@ -13253,7 +13258,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3024
+      "UsersEstimate": 3025
     },
     {
       "ID": "0013",
@@ -13261,7 +13266,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "0014",
@@ -13269,7 +13274,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3024
+      "UsersEstimate": 3025
     },
     {
       "ID": "0015",
@@ -13301,7 +13306,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "0019",
@@ -13317,7 +13322,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "0021",
@@ -13365,7 +13370,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "0027",
@@ -13373,7 +13378,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "0028",
@@ -13389,7 +13394,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "0030",
@@ -13405,7 +13410,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "0032",
@@ -13413,7 +13418,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "0033",
@@ -13421,7 +13426,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "0034",
@@ -13429,7 +13434,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "0035",
@@ -13452,7 +13457,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18903,
+      "Progressed": 18906,
       "Completed": 4
     }
   ],
@@ -13460,8 +13465,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:06:39.0011243+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:06:56.2184533+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:35.6925077+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:00:23.4680802+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:06:39.0012193+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:00:35.2056475+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:06:56.2185378+00:00"
 }

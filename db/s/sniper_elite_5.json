@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3926,
+  "EOS_Progressed": 3927,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8176,6 +8176,11 @@
       "Time": "2023-11-25T11:06:08.4246535+00:00",
       "NumProgressed": 3926,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-25T16:06:00.7581529+00:00",
+      "NumProgressed": 3927,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8227,7 +8232,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8243,7 +8248,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8339,7 +8344,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8401,9 +8406,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 589
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8419,7 +8424,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8754,13 +8759,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3877,
+      "Progressed": 3878,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3926,
+      "Progressed": 3927,
       "Completed": 11
     }
   ],
@@ -8768,8 +8773,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:05:44.6430324+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:01:08.6937951+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:05:44.643135+00:00"
+  "LastChanged_Achievements": "2023-11-25T16:06:00.7581526+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T15:57:04.6853838+00:00",
+  "LastUpdate_Ratings": "2023-11-25T16:01:20.3746941+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:06:00.7582381+00:00"
 }

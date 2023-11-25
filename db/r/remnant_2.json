@@ -4731,10 +4731,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 227824,
-  "EOS_Completed": 522,
-  "EOS_NewPlayers": 4767,
-  "EOS_NewCompleters": 53,
+  "EOS_Progressed": 227882,
+  "EOS_Completed": 524,
+  "EOS_NewPlayers": 4773,
+  "EOS_NewCompleters": 54,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -19846,6 +19846,11 @@
       "Time": "2023-11-25T15:09:08.5364118+00:00",
       "NumProgressed": 227824,
       "NumCompleted": 522
+    },
+    {
+      "Time": "2023-11-25T16:09:07.0535529+00:00",
+      "NumProgressed": 227882,
+      "NumCompleted": 524
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19938,7 +19943,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20040,9 +20045,9 @@
       "ID": "Obtain_Archetype",
       "SetID": "bkp3b1a",
       "Name": "First of Many",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 912
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -20200,9 +20205,9 @@
       "ID": "Upgrade_Boss_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "Almost There",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "Upgrade_Relic",
@@ -20256,9 +20261,9 @@
       "ID": "DLC1_Defeat_OneTrueKing",
       "SetID": "bkoie00",
       "Name": "Regicide",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -20297,22 +20302,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 227824,
-      "Completed": 522
+      "Progressed": 227882,
+      "Completed": 524
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 6989,
-      "Completed": 155
+      "Progressed": 7047,
+      "Completed": 156
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-25T11:03:34.3115938+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:09:08.5364114+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:09:07.0535526+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:03:16.4597366+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:09:08.5365117+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:03:28.5326941+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:09:07.0536592+00:00"
 }

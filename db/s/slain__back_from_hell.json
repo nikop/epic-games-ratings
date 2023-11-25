@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40941,
+  "EOS_Progressed": 40948,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24148,6 +24148,11 @@
       "Time": "2023-11-25T15:03:51.2071614+00:00",
       "NumProgressed": 40941,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-25T16:04:05.1005177+00:00",
+      "NumProgressed": 40948,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -24159,7 +24164,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6141
+      "UsersEstimate": 6142
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -24167,7 +24172,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8598
+      "UsersEstimate": 8599
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -24191,7 +24196,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -24207,7 +24212,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -24311,7 +24316,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -24319,7 +24324,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -24390,7 +24395,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40941,
+      "Progressed": 40948,
       "Completed": 26
     }
   ],
@@ -24398,8 +24403,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:03:51.2071609+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:04:05.1005175+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.2430708+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:56:59.2064644+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:03:51.2072978+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:57:09.9808212+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:04:05.1006269+00:00"
 }

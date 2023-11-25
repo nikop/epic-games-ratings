@@ -2,7 +2,7 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 128,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -254,6 +254,11 @@
       "Time": "2023-11-25T15:07:18.0188532+00:00",
       "NumProgressed": 59,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T16:07:35.8223788+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -312,7 +317,7 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -376,7 +381,7 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 85,
+      "Percentage": 83,
       "XP": 20,
       "UsersEstimate": 50
     },
@@ -457,14 +462,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:07:18.0188528+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:07:35.8223784+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:57:53.0904235+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:07:18.0188665+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:58:05.6714149+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:07:35.8223993+00:00"
 }

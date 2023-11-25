@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "BRING_MARY",
@@ -1145,9 +1145,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "TAKE_LEECH",
@@ -1176,8 +1176,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:08:23.3426497+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:08:21.2091288+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:01.3377699+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:03:00.2697999+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:08:23.3426667+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:03:11.7759618+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:08:21.2091461+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 722,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -722,6 +722,11 @@
       "Time": "2023-11-25T14:04:29.675611+00:00",
       "NumProgressed": 721,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T16:05:35.745942+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -813,7 +818,7 @@
       "Name": "I\u0027m walking here!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "I_just_love_stuff",
@@ -829,7 +834,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "In the smacker...I think",
@@ -893,7 +898,7 @@
       "Name": "Supreme Bartender Ann",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Tell_me_your_story",
@@ -901,15 +906,15 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "Thats_gotta_hurt",
       "SetID": "gl7plp",
       "Name": "That\u0027s gotta hurt",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 260
+      "UsersEstimate": 253
     },
     {
       "ID": "The Traveler",
@@ -933,7 +938,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "The_Warlord",
@@ -949,7 +954,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1020,7 +1025,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 722,
       "Completed": 0
     }
   ],
@@ -1028,8 +1033,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:05:20.2330988+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:05:35.7459417+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:33.6518262+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:59:42.0999149+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:05:20.2331202+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:59:54.8213368+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:05:35.745965+00:00"
 }

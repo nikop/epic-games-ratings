@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,823 |
-| Alt+F4 | 9.00% | ~21,554 |
-| Where's that freaking Dwarf? | 8.00% | ~19,160 |
+| Sowwy! | 35.00% | ~83,827 |
+| Alt+F4 | 9.00% | ~21,556 |
+| Where's that freaking Dwarf? | 8.00% | ~19,161 |
 | Déjà vu | 6.00% | ~14,370 |
 | Sock! SOCK! | 5.00% | ~11,975 |
 | Speedrun | 5.00% | ~11,975 |
@@ -44,18 +44,18 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,395 |
 | Lust and Debauchery | 1.00% | ~2,395 |
 | Material Girl | 1.00% | ~2,395 |
-| In Navalu's footsteps | 0.90% | ~2,155 |
+| In Navalu's footsteps | 0.90% | ~2,156 |
 | Lëgal Legend | 0.80% | ~1,916 |
-| We come in peace | 0.70% | ~1,676 |
+| We come in peace | 0.70% | ~1,677 |
 | Holistic Adventuring Party | 0.60% | ~1,437 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,437 |
 | Law and Order | 0.60% | ~1,437 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,197 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,198 |
 | I'd rather... Just... Sing! | 0.40% | ~958 |
 | It's been a hard day's night | 0.40% | ~958 |
-| Friendly fire | 0.30% | ~718 |
-| The number of the counting shalt be 7 | 0.30% | ~718 |
-| Inception | 0.30% | ~718 |
+| Friendly fire | 0.30% | ~719 |
+| The number of the counting shalt be 7 | 0.30% | ~719 |
+| Inception | 0.30% | ~719 |
 | The Blood Countess | 0.20% | ~479 |
 | Free customer service | 0.20% | ~479 |
 | Imposture and Trowels | 0.20% | ~479 |
@@ -65,37 +65,37 @@ Number of Ratings: 118  (23.09.2022)
 | Death is for wimps | 0.20% | ~479 |
 | Super-Ultra-Lydian | 0.20% | ~479 |
 | Demisemiquaver | 0.20% | ~479 |
-| Cursed die | 0.10% | ~239 |
-| Necrophilia | 0.10% | ~239 |
-| He’s alive! Aliiiive! | 0.10% | ~239 |
-| Restless night | 0.10% | ~239 |
-| King of the Arena | 0.10% | ~239 |
-| Finally free | 0.10% | ~239 |
-| Hoarding | 0.10% | ~239 |
-| Staff cut | 0.10% | ~239 |
-| Legendary brew | 0.10% | ~239 |
-| Elite Adventurers | 0.10% | ~239 |
-| Take your time back in time | 0.10% | ~239 |
-| Egghead | 0.10% | ~239 |
-| Deep changes | 0.10% | ~239 |
-| A broken clock… | 0.10% | ~239 |
-| Sleep schedule mastery | 0.10% | ~239 |
-| Cute Dungeon | 0.10% | ~239 |
-| Mystical Dungeon | 0.10% | ~239 |
-| Gloomy Dungeon | 0.10% | ~239 |
-| Power struggle | 0.10% | ~239 |
-| Hit snooze | 0.10% | ~239 |
-| Living legends of the Lands of Fangh | 0.10% | ~239 |
-| Minmaxer | 0.10% | ~239 |
-| Iron Golems Tamer | 0.10% | ~239 |
-| And they lived happily ever after... | 0.10% | ~239 |
-| Star-crossed lovers | 0.10% | ~239 |
-| Pyrrhic victory | 0.10% | ~239 |
-| Lord of the Drunks | 0.10% | ~239 |
-| Dumb and dumber | 0.10% | ~239 |
-| Dwarf Candy | 0.10% | ~239 |
+| Cursed die | 0.10% | ~240 |
+| Necrophilia | 0.10% | ~240 |
+| He’s alive! Aliiiive! | 0.10% | ~240 |
+| Restless night | 0.10% | ~240 |
+| King of the Arena | 0.10% | ~240 |
+| Finally free | 0.10% | ~240 |
+| Hoarding | 0.10% | ~240 |
+| Staff cut | 0.10% | ~240 |
+| Legendary brew | 0.10% | ~240 |
+| Elite Adventurers | 0.10% | ~240 |
+| Take your time back in time | 0.10% | ~240 |
+| Egghead | 0.10% | ~240 |
+| Deep changes | 0.10% | ~240 |
+| A broken clock… | 0.10% | ~240 |
+| Sleep schedule mastery | 0.10% | ~240 |
+| Cute Dungeon | 0.10% | ~240 |
+| Mystical Dungeon | 0.10% | ~240 |
+| Gloomy Dungeon | 0.10% | ~240 |
+| Power struggle | 0.10% | ~240 |
+| Hit snooze | 0.10% | ~240 |
+| Living legends of the Lands of Fangh | 0.10% | ~240 |
+| Minmaxer | 0.10% | ~240 |
+| Iron Golems Tamer | 0.10% | ~240 |
+| And they lived happily ever after... | 0.10% | ~240 |
+| Star-crossed lovers | 0.10% | ~240 |
+| Pyrrhic victory | 0.10% | ~240 |
+| Lord of the Drunks | 0.10% | ~240 |
+| Dumb and dumber | 0.10% | ~240 |
+| Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,494 (Ranked 63)  
+Progressed: 239,507 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-22 | 238,936 | 7 |
 | 2023-11-23 | 239,137 | 7 |
 | 2023-11-24 | 239,357 | 7 |
-| 2023-11-25 | 239,494 | 7 |
+| 2023-11-25 | 239,507 | 7 |
 ## Awards
 Max (Character Customization): 238  (Ranked 272)  
 Sum: 478 (Ranked 330)  

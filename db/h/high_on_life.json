@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24550,
+  "EOS_Progressed": 24552,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6913,6 +6913,11 @@
       "Time": "2023-11-25T13:07:33.0989361+00:00",
       "NumProgressed": 24550,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-25T16:04:39.161253+00:00",
+      "NumProgressed": 24552,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -6972,7 +6977,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -6980,7 +6985,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -7012,7 +7017,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -7052,7 +7057,7 @@
       "Name": "First Bounty Down",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -7060,7 +7065,7 @@
       "Name": "G3 Graduation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -7084,7 +7089,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -7275,13 +7280,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24550,
+      "Progressed": 24552,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1843,
+      "Progressed": 1845,
       "Completed": 1376
     }
   ],
@@ -7289,8 +7294,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:04:25.3034778+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:04:39.1612527+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.5324656+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:02:46.3840974+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:04:25.3035293+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:02:58.1885451+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:04:39.1613023+00:00"
 }

@@ -35,10 +35,10 @@ Rating: 4.68 (Ranked 253)
 | Entangled | 2.00% | ~15 |
 | Loremaster | 1.00% | ~8 |
 | Awards unwarded | 1.00% | ~8 |
-| Mushrooming enthusiast | 0.70% | ~5 |
+| Mushrooming enthusiast | 0.60% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769 (Ranked 276)  
+Progressed: 770 (Ranked 276)  
 Completed: 1 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 1 (0.13%) (Ranked 272)
 | 2023-11-21 | 766 | 1 |
 | 2023-11-22 | 768 | 1 |
 | 2023-11-24 | 769 | 1 |
+| 2023-11-25 | 770 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

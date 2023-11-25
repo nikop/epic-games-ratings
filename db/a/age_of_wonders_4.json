@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 382,
+  "Ranking_Rating": 383,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 189,
@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5480,
+  "EOS_Progressed": 5481,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7423,6 +7423,11 @@
       "Time": "2023-11-25T14:05:13.6623654+00:00",
       "NumProgressed": 5480,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T16:06:35.0661894+00:00",
+      "NumProgressed": 5481,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7512,9 +7517,9 @@
       "ID": "19",
       "SetID": "3aa2279",
       "Name": "The Creator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 33
     },
     {
       "ID": "2",
@@ -7816,9 +7821,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "50",
@@ -7913,13 +7918,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5480,
+      "Progressed": 5481,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5480,
+      "Progressed": 5481,
       "Completed": 7
     }
   ],
@@ -7927,8 +7932,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:06:18.2832219+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:06:35.0661889+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:57:21.0813315+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:06:18.2833068+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:57:32.367632+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:06:35.0662598+00:00"
 }

@@ -1,10 +1,10 @@
 # Aimlabs
 [Store](https://store.epicgames.com/en-US/p/aimlabs)  
 [View Rawdata](../../db/a/aimlabs.json)  
-Rating: 4.61 (Ranked 382)  
+Rating: 4.62 (Ranked 364)  
 ## Awards
 Max (Great for Quick Sessions): 57  (Ranked 418)  
-Sum: 374 (Ranked 348)  
+Sum: 375 (Ranked 348)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 70
 | This game has Quickly Understood Controls | 34 |
 | This game has Amazing Storytelling | 28 |
 | This game has a Competitive Community | 27 |
-| This game has Amazing Characters | 20 |
+| This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -147,4 +147,4 @@ Diff (max vs sum): 70
 | 2023-11-21 | 4.61 | 57 | 348 |
 | 2023-11-22 | 4.61 | 57 | 368 |
 | 2023-11-24 | 4.62 | 57 | 372 |
-| 2023-11-25 | 4.61 | 57 | 374 |
+| 2023-11-25 | 4.62 | 57 | 375 |

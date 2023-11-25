@@ -2,12 +2,12 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 382,
+  "Ranking_Rating": 364,
   "Ranking_Popularity": 418,
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:50.8966306+00:00",
@@ -1201,10 +1201,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 374,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-11-25T15:58:11.6858571+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 375,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 374,
+  "NumberOfAwards": 375,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1266,7 +1272,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -1281,8 +1287,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-11-25T05:57:48.8606201+00:00",
+  "LastChanged": "2023-11-25T15:58:11.6858569+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.159456+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:57:59.0873384+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:04:40.6584729+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:58:11.6858574+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:04:54.5792729+00:00"
 }

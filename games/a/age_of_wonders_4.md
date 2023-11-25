@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 382)  
+Rating: 4.61 (Ranked 383)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,6 +23,7 @@ Rating: 4.61 (Ranked 382)
 | Intimidation Tactics | 1.00% | ~55 |
 | Here be Dragons | 1.00% | ~55 |
 | Tipping the Scales | 1.00% | ~55 |
+| Mighty Hoard | 1.00% | ~55 |
 | Sehiran Oasis | 1.00% | ~55 |
 | Chaos Surge | 1.00% | ~55 |
 | Seal the Deal | 1.00% | ~55 |
@@ -32,7 +33,6 @@ Rating: 4.61 (Ranked 382)
 | Digging for Treasure | 0.90% | ~49 |
 | Fiery Friend | 0.90% | ~49 |
 | Impenetrable Fortress | 0.90% | ~49 |
-| Mighty Hoard | 0.90% | ~49 |
 | Dawn of the Dread | 0.90% | ~49 |
 | My Final Form | 0.80% | ~44 |
 | Preparation Is Everything | 0.70% | ~38 |
@@ -40,8 +40,8 @@ Rating: 4.61 (Ranked 382)
 | Prometheus Avenged | 0.70% | ~38 |
 | A Conqueror's Cohort | 0.70% | ~38 |
 | Arch Mage | 0.60% | ~33 |
+| The Creator | 0.60% | ~33 |
 | Crimson Caldera | 0.60% | ~33 |
-| The Creator | 0.50% | ~27 |
 | I've Got Everything I Need Right Here | 0.40% | ~22 |
 | God Emperor | 0.40% | ~22 |
 | Lord of Chaos | 0.40% | ~22 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 382)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,480 (Ranked 189)  
+Progressed: 5,481 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 7 (0.13%) (Ranked 272)
 | 2023-11-22 | 5,428 | 7 |
 | 2023-11-23 | 5,446 | 7 |
 | 2023-11-24 | 5,463 | 7 |
-| 2023-11-25 | 5,480 | 7 |
+| 2023-11-25 | 5,481 | 7 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 480)  
 Sum: 60 (Ranked 476)  

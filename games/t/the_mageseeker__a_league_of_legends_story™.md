@@ -5,61 +5,61 @@ Rating: 4.82 (Ranked 67)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,543 |
-| No more cages! | 92.00% | ~2,437 |
-| Everfrost | 79.00% | ~2,093 |
-| Pentakill | 78.00% | ~2,066 |
-| Dark Forest | 78.00% | ~2,066 |
-| The use of petricite | 75.00% | ~1,987 |
-| You can pet the dog | 62.00% | ~1,642 |
-| Big Helmet Bro | 39.00% | ~1,033 |
-| Thornbarrow | 39.00% | ~1,033 |
-| Clarion Cove | 39.00% | ~1,033 |
-| Elemental master | 37.00% | ~980 |
-| Past trauma | 37.00% | ~980 |
-| Ternmoat Headquarters | 37.00% | ~980 |
+| For Demacia | 96.00% | ~2,545 |
+| No more cages! | 92.00% | ~2,439 |
+| Everfrost | 79.00% | ~2,094 |
+| Pentakill | 78.00% | ~2,068 |
+| Dark Forest | 78.00% | ~2,068 |
+| The use of petricite | 75.00% | ~1,988 |
+| You can pet the dog | 62.00% | ~1,644 |
+| Big Helmet Bro | 39.00% | ~1,034 |
+| Thornbarrow | 39.00% | ~1,034 |
+| Clarion Cove | 39.00% | ~1,034 |
+| Elemental master | 37.00% | ~981 |
+| Past trauma | 37.00% | ~981 |
+| Ternmoat Headquarters | 37.00% | ~981 |
 | Cypress Glen Headquarters | 34.00% | ~901 |
-| Petricite Burst | 33.00% | ~874 |
-| Hijack | 31.00% | ~821 |
-| Old friend | 31.00% | ~821 |
+| Petricite Burst | 33.00% | ~875 |
+| Hijack | 31.00% | ~822 |
+| Old friend | 31.00% | ~822 |
 | Devineur | 30.00% | ~795 |
 | Whispers in the Woods I | 28.00% | ~742 |
-| Ancient power | 27.00% | ~715 |
+| Ancient power | 27.00% | ~716 |
 | I chose my shackles | 26.00% | ~689 |
-| Sacred Woods | 25.00% | ~662 |
+| Sacred Woods | 25.00% | ~663 |
 | Capelworth | 24.00% | ~636 |
-| Little light | 23.00% | ~609 |
-| Full equipped | 23.00% | ~609 |
+| Little light | 23.00% | ~610 |
+| Iffighain Headquarters | 23.00% | ~610 |
+| Full equipped | 23.00% | ~610 |
 | Glyndemere | 22.00% | ~583 |
-| Iffighain Headquarters | 22.00% | ~583 |
-| Whispers in the Woods II | 19.00% | ~503 |
-| Quickmoore Headquarters | 19.00% | ~503 |
+| Whispers in the Woods II | 19.00% | ~504 |
+| Quickmoore Headquarters | 19.00% | ~504 |
 | No more holding back | 18.00% | ~477 |
 | Terbisia | 18.00% | ~477 |
-| Whispers in the Woods III | 17.00% | ~450 |
-| Friendly fire | 17.00% | ~450 |
-| True power | 17.00% | ~450 |
-| Meltridge | 17.00% | ~450 |
-| The Central Headquarters | 17.00% | ~450 |
+| Whispers in the Woods III | 17.00% | ~451 |
+| Friendly fire | 17.00% | ~451 |
+| True power | 17.00% | ~451 |
+| Meltridge | 17.00% | ~451 |
+| The Central Headquarters | 17.00% | ~451 |
 | My heart and sword always for Demacia | 16.00% | ~424 |
 | Cloven Dell Headquarters | 16.00% | ~424 |
 | Embrace the darkness | 14.00% | ~371 |
 | Whispers in the Woods IV | 14.00% | ~371 |
 | I smell fear | 14.00% | ~371 |
-| The end of the experiments | 13.00% | ~344 |
-| The Great City of Demacia | 13.00% | ~344 |
-| Truth is a dark mirror | 13.00% | ~344 |
-| Call it 'redistribution of magic | 13.00% | ~344 |
+| The end of the experiments | 13.00% | ~345 |
+| The Great City of Demacia | 13.00% | ~345 |
+| Truth is a dark mirror | 13.00% | ~345 |
+| Call it 'redistribution of magic | 13.00% | ~345 |
 | Do you trust me? | 12.00% | ~318 |
 | Back to sleep, then... | 12.00% | ~318 |
-| Chains master | 11.00% | ~291 |
-| The great mage rebellion starts now | 11.00% | ~291 |
-| You can pet the... horse | 11.00% | ~291 |
+| Chains master | 11.00% | ~292 |
+| The great mage rebellion starts now | 11.00% | ~292 |
+| You can pet the... horse | 11.00% | ~292 |
 | Spellcrafting | 10.00% | ~265 |
 | Silverwing nest | 2.00% | ~53 |
-| The Unshackled | 1.00% | ~26 |
+| The Unshackled | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,649 (Ranked 215)  
+Progressed: 2,651 (Ranked 215)  
 Completed: 16 (0.60%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 16 (0.60%) (Ranked 189)
 | 2023-11-22 | 2,639 | 16 |
 | 2023-11-23 | 2,644 | 16 |
 | 2023-11-24 | 2,648 | 16 |
-| 2023-11-25 | 2,649 | 16 |
+| 2023-11-25 | 2,651 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

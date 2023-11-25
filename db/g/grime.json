@@ -3,7 +3,7 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 444,
-  "Ranking_Popularity": 424,
+  "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 360,
@@ -1493,11 +1493,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 385,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-11-25T15:59:14.682118+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 386,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 385,
-  "NumberOfAwardsMax": 53,
+  "NumberOfAwards": 386,
+  "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1510,7 +1516,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1555,9 +1561,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160023,
+  "EOS_Progressed": 160035,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1130,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17020,6 +17026,11 @@
       "Time": "2023-11-25T15:05:40.244827+00:00",
       "NumProgressed": 160023,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T16:05:56.3060168+00:00",
+      "NumProgressed": 160035,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17095,7 +17106,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8002
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -17151,7 +17162,7 @@
       "Name": "Host",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -17167,7 +17178,7 @@
       "Name": "Harmless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -17223,7 +17234,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -17231,7 +17242,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -17247,7 +17258,7 @@
       "Name": "Imprint",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9601
+      "UsersEstimate": 9602
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -17261,9 +17272,9 @@
       "ID": "MISC_ENDING_PROPER",
       "SetID": "ccc0dlh",
       "Name": "Kinship",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 480
+      "UsersEstimate": 640
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -17287,7 +17298,7 @@
       "Name": "Yank",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -17295,7 +17306,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -17398,21 +17409,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159606,
+      "Progressed": 159618,
       "Completed": 1223
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160023,
+      "Progressed": 160035,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-25T14:59:02.0832717+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:05:40.2448266+00:00",
+  "LastChanged": "2023-11-25T15:59:14.6821178+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:05:56.3060165+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:59:02.0832723+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:05:40.2449443+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:59:14.6821183+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:05:56.3061321+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4336,
+  "EOS_Progressed": 4337,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7655,6 +7655,11 @@
       "Time": "2023-11-25T15:03:30.8202228+00:00",
       "NumProgressed": 4336,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T16:03:44.3074173+00:00",
+      "NumProgressed": 4337,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7674,7 +7679,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "Ach003",
@@ -7842,7 +7847,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "Ach024",
@@ -7856,9 +7861,9 @@
       "ID": "Ach025",
       "SetID": "12n4k20",
       "Name": "You got this, Peppermint?",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 607
     },
     {
       "ID": "Ach026",
@@ -8034,15 +8039,15 @@
       "Name": "Who put gears in there?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 564
     },
     {
       "ID": "Ach049",
@@ -8233,13 +8238,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4336,
+      "Progressed": 4337,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2857,
+      "Progressed": 2858,
       "Completed": 1930
     }
   ],
@@ -8247,8 +8252,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:03:30.8202225+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:03:44.3074172+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:59:52.7059899+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:03:30.8203688+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:00:05.5181544+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:03:44.3075165+00:00"
 }

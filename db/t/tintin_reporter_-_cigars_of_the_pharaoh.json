@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement10",
@@ -347,9 +347,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement20",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:03:47.9672594+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:04:01.8313163+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:59:48.1206971+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:03:47.9672856+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:00:00.9730218+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:04:01.8313428+00:00"
 }

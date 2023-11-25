@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -1366,9 +1366,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 255
     },
     {
       "ID": "AnthropicHills",
@@ -1582,9 +1582,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 195
     },
     {
       "ID": "NewBeginning",
@@ -1606,17 +1606,17 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 79
     },
     {
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 274
     },
     {
       "ID": "Persistent",
@@ -1670,9 +1670,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 122
     },
     {
       "ID": "SingleRod",
@@ -1742,9 +1742,9 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TheSpark",
@@ -1839,8 +1839,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-25T01:43:33.0435871+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:05:45.8499617+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:06:01.9298142+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:02:35.113821+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:05:45.8500029+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:02:46.2035645+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:06:01.9298556+00:00"
 }

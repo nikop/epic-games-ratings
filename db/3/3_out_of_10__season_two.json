@@ -2,12 +2,12 @@
   "ID": "b829cfd910554ad3ad2eb3b314e2b1ef",
   "Name": "3 out of 10: Season Two",
   "ProductSlug": "3-out-of-10-season-2",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-04-08T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "NumberOfRatings": 52,
   "RatingHistory": [
     {
@@ -215,6 +215,12 @@
       "Rating": 4.31,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-25T16:02:57.06162+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -232,8 +238,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.8158493+00:00",
-  "LastChanged": "2023-03-31T05:57:46.1919527+00:00",
+  "LastChanged": "2023-11-25T16:02:57.0616199+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.9623747+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:02:45.470426+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:08:25.9785824+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:02:57.0616203+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:08:23.7881487+00:00"
 }

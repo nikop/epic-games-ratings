@@ -5,15 +5,15 @@ Rating: 4.68 (Ranked 253)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,542 |
-| On the Top Step | 88.00% | ~5,188 |
-| Setting up for Success | 77.00% | ~4,540 |
-| Team Orders | 75.00% | ~4,422 |
+| Getting on the Step | 94.00% | ~5,543 |
+| On the Top Step | 88.00% | ~5,189 |
+| Setting up for Success | 77.00% | ~4,541 |
+| Team Orders | 75.00% | ~4,423 |
 | Engineer | 55.00% | ~3,243 |
-| Familiar Faces | 48.00% | ~2,830 |
-| Sharing the Love | 43.00% | ~2,535 |
-| Going the Extra Mile | 42.00% | ~2,476 |
-| Hitting a Season | 39.00% | ~2,299 |
+| Familiar Faces | 48.00% | ~2,831 |
+| Sharing the Love | 43.00% | ~2,536 |
+| Going the Extra Mile | 42.00% | ~2,477 |
+| Hitting a Season | 39.00% | ~2,300 |
 | A Dozen Pieces | 33.00% | ~1,946 |
 | Challenge Yourself | 33.00% | ~1,946 |
 | Making History | 31.00% | ~1,828 |
@@ -26,13 +26,13 @@ Rating: 4.68 (Ranked 253)
 | Reuse | 17.00% | ~1,002 |
 | One for the Book | 17.00% | ~1,002 |
 | Proving Them Wrong | 17.00% | ~1,002 |
-| Gathering Dust | 16.00% | ~943 |
-| Oil and Water | 15.00% | ~884 |
-| Hitting a Bullseye | 14.00% | ~825 |
-| Eagle Eye | 13.00% | ~766 |
-| Lightning Round the World | 13.00% | ~766 |
-| Switcheroo | 13.00% | ~766 |
-| Spinning Around | 13.00% | ~766 |
+| Gathering Dust | 16.00% | ~944 |
+| Oil and Water | 15.00% | ~885 |
+| Hitting a Bullseye | 14.00% | ~826 |
+| Eagle Eye | 13.00% | ~767 |
+| Lightning Round the World | 13.00% | ~767 |
+| Switcheroo | 13.00% | ~767 |
+| Spinning Around | 13.00% | ~767 |
 | All in a Weekend's Work | 12.00% | ~708 |
 | Friendly Competition | 12.00% | ~708 |
 | Recycle | 12.00% | ~708 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 253)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,896 (Ranked 186)  
+Progressed: 5,897 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 5,863 | 0 |
 | 2023-11-23 | 5,876 | 0 |
 | 2023-11-24 | 5,892 | 0 |
-| 2023-11-25 | 5,896 | 0 |
+| 2023-11-25 | 5,897 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 525)  
 Sum: 89 (Ranked 456)  

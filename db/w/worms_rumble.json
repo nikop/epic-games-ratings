@@ -4,7 +4,7 @@
   "ProductSlug": "worms-rumble",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-06-23T18:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.8589946+00:00",
   "LastChanged": "2023-03-31T05:57:08.8589947+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:00.8516028+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:02:28.9795799+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:06:57.47053+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:02:40.3256904+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:07:15.0255879+00:00"
 }

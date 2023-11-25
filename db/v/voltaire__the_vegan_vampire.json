@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -309,9 +309,9 @@
       "ID": "GLOWBUG",
       "SetID": "3c20ib3",
       "Name": "Shine bright",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "GRAVEYARD",
@@ -502,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:07:18.49374+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:07:36.393986+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:11.6895094+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:59:49.5989481+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:07:18.4937568+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:00:02.4345506+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:07:36.3940096+00:00"
 }

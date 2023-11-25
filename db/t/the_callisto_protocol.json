@@ -1505,9 +1505,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 16478,
+  "EOS_Progressed": 16479,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9165,6 +9165,11 @@
       "Time": "2023-11-24T20:04:49.4094587+00:00",
       "NumProgressed": 16478,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-25T16:06:15.3291202+00:00",
+      "NumProgressed": 16479,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 47,
@@ -9304,7 +9309,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "KILL_ROBOT",
@@ -9336,7 +9341,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9368,7 +9373,7 @@
       "Name": "The Outer Way",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "STORY_ESCAPE",
@@ -9551,13 +9556,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16478,
+      "Progressed": 16479,
       "Completed": 80
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4404,
+      "Progressed": 4405,
       "Completed": 29
     }
   ],
@@ -9565,8 +9570,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-23T22:02:44.1261785+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:05:58.9662615+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:06:15.3291198+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:43.3850362+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:03:02.4164765+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:05:58.9663193+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:03:13.944961+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:06:15.3291871+00:00"
 }

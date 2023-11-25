@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1168,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
@@ -2572,9 +2572,9 @@
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 85,
-      "UsersEstimate": 689
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2611,8 +2611,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:09:35.8757067+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:09:34.9414643+00:00",
   "LastUpdate_AppInfo": "2023-11-24T16:56:56.882422+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:02:43.6626277+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:09:35.8757282+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:02:55.2738282+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:09:34.9414848+00:00"
 }

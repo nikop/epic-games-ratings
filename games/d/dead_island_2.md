@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,509 |
-| Hotel California | 2.00% | ~14,495 |
-| Welcome To Hell-A | 2.00% | ~14,495 |
-| One of Us | 2.00% | ~1,006 |
-| Pork Chopped | 2.00% | ~1,006 |
+| Whatever It Takes | 3.00% | ~1,510 |
+| Hotel California | 2.00% | ~14,496 |
+| Welcome To Hell-A | 2.00% | ~14,496 |
+| One of Us | 2.00% | ~1,007 |
+| Pork Chopped | 2.00% | ~1,007 |
 | Dr. Reed, I Presume? | 1.00% | ~7,248 |
 | Git Gutte! | 1.00% | ~7,248 |
 | Anger Management | 1.00% | ~7,248 |
@@ -33,9 +33,9 @@ Rating: 4.54 (Ranked 527)
 | Ooh, Shiny! | 0.90% | ~6,523 |
 | Our True Nature | 0.90% | ~6,523 |
 | I Am the Resurrection | 0.80% | ~5,798 |
-| Making Your Mark | 0.70% | ~5,073 |
-| Humanity Distilled | 0.70% | ~5,073 |
-| Max Headroom | 0.70% | ~5,073 |
+| Making Your Mark | 0.70% | ~5,074 |
+| Humanity Distilled | 0.70% | ~5,074 |
+| Max Headroom | 0.70% | ~5,074 |
 | Not Even My Final Form | 0.60% | ~4,349 |
 | Down with the Sickness | 0.60% | ~4,349 |
 | Jumbo Keyring | 0.50% | ~3,624 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~725 |
 | Wilhelm | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,755 (Ranked 21)  
+Progressed: 724,805 (Ranked 21)  
 Completed: 2,435 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,10 +276,10 @@ Completed: 2,435 (0.34%) (Ranked 229)
 | 2023-11-22 | 722,778 | 2,425 |
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
-| 2023-11-25 | 724,755 | 2,435 |
+| 2023-11-25 | 724,805 | 2,435 |
 ## Awards
 Max (Great Boss Battles): 7,712  (Ranked 50)  
-Sum: 11,791 (Ranked 83)  
+Sum: 11,795 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -288,7 +288,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 564 |
 | This game has Quickly Understood Controls | 530 |
 | This game is Relaxing | 510 |
-| This game has Amazing Storytelling | 490 |
+| This game has Amazing Storytelling | 494 |
 | This game is Highly Recommended | 477 |
 | This game is Extremely Fun | 477 |
 | This game has Amazing Characters | 438 |
@@ -513,4 +513,4 @@ Diff (max vs sum): -33
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
-| 2023-11-25 | 4.54 | 7,712 | 11,791 |
+| 2023-11-25 | 4.54 | 7,712 | 11,795 |

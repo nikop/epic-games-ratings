@@ -2,12 +2,12 @@
   "ID": "e04dd85a41d740ac972df346afd913a6",
   "Name": "Guild of Dungeoneering Ultimate Edition",
   "ProductSlug": "guild-of-dungeoneering-ultimate-edition",
-  "Ranking_Rating": 382,
+  "Ranking_Rating": 383,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-11-18T16:00:00+00:00",
@@ -128,8 +128,8 @@
   "FirstSeenRating": "2022-10-01T01:33:21.6676401+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.4032187+00:00",
   "LastChanged": "2023-09-22T05:01:43.0757884+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:03:47.2819472+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:04:01.0868999+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:19.362312+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:59:53.2457228+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:03:47.2819513+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:00:06.0449527+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:04:01.0869039+00:00"
 }

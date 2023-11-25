@@ -4,7 +4,7 @@
   "ProductSlug": "wytchwood",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-12-09T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.8921188+00:00",
   "LastChanged": "2023-03-31T05:58:43.8921189+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:57.359586+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:00:46.4589751+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:03:29.0904177+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:00:57.3878194+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:03:42.583292+00:00"
 }

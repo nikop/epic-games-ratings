@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79135,
+  "EOS_Progressed": 79137,
   "EOS_Completed": 852,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24587,6 +24587,11 @@
       "Time": "2023-11-25T15:08:24.0798725+00:00",
       "NumProgressed": 79135,
       "NumCompleted": 852
+    },
+    {
+      "Time": "2023-11-25T16:08:21.9347722+00:00",
+      "NumProgressed": 79137,
+      "NumCompleted": 852
     }
   ],
   "TotalAchievements": 25,
@@ -24638,7 +24643,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14244
+      "UsersEstimate": 14245
     },
     {
       "ID": "Butcher",
@@ -24702,7 +24707,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16618
+      "UsersEstimate": 16619
     },
     {
       "ID": "Meaty",
@@ -24734,7 +24739,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5539
+      "UsersEstimate": 5540
     },
     {
       "ID": "Piano Man",
@@ -24758,7 +24763,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5539
+      "UsersEstimate": 5540
     },
     {
       "ID": "Spicy",
@@ -24797,7 +24802,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79135,
+      "Progressed": 79137,
       "Completed": 852
     }
   ],
@@ -24805,8 +24810,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:08:24.0798721+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:08:21.934772+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:58:16.1721068+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:08:24.0799996+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:58:28.7695292+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:08:21.9348687+00:00"
 }

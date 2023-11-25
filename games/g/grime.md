@@ -6,16 +6,16 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 6.00% | ~9,601 |
-| Taste | 5.00% | ~8,001 |
+| Imprint | 6.00% | ~9,602 |
+| Taste | 5.00% | ~8,002 |
 | The Hunt | 4.00% | ~6,401 |
 | Ravenous | 4.00% | ~6,401 |
 | Weeper | 3.00% | ~4,801 |
-| Harmless | 2.00% | ~3,200 |
-| Silenced Whispers | 2.00% | ~3,200 |
-| Devourer | 2.00% | ~3,200 |
-| Yank | 2.00% | ~3,200 |
-| Sharpened Vessel | 2.00% | ~3,200 |
+| Harmless | 2.00% | ~3,201 |
+| Silenced Whispers | 2.00% | ~3,201 |
+| Devourer | 2.00% | ~3,201 |
+| Yank | 2.00% | ~3,201 |
+| Sharpened Vessel | 2.00% | ~3,201 |
 | Shapely | 1.00% | ~1,600 |
 | Scion | 1.00% | ~1,596 |
 | Glare | 1.00% | ~1,596 |
@@ -25,7 +25,7 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 1.00% | ~1,600 |
 | Predator | 1.00% | ~1,600 |
 | Assimilation | 0.90% | ~1,440 |
-| Host | 0.90% | ~1,436 |
+| Host | 0.90% | ~1,437 |
 | Celebration | 0.90% | ~1,440 |
 | Hunt Down | 0.70% | ~1,120 |
 | Inevitable | 0.70% | ~1,120 |
@@ -39,9 +39,9 @@ Number of Ratings: 46  (23.09.2022)
 | Passage | 0.50% | ~800 |
 | Bloodhunter | 0.40% | ~640 |
 | Zygote | 0.40% | ~638 |
+| Kinship | 0.40% | ~640 |
 | Listen | 0.40% | ~638 |
 | Proportions | 0.40% | ~640 |
-| Kinship | 0.30% | ~480 |
 | Kin | 0.30% | ~479 |
 | Weakness | 0.20% | ~320 |
 | Generous | 0.20% | ~320 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~160 |
 | Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,023 (Ranked 78)  
+Progressed: 160,035 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,14 +249,14 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
 | 2023-11-24 | 159,888 | 1 |
-| 2023-11-25 | 160,023 | 1 |
+| 2023-11-25 | 160,035 | 1 |
 ## Awards
-Max (Highly Recommended): 53  (Ranked 424)  
-Sum: 385 (Ranked 346)  
-Diff (max vs sum): 78  
+Max (Highly Recommended): 54  (Ranked 423)  
+Sum: 386 (Ranked 346)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 53 |
+| This game is Highly Recommended | 54 |
 | This game has Unique Visuals | 53 |
 | This game has Quickly Understood Controls | 52 |
 | This game has Amazing Storytelling | 50 |
@@ -414,4 +414,4 @@ Diff (max vs sum): 78
 | 2023-11-21 | 4.59 | - | 52 | 376 |
 | 2023-11-22 | 4.59 | - | 53 | 379 |
 | 2023-11-23 | 4.58 | - | 53 | 380 |
-| 2023-11-25 | 4.58 | - | 53 | 385 |
+| 2023-11-25 | 4.58 | - | 54 | 386 |

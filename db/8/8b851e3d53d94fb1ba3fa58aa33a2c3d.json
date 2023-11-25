@@ -2,9 +2,9 @@
   "ID": "8b851e3d53d94fb1ba3fa58aa33a2c3d",
   "Name": "Palladium: Adventure in Greece",
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
-  "Ranking_EOS_Progress": 479,
-  "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.69,
+  "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
     {
       "Time": "2023-07-18T11:03:12.9192606+00:00",
@@ -324,6 +324,11 @@
       "Time": "2023-11-25T15:03:37.1229494+00:00",
       "NumProgressed": 59,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T16:03:50.7873635+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-14T20:01:12.8113067+00:00",
@@ -374,7 +379,7 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -382,7 +387,7 @@
       "ID": "APHRODITE",
       "SetID": "e4de54",
       "Name": "Aphrodite",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -398,7 +403,7 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -454,7 +459,7 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -462,7 +467,7 @@
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -478,7 +483,7 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -518,7 +523,7 @@
       "ID": "HEBE",
       "SetID": "e4de54",
       "Name": "Hebe",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -534,7 +539,7 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -560,7 +565,7 @@
       "Name": "Main menu",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "MEDUSA_GAZE",
@@ -638,7 +643,7 @@
       "ID": "STEALTH_MASTER",
       "SetID": "e4de54",
       "Name": "Stealth master",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -663,14 +668,14 @@
     {
       "ID": "e4de54",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:03:37.122949+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:03:50.7873633+00:00",
   "LastUpdate_AppInfo": "2023-11-25T06:57:20.100659+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:59:09.1448313+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:03:37.1229764+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:59:21.6847779+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:03:50.787384+00:00"
 }

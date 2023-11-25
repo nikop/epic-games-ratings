@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15498,
+  "EOS_Progressed": 15506,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12228,6 +12228,11 @@
       "Time": "2023-11-25T15:06:22.1444076+00:00",
       "NumProgressed": 15498,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-25T16:06:38.9546983+00:00",
+      "NumProgressed": 15506,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12248,7 +12253,7 @@
       "Name": "Data Miner",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "11",
@@ -12272,7 +12277,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "14",
@@ -12400,7 +12405,7 @@
       "Name": "Scavenger Star",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "29",
@@ -12408,7 +12413,7 @@
       "Name": "Data Collector",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "3",
@@ -12424,15 +12429,15 @@
       "Name": "No Belter Left Behind",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 124
     },
     {
       "ID": "5",
@@ -12464,7 +12469,7 @@
       "Name": "Data Recoverer",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "9",
@@ -12519,13 +12524,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15498,
+      "Progressed": 15506,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1452,
+      "Progressed": 1460,
       "Completed": 711
     }
   ],
@@ -12533,8 +12538,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-24T17:57:32.8861451+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:06:22.1444071+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:06:38.954698+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:58:31.8542397+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:06:22.1444825+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:58:45.2570298+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:06:38.9547578+00:00"
 }

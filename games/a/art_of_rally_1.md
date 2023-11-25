@@ -6,10 +6,10 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,909 |
-| keep it tidy | 78.00% | ~8,051 |
-| podium | 72.00% | ~7,432 |
-| medium attack | 60.00% | ~6,193 |
+| light attack | 96.00% | ~9,910 |
+| keep it tidy | 78.00% | ~8,052 |
+| podium | 72.00% | ~7,433 |
+| medium attack | 60.00% | ~6,194 |
 | brail | 57.00% | ~5,884 |
 | good drivers have dead flies on the side windows | 44.00% | ~4,542 |
 | grocery-getter | 40.00% | ~4,129 |
@@ -18,8 +18,8 @@ Number of Ratings: 56  (23.09.2022)
 | autopilot | 22.00% | ~2,271 |
 | you can't treat a car like a human being. a car requires love | 22.00% | ~2,271 |
 | to finish first, first you must finish | 21.00% | ~2,168 |
-| turbo | 20.00% | ~2,064 |
-| food tour: pretzel | 20.00% | ~2,064 |
+| turbo | 20.00% | ~2,065 |
+| food tour: pretzel | 20.00% | ~2,065 |
 | bicycle race | 15.00% | ~1,548 |
 | car wash | 15.00% | ~1,548 |
 | monster | 14.00% | ~1,445 |
@@ -28,7 +28,7 @@ Number of Ratings: 56  (23.09.2022)
 | snorkel | 14.00% | ~1,445 |
 | perkele | 13.00% | ~1,342 |
 | where is the stage? | 13.00% | ~1,342 |
-| maximum attack | 11.00% | ~1,135 |
+| maximum attack | 11.00% | ~1,136 |
 | espresso | 10.00% | ~1,032 |
 | parallel universe | 10.00% | ~1,032 |
 | mittens | 8.00% | ~826 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,322 (Ranked 163)  
+Progressed: 10,323 (Ranked 163)  
 Completed: 9 (0.09%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 9 (0.09%) (Ranked 289)
 | 2023-11-22 | 10,317 | 9 |
 | 2023-11-23 | 10,319 | 9 |
 | 2023-11-24 | 10,320 | 9 |
-| 2023-11-25 | 10,322 | 9 |
+| 2023-11-25 | 10,323 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

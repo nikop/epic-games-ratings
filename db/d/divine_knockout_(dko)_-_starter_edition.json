@@ -2,12 +2,12 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
   "ProductSlug": "divine-knockout",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 831,
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-29T11:00:00+00:00",
@@ -1626,6 +1626,6 @@
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
   "LastChanged": "2023-11-24T13:04:47.6706087+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:54.8043614+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:00:32.6277179+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:08:55.5176439+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:00:43.9018235+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:08:53.6769673+00:00"
 }

@@ -26,9 +26,9 @@ Number of Ratings: 94  (23.09.2022)
 | Variety Player - Gold | 0.50% | ~549 |
 | Challenge Master | 0.50% | ~549 |
 | Getting Equipped! | 0.40% | ~439 |
-| Getting Creative - Bronze | 0.30% | ~329 |
-| Reap the Rewards! | 0.30% | ~329 |
-| Grouping Up - Silver | 0.30% | ~329 |
+| Getting Creative - Bronze | 0.30% | ~330 |
+| Reap the Rewards! | 0.30% | ~330 |
+| Grouping Up - Silver | 0.30% | ~330 |
 | Standing on the Shoulders of Giants - Silver | 0.20% | ~220 |
 | Getting Creative - Silver | 0.20% | ~220 |
 | Featured Gamer - Bronze | 0.20% | ~220 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,833 (Ranked 86)  
+Progressed: 109,834 (Ranked 86)  
 Completed: 5 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 5 (0.00%) (Ranked 360)
 | 2023-11-22 | 109,824 | 5 |
 | 2023-11-23 | 109,827 | 5 |
 | 2023-11-24 | 109,830 | 5 |
-| 2023-11-25 | 109,833 | 5 |
+| 2023-11-25 | 109,834 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 436)  
 Sum: 370 (Ranked 350)  

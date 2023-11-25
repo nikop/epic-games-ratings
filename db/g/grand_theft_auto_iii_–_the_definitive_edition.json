@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -541,9 +541,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8653,
+  "EOS_Progressed": 8655,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -11396,6 +11396,11 @@
       "Time": "2023-11-25T11:05:24.5172366+00:00",
       "NumProgressed": 8653,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-11-25T16:05:17.5076171+00:00",
+      "NumProgressed": 8655,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 29,
@@ -11407,7 +11412,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7182
+      "UsersEstimate": 7184
     },
     {
       "ID": "ACH02",
@@ -11415,7 +11420,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "ACH03",
@@ -11431,7 +11436,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "ACH05",
@@ -11471,7 +11476,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH10",
@@ -11535,7 +11540,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACH18",
@@ -11543,7 +11548,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH19",
@@ -11599,7 +11604,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH26",
@@ -11638,7 +11643,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8653,
+      "Progressed": 8655,
       "Completed": 59
     }
   ],
@@ -11646,8 +11651,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-24T13:06:28.1547378+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:05:02.6867771+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:05:17.5076168+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.3385878+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:57:17.8340072+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:05:02.6868604+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:57:29.1409962+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:05:17.5076688+00:00"
 }

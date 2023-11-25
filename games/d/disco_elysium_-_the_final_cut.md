@@ -1,14 +1,14 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.87 (Ranked 23)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,737 |
-| Biggest Communism Builder | 24.00% | ~31,489 |
-| The World's Most Laughable Centrist | 21.00% | ~27,553 |
+| Goodest Of The Good Cops | 28.00% | ~36,738 |
+| Biggest Communism Builder | 24.00% | ~31,490 |
+| The World's Most Laughable Centrist | 21.00% | ~27,554 |
 | Il Coppo Del'Arte! | 18.00% | ~23,617 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,993 |
 | Hyperstellar Law Official | 16.00% | ~20,993 |
@@ -16,9 +16,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Gurdi-Ball Is Lit | 14.00% | ~18,369 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,057 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,433 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,120 |
-| Unbelievably Boring **** | 9.00% | ~11,808 |
-| Enemy Of The Physical Realm | 9.00% | ~11,808 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,121 |
+| Unbelievably Boring **** | 9.00% | ~11,809 |
+| Enemy Of The Physical Realm | 9.00% | ~11,809 |
 | Hardie's Heroes | 6.00% | ~7,872 |
 | The Lawbringer | 4.00% | ~5,248 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,248 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,205 (Ranked 83)  
+Progressed: 131,208 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 28 (0.02%) (Ranked 331)
 | 2023-11-22 | 131,081 | 28 |
 | 2023-11-23 | 131,117 | 28 |
 | 2023-11-24 | 131,166 | 28 |
-| 2023-11-25 | 131,205 | 28 |
+| 2023-11-25 | 131,208 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 179)  
 Sum: 1,125 (Ranked 253)  

@@ -1,17 +1,17 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 791)  
+Rating: 4.35 (Ranked 792)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 41.00% | ~5,605 |
-| It's a good start | 10.00% | ~1,367 |
+| Bye Bye | 41.00% | ~5,608 |
+| It's a good start | 10.00% | ~1,368 |
 | Bonjour! | 8.00% | ~1,094 |
 | Quack | 8.00% | ~1,094 |
-| The Assistant | 6.00% | ~820 |
-| The Blue Marl | 6.00% | ~820 |
+| The Assistant | 6.00% | ~821 |
+| The Blue Marl | 6.00% | ~821 |
 | Ostinata | 5.00% | ~684 |
 | Better than nothing? | 5.00% | ~684 |
 | A long journey | 4.00% | ~547 |
@@ -19,14 +19,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~410 |
 | Surprise of Langhe | 3.00% | ~410 |
 | Famous | 3.00% | ~410 |
-| What is that? A castle? | 2.00% | ~273 |
-| A lot of space | 2.00% | ~273 |
-| A big garage | 2.00% | ~273 |
-| Millionaire | 2.00% | ~273 |
-| Exotic | 2.00% | ~273 |
-| Pastry Chef | 2.00% | ~273 |
-| Welcome to the club | 2.00% | ~273 |
-| Very Important Winemaker | 2.00% | ~273 |
+| What is that? A castle? | 2.00% | ~274 |
+| A lot of space | 2.00% | ~274 |
+| A big garage | 2.00% | ~274 |
+| Millionaire | 2.00% | ~274 |
+| Exotic | 2.00% | ~274 |
+| Pastry Chef | 2.00% | ~274 |
+| Welcome to the club | 2.00% | ~274 |
+| Very Important Winemaker | 2.00% | ~274 |
 | King of Langhe | 1.00% | ~137 |
 | Gem of Monferrato | 1.00% | ~137 |
 | Treasure of Roero | 0.70% | ~96 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~14 |
 | Master Winemaker | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,671 (Ranked 156)  
+Progressed: 13,679 (Ranked 156)  
 Completed: 12 (0.09%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 12 (0.09%) (Ranked 289)
 | 2023-11-22 | 13,364 | 12 |
 | 2023-11-23 | 13,485 | 12 |
 | 2023-11-24 | 13,589 | 12 |
-| 2023-11-25 | 13,671 | 12 |
+| 2023-11-25 | 13,679 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 285)  
 Sum: 1,729 (Ranked 221)  

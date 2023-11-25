@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109833,
+  "EOS_Progressed": 109834,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3282,6 +3282,11 @@
       "Time": "2023-11-25T12:08:50.9862933+00:00",
       "NumProgressed": 109833,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-25T16:09:11.9753483+00:00",
+      "NumProgressed": 109834,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3341,7 +3346,7 @@
       "Name": "Getting Creative - Bronze",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "16",
@@ -3381,7 +3386,7 @@
       "Name": "Reap the Rewards!",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "20",
@@ -3405,7 +3410,7 @@
       "Name": "Grouping Up - Silver",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "23",
@@ -3564,15 +3569,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109833,
+      "Progressed": 109834,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:09:13.1657335+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:09:11.9753477+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.2838592+00:00",
-  "LastUpdate_Ratings": "2023-11-25T15:00:03.2965359+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:09:13.165765+00:00"
+  "LastUpdate_Ratings": "2023-11-25T16:00:15.735978+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:09:11.9753776+00:00"
 }

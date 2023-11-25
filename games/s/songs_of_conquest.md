@@ -6,24 +6,24 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 29.00% | ~65 |
+| Adept | 29.00% | ~66 |
 | Double Kill | 23.00% | ~52 |
-| Critical Hit | 10.00% | ~22 |
+| Critical Hit | 10.00% | ~23 |
 | Veteran | 8.00% | ~18 |
 | Dressed For Success | 7.00% | ~16 |
 | Humiliation | 6.00% | ~14 |
+| Sorcerous Spree | 5.00% | ~11 |
 | Veni, Vidi, Vici | 5.00% | ~11 |
-| Sorcerous Spree | 4.00% | ~9 |
 | Multi Kill | 3.00% | ~7 |
 | Whoops! | 3.00% | ~7 |
-| This Spot's Taken | 2.00% | ~4 |
-| Such A Fungi | 2.00% | ~4 |
-| Master | 2.00% | ~4 |
-| Expert Essence Employment | 2.00% | ~4 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~4 |
+| Master | 3.00% | ~7 |
+| This Spot's Taken | 2.00% | ~5 |
+| Such A Fungi | 2.00% | ~5 |
+| Expert Essence Employment | 2.00% | ~5 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~5 |
+| The Song of Stoutheart | 1.00% | ~2 |
 | Infernal Influence | 1.00% | ~2 |
 | Trojan Horse | 1.00% | ~2 |
-| The Song of Stoutheart | 0.90% | ~2 |
 | Death To Diplomacy | 0.90% | ~2 |
 | Versatile Wielder | 0.90% | ~2 |
 | Coming Through! | 0.90% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 378)  
+Progressed: 227 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 183 | 0 |
 | 2023-11-23 | 198 | 0 |
 | 2023-11-24 | 212 | 0 |
-| 2023-11-25 | 225 | 0 |
+| 2023-11-25 | 227 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 510)  
 Sum: 194 (Ranked 404)  

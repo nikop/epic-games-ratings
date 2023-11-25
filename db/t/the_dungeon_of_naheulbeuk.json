@@ -1389,9 +1389,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239494,
+  "EOS_Progressed": 239507,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1572,
+  "EOS_NewPlayers": 1568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19899,6 +19899,11 @@
       "Time": "2023-11-25T15:09:19.2742941+00:00",
       "NumProgressed": 239494,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T16:09:18.3076401+00:00",
+      "NumProgressed": 239507,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19918,7 +19923,7 @@
       "Name": "Cursed die",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "AllSideQuest",
@@ -19950,7 +19955,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "Chapter1",
@@ -20030,7 +20035,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "CompanionMinstrel",
@@ -20046,7 +20051,7 @@
       "Name": "The number of the counting shalt be 7",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "CompanionPaladine",
@@ -20070,7 +20075,7 @@
       "Name": "Necrophilia",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC1ChooseVampire",
@@ -20086,7 +20091,7 @@
       "Name": "He\u2019s alive! Aliiiive!",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC2EndGame",
@@ -20094,7 +20099,7 @@
       "Name": "Restless night",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC2LegendaryIronman",
@@ -20102,7 +20107,7 @@
       "Name": "King of the Arena",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC2NoDwarfElf",
@@ -20110,7 +20115,7 @@
       "Name": "Finally free",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC2NoShopping",
@@ -20118,7 +20123,7 @@
       "Name": "Hoarding",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC2SmallParty",
@@ -20126,7 +20131,7 @@
       "Name": "Staff cut",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3AllLegendaryDrink",
@@ -20134,7 +20139,7 @@
       "Name": "Legendary brew",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3AllLegendaryWeapons",
@@ -20142,7 +20147,7 @@
       "Name": "Elite Adventurers",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3AllSideQuests",
@@ -20150,7 +20155,7 @@
       "Name": "Take your time back in time",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3BigBrain",
@@ -20158,7 +20163,7 @@
       "Name": "Egghead",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3Chapter11",
@@ -20182,7 +20187,7 @@
       "Name": "Deep changes",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3Chapter14",
@@ -20190,7 +20195,7 @@
       "Name": "A broken clock\u2026",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3DifficultyLegendaryIronman",
@@ -20198,7 +20203,7 @@
       "Name": "Sleep schedule mastery",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3DungeonThemeElf",
@@ -20206,7 +20211,7 @@
       "Name": "Cute Dungeon",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3DungeonThemeMagic",
@@ -20214,7 +20219,7 @@
       "Name": "Mystical Dungeon",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3DungeonThemeNecro",
@@ -20222,7 +20227,7 @@
       "Name": "Gloomy Dungeon",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3RangerAgentX15Support",
@@ -20230,7 +20235,7 @@
       "Name": "Power struggle",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3Sleep10Enemies",
@@ -20238,7 +20243,7 @@
       "Name": "Hit snooze",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DLC3TeamLevel16",
@@ -20246,7 +20251,7 @@
       "Name": "Living legends of the Lands of Fangh",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DifficultyHardcore",
@@ -20270,7 +20275,7 @@
       "Name": "Minmaxer",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DifficultyIronman",
@@ -20278,7 +20283,7 @@
       "Name": "Iron Golems Tamer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DifficultyLegendary",
@@ -20286,7 +20291,7 @@
       "Name": "And they lived happily ever after...",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DifficultyStory",
@@ -20310,7 +20315,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19160
+      "UsersEstimate": 19161
     },
     {
       "ID": "DwarfElf15Support",
@@ -20318,7 +20323,7 @@
       "Name": "Star-crossed lovers",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DwarfEpic",
@@ -20358,7 +20363,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83823
+      "UsersEstimate": 83827
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20366,7 +20371,7 @@
       "Name": "Pyrrhic victory",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "EndCombatNoDamage",
@@ -20406,7 +20411,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21554
+      "UsersEstimate": 21556
     },
     {
       "ID": "FollowBraztok",
@@ -20446,7 +20451,7 @@
       "Name": "We come in peace",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "MinistrelEpic",
@@ -20470,7 +20475,7 @@
       "Name": "Lord of the Drunks",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "PaladineEpic",
@@ -20486,7 +20491,7 @@
       "Name": "Inception",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "PriestessEpic",
@@ -20494,7 +20499,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "QuestEmile",
@@ -20574,7 +20579,7 @@
       "Name": "Dumb and dumber",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Team10Chiantos",
@@ -20582,7 +20587,7 @@
       "Name": "Dwarf Candy",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "TeamLevel10",
@@ -20613,21 +20618,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 239494,
+      "Progressed": 239507,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 239494,
+      "Progressed": 239507,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-23T22:59:47.2360206+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:09:19.2742937+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:09:18.3076397+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.8409819+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:57:05.979018+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:09:19.2744494+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:57:17.1060514+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:09:18.3077754+00:00"
 }

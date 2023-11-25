@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3346,
+  "EOS_Progressed": 3347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5863,6 +5863,11 @@
       "Time": "2023-11-25T15:03:23.9320422+00:00",
       "NumProgressed": 3346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T16:03:36.7962748+00:00",
+      "NumProgressed": 3347,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5938,7 +5943,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH_BASE_19",
@@ -5962,7 +5967,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ACH_BASE_22",
@@ -6066,7 +6071,7 @@
       "Name": "Fully Recycled",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_BASE_34",
@@ -6250,7 +6255,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_BASE_6",
@@ -6329,13 +6334,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1530,
+      "Progressed": 1531,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3346,
+      "Progressed": 3347,
       "Completed": 0
     }
   ],
@@ -6343,8 +6348,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-25T15:03:23.9320418+00:00",
+  "LastChanged_Achievements": "2023-11-25T16:03:36.7962744+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.7251955+00:00",
-  "LastUpdate_Ratings": "2023-11-25T14:57:24.2742036+00:00",
-  "LastUpdate_Achievements": "2023-11-25T15:03:23.9321805+00:00"
+  "LastUpdate_Ratings": "2023-11-25T15:57:35.4595185+00:00",
+  "LastUpdate_Achievements": "2023-11-25T16:03:36.7963898+00:00"
 }
