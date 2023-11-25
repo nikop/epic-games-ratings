@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trainee | 27.00% | ~4 |
-| City Link | 27.00% | ~4 |
-| Line Up | 20.00% | ~3 |
-| Steam Power | 20.00% | ~3 |
-| Task Apprentice | 20.00% | ~3 |
+| Trainee | 25.00% | ~4 |
+| City Link | 25.00% | ~4 |
+| Line Up | 19.00% | ~3 |
+| Steam Power | 19.00% | ~3 |
+| Task Apprentice | 19.00% | ~3 |
 | Billionaire Club | 13.00% | ~2 |
 | Full House | 13.00% | ~2 |
 | Speed Demon | 13.00% | ~2 |
@@ -18,19 +18,19 @@
 | Heavy Load | 13.00% | ~2 |
 | Industrial Revolution | 13.00% | ~2 |
 | Double Trouble | 13.00% | ~2 |
-| World Explorer | 7.00% | ~1 |
-| Diesel Dream | 7.00% | ~1 |
-| Modern Times | 7.00% | ~1 |
-| Money Train | 7.00% | ~1 |
-| Future Vision | 7.00% | ~1 |
-| Bridge Over Troubled Water | 7.00% | ~1 |
-| Cargo King | 7.00% | ~1 |
-| People Mover | 7.00% | ~1 |
-| Industrial Giant | 7.00% | ~1 |
-| Train Spotter | 7.00% | ~1 |
-| Mega Train | 7.00% | ~1 |
-| Crowd Pleaser | 7.00% | ~1 |
-| Line Master | 7.00% | ~1 |
+| World Explorer | 6.00% | ~1 |
+| Diesel Dream | 6.00% | ~1 |
+| Modern Times | 6.00% | ~1 |
+| Money Train | 6.00% | ~1 |
+| Future Vision | 6.00% | ~1 |
+| Bridge Over Troubled Water | 6.00% | ~1 |
+| Cargo King | 6.00% | ~1 |
+| People Mover | 6.00% | ~1 |
+| Industrial Giant | 6.00% | ~1 |
+| Train Spotter | 6.00% | ~1 |
+| Mega Train | 6.00% | ~1 |
+| Crowd Pleaser | 6.00% | ~1 |
+| Line Master | 6.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
 | Electric Avenue | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 580)  
+Progressed: 16 (Ranked 573)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,3 +73,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-08 | 12 | 0 |
 | 2023-11-22 | 13 | 0 |
 | 2023-11-24 | 15 | 0 |
+| 2023-11-25 | 16 | 0 |

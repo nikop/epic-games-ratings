@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1139,6 +1139,11 @@
       "Time": "2023-11-25T07:03:38.3734183+00:00",
       "NumProgressed": 249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T18:03:26.5013079+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1174,7 +1179,7 @@
       "Name": "First aid",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1182,7 +1187,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1244,9 +1249,9 @@
       "ID": "ACH_FORCE",
       "SetID": "511e31d",
       "Name": "Brute force",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1270,7 +1275,7 @@
       "Name": "Nightmare in the kitchen",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_MATTDOCUMENTS",
@@ -1286,7 +1291,7 @@
       "Name": "Soundtrack",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1318,7 +1323,7 @@
       "Name": "Nimble fingers",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1342,7 +1347,7 @@
       "Name": "Room 104",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_ROOM203",
@@ -1382,7 +1387,7 @@
       "Name": "The third floor",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_WAREHOUSE",
@@ -1390,21 +1395,21 @@
       "Name": "Now or never",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:03:37.9381713+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:03:26.5013076+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.6982468+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:58:05.0621928+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:03:37.9381933+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:57:45.4660735+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:03:26.5013444+00:00"
 }

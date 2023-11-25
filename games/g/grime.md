@@ -6,31 +6,31 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 6.00% | ~9,603 |
-| Taste | 5.00% | ~8,002 |
-| The Hunt | 4.00% | ~6,402 |
-| Ravenous | 4.00% | ~6,402 |
+| Imprint | 6.00% | ~9,604 |
+| Taste | 5.00% | ~8,003 |
+| The Hunt | 4.00% | ~6,403 |
+| Ravenous | 4.00% | ~6,403 |
 | Weeper | 3.00% | ~4,802 |
 | Harmless | 2.00% | ~3,201 |
 | Silenced Whispers | 2.00% | ~3,201 |
 | Devourer | 2.00% | ~3,201 |
 | Yank | 2.00% | ~3,201 |
 | Sharpened Vessel | 2.00% | ~3,201 |
-| Shapely | 1.00% | ~1,600 |
+| Shapely | 1.00% | ~1,601 |
 | Scion | 1.00% | ~1,596 |
 | Glare | 1.00% | ~1,596 |
-| Jawcrab | 1.00% | ~1,600 |
-| Jawstag | 1.00% | ~1,600 |
-| Feast | 1.00% | ~1,600 |
-| Watcher | 1.00% | ~1,600 |
-| Predator | 1.00% | ~1,600 |
-| Assimilation | 0.90% | ~1,440 |
+| Jawcrab | 1.00% | ~1,601 |
+| Jawstag | 1.00% | ~1,601 |
+| Feast | 1.00% | ~1,601 |
+| Watcher | 1.00% | ~1,601 |
+| Predator | 1.00% | ~1,601 |
+| Assimilation | 0.90% | ~1,441 |
 | Host | 0.90% | ~1,437 |
-| Celebration | 0.90% | ~1,440 |
+| Celebration | 0.90% | ~1,441 |
 | Hunt Down | 0.70% | ~1,120 |
 | Inevitable | 0.70% | ~1,120 |
 | All-Seeing | 0.70% | ~1,120 |
-| Dream | 0.70% | ~1,117 |
+| Dream | 0.70% | ~1,118 |
 | Breath | 0.60% | ~960 |
 | Artisan | 0.60% | ~960 |
 | Hush | 0.60% | ~960 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~160 |
 | Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,050 (Ranked 78)  
+Progressed: 160,064 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-22 | 159,591 | 1 |
 | 2023-11-23 | 159,730 | 1 |
 | 2023-11-24 | 159,888 | 1 |
-| 2023-11-25 | 160,050 | 1 |
+| 2023-11-25 | 160,064 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 423)  
 Sum: 386 (Ranked 346)  

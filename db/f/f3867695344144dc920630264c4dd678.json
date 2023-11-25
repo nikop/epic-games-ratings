@@ -3,11 +3,11 @@
   "Name": "Doomsday Last Survivors",
   "ProductSlug": "doomsday-last-survivors-024df3",
   "Ranking_Rating": 948,
-  "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 473,
+  "Ranking_Popularity": 470,
+  "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 469,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -567,6 +567,6 @@
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
   "LastChanged": "2023-11-23T21:57:56.629619+00:00",
   "LastUpdate_AppInfo": "2023-11-22T17:57:00.7337651+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:59:06.0811349+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:03:15.5357423+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:58:41.8963472+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:03:06.143779+00:00"
 }

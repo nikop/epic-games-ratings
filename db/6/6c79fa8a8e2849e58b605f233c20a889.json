@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2945,
+  "EOS_Progressed": 2946,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -7649,6 +7649,11 @@
       "Time": "2023-11-25T13:12:47.1004728+00:00",
       "NumProgressed": 2945,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T18:09:12.9230443+00:00",
+      "NumProgressed": 2946,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7668,7 +7673,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "BOT_DESTROYER",
@@ -7684,7 +7689,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "CONQUEROR",
@@ -7764,7 +7769,7 @@
       "Name": "Grasshopper",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "GUARD_MAKER",
@@ -7835,14 +7840,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2945,
+      "Progressed": 2946,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:09:17.5085788+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:09:12.923044+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:17.3465662+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:00:19.3105637+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:09:17.5086269+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:59:48.3951113+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:09:12.9231032+00:00"
 }

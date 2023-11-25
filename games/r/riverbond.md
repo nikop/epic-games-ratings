@@ -6,33 +6,33 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~372,384 |
-| Now You're Talking | 62.00% | ~329,826 |
-| Steel Yourself | 62.00% | ~329,826 |
-| Window Dressing | 50.00% | ~265,988 |
-| Trigger Happy | 46.00% | ~244,709 |
-| Riverborn | 45.00% | ~239,390 |
-| Starry Eyed | 34.00% | ~180,872 |
-| Poking Around | 34.00% | ~180,872 |
-| Talk of the Town | 24.00% | ~127,674 |
-| AAARR! | 23.00% | ~122,355 |
-| Hello Darkness | 23.00% | ~122,355 |
-| Wind At Our Backs | 22.00% | ~117,035 |
-| To the Beat | 20.00% | ~106,395 |
-| Sunny Shores | 17.00% | ~90,436 |
-| Sunday Best | 16.00% | ~85,116 |
-| To Victory! | 15.00% | ~79,797 |
-| Two of a Kind | 14.00% | ~74,477 |
-| Keep On Trucking | 13.00% | ~69,157 |
-| Going on an Adventure | 11.00% | ~58,517 |
-| Make Peace, Not War | 11.00% | ~58,517 |
-| Walking The Line | 10.00% | ~53,198 |
-| Not So Cute Anymore | 10.00% | ~53,198 |
-| Road Less Travelled | 9.00% | ~47,878 |
-| Lost and Found | 9.00% | ~47,878 |
-| Under the Radar | 8.00% | ~42,558 |
-| Partner in Crime | 7.00% | ~37,238 |
-| Hard to Hear | 7.00% | ~37,238 |
+| First Step | 70.00% | ~372,392 |
+| Now You're Talking | 62.00% | ~329,833 |
+| Steel Yourself | 62.00% | ~329,833 |
+| Window Dressing | 50.00% | ~265,994 |
+| Trigger Happy | 46.00% | ~244,715 |
+| Riverborn | 45.00% | ~239,395 |
+| Starry Eyed | 34.00% | ~180,876 |
+| Poking Around | 34.00% | ~180,876 |
+| Talk of the Town | 24.00% | ~127,677 |
+| AAARR! | 23.00% | ~122,357 |
+| Hello Darkness | 23.00% | ~122,357 |
+| Wind At Our Backs | 22.00% | ~117,038 |
+| To the Beat | 20.00% | ~106,398 |
+| Sunny Shores | 17.00% | ~90,438 |
+| Sunday Best | 16.00% | ~85,118 |
+| To Victory! | 15.00% | ~79,798 |
+| Two of a Kind | 14.00% | ~74,478 |
+| Keep On Trucking | 13.00% | ~69,159 |
+| Going on an Adventure | 11.00% | ~58,519 |
+| Make Peace, Not War | 11.00% | ~58,519 |
+| Walking The Line | 10.00% | ~53,199 |
+| Not So Cute Anymore | 10.00% | ~53,199 |
+| Road Less Travelled | 9.00% | ~47,879 |
+| Lost and Found | 9.00% | ~47,879 |
+| Under the Radar | 8.00% | ~42,559 |
+| Partner in Crime | 7.00% | ~37,239 |
+| Hard to Hear | 7.00% | ~37,239 |
 | Moving On Up | 6.00% | ~31,919 |
 | Owl Knows Best | 6.00% | ~31,919 |
 | Mind the Moose | 6.00% | ~31,919 |
@@ -42,18 +42,18 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,599 |
 | Rising Star | 5.00% | ~26,599 |
 | Slime Slayer | 5.00% | ~26,599 |
-| Privacy, Please! | 4.00% | ~21,279 |
-| Silky Smooth | 4.00% | ~21,279 |
-| Hash It Over | 4.00% | ~21,279 |
-| Biting Tongue | 4.00% | ~21,279 |
-| What a Catch! | 4.00% | ~21,279 |
-| Hit the Spot | 4.00% | ~21,279 |
-| Talk the Talk | 3.00% | ~15,959 |
-| Skin in the Game | 3.00% | ~15,959 |
-| Caving In | 3.00% | ~15,959 |
-| Page Turner | 3.00% | ~15,959 |
-| Spinal Adjustment | 3.00% | ~15,959 |
-| The Knowledge | 3.00% | ~15,959 |
+| Privacy, Please! | 4.00% | ~21,280 |
+| Silky Smooth | 4.00% | ~21,280 |
+| Hash It Over | 4.00% | ~21,280 |
+| Biting Tongue | 4.00% | ~21,280 |
+| What a Catch! | 4.00% | ~21,280 |
+| Hit the Spot | 4.00% | ~21,280 |
+| Talk the Talk | 3.00% | ~15,960 |
+| Skin in the Game | 3.00% | ~15,960 |
+| Caving In | 3.00% | ~15,960 |
+| Page Turner | 3.00% | ~15,960 |
+| Spinal Adjustment | 3.00% | ~15,960 |
+| The Knowledge | 3.00% | ~15,960 |
 | Seek the Rainbow | 2.00% | ~10,640 |
 | Words of Truth | 2.00% | ~10,640 |
 | Star Power | 2.00% | ~10,640 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,596 |
 | Point Taken | 0.20% | ~1,064 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,977 (Ranked 35)  
+Progressed: 531,989 (Ranked 35)  
 Completed: 502 (0.09%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 502 (0.09%) (Ranked 289)
 | 2023-11-22 | 531,826 | 501 |
 | 2023-11-23 | 531,877 | 502 |
 | 2023-11-24 | 531,921 | 502 |
-| 2023-11-25 | 531,977 | 502 |
+| 2023-11-25 | 531,989 | 502 |
 ## Awards
 Max (Relaxing): 20  (Ranked 548)  
 Sum: 20 (Ranked 549)  

@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.57 (Ranked 474)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 10.00% | ~1,551 |
+| Oyedang, Kopengs | 10.00% | ~1,552 |
 | Bosmang | 6.00% | ~931 |
 | The Pit and the Pirates | 5.00% | ~776 |
 | Martian Music | 5.00% | ~776 |
@@ -16,10 +16,10 @@ Rating: 4.58 (Ranked 444)
 | Safe Cracker | 5.00% | ~73 |
 | Zen Master | 5.00% | ~73 |
 | Madame Undersecretary | 5.00% | ~73 |
-| Stogie for Fogey | 4.00% | ~620 |
-| Drug Gifter | 4.00% | ~620 |
-| Spore Taste | 4.00% | ~620 |
-| Call it Even | 4.00% | ~620 |
+| Stogie for Fogey | 4.00% | ~621 |
+| Drug Gifter | 4.00% | ~621 |
+| Spore Taste | 4.00% | ~621 |
+| Call it Even | 4.00% | ~621 |
 | Keep Arjun in Check | 4.00% | ~59 |
 | Data Archivist | 3.00% | ~465 |
 | Thorston Mayer | 3.00% | ~465 |
@@ -35,13 +35,13 @@ Rating: 4.58 (Ranked 444)
 | Brother's Reaper | 0.80% | ~124 |
 | Debris Spree | 0.80% | ~124 |
 | Data Recoverer | 0.70% | ~109 |
-| Urshanabi Hoarder | 0.40% | ~62 |
+| Urshanabi Hoarder | 0.50% | ~78 |
 | Data Miner | 0.30% | ~47 |
 | Grave Robber | 0.20% | ~31 |
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,510 (Ranked 151)  
+Progressed: 15,515 (Ranked 151)  
 Completed: 35 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 35 (0.23%) (Ranked 248)
 | 2023-11-22 | 15,266 | 35 |
 | 2023-11-23 | 15,346 | 35 |
 | 2023-11-24 | 15,437 | 35 |
-| 2023-11-25 | 15,510 | 35 |
+| 2023-11-25 | 15,515 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -203,3 +203,4 @@ Completed: 35 (0.23%) (Ranked 248)
 | 2023-11-03 | 4.55 | 0 | 0 |
 | 2023-11-11 | 4.56 | 0 | 0 |
 | 2023-11-24 | 4.58 | 0 | 0 |
+| 2023-11-25 | 4.57 | 0 | 0 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11499,
+  "EOS_Progressed": 11507,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1427,
+  "EOS_NewPlayers": 1413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6614,6 +6614,11 @@
       "Time": "2023-11-25T17:03:55.4931038+00:00",
       "NumProgressed": 11499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T18:03:42.6950355+00:00",
+      "NumProgressed": 11507,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -6642,7 +6647,7 @@
       "Name": "INSANE",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_LEVEL188",
@@ -6682,7 +6687,7 @@
       "Name": "Secret",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SUBLEVEL02",
@@ -6690,7 +6695,7 @@
       "Name": "RED",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -6698,7 +6703,7 @@
       "Name": "ICY",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_THEEND",
@@ -6722,7 +6727,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2992
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -6730,7 +6735,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -6738,7 +6743,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -6817,14 +6822,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 11499,
+      "Progressed": 11507,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:03:55.4931037+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:03:42.6950352+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.1009511+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:57:56.6453192+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:03:55.4931368+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:57:37.6117429+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:03:42.6950787+00:00"
 }

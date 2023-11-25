@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~273 |
-| Training Simulation | 77.00% | ~231 |
-| Kuku Bird Hunter | 65.00% | ~195 |
-| Storm Traveller | 57.00% | ~171 |
-| Fashion Connoisseur | 53.00% | ~159 |
-| Wolf King Killer | 53.00% | ~159 |
-| Arms Mechanic | 48.00% | ~144 |
-| Flower Thief | 44.00% | ~132 |
-| Apostle of Flame | 38.00% | ~114 |
+| Travel Streamer | 91.00% | ~274 |
+| Training Simulation | 77.00% | ~232 |
+| Kuku Bird Hunter | 65.00% | ~196 |
+| Storm Traveller | 57.00% | ~172 |
+| Fashion Connoisseur | 53.00% | ~160 |
+| Wolf King Killer | 53.00% | ~160 |
+| Arms Mechanic | 49.00% | ~147 |
+| Flower Thief | 45.00% | ~135 |
+| Apostle of Flame | 39.00% | ~117 |
 | Beginner Cook | 37.00% | ~111 |
 | Beginner Artificer | 36.00% | ~108 |
 | Seal Breaker | 32.00% | ~96 |
@@ -20,7 +20,7 @@
 | Giant Lizard Killer | 27.00% | ~81 |
 | Guardian | 26.00% | ~78 |
 | Nosebleeder | 26.00% | ~78 |
-| Trader | 23.00% | ~69 |
+| Trader | 24.00% | ~72 |
 | Weapon Boost | 21.00% | ~63 |
 | Master Artificer | 18.00% | ~54 |
 | Flying Kobold Killer | 17.00% | ~51 |
@@ -50,7 +50,7 @@
 | Warden Challenge | 2.00% | ~6 |
 | Berserker Challenge | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300 (Ranked 352)  
+Progressed: 301 (Ranked 350)  
 Completed: 1 (0.33%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 1 (0.33%) (Ranked 230)
 | 2023-11-22 | 168 | 0 |
 | 2023-11-23 | 209 | 0 |
 | 2023-11-24 | 254 | 0 |
-| 2023-11-25 | 300 | 1 |
+| 2023-11-25 | 301 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,10 +4,10 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 364,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 469,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1207,10 +1207,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 375,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-11-25T17:57:44.1722149+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 379,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 375,
+  "NumberOfAwards": 379,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1254,7 +1260,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1266,7 +1272,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 28
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1287,8 +1293,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-11-25T15:58:11.6858569+00:00",
+  "LastChanged": "2023-11-25T17:57:44.1722147+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.159456+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:58:03.6275799+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:04:20.4444316+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:57:44.1722155+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:04:06.3071839+00:00"
 }

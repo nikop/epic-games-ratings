@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2989,
+  "EOS_Progressed": 2991,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4356,6 +4356,11 @@
       "Time": "2023-11-25T16:05:45.3875456+00:00",
       "NumProgressed": 2989,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-25T18:04:42.7327128+00:00",
+      "NumProgressed": 2991,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4439,7 +4444,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "THE_END",
@@ -4453,9 +4458,9 @@
       "ID": "TRANSMISSION",
       "SetID": "1a29mp6",
       "Name": "Transmission",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 299
+      "UsersEstimate": 269
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4470,7 +4475,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2989,
+      "Progressed": 2991,
       "Completed": 6
     }
   ],
@@ -4478,8 +4483,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:05:00.3139079+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:04:42.7327124+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:17.4994195+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:57:41.3767406+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:05:00.3139388+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:57:23.7906891+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:04:42.7327425+00:00"
 }

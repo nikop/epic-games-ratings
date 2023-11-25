@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,382 |
-| Powergamer | 27.00% | ~68,322 |
-| Write that down | 25.00% | ~63,261 |
-| Barely scratched the surface | 25.00% | ~63,261 |
+| I will finish what you started | 29.00% | ~73,384 |
+| Powergamer | 27.00% | ~68,323 |
+| Write that down | 25.00% | ~63,262 |
+| Barely scratched the surface | 25.00% | ~63,262 |
 | Guns, lots of guns | 13.00% | ~32,896 |
-| Collector | 12.00% | ~30,365 |
+| Collector | 12.00% | ~30,366 |
 | Elementary! | 9.00% | ~22,774 |
-| Griever | 8.00% | ~20,243 |
-| Pumpkin Jack | 8.00% | ~20,243 |
-| Wake up! | 8.00% | ~20,243 |
+| Griever | 8.00% | ~20,244 |
+| Pumpkin Jack | 8.00% | ~20,244 |
+| Wake up! | 8.00% | ~20,244 |
 | It's honest work | 7.00% | ~17,713 |
 | Me smart | 6.00% | ~15,183 |
 | Trash compactor | 6.00% | ~15,183 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~506 |
 | Memory 5 | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,043 (Ranked 59)  
+Progressed: 253,047 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-22 | 252,807 | 7 |
 | 2023-11-23 | 252,894 | 7 |
 | 2023-11-24 | 252,966 | 7 |
-| 2023-11-25 | 253,043 | 7 |
+| 2023-11-25 | 253,047 | 7 |
 ## Awards
 Max (Character Customization): 91  (Ranked 378)  
 Sum: 91 (Ranked 453)  

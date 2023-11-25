@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 544,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -904,6 +904,11 @@
       "Time": "2023-11-23T20:09:40.5951696+00:00",
       "NumProgressed": 543,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-25T18:09:31.4730901+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -955,7 +960,7 @@
       "Name": "A Friend in Need",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "TROP006",
@@ -979,7 +984,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "TROP009",
@@ -987,7 +992,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "TROP010",
@@ -995,7 +1000,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "TROP011",
@@ -1067,7 +1072,7 @@
       "Name": "Barking in The Rain",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TROP020",
@@ -1091,7 +1096,7 @@
       "Name": "A Barking Fox Doesn\u0027t Bite",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "TROP023",
@@ -1107,7 +1112,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "TROP025",
@@ -1123,7 +1128,7 @@
       "Name": "Lullaby",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "TROP027",
@@ -1138,7 +1143,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 544,
       "Completed": 3
     }
   ],
@@ -1146,8 +1151,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:09:38.6255416+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:09:31.4730899+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:14.8567157+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:59:03.09867+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:09:38.6255609+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:58:39.1905956+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:09:31.4731055+00:00"
 }

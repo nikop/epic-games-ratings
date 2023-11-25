@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 261,
+  "EOS_Progressed": 262,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -774,6 +774,11 @@
       "Time": "2023-11-25T16:07:53.6632261+00:00",
       "NumProgressed": 261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T18:06:18.9653665+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -802,7 +807,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "6",
@@ -824,9 +829,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "9",
@@ -842,23 +847,23 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 199
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "Remake_005",
@@ -914,7 +919,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Remake_12",
@@ -1009,14 +1014,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 261,
+      "Progressed": 262,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:06:44.7015441+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:06:18.9653662+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:02:56.5021629+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:06:44.7015862+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:02:47.236316+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:06:18.9653921+00:00"
 }

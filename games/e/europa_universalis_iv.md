@@ -31,6 +31,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Avar Khaganate | 0.10% | ~463 |
 | Azur semé de lis or | 0.10% | ~463 |
 | Baa Baa Black Sheep | 0.10% | ~463 |
+| Back in Control | 0.10% | ~463 |
 | Baltic Crusader | 0.10% | ~463 |
 | These Banners need a Saga | 0.10% | ~463 |
 | Basileus | 0.10% | ~463 |
@@ -253,7 +254,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Atwix Legacy | 0.00% | ~0 |
 | Auld Alliance Reversed | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
-| Back in Control | 0.00% | ~0 |
 | Back to the Piast | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,389 (Ranked 41)  
+Progressed: 463,443 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,16 +589,16 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-22 | 461,499 | 1 |
 | 2023-11-23 | 462,094 | 1 |
 | 2023-11-24 | 462,785 | 1 |
-| 2023-11-25 | 463,389 | 1 |
+| 2023-11-25 | 463,443 | 1 |
 ## Awards
 Max (Educational): 7,165  (Ranked 54)  
-Sum: 58,844 (Ranked 24)  
+Sum: 58,856 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,165 |
 | This game has Diverse Characters | 6,897 |
-| This game is Highly Recommended | 6,850 |
+| This game is Highly Recommended | 6,862 |
 | This game has Challenging Combat | 6,784 |
 | This game is Extremely Fun | 6,737 |
 | This game is Relaxing | 6,566 |
@@ -921,4 +921,4 @@ Diff (max vs sum): 30
 | 2023-11-22 | 4.69 | - | 7,119 | 58,585 |
 | 2023-11-23 | 4.69 | - | 7,128 | 58,694 |
 | 2023-11-24 | 4.69 | - | 7,144 | 58,780 |
-| 2023-11-25 | 4.69 | - | 7,165 | 58,844 |
+| 2023-11-25 | 4.69 | - | 7,165 | 58,856 |

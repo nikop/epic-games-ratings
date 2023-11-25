@@ -14,7 +14,7 @@
 | Team Builder | 20.00% | ~238 |
 | Aggressive Antivirus | 15.00% | ~178 |
 | Long Live Rock | 15.00% | ~178 |
-| Effective Efficiency | 13.00% | ~154 |
+| Effective Efficiency | 13.00% | ~155 |
 | Unblurred Lines | 12.00% | ~143 |
 | Obsessively Thorough | 12.00% | ~143 |
 | Endlessly Effective | 11.00% | ~131 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,188 (Ranked 249)  
+Progressed: 1,189 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 1,143 | 0 |
 | 2023-11-23 | 1,164 | 0 |
 | 2023-11-24 | 1,175 | 0 |
-| 2023-11-25 | 1,188 | 0 |
+| 2023-11-25 | 1,189 | 0 |

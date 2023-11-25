@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -127,9 +127,9 @@
       "ID": "creepytale3_ach_10",
       "SetID": "7idcjbn",
       "Name": "Naughty girl",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "creepytale3_ach_11",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:06:14.8574152+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:05:51.0285635+00:00",
   "LastUpdate_AppInfo": "2023-11-22T04:57:15.1907927+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:02:39.5325989+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:06:14.8574348+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:00:23.0476237+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:05:51.0285837+00:00"
 }

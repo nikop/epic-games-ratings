@@ -5,7 +5,7 @@ Rating: 4.71 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 21.00% | ~1,641 |
+| In a Pinch | 21.00% | ~1,642 |
 | Energy Saver | 17.00% | ~1,329 |
 | The Journey Onwards | 14.00% | ~1,094 |
 | Body and Soul | 11.00% | ~860 |
@@ -20,15 +20,15 @@ Rating: 4.71 (Ranked 199)
 | Liberator | 5.00% | ~391 |
 | Shredder | 5.00% | ~391 |
 | Live Wire | 4.00% | ~313 |
-| Fashion Faux-Pas | 3.00% | ~234 |
-| Fashion Victim | 3.00% | ~234 |
+| Fashion Faux-Pas | 3.00% | ~235 |
+| Fashion Victim | 3.00% | ~235 |
 | Arrr! | 2.00% | ~156 |
 | Snip Snip | 2.00% | ~156 |
 | Ça de Wizz! | 1.00% | ~78 |
 | Thing | 1.00% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,816 (Ranked 176)  
-Completed: 34 (0.44%) (Ranked 212)  
+Progressed: 7,817 (Ranked 176)  
+Completed: 34 (0.43%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,7 +244,7 @@ Completed: 34 (0.44%) (Ranked 212)
 | 2023-11-22 | 7,802 | 34 |
 | 2023-11-23 | 7,805 | 34 |
 | 2023-11-24 | 7,810 | 34 |
-| 2023-11-25 | 7,816 | 34 |
+| 2023-11-25 | 7,817 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

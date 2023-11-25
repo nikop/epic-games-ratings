@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -10017,9 +10017,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1220
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -10073,8 +10073,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:03:32.3462264+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:03:21.4031716+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:00:54.7127974+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:03:32.346287+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:00:20.0847639+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:03:21.4032392+00:00"
 }

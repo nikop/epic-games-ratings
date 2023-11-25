@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -339,6 +339,11 @@
       "Time": "2023-11-25T17:04:00.1102189+00:00",
       "NumProgressed": 89,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T18:03:47.0442389+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -349,7 +354,7 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 100,
       "UsersEstimate": 70
     },
@@ -357,9 +362,9 @@
       "ID": "BARON",
       "SetID": "40o4f14",
       "Name": "Baron",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "CHAIR",
@@ -397,9 +402,9 @@
       "ID": "DRAGON",
       "SetID": "40o4f14",
       "Name": "How to train your...",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DRESSED",
@@ -525,9 +530,9 @@
       "ID": "PRISON",
       "SetID": "40o4f14",
       "Name": "The prison",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RECOVERING",
@@ -541,7 +546,7 @@
       "ID": "SAVIOR",
       "SetID": "40o4f14",
       "Name": "Savior of the people",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -565,7 +570,7 @@
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 38
     },
@@ -573,17 +578,17 @@
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "WITCH",
       "SetID": "40o4f14",
       "Name": "Resurrection",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WYVERN",
@@ -598,14 +603,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:04:00.1102187+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:03:47.0442385+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:00:22.7294198+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:04:00.1102391+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:59:51.5584546+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:03:47.0442552+00:00"
 }

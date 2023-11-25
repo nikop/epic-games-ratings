@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 4211,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -2982,9 +2982,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
       "SetID": "4d50jip",
       "Name": "Unlock the secret room",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 926
+      "UsersEstimate": 969
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -3109,8 +3109,8 @@
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:05:01.8581963+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:04:44.3113118+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:57:50.4582913+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:05:01.8582168+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:57:31.872082+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:04:44.3113365+00:00"
 }

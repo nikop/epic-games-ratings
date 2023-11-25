@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -993,9 +993,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "AchvNest",
@@ -1033,9 +1033,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "AchvReachCamp",
@@ -1057,9 +1057,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "AchvSurvivors",
@@ -1081,9 +1081,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 55,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "AchvUnity",
@@ -1104,8 +1104,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:08:39.1294966+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:08:38.1484455+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:00:40.4918256+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:08:39.1295168+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:00:07.4315653+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:08:38.1484649+00:00"
 }

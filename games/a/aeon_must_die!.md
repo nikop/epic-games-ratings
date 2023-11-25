@@ -16,8 +16,8 @@
 | Hot Potato | 6.00% | ~215 |
 | Emperor's Hubris | 4.00% | ~143 |
 | Nothing To Lose | 4.00% | ~143 |
-| Dreams Of Perfection | 3.00% | ~107 |
-| Untouchable Legend | 3.00% | ~107 |
+| Dreams Of Perfection | 3.00% | ~108 |
+| Untouchable Legend | 3.00% | ~108 |
 | Loyal Companion | 2.00% | ~72 |
 | Atta Boy! | 2.00% | ~72 |
 | Not Afraid Of The Dark | 2.00% | ~72 |
@@ -27,7 +27,7 @@
 | Buried Memories | 1.00% | ~36 |
 | Anything For The Throne | 0.90% | ~32 |
 | One Track Mind | 0.90% | ~32 |
-| Not On My Watch | 0.60% | ~21 |
+| Not On My Watch | 0.60% | ~22 |
 | Iron Will | 0.50% | ~18 |
 | Perfection Everlasting | 0.40% | ~14 |
 | Respect Earned | 0.30% | ~11 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,583 (Ranked 205)  
+Progressed: 3,584 (Ranked 205)  
 Completed: -28 (-0.78%) (Ranked 3,609)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: -28 (-0.78%) (Ranked 3,609)
 | 2023-11-17 | 3,581 | -28 |
 | 2023-11-22 | 3,582 | -28 |
 | 2023-11-24 | 3,583 | -28 |
+| 2023-11-25 | 3,584 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

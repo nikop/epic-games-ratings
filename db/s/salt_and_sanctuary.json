@@ -2814,9 +2814,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 539153,
+  "EOS_Progressed": 539162,
   "EOS_Completed": 1623,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -26994,6 +26994,11 @@
       "Time": "2023-11-25T17:08:31.8792549+00:00",
       "NumProgressed": 539153,
       "NumCompleted": 1623
+    },
+    {
+      "Time": "2023-11-25T18:08:31.4321267+00:00",
+      "NumProgressed": 539162,
+      "NumCompleted": 1623
     }
   ],
   "TotalAchievements": 37,
@@ -27005,7 +27010,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70090
+      "UsersEstimate": 70091
     },
     {
       "ID": "COASTROCK",
@@ -27021,7 +27026,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167137
+      "UsersEstimate": 167140
     },
     {
       "ID": "DEVOTED",
@@ -27061,7 +27066,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 447497
+      "UsersEstimate": 447504
     },
     {
       "ID": "HONED",
@@ -27101,7 +27106,7 @@
       "Name": "Storied",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32349
+      "UsersEstimate": 32350
     },
     {
       "ID": "THE_ALKYMANCERY",
@@ -27117,7 +27122,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215661
+      "UsersEstimate": 215665
     },
     {
       "ID": "THE_CASTLE",
@@ -27125,7 +27130,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59307
+      "UsersEstimate": 59308
     },
     {
       "ID": "THE_CAVE",
@@ -27141,7 +27146,7 @@
       "Name": "The Construct",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32349
+      "UsersEstimate": 32350
     },
     {
       "ID": "THE_CRYPT",
@@ -27157,7 +27162,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 48524
+      "UsersEstimate": 48525
     },
     {
       "ID": "THE_FOREST",
@@ -27165,7 +27170,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80873
+      "UsersEstimate": 80874
     },
     {
       "ID": "THE_IMPOSTER",
@@ -27173,7 +27178,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70090
+      "UsersEstimate": 70091
     },
     {
       "ID": "THE_IRON_ONES",
@@ -27181,7 +27186,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102439
+      "UsersEstimate": 102441
     },
     {
       "ID": "THE_KEEP",
@@ -27189,7 +27194,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75481
+      "UsersEstimate": 75483
     },
     {
       "ID": "THE_LAKE",
@@ -27197,7 +27202,7 @@
       "Name": "The Lake",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32349
+      "UsersEstimate": 32350
     },
     {
       "ID": "THE_MIRE",
@@ -27229,7 +27234,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48524
+      "UsersEstimate": 48525
     },
     {
       "ID": "THE_RUINS",
@@ -27237,7 +27242,7 @@
       "Name": "The Ruins",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32349
+      "UsersEstimate": 32350
     },
     {
       "ID": "THE_SACRIFICE",
@@ -27245,7 +27250,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43132
+      "UsersEstimate": 43133
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -27261,7 +27266,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345058
+      "UsersEstimate": 345064
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -27277,7 +27282,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91656
+      "UsersEstimate": 91658
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -27285,7 +27290,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43132
+      "UsersEstimate": 43133
     },
     {
       "ID": "WISE_WORDS",
@@ -27300,15 +27305,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 539153,
+      "Progressed": 539162,
       "Completed": 1623
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-25T14:02:32.1101966+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:08:31.8792547+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:08:31.4321263+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:11.7243126+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:02:42.0212423+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:08:31.8793582+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:00:25.0186833+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:08:31.4322732+00:00"
 }

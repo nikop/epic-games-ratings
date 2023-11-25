@@ -166,9 +166,9 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SCORE_300",
@@ -212,8 +212,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:04:19.975562+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:04:05.8311418+00:00",
   "LastUpdate_AppInfo": "2023-11-20T14:57:10.6743119+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:59:52.3459199+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:04:19.9755686+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:59:23.6126349+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:04:05.8311575+00:00"
 }

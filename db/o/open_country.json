@@ -4,7 +4,7 @@
   "ProductSlug": "open-country",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 469,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-06-10T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.9999735+00:00",
   "LastChanged": "2023-03-31T05:57:55.9999736+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.3775821+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:00:54.303972+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:05:25.6755605+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:00:19.6848328+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:05:05.9766507+00:00"
 }

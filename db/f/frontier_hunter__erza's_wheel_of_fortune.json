@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 352,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -977,6 +977,11 @@
       "Time": "2023-11-25T17:03:47.1726741+00:00",
       "NumProgressed": 300,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T18:03:35.2982057+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -988,7 +993,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1076,7 +1081,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1114,9 +1119,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1140,15 +1145,15 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_28",
       "SetID": "7pimpda",
       "Name": "Trader",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1156,7 +1161,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1244,7 +1249,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1308,23 +1313,23 @@
       "Name": "Wolf King Killer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1347,7 +1352,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 301,
       "Completed": 1
     }
   ],
@@ -1355,8 +1360,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:03:47.1726739+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:03:35.2982054+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:00:22.8606638+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:03:47.172727+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:59:51.6887038+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:03:35.2982421+00:00"
 }

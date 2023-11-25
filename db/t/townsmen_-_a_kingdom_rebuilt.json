@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4356,
+  "EOS_Progressed": 4357,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1596,6 +1596,11 @@
       "Time": "2023-11-25T13:13:18.9761255+00:00",
       "NumProgressed": 4356,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-25T18:09:35.4568936+00:00",
+      "NumProgressed": 4357,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1839,7 +1844,7 @@
       "Name": "Builder I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHIEVEMENT_POPULATION2",
@@ -1879,7 +1884,7 @@
       "Name": "An honorable Governor I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE2",
@@ -1967,7 +1972,7 @@
       "Name": "Researcher",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED3",
@@ -2263,7 +2268,7 @@
       "Name": "Tax-man II",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
@@ -2295,7 +2300,7 @@
       "Name": "A time consuming game I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -2375,7 +2380,7 @@
       "Name": "Time for some trade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -2414,15 +2419,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4356,
+      "Progressed": 4357,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-16T20:57:28.2396436+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:09:43.0615276+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:09:35.4568932+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:55.2034383+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:58:51.100626+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:09:43.0616144+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:58:28.4356307+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:09:35.4569995+00:00"
 }

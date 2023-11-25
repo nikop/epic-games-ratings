@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7869,9 +7869,9 @@
       "Count": 423
     }
   ],
-  "EOS_Progressed": 717339,
+  "EOS_Progressed": 717342,
   "EOS_Completed": 12939,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -27279,6 +27279,11 @@
       "Time": "2023-11-25T17:06:45.9862797+00:00",
       "NumProgressed": 717339,
       "NumCompleted": 12939
+    },
+    {
+      "Time": "2023-11-25T18:06:20.1783066+00:00",
+      "NumProgressed": 717342,
+      "NumCompleted": 12939
     }
   ],
   "TotalAchievements": 60,
@@ -27626,7 +27631,7 @@
       "Name": "Project Arena",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -27769,21 +27774,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26640,
+      "Progressed": 26643,
       "Completed": 10753
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717339,
+      "Progressed": 717342,
       "Completed": 12939
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-25T15:58:01.2110792+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:06:45.9862795+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:06:20.1783062+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.0924879+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:57:55.9564793+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:06:45.9863931+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:57:36.9813091+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:06:20.1784904+00:00"
 }

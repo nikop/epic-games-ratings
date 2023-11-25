@@ -5,8 +5,8 @@ Rating: 4.61 (Ranked 383)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 3.00% | ~164 |
-| But this one is mine | 3.00% | ~164 |
+| Secret Technique | 3.00% | ~165 |
+| But this one is mine | 3.00% | ~165 |
 | There Can Only Be One! | 2.00% | ~110 |
 | Full Ascension | 2.00% | ~110 |
 | Realm Estate | 2.00% | ~110 |
@@ -31,10 +31,10 @@ Rating: 4.61 (Ranked 383)
 | Return of the Wizard King | 0.90% | ~49 |
 | Enchanted Archipelago | 0.90% | ~49 |
 | Digging for Treasure | 0.90% | ~49 |
+| My Final Form | 0.90% | ~49 |
 | Fiery Friend | 0.90% | ~49 |
 | Impenetrable Fortress | 0.90% | ~49 |
 | Dawn of the Dread | 0.90% | ~49 |
-| My Final Form | 0.80% | ~44 |
 | Prometheus Avenged | 0.80% | ~44 |
 | Preparation Is Everything | 0.70% | ~38 |
 | Blood of the Dragon | 0.70% | ~38 |
@@ -42,11 +42,11 @@ Rating: 4.61 (Ranked 383)
 | Arch Mage | 0.60% | ~33 |
 | The Creator | 0.60% | ~33 |
 | Crimson Caldera | 0.60% | ~33 |
+| The Eternal Court | 0.50% | ~27 |
 | I've Got Everything I Need Right Here | 0.40% | ~22 |
 | God Emperor | 0.40% | ~22 |
 | Lord of Chaos | 0.40% | ~22 |
 | Manufactured War | 0.40% | ~22 |
-| The Eternal Court | 0.40% | ~22 |
 | Pruning for Progress | 0.40% | ~22 |
 | The Goddess of Nature | 0.30% | ~16 |
 | Eternal Lord | 0.30% | ~16 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 383)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,483 (Ranked 189)  
+Progressed: 5,484 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,11 +253,11 @@ Completed: 7 (0.13%) (Ranked 272)
 | 2023-11-22 | 5,428 | 7 |
 | 2023-11-23 | 5,446 | 7 |
 | 2023-11-24 | 5,463 | 7 |
-| 2023-11-25 | 5,483 | 7 |
+| 2023-11-25 | 5,484 | 7 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 480)  
-Sum: 60 (Ranked 476)  
-Diff (max vs sum): 4  
+Sum: 60 (Ranked 477)  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |

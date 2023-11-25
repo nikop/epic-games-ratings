@@ -4,7 +4,7 @@
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 416,
   "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 491,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 138,
@@ -307,7 +307,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232732,
+  "EOS_Progressed": 232733,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
@@ -22597,6 +22597,11 @@
       "Time": "2023-11-25T17:06:45.0629413+00:00",
       "NumProgressed": 232732,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-25T18:06:19.1818878+00:00",
+      "NumProgressed": 232733,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -22816,7 +22821,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39564
+      "UsersEstimate": 39565
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -22831,7 +22836,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232732,
+      "Progressed": 232733,
       "Completed": 5
     }
   ],
@@ -22839,8 +22844,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-22T11:00:30.8027045+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:06:45.0629411+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:06:19.1818872+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:27.6645592+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:57:52.2420413+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:06:45.0630578+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:57:33.6787554+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:06:19.1820925+00:00"
 }

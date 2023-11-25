@@ -735,7 +735,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3864,
+  "EOS_Progressed": 3865,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -5965,6 +5965,11 @@
       "Time": "2023-11-25T16:04:53.5769787+00:00",
       "NumProgressed": 3864,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T18:04:05.6341364+00:00",
+      "NumProgressed": 3865,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5985,7 +5990,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "achievement_11",
@@ -6001,7 +6006,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "achievement_13",
@@ -6009,7 +6014,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "achievement_14",
@@ -6073,7 +6078,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "achievement_21",
@@ -6089,7 +6094,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_4",
@@ -6144,7 +6149,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3864,
+      "Progressed": 3865,
       "Completed": 0
     }
   ],
@@ -6152,8 +6157,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-24T21:57:40.5180136+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:04:19.7706569+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:04:05.634136+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:58:11.2764815+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:04:19.7706959+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:57:50.932028+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:04:05.6341802+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 469,
+  "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_NewPlayers": 469,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
@@ -1110,11 +1110,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 303,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-11-25T18:03:00.7002805+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 304,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 303,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 304,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -1133,7 +1139,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Relaxing",
@@ -1189,8 +1195,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-11-23T23:02:59.3246116+00:00",
+  "LastChanged": "2023-11-25T18:03:00.7002803+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.7705613+00:00",
-  "LastUpdate_Ratings": "2023-11-25T17:03:11.4248513+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:03:23.9625429+00:00"
+  "LastUpdate_Ratings": "2023-11-25T18:03:00.7002809+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:03:13.5996502+00:00"
 }

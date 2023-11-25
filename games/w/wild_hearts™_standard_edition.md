@@ -16,9 +16,9 @@
 | Subsistence Skills | 64.00% | ~207 |
 | Kemono Hunter | 60.00% | ~194 |
 | Expert Conjuror | 57.00% | ~185 |
+| Flawless Crystal | 54.00% | ~175 |
 | Bonds of Enmity | 54.00% | ~175 |
 | Distance Devourer | 53.00% | ~172 |
-| Flawless Crystal | 53.00% | ~172 |
 | Helpful Heart | 53.00% | ~172 |
 | Master of the Skies | 49.00% | ~159 |
 | Counter Specialist | 49.00% | ~159 |

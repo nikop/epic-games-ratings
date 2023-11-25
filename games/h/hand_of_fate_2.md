@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,051 (Ranked 29)  
+Progressed: 665,052 (Ranked 29)  
 Completed: 172 (0.03%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,11 +274,11 @@ Completed: 172 (0.03%) (Ranked 323)
 | 2023-11-22 | 664,945 | 171 |
 | 2023-11-23 | 664,981 | 171 |
 | 2023-11-24 | 665,010 | 171 |
-| 2023-11-25 | 665,051 | 172 |
+| 2023-11-25 | 665,052 | 172 |
 ## Awards
-Max (Amazing Storytelling): 36  (Ranked 469)  
+Max (Amazing Storytelling): 36  (Ranked 470)  
 Sum: 193 (Ranked 405)  
-Diff (max vs sum): 64  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

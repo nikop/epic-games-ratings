@@ -2,9 +2,9 @@
   "ID": "942b563ee0aa4086a55d8b746aca514d",
   "Name": "Train World",
   "ProductSlug": "train-world-07e156",
-  "Ranking_EOS_Progress": 580,
+  "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2023-11-24T19:07:15.0306009+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T18:06:05.9015603+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-14T15:04:55.3907399+00:00",
@@ -122,7 +127,7 @@
       "ID": "all_regions_unlocked",
       "SetID": "5ia1dkp",
       "Name": "World Explorer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "complete_tutorial",
       "SetID": "5ia1dkp",
       "Name": "Trainee",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -154,7 +159,7 @@
       "ID": "diesel_engine",
       "SetID": "5ia1dkp",
       "Name": "Diesel Dream",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -178,7 +183,7 @@
       "ID": "first_line",
       "SetID": "5ia1dkp",
       "Name": "Line Up",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -218,7 +223,7 @@
       "ID": "full_second_era_unlocked",
       "SetID": "5ia1dkp",
       "Name": "Modern Times",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -242,7 +247,7 @@
       "ID": "hundred_million_company",
       "SetID": "5ia1dkp",
       "Name": "Money Train",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -290,7 +295,7 @@
       "ID": "late_era_unlocked",
       "SetID": "5ia1dkp",
       "Name": "Future Vision",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -298,7 +303,7 @@
       "ID": "long_bridge",
       "SetID": "5ia1dkp",
       "Name": "Bridge Over Troubled Water",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -338,7 +343,7 @@
       "ID": "million_from_freight",
       "SetID": "5ia1dkp",
       "Name": "Cargo King",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -346,7 +351,7 @@
       "ID": "million_from_passengers",
       "SetID": "5ia1dkp",
       "Name": "People Mover",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -378,7 +383,7 @@
       "ID": "region_industries_connected",
       "SetID": "5ia1dkp",
       "Name": "Industrial Giant",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -386,7 +391,7 @@
       "ID": "steam_engine",
       "SetID": "5ia1dkp",
       "Name": "Steam Power",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -394,7 +399,7 @@
       "ID": "task_complete",
       "SetID": "5ia1dkp",
       "Name": "Task Apprentice",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -426,7 +431,7 @@
       "ID": "ten_trains",
       "SetID": "5ia1dkp",
       "Name": "Train Spotter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -434,7 +439,7 @@
       "ID": "thousand_freight_train",
       "SetID": "5ia1dkp",
       "Name": "Mega Train",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -450,7 +455,7 @@
       "ID": "three_hundred_passengers",
       "SetID": "5ia1dkp",
       "Name": "Crowd Pleaser",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -482,7 +487,7 @@
       "ID": "twenty_lines",
       "SetID": "5ia1dkp",
       "Name": "Line Master",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -490,7 +495,7 @@
       "ID": "two_cities_connected",
       "SetID": "5ia1dkp",
       "Name": "City Link",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -515,14 +520,14 @@
     {
       "ID": "5ia1dkp",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:06:30.8384417+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:06:05.9015601+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.0123914+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:59:36.8773+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:06:30.8384727+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:59:09.3713308+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:06:05.9016069+00:00"
 }

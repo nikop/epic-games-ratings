@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -217,15 +217,21 @@
       "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-25T17:58:09.1094241+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15510,
+  "EOS_Progressed": 15515,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12238,6 +12244,11 @@
       "Time": "2023-11-25T17:05:44.0419144+00:00",
       "NumProgressed": 15510,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-25T18:05:22.8103174+00:00",
+      "NumProgressed": 15515,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12248,9 +12259,9 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "10",
@@ -12282,7 +12293,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "14",
@@ -12298,7 +12309,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "16",
@@ -12306,7 +12317,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "17",
@@ -12314,7 +12325,7 @@
       "Name": "Spore Taste",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "18",
@@ -12394,7 +12405,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "27",
@@ -12529,22 +12540,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15510,
+      "Progressed": 15515,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1464,
-      "Completed": 712
+      "Progressed": 1469,
+      "Completed": 713
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-11-24T17:57:32.8861451+00:00",
-  "LastChanged_Achievements": "2023-11-25T17:05:44.041914+00:00",
+  "LastChanged": "2023-11-25T17:58:09.1094239+00:00",
+  "LastChanged_Achievements": "2023-11-25T18:05:22.810317+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-25T16:58:29.4168032+00:00",
-  "LastUpdate_Achievements": "2023-11-25T17:05:44.0419935+00:00"
+  "LastUpdate_Ratings": "2023-11-25T17:58:09.1094248+00:00",
+  "LastUpdate_Achievements": "2023-11-25T18:05:22.8104514+00:00"
 }
