@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23142,
+  "EOS_Progressed": 23143,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -25110,6 +25110,11 @@
       "Time": "2023-11-25T06:04:41.3831028+00:00",
       "NumProgressed": 23142,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-11-25T07:04:21.7681459+00:00",
+      "NumProgressed": 23143,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 45,
@@ -25257,7 +25262,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17588
+      "UsersEstimate": 17589
     },
     {
       "ID": "MoreThanHuman",
@@ -25273,7 +25278,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6248
+      "UsersEstimate": 6249
     },
     {
       "ID": "ObedientMachine",
@@ -25305,7 +25310,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "Perfection",
@@ -25313,7 +25318,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7405
+      "UsersEstimate": 7406
     },
     {
       "ID": "PreempativeStrike",
@@ -25353,7 +25358,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6248
+      "UsersEstimate": 6249
     },
     {
       "ID": "Scrapped",
@@ -25441,7 +25446,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 12265
+      "UsersEstimate": 12266
     },
     {
       "ID": "WaveOfMutilation",
@@ -25480,21 +25485,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 23142,
+      "Progressed": 23143,
       "Completed": 58
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 23142,
+      "Progressed": 23143,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:04:41.3831025+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:04:21.7681457+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:58:15.733596+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:04:41.3832195+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:58:14.3450419+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:04:21.7682533+00:00"
 }

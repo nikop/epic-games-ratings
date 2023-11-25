@@ -6,50 +6,50 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 8.00% | ~74,947 |
-| Gun Fu | 4.00% | ~37,473 |
-| The Fool | 3.00% | ~28,105 |
-| Right Back At Ya | 2.00% | ~18,737 |
-| The Lovers | 2.00% | ~18,737 |
-| Full Body Conversion | 1.00% | ~9,368 |
-| Stanislavski's Method | 1.00% | ~9,368 |
-| True Soldier | 1.00% | ~9,368 |
-| Relic Ruler | 1.00% | ~655 |
-| The Wheel of Fortune | 0.90% | ~8,432 |
-| All the President's Men | 0.90% | ~589 |
-| Arachnophobia | 0.90% | ~589 |
-| Christmas Tree Attack | 0.80% | ~7,495 |
-| The Hermit | 0.80% | ~7,495 |
-| True Warrior | 0.80% | ~7,495 |
-| The Quick and the Dead | 0.70% | ~6,558 |
-| Life of the Road | 0.70% | ~6,558 |
-| Legend of The Afterlife | 0.70% | ~6,558 |
-| Bushido and Chill | 0.60% | ~5,621 |
-| The High Priestess | 0.60% | ~5,621 |
-| The World | 0.60% | ~5,621 |
-| Spin Doctor | 0.60% | ~393 |
-| To Protect and Serve | 0.50% | ~4,684 |
-| Master Crafter | 0.50% | ~4,684 |
-| I Am The Law | 0.50% | ~4,684 |
-| Judy vs Night City | 0.50% | ~4,684 |
-| Dirty Deeds | 0.50% | ~327 |
-| Easy Come, Easy Go | 0.50% | ~327 |
-| The Wandering Fool | 0.40% | ~3,747 |
-| Two Heads, One Bullet | 0.40% | ~3,747 |
-| King of Wands | 0.40% | ~262 |
-| To Bad Decisions! | 0.30% | ~2,811 |
-| Breathtaking | 0.30% | ~2,811 |
-| Ten out of Ten | 0.30% | ~2,811 |
-| The Star | 0.30% | ~2,811 |
-| The Sun | 0.30% | ~2,811 |
-| King of Swords | 0.30% | ~196 |
-| The Tower | 0.30% | ~196 |
+| V for Vendetta | 8.00% | ~74,979 |
+| Gun Fu | 4.00% | ~37,490 |
+| The Fool | 3.00% | ~28,117 |
+| Right Back At Ya | 2.00% | ~18,745 |
+| The Lovers | 2.00% | ~18,745 |
+| Full Body Conversion | 1.00% | ~9,372 |
+| Stanislavski's Method | 1.00% | ~9,372 |
+| True Soldier | 1.00% | ~9,372 |
+| Relic Ruler | 1.00% | ~659 |
+| The Hermit | 0.90% | ~8,435 |
+| The Wheel of Fortune | 0.90% | ~8,435 |
+| All the President's Men | 0.90% | ~593 |
+| Arachnophobia | 0.90% | ~593 |
+| Christmas Tree Attack | 0.80% | ~7,498 |
+| The Quick and the Dead | 0.80% | ~7,498 |
+| True Warrior | 0.80% | ~7,498 |
+| Life of the Road | 0.70% | ~6,561 |
+| The High Priestess | 0.70% | ~6,561 |
+| Legend of The Afterlife | 0.70% | ~6,561 |
+| Bushido and Chill | 0.60% | ~5,623 |
+| The World | 0.60% | ~5,623 |
+| Spin Doctor | 0.60% | ~395 |
+| To Protect and Serve | 0.50% | ~4,686 |
+| Master Crafter | 0.50% | ~4,686 |
+| I Am The Law | 0.50% | ~4,686 |
+| Judy vs Night City | 0.50% | ~4,686 |
+| Dirty Deeds | 0.50% | ~329 |
+| Easy Come, Easy Go | 0.50% | ~329 |
+| The Wandering Fool | 0.40% | ~3,749 |
+| Two Heads, One Bullet | 0.40% | ~3,749 |
+| King of Wands | 0.40% | ~263 |
+| To Bad Decisions! | 0.30% | ~2,812 |
+| Breathtaking | 0.30% | ~2,812 |
+| Ten out of Ten | 0.30% | ~2,812 |
+| The Star | 0.30% | ~2,812 |
+| The Sun | 0.30% | ~2,812 |
+| King of Swords | 0.30% | ~198 |
+| The Tower | 0.30% | ~198 |
 | Autojock | 0.20% | ~1,874 |
 | Must Be Rats | 0.20% | ~1,874 |
 | Temperance | 0.20% | ~1,874 |
-| The APB is Not Enough | 0.20% | ~131 |
-| Judgement Day | 0.20% | ~131 |
-| King of Pentacles | 0.20% | ~131 |
+| The APB is Not Enough | 0.20% | ~132 |
+| Judgement Day | 0.20% | ~132 |
+| King of Pentacles | 0.20% | ~132 |
 | City Lights | 0.10% | ~937 |
 | Frequent Flyer | 0.10% | ~937 |
 | Gunslinger | 0.10% | ~937 |
@@ -62,7 +62,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.10% | ~937 |
 | The Jungle | 0.10% | ~937 |
 | It's Elementary | 0.10% | ~937 |
-| King of Cups | 0.10% | ~65 |
+| King of Cups | 0.10% | ~66 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 936,836 (Ranked 15)  
+Progressed: 937,239 (Ranked 15)  
 Completed: 2,810 (0.30%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,10 +293,10 @@ Completed: 2,810 (0.30%) (Ranked 237)
 | 2023-11-22 | 914,026 | 2,804 |
 | 2023-11-23 | 925,314 | 2,805 |
 | 2023-11-24 | 934,254 | 2,810 |
-| 2023-11-25 | 936,836 | 2,810 |
+| 2023-11-25 | 937,239 | 2,810 |
 ## Awards
 Max (Character Customization): 107,456  (Ranked 9)  
-Sum: 362,468 (Ranked 10)  
+Sum: 362,548 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -305,7 +305,7 @@ Diff (max vs sum): -1
 | This game is Great for Beginners | 21,994 |
 | This game has Diverse Characters | 21,617 |
 | This game is Highly Recommended | 20,648 |
-| This game has Amazing Storytelling | 20,515 |
+| This game has Amazing Storytelling | 20,595 |
 | This game is Extremely Fun | 20,317 |
 | This game has Amazing Characters | 20,110 |
 | This game is Relaxing | 19,377 |
@@ -624,3 +624,4 @@ Diff (max vs sum): -1
 | 2023-11-22 | 4.64 | - | 106,656 | 360,095 |
 | 2023-11-23 | 4.64 | - | 106,938 | 361,162 |
 | 2023-11-24 | 4.65 | - | 107,456 | 362,468 |
+| 2023-11-25 | 4.65 | - | 107,456 | 362,548 |

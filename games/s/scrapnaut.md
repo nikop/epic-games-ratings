@@ -7,22 +7,22 @@ Number of Ratings: 38  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My New Home | 63.00% | ~299 |
-| Scrap Gatherer | 58.00% | ~275 |
-| Mushroom Picker | 57.00% | ~270 |
+| Scrap Gatherer | 58.00% | ~276 |
+| Mushroom Picker | 57.00% | ~271 |
 | Scrapper | 47.00% | ~223 |
-| Teleport | 46.00% | ~218 |
-| Cook | 45.00% | ~213 |
+| Cook | 45.00% | ~214 |
+| Teleport | 45.00% | ~214 |
 | Scrap Master | 39.00% | ~185 |
 | Smelter | 36.00% | ~171 |
-| Digger | 34.00% | ~161 |
-| Electro-Scrap Gatherer | 33.00% | ~156 |
+| Digger | 33.00% | ~157 |
+| Electro-Scrap Gatherer | 33.00% | ~157 |
 | Survivor | 32.00% | ~152 |
 | Lumberjack | 31.00% | ~147 |
 | Robot Destroyer | 30.00% | ~142 |
-| Herbalist | 29.00% | ~137 |
-| Prepper | 26.00% | ~123 |
+| Herbalist | 29.00% | ~138 |
+| Prepper | 26.00% | ~124 |
 | Electro-Scrap Master | 24.00% | ~114 |
-| Robot Hunter | 22.00% | ~104 |
+| Robot Hunter | 21.00% | ~100 |
 | Advanced Survivalist | 19.00% | ~90 |
 | Master Of Technology | 16.00% | ~76 |
 | Treasure Hunter | 16.00% | ~76 |
@@ -30,15 +30,15 @@ Number of Ratings: 38  (23.09.2022)
 | Blacksmith | 12.00% | ~57 |
 | Master Of Management | 11.00% | ~52 |
 | Forest Lord | 11.00% | ~52 |
-| Fuel | 10.00% | ~47 |
-| Smelting Master | 10.00% | ~47 |
+| Fuel | 10.00% | ~48 |
+| Smelting Master | 10.00% | ~48 |
 | Black Gold | 7.00% | ~33 |
 | Survival Master | 4.00% | ~19 |
 | Traveler | 3.00% | ~14 |
-| Forest Killer | 2.00% | ~9 |
+| Forest Killer | 2.00% | ~10 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 313)  
+Progressed: 475 (Ranked 313)  
 Completed: 1 (0.21%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 1 (0.21%) (Ranked 253)
 | 2023-11-18 | 470 | 1 |
 | 2023-11-21 | 471 | 1 |
 | 2023-11-24 | 473 | 1 |
-| 2023-11-25 | 474 | 1 |
+| 2023-11-25 | 475 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

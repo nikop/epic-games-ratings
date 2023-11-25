@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Mega City | 20.00% | ~7 |
-| Licence To Kill | 11.00% | ~4 |
-| Vintage Collector | 9.00% | ~3 |
+| Welcome to Mega City | 22.00% | ~8 |
+| Licence To Kill | 14.00% | ~5 |
+| Vintage Collector | 8.00% | ~3 |
 | Overkill | 6.00% | ~2 |
 | The Hunt | 6.00% | ~2 |
 | Law and Order | 6.00% | ~2 |
@@ -32,8 +32,8 @@
 | Dust to Dust | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 519)  
-Completed: 1 (2.86%) (Ranked 108)  
+Progressed: 36 (Ranked 519)  
+Completed: 1 (2.78%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,3 +53,4 @@ Completed: 1 (2.86%) (Ranked 108)
 | 2023-09-22 | 33 | 1 |
 | 2023-09-24 | 34 | 1 |
 | 2023-10-01 | 35 | 1 |
+| 2023-11-25 | 36 | 1 |

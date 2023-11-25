@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1405,
+  "EOS_Progressed": 1406,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -4159,6 +4159,11 @@
       "Time": "2023-11-25T06:09:55.1181094+00:00",
       "NumProgressed": 1405,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T07:09:49.0264442+00:00",
+      "NumProgressed": 1406,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4275,7 +4280,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_22",
@@ -4387,7 +4392,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_35",
@@ -4395,7 +4400,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "achievement_36",
@@ -4411,7 +4416,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "achievement_38",
@@ -4419,7 +4424,7 @@
       "Name": "Survivor",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_39",
@@ -4443,7 +4448,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "achievement_41",
@@ -4674,13 +4679,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1405,
+      "Progressed": 1406,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1405,
+      "Progressed": 1406,
       "Completed": 1
     }
   ],
@@ -4688,8 +4693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:09:55.118109+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:09:49.0264439+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:59:27.5489913+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:09:55.1181791+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:59:03.4687943+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:09:49.0265339+00:00"
 }

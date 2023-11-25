@@ -9,9 +9,9 @@ Rating: 4.57 (Ranked 474)
 | Map reader | 78.00% | ~39 |
 | Philanthropist | 72.00% | ~36 |
 | Adventurer | 70.00% | ~35 |
+| The brave little tailor | 52.00% | ~26 |
 | Archer | 52.00% | ~26 |
 | Field hand | 50.00% | ~25 |
-| The brave little tailor | 50.00% | ~25 |
 | Samaritan | 50.00% | ~25 |
 | The merciful one | 44.00% | ~22 |
 | Well-to-do | 44.00% | ~22 |
@@ -48,10 +48,10 @@ Rating: 4.57 (Ranked 474)
 | King of the handymen | 8.00% | ~4 |
 | Rune master | 4.00% | ~2 |
 | Big game hunter | 4.00% | ~2 |
+| Sharpshooter | 4.00% | ~2 |
+| Fervent swimmer | 4.00% | ~2 |
 | Mage | 2.00% | ~1 |
 | Gladiator | 2.00% | ~1 |
-| Sharpshooter | 2.00% | ~1 |
-| Fervent swimmer | 2.00% | ~1 |
 | Jester | 2.00% | ~1 |
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |

@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1411,9 +1411,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "WielderLevel2",
@@ -1523,8 +1523,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:06:38.6107097+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:05:45.9070014+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:01:29.2249547+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:06:38.6107442+00:00"
+  "LastUpdate_Ratings": "2023-11-25T07:00:24.4946087+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:05:45.9070338+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.75 (Ranked 148)
 | ---- | ---------- | ----- |
 | Regicide | 0.50% | ~33 |
 | Master of the Dark Arts | 0.50% | ~33 |
-| The Killing Jar | 0.30% | ~682 |
+| The Killing Jar | 0.40% | ~910 |
 | First of Many | 0.30% | ~682 |
 | Expanding Horizons | 0.20% | ~455 |
 | Am I Seeing This? | 0.20% | ~455 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,460 (Ranked 69)  
-Completed: 519 (0.23%) (Ranked 248)  
+Progressed: 227,491 (Ranked 69)  
+Completed: 520 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 519 (0.23%) (Ranked 248)
 | 2023-11-22 | 225,927 | 503 |
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
-| 2023-11-25 | 227,460 | 519 |
+| 2023-11-25 | 227,491 | 520 |
 ## Awards
 Max (Great Boss Battles): 2,415  (Ranked 105)  
 Sum: 5,863 (Ranked 129)  

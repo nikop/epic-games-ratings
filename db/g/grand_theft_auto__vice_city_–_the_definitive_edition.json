@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -871,7 +871,7 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 11090,
+  "EOS_Progressed": 11091,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -13226,6 +13226,11 @@
       "Time": "2023-11-25T04:08:26.3365356+00:00",
       "NumProgressed": 11090,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-25T07:08:53.3393637+00:00",
+      "NumProgressed": 11091,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13261,7 +13266,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH05",
@@ -13397,7 +13402,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5212
+      "UsersEstimate": 5213
     },
     {
       "ID": "ACH22",
@@ -13413,7 +13418,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2883
+      "UsersEstimate": 2884
     },
     {
       "ID": "ACH24",
@@ -13437,7 +13442,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACH27",
@@ -13445,7 +13450,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH28",
@@ -13508,7 +13513,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11090,
+      "Progressed": 11091,
       "Completed": 65
     }
   ],
@@ -13516,8 +13521,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-22T23:57:24.8595018+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:08:39.7735007+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:08:53.3393636+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.2542846+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:58:46.3394837+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:08:39.7735619+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:58:35.7920513+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:08:53.339423+00:00"
 }

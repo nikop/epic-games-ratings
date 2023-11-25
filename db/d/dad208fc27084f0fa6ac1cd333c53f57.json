@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4160,
+  "EOS_Progressed": 4161,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -2909,6 +2909,11 @@
       "Time": "2023-11-25T06:05:26.2531116+00:00",
       "NumProgressed": 4160,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-25T07:04:54.1481239+00:00",
+      "NumProgressed": 4161,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -2961,7 +2966,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -2977,7 +2982,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 3286
+      "UsersEstimate": 3287
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -3048,14 +3053,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4160,
+      "Progressed": 4161,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:05:26.2531112+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:04:54.1481237+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:02.5242204+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:57:30.886263+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:05:26.2531309+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:57:43.0538547+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:04:54.1481472+00:00"
 }

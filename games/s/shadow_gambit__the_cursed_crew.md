@@ -5,35 +5,35 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 65.00% | ~576 |
-| The Adventure Begins | 51.00% | ~452 |
-| Swabbie | 40.00% | ~354 |
+| A New Journey | 65.00% | ~577 |
+| The Adventure Begins | 51.00% | ~453 |
+| Swabbie | 40.00% | ~355 |
 | With Great Power… | 39.00% | ~346 |
-| This Belongs in a Museum | 35.00% | ~310 |
+| This Belongs in a Museum | 35.00% | ~311 |
 | The Gambit Has Begun | 32.00% | ~284 |
-| Somewhere Deep in the Lost Caribbean | 29.00% | ~257 |
-| Powder Monkey | 29.00% | ~257 |
-| Mirror Mirror on the Wall | 28.00% | ~248 |
-| Pirates Assemble! | 26.00% | ~230 |
+| Somewhere Deep in the Lost Caribbean | 29.00% | ~258 |
+| Powder Monkey | 29.00% | ~258 |
+| Mirror Mirror on the Wall | 28.00% | ~249 |
+| Pirates Assemble! | 26.00% | ~231 |
 | Buccaneer | 23.00% | ~204 |
 | Fishy Fish | 21.00% | ~186 |
-| All Good Things | 20.00% | ~177 |
+| All Good Things | 20.00% | ~178 |
 | Seadog | 17.00% | ~151 |
 | Persistent Parasite | 17.00% | ~151 |
 | Jaded Judge | 13.00% | ~115 |
-| Privateer | 11.00% | ~97 |
-| Tobacco Travesty | 11.00% | ~97 |
-| Rustic Recipe | 11.00% | ~97 |
+| Privateer | 11.00% | ~98 |
+| Tobacco Travesty | 11.00% | ~98 |
+| Rustic Recipe | 11.00% | ~98 |
 | Accursed Artifacts | 10.00% | ~89 |
 | Lyrical Longing | 10.00% | ~89 |
 | Corsair | 7.00% | ~62 |
 | Fully Decked | 7.00% | ~62 |
 | Freebooter | 5.00% | ~44 |
-| Marauder | 4.00% | ~35 |
-| Welcome Back Jester | 4.00% | ~35 |
+| Marauder | 4.00% | ~36 |
+| Welcome Back Jester | 4.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886 (Ranked 269)  
-Completed: 30 (3.39%) (Ranked 92)  
+Progressed: 888 (Ranked 269)  
+Completed: 30 (3.38%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 30 (3.39%) (Ranked 92)
 | 2023-11-22 | 855 | 30 |
 | 2023-11-23 | 871 | 30 |
 | 2023-11-24 | 883 | 30 |
-| 2023-11-25 | 886 | 30 |
+| 2023-11-25 | 888 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

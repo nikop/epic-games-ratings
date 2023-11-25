@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15459,
+  "EOS_Progressed": 15465,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12183,6 +12183,11 @@
       "Time": "2023-11-25T06:06:18.9294106+00:00",
       "NumProgressed": 15459,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-25T07:05:31.766785+00:00",
+      "NumProgressed": 15465,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12243,7 +12248,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "16",
@@ -12251,7 +12256,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "17",
@@ -12259,7 +12264,7 @@
       "Name": "Spore Taste",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "18",
@@ -12339,7 +12344,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "27",
@@ -12459,7 +12464,7 @@
       "Name": "Master Negotiator",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "35",
@@ -12474,22 +12479,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15459,
+      "Progressed": 15465,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1413,
-      "Completed": 706
+      "Progressed": 1419,
+      "Completed": 707
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-24T17:57:32.8861451+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:06:18.9294102+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:05:31.7667848+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:58:23.0922359+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:06:18.9294888+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:58:19.5684017+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:05:31.7668632+00:00"
 }

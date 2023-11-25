@@ -4009,10 +4009,16 @@
       "Rating": 3.79,
       "NumberOfAwards": 8742,
       "NumberOfAwardsMax": 1078
+    },
+    {
+      "Time": "2023-11-25T07:03:16.5614686+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 8743,
+      "NumberOfAwardsMax": 1078
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8742,
+  "NumberOfAwards": 8743,
   "NumberOfAwardsMax": 1078,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -4068,7 +4074,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 612
+      "Count": 613
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4077,9 +4083,9 @@
       "Count": 1078
     }
   ],
-  "EOS_Progressed": 79957,
+  "EOS_Progressed": 79958,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 1030,
+  "EOS_NewPlayers": 1024,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28867,6 +28873,11 @@
       "Time": "2023-11-25T06:08:59.5273169+00:00",
       "NumProgressed": 79957,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-25T07:09:07.8816175+00:00",
+      "NumProgressed": 79958,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -28982,7 +28993,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 25586
+      "UsersEstimate": 25587
     },
     {
       "ID": "complete_mission_1",
@@ -28990,7 +29001,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 36780
+      "UsersEstimate": 36781
     },
     {
       "ID": "customize_a_vehicle",
@@ -28998,7 +29009,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 27185
+      "UsersEstimate": 27186
     },
     {
       "ID": "customize_a_weapon",
@@ -29150,7 +29161,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15991
+      "UsersEstimate": 15992
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -29230,7 +29241,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 21588
+      "UsersEstimate": 21589
     },
     {
       "ID": "two_thirds_purple",
@@ -29301,22 +29312,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 79957,
+      "Progressed": 79958,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 51594,
+      "Progressed": 51595,
       "Completed": 4374
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2023-11-24T23:02:47.5917307+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:08:59.5273165+00:00",
+  "LastChanged": "2023-11-25T07:03:16.5614684+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:09:07.8816173+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:50.0708943+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:03:11.1883885+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:08:59.5274363+00:00"
+  "LastUpdate_Ratings": "2023-11-25T07:03:16.561469+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:09:07.8817341+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -450,9 +450,9 @@
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "id_33",
@@ -546,9 +546,9 @@
       "ID": "id_48",
       "SetID": "bk9jib6",
       "Name": "Sharpshooter",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "id_49",
@@ -570,9 +570,9 @@
       "ID": "id_50",
       "SetID": "bk9jib6",
       "Name": "Fervent swimmer",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "id_51",
@@ -723,8 +723,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:09:14.5747651+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:09:18.8554401+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:00.0515257+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:58:13.7382074+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:09:14.5747978+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:58:13.1956168+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:09:18.8554682+00:00"
 }

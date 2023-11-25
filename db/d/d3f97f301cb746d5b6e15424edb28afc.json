@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 1067,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2795,9 +2795,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 971
+      "UsersEstimate": 982
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -3188,8 +3188,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-23T04:00:14.278488+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:07:28.475854+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:06:22.1547226+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:58:12.2694132+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:07:28.4759339+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:58:12.2122975+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:06:22.1548251+00:00"
 }

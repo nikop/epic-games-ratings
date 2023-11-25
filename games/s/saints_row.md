@@ -6,21 +6,21 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~36,780 |
+| First F#@!ing Day | 46.00% | ~36,781 |
 | To The Nines | 42.00% | ~33,582 |
 | Optimized | 37.00% | ~29,584 |
 | Performance Review | 36.00% | ~28,785 |
 | Making a Name | 35.00% | ~27,985 |
-| Tune Up | 34.00% | ~27,185 |
+| Tune Up | 34.00% | ~27,186 |
 | Landlord | 33.00% | ~26,386 |
-| Wet Work | 32.00% | ~25,586 |
+| Wet Work | 32.00% | ~25,587 |
 | The Side Job | 31.00% | ~24,787 |
 | Wrecking Ball | 28.00% | ~22,388 |
-| Food for Thought | 27.00% | ~21,588 |
+| Food for Thought | 27.00% | ~21,589 |
 | Finders Keepers | 26.00% | ~20,789 |
 | A Young Empire | 26.00% | ~20,789 |
 | Work Ethic | 23.00% | ~18,390 |
-| Picking Fights | 20.00% | ~15,991 |
+| Picking Fights | 20.00% | ~15,992 |
 | Power Players | 19.00% | ~15,192 |
 | Quality Time | 18.00% | ~14,392 |
 | Showdown | 17.00% | ~13,593 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~160 |
 | Fiesta Time | 0.20% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,957 (Ranked 97)  
+Progressed: 79,958 (Ranked 97)  
 Completed: 51 (0.06%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 51 (0.06%) (Ranked 303)
 | 2023-11-22 | 79,624 | 51 |
 | 2023-11-23 | 79,761 | 51 |
 | 2023-11-24 | 79,914 | 51 |
-| 2023-11-25 | 79,957 | 51 |
+| 2023-11-25 | 79,958 | 51 |
 ## Awards
 Max (Extremely Fun): 1,078  (Ranked 146)  
-Sum: 8,742 (Ranked 98)  
+Sum: 8,743 (Ranked 98)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -295,7 +295,7 @@ Diff (max vs sum): 48
 | This game is Relaxing | 993 |
 | This game has Amazing Storytelling | 976 |
 | This game has Playful Visuals | 777 |
-| This game has a Silly Community | 612 |
+| This game has a Silly Community | 613 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -522,3 +522,4 @@ Diff (max vs sum): 48
 | 2023-11-22 | 3.79 | - | 1,077 | 8,736 |
 | 2023-11-23 | 3.79 | - | 1,077 | 8,737 |
 | 2023-11-24 | 3.79 | - | 1,078 | 8,742 |
+| 2023-11-25 | 3.79 | - | 1,078 | 8,743 |

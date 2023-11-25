@@ -16,16 +16,16 @@ Rating: 4.58 (Ranked 445)
 | Safe Cracker | 5.00% | ~71 |
 | Zen Master | 5.00% | ~71 |
 | Madame Undersecretary | 5.00% | ~71 |
-| Stogie for Fogey | 4.00% | ~618 |
-| Drug Gifter | 4.00% | ~618 |
-| Spore Taste | 4.00% | ~618 |
-| Call it Even | 4.00% | ~618 |
+| Stogie for Fogey | 4.00% | ~619 |
+| Drug Gifter | 4.00% | ~619 |
+| Spore Taste | 4.00% | ~619 |
+| Call it Even | 4.00% | ~619 |
 | Keep Arjun in Check | 4.00% | ~57 |
 | Data Archivist | 3.00% | ~464 |
 | Thorston Mayer | 3.00% | ~464 |
 | Heal Thy Medic | 3.00% | ~464 |
 | Khan's Revenge | 3.00% | ~464 |
-| Master Negotiator | 3.00% | ~42 |
+| Master Negotiator | 3.00% | ~43 |
 | Doctor Approved | 2.00% | ~309 |
 | Bottoms up! | 2.00% | ~309 |
 | Data Logger | 2.00% | ~309 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 445)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,459 (Ranked 152)  
+Progressed: 15,465 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 35 (0.23%) (Ranked 248)
 | 2023-11-22 | 15,266 | 35 |
 | 2023-11-23 | 15,346 | 35 |
 | 2023-11-24 | 15,437 | 35 |
-| 2023-11-25 | 15,459 | 35 |
+| 2023-11-25 | 15,465 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -235,9 +235,9 @@
       "ID": "1",
       "SetID": "41h3j82",
       "Name": "Welcome to Stilesville",
-      "Percentage": 91,
+      "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "10",
@@ -396,8 +396,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:06:27.5560882+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:05:37.8877766+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.927925+00:00",
-  "LastUpdate_Ratings": "2023-11-25T06:00:18.4684533+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:06:27.5560999+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:59:38.3821919+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:05:37.8877856+00:00"
 }

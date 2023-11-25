@@ -2,7 +2,7 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 130,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -447,6 +447,11 @@
       "Time": "2023-11-25T06:08:27.2967891+00:00",
       "NumProgressed": 223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T07:08:44.2352506+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -459,7 +464,7 @@
       "Name": "Combo Crackerjack",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND1",
@@ -507,7 +512,7 @@
       "Name": "Easy Prey",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -515,7 +520,7 @@
       "Name": "Combo Convert",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -523,7 +528,7 @@
       "Name": "Perfect Run",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -537,9 +542,9 @@
       "ID": "FIRST_KODAMA_ELDER_TALK",
       "SetID": "apihg0e",
       "Name": "Elder Koco Encounter",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -547,7 +552,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -555,15 +560,15 @@
       "Name": "Celestial Rain",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -571,7 +576,7 @@
       "Name": "Speed Demon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FIRST_S_RANK",
@@ -579,7 +584,7 @@
       "Name": "Superior Ranking",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -619,7 +624,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -635,7 +640,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -651,7 +656,7 @@
       "Name": "The Journey Begins",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -675,7 +680,7 @@
       "Name": "Ares Island Memories",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD3",
@@ -771,21 +776,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-25T06:08:27.2967886+00:00",
+  "LastChanged_Achievements": "2023-11-25T07:08:44.2352503+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:59:51.3381338+00:00",
-  "LastUpdate_Achievements": "2023-11-25T06:08:27.296825+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:59:20.2996972+00:00",
+  "LastUpdate_Achievements": "2023-11-25T07:08:44.2352773+00:00"
 }
