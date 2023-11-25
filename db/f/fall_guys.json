@@ -2,7 +2,7 @@
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
   "ProductSlug": "fall-guys",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 569,
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 5,
   "Ranking_EOS_Progress": 1,
@@ -15104,8 +15104,8 @@
   ],
   "EOS_Progressed": 36607709,
   "EOS_Completed": 46683,
-  "EOS_NewPlayers": 124878,
-  "EOS_NewCompleters": 371,
+  "EOS_NewPlayers": 124426,
+  "EOS_NewCompleters": 370,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -40461,8 +40461,8 @@
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "LastChanged": "2023-11-25T01:41:14.455638+00:00",
-  "LastChanged_Achievements": "2023-11-25T01:48:43.5648499+00:00",
+  "LastChanged_Achievements": "2023-11-25T02:23:15.2567428+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.7805099+00:00",
-  "LastUpdate_Ratings": "2023-11-25T01:41:14.4556386+00:00",
-  "LastUpdate_Achievements": "2023-11-25T01:48:43.5650056+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:16:08.8350464+00:00",
+  "LastUpdate_Achievements": "2023-11-25T02:23:15.2568688+00:00"
 }

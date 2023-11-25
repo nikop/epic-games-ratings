@@ -2,7 +2,7 @@
   "ID": "3b661fd6a9724ac7b6ac6d10d0572511",
   "Name": "PAYDAY 2",
   "ProductSlug": "payday-2-c66369",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 6,
@@ -7371,7 +7371,7 @@
   ],
   "EOS_Progressed": 1783708,
   "EOS_Completed": 707,
-  "EOS_NewPlayers": 7031,
+  "EOS_NewPlayers": 7009,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -37937,8 +37937,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-11-24T21:58:10.656326+00:00",
-  "LastChanged_Achievements": "2023-11-25T01:52:53.9119103+00:00",
+  "LastChanged_Achievements": "2023-11-25T02:27:08.6881573+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.1805829+00:00",
-  "LastUpdate_Ratings": "2023-11-25T01:41:14.3182466+00:00",
-  "LastUpdate_Achievements": "2023-11-25T01:52:53.9236411+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:16:08.7081914+00:00",
+  "LastUpdate_Achievements": "2023-11-25T02:27:08.7001674+00:00"
 }

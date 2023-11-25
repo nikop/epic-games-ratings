@@ -2,7 +2,7 @@
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
-  "Ranking_Rating": 526,
+  "Ranking_Rating": 527,
   "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 13,
@@ -2973,7 +2973,7 @@
   ],
   "EOS_Progressed": 1078420,
   "EOS_Completed": 494,
-  "EOS_NewPlayers": 2739,
+  "EOS_NewPlayers": 2726,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28244,8 +28244,8 @@
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-11-24T23:59:11.5341052+00:00",
-  "LastChanged_Achievements": "2023-11-25T01:52:23.2082956+00:00",
+  "LastChanged_Achievements": "2023-11-25T02:26:39.7022443+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:57.1534795+00:00",
-  "LastUpdate_Ratings": "2023-11-25T01:42:22.2452886+00:00",
-  "LastUpdate_Achievements": "2023-11-25T01:52:23.2084704+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:17:12.7046181+00:00",
+  "LastUpdate_Achievements": "2023-11-25T02:26:39.7023855+00:00"
 }

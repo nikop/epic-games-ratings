@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 10,
@@ -1997,7 +1997,7 @@
   ],
   "EOS_Progressed": 1290020,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1575,
+  "EOS_NewPlayers": 1573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22969,8 +22969,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-11-25T00:00:01.4307379+00:00",
-  "LastChanged_Achievements": "2023-11-25T01:47:45.7077569+00:00",
+  "LastChanged_Achievements": "2023-11-25T02:22:22.3846739+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:18.8249356+00:00",
-  "LastUpdate_Ratings": "2023-11-25T01:43:18.9929283+00:00",
-  "LastUpdate_Achievements": "2023-11-25T01:47:45.7078501+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:18:03.7314577+00:00",
+  "LastUpdate_Achievements": "2023-11-25T02:22:22.3848019+00:00"
 }

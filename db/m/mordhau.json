@@ -2,7 +2,7 @@
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
   "ProductSlug": "mordhau",
-  "Ranking_Rating": 764,
+  "Ranking_Rating": 765,
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 7,
@@ -6011,7 +6011,7 @@
   ],
   "EOS_Progressed": 1561881,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 3518,
+  "EOS_NewPlayers": 3507,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31341,8 +31341,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-11-24T20:00:05.1810203+00:00",
-  "LastChanged_Achievements": "2023-11-25T01:47:05.0377394+00:00",
+  "LastChanged_Achievements": "2023-11-25T02:21:45.7894412+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.2635782+00:00",
-  "LastUpdate_Ratings": "2023-11-25T01:43:15.2171288+00:00",
-  "LastUpdate_Achievements": "2023-11-25T01:47:05.0378634+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:17:59.9159416+00:00",
+  "LastUpdate_Achievements": "2023-11-25T02:21:45.7896031+00:00"
 }

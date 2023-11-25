@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 526,
+  "Ranking_Rating": 527,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
@@ -6863,7 +6863,7 @@
   ],
   "EOS_Progressed": 724121,
   "EOS_Completed": 2429,
-  "EOS_NewPlayers": 4271,
+  "EOS_NewPlayers": 4261,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32298,8 +32298,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-24T19:58:53.5097061+00:00",
-  "LastChanged_Achievements": "2023-11-25T01:48:36.8617053+00:00",
+  "LastChanged_Achievements": "2023-11-25T02:23:09.1180221+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-25T01:42:04.5788509+00:00",
-  "LastUpdate_Achievements": "2023-11-25T01:48:36.8618577+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:16:57.5286181+00:00",
+  "LastUpdate_Achievements": "2023-11-25T02:23:09.1181443+00:00"
 }

@@ -1,7 +1,7 @@
 # Dying Light 2 Stay Human - Black Friday Edition
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human--black-friday-edition)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

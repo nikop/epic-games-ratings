@@ -2,7 +2,7 @@
   "ID": "428115def4ca4deea9d69c99c5a5a99e",
   "Name": "Destiny 2",
   "ProductSlug": "destiny-2",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 14,
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 31,
@@ -11588,7 +11588,7 @@
   ],
   "EOS_Progressed": 587325,
   "EOS_Completed": 16698,
-  "EOS_NewPlayers": 4720,
+  "EOS_NewPlayers": 4703,
   "EOS_NewCompleters": 155,
   "EOS_Completed_Percentage": 2.84,
   "EosHistory": [
@@ -36784,8 +36784,8 @@
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "LastChanged": "2023-11-25T01:43:13.4010572+00:00",
-  "LastChanged_Achievements": "2023-11-25T01:51:33.7868258+00:00",
+  "LastChanged_Achievements": "2023-11-25T02:25:55.05612+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.434463+00:00",
-  "LastUpdate_Ratings": "2023-11-25T01:43:13.401058+00:00",
-  "LastUpdate_Achievements": "2023-11-25T01:51:33.7869573+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:17:58.2964636+00:00",
+  "LastUpdate_Achievements": "2023-11-25T02:25:55.0562611+00:00"
 }

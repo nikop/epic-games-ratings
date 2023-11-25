@@ -2,7 +2,7 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "ProductSlug": "sable",
-  "Ranking_Rating": 540,
+  "Ranking_Rating": 541,
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 88,
@@ -511,7 +511,7 @@
   ],
   "EOS_Progressed": 100670,
   "EOS_Completed": 1019,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1135,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25934,8 +25934,8 @@
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-11-23T17:58:18.7561537+00:00",
-  "LastChanged_Achievements": "2023-11-25T01:52:24.7603041+00:00",
+  "LastChanged_Achievements": "2023-11-25T02:26:41.0787115+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:40.7394334+00:00",
-  "LastUpdate_Ratings": "2023-11-25T01:42:04.0191369+00:00",
-  "LastUpdate_Achievements": "2023-11-25T01:52:24.7604475+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:16:57.1661357+00:00",
+  "LastUpdate_Achievements": "2023-11-25T02:26:41.0788703+00:00"
 }

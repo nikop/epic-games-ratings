@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
@@ -1539,7 +1539,7 @@
   ],
   "EOS_Progressed": 159889,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1099,
+  "EOS_NewPlayers": 1093,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17328,8 +17328,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-23T13:57:29.6901407+00:00",
-  "LastChanged_Achievements": "2023-11-25T01:47:53.3422224+00:00",
+  "LastChanged_Achievements": "2023-11-25T02:22:29.4675316+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-25T01:41:22.1065777+00:00",
-  "LastUpdate_Achievements": "2023-11-25T01:47:53.3423362+00:00"
+  "LastUpdate_Ratings": "2023-11-25T02:16:15.5072122+00:00",
+  "LastUpdate_Achievements": "2023-11-25T02:22:29.4676082+00:00"
 }
