@@ -37,6 +37,7 @@ Rating: 3.45 (Ranked 1,047)
 | You Clean It Up | 0.50% | ~9 |
 | Starve the Beast | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
+| Blacklight Down | 0.50% | ~9 |
 | Curious Finch | 0.50% | ~9 |
 | I Spit On Your Grave | 0.50% | ~9 |
 | Revelations | 0.40% | ~7 |
@@ -46,7 +47,6 @@ Rating: 3.45 (Ranked 1,047)
 | What Lies Below | 0.30% | ~5 |
 | Bloody Initiate | 0.30% | ~5 |
 | So Anyway I Started Blasting | 0.30% | ~5 |
-| Blacklight Down | 0.30% | ~5 |
 | Under a Bushel | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |
 | Good Samaritan | 0.30% | ~5 |

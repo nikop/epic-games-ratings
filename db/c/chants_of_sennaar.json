@@ -3098,9 +3098,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 245
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3161,8 +3161,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:03:23.6411983+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:03:43.9919691+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:59:39.9345325+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:03:23.6412291+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:59:36.5157673+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:03:43.9920182+00:00"
 }

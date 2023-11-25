@@ -26,7 +26,7 @@ Rating: 4.64 (Ranked 333)
 | Wreckage | 43.00% | ~846 |
 | Live with the Hot Ones | 42.00% | ~827 |
 | Keeper of the Faith | 41.00% | ~807 |
-| Betrayed | 39.00% | ~768 |
+| Betrayed | 40.00% | ~787 |
 | Legend Teller | 39.00% | ~768 |
 | Exodus | 38.00% | ~748 |
 | Mindless Prey | 38.00% | ~748 |

@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 383,
+  "Ranking_Rating": 382,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7769,9 +7769,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "46",
@@ -7912,8 +7912,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:05:26.1697172+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:05:34.4818879+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:57:03.5601006+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:05:26.1697828+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:57:24.3602719+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:05:34.4819694+00:00"
 }

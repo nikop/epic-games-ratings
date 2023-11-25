@@ -2,7 +2,7 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 129,
@@ -425,9 +425,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement30",
@@ -552,8 +552,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:03:24.0160198+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:03:44.3518076+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:59:01.1780344+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:03:24.0160445+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:59:03.8160533+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:03:44.3518277+00:00"
 }

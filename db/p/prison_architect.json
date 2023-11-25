@@ -2,9 +2,9 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 383,
+  "Ranking_Rating": 382,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 147,
+  "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 45,
@@ -7047,9 +7047,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 197350,
+  "EOS_Progressed": 197360,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2440,
+  "EOS_NewPlayers": 2439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32002,6 +32002,11 @@
       "Time": "2023-11-25T09:08:50.1339477+00:00",
       "NumProgressed": 197350,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-25T10:09:10.2246456+00:00",
+      "NumProgressed": 197360,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -32029,7 +32034,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5920
+      "UsersEstimate": 5921
     },
     {
       "ID": "Achievement_11",
@@ -32037,7 +32042,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5920
+      "UsersEstimate": 5921
     },
     {
       "ID": "Achievement_12",
@@ -32045,7 +32050,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31576
+      "UsersEstimate": 31578
     },
     {
       "ID": "Achievement_13",
@@ -32069,7 +32074,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5920
+      "UsersEstimate": 5921
     },
     {
       "ID": "Achievement_2",
@@ -32093,7 +32098,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 49338
+      "UsersEstimate": 49340
     },
     {
       "ID": "Achievement_5",
@@ -32140,15 +32145,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 197350,
+      "Progressed": 197360,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-24T19:58:34.855126+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:08:50.1339475+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:09:10.2246451+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:32.1139212+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:58:49.3825778+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:08:50.1340969+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:58:53.7988863+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:09:10.2247947+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1909,
+  "EOS_Progressed": 1910,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7203,6 +7203,11 @@
       "Time": "2023-11-25T09:03:44.94272+00:00",
       "NumProgressed": 1909,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T10:04:03.245819+00:00",
+      "NumProgressed": 1910,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7238,7 +7243,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -7358,7 +7363,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -7390,7 +7395,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7470,7 +7475,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7517,7 +7522,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1909,
+      "Progressed": 1910,
       "Completed": 1
     }
   ],
@@ -7525,8 +7530,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:03:44.9427197+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:04:03.2458187+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:45.1710661+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:57:40.8367763+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:03:44.9427674+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:57:56.1351001+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:04:03.2458706+00:00"
 }

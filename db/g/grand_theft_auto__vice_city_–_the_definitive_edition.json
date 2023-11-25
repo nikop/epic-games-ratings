@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -871,9 +871,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 11091,
+  "EOS_Progressed": 11092,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -13231,6 +13231,11 @@
       "Time": "2023-11-25T07:08:53.3393637+00:00",
       "NumProgressed": 11091,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-25T10:08:44.033649+00:00",
+      "NumProgressed": 11092,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13330,7 +13335,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH13",
@@ -13346,7 +13351,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "ACH15",
@@ -13513,7 +13518,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11091,
+      "Progressed": 11092,
       "Completed": 65
     }
   ],
@@ -13521,8 +13526,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-22T23:57:24.8595018+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:08:20.4870029+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:08:44.0336485+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.2542846+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:58:19.0799811+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:08:20.4870702+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:58:27.9750175+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:08:44.0337406+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -920,9 +920,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "StellarDismantler",
@@ -1184,9 +1184,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "NoctuanHero",
@@ -1215,8 +1215,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:04:34.3776628+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:04:47.5631715+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:38.9498707+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:59:10.5517871+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:04:34.377753+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:59:11.5323034+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:04:47.5632486+00:00"
 }

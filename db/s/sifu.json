@@ -7857,9 +7857,9 @@
       "Count": 423
     }
   ],
-  "EOS_Progressed": 717297,
+  "EOS_Progressed": 717305,
   "EOS_Completed": 12939,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -27227,6 +27227,11 @@
       "Time": "2023-11-25T09:06:31.7356964+00:00",
       "NumProgressed": 717297,
       "NumCompleted": 12939
+    },
+    {
+      "Time": "2023-11-25T10:06:32.3187191+00:00",
+      "NumProgressed": 717305,
+      "NumCompleted": 12939
     }
   ],
   "TotalAchievements": 60,
@@ -27270,7 +27275,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "06_Vengeance_H5",
@@ -27278,7 +27283,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "07_Wude_H1",
@@ -27342,7 +27347,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "15_Detective_H1",
@@ -27390,7 +27395,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -27406,7 +27411,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -27446,7 +27451,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -27486,7 +27491,7 @@
       "Name": "Old Child",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "33_BladeOneShot",
@@ -27518,7 +27523,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -27550,7 +27555,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -27717,21 +27722,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26598,
-      "Completed": 10751
+      "Progressed": 26606,
+      "Completed": 10752
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717297,
+      "Progressed": 717305,
       "Completed": 12939
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-25T08:57:25.6670484+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:06:31.7356963+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:06:32.3187186+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.0924879+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:57:25.667049+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:06:31.7358123+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:57:43.0189494+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:06:32.3188513+00:00"
 }

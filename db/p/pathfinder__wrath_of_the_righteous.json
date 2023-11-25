@@ -4373,9 +4373,9 @@
       "Count": 397
     }
   ],
-  "EOS_Progressed": 12170,
+  "EOS_Progressed": 12171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16033,6 +16033,11 @@
       "Time": "2023-11-25T08:11:00.8595995+00:00",
       "NumProgressed": 12170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T10:08:56.4696572+00:00",
+      "NumProgressed": 12171,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16116,7 +16121,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "11_PathOfAeon",
@@ -16172,7 +16177,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "18_MythicChoices",
@@ -16228,7 +16233,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "25_MasterfulDispell",
@@ -16244,7 +16249,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "28_GreatUpstart",
@@ -16388,7 +16393,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "46_AllPathsOpen",
@@ -16396,7 +16401,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -16468,7 +16473,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "56_GetToad",
@@ -16476,7 +16481,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "57_PathOfDevil",
@@ -16971,21 +16976,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10952,
+      "Progressed": 10953,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12170,
+      "Progressed": 12171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-25T02:16:18.2958375+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:08:34.8068809+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:08:56.4696568+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:05.4492632+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:58:27.5023903+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:08:34.8070364+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:58:35.2756552+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:08:56.4698304+00:00"
 }

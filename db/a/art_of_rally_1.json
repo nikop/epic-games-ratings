@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10320,
+  "EOS_Progressed": 10321,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1884,6 +1884,11 @@
       "Time": "2023-11-24T17:05:54.1196156+00:00",
       "NumProgressed": 10320,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-25T10:06:33.4897208+00:00",
+      "NumProgressed": 10321,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1919,7 +1924,7 @@
       "Name": "autopilot",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -2007,7 +2012,7 @@
       "Name": "rwd only",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -2103,7 +2108,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5882
+      "UsersEstimate": 5883
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2119,7 +2124,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9907
+      "UsersEstimate": 9908
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2135,7 +2140,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6192
+      "UsersEstimate": 6193
     },
     {
       "ID": "ACH_NIGHT",
@@ -2167,7 +2172,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -2215,7 +2220,7 @@
       "Name": "food tour: pasta",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "ACH_WEEKLY",
@@ -2231,22 +2236,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7430
+      "UsersEstimate": 7431
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10320,
+      "Progressed": 10321,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:06:33.0889075+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:06:33.4897204+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:12.6218807+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:57:03.3858673+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:06:33.0889434+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:57:23.6422581+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:06:33.4897545+00:00"
 }

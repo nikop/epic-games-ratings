@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2788,9 +2788,9 @@
       "ID": "ACH_MUSICFORCOWS",
       "SetID": "7pam6gn",
       "Name": "Music for Cows",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -2845,8 +2845,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:08:56.9907164+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:09:16.3007092+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:23.0208981+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:58:39.8101032+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:08:56.9907438+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:58:45.4340261+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:09:16.3007375+00:00"
 }

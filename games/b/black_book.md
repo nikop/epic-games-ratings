@@ -6,16 +6,16 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,599 |
-| Student | 22.00% | ~12,256 |
-| Knower | 16.00% | ~8,914 |
+| Initiation | 28.00% | ~15,600 |
+| Student | 22.00% | ~12,258 |
+| Knower | 16.00% | ~8,915 |
 | Aspen Tree | 14.00% | ~7,800 |
 | Healer | 14.00% | ~7,800 |
 | Listener | 14.00% | ~7,800 |
-| Soldier | 12.00% | ~6,685 |
-| Scientist | 11.00% | ~6,128 |
-| Cow Level | 10.00% | ~5,571 |
-| Water | 10.00% | ~5,571 |
+| Soldier | 12.00% | ~6,686 |
+| Scientist | 11.00% | ~6,129 |
+| Cow Level | 10.00% | ~5,572 |
+| Water | 10.00% | ~5,572 |
 | Old Friend | 9.00% | ~5,014 |
 | Herbalist | 9.00% | ~5,014 |
 | New Spirits | 9.00% | ~5,014 |
@@ -43,9 +43,9 @@ Number of Ratings: 96  (23.09.2022)
 | Vorsa | 5.00% | ~2,786 |
 | Susanin | 5.00% | ~2,786 |
 | Traveller | 5.00% | ~2,786 |
-| Righteous | 4.00% | ~2,228 |
-| Musician | 4.00% | ~2,228 |
-| Koldun | 4.00% | ~2,228 |
+| Righteous | 4.00% | ~2,229 |
+| Musician | 4.00% | ~2,229 |
+| Koldun | 4.00% | ~2,229 |
 | Black Sorceress | 3.00% | ~1,671 |
 | Cheater | 3.00% | ~1,671 |
 | Diplomat | 3.00% | ~1,671 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,114 |
 | Word Master | 0.20% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,711 (Ranked 109)  
+Progressed: 55,716 (Ranked 109)  
 Completed: 55 (0.10%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 55 (0.10%) (Ranked 284)
 | 2023-11-22 | 55,133 | 54 |
 | 2023-11-23 | 55,367 | 54 |
 | 2023-11-24 | 55,614 | 54 |
-| 2023-11-25 | 55,711 | 55 |
+| 2023-11-25 | 55,716 | 55 |
 ## Awards
 Max (Character Customization): 90  (Ranked 380)  
 Sum: 90 (Ranked 455)  

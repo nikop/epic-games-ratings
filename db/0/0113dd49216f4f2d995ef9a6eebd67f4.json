@@ -2,7 +2,7 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 129,
@@ -412,9 +412,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:04:25.4546918+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:04:39.5012051+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.7310198+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:59:43.7219652+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:04:25.4547102+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:59:39.6822847+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:04:39.5012294+00:00"
 }

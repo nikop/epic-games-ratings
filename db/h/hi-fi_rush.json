@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4326,
+  "EOS_Progressed": 4329,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7630,6 +7630,11 @@
       "Time": "2023-11-25T09:03:09.8197871+00:00",
       "NumProgressed": 4326,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T10:03:31.9753629+00:00",
+      "NumProgressed": 4329,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7641,7 +7646,7 @@
       "Name": "Start with a bang!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "Ach002",
@@ -7665,7 +7670,7 @@
       "Name": "The Negotiator",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "Ach005",
@@ -7833,7 +7838,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "Ach026",
@@ -7865,7 +7870,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "Ach030",
@@ -7881,7 +7886,7 @@
       "Name": "Perfect Parry",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "Ach032",
@@ -7969,7 +7974,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "Ach043",
@@ -8041,7 +8046,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "Ach052",
@@ -8208,13 +8213,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4326,
+      "Progressed": 4329,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2847,
+      "Progressed": 2850,
       "Completed": 1930
     }
   ],
@@ -8222,8 +8227,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:03:09.819787+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:03:31.9753625+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:59:04.8778733+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:03:09.8198692+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:59:06.889937+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:03:31.9754461+00:00"
 }

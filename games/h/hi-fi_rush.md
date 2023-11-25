@@ -6,13 +6,13 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 18.00% | ~779 |
-| Start with a bang! | 17.00% | ~735 |
-| You can pet the cat! | 16.00% | ~692 |
+| Start with a bang! | 17.00% | ~736 |
+| You can pet the cat! | 16.00% | ~693 |
 | Who put gears in there? | 15.00% | ~649 |
 | Cream of the Crop | 14.00% | ~606 |
 | Thanks for the free chip, Peppermint! | 14.00% | ~606 |
-| You got this, Peppermint? | 13.00% | ~562 |
-| Perfect Parry | 13.00% | ~562 |
+| You got this, Peppermint? | 13.00% | ~563 |
+| Perfect Parry | 13.00% | ~563 |
 | Alright, that felt AWESOME! | 12.00% | ~519 |
 | This will cost you big time | 11.00% | ~476 |
 | I play my own way! | 11.00% | ~476 |
@@ -20,9 +20,9 @@ Rating: 4.87 (Ranked 24)
 | Uh, they were broken when I got here | 11.00% | ~476 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~433 |
 | Kissing the sky! | 10.00% | ~433 |
-| The Negotiator | 9.00% | ~389 |
-| Out in a puff of smoke | 9.00% | ~389 |
-| I look cool. But I can look COOLER. | 9.00% | ~389 |
+| The Negotiator | 9.00% | ~390 |
+| Out in a puff of smoke | 9.00% | ~390 |
+| I look cool. But I can look COOLER. | 9.00% | ~390 |
 | Headliner | 8.00% | ~346 |
 | Time to pay up! | 8.00% | ~346 |
 | Who's the boss now? | 8.00% | ~346 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,326 (Ranked 194)  
+Progressed: 4,329 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 8 (0.18%) (Ranked 261)
 | 2023-11-22 | 4,261 | 8 |
 | 2023-11-23 | 4,297 | 8 |
 | 2023-11-24 | 4,316 | 8 |
-| 2023-11-25 | 4,326 | 8 |
+| 2023-11-25 | 4,329 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -641,9 +641,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 13991,
+  "EOS_Progressed": 13992,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -11616,6 +11616,11 @@
       "Time": "2023-11-25T04:03:34.2029944+00:00",
       "NumProgressed": 13991,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-25T10:04:02.6658327+00:00",
+      "NumProgressed": 13992,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 35,
@@ -11627,7 +11632,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12872
+      "UsersEstimate": 12873
     },
     {
       "ID": "ACH_02",
@@ -11635,7 +11640,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 11053
+      "UsersEstimate": 11054
     },
     {
       "ID": "ACH_03",
@@ -11643,7 +11648,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10353
+      "UsersEstimate": 10354
     },
     {
       "ID": "ACH_04",
@@ -11667,7 +11672,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 9234
+      "UsersEstimate": 9235
     },
     {
       "ID": "ACH_07",
@@ -11675,7 +11680,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8814
+      "UsersEstimate": 8815
     },
     {
       "ID": "ACH_08",
@@ -11699,7 +11704,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "ACH_11",
@@ -11723,7 +11728,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5596
+      "UsersEstimate": 5597
     },
     {
       "ID": "ACH_14",
@@ -11906,7 +11911,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13991,
+      "Progressed": 13992,
       "Completed": 55
     }
   ],
@@ -11914,8 +11919,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-18T18:58:13.2063363+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:03:44.2339892+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:04:02.6658322+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:27.4734517+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:57:21.4566467+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:03:44.2340726+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:57:39.3931182+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:04:02.6658951+00:00"
 }

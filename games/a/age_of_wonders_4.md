@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 383)  
+Rating: 4.61 (Ranked 382)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,6 +21,7 @@ Rating: 4.61 (Ranked 383)
 | Seat of Power | 1.00% | ~55 |
 | In a Liege of Your Own | 1.00% | ~55 |
 | Intimidation Tactics | 1.00% | ~55 |
+| Here be Dragons | 1.00% | ~55 |
 | Tipping the Scales | 1.00% | ~55 |
 | Mighty Hoard | 1.00% | ~55 |
 | Sehiran Oasis | 1.00% | ~55 |
@@ -28,7 +29,6 @@ Rating: 4.61 (Ranked 383)
 | Seal the Deal | 1.00% | ~55 |
 | Spoils of War | 1.00% | ~55 |
 | Impenetrable Fortress | 0.90% | ~49 |
-| Here be Dragons | 0.90% | ~49 |
 | Dawn of the Dread | 0.90% | ~49 |
 | Return of the Wizard King | 0.80% | ~44 |
 | Enchanted Archipelago | 0.80% | ~44 |

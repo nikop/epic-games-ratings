@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79109,
+  "EOS_Progressed": 79111,
   "EOS_Completed": 852,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24557,6 +24557,11 @@
       "Time": "2023-11-25T09:07:48.0770513+00:00",
       "NumProgressed": 79109,
       "NumCompleted": 852
+    },
+    {
+      "Time": "2023-11-25T10:06:46.0238686+00:00",
+      "NumProgressed": 79111,
+      "NumCompleted": 852
     }
   ],
   "TotalAchievements": 25,
@@ -24664,7 +24669,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3955
+      "UsersEstimate": 3956
     },
     {
       "ID": "Master, Commander",
@@ -24696,7 +24701,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12657
+      "UsersEstimate": 12658
     },
     {
       "ID": "Nothing Left to Say",
@@ -24767,7 +24772,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79109,
+      "Progressed": 79111,
       "Completed": 852
     }
   ],
@@ -24775,8 +24780,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:07:48.0770512+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:06:46.0238681+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:57:47.3229394+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:07:48.0771683+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:58:01.8467384+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:06:46.0240205+00:00"
 }

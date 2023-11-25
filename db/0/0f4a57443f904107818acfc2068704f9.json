@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 569,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1322,9 +1322,9 @@
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 154
     },
     {
       "ID": "CompleteChapter5",
@@ -1465,8 +1465,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:05:48.3569773+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:05:54.0290185+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:58:45.0523727+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:05:48.3569988+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:58:49.8800922+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:05:54.0290554+00:00"
 }

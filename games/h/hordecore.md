@@ -10,7 +10,7 @@
 | DIY | 77.00% | ~279 |
 | Master Chef | 65.00% | ~235 |
 | Master of Cards | 58.00% | ~210 |
-| Over Nine Thousaaand | 56.00% | ~203 |
+| Over Nine Thousaaand | 57.00% | ~206 |
 | Getting the Hang Of This | 48.00% | ~174 |
 | Collector | 29.00% | ~105 |
 | That’s What Friends Are For | 22.00% | ~80 |

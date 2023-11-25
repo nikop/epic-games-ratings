@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~347 |
-| Thalya – Simply Immortal | 86.00% | ~347 |
+| The Last Stand | 87.00% | ~351 |
+| Thalya – Simply Immortal | 87.00% | ~351 |
 | For the Horde! | 81.00% | ~327 |
 | Hammer Time, Round Two | 79.00% | ~319 |
 | The Hellwoods | 74.00% | ~299 |
 | The Plains of Strothalm | 68.00% | ~275 |
-| Experienced Thalya | 67.00% | ~271 |
+| Experienced Thalya | 68.00% | ~275 |
 | Thalya's Concentrated Fury | 66.00% | ~267 |
 | Master of Magic | 64.00% | ~259 |
 | Bad Elves Go Everywhere | 62.00% | ~250 |
+| Unicorn steaks – fresh off the hoof! | 58.00% | ~234 |
 | Magic Accidents | 57.00% | ~230 |
-| Unicorn steaks – fresh off the hoof! | 57.00% | ~230 |
 | Heroes’ Gorge | 57.00% | ~230 |
 | Trap Master | 54.00% | ~218 |
 | Minions, Minions! | 53.00% | ~214 |
@@ -27,8 +27,8 @@
 | Pure Dynamite! | 39.00% | ~158 |
 | “… like son” | 37.00% | ~149 |
 | Mana Cannon | 33.00% | ~133 |
+| Dungeonlord Gorgu | 33.00% | ~133 |
 | Shame! Shame! Shame! | 33.00% | ~133 |
-| Dungeonlord Gorgu | 32.00% | ~129 |
 | The Cathedral of Light | 32.00% | ~129 |
 | Tanos' Crusade Against Thalya | 29.00% | ~117 |
 | All’s Well That Ends Evil | 25.00% | ~101 |

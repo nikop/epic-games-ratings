@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4354,
+  "EOS_Progressed": 4355,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1586,6 +1586,11 @@
       "Time": "2023-11-24T23:09:07.3030487+00:00",
       "NumProgressed": 4354,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-25T10:09:39.8452306+00:00",
+      "NumProgressed": 4355,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -2245,7 +2250,7 @@
       "Name": "Tax-man I",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2349,7 +2354,7 @@
       "Name": "A new beginning",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2357,7 +2362,7 @@
       "Name": "Friends from the past",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -2404,15 +2409,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4354,
+      "Progressed": 4355,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-16T20:57:28.2396436+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:09:22.6296921+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:09:39.8452301+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:55.2034383+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:58:21.6090774+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:09:22.629779+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:58:30.3318345+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:09:39.8453272+00:00"
 }

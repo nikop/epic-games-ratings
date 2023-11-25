@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6891,9 +6891,9 @@
       "Count": 490
     }
   ],
-  "EOS_Progressed": 724463,
+  "EOS_Progressed": 724498,
   "EOS_Completed": 2434,
-  "EOS_NewPlayers": 4507,
+  "EOS_NewPlayers": 4511,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31931,6 +31931,11 @@
       "Time": "2023-11-25T09:05:37.3194958+00:00",
       "NumProgressed": 724463,
       "NumCompleted": 2434
+    },
+    {
+      "Time": "2023-11-25T10:05:44.2417614+00:00",
+      "NumProgressed": 724498,
+      "NumCompleted": 2434
     }
   ],
   "TotalAchievements": 51,
@@ -32102,7 +32107,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14489
+      "UsersEstimate": 14490
     },
     {
       "ID": "ach_impressive_aim",
@@ -32278,7 +32283,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14489
+      "UsersEstimate": 14490
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32302,7 +32307,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "ach_dark_magic",
@@ -32310,7 +32315,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ach_gardening_tools",
@@ -32326,7 +32331,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32349,13 +32354,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 724463,
+      "Progressed": 724498,
       "Completed": 2434
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 50005,
+      "Progressed": 50040,
       "Completed": 36601
     }
   ],
@@ -32363,8 +32368,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-25T08:59:08.0698551+00:00",
-  "LastChanged_Achievements": "2023-11-25T09:05:37.3194956+00:00",
+  "LastChanged_Achievements": "2023-11-25T10:05:44.2417605+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-25T08:59:08.0698555+00:00",
-  "LastUpdate_Achievements": "2023-11-25T09:05:37.3196771+00:00"
+  "LastUpdate_Ratings": "2023-11-25T09:59:09.3937337+00:00",
+  "LastUpdate_Achievements": "2023-11-25T10:05:44.2419113+00:00"
 }
