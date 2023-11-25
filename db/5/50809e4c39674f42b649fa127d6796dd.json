@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -442,6 +442,11 @@
       "Time": "2023-11-25T05:08:38.5035238+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T06:08:27.2967891+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -508,9 +513,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -518,7 +523,7 @@
       "Name": "Perfect Run",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -526,7 +531,7 @@
       "Name": "Big Encounter",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -542,15 +547,15 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -558,15 +563,15 @@
       "Name": "Unknown Threat",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 187
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 94
     },
     {
       "ID": "FIRST_S_RANK",
@@ -574,7 +579,7 @@
       "Name": "Superior Ranking",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -598,7 +603,7 @@
       "Name": "Koco Leader",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -606,7 +611,7 @@
       "Name": "The Beginning",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -644,9 +649,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 116
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -676,7 +681,7 @@
       "ID": "PORTAL_REPAIRED_ISLANAD3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Memories",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -684,7 +689,7 @@
       "ID": "PORTAL_REPAIRED_ISLANAD4",
       "SetID": "apihg0e",
       "Name": "Ouranos Island Memories",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -692,17 +697,17 @@
       "ID": "POWER_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Herculean Hedgehog",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hearty Hedgehog",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -724,7 +729,7 @@
       "ID": "SUB_CLEAR_ALL",
       "SetID": "apihg0e",
       "Name": "Expert Historian",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -740,7 +745,7 @@
       "ID": "SUB_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ares Island Expert",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -748,7 +753,7 @@
       "ID": "SUB_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Expert",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -756,7 +761,7 @@
       "ID": "SUB_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Ouranos Island Expert",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -766,21 +771,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 223,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:08:38.5035235+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:08:27.2967886+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-25T04:59:56.1404198+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:08:38.5035482+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:59:51.3381338+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:08:27.296825+00:00"
 }

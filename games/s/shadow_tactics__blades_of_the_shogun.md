@@ -12,16 +12,16 @@ Number of Ratings: 495  (23.09.2022)
 | Disguised | 9.00% | ~19,409 |
 | Rollin' | 9.00% | ~19,409 |
 | Tanuki Time | 9.00% | ~19,409 |
-| Rescue Takuma | 8.00% | ~17,252 |
-| Stoned Ox | 8.00% | ~17,252 |
+| Rescue Takuma | 8.00% | ~17,253 |
+| Stoned Ox | 8.00% | ~17,253 |
 | Happy Planning | 7.00% | ~15,096 |
 | Ice Ice Yuki | 7.00% | ~15,096 |
 | Jonin | 7.00% | ~15,096 |
 | Yabu | 7.00% | ~15,096 |
-| Chunin | 6.00% | ~12,939 |
-| Flying Rocks | 6.00% | ~12,939 |
-| Mugen Unchained | 6.00% | ~12,939 |
-| Warzone | 6.00% | ~12,939 |
+| Chunin | 6.00% | ~12,940 |
+| Flying Rocks | 6.00% | ~12,940 |
+| Mugen Unchained | 6.00% | ~12,940 |
+| Warzone | 6.00% | ~12,940 |
 | Okkoto | 5.00% | ~10,783 |
 | Prisoners | 5.00% | ~10,783 |
 | Too Early | 5.00% | ~10,783 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~216 |
 | Release the Kraken | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,655 (Ranked 72)  
+Progressed: 215,661 (Ranked 72)  
 Completed: 98 (0.05%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 98 (0.05%) (Ranked 311)
 | 2023-11-22 | 215,269 | 98 |
 | 2023-11-23 | 215,426 | 98 |
 | 2023-11-24 | 215,632 | 98 |
-| 2023-11-25 | 215,655 | 98 |
+| 2023-11-25 | 215,661 | 98 |
 ## Awards
 Max (Great for Beginners): 576  (Ranked 200)  
-Sum: 4,867 (Ranked 144)  
+Sum: 4,868 (Ranked 144)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -282,7 +282,7 @@ Diff (max vs sum): 56
 | This game is Extremely Fun | 537 |
 | This game has Amazing Storytelling | 517 |
 | This game has Amazing Characters | 500 |
-| This game is Relaxing | 497 |
+| This game is Relaxing | 498 |
 | This game is Highly Recommended | 494 |
 | This game has Challenging Combat | 493 |
 | This game has Quickly Understood Controls | 457 |
@@ -511,3 +511,4 @@ Diff (max vs sum): 56
 | 2023-11-21 | 4.67 | - | 576 | 4,864 |
 | 2023-11-22 | 4.67 | - | 576 | 4,865 |
 | 2023-11-23 | 4.67 | - | 576 | 4,867 |
+| 2023-11-25 | 4.67 | - | 576 | 4,868 |

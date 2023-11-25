@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
@@ -2883,6 +2883,11 @@
       "Time": "2023-11-25T04:03:42.4865073+00:00",
       "NumProgressed": 885,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-25T06:04:16.3497465+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2903,7 +2908,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "_03_FinishAct1",
@@ -2911,7 +2916,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2927,7 +2932,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2975,7 +2980,7 @@
       "Name": "Seadog",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_12_Completion_50",
@@ -3023,7 +3028,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3039,7 +3044,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3063,7 +3068,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3071,7 +3076,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -3102,7 +3107,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 30
     }
   ],
@@ -3110,8 +3115,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:04:13.5857593+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:04:16.3497462+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:00:02.3023212+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:04:13.5857894+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:59:57.7993788+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:04:16.3497757+00:00"
 }

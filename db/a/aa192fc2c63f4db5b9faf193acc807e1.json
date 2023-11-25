@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "creepytaleach8",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:09:54.2654645+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:09:45.4453689+00:00",
   "LastUpdate_AppInfo": "2023-11-22T04:57:15.1909896+00:00",
-  "LastUpdate_Ratings": "2023-11-25T04:57:42.4094538+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:09:54.2654737+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:57:32.9204391+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:09:45.4453796+00:00"
 }

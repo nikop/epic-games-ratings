@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -557,9 +557,9 @@
       "ID": "_elite_battlecruiser",
       "SetID": "2d5739o",
       "Name": "Elite battlecruiser",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "_elite_destroyer",
@@ -589,9 +589,9 @@
       "ID": "_heavy_laser",
       "SetID": "2d5739o",
       "Name": "Heavy laser",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "_heavy_shotgun",
@@ -621,17 +621,17 @@
       "ID": "_laser_enemy",
       "SetID": "2d5739o",
       "Name": "Laser enemy",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "_laser_mine",
       "SetID": "2d5739o",
       "Name": "Laser mine",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "_lightsaber_mine",
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:07:02.3056812+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:07:08.6851995+00:00",
   "LastUpdate_AppInfo": "2023-11-22T21:57:10.0551085+00:00",
-  "LastUpdate_Ratings": "2023-11-25T04:58:02.8851254+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:07:02.3057081+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:57:53.4868316+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:07:08.6852292+00:00"
 }

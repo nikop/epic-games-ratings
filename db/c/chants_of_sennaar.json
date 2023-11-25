@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 714,
+  "EOS_Progressed": 715,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.04,
+  "EOS_Completed_Percentage": 5.03,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2925,6 +2925,11 @@
       "Time": "2023-11-25T05:03:38.5098131+00:00",
       "NumProgressed": 714,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-25T06:03:40.2923859+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 25,
@@ -2944,7 +2949,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "META_ALL_LINK",
@@ -3008,7 +3013,7 @@
       "Name": "A great audience",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3062,9 +3067,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 21
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -3072,7 +3077,7 @@
       "Name": "Champollion",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3096,7 +3101,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "PROGRESS_N2",
@@ -3135,14 +3140,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 714,
+      "Progressed": 715,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:03:38.5098127+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:03:40.2923854+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:00:33.584714+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:03:38.5098769+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:00:30.6596085+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:03:40.2924089+00:00"
 }

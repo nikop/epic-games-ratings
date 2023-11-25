@@ -2,9 +2,9 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 563,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1137,6 +1137,11 @@
       "Time": "2023-11-25T05:06:36.4906976+00:00",
       "NumProgressed": 557,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T06:06:42.1807745+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1157,7 +1162,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1179,9 +1184,9 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -1203,9 +1208,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 405
     },
     {
       "ID": "CompleteChapter10",
@@ -1213,7 +1218,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CompleteChapter11",
@@ -1221,7 +1226,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CompleteChapter12",
@@ -1235,9 +1240,9 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 39
     },
     {
       "ID": "CompleteChapter14",
@@ -1245,7 +1250,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter15",
@@ -1253,7 +1258,7 @@
       "Name": "The Great Scheme",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter16",
@@ -1261,7 +1266,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter17",
@@ -1269,7 +1274,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -1283,9 +1288,9 @@
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter2",
@@ -1293,7 +1298,7 @@
       "Name": "Met the Enemy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 304
     },
     {
       "ID": "CompleteChapter3",
@@ -1301,15 +1306,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 191
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "CompleteChapter5",
@@ -1317,7 +1322,7 @@
       "Name": "Breathing Easy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "CompleteChapter6",
@@ -1331,9 +1336,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 73
     },
     {
       "ID": "CompleteChapter8",
@@ -1341,7 +1346,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CompleteChapter9",
@@ -1397,7 +1402,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1421,7 +1426,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1444,14 +1449,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 563,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:06:36.4906972+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:06:42.1807743+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-25T04:59:25.0161722+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:06:36.4907196+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:59:19.5501053+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:06:42.1807952+00:00"
 }

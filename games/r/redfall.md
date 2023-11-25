@@ -29,17 +29,17 @@ Rating: 3.45 (Ranked 1,047)
 | Bell-ringer | 0.90% | ~16 |
 | Bad Wiring | 0.80% | ~14 |
 | From the Shadows | 0.80% | ~14 |
+| Helping Hand | 0.80% | ~14 |
 | Silence Is Golden | 0.70% | ~12 |
-| Helping Hand | 0.70% | ~12 |
 | Contingency Plans | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
 | You Clean It Up | 0.50% | ~9 |
+| Starve the Beast | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Nice Try | 0.50% | ~9 |
 | Curious Finch | 0.50% | ~9 |
 | I Spit On Your Grave | 0.50% | ~9 |
 | Revelations | 0.40% | ~7 |
-| Starve the Beast | 0.40% | ~7 |
 | Block Party | 0.30% | ~5 |
 | Neighborhood Watch | 0.30% | ~5 |
 | Sisterhood | 0.30% | ~5 |

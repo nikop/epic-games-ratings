@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3922,
+  "EOS_Progressed": 3923,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8156,6 +8156,11 @@
       "Time": "2023-11-25T05:05:35.6538261+00:00",
       "NumProgressed": 3922,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-25T06:05:39.4750502+00:00",
+      "NumProgressed": 3923,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8247,7 +8252,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8415,7 +8420,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8479,7 +8484,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8535,7 +8540,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8575,7 +8580,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8734,13 +8739,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3873,
+      "Progressed": 3874,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3922,
+      "Progressed": 3923,
       "Completed": 11
     }
   ],
@@ -8748,8 +8753,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:05:35.6538257+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:05:39.4750497+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:01:04.1916149+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:05:35.6539116+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:01:02.5876857+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:05:39.4751414+00:00"
 }

@@ -4349,7 +4349,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77056,
+  "EOS_Progressed": 77057,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 1,
@@ -23824,6 +23824,11 @@
       "Time": "2023-11-25T05:06:48.180005+00:00",
       "NumProgressed": 77056,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-25T06:06:54.3006993+00:00",
+      "NumProgressed": 77057,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23923,7 +23928,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11558
+      "UsersEstimate": 11559
     },
     {
       "ID": "CHALLENGES_1",
@@ -24243,7 +24248,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16952
+      "UsersEstimate": 16953
     },
     {
       "ID": "MYSTERY_04",
@@ -24267,7 +24272,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11558
+      "UsersEstimate": 11559
     },
     {
       "ID": "MYSTERY_07",
@@ -24322,13 +24327,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77056,
+      "Progressed": 77057,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47336,
+      "Progressed": 47337,
       "Completed": 2675
     }
   ],
@@ -24336,8 +24341,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-25T02:59:58.5362258+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:06:48.1800046+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:06:54.3006989+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:01:04.91372+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:06:48.1801357+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:01:03.8923869+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:06:54.3008056+00:00"
 }

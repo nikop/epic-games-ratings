@@ -30,11 +30,11 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 0.40% | ~6 |
 | No Time for Clawmonsters | 0.40% | ~6 |
 | Bonebreakers | 0.30% | ~4 |
+| Plague Doctor | 0.30% | ~4 |
 | Legends Never Die | 0.30% | ~4 |
 | Everfading | 0.30% | ~4 |
 | Astrology | 0.30% | ~4 |
 | Storied Past | 0.20% | ~3 |
-| Plague Doctor | 0.20% | ~3 |
 | In Soil, In Smoke | 0.20% | ~3 |
 | Wingknight's Prowess | 0.20% | ~3 |
 | All My Birds, Safely Home | 0.20% | ~3 |

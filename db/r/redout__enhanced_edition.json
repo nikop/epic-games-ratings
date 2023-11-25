@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236121,
+  "EOS_Progressed": 236122,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23307,6 +23307,11 @@
       "Time": "2023-11-25T05:05:39.3638682+00:00",
       "NumProgressed": 236121,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-25T06:05:43.3765583+00:00",
+      "NumProgressed": 236122,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23358,7 +23363,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16528
+      "UsersEstimate": 16529
     },
     {
       "ID": "DRAGOON",
@@ -23486,7 +23491,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16528
+      "UsersEstimate": 16529
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -23589,15 +23594,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236121,
+      "Progressed": 236122,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:05:39.3638678+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:05:43.3765579+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8860637+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:01:19.9920289+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:05:39.3639864+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:01:19.4303479+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:05:43.3767632+00:00"
 }

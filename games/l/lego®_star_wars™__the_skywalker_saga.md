@@ -6,14 +6,14 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,439 |
-| ''I don't like you either!'' | 79.00% | ~41,079 |
-| ''Impressive, most impressive'' | 72.00% | ~37,439 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,439 |
-| The Phantom Menace | 59.00% | ~30,679 |
-| ''Aggressive Negotiations'' | 59.00% | ~30,679 |
-| ''I can fly anything'' | 57.00% | ~29,639 |
-| ''And who gave you permission...?'' | 54.00% | ~28,079 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,441 |
+| ''I don't like you either!'' | 79.00% | ~41,081 |
+| ''Impressive, most impressive'' | 72.00% | ~37,441 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,441 |
+| The Phantom Menace | 59.00% | ~30,681 |
+| ''Aggressive Negotiations'' | 59.00% | ~30,681 |
+| ''I can fly anything'' | 57.00% | ~29,641 |
+| ''And who gave you permission...?'' | 54.00% | ~28,081 |
 | A New Hope | 48.00% | ~24,960 |
 | Attack of the Clones | 47.00% | ~24,440 |
 | Revenge of the Sith | 41.00% | ~21,320 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~520 |
 | ''I've never seen a real one!'' | 1.00% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,999 (Ranked 112)  
+Progressed: 52,001 (Ranked 112)  
 Completed: 250 (0.48%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 250 (0.48%) (Ranked 207)
 | 2023-11-22 | 51,986 | 250 |
 | 2023-11-23 | 51,989 | 250 |
 | 2023-11-24 | 51,998 | 250 |
-| 2023-11-25 | 51,999 | 250 |
+| 2023-11-25 | 52,001 | 250 |
 ## Awards
 Max (Great Boss Battles): 2,445  (Ranked 104)  
-Sum: 6,710 (Ranked 126)  
+Sum: 6,712 (Ranked 126)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
@@ -282,7 +282,7 @@ Diff (max vs sum): -22
 | This game has Diverse Characters | 508 |
 | This game has Amazing Characters | 492 |
 | This game is Highly Recommended | 471 |
-| This game has Easy Combat | 468 |
+| This game has Easy Combat | 470 |
 | This game has Amazing Storytelling | 467 |
 | This game is Extremely Fun | 457 |
 | This game has Quickly Understood Controls | 446 |
@@ -548,3 +548,4 @@ Diff (max vs sum): -22
 | 2023-11-21 | 4.78 | - | 2,442 | 6,703 |
 | 2023-11-23 | 4.78 | - | 2,443 | 6,706 |
 | 2023-11-24 | 4.78 | - | 2,445 | 6,710 |
+| 2023-11-25 | 4.78 | - | 2,445 | 6,712 |

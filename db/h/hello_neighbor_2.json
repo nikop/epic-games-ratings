@@ -471,11 +471,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3256,
+  "EOS_Progressed": 3257,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.15,
+  "EOS_Completed_Percentage": 4.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -4911,6 +4911,11 @@
       "Time": "2023-11-24T21:05:43.1267932+00:00",
       "NumProgressed": 3256,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-11-25T06:05:46.6052839+00:00",
+      "NumProgressed": 3257,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 14,
@@ -4922,7 +4927,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -4970,7 +4975,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -4986,7 +4991,7 @@
       "Name": "Imprisonment",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -4994,7 +4999,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH_REUNION",
@@ -5010,7 +5015,7 @@
       "Name": "Shovel Night",
       "Percentage": 38,
       "XP": 55,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -5018,7 +5023,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -5033,7 +5038,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3256,
+      "Progressed": 3257,
       "Completed": 135
     }
   ],
@@ -5041,8 +5046,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:05:42.4782051+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:05:46.6052835+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.3707639+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:01:15.9145318+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:05:42.478239+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:01:15.0516635+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:05:46.6053162+00:00"
 }

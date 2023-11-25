@@ -5,35 +5,35 @@ Rating: 4.50 (Ranked 590)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,556 |
-| For Saw Gerrera | 98.00% | ~8,469 |
-| Grab Some Seat | 91.00% | ~7,864 |
+| Rooftop Duel | 99.00% | ~8,557 |
+| For Saw Gerrera | 98.00% | ~8,470 |
+| Grab Some Seat | 91.00% | ~7,865 |
 | Can You Pet the Bogling? | 87.00% | ~7,519 |
-| The Past Made Present | 83.00% | ~7,173 |
-| Survivors, We Adapt | 79.00% | ~6,827 |
-| Among the Masters | 78.00% | ~6,741 |
-| They Never Saw It Coming | 77.00% | ~6,654 |
-| Who Gives a Puck | 74.00% | ~6,395 |
+| The Past Made Present | 83.00% | ~7,174 |
+| Survivors, We Adapt | 79.00% | ~6,828 |
+| Among the Masters | 78.00% | ~6,742 |
+| They Never Saw It Coming | 77.00% | ~6,655 |
+| Who Gives a Puck | 74.00% | ~6,396 |
 | For the Path | 66.00% | ~5,704 |
-| Now, This Isn't Podracing | 65.00% | ~5,617 |
-| Mirror Match | 64.00% | ~5,531 |
-| Skywalker | 62.00% | ~5,358 |
+| Now, This Isn't Podracing | 65.00% | ~5,618 |
+| Mirror Match | 64.00% | ~5,532 |
+| Skywalker | 62.00% | ~5,359 |
 | Out of Bedlam | 61.00% | ~5,272 |
 | Cleaning Up | 54.00% | ~4,667 |
-| Tanalorr Bound | 53.00% | ~4,580 |
+| Tanalorr Bound | 53.00% | ~4,581 |
 | Kitted Out | 52.00% | ~4,494 |
-| Tragedy | 51.00% | ~4,407 |
-| Hey, Luke At Us | 50.00% | ~4,321 |
+| Tragedy | 51.00% | ~4,408 |
+| Hey, Luke At Us | 50.00% | ~4,322 |
 | At the Precipice | 49.00% | ~4,235 |
-| Into the Abyss | 48.00% | ~4,148 |
-| Riposte | 46.00% | ~3,975 |
+| Into the Abyss | 48.00% | ~4,149 |
+| Riposte | 46.00% | ~3,976 |
 | A Place You Could Call Home | 45.00% | ~3,889 |
-| Greezy Money | 44.00% | ~3,802 |
-| Catch! | 41.00% | ~3,543 |
+| Greezy Money | 44.00% | ~3,803 |
+| Catch! | 41.00% | ~3,544 |
 | They're Probably Fine | 40.00% | ~3,457 |
 | Han Slowlo | 38.00% | ~3,284 |
 | There Is No Try | 37.00% | ~3,198 |
-| The Jedi Path | 32.00% | ~2,765 |
+| The Jedi Path | 32.00% | ~2,766 |
 | This Is Canon | 29.00% | ~2,506 |
 | It's a Trap | 26.00% | ~2,247 |
 | You've Got A Friend | 23.00% | ~1,988 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 590)
 | Blood, Sweat, and Tears | 3.00% | ~259 |
 | Pinpoint | 2.00% | ~173 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,642 (Ranked 171)  
+Progressed: 8,643 (Ranked 171)  
 Completed: 51 (0.59%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 51 (0.59%) (Ranked 191)
 | 2023-11-22 | 8,487 | 49 |
 | 2023-11-23 | 8,549 | 51 |
 | 2023-11-24 | 8,616 | 51 |
-| 2023-11-25 | 8,642 | 51 |
+| 2023-11-25 | 8,643 | 51 |
 ## Awards
 Max (Great Boss Battles): 3,310  (Ranked 96)  
 Sum: 5,102 (Ranked 138)  

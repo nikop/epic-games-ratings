@@ -2060,10 +2060,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4867,
       "NumberOfAwardsMax": 576
+    },
+    {
+      "Time": "2023-11-25T05:57:47.1809873+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4868,
+      "NumberOfAwardsMax": 576
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4867,
+  "NumberOfAwards": 4868,
   "NumberOfAwardsMax": 576,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2083,7 +2089,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 497
+      "Count": 498
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2134,9 +2140,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 215655,
+  "EOS_Progressed": 215661,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1330,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27159,6 +27165,11 @@
       "Time": "2023-11-25T05:05:56.6982992+00:00",
       "NumProgressed": 215655,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-25T06:06:01.6681179+00:00",
+      "NumProgressed": 215661,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -27194,7 +27205,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12939
+      "UsersEstimate": 12940
     },
     {
       "ID": "CompleteMastery",
@@ -27226,7 +27237,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12939
+      "UsersEstimate": 12940
     },
     {
       "ID": "GearUp",
@@ -27322,7 +27333,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12939
+      "UsersEstimate": 12940
     },
     {
       "ID": "NoGimmicks",
@@ -27386,7 +27397,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17252
+      "UsersEstimate": 17253
     },
     {
       "ID": "Rollin",
@@ -27418,7 +27429,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17252
+      "UsersEstimate": 17253
     },
     {
       "ID": "TanukiTime",
@@ -27490,7 +27501,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12939
+      "UsersEstimate": 12940
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -27521,15 +27532,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 215655,
+      "Progressed": 215661,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-11-23T22:00:20.021746+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:05:56.698299+00:00",
+  "LastChanged": "2023-11-25T05:57:47.1809871+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:06:01.6681174+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.854091+00:00",
-  "LastUpdate_Ratings": "2023-11-25T04:57:56.6629854+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:05:56.6984162+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:57:47.1809877+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:06:01.6682297+00:00"
 }

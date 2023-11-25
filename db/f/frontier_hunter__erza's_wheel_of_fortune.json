@@ -939,17 +939,17 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1091,9 +1091,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "7pimpda",
       "Name": "Trader",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1267,9 +1267,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1283,9 +1283,9 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
@@ -1300,8 +1300,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:03:50.6734145+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:03:52.8139636+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-25T05:00:53.6893196+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:03:50.6734464+00:00"
+  "LastUpdate_Ratings": "2023-11-25T06:00:51.5443431+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:03:52.8139922+00:00"
 }

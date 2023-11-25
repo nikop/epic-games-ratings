@@ -22,6 +22,7 @@
 | The adventurer | 5.00% | ~2 |
 | Pulp! Out of this World | 5.00% | ~2 |
 | Pulp! Adventures into the Unknown | 5.00% | ~2 |
+| Kirlian's best disciple | 5.00% | ~2 |
 | ECO mode | 5.00% | ~2 |
 | Diagnosis: fear | 5.00% | ~2 |
 | Ambition is... blind | 5.00% | ~2 |
@@ -29,7 +30,6 @@
 | Blood Red Island | 2.00% | ~1 |
 | Et in arcadia ego | 2.00% | ~1 |
 | The scholar | 2.00% | ~1 |
-| Kirlian's best disciple | 2.00% | ~1 |
 | Thirst for Oleum | 2.00% | ~1 |
 | The barbarian invasions | 2.00% | ~1 |
 | Vaccine fans | 2.00% | ~1 |

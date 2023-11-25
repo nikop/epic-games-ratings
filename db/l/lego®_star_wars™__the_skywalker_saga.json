@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3603,10 +3603,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6710,
       "NumberOfAwardsMax": 2445
+    },
+    {
+      "Time": "2023-11-25T05:57:13.4183487+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6712,
+      "NumberOfAwardsMax": 2445
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6710,
+  "NumberOfAwards": 6712,
   "NumberOfAwardsMax": 2445,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3662,7 +3668,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 468
+      "Count": 470
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3683,9 +3689,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51999,
+  "EOS_Progressed": 52001,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -13973,6 +13979,11 @@
       "Time": "2023-11-25T04:05:41.2539453+00:00",
       "NumProgressed": 51999,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-11-25T06:06:43.7306387+00:00",
+      "NumProgressed": 52001,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 45,
@@ -14008,7 +14019,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 41079
+      "UsersEstimate": 41081
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -14096,7 +14107,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30679
+      "UsersEstimate": 30681
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -14176,7 +14187,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29639
+      "UsersEstimate": 29641
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -14224,7 +14235,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30679
+      "UsersEstimate": 30681
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -14248,7 +14259,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50439
+      "UsersEstimate": 50441
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14288,7 +14299,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37439
+      "UsersEstimate": 37441
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -14320,7 +14331,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28079
+      "UsersEstimate": 28081
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -14336,22 +14347,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37439
+      "UsersEstimate": 37441
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51999,
+      "Progressed": 52001,
       "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-11-24T16:02:43.4134886+00:00",
-  "LastChanged_Achievements": "2023-11-25T05:06:37.9768271+00:00",
+  "LastChanged": "2023-11-25T05:57:13.4183485+00:00",
+  "LastChanged_Achievements": "2023-11-25T06:06:43.7306384+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:25.8644446+00:00",
-  "LastUpdate_Ratings": "2023-11-25T04:57:22.6302054+00:00",
-  "LastUpdate_Achievements": "2023-11-25T05:06:37.9769083+00:00"
+  "LastUpdate_Ratings": "2023-11-25T05:57:13.4183492+00:00",
+  "LastUpdate_Achievements": "2023-11-25T06:06:43.7307003+00:00"
 }
