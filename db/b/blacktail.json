@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2276,6 +2276,11 @@
       "Time": "2023-11-25T16:09:56.7569645+00:00",
       "NumProgressed": 770,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T22:11:30.9586304+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2287,7 +2292,7 @@
       "Name": "Extensive retelling",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "BadApple",
@@ -2343,7 +2348,7 @@
       "Name": "Sneak peek",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Favourite",
@@ -2359,7 +2364,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Goal",
@@ -2383,7 +2388,7 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -2431,7 +2436,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "NoMoreWards",
@@ -2447,7 +2452,7 @@
       "Name": "Queen",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Rats",
@@ -2487,7 +2492,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ToadCharming",
@@ -2503,7 +2508,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Toxic",
@@ -2542,7 +2547,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 1
     }
   ],
@@ -2550,8 +2555,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:09:05.6543941+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:58:41.4942077+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:59:20.2039758+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:09:05.6544205+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:11:30.9586302+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:58:13.1001223+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:01:28.2415409+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:11:30.9586554+00:00"
 }

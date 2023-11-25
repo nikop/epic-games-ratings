@@ -9064,10 +9064,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15431,
       "NumberOfAwardsMax": 7423
+    },
+    {
+      "Time": "2023-11-25T22:00:07.6552346+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15434,
+      "NumberOfAwardsMax": 7423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15431,
+  "NumberOfAwards": 15434,
   "NumberOfAwardsMax": 7423,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9117,7 +9123,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 837
+      "Count": 840
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9144,7 +9150,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66142,
+  "EOS_Progressed": 66144,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 0,
@@ -32239,6 +32245,11 @@
       "Time": "2023-11-25T21:09:14.0487009+00:00",
       "NumProgressed": 66142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T22:11:39.2875256+00:00",
+      "NumProgressed": 66144,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32250,7 +32261,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8598
+      "UsersEstimate": 8599
     },
     {
       "ID": "Apple of my eye",
@@ -32266,7 +32277,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15874
+      "UsersEstimate": 15875
     },
     {
       "ID": "Best served cold",
@@ -32378,7 +32389,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8598
+      "UsersEstimate": 8599
     },
     {
       "ID": "Great Granny",
@@ -32410,7 +32421,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15874
+      "UsersEstimate": 15875
     },
     {
       "ID": "I can do it",
@@ -32474,7 +32485,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21827
+      "UsersEstimate": 21828
     },
     {
       "ID": "Lawbringer",
@@ -32482,7 +32493,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26457
+      "UsersEstimate": 26458
     },
     {
       "ID": "Lawmaker",
@@ -32506,7 +32517,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "Minor Clan",
@@ -32610,7 +32621,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8598
+      "UsersEstimate": 8599
     },
     {
       "ID": "This is Sparta",
@@ -32626,7 +32637,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15874
+      "UsersEstimate": 15875
     },
     {
       "ID": "Undercover",
@@ -32657,15 +32668,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66142,
+      "Progressed": 66144,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-25T20:57:56.390126+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:09:14.0487006+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:57:56.3901265+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:09:14.0488212+00:00"
+  "LastChanged": "2023-11-25T22:00:07.6552345+00:00",
+  "LastChanged_Achievements": "2023-11-25T22:11:39.2875254+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:00:07.6552349+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:11:39.2876447+00:00"
 }

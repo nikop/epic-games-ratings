@@ -4,7 +4,7 @@
   "ProductSlug": "eldest-souls-83e12a",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 470,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-17T16:00:00+00:00",
@@ -52,8 +52,8 @@
   "FirstSeenRating": "2023-04-02T16:58:35.9851971+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.964633+00:00",
   "LastChanged": "2023-04-02T16:58:35.9851971+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:03:09.657358+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:58:51.2271774+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:57:30.5483884+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:03:09.6573626+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:05:23.3617511+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:57:07.3445534+00:00",
+  "LastUpdate_Ratings": "2023-11-25T21:59:42.0858208+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:05:23.3617539+00:00"
 }

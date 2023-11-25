@@ -7,8 +7,8 @@ Number of Ratings: 58  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Another Life | 84.00% | ~1,086 |
+| Voices from the Past | 78.00% | ~1,009 |
 | Space Traveler | 78.00% | ~1,009 |
-| Voices from the Past | 77.00% | ~996 |
 | Demigod | 75.00% | ~970 |
 | The Great Destroyer | 73.00% | ~944 |
 | Shields Down | 71.00% | ~918 |
@@ -33,8 +33,8 @@ Number of Ratings: 58  (23.09.2022)
 | The Crimson Void | 35.00% | ~453 |
 | The Nameless Dread | 34.00% | ~440 |
 | Time to Spear | 31.00% | ~401 |
+| Disciple | 31.00% | ~401 |
 | Mastery of Weapons | 30.00% | ~388 |
-| Disciple | 30.00% | ~388 |
 | Ghosts | 26.00% | ~336 |
 | Two Birds | 26.00% | ~336 |
 | Uneasy Alliance | 25.00% | ~323 |

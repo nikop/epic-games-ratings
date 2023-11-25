@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24558,
+  "EOS_Progressed": 24560,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6938,6 +6938,11 @@
       "Time": "2023-11-25T21:03:54.8328087+00:00",
       "NumProgressed": 24558,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-25T22:06:06.4403498+00:00",
+      "NumProgressed": 24560,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7147,9 +7152,9 @@
       "ID": "ACH_MOPLET_BOSS",
       "SetID": "cdkbb11",
       "Name": "Gunning For Your Job",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -7300,13 +7305,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24558,
+      "Progressed": 24560,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1851,
+      "Progressed": 1853,
       "Completed": 1376
     }
   ],
@@ -7314,8 +7319,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:03:54.8328085+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:57:37.5324656+00:00",
-  "LastUpdate_Ratings": "2023-11-25T21:02:35.1183711+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:03:54.8328543+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:06:06.4403496+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:59:01.9623441+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:04:49.4534418+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:06:06.4404033+00:00"
 }

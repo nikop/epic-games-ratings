@@ -24,29 +24,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 4.00% | ~619 |
 | Naming Landmarks | 4.00% | ~619 |
 | Trade Caravan | 4.00% | ~619 |
-| Ambitious | 3.00% | ~464 |
-| Brilliant | 3.00% | ~464 |
-| Enlightened | 3.00% | ~464 |
-| Fountainhead | 3.00% | ~464 |
-| Glorious | 3.00% | ~464 |
-| Keystone | 3.00% | ~464 |
-| Magnificent | 3.00% | ~464 |
-| Warrior | 3.00% | ~464 |
-| Wise | 3.00% | ~464 |
-| Developing Cities | 3.00% | ~464 |
-| Strong Cities | 3.00% | ~464 |
-| Able Difficulty | 3.00% | ~464 |
-| Great Ziggurat | 3.00% | ~464 |
-| Ishtar Gate | 3.00% | ~464 |
-| Lighthouse | 3.00% | ~464 |
-| Pyramids | 3.00% | ~464 |
-| Learn to Play 1 | 3.00% | ~464 |
-| Christianity | 3.00% | ~464 |
-| Judaism | 3.00% | ~464 |
-| Babylonian Paganism | 3.00% | ~464 |
-| Greek Paganism | 3.00% | ~464 |
-| Roman Paganism | 3.00% | ~464 |
-| Zoroastrianism | 3.00% | ~464 |
+| Ambitious | 3.00% | ~465 |
+| Brilliant | 3.00% | ~465 |
+| Enlightened | 3.00% | ~465 |
+| Fountainhead | 3.00% | ~465 |
+| Glorious | 3.00% | ~465 |
+| Keystone | 3.00% | ~465 |
+| Magnificent | 3.00% | ~465 |
+| Warrior | 3.00% | ~465 |
+| Wise | 3.00% | ~465 |
+| Developing Cities | 3.00% | ~465 |
+| Strong Cities | 3.00% | ~465 |
+| Able Difficulty | 3.00% | ~465 |
+| Great Ziggurat | 3.00% | ~465 |
+| Ishtar Gate | 3.00% | ~465 |
+| Lighthouse | 3.00% | ~465 |
+| Pyramids | 3.00% | ~465 |
+| Learn to Play 1 | 3.00% | ~465 |
+| Christianity | 3.00% | ~465 |
+| Judaism | 3.00% | ~465 |
+| Babylonian Paganism | 3.00% | ~465 |
+| Carthaginian Paganism | 3.00% | ~465 |
+| Greek Paganism | 3.00% | ~465 |
+| Roman Paganism | 3.00% | ~465 |
+| Zoroastrianism | 3.00% | ~465 |
 | Regicide | 2.00% | ~310 |
 | Beloved | 2.00% | ~310 |
 | Drillmaster | 2.00% | ~310 |
@@ -74,7 +75,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 2.00% | ~310 |
 | Greece | 2.00% | ~310 |
 | Manichaeism | 2.00% | ~310 |
-| Carthaginian Paganism | 2.00% | ~310 |
 | Egyptian Paganism | 2.00% | ~310 |
 | Mythology | 2.00% | ~310 |
 | Points Victory | 2.00% | ~310 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,483 (Ranked 152)  
+Progressed: 15,487 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -568,7 +568,7 @@ Completed: 5 (0.03%) (Ranked 324)
 | 2023-11-22 | 15,428 | 5 |
 | 2023-11-23 | 15,453 | 5 |
 | 2023-11-24 | 15,467 | 5 |
-| 2023-11-25 | 15,483 | 5 |
+| 2023-11-25 | 15,487 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,875 (Ranked 218)  

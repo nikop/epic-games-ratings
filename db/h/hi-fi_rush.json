@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4342,
+  "EOS_Progressed": 4345,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7675,6 +7675,11 @@
       "Time": "2023-11-25T20:03:42.3117812+00:00",
       "NumProgressed": 4342,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T22:05:27.5514961+00:00",
+      "NumProgressed": 4345,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7694,7 +7699,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "Ach003",
@@ -7718,7 +7723,7 @@
       "Name": "Headliner",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Ach006",
@@ -7726,7 +7731,7 @@
       "Name": "Time to pay up!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Ach007",
@@ -7734,7 +7739,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Ach008",
@@ -7886,7 +7891,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Ach027",
@@ -7926,7 +7931,7 @@
       "Name": "Perfect Parry",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "Ach032",
@@ -7934,7 +7939,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Ach033",
@@ -8054,7 +8059,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "Ach048",
@@ -8062,7 +8067,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "Ach049",
@@ -8084,9 +8089,9 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 739
     },
     {
       "ID": "Ach052",
@@ -8102,7 +8107,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Ach054",
@@ -8253,13 +8258,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4342,
+      "Progressed": 4345,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2863,
+      "Progressed": 2866,
       "Completed": 1930
     }
   ],
@@ -8267,8 +8272,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:03:13.8632255+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:59:17.8737402+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:03:13.8633009+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:05:27.5514959+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:01:26.0415792+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:05:27.5515924+00:00"
 }

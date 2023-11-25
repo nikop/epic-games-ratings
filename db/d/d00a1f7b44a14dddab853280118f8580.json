@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -1212,9 +1212,9 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 200,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "ach_complete_tutorial",
@@ -1299,8 +1299,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:08:05.9907866+00:00",
+  "LastChanged_Achievements": "2023-11-25T22:10:32.4235844+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:58:21.8788063+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:08:05.9908058+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:00:32.0469837+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:10:32.4235975+00:00"
 }

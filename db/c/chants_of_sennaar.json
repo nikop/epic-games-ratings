@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 736,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 4.9,
+  "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2985,6 +2985,11 @@
       "Time": "2023-11-25T21:03:25.8358458+00:00",
       "NumProgressed": 734,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-25T22:05:38.8733354+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 25,
@@ -3052,7 +3057,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "META_RESULT_1-4",
@@ -3068,7 +3073,7 @@
       "Name": "A great audience",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3116,7 +3121,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3148,7 +3153,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "PROGRESS_N1",
@@ -3156,7 +3161,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "PROGRESS_N2",
@@ -3180,7 +3185,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "PROGRESS_N5",
@@ -3188,21 +3193,21 @@
       "Name": "One last step",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 736,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:03:25.8358455+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:59:49.0856763+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:03:25.8358752+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:05:38.8733352+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:01:55.8525923+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:05:38.8733601+00:00"
 }

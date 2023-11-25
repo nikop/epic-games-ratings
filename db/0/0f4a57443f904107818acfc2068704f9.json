@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 607,
+  "EOS_Progressed": 611,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1207,6 +1207,11 @@
       "Time": "2023-11-25T21:05:39.0306978+00:00",
       "NumProgressed": 607,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T22:07:47.9962523+00:00",
+      "NumProgressed": 611,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1225,9 +1230,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 67
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1235,7 +1240,7 @@
       "Name": "Chosen Victor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -1251,7 +1256,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -1275,7 +1280,7 @@
       "Name": "Pathfinder",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 446
     },
     {
       "ID": "CompleteChapter10",
@@ -1307,7 +1312,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CompleteChapter14",
@@ -1315,7 +1320,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CompleteChapter15",
@@ -1323,7 +1328,7 @@
       "Name": "The Great Scheme",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CompleteChapter16",
@@ -1331,7 +1336,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CompleteChapter17",
@@ -1339,7 +1344,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -1355,7 +1360,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CompleteChapter2",
@@ -1363,7 +1368,7 @@
       "Name": "Met the Enemy",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 336
     },
     {
       "ID": "CompleteChapter3",
@@ -1371,7 +1376,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "CompleteChapter4",
@@ -1379,7 +1384,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "CompleteChapter5",
@@ -1387,7 +1392,7 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "CompleteChapter6",
@@ -1395,7 +1400,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CompleteChapter7",
@@ -1403,7 +1408,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CompleteChapter8",
@@ -1467,7 +1472,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 208
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1514,14 +1519,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 607,
+      "Progressed": 611,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:05:39.0306972+00:00",
+  "LastChanged_Achievements": "2023-11-25T22:07:47.996252+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:58:59.8300289+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:05:39.0307252+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:01:07.6407685+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:07:47.996279+00:00"
 }

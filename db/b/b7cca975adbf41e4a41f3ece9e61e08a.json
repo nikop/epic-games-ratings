@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 9863,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1333,
+  "EOS_NewPlayers": 1331,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
@@ -4671,9 +4671,9 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7opfcp",
       "Name": "Love You Three Thousand",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1578
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -4896,8 +4896,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-25T15:01:01.3586187+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:07:53.1661947+00:00",
+  "LastChanged_Achievements": "2023-11-25T22:10:19.6184988+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-11-25T21:00:04.5829045+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:07:53.1662378+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:02:11.6851757+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:10:19.6185499+00:00"
 }

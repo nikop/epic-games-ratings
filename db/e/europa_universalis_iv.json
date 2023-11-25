@@ -12433,10 +12433,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 58864,
       "NumberOfAwardsMax": 7165
+    },
+    {
+      "Time": "2023-11-25T22:01:21.7263439+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 58897,
+      "NumberOfAwardsMax": 7165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58864,
+  "NumberOfAwards": 58897,
   "NumberOfAwardsMax": 7165,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12456,7 +12462,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6897
+      "Count": 6917
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12486,7 +12492,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6566
+      "Count": 6579
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12507,9 +12513,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 463590,
+  "EOS_Progressed": 463639,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4904,
+  "EOS_NewPlayers": 4906,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37652,6 +37658,11 @@
       "Time": "2023-11-25T21:05:14.147088+00:00",
       "NumProgressed": 463590,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T22:07:23.5826071+00:00",
+      "NumProgressed": 463639,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38973,9 +38984,9 @@
       "ID": "achievement_kirishitan_japan",
       "SetID": "8p2n7he",
       "Name": "Kirishitan Japan",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 464
     },
     {
       "ID": "achievement_knights_of_the_caribbean",
@@ -40566,21 +40577,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 463590,
+      "Progressed": 463639,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 463590,
+      "Progressed": 463639,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-25T18:59:19.3361787+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:05:14.1470877+00:00",
+  "LastChanged": "2023-11-25T22:01:21.7263437+00:00",
+  "LastChanged_Achievements": "2023-11-25T22:07:23.5826068+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:59:12.8373417+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:05:14.1480894+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:01:21.7263443+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:07:23.5836041+00:00"
 }

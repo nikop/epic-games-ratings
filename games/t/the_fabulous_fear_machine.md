@@ -17,6 +17,7 @@
 | The artist | 7.00% | ~3 |
 | The seer | 7.00% | ~3 |
 | You have two wishes left | 7.00% | ~3 |
+| You had one wish left | 5.00% | ~2 |
 | Bread and bocaua | 5.00% | ~2 |
 | Fanatacism is... poisonous | 5.00% | ~2 |
 | The adventurer | 5.00% | ~2 |
@@ -28,7 +29,6 @@
 | Ambition is... blind | 5.00% | ~2 |
 | You've awakened the beast | 2.00% | ~1 |
 | Hate is... addictive | 2.00% | ~1 |
-| You had one wish left | 2.00% | ~1 |
 | Blood Red Island | 2.00% | ~1 |
 | Et in arcadia ego | 2.00% | ~1 |
 | The bully | 2.00% | ~1 |

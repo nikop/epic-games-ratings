@@ -29,13 +29,13 @@
 | You Shall Not Pass | 32.00% | ~61 |
 | Undying Skin | 32.00% | ~61 |
 | Happy Little Home | 32.00% | ~61 |
+| Animal Lover | 31.00% | ~59 |
 | Godlike Power | 31.00% | ~59 |
-| Animal Lover | 30.00% | ~57 |
-| Fight Me! | 30.00% | ~57 |
+| Fight Me! | 31.00% | ~59 |
+| Mommy's Very Angry | 30.00% | ~57 |
 | Supremacy | 30.00% | ~57 |
-| Mommy's Very Angry | 29.00% | ~55 |
+| Loyal Companion | 27.00% | ~52 |
 | Back To The Future | 26.00% | ~50 |
-| Loyal Companion | 26.00% | ~50 |
 | Immortal Skin | 25.00% | ~48 |
 | Fire Beacon | 24.00% | ~46 |
 | Lunch Before The Lunch | 23.00% | ~44 |

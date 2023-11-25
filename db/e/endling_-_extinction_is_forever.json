@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 544,
+  "EOS_Progressed": 545,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -909,6 +909,11 @@
       "Time": "2023-11-25T18:09:31.4730901+00:00",
       "NumProgressed": 544,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-25T22:11:40.3608594+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -968,7 +973,7 @@
       "Name": "Maternity",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "TROP007",
@@ -984,7 +989,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "TROP009",
@@ -1016,7 +1021,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "TROP013",
@@ -1088,7 +1093,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "TROP022",
@@ -1112,7 +1117,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "TROP025",
@@ -1143,7 +1148,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 544,
+      "Progressed": 545,
       "Completed": 3
     }
   ],
@@ -1151,8 +1156,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:09:15.3199964+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:58:14.8567157+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:58:49.28095+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:09:15.3200171+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:11:40.3608592+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:57:52.6929366+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:00:58.4559198+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:11:40.3608842+00:00"
 }

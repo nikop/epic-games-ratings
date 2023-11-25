@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 233,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1288,9 +1288,9 @@
       "ID": "FrontlineFighterCount",
       "SetID": "71c0n9i",
       "Name": "In The Thick of It",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FullHouse",
@@ -1568,8 +1568,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:05:36.6964687+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:02:37.0381055+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:05:36.6965035+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:07:45.7881005+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
+  "LastUpdate_Ratings": "2023-11-25T21:59:16.4062934+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:07:45.7881363+00:00"
 }

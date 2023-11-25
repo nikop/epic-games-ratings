@@ -1561,9 +1561,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160097,
+  "EOS_Progressed": 160110,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1136,
+  "EOS_NewPlayers": 1144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17056,6 +17056,11 @@
       "Time": "2023-11-25T21:04:50.6225107+00:00",
       "NumProgressed": 160097,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T22:07:00.7199066+00:00",
+      "NumProgressed": 160110,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17131,7 +17136,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8005
+      "UsersEstimate": 8006
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -17283,7 +17288,7 @@
       "Name": "Imprint",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9606
+      "UsersEstimate": 9607
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -17347,7 +17352,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -17355,7 +17360,7 @@
       "Name": "Passage",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "QUEST_CHILD",
@@ -17434,21 +17439,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159680,
+      "Progressed": 159693,
       "Completed": 1224
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160097,
+      "Progressed": 160110,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-25T15:59:14.6821178+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:04:50.6225103+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:58:40.1999978+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:04:50.6226115+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:07:00.7199064+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:00:49.9618273+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:07:00.7200114+00:00"
 }

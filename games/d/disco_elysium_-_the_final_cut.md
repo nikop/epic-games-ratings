@@ -6,16 +6,16 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,744 |
-| Biggest Communism Builder | 24.00% | ~31,495 |
-| The World's Most Laughable Centrist | 21.00% | ~27,558 |
-| Il Coppo Del'Arte! | 18.00% | ~23,621 |
+| Goodest Of The Good Cops | 28.00% | ~36,745 |
+| Biggest Communism Builder | 24.00% | ~31,496 |
+| The World's Most Laughable Centrist | 21.00% | ~27,559 |
+| Il Coppo Del'Arte! | 18.00% | ~23,622 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,997 |
 | Hyperstellar Law Official | 16.00% | ~20,997 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,372 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,372 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,373 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,373 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,060 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,435 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,436 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,123 |
 | Unbelievably Boring **** | 9.00% | ~11,811 |
 | Enemy Of The Physical Realm | 9.00% | ~11,811 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,230 (Ranked 83)  
+Progressed: 131,233 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 28 (0.02%) (Ranked 331)
 | 2023-11-22 | 131,081 | 28 |
 | 2023-11-23 | 131,117 | 28 |
 | 2023-11-24 | 131,166 | 28 |
-| 2023-11-25 | 131,230 | 28 |
+| 2023-11-25 | 131,233 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 179)  
-Sum: 1,125 (Ranked 253)  
+Sum: 1,126 (Ranked 253)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
@@ -279,8 +279,8 @@ Diff (max vs sum): -74
 | This game is Highly Recommended | 45 |
 | This game has Quickly Understood Controls | 43 |
 | This game has Unique Visuals | 38 |
+| This game has Amazing Characters | 38 |
 | This game is Relaxing | 37 |
-| This game has Amazing Characters | 37 |
 | This game has Diverse Characters | 34 |
 | This game is Extremely Fun | 32 |
 | This game has Obsessive Gameplay | 26 |
@@ -444,4 +444,4 @@ Diff (max vs sum): -74
 | 2023-11-18 | 4.87 | - | 737 | 1,122 |
 | 2023-11-21 | 4.87 | - | 737 | 1,123 |
 | 2023-11-24 | 4.87 | - | 737 | 1,124 |
-| 2023-11-25 | 4.87 | - | 737 | 1,125 |
+| 2023-11-25 | 4.87 | - | 737 | 1,126 |

@@ -6,18 +6,18 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 26.00% | ~3,165 |
+| Devoured by Darkness | 26.00% | ~3,166 |
 | A Spark | 19.00% | ~2,313 |
-| Burning City | 18.00% | ~2,191 |
+| Burning City | 18.00% | ~2,192 |
 | Mythic Choices | 15.00% | ~1,826 |
 | Defender's Heart | 15.00% | ~1,826 |
-| Banner over the Citadel | 14.00% | ~1,704 |
+| Banner over the Citadel | 14.00% | ~1,705 |
 | Queen's Gratitude | 12.00% | ~1,461 |
 | Fifth Crusade | 8.00% | ~974 |
 | Embrace of the Abyss | 7.00% | ~852 |
-| Path of the Angel | 6.00% | ~730 |
-| Great Upstart | 6.00% | ~730 |
-| Demonic and Divine | 6.00% | ~730 |
+| Path of the Angel | 6.00% | ~731 |
+| Great Upstart | 6.00% | ~731 |
+| Demonic and Divine | 6.00% | ~731 |
 | Path of the Azata | 5.00% | ~609 |
 | Transformation | 5.00% | ~609 |
 | The Legacy | 5.00% | ~609 |
@@ -37,12 +37,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~329 |
 | The Lady of the Forest | 3.00% | ~329 |
 | Beware Still Water | 3.00% | ~329 |
-| Path of the Demon | 2.00% | ~243 |
-| Path of the Aeon | 2.00% | ~243 |
-| Path of the Lich | 2.00% | ~243 |
-| Capitulation Is Now Moot | 2.00% | ~243 |
-| Your First Big Enemy | 2.00% | ~243 |
-| Truly Important Deed | 2.00% | ~243 |
+| Path of the Demon | 2.00% | ~244 |
+| Path of the Aeon | 2.00% | ~244 |
+| Path of the Lich | 2.00% | ~244 |
+| Capitulation Is Now Moot | 2.00% | ~244 |
+| Your First Big Enemy | 2.00% | ~244 |
+| Truly Important Deed | 2.00% | ~244 |
 | Stay Underground | 2.00% | ~219 |
 | The Final Threshold | 1.00% | ~122 |
 | Path of the Legend | 1.00% | ~122 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,174 (Ranked 158)  
+Progressed: 12,176 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,10 +342,10 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 12,146 | 0 |
 | 2023-11-23 | 12,158 | 0 |
 | 2023-11-24 | 12,166 | 0 |
-| 2023-11-25 | 12,174 | 0 |
+| 2023-11-25 | 12,176 | 0 |
 ## Awards
 Max (Character Customization): 1,747  (Ranked 122)  
-Sum: 7,088 (Ranked 120)  
+Sum: 7,090 (Ranked 120)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): 2
 | This game is Highly Recommended | 650 |
 | This game has Diverse Characters | 646 |
 | This game has Amazing Characters | 643 |
-| This game has Amazing Storytelling | 623 |
+| This game has Amazing Storytelling | 625 |
 | This game has Challenging Combat | 589 |
 | This game has Quickly Understood Controls | 579 |
 | This game is Relaxing | 558 |
@@ -635,4 +635,4 @@ Diff (max vs sum): 2
 | 2023-11-22 | 4.76 | - | 1,746 | 7,078 |
 | 2023-11-23 | 4.76 | - | 1,746 | 7,082 |
 | 2023-11-24 | 4.76 | - | 1,747 | 7,087 |
-| 2023-11-25 | 4.76 | - | 1,747 | 7,088 |
+| 2023-11-25 | 4.76 | - | 1,747 | 7,090 |

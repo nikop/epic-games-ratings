@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4361,9 +4361,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77114,
+  "EOS_Progressed": 77115,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23916,6 +23916,11 @@
       "Time": "2023-11-25T21:05:48.2589368+00:00",
       "NumProgressed": 77114,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-25T22:07:57.2227697+00:00",
+      "NumProgressed": 77115,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24023,7 +24028,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13109
+      "UsersEstimate": 13110
     },
     {
       "ID": "CLAYFACE_1",
@@ -24143,7 +24148,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7711
+      "UsersEstimate": 7712
     },
     {
       "ID": "FREEZE_1",
@@ -24239,7 +24244,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19278
+      "UsersEstimate": 19279
     },
     {
       "ID": "HARLEY_3",
@@ -24271,7 +24276,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39328
+      "UsersEstimate": 39329
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24327,7 +24332,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19278
+      "UsersEstimate": 19279
     },
     {
       "ID": "MYSTERY_03",
@@ -24414,13 +24419,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77114,
+      "Progressed": 77115,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47394,
+      "Progressed": 47395,
       "Completed": 2675
     }
   ],
@@ -24428,8 +24433,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-25T17:59:59.7589718+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:05:48.2589364+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-25T21:00:10.2577347+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:05:48.2590949+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:07:57.2227695+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:02:17.3108793+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:07:57.2228742+00:00"
 }

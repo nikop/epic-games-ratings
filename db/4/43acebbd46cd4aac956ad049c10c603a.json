@@ -5,7 +5,7 @@
   "Ranking_Rating": 43,
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 504,
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 125,
@@ -139,9 +139,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 633,
+  "EOS_Progressed": 634,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1379,6 +1379,11 @@
       "Time": "2023-11-25T21:04:54.8173628+00:00",
       "NumProgressed": 633,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T22:07:04.8781348+00:00",
+      "NumProgressed": 634,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1399,7 +1404,7 @@
       "Name": "Ab Initio",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "AnthropicHills",
@@ -1431,7 +1436,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "BreakTheLoop",
@@ -1447,7 +1452,7 @@
       "Name": "Bridge Builder",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ChasingTheLight",
@@ -1613,9 +1618,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 203
     },
     {
       "ID": "NewBeginning",
@@ -1679,7 +1684,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "RenaissanceRobot",
@@ -1701,9 +1706,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 127
     },
     {
       "ID": "SingleRod",
@@ -1783,7 +1788,7 @@
       "Name": "The Spark",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "TheThiefOfFire",
@@ -1829,9 +1834,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 146
     },
     {
       "ID": "WesternDelta",
@@ -1862,7 +1867,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 633,
+      "Progressed": 634,
       "Completed": 1
     }
   ],
@@ -1870,8 +1875,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-25T20:02:40.6234679+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:04:54.8173624+00:00",
+  "LastChanged_Achievements": "2023-11-25T22:07:04.8781345+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-25T21:02:28.9317079+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:04:54.8174047+00:00"
+  "LastUpdate_Ratings": "2023-11-25T22:04:43.5403562+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:07:04.8781736+00:00"
 }

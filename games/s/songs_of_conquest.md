@@ -34,6 +34,7 @@ Number of Ratings: 292  (23.09.2022)
 | Unlimited Power! | 0.40% | ~1 |
 | Fully Charged | 0.40% | ~1 |
 | Barbecue | 0.40% | ~1 |
+| In The Thick of It | 0.40% | ~1 |
 | Don't Touch My Stuff | 0.40% | ~1 |
 | Get Over Here! | 0.40% | ~1 |
 | Ultra Kill | 0.40% | ~1 |
@@ -45,7 +46,6 @@ Number of Ratings: 292  (23.09.2022)
 | Die by the Bow | 0.00% | ~0 |
 | Die by the Staff | 0.00% | ~0 |
 | Die by the Sword | 0.00% | ~0 |
-| In The Thick of It | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
 | Killing Spree | 0.00% | ~0 |
 | Together For Her | 0.00% | ~0 |

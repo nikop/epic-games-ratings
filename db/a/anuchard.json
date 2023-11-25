@@ -4,7 +4,7 @@
   "ProductSlug": "anuchard-08179d",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 470,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-21T16:00:00+00:00",
@@ -50,8 +50,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.954367+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2937642+00:00",
   "LastChanged": "2023-03-31T05:57:35.9543671+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:05:06.9642873+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:58:42.6282859+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:59:10.7571777+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:05:06.96429+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:07:16.6146763+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:58:06.8208841+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:01:19.7968377+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:07:16.614678+00:00"
 }

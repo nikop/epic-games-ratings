@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2811,6 +2811,11 @@
       "Time": "2023-11-25T14:04:45.5710457+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T22:07:01.3568982+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2822,7 +2827,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACH001",
@@ -2854,7 +2859,7 @@
       "Name": "Flying Dutchman",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH005",
@@ -2878,7 +2883,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ACH008",
@@ -2918,7 +2923,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH013",
@@ -2950,7 +2955,7 @@
       "Name": "Administrator",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH017",
@@ -2974,7 +2979,7 @@
       "Name": "Just a scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH020",
@@ -2990,7 +2995,7 @@
       "Name": "Collectionitis",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH022",
@@ -3006,7 +3011,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH024",
@@ -3030,7 +3035,7 @@
       "Name": "Raiders of the Lost Ark",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH027",
@@ -3054,7 +3059,7 @@
       "Name": "Licence to Kill",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH030",
@@ -3070,7 +3075,7 @@
       "Name": "Parlay?",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH032",
@@ -3102,7 +3107,7 @@
       "Name": "All mine!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH036",
@@ -3206,7 +3211,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH049",
@@ -3221,15 +3226,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-25T21:04:51.234964+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T20:58:37.0945183+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:59:36.0475325+00:00",
-  "LastUpdate_Achievements": "2023-11-25T21:04:51.2350017+00:00"
+  "LastChanged_Achievements": "2023-11-25T22:07:01.356898+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T21:58:23.5697484+00:00",
+  "LastUpdate_Ratings": "2023-11-25T22:01:43.068943+00:00",
+  "LastUpdate_Achievements": "2023-11-25T22:07:01.3569467+00:00"
 }
