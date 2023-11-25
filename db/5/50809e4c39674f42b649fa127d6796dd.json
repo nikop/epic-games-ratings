@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232,
+  "EOS_Progressed": 234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -472,6 +472,11 @@
       "Time": "2023-11-25T11:08:55.507694+00:00",
       "NumProgressed": 232,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T13:11:46.5842505+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -540,15 +545,15 @@
       "Name": "Combo Convert",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -564,7 +569,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -588,7 +593,7 @@
       "Name": "Unknown Threat",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -596,7 +601,7 @@
       "Name": "Speed Demon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FIRST_S_RANK",
@@ -610,9 +615,9 @@
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "GET_FISH_ALL",
@@ -674,9 +679,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 122
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -803,14 +808,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 232,
+      "Progressed": 234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:08:26.8393585+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:11:46.5842501+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-25T12:00:06.3266821+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:08:26.8393828+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:03:13.7969472+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:11:46.5842737+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 420,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.97,
+  "EOS_Completed_Percentage": 9.94,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1604,6 +1604,11 @@
       "Time": "2023-11-23T16:07:22.2456109+00:00",
       "NumProgressed": 341,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-25T13:11:19.8909444+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 6,
@@ -1623,7 +1628,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1631,7 +1636,7 @@
       "Name": "Viola Organista",
       "Percentage": 52,
       "XP": 165,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1662,14 +1667,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:08:01.7644677+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:11:19.890944+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:54.1546229+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:58:59.5989535+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:08:01.7644809+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:02:02.3602115+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:11:19.8909597+00:00"
 }

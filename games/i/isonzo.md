@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 50.00% | ~4,492 |
-| You Shall Not Pass | 50.00% | ~4,492 |
+| Tutti Eroi! | 50.00% | ~4,493 |
+| You Shall Not Pass | 50.00% | ~4,493 |
 | Peak Performance | 47.00% | ~4,223 |
-| Avanti Savoia! | 44.00% | ~3,953 |
+| Avanti Savoia! | 44.00% | ~3,954 |
 | Mamma Mia! | 34.00% | ~3,055 |
-| Conrad von Hotzensocks | 32.00% | ~2,875 |
-| Gabriele D'Annunzio | 31.00% | ~2,785 |
+| Conrad von Hotzensocks | 32.00% | ~2,876 |
+| Gabriele D'Annunzio | 31.00% | ~2,786 |
 | Silver Lining | 27.00% | ~2,426 |
 | Aurelio Baruzzi | 21.00% | ~1,887 |
 | Decimation | 20.00% | ~1,797 |
@@ -20,7 +20,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,707 |
 | Veni Vidi Vici | 19.00% | ~1,707 |
 | Insubordination | 18.00% | ~1,617 |
-| Ragazzi del '99 | 17.00% | ~1,527 |
+| Ragazzi del '99 | 17.00% | ~1,528 |
 | Luigi Cadorna | 15.00% | ~1,348 |
 | The Lion of the Isonzo | 15.00% | ~1,348 |
 | Uomo Universale | 13.00% | ~1,168 |
@@ -29,7 +29,7 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 11.00% | ~988 |
 | Machiavelli | 11.00% | ~988 |
 | Thus With A Kiss | 11.00% | ~988 |
-| The Devil's Paintbrush | 10.00% | ~898 |
+| The Devil's Paintbrush | 10.00% | ~899 |
 | Dante's Inferno | 9.00% | ~809 |
 | I Have the High Ground | 9.00% | ~809 |
 | Millenial | 9.00% | ~809 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~36 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,985 (Ranked 168)  
+Progressed: 8,986 (Ranked 168)  
 Completed: 9 (0.10%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 9 (0.10%) (Ranked 284)
 | 2023-11-22 | 8,892 | 9 |
 | 2023-11-23 | 8,926 | 9 |
 | 2023-11-24 | 8,970 | 9 |
-| 2023-11-25 | 8,985 | 9 |
+| 2023-11-25 | 8,986 | 9 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 461)  
 Sum: 286 (Ranked 370)  

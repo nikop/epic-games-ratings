@@ -4,11 +4,11 @@
   "ProductSlug": "amnesia-rebirth",
   "Ranking_Rating": 887,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 427,
+  "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 468,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-10-20T14:55:00+00:00",
     "PcReleaseDate": "2020-10-20T14:00:00+00:00",
@@ -664,10 +664,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 139,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-11-25T13:03:01.2130621+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 163,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 139,
+  "NumberOfAwards": 163,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -700,6 +706,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 31
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -713,8 +725,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:30.9158166+00:00",
-  "LastChanged": "2023-11-13T19:02:43.1829795+00:00",
+  "LastChanged": "2023-11-25T13:03:01.213062+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:42.1567741+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:59:55.0404854+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:04:50.996499+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:03:01.2130624+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:08:00.603257+00:00"
 }

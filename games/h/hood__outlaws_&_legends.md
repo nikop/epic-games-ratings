@@ -1,11 +1,11 @@
 # Hood: Outlaws & Legends
 [Store](https://store.epicgames.com/en-US/p/hood-outlaws-and-legends)  
 [View Rawdata](../../db/h/hood__outlaws_&_legends.json)  
-Rating: 3.99 (Ranked 1,005)  
+Rating: 3.99 (Ranked 1,006)  
 Number of Ratings: 12,539  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 376  (Ranked 237)  
-Sum: 2,782 (Ranked 181)  
+Sum: 2,783 (Ranked 181)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 56
 | This game has Quickly Understood Controls | 367 |
 | This game has Competitive Players | 350 |
 | This game is Highly Recommended | 349 |
-| This game is Extremely Fun | 335 |
+| This game is Extremely Fun | 336 |
 | This game has Amazing Characters | 325 |
 | This game has Amazing Storytelling | 305 |
 ## Ratings History
@@ -138,3 +138,4 @@ Diff (max vs sum): 56
 | 2023-11-17 | 3.99 | - | 375 | 2,779 |
 | 2023-11-19 | 3.99 | - | 375 | 2,780 |
 | 2023-11-23 | 3.99 | - | 376 | 2,782 |
+| 2023-11-25 | 3.99 | - | 376 | 2,783 |

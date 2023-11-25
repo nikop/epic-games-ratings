@@ -27,6 +27,7 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 0.90% | ~2 |
 | Coming Through! | 0.90% | ~2 |
 | Deepstrike | 0.90% | ~2 |
+| Landlord Extraordinaire | 0.90% | ~2 |
 | Trojan Horse | 0.90% | ~2 |
 | Pyrrhic Victory | 0.90% | ~2 |
 | Hello There | 0.50% | ~1 |
@@ -35,7 +36,6 @@ Number of Ratings: 292  (23.09.2022)
 | Barbecue | 0.50% | ~1 |
 | Don't Touch My Stuff | 0.50% | ~1 |
 | Get Over Here! | 0.50% | ~1 |
-| Landlord Extraordinaire | 0.50% | ~1 |
 | Ultra Kill | 0.50% | ~1 |
 | Grand Master | 0.50% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 381)  
+Progressed: 221 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 183 | 0 |
 | 2023-11-23 | 198 | 0 |
 | 2023-11-24 | 212 | 0 |
-| 2023-11-25 | 220 | 0 |
+| 2023-11-25 | 221 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 510)  
 Sum: 194 (Ranked 404)  

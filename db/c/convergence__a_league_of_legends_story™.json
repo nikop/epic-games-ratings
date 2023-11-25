@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 933,
+  "EOS_Progressed": 934,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2484,6 +2484,11 @@
       "Time": "2023-11-25T10:09:01.0896924+00:00",
       "NumProgressed": 933,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-25T13:12:23.9448247+00:00",
+      "NumProgressed": 934,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2615,7 +2620,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2918,7 +2923,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 933,
+      "Progressed": 934,
       "Completed": 6
     }
   ],
@@ -2926,8 +2931,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:09:02.0721713+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:12:23.9448242+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:00.3419172+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:57:25.9721264+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:09:02.0722335+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:00:23.2095466+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:12:23.9448715+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 468,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -267,9 +267,9 @@
       "ID": "ClubTurretsHack",
       "SetID": "9e3d06k",
       "Name": "Sapper",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "EnemyDefeat_0",
@@ -387,9 +387,9 @@
       "ID": "StealthDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Flatline",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "StealthDefeat_1",
@@ -427,9 +427,9 @@
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
@@ -444,8 +444,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:09:32.8078589+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:12:56.0385617+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:32.689665+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:58:14.117506+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:09:32.8078704+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:01:13.7410403+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:12:56.0385772+00:00"
 }

@@ -14,20 +14,20 @@
 | Depressed visitor | 79.00% | ~276 |
 | Employee of the week | 78.00% | ~273 |
 | Neurotrainer – power gainer! | 77.00% | ~270 |
-| Your own amateur gym | 73.00% | ~256 |
+| Your own amateur gym | 74.00% | ~259 |
 | Run K, run! | 73.00% | ~256 |
 | First defeat | 72.00% | ~252 |
 | No bullying more | 70.00% | ~245 |
 | Hello, world! | 70.00% | ~245 |
 | Fighting is cool | 69.00% | ~241 |
 | Pal of your father? | 67.00% | ~234 |
+| Employee of the month | 66.00% | ~231 |
 | Spirit of the past | 65.00% | ~228 |
-| Employee of the month | 65.00% | ~228 |
+| Law student | 62.00% | ~217 |
 | Workout professional | 61.00% | ~214 |
-| Law student | 61.00% | ~214 |
 | Handyman | 60.00% | ~210 |
+| It's good to be alive | 60.00% | ~210 |
 | Champion – starter pack | 59.00% | ~206 |
-| It's good to be alive | 59.00% | ~206 |
 | Own four walls | 59.00% | ~206 |
 | Employee of the year | 59.00% | ~206 |
 | Fight for life | 58.00% | ~203 |
@@ -45,8 +45,8 @@
 | Underground dwellers | 42.00% | ~147 |
 | Responsible approach | 42.00% | ~147 |
 | Deal with life | 41.00% | ~144 |
+| GYM professional | 41.00% | ~144 |
 | Mom got better | 40.00% | ~140 |
-| GYM professional | 40.00% | ~140 |
 | Poisoned fighter | 40.00% | ~140 |
 | The die is cast | 40.00% | ~140 |
 | Get out of my apartment! | 39.00% | ~136 |

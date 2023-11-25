@@ -4,8 +4,8 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.69,
+  "EOS_Completed_Percentage": 1.68,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -1124,6 +1124,11 @@
       "Time": "2023-11-23T16:04:47.7903336+00:00",
       "NumProgressed": 237,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-25T13:08:49.1341309+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -1133,9 +1138,9 @@
       "ID": "ACH_CORPSE",
       "SetID": "c2kf3nm",
       "Name": "Are you still Alive?",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_DIE",
@@ -1165,9 +1170,9 @@
       "ID": "ACH_FIND_ENTITY",
       "SetID": "c2kf3nm",
       "Name": "YOU DESERVE THAT",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_FRIEND",
@@ -1183,7 +1188,7 @@
       "Name": "Lab Rat",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_GET_OUT",
@@ -1199,15 +1204,15 @@
       "Name": "Follow your Dreams",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_HOUND",
@@ -1223,7 +1228,7 @@
       "Name": "Key to your Death",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_PIPEDREAMS",
@@ -1239,7 +1244,7 @@
       "Name": "Pitfalls",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -1255,7 +1260,7 @@
       "Name": "RUN FOR YOUR LIFE",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_STAIRS",
@@ -1271,21 +1276,21 @@
       "Name": "Why are you running?!",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:05:37.2931374+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:08:49.1341305+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:07.9595099+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:59:01.9973418+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:05:37.2931525+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:02:04.4538562+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:08:49.1341469+00:00"
 }

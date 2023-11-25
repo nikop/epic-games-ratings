@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1711,
+  "EOS_Progressed": 1713,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.32,
   "EosHistory": [
@@ -3678,6 +3678,11 @@
       "Time": "2023-11-24T21:06:15.1299863+00:00",
       "NumProgressed": 1711,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-11-25T13:09:37.2279037+00:00",
+      "NumProgressed": 1713,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 11,
@@ -3697,7 +3702,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACH_Cacciavite",
@@ -3705,7 +3710,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -3721,7 +3726,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_FineEV9",
@@ -3729,7 +3734,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH_FineGioco",
@@ -3745,7 +3750,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -3753,7 +3758,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1302
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3769,22 +3774,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1711,
+      "Progressed": 1713,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:06:22.5995316+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:09:37.2279033+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:44.1994249+00:00",
-  "LastUpdate_Ratings": "2023-11-25T12:00:42.1002935+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:06:22.5995572+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:03:51.235574+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:09:37.2279267+00:00"
 }

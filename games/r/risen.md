@@ -31,11 +31,11 @@ Rating: 4.57 (Ranked 475)
 | Peacekeeper | 22.00% | ~11 |
 | Little hero | 20.00% | ~10 |
 | Defender | 20.00% | ~10 |
+| Sidelined | 20.00% | ~10 |
 | Ghost hunter | 18.00% | ~9 |
-| Sidelined | 18.00% | ~9 |
+| Workaholic | 18.00% | ~9 |
+| Fence | 18.00% | ~9 |
 | Showdown | 16.00% | ~8 |
-| Workaholic | 16.00% | ~8 |
-| Fence | 16.00% | ~8 |
 | Safecracker | 14.00% | ~7 |
 | Master thief | 14.00% | ~7 |
 | Freedom fighter | 12.00% | ~6 |

@@ -10,7 +10,7 @@
 | The Rebel And The Doctor | 58.00% | ~371 |
 | Beat It | 52.00% | ~333 |
 | Free Champagne | 48.00% | ~307 |
-| Storage Hunter | 47.00% | ~301 |
+| Storage Hunter | 48.00% | ~307 |
 | Falling For You | 44.00% | ~282 |
 | Trust Me For Once | 28.00% | ~179 |
 | Lab Rat | 25.00% | ~160 |

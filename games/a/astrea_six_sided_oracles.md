@@ -10,14 +10,14 @@
 | Mechanical Buddy | 44.00% | ~36 |
 | Endless Tricks | 41.00% | ~34 |
 | Sanctuary Guardian | 38.00% | ~31 |
+| Noctuan Champion | 37.00% | ~30 |
 | Mind Illuminator | 35.00% | ~29 |
-| Noctuan Champion | 35.00% | ~29 |
 | Wild's Keeper | 34.00% | ~28 |
 | Eridanian Champion | 29.00% | ~24 |
 | Lacertian Champion | 29.00% | ~24 |
 | Stellar Dismantler | 28.00% | ~23 |
+| Anomaly Destroyer | 27.00% | ~22 |
 | Apian Champion | 27.00% | ~22 |
-| Anomaly Destroyer | 26.00% | ~21 |
 | Star Killer | 24.00% | ~20 |
 | Loyal Partner | 23.00% | ~19 |
 | Behenian Champion | 23.00% | ~19 |

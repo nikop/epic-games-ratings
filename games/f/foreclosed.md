@@ -10,12 +10,12 @@
 | A.I. Training | 52.00% | ~57 |
 | Sniper | 39.00% | ~43 |
 | The Red Herring | 35.00% | ~38 |
-| Telekinesis | 29.00% | ~32 |
-| Sapper | 24.00% | ~26 |
+| Telekinesis | 30.00% | ~33 |
+| Sapper | 25.00% | ~27 |
 | Tough Decision | 22.00% | ~24 |
 | Veteran Sniper | 20.00% | ~22 |
+| Flatline | 20.00% | ~22 |
 | The Neuro-connector | 19.00% | ~21 |
-| Flatline | 19.00% | ~21 |
 | Mind Over Matter | 19.00% | ~21 |
 | Full and Final Settlement | 17.00% | ~19 |
 | Unstoppable | 17.00% | ~19 |

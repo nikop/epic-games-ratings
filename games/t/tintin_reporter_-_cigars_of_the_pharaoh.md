@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 74.00% | ~34 |
-| A Loyal Friend | 39.00% | ~18 |
-| Abandon Ship! | 28.00% | ~13 |
-| The Tomb of Kih-Oskh | 22.00% | ~10 |
+| My Papyrus! | 71.00% | ~34 |
+| A Loyal Friend | 40.00% | ~19 |
+| Abandon Ship! | 27.00% | ~13 |
+| The Tomb of Kih-Oskh | 21.00% | ~10 |
 | The Weighing of the Soul | 15.00% | ~7 |
-| Cat Lover | 9.00% | ~4 |
-| The Curse of Kih-Oskh | 9.00% | ~4 |
-| It's a Deal! | 9.00% | ~4 |
-| In the Name of the Law | 7.00% | ~3 |
-| Au Revoir, Abudin | 7.00% | ~3 |
-| Mysterious Bungalow | 7.00% | ~3 |
-| Mummy Nightmare | 7.00% | ~3 |
-| Dynamite, Treason and Coconuts | 7.00% | ~3 |
-| Save a Friend | 7.00% | ~3 |
+| Cat Lover | 8.00% | ~4 |
+| The Curse of Kih-Oskh | 8.00% | ~4 |
+| It's a Deal! | 8.00% | ~4 |
+| In the Name of the Law | 6.00% | ~3 |
+| Au Revoir, Abudin | 6.00% | ~3 |
+| Mysterious Bungalow | 6.00% | ~3 |
+| Mummy Nightmare | 6.00% | ~3 |
+| Dynamite, Treason and Coconuts | 6.00% | ~3 |
+| Save a Friend | 6.00% | ~3 |
 | The Eyes! | 4.00% | ~2 |
 | The Corporal's Golden Boy | 4.00% | ~2 |
 | Punctual | 4.00% | ~2 |
@@ -42,7 +42,7 @@
 | Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 501)  
+Progressed: 48 (Ranked 498)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,4 +58,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 29 | 0 |
 | 2023-11-23 | 36 | 0 |
 | 2023-11-24 | 45 | 0 |
-| 2023-11-25 | 46 | 0 |
+| 2023-11-25 | 48 | 0 |

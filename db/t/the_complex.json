@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -1155,9 +1155,9 @@
       "ID": "storage_hunter",
       "SetID": "d4f4pll",
       "Name": "Storage Hunter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 307
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1188,8 +1188,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:08:48.932257+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:12:09.8336754+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:12.2787812+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:02:51.3613948+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:08:48.9322748+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:00:01.6985972+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:12:09.8336906+00:00"
 }

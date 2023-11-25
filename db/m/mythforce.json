@@ -776,9 +776,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5077,
+  "EOS_Progressed": 5078,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -9851,6 +9851,11 @@
       "Time": "2023-11-25T11:03:58.4098206+00:00",
       "NumProgressed": 5077,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-25T13:06:46.8497026+00:00",
+      "NumProgressed": 5078,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9911,7 +9916,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9951,7 +9956,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10031,7 +10036,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -10046,15 +10051,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5077,
+      "Progressed": 5078,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:03:40.1504336+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:06:46.849702+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-25T12:01:47.3166045+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:03:40.1504898+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:05:00.3731671+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:06:46.8497652+00:00"
 }

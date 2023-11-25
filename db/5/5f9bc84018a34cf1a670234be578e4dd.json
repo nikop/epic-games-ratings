@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 25.48,
+  "EOS_Completed_Percentage": 25.4,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1649,6 +1649,11 @@
       "Time": "2023-11-23T21:08:38.275935+00:00",
       "NumProgressed": 310,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-25T13:11:44.2038057+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 79
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1667,17 +1672,17 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 186
+      "UsersEstimate": 183
     },
     {
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 159
     },
     {
       "ID": "FallDeath",
@@ -1685,7 +1690,7 @@
       "Name": "Accident",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "FirstBox",
@@ -1693,7 +1698,7 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Floppy",
@@ -1709,7 +1714,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 84,
       "XP": 70,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "GameComplete",
@@ -1717,7 +1722,7 @@
       "Name": "Savior",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "GasDeath",
@@ -1733,15 +1738,15 @@
       "Name": "Something is wrong here",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 170
+      "UsersEstimate": 168
     },
     {
       "ID": "Screwdriver",
@@ -1749,15 +1754,15 @@
       "Name": "Screwdriver",
       "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 80,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "Synthesis",
@@ -1765,21 +1770,21 @@
       "Name": "Beginner Chemist",
       "Percentage": 50,
       "XP": 80,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 79
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:08:24.6655744+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:11:44.2038052+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:28.835377+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:59:32.0598085+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:08:24.6655926+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:02:37.2197713+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:11:44.2038242+00:00"
 }

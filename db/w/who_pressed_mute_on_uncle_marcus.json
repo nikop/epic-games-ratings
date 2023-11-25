@@ -2,10 +2,10 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -522,9 +522,9 @@
       "ID": "bless_the_rain",
       "SetID": "202dmm8",
       "Name": "I bless the rain down in London",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "blow",
@@ -586,9 +586,9 @@
       "ID": "just_like_me",
       "SetID": "202dmm8",
       "Name": "Just like me",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "making_a_murderer",
@@ -642,9 +642,9 @@
       "ID": "you_are_carol_vorderman",
       "SetID": "202dmm8",
       "Name": "You are Carol Vorderman",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     }
   ],
   "AchievementSets": [
@@ -659,8 +659,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:09:09.6704011+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:12:32.006583+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:28.267339+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:57:50.8504965+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:09:09.6704141+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:00:48.9898992+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:12:32.0065954+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4409,9 +4409,9 @@
       "ID": "STB_SECONDARY_ASSAULT_III",
       "SetID": "3pe2bac",
       "Name": "Iffighain Headquarters",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 609
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -4490,8 +4490,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:03:23.6219874+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:06:29.6317522+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:32.4571258+00:00",
-  "LastUpdate_Ratings": "2023-11-25T11:59:34.4148602+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:03:23.6220533+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:02:39.7233858+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:06:29.6318004+00:00"
 }

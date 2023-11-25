@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24549,
+  "EOS_Progressed": 24550,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6908,6 +6908,11 @@
       "Time": "2023-11-25T11:04:44.4827017+00:00",
       "NumProgressed": 24549,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-25T13:07:33.0989361+00:00",
+      "NumProgressed": 24550,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -6951,7 +6956,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -7023,7 +7028,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -7270,13 +7275,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24549,
+      "Progressed": 24550,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1842,
+      "Progressed": 1843,
       "Completed": 1376
     }
   ],
@@ -7284,8 +7289,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:04:24.6019851+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:07:33.0989357+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.5324656+00:00",
-  "LastUpdate_Ratings": "2023-11-25T12:02:46.7197806+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:04:24.6020454+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:05:50.4797566+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:07:33.0990026+00:00"
 }

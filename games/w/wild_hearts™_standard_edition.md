@@ -12,8 +12,8 @@
 | Mountain Splitter | 65.00% | ~210 |
 | Charmed by the Hunt | 65.00% | ~210 |
 | Fusion Conjuror | 64.00% | ~207 |
+| Memory Rouser | 64.00% | ~207 |
 | Subsistence Skills | 64.00% | ~207 |
-| Memory Rouser | 63.00% | ~203 |
 | Kemono Hunter | 60.00% | ~194 |
 | Expert Conjuror | 57.00% | ~184 |
 | Flawless Crystal | 54.00% | ~174 |
@@ -34,8 +34,8 @@
 | Karakuri Isle | 33.00% | ~107 |
 | Reincarnation Cycle Stopper | 33.00% | ~107 |
 | Left Arm Leverager | 28.00% | ~90 |
+| Style Seeker | 28.00% | ~90 |
 | Unrivaled in Arms | 28.00% | ~90 |
-| Style Seeker | 27.00% | ~87 |
 | Human Believer | 27.00% | ~87 |
 | Karakuri Minato | 27.00% | ~87 |
 | Canyon of Karakuri | 26.00% | ~84 |

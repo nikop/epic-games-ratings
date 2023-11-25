@@ -7,13 +7,13 @@
 | Sorry, kiddo | 97.00% | ~225 |
 | And away we go! | 88.00% | ~204 |
 | Job one. DONE! | 63.00% | ~146 |
-| You are Carol Vorderman | 59.00% | ~137 |
+| You are Carol Vorderman | 60.00% | ~139 |
 | Toby foolery | 53.00% | ~123 |
 | Instinct | 41.00% | ~95 |
 | Don't fear the baldness | 40.00% | ~93 |
 | Blow | 38.00% | ~88 |
-| Just like me | 34.00% | ~79 |
-| I bless the rain down in London | 32.00% | ~74 |
+| Just like me | 35.00% | ~81 |
+| I bless the rain down in London | 33.00% | ~77 |
 | Delusions | 29.00% | ~67 |
 | Brown nosing | 28.00% | ~65 |
 | Cheat | 28.00% | ~65 |
@@ -22,7 +22,7 @@
 | Making a murderer | 20.00% | ~46 |
 | The whole truth | 16.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232 (Ranked 375)  
+Progressed: 232 (Ranked 376)  
 Completed: 24 (10.34%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |

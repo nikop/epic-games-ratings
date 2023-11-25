@@ -5,8 +5,8 @@ Rating: 4.07 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 91.00% | ~274 |
-| Battlefields Have Memories | 87.00% | ~262 |
+| Unforeseen | 92.00% | ~277 |
+| Battlefields Have Memories | 88.00% | ~265 |
 | Enlisted | 84.00% | ~253 |
 | Maybe Engage a Little | 81.00% | ~244 |
 | No More Names | 70.00% | ~211 |
@@ -29,10 +29,10 @@ Rating: 4.07 (Ranked 977)
 | Lights Army | 12.00% | ~36 |
 | Good Boy | 12.00% | ~36 |
 | Periapt Cerulean | 11.00% | ~33 |
+| Armaments Azure | 9.00% | ~27 |
 | Periapt Viridian | 9.00% | ~27 |
 | Shroudfane Explorer | 9.00% | ~27 |
 | Best Dressed | 8.00% | ~24 |
-| Armaments Azure | 8.00% | ~24 |
 | Armaments Gules | 7.00% | ~21 |
 | Kitted Out | 6.00% | ~18 |
 | Scholar | 5.00% | ~15 |

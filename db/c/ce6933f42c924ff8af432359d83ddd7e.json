@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1167,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 4.12,
+  "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -2504,6 +2504,11 @@
       "Time": "2023-11-25T08:11:19.6357944+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-25T13:12:36.6746453+00:00",
+      "NumProgressed": 1167,
+      "NumCompleted": 48
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2562,9 +2567,9 @@
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 700
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2572,7 +2577,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2588,21 +2593,21 @@
       "Name": "Exit",
       "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1167,
       "Completed": 48
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-25T12:09:14.098558+00:00",
+  "LastChanged_Achievements": "2023-11-25T13:12:36.6746441+00:00",
   "LastUpdate_AppInfo": "2023-11-24T16:56:56.882422+00:00",
-  "LastUpdate_Ratings": "2023-11-25T12:02:43.9235149+00:00",
-  "LastUpdate_Achievements": "2023-11-25T12:09:14.0985806+00:00"
+  "LastUpdate_Ratings": "2023-11-25T13:05:47.4112474+00:00",
+  "LastUpdate_Achievements": "2023-11-25T13:12:36.6746674+00:00"
 }

@@ -6,34 +6,34 @@ Rating: 4.38 (Ranked 765)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~866 |
-| And so it begins | 73.00% | ~831 |
-| No pressure | 70.00% | ~797 |
-| Memento | 62.00% | ~706 |
-| Let there be light | 59.00% | ~672 |
-| I think you dropped this | 55.00% | ~626 |
-| Soulmate? | 54.00% | ~615 |
-| Excellent service | 50.00% | ~570 |
-| Roll with it | 47.00% | ~535 |
-| Humble beginnings | 45.00% | ~513 |
-| Love is in the air | 44.00% | ~501 |
-| Fine, I'll do it myself | 42.00% | ~478 |
-| Moving up | 42.00% | ~478 |
+| And so it begins | 73.00% | ~832 |
+| No pressure | 70.00% | ~798 |
+| Memento | 62.00% | ~707 |
+| Let there be light | 59.00% | ~673 |
+| I think you dropped this | 55.00% | ~627 |
+| Soulmate? | 54.00% | ~616 |
+| Excellent service | 49.00% | ~559 |
+| Roll with it | 47.00% | ~536 |
+| Humble beginnings | 44.00% | ~502 |
+| Love is in the air | 44.00% | ~502 |
+| Fine, I'll do it myself | 42.00% | ~479 |
+| Moving up | 42.00% | ~479 |
 | No need to call anyone | 40.00% | ~456 |
 | Big fortune | 33.00% | ~376 |
 | Still more work ahead | 30.00% | ~342 |
-| Aesop's fable | 29.00% | ~330 |
+| Aesop's fable | 29.00% | ~331 |
 | Kaboom | 28.00% | ~319 |
 | Hotel sleuthing | 28.00% | ~319 |
 | Nearly there | 26.00% | ~296 |
-| Broken heart | 24.00% | ~273 |
+| Broken heart | 24.00% | ~274 |
 | Island boy | 22.00% | ~251 |
 | You're a star | 21.00% | ~239 |
-| Unstoppable | 19.00% | ~216 |
-| Reunited | 19.00% | ~216 |
+| Unstoppable | 19.00% | ~217 |
+| Reunited | 19.00% | ~217 |
 | King of hospitality | 11.00% | ~125 |
 | Top spot in town | 2.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,139 (Ranked 255)  
+Progressed: 1,140 (Ranked 255)  
 Completed: 16 (1.40%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,6 +204,7 @@ Completed: 16 (1.40%) (Ranked 144)
 | 2023-11-22 | 1,134 | 16 |
 | 2023-11-23 | 1,137 | 16 |
 | 2023-11-24 | 1,139 | 16 |
+| 2023-11-25 | 1,140 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

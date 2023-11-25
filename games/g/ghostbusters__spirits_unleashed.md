@@ -27,18 +27,18 @@ Rating: 4.50 (Ranked 591)
 | Right back at ya | 3.00% | ~946 |
 | Side Hustle | 3.00% | ~946 |
 | Summoner | 3.00% | ~946 |
-| Back Off | 2.00% | ~630 |
-| We have the best insurance | 2.00% | ~630 |
-| Collector | 2.00% | ~630 |
-| Escape Artist | 2.00% | ~630 |
-| Legions | 2.00% | ~630 |
-| Pesky Jerks | 2.00% | ~630 |
-| Rift Destroyer | 2.00% | ~630 |
-| Seasoned | 2.00% | ~630 |
-| Skilled | 2.00% | ~630 |
-| Stunner | 2.00% | ~630 |
-| Tobin's Prodigy | 2.00% | ~630 |
-| Welcome to the Crew | 2.00% | ~630 |
+| Back Off | 2.00% | ~631 |
+| We have the best insurance | 2.00% | ~631 |
+| Collector | 2.00% | ~631 |
+| Escape Artist | 2.00% | ~631 |
+| Legions | 2.00% | ~631 |
+| Pesky Jerks | 2.00% | ~631 |
+| Rift Destroyer | 2.00% | ~631 |
+| Seasoned | 2.00% | ~631 |
+| Skilled | 2.00% | ~631 |
+| Stunner | 2.00% | ~631 |
+| Tobin's Prodigy | 2.00% | ~631 |
+| Welcome to the Crew | 2.00% | ~631 |
 | Diabolical | 1.00% | ~315 |
 | Liability | 1.00% | ~315 |
 | Reckless | 1.00% | ~315 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 591)
 | Mycophile | 0.10% | ~32 |
 | Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,525 (Ranked 124)  
+Progressed: 31,526 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 69 (0.22%) (Ranked 251)
 | 2023-11-22 | 31,398 | 68 |
 | 2023-11-23 | 31,445 | 68 |
 | 2023-11-24 | 31,499 | 68 |
-| 2023-11-25 | 31,525 | 69 |
+| 2023-11-25 | 31,526 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 249)  
 Sum: 2,846 (Ranked 179)  

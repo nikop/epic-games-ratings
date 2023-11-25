@@ -24,8 +24,8 @@ Rating: 4.64 (Ranked 333)
 | Don't Knife The Hand That Feeds | 2.00% | ~491 |
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~491 |
 | Series Wrap on Suit-O | 2.00% | ~491 |
-| Eatin' Good in the Neighborhood | 1.00% | ~245 |
-| Eye Scream, You Scream | 1.00% | ~245 |
+| Eatin' Good in the Neighborhood | 1.00% | ~246 |
+| Eye Scream, You Scream | 1.00% | ~246 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~18 |
 | Bathe With A Giant Nude Alien | 1.00% | ~18 |
 | Mux Ado About Shipping | 0.80% | ~15 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 333)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,549 (Ranked 128)  
+Progressed: 24,550 (Ranked 128)  
 Completed: 14 (0.06%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 14 (0.06%) (Ranked 303)
 | 2023-11-22 | 24,520 | 13 |
 | 2023-11-23 | 24,530 | 13 |
 | 2023-11-24 | 24,541 | 14 |
-| 2023-11-25 | 24,549 | 14 |
+| 2023-11-25 | 24,550 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
