@@ -21,9 +21,9 @@ Rating: 4.29 (Ranked 843)
 | Death Becomes Her | 0.80% | ~327 |
 | The Sky Is Falling | 0.80% | ~327 |
 | Schadenfreude | 0.80% | ~327 |
-| Start As You Mean To Go On | 0.70% | ~286 |
-| Hail the Great Horned Metal God! | 0.70% | ~286 |
-| That'll Come In Handy... | 0.70% | ~286 |
+| Start As You Mean To Go On | 0.70% | ~287 |
+| Hail the Great Horned Metal God! | 0.70% | ~287 |
+| That'll Come In Handy... | 0.70% | ~287 |
 | Four Legged Friend | 0.50% | ~205 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~205 |
 | Ice To See You | 0.40% | ~164 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 843)
 | Heart Of Steel | 0.10% | ~41 |
 | Death or Glory | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,927 (Ranked 122)  
+Progressed: 40,929 (Ranked 122)  
 Completed: 26 (0.06%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 26 (0.06%) (Ranked 303)
 | 2023-11-22 | 40,800 | 26 |
 | 2023-11-23 | 40,848 | 26 |
 | 2023-11-24 | 40,905 | 26 |
-| 2023-11-25 | 40,927 | 26 |
+| 2023-11-25 | 40,929 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 333)  
 Sum: 127 (Ranked 430)  

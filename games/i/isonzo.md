@@ -8,23 +8,23 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tutti Eroi! | 50.00% | ~4,490 |
 | You Shall Not Pass | 50.00% | ~4,490 |
-| Peak Performance | 47.00% | ~4,220 |
+| Peak Performance | 47.00% | ~4,221 |
 | Avanti Savoia! | 44.00% | ~3,951 |
 | Mamma Mia! | 34.00% | ~3,053 |
-| Conrad von Hotzensocks | 32.00% | ~2,873 |
-| Gabriele D'Annunzio | 31.00% | ~2,783 |
-| Silver Lining | 27.00% | ~2,424 |
+| Conrad von Hotzensocks | 32.00% | ~2,874 |
+| Gabriele D'Annunzio | 31.00% | ~2,784 |
+| Silver Lining | 27.00% | ~2,425 |
 | Aurelio Baruzzi | 21.00% | ~1,886 |
 | Decimation | 20.00% | ~1,796 |
 | Donatello | 19.00% | ~1,706 |
 | The Italian Job | 19.00% | ~1,706 |
 | Veni Vidi Vici | 19.00% | ~1,706 |
 | Insubordination | 18.00% | ~1,616 |
-| Ragazzi del '99 | 17.00% | ~1,526 |
+| Ragazzi del '99 | 17.00% | ~1,527 |
 | Luigi Cadorna | 15.00% | ~1,347 |
 | The Lion of the Isonzo | 15.00% | ~1,347 |
 | Uomo Universale | 13.00% | ~1,167 |
-| Shaken, Not Stirred | 12.00% | ~1,077 |
+| Shaken, Not Stirred | 12.00% | ~1,078 |
 | Die Bosniaken Kommen! | 11.00% | ~988 |
 | Dirty Dozen | 11.00% | ~988 |
 | Machiavelli | 11.00% | ~988 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~36 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,979 (Ranked 168)  
+Progressed: 8,980 (Ranked 168)  
 Completed: 9 (0.10%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,17 +265,17 @@ Completed: 9 (0.10%) (Ranked 284)
 | 2023-11-22 | 8,892 | 9 |
 | 2023-11-23 | 8,926 | 9 |
 | 2023-11-24 | 8,970 | 9 |
-| 2023-11-25 | 8,979 | 9 |
+| 2023-11-25 | 8,980 | 9 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 461)  
-Sum: 285 (Ranked 372)  
-Diff (max vs sum): 89  
+Sum: 286 (Ranked 370)  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 38 |
 | This game is Highly Recommended | 37 |
 | This game is Extremely Fun | 35 |
-| This game has Realistic Visuals | 34 |
+| This game has Realistic Visuals | 35 |
 | This game has Amazing Characters | 32 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Challenging Combat | 30 |
@@ -410,3 +410,4 @@ Diff (max vs sum): 89
 | 2023-11-21 | 4.55 | - | 37 | 283 |
 | 2023-11-22 | 4.55 | - | 37 | 284 |
 | 2023-11-24 | 4.56 | - | 38 | 285 |
+| 2023-11-25 | 4.56 | - | 38 | 286 |

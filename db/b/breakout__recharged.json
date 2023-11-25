@@ -4,7 +4,7 @@
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -432,8 +432,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:09:02.1457726+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:09:33.8893391+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:13.8772084+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:58:07.2897747+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:09:02.1457846+00:00"
+  "LastUpdate_Ratings": "2023-11-25T10:58:44.341804+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:09:33.8893514+00:00"
 }

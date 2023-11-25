@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -283,7 +283,7 @@
   "Tags": [],
   "EOS_Progressed": 2214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6338,9 +6338,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1572
     },
     {
       "ID": "A37",
@@ -6499,8 +6499,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:04:28.7924457+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:05:09.6506361+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:31.8115403+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:58:59.8450113+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:04:28.7925033+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:00:06.3244833+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:05:09.6506977+00:00"
 }

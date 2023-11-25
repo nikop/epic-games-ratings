@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1734,
+  "EOS_Progressed": 1735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4331,6 +4331,11 @@
       "Time": "2023-11-24T22:04:07.0569023+00:00",
       "NumProgressed": 1734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T11:05:31.0309486+00:00",
+      "NumProgressed": 1735,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4462,7 +4467,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4494,7 +4499,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4518,7 +4523,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4596,9 +4601,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 711
+      "UsersEstimate": 729
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4678,7 +4683,7 @@
       "Name": "Space Forest",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -4725,7 +4730,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1734,
+      "Progressed": 1735,
       "Completed": 0
     }
   ],
@@ -4733,8 +4738,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:04:43.5350387+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:05:31.0309482+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.8108323+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:59:49.9600877+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:04:43.5350792+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:01:25.9712309+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:05:31.0309982+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.61 (Ranked 382)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Secret Technique | 3.00% | ~164 |
 | But this one is mine | 3.00% | ~164 |
 | Full Ascension | 2.00% | ~109 |
 | Realm Estate | 2.00% | ~109 |
 | A Wonderful Discovery | 2.00% | ~109 |
-| Secret Technique | 2.00% | ~109 |
 | Walls Cannot Stop Us | 2.00% | ~109 |
 | Bone Peddler | 2.00% | ~109 |
 | From Friends to Family | 2.00% | ~109 |
@@ -28,11 +28,11 @@ Rating: 4.61 (Ranked 382)
 | Chaos Surge | 1.00% | ~55 |
 | Seal the Deal | 1.00% | ~55 |
 | Spoils of War | 1.00% | ~55 |
+| Digging for Treasure | 0.90% | ~49 |
 | Impenetrable Fortress | 0.90% | ~49 |
 | Dawn of the Dread | 0.90% | ~49 |
 | Return of the Wizard King | 0.80% | ~44 |
 | Enchanted Archipelago | 0.80% | ~44 |
-| Digging for Treasure | 0.80% | ~44 |
 | My Final Form | 0.80% | ~44 |
 | Fiery Friend | 0.80% | ~44 |
 | Preparation Is Everything | 0.70% | ~38 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 382)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,470 (Ranked 189)  
+Progressed: 5,472 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 7 (0.13%) (Ranked 272)
 | 2023-11-22 | 5,428 | 7 |
 | 2023-11-23 | 5,446 | 7 |
 | 2023-11-24 | 5,463 | 7 |
-| 2023-11-25 | 5,470 | 7 |
+| 2023-11-25 | 5,472 | 7 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 480)  
 Sum: 60 (Ranked 476)  

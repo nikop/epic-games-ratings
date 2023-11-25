@@ -7207,9 +7207,9 @@
       "Count": 3784
     }
   ],
-  "EOS_Progressed": 141826,
+  "EOS_Progressed": 141839,
   "EOS_Completed": 260,
-  "EOS_NewPlayers": 1453,
+  "EOS_NewPlayers": 1456,
   "EOS_NewCompleters": 73,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -29792,6 +29792,11 @@
       "Time": "2023-11-25T10:08:28.9276006+00:00",
       "NumProgressed": 141826,
       "NumCompleted": 260
+    },
+    {
+      "Time": "2023-11-25T11:08:46.3068892+00:00",
+      "NumProgressed": 141839,
+      "NumCompleted": 260
     }
   ],
   "TotalAchievements": 112,
@@ -30035,7 +30040,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "commonres02",
@@ -30059,7 +30064,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "craft01",
@@ -30067,7 +30072,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5673
+      "UsersEstimate": 5674
     },
     {
       "ID": "craft02",
@@ -30091,7 +30096,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "craft05",
@@ -30099,7 +30104,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "damage01",
@@ -30179,7 +30184,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5673
+      "UsersEstimate": 5674
     },
     {
       "ID": "expansion02",
@@ -30193,9 +30198,9 @@
       "ID": "expansion03",
       "SetID": "anfd17p",
       "Name": "Thank You Tom Nook",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 993
+      "UsersEstimate": 1135
     },
     {
       "ID": "fullmoon",
@@ -30275,7 +30280,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "gold02",
@@ -30411,7 +30416,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "lilu_a",
@@ -30579,7 +30584,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5673
+      "UsersEstimate": 5674
     },
     {
       "ID": "sell02",
@@ -30633,9 +30638,9 @@
       "ID": "typeunlock01",
       "SetID": "anfd17p",
       "Name": "All Accounted For",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1277
     },
     {
       "ID": "uncommonres01",
@@ -30659,7 +30664,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "workers01",
@@ -30698,15 +30703,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 141826,
+      "Progressed": 141839,
       "Completed": 260
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-25T07:03:05.2122011+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:08:28.9276002+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:08:46.3068887+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:03:10.631092+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:08:28.9278181+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:03:12.0760106+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:08:46.3070844+00:00"
 }

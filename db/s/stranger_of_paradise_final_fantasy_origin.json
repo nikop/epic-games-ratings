@@ -1777,9 +1777,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 80008,
+  "EOS_Progressed": 80009,
   "EOS_Completed": 2193,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
@@ -9907,6 +9907,11 @@
       "Time": "2023-11-25T10:06:10.0679925+00:00",
       "NumProgressed": 80008,
       "NumCompleted": 2193
+    },
+    {
+      "Time": "2023-11-25T11:07:36.4992993+00:00",
+      "NumProgressed": 80009,
+      "NumCompleted": 2193
     }
   ],
   "TotalAchievements": 46,
@@ -9934,7 +9939,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 59206
+      "UsersEstimate": 59207
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -9942,7 +9947,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 54405
+      "UsersEstimate": 54406
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -9950,7 +9955,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 50405
+      "UsersEstimate": 50406
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -9966,7 +9971,7 @@
       "Name": "The Wind\u0027s Light",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 43204
+      "UsersEstimate": 43205
     },
     {
       "ID": "007_TROPHY_MISSION_POISON_MEMORIES",
@@ -10006,7 +10011,7 @@
       "Name": "Shared Recollections",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 33603
+      "UsersEstimate": 33604
     },
     {
       "ID": "012_TROPHY_MISSION_WATER_MEMORIES",
@@ -10014,7 +10019,7 @@
       "Name": "The Water\u0027s Light",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 32003
+      "UsersEstimate": 32004
     },
     {
       "ID": "013_TROPHY_MISSION_PAST_SCHEME",
@@ -10070,7 +10075,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 52805
+      "UsersEstimate": 52806
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -10086,7 +10091,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 77608
+      "UsersEstimate": 77609
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -10102,7 +10107,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 68807
+      "UsersEstimate": 68808
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -10110,7 +10115,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 62406
+      "UsersEstimate": 62407
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -10118,7 +10123,7 @@
       "Name": "Seeker of Power",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 68007
+      "UsersEstimate": 68008
     },
     {
       "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
@@ -10166,7 +10171,7 @@
       "Name": "Savant",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 49605
+      "UsersEstimate": 49606
     },
     {
       "ID": "032_TROPHY_USED_MASTER_POINT",
@@ -10270,7 +10275,7 @@
       "Name": "Path of the Sage",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 32003
+      "UsersEstimate": 32004
     },
     {
       "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
@@ -10285,15 +10290,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 80008,
+      "Progressed": 80009,
       "Completed": 2193
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-11-25T04:00:36.2600843+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:06:10.0679921+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:07:36.4992989+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:56:57.70056+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:00:15.9024963+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:06:10.0680588+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:02:06.7110943+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:07:36.4993568+00:00"
 }

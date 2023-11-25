@@ -4,10 +4,10 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 493,
   "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 372,
+  "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -863,10 +863,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 285,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-11-25T10:59:11.3938863+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 286,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 285,
+  "NumberOfAwards": 286,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -916,7 +922,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Competitive Players",
@@ -937,9 +943,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 8979,
+  "EOS_Progressed": 8980,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8107,6 +8113,11 @@
       "Time": "2023-11-25T09:04:27.8585563+00:00",
       "NumProgressed": 8979,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-25T11:05:28.3660969+00:00",
+      "NumProgressed": 8980,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -8166,7 +8177,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -8230,7 +8241,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -8310,7 +8321,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8326,7 +8337,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -8358,7 +8369,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -8366,7 +8377,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2425
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -8477,16 +8488,16 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 8979,
+      "Progressed": 8980,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-11-24T13:57:50.9628182+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:04:41.6841603+00:00",
+  "LastChanged": "2023-11-25T10:59:11.3938862+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:05:28.3660965+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.1611041+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:58:24.341949+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:04:41.6842248+00:00"
+  "LastUpdate_Ratings": "2023-11-25T10:59:11.3938866+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:05:28.3661534+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40927,
+  "EOS_Progressed": 40929,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24123,6 +24123,11 @@
       "Time": "2023-11-25T10:03:46.8623803+00:00",
       "NumProgressed": 40927,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-25T11:04:08.7429581+00:00",
+      "NumProgressed": 40929,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -24150,7 +24155,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -24310,7 +24315,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -24318,7 +24323,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -24365,7 +24370,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40927,
+      "Progressed": 40929,
       "Completed": 26
     }
   ],
@@ -24373,8 +24378,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:03:46.8623797+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:04:08.7429578+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.2430708+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:00:21.3664747+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:03:46.8626111+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:02:14.4889792+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:04:08.7430678+00:00"
 }

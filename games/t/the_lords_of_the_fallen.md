@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.19 (Ranked 925)  
+Rating: 4.20 (Ranked 916)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -69,7 +69,7 @@ Rating: 4.19 (Ranked 925)
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,946 (Ranked 227)  
+Progressed: 1,948 (Ranked 227)  
 Completed: 1 (0.05%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 1 (0.05%) (Ranked 311)
 | 2023-11-22 | 1,798 | 1 |
 | 2023-11-23 | 1,857 | 1 |
 | 2023-11-24 | 1,918 | 1 |
-| 2023-11-25 | 1,946 | 1 |
+| 2023-11-25 | 1,948 | 1 |
 ## Awards
 Max (Character Customization): 170  (Ranked 307)  
 Sum: 314 (Ranked 360)  
@@ -157,3 +157,4 @@ Diff (max vs sum): -53
 | 2023-11-22 | 4.19 | 169 | 309 |
 | 2023-11-23 | 4.19 | 169 | 310 |
 | 2023-11-24 | 4.19 | 170 | 314 |
+| 2023-11-25 | 4.20 | 170 | 314 |

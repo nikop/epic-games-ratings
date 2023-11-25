@@ -1481,10 +1481,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 382,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-11-25T10:59:23.8148369+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 383,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 382,
+  "NumberOfAwards": 383,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1504,7 +1510,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has a Creative Community",
@@ -1543,9 +1549,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159968,
+  "EOS_Progressed": 159976,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1126,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16983,6 +16989,11 @@
       "Time": "2023-11-25T10:05:06.3411755+00:00",
       "NumProgressed": 159968,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T11:06:03.8939436+00:00",
+      "NumProgressed": 159976,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17058,7 +17069,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7998
+      "UsersEstimate": 7999
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -17130,7 +17141,7 @@
       "Name": "Harmless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -17186,7 +17197,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -17194,7 +17205,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -17210,7 +17221,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7998
+      "UsersEstimate": 7999
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -17250,7 +17261,7 @@
       "Name": "Yank",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -17258,7 +17269,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -17312,9 +17323,9 @@
       "ID": "QUEST_LISTENER",
       "SetID": "72k7oh",
       "Name": "Listen",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 638
     },
     {
       "ID": "QUEST_YON",
@@ -17361,21 +17372,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159551,
+      "Progressed": 159559,
       "Completed": 1221
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159968,
+      "Progressed": 159976,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-25T08:00:36.1208665+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:05:06.3411739+00:00",
+  "LastChanged": "2023-11-25T10:59:23.8148368+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:06:03.8939434+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:58:32.596157+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:05:06.3413242+00:00"
+  "LastUpdate_Ratings": "2023-11-25T10:59:23.8148372+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:06:03.894052+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 53.00% | ~107 |
-| The 4 Pillars | 50.00% | ~101 |
+| The 4 Pillars | 51.00% | ~103 |
 | Capitalism | 20.00% | ~40 |
 | Great Producer | 11.00% | ~22 |
 | Green Energy | 11.00% | ~22 |

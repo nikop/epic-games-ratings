@@ -2,8 +2,8 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 572,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -1152,6 +1152,11 @@
       "Time": "2023-11-25T09:05:48.3569775+00:00",
       "NumProgressed": 569,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T11:07:12.8519109+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1162,7 +1167,7 @@
       "ID": "AchieveHighScoreConquest",
       "SetID": "52ail55",
       "Name": "The Value of Conquest",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1196,7 +1201,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -1220,7 +1225,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 412
     },
     {
       "ID": "CompleteChapter10",
@@ -1290,9 +1295,9 @@
       "ID": "CompleteChapter17NoIdenDeath",
       "SetID": "52ail55",
       "Name": "Who Needs Reinforcements?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 17
     },
     {
       "ID": "CompleteChapter18",
@@ -1308,7 +1313,7 @@
       "Name": "Met the Enemy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 309
     },
     {
       "ID": "CompleteChapter3",
@@ -1316,15 +1321,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 149
     },
     {
       "ID": "CompleteChapter5",
@@ -1340,7 +1345,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CompleteChapter7",
@@ -1356,7 +1361,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CompleteChapter9",
@@ -1370,7 +1375,7 @@
       "ID": "CompleteConquestKruleboyz",
       "SetID": "52ail55",
       "Name": "Destruction",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1378,7 +1383,7 @@
       "ID": "CompleteConquestNighthaunts",
       "SetID": "52ail55",
       "Name": "Death",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1402,7 +1407,7 @@
       "ID": "CompleteConquestTzeentch",
       "SetID": "52ail55",
       "Name": "Chaos",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1412,7 +1417,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1436,7 +1441,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1450,7 +1455,7 @@
       "ID": "WinAllConquestBattlesInARun",
       "SetID": "52ail55",
       "Name": "Ghur\u0027s Ruler",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 2
     }
@@ -1459,14 +1464,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 572,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:05:54.0290185+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:07:12.8519107+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:58:49.8800922+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:05:54.0290554+00:00"
+  "LastUpdate_Ratings": "2023-11-25T10:59:50.5795305+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:07:12.8519359+00:00"
 }

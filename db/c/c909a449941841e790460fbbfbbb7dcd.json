@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -900,9 +900,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 60,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -987,8 +987,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:04:17.2450989+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:04:53.0256363+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:08.5650731+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:03:01.6154644+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:04:17.245114+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:02:58.0035244+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:04:53.0256486+00:00"
 }

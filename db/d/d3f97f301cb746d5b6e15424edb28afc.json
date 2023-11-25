@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -49,7 +49,7 @@
   "Tags": [],
   "EOS_Progressed": 1067,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2849,9 +2849,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 683
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -3194,8 +3194,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-25T09:58:05.7161965+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:06:27.0454533+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:08:00.9597172+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:58:05.716197+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:06:27.0455532+00:00"
+  "LastUpdate_Ratings": "2023-11-25T10:58:41.7151819+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:08:00.9598232+00:00"
 }

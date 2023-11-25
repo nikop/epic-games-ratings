@@ -6,22 +6,22 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 7.00% | ~1,221 |
-| The Marshlands | 7.00% | ~1,221 |
-| Taking Action | 7.00% | ~1,221 |
-| No Deaths | 7.00% | ~1,221 |
+| First Real Expedition | 7.00% | ~1,222 |
+| The Marshlands | 7.00% | ~1,222 |
+| Taking Action | 7.00% | ~1,222 |
+| No Deaths | 7.00% | ~1,222 |
 | Overcoming Difficulty | 6.00% | ~1,047 |
 | Fertile Meadows | 6.00% | ~1,047 |
 | Coral Forest | 6.00% | ~1,047 |
 | The Scarlet Orchard | 6.00% | ~1,047 |
-| Bandit Camp | 5.00% | ~872 |
-| Ancient Battleground | 5.00% | ~872 |
-| Sparkdew Crystals | 5.00% | ~872 |
-| Royal Outpost | 5.00% | ~872 |
-| Lost Colonies | 5.00% | ~872 |
-| Watchtower | 5.00% | ~872 |
-| A Real Challenge | 5.00% | ~872 |
-| Trade Baron | 5.00% | ~872 |
+| Bandit Camp | 5.00% | ~873 |
+| Ancient Battleground | 5.00% | ~873 |
+| Sparkdew Crystals | 5.00% | ~873 |
+| Royal Outpost | 5.00% | ~873 |
+| Lost Colonies | 5.00% | ~873 |
+| Watchtower | 5.00% | ~873 |
+| A Real Challenge | 5.00% | ~873 |
+| Trade Baron | 5.00% | ~873 |
 | Homesick | 4.00% | ~698 |
 | Against All Odds | 4.00% | ~698 |
 | Ruined Armory | 4.00% | ~698 |
@@ -33,21 +33,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 4.00% | ~698 |
 | Corrosive Torrent | 4.00% | ~698 |
 | Cursed Lands | 4.00% | ~698 |
-| Serving Ale | 3.00% | ~523 |
-| Refinery | 3.00% | ~523 |
-| Dangerous Lands | 3.00% | ~523 |
-| Fishmen Ritual Site | 3.00% | ~523 |
-| Forbidden Lands | 3.00% | ~523 |
-| Forsaken Gods Temple | 3.00% | ~523 |
-| Like a Machine | 3.00% | ~523 |
-| Defying the Crown | 3.00% | ~523 |
-| Into the Forest | 3.00% | ~523 |
+| Serving Ale | 3.00% | ~524 |
+| Refinery | 3.00% | ~524 |
+| Dangerous Lands | 3.00% | ~524 |
+| Fishmen Ritual Site | 3.00% | ~524 |
+| Forbidden Lands | 3.00% | ~524 |
+| Forsaken Gods Temple | 3.00% | ~524 |
+| Like a Machine | 3.00% | ~524 |
+| Defying the Crown | 3.00% | ~524 |
+| Into the Forest | 3.00% | ~524 |
 | Feeding The People | 2.00% | ~349 |
 | Efficient Explorer | 2.00% | ~349 |
 | Victory through Prosperity | 2.00% | ~349 |
-| Lizard Utopia | 1.00% | ~174 |
-| Prestigious Expedition | 1.00% | ~174 |
-| Blood Flower Farmer | 1.00% | ~174 |
+| Lizard Utopia | 1.00% | ~175 |
+| Prestigious Expedition | 1.00% | ~175 |
+| Blood Flower Farmer | 1.00% | ~175 |
 | Human Utopia | 0.90% | ~157 |
 | Beaver Utopia | 0.80% | ~140 |
 | The Queen's Chosen | 0.60% | ~105 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,448 (Ranked 146)  
+Progressed: 17,452 (Ranked 146)  
 Completed: 56 (0.32%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 56 (0.32%) (Ranked 233)
 | 2023-11-22 | 17,396 | 56 |
 | 2023-11-23 | 17,412 | 56 |
 | 2023-11-24 | 17,437 | 56 |
-| 2023-11-25 | 17,448 | 56 |
+| 2023-11-25 | 17,452 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 440  (Ranked 223)  
 Sum: 3,230 (Ranked 172)  

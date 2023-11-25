@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -1805,6 +1805,11 @@
       "Time": "2023-11-24T19:05:03.2481245+00:00",
       "NumProgressed": 561,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T11:05:34.9101753+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1817,7 +1822,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_eou1",
@@ -1913,21 +1918,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:04:46.2806025+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:05:34.9101749+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.8942797+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:00:21.7228604+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:04:46.2806228+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:02:15.0437376+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:05:34.9101908+00:00"
 }

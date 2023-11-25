@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 724,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 4.99,
+  "EOS_Completed_Percentage": 4.97,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2945,6 +2945,11 @@
       "Time": "2023-11-25T09:03:23.6411986+00:00",
       "NumProgressed": 722,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-25T11:04:04.7143388+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 25,
@@ -2988,7 +2993,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "META_HALF_LINK",
@@ -3004,7 +3009,7 @@
       "Name": "Open door",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3020,7 +3025,7 @@
       "Name": "Feels like springtime",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3044,7 +3049,7 @@
       "Name": "A Link to the Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3068,7 +3073,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3100,7 +3105,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3116,7 +3121,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "PROGRESS_N2",
@@ -3124,7 +3129,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "PROGRESS_N3",
@@ -3132,7 +3137,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "PROGRESS_N4",
@@ -3140,7 +3145,7 @@
       "Name": "The darkness",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "PROGRESS_N5",
@@ -3148,21 +3153,21 @@
       "Name": "One last step",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 724,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:03:43.9919691+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:04:04.7143385+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:59:36.5157673+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:03:43.9920182+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:01:05.2980721+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:04:04.7143646+00:00"
 }

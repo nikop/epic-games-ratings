@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -467,6 +467,11 @@
       "Time": "2023-11-25T10:08:35.3659828+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T11:08:55.507694+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -543,7 +548,7 @@
       "Name": "Perfect Run",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -567,7 +572,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -583,7 +588,7 @@
       "Name": "Unknown Threat",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -599,7 +604,7 @@
       "Name": "Superior Ranking",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -671,7 +676,7 @@
       "Name": "The Journey Begins",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -687,7 +692,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -765,9 +770,9 @@
       "ID": "SUB_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ares Island Expert",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SUB_CLEAR_ISLAND3",
@@ -791,21 +796,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:08:35.365982+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:08:55.5076936+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:59:10.873806+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:08:35.3660111+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:00:24.1641325+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:08:55.5077213+00:00"
 }

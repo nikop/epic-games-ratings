@@ -51,6 +51,7 @@
 | Aquarian Hero | 5.00% | ~4 |
 | Aquarian Mastery | 5.00% | ~4 |
 | Eridanian Hero | 5.00% | ~4 |
+| Lacertian Mastery | 5.00% | ~4 |
 | Noctuan Hero | 5.00% | ~4 |
 | Astrarium of Holding | 4.00% | ~3 |
 | Critical Twist | 4.00% | ~3 |
@@ -58,7 +59,6 @@
 | The Ardent Prince | 4.00% | ~3 |
 | The Raging Skies | 4.00% | ~3 |
 | Eridanian Mastery | 4.00% | ~3 |
-| Lacertian Mastery | 4.00% | ~3 |
 | Noctuan Mastery | 4.00% | ~3 |
 | Astromancer | 2.00% | ~2 |
 | Prestidigitation | 2.00% | ~2 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4329,
+  "EOS_Progressed": 4330,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7635,6 +7635,11 @@
       "Time": "2023-11-25T10:03:31.9753629+00:00",
       "NumProgressed": 4329,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-25T11:03:47.0176433+00:00",
+      "NumProgressed": 4330,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8014,7 +8019,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Ach048",
@@ -8022,7 +8027,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Ach049",
@@ -8182,7 +8187,7 @@
       "Name": "New bad guys? No problem!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Ach069",
@@ -8213,13 +8218,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4329,
+      "Progressed": 4330,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2850,
+      "Progressed": 2851,
       "Completed": 1930
     }
   ],
@@ -8227,8 +8232,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:03:31.9753625+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:03:47.0176429+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:59:06.889937+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:03:31.9754461+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:00:17.3869945+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:03:47.0177428+00:00"
 }

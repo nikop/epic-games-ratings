@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3293,9 +3293,9 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17448,
+  "EOS_Progressed": 17452,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -14138,6 +14138,11 @@
       "Time": "2023-11-25T10:08:40.0152988+00:00",
       "NumProgressed": 17448,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-25T11:09:02.2598628+00:00",
+      "NumProgressed": 17452,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 50,
@@ -14149,7 +14154,7 @@
       "Name": "Serving Ale",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "AllFood",
@@ -14205,7 +14210,7 @@
       "Name": "Lizard Utopia",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ManyEvents",
@@ -14221,7 +14226,7 @@
       "Name": "Refinery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "Win5Years",
@@ -14237,7 +14242,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "WinHard",
@@ -14269,7 +14274,7 @@
       "Name": "Bandit Camp",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "WinNearBarren",
@@ -14285,7 +14290,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "WinNearCrystals",
@@ -14293,7 +14298,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "WinNearDangerous",
@@ -14301,7 +14306,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "WinNearFertile",
@@ -14317,7 +14322,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "WinNearForbidden",
@@ -14325,7 +14330,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "WinNearHaunted",
@@ -14365,7 +14370,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "WinNearRuins",
@@ -14373,7 +14378,7 @@
       "Name": "Lost Colonies",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "WinNearStatue",
@@ -14389,7 +14394,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "WinNearTorrent",
@@ -14405,7 +14410,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "WinOnCoral",
@@ -14429,7 +14434,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "WinOnMoorlands",
@@ -14445,7 +14450,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "WinPrestige20",
@@ -14461,7 +14466,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "WinWIthCaches",
@@ -14477,7 +14482,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "WinWithEvents",
@@ -14485,7 +14490,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "WinWithResolve",
@@ -14509,7 +14514,7 @@
       "Name": "Like a Machine",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -14517,7 +14522,7 @@
       "Name": "Trade Baron",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "WinWithoutDeath",
@@ -14525,7 +14530,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "WinWithoutOrders",
@@ -14533,7 +14538,7 @@
       "Name": "Defying the Crown",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "Year1Dangerous",
@@ -14541,22 +14546,22 @@
       "Name": "Into the Forest",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17448,
+      "Progressed": 17452,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-24T01:44:31.8803351+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:08:40.0152984+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:09:02.2598622+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.2424074+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:00:22.7187788+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:08:40.0153812+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:02:46.6291573+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:09:02.2599573+00:00"
 }

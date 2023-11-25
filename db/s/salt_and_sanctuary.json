@@ -2734,10 +2734,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1998,
       "NumberOfAwardsMax": 293
+    },
+    {
+      "Time": "2023-11-25T11:02:55.5189222+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1999,
+      "NumberOfAwardsMax": 293
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1998,
+  "NumberOfAwards": 1999,
   "NumberOfAwardsMax": 293,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2775,7 +2781,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 230
+      "Count": 231
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2802,7 +2808,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 539118,
+  "EOS_Progressed": 539121,
   "EOS_Completed": 1623,
   "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 9,
@@ -26947,6 +26953,11 @@
       "Time": "2023-11-25T10:08:37.1751126+00:00",
       "NumProgressed": 539118,
       "NumCompleted": 1623
+    },
+    {
+      "Time": "2023-11-25T11:08:58.0025918+00:00",
+      "NumProgressed": 539121,
+      "NumCompleted": 1623
     }
   ],
   "TotalAchievements": 37,
@@ -26958,7 +26969,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70085
+      "UsersEstimate": 70086
     },
     {
       "ID": "COASTROCK",
@@ -26974,7 +26985,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167127
+      "UsersEstimate": 167128
     },
     {
       "ID": "DEVOTED",
@@ -27014,7 +27025,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 447468
+      "UsersEstimate": 447470
     },
     {
       "ID": "HONED",
@@ -27070,7 +27081,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215647
+      "UsersEstimate": 215648
     },
     {
       "ID": "THE_CASTLE",
@@ -27126,7 +27137,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70085
+      "UsersEstimate": 70086
     },
     {
       "ID": "THE_IRON_ONES",
@@ -27134,7 +27145,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102432
+      "UsersEstimate": 102433
     },
     {
       "ID": "THE_KEEP",
@@ -27198,7 +27209,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43129
+      "UsersEstimate": 43130
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -27214,7 +27225,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345036
+      "UsersEstimate": 345037
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -27230,7 +27241,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91650
+      "UsersEstimate": 91651
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -27238,7 +27249,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43129
+      "UsersEstimate": 43130
     },
     {
       "ID": "WISE_WORDS",
@@ -27253,15 +27264,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 539118,
+      "Progressed": 539121,
       "Completed": 1623
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-11-24T03:59:42.687428+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:08:37.1751121+00:00",
+  "LastChanged": "2023-11-25T11:02:55.518922+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:08:58.0025913+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:11.7243126+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:02:59.927246+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:08:37.1752403+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:02:55.5189226+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:08:58.0027198+00:00"
 }

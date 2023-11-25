@@ -19641,9 +19641,9 @@
       "ID": "Bestest_Friend",
       "SetID": "chapdi4",
       "Name": "Bestest Friend",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5599
+      "UsersEstimate": 5480
     },
     {
       "ID": "Chef_Cook",
@@ -19754,8 +19754,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-24T19:58:18.7274883+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:05:04.179689+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:06:00.762533+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.9264376+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:58:40.2024906+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:05:04.1797695+00:00"
+  "LastUpdate_Ratings": "2023-11-25T10:59:35.7238442+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:06:00.7626182+00:00"
 }

@@ -14,38 +14,38 @@ Number of Ratings: 892  (23.09.2022)
 | No Mountain Wide Enough | 68.00% | ~316 |
 | One of the Cool Kids | 68.00% | ~316 |
 | On that Grindset | 65.00% | ~302 |
-| Yakmel Whisperer | 65.00% | ~302 |
+| Yakmel Whisperer | 64.00% | ~298 |
 | Can We Keep It? | 63.00% | ~293 |
 | Diamonds are Forever | 61.00% | ~284 |
-| Pack Mule | 60.00% | ~279 |
+| Pack Mule | 59.00% | ~274 |
 | The Little Wood that Could | 59.00% | ~274 |
 | Unboxing | 56.00% | ~260 |
 | First Love | 54.00% | ~251 |
-| Chatterbox | 52.00% | ~242 |
+| Chatterbox | 53.00% | ~246 |
 | I Do! | 52.00% | ~242 |
 | Big Game Hunter | 50.00% | ~232 |
 | Financially Secure | 48.00% | ~223 |
-| Happier-est Place on Earth | 48.00% | ~223 |
 | Got Served | 48.00% | ~223 |
 | You Don't Win Friends With Salad | 48.00% | ~223 |
+| Happier-est Place on Earth | 47.00% | ~219 |
 | Builder of the Month | 45.00% | ~209 |
 | Anti-Santa | 45.00% | ~209 |
 | Call Me Fishmael | 45.00% | ~209 |
 | Mole Masher | 44.00% | ~205 |
 | Panda-kin | 43.00% | ~200 |
 | Commissions, commissions...! | 43.00% | ~200 |
-| Better Late than Never | 43.00% | ~200 |
 | Martle's Dream | 43.00% | ~200 |
 | What Plants Crave | 43.00% | ~200 |
+| Waste Not Want Not | 43.00% | ~200 |
 | Finishing Touches | 42.00% | ~195 |
+| Better Late than Never | 42.00% | ~195 |
 | Officially Official | 42.00% | ~195 |
-| Waste Not Want Not | 42.00% | ~195 |
 | Knowledge is Power | 41.00% | ~191 |
 | Elementary, My Dear | 41.00% | ~191 |
 | Bridging the Gap | 40.00% | ~186 |
 | Lifeline Pipeline | 39.00% | ~181 |
 | My Time Mansion | 37.00% | ~172 |
-| Got the Flow Back | 37.00% | ~172 |
+| Got the Flow Back | 36.00% | ~167 |
 | Who Ya Gonna Call...? | 35.00% | ~163 |
 | Jewel of the Eufaula | 34.00% | ~158 |
 | Sepia Toned Memories | 34.00% | ~158 |

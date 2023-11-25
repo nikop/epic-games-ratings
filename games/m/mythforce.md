@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 25.00% | ~1,268 |
+| Faceroll the Bones | 25.00% | ~1,269 |
 | Hit 'Em Where It Hurts | 24.00% | ~1,218 |
 | That'll Leave a Mark | 24.00% | ~1,218 |
-| Debuff Dogpile | 23.00% | ~1,167 |
-| Perk Shard Punch Card | 23.00% | ~1,167 |
-| Mushroom Madness! | 22.00% | ~1,116 |
-| First Strike | 19.00% | ~964 |
-| Spending Spree | 18.00% | ~913 |
+| Debuff Dogpile | 23.00% | ~1,168 |
+| Perk Shard Punch Card | 23.00% | ~1,168 |
+| Mushroom Madness! | 22.00% | ~1,117 |
+| First Strike | 19.00% | ~965 |
+| Spending Spree | 18.00% | ~914 |
 | Horder Better Faster Stronger | 17.00% | ~863 |
-| Ten Steps from the Grave | 15.00% | ~761 |
-| Everything Must Go! | 14.00% | ~710 |
+| Ten Steps from the Grave | 15.00% | ~762 |
+| Everything Must Go! | 14.00% | ~711 |
 | Next Time on MythForce... | 13.00% | ~660 |
-| Cold-Blooded Critters | 10.00% | ~507 |
+| Cold-Blooded Critters | 10.00% | ~508 |
 | Death Becomes You | 8.00% | ~406 |
-| Flawless Victory | 6.00% | ~304 |
-| The Harder They Fall | 6.00% | ~304 |
-| On this Episode! | 6.00% | ~304 |
+| Flawless Victory | 6.00% | ~305 |
+| The Harder They Fall | 6.00% | ~305 |
+| On this Episode! | 6.00% | ~305 |
 | Deadication | 4.00% | ~203 |
 | Season Finale | 4.00% | ~203 |
 | We've Got a Kaiju on the Field | 3.00% | ~152 |
-| The Fourth Gate | 2.00% | ~101 |
+| The Fourth Gate | 2.00% | ~102 |
 | Vexed Her | 0.40% | ~20 |
 | Deadalus and Loving It | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,074 (Ranked 191)  
+Progressed: 5,077 (Ranked 191)  
 Completed: 4 (0.08%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 4 (0.08%) (Ranked 296)
 | 2023-11-22 | 5,020 | 3 |
 | 2023-11-23 | 5,044 | 4 |
 | 2023-11-24 | 5,065 | 4 |
-| 2023-11-25 | 5,074 | 4 |
+| 2023-11-25 | 5,077 | 4 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 474)  
 Sum: 286 (Ranked 370)  

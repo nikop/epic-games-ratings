@@ -8,11 +8,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 6.00% | ~8,510 |
 | Titan's First Steps | 6.00% | ~8,510 |
-| Basic in Bulk | 5.00% | ~7,091 |
-| Tinkle of Coins | 5.00% | ~7,091 |
-| Disintermediation | 4.00% | ~5,673 |
-| It's Free Real Estate | 4.00% | ~5,673 |
-| Capitalism Ho! | 4.00% | ~5,673 |
+| Basic in Bulk | 5.00% | ~7,092 |
+| Tinkle of Coins | 5.00% | ~7,092 |
+| Disintermediation | 4.00% | ~5,674 |
+| It's Free Real Estate | 4.00% | ~5,674 |
+| Capitalism Ho! | 4.00% | ~5,674 |
 | One Easy Payment | 3.00% | ~4,255 |
 | Some Assembly Required | 3.00% | ~4,255 |
 | Another Satisfied Customer | 3.00% | ~4,255 |
@@ -97,13 +97,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 1.00% | ~1,418 |
 | Complete Monopoly | 1.00% | ~1,418 |
 | King's Blade | 1.00% | ~1,418 |
-| Fillin' the Bin | 0.90% | ~1,276 |
-| Industrial Evolution | 0.90% | ~1,276 |
-| Economy of Scarce | 0.90% | ~1,276 |
+| Fillin' the Bin | 0.90% | ~1,277 |
+| Industrial Evolution | 0.90% | ~1,277 |
+| All Accounted For | 0.90% | ~1,277 |
+| Economy of Scarce | 0.90% | ~1,277 |
+| Thank You Tom Nook | 0.80% | ~1,135 |
 | Jackpot! | 0.80% | ~1,135 |
-| All Accounted For | 0.80% | ~1,135 |
 | The Free Encyclopedia | 0.70% | ~993 |
-| Thank You Tom Nook | 0.70% | ~993 |
 | Eternal Crusade | 0.70% | ~993 |
 | The Greatest Grind | 0.50% | ~709 |
 | All or Nothing! | 0.50% | ~709 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.40% | ~567 |
 | JACKPOT!!! | 0.40% | ~567 |
 | Anything not Nailed Down | 0.40% | ~567 |
-| Oligarch Monarch | 0.30% | ~425 |
-| Merchant Extraordinaire | 0.30% | ~425 |
+| Oligarch Monarch | 0.30% | ~426 |
+| Merchant Extraordinaire | 0.30% | ~426 |
 | To Hell and Back | 0.20% | ~284 |
 | Cash Only Please | 0.20% | ~284 |
 | Capitalist Camaraderie | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,826 (Ranked 80)  
+Progressed: 141,839 (Ranked 80)  
 Completed: 260 (0.18%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 260 (0.18%) (Ranked 261)
 | 2023-11-22 | 141,038 | 194 |
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
-| 2023-11-25 | 141,826 | 260 |
+| 2023-11-25 | 141,839 | 260 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,597 (Ranked 50)  

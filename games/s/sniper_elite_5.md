@@ -6,15 +6,15 @@ Rating: 4.46 (Ranked 648)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,806 |
-| Confirming Suspicions | 41.00% | ~1,609 |
-| The Kraken Wakes | 37.00% | ~1,452 |
-| It's Starting to Crack | 34.00% | ~1,334 |
+| Confirming Suspicions | 41.00% | ~1,610 |
+| The Kraken Wakes | 37.00% | ~1,453 |
+| It's Starting to Crack | 34.00% | ~1,335 |
 | Change the Channel | 31.00% | ~1,217 |
 | Lord of War | 30.00% | ~1,178 |
-| Taking it back | 29.00% | ~1,138 |
+| Taking it back | 29.00% | ~1,139 |
 | Resourceful | 27.00% | ~1,060 |
 | Target America | 27.00% | ~1,060 |
-| The Kraken Sleeps | 25.00% | ~981 |
+| The Kraken Sleeps | 25.00% | ~982 |
 | Liberté | 23.00% | ~903 |
 | Organ Grinder | 23.00% | ~903 |
 | As Quiet as a Mouse | 23.00% | ~903 |
@@ -34,8 +34,8 @@ Rating: 4.46 (Ranked 648)
 | Die Nussknacker Sweet! | 14.00% | ~550 |
 | Enemy at the Gates | 13.00% | ~510 |
 | Set Europe Ablaze | 13.00% | ~510 |
-| Precision Is Key | 10.00% | ~392 |
-| My Little Friend | 10.00% | ~392 |
+| Precision Is Key | 10.00% | ~393 |
+| My Little Friend | 10.00% | ~393 |
 | Rigged to Blow | 9.00% | ~353 |
 | Herr Today, Gone Tomorrow | 7.00% | ~271 |
 | Operation Foxley | 6.00% | ~233 |
@@ -56,10 +56,10 @@ Rating: 4.46 (Ranked 648)
 | If You Go Down To The Woods Today | 3.00% | ~116 |
 | Fight Another Day | 3.00% | ~116 |
 | Shipbreaker | 3.00% | ~116 |
-| Out of Scope | 2.00% | ~78 |
-| Eagle Eyed | 2.00% | ~78 |
-| Up close and personal | 2.00% | ~78 |
-| Can't Outrun A Bullet | 2.00% | ~78 |
+| Out of Scope | 2.00% | ~79 |
+| Eagle Eyed | 2.00% | ~79 |
+| Up close and personal | 2.00% | ~79 |
+| Can't Outrun A Bullet | 2.00% | ~79 |
 | Führerious Repetition | 2.00% | ~78 |
 | Reich To The Point | 2.00% | ~78 |
 | Covert Elimination | 2.00% | ~78 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 648)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,925 (Ranked 197)  
+Progressed: 3,926 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 11 (0.28%) (Ranked 242)
 | 2023-11-22 | 3,904 | 11 |
 | 2023-11-23 | 3,911 | 11 |
 | 2023-11-24 | 3,920 | 11 |
-| 2023-11-25 | 3,925 | 11 |
+| 2023-11-25 | 3,926 | 11 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 520)  
 Sum: 25 (Ranked 528)  

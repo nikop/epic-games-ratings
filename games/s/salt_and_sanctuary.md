@@ -6,21 +6,21 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~447,468 |
-| The Three | 64.00% | ~345,036 |
-| The Banquet | 40.00% | ~215,647 |
-| Devara's Light | 31.00% | ~167,127 |
-| The Iron Ones | 19.00% | ~102,432 |
-| The Village | 17.00% | ~91,650 |
+| Find Sanctuary | 83.00% | ~447,470 |
+| The Three | 64.00% | ~345,037 |
+| The Banquet | 40.00% | ~215,648 |
+| Devara's Light | 31.00% | ~167,128 |
+| The Iron Ones | 19.00% | ~102,433 |
+| The Village | 17.00% | ~91,651 |
 | The Forest | 15.00% | ~80,868 |
 | The Keep | 14.00% | ~75,477 |
-| Branded | 13.00% | ~70,085 |
-| The Imposter | 13.00% | ~70,085 |
+| Branded | 13.00% | ~70,086 |
+| The Imposter | 13.00% | ~70,086 |
 | The Castle | 11.00% | ~59,303 |
 | The Dome | 9.00% | ~48,521 |
 | The Red Hall | 9.00% | ~48,521 |
-| The Sacrifice | 8.00% | ~43,129 |
-| The Ziggurat | 8.00% | ~43,129 |
+| The Sacrifice | 8.00% | ~43,130 |
+| The Ziggurat | 8.00% | ~43,130 |
 | The Cave | 7.00% | ~37,738 |
 | The Mire | 7.00% | ~37,738 |
 | The Stone Roots | 7.00% | ~37,738 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,782 |
 | Fading Fast | 1.00% | ~5,391 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,118 (Ranked 34)  
+Progressed: 539,121 (Ranked 34)  
 Completed: 1,623 (0.30%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 1,623 (0.30%) (Ranked 237)
 | 2023-11-22 | 538,916 | 1,621 |
 | 2023-11-23 | 538,984 | 1,621 |
 | 2023-11-24 | 539,078 | 1,623 |
-| 2023-11-25 | 539,118 | 1,623 |
+| 2023-11-25 | 539,121 | 1,623 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 256)  
-Sum: 1,998 (Ranked 213)  
+Sum: 1,999 (Ranked 213)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -276,7 +276,7 @@ Diff (max vs sum): 43
 | This game has Diverse Characters | 245 |
 | This game is Extremely Fun | 244 |
 | This game has Amazing Storytelling | 235 |
-| This game has Amazing Characters | 230 |
+| This game has Amazing Characters | 231 |
 | This game has Unique Visuals | 224 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
@@ -467,3 +467,4 @@ Diff (max vs sum): 43
 | 2023-11-17 | 4.61 | - | 293 | 1,993 |
 | 2023-11-18 | 4.61 | - | 293 | 1,997 |
 | 2023-11-24 | 4.61 | - | 293 | 1,998 |
+| 2023-11-25 | 4.61 | - | 293 | 1,999 |

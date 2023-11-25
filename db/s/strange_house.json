@@ -2,9 +2,9 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 525,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -187,6 +187,11 @@
       "Time": "2023-11-22T02:33:33.3229576+00:00",
       "NumProgressed": 32,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T11:05:18.7464377+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -221,7 +226,7 @@
       "ID": "LostCat",
       "SetID": "a2ci5mh",
       "Name": "Lost Cat",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -237,7 +242,7 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 150,
       "UsersEstimate": 5
     }
@@ -246,13 +251,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:04:35.0251089+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:05:18.7464374+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:47.7003936+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:03:06.556859+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:04:35.025116+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:03:05.8310106+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:05:18.7464458+00:00"
 }

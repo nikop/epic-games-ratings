@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8245,
+  "EOS_Progressed": 8246,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7237,6 +7237,11 @@
       "Time": "2023-11-25T10:09:39.1210168+00:00",
       "NumProgressed": 8245,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T11:10:26.0179377+00:00",
+      "NumProgressed": 8246,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7361,7 +7366,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "GamesPlayed1",
@@ -7441,7 +7446,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "HAUpgraded1",
@@ -7833,14 +7838,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8245,
+      "Progressed": 8246,
       "Completed": 1
     }
   ],
@@ -7848,8 +7853,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-24T13:07:54.0480111+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:09:39.1210165+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:10:26.0179371+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-25T10:03:09.8683497+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:09:39.1211053+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:03:10.8003331+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:10:26.0180195+00:00"
 }

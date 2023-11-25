@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3925,
+  "EOS_Progressed": 3926,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8171,6 +8171,11 @@
       "Time": "2023-11-25T10:05:09.4879259+00:00",
       "NumProgressed": 3925,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-25T11:06:08.4246535+00:00",
+      "NumProgressed": 3926,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8342,7 +8347,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8350,7 +8355,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8358,7 +8363,7 @@
       "Name": "Out of Scope",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -8374,7 +8379,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -8430,7 +8435,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8478,7 +8483,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -8494,7 +8499,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8526,7 +8531,7 @@
       "Name": "Up close and personal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -8550,7 +8555,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8590,7 +8595,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8598,7 +8603,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -8749,13 +8754,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3876,
+      "Progressed": 3877,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3925,
+      "Progressed": 3926,
       "Completed": 11
     }
   ],
@@ -8763,8 +8768,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:05:09.4879255+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:06:08.4246531+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:59:58.150469+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:05:09.4880051+00:00"
+  "LastUpdate_Ratings": "2023-11-25T11:01:37.6227096+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:06:08.4247301+00:00"
 }

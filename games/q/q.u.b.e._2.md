@@ -1,24 +1,24 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.45 (Ranked 665)  
+Rating: 4.44 (Ranked 677)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~30,758 |
-| Quick Understanding of Block Extrusion | 68.00% | ~27,887 |
-| Nature or Nurture | 52.00% | ~21,326 |
-| Power Glove | 50.00% | ~20,506 |
-| Forgotten Memories | 43.00% | ~17,635 |
-| Cogs in the Machine | 36.00% | ~14,764 |
-| Mission Success | 22.00% | ~9,022 |
-| There's No Place Like Home | 22.00% | ~9,022 |
-| Green Cube Killer | 19.00% | ~7,792 |
-| Infinity Loop | 16.00% | ~6,562 |
-| Path to Salvation | 16.00% | ~6,562 |
+| Lost in Space | 75.00% | ~30,762 |
+| Quick Understanding of Block Extrusion | 68.00% | ~27,891 |
+| Nature or Nurture | 52.00% | ~21,328 |
+| Power Glove | 50.00% | ~20,508 |
+| Forgotten Memories | 43.00% | ~17,637 |
+| Cogs in the Machine | 36.00% | ~14,766 |
+| Mission Success | 22.00% | ~9,024 |
+| There's No Place Like Home | 22.00% | ~9,024 |
+| Green Cube Killer | 19.00% | ~7,793 |
+| Infinity Loop | 16.00% | ~6,563 |
+| Path to Salvation | 16.00% | ~6,563 |
 | Descendants | 14.00% | ~5,742 |
-| The Flawed Teacher | 12.00% | ~4,921 |
+| The Flawed Teacher | 12.00% | ~4,922 |
 | To Infinity and Beyond | 6.00% | ~2,461 |
 | The Truthful Enemy | 5.00% | ~2,051 |
 | Home Stretch | 2.00% | ~820 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~410 |
 | Expert Collector | 1.00% | ~410 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,011 (Ranked 120)  
+Progressed: 41,016 (Ranked 120)  
 Completed: 171 (0.42%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 171 (0.42%) (Ranked 217)
 | 2023-11-22 | 40,632 | 166 |
 | 2023-11-23 | 40,778 | 168 |
 | 2023-11-24 | 40,952 | 171 |
-| 2023-11-25 | 41,011 | 171 |
+| 2023-11-25 | 41,016 | 171 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -222,3 +222,4 @@ Completed: 171 (0.42%) (Ranked 217)
 | 2023-11-13 | 4.45 | - | 0 | 0 |
 | 2023-11-22 | 4.44 | - | 0 | 0 |
 | 2023-11-24 | 4.45 | - | 0 | 0 |
+| 2023-11-25 | 4.44 | - | 0 | 0 |

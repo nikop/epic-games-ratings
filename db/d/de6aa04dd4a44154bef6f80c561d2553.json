@@ -4,7 +4,7 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
@@ -187,9 +187,9 @@
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 63,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Chapter03_DangerousDeal",
@@ -339,9 +339,9 @@
       "ID": "FirstBuildingInElysium",
       "SetID": "c8fdd59",
       "Name": "Something in the Scroll",
-      "Percentage": 53,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GoodCompany",
@@ -355,17 +355,17 @@
       "ID": "HitTheBoardRunning",
       "SetID": "c8fdd59",
       "Name": "Hit the Board Running",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Marker",
       "SetID": "c8fdd59",
       "Name": "Alchemist",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PowerFromDiscipline",
@@ -498,8 +498,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-11-25T10:09:35.0163912+00:00",
+  "LastChanged_Achievements": "2023-11-25T11:10:20.8435049+00:00",
   "LastUpdate_AppInfo": "2023-11-20T13:57:16.6876017+00:00",
-  "LastUpdate_Ratings": "2023-11-25T09:58:42.150985+00:00",
-  "LastUpdate_Achievements": "2023-11-25T10:09:35.0164183+00:00"
+  "LastUpdate_Ratings": "2023-11-25T10:59:38.8355892+00:00",
+  "LastUpdate_Achievements": "2023-11-25T11:10:20.8435335+00:00"
 }
