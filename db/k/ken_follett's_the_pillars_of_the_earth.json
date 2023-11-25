@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16656,
+  "EOS_Progressed": 16657,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14853,6 +14853,11 @@
       "Time": "2023-11-25T20:08:25.3210199+00:00",
       "NumProgressed": 16656,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-25T21:07:59.5532806+00:00",
+      "NumProgressed": 16657,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14904,7 +14909,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "tpote_achievement_15",
@@ -14952,7 +14957,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "tpote_achievement_20",
@@ -15080,7 +15085,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "tpote_achievement_35",
@@ -15128,7 +15133,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6663
     },
     {
       "ID": "tpote_achievement_40",
@@ -15152,7 +15157,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "tpote_achievement_6",
@@ -15160,7 +15165,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "tpote_achievement_7",
@@ -15191,15 +15196,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16656,
+      "Progressed": 16657,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:08:25.3210197+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:07:59.5532803+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:57:42.2368347+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:08:25.3210978+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:57:29.2897783+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:07:59.5533594+00:00"
 }

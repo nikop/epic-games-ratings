@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1901,6 +1901,11 @@
       "Time": "2023-11-25T15:09:09.7009412+00:00",
       "NumProgressed": 826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T21:08:29.5300747+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1944,7 +1949,7 @@
       "Name": "The City",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -2143,13 +2148,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 827,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 3
     }
   ],
@@ -2157,8 +2162,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:08:54.5698696+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:08:29.5300743+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.4021607+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:57:33.3798159+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:08:54.5698932+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:57:20.1827376+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:08:29.5300959+00:00"
 }

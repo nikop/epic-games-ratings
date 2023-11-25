@@ -4,7 +4,7 @@
   "ProductSlug": "thunder-ray-e9a2e3",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -109,15 +109,15 @@
       "ID": "ACH_COMPLETE_TUTORIAL",
       "SetID": "b9ng4ag",
       "Name": "Fighting Steps",
-      "Percentage": 71,
+      "Percentage": 67,
       "XP": 45,
-      "UsersEstimate": 10
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_DEFEAT_BOWIE_SPECIAL",
       "SetID": "b9ng4ag",
       "Name": "Stardust",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -125,7 +125,7 @@
       "ID": "ACH_DEFEAT_BULLET",
       "SetID": "b9ng4ag",
       "Name": "Snake Eye",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 65,
       "UsersEstimate": 4
     },
@@ -133,7 +133,7 @@
       "ID": "ACH_DEFEAT_CYBER",
       "SetID": "b9ng4ag",
       "Name": "Killer Debut",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -149,7 +149,7 @@
       "ID": "ACH_DEFEAT_GOBLIN",
       "SetID": "b9ng4ag",
       "Name": "Sting like a bee",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -181,7 +181,7 @@
       "ID": "ACH_UNLOCK_ALL_SPECIALS",
       "SetID": "b9ng4ag",
       "Name": "Thunder Fist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 75,
       "UsersEstimate": 3
     }
@@ -196,8 +196,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:09:20.4355199+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:08:56.087305+00:00",
   "LastUpdate_AppInfo": "2023-11-25T04:57:08.9606669+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:58:44.5924961+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:09:20.4355265+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:58:32.6945126+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:08:56.087311+00:00"
 }

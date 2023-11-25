@@ -4050,9 +4050,9 @@
       "ID": "achievement_111",
       "SetID": "d252ncf",
       "Name": "Always Prepared",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_112",
@@ -4074,9 +4074,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 309
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_115",
@@ -4966,8 +4966,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:08:47.0427932+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:08:22.0035041+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:03:01.2994388+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:08:47.0429436+00:00"
+  "LastUpdate_Ratings": "2023-11-25T21:02:50.0044009+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:08:22.0036917+00:00"
 }

@@ -229,9 +229,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15531,
+  "EOS_Progressed": 15539,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12259,6 +12259,11 @@
       "Time": "2023-11-25T20:05:47.241243+00:00",
       "NumProgressed": 15531,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-25T21:05:22.1831115+00:00",
+      "NumProgressed": 15539,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12303,7 +12308,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "14",
@@ -12319,7 +12324,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "16",
@@ -12327,7 +12332,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "17",
@@ -12335,7 +12340,7 @@
       "Name": "Spore Taste",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "18",
@@ -12415,7 +12420,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "27",
@@ -12511,7 +12516,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "32",
@@ -12519,7 +12524,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "33",
@@ -12527,7 +12532,7 @@
       "Name": "Zen Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "34",
@@ -12543,20 +12548,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15531,
+      "Progressed": 15539,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1485,
+      "Progressed": 1493,
       "Completed": 714
     }
   ],
@@ -12564,8 +12569,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-25T17:58:09.1094239+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:05:47.2412425+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:05:22.1831111+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:58:32.3409808+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:05:47.2413218+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:58:20.2305533+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:05:22.1831952+00:00"
 }

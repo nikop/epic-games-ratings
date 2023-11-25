@@ -165,17 +165,17 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BeatBossKawa",
       "SetID": "123m9l1",
       "Name": "Phantom Kunoichi",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BeatBossNaka",
@@ -382,8 +382,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:04:19.1924758+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:03:52.7414059+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.8117493+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:00:33.5397933+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:04:19.1924891+00:00"
+  "LastUpdate_Ratings": "2023-11-25T21:00:23.5144738+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:03:52.7414215+00:00"
 }

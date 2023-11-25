@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 3.00% | ~4 |
+| Self-Defence | 4.00% | ~5 |
+| Tinkerer | 3.00% | ~4 |
 | Craftsmen | 2.00% | ~2 |
-| Tinkerer | 2.00% | ~2 |
 | Welcome to the Club | 2.00% | ~2 |
 | A new World ahead | 2.00% | ~2 |
 | Apprentice | 2.00% | ~2 |

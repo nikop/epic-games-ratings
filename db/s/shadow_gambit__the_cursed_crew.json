@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 905,
+  "EOS_Progressed": 908,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.31,
+  "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2954,6 +2954,11 @@
       "Time": "2023-11-25T20:04:19.3792733+00:00",
       "NumProgressed": 905,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-25T21:03:52.9135027+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2966,7 +2971,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2974,7 +2979,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 590
     },
     {
       "ID": "_03_FinishAct1",
@@ -2982,7 +2987,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2990,7 +2995,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "_05_FinishAct2",
@@ -2998,7 +3003,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3006,7 +3011,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "_07_FinishAct3",
@@ -3014,7 +3019,7 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "_08_Completion_10",
@@ -3022,7 +3027,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "_09_Completion_20",
@@ -3030,7 +3035,7 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "_10_Completion_30",
@@ -3038,7 +3043,7 @@
       "Name": "Buccaneer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "_11_Completion_40",
@@ -3062,7 +3067,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "_14_Completion_70",
@@ -3086,7 +3091,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3094,7 +3099,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3102,7 +3107,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -3118,7 +3123,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3126,7 +3131,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3134,7 +3139,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3142,7 +3147,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -3173,7 +3178,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 905,
+      "Progressed": 908,
       "Completed": 30
     }
   ],
@@ -3181,8 +3186,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:04:19.3792731+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:03:52.9135024+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:59:35.3655232+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:04:19.3793016+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:59:26.4052013+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:03:52.9135314+00:00"
 }

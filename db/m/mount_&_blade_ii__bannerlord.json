@@ -2,12 +2,12 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 158,
+  "Ranking_Rating": 159,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -9058,10 +9058,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15430,
       "NumberOfAwardsMax": 7423
+    },
+    {
+      "Time": "2023-11-25T20:57:56.3901261+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15431,
+      "NumberOfAwardsMax": 7423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15430,
+  "NumberOfAwards": 15431,
   "NumberOfAwardsMax": 7423,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9117,7 +9123,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1019
+      "Count": 1020
     },
     {
       "Text": "This game is Relaxing",
@@ -9138,9 +9144,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66135,
+  "EOS_Progressed": 66142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32228,6 +32234,11 @@
       "Time": "2023-11-25T20:09:38.0595823+00:00",
       "NumProgressed": 66135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T21:09:14.0487009+00:00",
+      "NumProgressed": 66142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32247,7 +32258,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10582
+      "UsersEstimate": 10583
     },
     {
       "ID": "Bannerlord",
@@ -32255,7 +32266,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15872
+      "UsersEstimate": 15874
     },
     {
       "ID": "Best served cold",
@@ -32279,7 +32290,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "Catch",
@@ -32399,7 +32410,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15872
+      "UsersEstimate": 15874
     },
     {
       "ID": "I can do it",
@@ -32407,7 +32418,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10582
+      "UsersEstimate": 10583
     },
     {
       "ID": "I spit on your grave",
@@ -32431,7 +32442,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11904
+      "UsersEstimate": 11906
     },
     {
       "ID": "Kingslayer",
@@ -32447,7 +32458,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4629
+      "UsersEstimate": 4630
     },
     {
       "ID": "Lance-a-lot",
@@ -32463,7 +32474,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21825
+      "UsersEstimate": 21827
     },
     {
       "ID": "Lawbringer",
@@ -32471,7 +32482,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26454
+      "UsersEstimate": 26457
     },
     {
       "ID": "Lawmaker",
@@ -32479,7 +32490,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 15211
+      "UsersEstimate": 15213
     },
     {
       "ID": "Long live the Empire",
@@ -32591,7 +32602,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12566
+      "UsersEstimate": 12567
     },
     {
       "ID": "This Is Our Land",
@@ -32615,7 +32626,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15872
+      "UsersEstimate": 15874
     },
     {
       "ID": "Undercover",
@@ -32631,7 +32642,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -32646,15 +32657,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66135,
+      "Progressed": 66142,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-25T15:58:11.1578285+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:09:38.059582+00:00",
+  "LastChanged": "2023-11-25T20:57:56.390126+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:09:14.0487006+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:58:08.3120034+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:09:38.0596943+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:57:56.3901265+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:09:14.0488212+00:00"
 }

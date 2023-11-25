@@ -1043,9 +1043,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1075,17 +1075,17 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "HOUSEWARMING",
@@ -1131,9 +1131,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1186,8 +1186,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:08:21.9766469+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:07:56.2609756+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:01.3377699+00:00",
-  "LastUpdate_Ratings": "2023-11-25T20:02:56.5125498+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:08:21.976666+00:00"
+  "LastUpdate_Ratings": "2023-11-25T21:02:44.4813572+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:07:56.2609942+00:00"
 }

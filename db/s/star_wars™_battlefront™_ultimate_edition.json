@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1416,
+  "EOS_Progressed": 1418,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4199,6 +4199,11 @@
       "Time": "2023-11-25T20:09:42.4766661+00:00",
       "NumProgressed": 1416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-25T21:09:18.5706791+00:00",
+      "NumProgressed": 1418,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4267,7 +4272,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_17",
@@ -4283,7 +4288,7 @@
       "Name": "The power of the Force",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_19",
@@ -4291,7 +4296,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_2",
@@ -4315,7 +4320,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_22",
@@ -4331,7 +4336,7 @@
       "Name": "Determined",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_24",
@@ -4355,7 +4360,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_27",
@@ -4363,7 +4368,7 @@
       "Name": "Your journey has only started",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_28",
@@ -4379,7 +4384,7 @@
       "Name": "On the ball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_3",
@@ -4395,7 +4400,7 @@
       "Name": "Precision shot",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_31",
@@ -4427,7 +4432,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_35",
@@ -4435,7 +4440,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1262
     },
     {
       "ID": "achievement_36",
@@ -4451,7 +4456,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "achievement_38",
@@ -4483,7 +4488,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "achievement_41",
@@ -4515,7 +4520,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "achievement_45",
@@ -4563,7 +4568,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_50",
@@ -4595,7 +4600,7 @@
       "Name": "I\u2019ll take that bet",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_54",
@@ -4603,7 +4608,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_55",
@@ -4714,13 +4719,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1416,
+      "Progressed": 1418,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1416,
+      "Progressed": 1418,
       "Completed": 1
     }
   ],
@@ -4728,8 +4733,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:09:42.4766657+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:09:18.5706789+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:59:14.5063316+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:09:42.4767267+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:59:05.5907379+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:09:18.5707368+00:00"
 }

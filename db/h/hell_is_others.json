@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1255,9 +1255,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258734,
+  "EOS_Progressed": 258735,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22425,6 +22425,11 @@
       "Time": "2023-11-25T20:04:50.5368154+00:00",
       "NumProgressed": 258734,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-25T21:04:24.7297936+00:00",
+      "NumProgressed": 258735,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22540,7 +22545,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25873
+      "UsersEstimate": 25874
     },
     {
       "ID": "CreditLevel2",
@@ -22828,7 +22833,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25873
+      "UsersEstimate": 25874
     },
     {
       "ID": "ReachNDays2",
@@ -22883,7 +22888,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258734,
+      "Progressed": 258735,
       "Completed": 3
     }
   ],
@@ -22891,8 +22896,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-24T04:57:35.6826302+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:04:50.5368149+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:04:24.7297932+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.5809709+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:58:22.7570024+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:04:50.5369749+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:58:10.537961+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:04:24.7299742+00:00"
 }

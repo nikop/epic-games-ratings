@@ -10,9 +10,9 @@
 | Egyptologist | 43.00% | ~9 |
 | No Fear of the Dark | 38.00% | ~8 |
 | They’re Watching | 33.00% | ~7 |
+| Art Connoisseur | 33.00% | ~7 |
 | The Last Skull | 33.00% | ~7 |
 | A Cautious Man Is Worth Two of His Kind | 29.00% | ~6 |
-| Art Connoisseur | 29.00% | ~6 |
 | Survivor | 29.00% | ~6 |
 | Master of Riddles | 29.00% | ~6 |
 | The Witch’s Haunt | 24.00% | ~5 |
@@ -22,7 +22,7 @@
 | Don’t Touch the Rum! | 14.00% | ~3 |
 | Oh... You didn't think to bring it? | 14.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 548)  
+Progressed: 21 (Ranked 549)  
 Completed: 2 (9.52%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |

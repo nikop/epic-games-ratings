@@ -5,35 +5,35 @@ Rating: 4.76 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 65.00% | ~588 |
-| The Adventure Begins | 51.00% | ~462 |
-| Swabbie | 39.00% | ~353 |
-| With Great Power… | 39.00% | ~353 |
-| This Belongs in a Museum | 35.00% | ~317 |
-| The Gambit Has Begun | 32.00% | ~290 |
-| Powder Monkey | 29.00% | ~262 |
-| Somewhere Deep in the Lost Caribbean | 28.00% | ~253 |
-| Mirror Mirror on the Wall | 27.00% | ~244 |
-| Pirates Assemble! | 25.00% | ~226 |
-| Buccaneer | 23.00% | ~208 |
-| Fishy Fish | 21.00% | ~190 |
-| All Good Things | 20.00% | ~181 |
+| A New Journey | 65.00% | ~590 |
+| The Adventure Begins | 51.00% | ~463 |
+| Swabbie | 39.00% | ~354 |
+| With Great Power… | 39.00% | ~354 |
+| This Belongs in a Museum | 35.00% | ~318 |
+| The Gambit Has Begun | 32.00% | ~291 |
+| Powder Monkey | 29.00% | ~263 |
+| Somewhere Deep in the Lost Caribbean | 28.00% | ~254 |
+| Mirror Mirror on the Wall | 27.00% | ~245 |
+| Pirates Assemble! | 25.00% | ~227 |
+| Buccaneer | 23.00% | ~209 |
+| Fishy Fish | 21.00% | ~191 |
+| All Good Things | 20.00% | ~182 |
 | Seadog | 17.00% | ~154 |
 | Persistent Parasite | 17.00% | ~154 |
 | Jaded Judge | 12.00% | ~109 |
 | Privateer | 11.00% | ~100 |
 | Rustic Recipe | 11.00% | ~100 |
-| Tobacco Travesty | 10.00% | ~90 |
-| Accursed Artifacts | 10.00% | ~90 |
-| Lyrical Longing | 9.00% | ~81 |
-| Corsair | 7.00% | ~63 |
-| Fully Decked | 7.00% | ~63 |
+| Tobacco Travesty | 10.00% | ~91 |
+| Accursed Artifacts | 10.00% | ~91 |
+| Lyrical Longing | 9.00% | ~82 |
+| Corsair | 7.00% | ~64 |
+| Fully Decked | 7.00% | ~64 |
 | Freebooter | 5.00% | ~45 |
 | Marauder | 4.00% | ~36 |
 | Welcome Back Jester | 4.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 905 (Ranked 269)  
-Completed: 30 (3.31%) (Ranked 94)  
+Progressed: 908 (Ranked 269)  
+Completed: 30 (3.30%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 30 (3.31%) (Ranked 94)
 | 2023-11-22 | 855 | 30 |
 | 2023-11-23 | 871 | 30 |
 | 2023-11-24 | 883 | 30 |
-| 2023-11-25 | 905 | 30 |
+| 2023-11-25 | 908 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

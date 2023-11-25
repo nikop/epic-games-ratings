@@ -5,18 +5,18 @@ Rating: 4.49 (Ranked 608)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,996 |
-| Keep 'Em Coming | 73.00% | ~2,700 |
-| Snatched Out | 73.00% | ~2,700 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,478 |
-| Call Me Snake | 63.00% | ~2,330 |
-| Something Lurks Under The Hills | 61.00% | ~2,256 |
-| This Was No Papercut | 59.00% | ~2,182 |
-| People Person | 57.00% | ~2,108 |
-| The Shrink Hates Me | 57.00% | ~2,108 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,960 |
-| First Steps Into Madness | 53.00% | ~1,960 |
-| Colonial Barrels | 51.00% | ~1,886 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,997 |
+| Keep 'Em Coming | 73.00% | ~2,701 |
+| Snatched Out | 73.00% | ~2,701 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,479 |
+| Call Me Snake | 63.00% | ~2,331 |
+| Something Lurks Under The Hills | 61.00% | ~2,257 |
+| This Was No Papercut | 59.00% | ~2,183 |
+| People Person | 57.00% | ~2,109 |
+| The Shrink Hates Me | 57.00% | ~2,109 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,961 |
+| First Steps Into Madness | 53.00% | ~1,961 |
+| Colonial Barrels | 51.00% | ~1,887 |
 | Harper's Hell | 46.00% | ~1,702 |
 | Making a Stand | 45.00% | ~1,665 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,554 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 608)
 | Chalk It Up To Experience | 0.80% | ~30 |
 | This Ain't No Picnic | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,699 (Ranked 201)  
+Progressed: 3,700 (Ranked 201)  
 Completed: 3 (0.08%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 3 (0.08%) (Ranked 296)
 | 2023-11-22 | 3,673 | 3 |
 | 2023-11-23 | 3,682 | 3 |
 | 2023-11-24 | 3,688 | 3 |
-| 2023-11-25 | 3,699 | 3 |
+| 2023-11-25 | 3,700 | 3 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 470)  
 Sum: 36 (Ranked 503)  

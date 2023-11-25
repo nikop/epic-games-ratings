@@ -6,27 +6,27 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,263 |
+| Having A Field Day | 76.00% | ~5,264 |
 | Get A Room | 75.00% | ~5,194 |
-| Reap What You Sow | 73.00% | ~5,055 |
-| The First Day | 69.00% | ~4,778 |
+| Reap What You Sow | 73.00% | ~5,056 |
+| The First Day | 69.00% | ~4,779 |
 | Green Thumb | 67.00% | ~4,640 |
 | Novice Researcher | 67.00% | ~4,640 |
-| Home Cooked Meal | 61.00% | ~4,224 |
-| Onward | 58.00% | ~4,016 |
+| Home Cooked Meal | 61.00% | ~4,225 |
+| Onward | 58.00% | ~4,017 |
 | The First Week | 55.00% | ~3,809 |
-| Beam Me Up | 52.00% | ~3,601 |
-| Studious Researcher | 52.00% | ~3,601 |
+| Beam Me Up | 52.00% | ~3,602 |
+| Studious Researcher | 52.00% | ~3,602 |
 | Putting Food on the Table | 48.00% | ~3,324 |
-| Adept Researcher | 45.00% | ~3,116 |
-| Retribution | 42.00% | ~2,908 |
-| ...And Don’t Come Back! | 42.00% | ~2,908 |
+| Adept Researcher | 45.00% | ~3,117 |
+| Retribution | 42.00% | ~2,909 |
+| ...And Don’t Come Back! | 42.00% | ~2,909 |
 | Feast or Famine | 39.00% | ~2,701 |
 | Heating Up | 32.00% | ~2,216 |
 | Luminary Researcher | 31.00% | ~2,147 |
-| Fit For A King | 29.00% | ~2,008 |
-| Winter Is Coming | 29.00% | ~2,008 |
-| Winter Is Here | 25.00% | ~1,731 |
+| Fit For A King | 29.00% | ~2,009 |
+| Winter Is Coming | 29.00% | ~2,009 |
+| Winter Is Here | 25.00% | ~1,732 |
 | Disassembled | 22.00% | ~1,524 |
 | A Party Now | 22.00% | ~1,524 |
 | Oh Deer! | 22.00% | ~1,524 |
@@ -35,10 +35,10 @@ Number of Ratings: 706  (23.09.2022)
 | Don't Cry Wolf | 13.00% | ~900 |
 | Deerly Departed | 8.00% | ~554 |
 | Where Wolf? | 5.00% | ~346 |
-| Food Chain | 2.00% | ~138 |
+| Food Chain | 2.00% | ~139 |
 | Wabbit Season | 0.50% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,925 (Ranked 181)  
+Progressed: 6,926 (Ranked 181)  
 Completed: 14 (0.20%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 14 (0.20%) (Ranked 255)
 | 2023-11-22 | 6,869 | 14 |
 | 2023-11-23 | 6,890 | 14 |
 | 2023-11-24 | 6,908 | 14 |
-| 2023-11-25 | 6,925 | 14 |
+| 2023-11-25 | 6,926 | 14 |
 ## Awards
 Max (Great for Beginners): 125  (Ranked 336)  
-Sum: 1,023 (Ranked 260)  
+Sum: 1,024 (Ranked 260)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -247,7 +247,7 @@ Diff (max vs sum): 76
 | This game is Relaxing | 124 |
 | This game has Diverse Characters | 115 |
 | This game has Quickly Understood Controls | 108 |
-| This game is Extremely Fun | 106 |
+| This game is Extremely Fun | 107 |
 | This game is Highly Recommended | 104 |
 | This game has Amazing Characters | 97 |
 | This game has Amazing Storytelling | 88 |
@@ -414,4 +414,4 @@ Diff (max vs sum): 76
 | 2023-11-21 | 4.60 | - | 125 | 1,015 |
 | 2023-11-22 | 4.60 | - | 125 | 1,016 |
 | 2023-11-23 | 4.60 | - | 125 | 1,020 |
-| 2023-11-25 | 4.60 | - | 125 | 1,023 |
+| 2023-11-25 | 4.60 | - | 125 | 1,024 |

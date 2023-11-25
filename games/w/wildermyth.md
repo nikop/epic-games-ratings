@@ -28,18 +28,18 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
 | Chain Reaction | 0.40% | ~6 |
+| Everfading | 0.40% | ~6 |
 | No Time for Clawmonsters | 0.40% | ~6 |
 | Bonebreakers | 0.30% | ~4 |
 | Plague Doctor | 0.30% | ~4 |
 | Legends Never Die | 0.30% | ~4 |
-| Everfading | 0.30% | ~4 |
+| All My Birds, Safely Home | 0.30% | ~4 |
 | Astrology | 0.30% | ~4 |
 | Lochias's Hunger | 0.30% | ~4 |
 | Storied Past | 0.20% | ~3 |
 | No More Nightmares | 0.20% | ~3 |
 | In Soil, In Smoke | 0.20% | ~3 |
 | Wingknight's Prowess | 0.20% | ~3 |
-| All My Birds, Safely Home | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Some Say I'm Too Flashy | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,488 (Ranked 241)  
+Progressed: 1,489 (Ranked 241)  
 Completed: 6 (0.40%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 6 (0.40%) (Ranked 218)
 | 2023-11-21 | 1,479 | 6 |
 | 2023-11-22 | 1,480 | 6 |
 | 2023-11-23 | 1,484 | 6 |
-| 2023-11-25 | 1,488 | 6 |
+| 2023-11-25 | 1,489 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 500)  
 Sum: 29 (Ranked 515)  

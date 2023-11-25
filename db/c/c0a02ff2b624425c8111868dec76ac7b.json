@@ -2,9 +2,9 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 68,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -279,6 +279,11 @@
       "Time": "2023-11-25T20:06:28.5618421+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T21:06:04.6299546+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -289,7 +294,7 @@
       "ID": "ACH_ADAPTATION_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Adaptation",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -297,7 +302,7 @@
       "ID": "ACH_ALL_COMBAT_SKILLS",
       "SetID": "cagp2pi",
       "Name": "Growth",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -321,7 +326,7 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "cagp2pi",
       "Name": "Weapon Master",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -345,7 +350,7 @@
       "ID": "ACH_BIPOLAR_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Duality",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -353,7 +358,7 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -361,7 +366,7 @@
       "ID": "ACH_DARK_PALADIN_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Dark Paladin",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -401,9 +406,9 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -465,7 +470,7 @@
       "ID": "ACH_UNICORN",
       "SetID": "cagp2pi",
       "Name": "Unicorn",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -482,14 +487,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 68,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:06:28.5618414+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:06:04.6299543+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:58:04.7662354+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:06:28.561861+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:57:52.8110006+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:06:04.6299781+00:00"
 }

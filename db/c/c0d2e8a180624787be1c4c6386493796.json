@@ -382,9 +382,9 @@
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
       "SetID": "caeik3h",
       "Name": "Mistress of Shadows",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KR4_ACHIEVEMENT_BARNY",
@@ -997,8 +997,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:06:27.5637598+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:06:03.6366414+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:59:04.5023072+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:06:27.5638421+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:58:54.4839965+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:06:03.6367281+00:00"
 }

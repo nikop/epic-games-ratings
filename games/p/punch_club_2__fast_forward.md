@@ -26,8 +26,8 @@
 | Law student | 62.00% | ~218 |
 | Workout professional | 61.00% | ~215 |
 | Handyman | 60.00% | ~211 |
+| Champion – starter pack | 60.00% | ~211 |
 | It's good to be alive | 60.00% | ~211 |
-| Champion – starter pack | 59.00% | ~208 |
 | Own four walls | 59.00% | ~208 |
 | Employee of the year | 59.00% | ~208 |
 | Fight for life | 58.00% | ~204 |

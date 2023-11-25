@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5488,
+  "EOS_Progressed": 5494,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7448,6 +7448,11 @@
       "Time": "2023-11-25T20:05:44.5383837+00:00",
       "NumProgressed": 5488,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T21:05:19.2053715+00:00",
+      "NumProgressed": 5494,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7521,9 +7526,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "18",
@@ -7561,9 +7566,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "22",
@@ -7665,9 +7670,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "34",
@@ -7938,13 +7943,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5488,
+      "Progressed": 5494,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5488,
+      "Progressed": 5494,
       "Completed": 7
     }
   ],
@@ -7952,8 +7957,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:05:44.5383834+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:05:19.2053711+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:57:43.3983179+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:05:44.5384542+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:57:30.4289501+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:05:19.2054473+00:00"
 }

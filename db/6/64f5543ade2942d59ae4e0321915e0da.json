@@ -445,9 +445,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:06:09.003613+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:05:44.325259+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.647609+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:58:10.7768353+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:06:09.003643+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:57:58.7777067+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:05:44.3252824+00:00"
 }

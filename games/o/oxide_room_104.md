@@ -19,9 +19,9 @@
 | One-way | 18.00% | ~45 |
 | On the right path | 17.00% | ~42 |
 | It can't be true | 16.00% | ~40 |
+| I'm close now | 13.00% | ~32 |
+| Failed attempt | 13.00% | ~32 |
 | He who seeks, finds! | 13.00% | ~32 |
-| I'm close now | 12.00% | ~30 |
-| Failed attempt | 12.00% | ~30 |
 | The real escape | 12.00% | ~30 |
 | Good choice | 12.00% | ~30 |
 | Take the long way round | 12.00% | ~30 |

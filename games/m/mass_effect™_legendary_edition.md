@@ -83,8 +83,8 @@
 | Pathfinder | 24.00% | ~337 |
 | Tunnel Rat | 24.00% | ~337 |
 | Liberator | 24.00% | ~337 |
+| Savior | 23.00% | ~323 |
 | Arbiter | 23.00% | ~323 |
-| Savior | 22.00% | ~309 |
 | Lost and Found | 22.00% | ~309 |
 | Paramour II | 21.00% | ~295 |
 | Party Crasher | 21.00% | ~295 |
@@ -110,11 +110,11 @@
 | Combined Arms | 12.00% | ~169 |
 | Bruiser | 11.00% | ~155 |
 | Warp Mastery | 11.00% | ~155 |
+| Always Prepared | 10.00% | ~140 |
 | Paramour III | 10.00% | ~140 |
 | Overload Specialist | 10.00% | ~140 |
 | Barrier Mastery | 9.00% | ~126 |
 | Hijacker | 9.00% | ~126 |
-| Always Prepared | 9.00% | ~126 |
 | Lift Mastery | 9.00% | ~126 |
 | Sky High | 8.00% | ~112 |
 | Insanity I | 6.00% | ~84 |

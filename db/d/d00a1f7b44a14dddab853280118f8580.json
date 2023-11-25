@@ -1236,25 +1236,25 @@
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 70,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 60,
-      "UsersEstimate": 220
+      "UsersEstimate": 223
     },
     {
       "ID": "ach_minigames_10",
@@ -1299,8 +1299,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:08:31.5127683+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:08:05.9907866+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:58:34.0166087+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:08:31.5127824+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:58:21.8788063+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:08:05.9908058+00:00"
 }

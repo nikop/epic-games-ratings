@@ -183,6 +183,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
 | Randomized Leaders | 0.30% | ~46 |
+| Deposed Tribe | 0.30% | ~46 |
 | Barbarian Horde | 0.20% | ~31 |
 | Blade of the Monkey | 0.20% | ~31 |
 | Gold Victory (Carthage 1) | 0.20% | ~31 |
@@ -199,7 +200,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
 | Word of God | 0.20% | ~31 |
-| Deposed Tribe | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
 | Glory to The Aten | 0.20% | ~31 |
 | Akhenaten's Legacy | 0.20% | ~31 |
@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,483 (Ranked 152)  
-Completed: 5 (0.03%) (Ranked 323)  
+Completed: 5 (0.03%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

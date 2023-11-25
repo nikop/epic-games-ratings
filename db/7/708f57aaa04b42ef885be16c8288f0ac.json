@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6526,
+  "EOS_Progressed": 6530,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 986,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4469,6 +4469,11 @@
       "Time": "2023-11-25T20:09:22.6916294+00:00",
       "NumProgressed": 6526,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T21:08:58.3571781+00:00",
+      "NumProgressed": 6530,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4537,7 +4542,7 @@
       "Name": "Explosive Personality",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "FasterThanLight",
@@ -4553,7 +4558,7 @@
       "Name": "First Time?",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4585,7 +4590,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -4625,15 +4630,15 @@
       "Name": "Nasty!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "NoMoreTotems",
       "SetID": "acc6ea0",
       "Name": "No More Totems",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 326
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4681,7 +4686,7 @@
       "Name": "The Quarterback",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "ThisIsDharma",
@@ -4697,7 +4702,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "UnResurrected",
@@ -4713,7 +4718,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -4752,7 +4757,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6526,
+      "Progressed": 6530,
       "Completed": 7
     }
   ],
@@ -4760,8 +4765,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-24T22:00:19.133349+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:09:22.6916289+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:08:58.3571778+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:57:29.9780654+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:09:22.6916698+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:57:16.1743207+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:08:58.3572148+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2213,
+  "EOS_Progressed": 2214,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3247,6 +3247,11 @@
       "Time": "2023-11-25T03:05:48.9922224+00:00",
       "NumProgressed": 2213,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-25T21:05:47.2724301+00:00",
+      "NumProgressed": 2214,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3274,7 +3279,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACHV_04",
@@ -3290,7 +3295,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACHV_06",
@@ -3306,7 +3311,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHV_08",
@@ -3458,7 +3463,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "ACHV_27",
@@ -3474,7 +3479,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHV_29",
@@ -3562,7 +3567,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACHV_40",
@@ -3713,7 +3718,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2213,
+      "Progressed": 2214,
       "Completed": 13
     }
   ],
@@ -3721,8 +3726,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:06:11.8472803+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:05:47.2724298+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:57.6315176+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:58:03.3965926+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:06:11.847334+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:57:51.454151+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:05:47.2724847+00:00"
 }

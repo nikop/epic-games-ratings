@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,260 |
-| Off to a good start | 67.00% | ~949 |
-| Do... or do not. There is no try | 50.00% | ~708 |
-| A good blaster at your side | 31.00% | ~439 |
+| New Recruit | 89.00% | ~1,262 |
+| Off to a good start | 67.00% | ~950 |
+| Do... or do not. There is no try | 50.00% | ~709 |
+| A good blaster at your side | 31.00% | ~440 |
 | I suggest a new strategy | 19.00% | ~269 |
 | Scrap collector | 18.00% | ~255 |
 | All right, I'll give it a try | 17.00% | ~241 |
 | Great shot, kid! | 17.00% | ~241 |
-| The power of the Force | 14.00% | ~198 |
-| Together we can rule the galaxy | 14.00% | ~198 |
-| Shoot first | 14.00% | ~198 |
+| The power of the Force | 14.00% | ~199 |
+| Together we can rule the galaxy | 14.00% | ~199 |
+| Shoot first | 14.00% | ~199 |
 | Collector | 13.00% | ~184 |
 | Survivor | 10.00% | ~142 |
-| Tell Jabba that I've got his money | 9.00% | ~127 |
-| Best star-pilot in the galaxy | 9.00% | ~127 |
+| Tell Jabba that I've got his money | 9.00% | ~128 |
+| Best star-pilot in the galaxy | 9.00% | ~128 |
 | Never tell me the odds! | 8.00% | ~113 |
 | A cunning warrior | 8.00% | ~113 |
 | What's the cargo? | 7.00% | ~99 |
@@ -32,13 +32,13 @@
 | Not bad for a little furball | 4.00% | ~57 |
 | Patience you must have | 4.00% | ~57 |
 | Don't underestimate the Force | 4.00% | ~57 |
-| I've been waiting for you | 3.00% | ~42 |
-| When 900 years old you reach... | 3.00% | ~42 |
-| Determined | 3.00% | ~42 |
-| Your journey has only started | 3.00% | ~42 |
-| On the ball | 3.00% | ~42 |
-| Precision shot | 3.00% | ~42 |
-| That's no moon | 3.00% | ~42 |
+| I've been waiting for you | 3.00% | ~43 |
+| When 900 years old you reach... | 3.00% | ~43 |
+| Determined | 3.00% | ~43 |
+| Your journey has only started | 3.00% | ~43 |
+| On the ball | 3.00% | ~43 |
+| Precision shot | 3.00% | ~43 |
+| That's no moon | 3.00% | ~43 |
 | Hold the line! | 2.00% | ~28 |
 | The Force is strong with this one | 2.00% | ~28 |
 | This is a new day, a new beginning | 2.00% | ~28 |
@@ -57,7 +57,7 @@
 | Walker defender | 0.80% | ~11 |
 | No such thing as luck | 0.80% | ~11 |
 | Do we take prisoners? | 0.80% | ~11 |
-| I’ll take that bet | 0.60% | ~8 |
+| I’ll take that bet | 0.60% | ~9 |
 | Stay on target | 0.40% | ~6 |
 | Don't get cocky | 0.40% | ~6 |
 | Master | 0.40% | ~6 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,416 (Ranked 242)  
+Progressed: 1,418 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 1 (0.07%) (Ranked 300)
 | 2023-11-22 | 1,367 | 1 |
 | 2023-11-23 | 1,384 | 1 |
 | 2023-11-24 | 1,403 | 1 |
-| 2023-11-25 | 1,416 | 1 |
+| 2023-11-25 | 1,418 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

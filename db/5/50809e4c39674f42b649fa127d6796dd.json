@@ -2,7 +2,7 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 125,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -512,6 +512,11 @@
       "Time": "2023-11-25T20:08:39.5910795+00:00",
       "NumProgressed": 249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-25T21:08:14.2581387+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -540,7 +545,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -572,15 +577,15 @@
       "Name": "Easy Prey",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -588,7 +593,7 @@
       "Name": "Perfect Run",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -602,17 +607,17 @@
       "ID": "FIRST_KODAMA_ELDER_TALK",
       "SetID": "apihg0e",
       "Name": "Elder Koco Encounter",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -620,7 +625,7 @@
       "Name": "Celestial Rain",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -628,7 +633,7 @@
       "Name": "Unknown Threat",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -684,7 +689,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -716,7 +721,7 @@
       "Name": "The Journey Begins",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -730,9 +735,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Memories",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -804,7 +809,7 @@
       "Name": "Kronos Island Expert",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -836,21 +841,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-25T20:08:39.591079+00:00",
+  "LastChanged_Achievements": "2023-11-25T21:08:14.2581384+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:59:30.6023362+00:00",
-  "LastUpdate_Achievements": "2023-11-25T20:08:39.5911027+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:59:22.3584916+00:00",
+  "LastUpdate_Achievements": "2023-11-25T21:08:14.2581619+00:00"
 }
