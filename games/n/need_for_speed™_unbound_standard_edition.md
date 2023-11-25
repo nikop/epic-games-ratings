@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,083 |
-| Cool Whip | 90.00% | ~9,864 |
-| Fashion Killa | 88.00% | ~9,645 |
+| Throwing up Tags | 92.00% | ~10,084 |
+| Cool Whip | 90.00% | ~9,865 |
+| Fashion Killa | 88.00% | ~9,646 |
 | Drop the Beat | 86.00% | ~9,426 |
-| Hey Lakeshore | 84.00% | ~9,206 |
-| 100 Miles and Runnin' | 83.00% | ~9,097 |
-| Public Enemy | 82.00% | ~8,987 |
-| Rebel Without a Pause | 67.00% | ~7,343 |
-| Hey Speedie! | 67.00% | ~7,343 |
-| Most Wanted | 64.00% | ~7,014 |
-| New Crew | 62.00% | ~6,795 |
+| Hey Lakeshore | 84.00% | ~9,207 |
+| 100 Miles and Runnin' | 83.00% | ~9,098 |
+| Public Enemy | 82.00% | ~8,988 |
+| Rebel Without a Pause | 67.00% | ~7,344 |
+| Hey Speedie! | 67.00% | ~7,344 |
+| Most Wanted | 64.00% | ~7,015 |
+| New Crew | 62.00% | ~6,796 |
 | Serious Guap | 53.00% | ~5,809 |
 | Style it Out | 53.00% | ~5,809 |
 | Escape Artist | 53.00% | ~5,809 |
-| Untouchable | 52.00% | ~5,699 |
+| Untouchable | 52.00% | ~5,700 |
 | Oh, It's On | 50.00% | ~5,480 |
 | Rydell's Rydes | 48.00% | ~5,261 |
 | Cash Money Millionaire | 46.00% | ~5,042 |
-| Lake Better Watch Out | 39.00% | ~4,274 |
-| #Blessed | 34.00% | ~3,726 |
+| Lake Better Watch Out | 39.00% | ~4,275 |
+| #Blessed | 34.00% | ~3,727 |
 | Access All Areas | 33.00% | ~3,617 |
 | Found Family | 31.00% | ~3,398 |
-| In the Flow | 29.00% | ~3,178 |
-| The Collector | 29.00% | ~3,178 |
-| Kick it | 29.00% | ~3,178 |
+| In the Flow | 29.00% | ~3,179 |
+| The Collector | 29.00% | ~3,179 |
+| Kick it | 29.00% | ~3,179 |
 | Top Billin' | 22.00% | ~2,411 |
 | Teacher's Pet | 20.00% | ~2,192 |
 | Full House | 18.00% | ~1,973 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~219 |
 | Cleaning Up | 2.00% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,960 (Ranked 162)  
+Progressed: 10,961 (Ranked 162)  
 Completed: 51 (0.47%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,4 +117,4 @@ Completed: 51 (0.47%) (Ranked 208)
 | 2023-11-22 | 10,715 | 50 |
 | 2023-11-23 | 10,802 | 51 |
 | 2023-11-24 | 10,878 | 51 |
-| 2023-11-25 | 10,960 | 51 |
+| 2023-11-25 | 10,961 | 51 |

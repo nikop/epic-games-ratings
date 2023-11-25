@@ -2,13 +2,13 @@
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
   "ProductSlug": "red-dead-redemption-2",
-  "Ranking_Rating": 17,
+  "Ranking_Rating": 16,
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 469,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -17111,10 +17111,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 525197,
       "NumberOfAwardsMax": 201746
+    },
+    {
+      "Time": "2023-11-25T19:59:22.4585191+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 525260,
+      "NumberOfAwardsMax": 201746
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 525197,
+  "NumberOfAwards": 525260,
   "NumberOfAwardsMax": 201746,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -17152,7 +17158,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 21100
+      "Count": 21163
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -17214,8 +17220,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-11-25T16:00:00.3046198+00:00",
+  "LastChanged": "2023-11-25T19:59:22.4585189+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:32.2379637+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:59:20.2210165+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:04:08.5859147+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:59:22.4585196+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:04:10.2964454+00:00"
 }

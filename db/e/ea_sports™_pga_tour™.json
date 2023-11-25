@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.59,
+  "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -1985,6 +1985,11 @@
       "Time": "2023-11-24T22:08:57.9394855+00:00",
       "NumProgressed": 567,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-25T20:09:11.208357+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1995,9 +2000,9 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 96
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_10",
@@ -2029,7 +2034,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_14",
@@ -2067,17 +2072,17 @@
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 261
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_3",
@@ -2109,7 +2114,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_7",
@@ -2117,7 +2122,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "achievement_8",
@@ -2125,7 +2130,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_9",
@@ -2140,13 +2145,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:08:59.0449833+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:09:11.2083566+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.8610082+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:57:26.4698385+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:08:59.0450039+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:57:31.084748+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:09:11.2083794+00:00"
 }

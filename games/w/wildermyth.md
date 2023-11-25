@@ -41,6 +41,7 @@ Number of Ratings: 45  (23.09.2022)
 | Wingknight's Prowess | 0.20% | ~3 |
 | All My Birds, Safely Home | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
+| Some Say I'm Too Flashy | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
@@ -51,7 +52,6 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 0.10% | ~1 |
 | War-Ender | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |
-| Some Say I'm Too Flashy | 0.10% | ~1 |
 | Tempest | 0.10% | ~1 |
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |

@@ -1,18 +1,18 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.07 (Ranked 977)  
+Rating: 4.07 (Ranked 976)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,493 |
-| World Map | 78.00% | ~2,091 |
-| Temple of Eternals | 57.00% | ~1,528 |
+| Victor | 93.00% | ~2,494 |
+| World Map | 78.00% | ~2,092 |
+| Temple of Eternals | 57.00% | ~1,529 |
 | Prestigious | 54.00% | ~1,448 |
 | Fellowship Power | 42.00% | ~1,126 |
 | Guild Power | 25.00% | ~670 |
 | Prestigious x10 | 21.00% | ~563 |
-| The game is on | 19.00% | ~509 |
+| The game is on | 19.00% | ~510 |
 | Exotic Merchant | 17.00% | ~456 |
 | Dragon Clicker | 16.00% | ~429 |
 | Miner Clicker | 16.00% | ~429 |
@@ -39,10 +39,10 @@ Rating: 4.07 (Ranked 977)
 | Moving Up The Ladder | 9.00% | ~241 |
 | Relic Of The Past | 9.00% | ~241 |
 | Scroll Master | 9.00% | ~241 |
-| Here We Go Again | 8.00% | ~214 |
-| Master Enchanter | 8.00% | ~214 |
-| The father of Dragons | 8.00% | ~214 |
-| Trader | 8.00% | ~214 |
+| Here We Go Again | 8.00% | ~215 |
+| Master Enchanter | 8.00% | ~215 |
+| The father of Dragons | 8.00% | ~215 |
+| Trader | 8.00% | ~215 |
 | Blueprint Upgrades | 7.00% | ~188 |
 | Crystal Mining | 7.00% | ~188 |
 | Dragon Slayer | 7.00% | ~188 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 977)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,681 (Ranked 214)  
+Progressed: 2,682 (Ranked 214)  
 Completed: 2 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2 (0.07%) (Ranked 300)
 | 2023-11-22 | 2,554 | 2 |
 | 2023-11-23 | 2,599 | 2 |
 | 2023-11-24 | 2,644 | 2 |
-| 2023-11-25 | 2,681 | 2 |
+| 2023-11-25 | 2,682 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
 Sum: 110 (Ranked 443)  

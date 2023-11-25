@@ -26,8 +26,8 @@ Number of Ratings: 154  (23.09.2022)
 | Shut Down Metal Sonic | 40.00% | ~246 |
 | Museum Time | 40.00% | ~246 |
 | Very First Mission Clear! | 40.00% | ~246 |
+| Cleared Sonic the Hedgehog 2 | 39.00% | ~240 |
 | Beware Moto Bugs! | 38.00% | ~234 |
-| Cleared Sonic the Hedgehog 2 | 38.00% | ~234 |
 | Cleared Sonic CD | 37.00% | ~228 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 34.00% | ~209 |
 | Lucky Hedgehog | 29.00% | ~179 |

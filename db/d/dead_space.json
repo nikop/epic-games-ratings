@@ -6292,9 +6292,9 @@
       "ID": "achievement_38",
       "SetID": "222fo9l",
       "Name": "Front Toward Enemy",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 673
     },
     {
       "ID": "achievement_39",
@@ -6429,8 +6429,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-24T08:59:05.9325653+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:08:15.7873467+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:08:28.0795039+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:59:37.6029362+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:08:15.7873967+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:59:41.1830566+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:08:28.0795553+00:00"
 }

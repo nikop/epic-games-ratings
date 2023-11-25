@@ -3,12 +3,12 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 941,
-  "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 344,
+  "Ranking_Popularity": 366,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1069,18 +1069,24 @@
       "Rating": 4.16,
       "NumberOfAwards": 387,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-11-25T19:59:37.0365988+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 387,
-  "NumberOfAwardsMax": 95,
+  "NumberOfAwards": 390,
+  "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 95
+      "Count": 97
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1104,7 +1110,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1137,9 +1143,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 67474,
+  "EOS_Progressed": 67480,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10417,6 +10423,11 @@
       "Time": "2023-11-25T19:03:39.7877102+00:00",
       "NumProgressed": 67474,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-25T20:03:41.7606524+00:00",
+      "NumProgressed": 67480,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10429,7 +10440,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23616
+      "UsersEstimate": 23618
     },
     {
       "ID": "10",
@@ -10469,7 +10480,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4048
+      "UsersEstimate": 4049
     },
     {
       "ID": "15",
@@ -10493,7 +10504,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12145
+      "UsersEstimate": 12146
     },
     {
       "ID": "3",
@@ -10509,7 +10520,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6747
+      "UsersEstimate": 6748
     },
     {
       "ID": "5",
@@ -10525,7 +10536,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4048
+      "UsersEstimate": 4049
     },
     {
       "ID": "7",
@@ -10556,16 +10567,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67474,
+      "Progressed": 67480,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-11-25T03:59:26.6047663+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:03:39.7877098+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T18:57:34.4775016+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:59:33.5682234+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:03:39.7877554+00:00"
+  "LastChanged": "2023-11-25T19:59:37.0365986+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:03:41.7606521+00:00",
+  "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
+  "LastUpdate_Ratings": "2023-11-25T19:59:37.036599+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:03:41.760707+00:00"
 }

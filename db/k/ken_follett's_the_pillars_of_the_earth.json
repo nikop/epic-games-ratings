@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16653,
+  "EOS_Progressed": 16656,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14848,6 +14848,11 @@
       "Time": "2023-11-25T19:08:13.1775405+00:00",
       "NumProgressed": 16653,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-25T20:08:25.3210199+00:00",
+      "NumProgressed": 16656,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14859,7 +14864,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "tpote_achievement_10",
@@ -14875,7 +14880,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "tpote_achievement_12",
@@ -14899,7 +14904,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5495
+      "UsersEstimate": 5496
     },
     {
       "ID": "tpote_achievement_15",
@@ -14915,7 +14920,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2331
+      "UsersEstimate": 2332
     },
     {
       "ID": "tpote_achievement_17",
@@ -14923,7 +14928,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "tpote_achievement_18",
@@ -14931,7 +14936,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "tpote_achievement_19",
@@ -14947,7 +14952,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5495
+      "UsersEstimate": 5496
     },
     {
       "ID": "tpote_achievement_20",
@@ -14963,7 +14968,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4996
+      "UsersEstimate": 4997
     },
     {
       "ID": "tpote_achievement_22",
@@ -15019,7 +15024,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "tpote_achievement_29",
@@ -15035,7 +15040,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5329
+      "UsersEstimate": 5330
     },
     {
       "ID": "tpote_achievement_30",
@@ -15043,7 +15048,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "tpote_achievement_31",
@@ -15059,7 +15064,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2331
+      "UsersEstimate": 2332
     },
     {
       "ID": "tpote_achievement_33",
@@ -15123,7 +15128,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6661
+      "UsersEstimate": 6662
     },
     {
       "ID": "tpote_achievement_40",
@@ -15171,7 +15176,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "tpote_achievement_9",
@@ -15179,22 +15184,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5662
+      "UsersEstimate": 5663
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16653,
+      "Progressed": 16656,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:08:13.17754+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:08:25.3210197+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:57:37.5885038+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:08:13.1776396+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:57:42.2368347+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:08:25.3210978+00:00"
 }

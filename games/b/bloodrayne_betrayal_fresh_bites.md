@@ -13,19 +13,19 @@
 | Flight of the Raven | 26.00% | ~15 |
 | Drop In | 22.00% | ~13 |
 | The Last Bullet | 16.00% | ~9 |
-| Champion of Light | 12.00% | ~7 |
+| Champion of Light | 14.00% | ~8 |
 | Betrayed | 10.00% | ~6 |
 | Parting Gift | 10.00% | ~6 |
-| Skullector | 5.00% | ~3 |
+| Skullector | 7.00% | ~4 |
 | Chainsplosion! | 3.00% | ~2 |
 | Stomach Ache | 3.00% | ~2 |
 | Survived to Sunrise | 3.00% | ~2 |
+| Walking on Air | 3.00% | ~2 |
 | Coffin Kicker | 2.00% | ~1 |
 | A Foot Face? | 2.00% | ~1 |
 | That Funky Puncher | 2.00% | ~1 |
 | Ms. Perfect | 2.00% | ~1 |
 | Skulltastic | 2.00% | ~1 |
-| Walking on Air | 2.00% | ~1 |
 | Collateral | 0.00% | ~0 |
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

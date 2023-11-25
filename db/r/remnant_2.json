@@ -4663,10 +4663,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5895,
       "NumberOfAwardsMax": 2436
+    },
+    {
+      "Time": "2023-11-25T20:03:07.387435+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5902,
+      "NumberOfAwardsMax": 2436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5895,
+  "NumberOfAwards": 5902,
   "NumberOfAwardsMax": 2436,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4722,7 +4728,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 333
+      "Count": 340
     },
     {
       "Text": "This game has Unique Visuals",
@@ -4737,10 +4743,10 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 228014,
+  "EOS_Progressed": 228051,
   "EOS_Completed": 527,
-  "EOS_NewPlayers": 4783,
-  "EOS_NewCompleters": 56,
+  "EOS_NewPlayers": 4785,
+  "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -19872,6 +19878,11 @@
       "Time": "2023-11-25T19:08:41.4847671+00:00",
       "NumProgressed": 228014,
       "NumCompleted": 527
+    },
+    {
+      "Time": "2023-11-25T20:08:53.6045916+00:00",
+      "NumProgressed": 228051,
+      "NumCompleted": 527
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20042,9 +20053,9 @@
       "ID": "Meet_Meidra",
       "SetID": "bkp3b1a",
       "Name": "Equal Measures",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "Meet_Mudtooth",
@@ -20074,9 +20085,9 @@
       "ID": "Obtain_Archetype_Dual",
       "SetID": "bkp3b1a",
       "Name": "Duality",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -20323,22 +20334,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 228014,
+      "Progressed": 228051,
       "Completed": 527
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 7179,
+      "Progressed": 7216,
       "Completed": 156
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-25T17:03:11.4398812+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:08:41.4847666+00:00",
+  "LastChanged": "2023-11-25T20:03:07.3874348+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:08:53.6045913+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:03:26.2608838+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:08:41.4848817+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:03:07.3874353+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:08:53.6047087+00:00"
 }

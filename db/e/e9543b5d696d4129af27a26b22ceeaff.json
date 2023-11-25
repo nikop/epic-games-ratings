@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -144,9 +144,9 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 100,
+      "Percentage": 120,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIVE_STARS_MANAGER",
@@ -327,8 +327,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:04:14.5741986+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:04:16.2841394+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:54.711803+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:59:45.7624227+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:04:14.5742159+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:59:49.3713111+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:04:16.2841599+00:00"
 }

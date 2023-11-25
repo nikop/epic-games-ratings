@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -229,9 +229,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15521,
+  "EOS_Progressed": 15531,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12254,6 +12254,11 @@
       "Time": "2023-11-25T19:05:44.9534924+00:00",
       "NumProgressed": 15521,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-25T20:05:47.241243+00:00",
+      "NumProgressed": 15531,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12282,7 +12287,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "12",
@@ -12298,7 +12303,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "14",
@@ -12306,7 +12311,7 @@
       "Name": "Doctor Approved",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "15",
@@ -12338,7 +12343,7 @@
       "Name": "Bottoms up!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "19",
@@ -12346,7 +12351,7 @@
       "Name": "Martian Music",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "2",
@@ -12354,7 +12359,7 @@
       "Name": "Data Logger",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "20",
@@ -12370,7 +12375,7 @@
       "Name": "Drone Dodger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "22",
@@ -12394,7 +12399,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "25",
@@ -12418,7 +12423,7 @@
       "Name": "Bosmang",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "28",
@@ -12442,7 +12447,7 @@
       "Name": "Captain Drummer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "30",
@@ -12474,7 +12479,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "7",
@@ -12498,7 +12503,7 @@
       "Name": "Impossible Objects",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "31",
@@ -12530,7 +12535,7 @@
       "Name": "Master Negotiator",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "35",
@@ -12545,22 +12550,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15521,
+      "Progressed": 15531,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1475,
-      "Completed": 713
+      "Progressed": 1485,
+      "Completed": 714
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-25T17:58:09.1094239+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:05:44.9534918+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:05:47.2412425+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:58:29.2101037+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:05:44.953571+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:58:32.3409808+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:05:47.2413218+00:00"
 }

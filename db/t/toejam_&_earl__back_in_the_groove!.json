@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57962,
+  "EOS_Progressed": 57965,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13086,6 +13086,11 @@
       "Time": "2023-11-25T18:04:19.7852103+00:00",
       "NumProgressed": 57962,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-25T20:04:45.2566785+00:00",
+      "NumProgressed": 57965,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13161,7 +13166,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "FlyingPresent",
@@ -13433,7 +13438,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "TimelySplash",
@@ -13488,7 +13493,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57962,
+      "Progressed": 57965,
       "Completed": 6
     }
   ],
@@ -13496,8 +13501,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:04:43.5039083+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:04:45.2566781+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.5926184+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:58:50.9596416+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:04:43.5039832+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:58:53.3395079+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:04:45.2567771+00:00"
 }

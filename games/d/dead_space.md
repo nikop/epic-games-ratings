@@ -31,8 +31,8 @@ Rating: 4.64 (Ranked 333)
 | Exodus | 38.00% | ~752 |
 | There's Always Peng! | 38.00% | ~752 |
 | Mindless Prey | 38.00% | ~752 |
+| Front Toward Enemy | 34.00% | ~673 |
 | A Cut Above | 33.00% | ~653 |
-| Front Toward Enemy | 33.00% | ~653 |
 | Set A Benchmark | 30.00% | ~593 |
 | Whole Again | 29.00% | ~574 |
 | Pack Rat | 27.00% | ~534 |

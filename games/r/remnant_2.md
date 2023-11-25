@@ -17,6 +17,8 @@ Rating: 4.75 (Ranked 148)
 | Quest for Survival | 0.20% | ~456 |
 | Not a Janitor | 0.20% | ~456 |
 | Familiar Face | 0.20% | ~456 |
+| Equal Measures | 0.20% | ~456 |
+| Duality | 0.20% | ~456 |
 | Was This Supposed To Happen? | 0.20% | ~456 |
 | Boss'n Up | 0.20% | ~456 |
 | Almost There | 0.20% | ~456 |
@@ -33,10 +35,8 @@ Rating: 4.75 (Ranked 148)
 | Madman's Paradise | 0.10% | ~228 |
 | Red Room | 0.10% | ~228 |
 | The Agenda | 0.10% | ~228 |
-| Equal Measures | 0.10% | ~228 |
 | Tall Tales | 0.10% | ~228 |
 | Blue Goddess | 0.10% | ~228 |
-| Duality | 0.10% | ~228 |
 | Top Performer | 0.10% | ~228 |
 | Shhh...It's a Secret | 0.10% | ~228 |
 | Bad Moon Rising | 0.10% | ~228 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,014 (Ranked 68)  
+Progressed: 228,051 (Ranked 68)  
 Completed: 527 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,10 +193,10 @@ Completed: 527 (0.23%) (Ranked 248)
 | 2023-11-22 | 225,927 | 503 |
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
-| 2023-11-25 | 228,014 | 527 |
+| 2023-11-25 | 228,051 | 527 |
 ## Awards
 Max (Great Boss Battles): 2,436  (Ranked 105)  
-Sum: 5,895 (Ranked 129)  
+Sum: 5,902 (Ranked 129)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -208,7 +208,7 @@ Diff (max vs sum): -24
 | This game is Relaxing | 361 |
 | This game has Amazing Storytelling | 358 |
 | This game has Quickly Understood Controls | 345 |
-| This game has Amazing Characters | 333 |
+| This game has Amazing Characters | 340 |
 | This game has Unique Visuals | 296 |
 | This game has a Creative Community | 268 |
 ## Ratings History
@@ -336,4 +336,4 @@ Diff (max vs sum): -24
 | 2023-11-22 | 4.75 | 2,385 | 5,732 |
 | 2023-11-23 | 4.76 | 2,401 | 5,787 |
 | 2023-11-24 | 4.75 | 2,415 | 5,845 |
-| 2023-11-25 | 4.75 | 2,436 | 5,895 |
+| 2023-11-25 | 4.75 | 2,436 | 5,902 |

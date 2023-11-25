@@ -8,7 +8,7 @@
 | Scavenger | 73.00% | ~308 |
 | Line of Duty | 72.00% | ~304 |
 | Gunner | 57.00% | ~241 |
-| DocKing | 45.00% | ~190 |
+| DocKing | 46.00% | ~194 |
 | What-A-Shot | 44.00% | ~186 |
 | Batteries Included | 38.00% | ~160 |
 | Death from Above | 34.00% | ~143 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 422 (Ranked 323)  
+Progressed: 422 (Ranked 324)  
 Completed: 1 (0.24%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |

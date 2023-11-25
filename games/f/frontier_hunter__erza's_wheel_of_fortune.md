@@ -17,7 +17,7 @@
 | Beginner Artificer | 36.00% | ~109 |
 | Seal Breaker | 32.00% | ~97 |
 | Handyman | 28.00% | ~85 |
-| Giant Lizard Killer | 26.00% | ~79 |
+| Giant Lizard Killer | 27.00% | ~82 |
 | Guardian | 25.00% | ~76 |
 | Nosebleeder | 25.00% | ~76 |
 | Trader | 24.00% | ~72 |

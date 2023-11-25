@@ -5,21 +5,21 @@ Rating: 4.68 (Ranked 253)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,550 |
-| On the Top Step | 88.00% | ~5,196 |
-| Setting up for Success | 77.00% | ~4,546 |
-| Team Orders | 75.00% | ~4,428 |
-| Engineer | 55.00% | ~3,247 |
-| Familiar Faces | 48.00% | ~2,834 |
-| Sharing the Love | 43.00% | ~2,539 |
-| Going the Extra Mile | 42.00% | ~2,480 |
-| Hitting a Season | 39.00% | ~2,303 |
-| A Dozen Pieces | 33.00% | ~1,948 |
-| Challenge Yourself | 33.00% | ~1,948 |
-| Making History | 31.00% | ~1,830 |
-| Network Success | 28.00% | ~1,653 |
-| Writing a new Chapter | 25.00% | ~1,476 |
-| Spring Cleaning | 24.00% | ~1,417 |
+| Getting on the Step | 94.00% | ~5,553 |
+| On the Top Step | 88.00% | ~5,198 |
+| Setting up for Success | 77.00% | ~4,548 |
+| Team Orders | 75.00% | ~4,430 |
+| Engineer | 55.00% | ~3,249 |
+| Familiar Faces | 48.00% | ~2,835 |
+| Sharing the Love | 43.00% | ~2,540 |
+| Going the Extra Mile | 42.00% | ~2,481 |
+| Hitting a Season | 39.00% | ~2,304 |
+| A Dozen Pieces | 33.00% | ~1,949 |
+| Challenge Yourself | 33.00% | ~1,949 |
+| Making History | 31.00% | ~1,831 |
+| Network Success | 28.00% | ~1,654 |
+| Writing a new Chapter | 25.00% | ~1,477 |
+| Spring Cleaning | 24.00% | ~1,418 |
 | Reduce | 20.00% | ~1,181 |
 | Ups and Downs | 20.00% | ~1,181 |
 | Crucial Combo | 19.00% | ~1,122 |
@@ -33,11 +33,11 @@ Rating: 4.68 (Ranked 253)
 | Lightning Round the World | 13.00% | ~768 |
 | Switcheroo | 13.00% | ~768 |
 | Spinning Around | 13.00% | ~768 |
-| All in a Weekend's Work | 12.00% | ~708 |
-| Friendly Competition | 12.00% | ~708 |
-| Recycle | 12.00% | ~708 |
-| Tinkerer | 10.00% | ~590 |
-| Undisputed Winner | 9.00% | ~531 |
+| All in a Weekend's Work | 12.00% | ~709 |
+| Friendly Competition | 12.00% | ~709 |
+| Recycle | 12.00% | ~709 |
+| Tinkerer | 10.00% | ~591 |
+| Undisputed Winner | 9.00% | ~532 |
 | Smooth Operator | 7.00% | ~413 |
 | For all Those Back at the Factory | 6.00% | ~354 |
 | Living up to Expectations | 6.00% | ~354 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 253)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,904 (Ranked 186)  
+Progressed: 5,907 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 5,863 | 0 |
 | 2023-11-23 | 5,876 | 0 |
 | 2023-11-24 | 5,892 | 0 |
-| 2023-11-25 | 5,904 | 0 |
+| 2023-11-25 | 5,907 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 525)  
 Sum: 89 (Ranked 456)  

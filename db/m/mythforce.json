@@ -776,9 +776,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5084,
+  "EOS_Progressed": 5085,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -9871,6 +9871,11 @@
       "Time": "2023-11-25T17:03:32.3462266+00:00",
       "NumProgressed": 5084,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-25T20:03:49.4494879+00:00",
+      "NumProgressed": 5085,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9915,7 +9920,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9995,7 +10000,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -10066,15 +10071,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5084,
+      "Progressed": 5085,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:03:47.7732845+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:03:49.4494874+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-25T19:02:37.0810831+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:03:47.7733385+00:00"
+  "LastUpdate_Ratings": "2023-11-25T20:02:38.6753889+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:03:49.4495313+00:00"
 }

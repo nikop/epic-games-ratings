@@ -5,27 +5,27 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,515 |
-| Hotel California | 2.00% | ~14,499 |
-| Welcome To Hell-A | 2.00% | ~14,499 |
-| One of Us | 2.00% | ~1,010 |
-| Pork Chopped | 2.00% | ~1,010 |
-| Dr. Reed, I Presume? | 1.00% | ~7,249 |
-| Git Gutte! | 1.00% | ~7,249 |
-| Anger Management | 1.00% | ~7,249 |
-| Bookworm | 1.00% | ~7,249 |
-| Break A Leg | 1.00% | ~7,249 |
-| But Doctor, I am Butcho | 1.00% | ~7,249 |
-| Can't Handle the Truth | 1.00% | ~7,249 |
-| Coup de Grâce | 1.00% | ~7,249 |
-| Like Riding a Bike | 1.00% | ~7,249 |
-| Hazardous Materials | 1.00% | ~7,249 |
-| Friends Like These | 1.00% | ~7,249 |
-| Apex Predator | 1.00% | ~7,249 |
-| A Patton Emerges | 1.00% | ~7,249 |
-| Stacking the Deck | 1.00% | ~7,249 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,249 |
-| This is My Weapon | 1.00% | ~7,249 |
+| Whatever It Takes | 3.00% | ~1,516 |
+| Hotel California | 2.00% | ~14,500 |
+| Welcome To Hell-A | 2.00% | ~14,500 |
+| One of Us | 2.00% | ~1,011 |
+| Pork Chopped | 2.00% | ~1,011 |
+| Dr. Reed, I Presume? | 1.00% | ~7,250 |
+| Git Gutte! | 1.00% | ~7,250 |
+| Anger Management | 1.00% | ~7,250 |
+| Bookworm | 1.00% | ~7,250 |
+| Break A Leg | 1.00% | ~7,250 |
+| But Doctor, I am Butcho | 1.00% | ~7,250 |
+| Can't Handle the Truth | 1.00% | ~7,250 |
+| Coup de Grâce | 1.00% | ~7,250 |
+| Like Riding a Bike | 1.00% | ~7,250 |
+| Hazardous Materials | 1.00% | ~7,250 |
+| Friends Like These | 1.00% | ~7,250 |
+| Apex Predator | 1.00% | ~7,250 |
+| A Patton Emerges | 1.00% | ~7,250 |
+| Stacking the Deck | 1.00% | ~7,250 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,250 |
+| This is My Weapon | 1.00% | ~7,250 |
 | Perks of the Job | 0.90% | ~6,525 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,525 |
 | Slayer Squad | 0.90% | ~6,525 |
@@ -33,31 +33,31 @@ Rating: 4.54 (Ranked 527)
 | Ooh, Shiny! | 0.90% | ~6,525 |
 | Our True Nature | 0.90% | ~6,525 |
 | I Am the Resurrection | 0.80% | ~5,800 |
+| Max Headroom | 0.80% | ~5,800 |
 | Making Your Mark | 0.70% | ~5,075 |
 | Humanity Distilled | 0.70% | ~5,075 |
 | Down with the Sickness | 0.70% | ~5,075 |
-| Max Headroom | 0.70% | ~5,075 |
 | Not Even My Final Form | 0.60% | ~4,350 |
+| Internet Famous | 0.50% | ~3,625 |
 | Jumbo Keyring | 0.50% | ~3,625 |
 | Go, Bobcats! | 0.50% | ~3,625 |
 | Rising Star | 0.50% | ~3,625 |
 | Make it So | 0.40% | ~2,900 |
 | On Safari | 0.40% | ~2,900 |
 | Smorgasbord | 0.40% | ~2,900 |
-| Internet Famous | 0.40% | ~2,900 |
 | Variety is the Spice of Death | 0.40% | ~2,900 |
 | LA Influential | 0.30% | ~2,175 |
 | Sole Survivor | 0.30% | ~2,175 |
 | Gore Horse | 0.30% | ~2,175 |
 | Sharpest Tool in the Box | 0.30% | ~2,175 |
-| Top That, Tisha! | 0.30% | ~151 |
+| Top That, Tisha! | 0.30% | ~152 |
 | Survival Skills | 0.20% | ~1,450 |
 | Lawn and Order | 0.20% | ~101 |
 | Donk! | 0.10% | ~725 |
 | Bucket List | 0.10% | ~725 |
-| Wilhelm | 0.10% | ~50 |
+| Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,949 (Ranked 21)  
+Progressed: 725,002 (Ranked 21)  
 Completed: 2,436 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,10 +276,10 @@ Completed: 2,436 (0.34%) (Ranked 229)
 | 2023-11-22 | 722,778 | 2,425 |
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
-| 2023-11-25 | 724,949 | 2,436 |
+| 2023-11-25 | 725,002 | 2,436 |
 ## Awards
 Max (Great Boss Battles): 7,712  (Ranked 50)  
-Sum: 11,795 (Ranked 83)  
+Sum: 11,798 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -291,7 +291,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 494 |
 | This game is Highly Recommended | 477 |
 | This game is Extremely Fun | 477 |
-| This game has Amazing Characters | 438 |
+| This game has Amazing Characters | 441 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -513,4 +513,4 @@ Diff (max vs sum): -33
 | 2023-11-22 | 4.54 | 7,650 | 11,675 |
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
-| 2023-11-25 | 4.54 | 7,712 | 11,795 |
+| 2023-11-25 | 4.54 | 7,712 | 11,798 |

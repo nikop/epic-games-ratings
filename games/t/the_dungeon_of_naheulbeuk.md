@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,844 |
-| Alt+F4 | 9.00% | ~21,560 |
-| Where's that freaking Dwarf? | 8.00% | ~19,164 |
-| Déjà vu | 6.00% | ~14,373 |
-| Sock! SOCK! | 5.00% | ~11,978 |
-| Speedrun | 5.00% | ~11,978 |
-| A beer, two curses, three companions | 4.00% | ~9,582 |
-| GG EZ | 4.00% | ~9,582 |
-| DM intervention | 4.00% | ~9,582 |
-| Fireproof Wizardess | 4.00% | ~9,582 |
+| Sowwy! | 35.00% | ~83,850 |
+| Alt+F4 | 9.00% | ~21,561 |
+| Where's that freaking Dwarf? | 8.00% | ~19,166 |
+| Déjà vu | 6.00% | ~14,374 |
+| Sock! SOCK! | 5.00% | ~11,979 |
+| Speedrun | 5.00% | ~11,979 |
+| A beer, two curses, three companions | 4.00% | ~9,583 |
+| GG EZ | 4.00% | ~9,583 |
+| DM intervention | 4.00% | ~9,583 |
+| Fireproof Wizardess | 4.00% | ~9,583 |
 | Livin' in a dwarven paradise | 3.00% | ~7,187 |
 | Way of the Wimp | 3.00% | ~7,187 |
 | The plot thickens... At the tavern | 3.00% | ~7,187 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,396 |
 | Material Girl | 1.00% | ~2,396 |
 | In Navalu's footsteps | 0.90% | ~2,156 |
-| Lëgal Legend | 0.80% | ~1,916 |
+| Lëgal Legend | 0.80% | ~1,917 |
 | We come in peace | 0.70% | ~1,677 |
 | Holistic Adventuring Party | 0.60% | ~1,437 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,437 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,555 (Ranked 63)  
+Progressed: 239,572 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-22 | 238,936 | 7 |
 | 2023-11-23 | 239,137 | 7 |
 | 2023-11-24 | 239,357 | 7 |
-| 2023-11-25 | 239,555 | 7 |
+| 2023-11-25 | 239,572 | 7 |
 ## Awards
 Max (Character Customization): 238  (Ranked 272)  
 Sum: 478 (Ranked 330)  

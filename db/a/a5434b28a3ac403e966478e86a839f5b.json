@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 564,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -1815,6 +1815,11 @@
       "Time": "2023-11-25T12:05:12.959116+00:00",
       "NumProgressed": 563,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-25T20:04:56.027831+00:00",
+      "NumProgressed": 564,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1827,7 +1832,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 18,
       "XP": 120,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_eou1",
@@ -1851,7 +1856,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_eou4",
@@ -1867,7 +1872,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_eou6",
@@ -1875,7 +1880,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_eou7",
@@ -1930,14 +1935,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 564,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:04:53.9676571+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:04:56.0278306+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.8942797+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:57:24.4017674+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:04:53.9676808+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:57:29.0113419+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:04:56.027855+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 11.00% | ~24 |
-| Find Allies | 8.00% | ~17 |
+| Find Allies | 9.00% | ~19 |
 | Adventurer | 8.00% | ~17 |
 | Scholar | 8.00% | ~17 |
 | Break Out | 7.00% | ~15 |
@@ -19,6 +19,7 @@
 | Tributes of Caladrias | 6.00% | ~13 |
 | Big Bazar | 6.00% | ~13 |
 | Calm before the Storm | 5.00% | ~11 |
+| Essence Blow | 4.00% | ~9 |
 | Shatter Them All | 4.00% | ~9 |
 | Fine Feathers Make Fine Birds | 4.00% | ~9 |
 | Alchemist | 4.00% | ~9 |
@@ -26,7 +27,6 @@
 | Godslayer | 3.00% | ~6 |
 | The Mentor | 3.00% | ~6 |
 | Airborne | 3.00% | ~6 |
-| Essence Blow | 3.00% | ~6 |
 | Clear Sight | 2.00% | ~4 |
 | Shatterer | 2.00% | ~4 |
 | Slayer | 1.00% | ~2 |

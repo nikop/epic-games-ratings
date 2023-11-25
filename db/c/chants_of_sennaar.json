@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.92,
   "EosHistory": [
@@ -2975,6 +2975,11 @@
       "Time": "2023-11-25T19:03:52.0940408+00:00",
       "NumProgressed": 731,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-25T20:03:53.8026174+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 25,
@@ -3000,9 +3005,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 124
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3074,7 +3079,7 @@
       "Name": "A Link to the Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3096,9 +3101,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 146
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3106,7 +3111,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3146,7 +3151,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "PROGRESS_N2",
@@ -3185,14 +3190,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:03:52.0940405+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:03:53.8026171+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:59:54.8837029+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:03:52.094066+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:59:57.6170915+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:03:53.8026478+00:00"
 }

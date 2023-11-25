@@ -4,8 +4,8 @@
   "ProductSlug": "bonfire-peaks",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 469,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-30T13:00:00+00:00",
     "PcReleaseDate": "2021-09-30T13:00:00+00:00",
@@ -42,7 +42,7 @@
   "FirstSeen": "2022-07-22T20:23:05.3333822+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.6198164+00:00",
   "LastChanged": "2023-03-31T05:57:38.6198165+00:00",
-  "LastUpdate_AppInfo": "2023-11-18T18:57:30.1157408+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:58:50.7315182+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:04:04.3925239+00:00"
+  "LastUpdate_AppInfo": "2023-11-25T19:57:11.1752117+00:00",
+  "LastUpdate_Ratings": "2023-11-25T19:58:53.1966677+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:04:06.290306+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -1193,9 +1193,9 @@
       "ID": "ACH_COMMONAREA",
       "SetID": "511e31d",
       "Name": "On the right path",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_DOCDOCUMENTS",
@@ -1361,9 +1361,9 @@
       "ID": "ACH_ROOM303",
       "SetID": "511e31d",
       "Name": "One-way",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_SPADE",
@@ -1408,8 +1408,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-11-25T19:03:52.6454292+00:00",
+  "LastChanged_Achievements": "2023-11-25T20:03:54.3208641+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.6982468+00:00",
-  "LastUpdate_Ratings": "2023-11-25T18:58:06.4976643+00:00",
-  "LastUpdate_Achievements": "2023-11-25T19:03:52.6454721+00:00"
+  "LastUpdate_Ratings": "2023-11-25T19:58:09.9983058+00:00",
+  "LastUpdate_Achievements": "2023-11-25T20:03:54.3208827+00:00"
 }
