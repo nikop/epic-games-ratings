@@ -8,11 +8,11 @@
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.67% |
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.32% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.06% |
-| 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.98% |
+| 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.76% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.71% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.69% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
@@ -171,9 +171,9 @@
 | 169 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.92% |
 | 170 | [Hades](games/h/hades.md) | 0.91% |
 | 171 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.90% |
-| 172 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.89% |
-| 173 | [Infindustry](games/i/infindustry.md) | 0.88% |
-| 173 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
+| 172 | [Infindustry](games/i/infindustry.md) | 0.88% |
+| 172 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.88% |
+| 172 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
 | 175 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
 | 175 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 175 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.87% |
