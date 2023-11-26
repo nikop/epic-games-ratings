@@ -108,7 +108,7 @@
 | 105 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 425 |
 | 105 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.78 | 0 | 555 |
 | 105 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,812 | 37 |
-| 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,445 | 104 |
+| 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,445 | 105 |
 | 105 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 555 |
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 29 | 500 |
 | 112 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.77 | 37 | 466 |
@@ -155,7 +155,7 @@
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.75 | 0 | 555 |
 | 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.75 | 22 | 537 |
 | 148 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.75 | 0 | 555 |
-| 148 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,436 | 105 |
+| 148 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,455 | 104 |
 | 148 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 823 | 169 |
 | 148 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 412 | 228 |
 | 159 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 555 |
@@ -354,7 +354,7 @@
 | 349 | [Colt Canyon](games/c/colt_canyon.md) | 4.63 | 0 | 555 |
 | 349 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 34 | 481 |
 | 349 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,273 | 107 |
-| 349 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 628 | 189 |
+| 349 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 628 | 190 |
 | 349 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.63 | 0 | 555 |
 | 349 | [Revita](games/r/revita.md) | 4.63 | 0 | 555 |
 | 349 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 187 | 295 |
@@ -767,7 +767,7 @@
 | 764 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 555 |
 | 764 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.38 | 0 | 555 |
 | 764 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 166 | 310 |
-| 764 | [MORDHAU](games/m/mordhau.md) | 4.38 | 972 | 155 |
+| 764 | [MORDHAU](games/m/mordhau.md) | 4.38 | 979 | 155 |
 | 764 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 175 | 303 |
 | 764 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 124 | 338 |
 | 764 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 555 |
@@ -831,7 +831,7 @@
 | 822 | [Vampyr](games/v/vampyr.md) | 4.32 | 577 | 200 |
 | 830 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 372 | 238 |
 | 830 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.31 | 69 | 404 |
-| 830 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.31 | 625 | 190 |
+| 830 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.31 | 643 | 189 |
 | 830 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.31 | 0 | 555 |
 | 830 | [Hellpoint](games/h/hellpoint.md) | 4.31 | 0 | 555 |
 | 830 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.31 | 0 | 555 |
