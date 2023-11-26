@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 51.00% | ~43 |
+| Meissa's Savior | 51.00% | ~44 |
 | Purification Pioneer | 48.00% | ~41 |
-| Dicesmithing Time! | 46.00% | ~39 |
-| Mechanical Buddy | 46.00% | ~39 |
+| Dicesmithing Time! | 45.00% | ~39 |
+| Mechanical Buddy | 45.00% | ~39 |
 | Endless Tricks | 42.00% | ~36 |
 | Sanctuary Guardian | 40.00% | ~34 |
 | Noctuan Champion | 36.00% | ~31 |
@@ -18,21 +18,21 @@
 | Lacertian Champion | 28.00% | ~24 |
 | Anomaly Destroyer | 26.00% | ~22 |
 | Apian Champion | 26.00% | ~22 |
-| Star Killer | 25.00% | ~21 |
+| Star Killer | 24.00% | ~21 |
 | Loyal Partner | 22.00% | ~19 |
 | Behenian Champion | 22.00% | ~19 |
 | Astral Adventurer | 21.00% | ~18 |
-| Shard Spender | 18.00% | ~15 |
-| Unbeatable | 18.00% | ~15 |
-| Aquarian Champion | 18.00% | ~15 |
+| Shard Spender | 17.00% | ~15 |
+| Unbeatable | 17.00% | ~15 |
+| Aquarian Champion | 17.00% | ~15 |
 | Astral Seeker | 16.00% | ~14 |
 | Heart Gate | 15.00% | ~13 |
 | Favored by the Cosmos | 14.00% | ~12 |
 | The Corruption Goddess | 14.00% | ~12 |
 | The Goddes Avatar | 14.00% | ~12 |
 | Stellar Haste | 13.00% | ~11 |
-| Heavy Purger | 11.00% | ~9 |
-| Apian Hero | 11.00% | ~9 |
+| Heavy Purger | 10.00% | ~9 |
+| Apian Hero | 10.00% | ~9 |
 | Anomaly Control | 9.00% | ~8 |
 | Sadistic Plan | 9.00% | ~8 |
 | Wave Bender | 9.00% | ~8 |
@@ -53,13 +53,13 @@
 | Eridanian Hero | 5.00% | ~4 |
 | Lacertian Mastery | 5.00% | ~4 |
 | Noctuan Hero | 5.00% | ~4 |
-| Astrarium of Holding | 4.00% | ~3 |
-| Critical Twist | 4.00% | ~3 |
-| Reflexive Mind | 4.00% | ~3 |
-| The Ardent Prince | 4.00% | ~3 |
-| The Raging Skies | 4.00% | ~3 |
-| Eridanian Mastery | 4.00% | ~3 |
-| Noctuan Mastery | 4.00% | ~3 |
+| Astrarium of Holding | 3.00% | ~3 |
+| Critical Twist | 3.00% | ~3 |
+| Reflexive Mind | 3.00% | ~3 |
+| The Ardent Prince | 3.00% | ~3 |
+| The Raging Skies | 3.00% | ~3 |
+| Eridanian Mastery | 3.00% | ~3 |
+| Noctuan Mastery | 3.00% | ~3 |
 | Astromancer | 2.00% | ~2 |
 | Prestidigitation | 2.00% | ~2 |
 | Royal Choir | 2.00% | ~2 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 449)  
+Progressed: 86 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,4 +141,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 76 | 0 |
 | 2023-11-24 | 79 | 0 |
 | 2023-11-25 | 84 | 0 |
-| 2023-11-26 | 85 | 0 |
+| 2023-11-26 | 86 | 0 |

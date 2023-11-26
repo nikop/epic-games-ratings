@@ -3,11 +3,11 @@
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
   "Ranking_Rating": 541,
-  "Ranking_Popularity": 554,
-  "Ranking_PopularitySum": 554,
+  "Ranking_Popularity": 555,
+  "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -233,7 +233,7 @@
   "Tags": [],
   "EOS_Progressed": 5657,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7706,9 +7706,9 @@
       "ID": "ACH_TOILET_BUSTER",
       "SetID": "5nj1ea3",
       "Name": "Unplugged",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_TRADER",
@@ -7739,8 +7739,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-11-17T19:00:10.4063992+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:05:15.1110386+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:05:13.2971707+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:27.9722219+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:59:34.4878413+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:05:15.1110997+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:59:41.7449303+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:05:13.2972455+00:00"
 }

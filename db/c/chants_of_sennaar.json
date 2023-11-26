@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -3187,9 +3187,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 215
     },
     {
       "ID": "PROGRESS_N3",
@@ -3226,8 +3226,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:03:37.0046231+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:03:34.5983496+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:59:41.6487076+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:03:37.0046486+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:59:48.7215051+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:03:34.5983815+00:00"
 }

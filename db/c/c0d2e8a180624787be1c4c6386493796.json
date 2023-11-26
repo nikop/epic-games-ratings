@@ -883,9 +883,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -899,9 +899,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:06:13.3543486+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:06:11.9954158+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:58:49.0903827+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:06:13.3544255+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:58:55.4111175+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:06:11.9954971+00:00"
 }

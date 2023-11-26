@@ -3,11 +3,11 @@
   "Name": "SpellForce 3 Reforced",
   "ProductSlug": "spellforce-3",
   "Ranking_Rating": 591,
-  "Ranking_Popularity": 554,
-  "Ranking_PopularitySum": 554,
+  "Ranking_Popularity": 555,
+  "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewPlayers": 471,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-12-06T18:00:00+00:00",
@@ -273,6 +273,6 @@
   "FirstSeen": "2022-07-22T20:18:19.8156047+00:00",
   "LastChanged": "2023-10-01T02:57:13.2819055+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.1108198+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:57:44.5425349+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:06:02.8516437+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:57:50.9800935+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:06:01.5687309+00:00"
 }

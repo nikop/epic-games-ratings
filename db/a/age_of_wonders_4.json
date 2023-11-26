@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5497,
+  "EOS_Progressed": 5500,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7463,6 +7463,11 @@
       "Time": "2023-11-26T00:06:33.7523459+00:00",
       "NumProgressed": 5497,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T04:05:27.7396538+00:00",
+      "NumProgressed": 5500,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7482,7 +7487,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "11",
@@ -7506,7 +7511,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "14",
@@ -7522,7 +7527,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "16",
@@ -7538,7 +7543,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "18",
@@ -7562,7 +7567,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "20",
@@ -7626,7 +7631,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "28",
@@ -7674,7 +7679,7 @@
       "Name": "My Final Form",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "33",
@@ -7698,7 +7703,7 @@
       "Name": "I Want to Break Free",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "36",
@@ -7706,7 +7711,7 @@
       "Name": "Fiery Friend",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "37",
@@ -7714,7 +7719,7 @@
       "Name": "Against the Odds",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "38",
@@ -7722,7 +7727,7 @@
       "Name": "Manufactured War",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "39",
@@ -7730,7 +7735,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "4",
@@ -7738,7 +7743,7 @@
       "Name": "The Eternal Court",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "40",
@@ -7754,7 +7759,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "42",
@@ -7802,7 +7807,7 @@
       "Name": "Returning Circle",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "8",
@@ -7810,7 +7815,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "9",
@@ -7818,7 +7823,7 @@
       "Name": "I\u0027ll Fight You All",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "45",
@@ -7866,7 +7871,7 @@
       "Name": "Draconic Connoisseur",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "51",
@@ -7930,7 +7935,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "59",
@@ -7946,20 +7951,20 @@
       "Name": "A Very Special Ring",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5497,
+      "Progressed": 5500,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5497,
+      "Progressed": 5500,
       "Completed": 7
     }
   ],
@@ -7967,8 +7972,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:05:29.0254504+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:05:27.7396533+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:57:25.4085701+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:05:29.0255344+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:57:32.3677963+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:05:27.7398174+00:00"
 }

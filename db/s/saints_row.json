@@ -4083,9 +4083,9 @@
       "Count": 1078
     }
   ],
-  "EOS_Progressed": 80121,
+  "EOS_Progressed": 80122,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1025,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28978,6 +28978,11 @@
       "Time": "2023-11-26T03:09:01.0155168+00:00",
       "NumProgressed": 80121,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-26T04:08:38.1605152+00:00",
+      "NumProgressed": 80122,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -29037,7 +29042,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 20831
+      "UsersEstimate": 20832
     },
     {
       "ID": "complet_epilogue_mission",
@@ -29045,7 +29050,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 5608
+      "UsersEstimate": 5609
     },
     {
       "ID": "complete_all_of_wanted",
@@ -29069,7 +29074,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5608
+      "UsersEstimate": 5609
     },
     {
       "ID": "complete_final_mission",
@@ -29165,7 +29170,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 20831
+      "UsersEstimate": 20832
     },
     {
       "ID": "empire_tier_3",
@@ -29189,7 +29194,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 5608
+      "UsersEstimate": 5609
     },
     {
       "ID": "first_building_placed",
@@ -29285,7 +29290,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 28042
+      "UsersEstimate": 28043
     },
     {
       "ID": "one_third_purple",
@@ -29397,7 +29402,7 @@
       "Name": "Face Off",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 3105
+      "UsersEstimate": 3106
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -29412,13 +29417,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 80121,
+      "Progressed": 80122,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 51758,
+      "Progressed": 51759,
       "Completed": 4378
     }
   ],
@@ -29426,8 +29431,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-25T07:03:16.5614684+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:09:01.0155164+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:08:38.1605148+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.0685781+00:00",
-  "LastUpdate_Ratings": "2023-11-26T03:02:57.4649236+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:09:01.0156819+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:02:54.0880832+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:08:38.1606778+00:00"
 }

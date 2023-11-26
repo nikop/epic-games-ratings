@@ -1048,17 +1048,17 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 339
     },
     {
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_main02horde_traps",
@@ -1424,9 +1424,9 @@
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -1440,17 +1440,17 @@
       "ID": "ach_main18unholy_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 1)",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_main18unholy_researches",
       "SetID": "4hg22ll",
       "Name": "To the Max!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_main18unholy_training",
@@ -1519,8 +1519,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:05:24.1672316+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:05:22.9487569+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:58:23.1349199+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:05:24.1672819+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:58:30.6065967+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:05:22.9488107+00:00"
 }

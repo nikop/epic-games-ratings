@@ -1326,7 +1326,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29150,
+  "EOS_Progressed": 29152,
   "EOS_Completed": 79,
   "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 1,
@@ -24921,6 +24921,11 @@
       "Time": "2023-11-26T03:09:16.1479746+00:00",
       "NumProgressed": 29150,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-26T04:08:53.2708612+00:00",
+      "NumProgressed": 29152,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24996,7 +25001,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "1024",
@@ -25068,7 +25073,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11660
+      "UsersEstimate": 11661
     },
     {
       "ID": "1033",
@@ -25076,7 +25081,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "1034",
@@ -25107,15 +25112,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29150,
+      "Progressed": 29152,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:09:16.1479743+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:08:53.2708608+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.1522502+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:57:05.1664186+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:09:16.1481003+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:57:11.8037648+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:08:53.2709949+00:00"
 }

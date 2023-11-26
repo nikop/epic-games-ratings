@@ -3,11 +3,11 @@
   "Name": "Operencia: The Stolen Sun",
   "ProductSlug": "operencia",
   "Ranking_Rating": 692,
-  "Ranking_Popularity": 554,
-  "Ranking_PopularitySum": 554,
+  "Ranking_Popularity": 555,
+  "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewPlayers": 471,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2019-03-08T15:00:00+00:00",
@@ -129,6 +129,6 @@
   "FirstSeenRating": "2022-10-06T01:00:25.195922+00:00",
   "LastChanged": "2023-10-06T21:00:53.9322516+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:59.1073618+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:57:13.148656+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:09:11.25743+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:57:20.0529546+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:08:48.3627727+00:00"
 }

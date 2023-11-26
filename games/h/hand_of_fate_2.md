@@ -6,9 +6,9 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,849 |
-| Apprentice | 58.00% | ~385,739 |
-| Close Shave | 25.00% | ~166,267 |
+| The Fool | 72.00% | ~478,850 |
+| Apprentice | 58.00% | ~385,741 |
+| Close Shave | 25.00% | ~166,268 |
 | Mercenary | 23.00% | ~152,966 |
 | Ninja | 23.00% | ~152,966 |
 | Northern Scourge | 17.00% | ~113,062 |
@@ -17,17 +17,17 @@ Number of Ratings: 780  (23.09.2022)
 | Gambler | 10.00% | ~66,507 |
 | Dice Master | 10.00% | ~66,507 |
 | Swordsman | 9.00% | ~59,856 |
-| Knight | 8.00% | ~53,205 |
-| Cure for Corruption | 8.00% | ~53,205 |
-| Focused | 8.00% | ~53,205 |
-| Flurry of Fury | 8.00% | ~53,205 |
+| Knight | 8.00% | ~53,206 |
+| Cure for Corruption | 8.00% | ~53,206 |
+| Focused | 8.00% | ~53,206 |
+| Flurry of Fury | 8.00% | ~53,206 |
 | Long Shot | 7.00% | ~46,555 |
 | Devil Dice | 7.00% | ~46,555 |
 | Broken Heart | 7.00% | ~46,555 |
 | Adventurer | 6.00% | ~39,904 |
 | Empire's Bane | 6.00% | ~39,904 |
-| Jack of all Trades | 5.00% | ~33,253 |
-| Smithy | 5.00% | ~33,253 |
+| Jack of all Trades | 5.00% | ~33,254 |
+| Smithy | 5.00% | ~33,254 |
 | Leap of Faith | 3.00% | ~19,952 |
 | Combat Ready | 3.00% | ~19,952 |
 | Stuffed Potato | 3.00% | ~19,952 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,068 (Ranked 29)  
+Progressed: 665,070 (Ranked 29)  
 Completed: 172 (0.03%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 172 (0.03%) (Ranked 324)
 | 2023-11-23 | 664,981 | 171 |
 | 2023-11-24 | 665,010 | 171 |
 | 2023-11-25 | 665,061 | 172 |
-| 2023-11-26 | 665,068 | 172 |
+| 2023-11-26 | 665,070 | 172 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 470)  
 Sum: 193 (Ranked 405)  

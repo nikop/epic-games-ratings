@@ -2,12 +2,12 @@
   "ID": "168fc558aeef44a5b9cba5f25b5bb93f",
   "Name": "THE KING OF FIGHTERS XV",
   "ProductSlug": "the-king-of-fighters-xv",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 311,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewPlayers": 471,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-17T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "NumberOfRatings": 181,
   "RatingHistory": [
     {
@@ -456,6 +456,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 572,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-11-26T03:59:34.7640897+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 572,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
@@ -541,8 +547,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2023-11-20T04:00:14.6379112+00:00",
+  "LastChanged": "2023-11-26T03:59:34.7640896+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:22.9509689+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:59:27.8609966+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:04:31.6342494+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:59:34.7640902+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:04:29.8253719+00:00"
 }

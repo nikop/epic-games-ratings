@@ -3,8 +3,8 @@
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
   "Ranking_Rating": 417,
-  "Ranking_Popularity": 554,
-  "Ranking_PopularitySum": 554,
+  "Ranking_Popularity": 555,
+  "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 108,
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115150,
+  "EOS_Progressed": 115152,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
@@ -19159,6 +19159,11 @@
       "Time": "2023-11-26T03:09:11.9142924+00:00",
       "NumProgressed": 115150,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-26T04:08:49.1977648+00:00",
+      "NumProgressed": 115152,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -19178,7 +19183,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88666
+      "UsersEstimate": 88667
     },
     {
       "ID": "EAwards_10",
@@ -19194,7 +19199,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29939
+      "UsersEstimate": 29940
     },
     {
       "ID": "EAwards_12",
@@ -19202,7 +19207,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17272
+      "UsersEstimate": 17273
     },
     {
       "ID": "EAwards_13",
@@ -19266,7 +19271,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55272
+      "UsersEstimate": 55273
     },
     {
       "ID": "EAwards_20",
@@ -19274,7 +19279,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12666
+      "UsersEstimate": 12667
     },
     {
       "ID": "EAwards_21",
@@ -19314,7 +19319,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21878
+      "UsersEstimate": 21879
     },
     {
       "ID": "EAwards_26",
@@ -19322,7 +19327,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12666
+      "UsersEstimate": 12667
     },
     {
       "ID": "EAwards_27",
@@ -19338,7 +19343,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "EAwards_29",
@@ -19346,7 +19351,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "EAwards_3",
@@ -19554,14 +19559,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12666
+      "UsersEstimate": 12667
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115150,
+      "Progressed": 115152,
       "Completed": 50
     }
   ],
@@ -19569,8 +19574,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:09:11.9142921+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:08:49.1977645+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.5110707+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:58:50.0626449+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:09:11.914398+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:58:56.1555048+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:08:49.1978766+00:00"
 }

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -895,6 +895,11 @@
       "Time": "2023-11-26T03:08:46.5192097+00:00",
       "NumProgressed": 337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T04:08:23.6430714+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -931,7 +936,7 @@
       "Name": "Fierce fight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "AchvBombStop",
@@ -963,7 +968,7 @@
       "Name": "Ubiquitous holes",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -979,7 +984,7 @@
       "Name": "The Invincible",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AchvEvacuate",
@@ -987,7 +992,7 @@
       "Name": "Evacuation",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "AchvInvShip",
@@ -1067,7 +1072,7 @@
       "Name": "Strong objection",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AchvReachBase",
@@ -1075,7 +1080,7 @@
       "Name": "The field base",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "AchvReachCamp",
@@ -1091,7 +1096,7 @@
       "Name": "The City",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "AchvReachCondor",
@@ -1129,23 +1134,23 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:08:46.5192093+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:08:23.643071+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-26T03:00:10.4681517+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:08:46.5192305+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:00:17.4437403+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:08:23.6430918+00:00"
 }

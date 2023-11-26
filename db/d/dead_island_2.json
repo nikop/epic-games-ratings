@@ -6915,9 +6915,9 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 725252,
+  "EOS_Progressed": 725279,
   "EOS_Completed": 2438,
-  "EOS_NewPlayers": 4707,
+  "EOS_NewPlayers": 4718,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32045,6 +32045,11 @@
       "Time": "2023-11-26T03:05:38.8176177+00:00",
       "NumProgressed": 725252,
       "NumCompleted": 2438
+    },
+    {
+      "Time": "2023-11-26T04:05:37.8281009+00:00",
+      "NumProgressed": 725279,
+      "NumCompleted": 2438
     }
   ],
   "TotalAchievements": 51,
@@ -32104,7 +32109,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "ach_bookworm",
@@ -32136,7 +32141,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -32152,7 +32157,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "ach_explorer",
@@ -32216,7 +32221,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14505
+      "UsersEstimate": 14506
     },
     {
       "ID": "ach_impressive_aim",
@@ -32262,9 +32267,9 @@
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6527
+      "UsersEstimate": 7253
     },
     {
       "ID": "ach_legendary",
@@ -32272,7 +32277,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "ach_magnum_opus",
@@ -32358,9 +32363,9 @@
       "ID": "ach_the_vcla",
       "SetID": "7km39fm",
       "Name": "Go, Bobcats!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3626
+      "UsersEstimate": 4352
     },
     {
       "ID": "ach_thesacrifice",
@@ -32368,7 +32373,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -32392,7 +32397,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14505
+      "UsersEstimate": 14506
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32424,7 +32429,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "ach_gardening_tools",
@@ -32463,13 +32468,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 725252,
+      "Progressed": 725279,
       "Completed": 2438
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 50794,
+      "Progressed": 50821,
       "Completed": 36605
     }
   ],
@@ -32477,8 +32482,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-25T22:59:34.5022905+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:05:38.8176174+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:05:37.8281006+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:59:13.6746511+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:05:38.817744+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:59:20.8920777+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:05:37.8282547+00:00"
 }

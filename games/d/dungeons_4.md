@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 86.00% | ~369 |
 | Thalya – Simply Immortal | 86.00% | ~369 |
-| For the Horde! | 81.00% | ~347 |
-| Hammer Time, Round Two | 78.00% | ~335 |
+| For the Horde! | 82.00% | ~352 |
+| Hammer Time, Round Two | 79.00% | ~339 |
 | The Hellwoods | 72.00% | ~309 |
 | The Plains of Strothalm | 69.00% | ~296 |
 | Experienced Thalya | 68.00% | ~292 |
@@ -44,20 +44,20 @@
 | The Finitude Drill | 17.00% | ~73 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~64 |
 | Doom Hill | 15.00% | ~64 |
+| Brimstone Shaken, Not Stirred | 14.00% | ~60 |
 | Sabotage! | 13.00% | ~56 |
-| Brimstone Shaken, Not Stirred | 13.00% | ~56 |
 | Bonus Evilness | 12.00% | ~51 |
 | Raiders of the Lost Stone | 12.00% | ~51 |
+| The Rune Sockets of Finitude (Part 1) | 12.00% | ~51 |
 | My Little Torture Chamber | 11.00% | ~47 |
-| The Rune Sockets of Finitude (Part 1) | 11.00% | ~47 |
 | Lavalumps on Ice! | 10.00% | ~43 |
 | Rubble and Ashes | 10.00% | ~43 |
 | The Rune Sockets of Finitude (Part 2) | 10.00% | ~43 |
 | The Last Stand - This Time For Real! | 9.00% | ~39 |
 | Untouchable | 8.00% | ~34 |
+| To the Max! | 8.00% | ~34 |
 | To Infinity And Beyond! | 8.00% | ~34 |
 | Mirror, Mirror | 7.00% | ~30 |
-| To the Max! | 7.00% | ~30 |
 | Gorgu is in the Best of Health | 6.00% | ~26 |
 | Laser Eyes Are So Useless | 6.00% | ~26 |
 | Evilification | 6.00% | ~26 |

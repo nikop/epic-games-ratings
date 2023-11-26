@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -599,6 +599,11 @@
       "Time": "2023-11-26T01:57:40.3311778+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T04:06:25.4019943+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -609,9 +614,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -641,9 +646,9 @@
       "ID": "TINGWD_BUTTON_PLAY",
       "SetID": "c0imaa6",
       "Name": "I want to PLAY!!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "TINGWD_BUTTON_UNINSTALL",
@@ -675,23 +680,23 @@
       "Name": "There\u0027s a bug in the soup",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "TINGWD_CHAP_END_02",
       "SetID": "c0imaa6",
       "Name": "A soundly led quest",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -721,17 +726,17 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -745,17 +750,17 @@
       "ID": "TINGWD_GHOSTBUSTERS",
       "SetID": "c0imaa6",
       "Name": "Who you gonna call?",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TINGWD_GUIDE",
       "SetID": "c0imaa6",
       "Name": "Follow the guide!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "TINGWD_HEADSHOT",
@@ -769,9 +774,9 @@
       "ID": "TINGWD_HONEY",
       "SetID": "c0imaa6",
       "Name": "Honey, I blew up the Hero",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TINGWD_KARAMASOV",
@@ -787,7 +792,7 @@
       "Name": "Have you no shame?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -801,9 +806,9 @@
       "ID": "TINGWD_PERPETUITY",
       "SetID": "c0imaa6",
       "Name": "Life sentence",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "TINGWD_PUNCHMAN",
@@ -865,9 +870,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 120,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -882,14 +887,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:08:17.9688281+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:06:25.4019939+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:59:12.4495497+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:08:17.968852+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:59:19.9434159+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:06:25.4020253+00:00"
 }

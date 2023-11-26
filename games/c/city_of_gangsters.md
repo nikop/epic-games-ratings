@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 843)  
+Rating: 4.29 (Ranked 844)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~162,877 |
-| Copacetic Coordination | 16.00% | ~56,653 |
-| Fronting the Money | 15.00% | ~53,112 |
-| The Dawn of Automation | 14.00% | ~49,571 |
-| Extraordinary Logistics | 14.00% | ~49,571 |
+| Corner Clout | 46.00% | ~162,880 |
+| Copacetic Coordination | 16.00% | ~56,654 |
+| Fronting the Money | 15.00% | ~53,113 |
+| The Dawn of Automation | 14.00% | ~49,572 |
+| Extraordinary Logistics | 14.00% | ~49,572 |
 | Dirty Money | 13.00% | ~46,031 |
 | Family First | 13.00% | ~46,031 |
-| Cleaning House | 12.00% | ~42,490 |
-| Room in the Back | 12.00% | ~42,490 |
-| Beating the Heat | 11.00% | ~38,949 |
-| Booze Baron | 11.00% | ~38,949 |
-| Friends on the Force | 10.00% | ~35,408 |
-| Neighborhood Watch | 10.00% | ~35,408 |
-| Core Corps | 8.00% | ~28,326 |
-| Sizeable Stash | 8.00% | ~28,326 |
+| Cleaning House | 12.00% | ~42,491 |
+| Room in the Back | 12.00% | ~42,491 |
+| Beating the Heat | 11.00% | ~38,950 |
+| Booze Baron | 11.00% | ~38,950 |
+| Friends on the Force | 10.00% | ~35,409 |
+| Neighborhood Watch | 10.00% | ~35,409 |
+| Core Corps | 8.00% | ~28,327 |
+| Sizeable Stash | 8.00% | ~28,327 |
 | Street Fighter | 7.00% | ~24,786 |
 | Friendly Gestures | 7.00% | ~24,786 |
 | People Person | 7.00% | ~24,786 |
@@ -36,18 +36,18 @@ Rating: 4.29 (Ranked 843)
 | Opportunity Knocked | 5.00% | ~17,704 |
 | City of Big Shoulders | 5.00% | ~17,704 |
 | Mission Mastery | 5.00% | ~17,704 |
-| Considerable Clams | 4.00% | ~14,163 |
-| Gin Joint | 4.00% | ~14,163 |
-| An Affront to the Enemy | 4.00% | ~14,163 |
-| Friends from Back Home | 4.00% | ~14,163 |
-| Half Century Mark | 4.00% | ~14,163 |
-| Corner Opportunities | 3.00% | ~10,622 |
-| 2122 North Clark Street | 3.00% | ~10,622 |
-| Copious Cabbage | 3.00% | ~10,622 |
-| Sockdolager | 3.00% | ~10,622 |
-| Still Stalwart | 3.00% | ~10,622 |
-| Bees Knees Bootlegger | 3.00% | ~10,622 |
-| Tighten the Screws | 3.00% | ~10,622 |
+| Considerable Clams | 4.00% | ~14,164 |
+| Gin Joint | 4.00% | ~14,164 |
+| An Affront to the Enemy | 4.00% | ~14,164 |
+| Friends from Back Home | 4.00% | ~14,164 |
+| Half Century Mark | 4.00% | ~14,164 |
+| Corner Opportunities | 3.00% | ~10,623 |
+| 2122 North Clark Street | 3.00% | ~10,623 |
+| Copious Cabbage | 3.00% | ~10,623 |
+| Sockdolager | 3.00% | ~10,623 |
+| Still Stalwart | 3.00% | ~10,623 |
+| Bees Knees Bootlegger | 3.00% | ~10,623 |
+| Tighten the Screws | 3.00% | ~10,623 |
 | One of Us | 2.00% | ~7,082 |
 | Baker’s Dozen | 2.00% | ~7,082 |
 | Dropping the Dime | 2.00% | ~7,082 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 843)
 | High Pillow | 0.10% | ~354 |
 | Station Master | 0.10% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354,081 (Ranked 48)  
+Progressed: 354,088 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-23 | 353,741 | 7 |
 | 2023-11-24 | 353,883 | 7 |
 | 2023-11-25 | 354,051 | 7 |
-| 2023-11-26 | 354,081 | 7 |
+| 2023-11-26 | 354,088 | 7 |
 ## Awards
 Max (Great for Beginners): 49  (Ranked 438)  
 Sum: 196 (Ranked 401)  

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1227,6 +1227,11 @@
       "Time": "2023-11-26T03:05:48.0886002+00:00",
       "NumProgressed": 616,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T04:05:47.3668032+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1295,7 +1300,7 @@
       "Name": "Pathfinder",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "CompleteChapter10",
@@ -1303,7 +1308,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CompleteChapter11",
@@ -1367,7 +1372,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CompleteChapter18",
@@ -1381,9 +1386,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 339
     },
     {
       "ID": "CompleteChapter3",
@@ -1399,7 +1404,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "CompleteChapter5",
@@ -1407,7 +1412,7 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "CompleteChapter6",
@@ -1534,14 +1539,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:05:48.0885999+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:05:47.3668029+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:58:53.8842509+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:05:48.0886321+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:59:00.0751512+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:05:47.366825+00:00"
 }

@@ -17,7 +17,7 @@
 | Blow ‘Em Up | 22.00% | ~80 |
 | Poker-Man | 20.00% | ~72 |
 | FOR THE GAUNTLET! | 20.00% | ~72 |
-| Untapped Potential | 17.00% | ~62 |
+| Untapped Potential | 18.00% | ~65 |
 | Played by Gramps | 14.00% | ~51 |
 | Size Doesn’t Matter | 12.00% | ~43 |
 | I Choo-Choo-Choose You | 12.00% | ~43 |

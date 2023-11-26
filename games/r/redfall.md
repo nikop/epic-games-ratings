@@ -34,18 +34,18 @@ Rating: 3.45 (Ranked 1,047)
 | Contingency Plans | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
 | Nice Try | 0.60% | ~11 |
+| Revelations | 0.50% | ~9 |
 | You Clean It Up | 0.50% | ~9 |
 | Starve the Beast | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Blacklight Down | 0.50% | ~9 |
 | Curious Finch | 0.50% | ~9 |
 | I Spit On Your Grave | 0.50% | ~9 |
-| Revelations | 0.40% | ~7 |
 | Block Party | 0.40% | ~7 |
+| Bloody Initiate | 0.40% | ~7 |
 | Neighborhood Watch | 0.30% | ~5 |
 | Sisterhood | 0.30% | ~5 |
 | What Lies Below | 0.30% | ~5 |
-| Bloody Initiate | 0.30% | ~5 |
 | So Anyway I Started Blasting | 0.30% | ~5 |
 | Under a Bushel | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |

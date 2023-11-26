@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3235,9 +3235,9 @@
       "Count": 254
     }
   ],
-  "EOS_Progressed": 84013,
+  "EOS_Progressed": 84014,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 859,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -27720,6 +27720,11 @@
       "Time": "2023-11-26T03:03:23.8789477+00:00",
       "NumProgressed": 84013,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-11-26T04:03:21.360957+00:00",
+      "NumProgressed": 84014,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 30,
@@ -27763,7 +27768,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 15122
+      "UsersEstimate": 15123
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -27771,7 +27776,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9241
+      "UsersEstimate": 9242
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -27787,7 +27792,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9241
+      "UsersEstimate": 9242
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -27803,7 +27808,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -27851,7 +27856,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -27867,7 +27872,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21843
+      "UsersEstimate": 21844
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -27875,7 +27880,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -27915,7 +27920,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 15122
+      "UsersEstimate": 15123
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -27931,7 +27936,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9241
+      "UsersEstimate": 9242
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -27947,7 +27952,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9241
+      "UsersEstimate": 9242
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -27955,7 +27960,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -27970,15 +27975,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 84013,
+      "Progressed": 84014,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-25T19:59:52.0146694+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:03:23.8789473+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:03:21.3609563+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.0449406+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:59:35.7354737+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:03:23.8790869+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:59:42.9648072+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:03:21.3610823+00:00"
 }

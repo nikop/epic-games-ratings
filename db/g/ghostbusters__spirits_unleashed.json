@@ -3433,10 +3433,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2848,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-11-26T04:02:47.5660763+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2849,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2848,
+  "NumberOfAwards": 2849,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3486,7 +3492,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 281
+      "Count": 282
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3513,9 +3519,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31588,
+  "EOS_Progressed": 31590,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20493,6 +20499,11 @@
       "Time": "2023-11-26T03:06:01.2948809+00:00",
       "NumProgressed": 31588,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-26T04:06:00.0715636+00:00",
+      "NumProgressed": 31590,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20552,7 +20563,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "Collector",
@@ -20592,7 +20603,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "Dont_Need_These",
@@ -20710,9 +20721,9 @@
       "ID": "Mycophile",
       "SetID": "819popo",
       "Name": "Mycophile",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 63
     },
     {
       "ID": "Pesky_Jerks",
@@ -20792,7 +20803,7 @@
       "Name": "Solo Capture",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "Stunner",
@@ -20832,7 +20843,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "Teamwork",
@@ -20911,16 +20922,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31588,
+      "Progressed": 31590,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-26T02:26:19.2359289+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:06:01.2948805+00:00",
+  "LastChanged": "2023-11-26T04:02:47.5660761+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:06:00.0715632+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-26T03:02:51.2706319+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:06:01.2950047+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:02:47.5660765+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:06:00.0716529+00:00"
 }

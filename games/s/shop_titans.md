@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,526 |
-| Titan's First Steps | 6.00% | ~8,526 |
-| Basic in Bulk | 5.00% | ~7,105 |
-| Tinkle of Coins | 5.00% | ~7,105 |
-| Disintermediation | 4.00% | ~5,684 |
-| It's Free Real Estate | 4.00% | ~5,684 |
-| Budding Merchant | 4.00% | ~5,684 |
-| Capitalism Ho! | 4.00% | ~5,684 |
+| Sponsored by Argon | 6.00% | ~8,527 |
+| Titan's First Steps | 6.00% | ~8,527 |
+| Basic in Bulk | 5.00% | ~7,106 |
+| Tinkle of Coins | 5.00% | ~7,106 |
+| Disintermediation | 4.00% | ~5,685 |
+| It's Free Real Estate | 4.00% | ~5,685 |
+| Budding Merchant | 4.00% | ~5,685 |
+| Capitalism Ho! | 4.00% | ~5,685 |
 | One Easy Payment | 3.00% | ~4,263 |
 | Some Assembly Required | 3.00% | ~4,263 |
 | Another Satisfied Customer | 3.00% | ~4,263 |
@@ -24,6 +24,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 2.00% | ~2,842 |
 | On the Path to Greatness | 2.00% | ~2,842 |
 | Ascended | 2.00% | ~2,842 |
+| Tax not Included | 2.00% | ~2,842 |
 | Research & Development | 2.00% | ~2,842 |
 | Vanity, Verily | 2.00% | ~2,842 |
 | Bounty Hunters | 2.00% | ~2,842 |
@@ -52,7 +53,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 1.00% | ~1,421 |
 | Constellated | 1.00% | ~1,421 |
 | A Ronin Reborn | 1.00% | ~1,421 |
-| Tax not Included | 1.00% | ~1,421 |
 | The King's Caprice | 1.00% | ~1,421 |
 | Thirst for Knowledge | 1.00% | ~1,421 |
 | Big Game Hunting | 1.00% | ~1,421 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.20% | ~284 |
 | To Hell and Back | 0.20% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,105 (Ranked 80)  
-Completed: 267 (0.19%) (Ranked 260)  
+Progressed: 142,113 (Ranked 80)  
+Completed: 268 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -339,7 +339,7 @@ Completed: 267 (0.19%) (Ranked 260)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,105 | 267 |
+| 2023-11-26 | 142,113 | 268 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,598 (Ranked 50)  

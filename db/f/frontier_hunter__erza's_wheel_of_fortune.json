@@ -2,7 +2,7 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 89,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -997,6 +997,11 @@
       "Time": "2023-11-26T03:03:45.7720494+00:00",
       "NumProgressed": 305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T04:03:43.5841616+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1016,7 +1021,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1096,7 +1101,7 @@
       "Name": "Training Simulation",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1118,9 +1123,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1128,7 +1133,7 @@
       "Name": "Master Cook",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1136,7 +1141,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1158,9 +1163,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1176,7 +1181,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1336,7 +1341,7 @@
       "Name": "Flower Thief",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1360,14 +1365,14 @@
       "Name": "Handyman",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 1
     }
   ],
@@ -1375,8 +1380,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-26T03:03:45.7720492+00:00",
+  "LastChanged_Achievements": "2023-11-26T04:03:43.5841613+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:59:56.5581155+00:00",
-  "LastUpdate_Achievements": "2023-11-26T03:03:45.7720762+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:00:03.561619+00:00",
+  "LastUpdate_Achievements": "2023-11-26T04:03:43.5841964+00:00"
 }

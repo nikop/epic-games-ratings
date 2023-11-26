@@ -1,22 +1,22 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 843)  
+Rating: 4.29 (Ranked 844)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,393 |
-| Powergamer | 27.00% | ~68,331 |
+| I will finish what you started | 29.00% | ~73,394 |
+| Powergamer | 27.00% | ~68,332 |
 | Write that down | 25.00% | ~63,270 |
 | Barely scratched the surface | 25.00% | ~63,270 |
-| Guns, lots of guns | 13.00% | ~32,900 |
-| Collector | 12.00% | ~30,369 |
+| Guns, lots of guns | 13.00% | ~32,901 |
+| Collector | 12.00% | ~30,370 |
 | Elementary! | 9.00% | ~22,777 |
-| Griever | 8.00% | ~20,246 |
-| Pumpkin Jack | 8.00% | ~20,246 |
-| Wake up! | 8.00% | ~20,246 |
-| It's honest work | 7.00% | ~17,715 |
+| Griever | 8.00% | ~20,247 |
+| Pumpkin Jack | 8.00% | ~20,247 |
+| Wake up! | 8.00% | ~20,247 |
+| It's honest work | 7.00% | ~17,716 |
 | Me smart | 6.00% | ~15,185 |
 | Trash compactor | 6.00% | ~15,185 |
 | Good listener | 5.00% | ~12,654 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~506 |
 | Memory 5 | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,078 (Ranked 59)  
+Progressed: 253,082 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-23 | 252,894 | 7 |
 | 2023-11-24 | 252,966 | 7 |
 | 2023-11-25 | 253,068 | 7 |
-| 2023-11-26 | 253,078 | 7 |
+| 2023-11-26 | 253,082 | 7 |
 ## Awards
 Max (Character Customization): 91  (Ranked 378)  
 Sum: 91 (Ranked 453)  

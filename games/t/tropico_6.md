@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,597 |
-| Un-Lonely Island | 46.00% | ~2,819 |
-| The Beginning of a Servantship | 45.00% | ~2,758 |
+| Just One...More...Term... | 75.00% | ~4,598 |
+| Un-Lonely Island | 46.00% | ~2,820 |
+| The Beginning of a Servantship | 45.00% | ~2,759 |
 | Trade Is My Trait | 37.00% | ~2,268 |
-| Number 18 | 23.00% | ~1,410 |
+| Number 18 | 24.00% | ~1,471 |
 | We Don't Have Time For That | 19.00% | ~1,165 |
 | The Governator | 17.00% | ~1,042 |
 | The Legend of Langostino | 16.00% | ~981 |
-| Caribbean Comrade | 15.00% | ~919 |
-| The Dreamer of Dreams | 15.00% | ~919 |
+| Caribbean Comrade | 15.00% | ~920 |
+| The Dreamer of Dreams | 15.00% | ~920 |
 | Go Sovereigns! | 11.00% | ~674 |
 | For Science! | 11.00% | ~674 |
 | Happy Ending? | 10.00% | ~613 |
@@ -28,10 +28,10 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 7.00% | ~429 |
 | Don't Panic! | 6.00% | ~368 |
 | Beware The Betman | 6.00% | ~368 |
-| Viva Tropico! | 5.00% | ~306 |
-| Computer Says "No" | 5.00% | ~306 |
-| Watch The World Burn | 5.00% | ~306 |
-| Fairy Tale Come True | 5.00% | ~306 |
+| Viva Tropico! | 5.00% | ~307 |
+| Computer Says "No" | 5.00% | ~307 |
+| Watch The World Burn | 5.00% | ~307 |
+| Fairy Tale Come True | 5.00% | ~307 |
 | Been there, Done That | 3.00% | ~184 |
 | Apocalypso | 3.00% | ~184 |
 | Narcissist | 3.00% | ~184 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~49 |
 | My Ways | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,129 (Ranked 185)  
+Progressed: 6,131 (Ranked 185)  
 Completed: 2 (0.03%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 2 (0.03%) (Ranked 324)
 | 2023-11-23 | 6,102 | 2 |
 | 2023-11-24 | 6,109 | 2 |
 | 2023-11-25 | 6,126 | 2 |
-| 2023-11-26 | 6,129 | 2 |
+| 2023-11-26 | 6,131 | 2 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 356)  
 Sum: 730 (Ranked 291)  

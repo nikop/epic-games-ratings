@@ -5,28 +5,28 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Regicide | 0.60% | ~44 |
-| Master of the Dark Arts | 0.60% | ~44 |
-| The Killing Jar | 0.40% | ~913 |
+| Regicide | 0.60% | ~45 |
+| Master of the Dark Arts | 0.60% | ~45 |
+| The Killing Jar | 0.50% | ~1,141 |
 | First of Many | 0.40% | ~913 |
 | Not Your Average Trait | 0.30% | ~685 |
-| Expanding Horizons | 0.20% | ~456 |
-| Am I Seeing This? | 0.20% | ~456 |
-| Ghost in the Machine | 0.20% | ~456 |
-| Gleaming the Cube | 0.20% | ~456 |
-| Not So Special Now | 0.20% | ~456 |
-| Quest for Survival | 0.20% | ~456 |
-| Not a Janitor | 0.20% | ~456 |
-| Familiar Face | 0.20% | ~456 |
-| Equal Measures | 0.20% | ~456 |
-| Blue Goddess | 0.20% | ~456 |
-| Duality | 0.20% | ~456 |
-| Was This Supposed To Happen? | 0.20% | ~456 |
-| Boss'n Up | 0.20% | ~456 |
-| Almost There | 0.20% | ~456 |
-| Make Some Room | 0.20% | ~456 |
-| Good, But Could Be Better! | 0.20% | ~456 |
-| Trait Chaser | 0.20% | ~456 |
+| Expanding Horizons | 0.20% | ~457 |
+| Am I Seeing This? | 0.20% | ~457 |
+| Ghost in the Machine | 0.20% | ~457 |
+| Gleaming the Cube | 0.20% | ~457 |
+| Not So Special Now | 0.20% | ~457 |
+| Quest for Survival | 0.20% | ~457 |
+| Not a Janitor | 0.20% | ~457 |
+| Familiar Face | 0.20% | ~457 |
+| Equal Measures | 0.20% | ~457 |
+| Blue Goddess | 0.20% | ~457 |
+| Duality | 0.20% | ~457 |
+| Was This Supposed To Happen? | 0.20% | ~457 |
+| Boss'n Up | 0.20% | ~457 |
+| Almost There | 0.20% | ~457 |
+| Make Some Room | 0.20% | ~457 |
+| Good, But Could Be Better! | 0.20% | ~457 |
+| Trait Chaser | 0.20% | ~457 |
 | Crafty | 0.10% | ~228 |
 | Only Human | 0.10% | ~228 |
 | Chaos | 0.10% | ~228 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,241 (Ranked 68)  
+Progressed: 228,270 (Ranked 68)  
 Completed: 528 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 528 (0.23%) (Ranked 248)
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
-| 2023-11-26 | 228,241 | 528 |
+| 2023-11-26 | 228,270 | 528 |
 ## Awards
 Max (Great Boss Battles): 2,436  (Ranked 105)  
 Sum: 5,922 (Ranked 129)  
