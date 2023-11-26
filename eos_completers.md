@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.38% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.34% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.32% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
@@ -24,8 +24,8 @@
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
 | 24 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
-| 25 | [Island Cities](games/i/island_cities.md) | 17.15% |
-| 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 16.98% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.19% |
+| 26 | [Island Cities](games/i/island_cities.md) | 17.15% |
 | 27 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
 | 28 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.00% |
 | 29 | [Remains](games/r/remains.md) | 14.55% |
@@ -40,7 +40,7 @@
 | 38 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 39 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.68% |
 | 40 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
-| 41 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.94% |
+| 41 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.88% |
 | 42 | [Smelter](games/s/smelter.md) | 9.76% |
 | 43 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 44 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.09% |
@@ -71,9 +71,9 @@
 | 69 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 69 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 71 | [JARS](games/j/jars.md) | 5.05% |
-| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.02% |
+| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.01% |
 | 73 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 5.00% |
-| 74 | [Bugsnax](games/b/bugsnax.md) | 4.83% |
+| 74 | [Bugsnax](games/b/bugsnax.md) | 4.82% |
 | 75 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 75 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 77 | [ZZT!](games/z/zzt!.md) | 4.62% |
@@ -84,17 +84,17 @@
 | 82 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 83 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.31% |
 | 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.27% |
-| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.25% |
+| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.24% |
 | 86 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
 | 87 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 88 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 88 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 3.85% |
-| 90 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.70% |
 | 90 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.70% |
+| 91 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.66% |
 | 92 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.41% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 94 | [Bunny Park](games/b/bunny_park.md) | 3.32% |
-| 94 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.32% |
+| 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.31% |
 | 96 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.17% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.14% |
 | 98 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
@@ -170,8 +170,8 @@
 | 168 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 169 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.92% |
 | 170 | [Hades](games/h/hades.md) | 0.91% |
-| 171 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.89% |
-| 172 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
+| 171 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.88% |
+| 171 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
 | 173 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
 | 173 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 175 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.86% |
@@ -230,10 +230,10 @@
 | 227 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 229 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
 | 230 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
-| 230 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.33% |
 | 230 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.33% |
-| 233 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
-| 233 | [Them and Us](games/t/them_and_us.md) | 0.32% |
+| 232 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
+| 232 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.32% |
+| 232 | [Them and Us](games/t/them_and_us.md) | 0.32% |
 | 235 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 236 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 236 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.30% |
