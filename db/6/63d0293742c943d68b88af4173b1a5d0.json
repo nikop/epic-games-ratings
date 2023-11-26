@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-11-26T18:03:32.9361694+00:00",
       "NumProgressed": 282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T19:03:45.1026397+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -869,7 +874,7 @@
       "Name": "Iced Iced Baby",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "5",
@@ -901,7 +906,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "9",
@@ -925,7 +930,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 216
     },
     {
       "ID": "REMAKE_004",
@@ -933,7 +938,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Remake_005",
@@ -957,7 +962,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Remake_008",
@@ -989,7 +994,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Remake_12",
@@ -1021,7 +1026,7 @@
       "Name": "Ready for the Big Leagues",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Remake_16",
@@ -1045,7 +1050,7 @@
       "Name": "Disobedient",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Remake_19",
@@ -1061,7 +1066,7 @@
       "Name": "Dug Straight Down",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Remake_21",
@@ -1084,14 +1089,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:03:32.9361691+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:03:45.1026394+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:57:25.8888783+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:03:32.9361894+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:57:39.4788233+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:03:45.102662+00:00"
 }

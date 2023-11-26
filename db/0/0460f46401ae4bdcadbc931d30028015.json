@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -741,7 +741,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3896,
+  "EOS_Progressed": 3897,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
@@ -6051,6 +6051,11 @@
       "Time": "2023-11-26T18:05:20.3720336+00:00",
       "NumProgressed": 3896,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T19:05:39.4738994+00:00",
+      "NumProgressed": 3897,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6093,9 +6098,9 @@
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1286
     },
     {
       "ID": "achievement_14",
@@ -6223,14 +6228,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3896,
+      "Progressed": 3897,
       "Completed": 0
     }
   ],
@@ -6238,8 +6243,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-25T18:58:11.6797848+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:05:20.3720331+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:05:39.4738991+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:58:58.6910625+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:05:20.3720734+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:59:17.8724492+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:05:39.4739365+00:00"
 }

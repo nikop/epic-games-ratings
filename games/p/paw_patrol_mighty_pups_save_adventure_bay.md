@@ -18,9 +18,9 @@
 | Break Time | 33.00% | ~13 |
 | Master of the Rope | 31.00% | ~12 |
 | Training Day | 31.00% | ~12 |
+| Never Miss | 31.00% | ~12 |
 | The Fastest | 28.00% | ~11 |
 | In the Air | 28.00% | ~11 |
-| Never Miss | 28.00% | ~11 |
 | Animal Sighting | 26.00% | ~10 |
 | Don’t Miss Any | 26.00% | ~10 |
 | Adventure Bay’s Citizen | 23.00% | ~9 |

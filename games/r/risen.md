@@ -5,17 +5,17 @@ Rating: 4.57 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~47 |
-| Map reader | 76.00% | ~39 |
-| Philanthropist | 71.00% | ~36 |
-| Adventurer | 69.00% | ~35 |
-| The brave little tailor | 51.00% | ~26 |
-| Archer | 51.00% | ~26 |
-| Field hand | 49.00% | ~25 |
-| Samaritan | 49.00% | ~25 |
-| The merciful one | 43.00% | ~22 |
-| Well-to-do | 43.00% | ~22 |
-| Ladies' man | 41.00% | ~21 |
+| Beginner | 90.00% | ~47 |
+| Map reader | 75.00% | ~39 |
+| Philanthropist | 69.00% | ~36 |
+| Adventurer | 67.00% | ~35 |
+| The brave little tailor | 50.00% | ~26 |
+| Archer | 50.00% | ~26 |
+| Field hand | 48.00% | ~25 |
+| Samaritan | 48.00% | ~25 |
+| The merciful one | 42.00% | ~22 |
+| Well-to-do | 42.00% | ~22 |
+| Ladies' man | 40.00% | ~21 |
 | Ferocious wild boars | 31.00% | ~16 |
 | Wise man | 27.00% | ~14 |
 | Beast slayer | 27.00% | ~14 |
@@ -23,21 +23,21 @@ Rating: 4.57 (Ranked 475)
 | Family man | 25.00% | ~13 |
 | Ogre friend | 25.00% | ~13 |
 | The fourth triplet | 25.00% | ~13 |
-| Hard worker | 24.00% | ~12 |
-| Master detective | 24.00% | ~12 |
-| Death of a legend | 22.00% | ~11 |
-| Archaeologist | 22.00% | ~11 |
-| Little hero | 22.00% | ~11 |
-| Pandora's box | 22.00% | ~11 |
-| Peacekeeper | 22.00% | ~11 |
-| Defender | 20.00% | ~10 |
-| Sidelined | 20.00% | ~10 |
-| Ghost hunter | 18.00% | ~9 |
-| Workaholic | 18.00% | ~9 |
-| Fence | 18.00% | ~9 |
-| Showdown | 16.00% | ~8 |
-| Master thief | 16.00% | ~8 |
-| Safecracker | 14.00% | ~7 |
+| Death of a legend | 23.00% | ~12 |
+| Hard worker | 23.00% | ~12 |
+| Master detective | 23.00% | ~12 |
+| Archaeologist | 21.00% | ~11 |
+| Little hero | 21.00% | ~11 |
+| Pandora's box | 21.00% | ~11 |
+| Peacekeeper | 21.00% | ~11 |
+| Defender | 19.00% | ~10 |
+| Sidelined | 19.00% | ~10 |
+| Ghost hunter | 17.00% | ~9 |
+| Workaholic | 17.00% | ~9 |
+| Fence | 17.00% | ~9 |
+| Showdown | 15.00% | ~8 |
+| Master thief | 15.00% | ~8 |
+| Safecracker | 13.00% | ~7 |
 | Freedom fighter | 12.00% | ~6 |
 | Moneybags | 12.00% | ~6 |
 | Titan Lord | 10.00% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 475)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51 (Ranked 496)  
+Progressed: 52 (Ranked 493)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 48 | 0 |
 | 2023-11-23 | 49 | 0 |
 | 2023-11-24 | 50 | 0 |
-| 2023-11-26 | 51 | 0 |
+| 2023-11-26 | 52 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

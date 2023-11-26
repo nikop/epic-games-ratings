@@ -29,7 +29,7 @@ Rating: 4.49 (Ranked 608)
 | Deep Into Insanity | 30.00% | ~1,111 |
 | The Passenger | 29.00% | ~1,074 |
 | Come on, You Wanna Live Forever? | 28.00% | ~1,037 |
-| The Spire | 26.00% | ~963 |
+| The Spire | 27.00% | ~1,000 |
 | El Riesgo Siempre Vive | 25.00% | ~926 |
 | Stuff Of Nightmares | 23.00% | ~852 |
 | Excavating The Truth | 23.00% | ~852 |
@@ -209,8 +209,8 @@ Completed: 3 (0.08%) (Ranked 295)
 | 2023-11-26 | 3,704 | 3 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 470)  
-Sum: 36 (Ranked 503)  
-Diff (max vs sum): -33  
+Sum: 36 (Ranked 504)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

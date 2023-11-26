@@ -5,75 +5,75 @@ Rating: 4.78 (Ranked 106)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hunting Season | 95.00% | ~214,264 |
-| Nightmare Territory | 93.00% | ~209,753 |
-| Not the Last | 84.00% | ~189,454 |
-| Somebody's Home | 78.00% | ~175,922 |
-| Coffee Thermos | 73.00% | ~164,645 |
-| Secret Stashes | 73.00% | ~164,645 |
-| Grew Bigger | 71.00% | ~160,134 |
-| Chased the Source | 71.00% | ~160,134 |
-| Darkness Coiled | 71.00% | ~160,134 |
-| Felt Good | 70.00% | ~157,879 |
-| Lawman | 68.00% | ~153,368 |
-| Into the Overlap | 68.00% | ~153,368 |
-| Bring It | 66.00% | ~148,857 |
-| Talk Show | 62.00% | ~139,835 |
-| Find the Light | 60.00% | ~135,325 |
-| Aimed Ahead | 60.00% | ~135,325 |
-| Carry his Words | 58.00% | ~130,814 |
-| Storm Cloud | 51.00% | ~115,026 |
-| New York City | 51.00% | ~115,026 |
-| The Other Side | 51.00% | ~115,026 |
-| Return | 50.00% | ~112,770 |
-| Growing Stronger | 46.00% | ~103,749 |
-| Shining in the Night | 46.00% | ~103,749 |
-| Filling the Shape | 44.00% | ~99,238 |
-| This is the Moment | 43.00% | ~96,983 |
-| Finding a Way | 43.00% | ~96,983 |
-| Greatest Hits | 42.00% | ~94,727 |
-| Stop the Monster | 42.00% | ~94,727 |
-| Lights Shining | 41.00% | ~92,472 |
-| Bright Falls' Finest | 40.00% | ~90,216 |
-| Back in Watery | 40.00% | ~90,216 |
-| All His Life | 40.00% | ~90,216 |
-| Yippee Ki-yay | 39.00% | ~87,961 |
-| Escape its Gravity | 38.00% | ~85,706 |
-| We Watch in the Night | 37.00% | ~83,450 |
-| In One Go | 35.00% | ~78,939 |
-| In a Fancy Hotel | 34.00% | ~76,684 |
-| Girl in Love | 31.00% | ~69,918 |
-| The Old Gods | 31.00% | ~69,918 |
-| Told and Retold | 31.00% | ~69,918 |
-| Cut Short | 31.00% | ~69,918 |
-| Stunning Vistas | 30.00% | ~67,662 |
-| Behind the Masks | 30.00% | ~67,662 |
-| Strange Reality | 29.00% | ~65,407 |
-| Seeing Double | 28.00% | ~63,151 |
-| The Cult of the Word | 27.00% | ~60,896 |
-| Stop Right There | 26.00% | ~58,641 |
-| Ready for a Fight | 25.00% | ~56,385 |
-| His Way Out | 25.00% | ~56,385 |
-| Filled with Rage | 24.00% | ~54,130 |
-| The Story Come True | 24.00% | ~54,130 |
-| Rock n' Roll, Baby | 24.00% | ~54,130 |
-| The Final Deerfest | 24.00% | ~54,130 |
-| End of the Road | 24.00% | ~54,130 |
-| Gone for Good | 23.00% | ~51,874 |
-| All Accounted For | 19.00% | ~42,853 |
-| The Trail of the Writer | 17.00% | ~38,342 |
-| Back to Life | 17.00% | ~38,342 |
-| The Koskela Brothers | 15.00% | ~33,831 |
-| All Smiles | 11.00% | ~24,810 |
-| The Nice Things in Life | 9.00% | ~20,299 |
-| I'll Find You | 7.00% | ~15,788 |
-| Shift in Reality | 7.00% | ~15,788 |
-| Coffee-Themed Fun | 7.00% | ~15,788 |
-| Hidden by the Trees | 6.00% | ~13,532 |
-| Rustic Charm | 6.00% | ~13,532 |
+| Hunting Season | 95.00% | ~214,482 |
+| Nightmare Territory | 93.00% | ~209,967 |
+| Not the Last | 84.00% | ~189,648 |
+| Somebody's Home | 78.00% | ~176,101 |
+| Coffee Thermos | 73.00% | ~164,813 |
+| Secret Stashes | 73.00% | ~164,813 |
+| Grew Bigger | 71.00% | ~160,297 |
+| Chased the Source | 71.00% | ~160,297 |
+| Darkness Coiled | 71.00% | ~160,297 |
+| Felt Good | 70.00% | ~158,040 |
+| Lawman | 68.00% | ~153,524 |
+| Into the Overlap | 68.00% | ~153,524 |
+| Bring It | 66.00% | ~149,009 |
+| Talk Show | 62.00% | ~139,978 |
+| Find the Light | 60.00% | ~135,463 |
+| Aimed Ahead | 60.00% | ~135,463 |
+| Carry his Words | 58.00% | ~130,947 |
+| Storm Cloud | 51.00% | ~115,143 |
+| New York City | 51.00% | ~115,143 |
+| The Other Side | 51.00% | ~115,143 |
+| Return | 50.00% | ~112,886 |
+| Growing Stronger | 46.00% | ~103,855 |
+| Shining in the Night | 46.00% | ~103,855 |
+| Filling the Shape | 44.00% | ~99,339 |
+| This is the Moment | 43.00% | ~97,082 |
+| Finding a Way | 43.00% | ~97,082 |
+| Greatest Hits | 42.00% | ~94,824 |
+| Stop the Monster | 42.00% | ~94,824 |
+| Lights Shining | 41.00% | ~92,566 |
+| Bright Falls' Finest | 40.00% | ~90,308 |
+| Back in Watery | 40.00% | ~90,308 |
+| All His Life | 40.00% | ~90,308 |
+| Yippee Ki-yay | 39.00% | ~88,051 |
+| Escape its Gravity | 38.00% | ~85,793 |
+| We Watch in the Night | 37.00% | ~83,535 |
+| In One Go | 35.00% | ~79,020 |
+| In a Fancy Hotel | 34.00% | ~76,762 |
+| Girl in Love | 31.00% | ~69,989 |
+| The Old Gods | 31.00% | ~69,989 |
+| Told and Retold | 31.00% | ~69,989 |
+| Cut Short | 31.00% | ~69,989 |
+| Stunning Vistas | 30.00% | ~67,731 |
+| Behind the Masks | 30.00% | ~67,731 |
+| Strange Reality | 29.00% | ~65,474 |
+| Seeing Double | 28.00% | ~63,216 |
+| The Cult of the Word | 27.00% | ~60,958 |
+| Stop Right There | 26.00% | ~58,700 |
+| Ready for a Fight | 25.00% | ~56,443 |
+| His Way Out | 25.00% | ~56,443 |
+| Filled with Rage | 24.00% | ~54,185 |
+| The Story Come True | 24.00% | ~54,185 |
+| Rock n' Roll, Baby | 24.00% | ~54,185 |
+| The Final Deerfest | 24.00% | ~54,185 |
+| End of the Road | 24.00% | ~54,185 |
+| Gone for Good | 23.00% | ~51,927 |
+| All Accounted For | 19.00% | ~42,896 |
+| The Trail of the Writer | 17.00% | ~38,381 |
+| Back to Life | 17.00% | ~38,381 |
+| The Koskela Brothers | 15.00% | ~33,866 |
+| All Smiles | 11.00% | ~24,835 |
+| The Nice Things in Life | 9.00% | ~20,319 |
+| I'll Find You | 7.00% | ~15,804 |
+| Shift in Reality | 7.00% | ~15,804 |
+| Coffee-Themed Fun | 7.00% | ~15,804 |
+| Hidden by the Trees | 6.00% | ~13,546 |
+| Rustic Charm | 6.00% | ~13,546 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,541 (Ranked 70)  
-Completed: 2,834 (1.26%) (Ranked 151)  
+Progressed: 225,771 (Ranked 70)  
+Completed: 2,839 (1.26%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,18 +116,18 @@ Completed: 2,834 (1.26%) (Ranked 151)
 | 2023-11-23 | 212,804 | 2,643 |
 | 2023-11-24 | 217,337 | 2,690 |
 | 2023-11-25 | 222,341 | 2,775 |
-| 2023-11-26 | 225,541 | 2,834 |
+| 2023-11-26 | 225,771 | 2,839 |
 ## Awards
 Max (Quickly Understood Controls): 352  (Ranked 240)  
-Sum: 2,101 (Ranked 211)  
-Diff (max vs sum): 29  
+Sum: 2,108 (Ranked 209)  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 352 |
 | This game has Diverse Characters | 343 |
 | This game has Amazing Storytelling | 327 |
+| This game is Extremely Fun | 312 |
 | This game is Highly Recommended | 311 |
-| This game is Extremely Fun | 305 |
 | This game has Amazing Characters | 290 |
 | This game has a Creative Community | 173 |
 | This game is Educational | 34 |
@@ -166,4 +166,4 @@ Diff (max vs sum): 29
 | 2023-11-23 | 4.78 | 332 | 1,997 |
 | 2023-11-24 | 4.78 | 339 | 2,039 |
 | 2023-11-25 | 4.78 | 343 | 2,079 |
-| 2023-11-26 | 4.78 | 352 | 2,101 |
+| 2023-11-26 | 4.78 | 352 | 2,108 |

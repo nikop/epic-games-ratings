@@ -10,8 +10,8 @@ Rating: 4.26 (Ranked 870)
 | Manipulating Fate | 10.00% | ~118 |
 | Full house | 7.00% | ~82 |
 | Hear me out | 7.00% | ~82 |
-| Burn and Pillage | 6.00% | ~70 |
-| Listening to the crowd | 6.00% | ~70 |
+| Burn and Pillage | 6.00% | ~71 |
+| Listening to the crowd | 6.00% | ~71 |
 | Ascended | 5.00% | ~59 |
 | The Penitent Ones | 5.00% | ~59 |
 | Greedy | 5.00% | ~59 |
@@ -39,7 +39,7 @@ Rating: 4.26 (Ranked 870)
 | The Incarnate | 0.30% | ~4 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
-| Aesthetics | 0.10% | ~1 |
+| Aesthetics | 0.20% | ~2 |
 | The experiment | 0.10% | ~1 |
 | The Corrupted | 0.10% | ~1 |
 | The Foul | 0.10% | ~1 |
@@ -51,7 +51,7 @@ Rating: 4.26 (Ranked 870)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,175 (Ranked 252)  
+Progressed: 1,176 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-21 | 1,172 | 0 |
 | 2023-11-22 | 1,173 | 0 |
 | 2023-11-25 | 1,174 | 0 |
-| 2023-11-26 | 1,175 | 0 |
+| 2023-11-26 | 1,176 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

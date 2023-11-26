@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24570,
+  "EOS_Progressed": 24572,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6973,6 +6973,11 @@
       "Time": "2023-11-26T17:04:21.6885058+00:00",
       "NumProgressed": 24570,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-26T19:05:25.029782+00:00",
+      "NumProgressed": 24572,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7158,9 +7163,9 @@
       "ID": "ACH_KILL_SKRENDELS",
       "SetID": "cdkbb11",
       "Name": "Who\u0027s The Boss?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 491
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -7335,13 +7340,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24570,
+      "Progressed": 24572,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1863,
+      "Progressed": 1865,
       "Completed": 1376
     }
   ],
@@ -7349,8 +7354,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:05:06.7340391+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:05:25.0297818+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.9623441+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:02:57.2004543+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:05:06.7340887+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:02:56.0292221+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:05:25.0298278+00:00"
 }

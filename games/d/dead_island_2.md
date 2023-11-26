@@ -5,34 +5,34 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,541 |
-| Break A Leg | 2.00% | ~14,516 |
-| Hotel California | 2.00% | ~14,516 |
-| Welcome To Hell-A | 2.00% | ~14,516 |
-| One of Us | 2.00% | ~1,027 |
-| Pork Chopped | 2.00% | ~1,027 |
-| Dr. Reed, I Presume? | 1.00% | ~7,258 |
-| Git Gutte! | 1.00% | ~7,258 |
-| Anger Management | 1.00% | ~7,258 |
-| Bookworm | 1.00% | ~7,258 |
-| But Doctor, I am Butcho | 1.00% | ~7,258 |
-| Slayer Squad | 1.00% | ~7,258 |
-| Can't Handle the Truth | 1.00% | ~7,258 |
-| Coup de Grâce | 1.00% | ~7,258 |
-| Like Riding a Bike | 1.00% | ~7,258 |
-| Hazardous Materials | 1.00% | ~7,258 |
-| Friends Like These | 1.00% | ~7,258 |
-| Apex Predator | 1.00% | ~7,258 |
-| Zombologist | 1.00% | ~7,258 |
-| A Patton Emerges | 1.00% | ~7,258 |
-| Stacking the Deck | 1.00% | ~7,258 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,258 |
-| Our True Nature | 1.00% | ~7,258 |
-| This is My Weapon | 1.00% | ~7,258 |
-| Perks of the Job | 0.90% | ~6,532 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,532 |
-| Ooh, Shiny! | 0.90% | ~6,532 |
-| I Am the Resurrection | 0.90% | ~6,532 |
+| Whatever It Takes | 3.00% | ~1,542 |
+| Break A Leg | 2.00% | ~14,517 |
+| Hotel California | 2.00% | ~14,517 |
+| Welcome To Hell-A | 2.00% | ~14,517 |
+| One of Us | 2.00% | ~1,028 |
+| Pork Chopped | 2.00% | ~1,028 |
+| Dr. Reed, I Presume? | 1.00% | ~7,259 |
+| Git Gutte! | 1.00% | ~7,259 |
+| Anger Management | 1.00% | ~7,259 |
+| Bookworm | 1.00% | ~7,259 |
+| But Doctor, I am Butcho | 1.00% | ~7,259 |
+| Slayer Squad | 1.00% | ~7,259 |
+| Can't Handle the Truth | 1.00% | ~7,259 |
+| Coup de Grâce | 1.00% | ~7,259 |
+| Like Riding a Bike | 1.00% | ~7,259 |
+| Hazardous Materials | 1.00% | ~7,259 |
+| Friends Like These | 1.00% | ~7,259 |
+| Apex Predator | 1.00% | ~7,259 |
+| Zombologist | 1.00% | ~7,259 |
+| A Patton Emerges | 1.00% | ~7,259 |
+| Stacking the Deck | 1.00% | ~7,259 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,259 |
+| Our True Nature | 1.00% | ~7,259 |
+| This is My Weapon | 1.00% | ~7,259 |
+| Perks of the Job | 0.90% | ~6,533 |
+| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,533 |
+| Ooh, Shiny! | 0.90% | ~6,533 |
+| I Am the Resurrection | 0.90% | ~6,533 |
 | Making Your Mark | 0.80% | ~5,807 |
 | Max Headroom | 0.80% | ~5,807 |
 | Humanity Distilled | 0.70% | ~5,081 |
@@ -42,14 +42,14 @@ Rating: 4.54 (Ranked 527)
 | Go, Bobcats! | 0.60% | ~4,355 |
 | Rising Star | 0.60% | ~4,355 |
 | On Safari | 0.50% | ~3,629 |
+| Smorgasbord | 0.50% | ~3,629 |
 | Internet Famous | 0.50% | ~3,629 |
 | Variety is the Spice of Death | 0.50% | ~3,629 |
 | Make it So | 0.40% | ~2,903 |
-| Smorgasbord | 0.40% | ~2,903 |
-| LA Influential | 0.30% | ~2,177 |
-| Sole Survivor | 0.30% | ~2,177 |
-| Gore Horse | 0.30% | ~2,177 |
-| Sharpest Tool in the Box | 0.30% | ~2,177 |
+| LA Influential | 0.30% | ~2,178 |
+| Sole Survivor | 0.30% | ~2,178 |
+| Gore Horse | 0.30% | ~2,178 |
+| Sharpest Tool in the Box | 0.30% | ~2,178 |
 | Top That, Tisha! | 0.30% | ~154 |
 | Survival Skills | 0.20% | ~1,452 |
 | Lawn and Order | 0.20% | ~103 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,820 (Ranked 21)  
+Progressed: 725,867 (Ranked 21)  
 Completed: 2,439 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 2,439 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
-| 2023-11-26 | 725,820 | 2,439 |
+| 2023-11-26 | 725,867 | 2,439 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
 Sum: 11,835 (Ranked 83)  

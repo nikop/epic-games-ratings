@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4363,
+  "EOS_Progressed": 4364,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7750,6 +7750,11 @@
       "Time": "2023-11-26T18:04:15.7582715+00:00",
       "NumProgressed": 4363,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-26T19:04:31.167307+00:00",
+      "NumProgressed": 4364,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7761,7 +7766,7 @@
       "Name": "Start with a bang!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "Ach002",
@@ -7769,7 +7774,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "Ach003",
@@ -7937,7 +7942,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "Ach024",
@@ -8263,9 +8268,9 @@
       "ID": "Ach064",
       "SetID": "b7dbjo0",
       "Name": "Choose your own adventure",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach065",
@@ -8328,13 +8333,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4363,
+      "Progressed": 4364,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2884,
+      "Progressed": 2885,
       "Completed": 1930
     }
   ],
@@ -8342,8 +8347,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:04:15.7582712+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:04:31.1673068+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:00:41.7099231+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:04:15.7583504+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:01:07.6238195+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:04:31.1673812+00:00"
 }

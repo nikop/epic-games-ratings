@@ -10,31 +10,31 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 6.00% | ~9,615 |
 | The Hunt | 4.00% | ~6,410 |
 | Ravenous | 4.00% | ~6,410 |
-| Weeper | 3.00% | ~4,807 |
+| Weeper | 3.00% | ~4,808 |
 | Harmless | 2.00% | ~3,205 |
 | Silenced Whispers | 2.00% | ~3,205 |
 | Devourer | 2.00% | ~3,205 |
 | Yank | 2.00% | ~3,205 |
 | Sharpened Vessel | 2.00% | ~3,205 |
-| Shapely | 1.00% | ~1,602 |
+| Shapely | 1.00% | ~1,603 |
 | Scion | 1.00% | ~1,598 |
 | Glare | 1.00% | ~1,598 |
-| Jawcrab | 1.00% | ~1,602 |
-| Jawstag | 1.00% | ~1,602 |
-| Feast | 1.00% | ~1,602 |
-| Watcher | 1.00% | ~1,602 |
-| Predator | 1.00% | ~1,602 |
+| Jawcrab | 1.00% | ~1,603 |
+| Jawstag | 1.00% | ~1,603 |
+| Feast | 1.00% | ~1,603 |
+| Watcher | 1.00% | ~1,603 |
+| Predator | 1.00% | ~1,603 |
 | Assimilation | 0.90% | ~1,442 |
-| Host | 0.90% | ~1,438 |
+| Host | 0.90% | ~1,439 |
 | Celebration | 0.90% | ~1,442 |
 | Hunt Down | 0.80% | ~1,282 |
 | Artisan | 0.70% | ~1,122 |
 | Inevitable | 0.70% | ~1,122 |
 | All-Seeing | 0.70% | ~1,122 |
 | Dream | 0.70% | ~1,119 |
-| Breath | 0.60% | ~961 |
-| Hush | 0.60% | ~961 |
-| Breathsmith | 0.60% | ~961 |
+| Breath | 0.60% | ~962 |
+| Hush | 0.60% | ~962 |
+| Breathsmith | 0.60% | ~962 |
 | Unwrap the Gift | 0.50% | ~801 |
 | Passage | 0.50% | ~801 |
 | Bloodhunter | 0.40% | ~641 |
@@ -42,9 +42,9 @@ Number of Ratings: 46  (23.09.2022)
 | Kinship | 0.40% | ~641 |
 | Listen | 0.40% | ~639 |
 | Proportions | 0.40% | ~641 |
-| Kin | 0.30% | ~479 |
-| Weakness | 0.20% | ~320 |
-| Generous | 0.20% | ~320 |
+| Kin | 0.30% | ~480 |
+| Weakness | 0.20% | ~321 |
+| Generous | 0.20% | ~321 |
 | Enrich | 0.20% | ~320 |
 | Intensify | 0.20% | ~320 |
 | Spiral Heart | 0.10% | ~160 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~160 |
 | Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,247 (Ranked 78)  
+Progressed: 160,256 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-23 | 159,730 | 1 |
 | 2023-11-24 | 159,888 | 1 |
 | 2023-11-25 | 160,117 | 1 |
-| 2023-11-26 | 160,247 | 1 |
+| 2023-11-26 | 160,256 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 423)  
 Sum: 387 (Ranked 345)  

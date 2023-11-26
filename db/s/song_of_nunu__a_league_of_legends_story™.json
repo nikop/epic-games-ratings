@@ -2015,9 +2015,9 @@
       "ID": "EV_ACH07",
       "SetID": "6jeac23",
       "Name": "3000 Year Blackout",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 417
     },
     {
       "ID": "EV_ACH08",
@@ -2151,9 +2151,9 @@
       "ID": "EV_ACH24",
       "SetID": "6jeac23",
       "Name": "Never Gets Old",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 297
     },
     {
       "ID": "EV_ACH25",
@@ -2167,9 +2167,9 @@
       "ID": "EV_ACH26",
       "SetID": "6jeac23",
       "Name": "Moneyball",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 575
     },
     {
       "ID": "EV_ACH27",
@@ -2326,8 +2326,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:10:09.4322778+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:10:14.2739175+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:58:37.9843461+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:10:09.4323089+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:58:54.9504499+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:10:14.2739497+00:00"
 }

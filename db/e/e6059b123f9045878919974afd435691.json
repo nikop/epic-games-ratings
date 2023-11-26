@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1053,
+  "EOS_Progressed": 1054,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2714,6 +2714,11 @@
       "Time": "2023-11-26T14:10:01.4402082+00:00",
       "NumProgressed": 1053,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T19:10:06.5281822+00:00",
+      "NumProgressed": 1054,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2733,7 +2738,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2763,9 +2768,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 432
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2773,7 +2778,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2797,7 +2802,7 @@
       "Name": "Capraphobia",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2853,7 +2858,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2925,7 +2930,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2965,7 +2970,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3005,7 +3010,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3021,7 +3026,7 @@
       "Name": "Decakill!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3045,7 +3050,7 @@
       "Name": "And There We Go",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3149,7 +3154,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -3173,7 +3178,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3252,14 +3257,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1053,
+      "Progressed": 1054,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:10:02.2030546+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:10:06.5281818+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:53.7695274+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:58:53.1606788+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:10:02.2031486+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:59:11.5562316+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:10:06.5282428+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -950,6 +950,11 @@
       "Time": "2023-11-26T18:09:03.3241369+00:00",
       "NumProgressed": 363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T19:09:03.5535588+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -962,7 +967,7 @@
       "Name": "The Teleprobe",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "AchvAllMemories",
@@ -970,7 +975,7 @@
       "Name": "I remember everything!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AchvAssertive",
@@ -1002,7 +1007,7 @@
       "Name": "Violent solution",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AchvConvoyList",
@@ -1026,7 +1031,7 @@
       "Name": "The Alliance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AchvDoom",
@@ -1042,7 +1047,7 @@
       "Name": "Evacuation",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "AchvInvShip",
@@ -1050,7 +1055,7 @@
       "Name": "Another giant",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AchvKrautaAlive",
@@ -1058,7 +1063,7 @@
       "Name": "Krauta is alive",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "AchvLava",
@@ -1090,7 +1095,7 @@
       "Name": "The Necroevolution",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "AchvNest",
@@ -1104,7 +1109,7 @@
       "ID": "AchvNoHoles",
       "SetID": "1hj060c",
       "Name": "No more mistakes",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1138,7 +1143,7 @@
       "Name": "The Camp",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "AchvReachCity",
@@ -1146,7 +1151,7 @@
       "Name": "The City",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "AchvReachCondor",
@@ -1154,7 +1159,7 @@
       "Name": "The Condor",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AchvSurvivors",
@@ -1162,7 +1167,7 @@
       "Name": "Survivors",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1178,7 +1183,7 @@
       "Name": "The End",
       "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AchvUnity",
@@ -1193,14 +1198,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 366,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:09:03.3241364+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:09:03.5535585+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:57:16.9200405+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:09:03.3241578+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:57:30.1798571+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:09:03.5535767+00:00"
 }

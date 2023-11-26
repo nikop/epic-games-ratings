@@ -5,9 +5,9 @@ Rating: 4.56 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~552 |
+| Tell me your story | 75.00% | ~553 |
 | Don't judge a manhole by its cover | 60.00% | ~442 |
-| I just love stuff! | 42.00% | ~309 |
+| I just love stuff! | 42.00% | ~310 |
 | Keep 'em coming! | 41.00% | ~302 |
 | The things they print nowadays | 39.00% | ~287 |
 | Big Spender | 38.00% | ~280 |
@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 494)
 | Omnipotence | 19.00% | ~140 |
 | The Warlord | 19.00% | ~140 |
 | You are the One | 19.00% | ~140 |
-| Deadly Kombationem | 18.00% | ~132 |
-| The truth is out there | 15.00% | ~110 |
+| Deadly Kombationem | 18.00% | ~133 |
+| The truth is out there | 15.00% | ~111 |
 | Annakin Skyscroller | 13.00% | ~96 |
 | In the smacker...I think | 10.00% | ~74 |
 | Arm Wrestlin' | 9.00% | ~66 |
@@ -39,10 +39,10 @@ Rating: 4.56 (Ranked 494)
 | Lady Luck is a cool cat | 3.00% | ~22 |
 | SERENITY NOW | 2.00% | ~15 |
 | I just got real good | 2.00% | ~15 |
-| Love me like I love my posters | 1.00% | ~7 |
+| Love me like I love my posters | 0.90% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 279)  
+Progressed: 737 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 696 | 0 |
 | 2023-11-24 | 705 | 0 |
 | 2023-11-25 | 726 | 0 |
-| 2023-11-26 | 736 | 0 |
+| 2023-11-26 | 737 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

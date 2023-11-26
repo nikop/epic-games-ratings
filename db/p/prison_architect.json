@@ -7015,10 +7015,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4475,
       "NumberOfAwardsMax": 580
+    },
+    {
+      "Time": "2023-11-26T19:00:46.1270752+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4476,
+      "NumberOfAwardsMax": 580
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4475,
+  "NumberOfAwards": 4476,
   "NumberOfAwardsMax": 580,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7080,7 +7086,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 347
+      "Count": 348
     },
     {
       "Text": "This game is Educational",
@@ -7089,9 +7095,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 197915,
+  "EOS_Progressed": 197941,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2400,
+  "EOS_NewPlayers": 2399,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32209,6 +32215,11 @@
       "Time": "2023-11-26T18:09:35.6662689+00:00",
       "NumProgressed": 197915,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-26T19:09:38.0518127+00:00",
+      "NumProgressed": 197941,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -32220,7 +32231,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "Achievement_1",
@@ -32236,7 +32247,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "Achievement_11",
@@ -32244,7 +32255,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "Achievement_12",
@@ -32252,7 +32263,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31666
+      "UsersEstimate": 31671
     },
     {
       "ID": "Achievement_13",
@@ -32276,7 +32287,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "Achievement_2",
@@ -32284,7 +32295,7 @@
       "Name": "Reformation",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "Achievement_3",
@@ -32300,7 +32311,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 49479
+      "UsersEstimate": 49485
     },
     {
       "ID": "Achievement_5",
@@ -32308,7 +32319,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "Achievement_6",
@@ -32332,7 +32343,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17812
+      "UsersEstimate": 17815
     },
     {
       "ID": "Achievement_9",
@@ -32340,22 +32351,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9896
+      "UsersEstimate": 9897
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 197915,
+      "Progressed": 197941,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-26T16:59:22.8408529+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:09:35.6662685+00:00",
+  "LastChanged": "2023-11-26T19:00:46.1270749+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:09:38.0518125+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.7295199+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:00:21.6241608+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:09:35.6663657+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:00:46.1270757+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:09:38.051937+00:00"
 }

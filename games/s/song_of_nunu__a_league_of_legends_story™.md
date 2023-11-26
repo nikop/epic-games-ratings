@@ -12,8 +12,8 @@
 | He's Famous! | 67.00% | ~621 |
 | Cutie Poro | 67.00% | ~621 |
 | Krugmazing | 65.00% | ~603 |
+| Moneyball | 62.00% | ~575 |
 | The Fire Below the Mountain | 62.00% | ~575 |
-| Moneyball | 61.00% | ~565 |
 | No Bites | 56.00% | ~519 |
 | Iceborn | 56.00% | ~519 |
 | Tear of Freedom | 53.00% | ~491 |
@@ -22,7 +22,7 @@
 | Rhythm Of Willump | 47.00% | ~436 |
 | The Relentless Storm | 47.00% | ~436 |
 | A Tragic Reminder | 45.00% | ~417 |
-| 3000 Year Blackout | 44.00% | ~408 |
+| 3000 Year Blackout | 45.00% | ~417 |
 | The Finisher | 42.00% | ~389 |
 | So Close | 41.00% | ~380 |
 | You Get Used To It | 41.00% | ~380 |
@@ -35,8 +35,8 @@
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~343 |
 | On The Rocks | 35.00% | ~324 |
 | It Is Not Over | 34.00% | ~315 |
+| Never Gets Old | 32.00% | ~297 |
 | Snowy Poro | 31.00% | ~287 |
-| Never Gets Old | 31.00% | ~287 |
 | Vertical Power | 27.00% | ~250 |
 | One From The Heart | 14.00% | ~130 |
 | Yummy | 11.00% | ~102 |

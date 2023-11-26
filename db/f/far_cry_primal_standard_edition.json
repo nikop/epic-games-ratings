@@ -2,13 +2,13 @@
   "ID": "larkspur",
   "Name": "Far Cry Primal Standard Edition",
   "ProductSlug": "far-cry-primal",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2016-03-01T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 463,
   "RatingHistory": [
     {
@@ -1391,10 +1391,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 657,
       "NumberOfAwardsMax": 456
+    },
+    {
+      "Time": "2023-11-26T18:57:56.7698702+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 658,
+      "NumberOfAwardsMax": 456
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 657,
+  "NumberOfAwards": 658,
   "NumberOfAwardsMax": 456,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1450,7 +1456,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -1464,8 +1470,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2023-11-26T06:57:40.4609412+00:00",
+  "LastChanged": "2023-11-26T18:57:56.7698699+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.7308801+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:57:42.3395983+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:04:02.0671744+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:57:56.7698705+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:04:16.4330722+00:00"
 }

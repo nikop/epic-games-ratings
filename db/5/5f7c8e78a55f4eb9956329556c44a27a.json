@@ -2,10 +2,10 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -609,6 +609,11 @@
       "Time": "2023-11-26T18:08:34.0604079+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T19:08:31.8663211+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -621,7 +626,7 @@
       "Name": "Administrator",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -645,7 +650,7 @@
       "Name": "Blue moon",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TINGWD_BUTTON_PLAY",
@@ -683,17 +688,17 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 124
     },
     {
       "ID": "TINGWD_CHAP_END_02",
       "SetID": "c0imaa6",
       "Name": "A soundly led quest",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -717,7 +722,7 @@
       "Name": "It\u0027s not over yet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -741,7 +746,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -749,7 +754,7 @@
       "Name": "Private Detective",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -765,15 +770,15 @@
       "Name": "Follow the guide!",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "TINGWD_HONEY",
@@ -795,9 +800,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 135
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -829,15 +834,15 @@
       "Name": "Better than Mr. Radar",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TINGWD_RAIDERS",
       "SetID": "c0imaa6",
       "Name": "Raiders of the lost game",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -853,7 +858,7 @@
       "Name": "Roshambo Addict",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TINGWD_SHOOT",
@@ -877,7 +882,7 @@
       "Name": "It\u0027s a trap!",
       "Percentage": 36,
       "XP": 120,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -885,21 +890,21 @@
       "Name": "Wrong Dimension",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:08:34.0604074+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:08:31.8663208+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:00:42.9327636+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:08:34.0604343+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:01:08.2331834+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:08:31.8663435+00:00"
 }

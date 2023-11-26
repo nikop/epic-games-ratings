@@ -12,11 +12,11 @@
 | A Taste of Wrath | 8.00% | ~18 |
 | Adventurer | 8.00% | ~18 |
 | Geared Up | 8.00% | ~18 |
+| Fashion Victim | 8.00% | ~18 |
 | Scholar | 8.00% | ~18 |
 | The Collector | 8.00% | ~18 |
 | Tributes of Caladrias | 7.00% | ~16 |
 | Big Bazar | 7.00% | ~16 |
-| Fashion Victim | 7.00% | ~16 |
 | Stone Collection | 7.00% | ~16 |
 | Calm before the Storm | 6.00% | ~14 |
 | Shatter Them All | 6.00% | ~14 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2723,
+  "EOS_Progressed": 2726,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8112,6 +8112,11 @@
       "Time": "2023-11-26T18:09:28.2374795+00:00",
       "NumProgressed": 2723,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T19:09:30.3093648+00:00",
+      "NumProgressed": 2726,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8169,9 +8174,9 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 164
     },
     {
       "ID": "cauldronliberator",
@@ -8179,7 +8184,7 @@
       "Name": "Cauldron Liberator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "challenger",
@@ -8211,7 +8216,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "doingmypart",
@@ -8219,7 +8224,7 @@
       "Name": "Doing My Part",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "dragonclicker",
@@ -8235,7 +8240,7 @@
       "Name": "Dragon Master",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "dragonslayer",
@@ -8267,7 +8272,7 @@
       "Name": "Enchanting skill x5",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "engineermastery",
@@ -8291,7 +8296,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "exoticmerchant",
@@ -8307,7 +8312,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "fourleafclover",
@@ -8331,7 +8336,7 @@
       "Name": "Full Party",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "gearenchanting",
@@ -8371,7 +8376,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "howdoyouturnthison",
@@ -8379,7 +8384,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "hunter",
@@ -8387,7 +8392,7 @@
       "Name": "Hunter",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "inspection",
@@ -8395,7 +8400,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "jewelenchanting",
@@ -8427,7 +8432,7 @@
       "Name": "Lock And Load",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "masterenchanter",
@@ -8467,7 +8472,7 @@
       "Name": "Missions Dedication",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "movinguptheladder",
@@ -8507,7 +8512,7 @@
       "Name": "Pokerface",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "prestigious",
@@ -8515,7 +8520,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1445
     },
     {
       "ID": "prestigiousx10",
@@ -8539,7 +8544,7 @@
       "Name": "Sailor",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "scientist",
@@ -8579,7 +8584,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1554
     },
     {
       "ID": "thealchemist",
@@ -8587,7 +8592,7 @@
       "Name": "The Alchemist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "theexpeditioner",
@@ -8611,7 +8616,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "thepowerofawakening",
@@ -8619,7 +8624,7 @@
       "Name": "The power of Awakening",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "theunstoppable",
@@ -8635,7 +8640,7 @@
       "Name": "Titan Power",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "trader",
@@ -8683,7 +8688,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2535
     },
     {
       "ID": "warmachinesarmy",
@@ -8715,14 +8720,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2126
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2723,
+      "Progressed": 2726,
       "Completed": 2
     }
   ],
@@ -8730,8 +8735,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-26T15:02:29.5488839+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:09:28.2374792+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:09:30.3093645+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:02:56.8610612+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:09:28.2375607+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:02:55.6840241+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:09:30.3094714+00:00"
 }

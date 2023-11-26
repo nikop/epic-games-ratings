@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 756,
+  "EOS_Progressed": 757,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.03,
+  "EOS_Completed_Percentage": 5.02,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3060,6 +3060,11 @@
       "Time": "2023-11-26T18:04:30.0842514+00:00",
       "NumProgressed": 756,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-26T19:04:46.0748082+00:00",
+      "NumProgressed": 757,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 25,
@@ -3109,9 +3114,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 136
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3119,7 +3124,7 @@
       "Name": "Open door",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3135,7 +3140,7 @@
       "Name": "Feels like springtime",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3167,7 +3172,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3221,17 +3226,17 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 167
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 257
     },
     {
       "ID": "PROGRESS_N2",
@@ -3239,7 +3244,7 @@
       "Name": "The great escape",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "PROGRESS_N3",
@@ -3247,7 +3252,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "PROGRESS_N4",
@@ -3270,14 +3275,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 756,
+      "Progressed": 757,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:04:30.084251+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:04:46.0748079+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:01:24.5413089+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:04:30.084286+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:01:52.6038457+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:04:46.0748364+00:00"
 }

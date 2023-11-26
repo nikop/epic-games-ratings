@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -651,9 +651,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5923,
+  "EOS_Progressed": 5924,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6321,6 +6321,11 @@
       "Time": "2023-11-26T18:04:40.1834332+00:00",
       "NumProgressed": 5923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T19:04:56.8013914+00:00",
+      "NumProgressed": 5924,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6381,7 +6386,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5568
+      "UsersEstimate": 5569
     },
     {
       "ID": "achievement_0008",
@@ -6389,7 +6394,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5212
+      "UsersEstimate": 5213
     },
     {
       "ID": "achievement_0009",
@@ -6405,7 +6410,7 @@
       "Name": "Network Success",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "achievement_0011",
@@ -6429,7 +6434,7 @@
       "Name": "Oil and Water",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_0014",
@@ -6453,7 +6458,7 @@
       "Name": "Hitting a Season",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "achievement_0017",
@@ -6493,7 +6498,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "achievement_0022",
@@ -6669,7 +6674,7 @@
       "Name": "Familiar Faces",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "achievement_0044",
@@ -6724,7 +6729,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5923,
+      "Progressed": 5924,
       "Completed": 0
     }
   ],
@@ -6732,8 +6737,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-26T16:00:18.5628015+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:04:40.183432+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:04:56.8013912+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:01:18.6010716+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:04:40.1834842+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:01:46.1218935+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:04:56.8014379+00:00"
 }

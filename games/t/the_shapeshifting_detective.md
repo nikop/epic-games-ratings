@@ -7,7 +7,7 @@
 | Strong Silent Type | 90.00% | ~220 |
 | Play It Again Sam | 89.00% | ~218 |
 | Play Me By The Hour | 69.00% | ~169 |
-| Patient Listener | 46.00% | ~113 |
+| Patient Listener | 47.00% | ~115 |
 | Video Saved The Radio Star | 38.00% | ~93 |
 | Hashtag Winning | 37.00% | ~91 |
 | A Woman Scorned | 27.00% | ~66 |

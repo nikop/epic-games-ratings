@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1678,9 +1678,9 @@
       "ID": "achievement_23",
       "SetID": "2cpn27e",
       "Name": "Relentless Kemono Hunter",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_24",
@@ -1948,8 +1948,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:04:11.8091789+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:04:27.1350956+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.7646149+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:59:21.9354146+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:04:11.8092206+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:59:43.700429+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:04:27.1351401+00:00"
 }

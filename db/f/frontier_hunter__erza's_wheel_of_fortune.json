@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -1116,9 +1116,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1445,8 +1445,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:04:42.1230804+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:04:58.9525752+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:57:08.0373014+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:04:42.123118+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:57:20.5164877+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:04:58.9526117+00:00"
 }

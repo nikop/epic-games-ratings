@@ -6,22 +6,22 @@ Rating: 4.58 (Ranked 445)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 10.00% | ~1,561 |
-| The Pit and the Pirates | 6.00% | ~936 |
-| Bosmang | 6.00% | ~936 |
-| Celebrations are in Order | 6.00% | ~936 |
+| The Pit and the Pirates | 6.00% | ~937 |
+| Bosmang | 6.00% | ~937 |
+| Celebrations are in Order | 6.00% | ~937 |
 | Zen Master | 6.00% | ~94 |
-| Spore Taste | 5.00% | ~780 |
-| Martian Music | 5.00% | ~780 |
-| Drone Dodger | 5.00% | ~780 |
-| Captain Drummer | 5.00% | ~780 |
-| Impossible Objects | 5.00% | ~780 |
+| Spore Taste | 5.00% | ~781 |
+| Martian Music | 5.00% | ~781 |
+| Drone Dodger | 5.00% | ~781 |
+| Captain Drummer | 5.00% | ~781 |
+| Impossible Objects | 5.00% | ~781 |
 | Safe Cracker | 5.00% | ~78 |
 | Madame Undersecretary | 5.00% | ~78 |
-| Stogie for Fogey | 4.00% | ~624 |
-| Drug Gifter | 4.00% | ~624 |
-| Heal Thy Medic | 4.00% | ~624 |
-| Call it Even | 4.00% | ~624 |
-| Keep Arjun in Check | 4.00% | ~62 |
+| Stogie for Fogey | 4.00% | ~625 |
+| Drug Gifter | 4.00% | ~625 |
+| Heal Thy Medic | 4.00% | ~625 |
+| Call it Even | 4.00% | ~625 |
+| Keep Arjun in Check | 4.00% | ~63 |
 | Data Archivist | 3.00% | ~468 |
 | Thorston Mayer | 3.00% | ~468 |
 | Khan's Revenge | 3.00% | ~468 |
@@ -31,8 +31,8 @@ Rating: 4.58 (Ranked 445)
 | Data Logger | 2.00% | ~312 |
 | Miraculous Maya | 2.00% | ~312 |
 | Data Master | 1.00% | ~156 |
-| Brother's Reaper | 0.90% | ~140 |
-| No Belter Left Behind | 0.90% | ~140 |
+| Brother's Reaper | 0.90% | ~141 |
+| No Belter Left Behind | 0.90% | ~141 |
 | Debris Spree | 0.80% | ~125 |
 | Data Recoverer | 0.70% | ~109 |
 | Urshanabi Hoarder | 0.50% | ~78 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 445)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,608 (Ranked 151)  
+Progressed: 15,614 (Ranked 151)  
 Completed: 35 (0.22%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 35 (0.22%) (Ranked 250)
 | 2023-11-23 | 15,346 | 35 |
 | 2023-11-24 | 15,437 | 35 |
 | 2023-11-25 | 15,549 | 35 |
-| 2023-11-26 | 15,608 | 35 |
+| 2023-11-26 | 15,614 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

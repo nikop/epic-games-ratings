@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -373,9 +373,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1662,
+  "EOS_Progressed": 1663,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2453,6 +2453,11 @@
       "Time": "2023-11-26T14:04:12.138913+00:00",
       "NumProgressed": 1662,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-26T19:04:26.4794505+00:00",
+      "NumProgressed": 1663,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2464,7 +2469,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2472,7 +2477,7 @@
       "Name": "Great Doctor",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2512,7 +2517,7 @@
       "Name": "K.O.!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2520,7 +2525,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2528,7 +2533,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2536,23 +2541,23 @@
       "Name": "Intermediate Chemist",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ACHIEVEMENTS_11",
       "SetID": "d4o538a",
       "Name": "Expert Chemist",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 249
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENTS_12",
       "SetID": "d4o538a",
       "Name": "Amateur Chef",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 366
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -2560,7 +2565,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -2568,7 +2573,7 @@
       "Name": "Sous Chef",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENTS_15",
@@ -2600,7 +2605,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2728,7 +2733,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2744,7 +2749,7 @@
       "Name": "Grape Supplier",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENTS_37",
@@ -2767,7 +2772,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1662,
+      "Progressed": 1663,
       "Completed": 10
     }
   ],
@@ -2775,8 +2780,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:04:11.1983035+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:04:26.4794504+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:33.162764+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:59:10.3087561+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:04:11.1983391+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:59:30.8847+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:04:26.4794842+00:00"
 }

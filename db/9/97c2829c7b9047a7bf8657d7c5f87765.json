@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 433,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2022-05-06T16:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "27",
       "SetID": "7095412",
       "Name": "Master of Defense",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "28",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-08-25T14:00:23.6094208+00:00",
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:03:50.2936151+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:04:03.7730805+00:00",
   "LastUpdate_AppInfo": "2023-11-24T23:57:11.296465+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:00:18.7177927+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:03:50.2936552+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:00:43.1695506+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:04:03.7731007+00:00"
 }

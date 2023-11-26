@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1196,6 +1196,11 @@
       "Time": "2023-11-26T13:12:21.8847625+00:00",
       "NumProgressed": 280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T19:09:50.59028+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1231,7 +1236,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achBett",
@@ -1253,9 +1258,9 @@
       "ID": "achCar",
       "SetID": "72gjli4",
       "Name": "Car \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achCheet",
@@ -1285,9 +1290,9 @@
       "ID": "achCoinOne",
       "SetID": "72gjli4",
       "Name": "Seeker One \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achCoinThree",
@@ -1407,7 +1412,7 @@
       "Name": "Fright \u2714",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achLizun",
@@ -1469,9 +1474,9 @@
       "ID": "achPlotTwo",
       "SetID": "72gjli4",
       "Name": "The escape \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achPolice",
@@ -1606,7 +1611,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 0
     }
   ],
@@ -1614,8 +1619,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:09:47.3222502+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:09:50.5902798+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:42.3198378+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:59:36.4829073+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:09:47.3222837+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:59:59.3946305+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:09:50.5903125+00:00"
 }

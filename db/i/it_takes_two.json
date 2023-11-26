@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24341,
+  "EOS_Progressed": 24343,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 1638,
+  "EOS_NewPlayers": 1628,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -7913,6 +7913,11 @@
       "Time": "2023-11-26T18:09:13.3544217+00:00",
       "NumProgressed": 24341,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-11-26T19:09:14.1793604+00:00",
+      "NumProgressed": 24343,
+      "NumCompleted": 104
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -7925,7 +7930,7 @@
       "Name": "It Took Two",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 10710
+      "UsersEstimate": 10711
     },
     {
       "ID": "achievement_10",
@@ -7949,7 +7954,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 13874
+      "UsersEstimate": 13876
     },
     {
       "ID": "achievement_13",
@@ -8011,9 +8016,9 @@
       "ID": "achievement_2",
       "SetID": "2bk7oji",
       "Name": "Minigame Megalomania",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 974
+      "UsersEstimate": 730
     },
     {
       "ID": "achievement_20",
@@ -8029,7 +8034,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 21177
+      "UsersEstimate": 21178
     },
     {
       "ID": "achievement_4",
@@ -8037,7 +8042,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 21420
+      "UsersEstimate": 21422
     },
     {
       "ID": "achievement_5",
@@ -8061,7 +8066,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 18986
+      "UsersEstimate": 18988
     },
     {
       "ID": "achievement_8",
@@ -8077,20 +8082,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12657
+      "UsersEstimate": 12658
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 24341,
+      "Progressed": 24343,
       "Completed": 104
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:09:13.3544211+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:09:14.1793595+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:15.6228469+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:01:22.4884758+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:09:13.354466+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:01:50.5733569+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:09:14.1794321+00:00"
 }

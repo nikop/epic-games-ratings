@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 59.00% | ~165 |
+| Fright ✔ | 59.00% | ~166 |
 | Chest ✔ | 56.00% | ~157 |
-| Inventory ✔ | 55.00% | ~154 |
+| Inventory ✔ | 55.00% | ~155 |
 | Police officers ✔ | 29.00% | ~81 |
 | Mutation ✔ | 26.00% | ~73 |
 | Doberman ✔ | 15.00% | ~42 |
@@ -37,17 +37,17 @@
 | Sheriff ✔ | 4.00% | ~11 |
 | City on fire ✔ | 4.00% | ~11 |
 | Priest ✔ | 4.00% | ~11 |
-| Car ✔ | 3.00% | ~8 |
-| Seeker One ✔ | 3.00% | ~8 |
 | Crocodile Attack ✔ | 3.00% | ~8 |
 | Boss 2 ✔ | 3.00% | ~8 |
 | Osipov's video message ✔ | 3.00% | ~8 |
-| The escape ✔ | 3.00% | ~8 |
 | Rank B+ ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |
 | Boss 3 ✔ | 3.00% | ~8 |
+| Car ✔ | 2.00% | ~6 |
+| Seeker One ✔ | 2.00% | ~6 |
 | Seeker Three ✔ | 2.00% | ~6 |
 | Crocodile Escape ✔ | 2.00% | ~6 |
+| The escape ✔ | 2.00% | ~6 |
 | VIP ✔ | 2.00% | ~6 |
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Hardcore ✔ | 0.70% | ~2 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280 (Ranked 362)  
+Progressed: 281 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-19 | 275 | 0 |
 | 2023-11-20 | 277 | 0 |
 | 2023-11-25 | 278 | 0 |
-| 2023-11-26 | 280 | 0 |
+| 2023-11-26 | 281 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

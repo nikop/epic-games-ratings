@@ -36,9 +36,9 @@ Rating: 4.62 (Ranked 365)
 | Good Neighbor | 13.00% | ~122 |
 | Chaincrawler Explorer | 12.00% | ~112 |
 | Family Memories | 12.00% | ~112 |
+| Ask Questions Later | 12.00% | ~112 |
 | Sump Explorer | 11.00% | ~103 |
 | Syron for Hope | 11.00% | ~103 |
-| Ask Questions Later | 11.00% | ~103 |
 | Fairgrounds Explorer | 10.00% | ~94 |
 | Theater Explorer | 10.00% | ~94 |
 | Cultivair Explorer | 9.00% | ~84 |

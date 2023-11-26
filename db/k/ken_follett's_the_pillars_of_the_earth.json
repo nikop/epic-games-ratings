@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16681,
+  "EOS_Progressed": 16682,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14928,6 +14928,11 @@
       "Time": "2023-11-26T18:03:38.6854401+00:00",
       "NumProgressed": 16681,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-26T19:03:51.361549+00:00",
+      "NumProgressed": 16682,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15043,7 +15048,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5004
+      "UsersEstimate": 5005
     },
     {
       "ID": "tpote_achievement_22",
@@ -15155,7 +15160,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "tpote_achievement_35",
@@ -15203,7 +15208,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "tpote_achievement_40",
@@ -15227,7 +15232,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "tpote_achievement_6",
@@ -15235,7 +15240,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "tpote_achievement_7",
@@ -15266,15 +15271,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16681,
+      "Progressed": 16682,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:03:38.6854398+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:03:51.3615488+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:58:07.6436385+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:03:38.6855357+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:58:24.517803+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:03:51.361619+00:00"
 }

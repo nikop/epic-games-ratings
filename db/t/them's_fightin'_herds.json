@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -307,7 +307,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232783,
+  "EOS_Progressed": 232784,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
@@ -22702,6 +22702,11 @@
       "Time": "2023-11-26T18:08:31.5408435+00:00",
       "NumProgressed": 232783,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T19:08:29.0757741+00:00",
+      "NumProgressed": 232784,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -22857,7 +22862,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79146
+      "UsersEstimate": 79147
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -22881,7 +22886,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -22936,7 +22941,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232783,
+      "Progressed": 232784,
       "Completed": 5
     }
   ],
@@ -22944,8 +22949,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-22T11:00:30.8027045+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:08:31.5408432+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:08:29.0757738+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.2076606+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:58:34.527175+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:08:31.5409509+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:58:51.086809+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:08:29.0758905+00:00"
 }

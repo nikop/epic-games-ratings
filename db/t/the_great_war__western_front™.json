@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2558,6 +2558,11 @@
       "Time": "2023-11-26T14:08:03.0181235+00:00",
       "NumProgressed": 558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T19:08:14.7046248+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2617,7 +2622,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -2641,7 +2646,7 @@
       "Name": "La Der des Ders",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2664,7 +2669,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 0
     }
   ],
@@ -2672,8 +2677,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-11-26T18:08:17.0945369+00:00",
+  "LastChanged_Achievements": "2023-11-26T19:08:14.7046246+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:50.4865731+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:59:58.577187+00:00",
-  "LastUpdate_Achievements": "2023-11-26T18:08:17.0945572+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:00:22.2385034+00:00",
+  "LastUpdate_Achievements": "2023-11-26T19:08:14.7046479+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,537 |
-| Basic in Bulk | 6.00% | ~8,537 |
-| Titan's First Steps | 6.00% | ~8,537 |
-| Tinkle of Coins | 5.00% | ~7,114 |
-| Disintermediation | 4.00% | ~5,691 |
-| It's Free Real Estate | 4.00% | ~5,691 |
-| Budding Merchant | 4.00% | ~5,691 |
-| Capitalism Ho! | 4.00% | ~5,691 |
-| One Easy Payment | 3.00% | ~4,268 |
-| Some Assembly Required | 3.00% | ~4,268 |
-| Another Satisfied Customer | 3.00% | ~4,268 |
-| Pretty Penny | 3.00% | ~4,268 |
-| One-Armed Bandit | 3.00% | ~4,268 |
-| Through Repetition, Perfection | 3.00% | ~4,268 |
-| Own the Means of Production | 3.00% | ~4,268 |
+| Sponsored by Argon | 6.00% | ~8,538 |
+| Basic in Bulk | 6.00% | ~8,538 |
+| Titan's First Steps | 6.00% | ~8,538 |
+| Tinkle of Coins | 5.00% | ~7,115 |
+| Disintermediation | 4.00% | ~5,692 |
+| It's Free Real Estate | 4.00% | ~5,692 |
+| Budding Merchant | 4.00% | ~5,692 |
+| Capitalism Ho! | 4.00% | ~5,692 |
+| One Easy Payment | 3.00% | ~4,269 |
+| Some Assembly Required | 3.00% | ~4,269 |
+| Another Satisfied Customer | 3.00% | ~4,269 |
+| Pretty Penny | 3.00% | ~4,269 |
+| One-Armed Bandit | 3.00% | ~4,269 |
+| Through Repetition, Perfection | 3.00% | ~4,269 |
+| Own the Means of Production | 3.00% | ~4,269 |
 | The Daily Grind | 2.00% | ~2,846 |
 | On the Path to Greatness | 2.00% | ~2,846 |
 | Ascended | 2.00% | ~2,846 |
@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 2.00% | ~2,846 |
 | Bounty Hunters | 2.00% | ~2,846 |
 | Fated Encounters | 2.00% | ~2,846 |
+| For the Hoard! | 2.00% | ~2,846 |
 | Blank Page Syndrome | 2.00% | ~2,846 |
 | Demand for Supplies | 2.00% | ~2,846 |
 | Flooding the Market | 2.00% | ~2,846 |
@@ -57,7 +58,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 1.00% | ~1,423 |
 | Thirst for Knowledge | 1.00% | ~1,423 |
 | Big Game Hunting | 1.00% | ~1,423 |
-| For the Hoard! | 1.00% | ~1,423 |
 | Booty by the Boatload | 1.00% | ~1,423 |
 | Scrapbooker | 1.00% | ~1,423 |
 | Archivist | 1.00% | ~1,423 |
@@ -107,8 +107,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Free Encyclopedia | 0.70% | ~996 |
 | The Greatest Grind | 0.60% | ~854 |
 | All or Nothing! | 0.60% | ~854 |
-| Anything not Nailed Down | 0.50% | ~711 |
-| Marvels from the World Over | 0.50% | ~711 |
+| Anything not Nailed Down | 0.50% | ~712 |
+| Marvels from the World Over | 0.50% | ~712 |
 | Bane of Legends | 0.40% | ~569 |
 | Ultimate Collector | 0.40% | ~569 |
 | Unleashed Potential | 0.40% | ~569 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.20% | ~285 |
 | To Hell and Back | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,278 (Ranked 80)  
+Progressed: 142,300 (Ranked 80)  
 Completed: 273 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 273 (0.19%) (Ranked 260)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,278 | 273 |
+| 2023-11-26 | 142,300 | 273 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,607 (Ranked 50)  
