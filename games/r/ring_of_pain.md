@@ -48,25 +48,25 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.30% | ~721 |
 | Flesh Wound | 0.30% | ~721 |
 | Shapeshifting | 0.30% | ~721 |
-| Thank You, Friend | 0.20% | ~480 |
-| Shadow Spreads | 0.20% | ~480 |
-| Max Damage! | 0.20% | ~480 |
-| A Rough Road | 0.20% | ~480 |
-| To The Death! | 0.20% | ~480 |
-| Well Prepared | 0.20% | ~480 |
-| Just Chilling | 0.20% | ~480 |
-| Berzerker | 0.20% | ~480 |
-| Don't Ignore Me! | 0.20% | ~480 |
-| All Consuming | 0.20% | ~480 |
-| Stop Hitting Yourself | 0.20% | ~480 |
-| Illuminate, Eliminate | 0.20% | ~480 |
-| Chain Reaction | 0.20% | ~480 |
-| Doing Time | 0.20% | ~480 |
-| Spreading Plague | 0.20% | ~480 |
-| Acid Bath | 0.20% | ~480 |
-| Antivenom | 0.20% | ~480 |
-| Snake Sneak | 0.20% | ~480 |
-| The Long Run | 0.20% | ~480 |
+| Thank You, Friend | 0.20% | ~481 |
+| Shadow Spreads | 0.20% | ~481 |
+| Max Damage! | 0.20% | ~481 |
+| A Rough Road | 0.20% | ~481 |
+| To The Death! | 0.20% | ~481 |
+| Well Prepared | 0.20% | ~481 |
+| Just Chilling | 0.20% | ~481 |
+| Berzerker | 0.20% | ~481 |
+| Don't Ignore Me! | 0.20% | ~481 |
+| All Consuming | 0.20% | ~481 |
+| Stop Hitting Yourself | 0.20% | ~481 |
+| Illuminate, Eliminate | 0.20% | ~481 |
+| Chain Reaction | 0.20% | ~481 |
+| Doing Time | 0.20% | ~481 |
+| Spreading Plague | 0.20% | ~481 |
+| Acid Bath | 0.20% | ~481 |
+| Antivenom | 0.20% | ~481 |
+| Snake Sneak | 0.20% | ~481 |
+| The Long Run | 0.20% | ~481 |
 | Who Needs Luck? | 0.20% | ~3 |
 | Raw Power | 0.20% | ~3 |
 | Achievement Hunter | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,247 (Ranked 62)  
+Progressed: 240,251 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 291 (0.12%) (Ranked 277)
 | 2023-11-23 | 240,120 | 290 |
 | 2023-11-24 | 240,173 | 290 |
 | 2023-11-25 | 240,224 | 291 |
-| 2023-11-26 | 240,247 | 291 |
+| 2023-11-26 | 240,251 | 291 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 132)  
 Sum: 11,692 (Ranked 84)  

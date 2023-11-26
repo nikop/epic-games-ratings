@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18913,
+  "EOS_Progressed": 18914,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13184,6 +13184,11 @@
       "Time": "2023-11-26T10:07:48.9319237+00:00",
       "NumProgressed": 18913,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-26T13:09:36.1350642+00:00",
+      "NumProgressed": 18914,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13251,7 +13256,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "0009",
@@ -13323,7 +13328,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "0018",
@@ -13387,7 +13392,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "0026",
@@ -13403,7 +13408,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "0028",
@@ -13427,7 +13432,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "0031",
@@ -13435,7 +13440,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "0032",
@@ -13443,7 +13448,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "0033",
@@ -13451,7 +13456,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "0034",
@@ -13482,7 +13487,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18913,
+      "Progressed": 18914,
       "Completed": 4
     }
   ],
@@ -13490,8 +13495,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:05:51.5519391+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:09:36.1350638+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:59:42.9227853+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:05:51.5520012+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:03:02.8658664+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:09:36.1351258+00:00"
 }

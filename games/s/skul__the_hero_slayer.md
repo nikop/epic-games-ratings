@@ -6,23 +6,23 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,759 |
-| What should I buy? | 84.00% | ~7,008 |
-| Focus! | 63.00% | ~5,256 |
-| Rescued Elder Ent | 63.00% | ~5,256 |
-| The End of the Gold Mane Knights | 49.00% | ~4,088 |
+| The Legend Begins | 93.00% | ~7,760 |
+| What should I buy? | 84.00% | ~7,009 |
+| Focus! | 63.00% | ~5,257 |
+| Rescued Elder Ent | 63.00% | ~5,257 |
+| The End of the Gold Mane Knights | 49.00% | ~4,089 |
 | Rules of Etiquette | 42.00% | ~3,504 |
 | False Goddess, Disappear | 41.00% | ~3,421 |
 | Quick Movements | 35.00% | ~2,920 |
 | Inventory Management | 35.00% | ~2,920 |
 | The Fall of the Leonia Order | 32.00% | ~2,670 |
 | The Hero Killer | 30.00% | ~2,503 |
-| Go Home... | 29.00% | ~2,419 |
+| Go Home... | 29.00% | ~2,420 |
 | The Final Battle of the First Hero | 28.00% | ~2,336 |
-| Brain at Full Throttle | 24.00% | ~2,002 |
+| Brain at Full Throttle | 24.00% | ~2,003 |
 | Rookies Welcome | 20.00% | ~1,669 |
 | Deadly Power | 17.00% | ~1,418 |
-| Castle Restoration Plans | 15.00% | ~1,251 |
+| Castle Restoration Plans | 15.00% | ~1,252 |
 | The Dwarven Chandelier | 13.00% | ~1,085 |
 | Master of Speed | 10.00% | ~834 |
 | The Levitator | 7.00% | ~584 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~167 |
 | Cold-Blooded | 0.80% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,343 (Ranked 173)  
+Progressed: 8,344 (Ranked 173)  
 Completed: 16 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,15 +230,15 @@ Completed: 16 (0.19%) (Ranked 260)
 | 2023-11-23 | 8,330 | 15 |
 | 2023-11-24 | 8,335 | 16 |
 | 2023-11-25 | 8,341 | 16 |
-| 2023-11-26 | 8,343 | 16 |
+| 2023-11-26 | 8,344 | 16 |
 ## Awards
 Max (Great for Beginners): 134  (Ranked 327)  
-Sum: 931 (Ranked 269)  
+Sum: 932 (Ranked 269)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 134 |
-| This game has Diverse Characters | 129 |
+| This game has Diverse Characters | 130 |
 | This game is Highly Recommended | 114 |
 | This game is Extremely Fun | 109 |
 | This game is Relaxing | 108 |
@@ -389,3 +389,4 @@ Diff (max vs sum): 58
 | 2023-11-18 | 4.72 | - | 132 | 926 |
 | 2023-11-20 | 4.72 | - | 133 | 928 |
 | 2023-11-21 | 4.72 | - | 134 | 931 |
+| 2023-11-26 | 4.72 | - | 134 | 932 |

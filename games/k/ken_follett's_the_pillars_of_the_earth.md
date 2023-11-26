@@ -6,17 +6,17 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,670 |
-| Man of politics | 34.00% | ~5,670 |
-| Friends of sorts | 33.00% | ~5,503 |
-| Yet another secret | 33.00% | ~5,503 |
-| Let there be darkness | 32.00% | ~5,336 |
+| Tattletale | 40.00% | ~6,671 |
+| Man of politics | 34.00% | ~5,671 |
+| Friends of sorts | 33.00% | ~5,504 |
+| Yet another secret | 33.00% | ~5,504 |
+| Let there be darkness | 32.00% | ~5,337 |
 | End of Book One | 30.00% | ~5,003 |
-| Garden of Eden | 24.00% | ~4,002 |
-| Full house | 24.00% | ~4,002 |
-| Wannabe knight | 23.00% | ~3,835 |
+| Garden of Eden | 24.00% | ~4,003 |
+| Full house | 24.00% | ~4,003 |
+| Wannabe knight | 23.00% | ~3,836 |
 | Help an old friend | 21.00% | ~3,502 |
-| Two of us | 20.00% | ~3,335 |
+| Two of us | 20.00% | ~3,336 |
 | Negotiation skills | 18.00% | ~3,002 |
 | Workers' union | 18.00% | ~3,002 |
 | End of Book Two | 18.00% | ~3,002 |
@@ -25,7 +25,7 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,335 |
 | Exterminator | 13.00% | ~2,168 |
 | Whodunnit | 12.00% | ~2,001 |
-| First profit | 11.00% | ~1,834 |
+| First profit | 11.00% | ~1,835 |
 | Good midwife | 10.00% | ~1,668 |
 | Friar Tuck | 10.00% | ~1,668 |
 | Team player | 10.00% | ~1,668 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~500 |
 | Boy of mystery | 2.00% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,676 (Ranked 148)  
-Completed: 116 (0.70%) (Ranked 184)  
+Progressed: 16,678 (Ranked 148)  
+Completed: 116 (0.70%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,7 +268,7 @@ Completed: 116 (0.70%) (Ranked 184)
 | 2023-11-23 | 16,615 | 116 |
 | 2023-11-24 | 16,635 | 116 |
 | 2023-11-25 | 16,661 | 116 |
-| 2023-11-26 | 16,676 | 116 |
+| 2023-11-26 | 16,678 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 315)  
 Sum: 198 (Ranked 400)  

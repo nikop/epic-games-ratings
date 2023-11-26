@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 73.00% | ~41 |
-| A Loyal Friend | 39.00% | ~22 |
-| Abandon Ship! | 25.00% | ~14 |
-| The Tomb of Kih-Oskh | 20.00% | ~11 |
-| The Weighing of the Soul | 13.00% | ~7 |
+| My Papyrus! | 73.00% | ~43 |
+| A Loyal Friend | 37.00% | ~22 |
+| Abandon Ship! | 24.00% | ~14 |
+| The Tomb of Kih-Oskh | 19.00% | ~11 |
+| The Weighing of the Soul | 12.00% | ~7 |
 | Cat Lover | 7.00% | ~4 |
 | The Curse of Kih-Oskh | 7.00% | ~4 |
 | It's a Deal! | 7.00% | ~4 |
@@ -18,11 +18,11 @@
 | Mummy Nightmare | 5.00% | ~3 |
 | Dynamite, Treason and Coconuts | 5.00% | ~3 |
 | Save a Friend | 5.00% | ~3 |
-| The Eyes! | 4.00% | ~2 |
-| The Corporal's Golden Boy | 4.00% | ~2 |
-| Punctual | 4.00% | ~2 |
-| Barking Dog | 4.00% | ~2 |
-| Threat | 4.00% | ~2 |
+| The Eyes! | 3.00% | ~2 |
+| The Corporal's Golden Boy | 3.00% | ~2 |
+| Punctual | 3.00% | ~2 |
+| Barking Dog | 3.00% | ~2 |
+| Threat | 3.00% | ~2 |
 | Keep the Doctor Away | 2.00% | ~1 |
 | Just a Palm Tree | 2.00% | ~1 |
 | Under the Hood | 2.00% | ~1 |
@@ -42,7 +42,7 @@
 | Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 484)  
+Progressed: 59 (Ranked 481)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,4 +59,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 36 | 0 |
 | 2023-11-24 | 45 | 0 |
 | 2023-11-25 | 52 | 0 |
-| 2023-11-26 | 56 | 0 |
+| 2023-11-26 | 59 | 0 |

@@ -208,9 +208,9 @@
       "ID": "Chapter04_AJourneyBegins",
       "SetID": "c8fdd59",
       "Name": "A Journey Begins",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Chapter05_Breakout",
@@ -503,8 +503,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:09:13.2066199+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:12:40.6084146+00:00",
   "LastUpdate_AppInfo": "2023-11-20T13:57:16.6876017+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:58:57.3844936+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:09:13.2066411+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:02:10.1143135+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:12:40.6084369+00:00"
 }

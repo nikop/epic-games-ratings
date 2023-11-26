@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 746,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.97,
+  "EOS_Completed_Percentage": 4.96,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3030,6 +3030,11 @@
       "Time": "2023-11-26T12:03:44.7707368+00:00",
       "NumProgressed": 745,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-26T13:07:11.6501683+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 25,
@@ -3079,9 +3084,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 134
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3113,7 +3118,7 @@
       "Name": "A great audience",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3145,7 +3150,7 @@
       "Name": "Rascal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3153,7 +3158,7 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3193,7 +3198,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "PROGRESS_N1",
@@ -3217,7 +3222,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "PROGRESS_N4",
@@ -3225,7 +3230,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "PROGRESS_N5",
@@ -3240,14 +3245,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 746,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:03:44.7707365+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:07:11.6501679+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:59:52.6013842+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:03:44.770769+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:03:14.5453566+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:07:11.6501971+00:00"
 }

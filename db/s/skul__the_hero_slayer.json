@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1029,10 +1029,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 931,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2023-11-26T12:59:49.3160074+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 932,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 931,
+  "NumberOfAwards": 932,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1052,7 +1058,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 129
+      "Count": 130
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1103,9 +1109,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 8343,
+  "EOS_Progressed": 8344,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5548,6 +5554,11 @@
       "Time": "2023-11-26T11:03:15.6336305+00:00",
       "NumProgressed": 8343,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-11-26T13:06:55.2391524+00:00",
+      "NumProgressed": 8344,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 24,
@@ -5559,7 +5570,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "Chatterbox",
@@ -5583,7 +5594,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5256
+      "UsersEstimate": 5257
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5591,7 +5602,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "DwarfChandelier",
@@ -5639,7 +5650,7 @@
       "Name": "Go Home...",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "HeroSlayer",
@@ -5687,7 +5698,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5256
+      "UsersEstimate": 5257
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5719,7 +5730,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7759
+      "UsersEstimate": 7760
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5727,7 +5738,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5743,22 +5754,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7008
+      "UsersEstimate": 7009
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8343,
+      "Progressed": 8344,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-11-21T15:58:19.8594236+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:03:30.4228878+00:00",
+  "LastChanged": "2023-11-26T12:59:49.3160073+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:06:55.2391521+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.1005476+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:00:09.7124017+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:03:30.422927+00:00"
+  "LastUpdate_Ratings": "2023-11-26T12:59:49.3160077+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:06:55.2391787+00:00"
 }

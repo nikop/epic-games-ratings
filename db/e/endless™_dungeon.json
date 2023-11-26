@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2075,6 +2075,11 @@
       "Time": "2023-11-26T10:04:30.1742669+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T13:06:57.3257345+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2085,9 +2090,9 @@
       "ID": "ACHIEVEMENT_100K_KILLED_MONSTERS",
       "SetID": "9991201",
       "Name": "Grab \u0027Em All",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_10K_OPEN_DOORS",
@@ -2167,7 +2172,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2205,9 +2210,9 @@
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "No Stone Unturned",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -2326,14 +2331,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:03:32.2003655+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:06:57.3257342+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.3423297+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:58:25.5093107+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:03:32.2003947+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:01:37.9791057+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:06:57.3257601+00:00"
 }

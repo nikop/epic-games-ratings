@@ -40,8 +40,8 @@ Rating: 4.53 (Ranked 541)
 | Unplugged | 8.00% | ~453 |
 | Holidays! | 7.00% | ~396 |
 | Mad Hatter | 7.00% | ~396 |
+| Yes Man | 7.00% | ~396 |
 | Lumbersexual | 6.00% | ~340 |
-| Yes Man | 6.00% | ~340 |
 | Take that, Brundlefly! | 5.00% | ~283 |
 | Danger zone | 4.00% | ~226 |
 | Feline Domination | 4.00% | ~226 |

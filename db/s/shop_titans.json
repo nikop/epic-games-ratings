@@ -7231,10 +7231,10 @@
       "Count": 3785
     }
   ],
-  "EOS_Progressed": 142188,
-  "EOS_Completed": 272,
-  "EOS_NewPlayers": 1630,
-  "EOS_NewCompleters": 85,
+  "EOS_Progressed": 142213,
+  "EOS_Completed": 273,
+  "EOS_NewPlayers": 1649,
+  "EOS_NewCompleters": 86,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -29946,6 +29946,11 @@
       "Time": "2023-11-26T12:08:12.5582456+00:00",
       "NumProgressed": 142188,
       "NumCompleted": 272
+    },
+    {
+      "Time": "2023-11-26T13:11:32.7857246+00:00",
+      "NumProgressed": 142213,
+      "NumCompleted": 273
     }
   ],
   "TotalAchievements": 112,
@@ -30125,7 +30130,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8531
+      "UsersEstimate": 8533
     },
     {
       "ID": "chest02",
@@ -30189,7 +30194,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7109
+      "UsersEstimate": 7111
     },
     {
       "ID": "commonres02",
@@ -30221,7 +30226,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     },
     {
       "ID": "craft02",
@@ -30333,7 +30338,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     },
     {
       "ID": "expansion02",
@@ -30429,7 +30434,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7109
+      "UsersEstimate": 7111
     },
     {
       "ID": "gold02",
@@ -30541,7 +30546,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     },
     {
       "ID": "level02",
@@ -30733,7 +30738,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     },
     {
       "ID": "sell02",
@@ -30773,7 +30778,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8531
+      "UsersEstimate": 8533
     },
     {
       "ID": "twinenchant01",
@@ -30852,15 +30857,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142188,
-      "Completed": 272
+      "Progressed": 142213,
+      "Completed": 273
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-26T09:03:00.172767+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:08:12.5582453+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:11:32.7857243+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-26T12:02:49.9741906+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:08:12.5584279+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:06:04.4281097+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:11:32.7859476+00:00"
 }

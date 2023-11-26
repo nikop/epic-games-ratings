@@ -719,9 +719,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 1992,
+  "EOS_Progressed": 1993,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -6079,6 +6079,11 @@
       "Time": "2023-11-26T12:08:07.1948197+00:00",
       "NumProgressed": 1992,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-26T13:11:26.5619794+00:00",
+      "NumProgressed": 1993,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6091,7 +6096,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "achievement_10",
@@ -6105,9 +6110,9 @@
       "ID": "achievement_11",
       "SetID": "222fo9l",
       "Name": "Betrayed",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 777
     },
     {
       "ID": "achievement_12",
@@ -6155,7 +6160,7 @@
       "Name": "Trusted Contractor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_18",
@@ -6163,7 +6168,7 @@
       "Name": "Full Arsenal",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_19",
@@ -6179,7 +6184,7 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "achievement_20",
@@ -6187,7 +6192,7 @@
       "Name": "Autofire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "achievement_21",
@@ -6203,7 +6208,7 @@
       "Name": "A Cut Above",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_23",
@@ -6219,7 +6224,7 @@
       "Name": "Eviscerator",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_25",
@@ -6251,7 +6256,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "achievement_29",
@@ -6339,7 +6344,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "achievement_39",
@@ -6355,15 +6360,15 @@
       "Name": "Cannon Fodder",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "achievement_40",
       "SetID": "222fo9l",
       "Name": "There\u0027s Always Peng!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 737
     },
     {
       "ID": "achievement_41",
@@ -6395,7 +6400,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "achievement_45",
@@ -6411,7 +6416,7 @@
       "Name": "Marked",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_47",
@@ -6427,7 +6432,7 @@
       "Name": "True Believer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "achievement_6",
@@ -6443,7 +6448,7 @@
       "Name": "S.O.S.",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "achievement_8",
@@ -6451,7 +6456,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "achievement_9",
@@ -6466,7 +6471,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1992,
+      "Progressed": 1993,
       "Completed": 13
     }
   ],
@@ -6474,8 +6479,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-24T08:59:05.9325653+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:08:07.1948191+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:11:26.5619791+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.9761475+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:59:36.2547945+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:08:07.1948839+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:02:54.8504956+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:11:26.5620246+00:00"
 }

@@ -1,12 +1,12 @@
 # Kingdom New Lands
 [Store](https://store.epicgames.com/en-US/p/kingdom-new-lands)  
 [View Rawdata](../../db/k/kingdom_new_lands.json)  
-Rating: 4.52 (Ranked 555)  
+Rating: 4.52 (Ranked 556)  
 Number of Ratings: 1,793  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 128  (Ranked 332)  
+Max (Quickly Understood Controls): 128  (Ranked 333)  
 Sum: 764 (Ranked 284)  
-Diff (max vs sum): 48  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 128 |

@@ -6,63 +6,63 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 9.00% | ~85,269 |
-| Gun Fu | 5.00% | ~47,372 |
-| The Fool | 4.00% | ~37,897 |
-| Right Back At Ya | 3.00% | ~28,423 |
-| Full Body Conversion | 2.00% | ~18,949 |
-| Stanislavski's Method | 2.00% | ~18,949 |
-| The Lovers | 2.00% | ~18,949 |
-| Relic Ruler | 2.00% | ~1,521 |
-| Christmas Tree Attack | 1.00% | ~9,474 |
-| The Hermit | 1.00% | ~9,474 |
-| The Wheel of Fortune | 1.00% | ~9,474 |
-| True Soldier | 1.00% | ~9,474 |
-| True Warrior | 1.00% | ~9,474 |
-| All the President's Men | 1.00% | ~761 |
-| Arachnophobia | 1.00% | ~761 |
-| The Quick and the Dead | 0.80% | ~7,579 |
-| Life of the Road | 0.80% | ~7,579 |
-| The High Priestess | 0.80% | ~7,579 |
-| Legend of The Afterlife | 0.80% | ~7,579 |
-| Bushido and Chill | 0.70% | ~6,632 |
-| The World | 0.70% | ~6,632 |
-| Master Crafter | 0.60% | ~5,685 |
-| I Am The Law | 0.60% | ~5,685 |
-| Judy vs Night City | 0.60% | ~5,685 |
-| Spin Doctor | 0.60% | ~456 |
-| To Protect and Serve | 0.50% | ~4,737 |
-| Two Heads, One Bullet | 0.50% | ~4,737 |
-| King of Wands | 0.50% | ~380 |
-| Dirty Deeds | 0.50% | ~380 |
-| Easy Come, Easy Go | 0.50% | ~380 |
-| The Wandering Fool | 0.40% | ~3,790 |
-| To Bad Decisions! | 0.30% | ~2,842 |
-| Breathtaking | 0.30% | ~2,842 |
-| Ten out of Ten | 0.30% | ~2,842 |
-| The Star | 0.30% | ~2,842 |
-| The Sun | 0.30% | ~2,842 |
-| Judgement Day | 0.30% | ~228 |
-| King of Swords | 0.30% | ~228 |
-| The Tower | 0.30% | ~228 |
-| Autojock | 0.20% | ~1,895 |
-| Must Be Rats | 0.20% | ~1,895 |
-| Temperance | 0.20% | ~1,895 |
-| The APB is Not Enough | 0.20% | ~152 |
-| King of Pentacles | 0.20% | ~152 |
-| City Lights | 0.10% | ~947 |
-| Frequent Flyer | 0.10% | ~947 |
-| Gunslinger | 0.10% | ~947 |
-| Mean Streets | 0.10% | ~947 |
-| Little Tokyo | 0.10% | ~947 |
-| The Wasteland | 0.10% | ~947 |
-| Daemon In The Shell | 0.10% | ~947 |
-| Rough Landing | 0.10% | ~947 |
-| The Devil | 0.10% | ~947 |
-| Greetings from Pacifica! | 0.10% | ~947 |
-| The Jungle | 0.10% | ~947 |
-| It's Elementary | 0.10% | ~947 |
-| King of Cups | 0.10% | ~76 |
+| V for Vendetta | 9.00% | ~85,312 |
+| Gun Fu | 5.00% | ~47,395 |
+| The Fool | 4.00% | ~37,916 |
+| Right Back At Ya | 3.00% | ~28,437 |
+| Full Body Conversion | 2.00% | ~18,958 |
+| Stanislavski's Method | 2.00% | ~18,958 |
+| The Lovers | 2.00% | ~18,958 |
+| Relic Ruler | 2.00% | ~1,531 |
+| Christmas Tree Attack | 1.00% | ~9,479 |
+| The Hermit | 1.00% | ~9,479 |
+| The Wheel of Fortune | 1.00% | ~9,479 |
+| True Soldier | 1.00% | ~9,479 |
+| True Warrior | 1.00% | ~9,479 |
+| All the President's Men | 1.00% | ~765 |
+| Arachnophobia | 1.00% | ~765 |
+| The Quick and the Dead | 0.90% | ~8,531 |
+| Legend of The Afterlife | 0.90% | ~8,531 |
+| Life of the Road | 0.80% | ~7,583 |
+| The High Priestess | 0.80% | ~7,583 |
+| Bushido and Chill | 0.70% | ~6,635 |
+| The World | 0.70% | ~6,635 |
+| Master Crafter | 0.60% | ~5,687 |
+| I Am The Law | 0.60% | ~5,687 |
+| Judy vs Night City | 0.60% | ~5,687 |
+| Spin Doctor | 0.60% | ~459 |
+| To Protect and Serve | 0.50% | ~4,740 |
+| Two Heads, One Bullet | 0.50% | ~4,740 |
+| King of Wands | 0.50% | ~383 |
+| Dirty Deeds | 0.50% | ~383 |
+| Easy Come, Easy Go | 0.50% | ~383 |
+| The Wandering Fool | 0.40% | ~3,792 |
+| To Bad Decisions! | 0.30% | ~2,844 |
+| Breathtaking | 0.30% | ~2,844 |
+| Ten out of Ten | 0.30% | ~2,844 |
+| The Star | 0.30% | ~2,844 |
+| The Sun | 0.30% | ~2,844 |
+| Judgement Day | 0.30% | ~230 |
+| King of Swords | 0.30% | ~230 |
+| The Tower | 0.30% | ~230 |
+| Autojock | 0.20% | ~1,896 |
+| Must Be Rats | 0.20% | ~1,896 |
+| Temperance | 0.20% | ~1,896 |
+| The APB is Not Enough | 0.20% | ~153 |
+| King of Pentacles | 0.20% | ~153 |
+| City Lights | 0.10% | ~948 |
+| Frequent Flyer | 0.10% | ~948 |
+| Gunslinger | 0.10% | ~948 |
+| Mean Streets | 0.10% | ~948 |
+| Little Tokyo | 0.10% | ~948 |
+| The Wasteland | 0.10% | ~948 |
+| Daemon In The Shell | 0.10% | ~948 |
+| Rough Landing | 0.10% | ~948 |
+| The Devil | 0.10% | ~948 |
+| Greetings from Pacifica! | 0.10% | ~948 |
+| The Jungle | 0.10% | ~948 |
+| It's Elementary | 0.10% | ~948 |
+| King of Cups | 0.10% | ~77 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 947,435 (Ranked 15)  
+Progressed: 947,906 (Ranked 15)  
 Completed: 2,814 (0.30%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,24 +294,24 @@ Completed: 2,814 (0.30%) (Ranked 237)
 | 2023-11-23 | 925,314 | 2,805 |
 | 2023-11-24 | 934,254 | 2,810 |
 | 2023-11-25 | 943,308 | 2,812 |
-| 2023-11-26 | 947,435 | 2,814 |
+| 2023-11-26 | 947,906 | 2,814 |
 ## Awards
 Max (Character Customization): 108,211  (Ranked 9)  
-Sum: 365,067 (Ranked 10)  
-Diff (max vs sum): -1  
+Sum: 365,236 (Ranked 9)  
+Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 108,211 |
 | This game has Great Boss Battles | 78,519 |
 | This game is Great for Beginners | 22,201 |
 | This game has Diverse Characters | 21,708 |
-| This game is Highly Recommended | 20,739 |
+| This game is Highly Recommended | 20,847 |
 | This game has Amazing Storytelling | 20,701 |
 | This game is Extremely Fun | 20,404 |
 | This game has Amazing Characters | 20,190 |
 | This game is Relaxing | 19,471 |
 | This game has Quickly Understood Controls | 19,425 |
-| This game has a Creative Community | 13,498 |
+| This game has a Creative Community | 13,559 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -626,4 +626,4 @@ Diff (max vs sum): -1
 | 2023-11-23 | 4.64 | - | 106,938 | 361,162 |
 | 2023-11-24 | 4.65 | - | 107,456 | 362,468 |
 | 2023-11-25 | 4.65 | - | 108,211 | 364,318 |
-| 2023-11-26 | 4.65 | - | 108,211 | 365,067 |
+| 2023-11-26 | 4.65 | - | 108,211 | 365,236 |

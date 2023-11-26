@@ -4367,9 +4367,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77165,
+  "EOS_Progressed": 77167,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23992,6 +23992,11 @@
       "Time": "2023-11-26T12:06:05.1056092+00:00",
       "NumProgressed": 77165,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-26T13:09:51.4794659+00:00",
+      "NumProgressed": 77167,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24163,7 +24168,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10031
+      "UsersEstimate": 10032
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -24211,7 +24216,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10031
+      "UsersEstimate": 10032
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -24219,7 +24224,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7716
+      "UsersEstimate": 7717
     },
     {
       "ID": "FREEZE_1",
@@ -24227,7 +24232,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21606
+      "UsersEstimate": 21607
     },
     {
       "ID": "FREEZE_1_5",
@@ -24243,7 +24248,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14661
+      "UsersEstimate": 14662
     },
     {
       "ID": "FREEZE_3",
@@ -24315,7 +24320,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19291
+      "UsersEstimate": 19292
     },
     {
       "ID": "HARLEY_3",
@@ -24331,7 +24336,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12346
+      "UsersEstimate": 12347
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -24347,7 +24352,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38582
+      "UsersEstimate": 38584
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24395,7 +24400,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26236
+      "UsersEstimate": 26237
     },
     {
       "ID": "MYSTERY_02",
@@ -24403,7 +24408,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19291
+      "UsersEstimate": 19292
     },
     {
       "ID": "MYSTERY_03",
@@ -24411,7 +24416,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16976
+      "UsersEstimate": 16977
     },
     {
       "ID": "MYSTERY_04",
@@ -24490,13 +24495,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77165,
+      "Progressed": 77167,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47445,
+      "Progressed": 47447,
       "Completed": 2675
     }
   ],
@@ -24504,8 +24509,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-26T08:57:09.0249426+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:06:05.1056088+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:09:51.4794655+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:56:58.0368174+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:06:05.1057742+00:00"
+  "LastUpdate_Ratings": "2023-11-26T12:59:56.4117034+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:09:51.4795989+00:00"
 }

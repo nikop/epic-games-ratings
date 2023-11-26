@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -645,9 +645,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5916,
+  "EOS_Progressed": 5917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6295,6 +6295,11 @@
       "Time": "2023-11-26T12:03:52.6209618+00:00",
       "NumProgressed": 5916,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T13:07:20.4269276+00:00",
+      "NumProgressed": 5917,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6347,7 +6352,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4555
+      "UsersEstimate": 4556
     },
     {
       "ID": "achievement_0007",
@@ -6355,7 +6360,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5561
+      "UsersEstimate": 5562
     },
     {
       "ID": "achievement_0008",
@@ -6363,7 +6368,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5206
+      "UsersEstimate": 5207
     },
     {
       "ID": "achievement_0009",
@@ -6379,7 +6384,7 @@
       "Name": "Network Success",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "achievement_0011",
@@ -6395,7 +6400,7 @@
       "Name": "Seasoned Rookie",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_0013",
@@ -6403,7 +6408,7 @@
       "Name": "Oil and Water",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "achievement_0014",
@@ -6427,7 +6432,7 @@
       "Name": "Hitting a Season",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "achievement_0017",
@@ -6451,7 +6456,7 @@
       "Name": "Undisputed Winner",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_0020",
@@ -6467,7 +6472,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4437
+      "UsersEstimate": 4438
     },
     {
       "ID": "achievement_0022",
@@ -6475,7 +6480,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "achievement_0023",
@@ -6499,7 +6504,7 @@
       "Name": "Wait, I know you?",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_0026",
@@ -6529,9 +6534,9 @@
       "ID": "achievement_0029",
       "SetID": "9123ogc",
       "Name": "Reduce",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1243
     },
     {
       "ID": "achievement_0030",
@@ -6571,7 +6576,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "achievement_0035",
@@ -6635,7 +6640,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_0043",
@@ -6698,7 +6703,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5916,
+      "Progressed": 5917,
       "Completed": 0
     }
   ],
@@ -6706,8 +6711,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-26T02:23:14.6086673+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:03:52.6209615+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:07:20.4269272+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:59:48.2702203+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:03:52.6210181+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:03:09.8326131+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:07:20.4269837+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1191,6 +1191,11 @@
       "Time": "2023-11-26T09:09:21.5945616+00:00",
       "NumProgressed": 279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T13:12:21.8847625+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1226,7 +1231,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achBett",
@@ -1266,7 +1271,7 @@
       "Name": "Chest \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achCity",
@@ -1586,7 +1591,7 @@
       "Name": "Weapon \u2714",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achWorms",
@@ -1601,7 +1606,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 0
     }
   ],
@@ -1609,8 +1614,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:08:56.3511518+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:12:21.884762+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:42.3198378+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:58:35.0527393+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:08:56.3511841+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:01:48.0431794+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:12:21.8848027+00:00"
 }

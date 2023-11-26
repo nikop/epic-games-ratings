@@ -1567,9 +1567,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160204,
+  "EOS_Progressed": 160214,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1125,
+  "EOS_NewPlayers": 1119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17137,6 +17137,11 @@
       "Time": "2023-11-26T12:05:08.5420962+00:00",
       "NumProgressed": 160204,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T13:08:47.0910353+00:00",
+      "NumProgressed": 160214,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17196,7 +17201,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6408
+      "UsersEstimate": 6409
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -17210,9 +17215,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8010
+      "UsersEstimate": 9613
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -17234,9 +17239,9 @@
       "ID": "DEFEAT_ARTISAN",
       "SetID": "ccc0dlh",
       "Name": "Artisan",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 961
+      "UsersEstimate": 1121
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -17364,7 +17369,7 @@
       "Name": "Imprint",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9612
+      "UsersEstimate": 9613
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -17420,7 +17425,7 @@
       "Name": "Ravenous",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6408
+      "UsersEstimate": 6409
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -17515,21 +17520,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159787,
+      "Progressed": 159797,
       "Completed": 1225
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160204,
+      "Progressed": 160214,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-25T23:59:33.0917526+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:05:08.5420958+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:08:47.0910349+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:58:46.2980996+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:05:08.5422071+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:01:59.3892621+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:08:47.091117+00:00"
 }

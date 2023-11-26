@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 105,
+  "Ranking_Rating": 106,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 183,
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6651,
+  "EOS_Progressed": 6659,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1072,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4544,6 +4544,11 @@
       "Time": "2023-11-26T12:08:57.225613+00:00",
       "NumProgressed": 6651,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T13:12:22.7668904+00:00",
+      "NumProgressed": 6659,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4564,7 +4569,7 @@
       "Name": "Baby Steps",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "BeLikeWater",
@@ -4628,7 +4633,7 @@
       "Name": "First Time?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1665
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4636,7 +4641,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "GarbageMan",
@@ -4700,7 +4705,7 @@
       "Name": "Nasty!",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "NoMoreTotems",
@@ -4708,7 +4713,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4738,9 +4743,9 @@
       "ID": "TheFloorIsLava",
       "SetID": "acc6ea0",
       "Name": "The Floor Is Lava",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 200
     },
     {
       "ID": "TheOldSchoolWay",
@@ -4748,7 +4753,7 @@
       "Name": "The Old-School Way",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "TheQuarterback",
@@ -4756,7 +4761,7 @@
       "Name": "The Quarterback",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1332
     },
     {
       "ID": "ThisIsDharma",
@@ -4772,7 +4777,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "UnResurrected",
@@ -4827,7 +4832,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6651,
+      "Progressed": 6659,
       "Completed": 7
     }
   ],
@@ -4835,8 +4840,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-24T22:00:19.133349+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:08:57.2256125+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:12:22.7668901+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:57:22.0655943+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:08:57.2256487+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:00:23.608385+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:12:22.766922+00:00"
 }

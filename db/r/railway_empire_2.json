@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2242,
+  "EOS_Progressed": 2243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6126,6 +6126,11 @@
       "Time": "2023-11-26T12:04:30.8138014+00:00",
       "NumProgressed": 2242,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T13:08:04.0116636+00:00",
+      "NumProgressed": 2243,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6265,7 +6270,7 @@
       "Name": "Traffic Jam",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "A17",
@@ -6297,7 +6302,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "A21",
@@ -6385,7 +6390,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "A32",
@@ -6407,9 +6412,9 @@
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1144
     },
     {
       "ID": "A35",
@@ -6425,7 +6430,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "A37",
@@ -6433,7 +6438,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "A38",
@@ -6457,7 +6462,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "A41",
@@ -6465,7 +6470,7 @@
       "Name": "Right through the middle",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "A42",
@@ -6505,7 +6510,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "A47",
@@ -6521,7 +6526,7 @@
       "Name": "Bull and bear",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "A49",
@@ -6576,7 +6581,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2242,
+      "Progressed": 2243,
       "Completed": 0
     }
   ],
@@ -6584,8 +6589,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:04:30.8138009+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:08:04.0116629+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.9441553+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:59:15.5856047+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:04:30.8138718+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:02:31.351888+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:08:04.0117284+00:00"
 }

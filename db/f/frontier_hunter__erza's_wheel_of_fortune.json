@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 325,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1037,6 +1037,11 @@
       "Time": "2023-11-26T12:03:54.0962375+00:00",
       "NumProgressed": 324,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T13:07:22.077581+00:00",
+      "NumProgressed": 325,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1048,7 +1053,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1056,7 +1061,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1110,9 +1115,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1136,7 +1141,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1150,17 +1155,17 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "7pimpda",
       "Name": "Face Slapper",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1182,9 +1187,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1200,7 +1205,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1230,9 +1235,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1240,7 +1245,7 @@
       "Name": "Boss challenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1366,17 +1371,17 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1384,15 +1389,15 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1407,7 +1412,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 325,
       "Completed": 1
     }
   ],
@@ -1415,8 +1420,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-26T12:03:54.0962372+00:00",
+  "LastChanged_Achievements": "2023-11-26T13:07:22.0775808+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:00:10.442092+00:00",
-  "LastUpdate_Achievements": "2023-11-26T12:03:54.0962673+00:00"
+  "LastUpdate_Ratings": "2023-11-26T12:59:50.1328347+00:00",
+  "LastUpdate_Achievements": "2023-11-26T13:07:22.0776103+00:00"
 }
