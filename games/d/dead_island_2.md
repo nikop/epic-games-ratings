@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,528 |
-| Hotel California | 2.00% | ~14,508 |
-| Welcome To Hell-A | 2.00% | ~14,508 |
+| Whatever It Takes | 3.00% | ~1,529 |
+| Hotel California | 2.00% | ~14,509 |
+| Welcome To Hell-A | 2.00% | ~14,509 |
 | One of Us | 2.00% | ~1,019 |
 | Pork Chopped | 2.00% | ~1,019 |
 | Dr. Reed, I Presume? | 1.00% | ~7,254 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 527)
 | Max Headroom | 0.80% | ~5,803 |
 | Humanity Distilled | 0.70% | ~5,078 |
 | Down with the Sickness | 0.70% | ~5,078 |
-| Not Even My Final Form | 0.60% | ~4,352 |
-| Jumbo Keyring | 0.60% | ~4,352 |
-| Go, Bobcats! | 0.60% | ~4,352 |
-| Rising Star | 0.60% | ~4,352 |
+| Not Even My Final Form | 0.60% | ~4,353 |
+| Jumbo Keyring | 0.60% | ~4,353 |
+| Go, Bobcats! | 0.60% | ~4,353 |
+| Rising Star | 0.60% | ~4,353 |
 | Internet Famous | 0.50% | ~3,627 |
 | Make it So | 0.40% | ~2,902 |
 | On Safari | 0.40% | ~2,902 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~725 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,404 (Ranked 21)  
+Progressed: 725,432 (Ranked 21)  
 Completed: 2,439 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,17 +277,17 @@ Completed: 2,439 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
-| 2023-11-26 | 725,404 | 2,439 |
+| 2023-11-26 | 725,432 | 2,439 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
-Sum: 11,828 (Ranked 83)  
+Sum: 11,832 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,731 |
 | This game is Great for Beginners | 595 |
 | This game has Diverse Characters | 566 |
-| This game has Quickly Understood Controls | 530 |
+| This game has Quickly Understood Controls | 534 |
 | This game is Relaxing | 510 |
 | This game has Amazing Storytelling | 494 |
 | This game is Highly Recommended | 481 |
@@ -515,4 +515,4 @@ Diff (max vs sum): -33
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
-| 2023-11-26 | 4.54 | 7,731 | 11,828 |
+| 2023-11-26 | 4.54 | 7,731 | 11,832 |

@@ -4,11 +4,11 @@
   "ProductSlug": "ranch-simulator",
   "Ranking_Rating": 692,
   "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 341,
+  "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 470,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-02-10T16:30:00+00:00",
     "PcReleaseDate": "2021-03-04T12:00:00+00:00",
@@ -1134,10 +1134,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 397,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-11-26T10:01:32.2707711+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 398,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 397,
+  "NumberOfAwards": 398,
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1187,7 +1193,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Relaxing",
@@ -1219,8 +1225,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2023-11-25T19:59:33.9103862+00:00",
+  "LastChanged": "2023-11-26T10:01:32.270771+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:15.76777+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:59:43.6976513+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:05:47.892968+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:01:32.2707715+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:07:28.5881452+00:00"
 }

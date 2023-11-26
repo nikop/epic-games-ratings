@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -307,7 +307,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232767,
+  "EOS_Progressed": 232769,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -22667,6 +22667,11 @@
       "Time": "2023-11-26T09:06:39.5654432+00:00",
       "NumProgressed": 232767,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T10:08:42.9694668+00:00",
+      "NumProgressed": 232769,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -22742,7 +22747,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83796
+      "UsersEstimate": 83797
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -22886,7 +22891,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39570
+      "UsersEstimate": 39571
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -22901,7 +22906,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232767,
+      "Progressed": 232769,
       "Completed": 5
     }
   ],
@@ -22909,8 +22914,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-22T11:00:30.8027045+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:06:39.5654429+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:08:42.9694667+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.2076606+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:58:04.4903627+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:06:39.5655563+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:59:00.9063082+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:08:42.969608+00:00"
 }

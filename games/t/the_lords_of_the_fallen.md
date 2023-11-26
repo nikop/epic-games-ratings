@@ -5,38 +5,36 @@ Rating: 4.20 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Comrades | 0.70% | ~14 |
 | A Veil Lifted | 0.60% | ~12 |
-| Lost and Found | 0.60% | ~12 |
+| Comrades | 0.60% | ~12 |
+| Lost and Found | 0.50% | ~10 |
 | Shared Triumph | 0.50% | ~10 |
 | No Mercy | 0.50% | ~10 |
-| Shades of Violence | 0.50% | ~10 |
 | Thriving in Darkness | 0.50% | ~10 |
+| Shades of Violence | 0.40% | ~8 |
 | The Past Shapes the Present | 0.40% | ~8 |
-| A Rest Among the Dead | 0.40% | ~8 |
-| Vengeance for the Fallen | 0.30% | ~6 |
-| Rise and Fall | 0.30% | ~6 |
-| Together in Death | 0.30% | ~6 |
-| Burying the Past | 0.30% | ~6 |
-| Unwanted | 0.30% | ~6 |
-| Unbroken to the End | 0.30% | ~6 |
-| Weapon Collector | 0.20% | ~4 |
-| What Sights Contained Within | 0.20% | ~4 |
-| Ammunition Collector | 0.20% | ~4 |
-| Throwable Collector | 0.20% | ~4 |
-| Gesture Collector | 0.20% | ~4 |
-| Rune Novice | 0.20% | ~4 |
-| Moving On | 0.20% | ~4 |
-| Essence of Death | 0.20% | ~4 |
+| A Rest Among the Dead | 0.30% | ~6 |
+| Vengeance for the Fallen | 0.20% | ~4 |
+| Rise and Fall | 0.20% | ~4 |
+| Together in Death | 0.20% | ~4 |
+| Burying the Past | 0.20% | ~4 |
+| Unwanted | 0.20% | ~4 |
+| Unbroken to the End | 0.20% | ~4 |
 | Seasoned | 0.20% | ~4 |
 | Wayfarer | 0.10% | ~2 |
+| Weapon Collector | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
+| What Sights Contained Within | 0.10% | ~2 |
 | Trinket Collector | 0.10% | ~2 |
+| Ammunition Collector | 0.10% | ~2 |
 | Inferno Adept | 0.10% | ~2 |
 | Radiant Adept | 0.10% | ~2 |
 | Umbral Adept | 0.10% | ~2 |
+| Throwable Collector | 0.10% | ~2 |
+| Gesture Collector | 0.10% | ~2 |
 | Salvation in Blood | 0.10% | ~2 |
 | Honed to Perfection | 0.10% | ~2 |
+| Rune Novice | 0.10% | ~2 |
 | Rune Master | 0.10% | ~2 |
 | Carving Out Victory | 0.10% | ~2 |
 | Utmost Insight | 0.10% | ~2 |
@@ -54,6 +52,7 @@ Rating: 4.20 (Ranked 915)
 | The Price of Knowledge | 0.10% | ~2 |
 | Part of the Divine | 0.10% | ~2 |
 | Travels Resumed | 0.10% | ~2 |
+| Moving On | 0.10% | ~2 |
 | Hero Worship | 0.10% | ~2 |
 | Antanas' Legacy | 0.10% | ~2 |
 | Faithful | 0.10% | ~2 |
@@ -65,11 +64,12 @@ Rating: 4.20 (Ranked 915)
 | In Light we Walk | 0.10% | ~2 |
 | Back to the Void | 0.10% | ~2 |
 | A Shadow Dispelled | 0.10% | ~2 |
+| Essence of Death | 0.10% | ~2 |
 | Lord of the Fallen | 0.10% | ~2 |
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,000 (Ranked 226)  
+Progressed: 2,001 (Ranked 226)  
 Completed: 1 (0.05%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.05%) (Ranked 310)
 | 2023-11-23 | 1,857 | 1 |
 | 2023-11-24 | 1,918 | 1 |
 | 2023-11-25 | 1,984 | 1 |
-| 2023-11-26 | 2,000 | 1 |
+| 2023-11-26 | 2,001 | 1 |
 ## Awards
 Max (Character Customization): 172  (Ranked 307)  
 Sum: 316 (Ranked 360)  

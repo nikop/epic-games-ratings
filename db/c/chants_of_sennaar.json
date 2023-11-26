@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.99,
+  "EOS_Completed_Percentage": 4.98,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3020,6 +3020,11 @@
       "Time": "2023-11-26T09:03:54.989005+00:00",
       "NumProgressed": 742,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-26T10:04:47.8996674+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 25,
@@ -3063,7 +3068,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "META_HALF_LINK",
@@ -3087,7 +3092,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "META_RESULT_1-4",
@@ -3151,7 +3156,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3230,14 +3235,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:03:54.9890046+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:04:47.8996672+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T09:00:08.7012462+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:03:54.9890386+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:02:07.9796563+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:04:47.8996975+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6871,10 +6871,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11828,
       "NumberOfAwardsMax": 7731
+    },
+    {
+      "Time": "2023-11-26T10:01:25.4778304+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11832,
+      "NumberOfAwardsMax": 7731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11828,
+  "NumberOfAwards": 11832,
   "NumberOfAwardsMax": 7731,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6894,7 +6900,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 530
+      "Count": 534
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6933,9 +6939,9 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 725404,
+  "EOS_Progressed": 725432,
   "EOS_Completed": 2439,
-  "EOS_NewPlayers": 4762,
+  "EOS_NewPlayers": 4767,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32093,6 +32099,11 @@
       "Time": "2023-11-26T09:05:56.81296+00:00",
       "NumProgressed": 725404,
       "NumCompleted": 2439
+    },
+    {
+      "Time": "2023-11-26T10:07:41.6949802+00:00",
+      "NumProgressed": 725432,
+      "NumCompleted": 2439
     }
   ],
   "TotalAchievements": 51,
@@ -32240,7 +32251,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "ach_hazardous_materials",
@@ -32264,7 +32275,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14508
+      "UsersEstimate": 14509
     },
     {
       "ID": "ach_impressive_aim",
@@ -32296,7 +32307,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "ach_knock_down",
@@ -32408,7 +32419,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "ach_thesacrifice",
@@ -32440,7 +32451,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14508
+      "UsersEstimate": 14509
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32448,7 +32459,7 @@
       "Name": "Rising Star",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "ach_well_trained",
@@ -32472,7 +32483,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "ach_gardening_tools",
@@ -32511,22 +32522,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 725404,
+      "Progressed": 725432,
       "Completed": 2439
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 50946,
+      "Progressed": 50974,
       "Completed": 36605
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-26T08:59:39.0177376+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:05:56.8129522+00:00",
+  "LastChanged": "2023-11-26T10:01:25.4778303+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:07:41.6949799+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:59:39.0177381+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:05:56.8130793+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:01:25.4778308+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:07:41.6951877+00:00"
 }

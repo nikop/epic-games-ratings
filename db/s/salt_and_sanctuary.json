@@ -2746,10 +2746,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2002,
       "NumberOfAwardsMax": 293
+    },
+    {
+      "Time": "2023-11-26T10:02:54.1263187+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2003,
+      "NumberOfAwardsMax": 293
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2002,
+  "NumberOfAwards": 2003,
   "NumberOfAwardsMax": 293,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2757,7 +2763,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 263
+      "Count": 264
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2814,9 +2820,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 539230,
+  "EOS_Progressed": 539233,
   "EOS_Completed": 1623,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -27074,6 +27080,11 @@
       "Time": "2023-11-26T09:08:41.2616401+00:00",
       "NumProgressed": 539230,
       "NumCompleted": 1623
+    },
+    {
+      "Time": "2023-11-26T10:09:12.0642835+00:00",
+      "NumProgressed": 539233,
+      "NumCompleted": 1623
     }
   ],
   "TotalAchievements": 37,
@@ -27101,7 +27112,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167161
+      "UsersEstimate": 167162
     },
     {
       "ID": "DEVOTED",
@@ -27141,7 +27152,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 447561
+      "UsersEstimate": 447563
     },
     {
       "ID": "HONED",
@@ -27197,7 +27208,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215692
+      "UsersEstimate": 215693
     },
     {
       "ID": "THE_CASTLE",
@@ -27205,7 +27216,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59315
+      "UsersEstimate": 59316
     },
     {
       "ID": "THE_CAVE",
@@ -27245,7 +27256,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80884
+      "UsersEstimate": 80885
     },
     {
       "ID": "THE_IMPOSTER",
@@ -27269,7 +27280,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75492
+      "UsersEstimate": 75493
     },
     {
       "ID": "THE_LAKE",
@@ -27325,7 +27336,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43138
+      "UsersEstimate": 43139
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -27341,7 +27352,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345107
+      "UsersEstimate": 345109
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -27357,7 +27368,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91669
+      "UsersEstimate": 91670
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -27365,7 +27376,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43138
+      "UsersEstimate": 43139
     },
     {
       "ID": "WISE_WORDS",
@@ -27380,15 +27391,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 539230,
+      "Progressed": 539233,
       "Completed": 1623
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-11-25T14:02:32.1101966+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:08:41.2616396+00:00",
+  "LastChanged": "2023-11-26T10:02:54.1263186+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:09:12.0642833+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.6010345+00:00",
-  "LastUpdate_Ratings": "2023-11-26T09:02:51.5695941+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:08:41.2618028+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:02:54.126319+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:09:12.0644484+00:00"
 }

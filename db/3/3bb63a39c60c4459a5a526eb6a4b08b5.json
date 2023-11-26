@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 946,
+  "EOS_Progressed": 947,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3614,6 +3614,11 @@
       "Time": "2023-11-24T23:08:58.0958231+00:00",
       "NumProgressed": 946,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T10:10:27.3690386+00:00",
+      "NumProgressed": 947,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3721,7 +3726,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "FullCompletion",
@@ -3761,7 +3766,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "LargeTerritories",
@@ -3809,7 +3814,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Millionaire",
@@ -3825,7 +3830,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "NoTimeForModernization",
@@ -3841,7 +3846,7 @@
       "Name": "No Way Back",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "NotPlanned",
@@ -3953,21 +3958,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 946,
+      "Progressed": 947,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:09:36.16586+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:10:27.3690384+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:54.7052462+00:00",
-  "LastUpdate_Ratings": "2023-11-26T09:00:13.829237+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:09:36.1658944+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:02:15.1836848+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:10:27.3690764+00:00"
 }

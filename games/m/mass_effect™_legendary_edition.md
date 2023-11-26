@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 93.00% | ~1,316 |
-| Spectre Inductee | 79.00% | ~1,118 |
+| Distinguished Service Medal | 93.00% | ~1,317 |
+| Spectre Inductee | 79.00% | ~1,119 |
 | Medal of Exploration I | 71.00% | ~1,005 |
-| Recruit | 67.00% | ~948 |
-| Search and Rescue | 67.00% | ~948 |
-| Quarian Ally | 63.00% | ~891 |
+| Recruit | 67.00% | ~949 |
+| Search and Rescue | 67.00% | ~949 |
+| Quarian Ally | 63.00% | ~892 |
 | Medal of Heroism | 59.00% | ~835 |
 | Honorarium of Corporate Service | 59.00% | ~835 |
 | Medal of Exploration II | 53.00% | ~750 |
@@ -18,27 +18,27 @@
 | Medal of Honor | 51.00% | ~722 |
 | Meritorious Service Medal | 51.00% | ~722 |
 | Charismatic | 50.00% | ~708 |
-| Soldier | 49.00% | ~693 |
+| Soldier | 49.00% | ~694 |
 | Soldier Ally | 46.00% | ~651 |
 | Asari Ally | 46.00% | ~651 |
 | Medal of Exploration III | 45.00% | ~637 |
 | Principled | 45.00% | ~637 |
 | Colonial Savior | 44.00% | ~623 |
-| Paramour I | 43.00% | ~608 |
-| Missing in Action | 43.00% | ~608 |
-| Scientist | 43.00% | ~608 |
-| Very Elusive | 42.00% | ~594 |
-| Merciless | 42.00% | ~594 |
-| Krogan Ally | 41.00% | ~580 |
+| Paramour I | 43.00% | ~609 |
+| Missing in Action | 43.00% | ~609 |
+| Scientist | 43.00% | ~609 |
+| Very Elusive | 42.00% | ~595 |
+| Merciless | 42.00% | ~595 |
+| Krogan Ally | 41.00% | ~581 |
 | Sentinel Ally | 40.00% | ~566 |
 | Head Hunter | 40.00% | ~566 |
-| Scholar | 40.00% | ~566 |
+| Scholar | 39.00% | ~552 |
 | The Professor | 38.00% | ~538 |
 | Operative | 38.00% | ~538 |
 | Veteran | 37.00% | ~524 |
 | The Archangel | 37.00% | ~524 |
-| Power Full | 36.00% | ~509 |
-| The Convict | 35.00% | ~495 |
+| Power Full | 36.00% | ~510 |
+| The Convict | 35.00% | ~496 |
 | Colony Defense | 34.00% | ~481 |
 | The Krogan | 34.00% | ~481 |
 | Broke, Blind, and Bedlam | 33.00% | ~467 |
@@ -53,20 +53,20 @@
 | Ghost of the Father | 31.00% | ~439 |
 | Driven | 31.00% | ~439 |
 | Shopaholic | 31.00% | ~439 |
-| Completionist | 30.00% | ~424 |
-| Catharsis | 30.00% | ~424 |
-| Fade Away | 30.00% | ~424 |
-| The Cure | 30.00% | ~424 |
-| Big Game Hunter | 30.00% | ~424 |
-| Revenge! | 30.00% | ~424 |
-| Heart of Darkness | 30.00% | ~424 |
-| Bringer of War | 30.00% | ~424 |
-| Focused | 29.00% | ~410 |
-| Archivist | 29.00% | ~410 |
-| Cat's in the Cradle | 29.00% | ~410 |
-| Treason | 29.00% | ~410 |
-| Agent | 29.00% | ~410 |
-| Digital Exorcist | 29.00% | ~410 |
+| Completionist | 30.00% | ~425 |
+| Catharsis | 30.00% | ~425 |
+| Fade Away | 30.00% | ~425 |
+| The Cure | 30.00% | ~425 |
+| Big Game Hunter | 30.00% | ~425 |
+| Revenge! | 30.00% | ~425 |
+| Heart of Darkness | 30.00% | ~425 |
+| Bringer of War | 30.00% | ~425 |
+| Focused | 29.00% | ~411 |
+| Archivist | 29.00% | ~411 |
+| Cat's in the Cradle | 29.00% | ~411 |
+| Treason | 29.00% | ~411 |
+| Agent | 29.00% | ~411 |
+| Digital Exorcist | 29.00% | ~411 |
 | Friend or Foe | 28.00% | ~396 |
 | Doppelganger | 28.00% | ~396 |
 | Mobilizer | 28.00% | ~396 |
@@ -83,9 +83,9 @@
 | Weapon Specialist | 24.00% | ~340 |
 | Pathfinder | 24.00% | ~340 |
 | Tunnel Rat | 24.00% | ~340 |
-| Arbiter | 23.00% | ~325 |
-| Savior | 22.00% | ~311 |
-| Lost and Found | 22.00% | ~311 |
+| Arbiter | 23.00% | ~326 |
+| Savior | 22.00% | ~312 |
+| Lost and Found | 22.00% | ~312 |
 | Paramour II | 21.00% | ~297 |
 | Party Crasher | 21.00% | ~297 |
 | Problem Solver | 21.00% | ~297 |
@@ -102,7 +102,7 @@
 | Patriot | 18.00% | ~255 |
 | Legend | 17.00% | ~241 |
 | Master and Commander | 17.00% | ~241 |
-| Sabotage Specialist | 16.00% | ~226 |
+| Sabotage Specialist | 16.00% | ~227 |
 | Long Service Medal | 15.00% | ~212 |
 | Throw Mastery | 15.00% | ~212 |
 | Mail Slot | 14.00% | ~198 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~14 |
 | The One and Only | 0.80% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,415 (Ranked 243)  
+Progressed: 1,416 (Ranked 243)  
 Completed: 6 (0.42%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,4 +204,4 @@ Completed: 6 (0.42%) (Ranked 216)
 | 2023-11-23 | 1,375 | 6 |
 | 2023-11-24 | 1,382 | 6 |
 | 2023-11-25 | 1,408 | 6 |
-| 2023-11-26 | 1,415 | 6 |
+| 2023-11-26 | 1,416 | 6 |

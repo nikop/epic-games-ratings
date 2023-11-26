@@ -8,7 +8,7 @@
 | Purification Pioneer | 48.00% | ~42 |
 | Mechanical Buddy | 46.00% | ~40 |
 | Dicesmithing Time! | 45.00% | ~39 |
-| Endless Tricks | 41.00% | ~36 |
+| Endless Tricks | 43.00% | ~37 |
 | Sanctuary Guardian | 40.00% | ~35 |
 | Noctuan Champion | 36.00% | ~31 |
 | Mind Illuminator | 34.00% | ~30 |
@@ -28,9 +28,9 @@
 | Astral Seeker | 16.00% | ~14 |
 | Heart Gate | 15.00% | ~13 |
 | Favored by the Cosmos | 14.00% | ~12 |
+| Stellar Haste | 14.00% | ~12 |
 | The Corruption Goddess | 14.00% | ~12 |
 | The Goddes Avatar | 14.00% | ~12 |
-| Stellar Haste | 13.00% | ~11 |
 | Heavy Purger | 10.00% | ~9 |
 | Sadistic Plan | 10.00% | ~9 |
 | Apian Hero | 10.00% | ~9 |

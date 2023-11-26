@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -49,7 +49,7 @@
   "Tags": [],
   "EOS_Progressed": 1083,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2528,9 +2528,9 @@
       "ID": "ACH_CAR_WASH_03",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 3",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_CAR_WASH_04",
@@ -2736,9 +2736,9 @@
       "ID": "GSS_ACH_19_RUDY",
       "SetID": "5fn8ia4",
       "Name": "Rudy!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1040
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
@@ -2944,9 +2944,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 812
+      "UsersEstimate": 823
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -3072,9 +3072,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 834
+      "UsersEstimate": 845
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -3249,8 +3249,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-25T09:58:05.7161965+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:06:38.6756683+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:08:41.7123386+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:58:32.3943273+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:06:38.675746+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:59:41.7258511+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:08:41.7124205+00:00"
 }

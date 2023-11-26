@@ -7231,10 +7231,10 @@
       "Count": 3785
     }
   ],
-  "EOS_Progressed": 142159,
-  "EOS_Completed": 270,
-  "EOS_NewPlayers": 1618,
-  "EOS_NewCompleters": 83,
+  "EOS_Progressed": 142168,
+  "EOS_Completed": 272,
+  "EOS_NewPlayers": 1619,
+  "EOS_NewCompleters": 85,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -29931,6 +29931,11 @@
       "Time": "2023-11-26T09:08:34.9757234+00:00",
       "NumProgressed": 142159,
       "NumCompleted": 270
+    },
+    {
+      "Time": "2023-11-26T10:09:03.1507011+00:00",
+      "NumProgressed": 142168,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 112,
@@ -30206,7 +30211,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "craft02",
@@ -30238,7 +30243,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "damage01",
@@ -30318,7 +30323,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "expansion02",
@@ -30396,9 +30401,9 @@
       "ID": "fuseuncommon",
       "SetID": "anfd17p",
       "Name": "Trash to Treasure",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 2843
     },
     {
       "ID": "gemsspent",
@@ -30502,7 +30507,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "jackslot03",
@@ -30526,7 +30531,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "level02",
@@ -30550,7 +30555,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "lilu_a",
@@ -30718,7 +30723,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "sell02",
@@ -30734,7 +30739,7 @@
       "Name": "Cash Only Please",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "sia_a",
@@ -30837,15 +30842,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142159,
-      "Completed": 270
+      "Progressed": 142168,
+      "Completed": 272
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-26T09:03:00.172767+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:08:34.975723+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:09:03.1507007+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-26T09:03:00.1727675+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:08:34.9759094+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:03:26.8696524+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:09:03.1509764+00:00"
 }

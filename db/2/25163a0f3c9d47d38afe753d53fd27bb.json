@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1645,
-  "EOS_Completed": 113,
-  "EOS_NewPlayers": 328,
-  "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 6.87,
+  "EOS_Progressed": 1646,
+  "EOS_Completed": 114,
+  "EOS_NewPlayers": 322,
+  "EOS_NewCompleters": 20,
+  "EOS_Completed_Percentage": 6.93,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3844,6 +3844,11 @@
       "Time": "2023-11-26T09:09:37.8791024+00:00",
       "NumProgressed": 1645,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-11-26T10:10:29.6906385+00:00",
+      "NumProgressed": 1646,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 30,
@@ -3855,7 +3860,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "LEVEL_002",
@@ -3879,7 +3884,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "LEVEL_005",
@@ -3935,7 +3940,7 @@
       "Name": "This island of mine",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "LEVEL_012",
@@ -3991,7 +3996,7 @@
       "Name": "Isle rock city",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "LEVEL_019",
@@ -4094,14 +4099,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1645,
-      "Completed": 113
+      "Progressed": 1646,
+      "Completed": 114
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:09:37.8791021+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:10:29.6906382+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:59:35.4266463+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:09:37.8791299+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:01:18.7716328+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:10:29.6906688+00:00"
 }

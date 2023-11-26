@@ -10,10 +10,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 6.00% | ~8,530 |
 | Basic in Bulk | 5.00% | ~7,108 |
 | Tinkle of Coins | 5.00% | ~7,108 |
-| Disintermediation | 4.00% | ~5,686 |
-| It's Free Real Estate | 4.00% | ~5,686 |
-| Budding Merchant | 4.00% | ~5,686 |
-| Capitalism Ho! | 4.00% | ~5,686 |
+| Disintermediation | 4.00% | ~5,687 |
+| It's Free Real Estate | 4.00% | ~5,687 |
+| Budding Merchant | 4.00% | ~5,687 |
+| Capitalism Ho! | 4.00% | ~5,687 |
 | One Easy Payment | 3.00% | ~4,265 |
 | Some Assembly Required | 3.00% | ~4,265 |
 | Another Satisfied Customer | 3.00% | ~4,265 |
@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 2.00% | ~2,843 |
 | Efficient Floor Space | 2.00% | ~2,843 |
 | Flawless Fusion | 2.00% | ~2,843 |
+| Trash to Treasure | 2.00% | ~2,843 |
 | Gem Expert | 2.00% | ~2,843 |
 | Gild-Gotten Goods | 2.00% | ~2,843 |
 | Royal Ransom | 2.00% | ~2,843 |
@@ -75,7 +76,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 1.00% | ~1,422 |
 | By Your Powers Combined... | 1.00% | ~1,422 |
 | A Legend is Born | 1.00% | ~1,422 |
-| Trash to Treasure | 1.00% | ~1,422 |
 | Mammonite | 1.00% | ~1,422 |
 | Wealth Beyond Measure | 1.00% | ~1,422 |
 | Fat Cat Tag Team | 1.00% | ~1,422 |
@@ -101,7 +101,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 1.00% | ~1,422 |
 | Complete Monopoly | 1.00% | ~1,422 |
 | King's Blade | 1.00% | ~1,422 |
-| Jackpot! | 0.90% | ~1,279 |
+| Jackpot! | 0.90% | ~1,280 |
 | Thank You Tom Nook | 0.80% | ~1,137 |
 | Eternal Crusade | 0.80% | ~1,137 |
 | The Free Encyclopedia | 0.70% | ~995 |
@@ -113,14 +113,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~569 |
 | Unleashed Potential | 0.40% | ~569 |
 | JACKPOT!!! | 0.40% | ~569 |
-| Oligarch Monarch | 0.30% | ~426 |
-| Merchant Extraordinaire | 0.30% | ~426 |
-| Cash Only Please | 0.30% | ~426 |
+| Oligarch Monarch | 0.30% | ~427 |
+| Merchant Extraordinaire | 0.30% | ~427 |
+| Cash Only Please | 0.30% | ~427 |
 | Capitalist Camaraderie | 0.20% | ~284 |
 | To Hell and Back | 0.20% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,159 (Ranked 80)  
-Completed: 270 (0.19%) (Ranked 260)  
+Progressed: 142,168 (Ranked 80)  
+Completed: 272 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -339,7 +339,7 @@ Completed: 270 (0.19%) (Ranked 260)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,159 | 270 |
+| 2023-11-26 | 142,168 | 272 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,604 (Ranked 50)  

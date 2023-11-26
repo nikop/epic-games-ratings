@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1389,9 +1389,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239690,
+  "EOS_Progressed": 239700,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1537,
+  "EOS_NewPlayers": 1538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19989,6 +19989,11 @@
       "Time": "2023-11-26T09:09:01.8908734+00:00",
       "NumProgressed": 239690,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T10:09:40.2077872+00:00",
+      "NumProgressed": 239700,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20048,7 +20053,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14381
+      "UsersEstimate": 14382
     },
     {
       "ID": "Chapter2",
@@ -20400,7 +20405,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19175
+      "UsersEstimate": 19176
     },
     {
       "ID": "DwarfElf15Support",
@@ -20432,7 +20437,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11984
+      "UsersEstimate": 11985
     },
     {
       "ID": "ElfEpic",
@@ -20448,7 +20453,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83892
+      "UsersEstimate": 83895
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20496,7 +20501,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21572
+      "UsersEstimate": 21573
     },
     {
       "ID": "FollowBraztok",
@@ -20648,7 +20653,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11984
+      "UsersEstimate": 11985
     },
     {
       "ID": "SupportCount4",
@@ -20703,21 +20708,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 239690,
+      "Progressed": 239700,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 239690,
+      "Progressed": 239700,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-23T22:59:47.2360206+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:09:01.8908729+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:09:40.2077869+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:57:37.5459216+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:09:01.8910575+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:58:20.3157288+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:09:40.2079586+00:00"
 }

@@ -1242,9 +1242,9 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 200,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_complete_tutorial",
@@ -1329,8 +1329,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:08:31.4687426+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:08:57.9418047+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:58:41.0970626+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:08:31.4687552+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:59:55.4612555+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:08:57.941821+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
-  "Ranking_Rating": 253,
+  "Ranking_Rating": 254,
   "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1694,7 +1694,7 @@
   ],
   "EOS_Progressed": 485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4414,9 +4414,9 @@
       "ID": "M_GOLS",
       "SetID": "80dcan0",
       "Name": "Financially Secure",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 242
     },
     {
       "ID": "M_HOME_RANK",
@@ -4430,9 +4430,9 @@
       "ID": "M_HOME_STAR",
       "SetID": "80dcan0",
       "Name": "Kind of a Big Deal",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "M_PET",
@@ -4470,17 +4470,17 @@
       "ID": "P_ENVIRONMENT",
       "SetID": "80dcan0",
       "Name": "Martle\u0027s Dream",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 213
     },
     {
       "ID": "P_FOREST",
       "SetID": "80dcan0",
       "Name": "The Little Wood that Could",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 325
     },
     {
       "ID": "P_HYDROGEL",
@@ -4670,9 +4670,9 @@
       "ID": "S_MARRY",
       "SetID": "80dcan0",
       "Name": "I Do!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 267
     },
     {
       "ID": "S_PARTY",
@@ -4790,8 +4790,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-26T01:52:29.1335976+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:04:39.9451553+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:05:51.544856+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.0814627+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:57:12.2835391+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:04:39.9452031+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:57:43.4610189+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:05:51.5449186+00:00"
 }

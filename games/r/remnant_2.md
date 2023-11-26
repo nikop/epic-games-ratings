@@ -21,6 +21,7 @@ Rating: 4.75 (Ranked 148)
 | Equal Measures | 0.20% | ~457 |
 | Blue Goddess | 0.20% | ~457 |
 | Duality | 0.20% | ~457 |
+| Top Performer | 0.20% | ~457 |
 | Shhh...It's a Secret | 0.20% | ~457 |
 | Was This Supposed To Happen? | 0.20% | ~457 |
 | Boss'n Up | 0.20% | ~457 |
@@ -40,7 +41,6 @@ Rating: 4.75 (Ranked 148)
 | Red Room | 0.10% | ~228 |
 | The Agenda | 0.10% | ~228 |
 | Tall Tales | 0.10% | ~228 |
-| Top Performer | 0.10% | ~228 |
 | Bad Moon Rising | 0.10% | ~228 |
 | Strapped | 0.10% | ~228 |
 | The Trigger | 0.10% | ~228 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~8 |
 | You Shall Pass | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,437 (Ranked 68)  
+Progressed: 228,476 (Ranked 68)  
 Completed: 530 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 530 (0.23%) (Ranked 248)
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
-| 2023-11-26 | 228,437 | 530 |
+| 2023-11-26 | 228,476 | 530 |
 ## Awards
 Max (Great Boss Battles): 2,436  (Ranked 105)  
 Sum: 5,928 (Ranked 129)  

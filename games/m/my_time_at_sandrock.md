@@ -1,7 +1,7 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 253)  
+Rating: 4.68 (Ranked 254)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,19 +12,19 @@ Number of Ratings: 892  (23.09.2022)
 | Super Spelunker | 92.00% | ~446 |
 | Your Especially Earned Trajectory | 89.00% | ~432 |
 | One of the Cool Kids | 68.00% | ~330 |
+| The Little Wood that Could | 67.00% | ~325 |
 | No Mountain Wide Enough | 67.00% | ~325 |
 | On that Grindset | 66.00% | ~320 |
-| The Little Wood that Could | 66.00% | ~320 |
 | Yakmel Whisperer | 63.00% | ~306 |
 | Can We Keep It? | 62.00% | ~301 |
 | Pack Mule | 61.00% | ~296 |
 | Diamonds are Forever | 60.00% | ~291 |
 | Unboxing | 56.00% | ~272 |
+| I Do! | 55.00% | ~267 |
 | First Love | 54.00% | ~262 |
-| I Do! | 54.00% | ~262 |
 | Chatterbox | 52.00% | ~252 |
 | Big Game Hunter | 51.00% | ~247 |
-| Financially Secure | 49.00% | ~238 |
+| Financially Secure | 50.00% | ~242 |
 | Got Served | 49.00% | ~238 |
 | You Don't Win Friends With Salad | 48.00% | ~233 |
 | Happier-est Place on Earth | 47.00% | ~228 |
@@ -35,10 +35,10 @@ Number of Ratings: 892  (23.09.2022)
 | Officially Official | 45.00% | ~218 |
 | Anti-Santa | 45.00% | ~218 |
 | Call Me Fishmael | 45.00% | ~218 |
+| Martle's Dream | 44.00% | ~213 |
 | What Plants Crave | 44.00% | ~213 |
 | Elementary, My Dear | 44.00% | ~213 |
 | Commissions, commissions...! | 43.00% | ~209 |
-| Martle's Dream | 43.00% | ~209 |
 | Waste Not Want Not | 43.00% | ~209 |
 | Knowledge is Power | 42.00% | ~204 |
 | Finishing Touches | 41.00% | ~199 |
@@ -50,8 +50,8 @@ Number of Ratings: 892  (23.09.2022)
 | Jewel of the Eufaula | 34.00% | ~165 |
 | Sepia Toned Memories | 34.00% | ~165 |
 | Time Flies | 32.00% | ~155 |
+| Kind of a Big Deal | 31.00% | ~150 |
 | He Can Spin A Yarn... | 31.00% | ~150 |
-| Kind of a Big Deal | 30.00% | ~146 |
 | Just What I Always Wanted! | 28.00% | ~136 |
 | Santa In Training | 27.00% | ~131 |
 | Sandrunning Speedster | 27.00% | ~131 |

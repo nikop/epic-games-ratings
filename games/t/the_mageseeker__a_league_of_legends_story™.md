@@ -5,33 +5,33 @@ Rating: 4.82 (Ranked 67)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,550 |
-| No more cages! | 92.00% | ~2,444 |
-| Everfrost | 79.00% | ~2,098 |
-| Pentakill | 78.00% | ~2,072 |
-| Dark Forest | 78.00% | ~2,072 |
-| The use of petricite | 75.00% | ~1,992 |
-| You can pet the dog | 62.00% | ~1,647 |
-| Big Helmet Bro | 39.00% | ~1,036 |
-| Thornbarrow | 39.00% | ~1,036 |
-| Clarion Cove | 39.00% | ~1,036 |
+| For Demacia | 96.00% | ~2,552 |
+| No more cages! | 92.00% | ~2,445 |
+| Everfrost | 79.00% | ~2,100 |
+| Pentakill | 78.00% | ~2,073 |
+| Dark Forest | 78.00% | ~2,073 |
+| The use of petricite | 75.00% | ~1,994 |
+| You can pet the dog | 62.00% | ~1,648 |
+| Big Helmet Bro | 39.00% | ~1,037 |
+| Thornbarrow | 39.00% | ~1,037 |
+| Clarion Cove | 39.00% | ~1,037 |
 | Elemental master | 37.00% | ~983 |
 | Past trauma | 37.00% | ~983 |
 | Ternmoat Headquarters | 37.00% | ~983 |
-| Cypress Glen Headquarters | 34.00% | ~903 |
-| Petricite Burst | 33.00% | ~876 |
-| Hijack | 31.00% | ~823 |
-| Old friend | 31.00% | ~823 |
+| Cypress Glen Headquarters | 34.00% | ~904 |
+| Petricite Burst | 33.00% | ~877 |
+| Hijack | 31.00% | ~824 |
+| Old friend | 31.00% | ~824 |
 | Devineur | 30.00% | ~797 |
 | Whispers in the Woods I | 28.00% | ~744 |
-| Ancient power | 27.00% | ~717 |
+| Ancient power | 27.00% | ~718 |
 | I chose my shackles | 26.00% | ~691 |
 | Sacred Woods | 25.00% | ~664 |
-| Capelworth | 24.00% | ~637 |
+| Capelworth | 24.00% | ~638 |
 | Little light | 23.00% | ~611 |
 | Iffighain Headquarters | 23.00% | ~611 |
 | Full equipped | 23.00% | ~611 |
-| Glyndemere | 22.00% | ~584 |
+| Glyndemere | 22.00% | ~585 |
 | Whispers in the Woods II | 19.00% | ~505 |
 | Quickmoore Headquarters | 19.00% | ~505 |
 | No more holding back | 18.00% | ~478 |
@@ -45,11 +45,11 @@ Rating: 4.82 (Ranked 67)
 | Cloven Dell Headquarters | 16.00% | ~425 |
 | Whispers in the Woods IV | 14.00% | ~372 |
 | I smell fear | 14.00% | ~372 |
-| Embrace the darkness | 13.00% | ~345 |
-| The end of the experiments | 13.00% | ~345 |
-| The Great City of Demacia | 13.00% | ~345 |
-| Truth is a dark mirror | 13.00% | ~345 |
-| Call it 'redistribution of magic | 13.00% | ~345 |
+| Embrace the darkness | 13.00% | ~346 |
+| The end of the experiments | 13.00% | ~346 |
+| The Great City of Demacia | 13.00% | ~346 |
+| Truth is a dark mirror | 13.00% | ~346 |
+| Call it 'redistribution of magic | 13.00% | ~346 |
 | Do you trust me? | 12.00% | ~319 |
 | Back to sleep, then... | 12.00% | ~319 |
 | Chains master | 11.00% | ~292 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 67)
 | Silverwing nest | 2.00% | ~53 |
 | The Unshackled | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,656 (Ranked 215)  
+Progressed: 2,658 (Ranked 215)  
 Completed: 16 (0.60%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 16 (0.60%) (Ranked 189)
 | 2023-11-23 | 2,644 | 16 |
 | 2023-11-24 | 2,648 | 16 |
 | 2023-11-25 | 2,653 | 16 |
-| 2023-11-26 | 2,656 | 16 |
+| 2023-11-26 | 2,658 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

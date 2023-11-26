@@ -229,9 +229,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15575,
+  "EOS_Progressed": 15577,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12324,6 +12324,11 @@
       "Time": "2023-11-26T09:05:49.5283016+00:00",
       "NumProgressed": 15575,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-26T10:07:30.7823331+00:00",
+      "NumProgressed": 15577,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12352,7 +12357,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "12",
@@ -12488,7 +12493,7 @@
       "Name": "Bosmang",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "28",
@@ -12584,7 +12589,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "33",
@@ -12608,20 +12613,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15575,
+      "Progressed": 15577,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1529,
+      "Progressed": 1531,
       "Completed": 725
     }
   ],
@@ -12629,8 +12634,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-25T17:58:09.1094239+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:05:49.5283013+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:07:30.7823328+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:58:39.5569208+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:05:49.5283591+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:59:52.6468706+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:07:30.7824357+00:00"
 }

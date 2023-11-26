@@ -1,44 +1,44 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 253)  
+Rating: 4.68 (Ranked 254)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~39,517 |
-| I read Shakespeare and stuff | 63.00% | ~33,643 |
-| Just a sprinkle | 61.00% | ~32,575 |
-| I'm stumped | 59.00% | ~31,507 |
-| Plant get enough | 59.00% | ~31,507 |
-| This is just my weekend vehicle | 57.00% | ~30,439 |
-| It's just the beginning | 57.00% | ~30,439 |
-| Hard work pays off | 52.00% | ~27,769 |
-| It's never too late to farm | 50.00% | ~26,700 |
-| All out of Land | 44.00% | ~23,496 |
-| Field Trip | 43.00% | ~22,962 |
-| I like to switch it up | 39.00% | ~20,826 |
-| Help me to help you | 37.00% | ~19,758 |
-| Ultimutt Pawesomeness | 27.00% | ~14,418 |
-| Van Gogh | 25.00% | ~13,350 |
-| Vehicle fleet | 22.00% | ~11,748 |
-| You wood not believe it | 21.00% | ~11,214 |
-| Well-Oiled Machine | 16.00% | ~8,544 |
-| Long haul | 16.00% | ~8,544 |
-| Clucky Streak | 15.00% | ~8,010 |
-| The plot thickens | 15.00% | ~8,010 |
-| Large-scale supplier | 15.00% | ~8,010 |
-| That's a wrap | 15.00% | ~8,010 |
-| Rock on | 12.00% | ~6,408 |
-| Fix me up | 12.00% | ~6,408 |
-| Highly cultivated | 11.00% | ~5,874 |
-| It's sow easy | 11.00% | ~5,874 |
-| Giddy-up! | 10.00% | ~5,340 |
-| Cowherd | 7.00% | ~3,738 |
-| Fluffyness | 6.00% | ~3,204 |
-| Helper A does not stop … ever | 6.00% | ~3,204 |
-| Bringing in the Honey | 6.00% | ~3,204 |
-| Road Trip | 5.00% | ~2,670 |
+| Own use | 74.00% | ~39,525 |
+| I read Shakespeare and stuff | 63.00% | ~33,650 |
+| Just a sprinkle | 61.00% | ~32,581 |
+| I'm stumped | 59.00% | ~31,513 |
+| Plant get enough | 59.00% | ~31,513 |
+| This is just my weekend vehicle | 57.00% | ~30,445 |
+| It's just the beginning | 57.00% | ~30,445 |
+| Hard work pays off | 52.00% | ~27,774 |
+| It's never too late to farm | 50.00% | ~26,706 |
+| All out of Land | 44.00% | ~23,501 |
+| Field Trip | 43.00% | ~22,967 |
+| I like to switch it up | 39.00% | ~20,831 |
+| Help me to help you | 37.00% | ~19,762 |
+| Ultimutt Pawesomeness | 27.00% | ~14,421 |
+| Van Gogh | 25.00% | ~13,353 |
+| Vehicle fleet | 22.00% | ~11,751 |
+| You wood not believe it | 21.00% | ~11,217 |
+| Well-Oiled Machine | 16.00% | ~8,546 |
+| Long haul | 16.00% | ~8,546 |
+| Clucky Streak | 15.00% | ~8,012 |
+| The plot thickens | 15.00% | ~8,012 |
+| Large-scale supplier | 15.00% | ~8,012 |
+| That's a wrap | 15.00% | ~8,012 |
+| Rock on | 12.00% | ~6,409 |
+| Fix me up | 12.00% | ~6,409 |
+| Highly cultivated | 11.00% | ~5,875 |
+| It's sow easy | 11.00% | ~5,875 |
+| Giddy-up! | 10.00% | ~5,341 |
+| Cowherd | 7.00% | ~3,739 |
+| Fluffyness | 6.00% | ~3,205 |
+| Helper A does not stop … ever | 6.00% | ~3,205 |
+| Bringing in the Honey | 6.00% | ~3,205 |
+| Road Trip | 5.00% | ~2,671 |
 | Three little piggies… | 4.00% | ~2,136 |
 | Game on | 4.00% | ~2,136 |
 | Pretty colourful | 0.80% | ~427 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~214 |
 | Raisin the stakes | 0.30% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,401 (Ranked 111)  
+Progressed: 53,412 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 6 (0.01%) (Ranked 340)
 | 2023-11-23 | 52,706 | 6 |
 | 2023-11-24 | 53,002 | 6 |
 | 2023-11-25 | 53,334 | 6 |
-| 2023-11-26 | 53,401 | 6 |
+| 2023-11-26 | 53,412 | 6 |
 ## Awards
 Max (Great for Beginners): 5,616  (Ranked 69)  
-Sum: 43,236 (Ranked 33)  
+Sum: 43,237 (Ranked 33)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): 36
 | This game has Diverse Characters | 4,600 |
 | This game is Educational | 4,372 |
 | This game is Highly Recommended | 4,303 |
-| This game is Relaxing | 4,301 |
+| This game is Relaxing | 4,302 |
 | This game has Quickly Understood Controls | 4,293 |
 | This game is Extremely Fun | 4,193 |
 | This game has Amazing Storytelling | 4,104 |
@@ -605,4 +605,4 @@ Diff (max vs sum): 36
 | 2023-11-23 | 4.68 | - | 5,590 | 43,128 |
 | 2023-11-24 | 4.68 | - | 5,601 | 43,169 |
 | 2023-11-25 | 4.68 | - | 5,616 | 43,233 |
-| 2023-11-26 | 4.68 | - | 5,616 | 43,236 |
+| 2023-11-26 | 4.68 | - | 5,616 | 43,237 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2000,
+  "EOS_Progressed": 2001,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3249,6 +3249,11 @@
       "Time": "2023-11-26T09:06:23.7034738+00:00",
       "NumProgressed": 2000,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T10:08:20.0420395+00:00",
+      "NumProgressed": 2001,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -3275,17 +3280,17 @@
       "ID": "TLOTF_ACHIEVEMENT_003",
       "SetID": "87e61g",
       "Name": "Lost and Found",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
       "SetID": "87e61g",
       "Name": "Weapon Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_005",
@@ -3299,9 +3304,9 @@
       "ID": "TLOTF_ACHIEVEMENT_006",
       "SetID": "87e61g",
       "Name": "What Sights Contained Within",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_007",
@@ -3315,9 +3320,9 @@
       "ID": "TLOTF_ACHIEVEMENT_008",
       "SetID": "87e61g",
       "Name": "Ammunition Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_009",
@@ -3347,17 +3352,17 @@
       "ID": "TLOTF_ACHIEVEMENT_012",
       "SetID": "87e61g",
       "Name": "Throwable Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_013",
       "SetID": "87e61g",
       "Name": "Gesture Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_014",
@@ -3379,9 +3384,9 @@
       "ID": "TLOTF_ACHIEVEMENT_016",
       "SetID": "87e61g",
       "Name": "Rune Novice",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_017",
@@ -3411,9 +3416,9 @@
       "ID": "TLOTF_ACHIEVEMENT_020",
       "SetID": "87e61g",
       "Name": "Comrades",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_021",
@@ -3427,9 +3432,9 @@
       "ID": "TLOTF_ACHIEVEMENT_022",
       "SetID": "87e61g",
       "Name": "Vengeance for the Fallen",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_023",
@@ -3467,49 +3472,49 @@
       "ID": "TLOTF_ACHIEVEMENT_027",
       "SetID": "87e61g",
       "Name": "Shades of Violence",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
       "SetID": "87e61g",
       "Name": "Rise and Fall",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_029",
       "SetID": "87e61g",
       "Name": "Together in Death",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_030",
       "SetID": "87e61g",
       "Name": "Burying the Past",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_031",
       "SetID": "87e61g",
       "Name": "Unwanted",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_032",
       "SetID": "87e61g",
       "Name": "Unbroken to the End",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_033",
@@ -3603,9 +3608,9 @@
       "ID": "TLOTF_ACHIEVEMENT_044",
       "SetID": "87e61g",
       "Name": "Moving On",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_045",
@@ -3699,9 +3704,9 @@
       "ID": "TLOTF_ACHIEVEMENT_056",
       "SetID": "87e61g",
       "Name": "Essence of Death",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_057",
@@ -3747,9 +3752,9 @@
       "ID": "TLOTF_ACHIEVEMENT_062",
       "SetID": "87e61g",
       "Name": "A Rest Among the Dead",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_063",
@@ -3764,7 +3769,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 2000,
+      "Progressed": 2001,
       "Completed": 1
     }
   ],
@@ -3772,8 +3777,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-25T18:00:10.4729212+00:00",
-  "LastChanged_Achievements": "2023-11-26T09:06:23.7034734+00:00",
+  "LastChanged_Achievements": "2023-11-26T10:08:20.0420392+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.9278986+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:57:10.023574+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:06:23.7035347+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:57:40.0623611+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:08:20.0421108+00:00"
 }

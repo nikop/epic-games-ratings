@@ -4,8 +4,8 @@
   "ProductSlug": "genesis-noir",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 470,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-03-26T14:00:00+00:00",
     "PcReleaseDate": "2021-03-26T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:01.7709149+00:00",
   "LastChanged": "2023-03-31T05:57:01.770915+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.6193145+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:58:05.1485151+00:00",
-  "LastUpdate_Achievements": "2023-11-26T09:05:11.3686388+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:59:01.9057625+00:00",
+  "LastUpdate_Achievements": "2023-11-26T10:06:36.3846869+00:00"
 }
