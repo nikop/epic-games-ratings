@@ -308,7 +308,7 @@
 | 294 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 474 | 215 |
 | 294 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 207 | 285 |
 | 294 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,979 | 64 |
-| 294 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,032 | 85 |
+| 294 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,035 | 85 |
 | 294 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 218 |
 | 311 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 554 |
 | 311 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 554 |

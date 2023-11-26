@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.79% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.77% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
@@ -59,8 +59,8 @@
 | 57 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 58 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 59 | [Scorn](games/s/scorn.md) | 6.97% |
-| 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.80% |
-| 61 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.75% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.81% |
+| 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.80% |
 | 62 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
 | 64 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -171,9 +171,9 @@
 | 169 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.92% |
 | 170 | [Hades](games/h/hades.md) | 0.91% |
 | 171 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.90% |
-| 172 | [Infindustry](games/i/infindustry.md) | 0.89% |
 | 172 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.89% |
-| 174 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
+| 173 | [Infindustry](games/i/infindustry.md) | 0.88% |
+| 173 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
 | 175 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
 | 175 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 177 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.85% |
@@ -230,11 +230,11 @@
 | 227 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 229 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
 | 230 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
+| 230 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.33% |
 | 230 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.33% |
 | 230 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.33% |
-| 233 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
-| 233 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.32% |
-| 233 | [Them and Us](games/t/them_and_us.md) | 0.32% |
+| 234 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
+| 234 | [Them and Us](games/t/them_and_us.md) | 0.32% |
 | 236 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 237 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 237 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |

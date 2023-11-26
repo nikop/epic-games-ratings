@@ -84,7 +84,7 @@
 | 82 | [God of War](games/g/god_of_war.md) | 4,401 | 4.88 | 16 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,150 | 4.51 | 569 |
 | 84 | [Days Gone](games/d/days_gone.md) | 4,056 | 4.68 | 253 |
-| 85 | [Trackmania](games/t/trackmania.md) | 4,032 | 4.66 | 294 |
+| 85 | [Trackmania](games/t/trackmania.md) | 4,035 | 4.66 | 294 |
 | 86 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,872 | 4.68 | 253 |
 | 87 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,861 | 4.27 | 862 |
 | 88 | [Paladins](games/p/paladins.md) | 3,854 | 4.32 | 822 |
