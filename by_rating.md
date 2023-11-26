@@ -102,7 +102,7 @@
 | 96 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,153 | 142 |
 | 96 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 812 | 170 |
 | 96 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,119 | 62 |
-| 96 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 403 | 231 |
+| 96 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 405 | 230 |
 | 96 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 125 | 336 |
 | 105 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 352 | 240 |
 | 105 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 425 |
@@ -246,34 +246,34 @@
 | 233 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,645 | 36 |
 | 233 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 58 | 417 |
 | 233 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 416 | 227 |
+| 233 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.69 | 0 | 555 |
 | 233 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 510 |
 | 233 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 555 |
 | 233 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 555 |
 | 233 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 95 | 371 |
 | 233 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 555 |
 | 233 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,041 | 151 |
-| 253 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,388 | 92 |
-| 253 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,872 | 86 |
-| 253 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 71 | 402 |
-| 253 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 555 |
-| 253 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 555 |
-| 253 | [Coromon](games/c/coromon.md) | 4.68 | 42 | 453 |
-| 253 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,536 | 52 |
-| 253 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,056 | 84 |
-| 253 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.68 | 24 | 525 |
-| 253 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 732 | 180 |
-| 253 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,616 | 69 |
-| 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 316,463 | 3 |
-| 253 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 264,431 | 4 |
-| 253 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 555 |
-| 253 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 555 |
-| 253 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.68 | 0 | 555 |
-| 253 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 599 | 195 |
-| 253 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 711 | 183 |
-| 253 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.68 | 0 | 555 |
-| 253 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 0 | 555 |
-| 253 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.68 | 0 | 555 |
-| 253 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 851 | 164 |
+| 254 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,388 | 92 |
+| 254 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,872 | 86 |
+| 254 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 71 | 402 |
+| 254 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 555 |
+| 254 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 555 |
+| 254 | [Coromon](games/c/coromon.md) | 4.68 | 42 | 453 |
+| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,536 | 52 |
+| 254 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,056 | 84 |
+| 254 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.68 | 24 | 525 |
+| 254 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 732 | 180 |
+| 254 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,616 | 69 |
+| 254 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 316,463 | 3 |
+| 254 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 264,431 | 4 |
+| 254 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 555 |
+| 254 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 555 |
+| 254 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.68 | 0 | 555 |
+| 254 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 599 | 195 |
+| 254 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 711 | 183 |
+| 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 0 | 555 |
+| 254 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.68 | 0 | 555 |
+| 254 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 851 | 164 |
 | 275 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 555 |
 | 275 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 700 | 184 |
 | 275 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 555 |
@@ -504,7 +504,7 @@
 | 493 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 555 |
 | 493 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,751 | 76 |
 | 493 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,819 | 119 |
-| 493 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,881 | 74 |
+| 493 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,890 | 74 |
 | 506 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 555 |
 | 506 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 555 |
 | 506 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.55 | 26 | 515 |
@@ -551,7 +551,7 @@
 | 541 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 555 |
 | 541 | [Sable](games/s/sable.md) | 4.53 | 25 | 520 |
 | 541 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 555 |
-| 541 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 527 | 209 |
+| 541 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 528 | 209 |
 | 541 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 555 |
 | 541 | [Verdun](games/v/verdun.md) | 4.53 | 103 | 356 |
 | 555 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 0 | 555 |
