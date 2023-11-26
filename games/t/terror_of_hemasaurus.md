@@ -19,17 +19,17 @@
 | Demolition Ambition | 14.00% | ~11 |
 | Hindenburgerer | 9.00% | ~7 |
 | Punchy Wagon | 9.00% | ~7 |
+| Holy Terror | 6.00% | ~5 |
 | Kill All Humans! | 6.00% | ~5 |
-| Holy Terror | 5.00% | ~4 |
+| Midair Affair | 5.00% | ~4 |
 | Plight of the Valkyrie | 5.00% | ~4 |
 | Rocket Science | 4.00% | ~3 |
-| Midair Affair | 4.00% | ~3 |
 | Meat Catcher | 4.00% | ~3 |
+| Demolition Tactician | 4.00% | ~3 |
+| Hot Potato | 4.00% | ~3 |
 | Shakedown Breakdown | 4.00% | ~3 |
 | Trash the Planet. | 4.00% | ~3 |
 | Demolition Exhibition | 3.00% | ~2 |
-| Demolition Tactician | 3.00% | ~2 |
-| Hot Potato | 3.00% | ~2 |
 | Oblideration Nation | 3.00% | ~2 |
 | SWATing Flies | 3.00% | ~2 |
 | Juggle the People | 3.00% | ~2 |

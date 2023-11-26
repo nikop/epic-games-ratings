@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2987,9 +2987,9 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 225
     },
     {
       "ID": "AC43",
@@ -3028,8 +3028,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-18T16:58:56.9508532+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:08:48.0528143+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:08:01.488818+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:32.1505355+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:59:31.8375334+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:08:48.0528467+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:58:35.1954206+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:08:01.4888813+00:00"
 }

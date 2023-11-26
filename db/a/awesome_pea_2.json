@@ -4,7 +4,7 @@
   "ProductSlug": "awesome-pea-2-45617a",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-20T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-28T06:59:06.0873593+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:16.2156648+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:02:31.5665503+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:04:19.9153685+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:00:15.7369054+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:03:22.6063593+00:00"
 }

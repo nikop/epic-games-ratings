@@ -22,6 +22,7 @@
 | Let Me Solo Them | 5.00% | ~4 |
 | The River Styx | 3.00% | ~3 |
 | Frigid Winds | 3.00% | ~3 |
+| Missing Melodies | 1.00% | ~1 |
 | Smotherly Love | 1.00% | ~1 |
 | Transformative Nature | 1.00% | ~1 |
 | Champion of Starspire | 1.00% | ~1 |
@@ -36,7 +37,6 @@
 | Pommelsmith | 0.00% | ~0 |
 | The Trinket Tracker | 0.00% | ~0 |
 | Family Heirlooms | 0.00% | ~0 |
-| Missing Melodies | 0.00% | ~0 |
 | A Casualty of Truth | 0.00% | ~0 |
 | Ignorant Bliss | 0.00% | ~0 |
 | A Blunted Blade | 0.00% | ~0 |

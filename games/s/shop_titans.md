@@ -6,22 +6,22 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,538 |
-| Basic in Bulk | 6.00% | ~8,538 |
-| Titan's First Steps | 6.00% | ~8,538 |
-| Tinkle of Coins | 5.00% | ~7,115 |
-| Disintermediation | 4.00% | ~5,692 |
-| It's Free Real Estate | 4.00% | ~5,692 |
-| Budding Merchant | 4.00% | ~5,692 |
-| Capitalism Ho! | 4.00% | ~5,692 |
-| One Easy Payment | 3.00% | ~4,269 |
-| Some Assembly Required | 3.00% | ~4,269 |
-| Another Satisfied Customer | 3.00% | ~4,269 |
-| Pretty Penny | 3.00% | ~4,269 |
-| One-Armed Bandit | 3.00% | ~4,269 |
-| Through Repetition, Perfection | 3.00% | ~4,269 |
-| Own the Means of Production | 3.00% | ~4,269 |
-| The Daily Grind | 2.00% | ~2,846 |
+| Sponsored by Argon | 6.00% | ~8,539 |
+| Basic in Bulk | 6.00% | ~8,539 |
+| Titan's First Steps | 6.00% | ~8,539 |
+| Tinkle of Coins | 5.00% | ~7,116 |
+| Disintermediation | 4.00% | ~5,693 |
+| It's Free Real Estate | 4.00% | ~5,693 |
+| Budding Merchant | 4.00% | ~5,693 |
+| Capitalism Ho! | 4.00% | ~5,693 |
+| The Daily Grind | 3.00% | ~4,270 |
+| One Easy Payment | 3.00% | ~4,270 |
+| Some Assembly Required | 3.00% | ~4,270 |
+| Another Satisfied Customer | 3.00% | ~4,270 |
+| Pretty Penny | 3.00% | ~4,270 |
+| One-Armed Bandit | 3.00% | ~4,270 |
+| Through Repetition, Perfection | 3.00% | ~4,270 |
+| Own the Means of Production | 3.00% | ~4,270 |
 | On the Path to Greatness | 2.00% | ~2,846 |
 | Ascended | 2.00% | ~2,846 |
 | Tax not Included | 2.00% | ~2,846 |
@@ -103,7 +103,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 1.00% | ~1,423 |
 | Thank You Tom Nook | 0.90% | ~1,281 |
 | Jackpot! | 0.90% | ~1,281 |
-| Eternal Crusade | 0.80% | ~1,138 |
+| Eternal Crusade | 0.80% | ~1,139 |
 | The Free Encyclopedia | 0.70% | ~996 |
 | The Greatest Grind | 0.60% | ~854 |
 | All or Nothing! | 0.60% | ~854 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.20% | ~285 |
 | To Hell and Back | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,300 (Ranked 80)  
-Completed: 273 (0.19%) (Ranked 260)  
+Progressed: 142,317 (Ranked 80)  
+Completed: 274 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -339,7 +339,7 @@ Completed: 273 (0.19%) (Ranked 260)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,300 | 273 |
+| 2023-11-26 | 142,317 | 274 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,607 (Ranked 50)  

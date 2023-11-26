@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6708,
+  "EOS_Progressed": 6712,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1111,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4579,6 +4579,11 @@
       "Time": "2023-11-26T19:09:51.3118197+00:00",
       "NumProgressed": 6708,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T20:08:45.9971395+00:00",
+      "NumProgressed": 6712,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4661,9 +4666,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1745
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4671,7 +4676,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "GarbageMan",
@@ -4735,7 +4740,7 @@
       "Name": "Nasty!",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "NoMoreTotems",
@@ -4743,7 +4748,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4815,7 +4820,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -4847,7 +4852,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "k01101110",
@@ -4862,7 +4867,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6708,
+      "Progressed": 6712,
       "Completed": 7
     }
   ],
@@ -4870,8 +4875,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-24T22:00:19.133349+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:09:51.3118194+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:08:45.9971391+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:58:04.9113627+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:09:51.3118582+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:57:38.2351659+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:08:45.9971823+00:00"
 }

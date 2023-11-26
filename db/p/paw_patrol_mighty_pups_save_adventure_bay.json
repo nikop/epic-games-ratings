@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -339,9 +339,9 @@
       "ID": "20",
       "SetID": "38ide56",
       "Name": "In the Air",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "21",
@@ -419,9 +419,9 @@
       "ID": "3",
       "SetID": "38ide56",
       "Name": "Risky Rescue",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "4",
@@ -484,8 +484,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:06:52.7306642+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:05:10.0917098+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:44.4529599+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:00:04.2111989+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:06:52.7306908+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:58:56.7750156+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:05:10.0917271+00:00"
 }

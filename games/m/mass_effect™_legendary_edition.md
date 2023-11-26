@@ -17,8 +17,8 @@
 | Turian Ally | 52.00% | ~740 |
 | Medal of Honor | 51.00% | ~726 |
 | Meritorious Service Medal | 51.00% | ~726 |
+| Soldier | 50.00% | ~712 |
 | Charismatic | 50.00% | ~712 |
-| Soldier | 49.00% | ~698 |
 | Soldier Ally | 46.00% | ~655 |
 | Asari Ally | 46.00% | ~655 |
 | Medal of Exploration III | 45.00% | ~641 |
@@ -67,13 +67,13 @@
 | Treason | 29.00% | ~413 |
 | Agent | 29.00% | ~413 |
 | Digital Exorcist | 29.00% | ~413 |
+| Against All Odds | 28.00% | ~399 |
 | Friend or Foe | 28.00% | ~399 |
 | Doppelganger | 28.00% | ~399 |
 | Mobilizer | 28.00% | ~399 |
 | Untouchable | 27.00% | ~384 |
 | Mission Accomplished | 27.00% | ~384 |
 | Suicide Mission | 27.00% | ~384 |
-| Against All Odds | 27.00% | ~384 |
 | Eye of the Hurricane | 26.00% | ~370 |
 | Giant Killer | 26.00% | ~370 |
 | A House Divided | 26.00% | ~370 |
@@ -92,11 +92,11 @@
 | Problem Solver | 21.00% | ~299 |
 | Under Pressure | 20.00% | ~285 |
 | Last Resort | 20.00% | ~285 |
+| No One Left Behind | 20.00% | ~285 |
 | Saboteur | 20.00% | ~285 |
 | Last Witness | 20.00% | ~285 |
 | Fact Finder | 20.00% | ~285 |
 | Pyromaniac | 19.00% | ~271 |
-| No One Left Behind | 19.00% | ~271 |
 | Well Connected | 19.00% | ~271 |
 | Executioner | 18.00% | ~256 |
 | Patriot | 18.00% | ~256 |

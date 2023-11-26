@@ -848,9 +848,9 @@
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
       "SetID": "6od1ndi",
       "Name": "Kokakoka",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -920,9 +920,9 @@
       "ID": "Level_completed_008_005",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VIII",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "Level_completed_009_007",
@@ -968,9 +968,9 @@
       "ID": "Won_over_Octoboss_in_005",
       "SetID": "6od1ndi",
       "Name": "Blubb",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     }
   ],
   "AchievementSets": [
@@ -985,8 +985,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:09:16.3590952+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:08:21.3290991+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.8932991+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:59:47.0656497+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:09:16.3591162+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:58:45.5330176+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:08:21.3291166+00:00"
 }

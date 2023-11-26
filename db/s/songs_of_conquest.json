@@ -5,9 +5,9 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 404,
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 250,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -1173,6 +1173,11 @@
       "Time": "2023-11-26T19:07:48.5275768+00:00",
       "NumProgressed": 248,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T20:05:49.5566287+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1209,7 +1214,7 @@
       "Name": "Dressed For Success",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "AttackCount",
@@ -1289,7 +1294,7 @@
       "Name": "Critical Hit",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Deepstrike",
@@ -1329,7 +1334,7 @@
       "Name": "Double Kill",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1425,23 +1430,23 @@
       "Name": "Whoops!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RanaCampaign",
       "SetID": "71c0n9i",
       "Name": "From the Ashes",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "The Marsh Expands",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ReclaimTown",
@@ -1513,7 +1518,7 @@
       "Name": "Adept",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "WielderLevel2",
@@ -1551,7 +1556,7 @@
       "ID": "WinBattleWithOneUnitLeft",
       "SetID": "71c0n9i",
       "Name": "Pyrrhic Victory",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1616,15 +1621,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:07:48.5275766+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:05:49.5566282+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:57:48.4255836+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:07:48.5276089+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:57:27.3938098+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:05:49.5566627+00:00"
 }

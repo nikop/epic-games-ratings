@@ -102,14 +102,14 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-26 | 3,717 | 0 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 459)  
-Sum: 113 (Ranked 440)  
-Diff (max vs sum): 19  
+Sum: 115 (Ranked 437)  
+Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 39 |
 | This game has a Competitive Community | 30 |
 | This game is Highly Recommended | 24 |
-| This game is Extremely Fun | 20 |
+| This game is Extremely Fun | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -245,4 +245,4 @@ Diff (max vs sum): 19
 | 2023-11-19 | 4.27 | 38 | 91 |
 | 2023-11-20 | 4.27 | 38 | 111 |
 | 2023-11-23 | 4.27 | 38 | 112 |
-| 2023-11-26 | 4.27 | 39 | 113 |
+| 2023-11-26 | 4.27 | 39 | 115 |

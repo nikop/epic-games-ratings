@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
@@ -6945,9 +6945,9 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 725867,
+  "EOS_Progressed": 725920,
   "EOS_Completed": 2439,
-  "EOS_NewPlayers": 4866,
+  "EOS_NewPlayers": 4904,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32155,6 +32155,11 @@
       "Time": "2023-11-26T19:07:38.0952199+00:00",
       "NumProgressed": 725867,
       "NumCompleted": 2439
+    },
+    {
+      "Time": "2023-11-26T20:05:42.4259096+00:00",
+      "NumProgressed": 725920,
+      "NumCompleted": 2439
     }
   ],
   "TotalAchievements": 51,
@@ -32198,7 +32203,7 @@
       "Name": "Make it So",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2904
     },
     {
       "ID": "ach_big_name_in_town",
@@ -32230,7 +32235,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14517
+      "UsersEstimate": 14518
     },
     {
       "ID": "ach_contender",
@@ -32238,7 +32243,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3630
     },
     {
       "ID": "ach_defensive",
@@ -32270,7 +32275,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3630
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -32302,7 +32307,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "ach_hazardous_materials",
@@ -32326,7 +32331,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14517
+      "UsersEstimate": 14518
     },
     {
       "ID": "ach_impressive_aim",
@@ -32342,7 +32347,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3630
     },
     {
       "ID": "ach_investigator",
@@ -32358,7 +32363,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "ach_knock_down",
@@ -32470,7 +32475,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "ach_thesacrifice",
@@ -32494,7 +32499,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3630
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -32502,7 +32507,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14517
+      "UsersEstimate": 14518
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32510,7 +32515,7 @@
       "Name": "Rising Star",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "ach_well_trained",
@@ -32526,7 +32531,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ach_dark_magic",
@@ -32534,7 +32539,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1544
     },
     {
       "ID": "ach_gardening_tools",
@@ -32550,7 +32555,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32573,22 +32578,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 725867,
+      "Progressed": 725920,
       "Completed": 2439
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 51409,
-      "Completed": 36607
+      "Progressed": 51462,
+      "Completed": 36608
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-26T15:59:54.8406486+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:07:38.0952197+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:05:42.4259092+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:01:10.5035082+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:07:38.0953417+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:59:42.2220589+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:05:42.4260323+00:00"
 }

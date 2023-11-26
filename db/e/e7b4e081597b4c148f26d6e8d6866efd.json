@@ -4,7 +4,7 @@
   "ProductSlug": "tribu-55feb1",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-29T23:00:00+00:00",
@@ -157,8 +157,8 @@
   ],
   "FirstSeen": "2023-10-03T21:00:26.9432123+00:00",
   "FirstSeenAchievements": "2023-09-20T15:05:46.3823946+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:07:01.4028338+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:05:16.1551408+00:00",
   "LastUpdate_AppInfo": "2023-11-24T20:57:04.4169662+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:59:54.738149+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:07:01.402842+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:58:50.5762829+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:05:16.155153+00:00"
 }

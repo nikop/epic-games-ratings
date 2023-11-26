@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -330,9 +330,9 @@
       "ID": "ACH_20000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Holy Terror",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_20_CARS_DESTROYED",
@@ -346,9 +346,9 @@
       "ID": "ACH_20_MIDAIR_COLLISIONS",
       "SetID": "aio76gp",
       "Name": "Midair Affair",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_25_BLIMPS",
@@ -378,9 +378,9 @@
       "ID": "ACH_40_STAGES_ENDLESS",
       "SetID": "aio76gp",
       "Name": "Demolition Tactician",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_5000_CIVILIANS",
@@ -394,9 +394,9 @@
       "ID": "ACH_50_CATCHES",
       "SetID": "aio76gp",
       "Name": "Hot Potato",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_50_CHOPPER_BLADES",
@@ -523,8 +523,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:05:10.3561817+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:03:58.3394306+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.9832168+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:57:12.0419464+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:05:10.3562014+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:57:02.7898478+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:03:58.3394488+00:00"
 }

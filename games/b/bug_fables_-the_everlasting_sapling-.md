@@ -20,17 +20,17 @@
 | Reconciliation | 19.00% | ~18 |
 | The Terror | 17.00% | ~16 |
 | Bounty Hunter | 16.00% | ~15 |
+| All Geared Up | 14.00% | ~13 |
 | Battle Ready | 14.00% | ~13 |
-| All Geared Up | 13.00% | ~12 |
 | The End | 13.00% | ~12 |
 | Good Deed | 13.00% | ~12 |
 | Music Collector | 12.00% | ~11 |
 | Ultimate Team! | 11.00% | ~10 |
 | Gamer | 10.00% | ~9 |
 | Pro Explorers | 10.00% | ~9 |
+| Cooking Maestro | 9.00% | ~8 |
 | Field Researcher | 9.00% | ~8 |
 | Helping Hand | 9.00% | ~8 |
-| Cooking Maestro | 8.00% | ~7 |
 | Medal Collector | 5.00% | ~5 |
 | Our job's done! | 5.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3020,
+  "EOS_Progressed": 3023,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4431,6 +4431,11 @@
       "Time": "2023-11-26T17:05:09.5034668+00:00",
       "NumProgressed": 3020,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-26T20:04:55.8510859+00:00",
+      "NumProgressed": 3023,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4450,7 +4455,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "FALLEN_TREE",
@@ -4466,7 +4471,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "MOVE_ON",
@@ -4506,7 +4511,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4522,7 +4527,7 @@
       "Name": "The end",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "TRANSMISSION",
@@ -4545,7 +4550,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3020,
+      "Progressed": 3023,
       "Completed": 6
     }
   ],
@@ -4553,8 +4558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:06:32.1342364+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:04:55.8510854+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:11.4172753+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:58:35.6632666+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:06:32.1342653+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:57:59.2998317+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:04:55.8511183+00:00"
 }

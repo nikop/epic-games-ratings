@@ -1,16 +1,16 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 527)  
+Rating: 4.54 (Ranked 528)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,542 |
-| Break A Leg | 2.00% | ~14,517 |
-| Hotel California | 2.00% | ~14,517 |
-| Welcome To Hell-A | 2.00% | ~14,517 |
-| One of Us | 2.00% | ~1,028 |
-| Pork Chopped | 2.00% | ~1,028 |
+| Whatever It Takes | 3.00% | ~1,544 |
+| Break A Leg | 2.00% | ~14,518 |
+| Hotel California | 2.00% | ~14,518 |
+| Welcome To Hell-A | 2.00% | ~14,518 |
+| One of Us | 2.00% | ~1,029 |
+| Pork Chopped | 2.00% | ~1,029 |
 | Dr. Reed, I Presume? | 1.00% | ~7,259 |
 | Git Gutte! | 1.00% | ~7,259 |
 | Anger Management | 1.00% | ~7,259 |
@@ -37,15 +37,15 @@ Rating: 4.54 (Ranked 527)
 | Max Headroom | 0.80% | ~5,807 |
 | Humanity Distilled | 0.70% | ~5,081 |
 | Down with the Sickness | 0.70% | ~5,081 |
-| Not Even My Final Form | 0.60% | ~4,355 |
-| Jumbo Keyring | 0.60% | ~4,355 |
-| Go, Bobcats! | 0.60% | ~4,355 |
-| Rising Star | 0.60% | ~4,355 |
-| On Safari | 0.50% | ~3,629 |
-| Smorgasbord | 0.50% | ~3,629 |
-| Internet Famous | 0.50% | ~3,629 |
-| Variety is the Spice of Death | 0.50% | ~3,629 |
-| Make it So | 0.40% | ~2,903 |
+| Not Even My Final Form | 0.60% | ~4,356 |
+| Jumbo Keyring | 0.60% | ~4,356 |
+| Go, Bobcats! | 0.60% | ~4,356 |
+| Rising Star | 0.60% | ~4,356 |
+| On Safari | 0.50% | ~3,630 |
+| Smorgasbord | 0.50% | ~3,630 |
+| Internet Famous | 0.50% | ~3,630 |
+| Variety is the Spice of Death | 0.50% | ~3,630 |
+| Make it So | 0.40% | ~2,904 |
 | LA Influential | 0.30% | ~2,178 |
 | Sole Survivor | 0.30% | ~2,178 |
 | Gore Horse | 0.30% | ~2,178 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,867 (Ranked 21)  
+Progressed: 725,920 (Ranked 21)  
 Completed: 2,439 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 2,439 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
-| 2023-11-26 | 725,867 | 2,439 |
+| 2023-11-26 | 725,920 | 2,439 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
 Sum: 11,835 (Ranked 83)  

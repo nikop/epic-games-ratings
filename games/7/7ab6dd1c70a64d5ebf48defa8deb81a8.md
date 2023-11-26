@@ -7,8 +7,8 @@
 | Trinity | 11.00% | ~25 |
 | Break Out | 9.00% | ~20 |
 | Find Allies | 9.00% | ~20 |
+| Powerful Allies | 9.00% | ~20 |
 | I Found It | 9.00% | ~20 |
-| Powerful Allies | 8.00% | ~18 |
 | A Taste of Wrath | 8.00% | ~18 |
 | Adventurer | 8.00% | ~18 |
 | Geared Up | 8.00% | ~18 |
@@ -29,8 +29,8 @@
 | Clear Sight | 3.00% | ~7 |
 | The Mentor | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |
-| Miner | 2.00% | ~4 |
-| A Queen's Tale | 2.00% | ~4 |
+| Miner | 2.00% | ~5 |
+| A Queen's Tale | 2.00% | ~5 |
 | Slayer | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Flawless Victory | 0.90% | ~2 |
@@ -41,8 +41,8 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 381)  
-Completed: 2 (0.89%) (Ranked 171)  
+Progressed: 226 (Ranked 379)  
+Completed: 2 (0.88%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,4 +88,4 @@ Completed: 2 (0.89%) (Ranked 171)
 | 2023-11-23 | 204 | 2 |
 | 2023-11-24 | 213 | 2 |
 | 2023-11-25 | 216 | 2 |
-| 2023-11-26 | 225 | 2 |
+| 2023-11-26 | 226 | 2 |

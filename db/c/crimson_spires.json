@@ -4,7 +4,7 @@
   "ProductSlug": "crimson-spires-07f5f3",
   "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-04T12:30:00+00:00",
@@ -162,8 +162,8 @@
   ],
   "FirstSeen": "2023-06-11T19:57:19.800898+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:22.8919686+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:10:00.0554835+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:08:53.0862478+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:12.7523024+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:57:36.3176415+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:10:00.0554908+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:57:18.7535355+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:08:53.0862574+00:00"
 }

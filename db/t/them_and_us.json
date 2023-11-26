@@ -3,8 +3,8 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -1480,9 +1480,9 @@
       "ID": "ETUA_MissionOver",
       "SetID": "65jc0ap",
       "Name": "Run and Gun",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_ModernPlayer",
@@ -1689,8 +1689,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:08:19.9436141+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:06:11.6404191+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.6169498+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:59:39.417651+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:08:19.9436527+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:58:40.7332754+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:06:11.6404507+00:00"
 }

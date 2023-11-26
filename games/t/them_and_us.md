@@ -27,9 +27,9 @@
 | I Am The Gate Keeper! | 7.00% | ~22 |
 | This Mansion Is Clean | 5.00% | ~16 |
 | Armed To The Teeth | 4.00% | ~12 |
+| Run and Gun | 3.00% | ~9 |
 | The bus stop | 3.00% | ~9 |
 | Spiritual essence well spent | 2.00% | ~6 |
-| Run and Gun | 2.00% | ~6 |
 | Pet The Dog | 2.00% | ~6 |
 | Back In Time | 1.00% | ~3 |
 | Before The Eclipse | 1.00% | ~3 |
@@ -46,7 +46,7 @@
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 310 (Ranked 349)  
-Completed: 1 (0.32%) (Ranked 233)  
+Completed: 1 (0.32%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

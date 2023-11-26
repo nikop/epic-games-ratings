@@ -3,8 +3,8 @@
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 456,
-  "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.7,
+  "EOS_Completed_Percentage": 3.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.3534175+00:00",
@@ -110,6 +110,11 @@
       "Time": "2023-11-22T05:03:16.6895651+00:00",
       "NumProgressed": 81,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-26T20:04:34.7387323+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 20,
@@ -119,7 +124,7 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
       "UsersEstimate": 46
     },
@@ -127,7 +132,7 @@
       "ID": "ACH_10",
       "SetID": "1g3d1lg",
       "Name": "First document retrieved",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 35,
       "UsersEstimate": 41
     },
@@ -135,7 +140,7 @@
       "ID": "ACH_11",
       "SetID": "1g3d1lg",
       "Name": "Second document retrieved",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
       "UsersEstimate": 24
     },
@@ -159,7 +164,7 @@
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 35,
       "UsersEstimate": 28
     },
@@ -199,7 +204,7 @@
       "ID": "ACH_19",
       "SetID": "1g3d1lg",
       "Name": "There is something strange here...",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 41
     },
@@ -223,7 +228,7 @@
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 35,
       "UsersEstimate": 43
     },
@@ -239,7 +244,7 @@
       "ID": "ACH_5",
       "SetID": "1g3d1lg",
       "Name": "The threshold of horror",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
       "UsersEstimate": 25
     },
@@ -280,7 +285,7 @@
     {
       "ID": "1g3d1lg",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 3
     }
   ],
@@ -288,8 +293,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:06:02.3108131+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:04:34.7387319+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:11.7674987+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:03:26.1311458+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:06:02.3108234+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:02:45.9685576+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:04:34.7387505+00:00"
 }

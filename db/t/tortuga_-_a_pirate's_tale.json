@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17135,
+  "EOS_Progressed": 17136,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6869,6 +6869,11 @@
       "Time": "2023-11-26T19:06:24.5650168+00:00",
       "NumProgressed": 17135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T20:04:50.3989674+00:00",
+      "NumProgressed": 17136,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6880,7 +6885,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "ACH001",
@@ -6888,7 +6893,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14736
+      "UsersEstimate": 14737
     },
     {
       "ID": "ACH0010",
@@ -6912,7 +6917,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8396
+      "UsersEstimate": 8397
     },
     {
       "ID": "ACH0013",
@@ -6976,7 +6981,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12337
+      "UsersEstimate": 12338
     },
     {
       "ID": "ACH0020",
@@ -7000,7 +7005,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     },
     {
       "ID": "ACH0023",
@@ -7040,7 +7045,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14907
+      "UsersEstimate": 14908
     },
     {
       "ID": "ACH005",
@@ -7087,7 +7092,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17135,
+      "Progressed": 17136,
       "Completed": 1
     }
   ],
@@ -7095,8 +7100,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:06:24.5650165+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:04:50.3989672+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:28.1704783+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:01:42.4166818+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:06:24.5650635+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:00:03.2564972+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:04:50.3990155+00:00"
 }

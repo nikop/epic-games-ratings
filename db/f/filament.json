@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -330,9 +330,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206062,
+  "EOS_Progressed": 206067,
   "EOS_Completed": 533,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -23930,6 +23930,11 @@
       "Time": "2023-11-26T19:06:27.2069095+00:00",
       "NumProgressed": 206062,
       "NumCompleted": 533
+    },
+    {
+      "Time": "2023-11-26T20:04:52.3968289+00:00",
+      "NumProgressed": 206067,
+      "NumCompleted": 533
     }
   ],
   "TotalAchievements": 29,
@@ -23965,7 +23970,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193698
+      "UsersEstimate": 193703
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -23997,7 +24002,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -24125,7 +24130,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20606
+      "UsersEstimate": 20607
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -24149,7 +24154,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -24172,7 +24177,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206062,
+      "Progressed": 206067,
       "Completed": 533
     }
   ],
@@ -24180,8 +24185,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-24T19:01:40.7917314+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:06:27.2069092+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:04:52.3968286+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.6719288+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:58:08.0726556+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:06:27.2070998+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:57:40.3434476+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:04:52.3969381+00:00"
 }

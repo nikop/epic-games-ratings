@@ -2,12 +2,12 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -877,9 +877,9 @@
       "Count": 112
     }
   ],
-  "EOS_Progressed": 11104,
+  "EOS_Progressed": 11105,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -13287,6 +13287,11 @@
       "Time": "2023-11-26T19:09:04.0299857+00:00",
       "NumProgressed": 11104,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-26T20:08:12.4563586+00:00",
+      "NumProgressed": 11105,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13378,7 +13383,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH12",
@@ -13569,7 +13574,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11104,
+      "Progressed": 11105,
       "Completed": 65
     }
   ],
@@ -13577,8 +13582,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-26T08:58:55.4778797+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:09:04.0299855+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:08:12.4563581+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:45.8574591+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:00:07.2902958+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:09:04.0300806+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:58:59.0220032+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:08:12.4564529+00:00"
 }

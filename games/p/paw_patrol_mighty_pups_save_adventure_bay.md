@@ -9,7 +9,7 @@
 | Pup Pup Boogie | 64.00% | ~25 |
 | Summer Day | 64.00% | ~25 |
 | Mr. Porter | 54.00% | ~21 |
-| Risky Rescue | 46.00% | ~18 |
+| Risky Rescue | 49.00% | ~19 |
 | Carlos Is Tangled | 44.00% | ~17 |
 | Clear the Road | 41.00% | ~16 |
 | Mandy Family | 41.00% | ~16 |
@@ -18,9 +18,9 @@
 | Break Time | 33.00% | ~13 |
 | Master of the Rope | 31.00% | ~12 |
 | Training Day | 31.00% | ~12 |
+| In the Air | 31.00% | ~12 |
 | Never Miss | 31.00% | ~12 |
 | The Fastest | 28.00% | ~11 |
-| In the Air | 28.00% | ~11 |
 | Animal Sighting | 26.00% | ~10 |
 | Don’t Miss Any | 26.00% | ~10 |
 | Adventure Bay’s Citizen | 23.00% | ~9 |

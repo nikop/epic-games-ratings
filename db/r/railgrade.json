@@ -603,9 +603,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18353,
+  "EOS_Progressed": 18352,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": -74,
+  "EOS_NewPlayers": -75,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10033,6 +10033,11 @@
       "Time": "2023-11-26T19:08:17.002234+00:00",
       "NumProgressed": 18353,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-26T20:06:09.5987763+00:00",
+      "NumProgressed": 18352,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 37,
@@ -10076,7 +10081,7 @@
       "Name": "Builder",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 16151
+      "UsersEstimate": 16150
     },
     {
       "ID": "ach.060.goingdistance",
@@ -10084,7 +10089,7 @@
       "Name": "Going the Distance",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 10645
+      "UsersEstimate": 10644
     },
     {
       "ID": "ach.070.8kenough",
@@ -10092,7 +10097,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4405
+      "UsersEstimate": 4404
     },
     {
       "ID": "ach.080.eraser",
@@ -10100,7 +10105,7 @@
       "Name": "Eraser",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 13765
+      "UsersEstimate": 13764
     },
     {
       "ID": "ach.090.perfectionist",
@@ -10140,7 +10145,7 @@
       "Name": "Minimalist",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 17619
+      "UsersEstimate": 17618
     },
     {
       "ID": "ach.140.legacy",
@@ -10148,7 +10153,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 104,
       "XP": 60,
-      "UsersEstimate": 19087
+      "UsersEstimate": 19086
     },
     {
       "ID": "ach.150.pocket",
@@ -10156,7 +10161,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12847
+      "UsersEstimate": 12846
     },
     {
       "ID": "ach.160.box",
@@ -10164,7 +10169,7 @@
       "Name": "Box of Trains",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6424
+      "UsersEstimate": 6423
     },
     {
       "ID": "ach.170.room",
@@ -10196,7 +10201,7 @@
       "Name": "Let There be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6424
+      "UsersEstimate": 6423
     },
     {
       "ID": "ach.210.baron",
@@ -10204,7 +10209,7 @@
       "Name": "Oil Baron",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8259
+      "UsersEstimate": 8258
     },
     {
       "ID": "ach.220.hot",
@@ -10228,7 +10233,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8259
+      "UsersEstimate": 8258
     },
     {
       "ID": "ach.250.downfall",
@@ -10236,7 +10241,7 @@
       "Name": "Before the Downfall",
       "Percentage": 99,
       "XP": 60,
-      "UsersEstimate": 18169
+      "UsersEstimate": 18168
     },
     {
       "ID": "ach.260.investor",
@@ -10300,7 +10305,7 @@
       "Name": "Money like Water",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 17802
+      "UsersEstimate": 17801
     },
     {
       "ID": "ach.340.steel",
@@ -10308,7 +10313,7 @@
       "Name": "Man of Steel",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3304
+      "UsersEstimate": 3303
     },
     {
       "ID": "ach.350.pipes",
@@ -10339,7 +10344,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18353,
+      "Progressed": 18352,
       "Completed": 27
     }
   ],
@@ -10347,8 +10352,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-11-26T08:59:05.2764385+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:08:17.0022338+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:06:09.5987759+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.4226038+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:00:20.9467185+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:08:17.0023013+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:59:07.8654815+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:06:09.5988351+00:00"
 }

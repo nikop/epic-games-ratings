@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -3784,9 +3784,9 @@
       "ID": "ACH_StanzaSegreta",
       "SetID": "7a9m7mj",
       "Name": "Someone was here",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 687
+      "UsersEstimate": 704
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -3808,8 +3808,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:07:25.3775425+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:05:33.2417927+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:30.9697595+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:01:49.8238065+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:07:25.3775675+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:00:08.6414863+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:05:33.2418207+00:00"
 }

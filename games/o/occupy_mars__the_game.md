@@ -13,7 +13,7 @@ Rating: 4.03 (Ranked 995)
 | Bob The Builder | 30.00% | ~523 |
 | I am the greatest botanist on this planet. | 29.00% | ~505 |
 | Gardener | 26.00% | ~453 |
-| Miner | 25.00% | ~436 |
+| Miner | 26.00% | ~453 |
 | Houston we have a problem | 23.00% | ~401 |
 | Detective | 19.00% | ~331 |
 | The Collector | 18.00% | ~314 |

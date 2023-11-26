@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -955,6 +955,11 @@
       "Time": "2023-11-26T19:09:03.5535588+00:00",
       "NumProgressed": 366,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T20:08:12.0930839+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -965,9 +970,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 147
     },
     {
       "ID": "AchvAllMemories",
@@ -1093,9 +1098,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "AchvNest",
@@ -1133,17 +1138,17 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "AchvReachCity",
@@ -1189,23 +1194,23 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:09:03.5535585+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:08:12.0930835+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:57:30.1798571+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:09:03.5535767+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:57:14.7668872+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:08:12.0931012+00:00"
 }

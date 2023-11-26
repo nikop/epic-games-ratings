@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2284,
+  "EOS_Progressed": 2285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5422,6 +5422,11 @@
       "Time": "2023-11-26T17:09:34.0700231+00:00",
       "NumProgressed": 2284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T20:09:05.4637783+00:00",
+      "NumProgressed": 2285,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5434,7 +5439,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5610,7 +5615,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5642,7 +5647,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5825,14 +5830,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2284,
+      "Progressed": 2285,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:10:17.5785725+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:09:05.463778+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.7913611+00:00",
-  "LastUpdate_Ratings": "2023-11-26T18:59:39.2248828+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:10:17.5786418+00:00"
+  "LastUpdate_Ratings": "2023-11-26T19:58:40.5983913+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:09:05.4638899+00:00"
 }

@@ -1069,7 +1069,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13858,
+  "EOS_Progressed": 13863,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 1,
@@ -11484,6 +11484,11 @@
       "Time": "2023-11-26T19:09:24.7343648+00:00",
       "NumProgressed": 13858,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-26T20:08:27.3835574+00:00",
+      "NumProgressed": 13863,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11544,7 +11549,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5682
+      "UsersEstimate": 5684
     },
     {
       "ID": "a_19",
@@ -11568,7 +11573,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "a_21",
@@ -11576,7 +11581,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "a_22",
@@ -11584,7 +11589,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "a_23",
@@ -11743,7 +11748,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13858,
+      "Progressed": 13863,
       "Completed": 12
     }
   ],
@@ -11751,8 +11756,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-24T04:02:46.9651903+00:00",
-  "LastChanged_Achievements": "2023-11-26T19:09:24.7343644+00:00",
+  "LastChanged_Achievements": "2023-11-26T20:08:27.3835572+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.5449859+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:03:06.679754+00:00",
-  "LastUpdate_Achievements": "2023-11-26T19:09:24.7344333+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:02:39.0525312+00:00",
+  "LastUpdate_Achievements": "2023-11-26T20:08:27.383617+00:00"
 }
