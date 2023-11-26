@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 743,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.98,
   "EosHistory": [
@@ -3202,9 +3202,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 215
     },
     {
       "ID": "PROGRESS_N3",
@@ -3241,8 +3241,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:04:47.8996672+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:03:29.9540848+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:02:07.9796563+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:04:47.8996975+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:59:56.0071347+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:03:29.9541136+00:00"
 }

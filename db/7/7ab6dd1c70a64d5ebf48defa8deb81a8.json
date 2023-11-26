@@ -961,9 +961,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_11",
@@ -1001,9 +1001,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_16",
@@ -1184,8 +1184,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:10:31.4697239+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:09:02.3764745+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:00:11.8448431+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:10:31.4697495+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:58:40.2274046+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:09:02.3765005+00:00"
 }

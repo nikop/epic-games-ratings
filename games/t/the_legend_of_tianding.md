@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 83.00% | ~20 |
-| Eat the Rich | 58.00% | ~14 |
-| Death Battle | 50.00% | ~12 |
-| Phantom Kunoichi | 50.00% | ~12 |
-| Killing Machine | 50.00% | ~12 |
-| Final Showdown | 42.00% | ~10 |
-| Divine Retribution | 42.00% | ~10 |
-| The End of an Outlaw | 42.00% | ~10 |
-| Dispel Rumors | 38.00% | ~9 |
-| Captain Mustache | 38.00% | ~9 |
-| Demon Slayer | 29.00% | ~7 |
-| Steal Her Away | 29.00% | ~7 |
-| Big Eater | 25.00% | ~6 |
-| Urban Explorer | 25.00% | ~6 |
-| Sewer Rat | 25.00% | ~6 |
-| Not Today | 25.00% | ~6 |
-| Coward | 25.00% | ~6 |
-| Fight Fire With Fire | 25.00% | ~6 |
-| Tour Guide | 21.00% | ~5 |
-| The Real O.G. | 17.00% | ~4 |
-| Talk to the Fist | 17.00% | ~4 |
-| Tomb Raider | 17.00% | ~4 |
+| Hero Arrives | 84.00% | ~21 |
+| Eat the Rich | 56.00% | ~14 |
+| Death Battle | 48.00% | ~12 |
+| Phantom Kunoichi | 48.00% | ~12 |
+| Killing Machine | 48.00% | ~12 |
+| Final Showdown | 40.00% | ~10 |
+| Divine Retribution | 40.00% | ~10 |
+| The End of an Outlaw | 40.00% | ~10 |
+| Dispel Rumors | 36.00% | ~9 |
+| Captain Mustache | 36.00% | ~9 |
+| Demon Slayer | 28.00% | ~7 |
+| Steal Her Away | 28.00% | ~7 |
+| Big Eater | 24.00% | ~6 |
+| Urban Explorer | 24.00% | ~6 |
+| Sewer Rat | 24.00% | ~6 |
+| Not Today | 24.00% | ~6 |
+| Coward | 24.00% | ~6 |
+| Fight Fire With Fire | 24.00% | ~6 |
+| Tour Guide | 20.00% | ~5 |
+| The Real O.G. | 16.00% | ~4 |
+| Talk to the Fist | 16.00% | ~4 |
+| Tomb Raider | 16.00% | ~4 |
 | Collector | 8.00% | ~2 |
 | The Hero of the People | 8.00% | ~2 |
 | Taoist | 8.00% | ~2 |
 | The Legend | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 540)  
-Completed: 1 (4.17%) (Ranked 86)  
+Progressed: 25 (Ranked 539)  
+Completed: 1 (4.00%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,7 +57,7 @@ Completed: 1 (4.17%) (Ranked 86)
 | 2023-11-22 | 21 | 1 |
 | 2023-11-23 | 22 | 1 |
 | 2023-11-24 | 23 | 1 |
-| 2023-11-26 | 24 | 1 |
+| 2023-11-26 | 25 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
     "PcReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -443,8 +443,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:07:44.5759215+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:05:34.4937245+00:00",
   "LastUpdate_AppInfo": "2023-11-19T23:56:58.6317852+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:02:06.9644356+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:07:44.5759323+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:59:55.3883024+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:05:34.4937397+00:00"
 }

@@ -7,9 +7,9 @@ Rating: 4.75 (Ranked 148)
 | ---- | ---------- | ----- |
 | Regicide | 0.60% | ~46 |
 | Master of the Dark Arts | 0.60% | ~46 |
-| The Killing Jar | 0.50% | ~1,142 |
+| The Killing Jar | 0.50% | ~1,143 |
 | First of Many | 0.40% | ~914 |
-| Not Your Average Trait | 0.30% | ~685 |
+| Not Your Average Trait | 0.30% | ~686 |
 | Expanding Horizons | 0.20% | ~457 |
 | Am I Seeing This? | 0.20% | ~457 |
 | Ghost in the Machine | 0.20% | ~457 |
@@ -25,43 +25,43 @@ Rating: 4.75 (Ranked 148)
 | Shhh...It's a Secret | 0.20% | ~457 |
 | Was This Supposed To Happen? | 0.20% | ~457 |
 | Boss'n Up | 0.20% | ~457 |
+| Scrap Collector | 0.20% | ~457 |
 | Almost There | 0.20% | ~457 |
 | Make Some Room | 0.20% | ~457 |
 | Good, But Could Be Better! | 0.20% | ~457 |
 | Trait Chaser | 0.20% | ~457 |
-| Crafty | 0.10% | ~228 |
-| Only Human | 0.10% | ~228 |
-| Chaos | 0.10% | ~228 |
-| Traitor | 0.10% | ~228 |
-| Forever is a Long Time Coming | 0.10% | ~228 |
-| Power Surge | 0.10% | ~228 |
-| The God Gambit | 0.10% | ~228 |
-| Dark Designs | 0.10% | ~228 |
-| Madman's Paradise | 0.10% | ~228 |
-| Red Room | 0.10% | ~228 |
-| The Agenda | 0.10% | ~228 |
-| Tall Tales | 0.10% | ~228 |
-| Bad Moon Rising | 0.10% | ~228 |
-| Strapped | 0.10% | ~228 |
-| The Trigger | 0.10% | ~228 |
-| Edgelord | 0.10% | ~228 |
-| Cutting Edge | 0.10% | ~228 |
-| The Web | 0.10% | ~228 |
-| The Collector | 0.10% | ~228 |
-| Scrap Collector | 0.10% | ~228 |
-| Scrap Hoarder | 0.10% | ~228 |
-| All These Traits� | 0.10% | ~228 |
-| Proving Grounds | 0.10% | ~228 |
-| Carnage in C-Minor | 0.10% | ~228 |
-| The Ultimate Weapon | 0.10% | ~228 |
-| No One Should Have All That Power | 0.10% | ~228 |
-| Maxed Out! | 0.10% | ~228 |
-| Transmutate | 0.10% | ~228 |
+| Crafty | 0.10% | ~229 |
+| Only Human | 0.10% | ~229 |
+| Chaos | 0.10% | ~229 |
+| Traitor | 0.10% | ~229 |
+| Forever is a Long Time Coming | 0.10% | ~229 |
+| Power Surge | 0.10% | ~229 |
+| The God Gambit | 0.10% | ~229 |
+| Dark Designs | 0.10% | ~229 |
+| Madman's Paradise | 0.10% | ~229 |
+| Red Room | 0.10% | ~229 |
+| The Agenda | 0.10% | ~229 |
+| Tall Tales | 0.10% | ~229 |
+| Bad Moon Rising | 0.10% | ~229 |
+| Strapped | 0.10% | ~229 |
+| The Trigger | 0.10% | ~229 |
+| Edgelord | 0.10% | ~229 |
+| Cutting Edge | 0.10% | ~229 |
+| The Web | 0.10% | ~229 |
+| The Collector | 0.10% | ~229 |
+| Scrap Hoarder | 0.10% | ~229 |
+| All These Traits� | 0.10% | ~229 |
+| Proving Grounds | 0.10% | ~229 |
+| Carnage in C-Minor | 0.10% | ~229 |
+| The Ultimate Weapon | 0.10% | ~229 |
+| No One Should Have All That Power | 0.10% | ~229 |
+| Maxed Out! | 0.10% | ~229 |
+| Transmutate | 0.10% | ~229 |
 | Succession | 0.10% | ~8 |
 | A Foul Feast | 0.10% | ~8 |
 | You Shall Pass | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,476 (Ranked 68)  
+Progressed: 228,520 (Ranked 68)  
 Completed: 530 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 530 (0.23%) (Ranked 248)
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
-| 2023-11-26 | 228,476 | 530 |
+| 2023-11-26 | 228,520 | 530 |
 ## Awards
 Max (Great Boss Battles): 2,436  (Ranked 105)  
 Sum: 5,928 (Ranked 129)  

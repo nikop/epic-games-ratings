@@ -4,7 +4,7 @@
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 216,
   "Ranking_Popularity": 136,
-  "Ranking_PopularitySum": 223,
+  "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 163,
@@ -1365,10 +1365,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 1702,
       "NumberOfAwardsMax": 1342
+    },
+    {
+      "Time": "2023-11-26T11:00:04.4811592+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1757,
+      "NumberOfAwardsMax": 1342
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1702,
+  "NumberOfAwards": 1757,
   "NumberOfAwardsMax": 1342,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1398,9 +1404,9 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 29
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 55
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1459,7 +1465,7 @@
   ],
   "EOS_Progressed": 429203,
   "EOS_Completed": 549,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16161,9 +16167,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2023-11-24T21:00:38.8589378+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:04:27.2592128+00:00",
+  "LastChanged": "2023-11-26T11:00:04.481159+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:03:15.4203985+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:39.0673393+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:02:21.1533314+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:04:27.2593707+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:00:04.4811595+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:03:15.420564+00:00"
 }

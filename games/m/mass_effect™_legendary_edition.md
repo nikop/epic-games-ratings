@@ -32,7 +32,7 @@
 | Krogan Ally | 41.00% | ~581 |
 | Sentinel Ally | 40.00% | ~566 |
 | Head Hunter | 40.00% | ~566 |
-| Scholar | 39.00% | ~552 |
+| Scholar | 40.00% | ~566 |
 | The Professor | 38.00% | ~538 |
 | Operative | 38.00% | ~538 |
 | Veteran | 37.00% | ~524 |

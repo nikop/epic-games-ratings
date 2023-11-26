@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1327,10 +1327,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 478,
       "NumberOfAwardsMax": 238
+    },
+    {
+      "Time": "2023-11-26T10:57:26.1958346+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 480,
+      "NumberOfAwardsMax": 238
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 478,
+  "NumberOfAwards": 480,
   "NumberOfAwardsMax": 238,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1344,7 +1350,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1368,7 +1374,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1389,9 +1395,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239700,
+  "EOS_Progressed": 239716,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1538,
+  "EOS_NewPlayers": 1545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19994,6 +20000,11 @@
       "Time": "2023-11-26T10:09:40.2077872+00:00",
       "NumProgressed": 239700,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T11:08:25.8550133+00:00",
+      "NumProgressed": 239716,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20011,9 +20022,9 @@
       "ID": "100Fail",
       "SetID": "50chcgj",
       "Name": "Cursed die",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 479
     },
     {
       "ID": "AllSideQuest",
@@ -20045,7 +20056,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "Chapter1",
@@ -20053,7 +20064,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14382
+      "UsersEstimate": 14383
     },
     {
       "ID": "Chapter2",
@@ -20061,7 +20072,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9588
+      "UsersEstimate": 9589
     },
     {
       "ID": "Chapter3",
@@ -20405,7 +20416,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19176
+      "UsersEstimate": 19177
     },
     {
       "ID": "DwarfElf15Support",
@@ -20437,7 +20448,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11985
+      "UsersEstimate": 11986
     },
     {
       "ID": "ElfEpic",
@@ -20453,7 +20464,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83895
+      "UsersEstimate": 83901
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20469,7 +20480,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9588
+      "UsersEstimate": 9589
     },
     {
       "ID": "EndCombatOneHp",
@@ -20477,7 +20488,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9588
+      "UsersEstimate": 9589
     },
     {
       "ID": "EndGameCursed",
@@ -20501,7 +20512,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21573
+      "UsersEstimate": 21574
     },
     {
       "ID": "FollowBraztok",
@@ -20653,7 +20664,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11985
+      "UsersEstimate": 11986
     },
     {
       "ID": "SupportCount4",
@@ -20701,28 +20712,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9588
+      "UsersEstimate": 9589
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 239700,
+      "Progressed": 239716,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 239700,
+      "Progressed": 239716,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-11-23T22:59:47.2360206+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:09:40.2077869+00:00",
+  "LastChanged": "2023-11-26T10:57:26.1958344+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:08:25.8550129+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-26T09:58:20.3157288+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:09:40.2079586+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:57:26.195835+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:08:25.8551553+00:00"
 }

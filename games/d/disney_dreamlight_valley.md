@@ -23,7 +23,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Chit Chatter | 3.00% | ~358 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11,944 (Ranked 159)  
-Completed: 284 (2.38%) (Ranked 119)  
+Completed: 284 (2.38%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,12 +196,12 @@ Completed: 284 (2.38%) (Ranked 119)
 | 2023-11-26 | 11,944 | 284 |
 ## Awards
 Max (Great for Beginners): 1,072  (Ranked 147)  
-Sum: 7,953 (Ranked 107)  
+Sum: 7,954 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,072 |
-| This game has Diverse Characters | 903 |
+| This game has Diverse Characters | 904 |
 | This game is Highly Recommended | 828 |
 | This game has Amazing Characters | 824 |
 | This game is Relaxing | 812 |
@@ -470,4 +470,4 @@ Diff (max vs sum): 40
 | 2023-11-23 | 4.76 | - | 1,069 | 7,943 |
 | 2023-11-24 | 4.76 | - | 1,071 | 7,948 |
 | 2023-11-25 | 4.76 | - | 1,072 | 7,952 |
-| 2023-11-26 | 4.76 | - | 1,072 | 7,953 |
+| 2023-11-26 | 4.76 | - | 1,072 | 7,954 |

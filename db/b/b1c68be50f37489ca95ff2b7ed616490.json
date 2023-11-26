@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -264,17 +264,17 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "10",
       "SetID": "6bgoh8g",
       "Name": "Masquerade",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:07:42.1132814+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:05:32.6359248+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:19:11.5878853+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:01:27.585865+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:07:42.1132973+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:59:29.4623239+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:05:32.6359416+00:00"
 }

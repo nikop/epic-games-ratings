@@ -5,21 +5,21 @@ Rating: 4.56 (Ranked 493)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~548 |
-| Don't judge a manhole by its cover | 60.00% | ~438 |
+| Tell me your story | 76.00% | ~556 |
+| Don't judge a manhole by its cover | 60.00% | ~439 |
 | I just love stuff! | 42.00% | ~307 |
 | Keep 'em coming! | 42.00% | ~307 |
 | The things they print nowadays | 39.00% | ~285 |
-| Big Spender | 38.00% | ~277 |
-| That's gotta hurt | 35.00% | ~255 |
+| Big Spender | 38.00% | ~278 |
+| That's gotta hurt | 36.00% | ~263 |
 | The Ann Flores Combo Experience | 26.00% | ~190 |
-| Club Star | 25.00% | ~182 |
-| I think it's broke | 25.00% | ~182 |
-| Fire in the hole! | 21.00% | ~153 |
+| Club Star | 25.00% | ~183 |
+| I think it's broke | 25.00% | ~183 |
+| Fire in the hole! | 21.00% | ~154 |
 | The Warlord | 20.00% | ~146 |
 | Omnipotence | 19.00% | ~139 |
 | You are the One | 19.00% | ~139 |
-| Deadly Kombationem | 18.00% | ~131 |
+| Deadly Kombationem | 18.00% | ~132 |
 | The truth is out there | 15.00% | ~110 |
 | Annakin Skyscroller | 13.00% | ~95 |
 | In the smacker...I think | 10.00% | ~73 |
@@ -34,7 +34,7 @@ Rating: 4.56 (Ranked 493)
 | I feel secure, contained & protected | 6.00% | ~44 |
 | Science, it works! | 6.00% | ~44 |
 | The Traveler | 6.00% | ~44 |
-| Woman on a (side) mission | 5.00% | ~36 |
+| Woman on a (side) mission | 5.00% | ~37 |
 | Ann ULTRA | 3.00% | ~22 |
 | Lady Luck is a cool cat | 3.00% | ~22 |
 | SERENITY NOW | 2.00% | ~15 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 493)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730 (Ranked 279)  
+Progressed: 731 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 696 | 0 |
 | 2023-11-24 | 705 | 0 |
 | 2023-11-25 | 726 | 0 |
-| 2023-11-26 | 730 | 0 |
+| 2023-11-26 | 731 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 915,
+  "EOS_Progressed": 917,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.28,
+  "EOS_Completed_Percentage": 3.27,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2989,6 +2989,11 @@
       "Time": "2023-11-26T06:04:58.3866532+00:00",
       "NumProgressed": 915,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-26T11:03:55.8909078+00:00",
+      "NumProgressed": 917,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3001,7 +3006,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3009,7 +3014,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "_03_FinishAct1",
@@ -3017,7 +3022,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3025,7 +3030,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_05_FinishAct2",
@@ -3041,7 +3046,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "_07_FinishAct3",
@@ -3057,7 +3062,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "_09_Completion_20",
@@ -3065,15 +3070,15 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 202
     },
     {
       "ID": "_11_Completion_40",
@@ -3081,7 +3086,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "_12_Completion_50",
@@ -3129,7 +3134,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3153,7 +3158,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3177,7 +3182,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -3208,7 +3213,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 915,
+      "Progressed": 917,
       "Completed": 30
     }
   ],
@@ -3216,8 +3221,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:05:24.6030432+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:03:55.8909076+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:01:34.1845996+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:05:24.6030664+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:59:33.8566435+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:03:55.8909346+00:00"
 }

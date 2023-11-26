@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2588,9 +2588,9 @@
       "ID": "Achievement_023",
       "SetID": "6b34g18",
       "Name": "Silence Is Golden",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_024",
@@ -2957,8 +2957,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-11-22T22:57:36.1602113+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:04:03.0616191+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:02:58.3364578+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:55.6017296+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:00:43.811084+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:04:03.061688+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:59:01.6814241+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:02:58.3365172+00:00"
 }

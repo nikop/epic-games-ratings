@@ -25,6 +25,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All Your Trade Are Belong to Us | 0.10% | ~464 |
 | Almost Prussian Blue | 0.10% | ~464 |
 | An early Reich | 0.10% | ~464 |
+| An Unlikely Candidate | 0.10% | ~464 |
 | Anglophile | 0.10% | ~464 |
 | Arabian Coffee | 0.10% | ~464 |
 | At every continent | 0.10% | ~464 |
@@ -252,7 +253,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Academical | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
-| An Unlikely Candidate | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Assembly Instructions Needed | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,922 (Ranked 41)  
+Progressed: 463,954 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,7 +590,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-23 | 462,094 | 1 |
 | 2023-11-24 | 462,785 | 1 |
 | 2023-11-25 | 463,679 | 1 |
-| 2023-11-26 | 463,922 | 1 |
+| 2023-11-26 | 463,954 | 1 |
 ## Awards
 Max (Educational): 7,165  (Ranked 54)  
 Sum: 58,932 (Ranked 24)  

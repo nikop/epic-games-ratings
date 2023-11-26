@@ -1,7 +1,7 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 590)  
+Rating: 4.50 (Ranked 591)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,8 +10,8 @@ Rating: 4.50 (Ranked 590)
 | Party | 49.00% | ~213 |
 | Impossible Cube | 47.00% | ~204 |
 | Knowledge is Power | 45.00% | ~195 |
+| Through the Darkness | 44.00% | ~191 |
 | No Mercy | 43.00% | ~187 |
-| Through the Darkness | 43.00% | ~187 |
 | The Return of a Rat | 42.00% | ~182 |
 | Fat of the Earth | 36.00% | ~156 |
 | Last Man Standing | 32.00% | ~139 |

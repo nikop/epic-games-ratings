@@ -4,11 +4,11 @@
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 43,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 222,
+  "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1494,9 +1494,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23596,
+  "EOS_Progressed": 23597,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9939,6 +9939,11 @@
       "Time": "2023-11-26T09:09:04.5229417+00:00",
       "NumProgressed": 23596,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-26T11:08:28.4706764+00:00",
+      "NumProgressed": 23597,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10261,21 +10266,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23596,
+      "Progressed": 23597,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2526,
+      "Progressed": 2527,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-23T01:44:15.9568537+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:09:43.8982178+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:08:28.4706761+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.4844907+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:00:53.7230843+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:09:43.8982934+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:59:07.9696731+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:08:28.4707298+00:00"
 }

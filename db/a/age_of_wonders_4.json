@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5504,
+  "EOS_Progressed": 5505,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7488,6 +7488,11 @@
       "Time": "2023-11-26T10:07:27.0730806+00:00",
       "NumProgressed": 5504,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T11:05:22.3786694+00:00",
+      "NumProgressed": 5505,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7545,9 +7550,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 55
     },
     {
       "ID": "16",
@@ -7609,9 +7614,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 165
     },
     {
       "ID": "23",
@@ -7978,13 +7983,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5504,
+      "Progressed": 5505,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5504,
+      "Progressed": 5505,
       "Completed": 7
     }
   ],
@@ -7992,8 +7997,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:07:27.0730804+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:05:22.3786691+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-26T09:58:36.5251945+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:07:27.0731659+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:57:37.3912727+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:05:22.3787549+00:00"
 }

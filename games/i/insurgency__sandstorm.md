@@ -6,30 +6,30 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,582 |
-| Exploitative | 4.00% | ~19,665 |
-| Point Shooting | 4.00% | ~19,665 |
-| Wet Feet | 4.00% | ~19,665 |
-| High Speed Low Drag | 3.00% | ~14,749 |
-| Lucky | 3.00% | ~14,749 |
-| Stylin' | 3.00% | ~14,749 |
-| Turf War | 3.00% | ~14,749 |
+| Wallbanger | 5.00% | ~24,583 |
+| Exploitative | 4.00% | ~19,667 |
+| Point Shooting | 4.00% | ~19,667 |
+| Wet Feet | 4.00% | ~19,667 |
+| High Speed Low Drag | 3.00% | ~14,750 |
+| Lucky | 3.00% | ~14,750 |
+| Stylin' | 3.00% | ~14,750 |
+| Turf War | 3.00% | ~14,750 |
 | Banged | 2.00% | ~9,833 |
 | Checkpoint Victory | 2.00% | ~9,833 |
 | First Blood | 2.00% | ~9,833 |
 | Flaccid Paralysis | 2.00% | ~9,833 |
 | Push Victory | 2.00% | ~9,833 |
 | Self-destructive | 2.00% | ~9,833 |
-| Blindfire | 1.00% | ~4,916 |
-| Ruthless | 1.00% | ~4,916 |
-| Semper Paratus | 1.00% | ~4,916 |
+| Blindfire | 1.00% | ~4,917 |
+| Ruthless | 1.00% | ~4,917 |
+| Semper Paratus | 1.00% | ~4,917 |
 | Carrying | 0.90% | ~4,425 |
 | Efficient | 0.90% | ~4,425 |
 | Mount & Gun | 0.90% | ~4,425 |
 | Personal | 0.90% | ~4,425 |
 | Grounded | 0.80% | ~3,933 |
 | Play to Win | 0.80% | ~3,933 |
-| Special Delivery | 0.70% | ~3,441 |
+| Special Delivery | 0.70% | ~3,442 |
 | Firefight Victory | 0.60% | ~2,950 |
 | #1 | 0.60% | ~2,950 |
 | Cinematic | 0.50% | ~2,458 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~492 |
 | Road Hazard | 0.10% | ~492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,632 (Ranked 37)  
+Progressed: 491,665 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2 (0.00%) (Ranked 360)
 | 2023-11-23 | 488,921 | 2 |
 | 2023-11-24 | 489,963 | 2 |
 | 2023-11-25 | 491,130 | 2 |
-| 2023-11-26 | 491,632 | 2 |
+| 2023-11-26 | 491,665 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 397  (Ranked 232)  
 Sum: 3,180 (Ranked 174)  

@@ -1,7 +1,7 @@
 # HUMANKIND™ Standard Edition
 [Store](https://store.epicgames.com/en-US/p/humankind)  
 [View Rawdata](../../db/h/humankind™_digital_deluxe_edition.json)  
-Rating: 4.50 (Ranked 590)  
+Rating: 4.51 (Ranked 569)  
 Number of Ratings: 609  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 114  (Ranked 345)  
@@ -172,3 +172,4 @@ Diff (max vs sum): 81
 | 2023-11-22 | 4.50 | - | 114 | 965 |
 | 2023-11-23 | 4.50 | - | 114 | 966 |
 | 2023-11-25 | 4.50 | - | 114 | 967 |
+| 2023-11-26 | 4.51 | - | 114 | 967 |

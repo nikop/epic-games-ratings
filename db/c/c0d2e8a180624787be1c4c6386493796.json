@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -563,9 +563,9 @@
       "ID": "KR4_ACHIEVEMENT_GOBLIRANGS",
       "SetID": "caeik3h",
       "Name": "Not The Bees!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOLLUM",
@@ -659,9 +659,9 @@
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
       "SetID": "caeik3h",
       "Name": "Number Of The Beast",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KR4_ACHIEVEMENT_IRON",
@@ -755,9 +755,9 @@
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
       "SetID": "caeik3h",
       "Name": "Presto Logs",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KR4_ACHIEVEMENT_MERCENARIES",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:08:28.7724126+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:06:05.3459015+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:00:45.173674+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:08:28.7724796+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:59:02.5604304+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:06:05.3459604+00:00"
 }

@@ -6,51 +6,51 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~39,525 |
-| I read Shakespeare and stuff | 63.00% | ~33,650 |
-| Just a sprinkle | 61.00% | ~32,581 |
-| I'm stumped | 59.00% | ~31,513 |
-| Plant get enough | 59.00% | ~31,513 |
-| This is just my weekend vehicle | 57.00% | ~30,445 |
-| It's just the beginning | 57.00% | ~30,445 |
-| Hard work pays off | 52.00% | ~27,774 |
-| It's never too late to farm | 50.00% | ~26,706 |
-| All out of Land | 44.00% | ~23,501 |
-| Field Trip | 43.00% | ~22,967 |
-| I like to switch it up | 39.00% | ~20,831 |
-| Help me to help you | 37.00% | ~19,762 |
-| Ultimutt Pawesomeness | 27.00% | ~14,421 |
-| Van Gogh | 25.00% | ~13,353 |
-| Vehicle fleet | 22.00% | ~11,751 |
-| You wood not believe it | 21.00% | ~11,217 |
-| Well-Oiled Machine | 16.00% | ~8,546 |
-| Long haul | 16.00% | ~8,546 |
-| Clucky Streak | 15.00% | ~8,012 |
-| The plot thickens | 15.00% | ~8,012 |
-| Large-scale supplier | 15.00% | ~8,012 |
-| That's a wrap | 15.00% | ~8,012 |
-| Rock on | 12.00% | ~6,409 |
-| Fix me up | 12.00% | ~6,409 |
-| Highly cultivated | 11.00% | ~5,875 |
-| It's sow easy | 11.00% | ~5,875 |
-| Giddy-up! | 10.00% | ~5,341 |
-| Cowherd | 7.00% | ~3,739 |
-| Fluffyness | 6.00% | ~3,205 |
-| Helper A does not stop … ever | 6.00% | ~3,205 |
-| Bringing in the Honey | 6.00% | ~3,205 |
-| Road Trip | 5.00% | ~2,671 |
-| Three little piggies… | 4.00% | ~2,136 |
-| Game on | 4.00% | ~2,136 |
+| Own use | 74.00% | ~39,538 |
+| I read Shakespeare and stuff | 63.00% | ~33,661 |
+| Just a sprinkle | 61.00% | ~32,592 |
+| I'm stumped | 59.00% | ~31,524 |
+| Plant get enough | 59.00% | ~31,524 |
+| This is just my weekend vehicle | 57.00% | ~30,455 |
+| It's just the beginning | 57.00% | ~30,455 |
+| Hard work pays off | 52.00% | ~27,784 |
+| It's never too late to farm | 50.00% | ~26,715 |
+| All out of Land | 44.00% | ~23,509 |
+| Field Trip | 43.00% | ~22,975 |
+| I like to switch it up | 39.00% | ~20,838 |
+| Help me to help you | 37.00% | ~19,769 |
+| Ultimutt Pawesomeness | 27.00% | ~14,426 |
+| Van Gogh | 25.00% | ~13,358 |
+| Vehicle fleet | 22.00% | ~11,755 |
+| You wood not believe it | 21.00% | ~11,220 |
+| Well-Oiled Machine | 16.00% | ~8,549 |
+| Long haul | 16.00% | ~8,549 |
+| Clucky Streak | 15.00% | ~8,014 |
+| The plot thickens | 15.00% | ~8,014 |
+| Large-scale supplier | 15.00% | ~8,014 |
+| That's a wrap | 15.00% | ~8,014 |
+| Rock on | 12.00% | ~6,412 |
+| Fix me up | 12.00% | ~6,412 |
+| Highly cultivated | 11.00% | ~5,877 |
+| It's sow easy | 11.00% | ~5,877 |
+| Giddy-up! | 10.00% | ~5,343 |
+| Cowherd | 7.00% | ~3,740 |
+| Fluffyness | 6.00% | ~3,206 |
+| Helper A does not stop … ever | 6.00% | ~3,206 |
+| Bringing in the Honey | 6.00% | ~3,206 |
+| Road Trip | 5.00% | ~2,672 |
+| Three little piggies… | 4.00% | ~2,137 |
+| Game on | 4.00% | ~2,137 |
 | Pretty colourful | 0.80% | ~427 |
 | Original grain | 0.80% | ~427 |
-| Thoroughbred! | 0.60% | ~320 |
+| Thoroughbred! | 0.60% | ~321 |
 | Gone but not for cotton | 0.50% | ~267 |
 | Cheese it | 0.40% | ~214 |
 | Olea europaea | 0.40% | ~214 |
 | You are not a kangaroo | 0.40% | ~214 |
 | Raisin the stakes | 0.30% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,412 (Ranked 111)  
+Progressed: 53,430 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,16 +270,16 @@ Completed: 6 (0.01%) (Ranked 340)
 | 2023-11-23 | 52,706 | 6 |
 | 2023-11-24 | 53,002 | 6 |
 | 2023-11-25 | 53,334 | 6 |
-| 2023-11-26 | 53,412 | 6 |
+| 2023-11-26 | 53,430 | 6 |
 ## Awards
 Max (Great for Beginners): 5,616  (Ranked 69)  
-Sum: 43,237 (Ranked 33)  
+Sum: 43,245 (Ranked 33)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,616 |
 | This game has Diverse Characters | 4,600 |
-| This game is Educational | 4,372 |
+| This game is Educational | 4,380 |
 | This game is Highly Recommended | 4,303 |
 | This game is Relaxing | 4,302 |
 | This game has Quickly Understood Controls | 4,293 |
@@ -605,4 +605,4 @@ Diff (max vs sum): 36
 | 2023-11-23 | 4.68 | - | 5,590 | 43,128 |
 | 2023-11-24 | 4.68 | - | 5,601 | 43,169 |
 | 2023-11-25 | 4.68 | - | 5,616 | 43,233 |
-| 2023-11-26 | 4.68 | - | 5,616 | 43,237 |
+| 2023-11-26 | 4.68 | - | 5,616 | 43,245 |

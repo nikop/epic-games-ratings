@@ -5,8 +5,8 @@ Rating: 4.21 (Ranked 906)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 2.00% | ~6,379 |
-| The touch of Chaos | 2.00% | ~6,379 |
+| May the Torchbearer light our way | 2.00% | ~6,380 |
+| The touch of Chaos | 2.00% | ~6,380 |
 | A powerful aura was here | 1.00% | ~3,190 |
 | Let's raise the stakes!! | 0.70% | ~2,233 |
 | Rumors are true | 0.50% | ~1,595 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 906)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318,968 (Ranked 51)  
+Progressed: 318,999 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 4 (0.00%) (Ranked 360)
 | 2023-11-23 | 317,261 | 4 |
 | 2023-11-24 | 317,863 | 4 |
 | 2023-11-25 | 318,672 | 4 |
-| 2023-11-26 | 318,968 | 4 |
+| 2023-11-26 | 318,999 | 4 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 412)  
 Sum: 63 (Ranked 474)  

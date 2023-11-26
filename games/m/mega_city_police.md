@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 22.00% | ~8 |
 | Licence To Kill | 14.00% | ~5 |
-| Vintage Collector | 8.00% | ~3 |
+| Vintage Collector | 11.00% | ~4 |
 | Law and Order | 8.00% | ~3 |
 | Gibbing Love | 6.00% | ~2 |
 | Overkill | 6.00% | ~2 |

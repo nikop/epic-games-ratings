@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1096,9 +1096,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "LUNCH_LEECH",
@@ -1191,8 +1191,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:08:48.4478923+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:06:19.4184922+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:01.3377699+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:03:28.6341078+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:08:48.4479123+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:00:35.1788342+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:06:19.4185063+00:00"
 }

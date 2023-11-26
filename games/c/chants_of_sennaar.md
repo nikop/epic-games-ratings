@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 35.00% | ~260 |
 | Welcome to the Tower | 33.00% | ~245 |
-| The great escape | 28.00% | ~208 |
+| The great escape | 29.00% | ~215 |
 | The Preacher's fate | 27.00% | ~201 |
 | A new dawn | 23.00% | ~171 |
 | True G3M4R | 21.00% | ~156 |

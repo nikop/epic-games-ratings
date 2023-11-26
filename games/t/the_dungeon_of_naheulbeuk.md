@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,895 |
-| Alt+F4 | 9.00% | ~21,573 |
-| Where's that freaking Dwarf? | 8.00% | ~19,176 |
-| Déjà vu | 6.00% | ~14,382 |
-| Sock! SOCK! | 5.00% | ~11,985 |
-| Speedrun | 5.00% | ~11,985 |
-| A beer, two curses, three companions | 4.00% | ~9,588 |
-| GG EZ | 4.00% | ~9,588 |
-| DM intervention | 4.00% | ~9,588 |
-| Fireproof Wizardess | 4.00% | ~9,588 |
+| Sowwy! | 35.00% | ~83,901 |
+| Alt+F4 | 9.00% | ~21,574 |
+| Where's that freaking Dwarf? | 8.00% | ~19,177 |
+| Déjà vu | 6.00% | ~14,383 |
+| Sock! SOCK! | 5.00% | ~11,986 |
+| Speedrun | 5.00% | ~11,986 |
+| A beer, two curses, three companions | 4.00% | ~9,589 |
+| GG EZ | 4.00% | ~9,589 |
+| DM intervention | 4.00% | ~9,589 |
+| Fireproof Wizardess | 4.00% | ~9,589 |
 | Livin' in a dwarven paradise | 3.00% | ~7,191 |
 | Way of the Wimp | 3.00% | ~7,191 |
 | The plot thickens... At the tavern | 3.00% | ~7,191 |
@@ -50,12 +50,13 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.60% | ~1,438 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,438 |
 | Law and Order | 0.60% | ~1,438 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,198 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,199 |
 | Friendly fire | 0.40% | ~959 |
 | I'd rather... Just... Sing! | 0.40% | ~959 |
 | It's been a hard day's night | 0.40% | ~959 |
 | The number of the counting shalt be 7 | 0.30% | ~719 |
 | Inception | 0.30% | ~719 |
+| Cursed die | 0.20% | ~479 |
 | The Blood Countess | 0.20% | ~479 |
 | Free customer service | 0.20% | ~479 |
 | Imposture and Trowels | 0.20% | ~479 |
@@ -65,7 +66,6 @@ Number of Ratings: 118  (23.09.2022)
 | Death is for wimps | 0.20% | ~479 |
 | Super-Ultra-Lydian | 0.20% | ~479 |
 | Demisemiquaver | 0.20% | ~479 |
-| Cursed die | 0.10% | ~240 |
 | Necrophilia | 0.10% | ~240 |
 | He’s alive! Aliiiive! | 0.10% | ~240 |
 | Restless night | 0.10% | ~240 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,700 (Ranked 63)  
+Progressed: 239,716 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,18 +274,18 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-23 | 239,137 | 7 |
 | 2023-11-24 | 239,357 | 7 |
 | 2023-11-25 | 239,618 | 7 |
-| 2023-11-26 | 239,700 | 7 |
+| 2023-11-26 | 239,716 | 7 |
 ## Awards
 Max (Character Customization): 238  (Ranked 272)  
-Sum: 478 (Ranked 330)  
+Sum: 480 (Ranked 330)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 238 |
-| This game is Relaxing | 38 |
+| This game is Relaxing | 39 |
 | This game is Great for Beginners | 34 |
 | This game is Highly Recommended | 31 |
-| This game has Amazing Storytelling | 30 |
+| This game has Amazing Storytelling | 31 |
 | This game has Quickly Understood Controls | 30 |
 | This game has Amazing Characters | 27 |
 | This game has Diverse Characters | 26 |
@@ -476,3 +476,4 @@ Diff (max vs sum): -58
 | 2023-11-20 | 4.58 | - | 235 | 472 |
 | 2023-11-21 | 4.58 | - | 237 | 474 |
 | 2023-11-23 | 4.58 | - | 238 | 478 |
+| 2023-11-26 | 4.58 | - | 238 | 480 |

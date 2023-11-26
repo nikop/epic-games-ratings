@@ -2,13 +2,13 @@
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
-  "Ranking_Rating": 590,
+  "Ranking_Rating": 591,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -723,9 +723,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 191
     },
     {
       "ID": "win-with-3-cultists",
@@ -756,8 +756,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:08:59.5225694+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:06:27.3037613+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.2944425+00:00",
-  "LastUpdate_Ratings": "2023-11-26T09:57:58.1124587+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:08:59.5225914+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:57:11.2481051+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:06:27.3037838+00:00"
 }

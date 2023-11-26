@@ -5,36 +5,36 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,529 |
+| Whatever It Takes | 3.00% | ~1,530 |
 | Hotel California | 2.00% | ~14,509 |
 | Welcome To Hell-A | 2.00% | ~14,509 |
-| One of Us | 2.00% | ~1,019 |
-| Pork Chopped | 2.00% | ~1,019 |
-| Dr. Reed, I Presume? | 1.00% | ~7,254 |
-| Git Gutte! | 1.00% | ~7,254 |
-| Anger Management | 1.00% | ~7,254 |
-| Bookworm | 1.00% | ~7,254 |
-| Break A Leg | 1.00% | ~7,254 |
-| But Doctor, I am Butcho | 1.00% | ~7,254 |
-| Can't Handle the Truth | 1.00% | ~7,254 |
-| Coup de Grâce | 1.00% | ~7,254 |
-| Like Riding a Bike | 1.00% | ~7,254 |
-| Hazardous Materials | 1.00% | ~7,254 |
-| Friends Like These | 1.00% | ~7,254 |
-| Apex Predator | 1.00% | ~7,254 |
-| Zombologist | 1.00% | ~7,254 |
-| A Patton Emerges | 1.00% | ~7,254 |
-| Stacking the Deck | 1.00% | ~7,254 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,254 |
-| Our True Nature | 1.00% | ~7,254 |
-| This is My Weapon | 1.00% | ~7,254 |
+| One of Us | 2.00% | ~1,020 |
+| Pork Chopped | 2.00% | ~1,020 |
+| Dr. Reed, I Presume? | 1.00% | ~7,255 |
+| Git Gutte! | 1.00% | ~7,255 |
+| Anger Management | 1.00% | ~7,255 |
+| Bookworm | 1.00% | ~7,255 |
+| Break A Leg | 1.00% | ~7,255 |
+| But Doctor, I am Butcho | 1.00% | ~7,255 |
+| Can't Handle the Truth | 1.00% | ~7,255 |
+| Coup de Grâce | 1.00% | ~7,255 |
+| Like Riding a Bike | 1.00% | ~7,255 |
+| Hazardous Materials | 1.00% | ~7,255 |
+| Friends Like These | 1.00% | ~7,255 |
+| Apex Predator | 1.00% | ~7,255 |
+| Zombologist | 1.00% | ~7,255 |
+| A Patton Emerges | 1.00% | ~7,255 |
+| Stacking the Deck | 1.00% | ~7,255 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,255 |
+| Our True Nature | 1.00% | ~7,255 |
+| This is My Weapon | 1.00% | ~7,255 |
 | Perks of the Job | 0.90% | ~6,529 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,529 |
 | Slayer Squad | 0.90% | ~6,529 |
 | Ooh, Shiny! | 0.90% | ~6,529 |
-| Making Your Mark | 0.80% | ~5,803 |
-| I Am the Resurrection | 0.80% | ~5,803 |
-| Max Headroom | 0.80% | ~5,803 |
+| Making Your Mark | 0.80% | ~5,804 |
+| I Am the Resurrection | 0.80% | ~5,804 |
+| Max Headroom | 0.80% | ~5,804 |
 | Humanity Distilled | 0.70% | ~5,078 |
 | Down with the Sickness | 0.70% | ~5,078 |
 | Not Even My Final Form | 0.60% | ~4,353 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~725 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,432 (Ranked 21)  
+Progressed: 725,464 (Ranked 21)  
 Completed: 2,439 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 2,439 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
-| 2023-11-26 | 725,432 | 2,439 |
+| 2023-11-26 | 725,464 | 2,439 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
 Sum: 11,832 (Ranked 83)  

@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1504,6 +1504,11 @@
       "Time": "2023-11-26T04:05:16.606929+00:00",
       "NumProgressed": 411,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T11:05:10.8857332+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -1516,7 +1521,7 @@
       "Name": "New arm",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -1548,7 +1553,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -1556,7 +1561,7 @@
       "Name": "Min\u0027s Promise",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -1596,7 +1601,7 @@
       "Name": "Shelter Escape",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -1628,7 +1633,7 @@
       "Name": "Truebro",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -1652,7 +1657,7 @@
       "Name": "The First Bond",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -1660,7 +1665,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1674,9 +1679,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1684,7 +1689,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -1692,7 +1697,7 @@
       "Name": "Second wall",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -1700,7 +1705,7 @@
       "Name": "Stone Retriever",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -1715,14 +1720,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:07:11.3246935+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:05:10.8857329+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:19.4276968+00:00",
-  "LastUpdate_Ratings": "2023-11-26T09:58:00.968464+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:07:11.3247123+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:57:13.2415773+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:05:10.8857501+00:00"
 }

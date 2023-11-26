@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1502,9 +1502,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131254,
+  "EOS_Progressed": 131255,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22997,6 +22997,11 @@
       "Time": "2023-11-26T10:07:18.7881336+00:00",
       "NumProgressed": 131254,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-26T11:05:16.2450633+00:00",
+      "NumProgressed": 131255,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23120,7 +23125,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27563
+      "UsersEstimate": 27564
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -23168,7 +23173,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13125
+      "UsersEstimate": 13126
     },
     {
       "ID": "ACH_GLUTEN",
@@ -23327,15 +23332,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131254,
+      "Progressed": 131255,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-25T21:59:59.8181646+00:00",
-  "LastChanged_Achievements": "2023-11-26T10:07:18.7881334+00:00",
+  "LastChanged_Achievements": "2023-11-26T11:05:16.2450629+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-26T09:59:03.8252705+00:00",
-  "LastUpdate_Achievements": "2023-11-26T10:07:18.7882595+00:00"
+  "LastUpdate_Ratings": "2023-11-26T10:57:55.9998482+00:00",
+  "LastUpdate_Achievements": "2023-11-26T11:05:16.2451951+00:00"
 }
