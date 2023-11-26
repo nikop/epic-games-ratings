@@ -7,18 +7,18 @@
 | The Last Stand | 86.00% | ~388 |
 | Thalya – Simply Immortal | 86.00% | ~388 |
 | For the Horde! | 81.00% | ~365 |
-| Hammer Time, Round Two | 78.00% | ~352 |
+| Hammer Time, Round Two | 79.00% | ~356 |
 | The Hellwoods | 73.00% | ~329 |
 | The Plains of Strothalm | 69.00% | ~311 |
 | Experienced Thalya | 69.00% | ~311 |
 | Thalya's Concentrated Fury | 67.00% | ~302 |
-| Bad Elves Go Everywhere | 64.00% | ~289 |
+| Bad Elves Go Everywhere | 65.00% | ~293 |
 | Master of Magic | 62.00% | ~280 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~266 |
 | Heroes’ Gorge | 59.00% | ~266 |
 | Magic Accidents | 57.00% | ~257 |
+| Trap Master | 54.00% | ~244 |
 | Minions, Minions! | 54.00% | ~244 |
-| Trap Master | 53.00% | ~239 |
 | The Ascent | 48.00% | ~216 |
 | It's Warm and Cozy at Home | 48.00% | ~216 |
 | YOU SHALL NOT PASS! | 44.00% | ~198 |
@@ -41,7 +41,7 @@
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~90 |
 | If Looks Could Kill | 20.00% | ~90 |
 | The Finitude Drill | 18.00% | ~81 |
-| Stop Tanos! | 16.00% | ~72 |
+| Stop Tanos! | 17.00% | ~77 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~68 |
 | Doom Hill | 15.00% | ~68 |
 | Sabotage! | 14.00% | ~63 |

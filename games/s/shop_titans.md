@@ -9,7 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 6.00% | ~8,540 |
 | Basic in Bulk | 6.00% | ~8,540 |
 | Titan's First Steps | 6.00% | ~8,540 |
-| Tinkle of Coins | 5.00% | ~7,116 |
+| Tinkle of Coins | 5.00% | ~7,117 |
 | Disintermediation | 4.00% | ~5,693 |
 | It's Free Real Estate | 4.00% | ~5,693 |
 | Budding Merchant | 4.00% | ~5,693 |
@@ -22,32 +22,32 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 3.00% | ~4,270 |
 | Through Repetition, Perfection | 3.00% | ~4,270 |
 | Own the Means of Production | 3.00% | ~4,270 |
-| On the Path to Greatness | 2.00% | ~2,846 |
-| Ascended | 2.00% | ~2,846 |
-| Tax not Included | 2.00% | ~2,846 |
-| Research & Development | 2.00% | ~2,846 |
-| Vanity, Verily | 2.00% | ~2,846 |
-| Bounty Hunters | 2.00% | ~2,846 |
-| Fated Encounters | 2.00% | ~2,846 |
-| For the Hoard! | 2.00% | ~2,846 |
-| Blank Page Syndrome | 2.00% | ~2,846 |
-| Demand for Supplies | 2.00% | ~2,846 |
-| Flooding the Market | 2.00% | ~2,846 |
-| Where it Hurts | 2.00% | ~2,846 |
-| Power of Love | 2.00% | ~2,846 |
-| Efficient Floor Space | 2.00% | ~2,846 |
-| Flawless Fusion | 2.00% | ~2,846 |
-| Trash to Treasure | 2.00% | ~2,846 |
-| Gem Expert | 2.00% | ~2,846 |
-| Gild-Gotten Goods | 2.00% | ~2,846 |
-| Royal Ransom | 2.00% | ~2,846 |
-| Helping Hand | 2.00% | ~2,846 |
-| Accomplished Merchant | 2.00% | ~2,846 |
-| Dungeon Imports | 2.00% | ~2,846 |
-| Natural 20 | 2.00% | ~2,846 |
-| Did we pack lunch? | 2.00% | ~2,846 |
-| Magical Harmony | 2.00% | ~2,846 |
-| Arcane Industries | 2.00% | ~2,846 |
+| On the Path to Greatness | 2.00% | ~2,847 |
+| Ascended | 2.00% | ~2,847 |
+| Tax not Included | 2.00% | ~2,847 |
+| Research & Development | 2.00% | ~2,847 |
+| Vanity, Verily | 2.00% | ~2,847 |
+| Bounty Hunters | 2.00% | ~2,847 |
+| Fated Encounters | 2.00% | ~2,847 |
+| For the Hoard! | 2.00% | ~2,847 |
+| Blank Page Syndrome | 2.00% | ~2,847 |
+| Demand for Supplies | 2.00% | ~2,847 |
+| Flooding the Market | 2.00% | ~2,847 |
+| Where it Hurts | 2.00% | ~2,847 |
+| Power of Love | 2.00% | ~2,847 |
+| Efficient Floor Space | 2.00% | ~2,847 |
+| Flawless Fusion | 2.00% | ~2,847 |
+| Trash to Treasure | 2.00% | ~2,847 |
+| Gem Expert | 2.00% | ~2,847 |
+| Gild-Gotten Goods | 2.00% | ~2,847 |
+| Royal Ransom | 2.00% | ~2,847 |
+| Helping Hand | 2.00% | ~2,847 |
+| Accomplished Merchant | 2.00% | ~2,847 |
+| Dungeon Imports | 2.00% | ~2,847 |
+| Natural 20 | 2.00% | ~2,847 |
+| Did we pack lunch? | 2.00% | ~2,847 |
+| Magical Harmony | 2.00% | ~2,847 |
+| Arcane Industries | 2.00% | ~2,847 |
 | A Notch Above the Rest | 1.00% | ~1,423 |
 | Cream of the Crop | 1.00% | ~1,423 |
 | Top of the World | 1.00% | ~1,423 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.20% | ~285 |
 | To Hell and Back | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,325 (Ranked 80)  
+Progressed: 142,337 (Ranked 80)  
 Completed: 274 (0.19%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,10 +339,10 @@ Completed: 274 (0.19%) (Ranked 261)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,325 | 274 |
+| 2023-11-26 | 142,337 | 274 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
-Sum: 27,607 (Ranked 50)  
+Sum: 27,608 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): 25
 | This game has Diverse Characters | 3,952 |
 | This game is Highly Recommended | 3,785 |
 | This game has Easy Combat | 3,732 |
-| This game has Playful Visuals | 3,210 |
+| This game has Playful Visuals | 3,211 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -656,4 +656,4 @@ Diff (max vs sum): 25
 | 2023-11-22 | 3.99 | - | 4,839 | 27,581 |
 | 2023-11-24 | 3.99 | - | 4,842 | 27,589 |
 | 2023-11-25 | 3.99 | - | 4,844 | 27,598 |
-| 2023-11-26 | 3.99 | - | 4,848 | 27,607 |
+| 2023-11-26 | 3.99 | - | 4,848 | 27,608 |

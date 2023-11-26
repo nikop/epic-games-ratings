@@ -6,14 +6,14 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,928 |
-| Finding Your Footing | 25.00% | ~11,971 |
-| Nomad | 17.00% | ~8,140 |
-| Picking Up Speed | 16.00% | ~7,661 |
-| Welcome Maya | 14.00% | ~6,704 |
-| Scout | 11.00% | ~5,267 |
-| Sightseer | 11.00% | ~5,267 |
-| Amateur | 10.00% | ~4,788 |
+| Rookie | 27.00% | ~12,930 |
+| Finding Your Footing | 25.00% | ~11,972 |
+| Nomad | 17.00% | ~8,141 |
+| Picking Up Speed | 16.00% | ~7,662 |
+| Welcome Maya | 14.00% | ~6,705 |
+| Scout | 11.00% | ~5,268 |
+| Sightseer | 11.00% | ~5,268 |
+| Amateur | 10.00% | ~4,789 |
 | Unlock Maya | 8.00% | ~3,831 |
 | Wanderer | 8.00% | ~3,831 |
 | Enter Paz | 7.00% | ~3,352 |
@@ -21,12 +21,12 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~2,394 |
 | One With The Board | 5.00% | ~2,394 |
 | Voyager | 5.00% | ~2,394 |
-| Izel Has Arrived | 4.00% | ~1,915 |
-| Junkie | 3.00% | ~1,436 |
-| Traveler | 3.00% | ~1,436 |
-| Unlock Paz | 3.00% | ~1,436 |
-| Human Flight | 3.00% | ~1,436 |
-| Sandboarder | 3.00% | ~1,436 |
+| Izel Has Arrived | 4.00% | ~1,916 |
+| Junkie | 3.00% | ~1,437 |
+| Traveler | 3.00% | ~1,437 |
+| Unlock Paz | 3.00% | ~1,437 |
+| Human Flight | 3.00% | ~1,437 |
+| Sandboarder | 3.00% | ~1,437 |
 | Explorer | 2.00% | ~958 |
 | Pro | 2.00% | ~958 |
 | Journeyer | 2.00% | ~958 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~48 |
 | Windswept | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,883 (Ranked 113)  
+Progressed: 47,890 (Ranked 113)  
 Completed: 5 (0.01%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 5 (0.01%) (Ranked 341)
 | 2023-11-23 | 47,498 | 5 |
 | 2023-11-24 | 47,612 | 5 |
 | 2023-11-25 | 47,764 | 5 |
-| 2023-11-26 | 47,883 | 5 |
+| 2023-11-26 | 47,890 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 440)  
 Sum: 374 (Ranked 349)  

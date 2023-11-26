@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18923,
+  "EOS_Progressed": 18925,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13219,6 +13219,11 @@
       "Time": "2023-11-26T21:06:12.5511688+00:00",
       "NumProgressed": 18923,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-26T22:08:29.9347131+00:00",
+      "NumProgressed": 18925,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13230,7 +13235,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5677
+      "UsersEstimate": 5678
     },
     {
       "ID": "0002",
@@ -13254,7 +13259,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "0005",
@@ -13294,7 +13299,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "0010",
@@ -13414,7 +13419,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "0025",
@@ -13446,7 +13451,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "0029",
@@ -13517,7 +13522,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18923,
+      "Progressed": 18925,
       "Completed": 4
     }
   ],
@@ -13525,8 +13530,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-26T21:06:12.5511685+00:00",
+  "LastChanged_Achievements": "2023-11-26T22:08:29.9347129+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:00:17.326903+00:00",
-  "LastUpdate_Achievements": "2023-11-26T21:06:12.5512309+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:02:16.7301292+00:00",
+  "LastUpdate_Achievements": "2023-11-26T22:08:29.9347973+00:00"
 }

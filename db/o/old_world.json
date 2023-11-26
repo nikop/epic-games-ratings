@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2028,9 +2028,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15513,
+  "EOS_Progressed": 15514,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16623,6 +16623,11 @@
       "Time": "2023-11-26T21:04:27.9975458+00:00",
       "NumProgressed": 15513,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T22:05:57.667173+00:00",
+      "NumProgressed": 15514,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -19032,9 +19037,9 @@
       "ID": "ACHIEVEMENT_EGYPT1_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Kmt Unified",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MAJOR_VICTORY",
@@ -19369,21 +19374,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15513,
+      "Progressed": 15514,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15513,
+      "Progressed": 15514,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-25T13:58:59.246116+00:00",
-  "LastChanged_Achievements": "2023-11-26T21:04:27.9975454+00:00",
+  "LastChanged_Achievements": "2023-11-26T22:05:57.6671728+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-26T20:59:56.7446711+00:00",
-  "LastUpdate_Achievements": "2023-11-26T21:04:27.9983943+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:01:44.5045021+00:00",
+  "LastUpdate_Achievements": "2023-11-26T22:05:57.6680593+00:00"
 }

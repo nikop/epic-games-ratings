@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -519,7 +519,7 @@
   ],
   "EOS_Progressed": 2735,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8528,9 +8528,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1477
     },
     {
       "ID": "prestigiousx10",
@@ -8745,8 +8745,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-26T15:02:29.5488839+00:00",
-  "LastChanged_Achievements": "2023-11-26T21:08:55.8249731+00:00",
+  "LastChanged_Achievements": "2023-11-26T22:10:13.2330716+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:02:37.3782421+00:00",
-  "LastUpdate_Achievements": "2023-11-26T21:08:55.8250484+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:03:41.6338909+00:00",
+  "LastUpdate_Achievements": "2023-11-26T22:10:13.2331483+00:00"
 }

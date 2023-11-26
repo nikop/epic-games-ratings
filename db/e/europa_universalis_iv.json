@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12475,10 +12475,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 59006,
       "NumberOfAwardsMax": 7180
+    },
+    {
+      "Time": "2023-11-26T22:01:38.5225171+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 59017,
+      "NumberOfAwardsMax": 7180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59006,
+  "NumberOfAwards": 59017,
   "NumberOfAwardsMax": 7180,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12528,7 +12534,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6579
+      "Count": 6590
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12549,9 +12555,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 464432,
+  "EOS_Progressed": 464453,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4801,
+  "EOS_NewPlayers": 4789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37814,6 +37820,11 @@
       "Time": "2023-11-26T21:05:57.9079649+00:00",
       "NumProgressed": 464432,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T22:08:08.5945067+00:00",
+      "NumProgressed": 464453,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38855,9 +38866,9 @@
       "ID": "achievement_graze_my_horse_here_and_here",
       "SetID": "8p2n7he",
       "Name": "I\u0027ll graze my horse here.. And here\u2026",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 464
     },
     {
       "ID": "achievement_great_moravia",
@@ -40728,21 +40739,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 464432,
+      "Progressed": 464453,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 464432,
+      "Progressed": 464453,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-26T20:59:52.9450811+00:00",
-  "LastChanged_Achievements": "2023-11-26T21:05:57.9079642+00:00",
+  "LastChanged": "2023-11-26T22:01:38.5225169+00:00",
+  "LastChanged_Achievements": "2023-11-26T22:08:08.5945065+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-26T20:59:52.9450817+00:00",
-  "LastUpdate_Achievements": "2023-11-26T21:05:57.9089893+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:01:38.5225175+00:00",
+  "LastUpdate_Achievements": "2023-11-26T22:08:08.5955105+00:00"
 }

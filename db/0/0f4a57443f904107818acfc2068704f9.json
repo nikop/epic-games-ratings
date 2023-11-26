@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 665,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1307,6 +1307,11 @@
       "Time": "2023-11-26T21:06:16.7275106+00:00",
       "NumProgressed": 663,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T22:08:35.6871318+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1335,7 +1340,7 @@
       "Name": "Chosen Victor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -1375,7 +1380,7 @@
       "Name": "Pathfinder",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 499
     },
     {
       "ID": "CompleteChapter10",
@@ -1399,7 +1404,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CompleteChapter13",
@@ -1407,7 +1412,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CompleteChapter14",
@@ -1463,7 +1468,7 @@
       "Name": "Met the Enemy",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "CompleteChapter3",
@@ -1471,7 +1476,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "CompleteChapter4",
@@ -1479,7 +1484,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "CompleteChapter5",
@@ -1501,9 +1506,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 100
     },
     {
       "ID": "CompleteChapter8",
@@ -1567,7 +1572,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1614,14 +1619,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 665,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-26T21:06:16.7275104+00:00",
+  "LastChanged_Achievements": "2023-11-26T22:08:35.6871316+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-26T20:59:39.5473795+00:00",
-  "LastUpdate_Achievements": "2023-11-26T21:06:16.7275379+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:01:18.9231709+00:00",
+  "LastUpdate_Achievements": "2023-11-26T22:08:35.687168+00:00"
 }

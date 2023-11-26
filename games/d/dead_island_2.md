@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,546 |
+| Whatever It Takes | 3.00% | ~1,547 |
 | Break A Leg | 2.00% | ~14,520 |
 | Hotel California | 2.00% | ~14,520 |
 | Welcome To Hell-A | 2.00% | ~14,520 |
-| One of Us | 2.00% | ~1,030 |
-| Pork Chopped | 2.00% | ~1,030 |
+| One of Us | 2.00% | ~1,031 |
+| Pork Chopped | 2.00% | ~1,031 |
 | Dr. Reed, I Presume? | 1.00% | ~7,260 |
 | Git Gutte! | 1.00% | ~7,260 |
 | Anger Management | 1.00% | ~7,260 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,978 (Ranked 21)  
-Completed: 2,439 (0.34%) (Ranked 229)  
+Progressed: 726,014 (Ranked 21)  
+Completed: 2,440 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -277,7 +277,7 @@ Completed: 2,439 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
-| 2023-11-26 | 725,978 | 2,439 |
+| 2023-11-26 | 726,014 | 2,440 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
 Sum: 11,835 (Ranked 83)  

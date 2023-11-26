@@ -12,13 +12,13 @@ Rating: 4.55 (Ranked 507)
 | Collect Monster Parts | 59.00% | ~1,256 |
 | Two Handed Weapon | 57.00% | ~1,213 |
 | Defeat 25 Grubs | 53.00% | ~1,128 |
-| Rescue Redgi's Brothers | 52.00% | ~1,107 |
+| Rescue Redgi's Brothers | 53.00% | ~1,128 |
 | Collect Iron Ore | 48.00% | ~1,021 |
 | Kitchen Ready To Cook | 48.00% | ~1,021 |
 | Defeat 25 Mozis | 47.00% | ~1,000 |
 | Collect Gold | 46.00% | ~979 |
 | Smithy Ready to Craft | 46.00% | ~979 |
-| Fix the Travellers Wagon | 44.00% | ~936 |
+| Fix the Travellers Wagon | 45.00% | ~958 |
 | Complete Elder Faction | 41.00% | ~872 |
 | End of the Mozis | 38.00% | ~809 |
 | Throne Room Fit For A King | 38.00% | ~809 |

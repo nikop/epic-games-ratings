@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1511,9 +1511,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 6963,
+  "EOS_Progressed": 6967,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13491,6 +13491,11 @@
       "Time": "2023-11-26T21:05:15.6430228+00:00",
       "NumProgressed": 6963,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-26T22:07:07.3071544+00:00",
+      "NumProgressed": 6967,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13502,7 +13507,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5225
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -13510,7 +13515,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3621
+      "UsersEstimate": 3623
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -13518,7 +13523,7 @@
       "Name": "Disassembled",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -13526,7 +13531,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -13534,7 +13539,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4665
+      "UsersEstimate": 4668
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -13542,7 +13547,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5292
+      "UsersEstimate": 5295
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -13550,7 +13555,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5083
+      "UsersEstimate": 5086
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -13558,7 +13563,7 @@
       "Name": "A Party Now",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "HUNT_DEER_20",
@@ -13574,7 +13579,7 @@
       "Name": "Oh Deer!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -13606,7 +13611,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "KILL_RAIDER",
@@ -13614,7 +13619,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2924
+      "UsersEstimate": 2926
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -13622,7 +13627,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 4247
+      "UsersEstimate": 4250
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -13630,7 +13635,7 @@
       "Name": "Feast or Famine",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -13638,7 +13643,7 @@
       "Name": "Fit For A King",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -13646,7 +13651,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3344
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -13654,7 +13659,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -13662,7 +13667,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4804
+      "UsersEstimate": 4807
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -13670,7 +13675,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2924
+      "UsersEstimate": 2926
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -13678,7 +13683,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -13686,7 +13691,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -13694,7 +13699,7 @@
       "Name": "All Year Round",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -13702,7 +13707,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3832
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -13710,7 +13715,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4665
+      "UsersEstimate": 4668
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -13718,7 +13723,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3135
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -13726,7 +13731,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -13734,7 +13739,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4039
+      "UsersEstimate": 4041
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -13742,22 +13747,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3621
+      "UsersEstimate": 3623
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6963,
+      "Progressed": 6967,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-26T14:58:06.420762+00:00",
-  "LastChanged_Achievements": "2023-11-26T21:05:15.6430223+00:00",
+  "LastChanged_Achievements": "2023-11-26T22:07:07.307154+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-11-26T20:58:35.4220953+00:00",
-  "LastUpdate_Achievements": "2023-11-26T21:05:15.6430835+00:00"
+  "LastUpdate_Ratings": "2023-11-26T21:59:38.7385431+00:00",
+  "LastUpdate_Achievements": "2023-11-26T22:07:07.3072152+00:00"
 }

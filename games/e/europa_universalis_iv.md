@@ -97,6 +97,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.10% | ~464 |
 | Grand Duchy | 0.10% | ~464 |
 | That's a Grand Navy | 0.10% | ~464 |
+| I'll graze my horse here.. And here… | 0.10% | ~464 |
 | Guarantor of Peace | 0.10% | ~464 |
 | Hard Bargaining | 0.10% | ~464 |
 | Holiest Roman Empire | 0.10% | ~464 |
@@ -286,7 +287,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
-| I'll graze my horse here.. And here… | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Hanukkah Mutapa | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,432 (Ranked 41)  
+Progressed: 464,453 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,10 +590,10 @@ Completed: 1 (0.00%) (Ranked 361)
 | 2023-11-23 | 462,094 | 1 |
 | 2023-11-24 | 462,785 | 1 |
 | 2023-11-25 | 463,679 | 1 |
-| 2023-11-26 | 464,432 | 1 |
+| 2023-11-26 | 464,453 | 1 |
 ## Awards
 Max (Educational): 7,180  (Ranked 54)  
-Sum: 59,006 (Ranked 24)  
+Sum: 59,017 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -602,7 +602,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,881 |
 | This game has Challenging Combat | 6,803 |
 | This game is Extremely Fun | 6,754 |
-| This game is Relaxing | 6,579 |
+| This game is Relaxing | 6,590 |
 | This game has Competitive Players | 6,416 |
 | This game has Amazing Storytelling | 5,961 |
 | This game has Amazing Characters | 5,515 |
@@ -923,4 +923,4 @@ Diff (max vs sum): 30
 | 2023-11-23 | 4.69 | - | 7,128 | 58,694 |
 | 2023-11-24 | 4.69 | - | 7,144 | 58,780 |
 | 2023-11-25 | 4.69 | - | 7,165 | 58,897 |
-| 2023-11-26 | 4.69 | - | 7,180 | 59,006 |
+| 2023-11-26 | 4.69 | - | 7,180 | 59,017 |

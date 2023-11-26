@@ -9,15 +9,15 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 31.00% | ~78 |
 | Double Kill | 23.00% | ~58 |
 | Critical Hit | 11.00% | ~28 |
-| Veteran | 9.00% | ~22 |
-| Dressed For Success | 7.00% | ~18 |
+| Veteran | 10.00% | ~25 |
+| Dressed For Success | 8.00% | ~20 |
 | Sorcerous Spree | 5.00% | ~12 |
 | Humiliation | 5.00% | ~12 |
 | Veni, Vidi, Vici | 5.00% | ~12 |
+| Multi Kill | 3.00% | ~8 |
 | Whoops! | 3.00% | ~8 |
 | The Song of Stoutheart | 2.00% | ~5 |
 | This Spot's Taken | 2.00% | ~5 |
-| Multi Kill | 2.00% | ~5 |
 | Such A Fungi | 2.00% | ~5 |
 | Trojan Horse | 2.00% | ~5 |
 | Master | 2.00% | ~5 |

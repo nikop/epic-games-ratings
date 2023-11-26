@@ -27,10 +27,10 @@
 | The Emperor's New Clothes | 33.00% | ~63 |
 | Final Evolution | 33.00% | ~63 |
 | You Shall Not Pass | 32.00% | ~61 |
+| Godlike Power | 32.00% | ~61 |
 | Undying Skin | 32.00% | ~61 |
 | Happy Little Home | 32.00% | ~61 |
 | Animal Lover | 31.00% | ~59 |
-| Godlike Power | 31.00% | ~59 |
 | Fight Me! | 31.00% | ~59 |
 | Mommy's Very Angry | 30.00% | ~57 |
 | Supremacy | 30.00% | ~57 |

@@ -5,21 +5,21 @@ Rating: 4.57 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~48 |
-| Map reader | 75.00% | ~39 |
-| Philanthropist | 69.00% | ~36 |
-| Adventurer | 67.00% | ~35 |
-| The brave little tailor | 50.00% | ~26 |
-| Archer | 50.00% | ~26 |
-| Field hand | 48.00% | ~25 |
-| Samaritan | 48.00% | ~25 |
+| Beginner | 92.00% | ~49 |
+| Map reader | 74.00% | ~39 |
+| Philanthropist | 68.00% | ~36 |
+| Adventurer | 66.00% | ~35 |
+| The brave little tailor | 49.00% | ~26 |
+| Archer | 49.00% | ~26 |
+| Field hand | 47.00% | ~25 |
+| Samaritan | 47.00% | ~25 |
 | The merciful one | 42.00% | ~22 |
 | Well-to-do | 42.00% | ~22 |
 | Ladies' man | 40.00% | ~21 |
-| Ferocious wild boars | 31.00% | ~16 |
-| Wise man | 27.00% | ~14 |
-| Beast slayer | 27.00% | ~14 |
-| Idiot | 27.00% | ~14 |
+| Ferocious wild boars | 30.00% | ~16 |
+| Wise man | 26.00% | ~14 |
+| Beast slayer | 26.00% | ~14 |
+| Idiot | 26.00% | ~14 |
 | Family man | 25.00% | ~13 |
 | Ogre friend | 25.00% | ~13 |
 | The fourth triplet | 25.00% | ~13 |
@@ -38,9 +38,9 @@ Rating: 4.57 (Ranked 475)
 | Showdown | 15.00% | ~8 |
 | Master thief | 15.00% | ~8 |
 | Safecracker | 13.00% | ~7 |
-| Freedom fighter | 12.00% | ~6 |
-| Moneybags | 12.00% | ~6 |
-| Titan Lord | 10.00% | ~5 |
+| Freedom fighter | 11.00% | ~6 |
+| Moneybags | 11.00% | ~6 |
+| Titan Lord | 9.00% | ~5 |
 | The traveler | 8.00% | ~4 |
 | Terror of the hens | 8.00% | ~4 |
 | Expert | 8.00% | ~4 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 475)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 493)  
+Progressed: 53 (Ranked 491)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-22 | 48 | 0 |
 | 2023-11-23 | 49 | 0 |
 | 2023-11-24 | 50 | 0 |
-| 2023-11-26 | 52 | 0 |
+| 2023-11-26 | 53 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

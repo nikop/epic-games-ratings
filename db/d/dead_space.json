@@ -4,7 +4,7 @@
   "ProductSlug": "dead-space",
   "Ranking_Rating": 334,
   "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 437,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 179,
@@ -705,23 +705,29 @@
       "Rating": 4.64,
       "NumberOfAwards": 115,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-11-26T22:02:06.8733909+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 117,
+      "NumberOfAwardsMax": 117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 115,
-  "NumberOfAwardsMax": 115,
+  "NumberOfAwards": 117,
+  "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 115
+      "Count": 117
     }
   ],
-  "EOS_Progressed": 2004,
+  "EOS_Progressed": 2005,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -6114,6 +6120,11 @@
       "Time": "2023-11-26T21:08:00.9140556+00:00",
       "NumProgressed": 2004,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-26T22:09:23.0822976+00:00",
+      "NumProgressed": 2005,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6126,7 +6137,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "achievement_10",
@@ -6174,7 +6185,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "achievement_16",
@@ -6214,7 +6225,7 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "achievement_20",
@@ -6222,7 +6233,7 @@
       "Name": "Autofire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "achievement_21",
@@ -6238,7 +6249,7 @@
       "Name": "A Cut Above",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_23",
@@ -6286,7 +6297,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "achievement_29",
@@ -6318,7 +6329,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "achievement_32",
@@ -6326,7 +6337,7 @@
       "Name": "Surgeon",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "achievement_33",
@@ -6342,7 +6353,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "achievement_35",
@@ -6350,7 +6361,7 @@
       "Name": "Freeze",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "achievement_36",
@@ -6374,7 +6385,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_39",
@@ -6390,7 +6401,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "achievement_40",
@@ -6420,9 +6431,9 @@
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1063
     },
     {
       "ID": "achievement_44",
@@ -6436,9 +6447,9 @@
       "ID": "achievement_45",
       "SetID": "222fo9l",
       "Name": "Mindless Prey",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 782
     },
     {
       "ID": "achievement_46",
@@ -6462,7 +6473,7 @@
       "Name": "True Believer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "achievement_6",
@@ -6470,7 +6481,7 @@
       "Name": "Greenhouse Effect",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "achievement_7",
@@ -6501,16 +6512,16 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 2004,
+      "Progressed": 2005,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
-  "LastChanged": "2023-11-24T08:59:05.9325653+00:00",
-  "LastChanged_Achievements": "2023-11-26T21:08:00.9140551+00:00",
+  "LastChanged": "2023-11-26T22:02:06.8733907+00:00",
+  "LastChanged_Achievements": "2023-11-26T22:09:23.0822972+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.9761475+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:00:10.958814+00:00",
-  "LastUpdate_Achievements": "2023-11-26T21:08:00.9141108+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:02:06.8733913+00:00",
+  "LastUpdate_Achievements": "2023-11-26T22:09:23.0823696+00:00"
 }

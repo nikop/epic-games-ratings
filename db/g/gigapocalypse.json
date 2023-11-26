@@ -4,8 +4,8 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -577,9 +577,9 @@
       "ID": "secret27",
       "SetID": "39f6ck8",
       "Name": "Godlike Power",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "secret28",
@@ -858,8 +858,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-11-26T21:05:28.4470582+00:00",
+  "LastChanged_Achievements": "2023-11-26T22:07:25.5052686+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:15.5066785+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:03:15.6525197+00:00",
-  "LastUpdate_Achievements": "2023-11-26T21:05:28.4470919+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:04:10.8251443+00:00",
+  "LastUpdate_Achievements": "2023-11-26T22:07:25.5053007+00:00"
 }

@@ -67,22 +67,22 @@
 | Treason | 29.00% | ~413 |
 | Agent | 29.00% | ~413 |
 | Digital Exorcist | 29.00% | ~413 |
+| Suicide Mission | 28.00% | ~399 |
 | Against All Odds | 28.00% | ~399 |
 | Friend or Foe | 28.00% | ~399 |
 | Doppelganger | 28.00% | ~399 |
 | Mobilizer | 28.00% | ~399 |
 | Untouchable | 27.00% | ~384 |
 | Mission Accomplished | 27.00% | ~384 |
-| Suicide Mission | 27.00% | ~384 |
+| A House Divided | 27.00% | ~384 |
 | Eye of the Hurricane | 26.00% | ~370 |
 | Giant Killer | 26.00% | ~370 |
-| A House Divided | 26.00% | ~370 |
 | World Shaker | 26.00% | ~370 |
 | First Aid Specialist | 25.00% | ~356 |
+| Liberator | 25.00% | ~356 |
 | Weapon Specialist | 24.00% | ~342 |
 | Pathfinder | 24.00% | ~342 |
 | Tunnel Rat | 24.00% | ~342 |
-| Liberator | 24.00% | ~342 |
 | Savior | 23.00% | ~328 |
 | Arbiter | 23.00% | ~328 |
 | Party Crasher | 22.00% | ~313 |

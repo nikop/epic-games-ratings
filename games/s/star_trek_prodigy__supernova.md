@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 50.00% | ~8 |
-| Three Watchers, Two Phasers | 38.00% | ~6 |
-| Guess who's back | 31.00% | ~5 |
-| One for the Crew | 25.00% | ~4 |
-| The Clock is Ticking | 25.00% | ~4 |
-| A Helping Hand | 25.00% | ~4 |
-| I've Got You | 19.00% | ~3 |
-| Up your Arsenal | 13.00% | ~2 |
-| Punny Lover | 13.00% | ~2 |
-| Back online | 13.00% | ~2 |
-| Rok and Roll | 13.00% | ~2 |
-| First Contact? | 13.00% | ~2 |
-| Not Too Long | 13.00% | ~2 |
-| Getting Better | 13.00% | ~2 |
+| Restoring the Protostar | 47.00% | ~8 |
+| Three Watchers, Two Phasers | 35.00% | ~6 |
+| Guess who's back | 29.00% | ~5 |
+| One for the Crew | 24.00% | ~4 |
+| The Clock is Ticking | 24.00% | ~4 |
+| A Helping Hand | 24.00% | ~4 |
+| I've Got You | 18.00% | ~3 |
+| Up your Arsenal | 12.00% | ~2 |
+| Punny Lover | 12.00% | ~2 |
+| Back online | 12.00% | ~2 |
+| Rok and Roll | 12.00% | ~2 |
+| First Contact? | 12.00% | ~2 |
+| Not Too Long | 12.00% | ~2 |
+| Getting Better | 12.00% | ~2 |
 | Priceless Collection | 6.00% | ~1 |
 | One Man Army | 6.00% | ~1 |
 | Quest for Loot | 6.00% | ~1 |
@@ -46,7 +46,7 @@
 | Relic Hunter | 0.00% | ~0 |
 | Maxed out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 574)  
+Progressed: 17 (Ranked 570)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-06-25 | 14 | 0 |
 | 2023-11-11 | 15 | 0 |
 | 2023-11-24 | 16 | 0 |
+| 2023-11-26 | 17 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

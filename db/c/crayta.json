@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109837,
+  "EOS_Progressed": 109838,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3302,6 +3302,11 @@
       "Time": "2023-11-26T11:08:20.4275994+00:00",
       "NumProgressed": 109837,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T22:09:57.1299479+00:00",
+      "NumProgressed": 109838,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3385,7 +3390,7 @@
       "Name": "Building Block - Bronze",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "19",
@@ -3449,7 +3454,7 @@
       "Name": "Variety Player - Silver",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "26",
@@ -3584,15 +3589,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109837,
+      "Progressed": 109838,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-11-26T21:08:44.6122602+00:00",
+  "LastChanged_Achievements": "2023-11-26T22:09:57.1299476+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:15.8978912+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:00:04.5071958+00:00",
-  "LastUpdate_Achievements": "2023-11-26T21:08:44.6122884+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:01:56.6956684+00:00",
+  "LastUpdate_Achievements": "2023-11-26T22:09:57.1299827+00:00"
 }
