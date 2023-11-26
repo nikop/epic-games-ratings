@@ -10,7 +10,7 @@
 | Hammer Time, Round Two | 79.00% | ~351 |
 | The Hellwoods | 73.00% | ~324 |
 | The Plains of Strothalm | 69.00% | ~306 |
-| Experienced Thalya | 68.00% | ~302 |
+| Experienced Thalya | 69.00% | ~306 |
 | Thalya's Concentrated Fury | 67.00% | ~297 |
 | Bad Elves Go Everywhere | 64.00% | ~284 |
 | Master of Magic | 63.00% | ~280 |
@@ -27,8 +27,8 @@
 | Pure Dynamite! | 39.00% | ~173 |
 | “… like son” | 37.00% | ~164 |
 | Mana Cannon | 34.00% | ~151 |
+| Dungeonlord Gorgu | 34.00% | ~151 |
 | Shame! Shame! Shame! | 34.00% | ~151 |
-| Dungeonlord Gorgu | 33.00% | ~147 |
 | The Cathedral of Light | 33.00% | ~147 |
 | Tanos' Crusade Against Thalya | 30.00% | ~133 |
 | All’s Well That Ends Evil | 25.00% | ~111 |
@@ -44,8 +44,8 @@
 | Stop Tanos! | 17.00% | ~75 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~67 |
 | Doom Hill | 15.00% | ~67 |
+| Sabotage! | 14.00% | ~62 |
 | Brimstone Shaken, Not Stirred | 14.00% | ~62 |
-| Sabotage! | 13.00% | ~58 |
 | Bonus Evilness | 12.00% | ~53 |
 | Raiders of the Lost Stone | 12.00% | ~53 |
 | The Rune Sockets of Finitude (Part 1) | 12.00% | ~53 |
@@ -59,9 +59,9 @@
 | Mirror, Mirror | 8.00% | ~36 |
 | To the Max! | 8.00% | ~36 |
 | Laser Eyes Are So Useless | 7.00% | ~31 |
+| Evilification | 7.00% | ~31 |
 | Gorgu is in the Best of Health | 6.00% | ~27 |
 | Heal Heal Blessing | 6.00% | ~27 |
-| Evilification | 6.00% | ~27 |
 | Hands Off My Stones | 5.00% | ~22 |
 | No Mana, No Cry | 4.00% | ~18 |
 | I Don't Need Any Help | 3.00% | ~13 |

@@ -5,11 +5,11 @@ Rating: 4.61 (Ranked 382)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| But this one is mine | 4.00% | ~220 |
 | Realm Estate | 3.00% | ~165 |
 | A Wonderful Discovery | 3.00% | ~165 |
 | Secret Technique | 3.00% | ~165 |
 | Walls Cannot Stop Us | 3.00% | ~165 |
-| But this one is mine | 3.00% | ~165 |
 | There Can Only Be One! | 2.00% | ~110 |
 | Full Ascension | 2.00% | ~110 |
 | Bone Peddler | 2.00% | ~110 |
@@ -19,6 +19,7 @@ Rating: 4.61 (Ranked 382)
 | Freed Lands of Manuhari | 2.00% | ~110 |
 | Valley of Wonders | 1.00% | ~55 |
 | Return of the Wizard King | 1.00% | ~55 |
+| Enchanted Archipelago | 1.00% | ~55 |
 | Stronger Together | 1.00% | ~55 |
 | In a Liege of Your Own | 1.00% | ~55 |
 | Fiery Friend | 1.00% | ~55 |
@@ -31,17 +32,16 @@ Rating: 4.61 (Ranked 382)
 | Chaos Surge | 1.00% | ~55 |
 | Seal the Deal | 1.00% | ~55 |
 | Spoils of War | 1.00% | ~55 |
-| Enchanted Archipelago | 0.90% | ~50 |
 | Digging for Treasure | 0.90% | ~50 |
 | My Final Form | 0.90% | ~50 |
 | Dawn of the Dread | 0.90% | ~50 |
 | Prometheus Avenged | 0.80% | ~44 |
 | Arch Mage | 0.70% | ~39 |
+| Crimson Caldera | 0.70% | ~39 |
 | Preparation Is Everything | 0.70% | ~39 |
 | Blood of the Dragon | 0.70% | ~39 |
 | A Conqueror's Cohort | 0.70% | ~39 |
 | The Creator | 0.60% | ~33 |
-| Crimson Caldera | 0.60% | ~33 |
 | Lord of Chaos | 0.50% | ~28 |
 | Manufactured War | 0.50% | ~28 |
 | The Eternal Court | 0.50% | ~28 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 382)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,509 (Ranked 189)  
+Progressed: 5,510 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 7 (0.13%) (Ranked 272)
 | 2023-11-23 | 5,446 | 7 |
 | 2023-11-24 | 5,463 | 7 |
 | 2023-11-25 | 5,496 | 7 |
-| 2023-11-26 | 5,509 | 7 |
+| 2023-11-26 | 5,510 | 7 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 482)  
 Sum: 60 (Ranked 477)  

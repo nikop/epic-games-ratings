@@ -5,18 +5,18 @@ Rating: 4.05 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 92.00% | ~280 |
-| Battlefields Have Memories | 88.00% | ~268 |
-| Enlisted | 85.00% | ~258 |
-| Maybe Engage a Little | 81.00% | ~246 |
-| No More Names | 70.00% | ~213 |
-| Initiate | 57.00% | ~173 |
-| Thrada-Kul | 53.00% | ~161 |
+| Unforeseen | 91.00% | ~278 |
+| Battlefields Have Memories | 87.00% | ~265 |
+| Enlisted | 84.00% | ~256 |
+| Maybe Engage a Little | 81.00% | ~247 |
+| No More Names | 70.00% | ~214 |
+| Initiate | 57.00% | ~174 |
+| Thrada-Kul | 53.00% | ~162 |
 | Gravity-Challenged Rocks | 43.00% | ~131 |
-| Soldier | 36.00% | ~109 |
-| All the Major Food Groups | 36.00% | ~109 |
-| Beggars Would Ride | 32.00% | ~97 |
-| Socialite | 30.00% | ~91 |
+| Soldier | 36.00% | ~110 |
+| All the Major Food Groups | 35.00% | ~107 |
+| Beggars Would Ride | 31.00% | ~95 |
+| Socialite | 30.00% | ~92 |
 | Control is an Illusion | 29.00% | ~88 |
 | The Means to Save It | 23.00% | ~70 |
 | Resilience to Sin | 21.00% | ~64 |
@@ -26,9 +26,9 @@ Rating: 4.05 (Ranked 986)
 | A Perfect Cycle | 18.00% | ~55 |
 | Recruit | 18.00% | ~55 |
 | Armsman | 17.00% | ~52 |
-| Lights Army | 12.00% | ~36 |
-| Good Boy | 12.00% | ~36 |
-| Periapt Cerulean | 11.00% | ~33 |
+| Lights Army | 12.00% | ~37 |
+| Good Boy | 12.00% | ~37 |
+| Periapt Cerulean | 11.00% | ~34 |
 | Armaments Azure | 9.00% | ~27 |
 | Periapt Viridian | 9.00% | ~27 |
 | Shroudfane Explorer | 9.00% | ~27 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 986)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304 (Ranked 352)  
+Progressed: 305 (Ranked 352)  
 Completed: 1 (0.33%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.33%) (Ranked 230)
 | 2023-11-23 | 298 | 1 |
 | 2023-11-24 | 300 | 1 |
 | 2023-11-25 | 302 | 1 |
-| 2023-11-26 | 304 | 1 |
+| 2023-11-26 | 305 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

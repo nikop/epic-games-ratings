@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 927,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -2055,9 +2055,9 @@
       "ID": "EV_ACH12",
       "SetID": "6jeac23",
       "Name": "Freeze The Ice Witch",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 343
     },
     {
       "ID": "EV_ACH13",
@@ -2159,9 +2159,9 @@
       "ID": "EV_ACH25",
       "SetID": "6jeac23",
       "Name": "Rhythm Of Willump",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 436
     },
     {
       "ID": "EV_ACH26",
@@ -2247,9 +2247,9 @@
       "ID": "EV_ACH36",
       "SetID": "6jeac23",
       "Name": "The Relentless Storm",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 436
     },
     {
       "ID": "EV_ACH37",
@@ -2326,8 +2326,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:09:31.4757791+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:10:09.4322778+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:58:08.3155948+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:09:31.4758237+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:58:37.9843461+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:10:09.4323089+00:00"
 }

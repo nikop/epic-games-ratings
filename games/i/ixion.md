@@ -1,25 +1,25 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 474)  
+Rating: 4.57 (Ranked 475)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 29.00% | ~973 |
-| Sputnik 2049 | 26.00% | ~872 |
-| Infinite Growth... | 25.00% | ~838 |
+| Sputnik 2049 | 26.00% | ~873 |
+| Infinite Growth... | 25.00% | ~839 |
 | Without Breaking Some Eggs... | 24.00% | ~805 |
 | Ready for a New World | 18.00% | ~604 |
-| Space Society | 17.00% | ~570 |
-| A Thousand Strong | 17.00% | ~570 |
+| Space Society | 17.00% | ~571 |
+| A Thousand Strong | 17.00% | ~571 |
 | Permanent Redesigns | 15.00% | ~503 |
 | Fully Recycled | 14.00% | ~470 |
 | The Ship of Theseus | 14.00% | ~470 |
 | Guy de Borderlands | 13.00% | ~436 |
 | Ain't Nobody Got Time for That | 13.00% | ~436 |
-| Exceeding Capacity | 12.00% | ~402 |
-| Breaking Protocol | 12.00% | ~402 |
-| Hope Seeker | 12.00% | ~402 |
+| Exceeding Capacity | 12.00% | ~403 |
+| Breaking Protocol | 12.00% | ~403 |
+| Hope Seeker | 12.00% | ~403 |
 | A Hunk of Junk | 11.00% | ~369 |
 | Man's Best Friend | 9.00% | ~302 |
 | Power Outage | 8.00% | ~268 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 474)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,354 (Ranked 207)  
+Progressed: 3,356 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 3,334 | 0 |
 | 2023-11-24 | 3,342 | 0 |
 | 2023-11-25 | 3,349 | 0 |
-| 2023-11-26 | 3,354 | 0 |
+| 2023-11-26 | 3,356 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

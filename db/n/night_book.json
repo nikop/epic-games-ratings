@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -416,9 +416,9 @@
       "ID": "deal_or_no_deal",
       "SetID": "a3kkelb",
       "Name": "Deal Or No Deal",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "hopeful",
@@ -545,8 +545,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:06:18.738931+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:07:40.3424822+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:55.6643864+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:57:40.5885573+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:06:18.7389423+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:57:59.6167078+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:07:40.3424937+00:00"
 }

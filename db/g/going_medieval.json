@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1511,9 +1511,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 6957,
+  "EOS_Progressed": 6958,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13471,6 +13471,11 @@
       "Time": "2023-11-26T16:04:58.2150532+00:00",
       "NumProgressed": 6957,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-26T18:06:02.5767153+00:00",
+      "NumProgressed": 6958,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13506,7 +13511,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -13514,7 +13519,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4662
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -13522,7 +13527,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5287
+      "UsersEstimate": 5288
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -13586,7 +13591,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "KILL_RAIDER",
@@ -13610,7 +13615,7 @@
       "Name": "Feast or Famine",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -13626,7 +13631,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -13642,7 +13647,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4800
+      "UsersEstimate": 4801
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -13658,7 +13663,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -13666,7 +13671,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -13682,7 +13687,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3826
+      "UsersEstimate": 3827
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -13690,7 +13695,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4662
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -13714,7 +13719,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -13729,15 +13734,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6957,
+      "Progressed": 6958,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-26T14:58:06.420762+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:05:04.0510479+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:06:02.5767148+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:58:13.6930721+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:05:04.0511393+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:58:45.6715018+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:06:02.5767725+00:00"
 }

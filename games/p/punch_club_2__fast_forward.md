@@ -45,13 +45,13 @@
 | Underground dwellers | 42.00% | ~148 |
 | Responsible approach | 42.00% | ~148 |
 | Deal with life | 41.00% | ~144 |
+| GYM professional | 41.00% | ~144 |
 | Mom got better | 40.00% | ~141 |
-| GYM professional | 40.00% | ~141 |
 | Poisoned fighter | 40.00% | ~141 |
 | The die is cast | 40.00% | ~141 |
 | Get out of my apartment! | 39.00% | ~137 |
+| Seashell hunter | 38.00% | ~134 |
 | Gang wrangler | 37.00% | ~130 |
-| Seashell hunter | 37.00% | ~130 |
 | Undercover robot | 37.00% | ~130 |
 | Problems of cyborgs | 36.00% | ~127 |
 | Absolute Champion! | 36.00% | ~127 |

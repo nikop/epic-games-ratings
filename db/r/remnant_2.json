@@ -4705,10 +4705,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5951,
       "NumberOfAwardsMax": 2455
+    },
+    {
+      "Time": "2023-11-26T18:03:22.1722128+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5956,
+      "NumberOfAwardsMax": 2455
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5951,
+  "NumberOfAwards": 5956,
   "NumberOfAwardsMax": 2455,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4728,7 +4734,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 366
+      "Count": 371
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4779,9 +4785,9 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 228829,
+  "EOS_Progressed": 228868,
   "EOS_Completed": 533,
-  "EOS_NewPlayers": 4903,
+  "EOS_NewPlayers": 4909,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20024,6 +20030,11 @@
       "Time": "2023-11-26T17:08:44.9703531+00:00",
       "NumProgressed": 228829,
       "NumCompleted": 533
+    },
+    {
+      "Time": "2023-11-26T18:09:09.6822008+00:00",
+      "NumProgressed": 228868,
+      "NumCompleted": 533
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20036,7 +20047,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -20340,7 +20351,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "Obtain_Traits_B",
@@ -20475,22 +20486,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 228829,
+      "Progressed": 228868,
       "Completed": 533
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 7994,
+      "Progressed": 8033,
       "Completed": 162
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-26T14:03:25.6405504+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:08:44.9703528+00:00",
+  "LastChanged": "2023-11-26T18:03:22.1722127+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:09:09.6822005+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:03:02.9855933+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:08:44.9704582+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:03:22.1722133+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:09:09.6822955+00:00"
 }

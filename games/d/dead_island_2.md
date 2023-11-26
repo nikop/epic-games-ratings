@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,539 |
-| Break A Leg | 2.00% | ~14,515 |
-| Hotel California | 2.00% | ~14,515 |
-| Welcome To Hell-A | 2.00% | ~14,515 |
-| One of Us | 2.00% | ~1,026 |
-| Pork Chopped | 2.00% | ~1,026 |
+| Whatever It Takes | 3.00% | ~1,541 |
+| Break A Leg | 2.00% | ~14,516 |
+| Hotel California | 2.00% | ~14,516 |
+| Welcome To Hell-A | 2.00% | ~14,516 |
+| One of Us | 2.00% | ~1,027 |
+| Pork Chopped | 2.00% | ~1,027 |
 | Dr. Reed, I Presume? | 1.00% | ~7,258 |
 | Git Gutte! | 1.00% | ~7,258 |
 | Anger Management | 1.00% | ~7,258 |
@@ -33,10 +33,10 @@ Rating: 4.54 (Ranked 527)
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,532 |
 | Ooh, Shiny! | 0.90% | ~6,532 |
 | I Am the Resurrection | 0.90% | ~6,532 |
-| Making Your Mark | 0.80% | ~5,806 |
-| Max Headroom | 0.80% | ~5,806 |
-| Humanity Distilled | 0.70% | ~5,080 |
-| Down with the Sickness | 0.70% | ~5,080 |
+| Making Your Mark | 0.80% | ~5,807 |
+| Max Headroom | 0.80% | ~5,807 |
+| Humanity Distilled | 0.70% | ~5,081 |
+| Down with the Sickness | 0.70% | ~5,081 |
 | Not Even My Final Form | 0.60% | ~4,355 |
 | Jumbo Keyring | 0.60% | ~4,355 |
 | Go, Bobcats! | 0.60% | ~4,355 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,762 (Ranked 21)  
+Progressed: 725,820 (Ranked 21)  
 Completed: 2,439 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 2,439 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
-| 2023-11-26 | 725,762 | 2,439 |
+| 2023-11-26 | 725,820 | 2,439 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
 Sum: 11,835 (Ranked 83)  

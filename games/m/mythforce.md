@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.48 (Ranked 627)  
+Rating: 4.49 (Ranked 608)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,17 +12,17 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 24.00% | ~1,226 |
 | Debuff Dogpile | 23.00% | ~1,175 |
 | Mushroom Madness! | 22.00% | ~1,124 |
-| First Strike | 19.00% | ~970 |
-| Spending Spree | 18.00% | ~919 |
-| Horder Better Faster Stronger | 17.00% | ~868 |
+| First Strike | 19.00% | ~971 |
+| Spending Spree | 18.00% | ~920 |
+| Horder Better Faster Stronger | 17.00% | ~869 |
 | Ten Steps from the Grave | 15.00% | ~766 |
 | Everything Must Go! | 14.00% | ~715 |
 | Next Time on MythForce... | 13.00% | ~664 |
 | Cold-Blooded Critters | 10.00% | ~511 |
 | Death Becomes You | 8.00% | ~409 |
-| Flawless Victory | 6.00% | ~306 |
-| The Harder They Fall | 6.00% | ~306 |
-| On this Episode! | 6.00% | ~306 |
+| Flawless Victory | 6.00% | ~307 |
+| The Harder They Fall | 6.00% | ~307 |
+| On this Episode! | 6.00% | ~307 |
 | Deadication | 4.00% | ~204 |
 | Season Finale | 4.00% | ~204 |
 | We've Got a Kaiju on the Field | 3.00% | ~153 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~20 |
 | Deadalus and Loving It | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,107 (Ranked 191)  
+Progressed: 5,109 (Ranked 191)  
 Completed: 4 (0.08%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,11 +164,11 @@ Completed: 4 (0.08%) (Ranked 295)
 | 2023-11-23 | 5,044 | 4 |
 | 2023-11-24 | 5,065 | 4 |
 | 2023-11-25 | 5,087 | 4 |
-| 2023-11-26 | 5,107 | 4 |
+| 2023-11-26 | 5,109 | 4 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 475)  
-Sum: 286 (Ranked 370)  
-Diff (max vs sum): 105  
+Sum: 286 (Ranked 371)  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |
@@ -280,3 +280,4 @@ Diff (max vs sum): 105
 | 2023-10-24 | 4.49 | - | 34 | 285 |
 | 2023-11-05 | 4.49 | - | 35 | 286 |
 | 2023-11-16 | 4.48 | - | 35 | 286 |
+| 2023-11-26 | 4.49 | - | 35 | 286 |

@@ -4,8 +4,8 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -604,6 +604,11 @@
       "Time": "2023-11-26T15:05:28.200465+00:00",
       "NumProgressed": 117,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T18:06:57.0086759+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -621,9 +626,9 @@
       "ID": "Cook",
       "SetID": "82ojhod",
       "Name": "Cook",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Crafter",
@@ -637,7 +642,7 @@
       "ID": "Defender",
       "SetID": "82ojhod",
       "Name": "Defender",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -645,7 +650,7 @@
       "ID": "GGEZ",
       "SetID": "82ojhod",
       "Name": "GGEZ",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -653,9 +658,9 @@
       "ID": "Harvester",
       "SetID": "82ojhod",
       "Name": "Harvester",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "Healer",
@@ -685,7 +690,7 @@
       "ID": "Rep3",
       "SetID": "82ojhod",
       "Name": "Rep3",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -693,7 +698,7 @@
       "ID": "Researcher",
       "SetID": "82ojhod",
       "Name": "Researcher",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 120,
       "UsersEstimate": 1
     },
@@ -703,21 +708,21 @@
       "Name": "Workforce",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:05:45.6958582+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:06:57.0086753+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:57:16.1254828+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:05:45.6958699+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:57:26.9474077+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:06:57.0086913+00:00"
 }

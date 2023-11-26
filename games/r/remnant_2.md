@@ -9,8 +9,8 @@ Rating: 4.75 (Ranked 148)
 | Master of the Dark Arts | 0.60% | ~48 |
 | The Killing Jar | 0.50% | ~1,144 |
 | First of Many | 0.50% | ~1,144 |
-| Expanding Horizons | 0.30% | ~686 |
-| Not Your Average Trait | 0.30% | ~686 |
+| Expanding Horizons | 0.30% | ~687 |
+| Not Your Average Trait | 0.30% | ~687 |
 | Am I Seeing This? | 0.20% | ~458 |
 | Ghost in the Machine | 0.20% | ~458 |
 | Gleaming the Cube | 0.20% | ~458 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~8 |
 | You Shall Pass | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,829 (Ranked 68)  
+Progressed: 228,868 (Ranked 68)  
 Completed: 533 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,10 +194,10 @@ Completed: 533 (0.23%) (Ranked 248)
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
-| 2023-11-26 | 228,829 | 533 |
+| 2023-11-26 | 228,868 | 533 |
 ## Awards
 Max (Great Boss Battles): 2,455  (Ranked 104)  
-Sum: 5,951 (Ranked 129)  
+Sum: 5,956 (Ranked 129)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -205,7 +205,7 @@ Diff (max vs sum): -25
 | This game has Diverse Characters | 393 |
 | This game is Highly Recommended | 379 |
 | This game has Challenging Combat | 372 |
-| This game is Extremely Fun | 366 |
+| This game is Extremely Fun | 371 |
 | This game has Amazing Storytelling | 363 |
 | This game is Relaxing | 361 |
 | This game has Quickly Understood Controls | 351 |
@@ -338,4 +338,4 @@ Diff (max vs sum): -25
 | 2023-11-23 | 4.76 | 2,401 | 5,787 |
 | 2023-11-24 | 4.75 | 2,415 | 5,845 |
 | 2023-11-25 | 4.75 | 2,436 | 5,922 |
-| 2023-11-26 | 4.75 | 2,455 | 5,951 |
+| 2023-11-26 | 4.75 | 2,455 | 5,956 |

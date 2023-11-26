@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -927,7 +927,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7350,
+  "EOS_Progressed": 7351,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -8792,6 +8792,11 @@
       "Time": "2023-11-26T13:11:58.4423787+00:00",
       "NumProgressed": 7350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T18:09:19.5497684+00:00",
+      "NumProgressed": 7351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8859,7 +8864,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -8867,7 +8872,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8883,7 +8888,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "First_Major_Ally",
@@ -8915,7 +8920,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5292
+      "UsersEstimate": 5293
     },
     {
       "ID": "First_Ship_Designed",
@@ -9121,9 +9126,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4411
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9331,7 +9336,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Win_Influence",
@@ -9378,15 +9383,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7350,
+      "Progressed": 7351,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-24T10:59:15.0247193+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:08:52.5921387+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:09:19.549768+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:12.8136336+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:59:23.7933243+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:08:52.592232+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:00:22.7826793+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:09:19.5498514+00:00"
 }

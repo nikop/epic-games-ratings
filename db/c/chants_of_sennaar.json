@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 754,
+  "EOS_Progressed": 756,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.04,
+  "EOS_Completed_Percentage": 5.03,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3055,6 +3055,11 @@
       "Time": "2023-11-26T17:03:53.2200634+00:00",
       "NumProgressed": 754,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-26T18:04:30.0842514+00:00",
+      "NumProgressed": 756,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 25,
@@ -3074,7 +3079,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "META_ALL_LINK",
@@ -3106,7 +3111,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3128,9 +3133,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 113
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3138,7 +3143,7 @@
       "Name": "A great audience",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3170,15 +3175,15 @@
       "Name": "Rascal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 159
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3202,7 +3207,7 @@
       "Name": "Champollion",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3210,7 +3215,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3218,7 +3223,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PROGRESS_N1",
@@ -3250,7 +3255,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PROGRESS_N5",
@@ -3258,21 +3263,21 @@
       "Name": "One last step",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 754,
+      "Progressed": 756,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:03:53.220063+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:04:30.084251+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:00:10.1084768+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:03:53.2200961+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:01:24.5413089+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:04:30.084286+00:00"
 }

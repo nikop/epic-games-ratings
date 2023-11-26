@@ -4,8 +4,8 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.15,
+  "EOS_Completed_Percentage": 3.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -344,6 +344,11 @@
       "Time": "2023-11-24T13:11:36.6226014+00:00",
       "NumProgressed": 254,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-26T18:07:32.655602+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -355,7 +360,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "605742",
@@ -363,15 +368,15 @@
       "Name": "Creator of Diversity",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "605752",
       "SetID": "4lpaifm",
       "Name": "Creator of Life",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 214
     },
     {
       "ID": "605762",
@@ -385,9 +390,9 @@
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "605782",
@@ -395,7 +400,7 @@
       "Name": "Creator of Technology",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "605792",
@@ -467,31 +472,31 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "605892",
       "SetID": "4lpaifm",
       "Name": "Similar to Similar",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 181
     },
     {
       "ID": "605912",
       "SetID": "4lpaifm",
       "Name": "Master of Alchemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "605942",
       "SetID": "4lpaifm",
       "Name": "Master of the Worlds",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "610000",
@@ -507,7 +512,7 @@
       "Name": "Salvation!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "740512",
@@ -523,14 +528,14 @@
       "Name": "Heavenly Virtues",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 8
     }
   ],
@@ -538,8 +543,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:06:13.0589113+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:07:32.6556015+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.8631435+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:57:48.9703757+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:06:13.0589263+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:58:10.3047888+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:07:32.6556214+00:00"
 }

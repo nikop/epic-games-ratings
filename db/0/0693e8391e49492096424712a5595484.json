@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2193,17 +2193,17 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 383
     },
     {
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 262
     },
     {
       "ID": "BroomPistol",
@@ -2265,9 +2265,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 356
     },
     {
       "ID": "HastrmanAcorn",
@@ -2305,9 +2305,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 283
     },
     {
       "ID": "KingDiamond",
@@ -2353,9 +2353,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 141
     },
     {
       "ID": "PriestRum",
@@ -2369,9 +2369,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 288
     },
     {
       "ID": "PrincessThrone",
@@ -2480,8 +2480,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:03:57.8921772+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:04:35.7361942+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:30.069656+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:02:37.6960767+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:03:57.8922131+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:02:47.4050107+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:04:35.7362263+00:00"
 }

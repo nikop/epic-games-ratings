@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4224,
+  "EOS_Progressed": 4227,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -10504,6 +10504,11 @@
       "Time": "2023-11-26T17:06:18.2507959+00:00",
       "NumProgressed": 4224,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-26T18:07:39.6756177+00:00",
+      "NumProgressed": 4227,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 16,
@@ -10515,7 +10520,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -10547,7 +10552,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3252
+      "UsersEstimate": 3255
     },
     {
       "ID": "ach_architecture_completed",
@@ -10555,7 +10560,7 @@
       "Name": "Architecture - completed",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_architecture_unlocked",
@@ -10563,7 +10568,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ach_bomb",
@@ -10571,15 +10576,15 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ach_color_splash",
       "SetID": "3h4khpo",
       "Name": "Color flood",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 65,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1310
     },
     {
       "ID": "ach_first_picture",
@@ -10587,7 +10592,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3424
     },
     {
       "ID": "ach_food_completed",
@@ -10603,7 +10608,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "ach_game_opened",
@@ -10611,7 +10616,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3170
     },
     {
       "ID": "ach_magic_wand",
@@ -10619,7 +10624,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "ach_no_boosters",
@@ -10627,7 +10632,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1649
     },
     {
       "ID": "ach_tornado",
@@ -10635,21 +10640,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4224,
+      "Progressed": 4227,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:06:18.2507955+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:07:39.6756173+00:00",
   "LastUpdate_AppInfo": "2023-11-24T20:57:04.2285438+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:58:24.4750518+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:06:18.250846+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:58:59.774513+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:07:39.6756667+00:00"
 }

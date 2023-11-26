@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12457,10 +12457,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 58959,
       "NumberOfAwardsMax": 7180
+    },
+    {
+      "Time": "2023-11-26T18:00:34.0553329+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 58978,
+      "NumberOfAwardsMax": 7180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58959,
+  "NumberOfAwards": 58978,
   "NumberOfAwardsMax": 7180,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12474,7 +12480,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 6784
+      "Count": 6803
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12531,9 +12537,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 464271,
+  "EOS_Progressed": 464310,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4856,
+  "EOS_NewPlayers": 4837,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37776,6 +37782,11 @@
       "Time": "2023-11-26T17:05:46.5307785+00:00",
       "NumProgressed": 464271,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T18:06:58.3094978+00:00",
+      "NumProgressed": 464310,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -40690,21 +40701,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 464271,
+      "Progressed": 464310,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 464271,
+      "Progressed": 464310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-26T16:59:32.1775692+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:05:46.5307781+00:00",
+  "LastChanged": "2023-11-26T18:00:34.0553327+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:06:58.3094974+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:59:32.1775697+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:05:46.5318094+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:00:34.0553332+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:06:58.3105455+00:00"
 }

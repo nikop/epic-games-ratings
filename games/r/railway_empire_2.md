@@ -1,67 +1,67 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 716)  
+Rating: 4.42 (Ranked 717)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,709 |
-| A new Journey | 75.00% | ~1,687 |
-| Departure | 74.00% | ~1,664 |
-| From X to Y | 73.00% | ~1,642 |
-| Way of Iron | 71.00% | ~1,597 |
-| Mystery Tour | 69.00% | ~1,552 |
-| We brake for nobody | 68.00% | ~1,529 |
-| Brainstorm | 66.00% | ~1,484 |
-| Travel Company | 66.00% | ~1,484 |
-| Mind the Gap | 65.00% | ~1,462 |
-| All around the World | 63.00% | ~1,417 |
-| Right through the middle | 58.00% | ~1,304 |
-| Poor Devil | 54.00% | ~1,214 |
-| Facility Manager | 53.00% | ~1,192 |
-| Producer | 50.00% | ~1,124 |
-| Apprentice | 42.00% | ~945 |
-| Bridge Builder | 42.00% | ~945 |
-| Going once, going twice, sold | 36.00% | ~810 |
-| Access granted | 35.00% | ~787 |
-| Bull and bear | 34.00% | ~765 |
-| Stoker | 33.00% | ~742 |
-| Full Steam ahead | 33.00% | ~742 |
-| Financial Shark | 31.00% | ~697 |
-| Socializer | 31.00% | ~697 |
-| All mine | 30.00% | ~675 |
-| Mole | 30.00% | ~675 |
-| General Manager | 28.00% | ~630 |
-| Country Life | 28.00% | ~630 |
-| Hostile Takeover | 25.00% | ~562 |
+| Country Bumpkin | 76.00% | ~1,712 |
+| A new Journey | 75.00% | ~1,689 |
+| Departure | 74.00% | ~1,666 |
+| From X to Y | 73.00% | ~1,644 |
+| Way of Iron | 70.00% | ~1,576 |
+| Mystery Tour | 69.00% | ~1,554 |
+| We brake for nobody | 68.00% | ~1,531 |
+| Brainstorm | 66.00% | ~1,486 |
+| Travel Company | 66.00% | ~1,486 |
+| Mind the Gap | 65.00% | ~1,464 |
+| All around the World | 63.00% | ~1,419 |
+| Right through the middle | 58.00% | ~1,306 |
+| Poor Devil | 54.00% | ~1,216 |
+| Facility Manager | 53.00% | ~1,194 |
+| Producer | 50.00% | ~1,126 |
+| Apprentice | 42.00% | ~946 |
+| Bridge Builder | 42.00% | ~946 |
+| Going once, going twice, sold | 36.00% | ~811 |
+| Access granted | 35.00% | ~788 |
+| Bull and bear | 34.00% | ~766 |
+| Stoker | 33.00% | ~743 |
+| Full Steam ahead | 33.00% | ~743 |
+| Financial Shark | 31.00% | ~698 |
+| Socializer | 31.00% | ~698 |
+| All mine | 30.00% | ~676 |
+| Mole | 30.00% | ~676 |
+| General Manager | 28.00% | ~631 |
+| Country Life | 28.00% | ~631 |
+| Hostile Takeover | 25.00% | ~563 |
 | Seven at one stroke | 24.00% | ~540 |
 | Breaking Ground | 22.00% | ~495 |
-| Trailblazer | 21.00% | ~472 |
-| Traffic Junction | 21.00% | ~472 |
+| Trailblazer | 21.00% | ~473 |
+| Traffic Junction | 21.00% | ~473 |
 | Traffic Jam | 20.00% | ~450 |
 | Networker | 18.00% | ~405 |
-| Resistance is futile | 17.00% | ~382 |
-| Assimilated | 15.00% | ~337 |
-| Bold and beautiful | 15.00% | ~337 |
-| Settler | 15.00% | ~337 |
+| Resistance is futile | 17.00% | ~383 |
+| Assimilated | 15.00% | ~338 |
+| Bold and beautiful | 15.00% | ~338 |
+| Settler | 15.00% | ~338 |
 | Go West | 14.00% | ~315 |
 | Max Power | 14.00% | ~315 |
 | Locusts | 14.00% | ~315 |
-| A new Hope | 11.00% | ~247 |
-| Tycoon | 11.00% | ~247 |
-| Unstoppable | 9.00% | ~202 |
-| Track to the Future | 9.00% | ~202 |
-| Call of Duty | 9.00% | ~202 |
-| Conductor | 7.00% | ~157 |
+| A new Hope | 11.00% | ~248 |
+| Tycoon | 11.00% | ~248 |
+| Unstoppable | 9.00% | ~203 |
+| Track to the Future | 9.00% | ~203 |
+| Call of Duty | 9.00% | ~203 |
+| Conductor | 7.00% | ~158 |
 | Engineer | 4.00% | ~90 |
 | Let off some steam | 4.00% | ~90 |
 | Accurate | 4.00% | ~90 |
-| Three Cheers for Progress | 1.00% | ~22 |
+| Three Cheers for Progress | 1.00% | ~23 |
 | European Union | 0.70% | ~16 |
-| United States | 0.60% | ~13 |
-| Together we stand | 0.60% | ~13 |
+| United States | 0.60% | ~14 |
+| Together we stand | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,249 (Ranked 221)  
+Progressed: 2,252 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 2,199 | 0 |
 | 2023-11-24 | 2,211 | 0 |
 | 2023-11-25 | 2,233 | 0 |
-| 2023-11-26 | 2,249 | 0 |
+| 2023-11-26 | 2,252 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

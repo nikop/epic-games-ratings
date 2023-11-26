@@ -27,7 +27,7 @@
 | He who seeks, finds! | 13.00% | ~32 |
 | Nightmare in the kitchen | 11.00% | ~28 |
 | Born again | 8.00% | ~20 |
-| 373 | 6.00% | ~15 |
+| 373 | 7.00% | ~18 |
 | The experiment | 6.00% | ~15 |
 | Matthew's revenge | 6.00% | ~15 |
 | Eva's diary | 2.00% | ~5 |

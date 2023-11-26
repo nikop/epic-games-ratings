@@ -5,9 +5,9 @@ Rating: 4.21 (Ranked 906)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 2.00% | ~6,385 |
-| The touch of Chaos | 2.00% | ~6,385 |
-| A powerful aura was here | 1.00% | ~3,192 |
+| May the Torchbearer light our way | 2.00% | ~6,386 |
+| The touch of Chaos | 2.00% | ~6,386 |
+| A powerful aura was here | 1.00% | ~3,193 |
 | Let's raise the stakes!! | 0.70% | ~2,235 |
 | Rumors are true | 0.50% | ~1,596 |
 | Your wounds… They are healing so fast! | 0.50% | ~1,596 |
@@ -19,13 +19,13 @@ Rating: 4.21 (Ranked 906)
 | I feel drawn to it | 0.30% | ~958 |
 | They won't last long | 0.30% | ~958 |
 | Bring it on! | 0.30% | ~958 |
-| Here to stay | 0.20% | ~638 |
-| Counting on you | 0.20% | ~638 |
-| This is the end | 0.20% | ~638 |
-| We can choose to fight | 0.20% | ~638 |
-| Their fate is sealed | 0.20% | ~638 |
-| Chaos be damned! | 0.20% | ~638 |
-| I took a risk | 0.20% | ~638 |
+| Here to stay | 0.20% | ~639 |
+| Counting on you | 0.20% | ~639 |
+| This is the end | 0.20% | ~639 |
+| We can choose to fight | 0.20% | ~639 |
+| Their fate is sealed | 0.20% | ~639 |
+| Chaos be damned! | 0.20% | ~639 |
+| I took a risk | 0.20% | ~639 |
 | No damsels in distress | 0.10% | ~319 |
 | The immortal is bound to reborn | 0.10% | ~319 |
 | A legend among Chimeras | 0.10% | ~319 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 906)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319,248 (Ranked 51)  
+Progressed: 319,297 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 4 (0.00%) (Ranked 360)
 | 2023-11-23 | 317,261 | 4 |
 | 2023-11-24 | 317,863 | 4 |
 | 2023-11-25 | 318,672 | 4 |
-| 2023-11-26 | 319,248 | 4 |
+| 2023-11-26 | 319,297 | 4 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 412)  
 Sum: 63 (Ranked 474)  

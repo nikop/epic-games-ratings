@@ -19,8 +19,8 @@
 | Tear of Freedom | 53.00% | ~491 |
 | Boom Things | 53.00% | ~491 |
 | My Darkest Day | 50.00% | ~464 |
-| Rhythm Of Willump | 46.00% | ~426 |
-| The Relentless Storm | 46.00% | ~426 |
+| Rhythm Of Willump | 47.00% | ~436 |
+| The Relentless Storm | 47.00% | ~436 |
 | A Tragic Reminder | 45.00% | ~417 |
 | 3000 Year Blackout | 44.00% | ~408 |
 | The Finisher | 42.00% | ~389 |
@@ -30,9 +30,9 @@
 | Boosted! | 38.00% | ~352 |
 | Family | 37.00% | ~343 |
 | Biggest Snowball Ever | 37.00% | ~343 |
+| Freeze The Ice Witch | 37.00% | ~343 |
 | Bullseye | 37.00% | ~343 |
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~343 |
-| Freeze The Ice Witch | 36.00% | ~334 |
 | On The Rocks | 35.00% | ~324 |
 | It Is Not Over | 34.00% | ~315 |
 | Snowy Poro | 31.00% | ~287 |

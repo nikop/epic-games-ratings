@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2722,
+  "EOS_Progressed": 2723,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8107,6 +8107,11 @@
       "Time": "2023-11-26T17:08:59.4269831+00:00",
       "NumProgressed": 2722,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T18:09:28.2374795+00:00",
+      "NumProgressed": 2723,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8302,7 +8307,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "fourleafclover",
@@ -8350,7 +8355,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "herewegoagain",
@@ -8542,7 +8547,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "scrollmaster",
@@ -8558,7 +8563,7 @@
       "Name": "Silverwood liberator",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "superior",
@@ -8678,7 +8683,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "warmachinesarmy",
@@ -8710,14 +8715,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2722,
+      "Progressed": 2723,
       "Completed": 2
     }
   ],
@@ -8725,8 +8730,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-26T15:02:29.5488839+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:08:59.4269828+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:09:28.2374792+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:02:45.1356079+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:08:59.4270669+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:02:56.8610612+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:09:28.2375607+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.06 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,531 |
-| World Map | 78.00% | ~2,123 |
+| Victor | 93.00% | ~2,532 |
+| World Map | 78.00% | ~2,124 |
 | Temple of Eternals | 57.00% | ~1,552 |
 | Prestigious | 53.00% | ~1,443 |
-| Fellowship Power | 42.00% | ~1,143 |
-| Guild Power | 24.00% | ~653 |
+| Fellowship Power | 42.00% | ~1,144 |
+| Guild Power | 24.00% | ~654 |
 | Prestigious x10 | 21.00% | ~572 |
 | The game is on | 19.00% | ~517 |
 | Exotic Merchant | 17.00% | ~463 |
@@ -27,7 +27,7 @@ Rating: 4.06 (Ranked 980)
 | Natural Talent | 12.00% | ~327 |
 | Superior | 12.00% | ~327 |
 | The Unstoppable | 12.00% | ~327 |
-| Scientist | 11.00% | ~299 |
+| Scientist | 11.00% | ~300 |
 | Daily Quest Completionist | 10.00% | ~272 |
 | Doing My Part | 10.00% | ~272 |
 | Hunter | 10.00% | ~272 |
@@ -75,13 +75,13 @@ Rating: 4.06 (Ranked 980)
 | Training makes a Pro player | 1.00% | ~27 |
 | Transmute | 1.00% | ~27 |
 | Tree of Life | 1.00% | ~27 |
-| Silverwood liberator | 0.90% | ~24 |
+| Silverwood liberator | 0.90% | ~25 |
 | Beast War Machines | 0.80% | ~22 |
 | Ultimate War Machines | 0.60% | ~16 |
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,722 (Ranked 213)  
+Progressed: 2,723 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 2 (0.07%) (Ranked 300)
 | 2023-11-23 | 2,599 | 2 |
 | 2023-11-24 | 2,644 | 2 |
 | 2023-11-25 | 2,687 | 2 |
-| 2023-11-26 | 2,722 | 2 |
+| 2023-11-26 | 2,723 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
 Sum: 110 (Ranked 443)  

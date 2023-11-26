@@ -4,8 +4,8 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -251,6 +251,11 @@
       "Time": "2023-11-26T12:06:19.7325717+00:00",
       "NumProgressed": 117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T18:03:28.8370683+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -286,15 +291,15 @@
       "Name": "Fashionista",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "FISH",
@@ -332,7 +337,7 @@
       "ID": "GRAVEYARD",
       "SetID": "3c20ib3",
       "Name": "So it begins",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 5,
       "UsersEstimate": 103
     },
@@ -380,7 +385,7 @@
       "ID": "KILL_ENEMIES",
       "SetID": "3c20ib3",
       "Name": "Free Spirit",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -396,7 +401,7 @@
       "ID": "KILL_HOGRIDER",
       "SetID": "3c20ib3",
       "Name": "Yeehaw!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -420,7 +425,7 @@
       "ID": "KILL_YEETUS",
       "SetID": "3c20ib3",
       "Name": "Yeetus Deletus",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -444,7 +449,7 @@
       "ID": "REACH_20",
       "SetID": "3c20ib3",
       "Name": "Best in the field",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -486,7 +491,7 @@
       "Name": "Graduated",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "UNLOCK_WELL",
@@ -509,7 +514,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
@@ -517,8 +522,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:03:06.5456261+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:03:28.8370679+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.672734+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:59:35.3989046+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:03:06.5473331+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:00:37.1780641+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:03:28.8370922+00:00"
 }

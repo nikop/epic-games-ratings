@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 7.00% | ~1,085 |
+| Play a Single Player Game | 7.00% | ~1,086 |
 | Explorer | 6.00% | ~930 |
 | Settler | 6.00% | ~930 |
 | Intrepid | 5.00% | ~775 |
@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 2.00% | ~310 |
 | Hanging Gardens in Babylon | 1.00% | ~155 |
 | Capable | 1.00% | ~155 |
+| Devout | 1.00% | ~155 |
 | Invincible | 1.00% | ~155 |
 | Ready | 1.00% | ~155 |
 | Subjugator | 1.00% | ~155 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~155 |
 | The Clergy | 1.00% | ~155 |
 | Bad Heir Day | 0.90% | ~140 |
-| Devout | 0.90% | ~140 |
 | Clerics | 0.90% | ~140 |
 | Egypt | 0.90% | ~140 |
 | Turreted Elephant | 0.90% | ~140 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,507 (Ranked 152)  
+Progressed: 15,508 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -569,7 +569,7 @@ Completed: 5 (0.03%) (Ranked 324)
 | 2023-11-23 | 15,453 | 5 |
 | 2023-11-24 | 15,467 | 5 |
 | 2023-11-25 | 15,489 | 5 |
-| 2023-11-26 | 15,507 | 5 |
+| 2023-11-26 | 15,508 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,875 (Ranked 218)  

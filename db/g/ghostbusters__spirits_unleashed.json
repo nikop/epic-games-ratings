@@ -3525,9 +3525,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31620,
+  "EOS_Progressed": 31624,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20560,6 +20560,11 @@
       "Time": "2023-11-26T17:06:19.9480074+00:00",
       "NumProgressed": 31620,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-26T18:07:41.9162429+00:00",
+      "NumProgressed": 31624,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20571,7 +20576,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "Animated",
@@ -20683,7 +20688,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "Escape_Artist",
@@ -20697,9 +20702,9 @@
       "ID": "Fragile_Panes",
       "SetID": "819popo",
       "Name": "Fragile Panes",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 316
     },
     {
       "ID": "Fully_Upgraded",
@@ -20978,7 +20983,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31620,
+      "Progressed": 31624,
       "Completed": 69
     }
   ],
@@ -20986,8 +20991,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-26T08:02:39.558705+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:06:19.9480071+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:07:41.9162426+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:57:03.4510039+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:06:19.9481219+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:57:10.5871148+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:07:41.9163553+00:00"
 }

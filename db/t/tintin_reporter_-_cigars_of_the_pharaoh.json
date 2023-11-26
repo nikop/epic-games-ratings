@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -470,9 +470,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement30",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:03:54.2909573+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:04:31.2712993+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:09.384053+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:59:34.1225565+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:03:54.2909831+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:00:35.9020922+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:04:31.2713201+00:00"
 }

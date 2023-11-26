@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 60.00% | ~120 |
-| Press-ganged | 44.00% | ~88 |
+| A Second Chance | 59.00% | ~119 |
+| Press-ganged | 43.00% | ~86 |
 | The Package | 27.00% | ~54 |
 | Conquered | 20.00% | ~40 |
 | Randomized | 18.00% | ~36 |
-| Scribe | 12.00% | ~24 |
-| Breached | 12.00% | ~24 |
-| Tactician | 11.00% | ~22 |
+| Scribe | 11.00% | ~22 |
+| Breached | 11.00% | ~22 |
+| Tactician | 10.00% | ~20 |
 | Conciliator | 9.00% | ~18 |
-| Fight Another Day | 9.00% | ~18 |
-| Taskmaster | 9.00% | ~18 |
-| Acquaintance | 8.00% | ~16 |
-| Scholar | 7.00% | ~14 |
-| The More the Merrier | 7.00% | ~14 |
+| Fight Another Day | 8.00% | ~16 |
+| Taskmaster | 8.00% | ~16 |
+| Acquaintance | 7.00% | ~14 |
 | Tail-wind | 7.00% | ~14 |
+| Scholar | 6.00% | ~12 |
+| The More the Merrier | 6.00% | ~12 |
 | Harbinger | 6.00% | ~12 |
 | Strategist | 5.00% | ~10 |
 | Deputized | 5.00% | ~10 |
 | Courier | 5.00% | ~10 |
-| Been There | 5.00% | ~10 |
-| Spiritual Journey | 5.00% | ~10 |
 | Pilgrimage's End | 5.00% | ~10 |
-| Merchant | 5.00% | ~10 |
-| Trouble at Fort Larius | 5.00% | ~10 |
 | Quartermaster | 4.00% | ~8 |
-| Potential Unlocked | 4.00% | ~8 |
-| Xevarian Gambit | 4.00% | ~8 |
 | The Voice of Hereafter | 4.00% | ~8 |
-| Inquisitions of Discord | 4.00% | ~8 |
-| Unseen Patterns | 4.00% | ~8 |
+| Been There | 4.00% | ~8 |
+| Spiritual Journey | 4.00% | ~8 |
+| Merchant | 4.00% | ~8 |
+| Trouble at Fort Larius | 4.00% | ~8 |
 | Bounty Hunter | 3.00% | ~6 |
-| Huntress Unbound | 3.00% | ~6 |
+| Potential Unlocked | 3.00% | ~6 |
+| Xevarian Gambit | 3.00% | ~6 |
 | Despised | 3.00% | ~6 |
 | A Terrible Will | 3.00% | ~6 |
-| Life... Finds a Way | 3.00% | ~6 |
-| Making Contact | 2.00% | ~4 |
+| Inquisitions of Discord | 3.00% | ~6 |
+| Unseen Patterns | 3.00% | ~6 |
 | Supercargo | 2.00% | ~4 |
-| Talent Nurtured | 2.00% | ~4 |
+| Huntress Unbound | 2.00% | ~4 |
 | Business As Usual | 2.00% | ~4 |
-| Legacy of a Mercenary | 2.00% | ~4 |
-| Moving At Odd Angles | 2.00% | ~4 |
 | Delayed | 2.00% | ~4 |
 | A Real Battle | 2.00% | ~4 |
-| The Darkness Within | 2.00% | ~4 |
-| Merchant Lord | 2.00% | ~4 |
-| Voracity Confronted | 2.00% | ~4 |
+| Life... Finds a Way | 2.00% | ~4 |
 | Insectoid Propagator | 2.00% | ~4 |
+| Making Contact | 1.00% | ~2 |
 | Watcher | 1.00% | ~2 |
 | Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
 | Adept | 1.00% | ~2 |
+| Talent Nurtured | 1.00% | ~2 |
 | Embellished | 1.00% | ~2 |
+| Legacy of a Mercenary | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
+| Moving At Odd Angles | 1.00% | ~2 |
+| The Darkness Within | 1.00% | ~2 |
 | Ruiner | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
+| Merchant Lord | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
+| Voracity Confronted | 1.00% | ~2 |
 | General | 0.50% | ~1 |
 | Ever After | 0.50% | ~1 |
 | Conqueror | 0.50% | ~1 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 389)  
+Progressed: 201 (Ranked 389)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-14 | 197 | 0 |
 | 2023-11-16 | 199 | 0 |
 | 2023-11-24 | 200 | 0 |
+| 2023-11-26 | 201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

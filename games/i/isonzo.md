@@ -8,21 +8,21 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tutti Eroi! | 51.00% | ~4,610 |
 | You Shall Not Pass | 51.00% | ~4,610 |
-| Peak Performance | 47.00% | ~4,248 |
-| Avanti Savoia! | 44.00% | ~3,977 |
+| Peak Performance | 47.00% | ~4,249 |
+| Avanti Savoia! | 44.00% | ~3,978 |
 | Mamma Mia! | 35.00% | ~3,164 |
-| Conrad von Hotzensocks | 32.00% | ~2,892 |
+| Conrad von Hotzensocks | 32.00% | ~2,893 |
 | Gabriele D'Annunzio | 31.00% | ~2,802 |
 | Silver Lining | 27.00% | ~2,441 |
 | Aurelio Baruzzi | 21.00% | ~1,898 |
 | Decimation | 20.00% | ~1,808 |
-| Donatello | 19.00% | ~1,717 |
-| The Italian Job | 19.00% | ~1,717 |
-| Veni Vidi Vici | 19.00% | ~1,717 |
+| Donatello | 19.00% | ~1,718 |
+| The Italian Job | 19.00% | ~1,718 |
+| Veni Vidi Vici | 19.00% | ~1,718 |
 | Insubordination | 18.00% | ~1,627 |
 | Ragazzi del '99 | 17.00% | ~1,537 |
 | Luigi Cadorna | 15.00% | ~1,356 |
-| The Lion of the Isonzo | 14.00% | ~1,265 |
+| The Lion of the Isonzo | 14.00% | ~1,266 |
 | Uomo Universale | 13.00% | ~1,175 |
 | Shaken, Not Stirred | 12.00% | ~1,085 |
 | Die Bosniaken Kommen! | 11.00% | ~994 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~36 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,039 (Ranked 169)  
+Progressed: 9,040 (Ranked 169)  
 Completed: 9 (0.10%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 9 (0.10%) (Ranked 283)
 | 2023-11-23 | 8,926 | 9 |
 | 2023-11-24 | 8,970 | 9 |
 | 2023-11-25 | 9,014 | 9 |
-| 2023-11-26 | 9,039 | 9 |
+| 2023-11-26 | 9,040 | 9 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 462)  
-Sum: 286 (Ranked 370)  
+Sum: 287 (Ranked 370)  
 Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): 92
 | This game has Realistic Visuals | 35 |
 | This game has Amazing Characters | 32 |
 | This game has Quickly Understood Controls | 31 |
-| This game has Challenging Combat | 30 |
+| This game has Challenging Combat | 31 |
 | This game is Educational | 28 |
 | This game has Competitive Players | 26 |
 | This game has Amazing Storytelling | 22 |
@@ -412,3 +412,4 @@ Diff (max vs sum): 92
 | 2023-11-22 | 4.55 | - | 37 | 284 |
 | 2023-11-24 | 4.56 | - | 38 | 285 |
 | 2023-11-25 | 4.56 | - | 38 | 286 |
+| 2023-11-26 | 4.56 | - | 38 | 287 |

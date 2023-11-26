@@ -2,10 +2,10 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -945,6 +945,11 @@
       "Time": "2023-11-26T17:08:39.9583255+00:00",
       "NumProgressed": 361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T18:09:03.3241369+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -957,7 +962,7 @@
       "Name": "The Teleprobe",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "AchvAllMemories",
@@ -981,7 +986,7 @@
       "Name": "Fierce fight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "AchvBombStop",
@@ -989,7 +994,7 @@
       "Name": "Peacemaker",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AchvBombing",
@@ -1013,7 +1018,7 @@
       "Name": "Ubiquitous holes",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -1029,7 +1034,7 @@
       "Name": "The Invincible",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AchvEvacuate",
@@ -1061,7 +1066,7 @@
       "Name": "Volcanologist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -1125,7 +1130,7 @@
       "Name": "The field base",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "AchvReachCamp",
@@ -1133,7 +1138,7 @@
       "Name": "The Camp",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "AchvReachCity",
@@ -1141,7 +1146,7 @@
       "Name": "The City",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "AchvReachCondor",
@@ -1149,7 +1154,7 @@
       "Name": "The Condor",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "AchvSurvivors",
@@ -1157,7 +1162,7 @@
       "Name": "Survivors",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1173,7 +1178,7 @@
       "Name": "The End",
       "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "AchvUnity",
@@ -1181,21 +1186,21 @@
       "Name": "Beyond divisions",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:08:39.958325+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:09:03.3241364+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:57:07.8684707+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:08:39.9583462+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:57:16.9200405+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:09:03.3241578+00:00"
 }

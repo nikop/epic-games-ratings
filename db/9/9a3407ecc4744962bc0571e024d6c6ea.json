@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 957,
+  "EOS_Progressed": 958,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -2469,6 +2469,11 @@
       "Time": "2023-11-26T17:09:11.2365688+00:00",
       "NumProgressed": 957,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T18:09:43.6922298+00:00",
+      "NumProgressed": 958,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2497,7 +2502,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "Cartographer",
@@ -2585,7 +2590,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "Relic",
@@ -2593,7 +2598,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "SkeletonCrew",
@@ -2617,7 +2622,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "TragedyDocumented",
@@ -2640,14 +2645,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 957,
+      "Progressed": 958,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:09:11.2365685+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:09:43.6922294+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:00.5073465+00:00",
-  "LastUpdate_Ratings": "2023-11-26T17:00:23.1315705+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:09:11.2365908+00:00"
+  "LastUpdate_Ratings": "2023-11-26T18:02:43.1226514+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:09:43.6922544+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -766,6 +766,11 @@
       "Time": "2023-11-24T20:06:22.2702327+00:00",
       "NumProgressed": 200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T18:08:35.6394841+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -791,9 +796,9 @@
       "ID": "Vanilla_AbolitionistsMet",
       "SetID": "27kik8p",
       "Name": "Making Contact",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_AbolitionistsSpread",
@@ -895,17 +900,17 @@
       "ID": "Vanilla_CodexTier1",
       "SetID": "27kik8p",
       "Name": "Scribe",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "Vanilla_CodexTier2",
       "SetID": "27kik8p",
       "Name": "Scholar",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "Vanilla_CodexTier3",
@@ -919,9 +924,9 @@
       "ID": "Vanilla_CombatStrenghtTier1",
       "SetID": "27kik8p",
       "Name": "Tactician",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -943,9 +948,9 @@
       "ID": "Vanilla_CompanionMaxedOut",
       "SetID": "27kik8p",
       "Name": "Potential Unlocked",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_CompanionSkillsMaxedOut",
@@ -959,9 +964,9 @@
       "ID": "Vanilla_CompanionsProwessTier1",
       "SetID": "27kik8p",
       "Name": "Talent Nurtured",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_CompanionsProwessTier2",
@@ -975,9 +980,9 @@
       "ID": "Vanilla_CompanionsTier1",
       "SetID": "27kik8p",
       "Name": "The More the Merrier",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
@@ -991,17 +996,17 @@
       "ID": "Vanilla_Criftaa",
       "SetID": "27kik8p",
       "Name": "Huntress Unbound",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_DaneramsGambit",
       "SetID": "27kik8p",
       "Name": "Xevarian Gambit",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_Defeated",
@@ -1095,9 +1100,9 @@
       "ID": "Vanilla_FailedContract",
       "SetID": "27kik8p",
       "Name": "Breached",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -1111,9 +1116,9 @@
       "ID": "Vanilla_FirstFactionTier3",
       "SetID": "27kik8p",
       "Name": "Acquaintance",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1135,9 +1140,9 @@
       "ID": "Vanilla_FleeFromAFight",
       "SetID": "27kik8p",
       "Name": "Fight Another Day",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_Forager",
@@ -1159,9 +1164,9 @@
       "ID": "Vanilla_FourCorners",
       "SetID": "27kik8p",
       "Name": "Been There",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_Garrik",
@@ -1191,9 +1196,9 @@
       "ID": "Vanilla_Harvek",
       "SetID": "27kik8p",
       "Name": "Legacy of a Mercenary",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_HouseDarius",
@@ -1279,9 +1284,9 @@
       "ID": "Vanilla_MovementTier2",
       "SetID": "27kik8p",
       "Name": "Moving At Odd Angles",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_Nedir",
@@ -1327,9 +1332,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1351,9 +1356,9 @@
       "ID": "Vanilla_Renkailon",
       "SetID": "27kik8p",
       "Name": "The Darkness Within",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_Renown",
@@ -1375,9 +1380,9 @@
       "ID": "Vanilla_SadirarBlessing",
       "SetID": "27kik8p",
       "Name": "Spiritual Journey",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_Scythichnis",
@@ -1391,9 +1396,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 119
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1423,17 +1428,17 @@
       "ID": "Vanilla_SpiritIdol",
       "SetID": "27kik8p",
       "Name": "Life... Finds a Way",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_TasksCompleted",
       "SetID": "27kik8p",
       "Name": "Taskmaster",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -1479,9 +1484,9 @@
       "ID": "Vanilla_TheSourceOfDiscord",
       "SetID": "27kik8p",
       "Name": "Inquisitions of Discord",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_ThreeCurses",
@@ -1503,33 +1508,33 @@
       "ID": "Vanilla_TradeTasksTier1",
       "SetID": "27kik8p",
       "Name": "Merchant",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_TradeTasksTier2",
       "SetID": "27kik8p",
       "Name": "Merchant Lord",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_TroubleAtFortLarius",
       "SetID": "27kik8p",
       "Name": "Trouble at Fort Larius",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_UnseenPatterns",
       "SetID": "27kik8p",
       "Name": "Unseen Patterns",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_VagrusMaxedOut",
@@ -1543,9 +1548,9 @@
       "ID": "Vanilla_Vorax",
       "SetID": "27kik8p",
       "Name": "Voracity Confronted",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_Wealth",
@@ -1568,7 +1573,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 0
     }
   ],
@@ -1576,8 +1581,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-26T17:08:18.6758485+00:00",
+  "LastChanged_Achievements": "2023-11-26T18:08:35.6394836+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8906494+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:57:05.7280335+00:00",
-  "LastUpdate_Achievements": "2023-11-26T17:08:18.6759497+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:57:13.931231+00:00",
+  "LastUpdate_Achievements": "2023-11-26T18:08:35.6396305+00:00"
 }
