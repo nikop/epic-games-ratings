@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -893,9 +893,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 207
     },
     {
       "ID": "REMAKE_004",
@@ -1060,8 +1060,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-26T07:08:01.95004+00:00",
+  "LastChanged_Achievements": "2023-11-26T08:07:36.4343745+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:57:22.4542205+00:00",
-  "LastUpdate_Achievements": "2023-11-26T07:08:01.9500653+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:57:02.2052554+00:00",
+  "LastUpdate_Achievements": "2023-11-26T08:07:36.4343987+00:00"
 }

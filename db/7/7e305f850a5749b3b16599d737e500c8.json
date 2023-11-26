@@ -1022,9 +1022,9 @@
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "Justice",
@@ -1078,17 +1078,17 @@
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "Troubleshooter",
@@ -1109,8 +1109,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-26T07:05:43.8328997+00:00",
+  "LastChanged_Achievements": "2023-11-26T08:04:32.8972915+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:57:28.1698465+00:00",
-  "LastUpdate_Achievements": "2023-11-26T07:05:43.8329179+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:57:05.853074+00:00",
+  "LastUpdate_Achievements": "2023-11-26T08:04:32.8973053+00:00"
 }

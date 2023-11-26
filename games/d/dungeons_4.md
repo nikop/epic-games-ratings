@@ -8,15 +8,15 @@
 | Thalya – Simply Immortal | 86.00% | ~369 |
 | For the Horde! | 82.00% | ~352 |
 | Hammer Time, Round Two | 79.00% | ~339 |
-| The Hellwoods | 72.00% | ~309 |
+| The Hellwoods | 73.00% | ~313 |
 | The Plains of Strothalm | 69.00% | ~296 |
 | Experienced Thalya | 69.00% | ~296 |
 | Thalya's Concentrated Fury | 66.00% | ~283 |
+| Bad Elves Go Everywhere | 64.00% | ~275 |
 | Master of Magic | 63.00% | ~270 |
-| Bad Elves Go Everywhere | 63.00% | ~270 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~253 |
+| Magic Accidents | 57.00% | ~245 |
 | Heroes’ Gorge | 57.00% | ~245 |
-| Magic Accidents | 56.00% | ~240 |
 | Trap Master | 55.00% | ~236 |
 | Minions, Minions! | 53.00% | ~227 |
 | The Ascent | 48.00% | ~206 |
@@ -62,8 +62,8 @@
 | Laser Eyes Are So Useless | 6.00% | ~26 |
 | Heal Heal Blessing | 6.00% | ~26 |
 | Evilification | 6.00% | ~26 |
+| Hands Off My Stones | 5.00% | ~21 |
 | No Mana, No Cry | 4.00% | ~17 |
-| Hands Off My Stones | 4.00% | ~17 |
 | I Don't Need Any Help | 3.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 429 (Ranked 321)  

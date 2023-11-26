@@ -1,24 +1,24 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 774)  
+Rating: 4.37 (Ranked 773)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~38,905 |
-| Blood Moon | 73.00% | ~33,413 |
-| Path of the Necromancer | 66.00% | ~30,209 |
+| Improvement | 85.00% | ~38,906 |
+| Blood Moon | 73.00% | ~33,414 |
+| Path of the Necromancer | 66.00% | ~30,210 |
 | Chainbreaker - I | 60.00% | ~27,463 |
-| Cursed Creature | 57.00% | ~26,089 |
-| Extraction | 57.00% | ~26,089 |
-| Chainbreaker - II | 55.00% | ~25,174 |
-| Necromancer's Apprentice | 51.00% | ~23,343 |
-| Keeper of Keys | 47.00% | ~21,512 |
+| Cursed Creature | 57.00% | ~26,090 |
+| Extraction | 57.00% | ~26,090 |
+| Chainbreaker - II | 55.00% | ~25,175 |
+| Necromancer's Apprentice | 51.00% | ~23,344 |
+| Keeper of Keys | 47.00% | ~21,513 |
 | Distillation | 43.00% | ~19,682 |
 | Mountain King - I | 42.00% | ~19,224 |
 | Transmutation | 42.00% | ~19,224 |
-| Prepared Necromancer | 40.00% | ~18,308 |
+| Prepared Necromancer | 40.00% | ~18,309 |
 | Mountain King - II | 39.00% | ~17,851 |
 | Blind Rage | 38.00% | ~17,393 |
 | Mad Genius | 35.00% | ~16,020 |
@@ -30,12 +30,12 @@ Number of Ratings: 10,109  (23.09.2022)
 | Shadow Between Worlds | 29.00% | ~13,274 |
 | Bane of Monsters | 28.00% | ~12,816 |
 | Chainbreaker - III | 28.00% | ~12,816 |
-| Revealed Secrets - I | 26.00% | ~11,900 |
+| Revealed Secrets - I | 26.00% | ~11,901 |
 | Revealed Secrets - II | 25.00% | ~11,443 |
 | Blood Elemental | 24.00% | ~10,985 |
-| Unholy Bones | 23.00% | ~10,527 |
-| Lord of Fire | 23.00% | ~10,527 |
-| Uncommon Warrior | 23.00% | ~10,527 |
+| Unholy Bones | 23.00% | ~10,528 |
+| Lord of Fire | 23.00% | ~10,528 |
+| Uncommon Warrior | 23.00% | ~10,528 |
 | Cannon Fodder - III | 22.00% | ~10,070 |
 | Spiritual Attraction | 22.00% | ~10,070 |
 | Nightmare of the Humanity - I | 22.00% | ~10,070 |
@@ -43,10 +43,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | That Was Easy! | 20.00% | ~9,154 |
 | Silent Waters | 20.00% | ~9,154 |
 | Head of Order | 20.00% | ~9,154 |
-| Calcination | 19.00% | ~8,696 |
+| Calcination | 19.00% | ~8,697 |
 | Blood Mage | 17.00% | ~7,781 |
-| Wild Hunger | 16.00% | ~7,323 |
-| Rage Concentrated | 16.00% | ~7,323 |
+| Wild Hunger | 16.00% | ~7,324 |
+| Rage Concentrated | 16.00% | ~7,324 |
 | Mountain King - III | 15.00% | ~6,866 |
 | Rare Warrior | 15.00% | ~6,866 |
 | Grand Arena | 14.00% | ~6,408 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~229 |
 | Renowned Researcher | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,771 (Ranked 114)  
+Progressed: 45,772 (Ranked 114)  
 Completed: 25 (0.05%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 25 (0.05%) (Ranked 310)
 | 2023-11-23 | 45,602 | 24 |
 | 2023-11-24 | 45,660 | 24 |
 | 2023-11-25 | 45,750 | 25 |
-| 2023-11-26 | 45,771 | 25 |
+| 2023-11-26 | 45,772 | 25 |
 ## Awards
 Max (Character Customization): 2,161  (Ranked 109)  
 Sum: 4,199 (Ranked 151)  

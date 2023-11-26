@@ -288,9 +288,9 @@
       "ID": "ST_PLAGUE",
       "SetID": "9675gi1",
       "Name": "Plague Control",
-      "Percentage": 67,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ST_SEEKHIDE",
@@ -311,8 +311,8 @@
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-11-26T07:03:35.7284782+00:00",
+  "LastChanged_Achievements": "2023-11-26T08:02:57.5373053+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:54.3512098+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:00:36.8905966+00:00",
-  "LastUpdate_Achievements": "2023-11-26T07:03:35.7284947+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:59:20.82921+00:00",
+  "LastUpdate_Achievements": "2023-11-26T08:02:57.5373141+00:00"
 }

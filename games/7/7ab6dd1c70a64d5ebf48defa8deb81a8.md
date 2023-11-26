@@ -34,14 +34,14 @@
 | Miner | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Flawless Victory | 0.90% | ~2 |
+| All There Is | 0.90% | ~2 |
 | All That Gold | 0.90% | ~2 |
-| Shardbearer | 0.50% | ~1 |
-| All There Is | 0.50% | ~1 |
-| False God | 0.50% | ~1 |
+| Shardbearer | 0.40% | ~1 |
+| False God | 0.40% | ~1 |
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 381)  
+Progressed: 223 (Ranked 381)  
 Completed: 2 (0.90%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,4 +88,4 @@ Completed: 2 (0.90%) (Ranked 171)
 | 2023-11-23 | 204 | 2 |
 | 2023-11-24 | 213 | 2 |
 | 2023-11-25 | 216 | 2 |
-| 2023-11-26 | 222 | 2 |
+| 2023-11-26 | 223 | 2 |

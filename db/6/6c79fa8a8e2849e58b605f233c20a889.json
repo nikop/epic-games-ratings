@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2949,
+  "EOS_Progressed": 2950,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7669,6 +7669,11 @@
       "Time": "2023-11-26T01:59:09.1112887+00:00",
       "NumProgressed": 2949,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T08:08:49.3075446+00:00",
+      "NumProgressed": 2950,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7680,7 +7685,7 @@
       "Name": "Aggressor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "AI_DRAW",
@@ -7720,7 +7725,7 @@
       "Name": "Express Yourself",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "FACE_FACE",
@@ -7728,7 +7733,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -7776,7 +7781,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "GRASSHOPPER",
@@ -7784,7 +7789,7 @@
       "Name": "Grasshopper",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "GUARD_MAKER",
@@ -7855,14 +7860,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2949,
+      "Progressed": 2950,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-26T07:09:55.4158567+00:00",
+  "LastChanged_Achievements": "2023-11-26T08:08:49.3075442+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:17.3465662+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:01:41.5272279+00:00",
-  "LastUpdate_Achievements": "2023-11-26T07:09:55.4159045+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:00:05.737175+00:00",
+  "LastUpdate_Achievements": "2023-11-26T08:08:49.3075836+00:00"
 }

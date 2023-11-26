@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~22,506 |
-| Safety in the Storm | 24.00% | ~5,686 |
-| A Better Idea | 24.00% | ~5,686 |
-| Begin the Ceremony | 20.00% | ~4,738 |
-| Mission Accomplished | 19.00% | ~4,501 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~3,554 |
-| Asset Secured | 13.00% | ~3,080 |
-| A Starfighter of Your Own | 13.00% | ~3,080 |
-| Unkillable | 8.00% | ~1,895 |
-| Together, Vanguard | 7.00% | ~1,658 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,421 |
-| Sound Strategy | 6.00% | ~1,421 |
-| Flames Over Mon Cala | 5.00% | ~1,184 |
-| Stomped | 5.00% | ~1,184 |
-| A Promising Career | 5.00% | ~1,184 |
+| Fracture at Fostar Haven | 95.00% | ~22,514 |
+| Safety in the Storm | 24.00% | ~5,688 |
+| A Better Idea | 24.00% | ~5,688 |
+| Begin the Ceremony | 20.00% | ~4,740 |
+| Mission Accomplished | 19.00% | ~4,503 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~3,555 |
+| Asset Secured | 13.00% | ~3,081 |
+| A Starfighter of Your Own | 13.00% | ~3,081 |
+| Unkillable | 8.00% | ~1,896 |
+| Together, Vanguard | 7.00% | ~1,659 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,422 |
+| Sound Strategy | 6.00% | ~1,422 |
+| Flames Over Mon Cala | 5.00% | ~1,185 |
+| Stomped | 5.00% | ~1,185 |
+| A Promising Career | 5.00% | ~1,185 |
 | Great Shot, Kid | 4.00% | ~948 |
 | Fearless | 4.00% | ~948 |
 | Back From the Brink | 4.00% | ~948 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~24 |
 | The Galaxy's Finest (Ace) | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,690 (Ranked 130)  
+Progressed: 23,699 (Ranked 130)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-23 | 22,734 | 1 |
 | 2023-11-24 | 23,114 | 1 |
 | 2023-11-25 | 23,592 | 1 |
-| 2023-11-26 | 23,690 | 1 |
+| 2023-11-26 | 23,699 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

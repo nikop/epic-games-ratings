@@ -30,8 +30,8 @@ Rating: 3.45 (Ranked 1,047)
 | Harvest’s End | 1.00% | ~18 |
 | Bad Wiring | 0.80% | ~14 |
 | Helping Hand | 0.80% | ~14 |
+| Contingency Plans | 0.70% | ~12 |
 | Silence Is Golden | 0.70% | ~12 |
-| Contingency Plans | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
 | Nice Try | 0.60% | ~11 |
 | Revelations | 0.50% | ~9 |

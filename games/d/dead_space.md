@@ -16,9 +16,9 @@ Rating: 4.64 (Ranked 334)
 | Story Teller | 57.00% | ~1,132 |
 | Raise the Stakes | 56.00% | ~1,112 |
 | Surgeon | 54.00% | ~1,072 |
+| Exterminator | 53.00% | ~1,053 |
 | Greenhouse Effect | 53.00% | ~1,053 |
 | Freeze | 52.00% | ~1,033 |
-| Exterminator | 52.00% | ~1,033 |
 | S.O.S. | 47.00% | ~933 |
 | Full Arsenal | 46.00% | ~914 |
 | Get Off My Ship! | 45.00% | ~894 |
@@ -31,8 +31,8 @@ Rating: 4.64 (Ranked 334)
 | Exodus | 38.00% | ~755 |
 | There's Always Peng! | 38.00% | ~755 |
 | Mindless Prey | 38.00% | ~755 |
+| Front Toward Enemy | 34.00% | ~675 |
 | A Cut Above | 33.00% | ~655 |
-| Front Toward Enemy | 33.00% | ~655 |
 | Set A Benchmark | 30.00% | ~596 |
 | Whole Again | 29.00% | ~576 |
 | Pack Rat | 27.00% | ~536 |

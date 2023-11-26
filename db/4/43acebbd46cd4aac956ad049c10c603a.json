@@ -139,9 +139,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 644,
+  "EOS_Progressed": 645,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1404,6 +1404,11 @@
       "Time": "2023-11-26T03:05:04.8526709+00:00",
       "NumProgressed": 644,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T08:04:58.6259307+00:00",
+      "NumProgressed": 645,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1424,7 +1429,7 @@
       "Name": "Ab Initio",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "AnthropicHills",
@@ -1454,9 +1459,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 329
     },
     {
       "ID": "BreakTheLoop",
@@ -1470,9 +1475,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 348
     },
     {
       "ID": "ChasingTheLight",
@@ -1512,7 +1517,7 @@
       "Name": "Discovery",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "EasternWetlands",
@@ -1584,7 +1589,7 @@
       "Name": "Into the Machine",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "JustOneLap",
@@ -1632,7 +1637,7 @@
       "Name": "Museum Explorer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "MuseumVisitor",
@@ -1704,7 +1709,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "RenaissanceRobot",
@@ -1824,7 +1829,7 @@
       "Name": "The Word Endures",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "TouchGrass",
@@ -1887,7 +1892,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 644,
+      "Progressed": 645,
       "Completed": 1
     }
   ],
@@ -1895,8 +1900,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-25T20:02:40.6234679+00:00",
-  "LastChanged_Achievements": "2023-11-26T07:06:17.3244165+00:00",
+  "LastChanged_Achievements": "2023-11-26T08:04:58.6259303+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:57:19.9997686+00:00",
-  "LastUpdate_Achievements": "2023-11-26T07:06:17.3244606+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:57:00.5543908+00:00",
+  "LastUpdate_Achievements": "2023-11-26T08:04:58.6259725+00:00"
 }

@@ -9,9 +9,9 @@
 | The City | 33.00% | ~112 |
 | The field base | 31.00% | ~105 |
 | Survivors | 27.00% | ~92 |
-| The Condor | 24.00% | ~81 |
-| The End | 24.00% | ~81 |
-| The Necroevolution | 19.00% | ~64 |
+| The Condor | 24.00% | ~82 |
+| The End | 24.00% | ~82 |
+| The Necroevolution | 19.00% | ~65 |
 | Krauta is alive | 17.00% | ~58 |
 | Peacemaker | 16.00% | ~54 |
 | The Alliance | 16.00% | ~54 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~3 |
 | No more mistakes | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339 (Ranked 337)  
+Progressed: 340 (Ranked 337)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 262 | 0 |
 | 2023-11-24 | 291 | 0 |
 | 2023-11-25 | 329 | 0 |
-| 2023-11-26 | 339 | 0 |
+| 2023-11-26 | 340 | 0 |

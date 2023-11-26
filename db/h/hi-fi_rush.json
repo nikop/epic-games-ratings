@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4352,
+  "EOS_Progressed": 4354,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7705,6 +7705,11 @@
       "Time": "2023-11-26T07:04:03.6273292+00:00",
       "NumProgressed": 4352,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-26T08:03:17.9567199+00:00",
+      "NumProgressed": 4354,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7716,7 +7721,7 @@
       "Name": "Start with a bang!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "Ach002",
@@ -7828,7 +7833,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "Ach016",
@@ -7892,7 +7897,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "Ach024",
@@ -7908,7 +7913,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "Ach026",
@@ -7986,9 +7991,9 @@
       "ID": "Ach035",
       "SetID": "12n4k20",
       "Name": "OK, well THEY came after ME!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach036",
@@ -8212,7 +8217,7 @@
       "Name": "Call me Turbo Chai",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Ach064",
@@ -8228,7 +8233,7 @@
       "Name": "It\u0027ll do, CNMN",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Ach066",
@@ -8283,13 +8288,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4352,
+      "Progressed": 4354,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2873,
+      "Progressed": 2875,
       "Completed": 1930
     }
   ],
@@ -8297,8 +8302,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-26T07:04:03.6273289+00:00",
+  "LastChanged_Achievements": "2023-11-26T08:03:17.9567189+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:00:43.0476237+00:00",
-  "LastUpdate_Achievements": "2023-11-26T07:04:03.6274251+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:59:24.9146213+00:00",
+  "LastUpdate_Achievements": "2023-11-26T08:03:17.9568034+00:00"
 }

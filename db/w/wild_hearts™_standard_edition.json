@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 327,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -1586,9 +1586,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_16",
@@ -1928,8 +1928,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-26T07:04:00.1218376+00:00",
+  "LastChanged_Achievements": "2023-11-26T08:03:15.2846155+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.7646149+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:59:21.6094623+00:00",
-  "LastUpdate_Achievements": "2023-11-26T07:04:00.1218793+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:58:25.568511+00:00",
+  "LastUpdate_Achievements": "2023-11-26T08:03:15.2846566+00:00"
 }

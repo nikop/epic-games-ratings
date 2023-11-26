@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7225,10 +7225,10 @@
       "Count": 3785
     }
   ],
-  "EOS_Progressed": 142140,
-  "EOS_Completed": 269,
-  "EOS_NewPlayers": 1609,
-  "EOS_NewCompleters": 82,
+  "EOS_Progressed": 142149,
+  "EOS_Completed": 270,
+  "EOS_NewPlayers": 1614,
+  "EOS_NewCompleters": 83,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -29915,6 +29915,11 @@
       "Time": "2023-11-26T07:08:54.0349208+00:00",
       "NumProgressed": 142140,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2023-11-26T08:07:52.6373433+00:00",
+      "NumProgressed": 142149,
+      "NumCompleted": 270
     }
   ],
   "TotalAchievements": 112,
@@ -30094,7 +30099,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8528
+      "UsersEstimate": 8529
     },
     {
       "ID": "chest02",
@@ -30742,7 +30747,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8528
+      "UsersEstimate": 8529
     },
     {
       "ID": "twinenchant01",
@@ -30821,15 +30826,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142140,
-      "Completed": 269
+      "Progressed": 142149,
+      "Completed": 270
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-26T07:03:06.2115015+00:00",
-  "LastChanged_Achievements": "2023-11-26T07:08:54.0349206+00:00",
+  "LastChanged_Achievements": "2023-11-26T08:07:52.6373429+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:03:06.2115021+00:00",
-  "LastUpdate_Achievements": "2023-11-26T07:08:54.0351119+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:02:37.0806058+00:00",
+  "LastUpdate_Achievements": "2023-11-26T08:07:52.6375325+00:00"
 }

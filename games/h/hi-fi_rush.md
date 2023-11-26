@@ -5,13 +5,13 @@ Rating: 4.87 (Ranked 22)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 18.00% | ~783 |
-| Feeling the beat! | 18.00% | ~783 |
+| Start with a bang! | 18.00% | ~784 |
+| Feeling the beat! | 18.00% | ~784 |
 | You can pet the cat! | 17.00% | ~740 |
 | Cream of the Crop | 15.00% | ~653 |
 | Who put gears in there? | 15.00% | ~653 |
-| Thanks for the free chip, Peppermint! | 14.00% | ~609 |
-| You got this, Peppermint? | 14.00% | ~609 |
+| Thanks for the free chip, Peppermint! | 14.00% | ~610 |
+| You got this, Peppermint? | 14.00% | ~610 |
 | Perfect Parry | 13.00% | ~566 |
 | Alright, that felt AWESOME! | 13.00% | ~566 |
 | This will cost you big time | 12.00% | ~522 |
@@ -44,17 +44,17 @@ Rating: 4.87 (Ranked 22)
 | This is a breeze! | 2.00% | ~87 |
 | We're Jammin' | 2.00% | ~87 |
 | I hit things with a guitar really well. | 2.00% | ~87 |
-| Call me Turbo Chai | 2.00% | ~57 |
+| Call me Turbo Chai | 2.00% | ~58 |
 | I'm not done with you yet | 1.00% | ~44 |
 | First we parry, then we counter | 1.00% | ~44 |
 | You ever parry a volcano? | 1.00% | ~44 |
 | New bad guys? No problem! | 1.00% | ~29 |
-| OK, well THEY came after ME! | 0.90% | ~39 |
+| OK, well THEY came after ME! | 0.80% | ~35 |
 | Easy Listening | 0.60% | ~26 |
 | Choose your own adventure | 0.60% | ~17 |
 | Problem solved... wait, what? | 0.50% | ~22 |
 | Now this is how you fight like a team! | 0.50% | ~22 |
-| It'll do, CNMN | 0.40% | ~11 |
+| It'll do, CNMN | 0.40% | ~12 |
 | And the crowd goes wild! | 0.30% | ~13 |
 | I can't see this ever being a problem again | 0.30% | ~13 |
 | Fully Powered Up! | 0.30% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,352 (Ranked 194)  
+Progressed: 4,354 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 8 (0.18%) (Ranked 262)
 | 2023-11-23 | 4,297 | 8 |
 | 2023-11-24 | 4,316 | 8 |
 | 2023-11-25 | 4,346 | 8 |
-| 2023-11-26 | 4,352 | 8 |
+| 2023-11-26 | 4,354 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 354096,
+  "EOS_Progressed": 354100,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1040,
+  "EOS_NewPlayers": 1038,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25766,6 +25766,11 @@
       "Time": "2023-11-26T07:08:00.771883+00:00",
       "NumProgressed": 354096,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T08:07:35.5551915+00:00",
+      "NumProgressed": 354100,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -25881,7 +25886,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53114
+      "UsersEstimate": 53115
     },
     {
       "ID": "ach015",
@@ -25905,7 +25910,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46032
+      "UsersEstimate": 46033
     },
     {
       "ID": "ach018",
@@ -25985,7 +25990,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 162884
+      "UsersEstimate": 162886
     },
     {
       "ID": "ach028",
@@ -26129,7 +26134,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46032
+      "UsersEstimate": 46033
     },
     {
       "ID": "ach046",
@@ -26289,7 +26294,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49573
+      "UsersEstimate": 49574
     },
     {
       "ID": "ach067",
@@ -26305,7 +26310,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56655
+      "UsersEstimate": 56656
     },
     {
       "ID": "ach069",
@@ -26313,7 +26318,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49573
+      "UsersEstimate": 49574
     },
     {
       "ID": "ach070",
@@ -26416,7 +26421,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354096,
+      "Progressed": 354100,
       "Completed": 7
     }
   ],
@@ -26424,8 +26429,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-25T15:58:47.918985+00:00",
-  "LastChanged_Achievements": "2023-11-26T07:08:00.7718827+00:00",
+  "LastChanged_Achievements": "2023-11-26T08:07:35.5551913+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:59:23.4526478+00:00",
-  "LastUpdate_Achievements": "2023-11-26T07:08:00.7720377+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:58:26.8669285+00:00",
+  "LastUpdate_Achievements": "2023-11-26T08:07:35.5553891+00:00"
 }
