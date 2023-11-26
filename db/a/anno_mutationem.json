@@ -811,9 +811,9 @@
       "ID": "Club_Star",
       "SetID": "gl7plp",
       "Name": "Club Star",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 182
     },
     {
       "ID": "Combine",
@@ -1068,8 +1068,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-26T05:04:38.1674493+00:00",
+  "LastChanged_Achievements": "2023-11-26T06:05:57.7394103+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:59:15.8860278+00:00",
-  "LastUpdate_Achievements": "2023-11-26T05:04:38.1674676+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:00:25.6468644+00:00",
+  "LastUpdate_Achievements": "2023-11-26T06:05:57.7394273+00:00"
 }

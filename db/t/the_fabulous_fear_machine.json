@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "14",
       "SetID": "d37idgg",
       "Name": "The beast in the Oval Office",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "15",
@@ -316,9 +316,9 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "19",
@@ -388,9 +388,9 @@
       "ID": "26",
       "SetID": "d37idgg",
       "Name": "The adventurer",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "27",
@@ -404,9 +404,9 @@
       "ID": "28",
       "SetID": "d37idgg",
       "Name": "Pulp! Weird Science",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "29",
@@ -420,9 +420,9 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "30",
@@ -548,9 +548,9 @@
       "ID": "44",
       "SetID": "d37idgg",
       "Name": "America had no Faith",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "45",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-11-26T05:08:16.0911998+00:00",
+  "LastChanged_Achievements": "2023-11-26T06:08:42.1605944+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:58.055933+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:59:04.7161059+00:00",
-  "LastUpdate_Achievements": "2023-11-26T05:08:16.0912342+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:00:08.8008028+00:00",
+  "LastUpdate_Achievements": "2023-11-26T06:08:42.1606261+00:00"
 }

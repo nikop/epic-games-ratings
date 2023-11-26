@@ -9,8 +9,8 @@
 | The Ones that Got Away | 68.00% | ~469 |
 | Immortal | 41.00% | ~283 |
 | Up! | 34.00% | ~235 |
+| Science Enthusiast | 28.00% | ~193 |
 | Bird Breeder | 27.00% | ~186 |
-| Science Enthusiast | 27.00% | ~186 |
 | Master Angler | 24.00% | ~166 |
 | Fish Appreciation | 22.00% | ~152 |
 | We're Gonna Need a Bigger Screen | 22.00% | ~152 |

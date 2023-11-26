@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -298,9 +298,9 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "HeartHurt",
@@ -314,9 +314,9 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 65,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "HonoraryAlumni",
@@ -338,9 +338,9 @@
       "ID": "KarmaEyes",
       "SetID": "7m88n8p",
       "Name": "Karma in My Eyes",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Letters",
@@ -410,9 +410,9 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "SeeingThrough",
@@ -457,8 +457,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-26T05:06:01.3651183+00:00",
+  "LastChanged_Achievements": "2023-11-26T06:07:54.1275832+00:00",
   "LastUpdate_AppInfo": "2023-11-20T09:57:14.4124968+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:59:46.5120294+00:00",
-  "LastUpdate_Achievements": "2023-11-26T05:06:01.3651413+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:01:09.3710324+00:00",
+  "LastUpdate_Achievements": "2023-11-26T06:07:54.1275973+00:00"
 }

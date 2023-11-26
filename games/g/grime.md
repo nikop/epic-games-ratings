@@ -17,16 +17,16 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 2.00% | ~3,203 |
 | Sharpened Vessel | 2.00% | ~3,203 |
 | Shapely | 1.00% | ~1,602 |
-| Scion | 1.00% | ~1,597 |
-| Glare | 1.00% | ~1,597 |
+| Scion | 1.00% | ~1,598 |
+| Glare | 1.00% | ~1,598 |
 | Jawcrab | 1.00% | ~1,602 |
 | Jawstag | 1.00% | ~1,602 |
 | Feast | 1.00% | ~1,602 |
 | Watcher | 1.00% | ~1,602 |
 | Predator | 1.00% | ~1,602 |
-| Assimilation | 0.90% | ~1,441 |
+| Assimilation | 0.90% | ~1,442 |
 | Host | 0.90% | ~1,438 |
-| Celebration | 0.90% | ~1,441 |
+| Celebration | 0.90% | ~1,442 |
 | Hunt Down | 0.70% | ~1,121 |
 | Inevitable | 0.70% | ~1,121 |
 | All-Seeing | 0.70% | ~1,121 |
@@ -45,15 +45,15 @@ Number of Ratings: 46  (23.09.2022)
 | Kin | 0.30% | ~479 |
 | Weakness | 0.20% | ~320 |
 | Generous | 0.20% | ~320 |
-| Enrich | 0.20% | ~319 |
-| Intensify | 0.20% | ~319 |
+| Enrich | 0.20% | ~320 |
+| Intensify | 0.20% | ~320 |
 | Spiral Heart | 0.10% | ~160 |
 | Skinmaker | 0.10% | ~160 |
 | Instruments | 0.10% | ~160 |
 | The Nightmare | 0.10% | ~160 |
 | Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,163 (Ranked 78)  
+Progressed: 160,167 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-23 | 159,730 | 1 |
 | 2023-11-24 | 159,888 | 1 |
 | 2023-11-25 | 160,117 | 1 |
-| 2023-11-26 | 160,163 | 1 |
+| 2023-11-26 | 160,167 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 423)  
 Sum: 387 (Ranked 345)  

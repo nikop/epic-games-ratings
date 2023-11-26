@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,527 |
-| Titan's First Steps | 6.00% | ~8,527 |
-| Basic in Bulk | 5.00% | ~7,106 |
-| Tinkle of Coins | 5.00% | ~7,106 |
+| Sponsored by Argon | 6.00% | ~8,528 |
+| Titan's First Steps | 6.00% | ~8,528 |
+| Basic in Bulk | 5.00% | ~7,107 |
+| Tinkle of Coins | 5.00% | ~7,107 |
 | Disintermediation | 4.00% | ~5,685 |
 | It's Free Real Estate | 4.00% | ~5,685 |
 | Budding Merchant | 4.00% | ~5,685 |
@@ -21,31 +21,31 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 3.00% | ~4,264 |
 | Through Repetition, Perfection | 3.00% | ~4,264 |
 | Own the Means of Production | 3.00% | ~4,264 |
-| The Daily Grind | 2.00% | ~2,842 |
-| On the Path to Greatness | 2.00% | ~2,842 |
-| Ascended | 2.00% | ~2,842 |
-| Tax not Included | 2.00% | ~2,842 |
-| Research & Development | 2.00% | ~2,842 |
-| Vanity, Verily | 2.00% | ~2,842 |
-| Bounty Hunters | 2.00% | ~2,842 |
-| Fated Encounters | 2.00% | ~2,842 |
-| Blank Page Syndrome | 2.00% | ~2,842 |
-| Demand for Supplies | 2.00% | ~2,842 |
-| Flooding the Market | 2.00% | ~2,842 |
-| Where it Hurts | 2.00% | ~2,842 |
-| Power of Love | 2.00% | ~2,842 |
-| Efficient Floor Space | 2.00% | ~2,842 |
-| Flawless Fusion | 2.00% | ~2,842 |
-| Gem Expert | 2.00% | ~2,842 |
-| Gild-Gotten Goods | 2.00% | ~2,842 |
-| Royal Ransom | 2.00% | ~2,842 |
-| Helping Hand | 2.00% | ~2,842 |
-| Accomplished Merchant | 2.00% | ~2,842 |
-| Dungeon Imports | 2.00% | ~2,842 |
-| Natural 20 | 2.00% | ~2,842 |
-| Did we pack lunch? | 2.00% | ~2,842 |
-| Magical Harmony | 2.00% | ~2,842 |
-| Arcane Industries | 2.00% | ~2,842 |
+| The Daily Grind | 2.00% | ~2,843 |
+| On the Path to Greatness | 2.00% | ~2,843 |
+| Ascended | 2.00% | ~2,843 |
+| Tax not Included | 2.00% | ~2,843 |
+| Research & Development | 2.00% | ~2,843 |
+| Vanity, Verily | 2.00% | ~2,843 |
+| Bounty Hunters | 2.00% | ~2,843 |
+| Fated Encounters | 2.00% | ~2,843 |
+| Blank Page Syndrome | 2.00% | ~2,843 |
+| Demand for Supplies | 2.00% | ~2,843 |
+| Flooding the Market | 2.00% | ~2,843 |
+| Where it Hurts | 2.00% | ~2,843 |
+| Power of Love | 2.00% | ~2,843 |
+| Efficient Floor Space | 2.00% | ~2,843 |
+| Flawless Fusion | 2.00% | ~2,843 |
+| Gem Expert | 2.00% | ~2,843 |
+| Gild-Gotten Goods | 2.00% | ~2,843 |
+| Royal Ransom | 2.00% | ~2,843 |
+| Helping Hand | 2.00% | ~2,843 |
+| Accomplished Merchant | 2.00% | ~2,843 |
+| Dungeon Imports | 2.00% | ~2,843 |
+| Natural 20 | 2.00% | ~2,843 |
+| Did we pack lunch? | 2.00% | ~2,843 |
+| Magical Harmony | 2.00% | ~2,843 |
+| Arcane Industries | 2.00% | ~2,843 |
 | A Notch Above the Rest | 1.00% | ~1,421 |
 | Cream of the Crop | 1.00% | ~1,421 |
 | Top of the World | 1.00% | ~1,421 |
@@ -109,17 +109,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Anything not Nailed Down | 0.50% | ~711 |
 | The Greatest Grind | 0.50% | ~711 |
 | Marvels from the World Over | 0.50% | ~711 |
-| Bane of Legends | 0.40% | ~568 |
-| Ultimate Collector | 0.40% | ~568 |
-| Unleashed Potential | 0.40% | ~568 |
-| JACKPOT!!! | 0.40% | ~568 |
+| Bane of Legends | 0.40% | ~569 |
+| Ultimate Collector | 0.40% | ~569 |
+| Unleashed Potential | 0.40% | ~569 |
+| JACKPOT!!! | 0.40% | ~569 |
 | Oligarch Monarch | 0.30% | ~426 |
 | Merchant Extraordinaire | 0.30% | ~426 |
 | Cash Only Please | 0.30% | ~426 |
 | Capitalist Camaraderie | 0.20% | ~284 |
 | To Hell and Back | 0.20% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,120 (Ranked 80)  
+Progressed: 142,131 (Ranked 80)  
 Completed: 269 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 269 (0.19%) (Ranked 260)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,120 | 269 |
+| 2023-11-26 | 142,131 | 269 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,599 (Ranked 50)  

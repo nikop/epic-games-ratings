@@ -17,9 +17,9 @@
 | The Guardian of Fire | 6.00% | ~5 |
 | Sovereignty of Irons | 6.00% | ~5 |
 | A Sandwyrm's Hoard | 6.00% | ~5 |
+| Twin Thorns | 6.00% | ~5 |
 | Sommelier | 5.00% | ~4 |
 | Let Me Solo Them | 5.00% | ~4 |
-| Twin Thorns | 5.00% | ~4 |
 | The River Styx | 3.00% | ~3 |
 | Frigid Winds | 3.00% | ~3 |
 | Smotherly Love | 1.00% | ~1 |

@@ -5,18 +5,18 @@ Rating: 4.51 (Ranked 569)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~168,776 |
-| FIRST BLOOD | 40.00% | ~150,023 |
-| KEVIN! | 30.00% | ~112,517 |
-| JACK OF ALL TRADES | 23.00% | ~86,263 |
-| CRIMINAL | 20.00% | ~75,011 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~41,256 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~33,755 |
-| HONORS STUDENT | 8.00% | ~30,005 |
-| BUTCHER | 6.00% | ~22,503 |
-| INDIVIDUAL APPROACH | 5.00% | ~18,753 |
-| RAMBO | 5.00% | ~18,753 |
-| HELL'S KITCHEN | 4.00% | ~15,002 |
+| MASTER CHEF | 45.00% | ~168,783 |
+| FIRST BLOOD | 40.00% | ~150,029 |
+| KEVIN! | 30.00% | ~112,522 |
+| JACK OF ALL TRADES | 23.00% | ~86,267 |
+| CRIMINAL | 20.00% | ~75,015 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~41,258 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~33,757 |
+| HONORS STUDENT | 8.00% | ~30,006 |
+| BUTCHER | 6.00% | ~22,504 |
+| INDIVIDUAL APPROACH | 5.00% | ~18,754 |
+| RAMBO | 5.00% | ~18,754 |
+| HELL'S KITCHEN | 4.00% | ~15,003 |
 | CELEBRITY | 3.00% | ~11,252 |
 | MARTYR | 3.00% | ~11,252 |
 | GRATITUDE | 2.00% | ~7,501 |
@@ -25,7 +25,7 @@ Rating: 4.51 (Ranked 569)
 | GOURMET | 1.00% | ~3,751 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,751 |
 | PRUDENT | 1.00% | ~3,751 |
-| SCATTERBRAIN | 0.70% | ~2,625 |
+| SCATTERBRAIN | 0.70% | ~2,626 |
 | HIGH TECHNOLOGIES | 0.60% | ~2,250 |
 | TASTE UNTASTY | 0.50% | ~1,875 |
 | DEBTOR | 0.20% | ~750 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 569)
 | MISTER ALL THUMBS | 0.10% | ~375 |
 | TRAVELER | 0.10% | ~375 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 375,057 (Ranked 46)  
+Progressed: 375,073 (Ranked 46)  
 Completed: 40 (0.01%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 40 (0.01%) (Ranked 340)
 | 2023-11-23 | 373,458 | 39 |
 | 2023-11-24 | 374,104 | 39 |
 | 2023-11-25 | 374,914 | 40 |
-| 2023-11-26 | 375,057 | 40 |
+| 2023-11-26 | 375,073 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -563,9 +563,9 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -587,9 +587,9 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -611,9 +611,9 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -683,9 +683,9 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "cards_discovered_complete",
@@ -804,8 +804,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-11-26T05:04:04.5644076+00:00",
+  "LastChanged_Achievements": "2023-11-26T06:05:11.0457878+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:02.8022056+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:59:51.6029655+00:00",
-  "LastUpdate_Achievements": "2023-11-26T05:04:04.5644345+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:01:16.4463391+00:00",
+  "LastUpdate_Achievements": "2023-11-26T06:05:11.0458142+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,882 |
+| Sowwy! | 35.00% | ~83,884 |
 | Alt+F4 | 9.00% | ~21,570 |
-| Where's that freaking Dwarf? | 8.00% | ~19,173 |
+| Where's that freaking Dwarf? | 8.00% | ~19,174 |
 | Déjà vu | 6.00% | ~14,380 |
-| Sock! SOCK! | 5.00% | ~11,983 |
-| Speedrun | 5.00% | ~11,983 |
+| Sock! SOCK! | 5.00% | ~11,984 |
+| Speedrun | 5.00% | ~11,984 |
 | A beer, two curses, three companions | 4.00% | ~9,587 |
 | GG EZ | 4.00% | ~9,587 |
 | DM intervention | 4.00% | ~9,587 |
@@ -51,9 +51,9 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.60% | ~1,438 |
 | Law and Order | 0.60% | ~1,438 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,198 |
+| Friendly fire | 0.40% | ~959 |
 | I'd rather... Just... Sing! | 0.40% | ~959 |
 | It's been a hard day's night | 0.40% | ~959 |
-| Friendly fire | 0.30% | ~719 |
 | The number of the counting shalt be 7 | 0.30% | ~719 |
 | Inception | 0.30% | ~719 |
 | The Blood Countess | 0.20% | ~479 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,664 (Ranked 63)  
+Progressed: 239,670 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-23 | 239,137 | 7 |
 | 2023-11-24 | 239,357 | 7 |
 | 2023-11-25 | 239,618 | 7 |
-| 2023-11-26 | 239,664 | 7 |
+| 2023-11-26 | 239,670 | 7 |
 ## Awards
 Max (Character Customization): 238  (Ranked 272)  
 Sum: 478 (Ranked 330)  

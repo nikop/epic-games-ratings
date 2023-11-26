@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,525 |
+| Whatever It Takes | 3.00% | ~1,526 |
 | Hotel California | 2.00% | ~14,506 |
 | Welcome To Hell-A | 2.00% | ~14,506 |
 | One of Us | 2.00% | ~1,017 |
@@ -32,16 +32,16 @@ Rating: 4.54 (Ranked 527)
 | Slayer Squad | 0.90% | ~6,528 |
 | Ooh, Shiny! | 0.90% | ~6,528 |
 | Our True Nature | 0.90% | ~6,528 |
-| Making Your Mark | 0.80% | ~5,802 |
-| I Am the Resurrection | 0.80% | ~5,802 |
-| Max Headroom | 0.80% | ~5,802 |
+| Making Your Mark | 0.80% | ~5,803 |
+| I Am the Resurrection | 0.80% | ~5,803 |
+| Max Headroom | 0.80% | ~5,803 |
 | Humanity Distilled | 0.70% | ~5,077 |
 | Down with the Sickness | 0.70% | ~5,077 |
 | Not Even My Final Form | 0.60% | ~4,352 |
 | Jumbo Keyring | 0.60% | ~4,352 |
 | Go, Bobcats! | 0.60% | ~4,352 |
 | Rising Star | 0.60% | ~4,352 |
-| Internet Famous | 0.50% | ~3,626 |
+| Internet Famous | 0.50% | ~3,627 |
 | Make it So | 0.40% | ~2,901 |
 | On Safari | 0.40% | ~2,901 |
 | Smorgasbord | 0.40% | ~2,901 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~725 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,297 (Ranked 21)  
+Progressed: 725,324 (Ranked 21)  
 Completed: 2,439 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 2,439 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
-| 2023-11-26 | 725,297 | 2,439 |
+| 2023-11-26 | 725,324 | 2,439 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
 Sum: 11,821 (Ranked 83)  

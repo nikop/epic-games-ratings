@@ -16,17 +16,17 @@
 | Brain Chopper | 20.00% | ~16 |
 | Horror Show | 18.00% | ~14 |
 | Night Bird | 16.00% | ~13 |
-| Demolition Ambition | 13.00% | ~10 |
+| Demolition Ambition | 14.00% | ~11 |
 | Hindenburgerer | 9.00% | ~7 |
 | Punchy Wagon | 8.00% | ~6 |
 | Kill All Humans! | 6.00% | ~5 |
 | Holy Terror | 5.00% | ~4 |
 | Midair Affair | 4.00% | ~3 |
+| Meat Catcher | 4.00% | ~3 |
 | Plight of the Valkyrie | 4.00% | ~3 |
 | Trash the Planet. | 4.00% | ~3 |
 | Demolition Exhibition | 3.00% | ~2 |
 | Rocket Science | 3.00% | ~2 |
-| Meat Catcher | 3.00% | ~2 |
 | Demolition Tactician | 3.00% | ~2 |
 | Hot Potato | 3.00% | ~2 |
 | Oblideration Nation | 3.00% | ~2 |

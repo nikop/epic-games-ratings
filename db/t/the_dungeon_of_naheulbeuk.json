@@ -1389,9 +1389,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239664,
+  "EOS_Progressed": 239670,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1545,
+  "EOS_NewPlayers": 1544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19969,6 +19969,11 @@
       "Time": "2023-11-26T05:08:40.4663315+00:00",
       "NumProgressed": 239664,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T06:09:16.0212247+00:00",
+      "NumProgressed": 239670,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20098,9 +20103,9 @@
       "ID": "CollateralVictim",
       "SetID": "50chcgj",
       "Name": "Friendly fire",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 959
     },
     {
       "ID": "CompanionMinstrel",
@@ -20380,7 +20385,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19173
+      "UsersEstimate": 19174
     },
     {
       "ID": "DwarfElf15Support",
@@ -20412,7 +20417,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11983
+      "UsersEstimate": 11984
     },
     {
       "ID": "ElfEpic",
@@ -20428,7 +20433,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83882
+      "UsersEstimate": 83884
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20628,7 +20633,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11983
+      "UsersEstimate": 11984
     },
     {
       "ID": "SupportCount4",
@@ -20683,21 +20688,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 239664,
+      "Progressed": 239670,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 239664,
+      "Progressed": 239670,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-23T22:59:47.2360206+00:00",
-  "LastChanged_Achievements": "2023-11-26T05:08:40.4663311+00:00",
+  "LastChanged_Achievements": "2023-11-26T06:09:16.0212245+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:57:25.8477374+00:00",
-  "LastUpdate_Achievements": "2023-11-26T05:08:40.466468+00:00"
+  "LastUpdate_Ratings": "2023-11-26T05:57:42.0130761+00:00",
+  "LastUpdate_Achievements": "2023-11-26T06:09:16.0213473+00:00"
 }

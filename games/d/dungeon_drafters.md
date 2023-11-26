@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Might be useful… | 41.00% | ~39 |
 | Treasure Hunting | 39.00% | ~37 |
+| Friend! | 32.00% | ~30 |
+| Uncut Gem | 32.00% | ~30 |
 | Shine! | 32.00% | ~30 |
-| Friend! | 31.00% | ~29 |
-| Uncut Gem | 31.00% | ~29 |
-| Clear as Water | 26.00% | ~25 |
-| Setting Off | 25.00% | ~24 |
+| Clear as Water | 27.00% | ~26 |
+| Setting Off | 26.00% | ~25 |
 | Card Collector | 25.00% | ~24 |
 | Riddlesolver | 22.00% | ~21 |
 | Dungeon Mastery | 20.00% | ~19 |

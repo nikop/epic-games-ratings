@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 383)  
+Rating: 4.61 (Ranked 382)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,6 +20,7 @@ Rating: 4.61 (Ranked 383)
 | Stronger Together | 1.00% | ~55 |
 | Magical Synergy | 1.00% | ~55 |
 | In a Liege of Your Own | 1.00% | ~55 |
+| Fiery Friend | 1.00% | ~55 |
 | Impenetrable Fortress | 1.00% | ~55 |
 | Intimidation Tactics | 1.00% | ~55 |
 | Here be Dragons | 1.00% | ~55 |
@@ -33,13 +34,12 @@ Rating: 4.61 (Ranked 383)
 | Enchanted Archipelago | 0.90% | ~50 |
 | Digging for Treasure | 0.90% | ~50 |
 | My Final Form | 0.90% | ~50 |
-| Fiery Friend | 0.90% | ~50 |
 | Dawn of the Dread | 0.90% | ~50 |
 | Prometheus Avenged | 0.80% | ~44 |
-| Arch Mage | 0.70% | ~38 |
-| Preparation Is Everything | 0.70% | ~38 |
-| Blood of the Dragon | 0.70% | ~38 |
-| A Conqueror's Cohort | 0.70% | ~38 |
+| Arch Mage | 0.70% | ~39 |
+| Preparation Is Everything | 0.70% | ~39 |
+| Blood of the Dragon | 0.70% | ~39 |
+| A Conqueror's Cohort | 0.70% | ~39 |
 | The Creator | 0.60% | ~33 |
 | Crimson Caldera | 0.60% | ~33 |
 | Lord of Chaos | 0.50% | ~28 |
@@ -49,24 +49,24 @@ Rating: 4.61 (Ranked 383)
 | God Emperor | 0.40% | ~22 |
 | Eternal Lord | 0.40% | ~22 |
 | Pruning for Progress | 0.40% | ~22 |
-| The Goddess of Nature | 0.30% | ~16 |
-| Grexolis | 0.30% | ~16 |
-| One for All, All for One | 0.30% | ~16 |
-| Duality | 0.30% | ~16 |
+| The Goddess of Nature | 0.30% | ~17 |
+| Grexolis | 0.30% | ~17 |
+| One for All, All for One | 0.30% | ~17 |
+| Duality | 0.30% | ~17 |
+| Betrayal Most Foul | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~6 |
 | The Magic That Empowers Me! | 0.10% | ~6 |
 | I Want to Break Free | 0.10% | ~6 |
 | Against the Odds | 0.10% | ~6 |
 | Jack of All Tomes | 0.10% | ~6 |
 | Returning Circle | 0.10% | ~6 |
-| Betrayal Most Foul | 0.10% | ~6 |
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 | A Very Special Ring | 0.10% | ~6 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,500 (Ranked 189)  
+Progressed: 5,501 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 7 (0.13%) (Ranked 272)
 | 2023-11-23 | 5,446 | 7 |
 | 2023-11-24 | 5,463 | 7 |
 | 2023-11-25 | 5,496 | 7 |
-| 2023-11-26 | 5,500 | 7 |
+| 2023-11-26 | 5,501 | 7 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 481)  
 Sum: 60 (Ranked 477)  

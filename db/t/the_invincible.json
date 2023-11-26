@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -900,6 +900,11 @@
       "Time": "2023-11-26T04:08:23.6430714+00:00",
       "NumProgressed": 338,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T06:08:56.7181853+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -912,7 +917,7 @@
       "Name": "The Teleprobe",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "AchvAllMemories",
@@ -942,9 +947,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "AchvBombing",
@@ -998,9 +1003,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "AchvKrautaAlive",
@@ -1008,7 +1013,7 @@
       "Name": "Krauta is alive",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AchvLava",
@@ -1088,7 +1093,7 @@
       "Name": "The Camp",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "AchvReachCity",
@@ -1112,7 +1117,7 @@
       "Name": "Survivors",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1143,14 +1148,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-26T05:08:26.2695739+00:00",
+  "LastChanged_Achievements": "2023-11-26T06:08:56.7181851+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-26T05:00:23.9834667+00:00",
-  "LastUpdate_Achievements": "2023-11-26T05:08:26.2695917+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:02:45.5847944+00:00",
+  "LastUpdate_Achievements": "2023-11-26T06:08:56.7182048+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 617,
+  "EOS_Progressed": 619,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1232,6 +1232,11 @@
       "Time": "2023-11-26T04:05:47.3668032+00:00",
       "NumProgressed": 617,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T06:07:26.9358966+00:00",
+      "NumProgressed": 619,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1300,7 +1305,7 @@
       "Name": "Pathfinder",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "CompleteChapter10",
@@ -1316,7 +1321,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChapter12",
@@ -1362,9 +1367,9 @@
       "ID": "CompleteChapter17",
       "SetID": "52ail55",
       "Name": "Fool\u0027s Errand",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 31
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -1388,7 +1393,7 @@
       "Name": "Met the Enemy",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "CompleteChapter3",
@@ -1396,7 +1401,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "CompleteChapter4",
@@ -1428,15 +1433,15 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 68
     },
     {
       "ID": "CompleteChapter9",
@@ -1492,7 +1497,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1539,14 +1544,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 617,
+      "Progressed": 619,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-26T05:05:41.6757416+00:00",
+  "LastChanged_Achievements": "2023-11-26T06:07:26.9358963+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:59:05.8658175+00:00",
-  "LastUpdate_Achievements": "2023-11-26T05:05:41.6757706+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:00:10.5139486+00:00",
+  "LastUpdate_Achievements": "2023-11-26T06:07:26.9359278+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 383,
+  "Ranking_Rating": 382,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 189,
@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5500,
+  "EOS_Progressed": 5501,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7468,6 +7468,11 @@
       "Time": "2023-11-26T04:05:27.7396538+00:00",
       "NumProgressed": 5500,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T06:06:59.6079623+00:00",
+      "NumProgressed": 5501,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7551,7 +7556,7 @@
       "Name": "Arch Mage",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "19",
@@ -7575,7 +7580,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "21",
@@ -7663,7 +7668,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "31",
@@ -7709,9 +7714,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 55
     },
     {
       "ID": "37",
@@ -7791,7 +7796,7 @@
       "Name": "Grexolis",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "6",
@@ -7799,7 +7804,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "7",
@@ -7813,9 +7818,9 @@
       "ID": "8",
       "SetID": "3aa2279",
       "Name": "Betrayal Most Foul",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "9",
@@ -7847,7 +7852,7 @@
       "Name": "Duality",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "48",
@@ -7855,7 +7860,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "49",
@@ -7919,7 +7924,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "57",
@@ -7958,13 +7963,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5500,
+      "Progressed": 5501,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5500,
+      "Progressed": 5501,
       "Completed": 7
     }
   ],
@@ -7972,8 +7977,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-26T05:05:22.3265606+00:00",
+  "LastChanged_Achievements": "2023-11-26T06:06:59.6079622+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:57:36.1429162+00:00",
-  "LastUpdate_Achievements": "2023-11-26T05:05:22.3266266+00:00"
+  "LastUpdate_Ratings": "2023-11-26T05:57:58.0932064+00:00",
+  "LastUpdate_Achievements": "2023-11-26T06:06:59.6080224+00:00"
 }

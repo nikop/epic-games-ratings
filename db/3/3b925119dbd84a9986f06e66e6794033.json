@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -864,6 +864,11 @@
       "Time": "2023-11-26T04:08:46.9725271+00:00",
       "NumProgressed": 254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T06:09:28.9412869+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -914,9 +919,9 @@
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -948,7 +953,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1035,14 +1040,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-26T05:08:49.8547032+00:00",
+  "LastChanged_Achievements": "2023-11-26T06:09:28.9412867+00:00",
   "LastUpdate_AppInfo": "2023-11-24T23:57:10.8721318+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:57:47.3013674+00:00",
-  "LastUpdate_Achievements": "2023-11-26T05:08:49.8547233+00:00"
+  "LastUpdate_Ratings": "2023-11-26T05:58:15.3539497+00:00",
+  "LastUpdate_Achievements": "2023-11-26T06:09:28.9413001+00:00"
 }

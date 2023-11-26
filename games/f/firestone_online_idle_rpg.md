@@ -5,11 +5,11 @@ Rating: 4.07 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,505 |
-| World Map | 78.00% | ~2,101 |
-| Temple of Eternals | 57.00% | ~1,536 |
-| Prestigious | 54.00% | ~1,455 |
-| Fellowship Power | 42.00% | ~1,131 |
+| Victor | 93.00% | ~2,507 |
+| World Map | 78.00% | ~2,103 |
+| Temple of Eternals | 57.00% | ~1,537 |
+| Prestigious | 54.00% | ~1,456 |
+| Fellowship Power | 42.00% | ~1,132 |
 | Guild Power | 24.00% | ~647 |
 | Prestigious x10 | 21.00% | ~566 |
 | The game is on | 19.00% | ~512 |
@@ -22,23 +22,23 @@ Rating: 4.07 (Ranked 976)
 | Enlightenment | 14.00% | ~377 |
 | Hero inspection | 14.00% | ~377 |
 | Lieutenant | 13.00% | ~350 |
-| Milestone collector | 12.00% | ~323 |
-| Mysterious Rock | 12.00% | ~323 |
-| Natural Talent | 12.00% | ~323 |
-| Superior | 12.00% | ~323 |
-| The Unstoppable | 12.00% | ~323 |
-| Scientist | 11.00% | ~296 |
-| Daily Quest Completionist | 10.00% | ~269 |
-| Doing My Part | 10.00% | ~269 |
-| Hunter | 10.00% | ~269 |
-| The power of Awakening | 10.00% | ~269 |
-| Challenger | 9.00% | ~242 |
-| Four Leaf Clover | 9.00% | ~242 |
-| Frostfire Liberator | 9.00% | ~242 |
-| Mastery | 9.00% | ~242 |
-| Moving Up The Ladder | 9.00% | ~242 |
-| Relic Of The Past | 9.00% | ~242 |
-| Scroll Master | 9.00% | ~242 |
+| Milestone collector | 12.00% | ~324 |
+| Mysterious Rock | 12.00% | ~324 |
+| Natural Talent | 12.00% | ~324 |
+| Superior | 12.00% | ~324 |
+| The Unstoppable | 12.00% | ~324 |
+| Scientist | 11.00% | ~297 |
+| Daily Quest Completionist | 10.00% | ~270 |
+| Doing My Part | 10.00% | ~270 |
+| Hunter | 10.00% | ~270 |
+| The power of Awakening | 10.00% | ~270 |
+| Challenger | 9.00% | ~243 |
+| Four Leaf Clover | 9.00% | ~243 |
+| Frostfire Liberator | 9.00% | ~243 |
+| Mastery | 9.00% | ~243 |
+| Moving Up The Ladder | 9.00% | ~243 |
+| Relic Of The Past | 9.00% | ~243 |
+| Scroll Master | 9.00% | ~243 |
 | Here We Go Again | 8.00% | ~216 |
 | Master Enchanter | 8.00% | ~216 |
 | The father of Dragons | 8.00% | ~216 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 976)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,694 (Ranked 213)  
+Progressed: 2,696 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 2 (0.07%) (Ranked 300)
 | 2023-11-23 | 2,599 | 2 |
 | 2023-11-24 | 2,644 | 2 |
 | 2023-11-25 | 2,687 | 2 |
-| 2023-11-26 | 2,694 | 2 |
+| 2023-11-26 | 2,696 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
 Sum: 110 (Ranked 443)  

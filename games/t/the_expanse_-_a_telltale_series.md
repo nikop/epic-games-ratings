@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 10.00% | ~1,556 |
+| Oyedang, Kopengs | 10.00% | ~1,557 |
 | The Pit and the Pirates | 6.00% | ~934 |
 | Bosmang | 6.00% | ~934 |
 | Zen Master | 6.00% | ~91 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 473)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,565 (Ranked 151)  
+Progressed: 15,568 (Ranked 151)  
 Completed: 35 (0.22%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 35 (0.22%) (Ranked 250)
 | 2023-11-23 | 15,346 | 35 |
 | 2023-11-24 | 15,437 | 35 |
 | 2023-11-25 | 15,549 | 35 |
-| 2023-11-26 | 15,565 | 35 |
+| 2023-11-26 | 15,568 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

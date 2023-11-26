@@ -27,7 +27,7 @@
 | Master of the Worlds | 6.00% | ~15 |
 | God of Patience | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 368)  
+Progressed: 254 (Ranked 369)  
 Completed: 8 (3.15%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |

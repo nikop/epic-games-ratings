@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,268 |
+| New Recruit | 89.00% | ~1,269 |
 | Off to a good start | 67.00% | ~955 |
-| Do... or do not. There is no try | 50.00% | ~712 |
+| Do... or do not. There is no try | 50.00% | ~713 |
 | A good blaster at your side | 31.00% | ~442 |
 | Scrap collector | 19.00% | ~271 |
 | I suggest a new strategy | 19.00% | ~271 |
@@ -16,7 +16,7 @@
 | Together we can rule the galaxy | 14.00% | ~200 |
 | Shoot first | 14.00% | ~200 |
 | Collector | 13.00% | ~185 |
-| Survivor | 10.00% | ~142 |
+| Survivor | 10.00% | ~143 |
 | Tell Jabba that I've got his money | 9.00% | ~128 |
 | Best star-pilot in the galaxy | 9.00% | ~128 |
 | Never tell me the odds! | 8.00% | ~114 |
@@ -39,13 +39,13 @@
 | On the ball | 3.00% | ~43 |
 | Precision shot | 3.00% | ~43 |
 | That's no moon | 3.00% | ~43 |
-| Hold the line! | 2.00% | ~28 |
-| The Force is strong with this one | 2.00% | ~28 |
-| This is a new day, a new beginning | 2.00% | ~28 |
-| City in the Clouds | 2.00% | ~28 |
-| Alternative solution | 2.00% | ~28 |
-| What will you become? | 2.00% | ~28 |
-| Disturbed tranquility | 2.00% | ~28 |
+| Hold the line! | 2.00% | ~29 |
+| The Force is strong with this one | 2.00% | ~29 |
+| This is a new day, a new beginning | 2.00% | ~29 |
+| City in the Clouds | 2.00% | ~29 |
+| Alternative solution | 2.00% | ~29 |
+| What will you become? | 2.00% | ~29 |
+| Disturbed tranquility | 2.00% | ~29 |
 | Playing the objective | 1.00% | ~14 |
 | Ackbar's Elite | 1.00% | ~14 |
 | You have your moments | 1.00% | ~14 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,425 (Ranked 242)  
+Progressed: 1,426 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1 (0.07%) (Ranked 300)
 | 2023-11-23 | 1,384 | 1 |
 | 2023-11-24 | 1,403 | 1 |
 | 2023-11-25 | 1,421 | 1 |
-| 2023-11-26 | 1,425 | 1 |
+| 2023-11-26 | 1,426 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

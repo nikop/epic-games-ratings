@@ -19,19 +19,19 @@
 | Magic Accidents | 56.00% | ~240 |
 | Trap Master | 55.00% | ~236 |
 | Minions, Minions! | 53.00% | ~227 |
-| The Ascent | 47.00% | ~202 |
-| It's Warm and Cozy at Home | 47.00% | ~202 |
+| The Ascent | 48.00% | ~206 |
+| It's Warm and Cozy at Home | 48.00% | ~206 |
 | YOU SHALL NOT PASS! | 43.00% | ~184 |
 | Hard Work | 42.00% | ~180 |
 | The Big Eaty | 41.00% | ~176 |
 | Pure Dynamite! | 39.00% | ~167 |
-| “… like son” | 37.00% | ~159 |
+| “… like son” | 38.00% | ~163 |
+| Shame! Shame! Shame! | 34.00% | ~146 |
 | Mana Cannon | 33.00% | ~142 |
 | Dungeonlord Gorgu | 33.00% | ~142 |
 | The Cathedral of Light | 33.00% | ~142 |
-| Shame! Shame! Shame! | 33.00% | ~142 |
 | Tanos' Crusade Against Thalya | 30.00% | ~129 |
-| All’s Well That Ends Evil | 25.00% | ~107 |
+| All’s Well That Ends Evil | 26.00% | ~112 |
 | Unstoppable Horde | 24.00% | ~103 |
 | Master of the Undead | 23.00% | ~99 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~90 |
@@ -46,10 +46,10 @@
 | Doom Hill | 15.00% | ~64 |
 | Brimstone Shaken, Not Stirred | 14.00% | ~60 |
 | Sabotage! | 13.00% | ~56 |
+| My Little Torture Chamber | 12.00% | ~51 |
 | Bonus Evilness | 12.00% | ~51 |
 | Raiders of the Lost Stone | 12.00% | ~51 |
 | The Rune Sockets of Finitude (Part 1) | 12.00% | ~51 |
-| My Little Torture Chamber | 11.00% | ~47 |
 | Lavalumps on Ice! | 10.00% | ~43 |
 | Rubble and Ashes | 10.00% | ~43 |
 | The Rune Sockets of Finitude (Part 2) | 10.00% | ~43 |

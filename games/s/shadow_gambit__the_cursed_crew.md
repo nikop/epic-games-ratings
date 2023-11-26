@@ -5,26 +5,26 @@ Rating: 4.76 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 65.00% | ~594 |
-| The Adventure Begins | 51.00% | ~466 |
-| Swabbie | 39.00% | ~356 |
-| With Great Power… | 39.00% | ~356 |
+| A New Journey | 65.00% | ~595 |
+| The Adventure Begins | 50.00% | ~458 |
+| Swabbie | 39.00% | ~357 |
+| With Great Power… | 39.00% | ~357 |
 | This Belongs in a Museum | 35.00% | ~320 |
-| The Gambit Has Begun | 32.00% | ~292 |
+| The Gambit Has Begun | 32.00% | ~293 |
 | Powder Monkey | 29.00% | ~265 |
 | Somewhere Deep in the Lost Caribbean | 28.00% | ~256 |
 | Mirror Mirror on the Wall | 27.00% | ~247 |
-| Pirates Assemble! | 25.00% | ~228 |
+| Pirates Assemble! | 25.00% | ~229 |
 | Buccaneer | 23.00% | ~210 |
 | Fishy Fish | 21.00% | ~192 |
 | All Good Things | 19.00% | ~174 |
-| Persistent Parasite | 17.00% | ~155 |
+| Persistent Parasite | 17.00% | ~156 |
 | Seadog | 16.00% | ~146 |
 | Jaded Judge | 12.00% | ~110 |
 | Privateer | 11.00% | ~101 |
 | Rustic Recipe | 11.00% | ~101 |
-| Tobacco Travesty | 10.00% | ~91 |
-| Accursed Artifacts | 10.00% | ~91 |
+| Tobacco Travesty | 10.00% | ~92 |
+| Accursed Artifacts | 10.00% | ~92 |
 | Lyrical Longing | 9.00% | ~82 |
 | Corsair | 7.00% | ~64 |
 | Fully Decked | 7.00% | ~64 |
@@ -32,8 +32,8 @@ Rating: 4.76 (Ranked 126)
 | Marauder | 4.00% | ~37 |
 | Welcome Back Jester | 4.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 914 (Ranked 269)  
-Completed: 30 (3.28%) (Ranked 94)  
+Progressed: 915 (Ranked 269)  
+Completed: 30 (3.28%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,7 +140,7 @@ Completed: 30 (3.28%) (Ranked 94)
 | 2023-11-23 | 871 | 30 |
 | 2023-11-24 | 883 | 30 |
 | 2023-11-25 | 911 | 30 |
-| 2023-11-26 | 914 | 30 |
+| 2023-11-26 | 915 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
