@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -229,9 +229,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15549,
+  "EOS_Progressed": 15553,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12274,6 +12274,11 @@
       "Time": "2023-11-25T23:05:44.1173221+00:00",
       "NumProgressed": 15549,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-26T00:06:37.4519099+00:00",
+      "NumProgressed": 15553,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12310,7 +12315,7 @@
       "Name": "Data Archivist",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "13",
@@ -12366,7 +12371,7 @@
       "Name": "Martian Music",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "2",
@@ -12382,7 +12387,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "21",
@@ -12390,7 +12395,7 @@
       "Name": "Drone Dodger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "22",
@@ -12422,7 +12427,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "26",
@@ -12462,7 +12467,7 @@
       "Name": "Captain Drummer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "30",
@@ -12486,7 +12491,7 @@
       "Name": "Data Master",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "6",
@@ -12494,7 +12499,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "7",
@@ -12518,7 +12523,7 @@
       "Name": "Impossible Objects",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "31",
@@ -12565,22 +12570,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15549,
+      "Progressed": 15553,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1503,
-      "Completed": 718
+      "Progressed": 1507,
+      "Completed": 719
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-25T17:58:09.1094239+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:05:44.1173217+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:06:37.4519096+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:58:28.0536685+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:05:44.1173926+00:00"
+  "LastUpdate_Ratings": "2023-11-25T23:59:03.703678+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:06:37.4519797+00:00"
 }

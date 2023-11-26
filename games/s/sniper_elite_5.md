@@ -11,14 +11,14 @@ Rating: 4.46 (Ranked 648)
 | It's Starting to Crack | 34.00% | ~1,336 |
 | Change the Channel | 31.00% | ~1,218 |
 | Lord of War | 30.00% | ~1,179 |
-| Taking it back | 29.00% | ~1,139 |
+| Taking it back | 29.00% | ~1,140 |
 | Resourceful | 27.00% | ~1,061 |
 | Target America | 27.00% | ~1,061 |
 | The Kraken Sleeps | 25.00% | ~982 |
 | Liberté | 23.00% | ~904 |
 | Organ Grinder | 23.00% | ~904 |
 | As Quiet as a Mouse | 23.00% | ~904 |
-| Sharpshooter | 22.00% | ~864 |
+| Sharpshooter | 22.00% | ~865 |
 | Gunslinger | 19.00% | ~747 |
 | Explosive Efficiency | 19.00% | ~747 |
 | Just a Flesh Wound | 17.00% | ~668 |
@@ -26,9 +26,9 @@ Rating: 4.46 (Ranked 648)
 | Climbing the Ladder | 16.00% | ~629 |
 | Close Quarters | 16.00% | ~629 |
 | Snake in the Grass | 16.00% | ~629 |
-| Skirmisher | 15.00% | ~589 |
-| Die Nussknacker Sweet! | 15.00% | ~589 |
-| Brains of the Operation | 15.00% | ~589 |
+| Skirmisher | 15.00% | ~590 |
+| Die Nussknacker Sweet! | 15.00% | ~590 |
+| Brains of the Operation | 15.00% | ~590 |
 | No Stone Unturned | 14.00% | ~550 |
 | Opposing Force | 14.00% | ~550 |
 | Fields of Glory | 14.00% | ~550 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 648)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,929 (Ranked 197)  
+Progressed: 3,930 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,6 +295,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-11-23 | 3,911 | 11 |
 | 2023-11-24 | 3,920 | 11 |
 | 2023-11-25 | 3,929 | 11 |
+| 2023-11-26 | 3,930 | 11 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 520)  
 Sum: 25 (Ranked 528)  

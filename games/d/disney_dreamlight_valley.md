@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,232 |
-| Photographer | 68.00% | ~8,112 |
-| Valley's Helper | 62.00% | ~7,397 |
-| Constructor | 51.00% | ~6,084 |
-| Renovator | 51.00% | ~6,084 |
-| Bestest Friend | 46.00% | ~5,488 |
-| Banker | 39.00% | ~4,653 |
-| Gardener | 31.00% | ~3,698 |
-| Generous | 25.00% | ~2,982 |
-| Chef Cook | 18.00% | ~2,147 |
+| Goofy's Investor | 69.00% | ~8,234 |
+| Photographer | 68.00% | ~8,114 |
+| Valley's Helper | 62.00% | ~7,398 |
+| Constructor | 51.00% | ~6,086 |
+| Renovator | 51.00% | ~6,086 |
+| Bestest Friend | 46.00% | ~5,489 |
+| Banker | 39.00% | ~4,654 |
+| Gardener | 31.00% | ~3,699 |
+| Generous | 25.00% | ~2,983 |
+| Chef Cook | 18.00% | ~2,148 |
 | Miner | 10.00% | ~1,193 |
 | Duty Bound | 7.00% | ~835 |
 | Thorn Cleaner | 6.00% | ~716 |
-| Angler | 5.00% | ~596 |
+| Angler | 5.00% | ~597 |
 | Chit Chatter | 3.00% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,930 (Ranked 159)  
+Progressed: 11,933 (Ranked 159)  
 Completed: 284 (2.38%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,18 +193,19 @@ Completed: 284 (2.38%) (Ranked 119)
 | 2023-11-23 | 11,868 | 281 |
 | 2023-11-24 | 11,901 | 283 |
 | 2023-11-25 | 11,930 | 284 |
+| 2023-11-26 | 11,933 | 284 |
 ## Awards
 Max (Great for Beginners): 1,072  (Ranked 147)  
-Sum: 7,950 (Ranked 107)  
+Sum: 7,952 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,072 |
 | This game has Diverse Characters | 903 |
 | This game is Highly Recommended | 828 |
-| This game has Amazing Characters | 823 |
+| This game has Amazing Characters | 824 |
 | This game is Relaxing | 812 |
-| This game has Amazing Storytelling | 778 |
+| This game has Amazing Storytelling | 779 |
 | This game is Extremely Fun | 767 |
 | This game has Quickly Understood Controls | 757 |
 | This game has a Creative Community | 679 |
@@ -468,4 +469,4 @@ Diff (max vs sum): 40
 | 2023-11-22 | 4.76 | - | 1,067 | 7,937 |
 | 2023-11-23 | 4.76 | - | 1,069 | 7,943 |
 | 2023-11-24 | 4.76 | - | 1,071 | 7,948 |
-| 2023-11-25 | 4.76 | - | 1,072 | 7,950 |
+| 2023-11-25 | 4.76 | - | 1,072 | 7,952 |

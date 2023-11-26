@@ -6,27 +6,27 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,946 |
-| First Steps | 80.00% | ~35,222 |
+| Awakening | 93.00% | ~40,947 |
+| First Steps | 80.00% | ~35,223 |
 | Control the Shadows | 67.00% | ~29,499 |
 | Tools of the Trade | 63.00% | ~27,738 |
 | Apprentice | 60.00% | ~26,417 |
-| Secret Seeker | 57.00% | ~25,096 |
-| Forge of Assassins | 55.00% | ~24,215 |
+| Secret Seeker | 57.00% | ~25,097 |
+| Forge of Assassins | 55.00% | ~24,216 |
 | Revenant | 52.00% | ~22,895 |
 | I don’t Care! | 45.00% | ~19,813 |
-| Bird of Prey | 37.00% | ~16,290 |
+| Bird of Prey | 37.00% | ~16,291 |
 | Engraved with Power | 32.00% | ~14,089 |
 | Lady | 31.00% | ~13,649 |
 | Fashionable Assassin | 27.00% | ~11,888 |
 | Apex Predator | 24.00% | ~10,567 |
-| Soul Reaver | 23.00% | ~10,126 |
+| Soul Reaver | 23.00% | ~10,127 |
 | Embers | 22.00% | ~9,686 |
 | Wall Lizard | 20.00% | ~8,806 |
 | Clinging to Life | 18.00% | ~7,925 |
 | Burning | 17.00% | ~7,485 |
-| Look Behind You | 16.00% | ~7,044 |
-| Sleeping on the Job | 16.00% | ~7,044 |
+| Look Behind You | 16.00% | ~7,045 |
+| Sleeping on the Job | 16.00% | ~7,045 |
 | Family | 14.00% | ~6,164 |
 | War Engines | 14.00% | ~6,164 |
 | Signature Move | 14.00% | ~6,164 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~881 |
 | Legacy | 2.00% | ~881 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,028 (Ranked 115)  
+Progressed: 44,029 (Ranked 115)  
 Completed: 241 (0.55%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,6 +271,7 @@ Completed: 241 (0.55%) (Ranked 197)
 | 2023-11-23 | 43,983 | 241 |
 | 2023-11-24 | 44,001 | 241 |
 | 2023-11-25 | 44,028 | 241 |
+| 2023-11-26 | 44,029 | 241 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

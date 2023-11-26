@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 726,
+  "EOS_Progressed": 727,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -742,6 +742,11 @@
       "Time": "2023-11-25T22:06:46.0001453+00:00",
       "NumProgressed": 726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T00:05:35.4520453+00:00",
+      "NumProgressed": 727,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -761,7 +766,7 @@
       "Name": "Annakin Skyscroller",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Arm_Wrestling",
@@ -791,9 +796,9 @@
       "ID": "Club_Star",
       "SetID": "gl7plp",
       "Name": "Club Star",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 174
     },
     {
       "ID": "Combine",
@@ -817,7 +822,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -921,15 +926,15 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "Thats_gotta_hurt",
       "SetID": "gl7plp",
       "Name": "That\u0027s gotta hurt",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 261
+      "UsersEstimate": 254
     },
     {
       "ID": "The Traveler",
@@ -969,7 +974,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1040,7 +1045,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 726,
+      "Progressed": 727,
       "Completed": 0
     }
   ],
@@ -1048,8 +1053,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:04:51.7559429+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:05:35.4520448+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:59:22.1795529+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:04:51.7559696+00:00"
+  "LastUpdate_Ratings": "2023-11-26T00:00:12.6990591+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:05:35.4520766+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2362,9 +2362,9 @@
       "ID": "ACH_ELEVATOR_FIXED",
       "SetID": "7k95e4n",
       "Name": "Fine, I\u0027ll do it myself",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 491
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -2458,9 +2458,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-06T04:59:47.279974+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:03:45.5252092+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:04:17.0884659+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.9610757+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:59:36.9041732+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:03:45.5252313+00:00"
+  "LastUpdate_Ratings": "2023-11-26T00:00:30.7719233+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:04:17.0884931+00:00"
 }

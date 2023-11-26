@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -5039,9 +5039,9 @@
       "ID": "ach_speedy",
       "SetID": "8cb3id7",
       "Name": "Speedy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 281
     },
     {
       "ID": "ach_trait_overload",
@@ -5063,8 +5063,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:05:22.8202838+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:06:12.3248744+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.246748+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:59:20.9055775+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:05:22.8203582+00:00"
+  "LastUpdate_Ratings": "2023-11-26T00:00:11.0863039+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:06:12.3249436+00:00"
 }

@@ -7,22 +7,22 @@ Number of Ratings: 801  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 87.00% | ~8,462 |
-| Photogenic | 84.00% | ~8,170 |
-| Surge Gauntlet Jockey | 81.00% | ~7,878 |
-| Plug It In | 80.00% | ~7,781 |
-| Adventure Time | 76.00% | ~7,392 |
-| Playing With Power | 74.00% | ~7,197 |
+| Photogenic | 84.00% | ~8,171 |
+| Surge Gauntlet Jockey | 81.00% | ~7,879 |
+| Plug It In | 80.00% | ~7,782 |
+| Adventure Time | 76.00% | ~7,393 |
+| Playing With Power | 74.00% | ~7,198 |
 | Coup d'Etat | 56.00% | ~5,447 |
-| You're Fired | 55.00% | ~5,349 |
-| Get Furious | 54.00% | ~5,252 |
+| You're Fired | 55.00% | ~5,350 |
+| Get Furious | 54.00% | ~5,253 |
 | Hacks In Stacks | 53.00% | ~5,155 |
 | Gunplay And Cosplay | 52.00% | ~5,058 |
-| Meching Enemies | 47.00% | ~4,571 |
-| Ticket Toddler | 43.00% | ~4,182 |
+| Meching Enemies | 47.00% | ~4,572 |
+| Ticket Toddler | 43.00% | ~4,183 |
 | Booty Bashing | 37.00% | ~3,599 |
 | Field Medic | 37.00% | ~3,599 |
-| Here Comes a New Challenger | 36.00% | ~3,501 |
-| Rapid Response | 32.00% | ~3,112 |
+| Here Comes a New Challenger | 36.00% | ~3,502 |
+| Rapid Response | 32.00% | ~3,113 |
 | Surge Ahead | 29.00% | ~2,821 |
 | The Full Monty | 29.00% | ~2,821 |
 | Guardian Angel | 27.00% | ~2,626 |
@@ -31,7 +31,7 @@ Number of Ratings: 801  (23.09.2022)
 | Grey Goo | 16.00% | ~1,556 |
 | Boss of Bosses | 15.00% | ~1,459 |
 | The Final Blow | 14.00% | ~1,362 |
-| To Be Continued | 13.00% | ~1,264 |
+| To Be Continued | 13.00% | ~1,265 |
 | Light My Fire | 11.00% | ~1,070 |
 | Seasoned Adventurer | 11.00% | ~1,070 |
 | Get In The Ring! | 9.00% | ~875 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~39 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,726 (Ranked 166)  
+Progressed: 9,727 (Ranked 166)  
 Completed: 2 (0.02%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,6 +277,7 @@ Completed: 2 (0.02%) (Ranked 331)
 | 2023-11-23 | 9,705 | 1 |
 | 2023-11-24 | 9,714 | 1 |
 | 2023-11-25 | 9,726 | 2 |
+| 2023-11-26 | 9,727 | 2 |
 ## Awards
 Max (Relaxing): 64  (Ranked 411)  
 Sum: 463 (Ranked 332)  

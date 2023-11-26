@@ -12,9 +12,9 @@
 | Escape | 20.00% | ~67 |
 | Wrong | 18.00% | ~61 |
 | Jack | 15.00% | ~51 |
-| Tough | 11.00% | ~37 |
+| Tough | 12.00% | ~40 |
 | Clear | 5.00% | ~17 |
-| Unfinished | 3.00% | ~10 |
+| Unfinished | 4.00% | ~13 |
 | All endings | 2.00% | ~7 |
 | Denial | 2.00% | ~7 |
 | Help | 2.00% | ~7 |

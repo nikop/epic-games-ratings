@@ -9,7 +9,7 @@ Rating: 4.75 (Ranked 148)
 | Master of the Dark Arts | 0.60% | ~44 |
 | The Killing Jar | 0.40% | ~913 |
 | First of Many | 0.40% | ~913 |
-| Not Your Average Trait | 0.30% | ~684 |
+| Not Your Average Trait | 0.30% | ~685 |
 | Expanding Horizons | 0.20% | ~456 |
 | Am I Seeing This? | 0.20% | ~456 |
 | Gleaming the Cube | 0.20% | ~456 |
@@ -22,6 +22,7 @@ Rating: 4.75 (Ranked 148)
 | Was This Supposed To Happen? | 0.20% | ~456 |
 | Boss'n Up | 0.20% | ~456 |
 | Almost There | 0.20% | ~456 |
+| Make Some Room | 0.20% | ~456 |
 | Good, But Could Be Better! | 0.20% | ~456 |
 | Trait Chaser | 0.20% | ~456 |
 | Crafty | 0.10% | ~228 |
@@ -53,7 +54,6 @@ Rating: 4.75 (Ranked 148)
 | Proving Grounds | 0.10% | ~228 |
 | Carnage in C-Minor | 0.10% | ~228 |
 | The Ultimate Weapon | 0.10% | ~228 |
-| Make Some Room | 0.10% | ~228 |
 | No One Should Have All That Power | 0.10% | ~228 |
 | Maxed Out! | 0.10% | ~228 |
 | Transmutate | 0.10% | ~228 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,152 (Ranked 68)  
+Progressed: 228,169 (Ranked 68)  
 Completed: 528 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 528 (0.23%) (Ranked 248)
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
+| 2023-11-26 | 228,169 | 528 |
 ## Awards
 Max (Great Boss Battles): 2,436  (Ranked 105)  
 Sum: 5,922 (Ranked 129)  

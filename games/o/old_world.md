@@ -179,6 +179,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.30% | ~46 |
 | A Good Start | 0.30% | ~46 |
 | Tell the Spartans | 0.30% | ~46 |
+| Medo-Babylonian Conquest | 0.30% | ~46 |
 | Apadana in Parsa | 0.30% | ~46 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
@@ -196,7 +197,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 0.20% | ~31 |
 | Learn By Playing 1 - Able | 0.20% | ~31 |
 | Macedonian Wars | 0.20% | ~31 |
-| Medo-Babylonian Conquest | 0.20% | ~31 |
 | Punic Wars | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
 | Word of God | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,489 (Ranked 152)  
+Progressed: 15,490 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -569,6 +569,7 @@ Completed: 5 (0.03%) (Ranked 324)
 | 2023-11-23 | 15,453 | 5 |
 | 2023-11-24 | 15,467 | 5 |
 | 2023-11-25 | 15,489 | 5 |
+| 2023-11-26 | 15,490 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,875 (Ranked 218)  

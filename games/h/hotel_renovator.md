@@ -9,14 +9,14 @@ Rating: 4.38 (Ranked 765)
 | And so it begins | 73.00% | ~833 |
 | No pressure | 70.00% | ~799 |
 | Memento | 62.00% | ~707 |
-| Let there be light | 59.00% | ~673 |
+| Let there be light | 60.00% | ~685 |
 | I think you dropped this | 55.00% | ~628 |
 | Soulmate? | 54.00% | ~616 |
 | Excellent service | 49.00% | ~559 |
 | Roll with it | 47.00% | ~536 |
 | Humble beginnings | 45.00% | ~513 |
 | Love is in the air | 44.00% | ~502 |
-| Fine, I'll do it myself | 42.00% | ~479 |
+| Fine, I'll do it myself | 43.00% | ~491 |
 | Moving up | 42.00% | ~479 |
 | No need to call anyone | 40.00% | ~456 |
 | Big fortune | 33.00% | ~377 |

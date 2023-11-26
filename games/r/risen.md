@@ -5,22 +5,22 @@ Rating: 4.57 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 94.00% | ~47 |
-| Map reader | 78.00% | ~39 |
-| Philanthropist | 72.00% | ~36 |
-| Adventurer | 70.00% | ~35 |
-| The brave little tailor | 52.00% | ~26 |
-| Archer | 52.00% | ~26 |
-| Field hand | 50.00% | ~25 |
-| Samaritan | 50.00% | ~25 |
-| The merciful one | 44.00% | ~22 |
-| Well-to-do | 44.00% | ~22 |
-| Ladies' man | 42.00% | ~21 |
-| Ferocious wild boars | 32.00% | ~16 |
-| Wise man | 28.00% | ~14 |
-| Idiot | 28.00% | ~14 |
-| Family man | 26.00% | ~13 |
-| Beast slayer | 26.00% | ~13 |
+| Beginner | 92.00% | ~47 |
+| Map reader | 76.00% | ~39 |
+| Philanthropist | 71.00% | ~36 |
+| Adventurer | 69.00% | ~35 |
+| The brave little tailor | 51.00% | ~26 |
+| Archer | 51.00% | ~26 |
+| Field hand | 49.00% | ~25 |
+| Samaritan | 49.00% | ~25 |
+| The merciful one | 43.00% | ~22 |
+| Well-to-do | 43.00% | ~22 |
+| Ladies' man | 41.00% | ~21 |
+| Ferocious wild boars | 31.00% | ~16 |
+| Wise man | 27.00% | ~14 |
+| Idiot | 27.00% | ~14 |
+| Family man | 25.00% | ~13 |
+| Beast slayer | 25.00% | ~13 |
 | Ogre friend | 24.00% | ~12 |
 | Hard worker | 24.00% | ~12 |
 | The fourth triplet | 24.00% | ~12 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 473)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 496)  
+Progressed: 51 (Ranked 494)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 48 | 0 |
 | 2023-11-23 | 49 | 0 |
 | 2023-11-24 | 50 | 0 |
+| 2023-11-26 | 51 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

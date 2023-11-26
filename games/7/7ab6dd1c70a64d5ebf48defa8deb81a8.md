@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 11.00% | ~24 |
-| Find Allies | 9.00% | ~19 |
-| Adventurer | 8.00% | ~17 |
-| Scholar | 8.00% | ~17 |
-| I Found It | 8.00% | ~17 |
+| Find Allies | 9.00% | ~20 |
+| Adventurer | 8.00% | ~18 |
+| Scholar | 8.00% | ~18 |
+| I Found It | 8.00% | ~18 |
 | Break Out | 7.00% | ~15 |
 | Powerful Allies | 7.00% | ~15 |
 | A Taste of Wrath | 7.00% | ~15 |
@@ -19,14 +19,14 @@
 | Tributes of Caladrias | 6.00% | ~13 |
 | Big Bazar | 6.00% | ~13 |
 | Calm before the Storm | 5.00% | ~11 |
+| Shatter Them All | 5.00% | ~11 |
 | Essence Blow | 4.00% | ~9 |
-| Shatter Them All | 4.00% | ~9 |
 | Fine Feathers Make Fine Birds | 4.00% | ~9 |
 | Alchemist | 4.00% | ~9 |
-| To Battle | 3.00% | ~6 |
-| Godslayer | 3.00% | ~6 |
-| The Mentor | 3.00% | ~6 |
-| Airborne | 3.00% | ~6 |
+| To Battle | 3.00% | ~7 |
+| Godslayer | 3.00% | ~7 |
+| The Mentor | 3.00% | ~7 |
+| Airborne | 3.00% | ~7 |
 | Clear Sight | 2.00% | ~4 |
 | Shatterer | 2.00% | ~4 |
 | A Queen's Tale | 2.00% | ~4 |
@@ -41,8 +41,8 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 384)  
-Completed: 2 (0.93%) (Ranked 169)  
+Progressed: 219 (Ranked 383)  
+Completed: 2 (0.91%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,3 +88,4 @@ Completed: 2 (0.93%) (Ranked 169)
 | 2023-11-23 | 204 | 2 |
 | 2023-11-24 | 213 | 2 |
 | 2023-11-25 | 216 | 2 |
+| 2023-11-26 | 219 | 2 |

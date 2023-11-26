@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1143,9 +1143,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 67494,
+  "EOS_Progressed": 67496,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10443,6 +10443,11 @@
       "Time": "2023-11-25T23:03:21.0757999+00:00",
       "NumProgressed": 67494,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-26T00:03:48.0856061+00:00",
+      "NumProgressed": 67496,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10455,7 +10460,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23623
+      "UsersEstimate": 23624
     },
     {
       "ID": "10",
@@ -10535,7 +10540,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6749
+      "UsersEstimate": 6750
     },
     {
       "ID": "5",
@@ -10582,7 +10587,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67494,
+      "Progressed": 67496,
       "Completed": 36
     }
   ],
@@ -10590,8 +10595,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-25T19:59:37.0365986+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:03:21.0757994+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:03:48.0856056+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:59:43.4367678+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:03:21.0758609+00:00"
+  "LastUpdate_Ratings": "2023-11-26T00:00:39.5773997+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:03:48.0856556+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 591)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,841 |
-| Advancement | 7.00% | ~2,210 |
-| Meticulously Efficient | 7.00% | ~2,210 |
+| Stylish | 9.00% | ~2,842 |
+| Advancement | 7.00% | ~2,211 |
+| Meticulously Efficient | 7.00% | ~2,211 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,579 |
 | Discovery | 5.00% | ~1,579 |
 | Solo Capture | 5.00% | ~1,579 |
@@ -27,18 +27,18 @@ Rating: 4.50 (Ranked 591)
 | Right back at ya | 3.00% | ~947 |
 | Side Hustle | 3.00% | ~947 |
 | Summoner | 3.00% | ~947 |
-| Back Off | 2.00% | ~631 |
-| We have the best insurance | 2.00% | ~631 |
-| Collector | 2.00% | ~631 |
-| Escape Artist | 2.00% | ~631 |
-| Legions | 2.00% | ~631 |
-| Pesky Jerks | 2.00% | ~631 |
-| Rift Destroyer | 2.00% | ~631 |
-| Seasoned | 2.00% | ~631 |
-| Skilled | 2.00% | ~631 |
-| Stunner | 2.00% | ~631 |
-| Tobin's Prodigy | 2.00% | ~631 |
-| Welcome to the Crew | 2.00% | ~631 |
+| Back Off | 2.00% | ~632 |
+| We have the best insurance | 2.00% | ~632 |
+| Collector | 2.00% | ~632 |
+| Escape Artist | 2.00% | ~632 |
+| Legions | 2.00% | ~632 |
+| Pesky Jerks | 2.00% | ~632 |
+| Rift Destroyer | 2.00% | ~632 |
+| Seasoned | 2.00% | ~632 |
+| Skilled | 2.00% | ~632 |
+| Stunner | 2.00% | ~632 |
+| Tobin's Prodigy | 2.00% | ~632 |
+| Welcome to the Crew | 2.00% | ~632 |
 | Diabolical | 1.00% | ~316 |
 | Liability | 1.00% | ~316 |
 | Reckless | 1.00% | ~316 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 591)
 | Mycophile | 0.10% | ~32 |
 | Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,571 (Ranked 124)  
+Progressed: 31,579 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,6 +277,7 @@ Completed: 69 (0.22%) (Ranked 251)
 | 2023-11-23 | 31,445 | 68 |
 | 2023-11-24 | 31,499 | 68 |
 | 2023-11-25 | 31,571 | 69 |
+| 2023-11-26 | 31,579 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 249)  
 Sum: 2,846 (Ranked 179)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6536,
+  "EOS_Progressed": 6538,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 987,
+  "EOS_NewPlayers": 985,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4484,6 +4484,11 @@
       "Time": "2023-11-25T23:08:50.8752975+00:00",
       "NumProgressed": 6536,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T00:09:19.3968645+00:00",
+      "NumProgressed": 6538,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4504,7 +4509,7 @@
       "Name": "Baby Steps",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "BeLikeWater",
@@ -4760,14 +4765,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6536,
+      "Progressed": 6538,
       "Completed": 7
     }
   ],
@@ -4775,8 +4780,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-24T22:00:19.133349+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:08:50.875297+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:09:19.3968642+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:57:15.9122741+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:08:50.8753315+00:00"
+  "LastUpdate_Ratings": "2023-11-25T23:57:31.7830314+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:09:19.3968959+00:00"
 }

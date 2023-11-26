@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,597 |
-| Tutti Eroi! | 50.00% | ~4,507 |
-| Peak Performance | 47.00% | ~4,237 |
-| Avanti Savoia! | 44.00% | ~3,966 |
+| You Shall Not Pass | 51.00% | ~4,598 |
+| Tutti Eroi! | 50.00% | ~4,508 |
+| Peak Performance | 47.00% | ~4,238 |
+| Avanti Savoia! | 44.00% | ~3,967 |
 | Mamma Mia! | 34.00% | ~3,065 |
-| Conrad von Hotzensocks | 32.00% | ~2,884 |
-| Gabriele D'Annunzio | 31.00% | ~2,794 |
+| Conrad von Hotzensocks | 32.00% | ~2,885 |
+| Gabriele D'Annunzio | 31.00% | ~2,795 |
 | Silver Lining | 27.00% | ~2,434 |
 | Aurelio Baruzzi | 21.00% | ~1,893 |
 | Decimation | 20.00% | ~1,803 |
@@ -20,7 +20,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,713 |
 | Veni Vidi Vici | 19.00% | ~1,713 |
 | Insubordination | 18.00% | ~1,623 |
-| Ragazzi del '99 | 17.00% | ~1,532 |
+| Ragazzi del '99 | 17.00% | ~1,533 |
 | Luigi Cadorna | 15.00% | ~1,352 |
 | The Lion of the Isonzo | 14.00% | ~1,262 |
 | Uomo Universale | 13.00% | ~1,172 |
@@ -29,7 +29,7 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 11.00% | ~992 |
 | Machiavelli | 11.00% | ~992 |
 | Thus With A Kiss | 11.00% | ~992 |
-| The Devil's Paintbrush | 10.00% | ~901 |
+| The Devil's Paintbrush | 10.00% | ~902 |
 | Dante's Inferno | 9.00% | ~811 |
 | I Have the High Ground | 9.00% | ~811 |
 | Millenial | 9.00% | ~811 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~36 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,014 (Ranked 169)  
+Progressed: 9,016 (Ranked 169)  
 Completed: 9 (0.10%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,6 +266,7 @@ Completed: 9 (0.10%) (Ranked 284)
 | 2023-11-23 | 8,926 | 9 |
 | 2023-11-24 | 8,970 | 9 |
 | 2023-11-25 | 9,014 | 9 |
+| 2023-11-26 | 9,016 | 9 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 461)  
 Sum: 286 (Ranked 370)  

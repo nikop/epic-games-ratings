@@ -2,10 +2,10 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -428,9 +428,9 @@
       "ID": "Flattery",
       "SetID": "2621k8c",
       "Name": "Flattery",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Foodie",
@@ -980,9 +980,9 @@
       "ID": "Unfeeling",
       "SetID": "2621k8c",
       "Name": "Unfeeling",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Unreasonable",
@@ -1012,9 +1012,9 @@
       "ID": "WHTEM",
       "SetID": "2621k8c",
       "Name": "Work hard to earn money",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "YM",
@@ -1035,8 +1035,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:09:13.0147437+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:09:45.2857394+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.1854671+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:59:23.5528197+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:09:13.0148207+00:00"
+  "LastUpdate_Ratings": "2023-11-26T00:00:14.129771+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:09:45.2858191+00:00"
 }

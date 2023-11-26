@@ -4,8 +4,8 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -182,9 +182,9 @@
       "ID": "ach_picklock10",
       "SetID": "753ghg2",
       "Name": "Pizza time",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 45,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_picklock11",
@@ -246,9 +246,9 @@
       "ID": "ach_picklock18",
       "SetID": "753ghg2",
       "Name": "Clothing store",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_picklock19",
@@ -373,8 +373,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:08:51.0788645+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:09:19.6452749+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:18.3013152+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:58:10.6481108+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:08:51.0788776+00:00"
+  "LastUpdate_Ratings": "2023-11-25T23:58:42.4719234+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:09:19.6452897+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1505,9 +1505,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 16482,
+  "EOS_Progressed": 16483,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9185,6 +9185,11 @@
       "Time": "2023-11-25T19:05:27.7760057+00:00",
       "NumProgressed": 16482,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-26T00:06:14.1188574+00:00",
+      "NumProgressed": 16483,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 47,
@@ -9548,7 +9553,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -9571,13 +9576,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16482,
+      "Progressed": 16483,
       "Completed": 80
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4408,
+      "Progressed": 4409,
       "Completed": 29
     }
   ],
@@ -9585,8 +9590,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-23T22:02:44.1261785+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:05:24.3747846+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:06:14.118857+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:08.1426858+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:02:48.2854979+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:05:24.3748417+00:00"
+  "LastUpdate_Ratings": "2023-11-26T00:03:06.7300787+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:06:14.1189236+00:00"
 }

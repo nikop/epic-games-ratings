@@ -6915,9 +6915,9 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 725153,
+  "EOS_Progressed": 725180,
   "EOS_Completed": 2436,
-  "EOS_NewPlayers": 4691,
+  "EOS_NewPlayers": 4686,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32025,6 +32025,11 @@
       "Time": "2023-11-25T23:05:52.2305882+00:00",
       "NumProgressed": 725153,
       "NumCompleted": 2436
+    },
+    {
+      "Time": "2023-11-26T00:06:47.2714067+00:00",
+      "NumProgressed": 725180,
+      "NumCompleted": 2436
     }
   ],
   "TotalAchievements": 51,
@@ -32042,9 +32047,9 @@
       "ID": "ach_a_taste_of_stardom",
       "SetID": "7km39fm",
       "Name": "Making Your Mark",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5076
+      "UsersEstimate": 5801
     },
     {
       "ID": "ach_ammo_ran",
@@ -32076,7 +32081,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ach_blueprinted",
@@ -32084,7 +32089,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "ach_bookworm",
@@ -32116,7 +32121,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -32132,7 +32137,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "ach_explorer",
@@ -32196,7 +32201,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14503
+      "UsersEstimate": 14504
     },
     {
       "ID": "ach_impressive_aim",
@@ -32220,7 +32225,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -32244,7 +32249,7 @@
       "Name": "Zombologist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "ach_legendary",
@@ -32252,7 +32257,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "ach_magnum_opus",
@@ -32260,7 +32265,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ach_metropolitan",
@@ -32300,7 +32305,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ach_skilled_up",
@@ -32348,7 +32353,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -32372,15 +32377,15 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14503
+      "UsersEstimate": 14504
     },
     {
       "ID": "ach_well_known_survivor",
       "SetID": "7km39fm",
       "Name": "Rising Star",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 3626
+      "UsersEstimate": 4351
     },
     {
       "ID": "ach_well_trained",
@@ -32404,7 +32409,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "ach_gardening_tools",
@@ -32443,13 +32448,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 725153,
+      "Progressed": 725180,
       "Completed": 2436
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 50695,
+      "Progressed": 50722,
       "Completed": 36605
     }
   ],
@@ -32457,8 +32462,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-25T22:59:34.5022905+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:05:52.2305878+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:06:47.2714063+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:59:34.5022911+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:05:52.2307499+00:00"
+  "LastUpdate_Ratings": "2023-11-26T00:00:27.5769488+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:06:47.2715582+00:00"
 }

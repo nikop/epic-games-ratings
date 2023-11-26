@@ -17,16 +17,16 @@
 | Betrayed | 12.00% | ~7 |
 | Parting Gift | 12.00% | ~7 |
 | Skullector | 7.00% | ~4 |
-| Chainsplosion! | 3.00% | ~2 |
-| Stomach Ache | 3.00% | ~2 |
-| Survived to Sunrise | 3.00% | ~2 |
+| Chainsplosion! | 5.00% | ~3 |
+| Stomach Ache | 5.00% | ~3 |
+| Survived to Sunrise | 5.00% | ~3 |
 | Walking on Air | 3.00% | ~2 |
 | Coffin Kicker | 2.00% | ~1 |
+| Collateral | 2.00% | ~1 |
 | A Foot Face? | 2.00% | ~1 |
 | That Funky Puncher | 2.00% | ~1 |
 | Ms. Perfect | 2.00% | ~1 |
 | Skulltastic | 2.00% | ~1 |
-| Collateral | 0.00% | ~0 |
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 58 (Ranked 481)  

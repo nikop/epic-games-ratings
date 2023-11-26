@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,521 |
-| Hotel California | 2.00% | ~14,503 |
-| Welcome To Hell-A | 2.00% | ~14,503 |
+| Whatever It Takes | 3.00% | ~1,522 |
+| Hotel California | 2.00% | ~14,504 |
+| Welcome To Hell-A | 2.00% | ~14,504 |
 | One of Us | 2.00% | ~1,014 |
 | Pork Chopped | 2.00% | ~1,014 |
 | Dr. Reed, I Presume? | 1.00% | ~7,252 |
@@ -26,30 +26,30 @@ Rating: 4.54 (Ranked 527)
 | Stacking the Deck | 1.00% | ~7,252 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,252 |
 | This is My Weapon | 1.00% | ~7,252 |
-| Perks of the Job | 0.90% | ~6,526 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,526 |
-| Slayer Squad | 0.90% | ~6,526 |
-| Zombologist | 0.90% | ~6,526 |
-| Ooh, Shiny! | 0.90% | ~6,526 |
-| Our True Nature | 0.90% | ~6,526 |
+| Perks of the Job | 0.90% | ~6,527 |
+| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,527 |
+| Slayer Squad | 0.90% | ~6,527 |
+| Zombologist | 0.90% | ~6,527 |
+| Ooh, Shiny! | 0.90% | ~6,527 |
+| Our True Nature | 0.90% | ~6,527 |
+| Making Your Mark | 0.80% | ~5,801 |
 | I Am the Resurrection | 0.80% | ~5,801 |
 | Max Headroom | 0.80% | ~5,801 |
-| Making Your Mark | 0.70% | ~5,076 |
 | Humanity Distilled | 0.70% | ~5,076 |
 | Down with the Sickness | 0.70% | ~5,076 |
 | Not Even My Final Form | 0.60% | ~4,351 |
+| Rising Star | 0.60% | ~4,351 |
 | Internet Famous | 0.50% | ~3,626 |
 | Jumbo Keyring | 0.50% | ~3,626 |
 | Go, Bobcats! | 0.50% | ~3,626 |
-| Rising Star | 0.50% | ~3,626 |
 | Make it So | 0.40% | ~2,901 |
 | On Safari | 0.40% | ~2,901 |
 | Smorgasbord | 0.40% | ~2,901 |
 | Variety is the Spice of Death | 0.40% | ~2,901 |
-| LA Influential | 0.30% | ~2,175 |
-| Sole Survivor | 0.30% | ~2,175 |
-| Gore Horse | 0.30% | ~2,175 |
-| Sharpest Tool in the Box | 0.30% | ~2,175 |
+| LA Influential | 0.30% | ~2,176 |
+| Sole Survivor | 0.30% | ~2,176 |
+| Gore Horse | 0.30% | ~2,176 |
+| Sharpest Tool in the Box | 0.30% | ~2,176 |
 | Top That, Tisha! | 0.30% | ~152 |
 | Survival Skills | 0.20% | ~1,450 |
 | Lawn and Order | 0.20% | ~101 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~725 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,153 (Ranked 21)  
+Progressed: 725,180 (Ranked 21)  
 Completed: 2,436 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,6 +277,7 @@ Completed: 2,436 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
+| 2023-11-26 | 725,180 | 2,436 |
 ## Awards
 Max (Great Boss Battles): 7,712  (Ranked 50)  
 Sum: 11,802 (Ranked 83)  

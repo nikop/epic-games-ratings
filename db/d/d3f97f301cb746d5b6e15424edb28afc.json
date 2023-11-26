@@ -2,13 +2,13 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -49,7 +49,7 @@
   "Tags": [],
   "EOS_Progressed": 1081,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2622,9 +2622,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 995
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -2734,9 +2734,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 951
+      "UsersEstimate": 962
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -2766,9 +2766,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 995
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -2790,9 +2790,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 886
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -2942,9 +2942,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 930
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -2998,9 +2998,9 @@
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 4",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 216
     },
     {
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
@@ -3239,8 +3239,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-25T09:58:05.7161965+00:00",
-  "LastChanged_Achievements": "2023-11-25T23:06:41.0564249+00:00",
+  "LastChanged_Achievements": "2023-11-26T00:07:45.1304421+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-25T22:58:20.0150786+00:00",
-  "LastUpdate_Achievements": "2023-11-25T23:06:41.0565108+00:00"
+  "LastUpdate_Ratings": "2023-11-25T23:58:53.2728409+00:00",
+  "LastUpdate_Achievements": "2023-11-26T00:07:45.1305594+00:00"
 }

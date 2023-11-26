@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 86.00% | ~366 |
 | For the Horde! | 81.00% | ~344 |
 | Hammer Time, Round Two | 79.00% | ~336 |
-| The Hellwoods | 72.00% | ~306 |
+| The Hellwoods | 73.00% | ~310 |
 | The Plains of Strothalm | 69.00% | ~293 |
 | Experienced Thalya | 68.00% | ~289 |
 | Thalya's Concentrated Fury | 66.00% | ~280 |
@@ -27,9 +27,9 @@
 | Pure Dynamite! | 39.00% | ~166 |
 | “… like son” | 38.00% | ~162 |
 | Mana Cannon | 34.00% | ~144 |
+| Shame! Shame! Shame! | 34.00% | ~144 |
 | Dungeonlord Gorgu | 33.00% | ~140 |
 | The Cathedral of Light | 33.00% | ~140 |
-| Shame! Shame! Shame! | 33.00% | ~140 |
 | Tanos' Crusade Against Thalya | 29.00% | ~123 |
 | All’s Well That Ends Evil | 25.00% | ~106 |
 | Unstoppable Horde | 24.00% | ~102 |
@@ -48,8 +48,8 @@
 | Brimstone Shaken, Not Stirred | 13.00% | ~55 |
 | My Little Torture Chamber | 12.00% | ~51 |
 | Bonus Evilness | 12.00% | ~51 |
+| Raiders of the Lost Stone | 12.00% | ~51 |
 | The Rune Sockets of Finitude (Part 1) | 12.00% | ~51 |
-| Raiders of the Lost Stone | 11.00% | ~47 |
 | Lavalumps on Ice! | 10.00% | ~42 |
 | The Rune Sockets of Finitude (Part 2) | 10.00% | ~42 |
 | Rubble and Ashes | 9.00% | ~38 |
