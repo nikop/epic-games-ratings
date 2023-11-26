@@ -4,7 +4,7 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "HH",
       "SetID": "2621k8c",
       "Name": "High Heels",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HT",
@@ -548,17 +548,17 @@
       "ID": "Impetuous",
       "SetID": "2621k8c",
       "Name": "Impetuous",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Indifferent",
       "SetID": "2621k8c",
       "Name": "Indifferent",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "JE",
@@ -1035,8 +1035,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:09:45.2857394+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:59:32.2010025+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.1854671+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:14.129771+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:09:45.2858191+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:49:02.4408268+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:59:32.2010829+00:00"
 }

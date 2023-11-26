@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7875,9 +7875,9 @@
       "Count": 425
     }
   ],
-  "EOS_Progressed": 717368,
+  "EOS_Progressed": 717376,
   "EOS_Completed": 12940,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -27315,6 +27315,11 @@
       "Time": "2023-11-26T00:03:26.1290892+00:00",
       "NumProgressed": 717368,
       "NumCompleted": 12940
+    },
+    {
+      "Time": "2023-11-26T01:52:59.0229271+00:00",
+      "NumProgressed": 717376,
+      "NumCompleted": 12940
     }
   ],
   "TotalAchievements": 60,
@@ -27414,7 +27419,7 @@
       "Name": "Scareless",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "13_LowAge",
@@ -27518,7 +27523,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "26_ShrineSpirit",
@@ -27558,7 +27563,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "31_ComboHigh",
@@ -27598,7 +27603,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -27805,21 +27810,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26669,
+      "Progressed": 26677,
       "Completed": 10753
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717368,
+      "Progressed": 717376,
       "Completed": 12940
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-25T22:00:01.3866641+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:03:26.1290877+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:52:59.0229267+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.5864979+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:58:19.1498102+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:03:26.1293006+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:47:29.7304555+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:52:59.0231501+00:00"
 }

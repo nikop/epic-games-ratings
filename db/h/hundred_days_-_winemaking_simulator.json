@@ -1069,7 +1069,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13745,
+  "EOS_Progressed": 13753,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 2,
@@ -11389,6 +11389,11 @@
       "Time": "2023-11-26T00:08:53.6746694+00:00",
       "NumProgressed": 13745,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-26T01:58:49.6287454+00:00",
+      "NumProgressed": 13753,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11401,7 +11406,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "a_10",
@@ -11433,7 +11438,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "a_16",
@@ -11449,7 +11454,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5635
+      "UsersEstimate": 5639
     },
     {
       "ID": "a_19",
@@ -11465,7 +11470,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "a_20",
@@ -11505,7 +11510,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "a_26",
@@ -11521,7 +11526,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "a_28",
@@ -11537,7 +11542,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "a_30",
@@ -11545,7 +11550,7 @@
       "Name": "King of red wines",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "a_31",
@@ -11553,7 +11558,7 @@
       "Name": "King of white wines",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "a_32",
@@ -11561,7 +11566,7 @@
       "Name": "Sales Expert",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "a_33",
@@ -11593,7 +11598,7 @@
       "Name": "Unsuitable Terroir",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "a_4",
@@ -11601,7 +11606,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "a_5",
@@ -11617,7 +11622,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "a_7",
@@ -11633,7 +11638,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "a_9",
@@ -11648,7 +11653,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13745,
+      "Progressed": 13753,
       "Completed": 12
     }
   ],
@@ -11656,8 +11661,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-24T04:02:46.9651903+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:08:53.674669+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:58:49.628745+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.5449859+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:03:03.5820314+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:08:53.6747758+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:52:41.6200935+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:58:49.6288334+00:00"
 }

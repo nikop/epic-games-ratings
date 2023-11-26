@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3000,
+  "EOS_Progressed": 3005,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4376,6 +4376,11 @@
       "Time": "2023-11-25T22:06:52.8477495+00:00",
       "NumProgressed": 3000,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-26T01:54:54.012057+00:00",
+      "NumProgressed": 3005,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4395,7 +4400,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "FALLEN_TREE",
@@ -4411,7 +4416,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "MOVE_ON",
@@ -4451,7 +4456,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4459,7 +4464,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "THE_END",
@@ -4473,9 +4478,9 @@
       "ID": "TRANSMISSION",
       "SetID": "1a29mp6",
       "Name": "Transmission",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 300
+      "UsersEstimate": 270
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4483,14 +4488,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3000,
+      "Progressed": 3005,
       "Completed": 6
     }
   ],
@@ -4498,8 +4503,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:05:44.7219935+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:54:54.0120567+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:11.4172753+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:58:00.4013699+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:05:44.7220234+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:47:15.0554063+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:54:54.0120907+00:00"
 }

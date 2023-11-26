@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1421,
+  "EOS_Progressed": 1422,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -4209,6 +4209,11 @@
       "Time": "2023-11-25T23:09:12.8470218+00:00",
       "NumProgressed": 1421,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T01:59:32.3242616+00:00",
+      "NumProgressed": 1422,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4253,7 +4258,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_14",
@@ -4445,7 +4450,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "achievement_36",
@@ -4461,7 +4466,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achievement_38",
@@ -4493,7 +4498,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "achievement_41",
@@ -4724,13 +4729,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1421,
+      "Progressed": 1422,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1421,
+      "Progressed": 1422,
       "Completed": 1
     }
   ],
@@ -4738,8 +4743,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:09:45.3161445+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:59:32.324261+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:06.2199576+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:09:45.3162012+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:48:55.3974321+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:59:32.3243307+00:00"
 }

@@ -5,75 +5,75 @@ Rating: 4.78 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hunting Season | 95.00% | ~211,432 |
-| Nightmare Territory | 93.00% | ~206,981 |
-| Not the Last | 84.00% | ~186,950 |
-| Somebody's Home | 77.00% | ~171,371 |
-| Coffee Thermos | 73.00% | ~162,469 |
-| Secret Stashes | 73.00% | ~162,469 |
-| Grew Bigger | 71.00% | ~158,018 |
-| Chased the Source | 71.00% | ~158,018 |
-| Darkness Coiled | 71.00% | ~158,018 |
-| Felt Good | 70.00% | ~155,792 |
-| Lawman | 68.00% | ~151,341 |
-| Into the Overlap | 68.00% | ~151,341 |
-| Bring It | 66.00% | ~146,890 |
-| Talk Show | 62.00% | ~137,987 |
-| Find the Light | 60.00% | ~133,536 |
-| Aimed Ahead | 60.00% | ~133,536 |
-| Carry his Words | 57.00% | ~126,859 |
-| Storm Cloud | 51.00% | ~113,506 |
-| New York City | 51.00% | ~113,506 |
-| Return | 50.00% | ~111,280 |
-| The Other Side | 50.00% | ~111,280 |
-| Growing Stronger | 46.00% | ~102,378 |
-| Shining in the Night | 46.00% | ~102,378 |
-| Filling the Shape | 44.00% | ~97,926 |
-| This is the Moment | 43.00% | ~95,701 |
-| Finding a Way | 43.00% | ~95,701 |
-| Greatest Hits | 42.00% | ~93,475 |
-| Lights Shining | 41.00% | ~91,250 |
-| Stop the Monster | 41.00% | ~91,250 |
-| Bright Falls' Finest | 40.00% | ~89,024 |
-| Back in Watery | 40.00% | ~89,024 |
-| All His Life | 40.00% | ~89,024 |
-| Yippee Ki-yay | 39.00% | ~86,798 |
-| Escape its Gravity | 38.00% | ~84,573 |
-| We Watch in the Night | 37.00% | ~82,347 |
-| In a Fancy Hotel | 34.00% | ~75,670 |
-| In One Go | 34.00% | ~75,670 |
-| Girl in Love | 31.00% | ~68,994 |
-| The Old Gods | 31.00% | ~68,994 |
-| Told and Retold | 31.00% | ~68,994 |
-| Cut Short | 31.00% | ~68,994 |
-| Strange Reality | 29.00% | ~64,542 |
-| Stunning Vistas | 29.00% | ~64,542 |
-| Behind the Masks | 29.00% | ~64,542 |
-| Seeing Double | 28.00% | ~62,317 |
-| The Cult of the Word | 27.00% | ~60,091 |
-| Stop Right There | 26.00% | ~57,866 |
-| Ready for a Fight | 25.00% | ~55,640 |
-| Filled with Rage | 24.00% | ~53,414 |
-| The Story Come True | 24.00% | ~53,414 |
-| Rock n' Roll, Baby | 24.00% | ~53,414 |
-| The Final Deerfest | 24.00% | ~53,414 |
-| End of the Road | 24.00% | ~53,414 |
-| His Way Out | 24.00% | ~53,414 |
-| Gone for Good | 23.00% | ~51,189 |
-| All Accounted For | 19.00% | ~42,286 |
-| Back to Life | 17.00% | ~37,835 |
-| The Trail of the Writer | 16.00% | ~35,610 |
-| The Koskela Brothers | 15.00% | ~33,384 |
-| All Smiles | 11.00% | ~24,482 |
-| The Nice Things in Life | 9.00% | ~20,030 |
-| I'll Find You | 7.00% | ~15,579 |
-| Shift in Reality | 7.00% | ~15,579 |
-| Coffee-Themed Fun | 7.00% | ~15,579 |
-| Hidden by the Trees | 6.00% | ~13,354 |
-| Rustic Charm | 6.00% | ~13,354 |
+| Hunting Season | 95.00% | ~211,744 |
+| Nightmare Territory | 93.00% | ~207,286 |
+| Not the Last | 84.00% | ~187,226 |
+| Somebody's Home | 77.00% | ~171,624 |
+| Coffee Thermos | 73.00% | ~162,708 |
+| Secret Stashes | 73.00% | ~162,708 |
+| Grew Bigger | 71.00% | ~158,250 |
+| Chased the Source | 71.00% | ~158,250 |
+| Darkness Coiled | 71.00% | ~158,250 |
+| Felt Good | 70.00% | ~156,022 |
+| Lawman | 68.00% | ~151,564 |
+| Into the Overlap | 68.00% | ~151,564 |
+| Bring It | 66.00% | ~147,106 |
+| Talk Show | 62.00% | ~138,191 |
+| Find the Light | 60.00% | ~133,733 |
+| Aimed Ahead | 60.00% | ~133,733 |
+| Carry his Words | 57.00% | ~127,046 |
+| Storm Cloud | 51.00% | ~113,673 |
+| New York City | 51.00% | ~113,673 |
+| Return | 50.00% | ~111,444 |
+| The Other Side | 50.00% | ~111,444 |
+| Growing Stronger | 46.00% | ~102,528 |
+| Shining in the Night | 46.00% | ~102,528 |
+| Filling the Shape | 44.00% | ~98,071 |
+| This is the Moment | 43.00% | ~95,842 |
+| Finding a Way | 43.00% | ~95,842 |
+| Greatest Hits | 42.00% | ~93,613 |
+| Lights Shining | 41.00% | ~91,384 |
+| Stop the Monster | 41.00% | ~91,384 |
+| Bright Falls' Finest | 40.00% | ~89,155 |
+| Back in Watery | 40.00% | ~89,155 |
+| All His Life | 40.00% | ~89,155 |
+| Yippee Ki-yay | 39.00% | ~86,926 |
+| Escape its Gravity | 38.00% | ~84,697 |
+| We Watch in the Night | 37.00% | ~82,469 |
+| In a Fancy Hotel | 34.00% | ~75,782 |
+| In One Go | 34.00% | ~75,782 |
+| Girl in Love | 31.00% | ~69,095 |
+| The Old Gods | 31.00% | ~69,095 |
+| Told and Retold | 31.00% | ~69,095 |
+| Cut Short | 31.00% | ~69,095 |
+| Strange Reality | 29.00% | ~64,638 |
+| Stunning Vistas | 29.00% | ~64,638 |
+| Behind the Masks | 29.00% | ~64,638 |
+| Seeing Double | 28.00% | ~62,409 |
+| The Cult of the Word | 27.00% | ~60,180 |
+| Stop Right There | 26.00% | ~57,951 |
+| Ready for a Fight | 25.00% | ~55,722 |
+| Filled with Rage | 24.00% | ~53,493 |
+| The Story Come True | 24.00% | ~53,493 |
+| Rock n' Roll, Baby | 24.00% | ~53,493 |
+| The Final Deerfest | 24.00% | ~53,493 |
+| End of the Road | 24.00% | ~53,493 |
+| His Way Out | 24.00% | ~53,493 |
+| Gone for Good | 23.00% | ~51,264 |
+| All Accounted For | 19.00% | ~42,349 |
+| The Trail of the Writer | 17.00% | ~37,891 |
+| Back to Life | 17.00% | ~37,891 |
+| The Koskela Brothers | 15.00% | ~33,433 |
+| All Smiles | 11.00% | ~24,518 |
+| The Nice Things in Life | 9.00% | ~20,060 |
+| I'll Find You | 7.00% | ~15,602 |
+| Shift in Reality | 7.00% | ~15,602 |
+| Coffee-Themed Fun | 7.00% | ~15,602 |
+| Hidden by the Trees | 6.00% | ~13,373 |
+| Rustic Charm | 6.00% | ~13,373 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,560 (Ranked 70)  
-Completed: 2,780 (1.25%) (Ranked 151)  
+Progressed: 222,888 (Ranked 70)  
+Completed: 2,788 (1.25%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,11 +116,11 @@ Completed: 2,780 (1.25%) (Ranked 151)
 | 2023-11-23 | 212,804 | 2,643 |
 | 2023-11-24 | 217,337 | 2,690 |
 | 2023-11-25 | 222,341 | 2,775 |
-| 2023-11-26 | 222,560 | 2,780 |
+| 2023-11-26 | 222,888 | 2,788 |
 ## Awards
-Max (Diverse Characters): 343  (Ranked 242)  
+Max (Diverse Characters): 343  (Ranked 243)  
 Sum: 2,079 (Ranked 212)  
-Diff (max vs sum): 30  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 343 |

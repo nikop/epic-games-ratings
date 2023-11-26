@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 45.00% | ~1,025 |
-| First Love | 43.00% | ~979 |
+| First Love | 43.00% | ~980 |
 | Clean Race | 41.00% | ~934 |
 | Hear That Roar! | 39.00% | ~888 |
 | Rivals to the End | 28.00% | ~638 |
 | Bitter Rivalry | 27.00% | ~615 |
-| Champagne Spray | 25.00% | ~569 |
-| We're Going to Need a Bigger Garage | 24.00% | ~546 |
-| Legendary!!! | 20.00% | ~455 |
+| Champagne Spray | 25.00% | ~570 |
+| We're Going to Need a Bigger Garage | 24.00% | ~547 |
+| Legendary!!! | 20.00% | ~456 |
 | Restored and Ready | 19.00% | ~433 |
 | I Want One Too! | 19.00% | ~433 |
 | Quick Pit Stop | 19.00% | ~433 |
 | Go-Faster Stripes | 18.00% | ~410 |
 | I'm Here Too! | 16.00% | ~364 |
-| We've Just Begun | 11.00% | ~250 |
+| We've Just Begun | 11.00% | ~251 |
 | Stamina Star | 8.00% | ~182 |
 | Is It the Right Size? | 8.00% | ~182 |
 | Evangelist | 6.00% | ~137 |
@@ -38,8 +38,8 @@
 | I'll Be the Best! | 1.00% | ~23 |
 | Next Level | 1.00% | ~23 |
 | I Don't Stop | 1.00% | ~23 |
+| In Search of Perfection | 0.70% | ~16 |
 | Exhausted but Happy | 0.60% | ~14 |
-| In Search of Perfection | 0.60% | ~14 |
 | Globe-trotter | 0.50% | ~11 |
 | Maximum Endurance | 0.30% | ~7 |
 | All My Own Toys | 0.20% | ~5 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,277 (Ranked 220)  
+Progressed: 2,278 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,4 +140,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 2,237 | 0 |
 | 2023-11-24 | 2,262 | 0 |
 | 2023-11-25 | 2,275 | 0 |
-| 2023-11-26 | 2,277 | 0 |
+| 2023-11-26 | 2,278 | 0 |

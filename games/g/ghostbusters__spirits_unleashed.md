@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 591)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,842 |
+| Stylish | 9.00% | ~2,843 |
 | Advancement | 7.00% | ~2,211 |
 | Meticulously Efficient | 7.00% | ~2,211 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,579 |
@@ -19,14 +19,14 @@ Rating: 4.50 (Ranked 591)
 | There you are! | 4.00% | ~1,263 |
 | Vaporous Expansion | 4.00% | ~1,263 |
 | Whoopsie | 4.00% | ~1,263 |
-| Animated | 3.00% | ~947 |
-| Daily Dose | 3.00% | ~947 |
-| Ectoplasmic Entity | 3.00% | ~947 |
-| Ghostbuster In Training | 3.00% | ~947 |
-| Icing on the Cake | 3.00% | ~947 |
-| Right back at ya | 3.00% | ~947 |
-| Side Hustle | 3.00% | ~947 |
-| Summoner | 3.00% | ~947 |
+| Animated | 3.00% | ~948 |
+| Daily Dose | 3.00% | ~948 |
+| Ectoplasmic Entity | 3.00% | ~948 |
+| Ghostbuster In Training | 3.00% | ~948 |
+| Icing on the Cake | 3.00% | ~948 |
+| Right back at ya | 3.00% | ~948 |
+| Side Hustle | 3.00% | ~948 |
+| Summoner | 3.00% | ~948 |
 | Back Off | 2.00% | ~632 |
 | We have the best insurance | 2.00% | ~632 |
 | Collector | 2.00% | ~632 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 591)
 | Mycophile | 0.10% | ~32 |
 | Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,579 (Ranked 124)  
-Completed: 69 (0.22%) (Ranked 251)  
+Progressed: 31,584 (Ranked 124)  
+Completed: 69 (0.22%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -277,7 +277,7 @@ Completed: 69 (0.22%) (Ranked 251)
 | 2023-11-23 | 31,445 | 68 |
 | 2023-11-24 | 31,499 | 68 |
 | 2023-11-25 | 31,571 | 69 |
-| 2023-11-26 | 31,579 | 69 |
+| 2023-11-26 | 31,584 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 249)  
 Sum: 2,846 (Ranked 179)  

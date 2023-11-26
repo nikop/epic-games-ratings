@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4347,
+  "EOS_Progressed": 4349,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7690,6 +7690,11 @@
       "Time": "2023-11-26T00:03:49.0149599+00:00",
       "NumProgressed": 4347,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-26T01:53:17.5755268+00:00",
+      "NumProgressed": 4349,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7701,7 +7706,7 @@
       "Name": "Start with a bang!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "Ach002",
@@ -7715,9 +7720,9 @@
       "ID": "Ach003",
       "SetID": "12n4k20",
       "Name": "This will cost you big time",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 478
     },
     {
       "ID": "Ach004",
@@ -7877,7 +7882,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "Ach024",
@@ -7931,9 +7936,9 @@
       "ID": "Ach030",
       "SetID": "12n4k20",
       "Name": "This is a breeze!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach031",
@@ -8099,9 +8104,9 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 739
     },
     {
       "ID": "Ach052",
@@ -8189,7 +8194,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Ach063",
@@ -8268,13 +8273,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4347,
+      "Progressed": 4349,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2868,
+      "Progressed": 2870,
       "Completed": 1930
     }
   ],
@@ -8282,8 +8287,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:03:49.0149594+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:53:17.5755266+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:24.228936+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:03:49.0150396+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:49:10.1321022+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:53:17.5756165+00:00"
 }

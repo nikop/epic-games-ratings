@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -9070,18 +9070,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 15434,
       "NumberOfAwardsMax": 7423
+    },
+    {
+      "Time": "2023-11-26T01:47:37.4208763+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15439,
+      "NumberOfAwardsMax": 7428
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15434,
-  "NumberOfAwardsMax": 7423,
+  "NumberOfAwards": 15439,
+  "NumberOfAwardsMax": 7428,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7423
+      "Count": 7428
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9150,9 +9156,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66151,
+  "EOS_Progressed": 66154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32260,6 +32266,11 @@
       "Time": "2023-11-26T00:09:40.0947571+00:00",
       "NumProgressed": 66151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T01:59:27.8068981+00:00",
+      "NumProgressed": 66154,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32279,7 +32290,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10584
+      "UsersEstimate": 10585
     },
     {
       "ID": "Bannerlord",
@@ -32287,7 +32298,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15876
+      "UsersEstimate": 15877
     },
     {
       "ID": "Best served cold",
@@ -32431,7 +32442,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15876
+      "UsersEstimate": 15877
     },
     {
       "ID": "I can do it",
@@ -32439,7 +32450,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10584
+      "UsersEstimate": 10585
     },
     {
       "ID": "I spit on your grave",
@@ -32463,7 +32474,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11907
+      "UsersEstimate": 11908
     },
     {
       "ID": "Kingslayer",
@@ -32495,7 +32506,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21830
+      "UsersEstimate": 21831
     },
     {
       "ID": "Lawbringer",
@@ -32503,7 +32514,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26460
+      "UsersEstimate": 26462
     },
     {
       "ID": "Lawmaker",
@@ -32647,7 +32658,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15876
+      "UsersEstimate": 15877
     },
     {
       "ID": "Undercover",
@@ -32678,15 +32689,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66151,
+      "Progressed": 66154,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-25T22:00:07.6552345+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:09:40.0947567+00:00",
+  "LastChanged": "2023-11-26T01:47:37.4208761+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:59:27.8068979+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:58:28.620071+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:09:40.0948916+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:47:37.4208767+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:59:27.8070777+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -635,9 +635,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 234287,
+  "EOS_Progressed": 234301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1227,
+  "EOS_NewPlayers": 1229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15090,6 +15090,11 @@
       "Time": "2023-11-26T00:09:31.147775+00:00",
       "NumProgressed": 234287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T01:59:20.3091809+00:00",
+      "NumProgressed": 234301,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -15158,7 +15163,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49200
+      "UsersEstimate": 49203
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -15166,7 +15171,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21086
+      "UsersEstimate": 21087
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -15174,7 +15179,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11714
+      "UsersEstimate": 11715
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -15182,7 +15187,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9371
+      "UsersEstimate": 9372
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -15254,7 +15259,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -15270,7 +15275,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -15278,7 +15283,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -15286,7 +15291,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32800
+      "UsersEstimate": 32802
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -15294,7 +15299,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16400
+      "UsersEstimate": 16401
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -15350,7 +15355,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -15358,7 +15363,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58572
+      "UsersEstimate": 58575
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -15373,7 +15378,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 234287,
+      "Progressed": 234301,
       "Completed": 0
     }
   ],
@@ -15381,8 +15386,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-25T22:01:09.6639163+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:09:31.1477746+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:59:20.3091799+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.33261+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:00.7044573+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:09:31.1478587+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:48:51.2659315+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:59:20.3092896+00:00"
 }

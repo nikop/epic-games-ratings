@@ -6,7 +6,7 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 3.00% | ~200 |
+| Fish Just Got Reel | 4.00% | ~267 |
 | Can you smell what the Rod is Hooking | 3.00% | ~200 |
 | Hey Good Hookin | 3.00% | ~200 |
 | I'm on a Boat! | 3.00% | ~200 |
@@ -29,7 +29,6 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.20% | ~13 |
 | Aguas Claras Conquistador | 0.20% | ~12 |
 | All Good Kings Must Come to an End | 0.20% | ~12 |
-| Three Square Meals | 0.20% | ~12 |
 | Head for Heights | 0.10% | ~7 |
 | The Beetles | 0.10% | ~7 |
 | Lake Me up Before You Go Go | 0.10% | ~7 |
@@ -43,11 +42,12 @@ Number of Ratings: 281  (23.09.2022)
 | Fish upon a Star | 0.10% | ~6 |
 | Cache and Carry | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
+| Three Square Meals | 0.10% | ~6 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,666 (Ranked 182)  
+Progressed: 6,668 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,6 +267,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 6,633 | 0 |
 | 2023-11-24 | 6,648 | 0 |
 | 2023-11-25 | 6,666 | 0 |
+| 2023-11-26 | 6,668 | 0 |
 ## Awards
 Max (Relaxing): 37  (Ranked 466)  
 Sum: 197 (Ranked 400)  

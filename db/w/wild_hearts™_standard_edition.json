@@ -2,7 +2,7 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 126,
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.15,
+  "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -1523,6 +1523,11 @@
       "Time": "2023-11-25T23:03:19.0048588+00:00",
       "NumProgressed": 326,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T01:53:14.7419644+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -1535,7 +1540,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_10",
@@ -1543,7 +1548,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_11",
@@ -1567,7 +1572,7 @@
       "Name": "Karakuri Fortress",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_14",
@@ -1583,7 +1588,7 @@
       "Name": "Memory Rouser",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_16",
@@ -1607,7 +1612,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_19",
@@ -1615,7 +1620,7 @@
       "Name": "Counter Specialist",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_2",
@@ -1623,7 +1628,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "achievement_20",
@@ -1639,7 +1644,7 @@
       "Name": "Left Arm Leverager",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_22",
@@ -1647,7 +1652,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_23",
@@ -1663,7 +1668,7 @@
       "Name": "Single Minded",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_25",
@@ -1687,7 +1692,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_28",
@@ -1703,7 +1708,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_3",
@@ -1727,7 +1732,7 @@
       "Name": "Snare Specialist",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_32",
@@ -1749,9 +1754,9 @@
       "ID": "achievement_34",
       "SetID": "2cpn27e",
       "Name": "Kemono at Heart",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_35",
@@ -1759,7 +1764,7 @@
       "Name": "Unrivaled in Arms",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_36",
@@ -1839,7 +1844,7 @@
       "Name": "Artful Assister",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_45",
@@ -1855,15 +1860,15 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "achievement_47",
       "SetID": "2cpn27e",
       "Name": "Threaded Harmony",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_48",
@@ -1877,17 +1882,17 @@
       "ID": "achievement_5",
       "SetID": "2cpn27e",
       "Name": "Reincarnation Cycle Stopper",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_7",
@@ -1895,7 +1900,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_8",
@@ -1918,13 +1923,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:03:45.6193546+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:53:14.7419641+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.7646149+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:59:04.2974877+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:03:45.6193896+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:48:05.5772162+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:53:14.7420074+00:00"
 }

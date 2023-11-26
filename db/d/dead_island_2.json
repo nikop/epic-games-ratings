@@ -6915,10 +6915,10 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 725180,
-  "EOS_Completed": 2436,
-  "EOS_NewPlayers": 4686,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 725226,
+  "EOS_Completed": 2437,
+  "EOS_NewPlayers": 4700,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32030,6 +32030,11 @@
       "Time": "2023-11-26T00:06:47.2714067+00:00",
       "NumProgressed": 725180,
       "NumCompleted": 2436
+    },
+    {
+      "Time": "2023-11-26T01:55:45.7095785+00:00",
+      "NumProgressed": 725226,
+      "NumCompleted": 2437
     }
   ],
   "TotalAchievements": 51,
@@ -32049,7 +32054,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "ach_ammo_ran",
@@ -32201,7 +32206,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14504
+      "UsersEstimate": 14505
     },
     {
       "ID": "ach_impressive_aim",
@@ -32231,9 +32236,9 @@
       "ID": "ach_jumbo_keyring",
       "SetID": "7km39fm",
       "Name": "Jumbo Keyring",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 3626
+      "UsersEstimate": 4351
     },
     {
       "ID": "ach_knock_down",
@@ -32281,7 +32286,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5076
+      "UsersEstimate": 5077
     },
     {
       "ID": "ach_revival_tour",
@@ -32289,7 +32294,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "ach_salvation",
@@ -32297,7 +32302,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5076
+      "UsersEstimate": 5077
     },
     {
       "ID": "ach_secrets_of_la",
@@ -32337,7 +32342,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "ach_the_vcla",
@@ -32377,7 +32382,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14504
+      "UsersEstimate": 14505
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32401,7 +32406,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ach_dark_magic",
@@ -32409,7 +32414,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "ach_gardening_tools",
@@ -32417,7 +32422,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_pork_chops",
@@ -32425,7 +32430,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32448,13 +32453,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 725180,
-      "Completed": 2436
+      "Progressed": 725226,
+      "Completed": 2437
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 50722,
+      "Progressed": 50768,
       "Completed": 36605
     }
   ],
@@ -32462,8 +32467,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-25T22:59:34.5022905+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:06:47.2714063+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:55:45.7095782+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:27.5769488+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:06:47.2715582+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:49:13.0845346+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:55:45.7097209+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "noch-fc0c87",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -1120,8 +1120,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-16T10:03:14.4696279+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:07:39.6536616+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:57:29.1781503+00:00",
   "LastUpdate_AppInfo": "2023-11-20T13:07:59.5382726+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:11.4694413+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:07:39.653691+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:48:59.5645077+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:57:29.1781813+00:00"
 }

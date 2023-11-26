@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 470,
+  "Ranking_EOS_NewPlayers": 471,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -480,9 +480,9 @@
       "ID": "3",
       "SetID": "5e3maia",
       "Name": "Feudal lord",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "32",
@@ -552,9 +552,9 @@
       "ID": "4",
       "SetID": "5e3maia",
       "Name": "Epic Alliance",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "40",
@@ -855,8 +855,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:06:34.8754037+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:55:35.3300945+00:00",
   "LastUpdate_AppInfo": "2023-11-25T04:57:08.7514536+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:58:29.4799891+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:06:34.8754597+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:47:38.005382+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:55:35.3301413+00:00"
 }

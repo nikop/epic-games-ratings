@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,7 +601,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3930,
+  "EOS_Progressed": 3931,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -8196,6 +8196,11 @@
       "Time": "2023-11-26T00:06:00.3778465+00:00",
       "NumProgressed": 3930,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-26T01:55:06.986062+00:00",
+      "NumProgressed": 3931,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8287,7 +8292,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8351,7 +8356,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -8375,7 +8380,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8511,7 +8516,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -8519,7 +8524,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8527,7 +8532,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -8543,7 +8548,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8559,7 +8564,7 @@
       "Name": "Road Rage",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -8567,7 +8572,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -8615,7 +8620,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8774,13 +8779,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3881,
+      "Progressed": 3882,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3930,
+      "Progressed": 3931,
       "Completed": 11
     }
   ],
@@ -8788,8 +8793,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:06:00.3778461+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:55:06.9860617+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.6853838+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:01:39.0514621+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:06:00.3779672+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:50:08.6576369+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:55:06.9861382+00:00"
 }

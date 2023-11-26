@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4852,
+  "EOS_Progressed": 4853,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3306,6 +3306,11 @@
       "Time": "2023-11-25T20:06:19.4605902+00:00",
       "NumProgressed": 4852,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-26T01:56:13.6650223+00:00",
+      "NumProgressed": 4853,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3365,7 +3370,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3373,7 +3378,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4562
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3381,7 +3386,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3389,7 +3394,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3533,7 +3538,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3589,7 +3594,7 @@
       "Name": "Infidel",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3605,7 +3610,7 @@
       "Name": "I Choose You",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -3637,7 +3642,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -3852,15 +3857,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4852,
+      "Progressed": 4853,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:07:20.7038533+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:56:13.6650219+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:47.4405843+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:01:37.7657357+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:07:20.7039107+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:50:07.5548967+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:56:13.6650925+00:00"
 }

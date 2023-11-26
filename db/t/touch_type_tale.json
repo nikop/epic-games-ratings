@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3795,
+  "EOS_Progressed": 3796,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4612,6 +4612,11 @@
       "Time": "2023-11-25T12:05:27.152312+00:00",
       "NumProgressed": 3795,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-26T01:54:52.0557883+00:00",
+      "NumProgressed": 3796,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4711,7 +4716,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "campaign15",
@@ -4759,7 +4764,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "campaign20",
@@ -4775,7 +4780,7 @@
       "Name": "Economics 101",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "campaign4",
@@ -4815,7 +4820,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "campaign9",
@@ -4886,7 +4891,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3795,
+      "Progressed": 3796,
       "Completed": 11
     }
   ],
@@ -4894,8 +4899,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:05:42.3038765+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:54:52.0557879+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.5329766+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:05.9794934+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:05:42.3039063+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:48:55.1849278+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:54:52.0558446+00:00"
 }

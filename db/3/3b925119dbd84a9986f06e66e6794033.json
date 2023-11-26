@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -844,6 +844,11 @@
       "Time": "2023-11-25T21:08:46.7856525+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T01:58:58.0759085+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -856,7 +861,7 @@
       "Name": "Dodo Re Mi: Noonlight Sonata",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DODO_RE_MI_PAPER_BLADDER",
@@ -872,7 +877,7 @@
       "Name": "Dodo Re Mi: It\u0027s About Family",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
@@ -896,7 +901,7 @@
       "Name": "Hypnotorious: Self Aware",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -904,7 +909,7 @@
       "Name": "Hypnotorious: Galaxy Brain",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
@@ -918,17 +923,17 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -942,17 +947,17 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "TIME_ORWELL",
@@ -966,17 +971,17 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -998,9 +1003,9 @@
       "ID": "TKO2_DRAGONS_FAVORITE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -1015,14 +1020,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:09:03.778886+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:58:58.0759082+00:00",
   "LastUpdate_AppInfo": "2023-11-24T23:57:10.8721318+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:58:07.7967748+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:09:03.7789007+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:47:20.981341+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:58:58.0759239+00:00"
 }

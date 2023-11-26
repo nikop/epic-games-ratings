@@ -5,16 +5,16 @@ Rating: 4.87 (Ranked 22)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 18.00% | ~782 |
-| Feeling the beat! | 18.00% | ~782 |
-| You can pet the cat! | 16.00% | ~696 |
+| Start with a bang! | 18.00% | ~783 |
+| Feeling the beat! | 18.00% | ~783 |
+| You can pet the cat! | 17.00% | ~739 |
 | Cream of the Crop | 15.00% | ~652 |
 | Who put gears in there? | 15.00% | ~652 |
 | Thanks for the free chip, Peppermint! | 14.00% | ~609 |
 | You got this, Peppermint? | 14.00% | ~609 |
 | Perfect Parry | 13.00% | ~565 |
 | Alright, that felt AWESOME! | 13.00% | ~565 |
-| This will cost you big time | 12.00% | ~522 |
+| This will cost you big time | 11.00% | ~478 |
 | I play my own way! | 11.00% | ~478 |
 | Z-shielding's got nothing on us! | 11.00% | ~478 |
 | Uh, they were broken when I got here | 11.00% | ~478 |
@@ -29,7 +29,7 @@ Rating: 4.87 (Ranked 22)
 | You must like calling me in, Chai | 8.00% | ~348 |
 | Perfecter Parry-er! | 8.00% | ~348 |
 | Does that say weakpoint? | 8.00% | ~348 |
-| NOW we got a kickass hideout! | 8.00% | ~229 |
+| NOW we got a kickass hideout! | 8.00% | ~230 |
 | I have to read these things? | 7.00% | ~304 |
 | Well that was a rush! | 5.00% | ~217 |
 | Beat-hit mania | 5.00% | ~217 |
@@ -41,10 +41,10 @@ Rating: 4.87 (Ranked 22)
 | Check out my moves! | 3.00% | ~130 |
 | I think I deserve some praise, here! | 2.00% | ~87 |
 | I think I found your calling, Macaron | 2.00% | ~87 |
+| This is a breeze! | 2.00% | ~87 |
 | We're Jammin' | 2.00% | ~87 |
 | I hit things with a guitar really well. | 2.00% | ~87 |
 | Call me Turbo Chai | 2.00% | ~57 |
-| This is a breeze! | 1.00% | ~43 |
 | I'm not done with you yet | 1.00% | ~43 |
 | First we parry, then we counter | 1.00% | ~43 |
 | You ever parry a volcano? | 1.00% | ~43 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,347 (Ranked 194)  
+Progressed: 4,349 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 8 (0.18%) (Ranked 262)
 | 2023-11-23 | 4,297 | 8 |
 | 2023-11-24 | 4,316 | 8 |
 | 2023-11-25 | 4,346 | 8 |
-| 2023-11-26 | 4,347 | 8 |
+| 2023-11-26 | 4,349 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

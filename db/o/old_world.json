@@ -2028,9 +2028,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15490,
+  "EOS_Progressed": 15492,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16553,6 +16553,11 @@
       "Time": "2023-11-26T00:04:27.3119989+00:00",
       "NumProgressed": 15490,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T01:53:49.4600365+00:00",
+      "NumProgressed": 15492,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16996,7 +17001,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -17052,7 +17057,7 @@
       "Name": "Intrepid",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -17188,7 +17193,7 @@
       "Name": "Settler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -17476,7 +17481,7 @@
       "Name": "Friendly Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -18316,7 +18321,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -18898,9 +18903,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_POET_LEADER",
       "SetID": "9201eeb",
       "Name": "Poetic Leader",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -19299,21 +19304,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15490,
+      "Progressed": 15492,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15490,
+      "Progressed": 15492,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-25T13:58:59.246116+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:04:27.3119984+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:53:49.4600362+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:23.7144265+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:04:27.3128547+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:49:09.7180556+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:53:49.4609106+00:00"
 }

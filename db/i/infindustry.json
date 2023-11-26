@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.9,
+  "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -574,6 +574,11 @@
       "Time": "2023-11-25T17:05:40.6064243+00:00",
       "NumProgressed": 111,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T01:55:33.8911654+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -671,23 +676,23 @@
       "ID": "Workforce",
       "SetID": "82ojhod",
       "Name": "Workforce",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:06:33.0234374+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:55:33.891165+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:03:02.8471945+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:06:33.0234494+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:52:41.0480146+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:55:33.8911759+00:00"
 }

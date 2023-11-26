@@ -5,16 +5,16 @@ Rating: 4.46 (Ranked 648)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,847 |
-| Confirming Suspicions | 41.00% | ~1,611 |
+| Meeting Resistance | 47.00% | ~1,848 |
+| Confirming Suspicions | 41.00% | ~1,612 |
 | The Kraken Wakes | 37.00% | ~1,454 |
-| It's Starting to Crack | 34.00% | ~1,336 |
-| Change the Channel | 31.00% | ~1,218 |
+| It's Starting to Crack | 34.00% | ~1,337 |
+| Change the Channel | 31.00% | ~1,219 |
 | Lord of War | 30.00% | ~1,179 |
 | Taking it back | 29.00% | ~1,140 |
 | Resourceful | 27.00% | ~1,061 |
 | Target America | 27.00% | ~1,061 |
-| The Kraken Sleeps | 25.00% | ~982 |
+| The Kraken Sleeps | 25.00% | ~983 |
 | Liberté | 23.00% | ~904 |
 | Organ Grinder | 23.00% | ~904 |
 | As Quiet as a Mouse | 23.00% | ~904 |
@@ -39,11 +39,11 @@ Rating: 4.46 (Ranked 648)
 | Rigged to Blow | 9.00% | ~354 |
 | Herr Today, Gone Tomorrow | 7.00% | ~272 |
 | Operation Foxley | 6.00% | ~233 |
-| The Long Game | 5.00% | ~196 |
-| Tinkerer | 5.00% | ~196 |
-| It'll Buff Right Out | 5.00% | ~196 |
-| Road Rage | 5.00% | ~196 |
-| Don't hold your breath | 5.00% | ~196 |
+| The Long Game | 5.00% | ~197 |
+| Tinkerer | 5.00% | ~197 |
+| It'll Buff Right Out | 5.00% | ~197 |
+| Road Rage | 5.00% | ~197 |
+| Don't hold your breath | 5.00% | ~197 |
 | Last Resort | 5.00% | ~194 |
 | Siegebreaker | 5.00% | ~194 |
 | Ghost of Falaise | 5.00% | ~194 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 648)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,930 (Ranked 197)  
+Progressed: 3,931 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-11-23 | 3,911 | 11 |
 | 2023-11-24 | 3,920 | 11 |
 | 2023-11-25 | 3,929 | 11 |
-| 2023-11-26 | 3,930 | 11 |
+| 2023-11-26 | 3,931 | 11 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 520)  
 Sum: 25 (Ranked 528)  

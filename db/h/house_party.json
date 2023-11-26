@@ -377,7 +377,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6508,
+  "EOS_Progressed": 6509,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -6412,6 +6412,11 @@
       "Time": "2023-11-25T21:03:36.1455648+00:00",
       "NumProgressed": 6508,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-26T01:53:40.5636556+00:00",
+      "NumProgressed": 6509,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6445,9 +6450,9 @@
       "ID": "Ashley",
       "SetID": "bmkn7o4",
       "Name": "Ashley",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "BBrahrnold",
@@ -6599,7 +6604,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "GoodRiddance",
@@ -6974,21 +6979,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3547,
+      "Progressed": 3548,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6508,
+      "Progressed": 6509,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:04:16.638925+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:53:40.5636553+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:05.3490956+00:00",
   "LastUpdate_Ratings": "2023-11-26T00:01:49.2563481+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:04:16.6390095+00:00"
+  "LastUpdate_Achievements": "2023-11-26T01:53:40.563738+00:00"
 }

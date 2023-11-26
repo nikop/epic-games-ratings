@@ -11,7 +11,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic 3 & Knuckles | 71.00% | ~437 |
 | Welcome to Sonic CD | 70.00% | ~431 |
 | Welcome to Sonic the Hedgehog 2 | 70.00% | ~431 |
-| Ring Collector | 66.00% | ~407 |
+| Ring Collector | 67.00% | ~413 |
 | Time Traveler | 65.00% | ~400 |
 | Everyone's Hero | 62.00% | ~382 |
 | Easy Peasy with Shields | 59.00% | ~363 |
@@ -37,7 +37,7 @@ Number of Ratings: 154  (23.09.2022)
 | Sound Savant | 18.00% | ~111 |
 | Sonic the Hedgehog Mission Master | 16.00% | ~99 |
 | Beware Rhinobots! | 15.00% | ~92 |
-| Art Appreciator | 14.00% | ~86 |
+| Art Appreciator | 15.00% | ~92 |
 | Sonic CD Mission Master | 13.00% | ~80 |
 | S3 & K Mission Master | 13.00% | ~80 |
 | Sonic the Hedgehog 2 Mission Master | 11.00% | ~68 |

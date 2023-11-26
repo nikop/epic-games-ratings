@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1800,
+  "EOS_Progressed": 1801,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -4159,6 +4159,11 @@
       "Time": "2023-11-25T22:10:37.1512609+00:00",
       "NumProgressed": 1800,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T01:57:59.0403384+00:00",
+      "NumProgressed": 1801,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4184,9 +4189,9 @@
       "ID": "Barrel_roll",
       "SetID": "85nb4h3",
       "Name": "Do a Barrel Roll!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 18
     },
     {
       "ID": "Big_Bertha",
@@ -4216,9 +4221,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 324
     },
     {
       "ID": "Defense_Common",
@@ -4409,15 +4414,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1800,
+      "Progressed": 1801,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:08:16.4430436+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:57:59.0403381+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.5363143+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:01:15.2726591+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:08:16.4430792+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:49:50.0391817+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:57:59.0403772+00:00"
 }

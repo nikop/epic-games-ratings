@@ -1,46 +1,46 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 844)  
+Rating: 4.29 (Ranked 843)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~162,867 |
-| Copacetic Coordination | 16.00% | ~56,649 |
-| Fronting the Money | 15.00% | ~53,109 |
-| The Dawn of Automation | 14.00% | ~49,568 |
-| Extraordinary Logistics | 14.00% | ~49,568 |
-| Dirty Money | 13.00% | ~46,028 |
-| Family First | 13.00% | ~46,028 |
-| Cleaning House | 12.00% | ~42,487 |
-| Room in the Back | 12.00% | ~42,487 |
-| Beating the Heat | 11.00% | ~38,946 |
-| Booze Baron | 11.00% | ~38,946 |
-| Friends on the Force | 10.00% | ~35,406 |
-| Neighborhood Watch | 10.00% | ~35,406 |
-| Core Corps | 8.00% | ~28,325 |
-| Sizeable Stash | 8.00% | ~28,325 |
-| Street Fighter | 7.00% | ~24,784 |
-| Friendly Gestures | 7.00% | ~24,784 |
-| People Person | 7.00% | ~24,784 |
+| Corner Clout | 46.00% | ~162,873 |
+| Copacetic Coordination | 16.00% | ~56,652 |
+| Fronting the Money | 15.00% | ~53,111 |
+| The Dawn of Automation | 14.00% | ~49,570 |
+| Extraordinary Logistics | 14.00% | ~49,570 |
+| Dirty Money | 13.00% | ~46,029 |
+| Family First | 13.00% | ~46,029 |
+| Cleaning House | 12.00% | ~42,489 |
+| Room in the Back | 12.00% | ~42,489 |
+| Beating the Heat | 11.00% | ~38,948 |
+| Booze Baron | 11.00% | ~38,948 |
+| Friends on the Force | 10.00% | ~35,407 |
+| Neighborhood Watch | 10.00% | ~35,407 |
+| Core Corps | 8.00% | ~28,326 |
+| Sizeable Stash | 8.00% | ~28,326 |
+| Street Fighter | 7.00% | ~24,785 |
+| Friendly Gestures | 7.00% | ~24,785 |
+| People Person | 7.00% | ~24,785 |
 | Liquor Lord | 6.00% | ~21,244 |
 | Safety in Numbers | 6.00% | ~21,244 |
 | Moving Experiences | 6.00% | ~21,244 |
 | Wise Head | 6.00% | ~21,244 |
 | Show ‘em the Sugar | 6.00% | ~21,244 |
 | Killing Them Softly | 6.00% | ~21,244 |
-| Street Knowledge | 5.00% | ~17,703 |
-| Oh Captain | 5.00% | ~17,703 |
-| Branching Out | 5.00% | ~17,703 |
-| Improvement Missions | 5.00% | ~17,703 |
-| Opportunity Knocked | 5.00% | ~17,703 |
-| City of Big Shoulders | 5.00% | ~17,703 |
-| Mission Mastery | 5.00% | ~17,703 |
-| Considerable Clams | 4.00% | ~14,162 |
-| Gin Joint | 4.00% | ~14,162 |
-| An Affront to the Enemy | 4.00% | ~14,162 |
-| Friends from Back Home | 4.00% | ~14,162 |
-| Half Century Mark | 4.00% | ~14,162 |
+| Street Knowledge | 5.00% | ~17,704 |
+| Oh Captain | 5.00% | ~17,704 |
+| Branching Out | 5.00% | ~17,704 |
+| Improvement Missions | 5.00% | ~17,704 |
+| Opportunity Knocked | 5.00% | ~17,704 |
+| City of Big Shoulders | 5.00% | ~17,704 |
+| Mission Mastery | 5.00% | ~17,704 |
+| Considerable Clams | 4.00% | ~14,163 |
+| Gin Joint | 4.00% | ~14,163 |
+| An Affront to the Enemy | 4.00% | ~14,163 |
+| Friends from Back Home | 4.00% | ~14,163 |
+| Half Century Mark | 4.00% | ~14,163 |
 | Corner Opportunities | 3.00% | ~10,622 |
 | 2122 North Clark Street | 3.00% | ~10,622 |
 | Copious Cabbage | 3.00% | ~10,622 |
@@ -62,8 +62,8 @@ Rating: 4.29 (Ranked 844)
 | Determined Deliveries | 1.00% | ~3,541 |
 | Stepping It Up | 1.00% | ~3,541 |
 | Crossing Over | 0.90% | ~3,187 |
-| Boots in the Ground | 0.80% | ~2,832 |
-| Getting Fancy | 0.80% | ~2,832 |
+| Boots in the Ground | 0.80% | ~2,833 |
+| Getting Fancy | 0.80% | ~2,833 |
 | Still Dreaming | 0.50% | ~1,770 |
 | Working on the Railroad | 0.50% | ~1,770 |
 | Social Butterfly | 0.50% | ~1,770 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 844)
 | High Pillow | 0.10% | ~354 |
 | Station Master | 0.10% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354,059 (Ranked 48)  
+Progressed: 354,072 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-23 | 353,741 | 7 |
 | 2023-11-24 | 353,883 | 7 |
 | 2023-11-25 | 354,051 | 7 |
-| 2023-11-26 | 354,059 | 7 |
+| 2023-11-26 | 354,072 | 7 |
 ## Awards
 Max (Great for Beginners): 49  (Ranked 438)  
 Sum: 196 (Ranked 401)  

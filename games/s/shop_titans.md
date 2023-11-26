@@ -6,21 +6,21 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,525 |
-| Titan's First Steps | 6.00% | ~8,525 |
-| Basic in Bulk | 5.00% | ~7,104 |
-| Tinkle of Coins | 5.00% | ~7,104 |
-| Disintermediation | 4.00% | ~5,683 |
-| It's Free Real Estate | 4.00% | ~5,683 |
-| Budding Merchant | 4.00% | ~5,683 |
-| Capitalism Ho! | 4.00% | ~5,683 |
-| One Easy Payment | 3.00% | ~4,262 |
-| Some Assembly Required | 3.00% | ~4,262 |
-| Another Satisfied Customer | 3.00% | ~4,262 |
-| Pretty Penny | 3.00% | ~4,262 |
-| One-Armed Bandit | 3.00% | ~4,262 |
-| Through Repetition, Perfection | 3.00% | ~4,262 |
-| Own the Means of Production | 3.00% | ~4,262 |
+| Sponsored by Argon | 6.00% | ~8,526 |
+| Titan's First Steps | 6.00% | ~8,526 |
+| Basic in Bulk | 5.00% | ~7,105 |
+| Tinkle of Coins | 5.00% | ~7,105 |
+| Disintermediation | 4.00% | ~5,684 |
+| It's Free Real Estate | 4.00% | ~5,684 |
+| Budding Merchant | 4.00% | ~5,684 |
+| Capitalism Ho! | 4.00% | ~5,684 |
+| One Easy Payment | 3.00% | ~4,263 |
+| Some Assembly Required | 3.00% | ~4,263 |
+| Another Satisfied Customer | 3.00% | ~4,263 |
+| Pretty Penny | 3.00% | ~4,263 |
+| One-Armed Bandit | 3.00% | ~4,263 |
+| Through Repetition, Perfection | 3.00% | ~4,263 |
+| Own the Means of Production | 3.00% | ~4,263 |
 | The Daily Grind | 2.00% | ~2,842 |
 | On the Path to Greatness | 2.00% | ~2,842 |
 | Ascended | 2.00% | ~2,842 |
@@ -95,17 +95,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 1.00% | ~1,421 |
 | King's Shadow | 1.00% | ~1,421 |
 | Master Recycler | 1.00% | ~1,421 |
+| All Accounted For | 1.00% | ~1,421 |
 | Special Ingredient | 1.00% | ~1,421 |
 | Exotic Commodities | 1.00% | ~1,421 |
 | Economy of Scarce | 1.00% | ~1,421 |
 | Complete Monopoly | 1.00% | ~1,421 |
 | King's Blade | 1.00% | ~1,421 |
 | Jackpot! | 0.90% | ~1,279 |
-| All Accounted For | 0.90% | ~1,279 |
 | Thank You Tom Nook | 0.80% | ~1,137 |
+| Eternal Crusade | 0.80% | ~1,137 |
 | The Free Encyclopedia | 0.70% | ~995 |
-| Eternal Crusade | 0.70% | ~995 |
-| All or Nothing! | 0.60% | ~852 |
+| All or Nothing! | 0.60% | ~853 |
 | Anything not Nailed Down | 0.50% | ~710 |
 | The Greatest Grind | 0.50% | ~710 |
 | Marvels from the World Over | 0.50% | ~710 |
@@ -116,11 +116,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Oligarch Monarch | 0.30% | ~426 |
 | Merchant Extraordinaire | 0.30% | ~426 |
 | Cash Only Please | 0.30% | ~426 |
+| Capitalist Camaraderie | 0.20% | ~284 |
 | To Hell and Back | 0.20% | ~284 |
-| Capitalist Camaraderie | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,076 (Ranked 80)  
-Completed: 265 (0.19%) (Ranked 260)  
+Progressed: 142,093 (Ranked 80)  
+Completed: 267 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -339,7 +339,7 @@ Completed: 265 (0.19%) (Ranked 260)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,076 | 265 |
+| 2023-11-26 | 142,093 | 267 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,598 (Ranked 50)  

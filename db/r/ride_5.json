@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2277,
+  "EOS_Progressed": 2278,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5397,6 +5397,11 @@
       "Time": "2023-11-26T00:09:44.3603711+00:00",
       "NumProgressed": 2277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T01:59:31.4593848+00:00",
+      "NumProgressed": 2278,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5409,7 +5414,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5481,7 +5486,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5497,7 +5502,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5665,7 +5670,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5713,7 +5718,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5735,9 +5740,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "c7hf6a4",
       "Name": "In Search of Perfection",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -5800,14 +5805,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2277,
+      "Progressed": 2278,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:09:44.3603708+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:59:31.4593843+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.7913611+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:58:59.802413+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:09:44.3604287+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:48:02.1936942+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:59:31.459432+00:00"
 }

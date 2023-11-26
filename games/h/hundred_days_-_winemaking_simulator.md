@@ -6,19 +6,19 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 41.00% | ~5,635 |
-| It's a good start | 10.00% | ~1,374 |
+| Bye Bye | 41.00% | ~5,639 |
+| It's a good start | 10.00% | ~1,375 |
 | Bonjour! | 8.00% | ~1,100 |
 | Quack | 8.00% | ~1,100 |
 | The Assistant | 6.00% | ~825 |
 | The Blue Marl | 6.00% | ~825 |
-| Ostinata | 5.00% | ~687 |
-| Better than nothing? | 5.00% | ~687 |
+| Ostinata | 5.00% | ~688 |
+| Better than nothing? | 5.00% | ~688 |
 | A long journey | 4.00% | ~550 |
-| Big Money | 3.00% | ~412 |
-| Keep the doctor away | 3.00% | ~412 |
-| Surprise of Langhe | 3.00% | ~412 |
-| Famous | 3.00% | ~412 |
+| Big Money | 3.00% | ~413 |
+| Keep the doctor away | 3.00% | ~413 |
+| Surprise of Langhe | 3.00% | ~413 |
+| Famous | 3.00% | ~413 |
 | What is that? A castle? | 2.00% | ~275 |
 | A lot of space | 2.00% | ~275 |
 | A big garage | 2.00% | ~275 |
@@ -27,18 +27,18 @@ Number of Ratings: 7,669  (23.09.2022)
 | Pastry Chef | 2.00% | ~275 |
 | Welcome to the club | 2.00% | ~275 |
 | Very Important Winemaker | 2.00% | ~275 |
-| King of Langhe | 1.00% | ~137 |
-| Gem of Monferrato | 1.00% | ~137 |
+| King of Langhe | 1.00% | ~138 |
+| Gem of Monferrato | 1.00% | ~138 |
 | Treasure of Roero | 0.70% | ~96 |
 | Knight of Langhe | 0.50% | ~69 |
-| King of red wines | 0.20% | ~27 |
-| King of white wines | 0.20% | ~27 |
-| Sales Expert | 0.20% | ~27 |
-| Unsuitable Terroir | 0.20% | ~27 |
+| King of red wines | 0.20% | ~28 |
+| King of white wines | 0.20% | ~28 |
+| Sales Expert | 0.20% | ~28 |
+| Unsuitable Terroir | 0.20% | ~28 |
 | Big deals | 0.10% | ~14 |
 | Master Winemaker | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,745 (Ranked 156)  
+Progressed: 13,753 (Ranked 156)  
 Completed: 12 (0.09%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 12 (0.09%) (Ranked 289)
 | 2023-11-23 | 13,485 | 12 |
 | 2023-11-24 | 13,589 | 12 |
 | 2023-11-25 | 13,735 | 12 |
-| 2023-11-26 | 13,745 | 12 |
+| 2023-11-26 | 13,753 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 285)  
 Sum: 1,729 (Ranked 221)  

@@ -16,10 +16,12 @@
 | Urban Network | 13.00% | ~2 |
 | Supply Chain | 13.00% | ~2 |
 | Heavy Load | 13.00% | ~2 |
+| Line Master | 13.00% | ~2 |
 | Industrial Revolution | 13.00% | ~2 |
 | Double Trouble | 13.00% | ~2 |
 | World Explorer | 6.00% | ~1 |
 | Diesel Dream | 6.00% | ~1 |
+| Electric Avenue | 6.00% | ~1 |
 | Modern Times | 6.00% | ~1 |
 | Money Train | 6.00% | ~1 |
 | Future Vision | 6.00% | ~1 |
@@ -30,10 +32,8 @@
 | Train Spotter | 6.00% | ~1 |
 | Mega Train | 6.00% | ~1 |
 | Crowd Pleaser | 6.00% | ~1 |
-| Line Master | 6.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
-| Electric Avenue | 0.00% | ~0 |
 | Super Long Train | 0.00% | ~0 |
 | Cross Country | 0.00% | ~0 |
 | Busy Station | 0.00% | ~0 |

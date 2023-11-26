@@ -20,8 +20,8 @@
 | Sommelier | 5.00% | ~4 |
 | Let Me Solo Them | 5.00% | ~4 |
 | Twin Thorns | 5.00% | ~4 |
+| The River Styx | 3.00% | ~3 |
 | Frigid Winds | 3.00% | ~3 |
-| The River Styx | 2.00% | ~2 |
 | Smotherly Love | 1.00% | ~1 |
 | Transformative Nature | 1.00% | ~1 |
 | Champion of Starspire | 1.00% | ~1 |

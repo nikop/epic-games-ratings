@@ -82,9 +82,9 @@
       "ID": "4PLAYERS",
       "SetID": "5629o35",
       "Name": "Party on",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEATH_ACID",
@@ -106,9 +106,9 @@
       "ID": "DEATH_CACTI",
       "SetID": "5629o35",
       "Name": "Spikey boy",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEATH_CANON",
@@ -122,9 +122,9 @@
       "ID": "DEATH_FLOWER",
       "SetID": "5629o35",
       "Name": "Very angry flower",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEATH_LAVA",
@@ -170,9 +170,9 @@
       "ID": "REACH_SKY",
       "SetID": "5629o35",
       "Name": "Sky is not the limit",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REACH_SPACE",
@@ -202,9 +202,9 @@
       "ID": "SCORE_600",
       "SetID": "5629o35",
       "Name": "S Tier Jumper",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "STARS_100",
@@ -232,8 +232,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:04:55.745002+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:54:13.409561+00:00",
   "LastUpdate_AppInfo": "2023-11-20T14:57:10.6743119+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:49.1249601+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:04:55.7450138+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:49:29.2858771+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:54:13.4095726+00:00"
 }

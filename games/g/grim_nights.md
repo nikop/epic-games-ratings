@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting somewhere | 59.00% | ~33 |
-| Poor things... | 55.00% | ~31 |
-| So far so good... | 46.00% | ~26 |
+| Getting somewhere | 61.00% | ~34 |
+| Poor things... | 57.00% | ~32 |
+| So far so good... | 48.00% | ~27 |
 | Slay it! | 34.00% | ~19 |
 | Top notch! | 32.00% | ~18 |
 | Bling bling! | 25.00% | ~14 |

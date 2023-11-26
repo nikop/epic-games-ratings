@@ -36,10 +36,10 @@ Rating: 4.61 (Ranked 383)
 | Impenetrable Fortress | 0.90% | ~49 |
 | Dawn of the Dread | 0.90% | ~49 |
 | Prometheus Avenged | 0.80% | ~44 |
+| Arch Mage | 0.70% | ~38 |
 | Preparation Is Everything | 0.70% | ~38 |
 | Blood of the Dragon | 0.70% | ~38 |
 | A Conqueror's Cohort | 0.70% | ~38 |
-| Arch Mage | 0.60% | ~33 |
 | The Creator | 0.60% | ~33 |
 | Crimson Caldera | 0.60% | ~33 |
 | Lord of Chaos | 0.50% | ~27 |

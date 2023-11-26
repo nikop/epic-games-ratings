@@ -11,13 +11,13 @@
 | The Delivery | 45.00% | ~305 |
 | Shill Bidder | 42.00% | ~284 |
 | The Frenzy | 31.00% | ~210 |
-| Good Karma | 30.00% | ~203 |
-| Office Clerk | 28.00% | ~190 |
+| Good Karma | 31.00% | ~210 |
+| Office Clerk | 29.00% | ~196 |
 | Protector | 27.00% | ~183 |
 | The Bribe | 25.00% | ~169 |
 | The Ploy | 16.00% | ~108 |
 | Interrogation | 16.00% | ~108 |
-| Sabotage | 11.00% | ~74 |
+| Sabotage | 12.00% | ~81 |
 | Choices Matter | 7.00% | ~47 |
 | The Fool | 6.00% | ~41 |
 | The Lion's Den | 5.00% | ~34 |

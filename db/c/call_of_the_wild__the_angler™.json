@@ -931,9 +931,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6666,
+  "EOS_Progressed": 6668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10506,6 +10506,11 @@
       "Time": "2023-11-25T21:06:01.4951147+00:00",
       "NumProgressed": 6666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T01:56:20.2607557+00:00",
+      "NumProgressed": 6668,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10515,9 +10520,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -10827,22 +10832,22 @@
       "ID": "ACHIEVEMENT_041",
       "SetID": "6jk25od",
       "Name": "Three Square Meals",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6666,
+      "Progressed": 6668,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6038,
+      "Progressed": 6040,
       "Completed": 113
     }
   ],
@@ -10850,8 +10855,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-25T22:58:05.6860746+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:07:28.634334+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:56:20.2607551+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.1325852+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:58:36.2756452+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:07:28.6344141+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:47:42.2691544+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:56:20.2608489+00:00"
 }

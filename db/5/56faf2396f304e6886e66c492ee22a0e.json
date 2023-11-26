@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -283,9 +283,9 @@
       "ID": "ACHIEVEMENT_Elle_StandUp",
       "SetID": "70j9o42",
       "Name": "Admirab-Elle",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_Game_Ended",
@@ -315,17 +315,17 @@
       "ID": "ACHIEVEMENT_Iro_BestEnding",
       "SetID": "70j9o42",
       "Name": "Pain Killer",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Iro_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "Slippery When Wet",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Iro_Death3_Failed",
@@ -363,9 +363,9 @@
       "ID": "ACHIEVEMENT_Mio_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "A Winner Is You",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_Mio_Death3_Failed",
@@ -395,9 +395,9 @@
       "ID": "ACHIEVEMENT_Mystic_All_Secrets",
       "SetID": "70j9o42",
       "Name": "Mystic-al Knowledge",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_NormalMode",
@@ -498,8 +498,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:05:23.9822266+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:54:36.5989835+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.4874939+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:57:24.5205222+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:05:23.9822467+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:46:46.6878101+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:54:36.5990102+00:00"
 }

@@ -12,7 +12,7 @@
 | No Asperascope | 57.00% | ~195 |
 | Cornivore | 54.00% | ~185 |
 | I Believe I Can Fly | 49.00% | ~168 |
-| No Diggity | 44.00% | ~128 |
+| No Diggity | 45.00% | ~131 |
 | Early Survivor | 40.00% | ~117 |
 | Bouncemato | 31.00% | ~91 |
 | 10K | 30.00% | ~103 |
@@ -20,13 +20,13 @@
 | 15K | 27.00% | ~92 |
 | Drinking Problem | 23.00% | ~79 |
 | Quick-Draw Pod | 23.00% | ~67 |
-| Grave Digger | 22.00% | ~64 |
+| Grave Digger | 23.00% | ~67 |
 | Professional Survivor | 20.00% | ~58 |
 | Pork Chop Express | 19.00% | ~65 |
 | Skin Of Your Teeth | 18.00% | ~62 |
 | This Is My Boomstick | 17.00% | ~50 |
+| Getting Started | 16.00% | ~55 |
 | Carrocketeer | 16.00% | ~55 |
-| Getting Started | 15.00% | ~51 |
 | Eggtraordinary | 15.00% | ~51 |
 | Oh My Gourd | 14.00% | ~41 |
 | Summers Here | 12.00% | ~35 |

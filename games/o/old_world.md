@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 6.00% | ~929 |
-| Settler | 6.00% | ~929 |
-| Play a Single Player Game | 6.00% | ~929 |
-| Intrepid | 5.00% | ~774 |
-| Friendly Family | 5.00% | ~774 |
+| Explorer | 6.00% | ~930 |
+| Settler | 6.00% | ~930 |
+| Play a Single Player Game | 6.00% | ~930 |
+| Intrepid | 5.00% | ~775 |
+| Friendly Family | 5.00% | ~775 |
 | Able | 4.00% | ~620 |
 | Architect | 4.00% | ~620 |
 | Good | 4.00% | ~620 |
@@ -130,12 +130,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.90% | ~139 |
 | Egypt | 0.90% | ~139 |
 | Turreted Elephant | 0.90% | ~139 |
+| Poetic Leader | 0.90% | ~139 |
 | Noble Difficulty | 0.80% | ~124 |
 | Adur Burzen-Mihr | 0.80% | ~124 |
 | Rome | 0.80% | ~124 |
 | Hittite Paganism | 0.80% | ~124 |
 | All Nations | 0.80% | ~124 |
-| Poetic Leader | 0.80% | ~124 |
 | Ishtar Gate in Babylon | 0.70% | ~108 |
 | Peacemaker | 0.70% | ~108 |
 | Cao'an | 0.70% | ~108 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,490 (Ranked 152)  
+Progressed: 15,492 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -569,7 +569,7 @@ Completed: 5 (0.03%) (Ranked 324)
 | 2023-11-23 | 15,453 | 5 |
 | 2023-11-24 | 15,467 | 5 |
 | 2023-11-25 | 15,489 | 5 |
-| 2023-11-26 | 15,490 | 5 |
+| 2023-11-26 | 15,492 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,875 (Ranked 218)  

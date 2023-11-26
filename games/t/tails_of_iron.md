@@ -12,7 +12,7 @@ Rating: 4.55 (Ranked 506)
 | Collect Monster Parts | 58.00% | ~1,220 |
 | Two Handed Weapon | 57.00% | ~1,199 |
 | Defeat 25 Grubs | 53.00% | ~1,115 |
-| Rescue Redgi's Brothers | 52.00% | ~1,094 |
+| Rescue Redgi's Brothers | 53.00% | ~1,115 |
 | Collect Iron Ore | 48.00% | ~1,009 |
 | Kitchen Ready To Cook | 48.00% | ~1,009 |
 | Defeat 25 Mozis | 47.00% | ~988 |

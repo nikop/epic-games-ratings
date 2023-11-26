@@ -167,9 +167,9 @@
       "ID": "electric_engine",
       "SetID": "5ia1dkp",
       "Name": "Electric Avenue",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fifty_cars_train",
@@ -487,9 +487,9 @@
       "ID": "twenty_lines",
       "SetID": "5ia1dkp",
       "Name": "Line Master",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "two_cities_connected",
@@ -526,8 +526,8 @@
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:07:33.5837108+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:56:24.357129+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.8084756+00:00",
-  "LastUpdate_Ratings": "2023-11-26T00:00:28.4678927+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:07:33.5837522+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:49:13.8069831+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:56:24.3571891+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -229,11 +229,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15553,
+  "EOS_Progressed": 15560,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.23,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -12279,6 +12279,11 @@
       "Time": "2023-11-26T00:06:37.4519099+00:00",
       "NumProgressed": 15553,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-26T01:55:37.5248391+00:00",
+      "NumProgressed": 15560,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12307,7 +12312,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "12",
@@ -12323,7 +12328,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "14",
@@ -12443,7 +12448,7 @@
       "Name": "Bosmang",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "28",
@@ -12531,7 +12536,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "32",
@@ -12539,7 +12544,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "33",
@@ -12547,7 +12552,7 @@
       "Name": "Zen Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "34",
@@ -12563,20 +12568,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15553,
+      "Progressed": 15560,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1507,
+      "Progressed": 1514,
       "Completed": 719
     }
   ],
@@ -12584,8 +12589,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-25T17:58:09.1094239+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:06:37.4519096+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:55:37.5248387+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:59:03.703678+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:06:37.4519797+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:48:05.1454085+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:55:37.5249211+00:00"
 }

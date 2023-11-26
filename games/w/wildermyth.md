@@ -26,10 +26,10 @@ Number of Ratings: 45  (23.09.2022)
 | Turncoat | 0.70% | ~10 |
 | A Story of Heroes | 0.60% | ~9 |
 | Another Tale to Tell | 0.50% | ~7 |
+| No Time for Clawmonsters | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
 | Chain Reaction | 0.40% | ~6 |
 | Everfading | 0.40% | ~6 |
-| No Time for Clawmonsters | 0.40% | ~6 |
 | Bonebreakers | 0.30% | ~4 |
 | Plague Doctor | 0.30% | ~4 |
 | Legends Never Die | 0.30% | ~4 |

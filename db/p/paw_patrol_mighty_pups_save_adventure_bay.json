@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -243,9 +243,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "10",
@@ -283,17 +283,17 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "16",
@@ -355,9 +355,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "23",
@@ -484,8 +484,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-11-26T00:06:03.9690434+00:00",
+  "LastChanged_Achievements": "2023-11-26T01:55:09.9317939+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:44.4529599+00:00",
-  "LastUpdate_Ratings": "2023-11-25T23:59:23.8709807+00:00",
-  "LastUpdate_Achievements": "2023-11-26T00:06:03.9690596+00:00"
+  "LastUpdate_Ratings": "2023-11-26T01:48:20.8882764+00:00",
+  "LastUpdate_Achievements": "2023-11-26T01:55:09.9318148+00:00"
 }
