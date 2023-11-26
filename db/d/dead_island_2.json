@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6945,10 +6945,10 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 726014,
-  "EOS_Completed": 2440,
-  "EOS_NewPlayers": 4944,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 726037,
+  "EOS_Completed": 2441,
+  "EOS_NewPlayers": 4947,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32170,6 +32170,11 @@
       "Time": "2023-11-26T22:08:22.6826995+00:00",
       "NumProgressed": 726014,
       "NumCompleted": 2440
+    },
+    {
+      "Time": "2023-11-26T23:05:38.5502937+00:00",
+      "NumProgressed": 726037,
+      "NumCompleted": 2441
     }
   ],
   "TotalAchievements": 51,
@@ -32245,7 +32250,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14520
+      "UsersEstimate": 14521
     },
     {
       "ID": "ach_contender",
@@ -32341,7 +32346,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14520
+      "UsersEstimate": 14521
     },
     {
       "ID": "ach_impressive_aim",
@@ -32517,7 +32522,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14520
+      "UsersEstimate": 14521
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32541,7 +32546,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ach_dark_magic",
@@ -32565,7 +32570,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32588,13 +32593,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726014,
-      "Completed": 2440
+      "Progressed": 726037,
+      "Completed": 2441
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 51556,
+      "Progressed": 51579,
       "Completed": 36608
     }
   ],
@@ -32602,8 +32607,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-26T15:59:54.8406486+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:08:22.6826993+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:05:38.5502933+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:01:49.3137878+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:08:22.6828201+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:59:33.4255236+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:05:38.5504358+00:00"
 }

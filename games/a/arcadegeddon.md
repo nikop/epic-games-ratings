@@ -26,7 +26,7 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Ahead | 29.00% | ~2,826 |
 | The Full Monty | 29.00% | ~2,826 |
 | Guardian Angel | 27.00% | ~2,631 |
-| Poppin Noggins | 23.00% | ~2,242 |
+| Poppin Noggins | 24.00% | ~2,339 |
 | Clips and Crits | 19.00% | ~1,852 |
 | Grey Goo | 16.00% | ~1,559 |
 | Boss of Bosses | 15.00% | ~1,462 |

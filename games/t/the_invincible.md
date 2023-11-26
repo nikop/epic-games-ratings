@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 49.00% | ~182 |
-| The Teleprobe | 40.00% | ~149 |
-| The City | 35.00% | ~130 |
-| The field base | 32.00% | ~119 |
-| Survivors | 27.00% | ~100 |
-| The Condor | 26.00% | ~97 |
-| The End | 25.00% | ~93 |
-| The Necroevolution | 20.00% | ~74 |
-| Krauta is alive | 18.00% | ~67 |
-| Peacemaker | 17.00% | ~63 |
-| Volcanologist | 17.00% | ~63 |
+| The Camp | 48.00% | ~180 |
+| The Teleprobe | 39.00% | ~146 |
+| The City | 35.00% | ~131 |
+| The field base | 32.00% | ~120 |
+| Survivors | 27.00% | ~101 |
+| The Condor | 25.00% | ~94 |
+| The End | 25.00% | ~94 |
+| The Necroevolution | 20.00% | ~75 |
+| Krauta is alive | 18.00% | ~68 |
+| Peacemaker | 17.00% | ~64 |
+| Volcanologist | 17.00% | ~64 |
 | The Alliance | 16.00% | ~60 |
-| On her own | 14.00% | ~52 |
-| Evacuation | 13.00% | ~48 |
-| Beyond divisions | 13.00% | ~48 |
+| On her own | 14.00% | ~53 |
+| Evacuation | 13.00% | ~49 |
+| Beyond divisions | 13.00% | ~49 |
 | Fierce fight | 12.00% | ~45 |
 | Flying Objects Operator | 11.00% | ~41 |
-| I remember everything! | 10.00% | ~37 |
+| I remember everything! | 10.00% | ~38 |
 | Violent solution | 7.00% | ~26 |
 | Another giant | 7.00% | ~26 |
 | Innate curiosity | 6.00% | ~22 |
+| The Invincible | 5.00% | ~19 |
 | I leave no man behind | 5.00% | ~19 |
 | Strong objection | 5.00% | ~19 |
-| The Invincible | 4.00% | ~15 |
 | Ubiquitous holes | 3.00% | ~11 |
 | Got lost again | 3.00% | ~11 |
-| I leave no man behind (no exceptions) | 2.00% | ~7 |
+| I leave no man behind (no exceptions) | 2.00% | ~8 |
 | Convoy list | 1.00% | ~4 |
 | No more mistakes | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372 (Ranked 329)  
+Progressed: 375 (Ranked 329)  
 Completed: 1 (0.27%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 1 (0.27%) (Ranked 246)
 | 2023-11-23 | 262 | 0 |
 | 2023-11-24 | 291 | 0 |
 | 2023-11-25 | 329 | 0 |
-| 2023-11-26 | 372 | 1 |
+| 2023-11-26 | 375 | 1 |

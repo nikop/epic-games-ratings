@@ -53,7 +53,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Up Close And Personal | 0.40% | ~93 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23,262 (Ranked 132)  
-Completed: 88 (0.38%) (Ranked 223)  
+Completed: 89 (0.38%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,7 +272,7 @@ Completed: 88 (0.38%) (Ranked 223)
 | 2023-11-23 | 23,056 | 87 |
 | 2023-11-24 | 23,130 | 87 |
 | 2023-11-25 | 23,194 | 88 |
-| 2023-11-26 | 23,262 | 88 |
+| 2023-11-26 | 23,262 | 89 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 210)  
 Sum: 752 (Ranked 287)  

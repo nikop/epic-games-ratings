@@ -11,8 +11,8 @@
 | Survival ✔ | 4.00% | ~12 |
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Guardian angel ✔ | 1.00% | ~3 |
+| Voodoo ✔ | 0.70% | ~2 |
 | Master of Unlocking ✔ | 0.70% | ~2 |
-| Voodoo ✔ | 0.30% | ~1 |
 | Light will show the truth ✔ | 0.30% | ~1 |
 | Mask ✔ | 0.30% | ~1 |
 | Doctor ✔ | 0.30% | ~1 |

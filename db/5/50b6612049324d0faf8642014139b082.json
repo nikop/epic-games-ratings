@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 573,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1287,6 +1287,11 @@
       "Time": "2023-11-26T22:10:51.403115+00:00",
       "NumProgressed": 572,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T23:08:50.3681894+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1307,7 +1312,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_11",
@@ -1355,7 +1360,7 @@
       "Name": "Class Act",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_17",
@@ -1385,9 +1390,9 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 446
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_20",
@@ -1425,9 +1430,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_25",
@@ -1451,7 +1456,7 @@
       "Name": "Rookie Season",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_4",
@@ -1506,7 +1511,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 573,
       "Completed": 0
     }
   ],
@@ -1514,8 +1519,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-26T01:47:49.070387+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:10:51.4031146+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:08:50.368189+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:59:58.5619006+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:10:51.4031319+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:58:24.0067645+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:08:50.3682128+00:00"
 }

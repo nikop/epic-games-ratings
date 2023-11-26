@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "BARON",
@@ -547,9 +547,9 @@
       "ID": "LOVERS",
       "SetID": "40o4f14",
       "Name": "Lover\u0027s dream",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MERCENARY",
@@ -579,9 +579,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "MOUNTAINEER",
@@ -674,8 +674,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:05:56.5660268+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:03:58.7227204+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:57:50.5850957+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:05:56.5660426+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:57:04.3574311+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:03:58.7227417+00:00"
 }

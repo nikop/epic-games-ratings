@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1395,9 +1395,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6145,
+  "EOS_Progressed": 6146,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13520,6 +13520,11 @@
       "Time": "2023-11-26T18:10:09.9953641+00:00",
       "NumProgressed": 6145,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T23:08:55.7573788+00:00",
+      "NumProgressed": 6146,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13555,7 +13560,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -13627,7 +13632,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -13691,7 +13696,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4609
+      "UsersEstimate": 4610
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13850,15 +13855,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6145,
+      "Progressed": 6146,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-26T14:58:04.8713258+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:10:58.7445642+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:08:55.7573786+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.1116703+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:59:36.2288412+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:10:58.7446301+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:58:10.6820278+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:08:55.7574379+00:00"
 }

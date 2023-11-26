@@ -2,7 +2,7 @@
   "ID": "dc0f95061f7746e3b4ad939bee60f1a3",
   "Name": "Puzzle Compound",
   "ProductSlug": "puzzle-compound-fe9903",
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 475,
   "Ranking_EOS_NewCompleters": 129,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -189,6 +189,11 @@
       "Time": "2023-09-04T06:06:35.8179533+00:00",
       "NumProgressed": 48,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T23:08:31.3465818+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 11,
@@ -198,7 +203,7 @@
       "ID": "ACH_CASTLE_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "The Forgotten Castle Complete",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 80,
       "UsersEstimate": 26
     },
@@ -214,7 +219,7 @@
       "ID": "ACH_FIND_EXCALIBUR",
       "SetID": "b5c8hh8",
       "Name": "Find Excalibur In All Maps",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -222,7 +227,7 @@
       "ID": "ACH_HEIST_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Bank Heist Complete",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 80,
       "UsersEstimate": 24
     },
@@ -238,7 +243,7 @@
       "ID": "ACH_MANSION_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Jefferson\u0027s Mansion Complete",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 80,
       "UsersEstimate": 33
     },
@@ -287,14 +292,14 @@
     {
       "ID": "b5c8hh8",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-09T19:57:14.7958612+00:00",
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:10:23.4795696+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:08:31.3465812+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.1888978+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:58:35.609424+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:10:23.479584+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:57:31.640971+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:08:31.3465923+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,530 |
-| First Class Student | 15.00% | ~45,497 |
-| Troll with the Punches | 14.00% | ~42,464 |
-| A Keen Sense of Spell | 13.00% | ~39,431 |
-| That's a Keeper | 13.00% | ~39,431 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,531 |
+| First Class Student | 15.00% | ~45,498 |
+| Troll with the Punches | 14.00% | ~42,465 |
+| A Keen Sense of Spell | 13.00% | ~39,432 |
+| That's a Keeper | 13.00% | ~39,432 |
 | The Defender of Dragons | 12.00% | ~36,398 |
 | Loom for Improvement | 12.00% | ~36,398 |
 | A Talent for Spending | 12.00% | ~36,398 |
@@ -19,13 +19,13 @@ Rating: 4.76 (Ranked 126)
 | The Hero of Hogwarts | 11.00% | ~33,365 |
 | Challenge Accepted | 11.00% | ~33,365 |
 | Coasting Along | 11.00% | ~33,365 |
-| Followed the Butterflies | 10.00% | ~30,331 |
-| Rising From the Ashes | 10.00% | ~30,331 |
-| A Sallow Grave | 9.00% | ~27,298 |
-| The Spell Master | 9.00% | ~27,298 |
-| The Avenging Gazelle | 8.00% | ~24,265 |
-| Beast Friends | 8.00% | ~24,265 |
-| Flight the Good Flight | 8.00% | ~24,265 |
+| Followed the Butterflies | 10.00% | ~30,332 |
+| Rising From the Ashes | 10.00% | ~30,332 |
+| A Sallow Grave | 9.00% | ~27,299 |
+| The Spell Master | 9.00% | ~27,299 |
+| The Avenging Gazelle | 8.00% | ~24,266 |
+| Beast Friends | 8.00% | ~24,266 |
+| Flight the Good Flight | 8.00% | ~24,266 |
 | Raising Expectations | 7.00% | ~21,232 |
 | The Seeker of Knowledge | 6.00% | ~18,199 |
 | The Root of the Problem | 6.00% | ~18,199 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 126)
 | Room with a View | 4.00% | ~12,133 |
 | The Intrepid Explorer | 4.00% | ~12,133 |
 | The Wise Owl | 4.00% | ~12,133 |
-| Put Down Roots | 3.00% | ~9,099 |
-| The Auror's Apprentice | 3.00% | ~9,099 |
-| Floo Around the World | 3.00% | ~9,099 |
+| Put Down Roots | 3.00% | ~9,100 |
+| The Auror's Apprentice | 3.00% | ~9,100 |
+| Floo Around the World | 3.00% | ~9,100 |
 | The Good Samaritan | 2.00% | ~6,066 |
 | Rise to the Challenges | 2.00% | ~6,066 |
 | Demiguise Dread | 2.00% | ~6,066 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,123 |
 | Collector's Edition | 0.30% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,314 (Ranked 54)  
+Progressed: 303,320 (Ranked 54)  
 Completed: 515 (0.17%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 515 (0.17%) (Ranked 265)
 | 2023-11-23 | 302,837 | 513 |
 | 2023-11-24 | 302,992 | 514 |
 | 2023-11-25 | 303,175 | 514 |
-| 2023-11-26 | 303,314 | 515 |
+| 2023-11-26 | 303,320 | 515 |
 ## Awards
 Max (Character Customization): 24,684  (Ranked 17)  
 Sum: 49,249 (Ranked 30)  

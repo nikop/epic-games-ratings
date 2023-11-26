@@ -33,13 +33,13 @@ Rating: 4.50 (Ranked 591)
 | They're Probably Fine | 40.00% | ~3,519 |
 | Han Slowlo | 38.00% | ~3,343 |
 | There Is No Try | 38.00% | ~3,343 |
-| The Jedi Path | 32.00% | ~2,815 |
+| The Jedi Path | 33.00% | ~2,903 |
 | This Is Canon | 29.00% | ~2,551 |
-| It's a Trap | 26.00% | ~2,287 |
+| It's a Trap | 27.00% | ~2,375 |
 | You've Got A Friend | 23.00% | ~2,023 |
 | King of the World | 17.00% | ~1,495 |
+| Max Capacity | 15.00% | ~1,320 |
 | Reconnaissance | 15.00% | ~1,320 |
-| Max Capacity | 14.00% | ~1,232 |
 | A Presence I've Not Felt Since... | 14.00% | ~1,232 |
 | Slam Dunk | 12.00% | ~1,056 |
 | Star Tours | 11.00% | ~968 |
@@ -133,7 +133,7 @@ Completed: 51 (0.58%) (Ranked 193)
 | 2023-11-26 | 8,797 | 51 |
 ## Awards
 Max (Great Boss Battles): 3,337  (Ranked 96)  
-Sum: 5,163 (Ranked 138)  
+Sum: 5,164 (Ranked 138)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -142,7 +142,7 @@ Diff (max vs sum): -42
 | This game has Quickly Understood Controls | 223 |
 | This game has Amazing Characters | 217 |
 | This game has Diverse Characters | 210 |
-| This game is Relaxing | 203 |
+| This game is Relaxing | 204 |
 | This game is Highly Recommended | 201 |
 | This game is Extremely Fun | 201 |
 | This game has Challenging Combat | 199 |
@@ -360,4 +360,4 @@ Diff (max vs sum): -42
 | 2023-11-23 | 4.50 | 3,300 | 5,083 |
 | 2023-11-24 | 4.50 | 3,310 | 5,099 |
 | 2023-11-25 | 4.50 | 3,323 | 5,138 |
-| 2023-11-26 | 4.50 | 3,337 | 5,163 |
+| 2023-11-26 | 4.50 | 3,337 | 5,164 |

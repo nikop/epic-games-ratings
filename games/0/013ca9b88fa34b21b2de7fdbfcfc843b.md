@@ -1,21 +1,21 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.61 (Ranked 382)  
+Rating: 4.60 (Ranked 414)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,831 |
-| A Thorny Situation | 71.00% | ~5,750 |
-| ... And Spit Back Out | 61.00% | ~4,940 |
-| Break-Net Speed | 49.00% | ~3,968 |
-| Bramble Breaker | 47.00% | ~3,806 |
-| Miner 49er | 43.00% | ~3,482 |
-| Humble Collector | 42.00% | ~3,401 |
-| Calm Sailing | 37.00% | ~2,996 |
-| Open the Gate! | 34.00% | ~2,753 |
-| Mist Walker | 32.00% | ~2,591 |
-| Lumberjack | 27.00% | ~2,186 |
+| Azoria Beckons | 72.00% | ~5,832 |
+| A Thorny Situation | 71.00% | ~5,751 |
+| ... And Spit Back Out | 61.00% | ~4,941 |
+| Break-Net Speed | 49.00% | ~3,969 |
+| Bramble Breaker | 47.00% | ~3,807 |
+| Miner 49er | 43.00% | ~3,483 |
+| Humble Collector | 42.00% | ~3,402 |
+| Calm Sailing | 37.00% | ~2,997 |
+| Open the Gate! | 34.00% | ~2,754 |
+| Mist Walker | 32.00% | ~2,592 |
+| Lumberjack | 27.00% | ~2,187 |
 | Oui, Chef! | 23.00% | ~1,863 |
 | Clear the Air | 19.00% | ~1,539 |
 | Botanical Breakthrough | 17.00% | ~1,377 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 382)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,098 (Ranked 175)  
+Progressed: 8,100 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 1 (0.01%) (Ranked 341)
 | 2023-11-23 | 7,973 | 1 |
 | 2023-11-24 | 7,997 | 1 |
 | 2023-11-25 | 8,050 | 1 |
-| 2023-11-26 | 8,098 | 1 |
+| 2023-11-26 | 8,100 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -166,3 +166,4 @@ Completed: 1 (0.01%) (Ranked 341)
 | 2023-11-09 | 4.59 | 0 | 0 |
 | 2023-11-10 | 4.60 | 0 | 0 |
 | 2023-11-25 | 4.61 | 0 | 0 |
+| 2023-11-26 | 4.60 | 0 | 0 |

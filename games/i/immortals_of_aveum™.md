@@ -6,19 +6,19 @@ Rating: 4.05 (Ranked 986)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 92.00% | ~282 |
-| Battlefields Have Memories | 87.00% | ~266 |
-| Enlisted | 84.00% | ~257 |
-| Maybe Engage a Little | 81.00% | ~248 |
-| No More Names | 70.00% | ~214 |
-| Initiate | 57.00% | ~174 |
-| Thrada-Kul | 53.00% | ~162 |
+| Battlefields Have Memories | 87.00% | ~267 |
+| Enlisted | 84.00% | ~258 |
+| Maybe Engage a Little | 81.00% | ~249 |
+| No More Names | 70.00% | ~215 |
+| Initiate | 57.00% | ~175 |
+| Thrada-Kul | 53.00% | ~163 |
 | Gravity-Challenged Rocks | 43.00% | ~132 |
-| Soldier | 36.00% | ~110 |
+| Soldier | 36.00% | ~111 |
 | All the Major Food Groups | 35.00% | ~107 |
 | Beggars Would Ride | 32.00% | ~98 |
 | Socialite | 30.00% | ~92 |
 | Control is an Illusion | 29.00% | ~89 |
-| The Means to Save It | 24.00% | ~73 |
+| The Means to Save It | 24.00% | ~74 |
 | Resilience to Sin | 21.00% | ~64 |
 | A Familiar Nest | 21.00% | ~64 |
 | Periapt Alizarin | 21.00% | ~64 |
@@ -31,8 +31,8 @@ Rating: 4.05 (Ranked 986)
 | Periapt Cerulean | 11.00% | ~34 |
 | Periapt Viridian | 9.00% | ~28 |
 | Shroudfane Explorer | 9.00% | ~28 |
-| Best Dressed | 8.00% | ~24 |
-| Armaments Azure | 8.00% | ~24 |
+| Best Dressed | 8.00% | ~25 |
+| Armaments Azure | 8.00% | ~25 |
 | Armaments Gules | 7.00% | ~21 |
 | Kitted Out | 6.00% | ~18 |
 | Scholar | 5.00% | ~15 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 986)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306 (Ranked 352)  
+Progressed: 307 (Ranked 350)  
 Completed: 1 (0.33%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.33%) (Ranked 230)
 | 2023-11-23 | 298 | 1 |
 | 2023-11-24 | 300 | 1 |
 | 2023-11-25 | 302 | 1 |
-| 2023-11-26 | 306 | 1 |
+| 2023-11-26 | 307 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

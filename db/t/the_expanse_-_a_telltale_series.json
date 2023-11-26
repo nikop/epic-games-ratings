@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -235,10 +235,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15626,
+  "EOS_Progressed": 15631,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 493,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 495,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -12390,6 +12390,11 @@
       "Time": "2023-11-26T22:08:11.5551422+00:00",
       "NumProgressed": 15626,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-26T23:05:31.0956569+00:00",
+      "NumProgressed": 15631,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12466,7 +12471,7 @@
       "Name": "Spore Taste",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "18",
@@ -12482,7 +12487,7 @@
       "Name": "Martian Music",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "2",
@@ -12506,7 +12511,7 @@
       "Name": "Drone Dodger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "22",
@@ -12666,7 +12671,7 @@
       "Name": "Master Negotiator",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "35",
@@ -12681,22 +12686,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15626,
+      "Progressed": 15631,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1580,
-      "Completed": 735
+      "Progressed": 1585,
+      "Completed": 736
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:08:11.5551418+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:05:31.0956566+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:00:19.4594104+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:08:11.5552251+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:58:37.9374243+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:05:31.0957317+00:00"
 }

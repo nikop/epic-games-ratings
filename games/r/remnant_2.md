@@ -10,14 +10,15 @@ Rating: 4.75 (Ranked 148)
 | The Killing Jar | 0.50% | ~1,145 |
 | First of Many | 0.50% | ~1,145 |
 | Expanding Horizons | 0.30% | ~687 |
+| Quest for Survival | 0.30% | ~687 |
 | Not Your Average Trait | 0.30% | ~687 |
 | Am I Seeing This? | 0.20% | ~458 |
 | Ghost in the Machine | 0.20% | ~458 |
 | Chaos | 0.20% | ~458 |
 | Gleaming the Cube | 0.20% | ~458 |
 | Power Surge | 0.20% | ~458 |
+| The God Gambit | 0.20% | ~458 |
 | Not So Special Now | 0.20% | ~458 |
-| Quest for Survival | 0.20% | ~458 |
 | Not a Janitor | 0.20% | ~458 |
 | Familiar Face | 0.20% | ~458 |
 | Equal Measures | 0.20% | ~458 |
@@ -38,7 +39,6 @@ Rating: 4.75 (Ranked 148)
 | Only Human | 0.10% | ~229 |
 | Traitor | 0.10% | ~229 |
 | Forever is a Long Time Coming | 0.10% | ~229 |
-| The God Gambit | 0.10% | ~229 |
 | Dark Designs | 0.10% | ~229 |
 | Madman's Paradise | 0.10% | ~229 |
 | Red Room | 0.10% | ~229 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~8 |
 | You Shall Pass | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,986 (Ranked 68)  
+Progressed: 229,012 (Ranked 68)  
 Completed: 534 (0.23%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 534 (0.23%) (Ranked 249)
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
-| 2023-11-26 | 228,986 | 534 |
+| 2023-11-26 | 229,012 | 534 |
 ## Awards
 Max (Great Boss Battles): 2,455  (Ranked 104)  
 Sum: 5,967 (Ranked 129)  

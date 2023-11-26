@@ -1188,9 +1188,9 @@
       "ID": "achBossOne",
       "SetID": "1al1mjg",
       "Name": "Voodoo \u2714",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 55,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achBossThree",
@@ -1339,8 +1339,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:10:32.7917577+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:08:37.788039+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:13.0554593+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:58:05.7740958+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:10:32.7917739+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:57:14.0799785+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:08:37.7880553+00:00"
 }

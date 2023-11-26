@@ -2,12 +2,12 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 999,
+  "Ranking_Rating": 998,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -265,7 +265,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38337,
+  "EOS_Progressed": 38339,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -19385,6 +19385,11 @@
       "Time": "2023-11-26T22:05:57.4012388+00:00",
       "NumProgressed": 38337,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-11-26T23:03:59.14035+00:00",
+      "NumProgressed": 38339,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -19444,7 +19449,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "completionist",
@@ -19468,7 +19473,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "firstBunny",
@@ -19484,7 +19489,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29519
+      "UsersEstimate": 29521
     },
     {
       "ID": "roots",
@@ -19492,7 +19497,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6517
+      "UsersEstimate": 6518
     },
     {
       "ID": "secretItem",
@@ -19507,15 +19512,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38337,
+      "Progressed": 38339,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:05:57.4012386+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:03:59.1403496+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.3086908+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:57:39.3923259+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:05:57.4013306+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:56:57.422537+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:03:59.1404738+00:00"
 }

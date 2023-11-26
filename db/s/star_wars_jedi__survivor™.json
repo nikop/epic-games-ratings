@@ -5401,10 +5401,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 5163,
       "NumberOfAwardsMax": 3337
+    },
+    {
+      "Time": "2023-11-26T22:57:16.4650432+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5164,
+      "NumberOfAwardsMax": 3337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5163,
+  "NumberOfAwards": 5164,
   "NumberOfAwardsMax": 3337,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5430,7 +5436,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5471,7 +5477,7 @@
   ],
   "EOS_Progressed": 8797,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13145,17 +13151,17 @@
       "ID": "achievement_a34",
       "SetID": "3m4b0pk",
       "Name": "It\u0027s a Trap",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2375
     },
     {
       "ID": "achievement_a35",
       "SetID": "3m4b0pk",
       "Name": "Max Capacity",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1320
     },
     {
       "ID": "achievement_a36",
@@ -13305,9 +13311,9 @@
       "ID": "achievement_a52",
       "SetID": "3m4b0pk",
       "Name": "The Jedi Path",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2903
     },
     {
       "ID": "achievement_a53",
@@ -13361,9 +13367,9 @@
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2023-11-26T19:57:20.1803021+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:09:57.3486871+00:00",
+  "LastChanged": "2023-11-26T22:57:16.465043+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:08:13.0813191+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:07.2165049+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:58:09.6045611+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:09:57.3487448+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:57:16.4650438+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:08:13.0814003+00:00"
 }

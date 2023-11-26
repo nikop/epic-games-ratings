@@ -374,9 +374,9 @@
       "ID": "LC-11",
       "SetID": "ap2ljl4",
       "Name": "Bustling Store",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "LC-12",
@@ -439,8 +439,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-11-26T22:07:49.7554311+00:00",
+  "LastChanged_Achievements": "2023-11-26T23:05:15.9565935+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:39.9460728+00:00",
-  "LastUpdate_Ratings": "2023-11-26T21:57:34.1896454+00:00",
-  "LastUpdate_Achievements": "2023-11-26T22:07:49.7554403+00:00"
+  "LastUpdate_Ratings": "2023-11-26T22:56:54.5324155+00:00",
+  "LastUpdate_Achievements": "2023-11-26T23:05:15.9566049+00:00"
 }

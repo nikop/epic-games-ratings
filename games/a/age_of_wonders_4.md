@@ -14,13 +14,13 @@ Rating: 4.61 (Ranked 382)
 | Full Ascension | 2.00% | ~110 |
 | Bone Peddler | 2.00% | ~110 |
 | From Friends to Family | 2.00% | ~110 |
+| Stronger Together | 2.00% | ~110 |
 | Magical Synergy | 2.00% | ~110 |
 | Seat of Power | 2.00% | ~110 |
 | Freed Lands of Manuhari | 2.00% | ~110 |
 | Valley of Wonders | 1.00% | ~55 |
 | Return of the Wizard King | 1.00% | ~55 |
 | Enchanted Archipelago | 1.00% | ~55 |
-| Stronger Together | 1.00% | ~55 |
 | My Final Form | 1.00% | ~55 |
 | In a Liege of Your Own | 1.00% | ~55 |
 | Fiery Friend | 1.00% | ~55 |
