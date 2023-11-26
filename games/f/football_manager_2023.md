@@ -22,8 +22,8 @@ Rating: 4.76 (Ranked 126)
 | People Pleaser | 38.00% | ~136,979 |
 | Unbeatable! | 37.00% | ~133,374 |
 | One Of Our Own | 35.00% | ~126,165 |
+| They're a Natural | 31.00% | ~111,746 |
 | Record Signing | 31.00% | ~111,746 |
-| They're a Natural | 30.00% | ~108,141 |
 | Team Performance | 29.00% | ~104,537 |
 | Star Player | 28.00% | ~100,932 |
 | The Only Stat That Matters | 28.00% | ~100,932 |

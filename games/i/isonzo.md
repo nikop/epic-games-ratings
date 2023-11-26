@@ -10,7 +10,7 @@ Number of Ratings: 98  (23.09.2022)
 | Tutti Eroi! | 50.00% | ~4,508 |
 | Peak Performance | 47.00% | ~4,238 |
 | Avanti Savoia! | 44.00% | ~3,967 |
-| Mamma Mia! | 34.00% | ~3,066 |
+| Mamma Mia! | 35.00% | ~3,156 |
 | Conrad von Hotzensocks | 32.00% | ~2,885 |
 | Gabriele D'Annunzio | 31.00% | ~2,795 |
 | Silver Lining | 27.00% | ~2,435 |

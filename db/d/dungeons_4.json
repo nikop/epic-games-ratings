@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1064,9 +1064,9 @@
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 236
     },
     {
       "ID": "ach_main03demon_completed",
@@ -1144,9 +1144,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 245
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -1432,9 +1432,9 @@
       "ID": "ach_main17stone_transporter",
       "SetID": "4hg22ll",
       "Name": "No Mana, No Cry",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_main18unholy_completed",
@@ -1456,9 +1456,9 @@
       "ID": "ach_main18unholy_training",
       "SetID": "4hg22ll",
       "Name": "To Infinity And Beyond!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_main19war_completed",
@@ -1519,8 +1519,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-26T04:05:22.9487569+00:00",
+  "LastChanged_Achievements": "2023-11-26T05:05:17.6557231+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-26T03:58:30.6065967+00:00",
-  "LastUpdate_Achievements": "2023-11-26T04:05:22.9488107+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:58:34.5975396+00:00",
+  "LastUpdate_Achievements": "2023-11-26T05:05:17.6557631+00:00"
 }

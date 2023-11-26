@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 913,
+  "EOS_Progressed": 914,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.29,
+  "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2979,6 +2979,11 @@
       "Time": "2023-11-26T04:04:00.3698971+00:00",
       "NumProgressed": 913,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-26T05:03:55.3929005+00:00",
+      "NumProgressed": 914,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2999,7 +3004,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "_03_FinishAct1",
@@ -3039,7 +3044,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "_08_Completion_10",
@@ -3079,7 +3084,7 @@
       "Name": "Privateer",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "_13_Completion_60",
@@ -3183,7 +3188,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -3198,7 +3203,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 913,
+      "Progressed": 914,
       "Completed": 30
     }
   ],
@@ -3206,8 +3211,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-26T04:04:00.3698968+00:00",
+  "LastChanged_Achievements": "2023-11-26T05:03:55.3928993+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-26T03:59:26.6367461+00:00",
-  "LastUpdate_Achievements": "2023-11-26T04:04:00.3699266+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:59:32.6627268+00:00",
+  "LastUpdate_Achievements": "2023-11-26T05:03:55.3929262+00:00"
 }

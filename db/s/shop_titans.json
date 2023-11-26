@@ -7157,10 +7157,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27598,
       "NumberOfAwardsMax": 4844
+    },
+    {
+      "Time": "2023-11-26T05:02:38.8595052+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27599,
+      "NumberOfAwardsMax": 4844
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27598,
+  "NumberOfAwards": 27599,
   "NumberOfAwardsMax": 4844,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7210,13 +7216,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3784
+      "Count": 3785
     }
   ],
-  "EOS_Progressed": 142113,
-  "EOS_Completed": 268,
-  "EOS_NewPlayers": 1595,
-  "EOS_NewCompleters": 81,
+  "EOS_Progressed": 142120,
+  "EOS_Completed": 269,
+  "EOS_NewPlayers": 1593,
+  "EOS_NewCompleters": 82,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -29888,6 +29894,11 @@
       "Time": "2023-11-26T04:08:10.8105131+00:00",
       "NumProgressed": 142113,
       "NumCompleted": 268
+    },
+    {
+      "Time": "2023-11-26T05:08:13.6134042+00:00",
+      "NumProgressed": 142120,
+      "NumCompleted": 269
     }
   ],
   "TotalAchievements": 112,
@@ -29979,7 +29990,7 @@
       "Name": "One Easy Payment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "bigsale02",
@@ -30003,7 +30014,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "blueprint02",
@@ -30251,7 +30262,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "energy02",
@@ -30379,7 +30390,7 @@
       "Name": "Pretty Penny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "gold03",
@@ -30451,7 +30462,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "jackslot02",
@@ -30555,7 +30566,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "master02",
@@ -30763,7 +30774,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "workers02",
@@ -30794,15 +30805,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142113,
-      "Completed": 268
+      "Progressed": 142120,
+      "Completed": 269
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-25T18:02:45.9794931+00:00",
-  "LastChanged_Achievements": "2023-11-26T04:08:10.8105128+00:00",
+  "LastChanged": "2023-11-26T05:02:38.859505+00:00",
+  "LastChanged_Achievements": "2023-11-26T05:08:13.6134037+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:02:44.5829773+00:00",
-  "LastUpdate_Achievements": "2023-11-26T04:08:10.810692+00:00"
+  "LastUpdate_Ratings": "2023-11-26T05:02:38.8595056+00:00",
+  "LastUpdate_Achievements": "2023-11-26T05:08:13.6136841+00:00"
 }

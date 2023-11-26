@@ -22,17 +22,17 @@ Rating: 4.64 (Ranked 334)
 | S.O.S. | 47.00% | ~933 |
 | Full Arsenal | 46.00% | ~913 |
 | Get Off My Ship! | 45.00% | ~893 |
-| Strange Transmissions | 44.00% | ~873 |
+| Strange Transmissions | 45.00% | ~893 |
 | Wreckage | 43.00% | ~854 |
 | Live with the Hot Ones | 42.00% | ~834 |
 | Keeper of the Faith | 41.00% | ~814 |
-| Betrayed | 39.00% | ~774 |
+| Betrayed | 40.00% | ~794 |
 | Legend Teller | 39.00% | ~774 |
 | Exodus | 38.00% | ~754 |
 | There's Always Peng! | 38.00% | ~754 |
 | Mindless Prey | 38.00% | ~754 |
+| Front Toward Enemy | 34.00% | ~675 |
 | A Cut Above | 33.00% | ~655 |
-| Front Toward Enemy | 33.00% | ~655 |
 | Set A Benchmark | 30.00% | ~596 |
 | Whole Again | 29.00% | ~576 |
 | Pack Rat | 27.00% | ~536 |

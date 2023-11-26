@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -721,7 +721,7 @@
   ],
   "EOS_Progressed": 1985,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -6080,9 +6080,9 @@
       "ID": "achievement_11",
       "SetID": "222fo9l",
       "Name": "Betrayed",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 794
     },
     {
       "ID": "achievement_12",
@@ -6312,9 +6312,9 @@
       "ID": "achievement_38",
       "SetID": "222fo9l",
       "Name": "Front Toward Enemy",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 675
     },
     {
       "ID": "achievement_39",
@@ -6424,9 +6424,9 @@
       "ID": "achievement_8",
       "SetID": "222fo9l",
       "Name": "Strange Transmissions",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 893
     },
     {
       "ID": "achievement_9",
@@ -6449,8 +6449,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-24T08:59:05.9325653+00:00",
-  "LastChanged_Achievements": "2023-11-26T04:06:34.668815+00:00",
+  "LastChanged_Achievements": "2023-11-26T05:08:08.4388255+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.9761475+00:00",
-  "LastUpdate_Ratings": "2023-11-26T03:59:32.16266+00:00",
-  "LastUpdate_Achievements": "2023-11-26T04:06:34.6688804+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:59:38.6206688+00:00",
+  "LastUpdate_Achievements": "2023-11-26T05:08:08.4388731+00:00"
 }

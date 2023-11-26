@@ -511,7 +511,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2692,
+  "EOS_Progressed": 2694,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
@@ -8036,6 +8036,11 @@
       "Time": "2023-11-26T02:32:03.5841891+00:00",
       "NumProgressed": 2692,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T05:08:46.0343678+00:00",
+      "NumProgressed": 2694,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8095,7 +8100,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "cauldronliberator",
@@ -8127,7 +8132,7 @@
       "Name": "Crystal Mining",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "dailyquestcompletionist",
@@ -8167,7 +8172,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ebonyjungleliberator",
@@ -8183,7 +8188,7 @@
       "Name": "Enchanting skill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "enchantingskillx5",
@@ -8199,7 +8204,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "enhancedwarmachines",
@@ -8277,9 +8282,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 647
     },
     {
       "ID": "herewegoagain",
@@ -8287,7 +8292,7 @@
       "Name": "Here We Go Again",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "heroinspection",
@@ -8359,7 +8364,7 @@
       "Name": "Master Enchanter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "mastery",
@@ -8439,7 +8444,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "prestigiousx10",
@@ -8447,7 +8452,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "relicofthepast",
@@ -8503,7 +8508,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1536
     },
     {
       "ID": "thealchemist",
@@ -8519,7 +8524,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "thefatherofdragons",
@@ -8527,7 +8532,7 @@
       "Name": "The father of Dragons",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "thegameison",
@@ -8535,7 +8540,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "thepowerofawakening",
@@ -8567,7 +8572,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -8607,7 +8612,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "warmachinesarmy",
@@ -8623,7 +8628,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "whatliesbehindthebush",
@@ -8639,14 +8644,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2692,
+      "Progressed": 2694,
       "Completed": 2
     }
   ],
@@ -8654,8 +8659,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-25T17:02:46.8943559+00:00",
-  "LastChanged_Achievements": "2023-11-26T04:08:43.098434+00:00",
+  "LastChanged_Achievements": "2023-11-26T05:08:46.0343674+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:02:37.8533785+00:00",
-  "LastUpdate_Achievements": "2023-11-26T04:08:43.0985116+00:00"
+  "LastUpdate_Ratings": "2023-11-26T05:02:32.3819875+00:00",
+  "LastUpdate_Achievements": "2023-11-26T05:08:46.0344639+00:00"
 }

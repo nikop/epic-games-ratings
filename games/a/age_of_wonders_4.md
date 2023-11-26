@@ -20,6 +20,7 @@ Rating: 4.61 (Ranked 383)
 | Stronger Together | 1.00% | ~55 |
 | Magical Synergy | 1.00% | ~55 |
 | In a Liege of Your Own | 1.00% | ~55 |
+| Impenetrable Fortress | 1.00% | ~55 |
 | Intimidation Tactics | 1.00% | ~55 |
 | Here be Dragons | 1.00% | ~55 |
 | Tipping the Scales | 1.00% | ~55 |
@@ -33,7 +34,6 @@ Rating: 4.61 (Ranked 383)
 | Digging for Treasure | 0.90% | ~50 |
 | My Final Form | 0.90% | ~50 |
 | Fiery Friend | 0.90% | ~50 |
-| Impenetrable Fortress | 0.90% | ~50 |
 | Dawn of the Dread | 0.90% | ~50 |
 | Prometheus Avenged | 0.80% | ~44 |
 | Arch Mage | 0.70% | ~38 |

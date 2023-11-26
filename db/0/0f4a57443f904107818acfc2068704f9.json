@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 617,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1386,9 +1386,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 346
     },
     {
       "ID": "CompleteChapter3",
@@ -1434,9 +1434,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 74
     },
     {
       "ID": "CompleteChapter9",
@@ -1545,8 +1545,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-26T04:05:47.3668029+00:00",
+  "LastChanged_Achievements": "2023-11-26T05:05:41.6757416+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-26T03:59:00.0751512+00:00",
-  "LastUpdate_Achievements": "2023-11-26T04:05:47.366825+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:59:05.8658175+00:00",
+  "LastUpdate_Achievements": "2023-11-26T05:05:41.6757706+00:00"
 }

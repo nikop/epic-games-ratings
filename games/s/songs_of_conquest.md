@@ -7,10 +7,10 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 29.00% | ~68 |
-| Double Kill | 23.00% | ~54 |
+| Double Kill | 22.00% | ~52 |
 | Critical Hit | 10.00% | ~24 |
 | Veteran | 8.00% | ~19 |
-| Dressed For Success | 7.00% | ~16 |
+| Dressed For Success | 7.00% | ~17 |
 | Humiliation | 6.00% | ~14 |
 | Sorcerous Spree | 5.00% | ~12 |
 | Veni, Vidi, Vici | 5.00% | ~12 |
@@ -24,12 +24,12 @@ Number of Ratings: 292  (23.09.2022)
 | Trojan Horse | 2.00% | ~5 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~5 |
 | Infernal Influence | 1.00% | ~2 |
-| Death To Diplomacy | 0.90% | ~2 |
-| Versatile Wielder | 0.90% | ~2 |
-| Coming Through! | 0.90% | ~2 |
-| Deepstrike | 0.90% | ~2 |
-| Landlord Extraordinaire | 0.90% | ~2 |
-| Pyrrhic Victory | 0.90% | ~2 |
+| Death To Diplomacy | 0.80% | ~2 |
+| Versatile Wielder | 0.80% | ~2 |
+| Coming Through! | 0.80% | ~2 |
+| Deepstrike | 0.80% | ~2 |
+| Landlord Extraordinaire | 0.80% | ~2 |
+| Pyrrhic Victory | 0.80% | ~2 |
 | Hello There | 0.40% | ~1 |
 | Unlimited Power! | 0.40% | ~1 |
 | Fully Charged | 0.40% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 376)  
+Progressed: 236 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 198 | 0 |
 | 2023-11-24 | 212 | 0 |
 | 2023-11-25 | 234 | 0 |
-| 2023-11-26 | 235 | 0 |
+| 2023-11-26 | 236 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 510)  
 Sum: 194 (Ranked 404)  

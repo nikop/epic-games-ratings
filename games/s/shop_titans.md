@@ -14,13 +14,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 4.00% | ~5,685 |
 | Budding Merchant | 4.00% | ~5,685 |
 | Capitalism Ho! | 4.00% | ~5,685 |
-| One Easy Payment | 3.00% | ~4,263 |
-| Some Assembly Required | 3.00% | ~4,263 |
-| Another Satisfied Customer | 3.00% | ~4,263 |
-| Pretty Penny | 3.00% | ~4,263 |
-| One-Armed Bandit | 3.00% | ~4,263 |
-| Through Repetition, Perfection | 3.00% | ~4,263 |
-| Own the Means of Production | 3.00% | ~4,263 |
+| One Easy Payment | 3.00% | ~4,264 |
+| Some Assembly Required | 3.00% | ~4,264 |
+| Another Satisfied Customer | 3.00% | ~4,264 |
+| Pretty Penny | 3.00% | ~4,264 |
+| One-Armed Bandit | 3.00% | ~4,264 |
+| Through Repetition, Perfection | 3.00% | ~4,264 |
+| Own the Means of Production | 3.00% | ~4,264 |
 | The Daily Grind | 2.00% | ~2,842 |
 | On the Path to Greatness | 2.00% | ~2,842 |
 | Ascended | 2.00% | ~2,842 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.20% | ~284 |
 | To Hell and Back | 0.20% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,113 (Ranked 80)  
-Completed: 268 (0.19%) (Ranked 260)  
+Progressed: 142,120 (Ranked 80)  
+Completed: 269 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -339,10 +339,10 @@ Completed: 268 (0.19%) (Ranked 260)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,113 | 268 |
+| 2023-11-26 | 142,120 | 269 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
-Sum: 27,598 (Ranked 50)  
+Sum: 27,599 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -350,7 +350,7 @@ Diff (max vs sum): 25
 | This game is Relaxing | 4,046 |
 | This game has Quickly Understood Controls | 4,033 |
 | This game has Diverse Characters | 3,950 |
-| This game is Highly Recommended | 3,784 |
+| This game is Highly Recommended | 3,785 |
 | This game has Easy Combat | 3,731 |
 | This game has Playful Visuals | 3,210 |
 | This game has Inclusive Character Customization | 22 |
@@ -656,3 +656,4 @@ Diff (max vs sum): 25
 | 2023-11-22 | 3.99 | - | 4,839 | 27,581 |
 | 2023-11-24 | 3.99 | - | 4,842 | 27,589 |
 | 2023-11-25 | 3.99 | - | 4,844 | 27,598 |
+| 2023-11-26 | 3.99 | - | 4,844 | 27,599 |

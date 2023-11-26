@@ -36,12 +36,12 @@ Number of Ratings: 398  (23.09.2022)
 | Apocalypso | 3.00% | ~184 |
 | Narcissist | 3.00% | ~184 |
 | The Time For Wonders | 3.00% | ~184 |
+| Chain Gang | 2.00% | ~123 |
 | One Does Not Simply Stage A Coup | 2.00% | ~123 |
 | Promising Endeavors | 2.00% | ~123 |
 | Sublime Subliminal Supreme | 2.00% | ~123 |
 | Terraformer | 2.00% | ~123 |
 | Curse of the Mummy | 2.00% | ~123 |
-| Chain Gang | 1.00% | ~61 |
 | From Knight to Little Duck | 1.00% | ~61 |
 | Teamplayer | 1.00% | ~61 |
 | Survivor | 0.80% | ~49 |

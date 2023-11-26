@@ -8,8 +8,8 @@ Rating: 4.54 (Ranked 527)
 | Whatever It Takes | 3.00% | ~1,525 |
 | Hotel California | 2.00% | ~14,506 |
 | Welcome To Hell-A | 2.00% | ~14,506 |
-| One of Us | 2.00% | ~1,016 |
-| Pork Chopped | 2.00% | ~1,016 |
+| One of Us | 2.00% | ~1,017 |
+| Pork Chopped | 2.00% | ~1,017 |
 | Dr. Reed, I Presume? | 1.00% | ~7,253 |
 | Git Gutte! | 1.00% | ~7,253 |
 | Anger Management | 1.00% | ~7,253 |
@@ -50,15 +50,15 @@ Rating: 4.54 (Ranked 527)
 | Sole Survivor | 0.30% | ~2,176 |
 | Gore Horse | 0.30% | ~2,176 |
 | Sharpest Tool in the Box | 0.30% | ~2,176 |
-| Top That, Tisha! | 0.30% | ~152 |
+| Top That, Tisha! | 0.30% | ~153 |
 | Survival Skills | 0.20% | ~1,451 |
 | Lawn and Order | 0.20% | ~102 |
 | Donk! | 0.10% | ~725 |
 | Bucket List | 0.10% | ~725 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,279 (Ranked 21)  
-Completed: 2,438 (0.34%) (Ranked 229)  
+Progressed: 725,297 (Ranked 21)  
+Completed: 2,439 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -277,14 +277,14 @@ Completed: 2,438 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
-| 2023-11-26 | 725,279 | 2,438 |
+| 2023-11-26 | 725,297 | 2,439 |
 ## Awards
-Max (Great Boss Battles): 7,712  (Ranked 50)  
-Sum: 11,802 (Ranked 83)  
+Max (Great Boss Battles): 7,731  (Ranked 50)  
+Sum: 11,821 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,712 |
+| This game has Great Boss Battles | 7,731 |
 | This game is Great for Beginners | 595 |
 | This game has Diverse Characters | 566 |
 | This game has Quickly Understood Controls | 530 |
@@ -515,3 +515,4 @@ Diff (max vs sum): -33
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
+| 2023-11-26 | 4.54 | 7,731 | 11,821 |

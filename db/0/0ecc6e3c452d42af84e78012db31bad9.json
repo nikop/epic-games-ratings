@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4218,
+  "EOS_Progressed": 4219,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -10474,6 +10474,11 @@
       "Time": "2023-11-26T04:05:59.0705018+00:00",
       "NumProgressed": 4218,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-26T05:05:53.4377299+00:00",
+      "NumProgressed": 4219,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 16,
@@ -10517,7 +10522,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3249
     },
     {
       "ID": "ach_architecture_completed",
@@ -10573,7 +10578,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ach_game_opened",
@@ -10589,7 +10594,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "ach_no_boosters",
@@ -10612,14 +10617,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4218,
+      "Progressed": 4219,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-26T04:05:59.0705015+00:00",
+  "LastChanged_Achievements": "2023-11-26T05:05:53.4377295+00:00",
   "LastUpdate_AppInfo": "2023-11-24T20:57:04.2285438+00:00",
-  "LastUpdate_Ratings": "2023-11-26T03:58:06.0656796+00:00",
-  "LastUpdate_Achievements": "2023-11-26T04:05:59.0705582+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:58:10.0421857+00:00",
+  "LastUpdate_Achievements": "2023-11-26T05:05:53.4377931+00:00"
 }

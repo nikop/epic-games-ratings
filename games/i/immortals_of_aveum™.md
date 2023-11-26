@@ -15,7 +15,7 @@ Rating: 4.07 (Ranked 976)
 | Gravity-Challenged Rocks | 43.00% | ~130 |
 | Soldier | 36.00% | ~109 |
 | All the Major Food Groups | 35.00% | ~106 |
-| Beggars Would Ride | 31.00% | ~94 |
+| Beggars Would Ride | 32.00% | ~97 |
 | Socialite | 30.00% | ~91 |
 | Control is an Illusion | 28.00% | ~85 |
 | The Means to Save It | 23.00% | ~69 |
@@ -53,7 +53,7 @@ Rating: 4.07 (Ranked 976)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302 (Ranked 351)  
+Progressed: 302 (Ranked 352)  
 Completed: 1 (0.33%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

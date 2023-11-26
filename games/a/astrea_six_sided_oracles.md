@@ -32,9 +32,9 @@
 | The Goddes Avatar | 14.00% | ~12 |
 | Stellar Haste | 13.00% | ~11 |
 | Heavy Purger | 10.00% | ~9 |
+| Sadistic Plan | 10.00% | ~9 |
 | Apian Hero | 10.00% | ~9 |
 | Anomaly Control | 9.00% | ~8 |
-| Sadistic Plan | 9.00% | ~8 |
 | Wave Bender | 9.00% | ~8 |
 | Lacertian Hero | 9.00% | ~8 |
 | Artificer | 8.00% | ~7 |

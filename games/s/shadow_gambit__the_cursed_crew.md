@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 65.00% | ~593 |
+| A New Journey | 65.00% | ~594 |
 | The Adventure Begins | 51.00% | ~466 |
 | Swabbie | 39.00% | ~356 |
 | With Great Power… | 39.00% | ~356 |
@@ -17,12 +17,12 @@ Rating: 4.76 (Ranked 126)
 | Pirates Assemble! | 25.00% | ~228 |
 | Buccaneer | 23.00% | ~210 |
 | Fishy Fish | 21.00% | ~192 |
-| All Good Things | 19.00% | ~173 |
+| All Good Things | 19.00% | ~174 |
 | Persistent Parasite | 17.00% | ~155 |
 | Seadog | 16.00% | ~146 |
 | Jaded Judge | 12.00% | ~110 |
-| Privateer | 11.00% | ~100 |
-| Rustic Recipe | 11.00% | ~100 |
+| Privateer | 11.00% | ~101 |
+| Rustic Recipe | 11.00% | ~101 |
 | Tobacco Travesty | 10.00% | ~91 |
 | Accursed Artifacts | 10.00% | ~91 |
 | Lyrical Longing | 9.00% | ~82 |
@@ -32,8 +32,8 @@ Rating: 4.76 (Ranked 126)
 | Marauder | 4.00% | ~37 |
 | Welcome Back Jester | 4.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 913 (Ranked 269)  
-Completed: 30 (3.29%) (Ranked 94)  
+Progressed: 914 (Ranked 269)  
+Completed: 30 (3.28%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,7 +140,7 @@ Completed: 30 (3.29%) (Ranked 94)
 | 2023-11-23 | 871 | 30 |
 | 2023-11-24 | 883 | 30 |
 | 2023-11-25 | 911 | 30 |
-| 2023-11-26 | 913 | 30 |
+| 2023-11-26 | 914 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

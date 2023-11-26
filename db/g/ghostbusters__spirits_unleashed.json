@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3519,9 +3519,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31590,
+  "EOS_Progressed": 31594,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20504,6 +20504,11 @@
       "Time": "2023-11-26T04:06:00.0715636+00:00",
       "NumProgressed": 31590,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-26T05:05:54.4568713+00:00",
+      "NumProgressed": 31594,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20515,7 +20520,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "Animated",
@@ -20627,7 +20632,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "Escape_Artist",
@@ -20922,7 +20927,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31590,
+      "Progressed": 31594,
       "Completed": 69
     }
   ],
@@ -20930,8 +20935,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-26T04:02:47.5660761+00:00",
-  "LastChanged_Achievements": "2023-11-26T04:06:00.0715632+00:00",
+  "LastChanged_Achievements": "2023-11-26T05:05:54.456871+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-26T04:02:47.5660765+00:00",
-  "LastUpdate_Achievements": "2023-11-26T04:06:00.0716529+00:00"
+  "LastUpdate_Ratings": "2023-11-26T05:02:41.5790862+00:00",
+  "LastUpdate_Achievements": "2023-11-26T05:05:54.4569761+00:00"
 }

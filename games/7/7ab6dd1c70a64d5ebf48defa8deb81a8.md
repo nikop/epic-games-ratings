@@ -27,8 +27,8 @@
 | Godslayer | 3.00% | ~7 |
 | The Mentor | 3.00% | ~7 |
 | Airborne | 3.00% | ~7 |
+| Shatterer | 3.00% | ~7 |
 | Clear Sight | 2.00% | ~4 |
-| Shatterer | 2.00% | ~4 |
 | A Queen's Tale | 2.00% | ~4 |
 | Slayer | 1.00% | ~2 |
 | Miner | 1.00% | ~2 |

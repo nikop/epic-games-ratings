@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 21.00% | ~9 |
-| You have three wishes left | 16.00% | ~7 |
+| Master trainee | 23.00% | ~10 |
+| You have three wishes left | 18.00% | ~8 |
 | The battle of Great Britain | 14.00% | ~6 |
-| Jung's dream | 12.00% | ~5 |
-| Pulp! Where Monsters Dwell | 12.00% | ~5 |
-| A continent with chemistry | 12.00% | ~5 |
+| Jung's dream | 11.00% | ~5 |
+| Pulp! Where Monsters Dwell | 11.00% | ~5 |
+| A continent with chemistry | 11.00% | ~5 |
 | Giant | 9.00% | ~4 |
 | A rival with no options | 9.00% | ~4 |
 | Pulp! Terror Tales in the Night | 9.00% | ~4 |
@@ -34,6 +34,8 @@
 | Et in arcadia ego | 2.00% | ~1 |
 | The bully | 2.00% | ~1 |
 | The scholar | 2.00% | ~1 |
+| Pulp! True Adventures | 2.00% | ~1 |
+| Pulp! The Beyond | 2.00% | ~1 |
 | Thirst for Oleum | 2.00% | ~1 |
 | The barbarian invasions | 2.00% | ~1 |
 | Vaccine fans | 2.00% | ~1 |
@@ -46,13 +48,11 @@
 | Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| Pulp! True Adventures | 0.00% | ~0 |
-| Pulp! The Beyond | 0.00% | ~0 |
 | America had no Faith | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 508)  
+Progressed: 44 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,3 +80,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-20 | 38 | 0 |
 | 2023-11-24 | 40 | 0 |
 | 2023-11-25 | 43 | 0 |
+| 2023-11-26 | 44 | 0 |

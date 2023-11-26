@@ -15,9 +15,9 @@
 | Master of Magic | 63.00% | ~270 |
 | Bad Elves Go Everywhere | 63.00% | ~270 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~253 |
+| Heroes’ Gorge | 57.00% | ~245 |
 | Magic Accidents | 56.00% | ~240 |
-| Heroes’ Gorge | 56.00% | ~240 |
-| Trap Master | 54.00% | ~232 |
+| Trap Master | 55.00% | ~236 |
 | Minions, Minions! | 53.00% | ~227 |
 | The Ascent | 47.00% | ~202 |
 | It's Warm and Cozy at Home | 47.00% | ~202 |
@@ -53,17 +53,17 @@
 | Lavalumps on Ice! | 10.00% | ~43 |
 | Rubble and Ashes | 10.00% | ~43 |
 | The Rune Sockets of Finitude (Part 2) | 10.00% | ~43 |
+| To Infinity And Beyond! | 9.00% | ~39 |
 | The Last Stand - This Time For Real! | 9.00% | ~39 |
 | Untouchable | 8.00% | ~34 |
 | To the Max! | 8.00% | ~34 |
-| To Infinity And Beyond! | 8.00% | ~34 |
 | Mirror, Mirror | 7.00% | ~30 |
 | Gorgu is in the Best of Health | 6.00% | ~26 |
 | Laser Eyes Are So Useless | 6.00% | ~26 |
 | Evilification | 6.00% | ~26 |
 | Heal Heal Blessing | 5.00% | ~21 |
+| No Mana, No Cry | 4.00% | ~17 |
 | Hands Off My Stones | 4.00% | ~17 |
-| No Mana, No Cry | 3.00% | ~13 |
 | I Don't Need Any Help | 3.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 429 (Ranked 321)  

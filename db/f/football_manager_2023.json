@@ -7995,7 +7995,7 @@
   ],
   "EOS_Progressed": 360471,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 2004,
+  "EOS_NewPlayers": 1995,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33062,9 +33062,9 @@
       "ID": "achievement_hes_a_natural",
       "SetID": "26pcimd",
       "Name": "They\u0027re a Natural",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 108141
+      "UsersEstimate": 111746
     },
     {
       "ID": "achievement_import_to_victory",
@@ -33551,8 +33551,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-11-25T22:57:24.9921803+00:00",
-  "LastChanged_Achievements": "2023-11-26T04:09:19.4475356+00:00",
+  "LastChanged_Achievements": "2023-11-26T05:09:21.8203955+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:03.613663+00:00",
-  "LastUpdate_Ratings": "2023-11-26T03:57:26.6756245+00:00",
-  "LastUpdate_Achievements": "2023-11-26T04:09:19.4477254+00:00"
+  "LastUpdate_Ratings": "2023-11-26T04:57:30.6881969+00:00",
+  "LastUpdate_Achievements": "2023-11-26T05:09:21.8205635+00:00"
 }
