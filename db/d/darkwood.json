@@ -4,11 +4,11 @@
   "ProductSlug": "darkwood-fa73bd",
   "Ranking_Rating": 382,
   "Ranking_Popularity": 247,
-  "Ranking_PopularitySum": 196,
+  "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2017-08-17T07:00:00+00:00",
@@ -528,10 +528,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2421,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2023-11-26T12:00:00.4007671+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2423,
+      "NumberOfAwardsMax": 329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2421,
+  "NumberOfAwards": 2423,
   "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -545,7 +551,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 290
+      "Count": 292
     },
     {
       "Text": "This game has Challenging Combat",
@@ -608,8 +614,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2023-11-23T06:58:31.6782882+00:00",
+  "LastChanged": "2023-11-26T12:00:00.4007668+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:38.4188364+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:00:04.0025595+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:06:22.9468319+00:00"
+  "LastUpdate_Ratings": "2023-11-26T12:00:00.4007675+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:08:05.4703155+00:00"
 }

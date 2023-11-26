@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3351,
+  "EOS_Progressed": 3353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5888,6 +5888,11 @@
       "Time": "2023-11-26T09:03:38.3485794+00:00",
       "NumProgressed": 3351,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T12:03:28.1392376+00:00",
+      "NumProgressed": 3353,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5899,7 +5904,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "ACH_BASE_10",
@@ -6011,7 +6016,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ACH_BASE_25",
@@ -6099,7 +6104,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_BASE_35",
@@ -6354,13 +6359,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1535,
+      "Progressed": 1537,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3351,
+      "Progressed": 3353,
       "Completed": 0
     }
   ],
@@ -6368,8 +6373,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:03:13.2182889+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:03:28.1392373+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.2779829+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:57:39.6507672+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:03:13.2183497+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:57:37.973207+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:03:28.1392988+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -395,9 +395,9 @@
       "ID": "CHAIR",
       "SetID": "40o4f14",
       "Name": "A nice view",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CRASHING",
@@ -587,9 +587,9 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SOUL",
@@ -634,8 +634,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:03:50.8692035+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:04:05.7913734+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
   "LastUpdate_Ratings": "2023-11-26T11:00:09.6306106+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:03:50.8692217+00:00"
+  "LastUpdate_Achievements": "2023-11-26T12:04:05.7913889+00:00"
 }

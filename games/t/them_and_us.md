@@ -23,8 +23,8 @@
 | Rest In Peace | 10.00% | ~31 |
 | The Curse Is Real | 10.00% | ~31 |
 | What A Mansion | 8.00% | ~25 |
+| Researcher | 7.00% | ~22 |
 | I Am The Gate Keeper! | 7.00% | ~22 |
-| Researcher | 6.00% | ~19 |
 | This Mansion Is Clean | 5.00% | ~16 |
 | Armed To The Teeth | 4.00% | ~12 |
 | The bus stop | 3.00% | ~9 |

@@ -5,13 +5,13 @@ Rating: 4.56 (Ranked 493)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~556 |
+| Tell me your story | 75.00% | ~549 |
 | Don't judge a manhole by its cover | 60.00% | ~439 |
 | I just love stuff! | 42.00% | ~307 |
 | Keep 'em coming! | 42.00% | ~307 |
 | The things they print nowadays | 39.00% | ~285 |
 | Big Spender | 38.00% | ~278 |
-| That's gotta hurt | 36.00% | ~263 |
+| That's gotta hurt | 36.00% | ~264 |
 | The Ann Flores Combo Experience | 26.00% | ~190 |
 | Club Star | 25.00% | ~183 |
 | I think it's broke | 25.00% | ~183 |
@@ -24,10 +24,10 @@ Rating: 4.56 (Ranked 493)
 | Annakin Skyscroller | 13.00% | ~95 |
 | In the smacker...I think | 10.00% | ~73 |
 | Arm Wrestlin' | 9.00% | ~66 |
-| 1+1>2 | 8.00% | ~58 |
-| So Fresh and So clean clean | 8.00% | ~58 |
-| This can't be right… | 8.00% | ~58 |
-| Welcome home, 06 | 8.00% | ~58 |
+| 1+1>2 | 8.00% | ~59 |
+| So Fresh and So clean clean | 8.00% | ~59 |
+| This can't be right… | 8.00% | ~59 |
+| Welcome home, 06 | 8.00% | ~59 |
 | I'm walking here! | 7.00% | ~51 |
 | Supreme Bartender Ann | 7.00% | ~51 |
 | Clarity of Mind | 6.00% | ~44 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 493)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731 (Ranked 279)  
+Progressed: 732 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 696 | 0 |
 | 2023-11-24 | 705 | 0 |
 | 2023-11-25 | 726 | 0 |
-| 2023-11-26 | 731 | 0 |
+| 2023-11-26 | 732 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,14 +6,14 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,766 |
-| Self-Improvement | 71.00% | ~1,425 |
+| Unforgiven | 88.00% | ~1,767 |
+| Self-Improvement | 71.00% | ~1,426 |
 | Perky | 65.00% | ~1,305 |
-| Let’s Ride | 59.00% | ~1,184 |
+| Let’s Ride | 59.00% | ~1,185 |
 | Welcome to the Weird West | 56.00% | ~1,124 |
 | Dead or Alive | 55.00% | ~1,104 |
 | Full House | 37.00% | ~743 |
-| Off the Trail | 34.00% | ~682 |
+| Off the Trail | 34.00% | ~683 |
 | Justice Served | 29.00% | ~582 |
 | Chain Reaction | 27.00% | ~542 |
 | Through Their Eyes | 26.00% | ~522 |
@@ -21,7 +21,7 @@ Number of Ratings: 125  (23.09.2022)
 | Rain of Death | 25.00% | ~502 |
 | Scholar | 25.00% | ~502 |
 | The Great Escape | 23.00% | ~462 |
-| That’s All, Folks | 19.00% | ~381 |
+| That’s All, Folks | 19.00% | ~382 |
 | Fallen Star | 16.00% | ~321 |
 | For Balance | 16.00% | ~321 |
 | Here Comes Santa Claus | 16.00% | ~321 |
@@ -42,7 +42,7 @@ Number of Ratings: 125  (23.09.2022)
 | Gold Digger | 8.00% | ~161 |
 | Monster Hunter | 8.00% | ~161 |
 | Knuckle Sandwich | 8.00% | ~161 |
-| Getting the Gang Back Together | 7.00% | ~140 |
+| Getting the Gang Back Together | 7.00% | ~141 |
 | Who You Gonna Call? | 6.00% | ~120 |
 | Healing Old Wounds | 5.00% | ~100 |
 | This Is Sparta | 5.00% | ~100 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,007 (Ranked 225)  
+Progressed: 2,008 (Ranked 226)  
 Completed: 7 (0.35%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,6 +226,7 @@ Completed: 7 (0.35%) (Ranked 227)
 | 2023-11-23 | 2,005 | 7 |
 | 2023-11-24 | 2,006 | 7 |
 | 2023-11-25 | 2,007 | 7 |
+| 2023-11-26 | 2,008 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 500)  
 Sum: 29 (Ranked 515)  

@@ -5,10 +5,10 @@
   "Ranking_Rating": 233,
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 404,
-  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1148,6 +1148,11 @@
       "Time": "2023-11-26T11:05:39.9998693+00:00",
       "NumProgressed": 239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T12:05:53.8145427+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1304,7 +1309,7 @@
       "Name": "Double Kill",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1366,9 +1371,9 @@
       "ID": "MultiKill",
       "SetID": "71c0n9i",
       "Name": "Multi Kill",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "MultiplayerWins",
@@ -1488,7 +1493,7 @@
       "Name": "Adept",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "WielderLevel2",
@@ -1502,9 +1507,9 @@
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "WielderLevel4",
@@ -1534,9 +1539,9 @@
       "ID": "WinBattleWithoutAttacking",
       "SetID": "71c0n9i",
       "Name": "Expert Essence Employment",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -1591,15 +1596,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:05:39.9998691+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:05:53.8145424+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:57:11.7775079+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:05:39.9999088+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:57:10.951105+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:05:53.8145905+00:00"
 }

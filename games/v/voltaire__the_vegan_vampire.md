@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 89.00% | ~103 |
-| Good to grow | 62.00% | ~72 |
-| Fashionista | 39.00% | ~45 |
+| So it begins | 88.00% | ~103 |
+| Good to grow | 62.00% | ~73 |
+| Fashionista | 38.00% | ~44 |
 | Irrigation not irritation | 36.00% | ~42 |
-| Graduated | 33.00% | ~38 |
+| Graduated | 32.00% | ~37 |
 | Night Shift | 22.00% | ~26 |
-| Ay ay yarrr! | 20.00% | ~23 |
+| Ay ay yarrr! | 21.00% | ~25 |
 | Shine bright | 18.00% | ~21 |
 | It's about the journey | 12.00% | ~14 |
 | C'who? | 11.00% | ~13 |
@@ -23,8 +23,8 @@
 | Who let the pets out? | 4.00% | ~5 |
 | It's a bug's life | 4.00% | ~5 |
 | V is for Vegan | 4.00% | ~5 |
-| Groovy! | 3.00% | ~3 |
-| Zap! | 3.00% | ~3 |
+| Groovy! | 3.00% | ~4 |
+| Zap! | 3.00% | ~4 |
 | Veggie Master | 2.00% | ~2 |
 | Homecoming | 2.00% | ~2 |
 | I am Root! | 2.00% | ~2 |
@@ -36,7 +36,7 @@
 | Fauna Connoisseur | 0.00% | ~0 |
 | Daddy Issues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 420)  
+Progressed: 117 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-09-05 | 112 | 0 |
 | 2023-09-09 | 113 | 0 |
 | 2023-11-25 | 115 | 0 |
-| 2023-11-26 | 116 | 0 |
+| 2023-11-26 | 117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

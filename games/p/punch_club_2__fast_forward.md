@@ -9,12 +9,12 @@
 | First winning | 85.00% | ~299 |
 | Good Person Chip | 85.00% | ~299 |
 | Your first job | 83.00% | ~292 |
+| Old movies enjoyer | 79.00% | ~278 |
 | Fitness professional | 78.00% | ~275 |
-| Old movies enjoyer | 78.00% | ~275 |
 | Depressed visitor | 78.00% | ~275 |
+| Neurotrainer – power gainer! | 78.00% | ~275 |
 | Employee of the week | 78.00% | ~275 |
-| Neurotrainer – power gainer! | 77.00% | ~271 |
-| Your own amateur gym | 73.00% | ~257 |
+| Your own amateur gym | 74.00% | ~260 |
 | First defeat | 72.00% | ~253 |
 | Run K, run! | 72.00% | ~253 |
 | No bullying more | 70.00% | ~246 |

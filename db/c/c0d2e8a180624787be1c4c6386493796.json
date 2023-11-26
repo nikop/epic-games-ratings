@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -483,9 +483,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -627,9 +627,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -707,9 +707,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -747,9 +747,9 @@
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
       "SetID": "caeik3h",
       "Name": "You Didn\u0027t See Nothing",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
@@ -795,9 +795,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -907,9 +907,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -963,9 +963,9 @@
       "ID": "KR4_ACHIEVEMENT_TROLL",
       "SetID": "caeik3h",
       "Name": "Oh My God!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:06:05.3459015+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:06:18.62616+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:59:02.5604304+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:06:05.3459604+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:59:00.3979912+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:06:18.6262256+00:00"
 }

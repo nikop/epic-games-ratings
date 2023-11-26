@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
     "PcReleaseDate": "2016-02-04T08:00:00+00:00",
@@ -8785,10 +8785,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 11109,
       "NumberOfAwardsMax": 1357
+    },
+    {
+      "Time": "2023-11-26T11:59:13.4952121+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 11112,
+      "NumberOfAwardsMax": 1357
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11109,
+  "NumberOfAwards": 11112,
   "NumberOfAwardsMax": 1357,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -8814,7 +8820,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1291
+      "Count": 1294
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8864,8 +8870,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-11-25T22:01:17.0307364+00:00",
+  "LastChanged": "2023-11-26T11:59:13.495212+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:04.9692657+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:59:16.8222703+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:05:01.5354355+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:59:13.4952127+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:05:16.2574046+00:00"
 }

@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 97.00% | ~29 |
-| Home Sweet Home | 93.00% | ~28 |
-| First to the post | 93.00% | ~28 |
-| A kind of Magic | 87.00% | ~26 |
-| Connected | 87.00% | ~26 |
-| Expansion | 80.00% | ~24 |
-| Harvest Time | 77.00% | ~23 |
-| Mine! | 70.00% | ~21 |
-| Artificer's Apprentice | 67.00% | ~20 |
-| Fly the friendly Sky | 60.00% | ~18 |
-| Friend of Lyraine | 57.00% | ~17 |
-| Get out of here! | 57.00% | ~17 |
-| The Circle | 53.00% | ~16 |
-| Alchemist's Apprentice | 53.00% | ~16 |
-| Necromancer's Apprentice | 50.00% | ~15 |
-| Redecorating | 43.00% | ~13 |
-| Friend of Sevenkeeps | 33.00% | ~10 |
-| Slave to the rhythm | 30.00% | ~9 |
-| Bad JuJu | 30.00% | ~9 |
-| Sevenkeeps Seat of Kings | 27.00% | ~8 |
-| Castle Meldec | 20.00% | ~6 |
-| Friend of Alluvyan | 20.00% | ~6 |
-| Friend of Gillyshire | 20.00% | ~6 |
-| Friend of Bastion | 20.00% | ~6 |
-| Break Free | 20.00% | ~6 |
-| Philo's Tale | 17.00% | ~5 |
-| Stormwatch Faste | 17.00% | ~5 |
-| Friend of Orgash | 17.00% | ~5 |
-| Friend of Connach | 17.00% | ~5 |
+| Enough rooms to swing a cat | 94.00% | ~29 |
+| Home Sweet Home | 90.00% | ~28 |
+| First to the post | 90.00% | ~28 |
+| A kind of Magic | 84.00% | ~26 |
+| Connected | 84.00% | ~26 |
+| Expansion | 77.00% | ~24 |
+| Harvest Time | 74.00% | ~23 |
+| Mine! | 68.00% | ~21 |
+| Artificer's Apprentice | 65.00% | ~20 |
+| Fly the friendly Sky | 58.00% | ~18 |
+| Friend of Lyraine | 55.00% | ~17 |
+| Get out of here! | 55.00% | ~17 |
+| The Circle | 52.00% | ~16 |
+| Alchemist's Apprentice | 52.00% | ~16 |
+| Necromancer's Apprentice | 48.00% | ~15 |
+| Redecorating | 42.00% | ~13 |
+| Friend of Sevenkeeps | 32.00% | ~10 |
+| Slave to the rhythm | 29.00% | ~9 |
+| Bad JuJu | 29.00% | ~9 |
+| Sevenkeeps Seat of Kings | 26.00% | ~8 |
+| Castle Meldec | 19.00% | ~6 |
+| Friend of Alluvyan | 19.00% | ~6 |
+| Friend of Gillyshire | 19.00% | ~6 |
+| Friend of Bastion | 19.00% | ~6 |
+| Break Free | 19.00% | ~6 |
+| Philo's Tale | 16.00% | ~5 |
+| Stormwatch Faste | 16.00% | ~5 |
+| Friend of Orgash | 16.00% | ~5 |
+| Friend of Connach | 16.00% | ~5 |
 | Defeat Gor | 13.00% | ~4 |
 | Defeat Uram | 13.00% | ~4 |
 | Friend of Silver Drift Hollow | 13.00% | ~4 |
@@ -48,19 +48,19 @@
 | Silver Drift Hollow Mine | 10.00% | ~3 |
 | A Master of Magic | 10.00% | ~3 |
 | Magic Academy | 10.00% | ~3 |
-| Get to the Airship! | 7.00% | ~2 |
-| Defeat Raith | 7.00% | ~2 |
-| Defeat Rohen | 7.00% | ~2 |
-| Defeat Undergast | 7.00% | ~2 |
-| Yngrid's Tale | 7.00% | ~2 |
-| The Forge of Regan Gor | 7.00% | ~2 |
-| Tuscari Sea Portal | 7.00% | ~2 |
-| Master Alchemist | 7.00% | ~2 |
-| Breaking the circle | 7.00% | ~2 |
-| Mage Teacher | 7.00% | ~2 |
-| Balanced | 7.00% | ~2 |
-| Friend of Grey Dusk Vale | 7.00% | ~2 |
-| Friend of Uram Gor | 7.00% | ~2 |
+| Get to the Airship! | 6.00% | ~2 |
+| Defeat Raith | 6.00% | ~2 |
+| Defeat Rohen | 6.00% | ~2 |
+| Defeat Undergast | 6.00% | ~2 |
+| Yngrid's Tale | 6.00% | ~2 |
+| The Forge of Regan Gor | 6.00% | ~2 |
+| Tuscari Sea Portal | 6.00% | ~2 |
+| Master Alchemist | 6.00% | ~2 |
+| Breaking the circle | 6.00% | ~2 |
+| Mage Teacher | 6.00% | ~2 |
+| Balanced | 6.00% | ~2 |
+| Friend of Grey Dusk Vale | 6.00% | ~2 |
+| Friend of Uram Gor | 6.00% | ~2 |
 | Crypt of the Revenant | 3.00% | ~1 |
 | Misty Coast Dragonbones | 3.00% | ~1 |
 | Fireforge | 3.00% | ~1 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 529)  
+Progressed: 31 (Ranked 529)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 25 | 0 |
 | 2023-11-23 | 26 | 0 |
 | 2023-11-24 | 29 | 0 |
-| 2023-11-26 | 30 | 0 |
+| 2023-11-26 | 31 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

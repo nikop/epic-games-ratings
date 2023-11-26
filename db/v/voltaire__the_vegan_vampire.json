@@ -2,10 +2,10 @@
   "ID": "8f25cbefde7d4e7c8537aa860415d0b5",
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -246,6 +246,11 @@
       "Time": "2023-11-26T00:07:33.2989079+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T12:06:19.7325717+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -279,9 +284,9 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "FIRST_HARVEST",
@@ -289,7 +294,7 @@
       "Name": "Good to grow",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "FISH",
@@ -327,7 +332,7 @@
       "ID": "GRAVEYARD",
       "SetID": "3c20ib3",
       "Name": "So it begins",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 5,
       "UsersEstimate": 103
     },
@@ -345,7 +350,7 @@
       "Name": "Groovy!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KILL_BUGBUG",
@@ -367,9 +372,9 @@
       "ID": "KILL_ELCAPITAN",
       "SetID": "3c20ib3",
       "Name": "Ay ay yarrr!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "KILL_ENEMIES",
@@ -473,15 +478,15 @@
       "Name": "Zap!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "UNLOCK_WELL",
@@ -504,7 +509,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
@@ -512,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:06:06.3264387+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:06:19.7325714+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.672734+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:59:23.3799197+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:06:06.3264707+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:59:20.2714857+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:06:19.7325903+00:00"
 }

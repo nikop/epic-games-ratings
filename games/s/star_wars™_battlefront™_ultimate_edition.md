@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,270 |
-| Off to a good start | 67.00% | ~956 |
-| Do... or do not. There is no try | 50.00% | ~714 |
-| A good blaster at your side | 31.00% | ~442 |
-| Scrap collector | 19.00% | ~271 |
-| I suggest a new strategy | 19.00% | ~271 |
+| New Recruit | 89.00% | ~1,273 |
+| Off to a good start | 67.00% | ~958 |
+| Do... or do not. There is no try | 50.00% | ~715 |
+| A good blaster at your side | 31.00% | ~443 |
+| Scrap collector | 19.00% | ~272 |
+| I suggest a new strategy | 19.00% | ~272 |
 | All right, I'll give it a try | 17.00% | ~243 |
 | Great shot, kid! | 17.00% | ~243 |
 | The power of the Force | 14.00% | ~200 |
@@ -17,21 +17,20 @@
 | Shoot first | 14.00% | ~200 |
 | Collector | 13.00% | ~186 |
 | Survivor | 10.00% | ~143 |
-| Tell Jabba that I've got his money | 9.00% | ~128 |
-| Best star-pilot in the galaxy | 9.00% | ~128 |
+| Tell Jabba that I've got his money | 9.00% | ~129 |
+| Best star-pilot in the galaxy | 9.00% | ~129 |
 | Never tell me the odds! | 8.00% | ~114 |
 | A cunning warrior | 8.00% | ~114 |
 | What's the cargo? | 7.00% | ~100 |
 | "Gonk? Gonk!" | 6.00% | ~86 |
 | Impressive. Most impressive. | 6.00% | ~86 |
 | Judge me by my size, do you? | 6.00% | ~86 |
-| Distinguished | 5.00% | ~71 |
-| A tremor in the Force | 5.00% | ~71 |
-| Support the troops | 5.00% | ~71 |
+| Distinguished | 5.00% | ~72 |
+| A tremor in the Force | 5.00% | ~72 |
+| Support the troops | 5.00% | ~72 |
 | Safety ain't the point of a joyride | 4.00% | ~57 |
 | Not bad for a little furball | 4.00% | ~57 |
 | Patience you must have | 4.00% | ~57 |
-| Don't underestimate the Force | 4.00% | ~57 |
 | I've been waiting for you | 3.00% | ~43 |
 | When 900 years old you reach... | 3.00% | ~43 |
 | Determined | 3.00% | ~43 |
@@ -39,6 +38,7 @@
 | On the ball | 3.00% | ~43 |
 | Precision shot | 3.00% | ~43 |
 | That's no moon | 3.00% | ~43 |
+| Don't underestimate the Force | 3.00% | ~43 |
 | Hold the line! | 2.00% | ~29 |
 | The Force is strong with this one | 2.00% | ~29 |
 | This is a new day, a new beginning | 2.00% | ~29 |
@@ -59,16 +59,16 @@
 | Do we take prisoners? | 0.80% | ~11 |
 | I’ll take that bet | 0.60% | ~9 |
 | Stay on target | 0.40% | ~6 |
-| Don't get cocky | 0.40% | ~6 |
-| Master | 0.40% | ~6 |
 | Greed can be a very powerful ally | 0.40% | ~6 |
 | That got him! | 0.30% | ~4 |
 | in a galaxy far, far away.... | 0.30% | ~4 |
+| Don't get cocky | 0.30% | ~4 |
+| Master | 0.30% | ~4 |
 | Stay in attack formation | 0.30% | ~4 |
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,427 (Ranked 242)  
+Progressed: 1,430 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1 (0.07%) (Ranked 300)
 | 2023-11-23 | 1,384 | 1 |
 | 2023-11-24 | 1,403 | 1 |
 | 2023-11-25 | 1,421 | 1 |
-| 2023-11-26 | 1,427 | 1 |
+| 2023-11-26 | 1,430 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

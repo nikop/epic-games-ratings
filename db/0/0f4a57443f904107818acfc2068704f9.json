@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 632,
+  "EOS_Progressed": 634,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
@@ -1257,6 +1257,11 @@
       "Time": "2023-11-26T11:05:41.7502348+00:00",
       "NumProgressed": 632,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T12:05:55.6431435+00:00",
+      "NumProgressed": 634,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1325,7 +1330,7 @@
       "Name": "Pathfinder",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "CompleteChapter10",
@@ -1413,7 +1418,7 @@
       "Name": "Met the Enemy",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "CompleteChapter3",
@@ -1421,7 +1426,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "CompleteChapter4",
@@ -1429,7 +1434,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "CompleteChapter5",
@@ -1517,7 +1522,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1564,14 +1569,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 632,
+      "Progressed": 634,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:05:41.7502346+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:05:55.6431432+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:59:07.2416703+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:05:41.7502639+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:59:04.9081608+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:05:55.6431746+00:00"
 }

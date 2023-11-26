@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1502,9 +1502,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131255,
+  "EOS_Progressed": 131257,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23002,6 +23002,11 @@
       "Time": "2023-11-26T11:05:16.2450633+00:00",
       "NumProgressed": 131255,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-26T12:05:30.7729805+00:00",
+      "NumProgressed": 131257,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23069,7 +23074,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31501
+      "UsersEstimate": 31502
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23093,7 +23098,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36751
+      "UsersEstimate": 36752
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23332,15 +23337,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131255,
+      "Progressed": 131257,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-25T21:59:59.8181646+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:05:16.2450629+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:05:30.7729801+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:57:55.9998482+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:05:16.2451951+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:57:53.3281875+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:05:30.7731212+00:00"
 }

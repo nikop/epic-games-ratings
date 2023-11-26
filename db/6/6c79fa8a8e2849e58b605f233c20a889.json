@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2951,
+  "EOS_Progressed": 2952,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7679,6 +7679,11 @@
       "Time": "2023-11-26T09:09:21.2041824+00:00",
       "NumProgressed": 2951,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T12:08:55.9131568+00:00",
+      "NumProgressed": 2952,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7722,7 +7727,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -7770,7 +7775,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "GLOVE_SLAP",
@@ -7865,14 +7870,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2951,
+      "Progressed": 2952,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:08:45.1988469+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:08:55.913156+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:17.3465662+00:00",
-  "LastUpdate_Ratings": "2023-11-26T11:00:06.3858244+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:08:45.198899+00:00"
+  "LastUpdate_Ratings": "2023-11-26T12:00:02.8569519+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:08:55.9132008+00:00"
 }

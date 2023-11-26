@@ -4,8 +4,8 @@
   "ProductSlug": "sphere-guider-e20c86",
   "Ranking_EOS_Progress": 617,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-15T05:00:00+00:00",
     "PcReleaseDate": "2023-05-24T16:00:00+00:00",
@@ -95,41 +95,41 @@
       "ID": "ACH_LEVEL_10",
       "SetID": "69oldh4",
       "Name": "Disappearing Act",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LEVEL_11",
       "SetID": "69oldh4",
       "Name": "Hole In One",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LEVEL_12",
       "SetID": "69oldh4",
       "Name": "Bouncing In The Clouds",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LEVEL_13",
       "SetID": "69oldh4",
       "Name": "Controlled Landings",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LEVEL_14",
       "SetID": "69oldh4",
       "Name": "Infiltrate The Lair",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LEVEL_15",
@@ -199,9 +199,9 @@
       "ID": "ACH_LEVEL_9",
       "SetID": "69oldh4",
       "Name": "Mind The Gap",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -214,8 +214,8 @@
   ],
   "FirstSeen": "2023-06-24T15:57:31.2167297+00:00",
   "FirstSeenAchievements": "2023-05-16T05:01:46.5155201+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:08:20.6979622+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:08:31.6228031+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:31.4839041+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:57:42.7016586+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:08:20.6979704+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:57:40.8917302+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:08:31.6228132+00:00"
 }

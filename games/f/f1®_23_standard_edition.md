@@ -5,14 +5,14 @@ Rating: 4.68 (Ranked 254)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,560 |
-| On the Top Step | 88.00% | ~5,205 |
+| Getting on the Step | 94.00% | ~5,561 |
+| On the Top Step | 88.00% | ~5,206 |
 | Setting up for Success | 77.00% | ~4,555 |
-| Team Orders | 75.00% | ~4,436 |
-| Engineer | 55.00% | ~3,253 |
-| Familiar Faces | 48.00% | ~2,839 |
-| Sharing the Love | 43.00% | ~2,543 |
-| Going the Extra Mile | 42.00% | ~2,484 |
+| Team Orders | 75.00% | ~4,437 |
+| Engineer | 55.00% | ~3,254 |
+| Familiar Faces | 48.00% | ~2,840 |
+| Sharing the Love | 43.00% | ~2,544 |
+| Going the Extra Mile | 42.00% | ~2,485 |
 | Hitting a Season | 39.00% | ~2,307 |
 | A Dozen Pieces | 33.00% | ~1,952 |
 | Challenge Yourself | 33.00% | ~1,952 |
@@ -26,7 +26,7 @@ Rating: 4.68 (Ranked 254)
 | Reuse | 17.00% | ~1,006 |
 | One for the Book | 17.00% | ~1,006 |
 | Proving Them Wrong | 17.00% | ~1,006 |
-| Gathering Dust | 16.00% | ~946 |
+| Gathering Dust | 16.00% | ~947 |
 | Oil and Water | 15.00% | ~887 |
 | Hitting a Bullseye | 14.00% | ~828 |
 | Spinning Around | 14.00% | ~828 |
@@ -38,9 +38,9 @@ Rating: 4.68 (Ranked 254)
 | Recycle | 12.00% | ~710 |
 | Tinkerer | 10.00% | ~592 |
 | Undisputed Winner | 9.00% | ~532 |
+| Living up to Expectations | 7.00% | ~414 |
 | Smooth Operator | 7.00% | ~414 |
 | For all Those Back at the Factory | 6.00% | ~355 |
-| Living up to Expectations | 6.00% | ~355 |
 | Peak Performance | 5.00% | ~296 |
 | Hitting a Century | 4.00% | ~237 |
 | Loyal Bond | 4.00% | ~237 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 254)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,915 (Ranked 186)  
+Progressed: 5,916 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 5,876 | 0 |
 | 2023-11-24 | 5,892 | 0 |
 | 2023-11-25 | 5,910 | 0 |
-| 2023-11-26 | 5,915 | 0 |
+| 2023-11-26 | 5,916 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 526)  
 Sum: 90 (Ranked 455)  

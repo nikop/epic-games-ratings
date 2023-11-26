@@ -17,8 +17,8 @@
 | Turian Ally | 52.00% | ~736 |
 | Medal of Honor | 51.00% | ~722 |
 | Meritorious Service Medal | 51.00% | ~722 |
+| Soldier | 50.00% | ~708 |
 | Charismatic | 50.00% | ~708 |
-| Soldier | 49.00% | ~694 |
 | Soldier Ally | 46.00% | ~651 |
 | Asari Ally | 46.00% | ~651 |
 | Medal of Exploration III | 45.00% | ~637 |
@@ -85,9 +85,9 @@
 | Tunnel Rat | 24.00% | ~340 |
 | Arbiter | 23.00% | ~326 |
 | Savior | 22.00% | ~312 |
+| Party Crasher | 22.00% | ~312 |
 | Lost and Found | 22.00% | ~312 |
 | Paramour II | 21.00% | ~297 |
-| Party Crasher | 21.00% | ~297 |
 | Problem Solver | 21.00% | ~297 |
 | Last Resort | 20.00% | ~283 |
 | Hard Target | 20.00% | ~283 |

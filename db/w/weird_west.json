@@ -5,10 +5,10 @@
   "Ranking_Rating": 678,
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 515,
-  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2007,
+  "EOS_Progressed": 2008,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2781,6 +2781,11 @@
       "Time": "2023-11-25T15:05:56.0295657+00:00",
       "NumProgressed": 2007,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T12:05:19.8923603+00:00",
+      "NumProgressed": 2008,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2880,7 +2885,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -2944,7 +2949,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3024,7 +3029,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -3088,7 +3093,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3104,7 +3109,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -3168,7 +3173,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3215,15 +3220,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2007,
+      "Progressed": 2008,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:05:05.1708285+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:05:19.8923599+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.3166+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:59:42.9428983+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:05:05.1708765+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:59:39.5712286+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:05:19.8924014+00:00"
 }

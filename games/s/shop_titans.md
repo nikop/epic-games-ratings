@@ -10,17 +10,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 6.00% | ~8,531 |
 | Basic in Bulk | 5.00% | ~7,109 |
 | Tinkle of Coins | 5.00% | ~7,109 |
-| Disintermediation | 4.00% | ~5,687 |
-| It's Free Real Estate | 4.00% | ~5,687 |
-| Budding Merchant | 4.00% | ~5,687 |
-| Capitalism Ho! | 4.00% | ~5,687 |
-| One Easy Payment | 3.00% | ~4,265 |
-| Some Assembly Required | 3.00% | ~4,265 |
-| Another Satisfied Customer | 3.00% | ~4,265 |
-| Pretty Penny | 3.00% | ~4,265 |
-| One-Armed Bandit | 3.00% | ~4,265 |
-| Through Repetition, Perfection | 3.00% | ~4,265 |
-| Own the Means of Production | 3.00% | ~4,265 |
+| Disintermediation | 4.00% | ~5,688 |
+| It's Free Real Estate | 4.00% | ~5,688 |
+| Budding Merchant | 4.00% | ~5,688 |
+| Capitalism Ho! | 4.00% | ~5,688 |
+| One Easy Payment | 3.00% | ~4,266 |
+| Some Assembly Required | 3.00% | ~4,266 |
+| Another Satisfied Customer | 3.00% | ~4,266 |
+| Pretty Penny | 3.00% | ~4,266 |
+| One-Armed Bandit | 3.00% | ~4,266 |
+| Through Repetition, Perfection | 3.00% | ~4,266 |
+| Own the Means of Production | 3.00% | ~4,266 |
 | The Daily Grind | 2.00% | ~2,844 |
 | On the Path to Greatness | 2.00% | ~2,844 |
 | Ascended | 2.00% | ~2,844 |
@@ -102,8 +102,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 1.00% | ~1,422 |
 | King's Blade | 1.00% | ~1,422 |
 | Jackpot! | 0.90% | ~1,280 |
-| Thank You Tom Nook | 0.80% | ~1,137 |
-| Eternal Crusade | 0.80% | ~1,137 |
+| Thank You Tom Nook | 0.80% | ~1,138 |
+| Eternal Crusade | 0.80% | ~1,138 |
 | The Free Encyclopedia | 0.70% | ~995 |
 | The Greatest Grind | 0.60% | ~853 |
 | All or Nothing! | 0.60% | ~853 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.20% | ~284 |
 | To Hell and Back | 0.20% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,176 (Ranked 80)  
+Progressed: 142,188 (Ranked 80)  
 Completed: 272 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 272 (0.19%) (Ranked 260)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,176 | 272 |
+| 2023-11-26 | 142,188 | 272 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,604 (Ranked 50)  

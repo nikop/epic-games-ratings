@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -1733,9 +1733,9 @@
       "ID": "digital_casanova",
       "SetID": "c4ipj3h",
       "Name": "Digital Casanova",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 649
+      "UsersEstimate": 656
     },
     {
       "ID": "hold_my_beer",
@@ -1838,8 +1838,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:08:46.0063225+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:08:56.575701+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:08.7163399+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:59:21.5464378+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:08:46.0063399+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:59:18.5637352+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:08:56.5757262+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -767,6 +767,11 @@
       "Time": "2023-11-26T11:04:38.3260917+00:00",
       "NumProgressed": 731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T12:04:53.0334262+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -826,7 +831,7 @@
       "Name": "1\u002B1\u003E2",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Deadly_Kombationem",
@@ -930,7 +935,7 @@
       "Name": "So Fresh and So clean clean",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -944,9 +949,9 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 549
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -954,7 +959,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "The Traveler",
@@ -1010,7 +1015,7 @@
       "Name": "This can\u0027t be right\u2026",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Welcome_home_06",
@@ -1018,7 +1023,7 @@
       "Name": "Welcome home, 06",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Woman on a (side) mission",
@@ -1065,7 +1070,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 0
     }
   ],
@@ -1073,8 +1078,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:04:38.3260914+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:04:53.0334258+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:59:18.4847906+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:04:38.3261162+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:59:15.1344512+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:04:53.0334469+00:00"
 }

@@ -30,6 +30,7 @@ Number of Ratings: 45  (23.09.2022)
 | Empty the Caves | 0.40% | ~6 |
 | Chain Reaction | 0.40% | ~6 |
 | Everfading | 0.40% | ~6 |
+| Storied Past | 0.30% | ~4 |
 | Bonebreakers | 0.30% | ~4 |
 | Plague Doctor | 0.30% | ~4 |
 | Legends Never Die | 0.30% | ~4 |
@@ -37,7 +38,6 @@ Number of Ratings: 45  (23.09.2022)
 | Into Mulch | 0.30% | ~4 |
 | Astrology | 0.30% | ~4 |
 | Lochias's Hunger | 0.30% | ~4 |
-| Storied Past | 0.20% | ~3 |
 | No More Nightmares | 0.20% | ~3 |
 | In Soil, In Smoke | 0.20% | ~3 |
 | Wingknight's Prowess | 0.20% | ~3 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -920,6 +920,11 @@
       "Time": "2023-11-26T11:08:11.8452648+00:00",
       "NumProgressed": 345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T12:08:23.0598523+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -940,7 +945,7 @@
       "Name": "I remember everything!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AchvAssertive",
@@ -956,7 +961,7 @@
       "Name": "Fierce fight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "AchvBombStop",
@@ -1012,7 +1017,7 @@
       "Name": "Evacuation",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "AchvInvShip",
@@ -1058,9 +1063,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "AchvNest",
@@ -1090,9 +1095,9 @@
       "ID": "AchvPutAsleep",
       "SetID": "1hj060c",
       "Name": "Strong objection",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "AchvReachBase",
@@ -1116,7 +1121,7 @@
       "Name": "The City",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "AchvReachCondor",
@@ -1146,9 +1151,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "AchvUnity",
@@ -1163,14 +1168,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:08:11.8452645+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:08:23.0598518+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:56:59.0065419+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:08:11.8452879+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:56:58.5483446+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:08:23.0598783+00:00"
 }

@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 743,
+  "EOS_Progressed": 745,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.98,
+  "EOS_Completed_Percentage": 4.97,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3025,6 +3025,11 @@
       "Time": "2023-11-26T10:04:47.8996674+00:00",
       "NumProgressed": 743,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-26T12:03:44.7707368+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 25,
@@ -3044,7 +3049,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "META_ALL_LINK",
@@ -3076,7 +3081,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3084,7 +3089,7 @@
       "Name": "Open door",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3100,7 +3105,7 @@
       "Name": "Feels like springtime",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3132,7 +3137,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3172,7 +3177,7 @@
       "Name": "Champollion",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3180,7 +3185,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3196,15 +3201,15 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 209
     },
     {
       "ID": "PROGRESS_N3",
@@ -3228,21 +3233,21 @@
       "Name": "One last step",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 743,
+      "Progressed": 745,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:03:29.9540848+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:03:44.7707365+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:59:56.0071347+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:03:29.9541136+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:59:52.6013842+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:03:44.770769+00:00"
 }

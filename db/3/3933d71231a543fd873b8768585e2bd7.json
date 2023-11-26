@@ -4,8 +4,8 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -287,9 +287,9 @@
       "ID": "achievements.completemission.islands.01",
       "SetID": "1kd1942",
       "Name": "I Will Survive",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievements.completemission.islands.02",
@@ -414,8 +414,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:03:34.920506+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:03:49.8690125+00:00",
   "LastUpdate_AppInfo": "2023-11-24T16:56:56.5141133+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:57:21.1549197+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:03:34.9205166+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:57:20.2711253+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:03:49.86902+00:00"
 }

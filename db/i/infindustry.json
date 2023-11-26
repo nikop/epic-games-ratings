@@ -2,10 +2,10 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 422,
-  "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -589,6 +589,11 @@
       "Time": "2023-11-26T04:05:27.2315575+00:00",
       "NumProgressed": 114,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T12:05:35.7891378+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -600,7 +605,7 @@
       "Name": "Builder",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Cook",
@@ -695,14 +700,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-11-26T11:05:21.5560971+00:00",
+  "LastChanged_Achievements": "2023-11-26T12:05:35.7891373+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-11-26T10:57:06.0135017+00:00",
-  "LastUpdate_Achievements": "2023-11-26T11:05:21.5561072+00:00"
+  "LastUpdate_Ratings": "2023-11-26T11:57:05.6929928+00:00",
+  "LastUpdate_Achievements": "2023-11-26T12:05:35.7891478+00:00"
 }
