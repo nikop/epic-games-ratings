@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6877,10 +6877,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11832,
       "NumberOfAwardsMax": 7731
+    },
+    {
+      "Time": "2023-11-26T15:59:54.8406487+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11835,
+      "NumberOfAwardsMax": 7731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11832,
+  "NumberOfAwards": 11835,
   "NumberOfAwardsMax": 7731,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6936,10 +6942,10 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 494
+      "Count": 497
     }
   ],
-  "EOS_Progressed": 725668,
+  "EOS_Progressed": 725714,
   "EOS_Completed": 2439,
   "EOS_NewPlayers": 4832,
   "EOS_NewCompleters": 27,
@@ -32129,6 +32135,11 @@
       "Time": "2023-11-26T15:05:39.2199443+00:00",
       "NumProgressed": 725668,
       "NumCompleted": 2439
+    },
+    {
+      "Time": "2023-11-26T16:05:51.8857639+00:00",
+      "NumProgressed": 725714,
+      "NumCompleted": 2439
     }
   ],
   "TotalAchievements": 51,
@@ -32148,7 +32159,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5805
+      "UsersEstimate": 5806
     },
     {
       "ID": "ach_ammo_ran",
@@ -32204,7 +32215,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14513
+      "UsersEstimate": 14514
     },
     {
       "ID": "ach_contender",
@@ -32212,7 +32223,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3629
     },
     {
       "ID": "ach_defensive",
@@ -32300,7 +32311,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14513
+      "UsersEstimate": 14514
     },
     {
       "ID": "ach_impressive_aim",
@@ -32316,7 +32327,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3629
     },
     {
       "ID": "ach_investigator",
@@ -32388,7 +32399,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5805
+      "UsersEstimate": 5806
     },
     {
       "ID": "ach_salvation",
@@ -32436,7 +32447,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5805
+      "UsersEstimate": 5806
     },
     {
       "ID": "ach_the_vcla",
@@ -32468,7 +32479,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3629
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -32476,7 +32487,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14513
+      "UsersEstimate": 14514
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32500,7 +32511,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ach_dark_magic",
@@ -32508,7 +32519,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1538
     },
     {
       "ID": "ach_gardening_tools",
@@ -32516,7 +32527,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_pork_chops",
@@ -32524,7 +32535,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32547,22 +32558,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 725668,
+      "Progressed": 725714,
       "Completed": 2439
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 51210,
+      "Progressed": 51256,
       "Completed": 36606
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-26T10:01:25.4778303+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:05:39.219944+00:00",
+  "LastChanged": "2023-11-26T15:59:54.8406486+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:05:51.8857634+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:59:33.7194767+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:05:39.220098+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:59:54.840649+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:05:51.8859272+00:00"
 }

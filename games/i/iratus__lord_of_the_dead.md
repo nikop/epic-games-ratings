@@ -8,20 +8,20 @@ Number of Ratings: 10,109  (23.09.2022)
 | ---- | ---------- | ----- |
 | Improvement | 85.00% | ~38,922 |
 | Blood Moon | 73.00% | ~33,427 |
-| Path of the Necromancer | 66.00% | ~30,221 |
-| Chainbreaker - I | 60.00% | ~27,474 |
-| Cursed Creature | 57.00% | ~26,100 |
-| Extraction | 57.00% | ~26,100 |
+| Path of the Necromancer | 65.00% | ~29,764 |
+| Chainbreaker - I | 60.00% | ~27,475 |
+| Cursed Creature | 57.00% | ~26,101 |
+| Extraction | 57.00% | ~26,101 |
 | Chainbreaker - II | 55.00% | ~25,185 |
 | Necromancer's Apprentice | 51.00% | ~23,353 |
-| Keeper of Keys | 47.00% | ~21,521 |
+| Keeper of Keys | 47.00% | ~21,522 |
 | Distillation | 43.00% | ~19,690 |
 | Mountain King - I | 42.00% | ~19,232 |
 | Transmutation | 42.00% | ~19,232 |
 | Prepared Necromancer | 40.00% | ~18,316 |
 | Mountain King - II | 39.00% | ~17,858 |
-| Blind Rage | 38.00% | ~17,400 |
-| Mad Genius | 35.00% | ~16,026 |
+| Blind Rage | 38.00% | ~17,401 |
+| Mad Genius | 35.00% | ~16,027 |
 | Cannon Fodder - I | 34.00% | ~15,569 |
 | Soul of Lies | 34.00% | ~15,569 |
 | Bane of Mercenaries - I | 32.00% | ~14,653 |
@@ -30,7 +30,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Shadow Between Worlds | 29.00% | ~13,279 |
 | Bane of Monsters | 28.00% | ~12,821 |
 | Chainbreaker - III | 28.00% | ~12,821 |
-| Revealed Secrets - I | 26.00% | ~11,905 |
+| Revealed Secrets - I | 26.00% | ~11,906 |
 | Revealed Secrets - II | 25.00% | ~11,448 |
 | Blood Elemental | 24.00% | ~10,990 |
 | Unholy Bones | 23.00% | ~10,532 |
@@ -45,10 +45,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | Head of Order | 20.00% | ~9,158 |
 | Calcination | 19.00% | ~8,700 |
 | Blood Mage | 17.00% | ~7,784 |
-| Wild Hunger | 16.00% | ~7,326 |
-| Rage Concentrated | 16.00% | ~7,326 |
-| Mountain King - III | 15.00% | ~6,868 |
-| Rare Warrior | 15.00% | ~6,868 |
+| Wild Hunger | 16.00% | ~7,327 |
+| Rage Concentrated | 16.00% | ~7,327 |
+| Mountain King - III | 15.00% | ~6,869 |
+| Rare Warrior | 15.00% | ~6,869 |
 | Grand Arena | 14.00% | ~6,411 |
 | Blood Madness | 13.00% | ~5,953 |
 | First Sacrifice | 13.00% | ~5,953 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~229 |
 | Renowned Researcher | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,790 (Ranked 114)  
+Progressed: 45,791 (Ranked 114)  
 Completed: 25 (0.05%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,10 +302,10 @@ Completed: 25 (0.05%) (Ranked 311)
 | 2023-11-23 | 45,602 | 24 |
 | 2023-11-24 | 45,660 | 24 |
 | 2023-11-25 | 45,750 | 25 |
-| 2023-11-26 | 45,790 | 25 |
+| 2023-11-26 | 45,791 | 25 |
 ## Awards
 Max (Character Customization): 2,161  (Ranked 109)  
-Sum: 4,199 (Ranked 151)  
+Sum: 4,200 (Ranked 151)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -314,7 +314,7 @@ Diff (max vs sum): -42
 | This game is Relaxing | 226 |
 | This game has Amazing Storytelling | 225 |
 | This game has Challenging Combat | 220 |
-| This game has Diverse Characters | 217 |
+| This game has Diverse Characters | 218 |
 | This game is Extremely Fun | 213 |
 | This game has Amazing Characters | 212 |
 | This game has Quickly Understood Controls | 202 |
@@ -457,3 +457,4 @@ Diff (max vs sum): -42
 | 2023-11-17 | 4.37 | - | 2,161 | 4,197 |
 | 2023-11-18 | 4.37 | - | 2,161 | 4,198 |
 | 2023-11-24 | 4.37 | - | 2,161 | 4,199 |
+| 2023-11-26 | 4.37 | - | 2,161 | 4,200 |

@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 382,
-  "Ranking_Popularity": 481,
+  "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5508,
+  "EOS_Progressed": 5509,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7503,6 +7503,11 @@
       "Time": "2023-11-26T15:05:29.3443707+00:00",
       "NumProgressed": 5508,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T16:05:41.8499279+00:00",
+      "NumProgressed": 5509,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7824,17 +7829,17 @@
       "ID": "5",
       "SetID": "3aa2279",
       "Name": "Grexolis",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "6",
       "SetID": "3aa2279",
       "Name": "One for All, All for One",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "7",
@@ -7993,13 +7998,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5508,
+      "Progressed": 5509,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5508,
+      "Progressed": 5509,
       "Completed": 7
     }
   ],
@@ -8007,8 +8012,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:05:29.3443705+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:05:41.8499276+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:57:40.3494988+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:05:29.3444505+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:57:58.236111+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:05:41.8500086+00:00"
 }

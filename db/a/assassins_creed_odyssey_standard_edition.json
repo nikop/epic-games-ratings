@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 62,
+  "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -11268,10 +11268,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 17338,
       "NumberOfAwardsMax": 6623
+    },
+    {
+      "Time": "2023-11-26T16:00:29.2193285+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 17345,
+      "NumberOfAwardsMax": 6623
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17338,
+  "NumberOfAwards": 17345,
   "NumberOfAwardsMax": 6623,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11309,7 +11315,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 680
+      "Count": 683
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11333,7 +11339,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 647
+      "Count": 651
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11371,8 +11377,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-11-26T11:00:01.3007905+00:00",
+  "LastChanged": "2023-11-26T16:00:29.2193283+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.9637203+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:00:08.6556952+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:05:52.6001015+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:00:29.2193289+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:06:05.5226975+00:00"
 }

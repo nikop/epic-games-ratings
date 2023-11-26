@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -593,9 +593,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "just_like_me",
@@ -674,8 +674,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:08:17.8624333+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:08:49.0554421+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.8439952+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:57:59.1834769+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:08:17.8624522+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:58:17.3066016+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:08:49.0554533+00:00"
 }

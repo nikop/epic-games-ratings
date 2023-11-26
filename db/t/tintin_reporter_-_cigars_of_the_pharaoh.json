@@ -2,10 +2,10 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 481,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -279,6 +279,11 @@
       "Time": "2023-11-26T13:07:12.6322851+00:00",
       "NumProgressed": 59,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T16:03:47.5836143+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -291,7 +296,7 @@
       "Name": "My Papyrus!",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Achievement10",
@@ -377,9 +382,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement20",
@@ -465,7 +470,7 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -537,7 +542,7 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -545,7 +550,7 @@
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -586,14 +591,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:03:36.3158523+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:03:47.5836139+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:09.384053+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:59:28.0597497+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:03:36.3158771+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:59:48.8204934+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:03:47.5836352+00:00"
 }

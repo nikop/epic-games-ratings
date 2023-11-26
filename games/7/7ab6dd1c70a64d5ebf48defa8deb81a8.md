@@ -18,8 +18,8 @@
 | Big Bazar | 7.00% | ~16 |
 | Fashion Victim | 7.00% | ~16 |
 | Stone Collection | 7.00% | ~16 |
-| Calm before the Storm | 6.00% | ~13 |
-| Shatter Them All | 6.00% | ~13 |
+| Calm before the Storm | 6.00% | ~14 |
+| Shatter Them All | 6.00% | ~14 |
 | To Battle | 4.00% | ~9 |
 | Godslayer | 4.00% | ~9 |
 | Airborne | 4.00% | ~9 |
@@ -41,7 +41,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224 (Ranked 380)  
+Progressed: 225 (Ranked 380)  
 Completed: 2 (0.89%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,4 +88,4 @@ Completed: 2 (0.89%) (Ranked 171)
 | 2023-11-23 | 204 | 2 |
 | 2023-11-24 | 213 | 2 |
 | 2023-11-25 | 216 | 2 |
-| 2023-11-26 | 224 | 2 |
+| 2023-11-26 | 225 | 2 |

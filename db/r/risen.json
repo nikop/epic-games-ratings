@@ -2,13 +2,13 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -503,9 +503,9 @@
       "ID": "id_42",
       "SetID": "bk9jib6",
       "Name": "Ogre friend",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "id_43",
@@ -728,8 +728,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:08:21.5261035+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:08:52.8557246+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:07.0323393+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:58:26.1655189+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:08:21.5261375+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:58:46.2244927+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:08:52.8557609+00:00"
 }

@@ -1,35 +1,35 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.56 (Ranked 493)  
+Rating: 4.56 (Ranked 494)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~550 |
-| Don't judge a manhole by its cover | 60.00% | ~440 |
-| I just love stuff! | 42.00% | ~308 |
-| Keep 'em coming! | 42.00% | ~308 |
-| The things they print nowadays | 39.00% | ~286 |
-| Big Spender | 38.00% | ~279 |
-| That's gotta hurt | 35.00% | ~257 |
+| Tell me your story | 75.00% | ~552 |
+| Don't judge a manhole by its cover | 60.00% | ~442 |
+| I just love stuff! | 42.00% | ~309 |
+| Keep 'em coming! | 41.00% | ~302 |
+| The things they print nowadays | 39.00% | ~287 |
+| Big Spender | 38.00% | ~280 |
+| That's gotta hurt | 35.00% | ~258 |
 | Club Star | 25.00% | ~184 |
 | I think it's broke | 25.00% | ~184 |
 | The Ann Flores Combo Experience | 25.00% | ~184 |
-| Fire in the hole! | 21.00% | ~154 |
-| Omnipotence | 19.00% | ~139 |
-| The Warlord | 19.00% | ~139 |
-| You are the One | 19.00% | ~139 |
+| Fire in the hole! | 21.00% | ~155 |
+| Omnipotence | 19.00% | ~140 |
+| The Warlord | 19.00% | ~140 |
+| You are the One | 19.00% | ~140 |
 | Deadly Kombationem | 18.00% | ~132 |
 | The truth is out there | 15.00% | ~110 |
-| Annakin Skyscroller | 13.00% | ~95 |
-| In the smacker...I think | 10.00% | ~73 |
+| Annakin Skyscroller | 13.00% | ~96 |
+| In the smacker...I think | 10.00% | ~74 |
 | Arm Wrestlin' | 9.00% | ~66 |
 | 1+1>2 | 8.00% | ~59 |
 | So Fresh and So clean clean | 8.00% | ~59 |
 | This can't be right… | 8.00% | ~59 |
-| I'm walking here! | 7.00% | ~51 |
-| Supreme Bartender Ann | 7.00% | ~51 |
-| Welcome home, 06 | 7.00% | ~51 |
+| I'm walking here! | 7.00% | ~52 |
+| Supreme Bartender Ann | 7.00% | ~52 |
+| Welcome home, 06 | 7.00% | ~52 |
 | Clarity of Mind | 6.00% | ~44 |
 | I feel secure, contained & protected | 6.00% | ~44 |
 | Science, it works! | 6.00% | ~44 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 493)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734 (Ranked 279)  
+Progressed: 736 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 696 | 0 |
 | 2023-11-24 | 705 | 0 |
 | 2023-11-25 | 726 | 0 |
-| 2023-11-26 | 734 | 0 |
+| 2023-11-26 | 736 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

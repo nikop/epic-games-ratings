@@ -6,13 +6,13 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,358 |
-| Say goodbye, creep! | 66.00% | ~29,038 |
-| Blood splattered | 66.00% | ~29,038 |
-| Choo choo! | 63.00% | ~27,718 |
-| Groovy | 62.00% | ~27,278 |
-| Cleanup on aisle 4! | 57.00% | ~25,078 |
-| Gold | 51.00% | ~22,438 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,359 |
+| Say goodbye, creep! | 66.00% | ~29,039 |
+| Blood splattered | 66.00% | ~29,039 |
+| Choo choo! | 63.00% | ~27,719 |
+| Groovy | 62.00% | ~27,279 |
+| Cleanup on aisle 4! | 57.00% | ~25,079 |
+| Gold | 51.00% | ~22,439 |
 | The boat can leave now...tell the crew | 49.00% | ~21,559 |
 | Give me something to shoot! | 47.00% | ~20,679 |
 | Stand back boy! | 47.00% | ~20,679 |
@@ -35,13 +35,13 @@ Number of Ratings: 743  (23.09.2022)
 | I never liked them anyway | 30.00% | ~13,199 |
 | Is it over? | 28.00% | ~12,319 |
 | Got your back | 27.00% | ~11,879 |
-| Gore soaked | 24.00% | ~10,559 |
-| Shock therapy | 23.00% | ~10,119 |
-| Leave the limbs you've lost | 23.00% | ~10,119 |
-| Everyone's a mad scientist, life is the lab | 19.00% | ~8,359 |
-| Take them down screaming | 18.00% | ~7,919 |
-| Bad Blood | 17.00% | ~7,479 |
-| Weapons expert | 17.00% | ~7,479 |
+| Gore soaked | 24.00% | ~10,560 |
+| Shock therapy | 23.00% | ~10,120 |
+| Leave the limbs you've lost | 23.00% | ~10,120 |
+| Everyone's a mad scientist, life is the lab | 19.00% | ~8,360 |
+| Take them down screaming | 18.00% | ~7,920 |
+| Bad Blood | 17.00% | ~7,480 |
+| Weapons expert | 17.00% | ~7,480 |
 | The bigger they are... | 15.00% | ~6,600 |
 | I'm going deeper underground | 14.00% | ~6,160 |
 | Well equipped | 13.00% | ~5,720 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~440 |
 | None more hard | 0.60% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,997 (Ranked 116)  
+Progressed: 43,998 (Ranked 116)  
 Completed: 25 (0.06%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 25 (0.06%) (Ranked 303)
 | 2023-11-23 | 43,960 | 25 |
 | 2023-11-24 | 43,976 | 25 |
 | 2023-11-25 | 43,993 | 25 |
-| 2023-11-26 | 43,997 | 25 |
+| 2023-11-26 | 43,998 | 25 |
 ## Awards
 Max (Great Boss Battles): 852  (Ranked 164)  
 Sum: 2,563 (Ranked 191)  

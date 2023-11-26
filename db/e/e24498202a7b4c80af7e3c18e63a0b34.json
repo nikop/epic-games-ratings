@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7034,
+  "EOS_Progressed": 7035,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
@@ -6208,6 +6208,11 @@
       "Time": "2023-11-26T15:07:49.8409716+00:00",
       "NumProgressed": 7034,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-26T16:08:20.9552198+00:00",
+      "NumProgressed": 7035,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6244,7 +6249,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "achievement_01_05",
@@ -6252,7 +6257,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "achievement_01_06",
@@ -6260,7 +6265,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "achievement_01_07",
@@ -6268,7 +6273,7 @@
       "Name": "Car Workshop",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "achievement_01_08",
@@ -6276,7 +6281,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "achievement_01_09",
@@ -6300,7 +6305,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "achievement_02_02",
@@ -6308,7 +6313,7 @@
       "Name": "Amateur Champion",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "achievement_02_03",
@@ -6468,7 +6473,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "achievement_04_04",
@@ -6500,7 +6505,7 @@
       "Name": "Nitro Saver",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "achievement_04_08",
@@ -6508,7 +6513,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6049
+      "UsersEstimate": 6050
     },
     {
       "ID": "achievement_04_09",
@@ -6523,7 +6528,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7034,
+      "Progressed": 7035,
       "Completed": 40
     }
   ],
@@ -6531,8 +6536,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-18T21:58:48.6399645+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:07:49.8409713+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:08:20.9552193+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:06.7248226+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:58:45.7983351+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:07:49.8410228+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:59:07.7845449+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:08:20.9552739+00:00"
 }

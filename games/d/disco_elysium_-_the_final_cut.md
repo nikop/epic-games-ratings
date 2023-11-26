@@ -1,22 +1,22 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 22)  
+Rating: 4.87 (Ranked 23)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,754 |
-| Biggest Communism Builder | 24.00% | ~31,503 |
-| The World's Most Laughable Centrist | 21.00% | ~27,565 |
+| Goodest Of The Good Cops | 28.00% | ~36,755 |
+| Biggest Communism Builder | 24.00% | ~31,504 |
+| The World's Most Laughable Centrist | 21.00% | ~27,566 |
 | Il Coppo Del'Arte! | 18.00% | ~23,628 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,002 |
-| Hyperstellar Law Official | 16.00% | ~21,002 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,003 |
+| Hyperstellar Law Official | 16.00% | ~21,003 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,377 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,377 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,064 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,065 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,439 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,126 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,127 |
 | Unbelievably Boring **** | 9.00% | ~11,814 |
 | Enemy Of The Physical Realm | 9.00% | ~11,814 |
 | Hardie's Heroes | 6.00% | ~7,876 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,264 (Ranked 83)  
+Progressed: 131,267 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 28 (0.02%) (Ranked 331)
 | 2023-11-23 | 131,117 | 28 |
 | 2023-11-24 | 131,166 | 28 |
 | 2023-11-25 | 131,237 | 28 |
-| 2023-11-26 | 131,264 | 28 |
+| 2023-11-26 | 131,267 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 179)  
 Sum: 1,126 (Ranked 253)  

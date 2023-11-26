@@ -10,9 +10,9 @@ Rating: 4.76 (Ranked 126)
 | Troll with the Punches | 14.00% | ~42,457 |
 | A Keen Sense of Spell | 13.00% | ~39,424 |
 | That's a Keeper | 13.00% | ~39,424 |
-| The Defender of Dragons | 12.00% | ~36,391 |
-| Loom for Improvement | 12.00% | ~36,391 |
-| A Talent for Spending | 12.00% | ~36,391 |
+| The Defender of Dragons | 12.00% | ~36,392 |
+| Loom for Improvement | 12.00% | ~36,392 |
+| A Talent for Spending | 12.00% | ~36,392 |
 | Grappling with a Graphorn | 11.00% | ~33,359 |
 | The One Who Mastered Memories | 11.00% | ~33,359 |
 | The Hallowed Hero | 11.00% | ~33,359 |
@@ -21,8 +21,8 @@ Rating: 4.76 (Ranked 126)
 | Coasting Along | 11.00% | ~33,359 |
 | Followed the Butterflies | 10.00% | ~30,326 |
 | Rising From the Ashes | 10.00% | ~30,326 |
-| A Sallow Grave | 9.00% | ~27,293 |
-| The Spell Master | 9.00% | ~27,293 |
+| A Sallow Grave | 9.00% | ~27,294 |
+| The Spell Master | 9.00% | ~27,294 |
 | The Avenging Gazelle | 8.00% | ~24,261 |
 | Beast Friends | 8.00% | ~24,261 |
 | Flight the Good Flight | 8.00% | ~24,261 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 126)
 | The Toast of the Town | 5.00% | ~15,163 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,163 |
 | The Ends Petrify the Means | 5.00% | ~15,163 |
-| Going Through the Potions | 4.00% | ~12,130 |
-| Room with a View | 4.00% | ~12,130 |
-| The Intrepid Explorer | 4.00% | ~12,130 |
-| The Wise Owl | 4.00% | ~12,130 |
+| Going Through the Potions | 4.00% | ~12,131 |
+| Room with a View | 4.00% | ~12,131 |
+| The Intrepid Explorer | 4.00% | ~12,131 |
+| The Wise Owl | 4.00% | ~12,131 |
 | Put Down Roots | 3.00% | ~9,098 |
 | The Auror's Apprentice | 3.00% | ~9,098 |
 | Floo Around the World | 3.00% | ~9,098 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,123 |
 | Collector's Edition | 0.30% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,261 (Ranked 54)  
+Progressed: 303,263 (Ranked 54)  
 Completed: 514 (0.17%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 514 (0.17%) (Ranked 264)
 | 2023-11-23 | 302,837 | 513 |
 | 2023-11-24 | 302,992 | 514 |
 | 2023-11-25 | 303,175 | 514 |
-| 2023-11-26 | 303,261 | 514 |
+| 2023-11-26 | 303,263 | 514 |
 ## Awards
 Max (Character Customization): 24,634  (Ranked 17)  
 Sum: 49,166 (Ranked 30)  

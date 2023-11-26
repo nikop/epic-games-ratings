@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 17.42,
+  "EOS_Completed_Percentage": 17.36,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1244,6 +1244,11 @@
       "Time": "2023-11-26T15:07:40.4714778+00:00",
       "NumProgressed": 310,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-26T16:08:11.6138535+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1256,7 +1261,7 @@
       "Name": "Clever thinking!",
       "Percentage": 81,
       "XP": 100,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ach_complete_30",
@@ -1272,7 +1277,7 @@
       "Name": "Welcome aboard!",
       "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ach_hint_3",
@@ -1280,7 +1285,7 @@
       "Name": "A helping hand!",
       "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ach_hint_6",
@@ -1296,7 +1301,7 @@
       "Name": "Together is better!",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ach_items_50",
@@ -1304,7 +1309,7 @@
       "Name": "Sharp-sighted!",
       "Percentage": 75,
       "XP": 60,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_minigames_10",
@@ -1343,14 +1348,14 @@
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:07:40.4714775+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:08:11.6138531+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:58:34.0029234+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:07:40.4714894+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:58:56.0710451+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:08:11.6138668+00:00"
 }

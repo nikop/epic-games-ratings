@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 76.00% | ~25 |
-| Little ideas | 73.00% | ~24 |
-| The Ship | 70.00% | ~23 |
-| Seeking the truth | 61.00% | ~20 |
-| An old friend | 58.00% | ~19 |
-| The Gala | 55.00% | ~18 |
-| A curious gathering | 55.00% | ~18 |
-| Little grey cells | 52.00% | ~17 |
-| Impossible is possible | 52.00% | ~17 |
-| The Missing Magdalene | 52.00% | ~17 |
-| Arthur Hastings | 52.00% | ~17 |
-| Everything matters | 45.00% | ~15 |
-| Order and method | 45.00% | ~15 |
-| An expert mediator | 42.00% | ~14 |
-| DI Hardwicke | 42.00% | ~14 |
-| Betty Allen | 36.00% | ~12 |
-| The Investigation Begins | 36.00% | ~12 |
-| An odd series of events | 30.00% | ~10 |
-| Ms. Camilla B. Culsham | 30.00% | ~10 |
-| Irene Court-Smyth | 30.00% | ~10 |
-| The Apartment | 30.00% | ~10 |
+| Marc Allard | 74.00% | ~25 |
+| Little ideas | 71.00% | ~24 |
+| The Ship | 68.00% | ~23 |
+| Seeking the truth | 59.00% | ~20 |
+| An old friend | 56.00% | ~19 |
+| The Gala | 53.00% | ~18 |
+| A curious gathering | 53.00% | ~18 |
+| Little grey cells | 50.00% | ~17 |
+| Impossible is possible | 50.00% | ~17 |
+| The Missing Magdalene | 50.00% | ~17 |
+| Arthur Hastings | 50.00% | ~17 |
+| Everything matters | 44.00% | ~15 |
+| Order and method | 44.00% | ~15 |
+| An expert mediator | 41.00% | ~14 |
+| DI Hardwicke | 41.00% | ~14 |
+| Betty Allen | 35.00% | ~12 |
+| The Investigation Begins | 35.00% | ~12 |
+| An odd series of events | 29.00% | ~10 |
+| Ms. Camilla B. Culsham | 29.00% | ~10 |
+| Irene Court-Smyth | 29.00% | ~10 |
+| The Apartment | 29.00% | ~10 |
 | A rude awakening | 24.00% | ~8 |
 | Nathaniel Dryden | 24.00% | ~8 |
 | Well-acquainted | 21.00% | ~7 |
@@ -51,8 +51,8 @@
 | Perkins | 9.00% | ~3 |
 | A perilous journey | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 524)  
-Completed: 1 (3.03%) (Ranked 103)  
+Progressed: 34 (Ranked 522)  
+Completed: 1 (2.94%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,3 +84,4 @@ Completed: 1 (3.03%) (Ranked 103)
 | 2023-11-20 | 31 | 1 |
 | 2023-11-24 | 32 | 1 |
 | 2023-11-25 | 33 | 1 |
+| 2023-11-26 | 34 | 1 |

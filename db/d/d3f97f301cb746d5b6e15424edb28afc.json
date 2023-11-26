@@ -2,13 +2,13 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 446,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -49,7 +49,7 @@
   "Tags": [],
   "EOS_Progressed": 1085,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2557,9 +2557,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_FISH",
@@ -3045,25 +3045,25 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 467
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 4",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 260
     },
     {
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 5",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 206
+      "UsersEstimate": 217
     },
     {
       "ID": "GSS_ACH_61_POPULARITY_01",
@@ -3254,8 +3254,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-25T09:58:05.7161965+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:02:51.3048329+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:03:02.4848129+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:58:25.0565617+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:02:51.3049826+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:58:45.1856554+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:03:02.4849105+00:00"
 }

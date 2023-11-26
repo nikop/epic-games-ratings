@@ -2,10 +2,10 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 698,
+  "EOS_Progressed": 699,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3082,6 +3082,11 @@
       "Time": "2023-11-25T21:08:17.467025+00:00",
       "NumProgressed": 698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T16:08:22.1571585+00:00",
+      "NumProgressed": 699,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3293,7 +3298,7 @@
       "Name": "Home Cook",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "RecipeDifferent30",
@@ -3349,7 +3354,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "TrattoriaSet",
@@ -3412,7 +3417,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 698,
+      "Progressed": 699,
       "Completed": 0
     }
   ],
@@ -3420,8 +3425,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:07:51.091123+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:08:22.157158+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.506363+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:59:45.3973752+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:07:51.0911612+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:00:06.0105966+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:08:22.1571919+00:00"
 }

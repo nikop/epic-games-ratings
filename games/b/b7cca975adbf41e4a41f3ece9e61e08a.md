@@ -5,51 +5,51 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~9,251 |
-| I Challenge You To Save More Money! | 86.00% | ~8,647 |
-| I Love How Tough You Are | 72.00% | ~7,240 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~6,636 |
-| What I Want Is You | 60.00% | ~6,033 |
-| To Be Or Not To Be | 57.00% | ~5,731 |
-| Are You Alright? | 49.00% | ~4,927 |
-| Love Actually | 48.00% | ~4,826 |
-| Drama King | 41.00% | ~4,123 |
-| You're Really Something Else | 37.00% | ~3,720 |
-| Go Clean up In Your Own Way | 36.00% | ~3,620 |
-| Worthless Speech | 35.00% | ~3,519 |
-| Happy Family | 34.00% | ~3,419 |
-| ONE PUNCH | 34.00% | ~3,419 |
-| FIRST LOVE | 34.00% | ~3,419 |
-| Drama CP: Reel to Real | 34.00% | ~3,419 |
-| Absolutely Elegant | 33.00% | ~3,318 |
-| Still Single | 32.00% | ~3,218 |
-| Go Get Some Fries On The Pier | 29.00% | ~2,916 |
-| Days Of Innocence | 29.00% | ~2,916 |
-| David | 29.00% | ~2,916 |
-| All I Have Is Money | 25.00% | ~2,514 |
-| A Slap In The Face! | 25.00% | ~2,514 |
-| Lover In Dark Alley | 24.00% | ~2,413 |
-| That's So You | 24.00% | ~2,413 |
-| SALUTE | 24.00% | ~2,413 |
-| Let Me Be Your Toy Boy | 23.00% | ~2,313 |
-| Off We Sail Tonight | 19.00% | ~1,910 |
-| Can You Do This Or Not? | 16.00% | ~1,609 |
-| Love You Three Thousand | 15.00% | ~1,508 |
-| Doesn't Matter I'll Handle It | 14.00% | ~1,408 |
-| The Flash | 12.00% | ~1,207 |
-| New Yoga Pose Unlocked | 11.00% | ~1,106 |
-| My Dear Love! | 9.00% | ~905 |
-| Counting Sheep? | 9.00% | ~905 |
-| This Ain't Right In Many Ways... | 9.00% | ~905 |
-| Life Is A Rollercoaster | 8.00% | ~804 |
-| Boys Need To Protect Themselves | 8.00% | ~804 |
-| Stubborn Noob | 8.00% | ~804 |
+| Last Night...Did We... | 91.00% | ~9,164 |
+| I Challenge You To Save More Money! | 86.00% | ~8,660 |
+| I Love How Tough You Are | 72.00% | ~7,250 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~6,646 |
+| What I Want Is You | 60.00% | ~6,042 |
+| To Be Or Not To Be | 57.00% | ~5,740 |
+| Are You Alright? | 50.00% | ~5,035 |
+| Love Actually | 48.00% | ~4,834 |
+| Drama King | 41.00% | ~4,129 |
+| You're Really Something Else | 37.00% | ~3,726 |
+| Go Clean up In Your Own Way | 36.00% | ~3,625 |
+| Happy Family | 34.00% | ~3,424 |
+| ONE PUNCH | 34.00% | ~3,424 |
+| FIRST LOVE | 34.00% | ~3,424 |
+| Drama CP: Reel to Real | 34.00% | ~3,424 |
+| Worthless Speech | 34.00% | ~3,424 |
+| Absolutely Elegant | 33.00% | ~3,323 |
+| Still Single | 32.00% | ~3,222 |
+| Go Get Some Fries On The Pier | 29.00% | ~2,920 |
+| Days Of Innocence | 29.00% | ~2,920 |
+| David | 29.00% | ~2,920 |
+| All I Have Is Money | 25.00% | ~2,518 |
+| A Slap In The Face! | 25.00% | ~2,518 |
+| Lover In Dark Alley | 24.00% | ~2,417 |
+| That's So You | 24.00% | ~2,417 |
+| SALUTE | 24.00% | ~2,417 |
+| Let Me Be Your Toy Boy | 23.00% | ~2,316 |
+| Off We Sail Tonight | 19.00% | ~1,913 |
+| Love You Three Thousand | 15.00% | ~1,510 |
+| Can You Do This Or Not? | 15.00% | ~1,510 |
+| Doesn't Matter I'll Handle It | 14.00% | ~1,410 |
+| The Flash | 12.00% | ~1,208 |
+| New Yoga Pose Unlocked | 11.00% | ~1,108 |
+| My Dear Love! | 9.00% | ~906 |
+| Counting Sheep? | 9.00% | ~906 |
+| This Ain't Right In Many Ways... | 9.00% | ~906 |
+| Life Is A Rollercoaster | 8.00% | ~806 |
+| Boys Need To Protect Themselves | 8.00% | ~806 |
+| Stubborn Noob | 8.00% | ~806 |
 | Hurrah! | 2.00% | ~201 |
 | Tall; Grande; Venti | 2.00% | ~201 |
 | Limerence | 2.00% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,055 (Ranked 164)  
-Completed: 165 (1.64%) (Ranked 136)  
+Progressed: 10,070 (Ranked 164)  
+Completed: 166 (1.65%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 165 (1.64%) (Ranked 136)
 | 2023-11-23 | 9,378 | 156 |
 | 2023-11-24 | 9,612 | 157 |
 | 2023-11-25 | 9,864 | 162 |
-| 2023-11-26 | 10,055 | 165 |
+| 2023-11-26 | 10,070 | 166 |
 ## Awards
 Max (Impact the Story): 22  (Ranked 537)  
 Sum: 22 (Ranked 538)  

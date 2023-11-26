@@ -2,10 +2,10 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 339,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1897,9 +1897,9 @@
       "ID": "achievement_5",
       "SetID": "2cpn27e",
       "Name": "Reincarnation Cycle Stopper",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_6",
@@ -1943,8 +1943,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:03:21.6450778+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:03:33.05854+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.7646149+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:58:32.8782165+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:03:21.6451201+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:58:54.9528464+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:03:33.0585724+00:00"
 }

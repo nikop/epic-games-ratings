@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2248,
+  "EOS_Progressed": 2249,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6141,6 +6141,11 @@
       "Time": "2023-11-26T15:04:22.4218909+00:00",
       "NumProgressed": 2248,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T16:04:34.348543+00:00",
+      "NumProgressed": 2249,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6152,7 +6157,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "A01",
@@ -6232,7 +6237,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "A11",
@@ -6264,7 +6269,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "A15",
@@ -6288,7 +6293,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "A18",
@@ -6296,7 +6301,7 @@
       "Name": "General Manager",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "A19",
@@ -6312,7 +6317,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "A21",
@@ -6320,7 +6325,7 @@
       "Name": "Country Life",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "A22",
@@ -6384,7 +6389,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "A30",
@@ -6392,7 +6397,7 @@
       "Name": "All mine",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "A31",
@@ -6448,7 +6453,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "A38",
@@ -6472,7 +6477,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "A41",
@@ -6488,7 +6493,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "A43",
@@ -6496,7 +6501,7 @@
       "Name": "Mole",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "A44",
@@ -6520,7 +6525,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "A47",
@@ -6536,7 +6541,7 @@
       "Name": "Bull and bear",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "A49",
@@ -6591,7 +6596,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2248,
+      "Progressed": 2249,
       "Completed": 0
     }
   ],
@@ -6599,8 +6604,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:04:22.4218907+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:04:34.3485425+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.9441553+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:59:24.2650675+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:04:22.4219437+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:59:45.3642445+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:04:34.3485949+00:00"
 }

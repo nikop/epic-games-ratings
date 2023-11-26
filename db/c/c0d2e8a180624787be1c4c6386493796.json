@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
       "SetID": "caeik3h",
       "Name": "Blackburn Returns",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
@@ -547,9 +547,9 @@
       "ID": "KR4_ACHIEVEMENT_FROGGER",
       "SetID": "caeik3h",
       "Name": "Crossy Froggy",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KR4_ACHIEVEMENT_GLYPTODON",
@@ -587,17 +587,17 @@
       "ID": "KR4_ACHIEVEMENT_GROOT",
       "SetID": "caeik3h",
       "Name": "I\u0027m Root",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KR4_ACHIEVEMENT_GUMMY_BEARS",
       "SetID": "caeik3h",
       "Name": "Courageous And Caring",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
@@ -635,9 +635,9 @@
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
       "SetID": "caeik3h",
       "Name": "Glory To The Hypnotoad",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
@@ -835,9 +835,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -891,9 +891,9 @@
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
       "SetID": "caeik3h",
       "Name": "Too Late?",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
@@ -907,9 +907,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -947,9 +947,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
       "SetID": "caeik3h",
       "Name": "The Gill-man",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_THING",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:06:12.2116574+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:06:25.2500297+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:59:06.9892265+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:06:12.2117273+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:59:29.1796111+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:06:25.2501207+00:00"
 }

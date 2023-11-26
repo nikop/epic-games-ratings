@@ -2,13 +2,13 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 975,
+  "Ranking_Rating": 987,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.07,
+  "Rating": 4.05,
   "RatingHistory": [
     {
       "Time": "2023-08-31T18:56:53.9930762+00:00",
@@ -149,6 +149,12 @@
     {
       "Time": "2023-11-24T19:57:13.1524205+00:00",
       "Rating": 4.07,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-26T15:58:20.3340428+00:00",
+      "Rating": 4.05,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1738,9 +1744,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_60",
@@ -1826,9 +1832,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2023-11-24T19:57:13.1524203+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:08:02.1339263+00:00",
+  "LastChanged": "2023-11-26T15:58:20.3340426+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:08:33.6590752+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.7077171+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:58:01.9839897+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:08:02.133958+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:58:20.3340431+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:08:33.6591142+00:00"
 }

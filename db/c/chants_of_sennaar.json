@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 752,
+  "EOS_Progressed": 753,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.92,
+  "EOS_Completed_Percentage": 4.91,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3045,6 +3045,11 @@
       "Time": "2023-11-26T15:03:35.5072462+00:00",
       "NumProgressed": 752,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-26T16:03:46.6959991+00:00",
+      "NumProgressed": 753,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 25,
@@ -3056,7 +3061,7 @@
       "Name": "I did it",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "END_GOOD",
@@ -3070,9 +3075,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 136
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3080,7 +3085,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3088,7 +3093,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "META_HALF_LINK",
@@ -3118,9 +3123,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 120
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3168,7 +3173,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3200,7 +3205,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3232,7 +3237,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "PROGRESS_N4",
@@ -3255,14 +3260,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 752,
+      "Progressed": 753,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:03:35.5072459+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:03:46.6959989+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:00:03.067199+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:03:35.5072742+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:00:22.8746414+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:03:46.6960204+00:00"
 }

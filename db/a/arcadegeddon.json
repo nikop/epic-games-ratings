@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9742,
+  "EOS_Progressed": 9743,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11980,6 +11980,11 @@
       "Time": "2023-11-26T13:07:48.6769647+00:00",
       "NumProgressed": 9742,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T16:04:20.814792+00:00",
+      "NumProgressed": 9743,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -11991,7 +11996,7 @@
       "Name": "Adventure Time",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 7404
+      "UsersEstimate": 7405
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -12077,9 +12082,9 @@
       "ID": "ACH_GROUND_CONTROL",
       "SetID": "97mcd7i",
       "Name": "Ground Control",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_GUARDIAN_ANGEL",
@@ -12087,7 +12092,7 @@
       "Name": "Guardian Angel",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -12103,7 +12108,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 5163
+      "UsersEstimate": 5164
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -12191,7 +12196,7 @@
       "Name": "Photogenic",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 8183
+      "UsersEstimate": 8184
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -12199,7 +12204,7 @@
       "Name": "Playing With Power",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 7209
+      "UsersEstimate": 7210
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -12231,7 +12236,7 @@
       "Name": "Rapid Response",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -12295,7 +12300,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7891
+      "UsersEstimate": 7892
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -12367,7 +12372,7 @@
       "Name": "To Be Continued",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -12383,22 +12388,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9742,
+      "Progressed": 9743,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:04:08.7496246+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:04:20.8147917+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:04.5985869+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:59:21.3715758+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:04:08.749697+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:59:42.4501453+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:04:20.8148758+00:00"
 }

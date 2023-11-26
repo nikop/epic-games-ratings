@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24958,
+  "EOS_Progressed": 24962,
   "EOS_Completed": 475,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -24048,6 +24048,11 @@
       "Time": "2023-11-26T15:04:26.3771723+00:00",
       "NumProgressed": 24958,
       "NumCompleted": 475
+    },
+    {
+      "Time": "2023-11-26T16:04:38.2201075+00:00",
+      "NumProgressed": 24962,
+      "NumCompleted": 475
     }
   ],
   "TotalAchievements": 20,
@@ -24059,7 +24064,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4243
+      "UsersEstimate": 4244
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -24075,7 +24080,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -24083,7 +24088,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -24091,7 +24096,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -24123,7 +24128,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     },
     {
       "ID": "FOUND_ERIN",
@@ -24139,7 +24144,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "FOUND_MAMBA",
@@ -24147,7 +24152,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -24163,7 +24168,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "GAME_FINISHED",
@@ -24179,7 +24184,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 18968
+      "UsersEstimate": 18971
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24187,7 +24192,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6740
     },
     {
       "ID": "NORTH_FINISHED",
@@ -24203,7 +24208,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "WEST_FINISHED",
@@ -24211,22 +24216,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4492
+      "UsersEstimate": 4493
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24958,
+      "Progressed": 24962,
       "Completed": 475
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:04:26.3771721+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:04:38.220107+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:58:53.1087367+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:04:26.3773001+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:59:15.5835037+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:04:38.2202372+00:00"
 }

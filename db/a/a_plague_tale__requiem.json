@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -641,9 +641,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14007,
+  "EOS_Progressed": 14008,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -11671,6 +11671,11 @@
       "Time": "2023-11-26T14:04:59.2802102+00:00",
       "NumProgressed": 14007,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-26T16:04:06.6788456+00:00",
+      "NumProgressed": 14008,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 35,
@@ -11698,7 +11703,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10365
+      "UsersEstimate": 10366
     },
     {
       "ID": "ACH_04",
@@ -11706,7 +11711,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9945
+      "UsersEstimate": 9946
     },
     {
       "ID": "ACH_05",
@@ -11714,7 +11719,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9665
+      "UsersEstimate": 9666
     },
     {
       "ID": "ACH_06",
@@ -11730,7 +11735,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8824
+      "UsersEstimate": 8825
     },
     {
       "ID": "ACH_08",
@@ -11738,7 +11743,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8544
+      "UsersEstimate": 8545
     },
     {
       "ID": "ACH_09",
@@ -11746,7 +11751,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 8124
+      "UsersEstimate": 8125
     },
     {
       "ID": "ACH_10",
@@ -11762,7 +11767,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6863
+      "UsersEstimate": 6864
     },
     {
       "ID": "ACH_12",
@@ -11770,7 +11775,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6583
+      "UsersEstimate": 6584
     },
     {
       "ID": "ACH_13",
@@ -11794,7 +11799,7 @@
       "Name": "Dying Sun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "ACH_16",
@@ -11810,7 +11815,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2942
     },
     {
       "ID": "ACH_18",
@@ -11890,7 +11895,7 @@
       "Name": "Night guard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 6163
+      "UsersEstimate": 6164
     },
     {
       "ID": "ACH_28",
@@ -11898,7 +11903,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9665
+      "UsersEstimate": 9666
     },
     {
       "ID": "ACH_29",
@@ -11961,7 +11966,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14007,
+      "Progressed": 14008,
       "Completed": 55
     }
   ],
@@ -11969,8 +11974,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-18T18:58:13.2063363+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:03:54.8760018+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:04:06.6788447+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.0182859+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:57:57.2079211+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:03:54.8760743+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:58:15.8509451+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:04:06.6789135+00:00"
 }

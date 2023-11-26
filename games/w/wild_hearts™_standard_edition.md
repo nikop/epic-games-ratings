@@ -32,7 +32,7 @@
 | Artful Assister | 36.00% | ~119 |
 | Team Hunter | 34.00% | ~113 |
 | Karakuri Isle | 33.00% | ~109 |
-| Reincarnation Cycle Stopper | 32.00% | ~106 |
+| Reincarnation Cycle Stopper | 33.00% | ~109 |
 | Left Arm Leverager | 28.00% | ~93 |
 | Style Seeker | 27.00% | ~89 |
 | Unrivaled in Arms | 27.00% | ~89 |
@@ -53,7 +53,7 @@
 | Big Spender | 11.00% | ~36 |
 | Tsukumo Whisperer | 7.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331 (Ranked 339)  
+Progressed: 331 (Ranked 340)  
 Completed: 7 (2.11%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |

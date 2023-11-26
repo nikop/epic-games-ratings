@@ -7,7 +7,7 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~437 |
-| Cowardice | 61.00% | ~392 |
+| Cowardice | 62.00% | ~399 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~302 |
 | Eat Lead! | 45.00% | ~289 |
 | The Breaking Point | 44.00% | ~283 |
@@ -24,7 +24,7 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 31.00% | ~199 |
 | The Horror | 29.00% | ~186 |
 | The Difference | 27.00% | ~174 |
-| Vengeance | 25.00% | ~161 |
+| Vengeance | 26.00% | ~167 |
 | It's Just an Accident | 24.00% | ~154 |
 | Broken Hopes | 23.00% | ~148 |
 | Collectibles of Chapter II | 22.00% | ~141 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643 (Ranked 289)  
+Progressed: 643 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |

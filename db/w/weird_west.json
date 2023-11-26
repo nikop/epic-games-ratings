@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2008,
+  "EOS_Progressed": 2009,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2786,6 +2786,11 @@
       "Time": "2023-11-26T12:05:19.8923603+00:00",
       "NumProgressed": 2008,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T16:05:24.7647896+00:00",
+      "NumProgressed": 2009,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2805,7 +2810,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2941,7 +2946,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -3045,7 +3050,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3173,7 +3178,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3181,7 +3186,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3197,7 +3202,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_WINDS_OF_WAR",
@@ -3220,15 +3225,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2008,
+      "Progressed": 2009,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:05:11.9221004+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:05:24.7647892+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.3166+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:59:48.9532495+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:05:11.9221473+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:00:09.5541674+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:05:24.7648286+00:00"
 }

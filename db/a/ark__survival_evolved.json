@@ -2,13 +2,13 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 446,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14604,18 +14604,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 278285,
       "NumberOfAwardsMax": 64002
+    },
+    {
+      "Time": "2023-11-26T15:57:25.8020871+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 278354,
+      "NumberOfAwardsMax": 64056
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 278285,
-  "NumberOfAwardsMax": 64002,
+  "NumberOfAwards": 278354,
+  "NumberOfAwardsMax": 64056,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 64002
+      "Count": 64056
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14651,7 +14657,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20458
+      "Count": 20473
     },
     {
       "Text": "This game has Competitive Players",
@@ -14695,8 +14701,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-11-26T14:57:08.1715296+00:00",
+  "LastChanged": "2023-11-26T15:57:25.8020869+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.1726015+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:57:08.1715302+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:05:32.6660366+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:57:25.8020875+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:05:45.0904644+00:00"
 }

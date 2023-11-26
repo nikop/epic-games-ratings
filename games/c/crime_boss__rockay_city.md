@@ -1,13 +1,13 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.95 (Ranked 1,013)  
+Rating: 3.95 (Ranked 1,012)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 3.00% | ~2,747 |
-| First One’s Free | 3.00% | ~2,747 |
-| Downed but Not Outed | 3.00% | ~2,747 |
+| Neophyte Ninja | 3.00% | ~2,748 |
+| First One’s Free | 3.00% | ~2,748 |
+| Downed but Not Outed | 3.00% | ~2,748 |
 | Underworld Initiate | 2.00% | ~1,832 |
 | Too Old for This | 2.00% | ~1,832 |
 | Fancy Pants | 2.00% | ~1,832 |
@@ -22,8 +22,8 @@ Rating: 3.95 (Ranked 1,013)
 | True Player | 0.90% | ~824 |
 | Track Star | 0.80% | ~733 |
 | Headhunter | 0.70% | ~641 |
-| I Like Trains | 0.60% | ~549 |
-| Freebooter | 0.60% | ~549 |
+| I Like Trains | 0.60% | ~550 |
+| Freebooter | 0.60% | ~550 |
 | Legend Looter | 0.50% | ~458 |
 | Foo Finder | 0.50% | ~458 |
 | Moneybags | 0.50% | ~458 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,013)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,583 (Ranked 92)  
+Progressed: 91,586 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 57 (0.06%) (Ranked 303)
 | 2023-11-23 | 91,464 | 57 |
 | 2023-11-24 | 91,512 | 57 |
 | 2023-11-25 | 91,554 | 57 |
-| 2023-11-26 | 91,583 | 57 |
+| 2023-11-26 | 91,586 | 57 |
 ## Awards
 Max (Diverse Characters): 544  (Ranked 205)  
 Sum: 3,109 (Ranked 176)  

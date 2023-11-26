@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -229,9 +229,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15596,
+  "EOS_Progressed": 15601,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12354,6 +12354,11 @@
       "Time": "2023-11-26T15:05:31.9699474+00:00",
       "NumProgressed": 15596,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-26T16:05:44.4484587+00:00",
+      "NumProgressed": 15601,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12630,7 +12635,7 @@
       "Name": "Master Negotiator",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "35",
@@ -12645,13 +12650,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15596,
+      "Progressed": 15601,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1550,
+      "Progressed": 1555,
       "Completed": 730
     }
   ],
@@ -12659,8 +12664,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-25T17:58:09.1094239+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:05:31.9699472+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:05:44.4484583+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:58:32.4576537+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:05:31.9700057+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:58:53.3961315+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:05:44.4485183+00:00"
 }

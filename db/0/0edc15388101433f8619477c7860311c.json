@@ -2,10 +2,10 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 497,
+  "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -269,6 +269,11 @@
       "Time": "2023-11-26T09:06:25.9476323+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T16:06:21.7356553+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -279,7 +284,7 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -287,7 +292,7 @@
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -295,7 +300,7 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 25,
       "UsersEstimate": 26
     },
@@ -303,7 +308,7 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 19
     },
@@ -311,7 +316,7 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
       "UsersEstimate": 24
     },
@@ -319,7 +324,7 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 65,
       "UsersEstimate": 19
     },
@@ -343,7 +348,7 @@
       "ID": "KarmaEyes",
       "SetID": "7m88n8p",
       "Name": "Karma in My Eyes",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 14
     },
@@ -351,7 +356,7 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -359,7 +364,7 @@
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -367,7 +372,7 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -375,7 +380,7 @@
       "ID": "MortuaryMarkup",
       "SetID": "7m88n8p",
       "Name": "Mortuary Makeup Artist",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 65,
       "UsersEstimate": 17
     },
@@ -391,7 +396,7 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -399,7 +404,7 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 92,
+      "Percentage": 90,
       "XP": 25,
       "UsersEstimate": 46
     },
@@ -415,7 +420,7 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -423,7 +428,7 @@
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 65,
       "UsersEstimate": 20
     },
@@ -431,7 +436,7 @@
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
       "UsersEstimate": 21
     },
@@ -439,7 +444,7 @@
       "ID": "WaitingForSalvation",
       "SetID": "7m88n8p",
       "Name": "Waiting for Salvation",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 65,
       "UsersEstimate": 17
     },
@@ -447,7 +452,7 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 25,
       "UsersEstimate": 23
     }
@@ -456,14 +461,14 @@
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:06:08.7238775+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:06:21.7356547+00:00",
   "LastUpdate_AppInfo": "2023-11-20T09:57:14.4124968+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:59:54.4231697+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:06:08.7239086+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:00:13.9657624+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:06:21.7356732+00:00"
 }

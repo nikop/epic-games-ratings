@@ -2,13 +2,13 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 22,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4361,
+  "EOS_Progressed": 4362,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7740,6 +7740,11 @@
       "Time": "2023-11-26T15:03:24.3159106+00:00",
       "NumProgressed": 4361,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-26T16:03:35.766407+00:00",
+      "NumProgressed": 4362,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7775,7 +7780,7 @@
       "Name": "The Negotiator",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "Ach005",
@@ -7975,7 +7980,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "Ach030",
@@ -8079,7 +8084,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "Ach043",
@@ -8151,7 +8156,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "Ach052",
@@ -8318,13 +8323,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4361,
+      "Progressed": 4362,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2882,
+      "Progressed": 2883,
       "Completed": 1930
     }
   ],
@@ -8332,8 +8337,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-26T15:03:24.3159104+00:00",
+  "LastChanged_Achievements": "2023-11-26T16:03:35.7664067+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:59:32.1361245+00:00",
-  "LastUpdate_Achievements": "2023-11-26T15:03:24.315987+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:59:53.2250081+00:00",
+  "LastUpdate_Achievements": "2023-11-26T16:03:35.7664836+00:00"
 }

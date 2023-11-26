@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.57 (Ranked 473)  
+Rating: 4.57 (Ranked 474)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.57 (Ranked 473)
 | Data Archivist | 3.00% | ~468 |
 | Thorston Mayer | 3.00% | ~468 |
 | Khan's Revenge | 3.00% | ~468 |
-| Master Negotiator | 3.00% | ~46 |
+| Master Negotiator | 3.00% | ~47 |
 | Doctor Approved | 2.00% | ~312 |
 | Bottoms up! | 2.00% | ~312 |
 | Data Logger | 2.00% | ~312 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 473)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,596 (Ranked 151)  
+Progressed: 15,601 (Ranked 151)  
 Completed: 35 (0.22%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 35 (0.22%) (Ranked 250)
 | 2023-11-23 | 15,346 | 35 |
 | 2023-11-24 | 15,437 | 35 |
 | 2023-11-25 | 15,549 | 35 |
-| 2023-11-26 | 15,596 | 35 |
+| 2023-11-26 | 15,601 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
