@@ -6,29 +6,29 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 9.00% | ~84,953 |
-| Gun Fu | 4.00% | ~37,757 |
-| The Fool | 4.00% | ~37,757 |
-| Right Back At Ya | 2.00% | ~18,878 |
-| The Lovers | 2.00% | ~18,878 |
-| Relic Ruler | 2.00% | ~1,451 |
-| Full Body Conversion | 1.00% | ~9,439 |
-| Stanislavski's Method | 1.00% | ~9,439 |
-| The Hermit | 1.00% | ~9,439 |
-| The Wheel of Fortune | 1.00% | ~9,439 |
-| True Soldier | 1.00% | ~9,439 |
-| All the President's Men | 1.00% | ~725 |
-| Arachnophobia | 1.00% | ~725 |
-| Christmas Tree Attack | 0.90% | ~8,495 |
-| True Warrior | 0.90% | ~8,495 |
-| The Quick and the Dead | 0.80% | ~7,551 |
-| Legend of The Afterlife | 0.80% | ~7,551 |
-| Life of the Road | 0.70% | ~6,607 |
-| The High Priestess | 0.70% | ~6,607 |
+| V for Vendetta | 9.00% | ~84,966 |
+| Gun Fu | 5.00% | ~47,203 |
+| The Fool | 4.00% | ~37,763 |
+| Right Back At Ya | 2.00% | ~18,881 |
+| The Lovers | 2.00% | ~18,881 |
+| Relic Ruler | 2.00% | ~1,454 |
+| Full Body Conversion | 1.00% | ~9,441 |
+| Stanislavski's Method | 1.00% | ~9,441 |
+| The Hermit | 1.00% | ~9,441 |
+| The Wheel of Fortune | 1.00% | ~9,441 |
+| True Soldier | 1.00% | ~9,441 |
+| All the President's Men | 1.00% | ~727 |
+| Arachnophobia | 1.00% | ~727 |
+| Christmas Tree Attack | 0.90% | ~8,497 |
+| True Warrior | 0.90% | ~8,497 |
+| The Quick and the Dead | 0.80% | ~7,553 |
+| Legend of The Afterlife | 0.80% | ~7,553 |
+| Life of the Road | 0.70% | ~6,608 |
+| The High Priestess | 0.70% | ~6,608 |
 | Bushido and Chill | 0.60% | ~5,664 |
 | Master Crafter | 0.60% | ~5,664 |
 | The World | 0.60% | ~5,664 |
-| Spin Doctor | 0.60% | ~435 |
+| Spin Doctor | 0.60% | ~436 |
 | To Protect and Serve | 0.50% | ~4,720 |
 | I Am The Law | 0.50% | ~4,720 |
 | Two Heads, One Bullet | 0.50% | ~4,720 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 943,924 (Ranked 15)  
+Progressed: 944,063 (Ranked 15)  
 Completed: 2,812 (0.30%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2,812 (0.30%) (Ranked 237)
 | 2023-11-23 | 925,314 | 2,805 |
 | 2023-11-24 | 934,254 | 2,810 |
 | 2023-11-25 | 943,308 | 2,812 |
-| 2023-11-26 | 943,924 | 2,812 |
+| 2023-11-26 | 944,063 | 2,812 |
 ## Awards
 Max (Character Customization): 108,211  (Ranked 9)  
 Sum: 364,318 (Ranked 10)  

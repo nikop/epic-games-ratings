@@ -12,13 +12,13 @@ Number of Ratings: 892  (23.09.2022)
 | Your Especially Earned Trajectory | 91.00% | ~431 |
 | Super Spelunker | 90.00% | ~427 |
 | No Mountain Wide Enough | 69.00% | ~327 |
-| One of the Cool Kids | 68.00% | ~322 |
+| One of the Cool Kids | 69.00% | ~327 |
 | On that Grindset | 67.00% | ~318 |
 | The Little Wood that Could | 65.00% | ~308 |
 | Yakmel Whisperer | 64.00% | ~303 |
 | Can We Keep It? | 63.00% | ~299 |
+| Diamonds are Forever | 62.00% | ~294 |
 | Pack Mule | 61.00% | ~289 |
-| Diamonds are Forever | 61.00% | ~289 |
 | Unboxing | 56.00% | ~265 |
 | First Love | 55.00% | ~261 |
 | I Do! | 54.00% | ~256 |

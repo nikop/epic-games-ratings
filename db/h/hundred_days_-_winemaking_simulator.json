@@ -1069,9 +1069,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13753,
+  "EOS_Progressed": 13757,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 907,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11394,6 +11394,11 @@
       "Time": "2023-11-26T01:58:49.6287454+00:00",
       "NumProgressed": 13753,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-26T02:31:59.7609173+00:00",
+      "NumProgressed": 13757,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11406,7 +11411,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "a_10",
@@ -11454,7 +11459,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5639
+      "UsersEstimate": 5640
     },
     {
       "ID": "a_19",
@@ -11462,7 +11467,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "a_2",
@@ -11502,7 +11507,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "a_25",
@@ -11653,7 +11658,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13753,
+      "Progressed": 13757,
       "Completed": 12
     }
   ],
@@ -11661,8 +11666,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-24T04:02:46.9651903+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:58:49.628745+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:31:59.7609171+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.5449859+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:52:41.6200935+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:58:49.6288334+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:26:17.4345632+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:31:59.7609629+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2814,10 +2814,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 539197,
+  "EOS_Progressed": 539198,
   "EOS_Completed": 1623,
-  "EOS_NewPlayers": 603,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 600,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -27034,6 +27034,11 @@
       "Time": "2023-11-26T01:58:04.6657095+00:00",
       "NumProgressed": 539197,
       "NumCompleted": 1623
+    },
+    {
+      "Time": "2023-11-26T02:30:17.662182+00:00",
+      "NumProgressed": 539198,
+      "NumCompleted": 1623
     }
   ],
   "TotalAchievements": 37,
@@ -27221,7 +27226,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102447
+      "UsersEstimate": 102448
     },
     {
       "ID": "THE_KEEP",
@@ -27301,7 +27306,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345086
+      "UsersEstimate": 345087
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -27317,7 +27322,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91663
+      "UsersEstimate": 91664
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -27340,15 +27345,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 539197,
+      "Progressed": 539198,
       "Completed": 1623
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-25T14:02:32.1101966+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:58:04.665709+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:30:17.6621819+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.6010345+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:52:28.1637721+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:58:04.6658824+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:23:55.4398285+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:30:17.6622753+00:00"
 }

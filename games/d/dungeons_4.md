@@ -9,7 +9,7 @@
 | For the Horde! | 81.00% | ~347 |
 | Hammer Time, Round Two | 78.00% | ~334 |
 | The Hellwoods | 72.00% | ~308 |
-| The Plains of Strothalm | 68.00% | ~291 |
+| The Plains of Strothalm | 69.00% | ~295 |
 | Experienced Thalya | 68.00% | ~291 |
 | Thalya's Concentrated Fury | 66.00% | ~282 |
 | Master of Magic | 63.00% | ~270 |
@@ -30,7 +30,7 @@
 | Dungeonlord Gorgu | 33.00% | ~141 |
 | The Cathedral of Light | 33.00% | ~141 |
 | Shame! Shame! Shame! | 33.00% | ~141 |
-| Tanos' Crusade Against Thalya | 29.00% | ~124 |
+| Tanos' Crusade Against Thalya | 30.00% | ~128 |
 | All’s Well That Ends Evil | 25.00% | ~107 |
 | Unstoppable Horde | 24.00% | ~103 |
 | Master of the Undead | 22.00% | ~94 |

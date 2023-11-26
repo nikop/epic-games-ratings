@@ -6201,9 +6201,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1654
     },
     {
       "ID": "A13",
@@ -6554,8 +6554,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:54:21.1271817+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:27:49.112754+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.9441553+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:49:02.0103037+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:54:21.1272738+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:22:40.2124009+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:27:49.1128083+00:00"
 }

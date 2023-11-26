@@ -65,6 +65,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 0.20% | ~480 |
 | Antivenom | 0.20% | ~480 |
 | New Perspectives | 0.20% | ~480 |
+| Snake Sneak | 0.20% | ~480 |
 | The Long Run | 0.20% | ~480 |
 | Who Needs Luck? | 0.20% | ~3 |
 | Raw Power | 0.20% | ~3 |
@@ -112,7 +113,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Need An Antidote? | 0.10% | ~240 |
 | Decisions, Decisions | 0.10% | ~240 |
 | Fragile Mortality | 0.10% | ~240 |
-| Snake Sneak | 0.10% | ~240 |
 | Sprinter | 0.10% | ~240 |
 | Fire Away! | 0.10% | ~240 |
 | Defuser | 0.10% | ~240 |

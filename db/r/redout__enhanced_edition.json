@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236185,
+  "EOS_Progressed": 236187,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 1,
@@ -23397,6 +23397,11 @@
       "Time": "2023-11-26T01:55:09.4978728+00:00",
       "NumProgressed": 236185,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-26T02:28:33.2742856+00:00",
+      "NumProgressed": 236187,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23440,7 +23445,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25980
+      "UsersEstimate": 25981
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -23544,7 +23549,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77941
+      "UsersEstimate": 77942
     },
     {
       "ID": "NOBUNAGA",
@@ -23672,22 +23677,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96836
+      "UsersEstimate": 96837
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236185,
+      "Progressed": 236187,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:55:09.4978726+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:28:33.2742854+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:52:18.9132243+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:55:09.4980208+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:23:47.4162941+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:28:33.2744132+00:00"
 }

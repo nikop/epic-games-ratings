@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4761,9 +4761,9 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 228209,
+  "EOS_Progressed": 228227,
   "EOS_Completed": 528,
-  "EOS_NewPlayers": 4803,
+  "EOS_NewPlayers": 4804,
   "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -19926,6 +19926,11 @@
       "Time": "2023-11-26T01:58:38.616607+00:00",
       "NumProgressed": 228209,
       "NumCompleted": 528
+    },
+    {
+      "Time": "2023-11-26T02:31:49.7073796+00:00",
+      "NumProgressed": 228227,
+      "NumCompleted": 528
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20112,9 +20117,9 @@
       "ID": "Meet_Nimue",
       "SetID": "bkp3b1a",
       "Name": "Blue Goddess",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "Obtain_Archetype",
@@ -20377,22 +20382,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 228209,
+      "Progressed": 228227,
       "Completed": 528
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 7374,
-      "Completed": 157
+      "Progressed": 7392,
+      "Completed": 158
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-25T23:02:59.6345374+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:58:38.6166066+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:31:49.7073793+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:52:54.5650247+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:58:38.616724+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:26:29.7325248+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:31:49.7074818+00:00"
 }

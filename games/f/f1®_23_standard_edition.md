@@ -132,8 +132,8 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-26 | 5,911 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 525)  
-Sum: 89 (Ranked 456)  
-Diff (max vs sum): 69  
+Sum: 90 (Ranked 455)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
@@ -141,7 +141,7 @@ Diff (max vs sum): 69
 | This game is Highly Recommended | 24 |
 | This game has Diverse Characters | 24 |
 | This game has a Competitive Community | 21 |
-| This game is Extremely Fun | 20 |
+| This game is Extremely Fun | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -223,3 +223,4 @@ Diff (max vs sum): 69
 | 2023-11-23 | 4.67 | 24 | 87 |
 | 2023-11-24 | 4.67 | 24 | 88 |
 | 2023-11-25 | 4.68 | 24 | 89 |
+| 2023-11-26 | 4.68 | 24 | 90 |

@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8055,
+  "EOS_Progressed": 8056,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7472,6 +7472,11 @@
       "Time": "2023-11-26T01:59:26.5049392+00:00",
       "NumProgressed": 8055,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T02:32:33.7965037+00:00",
+      "NumProgressed": 8056,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7492,7 +7497,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5719
+      "UsersEstimate": 5720
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7500,7 +7505,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -7516,7 +7521,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -7708,7 +7713,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -7763,22 +7768,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8055,
+      "Progressed": 8056,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 672,
-      "Completed": 672
+      "Progressed": 673,
+      "Completed": 673
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-25T23:02:50.7965518+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:59:26.5049391+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:32:33.7965035+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:52:46.5145552+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:59:26.5049879+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:26:21.7300436+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:32:33.7965458+00:00"
 }

@@ -26946,9 +26946,9 @@
       "ID": "SNAKESTEALTH",
       "SetID": "5l8oe0h",
       "Name": "Snake Sneak",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 480
     },
     {
       "ID": "SPECIALROOMS1",
@@ -27329,8 +27329,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-25T15:59:13.7790562+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:59:33.4533282+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:32:40.2453018+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:48:28.2621781+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:59:33.4535756+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:22:10.2572879+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:32:40.2455104+00:00"
 }

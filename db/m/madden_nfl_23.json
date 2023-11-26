@@ -847,7 +847,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3701,
+  "EOS_Progressed": 3702,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -6117,6 +6117,11 @@
       "Time": "2023-11-26T00:08:16.1699052+00:00",
       "NumProgressed": 3701,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T02:30:12.1884859+00:00",
+      "NumProgressed": 3702,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6153,7 +6158,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "achievement_13",
@@ -6169,7 +6174,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "achievement_15",
@@ -6185,7 +6190,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "achievement_17",
@@ -6273,7 +6278,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "achievement_8",
@@ -6296,7 +6301,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3701,
+      "Progressed": 3702,
       "Completed": 0
     }
   ],
@@ -6304,8 +6309,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-23T01:49:22.1949292+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:57:58.8252656+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:30:12.1884857+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:48:06.8705158+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:57:58.8253001+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:21:52.4410156+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:30:12.1885137+00:00"
 }

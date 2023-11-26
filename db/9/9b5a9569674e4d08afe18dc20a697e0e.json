@@ -406,9 +406,9 @@
       "ID": "CULT",
       "SetID": "40o4f14",
       "Name": "Dragon Cult",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DISCIPLE",
@@ -629,8 +629,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:53:53.0292436+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:27:23.9485762+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:50:00.229296+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:53:53.0292603+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:23:32.376347+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:27:23.9485955+00:00"
 }

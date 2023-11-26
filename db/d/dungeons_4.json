@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1091,9 +1091,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 295
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1267,9 +1267,9 @@
       "ID": "ach_main11blessing_completed",
       "SetID": "4hg22ll",
       "Name": "Tanos\u0027 Crusade Against Thalya",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -1514,8 +1514,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-26T01:55:29.504497+00:00",
+  "LastChanged_Achievements": "2023-11-26T02:28:51.4410144+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-26T01:48:14.8450064+00:00",
-  "LastUpdate_Achievements": "2023-11-26T01:55:29.5045421+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:21:59.3188768+00:00",
+  "LastUpdate_Achievements": "2023-11-26T02:28:51.4410616+00:00"
 }
