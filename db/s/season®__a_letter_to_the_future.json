@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1311,
+  "EOS_Progressed": 1312,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.5,
   "EosHistory": [
@@ -2709,6 +2709,11 @@
       "Time": "2023-11-25T16:09:44.079853+00:00",
       "NumProgressed": 1311,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-11-26T21:09:07.7069736+00:00",
+      "NumProgressed": 1312,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 16,
@@ -2728,7 +2733,7 @@
       "Name": "Deep Listener",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -2776,7 +2781,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2784,7 +2789,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2800,7 +2805,7 @@
       "Name": "Music for Cows",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -2808,7 +2813,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2832,7 +2837,7 @@
       "Name": "The End",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -2847,7 +2852,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1311,
+      "Progressed": 1312,
       "Completed": 59
     }
   ],
@@ -2855,8 +2860,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:08:43.4105395+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:09:07.7069733+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:56.2839298+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:59:16.5836888+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:08:43.4105629+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:59:35.1448547+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:09:07.7069952+00:00"
 }

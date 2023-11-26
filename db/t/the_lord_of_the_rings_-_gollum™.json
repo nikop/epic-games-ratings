@@ -3,9 +3,9 @@
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 607,
+  "EOS_Progressed": 608,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1638,6 +1638,11 @@
       "Time": "2023-11-26T18:07:31.0736846+00:00",
       "NumProgressed": 607,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T21:06:21.6079657+00:00",
+      "NumProgressed": 608,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1673,7 +1678,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "Chapter10",
@@ -1705,7 +1710,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Chapter5",
@@ -1801,7 +1806,7 @@
       "Name": "Like Flying...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "GollumChoices",
@@ -1936,14 +1941,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 607,
+      "Progressed": 608,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:05:56.4151438+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:06:21.6079653+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.3353752+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:57:52.0096928+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:05:56.4151688+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:58:08.0063705+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:06:21.6079986+00:00"
 }

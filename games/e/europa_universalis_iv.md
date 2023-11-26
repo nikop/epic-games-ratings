@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,400 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 360)  
+Progressed: 464,432 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -590,16 +590,16 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-23 | 462,094 | 1 |
 | 2023-11-24 | 462,785 | 1 |
 | 2023-11-25 | 463,679 | 1 |
-| 2023-11-26 | 464,400 | 1 |
+| 2023-11-26 | 464,432 | 1 |
 ## Awards
 Max (Educational): 7,180  (Ranked 54)  
-Sum: 58,987 (Ranked 24)  
+Sum: 59,006 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,180 |
 | This game has Diverse Characters | 6,917 |
-| This game is Highly Recommended | 6,862 |
+| This game is Highly Recommended | 6,881 |
 | This game has Challenging Combat | 6,803 |
 | This game is Extremely Fun | 6,754 |
 | This game is Relaxing | 6,579 |
@@ -923,4 +923,4 @@ Diff (max vs sum): 30
 | 2023-11-23 | 4.69 | - | 7,128 | 58,694 |
 | 2023-11-24 | 4.69 | - | 7,144 | 58,780 |
 | 2023-11-25 | 4.69 | - | 7,165 | 58,897 |
-| 2023-11-26 | 4.69 | - | 7,180 | 58,987 |
+| 2023-11-26 | 4.69 | - | 7,180 | 59,006 |

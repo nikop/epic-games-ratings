@@ -5,25 +5,25 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 91.00% | ~308 |
-| Training Simulation | 77.00% | ~260 |
-| Kuku Bird Hunter | 66.00% | ~223 |
-| Storm Traveller | 58.00% | ~196 |
-| Fashion Connoisseur | 53.00% | ~179 |
-| Wolf King Killer | 53.00% | ~179 |
-| Arms Mechanic | 48.00% | ~162 |
+| Training Simulation | 77.00% | ~261 |
+| Kuku Bird Hunter | 65.00% | ~220 |
+| Storm Traveller | 58.00% | ~197 |
+| Fashion Connoisseur | 53.00% | ~180 |
+| Wolf King Killer | 53.00% | ~180 |
+| Arms Mechanic | 48.00% | ~163 |
 | Flower Thief | 44.00% | ~149 |
 | Apostle of Flame | 39.00% | ~132 |
 | Beginner Artificer | 37.00% | ~125 |
 | Beginner Cook | 36.00% | ~122 |
 | Seal Breaker | 33.00% | ~112 |
 | Handyman | 28.00% | ~95 |
-| Giant Lizard Killer | 27.00% | ~91 |
+| Giant Lizard Killer | 27.00% | ~92 |
 | Guardian | 26.00% | ~88 |
 | Nosebleeder | 26.00% | ~88 |
-| Trader | 22.00% | ~74 |
+| Trader | 22.00% | ~75 |
 | Weapon Boost | 21.00% | ~71 |
 | Youth Magnet | 18.00% | ~61 |
-| Flying Kobold Killer | 17.00% | ~57 |
+| Flying Kobold Killer | 17.00% | ~58 |
 | Furious Scorpion Killer | 16.00% | ~54 |
 | Lethal Blade Mantis Killer | 16.00% | ~54 |
 | Squeaky Clean | 16.00% | ~54 |
@@ -32,9 +32,9 @@
 | Mermaid Killer | 14.00% | ~47 |
 | Face Slapper | 13.00% | ~44 |
 | Cave Master | 12.00% | ~41 |
-| Master Cook | 9.00% | ~30 |
-| Boss challenge | 7.00% | ~24 |
+| Master Cook | 9.00% | ~31 |
 | Berserker Slayer | 7.00% | ~24 |
+| Boss challenge | 6.00% | ~20 |
 | Giantess Slayer | 6.00% | ~20 |
 | Warden Slayer | 6.00% | ~20 |
 | Silver Moon Wolf King Challenge | 3.00% | ~10 |
@@ -50,8 +50,8 @@
 | Giantess Challenge | 1.00% | ~3 |
 | Warden Challenge | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338 (Ranked 338)  
-Completed: 1 (0.30%) (Ranked 236)  
+Progressed: 339 (Ranked 338)  
+Completed: 1 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,7 +133,7 @@ Completed: 1 (0.30%) (Ranked 236)
 | 2023-11-23 | 209 | 0 |
 | 2023-11-24 | 254 | 0 |
 | 2023-11-25 | 302 | 1 |
-| 2023-11-26 | 338 | 1 |
+| 2023-11-26 | 339 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

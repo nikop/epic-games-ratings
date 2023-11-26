@@ -3,9 +3,9 @@
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -406,9 +406,9 @@
       "ID": "LC-15",
       "SetID": "ap2ljl4",
       "Name": "A Loving Home",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LC-16",
@@ -439,8 +439,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:05:19.815852+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:05:45.1750203+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:39.9460728+00:00",
   "LastUpdate_Ratings": "2023-11-26T20:00:18.6703968+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:05:19.8158619+00:00"
+  "LastUpdate_Achievements": "2023-11-26T21:05:45.17503+00:00"
 }

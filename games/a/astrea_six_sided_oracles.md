@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 52.00% | ~46 |
-| Purification Pioneer | 49.00% | ~43 |
-| Dicesmithing Time! | 47.00% | ~41 |
+| Purification Pioneer | 50.00% | ~44 |
+| Dicesmithing Time! | 48.00% | ~42 |
 | Mechanical Buddy | 47.00% | ~41 |
 | Endless Tricks | 43.00% | ~38 |
 | Sanctuary Guardian | 41.00% | ~36 |
@@ -104,7 +104,7 @@
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 88 (Ranked 444)  
-Completed: 0 (0.00%) (Ranked 360)  
+Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

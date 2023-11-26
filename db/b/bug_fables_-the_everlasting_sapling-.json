@@ -3,9 +3,9 @@
   "Name": "Bug Fables -The Everlasting Sapling-",
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 361,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -196,9 +196,9 @@
       "ID": "BFT_BONUS",
       "SetID": "7o7kd30",
       "Name": "Bounty Hunter",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BFT_CH1",
@@ -284,9 +284,9 @@
       "ID": "BFT_CH6",
       "SetID": "7o7kd30",
       "Name": "Chapter 6 Complete",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "BFT_CH6HB",
@@ -437,8 +437,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:08:34.518848+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:08:58.9060657+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:05.9455024+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:57:51.9738518+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:08:34.518867+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:58:07.9314698+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:08:58.9060828+00:00"
 }

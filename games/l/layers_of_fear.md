@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 79.00% | ~69 |
-| Something important | 77.00% | ~67 |
-| A piece of the story | 60.00% | ~52 |
-| It's covered up for a reason | 44.00% | ~38 |
-| Do what you have to | 43.00% | ~37 |
-| Scraps of love | 43.00% | ~37 |
-| The artist’s impression | 43.00% | ~37 |
-| Refuse to look | 36.00% | ~31 |
+| Wanderer | 81.00% | ~71 |
+| Something important | 77.00% | ~68 |
+| A piece of the story | 60.00% | ~53 |
+| It's covered up for a reason | 44.00% | ~39 |
+| Scraps of love | 43.00% | ~38 |
+| The artist’s impression | 43.00% | ~38 |
+| Do what you have to | 42.00% | ~37 |
+| Refuse to look | 35.00% | ~31 |
 | Sign of weakness | 34.00% | ~30 |
-| Finished it | 28.00% | ~24 |
+| Finished it | 27.00% | ~24 |
 | Face your fears | 23.00% | ~20 |
 | Playtime | 14.00% | ~12 |
 | Tough conversation | 14.00% | ~12 |
@@ -57,8 +57,8 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 446)  
-Completed: 0 (0.00%) (Ranked 360)  
+Progressed: 88 (Ranked 444)  
+Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,4 +95,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-22 | 79 | 0 |
 | 2023-11-24 | 83 | 0 |
 | 2023-11-25 | 86 | 0 |
-| 2023-11-26 | 87 | 0 |
+| 2023-11-26 | 88 | 0 |

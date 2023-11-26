@@ -13,7 +13,7 @@
 | Overboard | 9.00% | ~8 |
 | Leisis Bless You | 9.00% | ~8 |
 | Bladesmith | 8.00% | ~7 |
-| Explorer | 6.00% | ~5 |
+| Explorer | 7.00% | ~6 |
 | The Guardian of Fire | 6.00% | ~5 |
 | Sovereignty of Irons | 6.00% | ~5 |
 | A Sandwyrm's Hoard | 6.00% | ~5 |
@@ -64,7 +64,7 @@
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 86 (Ranked 448)  
-Completed: 0 (0.00%) (Ranked 360)  
+Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

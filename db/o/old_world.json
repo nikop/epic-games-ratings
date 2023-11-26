@@ -6,9 +6,9 @@
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 325,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2028,7 +2028,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15510,
+  "EOS_Progressed": 15513,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -16618,6 +16618,11 @@
       "Time": "2023-11-26T20:04:02.1650572+00:00",
       "NumProgressed": 15510,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T21:04:27.9975458+00:00",
+      "NumProgressed": 15513,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16779,9 +16784,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1",
       "SetID": "9201eeb",
       "Name": "Carthage - Ox Hide",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -16803,9 +16808,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 1)",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_SILVER",
@@ -16957,7 +16962,7 @@
       "Name": "Able",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -16981,7 +16986,7 @@
       "Name": "Architect",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -17085,7 +17090,7 @@
       "Name": "Good",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -17133,7 +17138,7 @@
       "Name": "Just",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -17149,7 +17154,7 @@
       "Name": "Learned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -17181,7 +17186,7 @@
       "Name": "Mason",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -17197,7 +17202,7 @@
       "Name": "Noble",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -17221,7 +17226,7 @@
       "Name": "Pioneer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -17261,7 +17266,7 @@
       "Name": "Strong",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -17997,7 +18002,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -18077,7 +18082,7 @@
       "Name": "Oracle",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -18413,7 +18418,7 @@
       "Name": "Judaism",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -18549,7 +18554,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -18661,7 +18666,7 @@
       "Name": "Trade Caravan",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -19364,21 +19369,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15510,
+      "Progressed": 15513,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15510,
+      "Progressed": 15513,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-25T13:58:59.246116+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:04:02.1650567+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:04:27.9975454+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:59:39.2966853+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:04:02.1659139+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:59:56.7446711+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:04:27.9983943+00:00"
 }

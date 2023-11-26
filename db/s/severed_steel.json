@@ -2,13 +2,13 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 26,
-  "Ranking_EOS_Completed": 340,
+  "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -797,10 +797,10 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 688827,
+  "EOS_Progressed": 688842,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 2052,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 2051,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
@@ -26012,6 +26012,11 @@
       "Time": "2023-11-26T20:08:39.5518855+00:00",
       "NumProgressed": 688827,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-11-26T21:09:03.9280579+00:00",
+      "NumProgressed": 688842,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 52,
@@ -26023,7 +26028,7 @@
       "Name": "1000 KILLS",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 61994
+      "UsersEstimate": 61996
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -26031,7 +26036,7 @@
       "Name": "100 KILLS",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 213536
+      "UsersEstimate": 213541
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -26039,7 +26044,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 117101
+      "UsersEstimate": 117103
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -26047,7 +26052,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 192872
+      "UsersEstimate": 192876
     },
     {
       "ID": "BIGUPS",
@@ -26087,7 +26092,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 179095
+      "UsersEstimate": 179099
     },
     {
       "ID": "CHAPTER2",
@@ -26095,7 +26100,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 130877
+      "UsersEstimate": 130880
     },
     {
       "ID": "CHAPTER3",
@@ -26103,7 +26108,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 110212
+      "UsersEstimate": 110215
     },
     {
       "ID": "CHAPTER4",
@@ -26111,7 +26116,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 96436
+      "UsersEstimate": 96438
     },
     {
       "ID": "CHAPTER5",
@@ -26119,7 +26124,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 82659
+      "UsersEstimate": 82661
     },
     {
       "ID": "CHAPTER6",
@@ -26127,7 +26132,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 68883
+      "UsersEstimate": 68884
     },
     {
       "ID": "CHURCH",
@@ -26151,7 +26156,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 68883
+      "UsersEstimate": 68884
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -26159,7 +26164,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 27553
+      "UsersEstimate": 27554
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -26175,7 +26180,7 @@
       "Name": "FIREFIGHT LEVEL 30",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6199
+      "UsersEstimate": 6200
     },
     {
       "ID": "FIREFIGHT40 LEVEL (0-40)",
@@ -26191,7 +26196,7 @@
       "Name": "FIREFIGHT LEVEL 50",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "FIREFIGHT60 LEVEL (0-60)",
@@ -26311,7 +26316,7 @@
       "Name": "OUT OF ORDER",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 6199
+      "UsersEstimate": 6200
     },
     {
       "ID": "OVERCLOCKED",
@@ -26383,7 +26388,7 @@
       "Name": "5 RUNS",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "SAVORTHEMOMENT",
@@ -26397,9 +26402,9 @@
       "ID": "SCIENCE",
       "SetID": "1pi2inm",
       "Name": "SCIENCE AND INDUSTRY",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 185983
+      "UsersEstimate": 192876
     },
     {
       "ID": "SOUL",
@@ -26438,7 +26443,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 688827,
+      "Progressed": 688842,
       "Completed": 86
     }
   ],
@@ -26446,8 +26451,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-11-26T15:00:09.905451+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:08:39.5518853+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:09:03.9280576+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:37.0012871+00:00",
-  "LastUpdate_Ratings": "2023-11-26T20:00:15.7618911+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:08:39.5520457+00:00"
+  "LastUpdate_Ratings": "2023-11-26T21:00:33.5739743+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:09:03.9281784+00:00"
 }

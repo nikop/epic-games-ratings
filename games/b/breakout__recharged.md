@@ -9,7 +9,7 @@
 | Another Brick in the Wall (Part 1) | 71.00% | ~84 |
 | High Hopes | 61.00% | ~73 |
 | Comfortably Numb | 59.00% | ~70 |
-| Echoes | 51.00% | ~61 |
+| Echoes | 52.00% | ~62 |
 | Another Brick in the Wall (Part 2) | 50.00% | ~60 |
 | Biding My Time | 45.00% | ~54 |
 | The Gunner's Dream | 41.00% | ~49 |

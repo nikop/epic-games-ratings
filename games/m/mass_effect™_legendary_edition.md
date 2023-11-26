@@ -46,17 +46,17 @@
 | The Quarian | 32.00% | ~456 |
 | The Prodigal | 32.00% | ~456 |
 | Galactic Explorer | 32.00% | ~456 |
+| Shopaholic | 32.00% | ~456 |
 | A Personal Touch | 31.00% | ~441 |
 | The Assassin | 31.00% | ~441 |
 | The Justicar | 31.00% | ~441 |
 | Battlemaster | 31.00% | ~441 |
 | Ghost of the Father | 31.00% | ~441 |
+| The Cure | 31.00% | ~441 |
 | Driven | 31.00% | ~441 |
-| Shopaholic | 31.00% | ~441 |
 | Completionist | 30.00% | ~427 |
 | Catharsis | 30.00% | ~427 |
 | Fade Away | 30.00% | ~427 |
-| The Cure | 30.00% | ~427 |
 | Big Game Hunter | 30.00% | ~427 |
 | Revenge! | 30.00% | ~427 |
 | Heart of Darkness | 30.00% | ~427 |

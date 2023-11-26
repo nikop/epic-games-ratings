@@ -6,11 +6,11 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,418 |
+| I will finish what you started | 29.00% | ~73,419 |
 | Powergamer | 27.00% | ~68,355 |
-| Write that down | 25.00% | ~63,291 |
-| Barely scratched the surface | 25.00% | ~63,291 |
-| Guns, lots of guns | 13.00% | ~32,911 |
+| Write that down | 25.00% | ~63,292 |
+| Barely scratched the surface | 25.00% | ~63,292 |
+| Guns, lots of guns | 13.00% | ~32,912 |
 | Collector | 12.00% | ~30,380 |
 | Elementary! | 9.00% | ~22,785 |
 | Griever | 8.00% | ~20,253 |
@@ -52,15 +52,15 @@ Number of Ratings: 33  (23.09.2022)
 | Irondec | 0.40% | ~1,013 |
 | LET ME OUT! | 0.40% | ~1,013 |
 | Un-bear-able | 0.40% | ~1,013 |
-| Well-deserved reunion | 0.30% | ~759 |
+| Well-deserved reunion | 0.30% | ~760 |
 | Breaking the chains | 0.20% | ~506 |
 | Aren't you overthinking? | 0.20% | ~506 |
 | Take the red pill | 0.20% | ~506 |
 | This is the way | 0.20% | ~506 |
 | Memory 5 | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,165 (Ranked 59)  
-Completed: 7 (0.00%) (Ranked 360)  
+Progressed: 253,168 (Ranked 59)  
+Completed: 7 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,7 +279,7 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-23 | 252,894 | 7 |
 | 2023-11-24 | 252,966 | 7 |
 | 2023-11-25 | 253,068 | 7 |
-| 2023-11-26 | 253,165 | 7 |
+| 2023-11-26 | 253,168 | 7 |
 ## Awards
 Max (Character Customization): 91  (Ranked 378)  
 Sum: 91 (Ranked 454)  

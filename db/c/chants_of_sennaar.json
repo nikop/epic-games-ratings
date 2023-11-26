@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 760,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.01,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3070,6 +3070,11 @@
       "Time": "2023-11-26T20:03:40.7211098+00:00",
       "NumProgressed": 758,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-26T21:04:06.4499004+00:00",
+      "NumProgressed": 760,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 25,
@@ -3081,7 +3086,7 @@
       "Name": "I did it",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "END_GOOD",
@@ -3097,7 +3102,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3105,7 +3110,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3143,9 +3148,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 122
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3169,7 +3174,7 @@
       "Name": "A Link to the Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3193,15 +3198,15 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 213
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3215,9 +3220,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 137
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3225,7 +3230,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3265,7 +3270,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "PROGRESS_N5",
@@ -3280,14 +3285,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 760,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:03:40.7211095+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:04:06.4499+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T20:00:10.5293774+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:03:40.7211581+00:00"
+  "LastUpdate_Ratings": "2023-11-26T21:00:27.1041322+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:04:06.4499274+00:00"
 }

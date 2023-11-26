@@ -6,28 +6,28 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~842 |
-| My little farm | 64.00% | ~674 |
-| Every beginning is difficult | 63.00% | ~663 |
-| Gofer | 57.00% | ~600 |
+| Cabin boy | 80.00% | ~843 |
+| My little farm | 64.00% | ~675 |
+| Every beginning is difficult | 63.00% | ~664 |
+| Gofer | 57.00% | ~601 |
 | 3, 2, 1, mine | 56.00% | ~590 |
-| O Captain! My Captain! | 55.00% | ~579 |
-| Seafarer | 51.00% | ~537 |
-| Greed for gold | 44.00% | ~463 |
+| O Captain! My Captain! | 55.00% | ~580 |
+| Seafarer | 51.00% | ~538 |
+| Greed for gold | 44.00% | ~464 |
 | Intangible | 43.00% | ~453 |
-| I'm out of here for a while | 42.00% | ~442 |
-| In a mint condition | 38.00% | ~400 |
+| I'm out of here for a while | 42.00% | ~443 |
+| In a mint condition | 38.00% | ~401 |
 | Licence to Kill | 37.00% | ~390 |
 | Pirates! | 35.00% | ~369 |
 | Collectionitis | 30.00% | ~316 |
-| Megalomania | 29.00% | ~305 |
+| Megalomania | 29.00% | ~306 |
 | Christening | 28.00% | ~295 |
 | Groundskeeper | 26.00% | ~274 |
 | Walk the plank | 22.00% | ~232 |
 | Wholesale | 22.00% | ~232 |
 | Pearly gates | 18.00% | ~190 |
 | My precious! | 17.00% | ~179 |
-| Conquistador | 14.00% | ~147 |
+| Conquistador | 14.00% | ~148 |
 | Panic buying | 11.00% | ~116 |
 | Your vessel, my vessel | 10.00% | ~105 |
 | Just a scratch | 9.00% | ~95 |
@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053 (Ranked 261)  
-Completed: 1 (0.09%) (Ranked 288)  
+Progressed: 1,054 (Ranked 261)  
+Completed: 1 (0.09%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,7 +249,7 @@ Completed: 1 (0.09%) (Ranked 288)
 | 2023-11-22 | 1,047 | 1 |
 | 2023-11-24 | 1,049 | 1 |
 | 2023-11-25 | 1,051 | 1 |
-| 2023-11-26 | 1,053 | 1 |
+| 2023-11-26 | 1,054 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

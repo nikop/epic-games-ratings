@@ -13,7 +13,9 @@ Rating: 4.75 (Ranked 148)
 | Not Your Average Trait | 0.30% | ~687 |
 | Am I Seeing This? | 0.20% | ~458 |
 | Ghost in the Machine | 0.20% | ~458 |
+| Chaos | 0.20% | ~458 |
 | Gleaming the Cube | 0.20% | ~458 |
+| Power Surge | 0.20% | ~458 |
 | Not So Special Now | 0.20% | ~458 |
 | Quest for Survival | 0.20% | ~458 |
 | Not a Janitor | 0.20% | ~458 |
@@ -34,10 +36,8 @@ Rating: 4.75 (Ranked 148)
 | Trait Chaser | 0.20% | ~458 |
 | Crafty | 0.10% | ~229 |
 | Only Human | 0.10% | ~229 |
-| Chaos | 0.10% | ~229 |
 | Traitor | 0.10% | ~229 |
 | Forever is a Long Time Coming | 0.10% | ~229 |
-| Power Surge | 0.10% | ~229 |
 | The God Gambit | 0.10% | ~229 |
 | Dark Designs | 0.10% | ~229 |
 | Madman's Paradise | 0.10% | ~229 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~8 |
 | You Shall Pass | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,943 (Ranked 68)  
-Completed: 534 (0.23%) (Ranked 248)  
+Progressed: 228,962 (Ranked 68)  
+Completed: 534 (0.23%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 534 (0.23%) (Ranked 248)
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
-| 2023-11-26 | 228,943 | 534 |
+| 2023-11-26 | 228,962 | 534 |
 ## Awards
 Max (Great Boss Battles): 2,455  (Ranked 104)  
 Sum: 5,961 (Ranked 129)  

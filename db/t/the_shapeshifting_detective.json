@@ -2,10 +2,10 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -633,9 +633,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "voyeur",
@@ -666,8 +666,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:05:20.4186858+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:05:45.7611637+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.7619154+00:00",
-  "LastUpdate_Ratings": "2023-11-26T20:00:11.9092909+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:05:20.4187005+00:00"
+  "LastUpdate_Ratings": "2023-11-26T21:00:28.4342589+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:05:45.761175+00:00"
 }

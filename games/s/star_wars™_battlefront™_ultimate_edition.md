@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,282 |
-| Off to a good start | 67.00% | ~965 |
-| Do... or do not. There is no try | 50.00% | ~720 |
-| A good blaster at your side | 31.00% | ~446 |
+| New Recruit | 89.00% | ~1,283 |
+| Off to a good start | 67.00% | ~966 |
+| Do... or do not. There is no try | 50.00% | ~721 |
+| A good blaster at your side | 31.00% | ~447 |
 | I suggest a new strategy | 19.00% | ~274 |
-| Scrap collector | 18.00% | ~259 |
+| Scrap collector | 18.00% | ~260 |
 | All right, I'll give it a try | 17.00% | ~245 |
 | Great shot, kid! | 17.00% | ~245 |
 | The power of the Force | 14.00% | ~202 |
@@ -22,8 +22,8 @@
 | Never tell me the odds! | 8.00% | ~115 |
 | A cunning warrior | 8.00% | ~115 |
 | What's the cargo? | 7.00% | ~101 |
-| Impressive. Most impressive. | 6.00% | ~86 |
-| Judge me by my size, do you? | 6.00% | ~86 |
+| Impressive. Most impressive. | 6.00% | ~87 |
+| Judge me by my size, do you? | 6.00% | ~87 |
 | "Gonk? Gonk!" | 5.00% | ~72 |
 | Distinguished | 5.00% | ~72 |
 | A tremor in the Force | 5.00% | ~72 |
@@ -33,16 +33,16 @@
 | Patience you must have | 4.00% | ~58 |
 | I've been waiting for you | 3.00% | ~43 |
 | When 900 years old you reach... | 3.00% | ~43 |
-| Determined | 3.00% | ~43 |
 | Your journey has only started | 3.00% | ~43 |
 | On the ball | 3.00% | ~43 |
-| Precision shot | 3.00% | ~43 |
-| That's no moon | 3.00% | ~43 |
 | Don't underestimate the Force | 3.00% | ~43 |
 | Hold the line! | 2.00% | ~29 |
 | The Force is strong with this one | 2.00% | ~29 |
+| Determined | 2.00% | ~29 |
+| Precision shot | 2.00% | ~29 |
 | This is a new day, a new beginning | 2.00% | ~29 |
 | City in the Clouds | 2.00% | ~29 |
+| That's no moon | 2.00% | ~29 |
 | Alternative solution | 2.00% | ~29 |
 | What will you become? | 2.00% | ~29 |
 | Disturbed tranquility | 2.00% | ~29 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,440 (Ranked 242)  
-Completed: 1 (0.07%) (Ranked 300)  
+Progressed: 1,442 (Ranked 242)  
+Completed: 1 (0.07%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 1 (0.07%) (Ranked 300)
 | 2023-11-23 | 1,384 | 1 |
 | 2023-11-24 | 1,403 | 1 |
 | 2023-11-25 | 1,421 | 1 |
-| 2023-11-26 | 1,440 | 1 |
+| 2023-11-26 | 1,442 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

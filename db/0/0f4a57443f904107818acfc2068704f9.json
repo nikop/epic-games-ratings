@@ -3,9 +3,9 @@
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 659,
+  "EOS_Progressed": 663,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1302,6 +1302,11 @@
       "Time": "2023-11-26T20:05:51.2314866+00:00",
       "NumProgressed": 659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T21:06:16.7275106+00:00",
+      "NumProgressed": 663,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1322,7 +1327,7 @@
       "Name": "Territorial",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1346,7 +1351,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -1368,9 +1373,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 497
     },
     {
       "ID": "CompleteChapter10",
@@ -1378,7 +1383,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CompleteChapter11",
@@ -1458,7 +1463,7 @@
       "Name": "Met the Enemy",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 378
     },
     {
       "ID": "CompleteChapter3",
@@ -1466,7 +1471,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "CompleteChapter4",
@@ -1474,7 +1479,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "CompleteChapter5",
@@ -1482,7 +1487,7 @@
       "Name": "Breathing Easy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "CompleteChapter6",
@@ -1490,15 +1495,15 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 93
     },
     {
       "ID": "CompleteChapter8",
@@ -1506,7 +1511,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CompleteChapter9",
@@ -1562,7 +1567,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1609,14 +1614,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 659,
+      "Progressed": 663,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:05:51.2314863+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:06:16.7275104+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:59:21.4540741+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:05:51.2315126+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:59:39.5473795+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:06:16.7275379+00:00"
 }

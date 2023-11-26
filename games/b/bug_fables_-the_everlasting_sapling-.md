@@ -12,14 +12,14 @@
 | Chapter 4 Complete | 28.00% | ~26 |
 | Heavy Duty | 24.00% | ~22 |
 | Chapter 5 Complete | 23.00% | ~21 |
+| Chapter 6 Complete | 22.00% | ~20 |
 | The Truth | 22.00% | ~20 |
-| Chapter 6 Complete | 20.00% | ~19 |
 | Plant Enchanter | 20.00% | ~19 |
 | Always Watchful | 19.00% | ~18 |
 | Chapter 7 Complete | 19.00% | ~18 |
 | Reconciliation | 19.00% | ~18 |
+| Bounty Hunter | 17.00% | ~16 |
 | The Terror | 17.00% | ~16 |
-| Bounty Hunter | 16.00% | ~15 |
 | All Geared Up | 14.00% | ~13 |
 | Battle Ready | 14.00% | ~13 |
 | The End | 13.00% | ~12 |
@@ -36,7 +36,7 @@
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 93 (Ranked 442)  
-Completed: 0 (0.00%) (Ranked 360)  
+Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

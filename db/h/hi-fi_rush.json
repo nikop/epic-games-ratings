@@ -6,9 +6,9 @@
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4366,
+  "EOS_Progressed": 4367,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7760,6 +7760,11 @@
       "Time": "2023-11-26T20:03:30.3921154+00:00",
       "NumProgressed": 4366,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-26T21:03:56.2055566+00:00",
+      "NumProgressed": 4367,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8225,9 +8230,9 @@
       "ID": "Ach058",
       "SetID": "12n4k20",
       "Name": "With our powers combined\u2026and to the rhythm\u2026",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach059",
@@ -8338,13 +8343,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4366,
+      "Progressed": 4367,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2887,
+      "Progressed": 2888,
       "Completed": 1930
     }
   ],
@@ -8352,8 +8357,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:03:30.392115+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:03:56.2055563+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:59:40.6681454+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:03:30.3921959+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:59:58.2315517+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:03:56.2056344+00:00"
 }

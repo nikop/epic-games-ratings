@@ -1,7 +1,7 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 292  (23.09.2022)
 | Dressed For Success | 7.00% | ~18 |
 | Sorcerous Spree | 5.00% | ~12 |
 | Humiliation | 5.00% | ~12 |
-| Veni, Vidi, Vici | 4.00% | ~10 |
+| Veni, Vidi, Vici | 5.00% | ~12 |
 | Whoops! | 3.00% | ~8 |
 | The Song of Stoutheart | 2.00% | ~5 |
 | This Spot's Taken | 2.00% | ~5 |
@@ -62,7 +62,7 @@ Number of Ratings: 292  (23.09.2022)
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 250 (Ranked 370)  
-Completed: 0 (0.00%) (Ranked 360)  
+Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 937,
+  "EOS_Progressed": 938,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2504,6 +2504,11 @@
       "Time": "2023-11-26T17:08:57.9093986+00:00",
       "NumProgressed": 937,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-26T21:08:54.4412864+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2531,7 +2536,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ChestCompletion1",
@@ -2611,7 +2616,7 @@
       "Name": "Family Memories",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "FactorywoodChests1",
@@ -2643,7 +2648,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2665,9 +2670,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 131
     },
     {
       "ID": "GrindingTime1",
@@ -2803,7 +2808,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "RewindParry",
@@ -2907,7 +2912,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "WatcherSpared",
@@ -2938,7 +2943,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 937,
+      "Progressed": 938,
       "Completed": 6
     }
   ],
@@ -2946,8 +2951,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:08:29.901503+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:08:54.4412857+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:57:53.3124503+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:08:29.9015547+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:58:09.2534406+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:08:54.4413258+00:00"
 }

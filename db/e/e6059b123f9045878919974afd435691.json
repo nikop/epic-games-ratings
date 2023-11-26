@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 360,
+  "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2909,9 +2909,9 @@
       "ID": "COOP_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Way It Should Be",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 53
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -3085,9 +3085,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 201
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -3133,9 +3133,9 @@
       "ID": "MEAT_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "To Get Stronger",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 127
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -3268,8 +3268,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:08:57.4473574+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:09:21.2849315+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:53.7695274+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:58:22.4511638+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:08:57.4474092+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:58:40.5015794+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:09:21.2849842+00:00"
 }

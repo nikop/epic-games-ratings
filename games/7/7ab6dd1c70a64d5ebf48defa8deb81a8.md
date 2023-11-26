@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 11.00% | ~25 |
-| Break Out | 9.00% | ~20 |
+| Break Out | 10.00% | ~23 |
 | Find Allies | 9.00% | ~20 |
 | Powerful Allies | 9.00% | ~20 |
 | I Found It | 9.00% | ~20 |
@@ -16,10 +16,10 @@
 | Scholar | 8.00% | ~18 |
 | The Collector | 8.00% | ~18 |
 | Tributes of Caladrias | 7.00% | ~16 |
+| Shatter Them All | 7.00% | ~16 |
 | Big Bazar | 7.00% | ~16 |
 | Stone Collection | 7.00% | ~16 |
 | Calm before the Storm | 6.00% | ~14 |
-| Shatter Them All | 6.00% | ~14 |
 | To Battle | 4.00% | ~9 |
 | Godslayer | 4.00% | ~9 |
 | Airborne | 4.00% | ~9 |
@@ -41,7 +41,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226 (Ranked 379)  
+Progressed: 226 (Ranked 380)  
 Completed: 2 (0.88%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |

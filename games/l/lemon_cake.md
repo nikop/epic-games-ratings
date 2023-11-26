@@ -19,11 +19,11 @@
 | Bakery Business | 7.00% | ~11 |
 | Master Baker | 7.00% | ~11 |
 | The Famous Lemon Cake | 7.00% | ~11 |
+| A Loving Home | 7.00% | ~11 |
 | Bakery Empire | 6.00% | ~10 |
-| A Loving Home | 6.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 163 (Ranked 399)  
-Completed: 2 (1.23%) (Ranked 154)  
+Completed: 2 (1.23%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

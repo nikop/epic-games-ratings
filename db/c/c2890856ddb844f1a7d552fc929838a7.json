@@ -3,12 +3,12 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 23,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 360,
+  "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2883,9 +2883,9 @@
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 317
     },
     {
       "ID": "AC30",
@@ -3028,8 +3028,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-18T16:58:56.9508532+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:08:01.488818+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:08:05.8916714+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:32.1505355+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:58:35.1954206+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:08:01.4888813+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:58:53.2542508+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:08:05.8917064+00:00"
 }

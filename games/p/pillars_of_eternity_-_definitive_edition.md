@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089 (Ranked 258)  
-Completed: 2 (0.18%) (Ranked 262)  
+Progressed: 1,089 (Ranked 259)  
+Completed: 2 (0.18%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,7 +100,7 @@ Completed: 2 (0.18%) (Ranked 262)
 | 2023-11-12 | 1,089 | 2 |
 ## Awards
 Max (Character Customization): 1,942  (Ranked 113)  
-Sum: 4,768 (Ranked 145)  
+Sum: 4,769 (Ranked 145)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -112,7 +112,7 @@ Diff (max vs sum): -32
 | This game is Highly Recommended | 321 |
 | This game is Relaxing | 319 |
 | This game has Challenging Combat | 317 |
-| This game has Quickly Understood Controls | 307 |
+| This game has Quickly Understood Controls | 308 |
 | This game has a Creative Community | 188 |
 | This game has Unique Visuals | 141 |
 ## Ratings History
@@ -325,3 +325,4 @@ Diff (max vs sum): -32
 | 2023-11-21 | 4.66 | - | 1,942 | 4,766 |
 | 2023-11-23 | 4.66 | - | 1,942 | 4,767 |
 | 2023-11-25 | 4.66 | - | 1,942 | 4,768 |
+| 2023-11-26 | 4.66 | - | 1,942 | 4,769 |

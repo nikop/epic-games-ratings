@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7538,
+  "EOS_Progressed": 7539,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -5923,6 +5923,11 @@
       "Time": "2023-11-26T15:04:16.2799379+00:00",
       "NumProgressed": 7538,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-26T21:04:46.5550105+00:00",
+      "NumProgressed": 7539,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5966,7 +5971,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5982,7 +5987,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5990,7 +5995,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -5998,7 +6003,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6086,7 +6091,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6108,9 +6113,9 @@
       "ID": "AK_TRAVELERS_RETURNED",
       "SetID": "dfmb89",
       "Name": "Travelers Returned",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1809
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -6134,7 +6139,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6149,15 +6154,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7538,
+      "Progressed": 7539,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:04:20.8172846+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:04:46.5550101+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:18.312921+00:00",
-  "LastUpdate_Ratings": "2023-11-26T20:02:44.4974555+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:04:20.8173266+00:00"
+  "LastUpdate_Ratings": "2023-11-26T21:02:49.5849595+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:04:46.555059+00:00"
 }

@@ -8,15 +8,15 @@
 | Challenge Accepted | 25.00% | ~209 |
 | Terminated I | 25.00% | ~209 |
 | Nanonic I | 23.00% | ~192 |
-| Unlocked and Loaded | 22.00% | ~184 |
+| Unlocked and Loaded | 23.00% | ~192 |
 | Terminated II | 20.00% | ~167 |
-| The City | 17.00% | ~142 |
+| The City | 18.00% | ~150 |
+| Terminated III | 15.00% | ~125 |
 | Challenge Mastered | 14.00% | ~117 |
-| Terminated III | 14.00% | ~117 |
 | Nanonic II | 12.00% | ~100 |
+| Fully Modded | 10.00% | ~84 |
 | Supply Run | 10.00% | ~84 |
 | Starship Docks | 9.00% | ~75 |
-| Fully Modded | 9.00% | ~75 |
 | Nanonic III | 9.00% | ~75 |
 | Cybernetic | 8.00% | ~67 |
 | The Bigger They Are | 7.00% | ~59 |
@@ -35,7 +35,7 @@
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 836 (Ranked 272)  
-Completed: 0 (0.00%) (Ranked 360)  
+Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

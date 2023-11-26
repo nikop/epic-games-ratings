@@ -6,9 +6,9 @@
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 207,
-  "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 361,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3359,
+  "EOS_Progressed": 3362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5913,6 +5913,11 @@
       "Time": "2023-11-26T20:03:24.5573893+00:00",
       "NumProgressed": 3359,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T21:03:50.1573655+00:00",
+      "NumProgressed": 3362,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5924,7 +5929,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_BASE_10",
@@ -5932,7 +5937,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_BASE_11",
@@ -6012,7 +6017,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ACH_BASE_22",
@@ -6028,7 +6033,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_BASE_24",
@@ -6036,7 +6041,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH_BASE_25",
@@ -6060,7 +6065,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_BASE_28",
@@ -6076,7 +6081,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_BASE_3",
@@ -6116,7 +6121,7 @@
       "Name": "Fully Recycled",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_BASE_34",
@@ -6300,7 +6305,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_BASE_6",
@@ -6379,13 +6384,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1543,
+      "Progressed": 1546,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3359,
+      "Progressed": 3362,
       "Completed": 0
     }
   ],
@@ -6393,8 +6398,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:03:24.557389+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:03:50.1573653+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.2779829+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:57:55.32298+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:03:24.5574495+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:58:11.1890828+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:03:50.1574411+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 88,
@@ -899,9 +899,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_02",
@@ -1035,9 +1035,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_19",
@@ -1194,8 +1194,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:09:02.3317624+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:09:25.9822555+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:58:55.1233645+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:09:02.331788+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:59:13.5584369+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:09:25.9822812+00:00"
 }

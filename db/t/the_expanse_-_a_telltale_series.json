@@ -6,8 +6,8 @@
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15616,
+  "EOS_Progressed": 15621,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12380,6 +12380,11 @@
       "Time": "2023-11-26T20:05:35.1172746+00:00",
       "NumProgressed": 15616,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-26T21:06:00.2252239+00:00",
+      "NumProgressed": 15621,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12416,7 +12421,7 @@
       "Name": "Data Archivist",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "13",
@@ -12488,7 +12493,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "21",
@@ -12528,7 +12533,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "26",
@@ -12566,9 +12571,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 937
     },
     {
       "ID": "30",
@@ -12640,7 +12645,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "33",
@@ -12664,29 +12669,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15616,
+      "Progressed": 15621,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1570,
-      "Completed": 732
+      "Progressed": 1575,
+      "Completed": 734
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:05:35.1172743+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:06:00.2252234+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:58:43.0573773+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:05:35.1173464+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:59:00.6697885+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:06:00.2252949+00:00"
 }

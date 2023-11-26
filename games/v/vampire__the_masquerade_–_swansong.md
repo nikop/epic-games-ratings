@@ -5,15 +5,15 @@ Rating: 4.21 (Ranked 906)
 Number of Ratings: 736  (23.09.2022)  
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 594)  
-Completed: 0 (0.00%) (Ranked 360)  
+Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 12 | 0 |
 ## Awards
 Max (Impact the Story): 78  (Ranked 394)  
-Sum: 78 (Ranked 464)  
-Diff (max vs sum): -70  
+Sum: 78 (Ranked 465)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 78 |

@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "and_away_we_go",
       "SetID": "202dmm8",
       "Name": "And away we go!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 208
     },
     {
       "ID": "bless_the_rain",
@@ -674,8 +674,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-26T20:08:34.1584959+00:00",
+  "LastChanged_Achievements": "2023-11-26T21:08:58.5301929+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.8439952+00:00",
-  "LastUpdate_Ratings": "2023-11-26T19:58:10.156683+00:00",
-  "LastUpdate_Achievements": "2023-11-26T20:08:34.1585047+00:00"
+  "LastUpdate_Ratings": "2023-11-26T20:58:27.3023653+00:00",
+  "LastUpdate_Achievements": "2023-11-26T21:08:58.5302011+00:00"
 }
