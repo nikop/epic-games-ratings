@@ -18,6 +18,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 0.60% | ~4,305 |
 | Path of the Prospect | 0.60% | ~4,305 |
 | Rumble in the Hangar | 0.60% | ~4,305 |
+| Fight the way you practice | 0.60% | ~160 |
 | Lady Wing Chun | 0.50% | ~3,587 |
 | Furious Fists | 0.50% | ~3,587 |
 | Kill Nil | 0.50% | ~3,587 |
@@ -27,20 +28,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.50% | ~3,587 |
 | Take damage to save time | 0.50% | ~3,587 |
 | Martial Hub | 0.50% | ~134 |
-| Fight the way you practice | 0.50% | ~134 |
 | Scareless | 0.40% | ~2,870 |
 | Qi Gong: Mind | 0.40% | ~2,870 |
 | I know Kung-Fu | 0.40% | ~2,870 |
 | Kung-Fu Tussle | 0.40% | ~2,870 |
 | Bloody Sport | 0.40% | ~107 |
 | Muk Yan Master | 0.30% | ~2,152 |
+| Detective Story | 0.30% | ~2,152 |
 | Dance of the Praying Mantis | 0.30% | ~2,152 |
 | Tiger on Fire | 0.20% | ~1,435 |
 | Source of Flying Daggers | 0.20% | ~1,435 |
 | Iron Money | 0.20% | ~1,435 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,435 |
 | Prodigal Child | 0.20% | ~1,435 |
-| Detective Story | 0.20% | ~1,435 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,435 |
 | Sword Stained With Blood | 0.20% | ~1,435 |
 | Deadly Venom | 0.20% | ~53 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,418 (Ranked 22)  
+Progressed: 717,421 (Ranked 22)  
 Completed: 12,940 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 12,940 (1.80%) (Ranked 132)
 | 2023-11-23 | 717,216 | 12,939 |
 | 2023-11-24 | 717,272 | 12,939 |
 | 2023-11-25 | 717,366 | 12,940 |
-| 2023-11-26 | 717,418 | 12,940 |
+| 2023-11-26 | 717,421 | 12,940 |
 ## Awards
 Max (Great Boss Battles): 6,843  (Ranked 55)  
 Sum: 11,979 (Ranked 82)  

@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3013,
+  "EOS_Progressed": 3015,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4411,6 +4411,11 @@
       "Time": "2023-11-26T13:08:37.2859581+00:00",
       "NumProgressed": 3013,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-26T14:06:18.9398211+00:00",
+      "NumProgressed": 3015,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4430,7 +4435,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "FALLEN_TREE",
@@ -4486,7 +4491,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4518,14 +4523,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3013,
+      "Progressed": 3015,
       "Completed": 6
     }
   ],
@@ -4533,8 +4538,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:08:37.2859577+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:06:18.9398207+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:11.4172753+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:00:46.7133178+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:08:37.2859856+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:58:29.8153333+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:06:18.9398513+00:00"
 }

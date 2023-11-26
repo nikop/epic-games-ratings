@@ -136,13 +136,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.80% | ~124 |
 | Hittite Paganism | 0.80% | ~124 |
 | All Nations | 0.80% | ~124 |
-| Ishtar Gate in Babylon | 0.70% | ~108 |
-| Peacemaker | 0.70% | ~108 |
-| Cao'an | 0.70% | ~108 |
-| Learn to Play 5 | 0.70% | ~108 |
-| Cataphract Archer | 0.70% | ~108 |
-| The Great Mage | 0.70% | ~108 |
-| Kmt Unified | 0.70% | ~108 |
+| Ishtar Gate in Babylon | 0.70% | ~109 |
+| Peacemaker | 0.70% | ~109 |
+| Cao'an | 0.70% | ~109 |
+| Learn to Play 5 | 0.70% | ~109 |
+| Cataphract Archer | 0.70% | ~109 |
+| The Great Mage | 0.70% | ~109 |
+| Kmt Unified | 0.70% | ~109 |
 | Carthage - Ox Hide | 0.60% | ~93 |
 | Old | 0.60% | ~93 |
 | Old World Order | 0.60% | ~93 |
@@ -171,20 +171,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
-| Carthage - Riches and Influence | 0.30% | ~46 |
-| Cleopatra's Love | 0.30% | ~46 |
-| Holy | 0.30% | ~46 |
-| Great Difficulty | 0.30% | ~46 |
-| Event Level High | 0.30% | ~46 |
-| Five Routs | 0.30% | ~46 |
-| A Good Start | 0.30% | ~46 |
-| Tell the Spartans | 0.30% | ~46 |
-| Medo-Babylonian Conquest | 0.30% | ~46 |
-| Apadana in Parsa | 0.30% | ~46 |
-| Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
-| Circus Maximus in Roma | 0.30% | ~46 |
-| Randomized Leaders | 0.30% | ~46 |
-| Deposed Tribe | 0.30% | ~46 |
+| Carthage - Riches and Influence | 0.30% | ~47 |
+| Cleopatra's Love | 0.30% | ~47 |
+| Holy | 0.30% | ~47 |
+| Great Difficulty | 0.30% | ~47 |
+| Event Level High | 0.30% | ~47 |
+| Five Routs | 0.30% | ~47 |
+| A Good Start | 0.30% | ~47 |
+| Tell the Spartans | 0.30% | ~47 |
+| Medo-Babylonian Conquest | 0.30% | ~47 |
+| Apadana in Parsa | 0.30% | ~47 |
+| Play a Free-For-All Game (>2 Players) | 0.30% | ~47 |
+| Circus Maximus in Roma | 0.30% | ~47 |
+| Randomized Leaders | 0.30% | ~47 |
+| Deposed Tribe | 0.30% | ~47 |
 | Barbarian Horde | 0.20% | ~31 |
 | Blade of the Monkey | 0.20% | ~31 |
 | Gold Victory (Carthage 1) | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,500 (Ranked 152)  
+Progressed: 15,504 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -569,7 +569,7 @@ Completed: 5 (0.03%) (Ranked 324)
 | 2023-11-23 | 15,453 | 5 |
 | 2023-11-24 | 15,467 | 5 |
 | 2023-11-25 | 15,489 | 5 |
-| 2023-11-26 | 15,500 | 5 |
+| 2023-11-26 | 15,504 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,875 (Ranked 218)  

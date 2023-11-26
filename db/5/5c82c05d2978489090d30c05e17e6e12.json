@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57601,
+  "EOS_Progressed": 57662,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 25118,
+  "EOS_NewPlayers": 24733,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1285,6 +1285,11 @@
       "Time": "2023-11-26T13:07:47.3008041+00:00",
       "NumProgressed": 57601,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-26T14:05:17.1253473+00:00",
+      "NumProgressed": 57662,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -1297,7 +1302,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 21312
+      "UsersEstimate": 21335
     },
     {
       "ID": "Achievement_10",
@@ -1305,7 +1310,7 @@
       "Name": "Inside Ma\u00E1to\u0027s Mind",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Achievement_11",
@@ -1329,7 +1334,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "Achievement_14",
@@ -1337,7 +1342,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Achievement_15",
@@ -1385,7 +1390,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 15552
+      "UsersEstimate": 15569
     },
     {
       "ID": "Achievement_20",
@@ -1401,7 +1406,7 @@
       "Name": "Heroic Hoarder",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Achievement_22",
@@ -1409,7 +1414,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Achievement_23",
@@ -1425,7 +1430,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1730
     },
     {
       "ID": "Achievement_25",
@@ -1441,7 +1446,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Achievement_27",
@@ -1473,7 +1478,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6336
+      "UsersEstimate": 6343
     },
     {
       "ID": "Achievement_30",
@@ -1511,9 +1516,9 @@
       "ID": "Achievement_34",
       "SetID": "2md12pi",
       "Name": "Warden",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 115
     },
     {
       "ID": "Achievement_4",
@@ -1521,7 +1526,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4613
     },
     {
       "ID": "Achievement_5",
@@ -1529,7 +1534,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2883
     },
     {
       "ID": "Achievement_6",
@@ -1537,7 +1542,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1730
     },
     {
       "ID": "Achievement_7",
@@ -1545,7 +1550,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "Achievement_8",
@@ -1553,7 +1558,7 @@
       "Name": "House In Order",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Achievement_9",
@@ -1568,7 +1573,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 57601,
+      "Progressed": 57662,
       "Completed": 25
     }
   ],
@@ -1576,8 +1581,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-11-25T19:58:46.6033399+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:07:47.3008039+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:05:17.1253471+00:00",
   "LastUpdate_AppInfo": "2023-11-23T11:57:10.0145945+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:01:52.9989937+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:07:47.3008249+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:59:58.0617615+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:05:17.1253691+00:00"
 }

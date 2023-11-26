@@ -8,10 +8,10 @@ Rating: 4.61 (Ranked 382)
 | Realm Estate | 3.00% | ~165 |
 | A Wonderful Discovery | 3.00% | ~165 |
 | Secret Technique | 3.00% | ~165 |
+| Walls Cannot Stop Us | 3.00% | ~165 |
 | But this one is mine | 3.00% | ~165 |
 | There Can Only Be One! | 2.00% | ~110 |
 | Full Ascension | 2.00% | ~110 |
-| Walls Cannot Stop Us | 2.00% | ~110 |
 | Bone Peddler | 2.00% | ~110 |
 | From Friends to Family | 2.00% | ~110 |
 | Magical Synergy | 2.00% | ~110 |

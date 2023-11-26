@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,251 (Ranked 62)  
+Progressed: 240,253 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,10 +365,10 @@ Completed: 291 (0.12%) (Ranked 277)
 | 2023-11-23 | 240,120 | 290 |
 | 2023-11-24 | 240,173 | 290 |
 | 2023-11-25 | 240,224 | 291 |
-| 2023-11-26 | 240,251 | 291 |
+| 2023-11-26 | 240,253 | 291 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 132)  
-Sum: 11,692 (Ranked 84)  
+Sum: 11,694 (Ranked 84)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -377,7 +377,7 @@ Diff (max vs sum): 48
 | This game is Relaxing | 1,437 |
 | This game has Challenging Combat | 1,435 |
 | This game is Extremely Fun | 1,414 |
-| This game is Highly Recommended | 1,383 |
+| This game is Highly Recommended | 1,385 |
 | This game has Amazing Storytelling | 1,324 |
 | This game has Amazing Characters | 1,226 |
 | This game has Unique Visuals | 1,223 |
@@ -602,3 +602,4 @@ Diff (max vs sum): 48
 | 2023-11-20 | 4.58 | - | 1,503 | 11,685 |
 | 2023-11-23 | 4.58 | - | 1,505 | 11,691 |
 | 2023-11-25 | 4.58 | - | 1,505 | 11,692 |
+| 2023-11-26 | 4.58 | - | 1,505 | 11,694 |

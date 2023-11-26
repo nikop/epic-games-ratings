@@ -511,9 +511,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2714,
+  "EOS_Progressed": 2715,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8081,6 +8081,11 @@
       "Time": "2023-11-26T13:12:05.9077126+00:00",
       "NumProgressed": 2714,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T14:09:24.6859616+00:00",
+      "NumProgressed": 2715,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8180,7 +8185,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "doingmypart",
@@ -8188,7 +8193,7 @@
       "Name": "Doing My Part",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "dragonclicker",
@@ -8268,7 +8273,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "fellowshippower",
@@ -8324,7 +8329,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "herewegoagain",
@@ -8356,7 +8361,7 @@
       "Name": "Hunter",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "inspection",
@@ -8484,7 +8489,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "prestigiousx10",
@@ -8548,7 +8553,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "thealchemist",
@@ -8588,7 +8593,7 @@
       "Name": "The power of Awakening",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "theunstoppable",
@@ -8652,7 +8657,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "warmachinesarmy",
@@ -8684,14 +8689,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2714,
+      "Progressed": 2715,
       "Completed": 2
     }
   ],
@@ -8699,8 +8704,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-25T17:02:46.8943559+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:12:05.9077123+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:09:24.685961+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:05:56.6870065+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:12:05.9078071+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:02:59.466474+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:09:24.6860541+00:00"
 }

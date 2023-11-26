@@ -19,8 +19,8 @@
 | Survivor | 10.00% | ~143 |
 | Tell Jabba that I've got his money | 9.00% | ~129 |
 | Best star-pilot in the galaxy | 9.00% | ~129 |
-| Never tell me the odds! | 8.00% | ~114 |
-| A cunning warrior | 8.00% | ~114 |
+| Never tell me the odds! | 8.00% | ~115 |
+| A cunning warrior | 8.00% | ~115 |
 | What's the cargo? | 7.00% | ~100 |
 | "Gonk? Gonk!" | 6.00% | ~86 |
 | Impressive. Most impressive. | 6.00% | ~86 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,431 (Ranked 242)  
+Progressed: 1,432 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1 (0.07%) (Ranked 300)
 | 2023-11-23 | 1,384 | 1 |
 | 2023-11-24 | 1,403 | 1 |
 | 2023-11-25 | 1,421 | 1 |
-| 2023-11-26 | 1,431 | 1 |
+| 2023-11-26 | 1,432 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3525,9 +3525,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31606,
+  "EOS_Progressed": 31611,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20540,6 +20540,11 @@
       "Time": "2023-11-26T11:05:55.2446236+00:00",
       "NumProgressed": 31606,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-26T14:07:57.0188323+00:00",
+      "NumProgressed": 31611,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20551,7 +20556,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "Animated",
@@ -20599,7 +20604,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "Collector",
@@ -20639,7 +20644,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "Dont_Need_These",
@@ -20663,7 +20668,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "Escape_Artist",
@@ -20839,7 +20844,7 @@
       "Name": "Solo Capture",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "Stunner",
@@ -20879,7 +20884,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "Teamwork",
@@ -20958,7 +20963,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31606,
+      "Progressed": 31611,
       "Completed": 69
     }
   ],
@@ -20966,8 +20971,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-26T08:02:39.558705+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:09:55.4200606+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:07:57.018832+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-26T12:59:51.9783951+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:09:55.4201764+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:57:15.0627606+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:07:57.0189242+00:00"
 }

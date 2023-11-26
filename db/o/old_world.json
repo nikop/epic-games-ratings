@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2028,9 +2028,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15500,
+  "EOS_Progressed": 15504,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16588,6 +16588,11 @@
       "Time": "2023-11-26T13:07:34.0140066+00:00",
       "NumProgressed": 15500,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T14:05:00.3315944+00:00",
+      "NumProgressed": 15504,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16687,7 +16692,7 @@
       "Name": "Ishtar Gate in Babylon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION",
@@ -16791,7 +16796,7 @@
       "Name": "Carthage - Riches and Influence",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
@@ -16919,7 +16924,7 @@
       "Name": "Cleopatra\u0027s Love",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
@@ -17071,7 +17076,7 @@
       "Name": "Holy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
@@ -17183,7 +17188,7 @@
       "Name": "Peacemaker",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -17359,7 +17364,7 @@
       "Name": "Great Difficulty",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
@@ -17423,7 +17428,7 @@
       "Name": "Event Level High",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
@@ -17543,7 +17548,7 @@
       "Name": "Five Routs",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_GOTW",
@@ -17615,7 +17620,7 @@
       "Name": "A Good Start",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_20",
@@ -17655,7 +17660,7 @@
       "Name": "Tell the Spartans",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_ALEXANDER_KILL",
@@ -17991,7 +17996,7 @@
       "Name": "Cao\u0027an",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -18151,7 +18156,7 @@
       "Name": "Learn to Play 5",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -18167,7 +18172,7 @@
       "Name": "Medo-Babylonian Conquest",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_MEMPHIS_PYRAMIDS",
@@ -18287,7 +18292,7 @@
       "Name": "Apadana in Parsa",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_PLAY_1V1",
@@ -18303,7 +18308,7 @@
       "Name": "Play a Free-For-All Game (\u003E2 Players)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_PLAY_HOTSEAT",
@@ -18487,7 +18492,7 @@
       "Name": "Circus Maximus in Roma",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
@@ -18639,7 +18644,7 @@
       "Name": "Cataphract Archer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -18783,7 +18788,7 @@
       "Name": "Randomized Leaders",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ROLE_PLAYING",
@@ -18887,7 +18892,7 @@
       "Name": "Deposed Tribe",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
@@ -18911,7 +18916,7 @@
       "Name": "The Great Mage",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -18999,7 +19004,7 @@
       "Name": "Kmt Unified",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MAJOR_VICTORY",
@@ -19334,21 +19339,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15500,
+      "Progressed": 15504,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15500,
+      "Progressed": 15504,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-25T13:58:59.246116+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:07:34.0140064+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:05:00.3315941+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:02:38.5366029+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:07:34.014857+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:00:59.9204281+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:05:00.3324597+00:00"
 }

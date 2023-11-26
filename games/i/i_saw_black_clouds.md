@@ -15,8 +15,8 @@
 | Tough | 12.00% | ~40 |
 | Clear | 5.00% | ~17 |
 | Unfinished | 4.00% | ~13 |
+| Denial | 3.00% | ~10 |
 | All endings | 2.00% | ~7 |
-| Denial | 2.00% | ~7 |
 | Help | 2.00% | ~7 |
 | Interpret | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)

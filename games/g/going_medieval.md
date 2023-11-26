@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,282 |
-| Get A Room | 75.00% | ~5,212 |
-| Reap What You Sow | 73.00% | ~5,074 |
-| The First Day | 69.00% | ~4,796 |
-| Green Thumb | 67.00% | ~4,656 |
-| Novice Researcher | 67.00% | ~4,656 |
-| Home Cooked Meal | 61.00% | ~4,240 |
-| Onward | 57.00% | ~3,961 |
-| The First Week | 55.00% | ~3,823 |
-| Beam Me Up | 52.00% | ~3,614 |
-| Studious Researcher | 52.00% | ~3,614 |
-| Putting Food on the Table | 48.00% | ~3,336 |
+| Having A Field Day | 76.00% | ~5,284 |
+| Get A Room | 75.00% | ~5,214 |
+| Reap What You Sow | 73.00% | ~5,075 |
+| The First Day | 69.00% | ~4,797 |
+| Green Thumb | 67.00% | ~4,658 |
+| Novice Researcher | 67.00% | ~4,658 |
+| Home Cooked Meal | 61.00% | ~4,241 |
+| Onward | 58.00% | ~4,032 |
+| The First Week | 55.00% | ~3,824 |
+| Beam Me Up | 52.00% | ~3,615 |
+| Studious Researcher | 52.00% | ~3,615 |
+| Putting Food on the Table | 48.00% | ~3,337 |
 | Adept Researcher | 45.00% | ~3,128 |
-| Retribution | 42.00% | ~2,919 |
-| ...And Don’t Come Back! | 42.00% | ~2,919 |
-| Feast or Famine | 39.00% | ~2,710 |
-| Heating Up | 32.00% | ~2,224 |
-| Luminary Researcher | 31.00% | ~2,154 |
-| Fit For A King | 29.00% | ~2,015 |
-| Winter Is Coming | 28.00% | ~1,946 |
+| Retribution | 42.00% | ~2,920 |
+| ...And Don’t Come Back! | 42.00% | ~2,920 |
+| Feast or Famine | 39.00% | ~2,711 |
+| Heating Up | 32.00% | ~2,225 |
+| Luminary Researcher | 31.00% | ~2,155 |
+| Fit For A King | 29.00% | ~2,016 |
+| Winter Is Coming | 28.00% | ~1,947 |
 | Winter Is Here | 25.00% | ~1,738 |
 | Disassembled | 22.00% | ~1,529 |
 | A Party Now | 22.00% | ~1,529 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~139 |
 | Wabbit Season | 0.50% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,950 (Ranked 181)  
+Progressed: 6,952 (Ranked 181)  
 Completed: 14 (0.20%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 14 (0.20%) (Ranked 255)
 | 2023-11-23 | 6,890 | 14 |
 | 2023-11-24 | 6,908 | 14 |
 | 2023-11-25 | 6,928 | 14 |
-| 2023-11-26 | 6,950 | 14 |
+| 2023-11-26 | 6,952 | 14 |
 ## Awards
 Max (Great for Beginners): 125  (Ranked 337)  
 Sum: 1,024 (Ranked 260)  

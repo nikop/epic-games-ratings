@@ -13,14 +13,14 @@
 | The artist’s impression | 43.00% | ~37 |
 | Refuse to look | 36.00% | ~31 |
 | Sign of weakness | 34.00% | ~30 |
-| Finished it | 26.00% | ~23 |
+| Finished it | 28.00% | ~24 |
 | Face your fears | 23.00% | ~20 |
 | Playtime | 14.00% | ~12 |
 | Tough conversation | 14.00% | ~12 |
 | The tragedy unfolds | 13.00% | ~11 |
+| Whispers long forgotten | 13.00% | ~11 |
 | First steps | 11.00% | ~10 |
 | True Reflection | 11.00% | ~10 |
-| Whispers long forgotten | 11.00% | ~10 |
 | A new way | 10.00% | ~9 |
 | Breaking free | 10.00% | ~9 |
 | A Slice of Life | 10.00% | ~9 |

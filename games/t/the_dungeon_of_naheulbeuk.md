@@ -1,17 +1,17 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.59 (Ranked 430)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,910 |
-| Alt+F4 | 9.00% | ~21,577 |
-| Where's that freaking Dwarf? | 8.00% | ~19,179 |
+| Sowwy! | 35.00% | ~83,912 |
+| Alt+F4 | 9.00% | ~21,578 |
+| Where's that freaking Dwarf? | 8.00% | ~19,180 |
 | Déjà vu | 6.00% | ~14,385 |
-| Sock! SOCK! | 5.00% | ~11,987 |
-| Speedrun | 5.00% | ~11,987 |
+| Sock! SOCK! | 5.00% | ~11,988 |
+| Speedrun | 5.00% | ~11,988 |
 | A beer, two curses, three companions | 4.00% | ~9,590 |
 | GG EZ | 4.00% | ~9,590 |
 | DM intervention | 4.00% | ~9,590 |
@@ -38,12 +38,12 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,795 |
 | Team Building Exercise | 2.00% | ~4,795 |
 | Oh, when I'll be level 10... | 2.00% | ~4,795 |
-| %#*!$*! | 1.00% | ~2,397 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,397 |
-| Dead for good | 1.00% | ~2,397 |
-| Gargantua | 1.00% | ~2,397 |
-| Lust and Debauchery | 1.00% | ~2,397 |
-| Material Girl | 1.00% | ~2,397 |
+| %#*!$*! | 1.00% | ~2,398 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,398 |
+| Dead for good | 1.00% | ~2,398 |
+| Gargantua | 1.00% | ~2,398 |
+| Lust and Debauchery | 1.00% | ~2,398 |
+| Material Girl | 1.00% | ~2,398 |
 | In Navalu's footsteps | 0.90% | ~2,158 |
 | Lëgal Legend | 0.80% | ~1,918 |
 | We come in peace | 0.70% | ~1,678 |
@@ -56,16 +56,16 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 0.40% | ~959 |
 | The number of the counting shalt be 7 | 0.30% | ~719 |
 | Inception | 0.30% | ~719 |
-| Cursed die | 0.20% | ~479 |
-| The Blood Countess | 0.20% | ~479 |
-| Free customer service | 0.20% | ~479 |
-| Imposture and Trowels | 0.20% | ~479 |
-| Kudos from your DM | 0.20% | ~479 |
-| Insult to injury | 0.20% | ~479 |
-| 100% satisfaction guarantee | 0.20% | ~479 |
-| Death is for wimps | 0.20% | ~479 |
-| Super-Ultra-Lydian | 0.20% | ~479 |
-| Demisemiquaver | 0.20% | ~479 |
+| Cursed die | 0.20% | ~480 |
+| The Blood Countess | 0.20% | ~480 |
+| Free customer service | 0.20% | ~480 |
+| Imposture and Trowels | 0.20% | ~480 |
+| Kudos from your DM | 0.20% | ~480 |
+| Insult to injury | 0.20% | ~480 |
+| 100% satisfaction guarantee | 0.20% | ~480 |
+| Death is for wimps | 0.20% | ~480 |
+| Super-Ultra-Lydian | 0.20% | ~480 |
+| Demisemiquaver | 0.20% | ~480 |
 | Necrophilia | 0.10% | ~240 |
 | He’s alive! Aliiiive! | 0.10% | ~240 |
 | Restless night | 0.10% | ~240 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,742 (Ranked 63)  
+Progressed: 239,750 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 7 (0.00%) (Ranked 360)
 | 2023-11-23 | 239,137 | 7 |
 | 2023-11-24 | 239,357 | 7 |
 | 2023-11-25 | 239,618 | 7 |
-| 2023-11-26 | 239,742 | 7 |
+| 2023-11-26 | 239,750 | 7 |
 ## Awards
 Max (Character Customization): 238  (Ranked 272)  
 Sum: 480 (Ranked 330)  
@@ -476,4 +476,4 @@ Diff (max vs sum): -58
 | 2023-11-20 | 4.58 | - | 235 | 472 |
 | 2023-11-21 | 4.58 | - | 237 | 474 |
 | 2023-11-23 | 4.58 | - | 238 | 478 |
-| 2023-11-26 | 4.58 | - | 238 | 480 |
+| 2023-11-26 | 4.59 | - | 238 | 480 |

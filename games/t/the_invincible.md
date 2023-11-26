@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 46.00% | ~161 |
+| The Camp | 47.00% | ~164 |
 | The Teleprobe | 38.00% | ~133 |
 | The City | 34.00% | ~119 |
-| The field base | 31.00% | ~108 |
+| The field base | 32.00% | ~112 |
 | Survivors | 27.00% | ~94 |
 | The Condor | 26.00% | ~91 |
 | The End | 25.00% | ~87 |
-| The Necroevolution | 19.00% | ~66 |
+| The Necroevolution | 20.00% | ~70 |
 | Krauta is alive | 18.00% | ~63 |
-| Peacemaker | 16.00% | ~56 |
+| Peacemaker | 17.00% | ~59 |
 | The Alliance | 16.00% | ~56 |
 | Volcanologist | 16.00% | ~56 |
 | On her own | 15.00% | ~52 |
+| Fierce fight | 13.00% | ~45 |
+| Evacuation | 13.00% | ~45 |
 | Beyond divisions | 13.00% | ~45 |
-| Fierce fight | 12.00% | ~42 |
-| Evacuation | 12.00% | ~42 |
 | Flying Objects Operator | 11.00% | ~38 |
 | I remember everything! | 10.00% | ~35 |
 | Violent solution | 7.00% | ~24 |
@@ -28,7 +28,7 @@
 | The Invincible | 5.00% | ~17 |
 | I leave no man behind | 5.00% | ~17 |
 | Strong objection | 5.00% | ~17 |
-| Ubiquitous holes | 3.00% | ~10 |
+| Ubiquitous holes | 4.00% | ~14 |
 | Got lost again | 3.00% | ~10 |
 | I leave no man behind (no exceptions) | 2.00% | ~7 |
 | Convoy list | 1.00% | ~3 |

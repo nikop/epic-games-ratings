@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -280,6 +280,11 @@
       "Time": "2023-11-12T06:03:52.4404148+00:00",
       "NumProgressed": 162,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T14:06:53.0892935+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -291,7 +296,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "LC-02",
@@ -385,9 +390,9 @@
       "ID": "LC-13",
       "SetID": "ap2ljl4",
       "Name": "The Kitchen Is On Fire",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "LC-14",
@@ -426,7 +431,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 2
     }
   ],
@@ -434,8 +439,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:09:04.7552522+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:06:53.0892931+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:39.9460728+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:03:25.2215649+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:09:04.7552622+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:02:02.5472991+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:06:53.0893045+00:00"
 }

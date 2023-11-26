@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 749,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.96,
+  "EOS_Completed_Percentage": 4.94,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3035,6 +3035,11 @@
       "Time": "2023-11-26T13:07:11.6501683+00:00",
       "NumProgressed": 746,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-26T14:04:32.1155912+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 25,
@@ -3046,7 +3051,7 @@
       "Name": "I did it",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "END_GOOD",
@@ -3060,9 +3065,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 127
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3070,7 +3075,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3078,15 +3083,15 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 142
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3156,9 +3161,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 150
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3166,7 +3171,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3190,7 +3195,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3206,7 +3211,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "PROGRESS_N2",
@@ -3214,7 +3219,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "PROGRESS_N3",
@@ -3245,14 +3250,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 749,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:07:11.6501679+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:04:32.1155908+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:03:14.5453566+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:07:11.6501971+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:01:47.4828872+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:04:32.1156142+00:00"
 }

@@ -1567,9 +1567,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160214,
+  "EOS_Progressed": 160221,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17142,6 +17142,11 @@
       "Time": "2023-11-26T13:08:47.0910353+00:00",
       "NumProgressed": 160214,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T14:06:31.1003947+00:00",
+      "NumProgressed": 160221,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17225,7 +17230,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4806
+      "UsersEstimate": 4807
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -17233,7 +17238,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -17241,7 +17246,7 @@
       "Name": "Artisan",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -17321,7 +17326,7 @@
       "Name": "Inevitable",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -17361,7 +17366,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -17520,21 +17525,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159797,
+      "Progressed": 159804,
       "Completed": 1225
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160214,
+      "Progressed": 160221,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-25T23:59:33.0917526+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:08:47.0910349+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:06:31.1003944+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:01:59.3892621+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:08:47.091117+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:00:06.8292997+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:06:31.1004753+00:00"
 }

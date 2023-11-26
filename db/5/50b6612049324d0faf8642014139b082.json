@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1247,6 +1247,11 @@
       "Time": "2023-11-26T13:12:35.217879+00:00",
       "NumProgressed": 539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T14:10:02.5579534+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1299,7 +1304,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_15",
@@ -1321,9 +1326,9 @@
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_18",
@@ -1347,7 +1352,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "achievement_20",
@@ -1466,7 +1471,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 0
     }
   ],
@@ -1474,8 +1479,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-26T01:47:49.070387+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:12:35.2178782+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:10:02.557953+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:01:21.4429583+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:12:35.217901+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:59:16.1632426+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:10:02.5579712+00:00"
 }

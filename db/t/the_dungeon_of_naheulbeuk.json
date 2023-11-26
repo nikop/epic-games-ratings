@@ -2,12 +2,12 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 118,
   "RatingHistory": [
     {
@@ -1333,6 +1333,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 480,
       "NumberOfAwardsMax": 238
+    },
+    {
+      "Time": "2023-11-26T13:58:03.1896861+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 480,
+      "NumberOfAwardsMax": 238
     }
   ],
   "ReviewsDisabled": false,
@@ -1395,9 +1401,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239742,
+  "EOS_Progressed": 239750,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1542,
+  "EOS_NewPlayers": 1531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20015,6 +20021,11 @@
       "Time": "2023-11-26T13:12:00.2435204+00:00",
       "NumProgressed": 239742,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T14:09:17.5368353+00:00",
+      "NumProgressed": 239750,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20034,7 +20045,7 @@
       "Name": "Cursed die",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "AllSideQuest",
@@ -20194,7 +20205,7 @@
       "Name": "The Blood Countess",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "DLC1SummonTroll",
@@ -20282,7 +20293,7 @@
       "Name": "Free customer service",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "DLC3Chapter12",
@@ -20290,7 +20301,7 @@
       "Name": "Imposture and Trowels",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "DLC3Chapter13",
@@ -20370,7 +20381,7 @@
       "Name": "Kudos from your DM",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "DifficultyHero",
@@ -20418,7 +20429,7 @@
       "Name": "Insult to injury",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "DwarfCover",
@@ -20426,7 +20437,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19179
+      "UsersEstimate": 19180
     },
     {
       "ID": "DwarfElf15Support",
@@ -20450,7 +20461,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "DwarfLevel2",
@@ -20458,7 +20469,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11987
+      "UsersEstimate": 11988
     },
     {
       "ID": "ElfEpic",
@@ -20474,7 +20485,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83910
+      "UsersEstimate": 83912
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20506,7 +20517,7 @@
       "Name": "100% satisfaction guarantee",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "EndGameNoDeath",
@@ -20514,7 +20525,7 @@
       "Name": "Death is for wimps",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "FastKill",
@@ -20522,7 +20533,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21577
+      "UsersEstimate": 21578
     },
     {
       "ID": "FollowBraztok",
@@ -20546,7 +20557,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "KillDungeonLich",
@@ -20554,7 +20565,7 @@
       "Name": "Dead for good",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "KillGolbargh",
@@ -20570,7 +20581,7 @@
       "Name": "Super-Ultra-Lydian",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "OgreEpic",
@@ -20578,7 +20589,7 @@
       "Name": "Gargantua",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "Orktobearfest",
@@ -20626,7 +20637,7 @@
       "Name": "Demisemiquaver",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "QuestPaladine",
@@ -20642,7 +20653,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "RangerEpic",
@@ -20674,7 +20685,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11987
+      "UsersEstimate": 11988
     },
     {
       "ID": "SupportCount4",
@@ -20714,7 +20725,7 @@
       "Name": "Material Girl",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "WizardResistBurn",
@@ -20729,21 +20740,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 239742,
+      "Progressed": 239750,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 239742,
+      "Progressed": 239750,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-11-26T10:57:26.1958344+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:12:00.24352+00:00",
+  "LastChanged": "2023-11-26T13:58:03.1896859+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:09:17.536835+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:00:27.1600672+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:12:00.2436527+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:58:03.1896865+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:09:17.5369792+00:00"
 }

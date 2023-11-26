@@ -1,13 +1,13 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 93.00% | ~575 |
-| Newbie Hero | 80.00% | ~494 |
+| Newbie Hero | 81.00% | ~501 |
 | Welcome to Sonic CD | 70.00% | ~433 |
 | Welcome to Sonic 3 & Knuckles | 70.00% | ~433 |
 | Welcome to Sonic the Hedgehog 2 | 69.00% | ~426 |

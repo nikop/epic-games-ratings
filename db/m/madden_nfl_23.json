@@ -853,9 +853,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3709,
+  "EOS_Progressed": 3710,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6148,6 +6148,11 @@
       "Time": "2023-11-26T10:09:04.7845339+00:00",
       "NumProgressed": 3709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T14:08:44.1760439+00:00",
+      "NumProgressed": 3710,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6160,7 +6165,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "achievement_10",
@@ -6168,7 +6173,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "achievement_11",
@@ -6224,7 +6229,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_18",
@@ -6280,7 +6285,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_5",
@@ -6312,7 +6317,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "achievement_9",
@@ -6320,14 +6325,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3709,
+      "Progressed": 3710,
       "Completed": 0
     }
   ],
@@ -6335,8 +6340,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-26T02:58:16.4279063+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:11:33.8105647+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:08:44.1760436+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:01:38.4051981+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:11:33.8106025+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:59:38.3560487+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:08:44.1760802+00:00"
 }

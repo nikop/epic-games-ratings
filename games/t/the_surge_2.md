@@ -38,9 +38,9 @@ Rating: 4.25 (Ranked 880)
 | Stimulating The Local Economy | 10.00% | ~221 |
 | Triplets | 10.00% | ~221 |
 | Denying Prophecy | 9.00% | ~199 |
+| Defense in Depth | 9.00% | ~199 |
 | A Little Banged Up | 8.00% | ~177 |
 | Following In Their Footsteps | 8.00% | ~177 |
-| Defense in Depth | 8.00% | ~177 |
 | Reverse Engineering | 7.00% | ~155 |
 | Reborn | 6.00% | ~133 |
 | Remote Surgery | 6.00% | ~133 |

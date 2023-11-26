@@ -2,9 +2,9 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -134,6 +134,11 @@
       "Time": "2023-11-26T12:03:57.9973729+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T14:04:50.785009+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -144,7 +149,7 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 145,
       "UsersEstimate": 4
     },
@@ -152,7 +157,7 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 71,
+      "Percentage": 68,
       "XP": 145,
       "UsersEstimate": 15
     },
@@ -168,7 +173,7 @@
       "ID": "ach4",
       "SetID": "796kfpa",
       "Name": "Three Caps",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 140,
       "UsersEstimate": 4
     },
@@ -184,7 +189,7 @@
       "ID": "ach6",
       "SetID": "796kfpa",
       "Name": "Creature Maker",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 140,
       "UsersEstimate": 2
     },
@@ -192,7 +197,7 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 145,
       "UsersEstimate": 5
     }
@@ -201,14 +206,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:07:26.5291193+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:04:50.7850086+00:00",
   "LastUpdate_AppInfo": "2023-11-22T17:57:01.1016789+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:02:46.0091966+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:07:26.5291288+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:01:09.5868731+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:04:50.7850152+00:00"
 }

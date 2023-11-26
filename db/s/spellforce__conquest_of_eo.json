@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 84,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Circle_Page",
@@ -258,9 +258,9 @@
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Craft_First_Undead",
@@ -370,9 +370,9 @@
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 74,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "HeroStory_Elynn",
@@ -682,9 +682,9 @@
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Recipes_All_Alchemy",
@@ -763,8 +763,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:06:57.615214+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:04:14.5205978+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:10.4270096+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:01:17.3764075+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:06:57.6152583+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:59:10.1347626+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:04:14.5206543+00:00"
 }

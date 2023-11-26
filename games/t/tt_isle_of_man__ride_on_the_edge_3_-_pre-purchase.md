@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 96.00% | ~154 |
-| To Each Their Own | 47.00% | ~75 |
-| You Get An Upgrade, You Get An Upgrade! | 23.00% | ~37 |
-| Like Phileas Fogg | 19.00% | ~30 |
+| You're Going Down! | 96.00% | ~155 |
+| To Each Their Own | 47.00% | ~76 |
+| You Get An Upgrade, You Get An Upgrade! | 22.00% | ~35 |
+| Like Phileas Fogg | 19.00% | ~31 |
 | Onwards and Upwards | 18.00% | ~29 |
 | Serial Winner | 13.00% | ~21 |
 | Start Your Engines | 11.00% | ~18 |
@@ -23,29 +23,29 @@
 | Tailor-Made | 5.00% | ~8 |
 | Gotta Go Fast! | 4.00% | ~6 |
 | Say My Name | 4.00% | ~6 |
-| Déjà-Vu | 3.00% | ~5 |
 | POI Hunter | 3.00% | ~5 |
 | Seven-League Boots | 3.00% | ~5 |
-| Geek | 3.00% | ~5 |
-| Last One Standing | 3.00% | ~5 |
-| Time Lord | 3.00% | ~5 |
 | First Things First | 3.00% | ~5 |
-| Made Father Proud | 3.00% | ~5 |
-| Win-Win! | 3.00% | ~5 |
-| Tailor-Made for Two | 3.00% | ~5 |
 | Tempus Fugit | 3.00% | ~5 |
+| Déjà-Vu | 2.00% | ~3 |
 | The Joy of Discovery | 2.00% | ~3 |
+| Geek | 2.00% | ~3 |
+| Last One Standing | 2.00% | ~3 |
 | The Immortal One | 2.00% | ~3 |
 | Shopping List | 2.00% | ~3 |
+| Time Lord | 2.00% | ~3 |
+| Made Father Proud | 2.00% | ~3 |
+| Win-Win! | 2.00% | ~3 |
 | Supersport Superfan | 2.00% | ~3 |
+| Tailor-Made for Two | 2.00% | ~3 |
 | Golden Ratio | 1.00% | ~2 |
 | Checklist | 1.00% | ~2 |
 | Time Is of the Essence | 1.00% | ~2 |
 | Superbike Superfan | 1.00% | ~2 |
 | Playing Favourites | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 402)  
-Completed: 2 (1.25%) (Ranked 151)  
+Progressed: 161 (Ranked 401)  
+Completed: 2 (1.24%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,3 +134,4 @@ Completed: 2 (1.25%) (Ranked 151)
 | 2023-10-31 | 158 | 2 |
 | 2023-11-11 | 159 | 2 |
 | 2023-11-23 | 160 | 2 |
+| 2023-11-26 | 161 | 2 |

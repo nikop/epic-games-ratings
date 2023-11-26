@@ -5,20 +5,20 @@ Rating: 3.82 (Ranked 1,031)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,628 |
-| The First Step | 89.00% | ~1,478 |
+| Welcome to Moonbury | 98.00% | ~1,629 |
+| The First Step | 89.00% | ~1,479 |
 | Moonbury Traveller | 65.00% | ~1,080 |
-| Rookie Chemist | 63.00% | ~1,046 |
+| Rookie Chemist | 63.00% | ~1,047 |
 | Great Doctor | 52.00% | ~864 |
 | Dog Whisperer | 49.00% | ~814 |
-| Friendly | 48.00% | ~797 |
-| The Capitalist | 45.00% | ~747 |
+| Friendly | 48.00% | ~798 |
+| The Capitalist | 45.00% | ~748 |
 | K.O.! | 44.00% | ~731 |
 | Intermediate Chemist | 41.00% | ~681 |
 | Decorative Mind | 32.00% | ~532 |
 | Lumber Specialist | 32.00% | ~532 |
 | Kind-hearted | 26.00% | ~432 |
-| Catch of the Day | 25.00% | ~415 |
+| Catch of the Day | 25.00% | ~416 |
 | Amateur Chef | 23.00% | ~382 |
 | Fishing Guru | 21.00% | ~349 |
 | Spark of Love | 18.00% | ~299 |
@@ -31,7 +31,7 @@ Rating: 3.82 (Ranked 1,031)
 | Good Samaritan | 11.00% | ~183 |
 | Production Sorter | 11.00% | ~183 |
 | Acrobatic Adventurer | 10.00% | ~166 |
-| Animal Exterminator | 9.00% | ~149 |
+| Animal Exterminator | 9.00% | ~150 |
 | Adolescent Love | 6.00% | ~100 |
 | Mail Carrier | 6.00% | ~100 |
 | Plantation Exterminator | 5.00% | ~83 |
@@ -44,7 +44,7 @@ Rating: 3.82 (Ranked 1,031)
 | Moonbury Navigator | 1.00% | ~17 |
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,661 (Ranked 235)  
+Progressed: 1,662 (Ranked 235)  
 Completed: 10 (0.60%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,10 +195,11 @@ Completed: 10 (0.60%) (Ranked 189)
 | 2023-11-23 | 1,654 | 10 |
 | 2023-11-24 | 1,659 | 10 |
 | 2023-11-25 | 1,661 | 10 |
+| 2023-11-26 | 1,662 | 10 |
 ## Awards
-Max (Character Customization): 69  (Ranked 404)  
+Max (Character Customization): 69  (Ranked 405)  
 Sum: 69 (Ranked 471)  
-Diff (max vs sum): -67  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 69 |

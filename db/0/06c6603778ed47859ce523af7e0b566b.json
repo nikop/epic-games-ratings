@@ -148,9 +148,9 @@
       "ID": "Backup Band",
       "SetID": "dene75h",
       "Name": "Backup Band",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Beach Day",
@@ -188,9 +188,9 @@
       "ID": "Concerted Effort",
       "SetID": "dene75h",
       "Name": "Concerted Effort",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Counting Stars",
@@ -372,9 +372,9 @@
       "ID": "Rockstar",
       "SetID": "dene75h",
       "Name": "Rockstar",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Sail Away",
@@ -388,9 +388,9 @@
       "ID": "Sh, Sh, Shake It!",
       "SetID": "dene75h",
       "Name": "Sh, Sh, Shake It!",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Sharp Dressed Dragon",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-08-23T20:58:47.193534+00:00",
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:08:15.8195515+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:05:52.268396+00:00",
   "LastUpdate_AppInfo": "2023-11-24T20:57:05.4749931+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:06:06.5513172+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:08:15.8195755+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:03:11.9866598+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:05:52.2684251+00:00"
 }

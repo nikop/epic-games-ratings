@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "22lnfdl",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-11-26T14:04:51.2664734+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:04:51.2664706+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:53.5760994+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:01:13.143717+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:07:26.8844126+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:59:04.3307572+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:04:51.2664743+00:00"
 }

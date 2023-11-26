@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,195 |
-| Cavalier | 25.00% | ~202,496 |
-| Fatso | 23.00% | ~186,296 |
-| Awakening | 21.00% | ~170,096 |
-| Ranger | 20.00% | ~161,997 |
-| Scrooge | 20.00% | ~161,997 |
-| Anorectic | 16.00% | ~129,597 |
-| Bookworm | 15.00% | ~121,497 |
-| Firestarter | 15.00% | ~121,497 |
-| Insomniac | 13.00% | ~105,298 |
-| Buddy | 12.00% | ~97,198 |
-| Thief | 12.00% | ~97,198 |
-| Sinner | 11.00% | ~89,098 |
-| Traveller | 11.00% | ~89,098 |
-| Convict | 10.00% | ~80,998 |
-| Haggler | 9.00% | ~72,898 |
-| McLovin | 7.00% | ~56,699 |
-| Runt | 7.00% | ~56,699 |
-| Casanova | 6.00% | ~48,599 |
-| Bad Trip | 5.00% | ~40,499 |
-| Monk | 5.00% | ~40,499 |
-| Serial Killer | 5.00% | ~40,499 |
-| Bastard | 4.00% | ~32,399 |
-| Hunter | 4.00% | ~32,399 |
-| Plague Doctor | 4.00% | ~32,399 |
-| Bard | 3.00% | ~24,299 |
-| Conqueror | 3.00% | ~24,299 |
-| Ginger in a Pickle | 3.00% | ~24,299 |
-| Kingdom did not come | 3.00% | ~24,299 |
+| Blacksmith's Son | 32.00% | ~259,201 |
+| Cavalier | 25.00% | ~202,500 |
+| Fatso | 23.00% | ~186,300 |
+| Awakening | 21.00% | ~170,100 |
+| Ranger | 20.00% | ~162,000 |
+| Scrooge | 20.00% | ~162,000 |
+| Anorectic | 16.00% | ~129,600 |
+| Bookworm | 15.00% | ~121,500 |
+| Firestarter | 15.00% | ~121,500 |
+| Insomniac | 13.00% | ~105,300 |
+| Buddy | 12.00% | ~97,200 |
+| Thief | 12.00% | ~97,200 |
+| Sinner | 11.00% | ~89,100 |
+| Traveller | 11.00% | ~89,100 |
+| Convict | 10.00% | ~81,000 |
+| Haggler | 9.00% | ~72,900 |
+| McLovin | 7.00% | ~56,700 |
+| Runt | 7.00% | ~56,700 |
+| Casanova | 6.00% | ~48,600 |
+| Bad Trip | 5.00% | ~40,500 |
+| Monk | 5.00% | ~40,500 |
+| Serial Killer | 5.00% | ~40,500 |
+| Bastard | 4.00% | ~32,400 |
+| Hunter | 4.00% | ~32,400 |
+| Plague Doctor | 4.00% | ~32,400 |
+| Bard | 3.00% | ~24,300 |
+| Conqueror | 3.00% | ~24,300 |
+| Ginger in a Pickle | 3.00% | ~24,300 |
+| Kingdom did not come | 3.00% | ~24,300 |
 | Completionist | 2.00% | ~16,200 |
 | Death by splinter | 2.00% | ~16,200 |
 | King Charming | 2.00% | ~16,200 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~810 |
 | Wingman | 0.10% | ~810 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,983 (Ranked 17)  
+Progressed: 810,002 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,10 +309,10 @@ Completed: 52 (0.01%) (Ranked 340)
 | 2023-11-23 | 809,566 | 51 |
 | 2023-11-24 | 809,708 | 51 |
 | 2023-11-25 | 809,896 | 52 |
-| 2023-11-26 | 809,983 | 52 |
+| 2023-11-26 | 810,002 | 52 |
 ## Awards
 Max (Character Customization): 7,627  (Ranked 51)  
-Sum: 28,342 (Ranked 49)  
+Sum: 28,343 (Ranked 49)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -321,7 +321,7 @@ Diff (max vs sum): 2
 | This game has Challenging Combat | 1,780 |
 | This game has Diverse Characters | 1,737 |
 | This game has Amazing Storytelling | 1,726 |
-| This game is Highly Recommended | 1,697 |
+| This game is Highly Recommended | 1,698 |
 | This game is Extremely Fun | 1,696 |
 | This game has Realistic Visuals | 1,672 |
 | This game has Amazing Characters | 1,669 |
@@ -634,4 +634,4 @@ Diff (max vs sum): 2
 | 2023-11-23 | 4.71 | - | 7,623 | 28,324 |
 | 2023-11-24 | 4.71 | - | 7,625 | 28,330 |
 | 2023-11-25 | 4.71 | - | 7,627 | 28,338 |
-| 2023-11-26 | 4.71 | - | 7,627 | 28,342 |
+| 2023-11-26 | 4.71 | - | 7,627 | 28,343 |

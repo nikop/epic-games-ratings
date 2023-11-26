@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29169,
+  "EOS_Progressed": 29172,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24971,6 +24971,11 @@
       "Time": "2023-11-26T13:12:16.7978548+00:00",
       "NumProgressed": 29169,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-26T14:09:38.9863668+00:00",
+      "NumProgressed": 29172,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 22,
@@ -25006,7 +25011,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "1019",
@@ -25022,7 +25027,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "1021",
@@ -25030,7 +25035,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "1022",
@@ -25086,7 +25091,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5250
+      "UsersEstimate": 5251
     },
     {
       "ID": "1029",
@@ -25118,7 +25123,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11668
+      "UsersEstimate": 11669
     },
     {
       "ID": "1033",
@@ -25157,15 +25162,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29169,
+      "Progressed": 29172,
       "Completed": 80
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:12:16.7978543+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:09:38.9863663+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.1522502+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:00:15.7677466+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:12:16.797986+00:00"
+  "LastUpdate_Ratings": "2023-11-26T13:57:48.0144006+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:09:38.9864845+00:00"
 }

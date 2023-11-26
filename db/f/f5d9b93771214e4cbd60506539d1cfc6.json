@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154366,
+  "EOS_Progressed": 154367,
   "EOS_Completed": 343,
-  "EOS_NewPlayers": 954,
+  "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19488,6 +19488,11 @@
       "Time": "2023-11-26T13:07:19.5525548+00:00",
       "NumProgressed": 154366,
       "NumCompleted": 343
+    },
+    {
+      "Time": "2023-11-26T14:04:42.0514554+00:00",
+      "NumProgressed": 154367,
+      "NumCompleted": 343
     }
   ],
   "TotalAchievements": 31,
@@ -19507,7 +19512,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108056
+      "UsersEstimate": 108057
     },
     {
       "ID": "EAwards_10",
@@ -19595,7 +19600,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43222
+      "UsersEstimate": 43223
     },
     {
       "ID": "EAwards_20",
@@ -19746,7 +19751,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 154366,
+      "Progressed": 154367,
       "Completed": 343
     }
   ],
@@ -19754,8 +19759,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-26T13:07:19.5525544+00:00",
+  "LastChanged_Achievements": "2023-11-26T14:04:42.051454+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.3123546+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:01:55.6356547+00:00",
-  "LastUpdate_Achievements": "2023-11-26T13:07:19.5526555+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:00:01.8271596+00:00",
+  "LastUpdate_Achievements": "2023-11-26T14:04:42.0515455+00:00"
 }
