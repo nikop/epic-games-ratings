@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38299,
+  "EOS_Progressed": 38300,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19315,6 +19315,11 @@
       "Time": "2023-11-26T06:04:52.3482901+00:00",
       "NumProgressed": 38299,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-11-26T07:04:48.0869689+00:00",
+      "NumProgressed": 38300,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -19366,7 +19371,7 @@
       "Name": "Easter Bunny",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "carving",
@@ -19414,7 +19419,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29490
+      "UsersEstimate": 29491
     },
     {
       "ID": "roots",
@@ -19437,15 +19442,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38299,
+      "Progressed": 38300,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:04:52.3482899+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:04:48.0869685+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.3086908+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:01:24.5553265+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:04:52.3483801+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:01:28.3014023+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:04:48.0870744+00:00"
 }

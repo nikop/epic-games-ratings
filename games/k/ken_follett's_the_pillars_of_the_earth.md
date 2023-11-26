@@ -6,14 +6,14 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,667 |
+| Tattletale | 40.00% | ~6,668 |
 | Man of politics | 34.00% | ~5,667 |
-| Friends of sorts | 33.00% | ~5,500 |
-| Yet another secret | 33.00% | ~5,500 |
+| Friends of sorts | 33.00% | ~5,501 |
+| Yet another secret | 33.00% | ~5,501 |
 | Let there be darkness | 32.00% | ~5,334 |
-| End of Book One | 30.00% | ~5,000 |
-| Garden of Eden | 24.00% | ~4,000 |
-| Full house | 24.00% | ~4,000 |
+| End of Book One | 30.00% | ~5,001 |
+| Garden of Eden | 24.00% | ~4,001 |
+| Full house | 24.00% | ~4,001 |
 | Wannabe knight | 23.00% | ~3,834 |
 | Help an old friend | 21.00% | ~3,500 |
 | Two of us | 20.00% | ~3,334 |
@@ -25,7 +25,7 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,334 |
 | Exterminator | 13.00% | ~2,167 |
 | Whodunnit | 12.00% | ~2,000 |
-| First profit | 11.00% | ~1,833 |
+| First profit | 11.00% | ~1,834 |
 | Good midwife | 10.00% | ~1,667 |
 | Friar Tuck | 10.00% | ~1,667 |
 | Team player | 10.00% | ~1,667 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,500 |
 | The truth revealed | 9.00% | ~1,500 |
 | The End. | 9.00% | ~1,500 |
-| A cry for help | 8.00% | ~1,333 |
+| A cry for help | 8.00% | ~1,334 |
 | Silentium est aureum | 7.00% | ~1,167 |
 | Rebel without a cause | 6.00% | ~1,000 |
 | Staring contest champion | 5.00% | ~833 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~500 |
 | Boy of mystery | 2.00% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,668 (Ranked 148)  
+Progressed: 16,669 (Ranked 148)  
 Completed: 116 (0.70%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 116 (0.70%) (Ranked 184)
 | 2023-11-23 | 16,615 | 116 |
 | 2023-11-24 | 16,635 | 116 |
 | 2023-11-25 | 16,661 | 116 |
-| 2023-11-26 | 16,668 | 116 |
+| 2023-11-26 | 16,669 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 315)  
 Sum: 198 (Ranked 400)  

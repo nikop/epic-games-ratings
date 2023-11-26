@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 470,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -515,6 +515,11 @@
       "Time": "2023-11-04T12:05:26.6328589+00:00",
       "NumProgressed": 369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T07:04:20.420964+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -558,7 +563,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "FifthGrade",
@@ -654,7 +659,7 @@
       "Name": "Study Session",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ThirdGrade",
@@ -670,14 +675,14 @@
       "Name": "Unlucky",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 0
     }
   ],
@@ -685,8 +690,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:04:23.6890397+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:04:20.4209636+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:06.9651749+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:00:26.5375322+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:04:23.6890489+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:00:32.4109289+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:04:20.4209811+00:00"
 }

@@ -1003,9 +1003,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "AchvKrautaAlive",
@@ -1154,8 +1154,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:08:56.7181851+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:09:11.1568508+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
   "LastUpdate_Ratings": "2023-11-26T06:02:45.5847944+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:08:56.7182048+00:00"
+  "LastUpdate_Achievements": "2023-11-26T07:09:11.1568779+00:00"
 }

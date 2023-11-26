@@ -12,7 +12,7 @@
 | Rain Must Fall | 9.00% | ~8 |
 | Overboard | 9.00% | ~8 |
 | Leisis Bless You | 9.00% | ~8 |
-| Bladesmith | 6.00% | ~5 |
+| Bladesmith | 7.00% | ~6 |
 | Explorer | 6.00% | ~5 |
 | The Guardian of Fire | 6.00% | ~5 |
 | Sovereignty of Irons | 6.00% | ~5 |

@@ -21,8 +21,8 @@
 | Drinking Problem | 22.00% | ~75 |
 | Quick-Draw Pod | 22.00% | ~64 |
 | Grave Digger | 22.00% | ~64 |
+| Pork Chop Express | 20.00% | ~69 |
 | Professional Survivor | 20.00% | ~59 |
-| Pork Chop Express | 19.00% | ~65 |
 | Skin Of Your Teeth | 17.00% | ~58 |
 | This Is My Boomstick | 17.00% | ~50 |
 | Getting Started | 16.00% | ~55 |
@@ -34,8 +34,8 @@
 | Perfect | 11.00% | ~32 |
 | Fresh Pancake | 10.00% | ~34 |
 | Quadsparagus | 10.00% | ~29 |
+| Bring Home The Bacon | 9.00% | ~31 |
 | Expert Survivor | 9.00% | ~26 |
-| Bring Home The Bacon | 8.00% | ~27 |
 | Early Bird | 6.00% | ~21 |
 | Chick Magnet | 5.00% | ~17 |
 | I Have The High Ground | 5.00% | ~17 |

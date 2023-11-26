@@ -5,16 +5,16 @@ Rating: 4.39 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,424 |
-| IT MAKES BOOM! | 7.00% | ~21,906 |
-| EXTRA BOOST | 5.00% | ~15,647 |
-| PROTECTED | 4.00% | ~12,518 |
-| PRO | 4.00% | ~12,518 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,388 |
-| AGGRESSIVE RACER | 3.00% | ~9,388 |
-| A TIGER'S FEAR | 2.00% | ~6,259 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,129 |
-| ACE SPEEDSTER | 1.00% | ~3,129 |
+| ROOKIE | 11.00% | ~34,427 |
+| IT MAKES BOOM! | 7.00% | ~21,908 |
+| EXTRA BOOST | 5.00% | ~15,649 |
+| PROTECTED | 4.00% | ~12,519 |
+| PRO | 4.00% | ~12,519 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,389 |
+| AGGRESSIVE RACER | 3.00% | ~9,389 |
+| A TIGER'S FEAR | 2.00% | ~6,260 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,130 |
+| ACE SPEEDSTER | 1.00% | ~3,130 |
 | RELEASE THE KRAKEN | 0.90% | ~2,817 |
 | MASTER | 0.90% | ~2,817 |
 | LEGENDARY HERO | 0.90% | ~2,817 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 747)
 | ACE TRICKSTER | 0.30% | ~939 |
 | PERFECTLY POISED | 0.20% | ~626 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312,948 (Ranked 52)  
-Completed: 330 (0.11%) (Ranked 278)  
+Progressed: 312,977 (Ranked 52)  
+Completed: 331 (0.11%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -246,14 +246,14 @@ Completed: 330 (0.11%) (Ranked 278)
 | 2023-11-23 | 309,325 | 322 |
 | 2023-11-24 | 310,756 | 327 |
 | 2023-11-25 | 312,443 | 330 |
-| 2023-11-26 | 312,948 | 330 |
+| 2023-11-26 | 312,977 | 331 |
 ## Awards
-Max (Great for Beginners): 83  (Ranked 387)  
-Sum: 640 (Ranked 308)  
-Diff (max vs sum): 79  
+Max (Great for Beginners): 87  (Ranked 383)  
+Sum: 644 (Ranked 308)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 83 |
+| This game is Great for Beginners | 87 |
 | This game is Great for Quick Sessions | 79 |
 | This game has Diverse Characters | 75 |
 | This game has Amazing Characters | 55 |
@@ -324,3 +324,4 @@ Diff (max vs sum): 79
 | 2023-11-23 | 4.39 | 81 | 628 |
 | 2023-11-24 | 4.39 | 81 | 633 |
 | 2023-11-25 | 4.39 | 83 | 640 |
+| 2023-11-26 | 4.39 | 87 | 644 |

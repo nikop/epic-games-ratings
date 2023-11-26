@@ -9,10 +9,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~238,352 |
 | He's Signed! | 50.00% | ~238,352 |
 | First Victory | 50.00% | ~238,352 |
-| He's Sold! | 48.00% | ~228,817 |
-| I'm The Boss! | 42.00% | ~200,215 |
-| Hat-trick | 41.00% | ~195,448 |
-| Scoring Streak | 38.00% | ~181,147 |
+| He's Sold! | 48.00% | ~228,818 |
+| I'm The Boss! | 42.00% | ~200,216 |
+| Hat-trick | 41.00% | ~195,449 |
+| Scoring Streak | 38.00% | ~181,148 |
 | Unbeatable! | 37.00% | ~176,380 |
 | Thumping | 37.00% | ~176,380 |
 | Superb Dressing Room Atmosphere | 35.00% | ~166,846 |
@@ -46,13 +46,13 @@ Number of Ratings: 19,160  (23.09.2022)
 | Do The Double | 19.00% | ~90,574 |
 | Top Form | 17.00% | ~81,040 |
 | Cash To Burn | 17.00% | ~81,040 |
-| Overachiever! | 16.00% | ~76,272 |
-| Rushed signing | 16.00% | ~76,272 |
-| Beating Expectations | 15.00% | ~71,505 |
-| Window Shopping | 15.00% | ~71,505 |
-| Eyes and Ears | 14.00% | ~66,738 |
-| Comeback King! | 14.00% | ~66,738 |
-| You're Up! | 13.00% | ~61,971 |
+| Overachiever! | 16.00% | ~76,273 |
+| Rushed signing | 16.00% | ~76,273 |
+| Beating Expectations | 15.00% | ~71,506 |
+| Window Shopping | 15.00% | ~71,506 |
+| Eyes and Ears | 14.00% | ~66,739 |
+| Comeback King! | 14.00% | ~66,739 |
+| You're Up! | 13.00% | ~61,972 |
 | Money, Money, Money | 12.00% | ~57,204 |
 | Invincible! | 11.00% | ~52,437 |
 | Superb Strike | 10.00% | ~47,670 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~477 |
 | Shoestring Budget | 0.10% | ~477 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,703 (Ranked 39)  
+Progressed: 476,704 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 22 (0.00%) (Ranked 360)
 | 2023-11-23 | 476,564 | 22 |
 | 2023-11-24 | 476,619 | 22 |
 | 2023-11-25 | 476,692 | 22 |
-| 2023-11-26 | 476,703 | 22 |
+| 2023-11-26 | 476,704 | 22 |
 ## Awards
 Max (Relaxing): 6,473  (Ranked 59)  
 Sum: 51,041 (Ranked 29)  

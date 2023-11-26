@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75222,
+  "EOS_Progressed": 75223,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -24513,6 +24513,11 @@
       "Time": "2023-11-26T06:09:23.8705119+00:00",
       "NumProgressed": 75222,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-11-26T07:09:37.023615+00:00",
+      "NumProgressed": 75223,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 24,
@@ -24540,7 +24545,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 51151
+      "UsersEstimate": 51152
     },
     {
       "ID": "BEST_FRIENDS",
@@ -24580,7 +24585,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21814
+      "UsersEstimate": 21815
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -24676,7 +24681,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8274
+      "UsersEstimate": 8275
     },
     {
       "ID": "SPIRIT_FORM",
@@ -24715,7 +24720,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75222,
+      "Progressed": 75223,
       "Completed": 404
     }
   ],
@@ -24723,8 +24728,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:09:23.8705117+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:09:37.0236147+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.17465+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:00:12.8184813+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:09:23.8706372+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:00:19.2218496+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:09:37.0237507+00:00"
 }

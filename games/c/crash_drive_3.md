@@ -5,25 +5,25 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~123 |
+| A Forest Walk | 29.00% | ~119 |
 | Baby's First Car | 28.00% | ~115 |
 | Pushover | 28.00% | ~115 |
-| A Forest Walk | 28.00% | ~115 |
-| Amateur Mechanic | 27.00% | ~110 |
-| Multiply that! | 26.00% | ~106 |
+| Amateur Mechanic | 27.00% | ~111 |
+| Multiply that! | 26.00% | ~107 |
 | C-C-C-Combo! | 25.00% | ~102 |
 | Fore! | 23.00% | ~94 |
 | The Collector | 23.00% | ~94 |
 | Insurance fraud | 23.00% | ~94 |
 | Snow Fun! | 23.00% | ~94 |
-| To and Fro | 22.00% | ~90 |
 | The Wild West | 22.00% | ~90 |
 | Bag of Tricks | 22.00% | ~90 |
-| I see the light! | 22.00% | ~90 |
 | In the Bag! | 22.00% | ~90 |
 | You're it | 22.00% | ~90 |
-| First Come, First Serve | 21.00% | ~86 |
+| To and Fro | 21.00% | ~86 |
 | Goodbye cruel world | 21.00% | ~86 |
+| I see the light! | 21.00% | ~86 |
 | Car-Tapult | 20.00% | ~82 |
+| First Come, First Serve | 20.00% | ~82 |
 | Disoriented | 20.00% | ~82 |
 | Anger Issues | 20.00% | ~82 |
 | Take that Frosty! | 20.00% | ~82 |
@@ -32,10 +32,10 @@
 | Event Amateur | 18.00% | ~74 |
 | Feeling Hot Hot Hot! | 17.00% | ~70 |
 | Feeling Dizzy? | 17.00% | ~70 |
-| Drift King! | 16.00% | ~65 |
-| Ferry Good! | 16.00% | ~65 |
-| Assert Dominance | 16.00% | ~65 |
-| Speed of light | 16.00% | ~65 |
+| Drift King! | 16.00% | ~66 |
+| Ferry Good! | 16.00% | ~66 |
+| Assert Dominance | 16.00% | ~66 |
+| Speed of light | 16.00% | ~66 |
 | Out of this League | 13.00% | ~53 |
 | Special Forces | 12.00% | ~49 |
 | Earth Defense Force | 11.00% | ~45 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409 (Ranked 326)  
+Progressed: 410 (Ranked 326)  
 Completed: 2 (0.49%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 2 (0.49%) (Ranked 204)
 | 2023-11-18 | 407 | 2 |
 | 2023-11-21 | 408 | 2 |
 | 2023-11-24 | 409 | 2 |
+| 2023-11-26 | 410 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

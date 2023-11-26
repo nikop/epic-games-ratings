@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 68,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -226,6 +226,11 @@
       "Time": "2023-11-22T00:04:19.2545388+00:00",
       "NumProgressed": 67,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T07:07:02.1684044+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -237,7 +242,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "10",
@@ -323,7 +328,7 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
       "UsersEstimate": 38
     },
@@ -379,7 +384,7 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 70,
       "UsersEstimate": 39
     }
@@ -388,7 +393,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 68,
       "Completed": 0
     }
   ],
@@ -396,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:07:12.6819731+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:07:02.1684041+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:27.2466421+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:01:10.4812082+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:07:12.6819851+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:01:15.2364462+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:07:02.168416+00:00"
 }

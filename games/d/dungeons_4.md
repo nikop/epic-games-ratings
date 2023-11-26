@@ -10,7 +10,7 @@
 | Hammer Time, Round Two | 79.00% | ~339 |
 | The Hellwoods | 72.00% | ~309 |
 | The Plains of Strothalm | 69.00% | ~296 |
-| Experienced Thalya | 68.00% | ~292 |
+| Experienced Thalya | 69.00% | ~296 |
 | Thalya's Concentrated Fury | 66.00% | ~283 |
 | Master of Magic | 63.00% | ~270 |
 | Bad Elves Go Everywhere | 63.00% | ~270 |
@@ -34,8 +34,8 @@
 | All’s Well That Ends Evil | 26.00% | ~112 |
 | Unstoppable Horde | 24.00% | ~103 |
 | Master of the Undead | 23.00% | ~99 |
+| The Duel | 22.00% | ~94 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~90 |
-| The Duel | 21.00% | ~90 |
 | Hungry, Hungry Gorgu! | 20.00% | ~86 |
 | Forbidden Knowledge | 20.00% | ~86 |
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~86 |
@@ -60,8 +60,8 @@
 | Mirror, Mirror | 7.00% | ~30 |
 | Gorgu is in the Best of Health | 6.00% | ~26 |
 | Laser Eyes Are So Useless | 6.00% | ~26 |
+| Heal Heal Blessing | 6.00% | ~26 |
 | Evilification | 6.00% | ~26 |
-| Heal Heal Blessing | 5.00% | ~21 |
 | No Mana, No Cry | 4.00% | ~17 |
 | Hands Off My Stones | 4.00% | ~17 |
 | I Don't Need Any Help | 3.00% | ~13 |

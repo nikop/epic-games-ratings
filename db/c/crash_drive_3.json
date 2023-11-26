@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 409,
+  "EOS_Progressed": 410,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -609,6 +609,11 @@
       "Time": "2023-11-24T16:03:43.6799002+00:00",
       "NumProgressed": 409,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T07:04:31.9927023+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -708,7 +713,7 @@
       "Name": "Drift King!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "FIND_40_M2H",
@@ -730,17 +735,17 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 82
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -772,7 +777,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -882,9 +887,9 @@
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 119
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -908,7 +913,7 @@
       "Name": "Multiply that!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -964,7 +969,7 @@
       "Name": "Ferry Good!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "USE_ROCKET",
@@ -978,9 +983,9 @@
       "ID": "USE_TUNNEL",
       "SetID": "20koof9",
       "Name": "I see the light!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -1020,7 +1025,7 @@
       "Name": "Assert Dominance",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -1028,7 +1033,7 @@
       "Name": "Speed of light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "WIN_ROBBER",
@@ -1059,7 +1064,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 409,
+      "Progressed": 410,
       "Completed": 2
     }
   ],
@@ -1067,8 +1072,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:04:35.7481518+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:04:31.9927021+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:00.7469684+00:00",
-  "LastUpdate_Ratings": "2023-11-26T05:57:24.7716026+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:04:35.7481854+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:57:35.8708035+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:04:31.9927353+00:00"
 }

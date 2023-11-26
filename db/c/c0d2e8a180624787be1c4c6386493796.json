@@ -475,9 +475,9 @@
       "ID": "KR4_ACHIEVEMENT_DARK_SIDE",
       "SetID": "caeik3h",
       "Name": "Join The Dark Side",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:08:01.055337+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:07:49.2282876+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:00:03.4932683+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:08:01.0553977+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:00:09.4695289+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:07:49.2283694+00:00"
 }

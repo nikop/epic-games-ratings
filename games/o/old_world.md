@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 3.00% | ~465 |
 | Strong Cities | 3.00% | ~465 |
 | Able Difficulty | 3.00% | ~465 |
+| Furious Family | 3.00% | ~465 |
 | Great Ziggurat | 3.00% | ~465 |
 | Ishtar Gate | 3.00% | ~465 |
 | Lighthouse | 3.00% | ~465 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 2.00% | ~310 |
 | Champions | 2.00% | ~310 |
 | Sages | 2.00% | ~310 |
-| Furious Family | 2.00% | ~310 |
 | Acropolis | 2.00% | ~310 |
 | Apadana | 2.00% | ~310 |
 | Colossus | 2.00% | ~310 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,494 (Ranked 152)  
+Progressed: 15,496 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -569,7 +569,7 @@ Completed: 5 (0.03%) (Ranked 324)
 | 2023-11-23 | 15,453 | 5 |
 | 2023-11-24 | 15,467 | 5 |
 | 2023-11-25 | 15,489 | 5 |
-| 2023-11-26 | 15,494 | 5 |
+| 2023-11-26 | 15,496 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,875 (Ranked 218)  

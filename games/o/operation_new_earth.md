@@ -5,9 +5,9 @@ Rating: 3.21 (Ranked 1,048)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 27.00% | ~517 |
+| It's Good to have Allies | 28.00% | ~536 |
 | Defenses Online | 25.00% | ~479 |
-| Facility Online | 20.00% | ~383 |
+| Facility Online | 21.00% | ~402 |
 | Corporal | 15.00% | ~287 |
 | Sergeant | 12.00% | ~230 |
 | Covert Operative | 12.00% | ~230 |

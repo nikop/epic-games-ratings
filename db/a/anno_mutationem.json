@@ -859,9 +859,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 307
     },
     {
       "ID": "I_think_its_broke",
@@ -883,9 +883,9 @@
       "ID": "Keep_em_coming",
       "SetID": "gl7plp",
       "Name": "Keep \u0027em coming!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 307
     },
     {
       "ID": "Lady_Luck",
@@ -971,9 +971,9 @@
       "ID": "The_Ann_Flores_Combo_Experience",
       "SetID": "gl7plp",
       "Name": "The Ann Flores Combo Experience",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 190
     },
     {
       "ID": "The_Warlord",
@@ -1068,8 +1068,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:05:57.7394103+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:05:50.6775666+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:00:25.6468644+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:05:57.7394273+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:00:31.6541793+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:05:50.6775869+00:00"
 }

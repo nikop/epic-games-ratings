@@ -14,28 +14,30 @@
 | A rival with no options | 9.00% | ~4 |
 | Pulp! Terror Tales in the Night | 9.00% | ~4 |
 | The happy farmer girl | 9.00% | ~4 |
+| Bread and bocaua | 7.00% | ~3 |
+| Fanatacism is... poisonous | 7.00% | ~3 |
 | The artist | 7.00% | ~3 |
 | The seer | 7.00% | ~3 |
 | The adventurer | 7.00% | ~3 |
+| ECO mode | 7.00% | ~3 |
 | You have two wishes left | 7.00% | ~3 |
 | You had one wish left | 5.00% | ~2 |
-| Bread and bocaua | 5.00% | ~2 |
-| Fanatacism is... poisonous | 5.00% | ~2 |
+| Blood Red Island | 5.00% | ~2 |
+| The scholar | 5.00% | ~2 |
 | Pulp! Out of this World | 5.00% | ~2 |
 | Pulp! Adventures into the Unknown | 5.00% | ~2 |
 | Kirlian's best disciple | 5.00% | ~2 |
-| ECO mode | 5.00% | ~2 |
 | Diagnosis: fear | 5.00% | ~2 |
 | Ambition is... blind | 5.00% | ~2 |
 | You've awakened the beast | 2.00% | ~1 |
 | Hate is... addictive | 2.00% | ~1 |
 | Blessed antennas | 2.00% | ~1 |
 | The beast in the Oval Office | 2.00% | ~1 |
-| Blood Red Island | 2.00% | ~1 |
 | Et in arcadia ego | 2.00% | ~1 |
 | The bully | 2.00% | ~1 |
-| The scholar | 2.00% | ~1 |
 | Pulp! Weird Science | 2.00% | ~1 |
+| Pulp! Heart Throbs | 2.00% | ~1 |
+| Pulp! Tales from the Crypt | 2.00% | ~1 |
 | Pulp! True Adventures | 2.00% | ~1 |
 | Pulp! The Beyond | 2.00% | ~1 |
 | Thirst for Oleum | 2.00% | ~1 |
@@ -44,9 +46,7 @@
 | Vaccine fans | 2.00% | ~1 |
 | Welcome to Hellville | 2.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
-| Pulp! Heart Throbs | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
-| Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |

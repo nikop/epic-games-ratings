@@ -35,6 +35,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.30% | ~721 |
 | Cold Hearted | 0.30% | ~721 |
 | I Am Overburdened | 0.30% | ~721 |
+| Save Our Souls | 0.30% | ~721 |
 | Destroy Your Fears | 0.30% | ~721 |
 | The Bestiary | 0.30% | ~721 |
 | What's Yours Is Mine | 0.30% | ~721 |
@@ -55,7 +56,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Well Prepared | 0.20% | ~480 |
 | Just Chilling | 0.20% | ~480 |
 | Berzerker | 0.20% | ~480 |
-| Save Our Souls | 0.20% | ~480 |
 | Don't Ignore Me! | 0.20% | ~480 |
 | All Consuming | 0.20% | ~480 |
 | Stop Hitting Yourself | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,232 (Ranked 62)  
+Progressed: 240,236 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 291 (0.12%) (Ranked 277)
 | 2023-11-23 | 240,120 | 290 |
 | 2023-11-24 | 240,173 | 290 |
 | 2023-11-25 | 240,224 | 291 |
-| 2023-11-26 | 240,232 | 291 |
+| 2023-11-26 | 240,236 | 291 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 132)  
 Sum: 11,692 (Ranked 84)  

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Stilesville | 93.00% | ~62 |
-| Talented Performer | 58.00% | ~39 |
-| Welcome to Barcelona | 57.00% | ~38 |
+| Welcome to Stilesville | 93.00% | ~63 |
+| Talented Performer | 57.00% | ~39 |
+| Welcome to Barcelona | 56.00% | ~38 |
 | Roller Race | 40.00% | ~27 |
 | Born to Win | 37.00% | ~25 |
 | Welcome to Seoul | 37.00% | ~25 |
@@ -24,7 +24,7 @@
 | Xtremely Cool Pictures | 1.00% | ~1 |
 | Exclusive Photoshoot | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 470)  
+Progressed: 68 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-17 | 65 | 0 |
 | 2023-11-18 | 66 | 0 |
 | 2023-11-22 | 67 | 0 |
+| 2023-11-26 | 68 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 754873,
+  "EOS_Progressed": 754877,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1881,
+  "EOS_NewPlayers": 1877,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25474,6 +25474,11 @@
       "Time": "2023-11-26T06:04:13.8362732+00:00",
       "NumProgressed": 754873,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-26T07:04:10.922134+00:00",
+      "NumProgressed": 754877,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -25509,7 +25514,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45292
+      "UsersEstimate": 45293
     },
     {
       "ID": "ach_build_bridge",
@@ -25517,7 +25522,7 @@
       "Name": "Engineer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15097
+      "UsersEstimate": 15098
     },
     {
       "ID": "ach_build_tunnel",
@@ -25533,7 +25538,7 @@
       "Name": "Vroom Vroom",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "ach_complete_contracts",
@@ -25549,7 +25554,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 279303
+      "UsersEstimate": 279304
     },
     {
       "ID": "ach_demolish_trees",
@@ -25557,7 +25562,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 128328
+      "UsersEstimate": 128329
     },
     {
       "ID": "ach_free_cam_mode",
@@ -25581,7 +25586,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 45292
+      "UsersEstimate": 45293
     },
     {
       "ID": "ach_max_truck_distance",
@@ -25613,7 +25618,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 362339
+      "UsersEstimate": 362341
     },
     {
       "ID": "ach_produced",
@@ -25621,7 +25626,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 98133
+      "UsersEstimate": 98134
     },
     {
       "ID": "ach_products_moved",
@@ -25653,7 +25658,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 98133
+      "UsersEstimate": 98134
     },
     {
       "ID": "ach_setup_route_boat",
@@ -25677,7 +25682,7 @@
       "Name": "High Flyer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15097
+      "UsersEstimate": 15098
     },
     {
       "ID": "ach_use_terraforming",
@@ -25693,14 +25698,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 143426
+      "UsersEstimate": 143427
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 754873,
+      "Progressed": 754877,
       "Completed": 4
     }
   ],
@@ -25708,8 +25713,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:04:13.8362728+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:04:10.9221335+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.1283048+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:01:28.8699551+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:04:13.8363864+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:01:31.9261479+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:04:10.9222508+00:00"
 }

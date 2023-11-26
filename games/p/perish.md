@@ -55,7 +55,7 @@
 | Scrap Metal | 1.00% | ~37 |
 | Athenian Treasury | 0.90% | ~33 |
 | Invicta | 0.80% | ~30 |
-| Olympian | 0.50% | ~18 |
+| Olympian | 0.50% | ~19 |
 | Hipparchia's Labour | 0.40% | ~15 |
 | Debauchery | 0.40% | ~15 |
 | Interrupt the Interloper | 0.40% | ~15 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,700 (Ranked 203)  
+Progressed: 3,704 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,6 +269,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 3,688 | 0 |
 | 2023-11-24 | 3,693 | 0 |
 | 2023-11-25 | 3,700 | 0 |
+| 2023-11-26 | 3,704 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

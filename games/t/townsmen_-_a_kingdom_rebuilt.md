@@ -6,7 +6,7 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 13.00% | ~566 |
+| Eureka! | 13.00% | ~567 |
 | Tax-man I | 12.00% | ~523 |
 | A new beginning | 12.00% | ~523 |
 | Friends from the past | 10.00% | ~436 |
@@ -77,9 +77,9 @@ Number of Ratings: 37  (23.09.2022)
 | Builder V | 0.80% | ~35 |
 | Ten-Hut! | 0.80% | ~35 |
 | The wood shortage | 0.80% | ~35 |
-| Buried | 0.70% | ~30 |
-| Craftsmen challenge | 0.70% | ~30 |
-| Penny pincher | 0.70% | ~30 |
+| Buried | 0.70% | ~31 |
+| Craftsmen challenge | 0.70% | ~31 |
+| Penny pincher | 0.70% | ~31 |
 | I've been everywhere III | 0.60% | ~26 |
 | Made my choice | 0.60% | ~26 |
 | An honorable departure | 0.60% | ~26 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,357 (Ranked 193)  
+Progressed: 4,358 (Ranked 193)  
 Completed: 3 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 3 (0.07%) (Ranked 300)
 | 2023-11-23 | 4,351 | 3 |
 | 2023-11-24 | 4,354 | 3 |
 | 2023-11-25 | 4,357 | 3 |
+| 2023-11-26 | 4,358 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

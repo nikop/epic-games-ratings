@@ -22,12 +22,12 @@ Rating: 3.45 (Ranked 1,047)
 | Welcome to the Neighborhood | 1.00% | ~18 |
 | Sic Transit Umbra | 1.00% | ~18 |
 | Radio Silence | 1.00% | ~18 |
+| Bell-ringer | 1.00% | ~18 |
 | Good Morning | 1.00% | ~18 |
+| From the Shadows | 1.00% | ~18 |
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
 | Harvest’s End | 1.00% | ~18 |
-| Bell-ringer | 0.90% | ~16 |
-| From the Shadows | 0.90% | ~16 |
 | Bad Wiring | 0.80% | ~14 |
 | Helping Hand | 0.80% | ~14 |
 | Silence Is Golden | 0.70% | ~12 |

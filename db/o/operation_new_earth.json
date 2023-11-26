@@ -85,7 +85,7 @@
   "Tags": [],
   "EOS_Progressed": 1916,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7346,9 +7346,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 402
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7418,9 +7418,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 536
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7555,8 +7555,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:04:49.5860246+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:04:45.3052643+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.1285109+00:00",
-  "LastUpdate_Ratings": "2023-11-26T05:58:47.0541258+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:04:49.5860699+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:58:56.7676296+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:04:45.3053158+00:00"
 }

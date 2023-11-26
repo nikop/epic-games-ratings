@@ -23,7 +23,7 @@
 | Flying Objects Operator | 11.00% | ~37 |
 | I remember everything! | 10.00% | ~34 |
 | Violent solution | 7.00% | ~24 |
-| Another giant | 6.00% | ~20 |
+| Another giant | 7.00% | ~24 |
 | Innate curiosity | 6.00% | ~20 |
 | I leave no man behind | 5.00% | ~17 |
 | Ubiquitous holes | 4.00% | ~14 |

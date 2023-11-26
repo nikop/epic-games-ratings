@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -844,9 +844,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47798,
+  "EOS_Progressed": 47799,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 860,
+  "EOS_NewPlayers": 854,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25689,6 +25689,11 @@
       "Time": "2023-11-26T06:04:04.0824999+00:00",
       "NumProgressed": 47798,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T07:04:01.6384613+00:00",
+      "NumProgressed": 47799,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -25740,7 +25745,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12905
+      "UsersEstimate": 12906
     },
     {
       "ID": "goals180",
@@ -25906,9 +25911,9 @@
       "ID": "rookie",
       "SetID": "2lgngib",
       "Name": "Finding Your Footing",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 12428
     },
     {
       "ID": "sandboarder",
@@ -26011,15 +26016,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47798,
+      "Progressed": 47799,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-25T16:58:44.1865876+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:04:04.0824997+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:04:01.638461+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:43.8978111+00:00",
-  "LastUpdate_Ratings": "2023-11-26T05:59:31.7806794+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:04:04.082605+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:59:39.1752222+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:04:01.6386221+00:00"
 }

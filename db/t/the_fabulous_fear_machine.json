@@ -292,25 +292,25 @@
       "ID": "15",
       "SetID": "d37idgg",
       "Name": "Blood Red Island",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "16",
       "SetID": "d37idgg",
       "Name": "Bread and bocaua",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "17",
       "SetID": "d37idgg",
       "Name": "Fanatacism is... poisonous",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "18",
@@ -380,9 +380,9 @@
       "ID": "25",
       "SetID": "d37idgg",
       "Name": "The scholar",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "26",
@@ -412,9 +412,9 @@
       "ID": "29",
       "SetID": "d37idgg",
       "Name": "Pulp! Heart Throbs",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "3",
@@ -436,9 +436,9 @@
       "ID": "31",
       "SetID": "d37idgg",
       "Name": "Pulp! Tales from the Crypt",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "32",
@@ -540,9 +540,9 @@
       "ID": "43",
       "SetID": "d37idgg",
       "Name": "ECO mode",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "44",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:08:42.1605944+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:08:57.0706113+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:58.055933+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:00:08.8008028+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:08:42.1606261+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:00:14.9902455+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:08:57.0706498+00:00"
 }

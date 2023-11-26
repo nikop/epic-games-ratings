@@ -20,11 +20,11 @@
 | Tributes of Caladrias | 6.00% | ~13 |
 | Big Bazar | 6.00% | ~13 |
 | Shatter Them All | 5.00% | ~11 |
+| To Battle | 4.00% | ~9 |
+| Godslayer | 4.00% | ~9 |
 | Essence Blow | 4.00% | ~9 |
 | Fine Feathers Make Fine Birds | 4.00% | ~9 |
 | Alchemist | 4.00% | ~9 |
-| To Battle | 3.00% | ~7 |
-| Godslayer | 3.00% | ~7 |
 | The Mentor | 3.00% | ~7 |
 | Airborne | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |

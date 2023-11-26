@@ -2,12 +2,12 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 591,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236199,
+  "EOS_Progressed": 236200,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23422,6 +23422,11 @@
       "Time": "2023-11-26T06:06:27.3347846+00:00",
       "NumProgressed": 236199,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-26T07:06:18.9896891+00:00",
+      "NumProgressed": 236200,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23704,15 +23709,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236199,
+      "Progressed": 236200,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:06:27.3347844+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:06:18.9896887+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:02:47.1360555+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:06:27.3348798+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:02:47.5815257+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:06:18.989811+00:00"
 }

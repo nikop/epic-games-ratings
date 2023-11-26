@@ -1518,9 +1518,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 103
     },
     {
       "ID": "EcstaticTruth",
@@ -1702,9 +1702,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 309
     },
     {
       "ID": "RenaissanceRobot",
@@ -1814,9 +1814,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 206
     },
     {
       "ID": "TheWordEndures",
@@ -1895,8 +1895,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-25T20:02:40.6234679+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:06:25.5372333+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:06:17.3244165+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-26T05:57:09.4086646+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:06:25.5372717+00:00"
+  "LastUpdate_Ratings": "2023-11-26T06:57:19.9997686+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:06:17.3244606+00:00"
 }

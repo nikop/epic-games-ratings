@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7163,11 +7163,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27599,
       "NumberOfAwardsMax": 4844
+    },
+    {
+      "Time": "2023-11-26T07:03:06.2115017+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27603,
+      "NumberOfAwardsMax": 4848
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27599,
-  "NumberOfAwardsMax": 4844,
+  "NumberOfAwards": 27603,
+  "NumberOfAwardsMax": 4848,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7186,7 +7192,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4844
+      "Count": 4848
     },
     {
       "Text": "This game has Easy Combat",
@@ -7219,9 +7225,9 @@
       "Count": 3785
     }
   ],
-  "EOS_Progressed": 142131,
+  "EOS_Progressed": 142140,
   "EOS_Completed": 269,
-  "EOS_NewPlayers": 1603,
+  "EOS_NewPlayers": 1609,
   "EOS_NewCompleters": 82,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -29904,6 +29910,11 @@
       "Time": "2023-11-26T06:08:38.8958182+00:00",
       "NumProgressed": 142131,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2023-11-26T07:08:54.0349208+00:00",
+      "NumProgressed": 142140,
+      "NumCompleted": 269
     }
   ],
   "TotalAchievements": 112,
@@ -30179,7 +30190,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "craft02",
@@ -30291,7 +30302,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "expansion02",
@@ -30499,7 +30510,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "level02",
@@ -30691,7 +30702,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "sell02",
@@ -30810,15 +30821,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142131,
+      "Progressed": 142140,
       "Completed": 269
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-26T05:02:38.859505+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:08:38.895818+00:00",
+  "LastChanged": "2023-11-26T07:03:06.2115015+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:08:54.0349206+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:03:07.0363858+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:08:38.8959931+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:03:06.2115021+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:08:54.0351119+00:00"
 }

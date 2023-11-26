@@ -2,9 +2,9 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 312,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1012,6 +1012,11 @@
       "Time": "2023-11-26T06:04:34.8347783+00:00",
       "NumProgressed": 311,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T07:04:31.1663241+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1023,7 +1028,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1053,9 +1058,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1111,7 +1116,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1141,9 +1146,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1151,7 +1156,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1189,9 +1194,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1207,7 +1212,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1279,7 +1284,7 @@
       "Name": "Storm Traveller",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1359,7 +1364,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1382,7 +1387,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 312,
       "Completed": 1
     }
   ],
@@ -1390,8 +1395,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-26T06:04:34.8347781+00:00",
+  "LastChanged_Achievements": "2023-11-26T07:04:31.1663237+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-26T06:01:45.4387847+00:00",
-  "LastUpdate_Achievements": "2023-11-26T06:04:34.8348134+00:00"
+  "LastUpdate_Ratings": "2023-11-26T07:01:47.171924+00:00",
+  "LastUpdate_Achievements": "2023-11-26T07:04:31.1663846+00:00"
 }
