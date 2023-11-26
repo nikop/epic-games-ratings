@@ -7,16 +7,16 @@
 | The Last Stand | 87.00% | ~383 |
 | Thalya – Simply Immortal | 87.00% | ~383 |
 | For the Horde! | 81.00% | ~356 |
-| Hammer Time, Round Two | 78.00% | ~343 |
+| Hammer Time, Round Two | 79.00% | ~348 |
 | The Hellwoods | 73.00% | ~321 |
-| The Plains of Strothalm | 68.00% | ~299 |
+| The Plains of Strothalm | 69.00% | ~304 |
 | Experienced Thalya | 68.00% | ~299 |
 | Thalya's Concentrated Fury | 66.00% | ~290 |
 | Master of Magic | 63.00% | ~277 |
 | Bad Elves Go Everywhere | 63.00% | ~277 |
-| Unicorn steaks – fresh off the hoof! | 58.00% | ~255 |
+| Unicorn steaks – fresh off the hoof! | 59.00% | ~260 |
+| Magic Accidents | 57.00% | ~251 |
 | Heroes’ Gorge | 57.00% | ~251 |
-| Magic Accidents | 56.00% | ~246 |
 | Trap Master | 54.00% | ~238 |
 | Minions, Minions! | 53.00% | ~233 |
 | The Ascent | 47.00% | ~207 |
@@ -31,14 +31,14 @@
 | Dungeonlord Gorgu | 33.00% | ~145 |
 | The Cathedral of Light | 33.00% | ~145 |
 | Tanos' Crusade Against Thalya | 30.00% | ~132 |
+| Unstoppable Horde | 25.00% | ~110 |
 | All’s Well That Ends Evil | 25.00% | ~110 |
-| Unstoppable Horde | 24.00% | ~106 |
 | Master of the Undead | 23.00% | ~101 |
-| The Duel | 21.00% | ~92 |
+| The Duel | 22.00% | ~97 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~92 |
 | Hungry, Hungry Gorgu! | 20.00% | ~88 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~88 |
 | Forbidden Knowledge | 20.00% | ~88 |
-| Ghost Pirates? Ghost Heroes! | 19.00% | ~84 |
+| Ghost Pirates? Ghost Heroes! | 20.00% | ~88 |
 | If Looks Could Kill | 19.00% | ~84 |
 | The Finitude Drill | 18.00% | ~79 |
 | Stop Tanos! | 17.00% | ~75 |
@@ -54,10 +54,10 @@
 | Rubble and Ashes | 10.00% | ~44 |
 | The Rune Sockets of Finitude (Part 2) | 10.00% | ~44 |
 | Untouchable | 9.00% | ~40 |
+| To Infinity And Beyond! | 9.00% | ~40 |
 | The Last Stand - This Time For Real! | 9.00% | ~40 |
 | Mirror, Mirror | 8.00% | ~35 |
 | To the Max! | 8.00% | ~35 |
-| To Infinity And Beyond! | 8.00% | ~35 |
 | Laser Eyes Are So Useless | 7.00% | ~31 |
 | Gorgu is in the Best of Health | 6.00% | ~26 |
 | Evilification | 6.00% | ~26 |

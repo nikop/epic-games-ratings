@@ -2567,9 +2567,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 138
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2583,17 +2583,17 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "296pn27",
       "Name": "The court",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 58
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2622,8 +2622,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:04:31.854369+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:03:35.2890386+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:06.6083593+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:02:56.5230764+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:04:31.8543899+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:02:28.0274361+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:03:35.2890581+00:00"
 }

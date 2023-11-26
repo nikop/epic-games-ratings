@@ -5,9 +5,9 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 404,
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1158,6 +1158,11 @@
       "Time": "2023-11-26T13:09:38.7150899+00:00",
       "NumProgressed": 243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T15:05:46.6366719+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1498,7 +1503,7 @@
       "Name": "Adept",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "WielderLevel2",
@@ -1506,7 +1511,7 @@
       "Name": "Veteran",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "WielderLevel3",
@@ -1552,9 +1557,9 @@
       "ID": "WinSiegeAsAttacker",
       "SetID": "71c0n9i",
       "Name": "Veni, Vidi, Vici",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1601,15 +1606,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 245,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:07:35.6845476+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:05:46.6366717+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:57:41.1544375+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:07:35.6845814+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:57:14.3418692+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:05:46.6367025+00:00"
 }

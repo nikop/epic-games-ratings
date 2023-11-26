@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 923,
+  "EOS_Progressed": 926,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.25,
+  "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3009,6 +3009,11 @@
       "Time": "2023-11-26T14:05:08.994285+00:00",
       "NumProgressed": 923,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-26T15:04:01.6443821+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3021,15 +3026,15 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 593
     },
     {
       "ID": "_03_FinishAct1",
@@ -3037,7 +3042,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3045,7 +3050,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "_05_FinishAct2",
@@ -3053,7 +3058,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3061,7 +3066,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "_07_FinishAct3",
@@ -3069,7 +3074,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "_08_Completion_10",
@@ -3077,7 +3082,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "_09_Completion_20",
@@ -3085,7 +3090,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "_10_Completion_30",
@@ -3093,7 +3098,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "_11_Completion_40",
@@ -3115,9 +3120,9 @@
       "ID": "_13_Completion_60",
       "SetID": "8a1io5d",
       "Name": "Corsair",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 56
     },
     {
       "ID": "_14_Completion_70",
@@ -3141,7 +3146,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3149,7 +3154,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3181,7 +3186,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3189,7 +3194,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3228,7 +3233,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 923,
+      "Progressed": 926,
       "Completed": 30
     }
   ],
@@ -3236,8 +3241,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:05:08.9942848+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:04:01.6443818+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:01:13.318739+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:05:08.9943286+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:59:39.9672228+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:04:01.6444103+00:00"
 }

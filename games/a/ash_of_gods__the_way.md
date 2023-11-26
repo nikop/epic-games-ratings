@@ -12,14 +12,14 @@
 | All for one! | 26.00% | ~9 |
 | Royal blessing | 26.00% | ~9 |
 | A hidden snake | 26.00% | ~9 |
-| Blood and sand | 24.00% | ~8 |
+| Blood and sand | 26.00% | ~9 |
+| Vene, vidi, vici | 21.00% | ~7 |
 | Surpass the teacher | 18.00% | ~6 |
-| Vene, vidi, vici | 18.00% | ~6 |
+| She-Wolf | 18.00% | ~6 |
 | Crimson rivers | 15.00% | ~5 |
 | Power of Inquisition | 15.00% | ~5 |
 | Help of the Gell | 15.00% | ~5 |
 | Trial by cold | 15.00% | ~5 |
-| She-Wolf | 15.00% | ~5 |
 | For the greater good | 12.00% | ~4 |
 | Berkanan Borgia | 12.00% | ~4 |
 | The champion of the arena | 12.00% | ~4 |

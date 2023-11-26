@@ -4,52 +4,52 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 76.00% | ~700 |
-| I Broke It | 73.00% | ~672 |
-| Better On Ice | 69.00% | ~635 |
-| Notai Notes | 68.00% | ~626 |
-| Blue Dreams | 67.00% | ~617 |
-| He's Famous! | 67.00% | ~617 |
-| Cutie Poro | 66.00% | ~608 |
-| Krugmazing | 65.00% | ~599 |
-| The Fire Below the Mountain | 62.00% | ~571 |
-| Moneyball | 61.00% | ~562 |
-| No Bites | 56.00% | ~516 |
-| Iceborn | 56.00% | ~516 |
-| Tear of Freedom | 53.00% | ~488 |
-| Boom Things | 53.00% | ~488 |
-| My Darkest Day | 50.00% | ~460 |
-| Rhythm Of Willump | 47.00% | ~433 |
-| The Relentless Storm | 47.00% | ~433 |
-| A Tragic Reminder | 45.00% | ~414 |
-| 3000 Year Blackout | 44.00% | ~405 |
-| The Finisher | 42.00% | ~387 |
+| Feels Familiar | 76.00% | ~701 |
+| I Broke It | 73.00% | ~674 |
+| Better On Ice | 69.00% | ~637 |
+| Notai Notes | 68.00% | ~628 |
+| Blue Dreams | 67.00% | ~618 |
+| He's Famous! | 67.00% | ~618 |
+| Cutie Poro | 66.00% | ~609 |
+| Krugmazing | 65.00% | ~600 |
+| The Fire Below the Mountain | 62.00% | ~572 |
+| Moneyball | 61.00% | ~563 |
+| No Bites | 56.00% | ~517 |
+| Iceborn | 56.00% | ~517 |
+| Tear of Freedom | 53.00% | ~489 |
+| Boom Things | 53.00% | ~489 |
+| My Darkest Day | 50.00% | ~462 |
+| Rhythm Of Willump | 47.00% | ~434 |
+| The Relentless Storm | 47.00% | ~434 |
+| A Tragic Reminder | 45.00% | ~415 |
+| 3000 Year Blackout | 44.00% | ~406 |
+| The Finisher | 42.00% | ~388 |
 | So Close | 41.00% | ~378 |
-| You Get Used To It | 40.00% | ~368 |
-| True Legends | 40.00% | ~368 |
-| Biggest Snowball Ever | 37.00% | ~341 |
-| Bullseye | 37.00% | ~341 |
-| Boosted! | 37.00% | ~341 |
-| Deadliest and Biggest Snowball Ever! | 37.00% | ~341 |
+| You Get Used To It | 41.00% | ~378 |
+| True Legends | 40.00% | ~369 |
+| Biggest Snowball Ever | 37.00% | ~342 |
+| Bullseye | 37.00% | ~342 |
+| Boosted! | 37.00% | ~342 |
+| Deadliest and Biggest Snowball Ever! | 37.00% | ~342 |
 | Family | 36.00% | ~332 |
 | Freeze The Ice Witch | 36.00% | ~332 |
-| On The Rocks | 35.00% | ~322 |
-| It Is Not Over | 34.00% | ~313 |
+| On The Rocks | 35.00% | ~323 |
+| It Is Not Over | 34.00% | ~314 |
 | Never Gets Old | 32.00% | ~295 |
 | Snowy Poro | 31.00% | ~286 |
 | Vertical Power | 27.00% | ~249 |
 | One From The Heart | 14.00% | ~129 |
-| Yummy | 11.00% | ~101 |
+| Yummy | 11.00% | ~102 |
 | Snowball Fightn't | 10.00% | ~92 |
-| It Was Him | 7.00% | ~64 |
-| Handy Yeti | 7.00% | ~64 |
+| It Was Him | 8.00% | ~74 |
+| Handy Yeti | 7.00% | ~65 |
 | The Pied Piper Of Freljord | 6.00% | ~55 |
 | Braum's Poro Ranch | 3.00% | ~28 |
 | Sneaky Notai | 2.00% | ~18 |
 | Rock Star | 2.00% | ~18 |
 | We Are Speed | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921 (Ranked 270)  
+Progressed: 923 (Ranked 270)  
 Completed: 8 (0.87%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 8 (0.87%) (Ranked 173)
 | 2023-11-23 | 823 | 8 |
 | 2023-11-24 | 860 | 8 |
 | 2023-11-25 | 898 | 8 |
-| 2023-11-26 | 921 | 8 |
+| 2023-11-26 | 923 | 8 |

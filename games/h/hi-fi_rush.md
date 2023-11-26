@@ -8,16 +8,16 @@ Rating: 4.87 (Ranked 22)
 | Start with a bang! | 18.00% | ~785 |
 | Feeling the beat! | 18.00% | ~785 |
 | You can pet the cat! | 17.00% | ~741 |
+| Who put gears in there? | 16.00% | ~698 |
 | Cream of the Crop | 15.00% | ~654 |
-| Who put gears in there? | 15.00% | ~654 |
-| Thanks for the free chip, Peppermint! | 14.00% | ~610 |
-| You got this, Peppermint? | 14.00% | ~610 |
+| Thanks for the free chip, Peppermint! | 14.00% | ~611 |
+| You got this, Peppermint? | 14.00% | ~611 |
 | Perfect Parry | 13.00% | ~567 |
 | Alright, that felt AWESOME! | 13.00% | ~567 |
 | This will cost you big time | 12.00% | ~523 |
-| I play my own way! | 11.00% | ~479 |
-| Z-shielding's got nothing on us! | 11.00% | ~479 |
-| Uh, they were broken when I got here | 11.00% | ~479 |
+| Uh, they were broken when I got here | 12.00% | ~523 |
+| I play my own way! | 11.00% | ~480 |
+| Z-shielding's got nothing on us! | 11.00% | ~480 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~436 |
 | Kissing the sky! | 10.00% | ~436 |
 | The Negotiator | 9.00% | ~392 |
@@ -29,7 +29,7 @@ Rating: 4.87 (Ranked 22)
 | You must like calling me in, Chai | 8.00% | ~349 |
 | Perfecter Parry-er! | 8.00% | ~349 |
 | Does that say weakpoint? | 8.00% | ~349 |
-| NOW we got a kickass hideout! | 8.00% | ~230 |
+| NOW we got a kickass hideout! | 8.00% | ~231 |
 | I have to read these things? | 7.00% | ~305 |
 | Well that was a rush! | 5.00% | ~218 |
 | Beat-hit mania | 5.00% | ~218 |
@@ -37,13 +37,13 @@ Rating: 4.87 (Ranked 22)
 | There's such a thing as TOO helpful | 5.00% | ~218 |
 | Chip-tuned | 3.00% | ~131 |
 | Wanna hear my playlist? | 3.00% | ~131 |
-| I told you I'd be fine, Peppermint! | 3.00% | ~131 |
 | Check out my moves! | 3.00% | ~131 |
 | I think I deserve some praise, here! | 2.00% | ~87 |
 | I think I found your calling, Macaron | 2.00% | ~87 |
 | This is a breeze! | 2.00% | ~87 |
 | We're Jammin' | 2.00% | ~87 |
 | I hit things with a guitar really well. | 2.00% | ~87 |
+| I told you I'd be fine, Peppermint! | 2.00% | ~87 |
 | Call me Turbo Chai | 2.00% | ~58 |
 | I'm not done with you yet | 1.00% | ~44 |
 | First we parry, then we counter | 1.00% | ~44 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,359 (Ranked 193)  
+Progressed: 4,361 (Ranked 193)  
 Completed: 8 (0.18%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 8 (0.18%) (Ranked 262)
 | 2023-11-23 | 4,297 | 8 |
 | 2023-11-24 | 4,316 | 8 |
 | 2023-11-25 | 4,346 | 8 |
-| 2023-11-26 | 4,359 | 8 |
+| 2023-11-26 | 4,361 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

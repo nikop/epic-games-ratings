@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 35.00% | ~262 |
-| Welcome to the Tower | 33.00% | ~247 |
-| The great escape | 28.00% | ~210 |
-| The Preacher's fate | 27.00% | ~202 |
-| A new dawn | 23.00% | ~172 |
-| Scholar | 21.00% | ~157 |
-| The darkness | 21.00% | ~157 |
+| That's the spirit | 35.00% | ~263 |
+| Welcome to the Tower | 33.00% | ~248 |
+| The great escape | 29.00% | ~218 |
+| The Preacher's fate | 27.00% | ~203 |
+| A new dawn | 24.00% | ~180 |
+| Scholar | 21.00% | ~158 |
+| The darkness | 21.00% | ~158 |
 | A good beginning | 20.00% | ~150 |
 | True G3M4R | 20.00% | ~150 |
-| Half the way | 19.00% | ~142 |
-| One last step | 19.00% | ~142 |
+| Half the way | 19.00% | ~143 |
+| One last step | 19.00% | ~143 |
 | I did it | 18.00% | ~135 |
 | Cable guy | 18.00% | ~135 |
-| In this together | 17.00% | ~127 |
-| Peace walker | 17.00% | ~127 |
-| Champollion | 17.00% | ~127 |
-| Open door | 15.00% | ~112 |
-| Feels like springtime | 15.00% | ~112 |
-| Alchemists Express | 15.00% | ~112 |
-| Free at last | 13.00% | ~97 |
+| In this together | 17.00% | ~128 |
+| Peace walker | 17.00% | ~128 |
+| Champollion | 17.00% | ~128 |
+| Open door | 15.00% | ~113 |
+| Feels like springtime | 15.00% | ~113 |
+| Alchemists Express | 15.00% | ~113 |
+| Free at last | 13.00% | ~98 |
 | Rascal | 12.00% | ~90 |
-| A Link to the Past | 11.00% | ~82 |
+| A Link to the Past | 11.00% | ~83 |
 | A great audience | 10.00% | ~75 |
-| For its own good | 9.00% | ~67 |
+| For its own good | 9.00% | ~68 |
 | Fashion victim | 4.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 278)  
-Completed: 37 (4.94%) (Ranked 73)  
+Progressed: 752 (Ranked 278)  
+Completed: 37 (4.92%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -157,4 +157,4 @@ Completed: 37 (4.94%) (Ranked 73)
 | 2023-11-23 | 682 | 35 |
 | 2023-11-24 | 707 | 35 |
 | 2023-11-25 | 737 | 37 |
-| 2023-11-26 | 749 | 37 |
+| 2023-11-26 | 752 | 37 |

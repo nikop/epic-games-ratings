@@ -2,9 +2,9 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244,
+  "EOS_Progressed": 245,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -475,6 +475,11 @@
       "Time": "2023-11-25T20:05:33.0376297+00:00",
       "NumProgressed": 244,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T15:05:16.9230715+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -526,7 +531,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "heavy_rayne",
@@ -566,7 +571,7 @@
       "Name": "Patient Listener",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "play_it_again_sam",
@@ -574,7 +579,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "play_me_by_the_hour",
@@ -582,7 +587,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "poetent",
@@ -644,16 +649,16 @@
       "ID": "you_had_one_job",
       "SetID": "2db2j74",
       "Name": "You Had One Job",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 244,
+      "Progressed": 245,
       "Completed": 2
     }
   ],
@@ -661,8 +666,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:06:54.1729679+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:05:16.9230713+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.7619154+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:01:50.7273686+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:06:54.1729813+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:00:05.2306381+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:05:16.9230821+00:00"
 }

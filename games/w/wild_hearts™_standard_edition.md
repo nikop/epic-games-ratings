@@ -43,8 +43,8 @@
 | Threaded Harmony | 24.00% | ~79 |
 | Jack of All Trades | 22.00% | ~73 |
 | Karakuri Fortress | 21.00% | ~70 |
+| Haven Hunter | 20.00% | ~66 |
 | Volatile Vocation | 19.00% | ~63 |
-| Haven Hunter | 19.00% | ~63 |
 | Tender Touch | 18.00% | ~60 |
 | Superlative View | 18.00% | ~60 |
 | Relentless Kemono Hunter | 15.00% | ~50 |

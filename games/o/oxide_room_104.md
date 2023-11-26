@@ -21,10 +21,10 @@
 | It can't be true | 16.00% | ~40 |
 | I'm close now | 13.00% | ~32 |
 | Failed attempt | 13.00% | ~32 |
+| The real escape | 13.00% | ~32 |
+| Good choice | 13.00% | ~32 |
+| Take the long way round | 13.00% | ~32 |
 | He who seeks, finds! | 13.00% | ~32 |
-| The real escape | 12.00% | ~30 |
-| Good choice | 12.00% | ~30 |
-| Take the long way round | 12.00% | ~30 |
 | Nightmare in the kitchen | 11.00% | ~28 |
 | Born again | 8.00% | ~20 |
 | 373 | 6.00% | ~15 |

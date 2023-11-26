@@ -12,12 +12,12 @@ Rating: 4.56 (Ranked 493)
 | The things they print nowadays | 39.00% | ~286 |
 | Big Spender | 38.00% | ~279 |
 | That's gotta hurt | 35.00% | ~257 |
-| The Ann Flores Combo Experience | 26.00% | ~191 |
-| Club Star | 25.00% | ~183 |
-| I think it's broke | 25.00% | ~183 |
+| Club Star | 25.00% | ~184 |
+| I think it's broke | 25.00% | ~184 |
+| The Ann Flores Combo Experience | 25.00% | ~184 |
 | Fire in the hole! | 21.00% | ~154 |
-| The Warlord | 20.00% | ~147 |
 | Omnipotence | 19.00% | ~139 |
+| The Warlord | 19.00% | ~139 |
 | You are the One | 19.00% | ~139 |
 | Deadly Kombationem | 18.00% | ~132 |
 | The truth is out there | 15.00% | ~110 |
@@ -27,14 +27,14 @@ Rating: 4.56 (Ranked 493)
 | 1+1>2 | 8.00% | ~59 |
 | So Fresh and So clean clean | 8.00% | ~59 |
 | This can't be right… | 8.00% | ~59 |
-| Welcome home, 06 | 8.00% | ~59 |
 | I'm walking here! | 7.00% | ~51 |
 | Supreme Bartender Ann | 7.00% | ~51 |
+| Welcome home, 06 | 7.00% | ~51 |
 | Clarity of Mind | 6.00% | ~44 |
 | I feel secure, contained & protected | 6.00% | ~44 |
 | Science, it works! | 6.00% | ~44 |
 | The Traveler | 6.00% | ~44 |
-| Woman on a (side) mission | 5.00% | ~37 |
+| Woman on a (side) mission | 4.00% | ~29 |
 | Ann ULTRA | 3.00% | ~22 |
 | Lady Luck is a cool cat | 3.00% | ~22 |
 | SERENITY NOW | 2.00% | ~15 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 493)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733 (Ranked 279)  
+Progressed: 734 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 696 | 0 |
 | 2023-11-24 | 705 | 0 |
 | 2023-11-25 | 726 | 0 |
-| 2023-11-26 | 733 | 0 |
+| 2023-11-26 | 734 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

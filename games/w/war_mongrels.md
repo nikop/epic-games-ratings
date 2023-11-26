@@ -7,29 +7,29 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~437 |
-| Cowardice | 62.00% | ~398 |
+| Cowardice | 61.00% | ~392 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~302 |
 | Eat Lead! | 45.00% | ~289 |
-| The Breaking Point | 44.00% | ~282 |
+| The Breaking Point | 44.00% | ~283 |
 | Here Comes the Boom | 42.00% | ~270 |
-| Prospector | 41.00% | ~263 |
-| Sniper Wolf | 39.00% | ~250 |
+| Prospector | 41.00% | ~264 |
+| Sniper Wolf | 39.00% | ~251 |
 | Treasure Hunter | 38.00% | ~244 |
 | The Motivation | 38.00% | ~244 |
 | Heroism | 36.00% | ~231 |
-| Collectibles of Chapter I | 34.00% | ~218 |
-| Missing in Action | 34.00% | ~218 |
+| Collectibles of Chapter I | 34.00% | ~219 |
+| Missing in Action | 34.00% | ~219 |
 | King of Knives | 33.00% | ~212 |
-| Consequences | 32.00% | ~205 |
+| Consequences | 32.00% | ~206 |
 | Opportunities | 31.00% | ~199 |
 | The Horror | 29.00% | ~186 |
-| The Difference | 27.00% | ~173 |
-| Vengeance | 25.00% | ~160 |
+| The Difference | 27.00% | ~174 |
+| Vengeance | 25.00% | ~161 |
 | It's Just an Accident | 24.00% | ~154 |
 | Broken Hopes | 23.00% | ~148 |
 | Collectibles of Chapter II | 22.00% | ~141 |
 | Bullseye! | 22.00% | ~141 |
-| Sorrow | 20.00% | ~128 |
+| Sorrow | 20.00% | ~129 |
 | Atonement | 18.00% | ~116 |
 | Food Massacre | 18.00% | ~116 |
 | Helping Hand | 16.00% | ~103 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 642 (Ranked 290)  
+Progressed: 643 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-21 | 636 | 0 |
 | 2023-11-23 | 640 | 0 |
 | 2023-11-25 | 641 | 0 |
-| 2023-11-26 | 642 | 0 |
+| 2023-11-26 | 643 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

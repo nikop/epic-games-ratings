@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57978,
+  "EOS_Progressed": 57981,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13141,6 +13141,11 @@
       "Time": "2023-11-26T14:05:46.6929267+00:00",
       "NumProgressed": 57978,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-26T15:04:28.7980708+00:00",
+      "NumProgressed": 57981,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13216,7 +13221,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "FlyingPresent",
@@ -13488,7 +13493,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "TimelySplash",
@@ -13543,7 +13548,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57978,
+      "Progressed": 57981,
       "Completed": 6
     }
   ],
@@ -13551,8 +13556,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:05:46.6929263+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:04:28.7980706+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.4965941+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:00:08.5701512+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:05:46.6930463+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:58:54.4875075+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:04:28.7981491+00:00"
 }

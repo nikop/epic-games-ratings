@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 734,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -777,6 +777,11 @@
       "Time": "2023-11-26T14:06:09.1093906+00:00",
       "NumProgressed": 733,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T15:04:44.7299592+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -828,7 +833,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Combine",
@@ -884,7 +889,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "In the smacker...I think",
@@ -986,17 +991,17 @@
       "ID": "The_Ann_Flores_Combo_Experience",
       "SetID": "gl7plp",
       "Name": "The Ann Flores Combo Experience",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 191
+      "UsersEstimate": 184
     },
     {
       "ID": "The_Warlord",
       "SetID": "gl7plp",
       "Name": "The Warlord",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 147
+      "UsersEstimate": 139
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1026,17 +1031,17 @@
       "ID": "Welcome_home_06",
       "SetID": "gl7plp",
       "Name": "Welcome home, 06",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 51
     },
     {
       "ID": "Woman on a (side) mission",
       "SetID": "gl7plp",
       "Name": "Woman on a (side) mission",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 29
     },
     {
       "ID": "You_are_the_One",
@@ -1075,7 +1080,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 734,
       "Completed": 0
     }
   ],
@@ -1083,8 +1088,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:06:09.1093904+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:04:44.729959+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:00:48.848932+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:06:09.1094094+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:59:23.7239275+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:04:44.729978+00:00"
 }

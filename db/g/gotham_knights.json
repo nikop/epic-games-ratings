@@ -4367,7 +4367,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77171,
+  "EOS_Progressed": 77172,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
@@ -24002,6 +24002,11 @@
       "Time": "2023-11-26T14:07:52.1188861+00:00",
       "NumProgressed": 77171,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-26T15:05:58.3151998+00:00",
+      "NumProgressed": 77172,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24061,7 +24066,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17749
+      "UsersEstimate": 17750
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -24253,7 +24258,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14662
+      "UsersEstimate": 14663
     },
     {
       "ID": "FREEZE_3",
@@ -24341,7 +24346,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12347
+      "UsersEstimate": 12348
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -24500,13 +24505,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77171,
+      "Progressed": 77172,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47451,
+      "Progressed": 47452,
       "Completed": 2675
     }
   ],
@@ -24514,8 +24519,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-26T08:57:09.0249426+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:07:52.1188858+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:05:58.3151996+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:57:21.077491+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:07:52.1190153+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:57:01.0003551+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:05:58.3153162+00:00"
 }

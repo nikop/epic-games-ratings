@@ -7,7 +7,7 @@ Rating: 4.75 (Ranked 148)
 | ---- | ---------- | ----- |
 | Regicide | 0.60% | ~47 |
 | Master of the Dark Arts | 0.60% | ~47 |
-| The Killing Jar | 0.50% | ~1,143 |
+| The Killing Jar | 0.50% | ~1,144 |
 | First of Many | 0.40% | ~915 |
 | Expanding Horizons | 0.30% | ~686 |
 | Not Your Average Trait | 0.30% | ~686 |
@@ -26,6 +26,7 @@ Rating: 4.75 (Ranked 148)
 | Was This Supposed To Happen? | 0.20% | ~457 |
 | Boss'n Up | 0.20% | ~457 |
 | Scrap Collector | 0.20% | ~457 |
+| Scrap Hoarder | 0.20% | ~457 |
 | Almost There | 0.20% | ~457 |
 | Make Some Room | 0.20% | ~457 |
 | Good, But Could Be Better! | 0.20% | ~457 |
@@ -49,7 +50,6 @@ Rating: 4.75 (Ranked 148)
 | Cutting Edge | 0.10% | ~229 |
 | The Web | 0.10% | ~229 |
 | The Collector | 0.10% | ~229 |
-| Scrap Hoarder | 0.10% | ~229 |
 | All These Traits� | 0.10% | ~229 |
 | Proving Grounds | 0.10% | ~229 |
 | Carnage in C-Minor | 0.10% | ~229 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~8 |
 | You Shall Pass | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,684 (Ranked 68)  
-Completed: 530 (0.23%) (Ranked 248)  
+Progressed: 228,720 (Ranked 68)  
+Completed: 531 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 530 (0.23%) (Ranked 248)
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
-| 2023-11-26 | 228,684 | 530 |
+| 2023-11-26 | 228,720 | 531 |
 ## Awards
 Max (Great Boss Battles): 2,455  (Ranked 104)  
 Sum: 5,951 (Ranked 129)  

@@ -2,7 +2,7 @@
   "ID": "d759128018124dcabb1fbee9bb28e178",
   "Name": "Surviving Mars",
   "ProductSlug": "surviving-mars",
-  "Ranking_Rating": 382,
+  "Ranking_Rating": 416,
   "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 759,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 3483,
   "RatingHistory": [
     {
@@ -3927,6 +3927,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 3362,
       "NumberOfAwardsMax": 516
+    },
+    {
+      "Time": "2023-11-26T15:00:10.162889+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3362,
+      "NumberOfAwardsMax": 516
     }
   ],
   "ReviewsDisabled": false,
@@ -4006,8 +4012,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2023-11-26T01:49:52.3303588+00:00",
+  "LastChanged": "2023-11-26T15:00:10.1628888+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:37.076188+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:01:58.4802569+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:05:15.6181653+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:00:10.1628893+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:04:06.3681934+00:00"
 }

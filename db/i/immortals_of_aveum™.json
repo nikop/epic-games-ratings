@@ -1442,9 +1442,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_10",
@@ -1530,9 +1530,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_20",
@@ -1674,9 +1674,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_49",
@@ -1802,9 +1802,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_9",
@@ -1827,8 +1827,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-24T19:57:13.1524203+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:09:07.6092861+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:08:02.1339263+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.7077171+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:58:50.9631127+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:09:07.609326+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:58:01.9839897+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:08:02.133958+00:00"
 }

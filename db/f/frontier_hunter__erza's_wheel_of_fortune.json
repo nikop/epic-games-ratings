@@ -2,7 +2,7 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 89,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1047,6 +1047,11 @@
       "Time": "2023-11-26T14:04:45.3053867+00:00",
       "NumProgressed": 328,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T15:03:44.86553+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1058,7 +1063,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1074,7 +1079,7 @@
       "Name": "Guardian",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1082,7 +1087,7 @@
       "Name": "Nosebleeder",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1104,9 +1109,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1114,7 +1119,7 @@
       "Name": "Lethal Blade Mantis Killer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1122,15 +1127,15 @@
       "Name": "Squeaky Clean",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_18",
       "SetID": "7pimpda",
       "Name": "Kind Adventurer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1160,9 +1165,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "7pimpda",
       "Name": "Face Slapper",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1184,9 +1189,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1194,7 +1199,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1218,7 +1223,7 @@
       "Name": "Trader",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1226,7 +1231,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1312,9 +1317,9 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1386,7 +1391,7 @@
       "Name": "Flower Thief",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1417,7 +1422,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 1
     }
   ],
@@ -1425,8 +1430,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:04:45.3053858+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:03:44.8655298+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:57:12.4205486+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:04:45.3054206+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:56:55.1669155+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:03:44.8655658+00:00"
 }

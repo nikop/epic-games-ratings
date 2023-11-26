@@ -5,31 +5,31 @@ Rating: 4.68 (Ranked 254)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,562 |
-| On the Top Step | 88.00% | ~5,207 |
-| Setting up for Success | 77.00% | ~4,556 |
+| Getting on the Step | 94.00% | ~5,563 |
+| On the Top Step | 88.00% | ~5,208 |
+| Setting up for Success | 77.00% | ~4,557 |
 | Team Orders | 75.00% | ~4,438 |
-| Engineer | 55.00% | ~3,254 |
-| Familiar Faces | 48.00% | ~2,840 |
-| Sharing the Love | 43.00% | ~2,544 |
-| Going the Extra Mile | 42.00% | ~2,485 |
+| Engineer | 55.00% | ~3,255 |
+| Familiar Faces | 48.00% | ~2,841 |
+| Sharing the Love | 43.00% | ~2,545 |
+| Going the Extra Mile | 42.00% | ~2,486 |
 | Hitting a Season | 39.00% | ~2,308 |
 | A Dozen Pieces | 33.00% | ~1,953 |
 | Challenge Yourself | 33.00% | ~1,953 |
-| Making History | 31.00% | ~1,834 |
+| Making History | 31.00% | ~1,835 |
 | Network Success | 28.00% | ~1,657 |
-| Writing a new Chapter | 25.00% | ~1,479 |
+| Writing a new Chapter | 25.00% | ~1,480 |
 | Spring Cleaning | 24.00% | ~1,420 |
 | Reduce | 21.00% | ~1,243 |
-| Ups and Downs | 20.00% | ~1,183 |
+| Ups and Downs | 20.00% | ~1,184 |
 | Crucial Combo | 19.00% | ~1,124 |
 | Reuse | 17.00% | ~1,006 |
 | One for the Book | 17.00% | ~1,006 |
 | Proving Them Wrong | 17.00% | ~1,006 |
 | Gathering Dust | 16.00% | ~947 |
 | Oil and Water | 15.00% | ~888 |
-| Hitting a Bullseye | 14.00% | ~828 |
-| Spinning Around | 14.00% | ~828 |
+| Hitting a Bullseye | 14.00% | ~829 |
+| Spinning Around | 14.00% | ~829 |
 | Eagle Eye | 13.00% | ~769 |
 | Lightning Round the World | 13.00% | ~769 |
 | Switcheroo | 13.00% | ~769 |
@@ -46,16 +46,16 @@ Rating: 4.68 (Ranked 254)
 | Loyal Bond | 4.00% | ~237 |
 | Seasoned Rookie | 3.00% | ~178 |
 | Wait, I know you? | 3.00% | ~178 |
+| Saturday Night Drama | 2.00% | ~118 |
 | Filling in the Gaps | 2.00% | ~118 |
 | Under the Microscope | 1.00% | ~59 |
-| Saturday Night Drama | 1.00% | ~59 |
 | Media Darling | 1.00% | ~59 |
 | Ultimate Collector | 0.60% | ~36 |
 | Golden Touch | 0.30% | ~18 |
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,917 (Ranked 186)  
+Progressed: 5,918 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 5,876 | 0 |
 | 2023-11-24 | 5,892 | 0 |
 | 2023-11-25 | 5,910 | 0 |
-| 2023-11-26 | 5,917 | 0 |
+| 2023-11-26 | 5,918 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 526)  
 Sum: 90 (Ranked 455)  

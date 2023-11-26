@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2815,9 +2815,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 397
     },
     {
       "ID": "AC24",
@@ -3008,8 +3008,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-18T16:58:56.9508532+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:08:42.5344771+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:07:44.4806259+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:32.1505355+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:59:24.9470935+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:08:42.5345256+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:58:24.9221933+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:07:44.4806597+00:00"
 }

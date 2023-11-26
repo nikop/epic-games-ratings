@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Seven Doors | 50.00% | ~11 |
+| Welcome to Seven Doors | 55.00% | ~12 |
 | Kill the Dead Man | 41.00% | ~9 |
 | Diogenes Syndrome | 41.00% | ~9 |
 | Egyptologist | 41.00% | ~9 |

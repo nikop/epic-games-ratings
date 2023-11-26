@@ -333,9 +333,9 @@
       "ID": "17",
       "SetID": "6bgoh8g",
       "Name": "Master Chess",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "18",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:07:25.7293988+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:05:39.5127971+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:19:11.5878853+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:01:06.5720152+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:07:25.7294148+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:59:35.0030815+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:05:39.5128138+00:00"
 }

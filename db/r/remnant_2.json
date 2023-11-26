@@ -4779,10 +4779,10 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 228684,
-  "EOS_Completed": 530,
-  "EOS_NewPlayers": 4895,
-  "EOS_NewCompleters": 48,
+  "EOS_Progressed": 228720,
+  "EOS_Completed": 531,
+  "EOS_NewPlayers": 4882,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20009,6 +20009,11 @@
       "Time": "2023-11-26T14:09:04.862224+00:00",
       "NumProgressed": 228684,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-11-26T15:08:00.1844136+00:00",
+      "NumProgressed": 228720,
+      "NumCompleted": 531
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20101,7 +20106,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20315,9 +20320,9 @@
       "ID": "Obtain_Scrap_B",
       "SetID": "bkp3b1a",
       "Name": "Scrap Hoarder",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 457
     },
     {
       "ID": "Obtain_Traits_A",
@@ -20460,13 +20465,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 228684,
-      "Completed": 530
+      "Progressed": 228720,
+      "Completed": 531
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 7849,
+      "Progressed": 7885,
       "Completed": 161
     }
   ],
@@ -20474,8 +20479,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-26T14:03:25.6405504+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:09:04.8622237+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:08:00.1844133+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:03:25.6405511+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:09:04.8623166+00:00"
+  "LastUpdate_Ratings": "2023-11-26T15:02:48.1685664+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:08:00.1845308+00:00"
 }

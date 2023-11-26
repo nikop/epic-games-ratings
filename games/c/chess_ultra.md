@@ -5,26 +5,26 @@ Rating: 4.29 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~153,616 |
-| Doubled Pawn | 57.00% | ~125,088 |
-| Check | 55.00% | ~120,699 |
-| Absolute pin | 47.00% | ~103,142 |
-| Promotion | 31.00% | ~68,030 |
-| Checkmate | 30.00% | ~65,836 |
-| O-O | 24.00% | ~52,668 |
-| Spanish Bishop | 21.00% | ~46,085 |
-| Queen Sacrifice | 20.00% | ~43,890 |
-| Stalemate | 18.00% | ~39,501 |
-| O-O-O | 13.00% | ~28,529 |
-| Octopus | 13.00% | ~28,529 |
-| Stranger Danger | 12.00% | ~26,334 |
-| En Passant | 9.00% | ~19,751 |
-| Double Check | 7.00% | ~15,362 |
-| Family Fork | 6.00% | ~13,167 |
-| Piece Collector | 6.00% | ~13,167 |
+| Chop Wood | 70.00% | ~153,626 |
+| Doubled Pawn | 57.00% | ~125,095 |
+| Check | 55.00% | ~120,706 |
+| Absolute pin | 47.00% | ~103,149 |
+| Promotion | 31.00% | ~68,034 |
+| Checkmate | 30.00% | ~65,840 |
+| O-O | 24.00% | ~52,672 |
+| Spanish Bishop | 21.00% | ~46,088 |
+| Queen Sacrifice | 20.00% | ~43,893 |
+| Stalemate | 18.00% | ~39,504 |
+| O-O-O | 13.00% | ~28,530 |
+| Octopus | 13.00% | ~28,530 |
+| Stranger Danger | 12.00% | ~26,336 |
+| En Passant | 9.00% | ~19,752 |
+| Double Check | 7.00% | ~15,363 |
+| Family Fork | 6.00% | ~13,168 |
+| Piece Collector | 6.00% | ~13,168 |
 | ELO | 5.00% | ~10,973 |
 | Friendly Fire | 5.00% | ~10,973 |
-| Underpromote | 4.00% | ~8,778 |
+| Underpromote | 4.00% | ~8,779 |
 | ELO ELO | 3.00% | ~6,584 |
 | Learner | 3.00% | ~6,584 |
 | Blind Pigs | 2.00% | ~4,389 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 844)
 | Tournament Master | 0.10% | ~219 |
 | Tournament Pro | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,452 (Ranked 71)  
+Progressed: 219,465 (Ranked 71)  
 Completed: 2 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2 (0.00%) (Ranked 360)
 | 2023-11-23 | 219,065 | 2 |
 | 2023-11-24 | 219,193 | 2 |
 | 2023-11-25 | 219,364 | 2 |
-| 2023-11-26 | 219,452 | 2 |
+| 2023-11-26 | 219,465 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

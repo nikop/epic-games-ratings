@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wild Ox | 45.00% | ~147 |
-| Magic Ball | 34.00% | ~111 |
-| Assailants | 27.00% | ~88 |
-| Prisoner | 24.00% | ~78 |
-| First Commander | 20.00% | ~65 |
+| Wild Ox | 45.00% | ~148 |
+| Magic Ball | 34.00% | ~112 |
+| Assailants | 27.00% | ~89 |
+| Prisoner | 24.00% | ~79 |
+| First Commander | 20.00% | ~66 |
 | Second Commander | 19.00% | ~62 |
 | Adventurer | 19.00% | ~62 |
 | Third Commander | 17.00% | ~56 |
 | Janken The Great | 11.00% | ~36 |
 | Pacifist | 11.00% | ~36 |
-| Overwhelmed Beast | 9.00% | ~29 |
+| Overwhelmed Beast | 9.00% | ~30 |
 | Radaxian Protector | 5.00% | ~16 |
 | Let's Talk | 2.00% | ~7 |
 | Champion | 2.00% | ~7 |
 | Stingy | 2.00% | ~7 |
 | Collector | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327 (Ranked 344)  
+Progressed: 328 (Ranked 344)  
 Completed: 4 (1.22%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 4 (1.22%) (Ranked 157)
 | 2023-11-15 | 325 | 4 |
 | 2023-11-21 | 326 | 4 |
 | 2023-11-25 | 327 | 4 |
+| 2023-11-26 | 328 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

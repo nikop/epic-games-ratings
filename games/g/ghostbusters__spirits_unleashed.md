@@ -12,13 +12,13 @@ Rating: 4.50 (Ranked 591)
 | Discovery | 5.00% | ~1,581 |
 | Solo Capture | 5.00% | ~1,581 |
 | Swift Rift Removers | 5.00% | ~1,581 |
-| Clutch Capture | 4.00% | ~1,264 |
-| Cultured | 4.00% | ~1,264 |
-| Fully Upgraded | 4.00% | ~1,264 |
-| Teamwork | 4.00% | ~1,264 |
-| There you are! | 4.00% | ~1,264 |
-| Vaporous Expansion | 4.00% | ~1,264 |
-| Whoopsie | 4.00% | ~1,264 |
+| Clutch Capture | 4.00% | ~1,265 |
+| Cultured | 4.00% | ~1,265 |
+| Fully Upgraded | 4.00% | ~1,265 |
+| Teamwork | 4.00% | ~1,265 |
+| There you are! | 4.00% | ~1,265 |
+| Vaporous Expansion | 4.00% | ~1,265 |
+| Whoopsie | 4.00% | ~1,265 |
 | Animated | 3.00% | ~948 |
 | Daily Dose | 3.00% | ~948 |
 | Ectoplasmic Entity | 3.00% | ~948 |
@@ -44,8 +44,8 @@ Rating: 4.50 (Ranked 591)
 | Reckless | 1.00% | ~316 |
 | Rivalry | 1.00% | ~316 |
 | Terrifying | 1.00% | ~316 |
-| Fragile Panes | 0.90% | ~284 |
-| Surprise! | 0.90% | ~284 |
+| Fragile Panes | 0.90% | ~285 |
+| Surprise! | 0.90% | ~285 |
 | Therapeutic | 0.70% | ~221 |
 | Rift Seeker | 0.50% | ~158 |
 | Master Collector | 0.40% | ~126 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 591)
 | Line em' up | 0.10% | ~32 |
 | Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,611 (Ranked 124)  
+Progressed: 31,613 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 69 (0.22%) (Ranked 250)
 | 2023-11-23 | 31,445 | 68 |
 | 2023-11-24 | 31,499 | 68 |
 | 2023-11-25 | 31,571 | 69 |
-| 2023-11-26 | 31,611 | 69 |
+| 2023-11-26 | 31,613 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 249)  
 Sum: 2,850 (Ranked 179)  

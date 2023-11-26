@@ -2,8 +2,8 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 421,
-  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -599,6 +599,11 @@
       "Time": "2023-11-26T14:07:09.750933+00:00",
       "NumProgressed": 116,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T15:05:28.200465+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -610,7 +615,7 @@
       "Name": "Builder",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Cook",
@@ -626,7 +631,7 @@
       "Name": "Crafter",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Defender",
@@ -650,7 +655,7 @@
       "Name": "Harvester",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Healer",
@@ -658,7 +663,7 @@
       "Name": "Healer",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Rep1",
@@ -705,14 +710,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:07:09.7509326+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:05:28.2004648+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-11-26T13:57:32.5634451+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:07:09.750952+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:57:08.7755436+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:05:28.2004739+00:00"
 }

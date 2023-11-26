@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1579,9 +1579,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13783,
+  "EOS_Progressed": 13784,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -15049,6 +15049,11 @@
       "Time": "2023-11-26T14:09:31.7771545+00:00",
       "NumProgressed": 13783,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-26T15:08:19.623751+00:00",
+      "NumProgressed": 13784,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 35,
@@ -15060,7 +15065,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11302
+      "UsersEstimate": 11303
     },
     {
       "ID": "ACH02",
@@ -15100,7 +15105,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH07",
@@ -15116,7 +15121,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7029
+      "UsersEstimate": 7030
     },
     {
       "ID": "ACH09",
@@ -15124,7 +15129,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH10",
@@ -15188,7 +15193,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH18",
@@ -15212,7 +15217,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH21",
@@ -15276,7 +15281,7 @@
       "Name": "Original Gangster",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "ACH29",
@@ -15292,7 +15297,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH31",
@@ -15339,7 +15344,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13783,
+      "Progressed": 13784,
       "Completed": 54
     }
   ],
@@ -15347,8 +15352,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-25T16:00:41.2683594+00:00",
-  "LastChanged_Achievements": "2023-11-26T14:09:31.7771542+00:00",
+  "LastChanged_Achievements": "2023-11-26T15:08:19.6237508+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.1736391+00:00",
-  "LastUpdate_Ratings": "2023-11-26T14:01:38.9477652+00:00",
-  "LastUpdate_Achievements": "2023-11-26T14:09:31.7772351+00:00"
+  "LastUpdate_Ratings": "2023-11-26T14:59:57.7220365+00:00",
+  "LastUpdate_Achievements": "2023-11-26T15:08:19.6238135+00:00"
 }

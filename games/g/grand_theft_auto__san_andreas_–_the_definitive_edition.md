@@ -5,8 +5,8 @@ Rating: 4.55 (Ranked 506)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,302 |
-| Pay 'n' Spray | 51.00% | ~7,029 |
+| Getting Started | 82.00% | ~11,303 |
+| Pay 'n' Spray | 51.00% | ~7,030 |
 | All Dressed Up for San Fierro | 26.00% | ~3,584 |
 | The American Dream | 20.00% | ~2,757 |
 | School's Out | 19.00% | ~2,619 |
@@ -15,18 +15,18 @@ Rating: 4.55 (Ranked 506)
 | Today Was a Good Day | 16.00% | ~2,205 |
 | Horror of the Santa Maria | 11.00% | ~1,516 |
 | Liberty City State of Mind | 10.00% | ~1,378 |
-| Original Gangster | 9.00% | ~1,240 |
+| Original Gangster | 9.00% | ~1,241 |
 | The End of the Line | 8.00% | ~1,103 |
 | With Extra Dip | 7.00% | ~965 |
 | Saviour | 6.00% | ~827 |
 | They Can’t Stop All of Us | 5.00% | ~689 |
 | Rescue a Kitten Too? | 5.00% | ~689 |
 | What are the Odds | 4.00% | ~551 |
-| I’ll Have Two Number 9s | 3.00% | ~413 |
-| Bike or Biker | 3.00% | ~413 |
-| What the City Needs | 3.00% | ~413 |
-| Yes I Speak English | 3.00% | ~413 |
-| Public Enemy No. 1 | 3.00% | ~413 |
+| I’ll Have Two Number 9s | 3.00% | ~414 |
+| Bike or Biker | 3.00% | ~414 |
+| What the City Needs | 3.00% | ~414 |
+| Yes I Speak English | 3.00% | ~414 |
+| Public Enemy No. 1 | 3.00% | ~414 |
 | A Legitimate Business | 2.00% | ~276 |
 | Who Needs Directions? | 2.00% | ~276 |
 | Swiss Army Strife | 2.00% | ~276 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 506)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,783 (Ranked 156)  
+Progressed: 13,784 (Ranked 156)  
 Completed: 54 (0.39%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 54 (0.39%) (Ranked 220)
 | 2023-11-23 | 13,761 | 53 |
 | 2023-11-24 | 13,773 | 53 |
 | 2023-11-25 | 13,777 | 53 |
-| 2023-11-26 | 13,783 | 54 |
+| 2023-11-26 | 13,784 | 54 |
 ## Awards
 Max (Great Boss Battles): 405  (Ranked 230)  
 Sum: 637 (Ranked 309)  
