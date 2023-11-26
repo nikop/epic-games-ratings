@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.76% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.75% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
@@ -122,7 +122,7 @@
 | 120 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.33% |
 | 121 | [Bloodshore](games/b/bloodshore.md) | 2.29% |
 | 122 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.28% |
-| 123 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.24% |
+| 123 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.23% |
 | 124 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.14% |
 | 125 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.08% |
 | 126 | [Night Book](games/n/night_book.md) | 2.04% |
@@ -176,7 +176,7 @@
 | 173 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
 | 175 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
 | 175 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
-| 177 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.85% |
+| 175 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.87% |
 | 178 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 178 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
 | 180 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.82% |
@@ -185,7 +185,7 @@
 | 183 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.71% |
 | 184 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 185 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
-| 186 | [Dead Space](games/d/dead_space.md) | 0.66% |
+| 186 | [Dead Space](games/d/dead_space.md) | 0.65% |
 | 187 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.64% |
 | 188 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.61% |
 | 189 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
@@ -213,17 +213,17 @@
 | 210 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.45% |
 | 212 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.44% |
 | 213 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
-| 213 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.43% |
 | 213 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 213 | [Tchia](games/t/tchia.md) | 0.43% |
-| 217 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.42% |
+| 216 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.42% |
+| 216 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.42% |
 | 218 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.40% |
 | 218 | [Wildermyth](games/w/wildermyth.md) | 0.40% |
 | 220 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.39% |
 | 220 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
-| 222 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 222 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
-| 222 | [Train Valley](games/t/train_valley.md) | 0.38% |
+| 220 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
+| 223 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 223 | [Train Valley](games/t/train_valley.md) | 0.38% |
 | 225 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 226 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.36% |
 | 227 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
