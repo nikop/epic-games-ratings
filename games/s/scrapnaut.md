@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 63.00% | ~301 |
-| Scrap Gatherer | 58.00% | ~277 |
-| Mushroom Picker | 57.00% | ~272 |
+| My New Home | 63.00% | ~302 |
+| Scrap Gatherer | 58.00% | ~278 |
+| Mushroom Picker | 57.00% | ~273 |
 | Scrapper | 47.00% | ~225 |
-| Cook | 45.00% | ~215 |
-| Teleport | 45.00% | ~215 |
+| Cook | 45.00% | ~216 |
+| Teleport | 45.00% | ~216 |
 | Scrap Master | 38.00% | ~182 |
 | Smelter | 36.00% | ~172 |
 | Digger | 33.00% | ~158 |
 | Electro-Scrap Gatherer | 33.00% | ~158 |
 | Survivor | 32.00% | ~153 |
-| Lumberjack | 30.00% | ~143 |
-| Robot Destroyer | 30.00% | ~143 |
+| Lumberjack | 30.00% | ~144 |
+| Robot Destroyer | 30.00% | ~144 |
 | Herbalist | 29.00% | ~139 |
-| Prepper | 26.00% | ~124 |
+| Prepper | 26.00% | ~125 |
 | Electro-Scrap Master | 24.00% | ~115 |
-| Robot Hunter | 21.00% | ~100 |
+| Robot Hunter | 21.00% | ~101 |
 | Advanced Survivalist | 19.00% | ~91 |
-| Master Of Technology | 16.00% | ~76 |
-| Treasure Hunter | 16.00% | ~76 |
+| Master Of Technology | 16.00% | ~77 |
+| Treasure Hunter | 16.00% | ~77 |
 | Mythical Smelter | 14.00% | ~67 |
-| Blacksmith | 12.00% | ~57 |
+| Blacksmith | 11.00% | ~53 |
 | Master Of Management | 11.00% | ~53 |
 | Forest Lord | 10.00% | ~48 |
 | Fuel | 10.00% | ~48 |
 | Smelting Master | 10.00% | ~48 |
-| Black Gold | 7.00% | ~33 |
+| Black Gold | 7.00% | ~34 |
 | Survival Master | 4.00% | ~19 |
 | Traveler | 3.00% | ~14 |
 | Forest Killer | 2.00% | ~10 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478 (Ranked 312)  
+Progressed: 479 (Ranked 312)  
 Completed: 1 (0.21%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 1 (0.21%) (Ranked 253)
 | 2023-11-21 | 471 | 1 |
 | 2023-11-24 | 473 | 1 |
 | 2023-11-25 | 478 | 1 |
+| 2023-11-26 | 479 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

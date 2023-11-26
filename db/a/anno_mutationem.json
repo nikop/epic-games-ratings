@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 729,
+  "EOS_Progressed": 730,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -757,6 +757,11 @@
       "Time": "2023-11-26T02:28:11.9454356+00:00",
       "NumProgressed": 729,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T03:04:44.7489995+00:00",
+      "NumProgressed": 730,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -814,9 +819,9 @@
       "ID": "Combine",
       "SetID": "gl7plp",
       "Name": "1\u002B1\u003E2",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 58
     },
     {
       "ID": "Deadly_Kombationem",
@@ -862,9 +867,9 @@
       "ID": "I_think_its_broke",
       "SetID": "gl7plp",
       "Name": "I think it\u0027s broke",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 182
     },
     {
       "ID": "In the smacker...I think",
@@ -936,7 +941,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -966,9 +971,9 @@
       "ID": "The_Ann_Flores_Combo_Experience",
       "SetID": "gl7plp",
       "Name": "The Ann Flores Combo Experience",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 182
     },
     {
       "ID": "The_Warlord",
@@ -984,7 +989,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "The_truth_is_out_there",
@@ -992,7 +997,7 @@
       "Name": "The truth is out there",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "This_cant_be_right",
@@ -1032,7 +1037,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "posters",
@@ -1055,7 +1060,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 729,
+      "Progressed": 730,
       "Completed": 0
     }
   ],
@@ -1063,8 +1068,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:28:11.9454354+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:04:44.7489992+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:22:39.5629169+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:28:11.9454545+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:59:04.0085953+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:04:44.7490255+00:00"
 }

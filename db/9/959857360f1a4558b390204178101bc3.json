@@ -2,9 +2,9 @@
   "ID": "959857360f1a4558b390204178101bc3",
   "Name": "Cave Digger 2",
   "ProductSlug": "cave-digger-2-4f2a94",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-14T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -74,6 +74,11 @@
       "Time": "2023-11-25T04:06:23.8465504+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T03:06:25.4068432+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-09T09:04:33.8853814+00:00",
@@ -84,7 +89,7 @@
       "ID": "b1run",
       "SetID": "80p8koc",
       "Name": "Cave Miner",
-      "Percentage": 56,
+      "Percentage": 50,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -92,7 +97,7 @@
       "ID": "b2run",
       "SetID": "80p8koc",
       "Name": "Salty Dog",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -148,9 +153,9 @@
       "ID": "dollar",
       "SetID": "80p8koc",
       "Name": "Scrooger",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "elevators",
@@ -244,7 +249,7 @@
       "ID": "safe1",
       "SetID": "80p8koc",
       "Name": "Riddle Me This",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -268,7 +273,7 @@
       "ID": "up",
       "SetID": "80p8koc",
       "Name": "Ending: Withering heights",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
       "UsersEstimate": 1
     }
@@ -277,14 +282,14 @@
     {
       "ID": "80p8koc",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-16T11:57:58.3391653+00:00",
   "FirstSeenAchievements": "2023-09-03T14:03:12.6851297+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:29:52.2740476+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:06:25.4068428+00:00",
   "LastUpdate_AppInfo": "2023-11-19T18:57:04.9711525+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:22:31.9460849+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:29:52.2740613+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:58:56.2470221+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:06:25.4068815+00:00"
 }

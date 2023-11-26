@@ -2,9 +2,9 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1196,
+  "EOS_Progressed": 1197,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2055,6 +2055,11 @@
       "Time": "2023-11-26T00:03:47.6029451+00:00",
       "NumProgressed": 1196,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T03:03:24.3368871+00:00",
+      "NumProgressed": 1197,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2115,7 +2120,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -2147,7 +2152,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2163,7 +2168,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -2243,7 +2248,7 @@
       "Name": "Long Live Rock",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -2267,7 +2272,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -2281,9 +2286,9 @@
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
       "SetID": "9991201",
       "Name": "All Your Secrets Are Belong to Us",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_TIME_LIMIT1WIN",
@@ -2306,14 +2311,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1196,
+      "Progressed": 1197,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:26:50.7480345+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:03:24.3368867+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.3423297+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:21:52.0499681+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:26:50.7480589+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:58:16.0656157+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:03:24.3369099+00:00"
 }

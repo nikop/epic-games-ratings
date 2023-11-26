@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~22,456 |
-| Safety in the Storm | 24.00% | ~5,673 |
-| A Better Idea | 24.00% | ~5,673 |
-| Begin the Ceremony | 20.00% | ~4,728 |
-| Mission Accomplished | 19.00% | ~4,491 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~3,546 |
-| Asset Secured | 13.00% | ~3,073 |
-| A Starfighter of Your Own | 13.00% | ~3,073 |
-| Unkillable | 8.00% | ~1,891 |
+| Fracture at Fostar Haven | 95.00% | ~22,462 |
+| Safety in the Storm | 24.00% | ~5,675 |
+| A Better Idea | 24.00% | ~5,675 |
+| Begin the Ceremony | 20.00% | ~4,729 |
+| Mission Accomplished | 19.00% | ~4,492 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~3,547 |
+| Asset Secured | 13.00% | ~3,074 |
+| A Starfighter of Your Own | 13.00% | ~3,074 |
+| Unkillable | 8.00% | ~1,892 |
 | Together, Vanguard | 7.00% | ~1,655 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,418 |
-| Sound Strategy | 6.00% | ~1,418 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,419 |
+| Sound Strategy | 6.00% | ~1,419 |
 | Flames Over Mon Cala | 5.00% | ~1,182 |
 | Stomped | 5.00% | ~1,182 |
 | A Promising Career | 5.00% | ~1,182 |
@@ -33,7 +33,7 @@
 | I Have You Now | 1.00% | ~236 |
 | Against the Current | 1.00% | ~236 |
 | Denied | 0.80% | ~189 |
-| Found Your Place | 0.70% | ~165 |
+| Found Your Place | 0.70% | ~166 |
 | Unstoppable Ace | 0.50% | ~118 |
 | Seasoned Star Pilot | 0.40% | ~95 |
 | The Trap is Set | 0.40% | ~95 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~24 |
 | The Galaxy's Finest (Ace) | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,638 (Ranked 130)  
+Progressed: 23,644 (Ranked 130)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-23 | 22,734 | 1 |
 | 2023-11-24 | 23,114 | 1 |
 | 2023-11-25 | 23,592 | 1 |
-| 2023-11-26 | 23,638 | 1 |
+| 2023-11-26 | 23,644 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

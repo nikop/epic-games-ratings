@@ -3,7 +3,7 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 862,
-  "Ranking_Popularity": 461,
+  "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 360,
@@ -815,18 +815,24 @@
       "Rating": 4.27,
       "NumberOfAwards": 112,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-11-26T02:58:16.4279065+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 112,
-  "NumberOfAwardsMax": 38,
+  "NumberOfAwards": 113,
+  "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has a Competitive Community",
@@ -847,7 +853,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3702,
+  "EOS_Progressed": 3703,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -6122,6 +6128,11 @@
       "Time": "2023-11-26T02:30:12.1884859+00:00",
       "NumProgressed": 3702,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T03:08:34.9754297+00:00",
+      "NumProgressed": 3703,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6142,7 +6153,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "achievement_11",
@@ -6150,7 +6161,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "achievement_12",
@@ -6166,7 +6177,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "achievement_14",
@@ -6182,7 +6193,7 @@
       "Name": "MVP",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "achievement_16",
@@ -6246,7 +6257,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_4",
@@ -6262,7 +6273,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_6",
@@ -6270,7 +6281,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_7",
@@ -6301,16 +6312,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3702,
+      "Progressed": 3703,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-11-23T01:49:22.1949292+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:30:12.1884857+00:00",
+  "LastChanged": "2023-11-26T02:58:16.4279063+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:08:34.9754292+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:21:52.4410156+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:30:12.1885137+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:58:16.4279069+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:08:34.9754653+00:00"
 }

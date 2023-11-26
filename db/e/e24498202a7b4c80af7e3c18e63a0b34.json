@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7011,
+  "EOS_Progressed": 7012,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6148,6 +6148,11 @@
       "Time": "2023-11-26T01:58:03.4302032+00:00",
       "NumProgressed": 7011,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-26T03:08:39.2522237+00:00",
+      "NumProgressed": 7012,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6176,7 +6181,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "achievement_01_04",
@@ -6184,7 +6189,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5188
+      "UsersEstimate": 5189
     },
     {
       "ID": "achievement_01_05",
@@ -6192,7 +6197,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3365
+      "UsersEstimate": 3366
     },
     {
       "ID": "achievement_01_06",
@@ -6216,7 +6221,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5188
+      "UsersEstimate": 5189
     },
     {
       "ID": "achievement_01_09",
@@ -6232,7 +6237,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "achievement_02_01",
@@ -6288,7 +6293,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "achievement_02_08",
@@ -6400,7 +6405,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3295
+      "UsersEstimate": 3296
     },
     {
       "ID": "achievement_04_03",
@@ -6448,7 +6453,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6029
+      "UsersEstimate": 6030
     },
     {
       "ID": "achievement_04_09",
@@ -6463,7 +6468,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7011,
+      "Progressed": 7012,
       "Completed": 40
     }
   ],
@@ -6471,8 +6476,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-18T21:58:48.6399645+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:30:16.4373219+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:08:39.2522234+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:06.7248226+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:22:03.6759572+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:30:16.437362+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:58:27.8058627+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:08:39.2522644+00:00"
 }

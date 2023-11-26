@@ -179,6 +179,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Six Nations | 0.10% | ~464 |
 | Sleepless in Seattle | 0.10% | ~464 |
 | Spain is the Emperor | 0.10% | ~464 |
+| Spanish Fly | 0.10% | ~464 |
 | Spice Girls | 0.10% | ~464 |
 | The Spice Must Flow | 0.10% | ~464 |
 | Strait Talk | 0.10% | ~464 |
@@ -333,7 +334,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sinaasappel! | 0.00% | ~0 |
 | Sons of Carthage | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
-| Spanish Fly | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
 | Stiff Upper Lippe | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,749 (Ranked 41)  
+Progressed: 463,760 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,10 +590,10 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-23 | 462,094 | 1 |
 | 2023-11-24 | 462,785 | 1 |
 | 2023-11-25 | 463,679 | 1 |
-| 2023-11-26 | 463,749 | 1 |
+| 2023-11-26 | 463,760 | 1 |
 ## Awards
 Max (Educational): 7,165  (Ranked 54)  
-Sum: 58,913 (Ranked 24)  
+Sum: 58,932 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -604,7 +604,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 6,745 |
 | This game is Relaxing | 6,579 |
 | This game has Competitive Players | 6,416 |
-| This game has Amazing Storytelling | 5,942 |
+| This game has Amazing Storytelling | 5,961 |
 | This game has Amazing Characters | 5,503 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -923,4 +923,4 @@ Diff (max vs sum): 30
 | 2023-11-23 | 4.69 | - | 7,128 | 58,694 |
 | 2023-11-24 | 4.69 | - | 7,144 | 58,780 |
 | 2023-11-25 | 4.69 | - | 7,165 | 58,897 |
-| 2023-11-26 | 4.69 | - | 7,165 | 58,913 |
+| 2023-11-26 | 4.69 | - | 7,165 | 58,932 |

@@ -2,12 +2,12 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 472,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-09-30T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.31,
+  "Rating": 4.3,
   "NumberOfRatings": 21107,
   "RatingHistory": [
     {
@@ -9893,6 +9893,12 @@
       "Rating": 4.31,
       "NumberOfAwards": 34759,
       "NumberOfAwardsMax": 5706
+    },
+    {
+      "Time": "2023-11-26T02:56:59.1713515+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 34759,
+      "NumberOfAwardsMax": 5706
     }
   ],
   "ReviewsDisabled": false,
@@ -9960,8 +9966,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-11-25T21:00:19.0079738+00:00",
+  "LastChanged": "2023-11-26T02:56:59.1713514+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:18.8011663+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:20:33.9894707+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:27:10.449761+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:56:59.1713521+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:03:43.6844777+00:00"
 }

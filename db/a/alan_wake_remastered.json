@@ -569,9 +569,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 95948,
+  "EOS_Progressed": 95949,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 1676,
+  "EOS_NewPlayers": 1671,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -23094,6 +23094,11 @@
       "Time": "2023-11-26T02:32:38.2316485+00:00",
       "NumProgressed": 95948,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-11-26T03:09:40.8863217+00:00",
+      "NumProgressed": 95949,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 67,
@@ -23113,7 +23118,7 @@
       "Name": "Nordic Walking",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 36460
+      "UsersEstimate": 36461
     },
     {
       "ID": "03",
@@ -23145,7 +23150,7 @@
       "Name": "Park Ranger",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 26865
+      "UsersEstimate": 26866
     },
     {
       "ID": "07",
@@ -23345,7 +23350,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 24946
+      "UsersEstimate": 24947
     },
     {
       "ID": "32",
@@ -23353,7 +23358,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 44136
+      "UsersEstimate": 44137
     },
     {
       "ID": "33",
@@ -23425,7 +23430,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 24946
+      "UsersEstimate": 24947
     },
     {
       "ID": "42",
@@ -23441,7 +23446,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 26865
+      "UsersEstimate": 26866
     },
     {
       "ID": "44",
@@ -23505,7 +23510,7 @@
       "Name": "A Friend in Need",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5347
+      "UsersEstimate": 5348
     },
     {
       "ID": "52",
@@ -23521,7 +23526,7 @@
       "Name": "Fast and Furious",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "54",
@@ -23561,7 +23566,7 @@
       "Name": "Cardboard Companions",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "59",
@@ -23640,21 +23645,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 95948,
+      "Progressed": 95949,
       "Completed": 103
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 59416,
+      "Progressed": 59417,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-11-23T00:00:36.1638519+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:32:38.2316484+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:09:40.8863213+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:20.1598049+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:23:53.5237633+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:32:38.2317789+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:02:37.3179004+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:09:40.886471+00:00"
 }

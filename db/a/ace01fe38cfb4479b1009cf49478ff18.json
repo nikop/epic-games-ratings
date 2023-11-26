@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-11-26T01:59:06.3284063+00:00",
       "NumProgressed": 140,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T03:09:17.2433094+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -647,7 +652,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -655,7 +660,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -726,14 +731,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:32:14.9689667+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:09:17.2433091+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.3392935+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:22:54.6074651+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:32:14.9689763+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:59:17.4382347+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:09:17.2433195+00:00"
 }

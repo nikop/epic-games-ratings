@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.01,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3005,6 +3005,11 @@
       "Time": "2023-11-26T01:53:30.4771335+00:00",
       "NumProgressed": 739,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-26T03:03:37.0046235+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 25,
@@ -3056,7 +3061,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3160,7 +3165,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3208,21 +3213,21 @@
       "Name": "One last step",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:27:03.6076577+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:03:37.0046231+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:23:18.9914649+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:27:03.6076918+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:59:41.6487076+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:03:37.0046486+00:00"
 }

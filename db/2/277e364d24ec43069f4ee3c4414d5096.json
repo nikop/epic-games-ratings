@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115148,
+  "EOS_Progressed": 115150,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19154,6 +19154,11 @@
       "Time": "2023-11-26T01:59:00.3910452+00:00",
       "NumProgressed": 115148,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-26T03:09:11.9142924+00:00",
+      "NumProgressed": 115150,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -19173,7 +19178,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88664
+      "UsersEstimate": 88666
     },
     {
       "ID": "EAwards_10",
@@ -19189,7 +19194,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29938
+      "UsersEstimate": 29939
     },
     {
       "ID": "EAwards_12",
@@ -19213,7 +19218,7 @@
       "Name": "6-Piece Combo",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "EAwards_15",
@@ -19229,7 +19234,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8060
+      "UsersEstimate": 8061
     },
     {
       "ID": "EAwards_17",
@@ -19237,7 +19242,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42605
+      "UsersEstimate": 42606
     },
     {
       "ID": "EAwards_18",
@@ -19245,7 +19250,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10363
+      "UsersEstimate": 10364
     },
     {
       "ID": "EAwards_19",
@@ -19261,7 +19266,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55271
+      "UsersEstimate": 55272
     },
     {
       "ID": "EAwards_20",
@@ -19277,7 +19282,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8060
+      "UsersEstimate": 8061
     },
     {
       "ID": "EAwards_22",
@@ -19301,7 +19306,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8060
+      "UsersEstimate": 8061
     },
     {
       "ID": "EAwards_25",
@@ -19373,7 +19378,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8060
+      "UsersEstimate": 8061
     },
     {
       "ID": "EAwards_33",
@@ -19397,7 +19402,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10363
+      "UsersEstimate": 10364
     },
     {
       "ID": "EAwards_36",
@@ -19437,7 +19442,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14969
+      "UsersEstimate": 14970
     },
     {
       "ID": "EAwards_40",
@@ -19525,7 +19530,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10363
+      "UsersEstimate": 10364
     },
     {
       "ID": "EAwards_7",
@@ -19556,7 +19561,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115148,
+      "Progressed": 115150,
       "Completed": 50
     }
   ],
@@ -19564,8 +19569,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:32:09.6862724+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:09:11.9142921+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.5110707+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:22:25.1014969+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:32:09.6863647+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:58:50.0626449+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:09:11.914398+00:00"
 }

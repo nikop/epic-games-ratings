@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -865,6 +865,11 @@
       "Time": "2023-11-26T01:59:27.996154+00:00",
       "NumProgressed": 221,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-26T03:09:37.7267331+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -892,7 +897,7 @@
       "Name": "Powerful Allies",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_04",
@@ -932,7 +937,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_09",
@@ -1052,7 +1057,7 @@
       "Name": "Geared Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_24",
@@ -1068,7 +1073,7 @@
       "Name": "Fashion Victim",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_26",
@@ -1116,7 +1121,7 @@
       "Name": "Stone Collection",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_33",
@@ -1132,7 +1137,7 @@
       "Name": "The Collector",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_35",
@@ -1163,14 +1168,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:32:34.9910011+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:09:37.7267329+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:22:02.9201034+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:32:34.9910452+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:58:27.0690572+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:09:37.7267588+00:00"
 }

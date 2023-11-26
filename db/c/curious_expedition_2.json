@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 341,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -330,6 +330,11 @@
       "Time": "2023-11-22T02:34:54.4455514+00:00",
       "NumProgressed": 340,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T03:09:41.3936638+00:00",
+      "NumProgressed": 341,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -395,9 +400,9 @@
       "ID": "ach-ascension-die",
       "SetID": "17ih7ma",
       "Name": "The Director is Dead",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -493,7 +498,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach-cartography-complete",
@@ -517,15 +522,15 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ach-discover-locations-high",
       "SetID": "17ih7ma",
       "Name": "Discovery",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "ach-drinkingContest",
@@ -533,7 +538,7 @@
       "Name": "Under the Table",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach-environmentKill",
@@ -565,7 +570,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ach-hardExpeditions",
@@ -589,7 +594,7 @@
       "Name": "For the Club!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach-keepHighStanding",
@@ -661,7 +666,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach-meetGhost",
@@ -709,7 +714,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach-portal-return",
@@ -741,7 +746,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach-rideDinosaur",
@@ -749,7 +754,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach-rob-shrines",
@@ -813,14 +818,14 @@
       "Name": "Dapper",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 341,
       "Completed": 1
     }
   ],
@@ -828,8 +833,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:32:38.5182483+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:09:41.3936633+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:13.1596211+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:21:08.2474126+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:32:38.5182838+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:57:32.3015256+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:09:41.3937012+00:00"
 }

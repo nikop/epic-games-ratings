@@ -4,7 +4,7 @@
   "ProductSlug": "dread-templar-d8e8fa",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 472,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-28T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.995399+00:00",
   "LastChanged": "2023-03-31T05:57:45.9953991+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:28.4872037+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:23:12.5951914+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:28:21.5927708+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:59:35.0120135+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:04:54.4550205+00:00"
 }

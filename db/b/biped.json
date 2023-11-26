@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7105,
+  "EOS_Progressed": 7106,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -13069,6 +13069,11 @@
       "Time": "2023-11-26T02:27:15.0005889+00:00",
       "NumProgressed": 7105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T03:03:48.4505212+00:00",
+      "NumProgressed": 7106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -13096,7 +13101,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "12",
@@ -13136,7 +13141,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "3",
@@ -13199,7 +13204,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7105,
+      "Progressed": 7106,
       "Completed": 0
     }
   ],
@@ -13207,8 +13212,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:27:15.0005885+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:03:48.4505208+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:07.0754942+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:21:25.2516828+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:27:15.0006501+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:57:49.2882068+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:03:48.4505915+00:00"
 }

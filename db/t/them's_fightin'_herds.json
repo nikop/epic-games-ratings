@@ -307,9 +307,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232749,
+  "EOS_Progressed": 232751,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22632,6 +22632,11 @@
       "Time": "2023-11-26T02:29:51.789475+00:00",
       "NumProgressed": 232749,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-26T03:06:24.7995151+00:00",
+      "NumProgressed": 232751,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -22779,7 +22784,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -22811,7 +22816,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6982
+      "UsersEstimate": 6983
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -22827,7 +22832,7 @@
       "Name": "Sin\u0027er Man",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "UNLOCK_ALL_TROPHIES",
@@ -22851,7 +22856,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39567
+      "UsersEstimate": 39568
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -22859,14 +22864,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232749,
+      "Progressed": 232751,
       "Completed": 5
     }
   ],
@@ -22874,8 +22879,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-22T11:00:30.8027045+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:29:51.7894746+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:06:24.7995148+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.2076606+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:21:17.6634038+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:29:51.7895933+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:57:41.7542683+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:06:24.7996249+00:00"
 }

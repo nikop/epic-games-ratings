@@ -2699,9 +2699,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 187
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -2904,8 +2904,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:30:18.56325+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:08:41.3036689+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:22:06.6330447+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:30:18.5632912+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:58:30.8092343+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:08:41.3037306+00:00"
 }

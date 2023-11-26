@@ -4761,7 +4761,7 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 228227,
+  "EOS_Progressed": 228241,
   "EOS_Completed": 528,
   "EOS_NewPlayers": 4804,
   "EOS_NewCompleters": 53,
@@ -19931,6 +19931,11 @@
       "Time": "2023-11-26T02:31:49.7073796+00:00",
       "NumProgressed": 228227,
       "NumCompleted": 528
+    },
+    {
+      "Time": "2023-11-26T03:08:51.723078+00:00",
+      "NumProgressed": 228241,
+      "NumCompleted": 528
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19965,9 +19970,9 @@
       "ID": "Defeat_Abberations_B",
       "SetID": "bkp3b1a",
       "Name": "Ghost in the Machine",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -20382,13 +20387,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 228227,
+      "Progressed": 228241,
       "Completed": 528
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 7392,
+      "Progressed": 7406,
       "Completed": 158
     }
   ],
@@ -20396,8 +20401,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-25T23:02:59.6345374+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:31:49.7073793+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:08:51.7230776+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:26:29.7325248+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:31:49.7074818+00:00"
+  "LastUpdate_Ratings": "2023-11-26T03:03:01.8614959+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:08:51.7231799+00:00"
 }

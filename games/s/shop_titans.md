@@ -106,9 +106,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.80% | ~1,137 |
 | The Free Encyclopedia | 0.70% | ~995 |
 | All or Nothing! | 0.60% | ~853 |
-| Anything not Nailed Down | 0.50% | ~710 |
-| The Greatest Grind | 0.50% | ~710 |
-| Marvels from the World Over | 0.50% | ~710 |
+| Anything not Nailed Down | 0.50% | ~711 |
+| The Greatest Grind | 0.50% | ~711 |
+| Marvels from the World Over | 0.50% | ~711 |
 | Bane of Legends | 0.40% | ~568 |
 | Ultimate Collector | 0.40% | ~568 |
 | Unleashed Potential | 0.40% | ~568 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.20% | ~284 |
 | To Hell and Back | 0.20% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,097 (Ranked 80)  
+Progressed: 142,105 (Ranked 80)  
 Completed: 267 (0.19%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 267 (0.19%) (Ranked 260)
 | 2023-11-23 | 141,258 | 196 |
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
-| 2023-11-26 | 142,097 | 267 |
+| 2023-11-26 | 142,105 | 267 |
 ## Awards
 Max (Great for Beginners): 4,844  (Ranked 75)  
 Sum: 27,598 (Ranked 50)  

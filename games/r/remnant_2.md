@@ -12,6 +12,7 @@ Rating: 4.75 (Ranked 148)
 | Not Your Average Trait | 0.30% | ~685 |
 | Expanding Horizons | 0.20% | ~456 |
 | Am I Seeing This? | 0.20% | ~456 |
+| Ghost in the Machine | 0.20% | ~456 |
 | Gleaming the Cube | 0.20% | ~456 |
 | Not So Special Now | 0.20% | ~456 |
 | Quest for Survival | 0.20% | ~456 |
@@ -27,7 +28,6 @@ Rating: 4.75 (Ranked 148)
 | Good, But Could Be Better! | 0.20% | ~456 |
 | Trait Chaser | 0.20% | ~456 |
 | Crafty | 0.10% | ~228 |
-| Ghost in the Machine | 0.10% | ~228 |
 | Only Human | 0.10% | ~228 |
 | Chaos | 0.10% | ~228 |
 | Traitor | 0.10% | ~228 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~7 |
 | You Shall Pass | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,227 (Ranked 68)  
+Progressed: 228,241 (Ranked 68)  
 Completed: 528 (0.23%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 528 (0.23%) (Ranked 248)
 | 2023-11-23 | 226,595 | 509 |
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
-| 2023-11-26 | 228,227 | 528 |
+| 2023-11-26 | 228,241 | 528 |
 ## Awards
 Max (Great Boss Battles): 2,436  (Ranked 105)  
 Sum: 5,922 (Ranked 129)  

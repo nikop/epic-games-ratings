@@ -1389,9 +1389,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239641,
+  "EOS_Progressed": 239647,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1538,
+  "EOS_NewPlayers": 1541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19954,6 +19954,11 @@
       "Time": "2023-11-26T02:31:58.1140938+00:00",
       "NumProgressed": 239641,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-26T03:09:00.408407+00:00",
+      "NumProgressed": 239647,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20013,7 +20018,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14378
+      "UsersEstimate": 14379
     },
     {
       "ID": "Chapter2",
@@ -20365,7 +20370,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19171
+      "UsersEstimate": 19172
     },
     {
       "ID": "DwarfElf15Support",
@@ -20413,7 +20418,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83874
+      "UsersEstimate": 83876
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20501,7 +20506,7 @@
       "Name": "We come in peace",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "MinistrelEpic",
@@ -20668,21 +20673,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 239641,
+      "Progressed": 239647,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 239641,
+      "Progressed": 239647,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-23T22:59:47.2360206+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:31:58.1140937+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:09:00.4084066+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:20:50.229243+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:31:58.1142308+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:57:14.8860936+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:09:00.4085424+00:00"
 }

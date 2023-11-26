@@ -15,9 +15,9 @@
 | Highly Qualified | 10.00% | ~16 |
 | No Room for Improvement | 9.00% | ~14 |
 | Nerd | 7.00% | ~11 |
+| Playing God | 7.00% | ~11 |
 | First and Foremost | 6.00% | ~10 |
 | Upgradeaholic | 6.00% | ~10 |
-| Playing God | 6.00% | ~10 |
 | Made Mother Proud | 5.00% | ~8 |
 | Winner Winner Chicken Dinner | 5.00% | ~8 |
 | Tailor-Made | 5.00% | ~8 |

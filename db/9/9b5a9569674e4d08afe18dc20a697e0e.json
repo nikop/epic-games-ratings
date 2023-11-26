@@ -510,9 +510,9 @@
       "ID": "MERCENARY",
       "SetID": "40o4f14",
       "Name": "Mercenary",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MINES",
@@ -566,9 +566,9 @@
       "ID": "SAVIOR",
       "SetID": "40o4f14",
       "Name": "Savior of the people",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SKILLED",
@@ -629,8 +629,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:27:23.9485762+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:03:57.3225695+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:23:32.376347+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:27:23.9485955+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:59:55.5158683+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:03:57.322589+00:00"
 }

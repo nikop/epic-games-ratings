@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 472,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1108,9 +1108,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "gagif7",
       "Name": "Playing God",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -1123,8 +1123,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:30:09.2070093+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:08:32.0119596+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:14.9093422+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:23:04.7041032+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:30:09.2070372+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:59:27.4991184+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:08:32.0119879+00:00"
 }

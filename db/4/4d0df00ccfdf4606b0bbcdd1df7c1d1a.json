@@ -4,7 +4,7 @@
   "ProductSlug": "my-friendly-neighborhood-339aed",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 472,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2099-10-19T18:30:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-23T20:57:06.1573394+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:21:44.2701834+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:27:59.4597223+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:58:08.2798647+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:04:32.3476605+00:00"
 }

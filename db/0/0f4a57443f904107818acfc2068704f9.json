@@ -2,9 +2,9 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1222,6 +1222,11 @@
       "Time": "2023-11-26T01:55:56.1782462+00:00",
       "NumProgressed": 615,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T03:05:48.0886002+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1290,7 +1295,7 @@
       "Name": "Pathfinder",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "CompleteChapter10",
@@ -1376,9 +1381,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 345
     },
     {
       "ID": "CompleteChapter3",
@@ -1410,7 +1415,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CompleteChapter7",
@@ -1480,9 +1485,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 216
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1529,14 +1534,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-26T02:29:15.767439+00:00",
+  "LastChanged_Achievements": "2023-11-26T03:05:48.0885999+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-26T02:22:29.4949756+00:00",
-  "LastUpdate_Achievements": "2023-11-26T02:29:15.7674588+00:00"
+  "LastUpdate_Ratings": "2023-11-26T02:58:53.8842509+00:00",
+  "LastUpdate_Achievements": "2023-11-26T03:05:48.0886321+00:00"
 }

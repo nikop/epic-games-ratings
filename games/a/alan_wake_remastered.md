@@ -8,14 +8,14 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 58.00% | ~55,650 |
 | Let There Be Light | 49.00% | ~47,015 |
-| Float Like a Butterfly | 46.00% | ~44,136 |
-| Nordic Walking | 38.00% | ~36,460 |
+| Float Like a Butterfly | 46.00% | ~44,137 |
+| Nordic Walking | 38.00% | ~36,461 |
 | Bright Falls' Finest | 37.00% | ~35,501 |
 | Under a Thin Layer of Skin | 33.00% | ~31,663 |
-| Park Ranger | 28.00% | ~26,865 |
-| Paging Mr. Wake | 28.00% | ~26,865 |
-| Back! Back, I Say! | 26.00% | ~24,946 |
-| Finders Keepers | 26.00% | ~24,946 |
+| Park Ranger | 28.00% | ~26,866 |
+| Paging Mr. Wake | 28.00% | ~26,866 |
+| Back! Back, I Say! | 26.00% | ~24,947 |
+| Finders Keepers | 26.00% | ~24,947 |
 | Sound and Fury | 24.00% | ~23,028 |
 | Missed by a Mile | 24.00% | ~23,028 |
 | Damn Good Cup of Coffee | 24.00% | ~23,028 |
@@ -39,7 +39,7 @@ Number of Ratings: 524  (23.09.2022)
 | Departure | 12.00% | ~11,514 |
 | Hardboiled Writer | 10.00% | ~9,595 |
 | Drink 'Em Both Up | 9.00% | ~8,635 |
-| A Friend in Need | 9.00% | ~5,347 |
+| A Friend in Need | 9.00% | ~5,348 |
 | Children of the Elder God | 8.00% | ~7,676 |
 | Boob Tube | 7.00% | ~6,716 |
 | If It Flies, It Burns | 7.00% | ~6,716 |
@@ -57,8 +57,8 @@ Number of Ratings: 524  (23.09.2022)
 | Go Gentle Into That Good Light | 1.00% | ~594 |
 | Words Will Never Harm You | 0.70% | ~416 |
 | Meet the Deadline | 0.60% | ~576 |
-| Fast and Furious | 0.60% | ~356 |
-| Cardboard Companions | 0.60% | ~356 |
+| Fast and Furious | 0.60% | ~357 |
+| Cardboard Companions | 0.60% | ~357 |
 | Alan, Wake Up | 0.50% | ~480 |
 | Picking Up After Yourself | 0.50% | ~480 |
 | License Revoked | 0.50% | ~297 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~119 |
 | Licensed Properties | 0.20% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,948 (Ranked 90)  
+Progressed: 95,949 (Ranked 90)  
 Completed: 103 (0.11%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 103 (0.11%) (Ranked 278)
 | 2023-11-23 | 95,401 | 98 |
 | 2023-11-24 | 95,651 | 98 |
 | 2023-11-25 | 95,917 | 103 |
-| 2023-11-26 | 95,948 | 103 |
+| 2023-11-26 | 95,949 | 103 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

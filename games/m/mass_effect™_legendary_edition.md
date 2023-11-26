@@ -58,6 +58,7 @@
 | Catharsis | 30.00% | ~423 |
 | Fade Away | 30.00% | ~423 |
 | Big Game Hunter | 30.00% | ~423 |
+| Revenge! | 30.00% | ~423 |
 | Heart of Darkness | 30.00% | ~423 |
 | Bringer of War | 30.00% | ~423 |
 | Focused | 29.00% | ~409 |
@@ -65,7 +66,6 @@
 | Cat's in the Cradle | 29.00% | ~409 |
 | Treason | 29.00% | ~409 |
 | Agent | 29.00% | ~409 |
-| Revenge! | 29.00% | ~409 |
 | Digital Exorcist | 29.00% | ~409 |
 | Friend or Foe | 28.00% | ~395 |
 | Doppelganger | 28.00% | ~395 |
