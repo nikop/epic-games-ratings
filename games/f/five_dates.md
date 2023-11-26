@@ -15,7 +15,7 @@
 | In Contempt of Duvet | 26.00% | ~176 |
 | Planting the Seed | 21.00% | ~142 |
 | Light Sleepers | 15.00% | ~102 |
-| Smooth Criminal | 8.00% | ~54 |
+| Smooth Criminal | 9.00% | ~61 |
 | Sore Loser | 8.00% | ~54 |
 | Interrogation | 5.00% | ~34 |
 | Crash and Burn | 3.00% | ~20 |

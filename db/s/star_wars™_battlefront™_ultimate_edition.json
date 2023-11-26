@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1433,
+  "EOS_Progressed": 1435,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4254,6 +4254,11 @@
       "Time": "2023-11-26T16:09:21.8653155+00:00",
       "NumProgressed": 1433,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T17:09:34.6534023+00:00",
+      "NumProgressed": 1435,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4362,7 +4367,7 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_21",
@@ -4490,7 +4495,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1277
     },
     {
       "ID": "achievement_36",
@@ -4506,7 +4511,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "achievement_38",
@@ -4514,7 +4519,7 @@
       "Name": "Survivor",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_39",
@@ -4530,7 +4535,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_40",
@@ -4538,7 +4543,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 718
     },
     {
       "ID": "achievement_41",
@@ -4570,7 +4575,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "achievement_45",
@@ -4769,13 +4774,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1433,
+      "Progressed": 1435,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1433,
+      "Progressed": 1435,
       "Completed": 1
     }
   ],
@@ -4783,8 +4788,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:09:21.8653151+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:09:34.6534019+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:59:39.3710567+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:09:21.865375+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:59:24.5485728+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:09:34.653475+00:00"
 }

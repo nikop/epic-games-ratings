@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -7721,9 +7721,9 @@
       "ID": "ACH_TOILET_BUSTER",
       "SetID": "5nj1ea3",
       "Name": "Unplugged",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_TRADER",
@@ -7754,8 +7754,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-11-17T19:00:10.4063992+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:05:28.1508872+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:05:33.3280235+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:27.9722219+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:00:15.6886358+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:05:28.1509487+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:00:03.0093091+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:05:33.328092+00:00"
 }

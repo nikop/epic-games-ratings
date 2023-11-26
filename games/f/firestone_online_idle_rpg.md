@@ -1,32 +1,32 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 981)  
+Rating: 4.06 (Ranked 980)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,529 |
-| World Map | 78.00% | ~2,121 |
-| Temple of Eternals | 57.00% | ~1,550 |
-| Prestigious | 53.00% | ~1,441 |
-| Fellowship Power | 42.00% | ~1,142 |
+| Victor | 93.00% | ~2,531 |
+| World Map | 78.00% | ~2,123 |
+| Temple of Eternals | 57.00% | ~1,552 |
+| Prestigious | 53.00% | ~1,443 |
+| Fellowship Power | 42.00% | ~1,143 |
 | Guild Power | 24.00% | ~653 |
-| Prestigious x10 | 21.00% | ~571 |
+| Prestigious x10 | 21.00% | ~572 |
 | The game is on | 19.00% | ~517 |
-| Exotic Merchant | 17.00% | ~462 |
-| Dragon Clicker | 16.00% | ~435 |
-| Miner Clicker | 16.00% | ~435 |
+| Exotic Merchant | 17.00% | ~463 |
+| Dragon Clicker | 16.00% | ~436 |
+| Miner Clicker | 16.00% | ~436 |
 | Full Party | 15.00% | ~408 |
 | Inspection | 15.00% | ~408 |
 | Dragon Master | 14.00% | ~381 |
 | Enlightenment | 14.00% | ~381 |
 | Hero inspection | 14.00% | ~381 |
-| Lieutenant | 13.00% | ~353 |
-| Milestone collector | 12.00% | ~326 |
-| Mysterious Rock | 12.00% | ~326 |
-| Natural Talent | 12.00% | ~326 |
-| Superior | 12.00% | ~326 |
-| The Unstoppable | 12.00% | ~326 |
+| Lieutenant | 13.00% | ~354 |
+| Milestone collector | 12.00% | ~327 |
+| Mysterious Rock | 12.00% | ~327 |
+| Natural Talent | 12.00% | ~327 |
+| Superior | 12.00% | ~327 |
+| The Unstoppable | 12.00% | ~327 |
 | Scientist | 11.00% | ~299 |
 | Daily Quest Completionist | 10.00% | ~272 |
 | Doing My Part | 10.00% | ~272 |
@@ -43,13 +43,13 @@ Rating: 4.06 (Ranked 981)
 | Master Enchanter | 8.00% | ~218 |
 | The father of Dragons | 8.00% | ~218 |
 | Trader | 8.00% | ~218 |
-| Blueprint Upgrades | 7.00% | ~190 |
-| Crystal Mining | 7.00% | ~190 |
-| Dragon Slayer | 7.00% | ~190 |
-| Enchanting skill | 7.00% | ~190 |
-| Engineer Mastery | 7.00% | ~190 |
-| The Expeditioner | 7.00% | ~190 |
-| Weekly Quest Completionist | 7.00% | ~190 |
+| Blueprint Upgrades | 7.00% | ~191 |
+| Crystal Mining | 7.00% | ~191 |
+| Dragon Slayer | 7.00% | ~191 |
+| Enchanting skill | 7.00% | ~191 |
+| Engineer Mastery | 7.00% | ~191 |
+| The Expeditioner | 7.00% | ~191 |
+| Weekly Quest Completionist | 7.00% | ~191 |
 | How Do You Turn This On? | 6.00% | ~163 |
 | Lock And Load | 6.00% | ~163 |
 | Missions Dedication | 6.00% | ~163 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 981)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,719 (Ranked 213)  
+Progressed: 2,722 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 2 (0.07%) (Ranked 300)
 | 2023-11-23 | 2,599 | 2 |
 | 2023-11-24 | 2,644 | 2 |
 | 2023-11-25 | 2,687 | 2 |
-| 2023-11-26 | 2,719 | 2 |
+| 2023-11-26 | 2,722 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
 Sum: 110 (Ranked 443)  

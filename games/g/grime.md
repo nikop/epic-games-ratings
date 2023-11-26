@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 431)  
+Rating: 4.59 (Ranked 430)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,7 +27,7 @@ Number of Ratings: 46  (23.09.2022)
 | Assimilation | 0.90% | ~1,442 |
 | Host | 0.90% | ~1,438 |
 | Celebration | 0.90% | ~1,442 |
-| Hunt Down | 0.70% | ~1,122 |
+| Hunt Down | 0.80% | ~1,282 |
 | Artisan | 0.70% | ~1,122 |
 | Inevitable | 0.70% | ~1,122 |
 | All-Seeing | 0.70% | ~1,122 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~160 |
 | Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,228 (Ranked 78)  
+Progressed: 160,237 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 1 (0.00%) (Ranked 360)
 | 2023-11-23 | 159,730 | 1 |
 | 2023-11-24 | 159,888 | 1 |
 | 2023-11-25 | 160,117 | 1 |
-| 2023-11-26 | 160,228 | 1 |
+| 2023-11-26 | 160,237 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 423)  
 Sum: 387 (Ranked 345)  

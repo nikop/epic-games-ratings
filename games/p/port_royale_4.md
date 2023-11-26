@@ -43,9 +43,9 @@ Number of Ratings: 53  (23.09.2022)
 | Overpopulation | 4.00% | ~42 |
 | Premier Maître | 3.00% | ~32 |
 | Supreme conqueror | 3.00% | ~32 |
+| Master & Commander | 3.00% | ~32 |
 | Strategist | 2.00% | ~21 |
 | The customer is always right | 2.00% | ~21 |
-| Master & Commander | 2.00% | ~21 |
 | All aboard! | 2.00% | ~21 |
 | Gold fever | 2.00% | ~21 |
 | Fill it up, please! | 2.00% | ~21 |

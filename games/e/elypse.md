@@ -29,8 +29,8 @@
 | "Ah sh*t... Here we go again!" | 24.00% | ~24 |
 | Magnitude 5 | 24.00% | ~24 |
 | Compulsive hoarder | 23.00% | ~23 |
-| GG EZ | 16.00% | ~16 |
-| Comeback | 16.00% | ~16 |
+| GG EZ | 17.00% | ~17 |
+| Comeback | 17.00% | ~17 |
 | MayDay! MayDay! | 12.00% | ~12 |
 | Gooooooaaaaal!!! | 9.00% | ~9 |
 | Sadistic | 2.00% | ~2 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 432)  
+Progressed: 101 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16678,
+  "EOS_Progressed": 16679,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14918,6 +14918,11 @@
       "Time": "2023-11-26T13:06:27.9955046+00:00",
       "NumProgressed": 16678,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-26T17:03:14.5321775+00:00",
+      "NumProgressed": 16679,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15033,7 +15038,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "tpote_achievement_22",
@@ -15193,7 +15198,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "tpote_achievement_40",
@@ -15233,7 +15238,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "tpote_achievement_8",
@@ -15241,7 +15246,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "tpote_achievement_9",
@@ -15256,15 +15261,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16678,
+      "Progressed": 16679,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:03:07.8943116+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:03:14.5321773+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:57:57.0383744+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:03:07.8943942+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:57:47.0964549+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:03:14.5323044+00:00"
 }

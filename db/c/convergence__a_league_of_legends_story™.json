@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 936,
+  "EOS_Progressed": 937,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2499,6 +2499,11 @@
       "Time": "2023-11-25T23:08:31.6895067+00:00",
       "NumProgressed": 936,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-26T17:08:57.9093986+00:00",
+      "NumProgressed": 937,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2542,7 +2547,7 @@
       "Name": "Right On Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2612,9 +2617,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 84
     },
     {
       "ID": "FairgroundsChests1",
@@ -2646,7 +2651,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "GadgetCompletion1",
@@ -2662,7 +2667,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "GrindingTime1",
@@ -2670,7 +2675,7 @@
       "Name": "Rail Rat",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "HexlockGift",
@@ -2694,15 +2699,15 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 206
     },
     {
       "ID": "MapCompletion1",
@@ -2710,7 +2715,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "NoCritterSump",
@@ -2886,7 +2891,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "WarwickDefeated",
@@ -2926,14 +2931,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 936,
+      "Progressed": 937,
       "Completed": 6
     }
   ],
@@ -2941,8 +2946,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:08:44.5174407+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:08:57.909398+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:57:58.4760088+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:08:44.5174825+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:57:48.8518436+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:08:57.9094422+00:00"
 }

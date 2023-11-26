@@ -1,7 +1,7 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.35 (Ranked 792)  
+Rating: 4.35 (Ranked 790)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,8 +25,8 @@ Rating: 4.35 (Ranked 792)
 | Let Us Cling Together | 2.00% | ~23 |
 | A Promised Voyage | 2.00% | ~23 |
 | Life or Death | 1.00% | ~11 |
+| Someone to Protect | 1.00% | ~11 |
 | First Bloom | 1.00% | ~11 |
-| Someone to Protect | 0.90% | ~10 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,137 (Ranked 256)  

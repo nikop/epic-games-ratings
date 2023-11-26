@@ -2,13 +2,13 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 186,
+  "Ranking_Rating": 185,
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1109,9 +1109,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 8346,
+  "EOS_Progressed": 8348,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5569,6 +5569,11 @@
       "Time": "2023-11-26T16:03:32.2160879+00:00",
       "NumProgressed": 8346,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-11-26T17:03:38.9604303+00:00",
+      "NumProgressed": 8348,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 24,
@@ -5580,7 +5585,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "Chatterbox",
@@ -5604,7 +5609,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5258
+      "UsersEstimate": 5259
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5628,7 +5633,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3422
+      "UsersEstimate": 3423
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -5660,7 +5665,7 @@
       "Name": "Go Home...",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "HeroSlayer",
@@ -5692,7 +5697,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "RookieWelcome",
@@ -5700,7 +5705,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "SavedElderEnt",
@@ -5708,7 +5713,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5258
+      "UsersEstimate": 5259
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5716,7 +5721,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "SkeletonKing",
@@ -5732,7 +5737,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "TheLegendBegins",
@@ -5740,7 +5745,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7762
+      "UsersEstimate": 7764
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5748,7 +5753,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5764,22 +5769,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7011
+      "UsersEstimate": 7012
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8346,
+      "Progressed": 8348,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-26T12:59:49.3160073+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:03:32.2160877+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:03:38.96043+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.1005476+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:57:10.5755219+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:03:32.2161235+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:57:00.9640657+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:03:38.9604656+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -3155,9 +3155,9 @@
       "ID": "ACH040",
       "SetID": "69nfp41",
       "Name": "Master \u0026 Commander",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH041",
@@ -3243,8 +3243,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:05:13.4970958+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:05:18.7360524+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.5697484+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:00:10.0238333+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:05:13.4971338+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:59:57.3993643+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:05:18.7360987+00:00"
 }

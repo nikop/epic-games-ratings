@@ -6,18 +6,18 @@ Rating: 4.45 (Ranked 664)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,811 |
-| Confirming Suspicions | 41.00% | ~1,614 |
-| The Kraken Wakes | 37.00% | ~1,456 |
-| It's Starting to Crack | 34.00% | ~1,338 |
-| Change the Channel | 31.00% | ~1,220 |
+| Confirming Suspicions | 41.00% | ~1,615 |
+| The Kraken Wakes | 37.00% | ~1,457 |
+| It's Starting to Crack | 34.00% | ~1,339 |
+| Change the Channel | 31.00% | ~1,221 |
 | Lord of War | 30.00% | ~1,181 |
-| Taking it back | 29.00% | ~1,141 |
+| Taking it back | 29.00% | ~1,142 |
 | Resourceful | 27.00% | ~1,063 |
 | Target America | 27.00% | ~1,063 |
 | The Kraken Sleeps | 25.00% | ~984 |
-| Liberté | 23.00% | ~905 |
-| Organ Grinder | 23.00% | ~905 |
-| As Quiet as a Mouse | 23.00% | ~905 |
+| Liberté | 23.00% | ~906 |
+| Organ Grinder | 23.00% | ~906 |
+| As Quiet as a Mouse | 23.00% | ~906 |
 | Sharpshooter | 22.00% | ~866 |
 | Gunslinger | 19.00% | ~748 |
 | Explosive Efficiency | 19.00% | ~748 |
@@ -26,9 +26,9 @@ Rating: 4.45 (Ranked 664)
 | Climbing the Ladder | 16.00% | ~630 |
 | Close Quarters | 16.00% | ~630 |
 | Snake in the Grass | 16.00% | ~630 |
-| Skirmisher | 15.00% | ~590 |
-| Die Nussknacker Sweet! | 15.00% | ~590 |
-| Brains of the Operation | 15.00% | ~590 |
+| Skirmisher | 15.00% | ~591 |
+| Die Nussknacker Sweet! | 15.00% | ~591 |
+| Brains of the Operation | 15.00% | ~591 |
 | No Stone Unturned | 14.00% | ~551 |
 | Opposing Force | 14.00% | ~551 |
 | Fields of Glory | 14.00% | ~551 |
@@ -47,8 +47,8 @@ Rating: 4.45 (Ranked 664)
 | Last Resort | 5.00% | ~194 |
 | Siegebreaker | 5.00% | ~194 |
 | Ghost of Falaise | 5.00% | ~194 |
-| Strategist | 4.00% | ~157 |
-| Locomotion Commotion | 4.00% | ~157 |
+| Strategist | 4.00% | ~158 |
+| Locomotion Commotion | 4.00% | ~158 |
 | From Paris with Love | 3.00% | ~118 |
 | Burn after reading | 3.00% | ~118 |
 | Souvenir hunter | 3.00% | ~118 |
@@ -71,13 +71,13 @@ Rating: 4.45 (Ranked 664)
 | Das Familienjuwel | 1.00% | ~39 |
 | Master of Secondaries | 0.90% | ~35 |
 | Master of Rifles | 0.90% | ~35 |
-| Master of Pistols | 0.80% | ~31 |
+| Master of Pistols | 0.80% | ~32 |
 | Operation Overlord | 0.80% | ~31 |
 | Master-at-arms | 0.70% | ~28 |
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,936 (Ranked 197)  
+Progressed: 3,938 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-11-23 | 3,911 | 11 |
 | 2023-11-24 | 3,920 | 11 |
 | 2023-11-25 | 3,929 | 11 |
-| 2023-11-26 | 3,936 | 11 |
+| 2023-11-26 | 3,938 | 11 |
 ## Awards
 Max (Great for Beginners): 26  (Ranked 515)  
 Sum: 26 (Ranked 526)  

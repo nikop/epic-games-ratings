@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1548,9 +1548,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -1636,9 +1636,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -1731,8 +1731,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:05:30.5963453+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:05:35.9992345+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:19.4276968+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:57:33.4165347+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:05:30.5963669+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:57:22.6984942+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:05:35.9992567+00:00"
 }

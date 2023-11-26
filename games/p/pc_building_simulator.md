@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,756,311 |
-| Easy to forget | 46.00% | ~1,648,782 |
-| Back in the black | 39.00% | ~1,397,881 |
-| That's what I'm talking about | 29.00% | ~1,039,450 |
-| The Best of Both Worlds | 25.00% | ~896,077 |
-| Get your wings | 20.00% | ~716,862 |
-| Double trouble | 16.00% | ~573,489 |
-| Smashing it | 11.00% | ~394,274 |
-| But can it run Crysis? | 9.00% | ~322,588 |
-| My favourite feature... | 9.00% | ~322,588 |
-| From humble beginnings... | 7.00% | ~250,902 |
-| Customer satisfaction | 7.00% | ~250,902 |
-| Keeping things neat | 4.00% | ~143,372 |
-| Seems you're pretty good at this | 4.00% | ~143,372 |
-| Bending over backwards | 4.00% | ~143,372 |
-| Triple threat | 3.00% | ~107,529 |
-| You rock at this! | 3.00% | ~107,529 |
-| Your music sucks | 3.00% | ~107,529 |
-| I'm broke, Uncle! | 2.00% | ~71,686 |
-| Maybe you should try something else? | 2.00% | ~71,686 |
-| Taking care of business | 2.00% | ~71,686 |
-| Things are under control | 2.00% | ~71,686 |
-| Perfection | 2.00% | ~71,686 |
-| Calling in Sick | 2.00% | ~71,686 |
+| You need to plug it in... | 49.00% | ~1,756,320 |
+| Easy to forget | 46.00% | ~1,648,790 |
+| Back in the black | 39.00% | ~1,397,888 |
+| That's what I'm talking about | 29.00% | ~1,039,455 |
+| The Best of Both Worlds | 25.00% | ~896,082 |
+| Get your wings | 20.00% | ~716,865 |
+| Double trouble | 16.00% | ~573,492 |
+| Smashing it | 11.00% | ~394,276 |
+| But can it run Crysis? | 9.00% | ~322,589 |
+| My favourite feature... | 9.00% | ~322,589 |
+| From humble beginnings... | 7.00% | ~250,903 |
+| Customer satisfaction | 7.00% | ~250,903 |
+| Keeping things neat | 4.00% | ~143,373 |
+| Seems you're pretty good at this | 4.00% | ~143,373 |
+| Bending over backwards | 4.00% | ~143,373 |
+| Triple threat | 3.00% | ~107,530 |
+| You rock at this! | 3.00% | ~107,530 |
+| Your music sucks | 3.00% | ~107,530 |
+| I'm broke, Uncle! | 2.00% | ~71,687 |
+| Maybe you should try something else? | 2.00% | ~71,687 |
+| Taking care of business | 2.00% | ~71,687 |
+| Things are under control | 2.00% | ~71,687 |
+| Perfection | 2.00% | ~71,687 |
+| Calling in Sick | 2.00% | ~71,687 |
 | Overvolted | 1.00% | ~35,843 |
 | If you fail the first time... | 1.00% | ~35,843 |
 | Amazonian | 1.00% | ~35,843 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,584 |
 | Treat yourself - GPU | 0.10% | ~3,584 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,584,309 (Ranked 5)  
+Progressed: 3,584,327 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 39 (0.00%) (Ranked 360)
 | 2023-11-23 | 3,583,212 | 39 |
 | 2023-11-24 | 3,583,588 | 39 |
 | 2023-11-25 | 3,584,032 | 39 |
-| 2023-11-26 | 3,584,309 | 39 |
+| 2023-11-26 | 3,584,327 | 39 |
 ## Awards
 Max (Great for Beginners): 1,107  (Ranked 144)  
 Sum: 8,154 (Ranked 104)  

@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 680,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.33,
+  "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -1605,6 +1605,11 @@
       "Time": "2023-11-26T16:08:25.3622933+00:00",
       "NumProgressed": 679,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-26T17:08:38.8012494+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1616,7 +1621,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1680,7 +1685,7 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1688,7 +1693,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1744,7 +1749,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "SABOTAGE",
@@ -1760,7 +1765,7 @@
       "Name": "Shill Bidder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1768,14 +1773,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 680,
       "Completed": 9
     }
   ],
@@ -1783,8 +1788,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:08:25.3622928+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:08:38.8012491+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.6156226+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:57:30.3747744+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:08:25.3623123+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:57:19.7623915+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:08:38.8012681+00:00"
 }

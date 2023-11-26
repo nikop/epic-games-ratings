@@ -2,13 +2,13 @@
   "ID": "b47d3947087147baa8e1665680aefc11",
   "Name": "Tower of Fantasy",
   "ProductSlug": "tower-of-fantasy",
-  "Ranking_Rating": 780,
-  "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 298,
+  "Ranking_Rating": 790,
+  "Ranking_Popularity": 249,
+  "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-11T14:00:00+00:00",
     "PcReleaseDate": "2021-12-16T19:36:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2023-05-19T13:03:09.3101375+00:00",
@@ -2203,18 +2203,24 @@
       "Rating": 4.36,
       "NumberOfAwards": 685,
       "NumberOfAwardsMax": 318
+    },
+    {
+      "Time": "2023-11-26T16:58:28.4459628+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 688,
+      "NumberOfAwardsMax": 321
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 685,
-  "NumberOfAwardsMax": 318,
+  "NumberOfAwards": 688,
+  "NumberOfAwardsMax": 321,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 318
+      "Count": 321
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2289,8 +2295,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2023-11-26T14:58:20.8150126+00:00",
+  "LastChanged": "2023-11-26T16:58:28.4459626+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.2288224+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:58:40.41024+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:09:01.9002323+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:58:28.4459631+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:09:14.9917806+00:00"
 }

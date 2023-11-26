@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1371,10 +1371,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 1757,
       "NumberOfAwardsMax": 1342
+    },
+    {
+      "Time": "2023-11-26T17:00:19.0348416+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1759,
+      "NumberOfAwardsMax": 1342
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1757,
+  "NumberOfAwards": 1759,
   "NumberOfAwardsMax": 1342,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1430,7 +1436,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1454,7 +1460,7 @@
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has a Creative Community",
@@ -1463,7 +1469,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429213,
+  "EOS_Progressed": 429214,
   "EOS_Completed": 549,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 2,
@@ -15843,6 +15849,11 @@
       "Time": "2023-11-26T16:03:32.1200941+00:00",
       "NumProgressed": 429213,
       "NumCompleted": 549
+    },
+    {
+      "Time": "2023-11-26T17:03:38.8034758+00:00",
+      "NumProgressed": 429214,
+      "NumCompleted": 549
     }
   ],
   "TotalAchievements": 41,
@@ -15886,7 +15897,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107303
+      "UsersEstimate": 107304
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -15894,7 +15905,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180269
+      "UsersEstimate": 180270
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -15902,7 +15913,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111595
+      "UsersEstimate": 111596
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -15974,7 +15985,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111595
+      "UsersEstimate": 111596
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -15990,7 +16001,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201730
+      "UsersEstimate": 201731
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -16022,7 +16033,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407752
+      "UsersEstimate": 407753
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -16038,7 +16049,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309033
+      "UsersEstimate": 309034
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -16054,7 +16065,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300449
+      "UsersEstimate": 300450
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -16062,7 +16073,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111595
+      "UsersEstimate": 111596
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -16070,7 +16081,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343370
+      "UsersEstimate": 343371
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -16110,7 +16121,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141640
+      "UsersEstimate": 141641
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -16134,7 +16145,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240359
+      "UsersEstimate": 240360
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -16150,7 +16161,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145932
+      "UsersEstimate": 145933
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -16181,15 +16192,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429213,
+      "Progressed": 429214,
       "Completed": 549
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2023-11-26T11:00:04.481159+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:03:32.1200933+00:00",
+  "LastChanged": "2023-11-26T17:00:19.0348414+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:03:38.8034754+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:39.0673393+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:00:32.8338524+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:03:32.1201759+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:00:19.034842+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:03:38.8036282+00:00"
 }

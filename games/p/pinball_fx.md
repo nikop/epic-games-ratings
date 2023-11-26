@@ -1,21 +1,21 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.06 (Ranked 981)  
+Rating: 4.06 (Ranked 980)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~230,706 |
-| I know the Rules | 34.00% | ~95,659 |
-| I Found it! | 11.00% | ~30,948 |
-| Contender | 10.00% | ~28,135 |
-| First but not Last | 5.00% | ~14,067 |
+| Ball Launched | 82.00% | ~230,711 |
+| I know the Rules | 34.00% | ~95,661 |
+| I Found it! | 11.00% | ~30,949 |
+| Contender | 10.00% | ~28,136 |
+| First but not Last | 5.00% | ~14,068 |
 | Ready Steady Score | 4.00% | ~11,254 |
-| Dress Code | 3.00% | ~8,440 |
+| Dress Code | 3.00% | ~8,441 |
 | Full Loot Madness | 2.00% | ~5,627 |
-| My Table, my Rules | 1.00% | ~2,813 |
-| Nine Zeroes | 1.00% | ~2,813 |
+| My Table, my Rules | 1.00% | ~2,814 |
+| Nine Zeroes | 1.00% | ~2,814 |
 | Shiny Memento | 0.30% | ~844 |
 | Pinball Hoarder | 0.30% | ~844 |
 | Interior Designer | 0.30% | ~844 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,349 (Ranked 55)  
+Progressed: 281,355 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 281,046 | 0 |
 | 2023-11-24 | 281,155 | 0 |
 | 2023-11-25 | 281,256 | 0 |
-| 2023-11-26 | 281,349 | 0 |
+| 2023-11-26 | 281,355 | 0 |
 ## Awards
 Max (Great for Beginners): 203  (Ranked 288)  
 Sum: 1,602 (Ranked 230)  

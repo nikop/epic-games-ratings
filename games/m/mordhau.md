@@ -5,23 +5,23 @@ Rating: 4.38 (Ranked 764)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~765,812 |
-| The ABCs | 43.00% | ~672,039 |
-| Home Run | 41.00% | ~640,782 |
-| Keeps Coming Off | 41.00% | ~640,782 |
-| Guts | 20.00% | ~312,576 |
-| Meat Grinder | 19.00% | ~296,948 |
-| Burning Man | 16.00% | ~250,061 |
-| Lived to Tell the Tale | 12.00% | ~187,546 |
-| Highlander | 10.00% | ~156,288 |
-| Unstoppable | 10.00% | ~156,288 |
-| Just a Scratch | 9.00% | ~140,659 |
-| Tough Nut to Crack | 6.00% | ~93,773 |
-| Yoink | 6.00% | ~93,773 |
-| Long List of Names | 4.00% | ~62,515 |
-| Pyromaniac | 4.00% | ~62,515 |
-| The Queen of Weapons | 4.00% | ~62,515 |
-| This isn’t Sparta | 3.00% | ~46,886 |
+| Justice from the Grave | 49.00% | ~765,828 |
+| The ABCs | 43.00% | ~672,053 |
+| Home Run | 41.00% | ~640,795 |
+| Keeps Coming Off | 41.00% | ~640,795 |
+| Guts | 20.00% | ~312,583 |
+| Meat Grinder | 19.00% | ~296,954 |
+| Burning Man | 16.00% | ~250,066 |
+| Lived to Tell the Tale | 12.00% | ~187,550 |
+| Highlander | 10.00% | ~156,292 |
+| Unstoppable | 10.00% | ~156,292 |
+| Just a Scratch | 9.00% | ~140,662 |
+| Tough Nut to Crack | 6.00% | ~93,775 |
+| Yoink | 6.00% | ~93,775 |
+| Long List of Names | 4.00% | ~62,517 |
+| Pyromaniac | 4.00% | ~62,517 |
+| The Queen of Weapons | 4.00% | ~62,517 |
+| This isn’t Sparta | 3.00% | ~46,887 |
 | Crybaby | 2.00% | ~31,258 |
 | Eagle Eye | 2.00% | ~31,258 |
 | I Know Kung Fu | 2.00% | ~31,258 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 764)
 | That’s No Ordinary Cold | 0.10% | ~1,563 |
 | Stairway to Hell | 0.10% | ~1,563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,562,882 (Ranked 7)  
+Progressed: 1,562,915 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,10 +264,10 @@ Completed: 68 (0.00%) (Ranked 360)
 | 2023-11-23 | 1,561,407 | 68 |
 | 2023-11-24 | 1,561,879 | 68 |
 | 2023-11-25 | 1,562,510 | 68 |
-| 2023-11-26 | 1,562,882 | 68 |
+| 2023-11-26 | 1,562,915 | 68 |
 ## Awards
 Max (Diverse Characters): 979  (Ranked 155)  
-Sum: 5,077 (Ranked 139)  
+Sum: 5,080 (Ranked 139)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
@@ -275,7 +275,7 @@ Diff (max vs sum): 16
 | This game has Challenging Combat | 823 |
 | This game is Highly Recommended | 796 |
 | This game has Amazing Characters | 661 |
-| This game is Extremely Fun | 652 |
+| This game is Extremely Fun | 655 |
 | This game has Competitive Players | 620 |
 | This game has Amazing Storytelling | 546 |
 | This game has Quickly Understood Controls | 132 |
@@ -508,4 +508,4 @@ Diff (max vs sum): 16
 | 2023-11-23 | 4.38 | 968 | 5,024 |
 | 2023-11-24 | 4.38 | 968 | 5,035 |
 | 2023-11-25 | 4.38 | 972 | 5,062 |
-| 2023-11-26 | 4.38 | 979 | 5,077 |
+| 2023-11-26 | 4.38 | 979 | 5,080 |

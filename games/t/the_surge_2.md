@@ -5,14 +5,14 @@ Rating: 4.25 (Ranked 880)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,771 |
-| Don't I Know You...? | 77.00% | ~1,705 |
-| Jailbreak | 66.00% | ~1,461 |
-| Suited and Booted | 39.00% | ~863 |
-| HEADSHOT! | 38.00% | ~841 |
+| Rigged And Ready | 80.00% | ~1,772 |
+| Don't I Know You...? | 77.00% | ~1,706 |
+| Jailbreak | 66.00% | ~1,462 |
+| Suited and Booted | 39.00% | ~864 |
+| HEADSHOT! | 38.00% | ~842 |
 | Sleeping With The Fishes | 36.00% | ~797 |
-| Overheated | 31.00% | ~686 |
-| High Performance | 31.00% | ~686 |
+| Overheated | 31.00% | ~687 |
+| High Performance | 31.00% | ~687 |
 | Powered Up | 29.00% | ~642 |
 | Studied The Blade | 25.00% | ~554 |
 | Home Invasion | 23.00% | ~509 |
@@ -25,7 +25,7 @@ Rating: 4.25 (Ranked 880)
 | Court Martial | 19.00% | ~421 |
 | Clean Cut | 19.00% | ~421 |
 | Dead Again | 18.00% | ~399 |
-| Full Arsenal | 17.00% | ~376 |
+| Full Arsenal | 17.00% | ~377 |
 | Can't Trust Banks | 15.00% | ~332 |
 | Mommy Dearest | 14.00% | ~310 |
 | Bad Dog | 14.00% | ~310 |
@@ -35,8 +35,8 @@ Rating: 4.25 (Ranked 880)
 | What A Catchy Song | 13.00% | ~288 |
 | Corrupted Beauty | 12.00% | ~266 |
 | Marked For Success | 12.00% | ~266 |
-| Stimulating The Local Economy | 10.00% | ~221 |
-| Triplets | 10.00% | ~221 |
+| Stimulating The Local Economy | 10.00% | ~222 |
+| Triplets | 10.00% | ~222 |
 | Denying Prophecy | 9.00% | ~199 |
 | Defense in Depth | 9.00% | ~199 |
 | A Little Banged Up | 8.00% | ~177 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 880)
 | Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,214 (Ranked 222)  
+Progressed: 2,215 (Ranked 222)  
 Completed: 13 (0.59%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 13 (0.59%) (Ranked 191)
 | 2023-11-22 | 2,211 | 13 |
 | 2023-11-23 | 2,212 | 13 |
 | 2023-11-25 | 2,214 | 13 |
+| 2023-11-26 | 2,215 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

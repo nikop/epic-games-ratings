@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1741,
+  "EOS_Progressed": 1742,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4361,6 +4361,11 @@
       "Time": "2023-11-26T16:04:49.0774642+00:00",
       "NumProgressed": 1741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T17:04:54.6397247+00:00",
+      "NumProgressed": 1742,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4444,7 +4449,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -4452,7 +4457,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4490,9 +4495,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 557
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4596,7 +4601,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4604,7 +4609,7 @@
       "Name": "ITS crash site",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -4618,9 +4623,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 436
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4628,7 +4633,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4644,7 +4649,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4732,7 +4737,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4755,7 +4760,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1741,
+      "Progressed": 1742,
       "Completed": 0
     }
   ],
@@ -4763,8 +4768,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:04:49.0774637+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:04:54.6397243+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.1060902+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:57:10.2450574+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:04:49.0775066+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:57:00.6098+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:04:54.6397665+00:00"
 }

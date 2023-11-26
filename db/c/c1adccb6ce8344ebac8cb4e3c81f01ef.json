@@ -4,8 +4,8 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -2239,6 +2239,11 @@
       "Time": "2023-11-26T15:03:48.5426325+00:00",
       "NumProgressed": 616,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-11-26T17:04:06.543349+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2251,7 +2256,7 @@
       "Name": "Black Skeleton",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "BlueSkeleton",
@@ -2298,14 +2303,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:04:00.0633203+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:04:06.5433486+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:54.0816909+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:58:52.7013066+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:04:00.06334+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:58:39.1489816+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:04:06.5433666+00:00"
 }

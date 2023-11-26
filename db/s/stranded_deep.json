@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-12-28T16:00:00+00:00",
     "PcReleaseDate": "2015-01-23T16:00:00+00:00",
@@ -2683,10 +2683,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1145,
       "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-11-26T17:00:18.4271952+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1146,
+      "NumberOfAwardsMax": 222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1145,
+  "NumberOfAwards": 1146,
   "NumberOfAwardsMax": 222,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2742,7 +2748,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2762,8 +2768,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2023-11-26T14:01:59.7949835+00:00",
+  "LastChanged": "2023-11-26T17:00:18.427195+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:38.1340694+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:00:32.3132741+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:04:07.5610945+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:00:18.4271954+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:04:13.6640842+00:00"
 }

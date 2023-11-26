@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 48.00% | ~170 |
-| The Teleprobe | 39.00% | ~138 |
-| The City | 34.00% | ~121 |
-| The field base | 31.00% | ~110 |
-| Survivors | 27.00% | ~96 |
-| The Condor | 25.00% | ~89 |
-| The End | 25.00% | ~89 |
-| The Necroevolution | 20.00% | ~71 |
-| Krauta is alive | 18.00% | ~64 |
-| Peacemaker | 17.00% | ~60 |
-| Volcanologist | 17.00% | ~60 |
-| The Alliance | 16.00% | ~57 |
-| On her own | 15.00% | ~53 |
-| Evacuation | 13.00% | ~46 |
-| Beyond divisions | 13.00% | ~46 |
+| The Camp | 48.00% | ~173 |
+| The Teleprobe | 39.00% | ~141 |
+| The City | 35.00% | ~126 |
+| The field base | 31.00% | ~112 |
+| Survivors | 27.00% | ~97 |
+| The Condor | 25.00% | ~90 |
+| The End | 25.00% | ~90 |
+| The Necroevolution | 19.00% | ~69 |
+| Krauta is alive | 18.00% | ~65 |
+| Peacemaker | 17.00% | ~61 |
+| Volcanologist | 17.00% | ~61 |
+| The Alliance | 16.00% | ~58 |
+| On her own | 14.00% | ~51 |
+| Evacuation | 13.00% | ~47 |
 | Fierce fight | 12.00% | ~43 |
-| Flying Objects Operator | 11.00% | ~39 |
+| Beyond divisions | 12.00% | ~43 |
+| Flying Objects Operator | 11.00% | ~40 |
 | I remember everything! | 10.00% | ~36 |
 | Violent solution | 7.00% | ~25 |
 | Another giant | 7.00% | ~25 |
-| Innate curiosity | 6.00% | ~21 |
-| The Invincible | 5.00% | ~18 |
+| Innate curiosity | 6.00% | ~22 |
 | I leave no man behind | 5.00% | ~18 |
 | Strong objection | 5.00% | ~18 |
 | Ubiquitous holes | 4.00% | ~14 |
+| The Invincible | 4.00% | ~14 |
 | Got lost again | 3.00% | ~11 |
 | I leave no man behind (no exceptions) | 2.00% | ~7 |
 | Convoy list | 1.00% | ~4 |
 | No more mistakes | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355 (Ranked 331)  
+Progressed: 361 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 262 | 0 |
 | 2023-11-24 | 291 | 0 |
 | 2023-11-25 | 329 | 0 |
-| 2023-11-26 | 355 | 0 |
+| 2023-11-26 | 361 | 0 |

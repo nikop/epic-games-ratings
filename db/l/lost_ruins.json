@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 497,
+  "EOS_Progressed": 498,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1084,6 +1084,11 @@
       "Time": "2023-11-25T15:10:12.0386266+00:00",
       "NumProgressed": 497,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T17:09:32.6581184+00:00",
+      "NumProgressed": 498,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1109,9 +1114,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     },
     {
       "ID": "Assassin",
@@ -1127,7 +1132,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "BugHunter",
@@ -1359,7 +1364,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "TheTrio",
@@ -1373,9 +1378,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     },
     {
       "ID": "TreasureHunter",
@@ -1414,7 +1419,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 497,
+      "Progressed": 498,
       "Completed": 1
     }
   ],
@@ -1422,8 +1427,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:09:19.7109312+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:09:32.658118+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:13.462636+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:58:07.6184+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:09:19.7109663+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:57:58.3835659+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:09:32.6581511+00:00"
 }

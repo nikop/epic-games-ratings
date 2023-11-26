@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 928,
+  "EOS_Progressed": 930,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.34,
+  "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3019,6 +3019,11 @@
       "Time": "2023-11-26T16:04:13.473395+00:00",
       "NumProgressed": 928,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-26T17:04:19.3614697+00:00",
+      "NumProgressed": 930,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3037,9 +3042,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 604
     },
     {
       "ID": "_03_FinishAct1",
@@ -3047,7 +3052,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3055,7 +3060,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "_05_FinishAct2",
@@ -3079,7 +3084,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "_08_Completion_10",
@@ -3087,7 +3092,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "_09_Completion_20",
@@ -3103,7 +3108,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "_11_Completion_40",
@@ -3111,7 +3116,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "_12_Completion_50",
@@ -3215,7 +3220,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3238,7 +3243,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 928,
+      "Progressed": 930,
       "Completed": 31
     }
   ],
@@ -3246,8 +3251,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:04:13.4733946+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:04:19.3614692+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:00:00.451735+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:04:13.4734256+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:59:47.4525873+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:04:19.361501+00:00"
 }

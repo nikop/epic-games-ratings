@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 792,
+  "Ranking_Rating": 790,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1069,9 +1069,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13831,
+  "EOS_Progressed": 13838,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11469,6 +11469,11 @@
       "Time": "2023-11-26T16:08:42.0459275+00:00",
       "NumProgressed": 13831,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-26T17:08:55.4354259+00:00",
+      "NumProgressed": 13838,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11481,7 +11486,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "a_10",
@@ -11529,7 +11534,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5674
     },
     {
       "ID": "a_19",
@@ -11537,7 +11542,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "a_2",
@@ -11569,7 +11574,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "a_23",
@@ -11577,7 +11582,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "a_25",
@@ -11728,7 +11733,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13831,
+      "Progressed": 13838,
       "Completed": 12
     }
   ],
@@ -11736,8 +11741,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-24T04:02:46.9651903+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:08:42.0459271+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:08:55.4354254+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.5449859+00:00",
-  "LastUpdate_Ratings": "2023-11-26T16:02:47.6904769+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:08:42.0459849+00:00"
+  "LastUpdate_Ratings": "2023-11-26T17:02:52.580771+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:08:55.4355093+00:00"
 }

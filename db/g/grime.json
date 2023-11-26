@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 431,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1567,9 +1567,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160228,
+  "EOS_Progressed": 160237,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1099,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17157,6 +17157,11 @@
       "Time": "2023-11-26T16:05:12.9408314+00:00",
       "NumProgressed": 160228,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T17:05:18.2110822+00:00",
+      "NumProgressed": 160237,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17246,9 +17251,9 @@
       "ID": "DEFEAT_AMAL2",
       "SetID": "ccc0dlh",
       "Name": "Hunt Down",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1282
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -17535,21 +17540,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159811,
+      "Progressed": 159820,
       "Completed": 1225
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160228,
+      "Progressed": 160237,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-25T23:59:33.0917526+00:00",
-  "LastChanged_Achievements": "2023-11-26T16:05:12.940831+00:00",
+  "LastChanged_Achievements": "2023-11-26T17:05:18.2110819+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-26T15:59:15.743498+00:00",
-  "LastUpdate_Achievements": "2023-11-26T16:05:12.9409151+00:00"
+  "LastUpdate_Ratings": "2023-11-26T16:59:01.1553728+00:00",
+  "LastUpdate_Achievements": "2023-11-26T17:05:18.2111849+00:00"
 }
