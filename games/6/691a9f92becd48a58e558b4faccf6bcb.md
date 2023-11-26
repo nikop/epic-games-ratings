@@ -23,7 +23,7 @@
 | Golden Scarf | 0.40% | ~1 |
 | Bling Bling | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278 (Ranked 361)  
+Progressed: 278 (Ranked 362)  
 Completed: 1 (0.36%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,19 +1,19 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.21 (Ranked 905)  
+Rating: 4.21 (Ranked 906)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~7,184 |
-| Disposing of the Evidence | 38.00% | ~3,289 |
-| Without a Scratch | 34.00% | ~2,943 |
+| First Day on the Job | 83.00% | ~7,186 |
+| Disposing of the Evidence | 38.00% | ~3,290 |
+| Without a Scratch | 34.00% | ~2,944 |
 | Wreckless Driving | 28.00% | ~2,424 |
 | A Marked Man | 26.00% | ~2,251 |
 | Street Sweeper | 19.00% | ~1,645 |
 | Liberty City Minute | 17.00% | ~1,472 |
 | Offshore Delivery | 14.00% | ~1,212 |
-| Dirty Money | 13.00% | ~1,125 |
+| Dirty Money | 13.00% | ~1,126 |
 | By a Mile | 10.00% | ~866 |
 | Not So Fast | 10.00% | ~866 |
 | Right-hand Man | 10.00% | ~866 |
@@ -35,7 +35,7 @@ Rating: 4.21 (Ranked 905)
 | Is That All You've Got? | 0.90% | ~78 |
 | King of Liberty City | 0.70% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,656 (Ranked 171)  
+Progressed: 8,658 (Ranked 171)  
 Completed: 59 (0.68%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,6 +255,7 @@ Completed: 59 (0.68%) (Ranked 185)
 | 2023-11-23 | 8,641 | 59 |
 | 2023-11-24 | 8,649 | 59 |
 | 2023-11-25 | 8,656 | 59 |
+| 2023-11-26 | 8,658 | 59 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

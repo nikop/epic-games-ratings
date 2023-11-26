@@ -645,7 +645,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5914,
+  "EOS_Progressed": 5915,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -6285,6 +6285,11 @@
       "Time": "2023-11-26T08:03:36.8897118+00:00",
       "NumProgressed": 5914,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T09:04:02.7210222+00:00",
+      "NumProgressed": 5915,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6297,7 +6302,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "achievement_0002",
@@ -6337,7 +6342,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4555
     },
     {
       "ID": "achievement_0007",
@@ -6345,7 +6350,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5559
+      "UsersEstimate": 5560
     },
     {
       "ID": "achievement_0008",
@@ -6353,7 +6358,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5204
+      "UsersEstimate": 5205
     },
     {
       "ID": "achievement_0009",
@@ -6417,7 +6422,7 @@
       "Name": "Hitting a Season",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "achievement_0017",
@@ -6529,7 +6534,7 @@
       "Name": "Reuse",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "achievement_0031",
@@ -6545,7 +6550,7 @@
       "Name": "Tinkerer",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "achievement_0033",
@@ -6609,7 +6614,7 @@
       "Name": "One for the Book",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "achievement_0041",
@@ -6649,7 +6654,7 @@
       "Name": "Making History",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "achievement_0046",
@@ -6657,7 +6662,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "achievement_0047",
@@ -6681,14 +6686,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5914,
+      "Progressed": 5915,
       "Completed": 0
     }
   ],
@@ -6696,8 +6701,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-26T02:23:14.6086673+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:03:36.8897115+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:04:02.7210216+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:59:50.7111738+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:03:36.8897594+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:00:03.9717458+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:04:02.7210895+00:00"
 }

@@ -18,20 +18,20 @@
 | Seal Breaker | 33.00% | ~104 |
 | Handyman | 29.00% | ~91 |
 | Giant Lizard Killer | 27.00% | ~85 |
-| Guardian | 25.00% | ~79 |
-| Nosebleeder | 25.00% | ~79 |
+| Guardian | 26.00% | ~82 |
+| Nosebleeder | 26.00% | ~82 |
 | Trader | 23.00% | ~72 |
 | Weapon Boost | 21.00% | ~66 |
 | Flying Kobold Killer | 17.00% | ~54 |
 | Youth Magnet | 17.00% | ~54 |
 | Master Artificer | 17.00% | ~54 |
+| Furious Scorpion Killer | 16.00% | ~50 |
 | Lethal Blade Mantis Killer | 16.00% | ~50 |
 | Squeaky Clean | 16.00% | ~50 |
-| Furious Scorpion Killer | 15.00% | ~47 |
 | Kind Adventurer | 13.00% | ~41 |
 | Mermaid Killer | 13.00% | ~41 |
+| Cave Master | 12.00% | ~38 |
 | Face Slapper | 12.00% | ~38 |
-| Cave Master | 11.00% | ~35 |
 | Master Cook | 10.00% | ~32 |
 | Berserker Slayer | 6.00% | ~19 |
 | Boss challenge | 5.00% | ~16 |

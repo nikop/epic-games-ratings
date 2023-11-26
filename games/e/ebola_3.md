@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 59.00% | ~164 |
+| Fright ✔ | 58.00% | ~162 |
 | Chest ✔ | 56.00% | ~156 |
 | Inventory ✔ | 55.00% | ~153 |
 | Police officers ✔ | 29.00% | ~81 |
-| Mutation ✔ | 26.00% | ~72 |
+| Mutation ✔ | 26.00% | ~73 |
 | Doberman ✔ | 15.00% | ~42 |
 | Weapon ✔ | 12.00% | ~33 |
 | Chess ✔ | 11.00% | ~31 |
@@ -16,8 +16,8 @@
 | Survival ✔ | 9.00% | ~25 |
 | Hospital ✔ | 8.00% | ~22 |
 | Thirst ✔ | 8.00% | ~22 |
-| City ✔ | 7.00% | ~19 |
-| Fraternal help ✔ | 7.00% | ~19 |
+| City ✔ | 7.00% | ~20 |
+| Fraternal help ✔ | 7.00% | ~20 |
 | Alice ✔ | 6.00% | ~17 |
 | Antivirus ✔ | 6.00% | ~17 |
 | Betty ✔ | 6.00% | ~17 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278 (Ranked 361)  
+Progressed: 279 (Ranked 361)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-19 | 275 | 0 |
 | 2023-11-20 | 277 | 0 |
 | 2023-11-25 | 278 | 0 |
+| 2023-11-26 | 279 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

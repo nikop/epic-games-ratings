@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2950,
+  "EOS_Progressed": 2951,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7674,6 +7674,11 @@
       "Time": "2023-11-26T08:08:49.3075446+00:00",
       "NumProgressed": 2950,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-26T09:09:21.2041824+00:00",
+      "NumProgressed": 2951,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7787,9 +7792,9 @@
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1771
     },
     {
       "ID": "GUARD_MAKER",
@@ -7821,7 +7826,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -7860,14 +7865,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2950,
+      "Progressed": 2951,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:08:49.3075442+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:09:21.2041821+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:17.3465662+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:00:05.737175+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:08:49.3075836+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:00:19.9838734+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:09:21.2042284+00:00"
 }

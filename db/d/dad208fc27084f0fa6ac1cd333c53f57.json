@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4264,
+  "EOS_Progressed": 4267,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -3024,6 +3024,11 @@
       "Time": "2023-11-26T08:04:46.7319646+00:00",
       "NumProgressed": 4264,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-26T09:05:11.0742458+00:00",
+      "NumProgressed": 4267,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3052,7 +3057,7 @@
       "Name": "Collect the mask",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -3060,7 +3065,7 @@
       "Name": "Unlock the gate",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -3068,7 +3073,7 @@
       "Name": "Unlock the PC",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -3076,7 +3081,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -3084,7 +3089,7 @@
       "Name": "Turn on the TV",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2390
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -3092,7 +3097,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3371
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -3163,14 +3168,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4264,
+      "Progressed": 4267,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:04:46.7319643+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:05:11.0742455+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:57:49.0276552+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:04:46.7319866+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:58:02.8924922+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:05:11.074269+00:00"
 }

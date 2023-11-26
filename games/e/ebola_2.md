@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Statue ✔ | 64.00% | ~189 |
 | Recluse ✔ | 35.00% | ~104 |
+| Witch ✔ | 23.00% | ~68 |
 | Scent of Meat ✔ | 22.00% | ~65 |
-| Witch ✔ | 22.00% | ~65 |
 | Survival ✔ | 4.00% | ~12 |
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Guardian angel ✔ | 1.00% | ~3 |

@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 171)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,884 |
+| Under a New Sun | 93.00% | ~13,024 |
 | Newcomers | 79.00% | ~11,063 |
 | A Burden of Blood | 74.00% | ~10,363 |
 | Protector's Duty | 71.00% | ~9,943 |
@@ -263,8 +263,8 @@ Completed: 55 (0.39%) (Ranked 220)
 | 2023-11-26 | 14,004 | 55 |
 ## Awards
 Max (Great Boss Battles): 431  (Ranked 225)  
-Sum: 678 (Ranked 299)  
-Diff (max vs sum): -74  
+Sum: 678 (Ranked 300)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 431 |

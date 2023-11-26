@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~971,189 |
-| I Need a Bigger Garage | 63.00% | ~679,832 |
-| Pump my Ride | 47.00% | ~507,177 |
-| Ghostbuster | 34.00% | ~366,894 |
-| Call Roadside Assistance | 18.00% | ~194,238 |
-| That Was Close | 18.00% | ~194,238 |
-| Quickie | 11.00% | ~118,701 |
-| California Dreamer | 7.00% | ~75,537 |
-| Can't Touch This | 5.00% | ~53,955 |
-| Carménère Taster | 4.00% | ~43,164 |
-| Comeback | 4.00% | ~43,164 |
+| The First of Many | 90.00% | ~971,202 |
+| I Need a Bigger Garage | 63.00% | ~679,841 |
+| Pump my Ride | 47.00% | ~507,183 |
+| Ghostbuster | 34.00% | ~366,898 |
+| Call Roadside Assistance | 18.00% | ~194,240 |
+| That Was Close | 18.00% | ~194,240 |
+| Quickie | 11.00% | ~118,702 |
+| California Dreamer | 7.00% | ~75,538 |
+| Can't Touch This | 5.00% | ~53,956 |
+| Carménère Taster | 4.00% | ~43,165 |
+| Comeback | 4.00% | ~43,165 |
 | Driver from Ipanema | 3.00% | ~32,373 |
 | Supersonic | 3.00% | ~32,373 |
 | Marathonist | 3.00% | ~32,373 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Volcano Surfer | 0.80% | ~8,633 |
 | Survivor | 0.60% | ~6,475 |
 | King of the World | 0.60% | ~6,475 |
-| Getting Famous | 0.50% | ~5,395 |
+| Getting Famous | 0.50% | ~5,396 |
 | Now Go Play Outside | 0.30% | ~3,237 |
 | Master of the Racetrack | 0.20% | ~2,158 |
 | Transporter | 0.10% | ~1,079 |
 | Look Mom, No Hands! | 0.10% | ~1,079 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,079,099 (Ranked 13)  
+Progressed: 1,079,113 (Ranked 13)  
 Completed: 496 (0.05%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,10 +264,10 @@ Completed: 496 (0.05%) (Ranked 310)
 | 2023-11-23 | 1,078,020 | 494 |
 | 2023-11-24 | 1,078,420 | 494 |
 | 2023-11-25 | 1,078,962 | 495 |
-| 2023-11-26 | 1,079,099 | 496 |
+| 2023-11-26 | 1,079,113 | 496 |
 ## Awards
 Max (Great for Beginners): 167  (Ranked 308)  
-Sum: 1,537 (Ranked 233)  
+Sum: 1,539 (Ranked 233)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -282,7 +282,7 @@ Diff (max vs sum): 75
 | This game is Extremely Fun | 122 |
 | This game has Amazing Storytelling | 107 |
 | This game has Amazing Characters | 99 |
-| This game has a Competitive Community | 89 |
+| This game has a Competitive Community | 91 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -537,3 +537,4 @@ Diff (max vs sum): 75
 | 2023-11-23 | 4.54 | - | 167 | 1,531 |
 | 2023-11-24 | 4.54 | - | 167 | 1,534 |
 | 2023-11-25 | 4.54 | - | 167 | 1,537 |
+| 2023-11-26 | 4.54 | - | 167 | 1,539 |

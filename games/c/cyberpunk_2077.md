@@ -6,50 +6,50 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 9.00% | ~85,139 |
-| Gun Fu | 5.00% | ~47,300 |
-| The Fool | 4.00% | ~37,840 |
-| Full Body Conversion | 2.00% | ~18,920 |
-| Right Back At Ya | 2.00% | ~18,920 |
-| The Lovers | 2.00% | ~18,920 |
-| Relic Ruler | 2.00% | ~1,492 |
-| Christmas Tree Attack | 1.00% | ~9,460 |
-| Stanislavski's Method | 1.00% | ~9,460 |
-| The Hermit | 1.00% | ~9,460 |
-| The Wheel of Fortune | 1.00% | ~9,460 |
-| True Soldier | 1.00% | ~9,460 |
-| All the President's Men | 1.00% | ~746 |
-| Arachnophobia | 1.00% | ~746 |
-| True Warrior | 0.90% | ~8,514 |
-| The Quick and the Dead | 0.80% | ~7,568 |
-| Life of the Road | 0.80% | ~7,568 |
-| The High Priestess | 0.80% | ~7,568 |
-| Legend of The Afterlife | 0.80% | ~7,568 |
-| Bushido and Chill | 0.70% | ~6,622 |
-| Master Crafter | 0.60% | ~5,676 |
-| The World | 0.60% | ~5,676 |
-| Judy vs Night City | 0.60% | ~5,676 |
-| Spin Doctor | 0.60% | ~448 |
-| To Protect and Serve | 0.50% | ~4,730 |
-| I Am The Law | 0.50% | ~4,730 |
-| Two Heads, One Bullet | 0.50% | ~4,730 |
-| King of Wands | 0.50% | ~373 |
-| Dirty Deeds | 0.50% | ~373 |
-| Easy Come, Easy Go | 0.50% | ~373 |
-| The Wandering Fool | 0.40% | ~3,784 |
-| To Bad Decisions! | 0.30% | ~2,838 |
-| Breathtaking | 0.30% | ~2,838 |
-| Ten out of Ten | 0.30% | ~2,838 |
-| The Star | 0.30% | ~2,838 |
-| The Sun | 0.30% | ~2,838 |
-| Judgement Day | 0.30% | ~224 |
-| King of Swords | 0.30% | ~224 |
-| The Tower | 0.30% | ~224 |
-| Autojock | 0.20% | ~1,892 |
-| Must Be Rats | 0.20% | ~1,892 |
-| Temperance | 0.20% | ~1,892 |
-| The APB is Not Enough | 0.20% | ~149 |
-| King of Pentacles | 0.20% | ~149 |
+| V for Vendetta | 9.00% | ~85,170 |
+| Gun Fu | 5.00% | ~47,317 |
+| The Fool | 4.00% | ~37,853 |
+| Full Body Conversion | 2.00% | ~18,927 |
+| Right Back At Ya | 2.00% | ~18,927 |
+| The Lovers | 2.00% | ~18,927 |
+| Relic Ruler | 2.00% | ~1,499 |
+| Christmas Tree Attack | 1.00% | ~9,463 |
+| Stanislavski's Method | 1.00% | ~9,463 |
+| The Hermit | 1.00% | ~9,463 |
+| The Wheel of Fortune | 1.00% | ~9,463 |
+| True Soldier | 1.00% | ~9,463 |
+| All the President's Men | 1.00% | ~750 |
+| Arachnophobia | 1.00% | ~750 |
+| True Warrior | 0.90% | ~8,517 |
+| The Quick and the Dead | 0.80% | ~7,571 |
+| Life of the Road | 0.80% | ~7,571 |
+| The High Priestess | 0.80% | ~7,571 |
+| Legend of The Afterlife | 0.80% | ~7,571 |
+| Bushido and Chill | 0.70% | ~6,624 |
+| The World | 0.70% | ~6,624 |
+| Master Crafter | 0.60% | ~5,678 |
+| Judy vs Night City | 0.60% | ~5,678 |
+| Spin Doctor | 0.60% | ~450 |
+| To Protect and Serve | 0.50% | ~4,732 |
+| I Am The Law | 0.50% | ~4,732 |
+| Two Heads, One Bullet | 0.50% | ~4,732 |
+| King of Wands | 0.50% | ~375 |
+| Dirty Deeds | 0.50% | ~375 |
+| Easy Come, Easy Go | 0.50% | ~375 |
+| The Wandering Fool | 0.40% | ~3,785 |
+| To Bad Decisions! | 0.30% | ~2,839 |
+| Breathtaking | 0.30% | ~2,839 |
+| Ten out of Ten | 0.30% | ~2,839 |
+| The Star | 0.30% | ~2,839 |
+| The Sun | 0.30% | ~2,839 |
+| Judgement Day | 0.30% | ~225 |
+| King of Swords | 0.30% | ~225 |
+| The Tower | 0.30% | ~225 |
+| Autojock | 0.20% | ~1,893 |
+| Must Be Rats | 0.20% | ~1,893 |
+| Temperance | 0.20% | ~1,893 |
+| The APB is Not Enough | 0.20% | ~150 |
+| King of Pentacles | 0.20% | ~150 |
 | City Lights | 0.10% | ~946 |
 | Frequent Flyer | 0.10% | ~946 |
 | Gunslinger | 0.10% | ~946 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 945,994 (Ranked 15)  
+Progressed: 946,333 (Ranked 15)  
 Completed: 2,813 (0.30%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2,813 (0.30%) (Ranked 237)
 | 2023-11-23 | 925,314 | 2,805 |
 | 2023-11-24 | 934,254 | 2,810 |
 | 2023-11-25 | 943,308 | 2,812 |
-| 2023-11-26 | 945,994 | 2,813 |
+| 2023-11-26 | 946,333 | 2,813 |
 ## Awards
 Max (Character Customization): 108,211  (Ranked 9)  
 Sum: 364,424 (Ranked 10)  

@@ -328,9 +328,9 @@
       "ID": "DestroyNestsWithMashuras",
       "SetID": "59jf8f5",
       "Name": "A Private Issue?",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "DestroyTwoNestsAtOnceWithKamakinoko",
@@ -448,9 +448,9 @@
       "ID": "KillEnemyByEnemyAttack",
       "SetID": "59jf8f5",
       "Name": "Battlefield Tactician",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KillEnemyByFailedGrow",
@@ -472,9 +472,9 @@
       "ID": "KillEnemyByPlayerKnockback",
       "SetID": "59jf8f5",
       "Name": "Earned Through Sacrifice",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "LaunchBombAtEnemyAttack",
@@ -655,8 +655,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:03:08.9388141+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:03:34.6502953+00:00",
   "LastUpdate_AppInfo": "2023-11-21T04:57:14.1198184+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:58:31.5307578+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:03:08.9390386+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:58:45.7199269+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:03:34.6503509+00:00"
 }

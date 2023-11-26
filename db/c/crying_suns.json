@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471374,
+  "EOS_Progressed": 471375,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23543,6 +23543,11 @@
       "Time": "2023-11-26T08:09:10.2529037+00:00",
       "NumProgressed": 471374,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-26T09:09:43.1478239+00:00",
+      "NumProgressed": 471375,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23594,7 +23599,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47137
+      "UsersEstimate": 47138
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -23642,7 +23647,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311107
+      "UsersEstimate": 311108
     },
     {
       "ID": "achievement_story_landa",
@@ -23738,7 +23743,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160267
+      "UsersEstimate": 160268
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -23994,7 +23999,7 @@
       "Name": "Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9427
+      "UsersEstimate": 9428
     },
     {
       "ID": "achievement_win_expedition_with_monster_noloss",
@@ -24185,21 +24190,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15308,
+      "Progressed": 15309,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471374,
+      "Progressed": 471375,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:09:10.2529033+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:09:43.1478237+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:59:59.8336051+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:09:10.2530401+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:00:14.1251398+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:09:43.1479597+00:00"
 }

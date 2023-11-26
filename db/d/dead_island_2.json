@@ -6865,10 +6865,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11825,
       "NumberOfAwardsMax": 7731
+    },
+    {
+      "Time": "2023-11-26T08:59:39.0177378+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11828,
+      "NumberOfAwardsMax": 7731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11825,
+  "NumberOfAwards": 11828,
   "NumberOfAwardsMax": 7731,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6912,7 +6918,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 477
+      "Count": 480
     },
     {
       "Text": "This game is Relaxing",
@@ -6927,10 +6933,10 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 725375,
+  "EOS_Progressed": 725404,
   "EOS_Completed": 2439,
-  "EOS_NewPlayers": 4755,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 4762,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32082,6 +32088,11 @@
       "Time": "2023-11-26T08:05:32.8116566+00:00",
       "NumProgressed": 725375,
       "NumCompleted": 2439
+    },
+    {
+      "Time": "2023-11-26T09:05:56.81296+00:00",
+      "NumProgressed": 725404,
+      "NumCompleted": 2439
     }
   ],
   "TotalAchievements": 51,
@@ -32141,7 +32152,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6528
+      "UsersEstimate": 6529
     },
     {
       "ID": "ach_bookworm",
@@ -32173,7 +32184,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6528
+      "UsersEstimate": 6529
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -32189,7 +32200,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6528
+      "UsersEstimate": 6529
     },
     {
       "ID": "ach_explorer",
@@ -32309,7 +32320,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6528
+      "UsersEstimate": 6529
     },
     {
       "ID": "ach_magnum_opus",
@@ -32403,9 +32414,9 @@
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6528
+      "UsersEstimate": 7254
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -32453,7 +32464,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ach_dark_magic",
@@ -32477,7 +32488,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32500,22 +32511,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 725375,
+      "Progressed": 725404,
       "Completed": 2439
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 50917,
+      "Progressed": 50946,
       "Completed": 36605
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-26T07:59:26.8668149+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:05:32.8116561+00:00",
+  "LastChanged": "2023-11-26T08:59:39.0177376+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:05:56.8129522+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:59:26.8668155+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:05:32.8118095+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:59:39.0177381+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:05:56.8130793+00:00"
 }

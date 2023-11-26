@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4354,
+  "EOS_Progressed": 4355,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7710,6 +7710,11 @@
       "Time": "2023-11-26T08:03:17.9567199+00:00",
       "NumProgressed": 4354,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-26T09:03:43.8958829+00:00",
+      "NumProgressed": 4355,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7737,7 +7742,7 @@
       "Name": "This will cost you big time",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "Ach004",
@@ -7857,7 +7862,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "Ach019",
@@ -8001,7 +8006,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "Ach037",
@@ -8288,13 +8293,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4354,
+      "Progressed": 4355,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2875,
+      "Progressed": 2876,
       "Completed": 1930
     }
   ],
@@ -8302,8 +8307,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:03:17.9567189+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:03:43.8958825+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:59:24.9146213+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:03:17.9568034+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:59:37.0093767+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:03:43.8959594+00:00"
 }

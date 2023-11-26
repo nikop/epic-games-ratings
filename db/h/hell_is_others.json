@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1255,9 +1255,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258749,
+  "EOS_Progressed": 258752,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22470,6 +22470,11 @@
       "Time": "2023-11-26T08:04:27.2810127+00:00",
       "NumProgressed": 258749,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-26T09:04:52.5174138+00:00",
+      "NumProgressed": 258752,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22481,7 +22486,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18112
+      "UsersEstimate": 18113
     },
     {
       "ID": "Act2",
@@ -22497,7 +22502,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "Act4",
@@ -22529,7 +22534,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80212
+      "UsersEstimate": 80213
     },
     {
       "ID": "BackHomeNTimes",
@@ -22537,7 +22542,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12937
+      "UsersEstimate": 12938
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -22593,7 +22598,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7762
+      "UsersEstimate": 7763
     },
     {
       "ID": "CreditLevel3",
@@ -22609,7 +22614,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12937
+      "UsersEstimate": 12938
     },
     {
       "ID": "CreedsInBank2",
@@ -22617,7 +22622,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "CreedsInBank3",
@@ -22649,7 +22654,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "FullHomeExpansion",
@@ -22665,7 +22670,7 @@
       "Name": "Workhorse",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "GrowPlantWithFertilisers",
@@ -22673,7 +22678,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "GrowPlants1",
@@ -22689,7 +22694,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "GrowPlants3",
@@ -22713,7 +22718,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "KillCrawlingThing",
@@ -22729,7 +22734,7 @@
       "Name": "Homerun",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "KillOtherInFirstMinute",
@@ -22753,7 +22758,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7762
+      "UsersEstimate": 7763
     },
     {
       "ID": "KillOtherWithMine",
@@ -22769,7 +22774,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59512
+      "UsersEstimate": 59513
     },
     {
       "ID": "KillOthers2",
@@ -22833,7 +22838,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "OldCoinCollected",
@@ -22889,7 +22894,7 @@
       "Name": "A season in Century City",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "TakeFromBankNCreedsOneTime",
@@ -22921,14 +22926,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258749,
+      "Progressed": 258752,
       "Completed": 3
     }
   ],
@@ -22936,8 +22941,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-24T04:57:35.6826302+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:04:27.2810124+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:04:52.5174134+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:31.8373031+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:58:15.7159426+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:04:27.2811441+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:58:29.4325907+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:04:52.5175204+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1737,
+  "EOS_Progressed": 1738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4346,6 +4346,11 @@
       "Time": "2023-11-26T04:04:35.1820569+00:00",
       "NumProgressed": 1737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T09:04:55.5499978+00:00",
+      "NumProgressed": 1738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4453,7 +4458,7 @@
       "Name": "\u201CAliens\u201D",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
@@ -4477,7 +4482,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4533,7 +4538,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4653,7 +4658,7 @@
       "Name": "Plumber",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -4740,7 +4745,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1737,
+      "Progressed": 1738,
       "Completed": 0
     }
   ],
@@ -4748,8 +4753,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:04:30.2680021+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:04:55.5499973+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.1060902+00:00",
-  "LastUpdate_Ratings": "2023-11-26T08:00:08.9112814+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:04:30.2680547+00:00"
+  "LastUpdate_Ratings": "2023-11-26T09:00:22.8073694+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:04:55.5500471+00:00"
 }

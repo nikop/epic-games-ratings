@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -901,9 +901,9 @@
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "Remake_005",
@@ -1060,8 +1060,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:07:36.4343745+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:06:39.2435632+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:57:02.2052554+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:07:36.4343987+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:57:16.1331458+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:06:39.2435824+00:00"
 }

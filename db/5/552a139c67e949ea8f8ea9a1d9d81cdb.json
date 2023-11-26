@@ -2570,9 +2570,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 470
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2919,8 +2919,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:08:00.2258768+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:08:42.5576118+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:58:41.7064029+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:08:00.2259191+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:58:55.6033577+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:08:42.5576522+00:00"
 }

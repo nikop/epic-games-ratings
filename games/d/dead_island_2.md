@@ -8,8 +8,8 @@ Rating: 4.54 (Ranked 527)
 | Whatever It Takes | 3.00% | ~1,528 |
 | Hotel California | 2.00% | ~14,508 |
 | Welcome To Hell-A | 2.00% | ~14,508 |
-| One of Us | 2.00% | ~1,018 |
-| Pork Chopped | 2.00% | ~1,018 |
+| One of Us | 2.00% | ~1,019 |
+| Pork Chopped | 2.00% | ~1,019 |
 | Dr. Reed, I Presume? | 1.00% | ~7,254 |
 | Git Gutte! | 1.00% | ~7,254 |
 | Anger Management | 1.00% | ~7,254 |
@@ -26,12 +26,12 @@ Rating: 4.54 (Ranked 527)
 | A Patton Emerges | 1.00% | ~7,254 |
 | Stacking the Deck | 1.00% | ~7,254 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,254 |
+| Our True Nature | 1.00% | ~7,254 |
 | This is My Weapon | 1.00% | ~7,254 |
-| Perks of the Job | 0.90% | ~6,528 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,528 |
-| Slayer Squad | 0.90% | ~6,528 |
-| Ooh, Shiny! | 0.90% | ~6,528 |
-| Our True Nature | 0.90% | ~6,528 |
+| Perks of the Job | 0.90% | ~6,529 |
+| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,529 |
+| Slayer Squad | 0.90% | ~6,529 |
+| Ooh, Shiny! | 0.90% | ~6,529 |
 | Making Your Mark | 0.80% | ~5,803 |
 | I Am the Resurrection | 0.80% | ~5,803 |
 | Max Headroom | 0.80% | ~5,803 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~725 |
 | Wilhelm | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,375 (Ranked 21)  
+Progressed: 725,404 (Ranked 21)  
 Completed: 2,439 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,10 +277,10 @@ Completed: 2,439 (0.34%) (Ranked 229)
 | 2023-11-23 | 723,442 | 2,428 |
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
-| 2023-11-26 | 725,375 | 2,439 |
+| 2023-11-26 | 725,404 | 2,439 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
-Sum: 11,825 (Ranked 83)  
+Sum: 11,828 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -291,7 +291,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 510 |
 | This game has Amazing Storytelling | 494 |
 | This game is Highly Recommended | 481 |
-| This game is Extremely Fun | 477 |
+| This game is Extremely Fun | 480 |
 | This game has Amazing Characters | 441 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -515,4 +515,4 @@ Diff (max vs sum): -33
 | 2023-11-23 | 4.54 | 7,661 | 11,704 |
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
-| 2023-11-26 | 4.54 | 7,731 | 11,825 |
+| 2023-11-26 | 4.54 | 7,731 | 11,828 |

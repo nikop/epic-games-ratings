@@ -927,9 +927,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7348,
+  "EOS_Progressed": 7349,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8782,6 +8782,11 @@
       "Time": "2023-11-25T22:11:01.5987182+00:00",
       "NumProgressed": 7348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T09:09:00.3698159+00:00",
+      "NumProgressed": 7349,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8833,7 +8838,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4482
+      "UsersEstimate": 4483
     },
     {
       "ID": "Control_All_Relics",
@@ -8897,7 +8902,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5658
+      "UsersEstimate": 5659
     },
     {
       "ID": "First_Race_Met",
@@ -8929,7 +8934,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5658
+      "UsersEstimate": 5659
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9111,9 +9116,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4482
+      "UsersEstimate": 4409
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9281,7 +9286,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4776
+      "UsersEstimate": 4777
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9368,15 +9373,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7348,
+      "Progressed": 7349,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-24T10:59:15.0247193+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:08:27.7412888+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:09:00.3698156+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:12.8136336+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:59:11.9075014+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:08:27.7413856+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:59:23.4105347+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:09:00.3699096+00:00"
 }

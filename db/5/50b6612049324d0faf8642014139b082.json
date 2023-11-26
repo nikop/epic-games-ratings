@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1222,6 +1222,11 @@
       "Time": "2023-11-26T08:09:01.9138169+00:00",
       "NumProgressed": 528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T09:09:34.1747659+00:00",
+      "NumProgressed": 531,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1242,7 +1247,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_11",
@@ -1258,7 +1263,7 @@
       "Name": "Snow Specialist",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_13",
@@ -1272,9 +1277,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 201
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_15",
@@ -1296,9 +1301,9 @@
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_18",
@@ -1322,7 +1327,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 407
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_20",
@@ -1360,9 +1365,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_25",
@@ -1370,7 +1375,7 @@
       "Name": "E-stonia",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_26",
@@ -1378,7 +1383,7 @@
       "Name": "Driver\u0027s Alliance",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_3",
@@ -1418,7 +1423,7 @@
       "Name": "NEW PB!",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_8",
@@ -1441,7 +1446,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 531,
       "Completed": 0
     }
   ],
@@ -1449,8 +1454,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-26T01:47:49.070387+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:09:01.9138165+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:09:34.1747652+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:58:11.9387495+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:09:01.9138399+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:58:25.6187869+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:09:34.1747876+00:00"
 }

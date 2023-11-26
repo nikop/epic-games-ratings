@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -567,6 +567,11 @@
       "Time": "2023-11-26T08:07:57.812357+00:00",
       "NumProgressed": 276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-26T09:08:40.0843787+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -635,7 +640,7 @@
       "Name": "Combo Convert",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -643,7 +648,7 @@
       "Name": "Perfect Run",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -699,7 +704,7 @@
       "Name": "Superior Ranking",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -707,7 +712,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GET_FISH_ALL",
@@ -737,9 +742,9 @@
       "ID": "MAIN_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ancient Defiance",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -785,9 +790,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Memories",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -898,14 +903,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:07:57.8123567+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:08:40.0843782+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:59:28.7464524+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:07:57.8123847+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:59:40.9383462+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:08:40.0844091+00:00"
 }

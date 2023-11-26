@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1666,9 +1666,9 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -1721,8 +1721,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:05:11.637836+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:05:35.7107131+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:19.4276968+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:57:09.8151476+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:05:11.6378575+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:57:23.7333308+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:05:35.7107314+00:00"
 }

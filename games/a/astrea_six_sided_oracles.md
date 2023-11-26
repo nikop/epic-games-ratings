@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 51.00% | ~44 |
-| Purification Pioneer | 48.00% | ~41 |
+| Meissa's Savior | 52.00% | ~45 |
+| Purification Pioneer | 48.00% | ~42 |
+| Mechanical Buddy | 46.00% | ~40 |
 | Dicesmithing Time! | 45.00% | ~39 |
-| Mechanical Buddy | 45.00% | ~39 |
-| Endless Tricks | 42.00% | ~36 |
-| Sanctuary Guardian | 40.00% | ~34 |
+| Endless Tricks | 41.00% | ~36 |
+| Sanctuary Guardian | 40.00% | ~35 |
 | Noctuan Champion | 36.00% | ~31 |
-| Mind Illuminator | 35.00% | ~30 |
-| Wild's Keeper | 33.00% | ~28 |
+| Mind Illuminator | 34.00% | ~30 |
+| Wild's Keeper | 32.00% | ~28 |
 | Stellar Dismantler | 28.00% | ~24 |
 | Eridanian Champion | 28.00% | ~24 |
 | Lacertian Champion | 28.00% | ~24 |
-| Anomaly Destroyer | 26.00% | ~22 |
-| Apian Champion | 26.00% | ~22 |
+| Anomaly Destroyer | 25.00% | ~22 |
+| Apian Champion | 25.00% | ~22 |
 | Star Killer | 24.00% | ~21 |
 | Loyal Partner | 22.00% | ~19 |
 | Behenian Champion | 22.00% | ~19 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 446)  
+Progressed: 87 (Ranked 445)  
 Completed: 0 (0.00%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,4 +141,4 @@ Completed: 0 (0.00%) (Ranked 360)
 | 2023-11-23 | 76 | 0 |
 | 2023-11-24 | 79 | 0 |
 | 2023-11-25 | 84 | 0 |
-| 2023-11-26 | 86 | 0 |
+| 2023-11-26 | 87 | 0 |

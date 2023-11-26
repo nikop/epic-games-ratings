@@ -29,9 +29,9 @@
 | Airborne | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |
 | Clear Sight | 2.00% | ~4 |
+| Miner | 2.00% | ~4 |
 | A Queen's Tale | 2.00% | ~4 |
 | Slayer | 1.00% | ~2 |
-| Miner | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Flawless Victory | 0.90% | ~2 |
 | All There Is | 0.90% | ~2 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532035,
+  "EOS_Progressed": 532036,
   "EOS_Completed": 502,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -23832,6 +23832,11 @@
       "Time": "2023-11-26T07:07:33.0190371+00:00",
       "NumProgressed": 532035,
       "NumCompleted": 502
+    },
+    {
+      "Time": "2023-11-26T09:06:18.6034388+00:00",
+      "NumProgressed": 532036,
+      "NumCompleted": 502
     }
   ],
   "TotalAchievements": 57,
@@ -23859,7 +23864,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372424
+      "UsersEstimate": 372425
     },
     {
       "ID": "12",
@@ -23939,7 +23944,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127688
+      "UsersEstimate": 127689
     },
     {
       "ID": "21",
@@ -23963,7 +23968,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 37242
+      "UsersEstimate": 37243
     },
     {
       "ID": "24",
@@ -24043,7 +24048,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 37242
+      "UsersEstimate": 37243
     },
     {
       "ID": "33",
@@ -24219,7 +24224,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244736
+      "UsersEstimate": 244737
     },
     {
       "ID": "53",
@@ -24298,15 +24303,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532035,
+      "Progressed": 532036,
       "Completed": 502
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-26T08:05:54.7542882+00:00",
+  "LastChanged_Achievements": "2023-11-26T09:06:18.6034385+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:56.9532267+00:00",
-  "LastUpdate_Ratings": "2023-11-26T07:57:02.5768308+00:00",
-  "LastUpdate_Achievements": "2023-11-26T08:05:54.7544037+00:00"
+  "LastUpdate_Ratings": "2023-11-26T08:57:16.5179107+00:00",
+  "LastUpdate_Achievements": "2023-11-26T09:06:18.603622+00:00"
 }
