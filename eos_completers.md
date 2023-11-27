@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.21% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.20% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.32% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
@@ -84,7 +84,7 @@
 | 82 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 83 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.31% |
 | 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.27% |
-| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.21% |
+| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.20% |
 | 86 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
 | 87 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 88 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 3.85% |
@@ -127,10 +127,10 @@
 | 125 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.06% |
 | 126 | [Night Book](games/n/night_book.md) | 2.03% |
 | 127 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
-| 128 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
-| 129 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.89% |
-| 130 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
-| 130 | [Somerville](games/s/somerville.md) | 1.87% |
+| 128 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
+| 129 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
+| 129 | [Somerville](games/s/somerville.md) | 1.87% |
+| 131 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.85% |
 | 132 | [Sifu](games/s/sifu.md) | 1.80% |
 | 133 | [Frogun](games/f/frogun.md) | 1.79% |
 | 134 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.78% |
@@ -151,7 +151,7 @@
 | 149 | [Chorus](games/c/chorus.md) | 1.31% |
 | 150 | [Dungeons 4](games/d/dungeons_4.md) | 1.30% |
 | 150 | [Ten Dates](games/t/ten_dates.md) | 1.30% |
-| 152 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.26% |
+| 152 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.27% |
 | 153 | [Iron Danger](games/i/iron_danger.md) | 1.25% |
 | 153 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 155 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
@@ -207,8 +207,8 @@
 | 204 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 206 | [Eternights](games/e/eternights.md) | 0.48% |
 | 206 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
-| 208 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.47% |
-| 208 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.47% |
+| 206 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.48% |
+| 209 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.47% |
 | 210 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 210 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.45% |
 | 212 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.44% |
