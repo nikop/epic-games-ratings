@@ -7193,10 +7193,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27608,
       "NumberOfAwardsMax": 4848
+    },
+    {
+      "Time": "2023-11-27T16:03:08.6604686+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27609,
+      "NumberOfAwardsMax": 4848
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27608,
+  "NumberOfAwards": 27609,
   "NumberOfAwardsMax": 4848,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7246,12 +7252,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3785
+      "Count": 3786
     }
   ],
-  "EOS_Progressed": 142457,
+  "EOS_Progressed": 142469,
   "EOS_Completed": 278,
-  "EOS_NewPlayers": 1756,
+  "EOS_NewPlayers": 1766,
   "EOS_NewCompleters": 90,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30094,6 +30100,11 @@
       "Time": "2023-11-27T15:02:59.4795696+00:00",
       "NumProgressed": 142457,
       "NumCompleted": 278
+    },
+    {
+      "Time": "2023-11-27T16:03:35.8407347+00:00",
+      "NumProgressed": 142469,
+      "NumCompleted": 278
     }
   ],
   "TotalAchievements": 112,
@@ -30255,9 +30266,9 @@
       "ID": "boss03",
       "SetID": "anfd17p",
       "Name": "Bane of Legends",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 712
     },
     {
       "ID": "champions01",
@@ -30273,7 +30284,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8547
+      "UsersEstimate": 8548
     },
     {
       "ID": "chest02",
@@ -30337,7 +30348,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8547
+      "UsersEstimate": 8548
     },
     {
       "ID": "commonres02",
@@ -30369,7 +30380,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5698
+      "UsersEstimate": 5699
     },
     {
       "ID": "craft02",
@@ -30481,7 +30492,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5698
+      "UsersEstimate": 5699
     },
     {
       "ID": "expansion02",
@@ -30671,9 +30682,9 @@
       "ID": "jackslot03",
       "SetID": "anfd17p",
       "Name": "JACKPOT!!!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 712
     },
     {
       "ID": "legenchant01",
@@ -30689,7 +30700,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5698
+      "UsersEstimate": 5699
     },
     {
       "ID": "level02",
@@ -30881,7 +30892,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5698
+      "UsersEstimate": 5699
     },
     {
       "ID": "sell02",
@@ -30921,7 +30932,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8547
+      "UsersEstimate": 8548
     },
     {
       "ID": "twinenchant01",
@@ -31000,15 +31011,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142457,
+      "Progressed": 142469,
       "Completed": 278
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-26T22:03:52.4347232+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:02:59.4795694+00:00",
+  "LastChanged": "2023-11-27T16:03:08.6604684+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:03:35.8407343+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:02:42.4103391+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:02:59.4797582+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:03:08.660469+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:03:35.8409276+00:00"
 }

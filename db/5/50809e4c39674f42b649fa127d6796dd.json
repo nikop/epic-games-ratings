@@ -2,10 +2,10 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 347,
+  "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 320,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -687,6 +687,11 @@
       "Time": "2023-11-27T15:08:29.7429343+00:00",
       "NumProgressed": 316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T16:08:56.2288255+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -715,7 +720,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -739,7 +744,7 @@
       "Name": "Hardened Hedgehog",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -747,7 +752,7 @@
       "Name": "Easy Prey",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -755,7 +760,7 @@
       "Name": "Combo Convert",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -763,7 +768,7 @@
       "Name": "Perfect Run",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -771,7 +776,7 @@
       "Name": "Big Encounter",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -779,7 +784,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -787,15 +792,15 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -803,15 +808,15 @@
       "Name": "Unknown Threat",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 266
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 141
     },
     {
       "ID": "FIRST_S_RANK",
@@ -819,7 +824,7 @@
       "Name": "Superior Ranking",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -889,9 +894,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 170
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -955,7 +960,7 @@
       "Name": "Unrivaled Aptitude",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -979,7 +984,7 @@
       "Name": "Kronos Island Expert",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -1011,21 +1016,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 320,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:08:29.7429339+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:08:56.2288249+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:00:19.6111264+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:08:29.7429597+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:01:33.7526729+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:08:56.2288635+00:00"
 }

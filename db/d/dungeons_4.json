@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1135,9 +1135,9 @@
       "ID": "ach_main01begin_storm",
       "SetID": "4hg22ll",
       "Name": "Thalya\u0027s Concentrated Fury",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 314
     },
     {
       "ID": "ach_main02horde_completed",
@@ -1175,9 +1175,9 @@
       "ID": "ach_main03demon_doors",
       "SetID": "4hg22ll",
       "Name": "Master of Magic",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 295
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1231,9 +1231,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 272
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -1399,9 +1399,9 @@
       "ID": "ach_main12race_tanosevilness",
       "SetID": "4hg22ll",
       "Name": "Stop Tanos!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 80
     },
     {
       "ID": "ach_main12race_torture",
@@ -1439,9 +1439,9 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 94
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -1487,9 +1487,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -1559,9 +1559,9 @@
       "ID": "ach_main19war_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 2)",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_main19war_heal",
@@ -1614,8 +1614,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:06:06.3153333+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:07:27.3350136+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:59:26.0599216+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:06:06.3153908+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:00:19.7256581+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:07:27.3350865+00:00"
 }

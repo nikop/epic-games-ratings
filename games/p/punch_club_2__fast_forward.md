@@ -57,13 +57,13 @@
 | Absolute Champion! | 36.00% | ~127 |
 | Your own way | 36.00% | ~127 |
 | Not little hacker | 35.00% | ~123 |
+| Anyone can resist | 35.00% | ~123 |
 | Trap disarmed | 34.00% | ~120 |
 | The lonesome road | 34.00% | ~120 |
 | Keep nature safe | 34.00% | ~120 |
 | Family comes first | 34.00% | ~120 |
 | Key memories | 34.00% | ~120 |
 | Careerist | 34.00% | ~120 |
-| Anyone can resist | 34.00% | ~120 |
 | The heart of the Resistance | 34.00% | ~120 |
 | Another world | 33.00% | ~116 |
 | The last bell ring | 32.00% | ~113 |

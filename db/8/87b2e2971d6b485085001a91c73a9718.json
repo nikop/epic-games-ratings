@@ -4,8 +4,8 @@
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
   "Ranking_EOS_Progress": 698,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-30T08:00:00+00:00",
     "PcReleaseDate": "2021-03-26T08:00:00+00:00",
@@ -248,8 +248,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:05:48.5509589+00:00",
-  "LastUpdate_AppInfo": "2023-11-20T14:57:09.863604+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:00:32.378017+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:05:48.5509845+00:00"
+  "LastChanged_Achievements": "2023-11-27T16:07:04.0743483+00:00",
+  "LastUpdate_AppInfo": "2023-11-27T15:57:06.8933804+00:00",
+  "LastUpdate_Ratings": "2023-11-27T16:02:42.1891879+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:07:04.0743601+00:00"
 }

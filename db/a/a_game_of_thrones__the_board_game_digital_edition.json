@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29267,
+  "EOS_Progressed": 29270,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -25096,6 +25096,11 @@
       "Time": "2023-11-27T15:09:03.4996049+00:00",
       "NumProgressed": 29267,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-27T16:09:40.0763147+00:00",
+      "NumProgressed": 29270,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -25131,7 +25136,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "1019",
@@ -25147,7 +25152,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "1021",
@@ -25155,7 +25160,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "1022",
@@ -25179,7 +25184,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "1025",
@@ -25211,7 +25216,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5268
+      "UsersEstimate": 5269
     },
     {
       "ID": "1029",
@@ -25219,7 +25224,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "1030",
@@ -25227,7 +25232,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5853
+      "UsersEstimate": 5854
     },
     {
       "ID": "1031",
@@ -25235,7 +25240,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4097
+      "UsersEstimate": 4098
     },
     {
       "ID": "1032",
@@ -25243,7 +25248,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11707
+      "UsersEstimate": 11708
     },
     {
       "ID": "1033",
@@ -25275,22 +25280,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29267,
+      "Progressed": 29270,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:09:03.4996045+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:09:40.0763142+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.1522502+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:58:03.5020728+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:09:03.4997189+00:00"
+  "LastUpdate_Ratings": "2023-11-27T15:58:27.6890953+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:09:40.0764481+00:00"
 }

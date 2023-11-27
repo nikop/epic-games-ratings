@@ -10,12 +10,12 @@
 | Hammer Time, Round Two | 78.00% | ~366 |
 | The Hellwoods | 72.00% | ~338 |
 | The Plains of Strothalm | 68.00% | ~319 |
+| Thalya's Concentrated Fury | 67.00% | ~314 |
 | Experienced Thalya | 67.00% | ~314 |
-| Thalya's Concentrated Fury | 66.00% | ~310 |
+| Master of Magic | 63.00% | ~295 |
 | Bad Elves Go Everywhere | 63.00% | ~295 |
-| Master of Magic | 62.00% | ~291 |
+| Unicorn steaks – fresh off the hoof! | 58.00% | ~272 |
 | Heroes’ Gorge | 58.00% | ~272 |
-| Unicorn steaks – fresh off the hoof! | 57.00% | ~267 |
 | Magic Accidents | 56.00% | ~263 |
 | Trap Master | 54.00% | ~253 |
 | Minions, Minions! | 53.00% | ~249 |
@@ -39,11 +39,11 @@
 | Hungry, Hungry Gorgu! | 20.00% | ~94 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~94 |
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~94 |
-| If Looks Could Kill | 19.00% | ~89 |
+| If Looks Could Kill | 20.00% | ~94 |
 | The Finitude Drill | 18.00% | ~84 |
-| Stop Tanos! | 16.00% | ~75 |
+| Stop Tanos! | 17.00% | ~80 |
+| Doom Hill | 16.00% | ~75 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~70 |
-| Doom Hill | 15.00% | ~70 |
 | Sabotage! | 14.00% | ~66 |
 | Bonus Evilness | 13.00% | ~61 |
 | Brimstone Shaken, Not Stirred | 13.00% | ~61 |
@@ -51,8 +51,8 @@
 | Raiders of the Lost Stone | 12.00% | ~56 |
 | The Rune Sockets of Finitude (Part 1) | 12.00% | ~56 |
 | Lavalumps on Ice! | 11.00% | ~52 |
+| The Rune Sockets of Finitude (Part 2) | 11.00% | ~52 |
 | Rubble and Ashes | 10.00% | ~47 |
-| The Rune Sockets of Finitude (Part 2) | 10.00% | ~47 |
 | Untouchable | 9.00% | ~42 |
 | To Infinity And Beyond! | 9.00% | ~42 |
 | The Last Stand - This Time For Real! | 9.00% | ~42 |

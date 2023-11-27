@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,547 |
-| Basic in Bulk | 6.00% | ~8,547 |
-| Titan's First Steps | 6.00% | ~8,547 |
+| Sponsored by Argon | 6.00% | ~8,548 |
+| Basic in Bulk | 6.00% | ~8,548 |
+| Titan's First Steps | 6.00% | ~8,548 |
 | Tinkle of Coins | 5.00% | ~7,123 |
-| Disintermediation | 4.00% | ~5,698 |
-| It's Free Real Estate | 4.00% | ~5,698 |
-| Budding Merchant | 4.00% | ~5,698 |
-| Capitalism Ho! | 4.00% | ~5,698 |
+| Disintermediation | 4.00% | ~5,699 |
+| It's Free Real Estate | 4.00% | ~5,699 |
+| Budding Merchant | 4.00% | ~5,699 |
+| Capitalism Ho! | 4.00% | ~5,699 |
 | The Daily Grind | 3.00% | ~4,274 |
 | One Easy Payment | 3.00% | ~4,274 |
 | Some Assembly Required | 3.00% | ~4,274 |
@@ -107,19 +107,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.80% | ~1,140 |
 | The Greatest Grind | 0.60% | ~855 |
 | All or Nothing! | 0.60% | ~855 |
+| Bane of Legends | 0.50% | ~712 |
+| JACKPOT!!! | 0.50% | ~712 |
 | Anything not Nailed Down | 0.50% | ~712 |
 | Marvels from the World Over | 0.50% | ~712 |
-| Bane of Legends | 0.40% | ~570 |
 | Ultimate Collector | 0.40% | ~570 |
 | Unleashed Potential | 0.40% | ~570 |
-| JACKPOT!!! | 0.40% | ~570 |
 | Oligarch Monarch | 0.30% | ~427 |
 | Merchant Extraordinaire | 0.30% | ~427 |
 | To Hell and Back | 0.30% | ~427 |
 | Cash Only Please | 0.30% | ~427 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,457 (Ranked 80)  
+Progressed: 142,469 (Ranked 80)  
 Completed: 278 (0.20%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,10 +340,10 @@ Completed: 278 (0.20%) (Ranked 256)
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
-| 2023-11-27 | 142,457 | 278 |
+| 2023-11-27 | 142,469 | 278 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
-Sum: 27,608 (Ranked 50)  
+Sum: 27,609 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -351,7 +351,7 @@ Diff (max vs sum): 25
 | This game is Relaxing | 4,046 |
 | This game has Quickly Understood Controls | 4,034 |
 | This game has Diverse Characters | 3,952 |
-| This game is Highly Recommended | 3,785 |
+| This game is Highly Recommended | 3,786 |
 | This game has Easy Combat | 3,732 |
 | This game has Playful Visuals | 3,211 |
 | This game has Inclusive Character Customization | 22 |
@@ -658,3 +658,4 @@ Diff (max vs sum): 25
 | 2023-11-24 | 3.99 | - | 4,842 | 27,589 |
 | 2023-11-25 | 3.99 | - | 4,844 | 27,598 |
 | 2023-11-26 | 3.99 | - | 4,848 | 27,608 |
+| 2023-11-27 | 3.99 | - | 4,848 | 27,609 |

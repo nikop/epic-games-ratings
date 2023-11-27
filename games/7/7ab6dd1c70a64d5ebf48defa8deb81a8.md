@@ -29,7 +29,7 @@
 | The Mentor | 3.00% | ~7 |
 | Airborne | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |
-| Miner | 2.00% | ~5 |
+| Miner | 3.00% | ~7 |
 | A Queen's Tale | 2.00% | ~5 |
 | Slayer | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |

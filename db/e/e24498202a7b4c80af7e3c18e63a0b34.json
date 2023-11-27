@@ -6,9 +6,9 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -133,11 +133,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7067,
-  "EOS_Completed": 40,
-  "EOS_NewPlayers": 200,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Progressed": 7068,
+  "EOS_Completed": 41,
+  "EOS_NewPlayers": 201,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-09-14T16:03:29.9033985+00:00",
@@ -6288,6 +6288,11 @@
       "Time": "2023-11-27T15:03:05.5880924+00:00",
       "NumProgressed": 7067,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-27T16:03:43.4890513+00:00",
+      "NumProgressed": 7068,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6300,7 +6305,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6148
+      "UsersEstimate": 6149
     },
     {
       "ID": "achievement_01_02",
@@ -6316,7 +6321,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "achievement_01_04",
@@ -6332,7 +6337,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3393
     },
     {
       "ID": "achievement_01_06",
@@ -6340,7 +6345,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4240
+      "UsersEstimate": 4241
     },
     {
       "ID": "achievement_01_07",
@@ -6348,7 +6353,7 @@
       "Name": "Car Workshop",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "achievement_01_08",
@@ -6444,7 +6449,7 @@
       "Name": "USA - Check!",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2050
     },
     {
       "ID": "achievement_03_02",
@@ -6532,7 +6537,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_04_02",
@@ -6540,7 +6545,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3321
+      "UsersEstimate": 3322
     },
     {
       "ID": "achievement_04_03",
@@ -6580,7 +6585,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "achievement_04_08",
@@ -6603,16 +6608,16 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7067,
-      "Completed": 40
+      "Progressed": 7068,
+      "Completed": 41
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-18T21:58:48.6399645+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:03:05.5880923+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:03:43.4890509+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:06.7248226+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:59:30.6758567+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:03:05.5881505+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:00:26.2825762+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:03:43.4890933+00:00"
 }

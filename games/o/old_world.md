@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 310)  
+Rating: 4.65 (Ranked 311)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -573,17 +573,17 @@ Completed: 5 (0.03%) (Ranked 325)
 | 2023-11-27 | 15,522 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
-Sum: 1,877 (Ranked 218)  
+Sum: 1,879 (Ranked 218)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 228 |
 | This game has Diverse Characters | 220 |
-| This game is Highly Recommended | 218 |
+| This game is Highly Recommended | 219 |
 | This game is Extremely Fun | 214 |
 | This game is Educational | 212 |
 | This game has Challenging Combat | 202 |
-| This game has Amazing Characters | 196 |
+| This game has Amazing Characters | 197 |
 | This game has Quickly Understood Controls | 194 |
 | This game has Amazing Storytelling | 193 |
 | This game has Obsessive Gameplay | 155 |
@@ -756,4 +756,4 @@ Diff (max vs sum): 56
 | 2023-11-21 | 4.65 | - | 227 | 1,873 |
 | 2023-11-23 | 4.65 | - | 227 | 1,874 |
 | 2023-11-25 | 4.65 | - | 228 | 1,875 |
-| 2023-11-27 | 4.65 | - | 228 | 1,877 |
+| 2023-11-27 | 4.65 | - | 228 | 1,879 |

@@ -14,7 +14,7 @@
 | Leisis Bless You | 9.00% | ~8 |
 | Bladesmith | 8.00% | ~7 |
 | Explorer | 7.00% | ~6 |
-| The Guardian of Fire | 6.00% | ~5 |
+| The Guardian of Fire | 7.00% | ~6 |
 | Sovereignty of Irons | 6.00% | ~5 |
 | A Sandwyrm's Hoard | 6.00% | ~5 |
 | Twin Thorns | 6.00% | ~5 |

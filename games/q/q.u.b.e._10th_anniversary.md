@@ -5,32 +5,32 @@ Rating: 4.43 (Ranked 692)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 22.00% | ~4,916 |
-| Sector 2 | 20.00% | ~4,469 |
-| Crush That Cube! | 17.00% | ~3,799 |
-| Sector 3 | 17.00% | ~3,799 |
-| Sector 4 | 14.00% | ~3,129 |
-| Crush That Ball! | 13.00% | ~2,905 |
-| Sector 5 | 9.00% | ~2,011 |
+| Sector 1 | 22.00% | ~4,918 |
+| Sector 2 | 20.00% | ~4,471 |
+| Crush That Cube! | 17.00% | ~3,800 |
+| Sector 3 | 17.00% | ~3,800 |
+| Sector 4 | 14.00% | ~3,130 |
+| Crush That Ball! | 13.00% | ~2,906 |
+| Sector 5 | 9.00% | ~2,012 |
 | Sector 6 | 8.00% | ~1,788 |
 | Feeling the Blues | 6.00% | ~1,341 |
 | Squished | 6.00% | ~1,341 |
 | Sector 7 | 6.00% | ~1,341 |
-| Finale | 5.00% | ~1,117 |
-| Did That Work? -- No! | 5.00% | ~1,117 |
-| Master Room | 3.00% | ~670 |
+| Finale | 5.00% | ~1,118 |
+| Did That Work? -- No! | 5.00% | ~1,118 |
+| Master Room | 3.00% | ~671 |
 | The Puzzle Master | 2.00% | ~447 |
-| The Collector | 1.00% | ~223 |
-| Bronze Trophy | 1.00% | ~223 |
-| Master Of The Collectables | 1.00% | ~223 |
-| Gold Trophy | 1.00% | ~223 |
-| Hopefully that's all of them! | 1.00% | ~223 |
-| Phew! | 1.00% | ~223 |
-| Silver Trophy | 1.00% | ~223 |
-| Completed It. | 1.00% | ~223 |
-| Maxed Out | 1.00% | ~223 |
+| The Collector | 1.00% | ~224 |
+| Bronze Trophy | 1.00% | ~224 |
+| Master Of The Collectables | 1.00% | ~224 |
+| Gold Trophy | 1.00% | ~224 |
+| Hopefully that's all of them! | 1.00% | ~224 |
+| Phew! | 1.00% | ~224 |
+| Silver Trophy | 1.00% | ~224 |
+| Completed It. | 1.00% | ~224 |
+| Maxed Out | 1.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,347 (Ranked 134)  
+Progressed: 22,355 (Ranked 134)  
 Completed: 107 (0.48%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 107 (0.48%) (Ranked 206)
 | 2023-11-24 | 21,740 | 99 |
 | 2023-11-25 | 22,007 | 103 |
 | 2023-11-26 | 22,281 | 104 |
-| 2023-11-27 | 22,347 | 107 |
+| 2023-11-27 | 22,355 | 107 |
 ## Awards
 Max (Challenging Puzzles): 20  (Ranked 549)  
 Sum: 20 (Ranked 550)  

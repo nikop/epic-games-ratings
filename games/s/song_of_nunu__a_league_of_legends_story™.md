@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~712 |
+| Feels Familiar | 75.00% | ~713 |
 | I Broke It | 73.00% | ~694 |
-| Better On Ice | 68.00% | ~646 |
-| Notai Notes | 67.00% | ~636 |
-| Blue Dreams | 66.00% | ~627 |
-| He's Famous! | 66.00% | ~627 |
-| Cutie Poro | 66.00% | ~627 |
-| Krugmazing | 64.00% | ~608 |
+| Better On Ice | 68.00% | ~647 |
+| Notai Notes | 67.00% | ~637 |
+| Blue Dreams | 66.00% | ~628 |
+| He's Famous! | 66.00% | ~628 |
+| Cutie Poro | 66.00% | ~628 |
+| Krugmazing | 64.00% | ~609 |
 | Moneyball | 61.00% | ~580 |
 | The Fire Below the Mountain | 61.00% | ~580 |
-| No Bites | 55.00% | ~522 |
-| Iceborn | 55.00% | ~522 |
-| Tear of Freedom | 52.00% | ~494 |
-| Boom Things | 52.00% | ~494 |
+| No Bites | 55.00% | ~523 |
+| Iceborn | 55.00% | ~523 |
+| Tear of Freedom | 52.00% | ~495 |
+| Boom Things | 52.00% | ~495 |
 | My Darkest Day | 49.00% | ~466 |
 | Rhythm Of Willump | 46.00% | ~437 |
 | The Relentless Storm | 46.00% | ~437 |
@@ -35,21 +35,21 @@
 | Freeze The Ice Witch | 36.00% | ~342 |
 | It Is Not Over | 34.00% | ~323 |
 | On The Rocks | 34.00% | ~323 |
-| Snowy Poro | 31.00% | ~294 |
-| Never Gets Old | 31.00% | ~294 |
-| Vertical Power | 27.00% | ~256 |
+| Snowy Poro | 31.00% | ~295 |
+| Never Gets Old | 31.00% | ~295 |
+| Vertical Power | 27.00% | ~257 |
 | One From The Heart | 14.00% | ~133 |
 | Yummy | 10.00% | ~95 |
 | Snowball Fightn't | 9.00% | ~86 |
 | It Was Him | 8.00% | ~76 |
-| Handy Yeti | 7.00% | ~66 |
+| Handy Yeti | 7.00% | ~67 |
 | The Pied Piper Of Freljord | 5.00% | ~48 |
-| Braum's Poro Ranch | 3.00% | ~28 |
+| Braum's Poro Ranch | 3.00% | ~29 |
 | Sneaky Notai | 2.00% | ~19 |
 | Rock Star | 2.00% | ~19 |
 | We Are Speed | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 950 (Ranked 266)  
+Progressed: 951 (Ranked 266)  
 Completed: 8 (0.84%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,4 +87,4 @@ Completed: 8 (0.84%) (Ranked 176)
 | 2023-11-24 | 860 | 8 |
 | 2023-11-25 | 898 | 8 |
 | 2023-11-26 | 935 | 8 |
-| 2023-11-27 | 950 | 8 |
+| 2023-11-27 | 951 | 8 |

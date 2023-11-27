@@ -11,17 +11,17 @@
 | Bank Heisted | 0.60% | ~51 |
 | Crocodile Maxed Out | 0.20% | ~17 |
 | Nuclear Plant Heisted | 0.20% | ~17 |
-| All Objectives Complete | 0.10% | ~8 |
-| All Gold Chest Slots Unlocked | 0.10% | ~8 |
-| Bandit Camp Heisted | 0.10% | ~8 |
-| Bank Objectives Complete | 0.10% | ~8 |
-| Chicken Maxed Out | 0.10% | ~8 |
-| All Weapons Purchased | 0.10% | ~8 |
-| Military Base Heisted | 0.10% | ~8 |
-| Monkey Maxed Out | 0.10% | ~8 |
-| Moose Maxed Out | 0.10% | ~8 |
-| Prison Objectives Complete | 0.10% | ~8 |
-| Prison Heisted | 0.10% | ~8 |
+| All Objectives Complete | 0.10% | ~9 |
+| All Gold Chest Slots Unlocked | 0.10% | ~9 |
+| Bandit Camp Heisted | 0.10% | ~9 |
+| Bank Objectives Complete | 0.10% | ~9 |
+| Chicken Maxed Out | 0.10% | ~9 |
+| All Weapons Purchased | 0.10% | ~9 |
+| Military Base Heisted | 0.10% | ~9 |
+| Monkey Maxed Out | 0.10% | ~9 |
+| Moose Maxed Out | 0.10% | ~9 |
+| Prison Objectives Complete | 0.10% | ~9 |
+| Prison Heisted | 0.10% | ~9 |
 | Got All The Serums | 0.00% | ~0 |
 | Got All The Skulls | 0.00% | ~0 |
 | Got All The Sombreros | 0.00% | ~0 |
@@ -33,7 +33,7 @@
 | Temple Objectives Complete | 0.00% | ~0 |
 | Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,499 (Ranked 172)  
+Progressed: 8,503 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 8,480 | 0 |
 | 2023-11-25 | 8,488 | 0 |
 | 2023-11-26 | 8,494 | 0 |
-| 2023-11-27 | 8,499 | 0 |
+| 2023-11-27 | 8,503 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

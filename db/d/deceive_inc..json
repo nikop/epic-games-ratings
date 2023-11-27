@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18928,
+  "EOS_Progressed": 18929,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -13239,6 +13239,11 @@
       "Time": "2023-11-27T12:08:10.1806953+00:00",
       "NumProgressed": 18928,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T16:07:51.84803+00:00",
+      "NumProgressed": 18929,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13250,7 +13255,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5678
+      "UsersEstimate": 5679
     },
     {
       "ID": "0002",
@@ -13314,7 +13319,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4353
+      "UsersEstimate": 4354
     },
     {
       "ID": "0010",
@@ -13338,7 +13343,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "0013",
@@ -13354,7 +13359,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "0015",
@@ -13466,7 +13471,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4353
+      "UsersEstimate": 4354
     },
     {
       "ID": "0029",
@@ -13537,7 +13542,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18928,
+      "Progressed": 18929,
       "Completed": 4
     }
   ],
@@ -13545,8 +13550,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:06:24.8015542+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:07:51.8480297+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:57:08.2452109+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:06:24.8016261+00:00"
+  "LastUpdate_Ratings": "2023-11-27T15:57:17.9349185+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:07:51.8481186+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
     "PcReleaseDate": "2021-10-07T04:00:00+00:00",
@@ -8585,10 +8585,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 7366,
       "NumberOfAwardsMax": 960
+    },
+    {
+      "Time": "2023-11-27T16:00:57.6932921+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 7372,
+      "NumberOfAwardsMax": 960
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7366,
+  "NumberOfAwards": 7372,
   "NumberOfAwardsMax": 960,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8596,7 +8602,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 903
+      "Count": 905
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8626,7 +8632,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 920
+      "Count": 921
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8638,7 +8644,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 916
+      "Count": 919
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8658,8 +8664,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-11-27T05:59:30.3372648+00:00",
+  "LastChanged": "2023-11-27T16:00:57.6932919+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:57.2986109+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:59:54.486641+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:03:52.2189419+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:00:57.6932925+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:04:31.1965772+00:00"
 }

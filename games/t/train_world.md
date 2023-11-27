@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trainee | 25.00% | ~4 |
-| City Link | 25.00% | ~4 |
-| Line Up | 19.00% | ~3 |
-| Steam Power | 19.00% | ~3 |
-| Task Apprentice | 19.00% | ~3 |
-| Billionaire Club | 13.00% | ~2 |
-| Full House | 13.00% | ~2 |
-| Speed Demon | 13.00% | ~2 |
-| Regional Express | 13.00% | ~2 |
-| Urban Network | 13.00% | ~2 |
-| Supply Chain | 13.00% | ~2 |
-| Heavy Load | 13.00% | ~2 |
-| Line Master | 13.00% | ~2 |
-| Industrial Revolution | 13.00% | ~2 |
-| Double Trouble | 13.00% | ~2 |
+| Trainee | 24.00% | ~4 |
+| City Link | 24.00% | ~4 |
+| Line Up | 18.00% | ~3 |
+| Steam Power | 18.00% | ~3 |
+| Task Apprentice | 18.00% | ~3 |
+| Billionaire Club | 12.00% | ~2 |
+| Full House | 12.00% | ~2 |
+| Speed Demon | 12.00% | ~2 |
+| Regional Express | 12.00% | ~2 |
+| Urban Network | 12.00% | ~2 |
+| Supply Chain | 12.00% | ~2 |
+| Heavy Load | 12.00% | ~2 |
+| Line Master | 12.00% | ~2 |
+| Industrial Revolution | 12.00% | ~2 |
+| Double Trouble | 12.00% | ~2 |
 | World Explorer | 6.00% | ~1 |
 | Diesel Dream | 6.00% | ~1 |
 | Electric Avenue | 6.00% | ~1 |
@@ -55,7 +55,7 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 575)  
+Progressed: 17 (Ranked 570)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,3 +74,4 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-22 | 13 | 0 |
 | 2023-11-24 | 15 | 0 |
 | 2023-11-25 | 16 | 0 |
+| 2023-11-27 | 17 | 0 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -2947,9 +2947,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 603
+      "UsersEstimate": 614
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -3251,9 +3251,9 @@
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
       "SetID": "5fn8ia4",
       "Name": "Expert in the Field",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 296
     },
     {
       "ID": "GSS_ACH_79_JACK_OF_ALL_TRADES",
@@ -3300,8 +3300,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-27T13:07:03.7101124+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:03:30.1065616+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:04:02.245144+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:59:09.9383795+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:03:30.1066393+00:00"
+  "LastUpdate_Ratings": "2023-11-27T15:59:57.3077938+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:04:02.2452238+00:00"
 }

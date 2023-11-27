@@ -14,6 +14,7 @@
 | Oo-De-Lally | 44.00% | ~4 |
 | Tap Dancing | 44.00% | ~4 |
 | Right between the eyes | 44.00% | ~4 |
+| Rebel Unleashed | 44.00% | ~4 |
 | MAX LEVEL | 44.00% | ~4 |
 | The Gang prevails | 33.00% | ~3 |
 | Finish Him! | 33.00% | ~3 |
@@ -22,7 +23,6 @@
 | Spring Board | 33.00% | ~3 |
 | Ultra Rebel Instinct | 33.00% | ~3 |
 | Take Action! | 33.00% | ~3 |
-| Rebel Unleashed | 33.00% | ~3 |
 | First Aid | 33.00% | ~3 |
 | Merry Go Round | 33.00% | ~3 |
 | Starry Night | 22.00% | ~2 |

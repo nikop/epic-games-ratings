@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -528,9 +528,9 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -727,8 +727,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:05:12.0119736+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:06:16.1541044+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.7310198+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:02:28.5236571+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:05:12.0119942+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:02:49.2027487+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:06:16.1541269+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -1660,8 +1660,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:09:22.2580741+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:10:04.8827912+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.2058274+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:59:17.4465153+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:09:22.2580906+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:00:07.8778701+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:10:04.8828072+00:00"
 }

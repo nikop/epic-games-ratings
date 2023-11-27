@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4239,9 +4239,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 429
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -4280,8 +4280,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-11-26T18:01:06.8057507+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:09:26.497227+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:10:10.0637877+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.756402+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:00:31.2478204+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:09:26.4972756+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:02:40.6027702+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:10:10.0638286+00:00"
 }

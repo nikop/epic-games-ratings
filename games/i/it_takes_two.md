@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~21,564 |
-| Fried Friendship | 87.00% | ~21,318 |
-| Look At Him Go | 78.00% | ~19,113 |
-| On Rails Experience | 57.00% | ~13,967 |
-| A Daring Devil | 52.00% | ~12,742 |
-| It Took Two | 44.00% | ~10,782 |
-| Break the Bank | 43.00% | ~10,537 |
-| Bug Sized Relaxation | 21.00% | ~5,146 |
-| Plastic Prison Breakers | 17.00% | ~4,166 |
+| Struck A Pose | 88.00% | ~21,568 |
+| Fried Friendship | 87.00% | ~21,323 |
+| Look At Him Go | 78.00% | ~19,117 |
+| On Rails Experience | 57.00% | ~13,970 |
+| A Daring Devil | 52.00% | ~12,745 |
+| It Took Two | 44.00% | ~10,784 |
+| Break the Bank | 43.00% | ~10,539 |
+| Bug Sized Relaxation | 21.00% | ~5,147 |
+| Plastic Prison Breakers | 17.00% | ~4,167 |
 | Terror Of The Seven Seas | 16.00% | ~3,921 |
-| Realize Your Art | 12.00% | ~2,940 |
-| Force Triangulated | 12.00% | ~2,940 |
-| Meditation Maestro | 12.00% | ~2,940 |
-| Lost And Found | 11.00% | ~2,695 |
-| Something Fishy | 11.00% | ~2,695 |
-| Platforming Prodigy | 9.00% | ~2,205 |
-| Snackosaurus | 8.00% | ~1,960 |
-| Mood Swing | 7.00% | ~1,715 |
+| Realize Your Art | 12.00% | ~2,941 |
+| Force Triangulated | 12.00% | ~2,941 |
+| Meditation Maestro | 12.00% | ~2,941 |
+| Lost And Found | 11.00% | ~2,696 |
+| Something Fishy | 11.00% | ~2,696 |
+| Platforming Prodigy | 9.00% | ~2,206 |
+| Snackosaurus | 8.00% | ~1,961 |
+| Mood Swing | 7.00% | ~1,716 |
 | Minigame Megalomania | 4.00% | ~980 |
 | Faraway Frequencies | 4.00% | ~980 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,504 (Ranked 129)  
-Completed: 105 (0.43%) (Ranked 213)  
+Progressed: 24,509 (Ranked 129)  
+Completed: 105 (0.43%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,4 +98,4 @@ Completed: 105 (0.43%) (Ranked 213)
 | 2023-11-24 | 23,705 | 99 |
 | 2023-11-25 | 24,052 | 104 |
 | 2023-11-26 | 24,372 | 104 |
-| 2023-11-27 | 24,504 | 105 |
+| 2023-11-27 | 24,509 | 105 |

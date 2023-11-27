@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 22)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 18.00% | ~789 |
-| Feeling the beat! | 18.00% | ~789 |
+| Start with a bang! | 18.00% | ~790 |
+| Feeling the beat! | 18.00% | ~790 |
 | You can pet the cat! | 17.00% | ~746 |
 | Who put gears in there? | 16.00% | ~702 |
 | Cream of the Crop | 15.00% | ~658 |
@@ -14,11 +14,11 @@ Rating: 4.87 (Ranked 22)
 | You got this, Peppermint? | 14.00% | ~614 |
 | Perfect Parry | 13.00% | ~570 |
 | Alright, that felt AWESOME! | 13.00% | ~570 |
-| This will cost you big time | 12.00% | ~526 |
-| Uh, they were broken when I got here | 12.00% | ~526 |
-| I play my own way! | 11.00% | ~482 |
-| Z-shielding's got nothing on us! | 11.00% | ~482 |
-| Kissing the sky! | 11.00% | ~482 |
+| This will cost you big time | 12.00% | ~527 |
+| Uh, they were broken when I got here | 12.00% | ~527 |
+| I play my own way! | 11.00% | ~483 |
+| Z-shielding's got nothing on us! | 11.00% | ~483 |
+| Kissing the sky! | 11.00% | ~483 |
 | The Negotiator | 10.00% | ~439 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~439 |
 | Headliner | 9.00% | ~395 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,386 (Ranked 193)  
+Progressed: 4,388 (Ranked 193)  
 Completed: 8 (0.18%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 8 (0.18%) (Ranked 263)
 | 2023-11-24 | 4,316 | 8 |
 | 2023-11-25 | 4,346 | 8 |
 | 2023-11-26 | 4,367 | 8 |
-| 2023-11-27 | 4,386 | 8 |
+| 2023-11-27 | 4,388 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

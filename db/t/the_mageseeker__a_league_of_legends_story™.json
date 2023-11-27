@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4107,9 +4107,9 @@
       "ID": "STB_COLISSEUM_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Embrace the darkness",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 346
+      "UsersEstimate": 373
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -4540,8 +4540,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:03:59.4348493+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:04:41.2307319+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.1795379+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:59:57.1397864+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:03:59.4349043+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:01:01.2929342+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:04:41.2307766+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 444,
   "Ranking_Popularity": 131,
-  "Ranking_PopularitySum": 78,
+  "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 135,
@@ -3404,10 +3404,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13228,
       "NumberOfAwardsMax": 1534
+    },
+    {
+      "Time": "2023-11-27T16:00:35.4835641+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13231,
+      "NumberOfAwardsMax": 1534
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13228,
+  "NumberOfAwards": 13231,
   "NumberOfAwardsMax": 1534,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3427,13 +3433,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1435
+      "Count": 1436
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1223
+      "Count": 1225
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3478,9 +3484,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240298,
+  "EOS_Progressed": 240300,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26363,6 +26369,11 @@
       "Time": "2023-11-27T15:09:30.0283156+00:00",
       "NumProgressed": 240298,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-11-27T16:10:14.1040867+00:00",
+      "NumProgressed": 240300,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -26524,9 +26535,9 @@
       "ID": "DIE25TIMES",
       "SetID": "5l8oe0h",
       "Name": "R.I.P",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 961
     },
     {
       "ID": "DIEBOSS",
@@ -27118,7 +27129,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "SPECIALROOMS10",
@@ -27140,9 +27151,9 @@
       "ID": "STEALTH10",
       "SetID": "5l8oe0h",
       "Name": "Sneaky",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 961
     },
     {
       "ID": "STEALTH100",
@@ -27332,9 +27343,9 @@
       "ID": "WINWITHOUTDISCARD",
       "SetID": "5l8oe0h",
       "Name": "Precious",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 481
     },
     {
       "ID": "WINWITHSPOON",
@@ -27477,22 +27488,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240298,
+      "Progressed": 240300,
       "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1778,
+      "Progressed": 1780,
       "Completed": 391
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-11-27T03:00:15.0169825+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:09:30.0283153+00:00",
+  "LastChanged": "2023-11-27T16:00:35.4835637+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:10:14.1040864+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:59:37.5786679+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:09:30.0285472+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:00:35.4835651+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:10:14.1043571+00:00"
 }

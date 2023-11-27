@@ -9,11 +9,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.90% | ~16 |
 | First Steps | 0.60% | ~1,442 |
 | Not Touching You | 0.60% | ~11 |
-| Uncharted Territory | 0.50% | ~1,201 |
+| Uncharted Territory | 0.50% | ~1,202 |
 | Nothing To Lose | 0.40% | ~961 |
 | Heavy Hitter | 0.40% | ~961 |
 | Delving Deeper | 0.40% | ~961 |
 | Getting A Glimpse | 0.40% | ~961 |
+| R.I.P | 0.40% | ~961 |
 | That Was Quick | 0.40% | ~961 |
 | Colorful Corpse | 0.40% | ~961 |
 | Defeat The Dark | 0.40% | ~961 |
@@ -26,12 +27,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Deflection | 0.40% | ~961 |
 | A Quick Escape | 0.40% | ~961 |
 | Explorer | 0.40% | ~961 |
+| Sneaky | 0.40% | ~961 |
 | An Offering | 0.40% | ~961 |
 | Expensive Look | 0.40% | ~7 |
 | What Doesn't Kill You | 0.40% | ~7 |
 | Ambitious Intent | 0.30% | ~721 |
 | Consecutive Curses | 0.30% | ~721 |
-| R.I.P | 0.30% | ~721 |
 | Dig Your Own Grave | 0.30% | ~721 |
 | Who To Trust? | 0.30% | ~721 |
 | Walk It Off | 0.30% | ~721 |
@@ -45,7 +46,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stone Touch | 0.30% | ~721 |
 | Toxic | 0.30% | ~721 |
 | New Perspectives | 0.30% | ~721 |
-| Sneaky | 0.30% | ~721 |
 | Shadow Walker | 0.30% | ~721 |
 | Flesh Wound | 0.30% | ~721 |
 | Shapeshifting | 0.30% | ~721 |
@@ -68,6 +68,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 0.20% | ~481 |
 | Snake Sneak | 0.20% | ~481 |
 | The Long Run | 0.20% | ~481 |
+| Precious | 0.20% | ~481 |
 | Who Needs Luck? | 0.20% | ~4 |
 | Raw Power | 0.20% | ~4 |
 | Achievement Hunter | 0.10% | ~240 |
@@ -132,7 +133,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Martial Master | 0.10% | ~240 |
 | Sentimental Value | 0.10% | ~240 |
 | Nudie Run | 0.10% | ~240 |
-| Precious | 0.10% | ~240 |
 | You Call That A Knife? | 0.10% | ~240 |
 | Scrounger Appreciation | 0.10% | ~2 |
 | Explosives Expert | 0.10% | ~2 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,298 (Ranked 62)  
+Progressed: 240,300 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,22 +366,22 @@ Completed: 291 (0.12%) (Ranked 278)
 | 2023-11-24 | 240,173 | 290 |
 | 2023-11-25 | 240,224 | 291 |
 | 2023-11-26 | 240,273 | 291 |
-| 2023-11-27 | 240,298 | 291 |
+| 2023-11-27 | 240,300 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 131)  
-Sum: 13,228 (Ranked 78)  
-Diff (max vs sum): 53  
+Sum: 13,231 (Ranked 77)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
 | This game has Quickly Understood Controls | 1,505 |
 | This game is Relaxing | 1,437 |
-| This game has Challenging Combat | 1,435 |
+| This game has Challenging Combat | 1,436 |
 | This game is Extremely Fun | 1,414 |
 | This game is Highly Recommended | 1,385 |
 | This game has Amazing Storytelling | 1,324 |
 | This game has Amazing Characters | 1,226 |
-| This game has Unique Visuals | 1,223 |
+| This game has Unique Visuals | 1,225 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 745 |
 ## Ratings History
@@ -604,4 +604,4 @@ Diff (max vs sum): 53
 | 2023-11-23 | 4.58 | - | 1,505 | 11,691 |
 | 2023-11-25 | 4.58 | - | 1,505 | 11,692 |
 | 2023-11-26 | 4.58 | - | 1,505 | 11,694 |
-| 2023-11-27 | 4.58 | - | 1,534 | 13,228 |
+| 2023-11-27 | 4.58 | - | 1,534 | 13,231 |

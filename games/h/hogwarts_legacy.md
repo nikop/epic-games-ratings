@@ -6,30 +6,30 @@ Rating: 4.76 (Ranked 125)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,540 |
-| First Class Student | 15.00% | ~45,506 |
-| Troll with the Punches | 14.00% | ~42,472 |
-| A Keen Sense of Spell | 13.00% | ~39,438 |
-| That's a Keeper | 13.00% | ~39,438 |
+| First Class Student | 15.00% | ~45,507 |
+| Troll with the Punches | 14.00% | ~42,473 |
+| A Keen Sense of Spell | 13.00% | ~39,439 |
+| That's a Keeper | 13.00% | ~39,439 |
 | The Defender of Dragons | 12.00% | ~36,405 |
 | Loom for Improvement | 12.00% | ~36,405 |
 | A Talent for Spending | 12.00% | ~36,405 |
-| Grappling with a Graphorn | 11.00% | ~33,371 |
-| The One Who Mastered Memories | 11.00% | ~33,371 |
-| The Hallowed Hero | 11.00% | ~33,371 |
-| The Hero of Hogwarts | 11.00% | ~33,371 |
-| Challenge Accepted | 11.00% | ~33,371 |
-| Coasting Along | 11.00% | ~33,371 |
-| Followed the Butterflies | 10.00% | ~30,337 |
-| Rising From the Ashes | 10.00% | ~30,337 |
+| Grappling with a Graphorn | 11.00% | ~33,372 |
+| The One Who Mastered Memories | 11.00% | ~33,372 |
+| The Hallowed Hero | 11.00% | ~33,372 |
+| The Hero of Hogwarts | 11.00% | ~33,372 |
+| Challenge Accepted | 11.00% | ~33,372 |
+| Coasting Along | 11.00% | ~33,372 |
+| Followed the Butterflies | 10.00% | ~30,338 |
+| Rising From the Ashes | 10.00% | ~30,338 |
 | A Sallow Grave | 9.00% | ~27,304 |
 | The Spell Master | 9.00% | ~27,304 |
 | The Avenging Gazelle | 8.00% | ~24,270 |
 | Beast Friends | 8.00% | ~24,270 |
 | Flight the Good Flight | 8.00% | ~24,270 |
 | Raising Expectations | 7.00% | ~21,236 |
-| The Seeker of Knowledge | 6.00% | ~18,202 |
-| The Root of the Problem | 6.00% | ~18,202 |
-| Third Time's a Charm | 6.00% | ~18,202 |
+| The Seeker of Knowledge | 6.00% | ~18,203 |
+| The Root of the Problem | 6.00% | ~18,203 |
+| Third Time's a Charm | 6.00% | ~18,203 |
 | The Toast of the Town | 5.00% | ~15,169 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,169 |
 | The Ends Petrify the Means | 5.00% | ~15,169 |
@@ -40,18 +40,18 @@ Rating: 4.76 (Ranked 125)
 | Put Down Roots | 3.00% | ~9,101 |
 | The Auror's Apprentice | 3.00% | ~9,101 |
 | Floo Around the World | 3.00% | ~9,101 |
-| The Good Samaritan | 2.00% | ~6,067 |
-| Rise to the Challenges | 2.00% | ~6,067 |
-| Demiguise Dread | 2.00% | ~6,067 |
-| Finishing Touches | 2.00% | ~6,067 |
-| A Forte for Achievement | 2.00% | ~6,067 |
+| The Good Samaritan | 2.00% | ~6,068 |
+| Rise to the Challenges | 2.00% | ~6,068 |
+| Demiguise Dread | 2.00% | ~6,068 |
+| Finishing Touches | 2.00% | ~6,068 |
+| A Forte for Achievement | 2.00% | ~6,068 |
 | Savvy Spender | 1.00% | ~3,034 |
 | Merlin's Beard! | 1.00% | ~3,034 |
 | Spilled Milk | 0.90% | ~2,730 |
 | The Nature of the Beast | 0.70% | ~2,124 |
 | Collector's Edition | 0.30% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,373 (Ranked 54)  
+Progressed: 303,378 (Ranked 54)  
 Completed: 516 (0.17%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,10 +272,10 @@ Completed: 516 (0.17%) (Ranked 265)
 | 2023-11-24 | 302,992 | 514 |
 | 2023-11-25 | 303,175 | 514 |
 | 2023-11-26 | 303,320 | 515 |
-| 2023-11-27 | 303,373 | 516 |
+| 2023-11-27 | 303,378 | 516 |
 ## Awards
 Max (Character Customization): 24,684  (Ranked 17)  
-Sum: 49,273 (Ranked 30)  
+Sum: 49,277 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -287,7 +287,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,276 |
 | This game is Relaxing | 1,267 |
 | This game has Amazing Characters | 1,233 |
-| This game is Highly Recommended | 1,205 |
+| This game is Highly Recommended | 1,209 |
 | This game has Quickly Understood Controls | 1,168 |
 | This game has Beautiful Visuals | 1,060 |
 | This game has a Creative Community | 815 |
@@ -542,4 +542,4 @@ Diff (max vs sum): -13
 | 2023-11-24 | 4.76 | 24,595 | 49,037 |
 | 2023-11-25 | 4.76 | 24,634 | 49,151 |
 | 2023-11-26 | 4.76 | 24,684 | 49,249 |
-| 2023-11-27 | 4.76 | 24,684 | 49,273 |
+| 2023-11-27 | 4.76 | 24,684 | 49,277 |

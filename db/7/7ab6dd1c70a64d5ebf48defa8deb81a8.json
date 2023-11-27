@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -1162,9 +1162,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_34",
@@ -1209,8 +1209,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:09:24.5670157+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:10:07.8105806+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:59:29.5778407+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:09:24.567044+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:00:24.6467202+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:10:07.8106032+00:00"
 }

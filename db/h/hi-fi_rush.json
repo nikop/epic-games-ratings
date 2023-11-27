@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4386,
+  "EOS_Progressed": 4388,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7805,6 +7805,11 @@
       "Time": "2023-11-27T15:04:04.5855576+00:00",
       "NumProgressed": 4386,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-27T16:04:48.0084558+00:00",
+      "NumProgressed": 4388,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7816,7 +7821,7 @@
       "Name": "Start with a bang!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "Ach002",
@@ -7832,7 +7837,7 @@
       "Name": "This will cost you big time",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Ach004",
@@ -7944,7 +7949,7 @@
       "Name": "I play my own way!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "Ach018",
@@ -7992,7 +7997,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "Ach024",
@@ -8024,7 +8029,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "Ach028",
@@ -8072,7 +8077,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Ach034",
@@ -8096,7 +8101,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "Ach037",
@@ -8383,13 +8388,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4386,
+      "Progressed": 4388,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2907,
+      "Progressed": 2909,
       "Completed": 1930
     }
   ],
@@ -8397,8 +8402,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:04:04.5855573+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:04:48.0084554+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:00:16.1768928+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:04:04.5856357+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:01:28.458781+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:04:48.008537+00:00"
 }

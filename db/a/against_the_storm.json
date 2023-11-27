@@ -6,9 +6,9 @@
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 3612,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3299,11 +3299,11 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17500,
-  "EOS_Completed": 56,
-  "EOS_NewPlayers": 144,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Progressed": 17502,
+  "EOS_Completed": 55,
+  "EOS_NewPlayers": 146,
+  "EOS_NewCompleters": -1,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -14299,6 +14299,11 @@
       "Time": "2023-11-27T14:08:39.3976262+00:00",
       "NumProgressed": 17500,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-27T16:08:59.4134626+00:00",
+      "NumProgressed": 17502,
+      "NumCompleted": 55
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14389,9 +14394,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinFirstGame",
@@ -14501,9 +14506,9 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearMines",
@@ -14541,9 +14546,9 @@
       "ID": "WinNearStatue",
       "SetID": "cfbk359",
       "Name": "Statue of the Forefathers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearTemple",
@@ -14597,9 +14602,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinPrestige10",
@@ -14621,9 +14626,9 @@
       "ID": "WinVeryHard",
       "SetID": "cfbk359",
       "Name": "A Real Challenge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinWIthCaches",
@@ -14709,9 +14714,9 @@
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearFrosts",
@@ -14733,17 +14738,17 @@
       "ID": "WinNearLibrary",
       "SetID": "cfbk359",
       "Name": "Overgrown Library",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearPetrified",
       "SetID": "cfbk359",
       "Name": "Petrified Necropolis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearPresence",
@@ -14782,15 +14787,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17500,
-      "Completed": 56
+      "Progressed": 17502,
+      "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-26T13:00:18.5578162+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:08:32.1636375+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:08:59.4134622+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:58:05.7791602+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:08:32.1637187+00:00"
+  "LastUpdate_Ratings": "2023-11-27T15:58:30.9248864+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:08:59.4135505+00:00"
 }

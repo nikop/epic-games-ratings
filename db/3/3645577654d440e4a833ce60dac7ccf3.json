@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
     "PcReleaseDate": "2023-09-19T05:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "Tower1_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the First Tower",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Tower1_RankA",
@@ -417,8 +417,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2023-11-27T15:05:10.2747346+00:00",
+  "LastChanged_Achievements": "2023-11-27T16:06:13.8336424+00:00",
   "LastUpdate_AppInfo": "2023-11-22T05:57:07.3042971+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:59:46.0562418+00:00",
-  "LastUpdate_Achievements": "2023-11-27T15:05:10.2747613+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:00:47.1334151+00:00",
+  "LastUpdate_Achievements": "2023-11-27T16:06:13.833672+00:00"
 }
