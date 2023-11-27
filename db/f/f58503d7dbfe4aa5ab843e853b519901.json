@@ -4,7 +4,7 @@
   "ProductSlug": "the-inquisitor-73701c",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2024-02-08T18:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-12T18:03:29.6771707+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:08:33.9476635+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:09:34.8493562+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.4540953+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:56:55.8524631+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:08:33.9476668+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:57:15.0595633+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:09:34.8493597+00:00"
 }

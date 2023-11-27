@@ -5,24 +5,24 @@ Rating: 4.68 (Ranked 254)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,581 |
+| Getting on the Step | 94.00% | ~5,582 |
 | On the Top Step | 88.00% | ~5,225 |
-| Setting up for Success | 78.00% | ~4,631 |
-| Team Orders | 75.00% | ~4,453 |
-| Engineer | 55.00% | ~3,265 |
+| Setting up for Success | 78.00% | ~4,632 |
+| Team Orders | 75.00% | ~4,454 |
+| Engineer | 55.00% | ~3,266 |
 | Familiar Faces | 48.00% | ~2,850 |
 | Sharing the Love | 43.00% | ~2,553 |
 | Going the Extra Mile | 42.00% | ~2,494 |
 | Hitting a Season | 40.00% | ~2,375 |
 | A Dozen Pieces | 34.00% | ~2,019 |
-| Challenge Yourself | 33.00% | ~1,959 |
+| Challenge Yourself | 33.00% | ~1,960 |
 | Making History | 32.00% | ~1,900 |
-| Network Success | 28.00% | ~1,662 |
+| Network Success | 28.00% | ~1,663 |
 | Writing a new Chapter | 25.00% | ~1,484 |
 | Spring Cleaning | 24.00% | ~1,425 |
 | Reduce | 21.00% | ~1,247 |
-| Crucial Combo | 20.00% | ~1,187 |
-| Ups and Downs | 20.00% | ~1,187 |
+| Crucial Combo | 20.00% | ~1,188 |
+| Ups and Downs | 20.00% | ~1,188 |
 | Reuse | 17.00% | ~1,009 |
 | One for the Book | 17.00% | ~1,009 |
 | Proving Them Wrong | 17.00% | ~1,009 |
@@ -33,17 +33,17 @@ Rating: 4.68 (Ranked 254)
 | Spinning Around | 14.00% | ~831 |
 | Eagle Eye | 13.00% | ~772 |
 | Switcheroo | 13.00% | ~772 |
-| All in a Weekend's Work | 12.00% | ~712 |
-| Friendly Competition | 12.00% | ~712 |
-| Recycle | 12.00% | ~712 |
+| All in a Weekend's Work | 12.00% | ~713 |
+| Friendly Competition | 12.00% | ~713 |
+| Recycle | 12.00% | ~713 |
 | Tinkerer | 10.00% | ~594 |
 | Undisputed Winner | 9.00% | ~534 |
 | Living up to Expectations | 7.00% | ~416 |
 | Smooth Operator | 7.00% | ~416 |
 | For all Those Back at the Factory | 6.00% | ~356 |
 | Peak Performance | 5.00% | ~297 |
-| Hitting a Century | 4.00% | ~237 |
-| Loyal Bond | 4.00% | ~237 |
+| Hitting a Century | 4.00% | ~238 |
+| Loyal Bond | 4.00% | ~238 |
 | Seasoned Rookie | 3.00% | ~178 |
 | Wait, I know you? | 3.00% | ~178 |
 | Filling in the Gaps | 2.00% | ~119 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 254)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,937 (Ranked 186)  
+Progressed: 5,938 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,17 +130,17 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 5,892 | 0 |
 | 2023-11-25 | 5,910 | 0 |
 | 2023-11-26 | 5,930 | 0 |
-| 2023-11-27 | 5,937 | 0 |
+| 2023-11-27 | 5,938 | 0 |
 ## Awards
-Max (Highly Recommended): 24  (Ranked 526)  
-Sum: 92 (Ranked 453)  
-Diff (max vs sum): 73  
+Max (Diverse Characters): 26  (Ranked 515)  
+Sum: 94 (Ranked 452)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
+| This game has Diverse Characters | 26 |
 | This game is Great for Quick Sessions | 24 |
 | This game is Highly Recommended | 24 |
-| This game has Diverse Characters | 24 |
 | This game has a Competitive Community | 23 |
 | This game is Extremely Fun | 21 |
 ## Ratings History
@@ -225,3 +225,4 @@ Diff (max vs sum): 73
 | 2023-11-24 | 4.67 | 24 | 88 |
 | 2023-11-25 | 4.68 | 24 | 89 |
 | 2023-11-26 | 4.68 | 24 | 92 |
+| 2023-11-27 | 4.68 | 26 | 94 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -55,7 +55,7 @@
   "Tags": [],
   "EOS_Progressed": 1096,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3155,9 +3155,9 @@
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 395
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -3243,9 +3243,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 701
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -3300,8 +3300,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-27T13:07:03.7101124+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:03:23.1233035+00:00",
-  "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:58:57.1922453+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:03:23.123398+00:00"
+  "LastChanged_Achievements": "2023-11-27T18:04:14.1863781+00:00",
+  "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
+  "LastUpdate_Ratings": "2023-11-27T18:00:08.3606013+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:04:14.1864629+00:00"
 }

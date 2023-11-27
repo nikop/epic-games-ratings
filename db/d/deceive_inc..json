@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18929,
+  "EOS_Progressed": 18930,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13244,6 +13244,11 @@
       "Time": "2023-11-27T16:07:51.84803+00:00",
       "NumProgressed": 18929,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T18:08:04.6551519+00:00",
+      "NumProgressed": 18930,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13439,7 +13444,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "0025",
@@ -13455,7 +13460,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "0027",
@@ -13519,7 +13524,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "0035",
@@ -13542,7 +13547,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18929,
+      "Progressed": 18930,
       "Completed": 4
     }
   ],
@@ -13550,8 +13555,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:06:13.9154951+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:08:04.655151+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:57:03.0801898+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:06:13.9156049+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:57:26.4906414+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:08:04.6552309+00:00"
 }

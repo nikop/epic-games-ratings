@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1508,9 +1508,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131316,
+  "EOS_Progressed": 131317,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23138,6 +23138,11 @@
       "Time": "2023-11-27T16:07:25.1459726+00:00",
       "NumProgressed": 131316,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-27T18:07:37.9357331+00:00",
+      "NumProgressed": 131317,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23173,7 +23178,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "ACH_COP_ART",
@@ -23197,7 +23202,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11818
+      "UsersEstimate": 11819
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -23213,7 +23218,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11818
+      "UsersEstimate": 11819
     },
     {
       "ID": "ACH_COP_DORK",
@@ -23229,7 +23234,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36768
+      "UsersEstimate": 36769
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23261,7 +23266,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27576
+      "UsersEstimate": 27577
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -23373,7 +23378,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -23468,15 +23473,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131316,
+      "Progressed": 131317,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-27T11:59:25.2910786+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:05:54.4022757+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:07:37.9357326+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:58:32.0594199+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:05:54.4024551+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:59:34.5769048+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:07:37.9358397+00:00"
 }

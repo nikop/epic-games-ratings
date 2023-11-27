@@ -6,29 +6,36 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overgrown Library | 0.30% | ~53 |
 | Abandoned Settlement | 0.20% | ~35 |
-| Overgrown Library | 0.20% | ~35 |
+| Frosts | 0.20% | ~35 |
+| Land of Greed | 0.20% | ~35 |
 | Petrified Necropolis | 0.20% | ~35 |
+| Ominous Presence | 0.20% | ~35 |
 | Gathering Storm | 0.20% | ~35 |
+| Untamed Wilds | 0.20% | ~35 |
+| Human Utopia | 0.10% | ~18 |
+| Efficient Explorer | 0.10% | ~18 |
 | Homesick | 0.10% | ~18 |
 | First Real Expedition | 0.10% | ~18 |
 | Against All Odds | 0.10% | ~18 |
+| Bandit Camp | 0.10% | ~18 |
 | Fertile Meadows | 0.10% | ~18 |
 | Levitating Monument | 0.10% | ~18 |
+| Monastery of the Holy Flame | 0.10% | ~18 |
 | Royal Outpost | 0.10% | ~18 |
+| Lost Colonies | 0.10% | ~18 |
 | Statue of the Forefathers | 0.10% | ~18 |
 | Corrosive Torrent | 0.10% | ~18 |
 | Watchtower | 0.10% | ~18 |
 | Coral Forest | 0.10% | ~18 |
+| The Marshlands | 0.10% | ~18 |
 | The Scarlet Orchard | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | A Real Challenge | 0.10% | ~18 |
 | Taking Action | 0.10% | ~18 |
+| No Deaths | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
-| Frosts | 0.10% | ~18 |
-| Land of Greed | 0.10% | ~18 |
-| Ominous Presence | 0.10% | ~18 |
-| Untamed Wilds | 0.10% | ~18 |
 | Fox Utopia | 0.10% | ~18 |
 | Serving Ale | 0.00% | ~0 |
 | Feeding The People | 0.00% | ~0 |
@@ -36,13 +43,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.00% | ~0 |
 | Beaver Utopia | 0.00% | ~0 |
 | Harpy Utopia | 0.00% | ~0 |
-| Human Utopia | 0.00% | ~0 |
 | Lizard Utopia | 0.00% | ~0 |
-| Efficient Explorer | 0.00% | ~0 |
 | Refinery | 0.00% | ~0 |
 | Overcoming Difficulty | 0.00% | ~0 |
 | Ruined Armory | 0.00% | ~0 |
-| Bandit Camp | 0.00% | ~0 |
 | Barren Lands | 0.00% | ~0 |
 | Ancient Battleground | 0.00% | ~0 |
 | Sparkdew Crystals | 0.00% | ~0 |
@@ -51,11 +55,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 0.00% | ~0 |
 | Haunted Forest | 0.00% | ~0 |
 | Flooded Mines | 0.00% | ~0 |
-| Monastery of the Holy Flame | 0.00% | ~0 |
-| Lost Colonies | 0.00% | ~0 |
 | Forsaken Gods Temple | 0.00% | ~0 |
 | Cursed Lands | 0.00% | ~0 |
-| The Marshlands | 0.00% | ~0 |
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 | Blood Flower Farmer | 0.00% | ~0 |
@@ -63,11 +64,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.00% | ~0 |
 | Like a Machine | 0.00% | ~0 |
 | Trade Baron | 0.00% | ~0 |
-| No Deaths | 0.00% | ~0 |
 | Defying the Crown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,502 (Ranked 146)  
-Completed: 55 (0.31%) (Ranked 234)  
+Progressed: 17,504 (Ranked 146)  
+Completed: 54 (0.31%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,7 +287,7 @@ Completed: 55 (0.31%) (Ranked 234)
 | 2023-11-24 | 17,437 | 56 |
 | 2023-11-25 | 17,472 | 56 |
 | 2023-11-26 | 17,488 | 56 |
-| 2023-11-27 | 17,502 | 56 |
+| 2023-11-27 | 17,504 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 440  (Ranked 223)  
 Sum: 3,231 (Ranked 173)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 3612,
+  "Ranking_EOS_NewCompleters": 3613,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3299,10 +3299,10 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17502,
-  "EOS_Completed": 55,
-  "EOS_NewPlayers": 145,
-  "EOS_NewCompleters": -1,
+  "EOS_Progressed": 17504,
+  "EOS_Completed": 54,
+  "EOS_NewPlayers": 147,
+  "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -14304,6 +14304,11 @@
       "Time": "2023-11-27T16:08:59.4134626+00:00",
       "NumProgressed": 17502,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-27T18:08:50.6303054+00:00",
+      "NumProgressed": 17504,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14362,9 +14367,9 @@
       "ID": "HumanUtopia",
       "SetID": "cfbk359",
       "Name": "Human Utopia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "LizardUtopia",
@@ -14378,9 +14383,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "MetalChain",
@@ -14434,9 +14439,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearBarren",
@@ -14522,9 +14527,9 @@
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearOutpost",
@@ -14538,9 +14543,9 @@
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearStatue",
@@ -14594,9 +14599,9 @@
       "ID": "WinOnMarshlands",
       "SetID": "cfbk359",
       "Name": "The Marshlands",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinOnMoorlands",
@@ -14690,9 +14695,9 @@
       "ID": "WinWithoutDeath",
       "SetID": "cfbk359",
       "Name": "No Deaths",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinWithoutOrders",
@@ -14722,25 +14727,25 @@
       "ID": "WinNearFrosts",
       "SetID": "cfbk359",
       "Name": "Frosts",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearGreed",
       "SetID": "cfbk359",
       "Name": "Land of Greed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearLibrary",
       "SetID": "cfbk359",
       "Name": "Overgrown Library",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinNearPetrified",
@@ -14754,9 +14759,9 @@
       "ID": "WinNearPresence",
       "SetID": "cfbk359",
       "Name": "Ominous Presence",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearStorms",
@@ -14770,9 +14775,9 @@
       "ID": "WinNearUntamedWilds",
       "SetID": "cfbk359",
       "Name": "Untamed Wilds",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinWithFoxes",
@@ -14787,15 +14792,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17502,
-      "Completed": 55
+      "Progressed": 17504,
+      "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-26T13:00:18.5578162+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:08:08.7443759+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:08:50.6303046+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:57:54.4353115+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:08:08.744459+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:58:40.8207085+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:08:50.6304083+00:00"
 }

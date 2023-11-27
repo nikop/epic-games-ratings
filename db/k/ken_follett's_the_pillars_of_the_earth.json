@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16703,
+  "EOS_Progressed": 16705,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -14998,6 +14998,11 @@
       "Time": "2023-11-27T17:03:28.2399238+00:00",
       "NumProgressed": 16703,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-27T18:04:20.6591596+00:00",
+      "NumProgressed": 16705,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15049,7 +15054,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5512
+      "UsersEstimate": 5513
     },
     {
       "ID": "tpote_achievement_15",
@@ -15065,7 +15070,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "tpote_achievement_17",
@@ -15097,7 +15102,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5512
+      "UsersEstimate": 5513
     },
     {
       "ID": "tpote_achievement_20",
@@ -15113,7 +15118,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "tpote_achievement_22",
@@ -15137,7 +15142,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "tpote_achievement_25",
@@ -15153,7 +15158,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2172
     },
     {
       "ID": "tpote_achievement_27",
@@ -15169,7 +15174,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "tpote_achievement_29",
@@ -15185,7 +15190,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5345
+      "UsersEstimate": 5346
     },
     {
       "ID": "tpote_achievement_30",
@@ -15209,7 +15214,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "tpote_achievement_33",
@@ -15273,7 +15278,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "tpote_achievement_40",
@@ -15329,22 +15334,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5679
+      "UsersEstimate": 5680
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16703,
+      "Progressed": 16705,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:03:28.2399234+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:04:20.6591593+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:58:12.0853337+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:03:28.2400411+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:59:04.2954831+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:04:20.6592446+00:00"
 }

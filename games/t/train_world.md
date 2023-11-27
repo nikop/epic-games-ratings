@@ -13,6 +13,7 @@
 | Full House | 12.00% | ~2 |
 | Speed Demon | 12.00% | ~2 |
 | Regional Express | 12.00% | ~2 |
+| Industrial Giant | 12.00% | ~2 |
 | Urban Network | 12.00% | ~2 |
 | Supply Chain | 12.00% | ~2 |
 | Heavy Load | 12.00% | ~2 |
@@ -28,7 +29,6 @@
 | Bridge Over Troubled Water | 6.00% | ~1 |
 | Cargo King | 6.00% | ~1 |
 | People Mover | 6.00% | ~1 |
-| Industrial Giant | 6.00% | ~1 |
 | Train Spotter | 6.00% | ~1 |
 | Mega Train | 6.00% | ~1 |
 | Crowd Pleaser | 6.00% | ~1 |

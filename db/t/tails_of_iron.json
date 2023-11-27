@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2136,
+  "EOS_Progressed": 2137,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -3512,6 +3512,11 @@
       "Time": "2023-11-27T17:03:38.2441641+00:00",
       "NumProgressed": 2136,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-27T18:04:34.3559537+00:00",
+      "NumProgressed": 2137,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3539,7 +3544,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "Collect50MonsterParts",
@@ -3547,7 +3552,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "CollectAllStatues",
@@ -3595,7 +3600,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3659,7 +3664,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "GetRangedWeapon",
@@ -3667,7 +3672,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "GetTHWeapon",
@@ -3683,7 +3688,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "Kill25Frogs",
@@ -3723,7 +3728,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "RepairSmith",
@@ -3747,7 +3752,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3762,22 +3767,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2136,
+      "Progressed": 2137,
       "Completed": 10
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 777,
-      "Completed": 777
+      "Progressed": 778,
+      "Completed": 778
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:03:38.2441636+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:04:34.3559533+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:59:31.4258522+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:03:38.2441967+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:00:59.9145593+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:04:34.3559885+00:00"
 }

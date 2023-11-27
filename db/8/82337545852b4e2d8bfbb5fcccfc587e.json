@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -660,9 +660,9 @@
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "EpicACHV_17",
@@ -692,25 +692,25 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 70,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 70,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 70,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "EpicACHV_7",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:05:27.0517083+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:07:00.9434585+00:00",
   "LastUpdate_AppInfo": "2023-11-22T13:04:48.5042762+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:57:18.7363672+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:05:27.0517228+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:57:47.5231047+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:07:00.9434692+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 88.00% | ~616 |
-| All Bark, No Bite | 77.00% | ~539 |
-| Hopeful Hunter | 68.00% | ~476 |
-| Amateur Adventurer | 65.00% | ~455 |
-| The Road to Recovery | 64.00% | ~448 |
-| Partners? | 63.00% | ~441 |
-| Magical Mineral Golem | 56.00% | ~392 |
-| On Outlander Lane | 55.00% | ~385 |
-| First Time Fishing | 52.00% | ~364 |
-| A Girl About the Town | 51.00% | ~357 |
+| Plenty More to Go | 88.00% | ~617 |
+| All Bark, No Bite | 77.00% | ~540 |
+| Hopeful Hunter | 68.00% | ~477 |
+| Amateur Adventurer | 65.00% | ~456 |
+| The Road to Recovery | 64.00% | ~449 |
+| Partners? | 63.00% | ~442 |
+| Magical Mineral Golem | 56.00% | ~393 |
+| On Outlander Lane | 55.00% | ~386 |
+| First Time Fishing | 52.00% | ~365 |
+| A Girl About the Town | 51.00% | ~358 |
 | First Time Hunting | 50.00% | ~350 |
 | Rune Wall Wreckage | 49.00% | ~343 |
 | ...And Your Tax Money | 47.00% | ~329 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~56 |
 | Rising Champion | 7.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700 (Ranked 282)  
-Completed: 60 (8.57%) (Ranked 50)  
+Progressed: 701 (Ranked 283)  
+Completed: 60 (8.56%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,7 +97,7 @@ Completed: 60 (8.57%) (Ranked 50)
 | 2023-10-28 | 697 | 60 |
 | 2023-10-31 | 698 | 60 |
 | 2023-11-07 | 699 | 60 |
-| 2023-11-27 | 700 | 60 |
+| 2023-11-27 | 701 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

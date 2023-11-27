@@ -14,7 +14,7 @@
 | Refuse to look | 35.00% | ~31 |
 | Sign of weakness | 35.00% | ~31 |
 | Finished it | 27.00% | ~24 |
-| Face your fears | 23.00% | ~20 |
+| Face your fears | 24.00% | ~21 |
 | Playtime | 14.00% | ~12 |
 | Tough conversation | 14.00% | ~12 |
 | The tragedy unfolds | 13.00% | ~11 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 445)  
+Progressed: 88 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -9,7 +9,7 @@
 | Medal of Exploration I | 71.00% | ~1,015 |
 | Recruit | 67.00% | ~957 |
 | Search and Rescue | 67.00% | ~957 |
-| Quarian Ally | 63.00% | ~900 |
+| Quarian Ally | 64.00% | ~915 |
 | Medal of Heroism | 59.00% | ~843 |
 | Honorarium of Corporate Service | 59.00% | ~843 |
 | Medal of Exploration II | 54.00% | ~772 |
@@ -44,12 +44,12 @@
 | Broke, Blind, and Bedlam | 33.00% | ~472 |
 | A Personal Touch | 32.00% | ~457 |
 | Ghost Ship | 32.00% | ~457 |
+| The Assassin | 32.00% | ~457 |
 | The Quarian | 32.00% | ~457 |
 | The Prodigal | 32.00% | ~457 |
 | Galactic Explorer | 32.00% | ~457 |
 | Driven | 32.00% | ~457 |
 | Shopaholic | 32.00% | ~457 |
-| The Assassin | 31.00% | ~443 |
 | The Justicar | 31.00% | ~443 |
 | Battlemaster | 31.00% | ~443 |
 | Ghost of the Father | 31.00% | ~443 |

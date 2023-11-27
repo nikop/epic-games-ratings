@@ -23,6 +23,7 @@
 | Kill All Humans! | 6.00% | ~5 |
 | Midair Affair | 5.00% | ~4 |
 | Plight of the Valkyrie | 5.00% | ~4 |
+| Trash the Planet. | 5.00% | ~4 |
 | Demolition Exhibition | 4.00% | ~3 |
 | Rocket Science | 4.00% | ~3 |
 | Meat Catcher | 4.00% | ~3 |
@@ -32,11 +33,10 @@
 | SWATing Flies | 4.00% | ~3 |
 | Shakedown Breakdown | 4.00% | ~3 |
 | Juggle the People | 4.00% | ~3 |
-| Trash the Planet. | 4.00% | ~3 |
-| Simulation 8e7d28c1 | 3.00% | ~2 |
+| Simulation 8e7d28c1 | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79 (Ranked 459)  
-Completed: 2 (2.53%) (Ranked 115)  
+Completed: 3 (3.80%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,6 +78,7 @@ Completed: 2 (2.53%) (Ranked 115)
 | 2023-09-21 | 77 | 2 |
 | 2023-10-09 | 78 | 2 |
 | 2023-11-08 | 79 | 2 |
+| 2023-11-27 | 79 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

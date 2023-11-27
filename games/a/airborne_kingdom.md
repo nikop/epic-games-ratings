@@ -21,7 +21,7 @@ Number of Ratings: 74  (23.09.2022)
 | Pyre Ignited | 23.00% | ~1,735 |
 | Travelers Returned | 23.00% | ~1,735 |
 | Hopes Hoisted | 22.00% | ~1,659 |
-| Knowledge Shared | 20.00% | ~1,509 |
+| Knowledge Shared | 21.00% | ~1,584 |
 | Relic Finder | 20.00% | ~1,509 |
 | Worthy of the Title | 19.00% | ~1,433 |
 | A Peaceful Respite | 14.00% | ~1,056 |

@@ -3,8 +3,8 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1685,9 +1685,9 @@
       "ID": "met_k",
       "SetID": "69co12a",
       "Name": "Depressed visitor",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 278
     },
     {
       "ID": "mick_house",
@@ -1924,8 +1924,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:04:44.2377154+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:06:03.6480698+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:14.0939135+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:59:55.0728745+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:04:44.2377772+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:01:35.8347008+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:06:03.648116+00:00"
 }

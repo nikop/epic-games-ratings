@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 179,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 35.39,
+  "EOS_Completed_Percentage": 35.2,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1009,6 +1009,11 @@
       "Time": "2023-11-27T15:05:19.1185126+00:00",
       "NumProgressed": 178,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-11-27T18:06:37.7056743+00:00",
+      "NumProgressed": 179,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 18,
@@ -1020,7 +1025,7 @@
       "Name": "Best friends forever",
       "Percentage": 40,
       "XP": 150,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Dreamkeeper",
@@ -1028,7 +1033,7 @@
       "Name": "Dreamkeeper",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Dust_fighter",
@@ -1036,7 +1041,7 @@
       "Name": "Dust fighter",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Engineer",
@@ -1044,7 +1049,7 @@
       "Name": "Engineer",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Express_home_delivery",
@@ -1058,17 +1063,17 @@
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 124
     },
     {
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "Florist",
@@ -1076,7 +1081,7 @@
       "Name": "Florist",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Game_changer",
@@ -1092,15 +1097,15 @@
       "Name": "Justice",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "Peacemaker",
@@ -1116,7 +1121,7 @@
       "Name": "Repair",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Rusty",
@@ -1124,7 +1129,7 @@
       "Name": "Rusty",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Samaritan",
@@ -1146,9 +1151,9 @@
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "Troubleshooter",
@@ -1163,14 +1168,14 @@
     {
       "ID": "b7i210",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 179,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:05:09.8752141+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:06:37.7056738+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:57:45.4326457+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:05:09.8752308+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:58:26.3863202+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:06:37.7056885+00:00"
 }

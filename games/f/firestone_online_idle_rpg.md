@@ -5,9 +5,9 @@ Rating: 4.06 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,569 |
-| World Map | 78.00% | ~2,154 |
-| Temple of Eternals | 57.00% | ~1,574 |
+| Victor | 93.00% | ~2,570 |
+| World Map | 78.00% | ~2,155 |
+| Temple of Eternals | 57.00% | ~1,575 |
 | Prestigious | 53.00% | ~1,464 |
 | Fellowship Power | 42.00% | ~1,160 |
 | Guild Power | 24.00% | ~663 |
@@ -22,11 +22,11 @@ Rating: 4.06 (Ranked 980)
 | Enlightenment | 14.00% | ~387 |
 | Hero inspection | 14.00% | ~387 |
 | Lieutenant | 13.00% | ~359 |
-| Milestone collector | 12.00% | ~331 |
-| Mysterious Rock | 12.00% | ~331 |
-| Natural Talent | 12.00% | ~331 |
-| Superior | 12.00% | ~331 |
-| The Unstoppable | 12.00% | ~331 |
+| Milestone collector | 12.00% | ~332 |
+| Mysterious Rock | 12.00% | ~332 |
+| Natural Talent | 12.00% | ~332 |
+| Superior | 12.00% | ~332 |
+| The Unstoppable | 12.00% | ~332 |
 | Scientist | 11.00% | ~304 |
 | Doing My Part | 10.00% | ~276 |
 | Hunter | 10.00% | ~276 |
@@ -59,8 +59,8 @@ Rating: 4.06 (Ranked 980)
 | Ancient Knowledge | 5.00% | ~138 |
 | Background Story | 5.00% | ~138 |
 | Legendary | 5.00% | ~138 |
-| Arena Challenger | 4.00% | ~110 |
-| Ebony Jungle Liberator | 4.00% | ~110 |
+| Arena Challenger | 4.00% | ~111 |
+| Ebony Jungle Liberator | 4.00% | ~111 |
 | Gear Enchanting | 3.00% | ~83 |
 | Mythic Power | 3.00% | ~83 |
 | What lies behind the bush | 3.00% | ~83 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 980)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,762 (Ranked 213)  
+Progressed: 2,763 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 2 (0.07%) (Ranked 300)
 | 2023-11-24 | 2,644 | 2 |
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
-| 2023-11-27 | 2,762 | 2 |
+| 2023-11-27 | 2,763 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
 Sum: 111 (Ranked 443)  

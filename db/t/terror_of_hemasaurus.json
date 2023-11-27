@@ -3,8 +3,8 @@
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 79,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.53,
+  "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -265,6 +265,11 @@
       "Time": "2023-11-08T01:48:38.0664167+00:00",
       "NumProgressed": 79,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-27T18:05:36.4327324+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 30,
@@ -490,17 +495,17 @@
       "ID": "ACH_STORY_MODE",
       "SetID": "aio76gp",
       "Name": "Trash the Planet.",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_TANK_STAGE",
       "SetID": "aio76gp",
       "Name": "Simulation 8e7d28c1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_UFO_STAGE",
@@ -516,15 +521,15 @@
       "ID": "aio76gp",
       "IsBase": true,
       "Progressed": 79,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-10-23T19:31:15.6236599+00:00",
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:04:24.0755898+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:05:36.4327319+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.9832168+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:57:23.3914431+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:04:24.0756088+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:57:54.9583513+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:05:36.4327482+00:00"
 }

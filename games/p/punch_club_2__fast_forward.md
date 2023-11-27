@@ -11,7 +11,7 @@
 | Your first job | 84.00% | ~296 |
 | Fitness professional | 79.00% | ~278 |
 | Old movies enjoyer | 79.00% | ~278 |
-| Depressed visitor | 78.00% | ~275 |
+| Depressed visitor | 79.00% | ~278 |
 | Neurotrainer – power gainer! | 78.00% | ~275 |
 | Employee of the week | 78.00% | ~275 |
 | Your own amateur gym | 74.00% | ~260 |
@@ -72,7 +72,7 @@
 | The only right decision | 30.00% | ~106 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 352 (Ranked 334)  
-Completed: 9 (2.56%) (Ranked 114)  
+Completed: 9 (2.56%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

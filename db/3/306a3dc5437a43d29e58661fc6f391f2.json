@@ -4,7 +4,7 @@
   "ProductSlug": "ihas-cd3d96",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -28,9 +28,139 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-27T18:04:40.1161189+00:00",
+  "TotalAchievements": 16,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Another_Step",
+      "SetID": "1ihc24",
+      "Name": "Another Step",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Archeologist",
+      "SetID": "1ihc24",
+      "Name": "Archeologist",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Beginner",
+      "SetID": "1ihc24",
+      "Name": "Beginner",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collector",
+      "SetID": "1ihc24",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Energy_Master",
+      "SetID": "1ihc24",
+      "Name": "Energy Master",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "First_Key",
+      "SetID": "1ihc24",
+      "Name": "First Key",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Health_Master",
+      "SetID": "1ihc24",
+      "Name": "Health Master",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Intermediate",
+      "SetID": "1ihc24",
+      "Name": "Intermediate",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Keys_to_the_end",
+      "SetID": "1ihc24",
+      "Name": "Keys to the end",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Lost_Home",
+      "SetID": "1ihc24",
+      "Name": "Lost Home",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Master",
+      "SetID": "1ihc24",
+      "Name": "Master",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The_End",
+      "SetID": "1ihc24",
+      "Name": "The End?",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The_First_Step",
+      "SetID": "1ihc24",
+      "Name": "The First Step",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "True_Introduction",
+      "SetID": "1ihc24",
+      "Name": "True Introduction",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tutorial",
+      "SetID": "1ihc24",
+      "Name": "Tutorial",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Weapon_Master",
+      "SetID": "1ihc24",
+      "Name": "Weapon Master",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1ihc24",
@@ -40,8 +170,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-19T16:05:23.420676+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:03:42.6159811+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:04:40.1161175+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:30.1300675+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:57:19.9218591+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:03:42.6159851+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:57:49.2668742+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:04:40.1485916+00:00"
 }

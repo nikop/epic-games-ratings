@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~713 |
-| I Broke It | 73.00% | ~694 |
+| Feels Familiar | 75.00% | ~714 |
+| I Broke It | 73.00% | ~695 |
 | Better On Ice | 68.00% | ~647 |
-| Notai Notes | 67.00% | ~637 |
+| Notai Notes | 67.00% | ~638 |
 | Blue Dreams | 66.00% | ~628 |
 | He's Famous! | 66.00% | ~628 |
 | Cutie Poro | 66.00% | ~628 |
 | Krugmazing | 64.00% | ~609 |
-| Moneyball | 61.00% | ~580 |
-| The Fire Below the Mountain | 61.00% | ~580 |
-| No Bites | 55.00% | ~523 |
-| Iceborn | 55.00% | ~523 |
+| Moneyball | 61.00% | ~581 |
+| The Fire Below the Mountain | 61.00% | ~581 |
+| No Bites | 55.00% | ~524 |
+| Iceborn | 55.00% | ~524 |
 | Tear of Freedom | 52.00% | ~495 |
 | Boom Things | 52.00% | ~495 |
 | My Darkest Day | 49.00% | ~466 |
-| Rhythm Of Willump | 46.00% | ~437 |
-| The Relentless Storm | 46.00% | ~437 |
-| A Tragic Reminder | 44.00% | ~418 |
-| 3000 Year Blackout | 44.00% | ~418 |
-| The Finisher | 42.00% | ~399 |
+| Rhythm Of Willump | 47.00% | ~447 |
+| The Relentless Storm | 46.00% | ~438 |
+| A Tragic Reminder | 45.00% | ~428 |
+| 3000 Year Blackout | 44.00% | ~419 |
+| The Finisher | 42.00% | ~400 |
 | So Close | 41.00% | ~390 |
-| You Get Used To It | 40.00% | ~380 |
-| True Legends | 40.00% | ~380 |
-| Boosted! | 38.00% | ~361 |
+| You Get Used To It | 40.00% | ~381 |
+| True Legends | 40.00% | ~381 |
+| Boosted! | 38.00% | ~362 |
 | Family | 37.00% | ~352 |
 | Biggest Snowball Ever | 37.00% | ~352 |
 | Freeze The Ice Witch | 37.00% | ~352 |
 | Bullseye | 37.00% | ~352 |
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~352 |
-| It Is Not Over | 34.00% | ~323 |
-| On The Rocks | 34.00% | ~323 |
-| Snowy Poro | 32.00% | ~304 |
+| It Is Not Over | 34.00% | ~324 |
+| On The Rocks | 34.00% | ~324 |
+| Snowy Poro | 32.00% | ~305 |
 | Never Gets Old | 31.00% | ~295 |
 | Vertical Power | 27.00% | ~257 |
 | One From The Heart | 14.00% | ~133 |
@@ -49,7 +49,7 @@
 | Rock Star | 2.00% | ~19 |
 | We Are Speed | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 951 (Ranked 266)  
+Progressed: 952 (Ranked 266)  
 Completed: 8 (0.84%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,4 +87,4 @@ Completed: 8 (0.84%) (Ranked 176)
 | 2023-11-24 | 860 | 8 |
 | 2023-11-25 | 898 | 8 |
 | 2023-11-26 | 935 | 8 |
-| 2023-11-27 | 951 | 8 |
+| 2023-11-27 | 952 | 8 |

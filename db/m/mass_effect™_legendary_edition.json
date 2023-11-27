@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1429,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -4422,9 +4422,9 @@
       "ID": "achievement_28",
       "SetID": "b9pe172",
       "Name": "Quarian Ally",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 915
     },
     {
       "ID": "achievement_29",
@@ -4574,9 +4574,9 @@
       "ID": "achievement_45",
       "SetID": "d252ncf",
       "Name": "The Assassin",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_46",
@@ -5066,8 +5066,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:08:13.2893975+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:09:06.905067+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:02:48.5212368+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:08:13.2895528+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:03:25.1777386+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:09:06.9052213+00:00"
 }

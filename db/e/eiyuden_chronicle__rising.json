@@ -5,9 +5,9 @@
   "Ranking_Rating": 570,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -185,11 +185,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 700,
+  "EOS_Progressed": 701,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.57,
+  "EOS_Completed_Percentage": 8.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -395,6 +395,11 @@
       "Time": "2023-11-27T10:07:50.5822541+00:00",
       "NumProgressed": 700,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-11-27T18:08:21.6908235+00:00",
+      "NumProgressed": 701,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -406,7 +411,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -414,7 +419,7 @@
       "Name": "Partners?",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -430,7 +435,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -438,7 +443,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -470,7 +475,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -486,7 +491,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -590,7 +595,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -598,7 +603,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -622,7 +627,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -678,7 +683,7 @@
       "Name": "First Time Fishing",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -805,15 +810,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 700,
+      "Progressed": 701,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-11-25T08:59:07.0870694+00:00",
-  "LastChanged_Achievements": "2023-11-27T17:07:47.4331366+00:00",
+  "LastChanged_Achievements": "2023-11-27T18:08:21.6908232+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:12.4041094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:00:01.0981853+00:00",
-  "LastUpdate_Achievements": "2023-11-27T17:07:47.4331794+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:01:44.4278486+00:00",
+  "LastUpdate_Achievements": "2023-11-27T18:08:21.6908522+00:00"
 }
