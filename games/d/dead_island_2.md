@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,550 |
+| Whatever It Takes | 3.00% | ~1,551 |
 | Break A Leg | 2.00% | ~14,523 |
 | Hotel California | 2.00% | ~14,523 |
 | Welcome To Hell-A | 2.00% | ~14,523 |
 | One of Us | 2.00% | ~1,034 |
 | Pork Chopped | 2.00% | ~1,034 |
-| Dr. Reed, I Presume? | 1.00% | ~7,261 |
-| Git Gutte! | 1.00% | ~7,261 |
-| Anger Management | 1.00% | ~7,261 |
-| Bookworm | 1.00% | ~7,261 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,261 |
-| But Doctor, I am Butcho | 1.00% | ~7,261 |
-| Slayer Squad | 1.00% | ~7,261 |
-| Can't Handle the Truth | 1.00% | ~7,261 |
-| Coup de Grâce | 1.00% | ~7,261 |
-| Like Riding a Bike | 1.00% | ~7,261 |
-| Hazardous Materials | 1.00% | ~7,261 |
-| Friends Like These | 1.00% | ~7,261 |
-| Apex Predator | 1.00% | ~7,261 |
-| Zombologist | 1.00% | ~7,261 |
-| A Patton Emerges | 1.00% | ~7,261 |
-| Stacking the Deck | 1.00% | ~7,261 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,261 |
-| Our True Nature | 1.00% | ~7,261 |
-| This is My Weapon | 1.00% | ~7,261 |
+| Dr. Reed, I Presume? | 1.00% | ~7,262 |
+| Git Gutte! | 1.00% | ~7,262 |
+| Anger Management | 1.00% | ~7,262 |
+| Bookworm | 1.00% | ~7,262 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,262 |
+| But Doctor, I am Butcho | 1.00% | ~7,262 |
+| Slayer Squad | 1.00% | ~7,262 |
+| Can't Handle the Truth | 1.00% | ~7,262 |
+| Coup de Grâce | 1.00% | ~7,262 |
+| Like Riding a Bike | 1.00% | ~7,262 |
+| Hazardous Materials | 1.00% | ~7,262 |
+| Friends Like These | 1.00% | ~7,262 |
+| Apex Predator | 1.00% | ~7,262 |
+| Zombologist | 1.00% | ~7,262 |
+| A Patton Emerges | 1.00% | ~7,262 |
+| Stacking the Deck | 1.00% | ~7,262 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,262 |
+| Our True Nature | 1.00% | ~7,262 |
+| This is My Weapon | 1.00% | ~7,262 |
 | Perks of the Job | 0.90% | ~6,535 |
 | Ooh, Shiny! | 0.90% | ~6,535 |
 | I Am the Resurrection | 0.90% | ~6,535 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,139 (Ranked 21)  
+Progressed: 726,151 (Ranked 21)  
 Completed: 2,442 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,11 +278,11 @@ Completed: 2,442 (0.34%) (Ranked 229)
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
-| 2023-11-27 | 726,139 | 2,442 |
+| 2023-11-27 | 726,151 | 2,442 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
-Sum: 11,835 (Ranked 83)  
-Diff (max vs sum): -33  
+Sum: 11,835 (Ranked 84)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,731 |

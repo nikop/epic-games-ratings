@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1313,9 +1313,9 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -1361,9 +1361,9 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -1584,8 +1584,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-27T02:28:55.4392422+00:00",
+  "LastChanged_Achievements": "2023-11-27T03:07:00.1786961+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:21:53.4860684+00:00",
-  "LastUpdate_Achievements": "2023-11-27T02:28:55.4392853+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:59:58.6907677+00:00",
+  "LastUpdate_Achievements": "2023-11-27T03:07:00.1787438+00:00"
 }

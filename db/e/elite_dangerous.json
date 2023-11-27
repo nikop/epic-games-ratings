@@ -4,7 +4,7 @@
   "ProductSlug": "elite-dangerous",
   "Ranking_Rating": 348,
   "Ranking_Popularity": 107,
-  "Ranking_PopularitySum": 78,
+  "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 474,
@@ -6794,6 +6794,6 @@
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
   "LastChanged": "2023-11-26T17:59:38.4091278+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:08.9857533+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:21:57.0236378+00:00",
-  "LastUpdate_Achievements": "2023-11-27T02:26:15.3443662+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:00:03.1027659+00:00",
+  "LastUpdate_Achievements": "2023-11-27T03:03:48.083987+00:00"
 }

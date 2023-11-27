@@ -6,7 +6,7 @@
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -222,11 +222,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22313,
-  "EOS_Completed": 105,
-  "EOS_NewPlayers": 1565,
+  "EOS_Progressed": 22315,
+  "EOS_Completed": 106,
+  "EOS_NewPlayers": 1562,
   "EOS_NewCompleters": 30,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -4722,6 +4722,11 @@
       "Time": "2023-11-27T02:31:58.8742304+00:00",
       "NumProgressed": 22313,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-11-27T03:09:36.6560168+00:00",
+      "NumProgressed": 22315,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 24,
@@ -4765,7 +4770,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3793
+      "UsersEstimate": 3794
     },
     {
       "ID": "ACH_Finale",
@@ -4877,7 +4882,7 @@
       "Name": "Sector 3",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3793
+      "UsersEstimate": 3794
     },
     {
       "ID": "ACH_Sector4",
@@ -4924,16 +4929,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 22313,
-      "Completed": 105
+      "Progressed": 22315,
+      "Completed": 106
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-24T17:57:13.410468+00:00",
-  "LastChanged_Achievements": "2023-11-27T02:31:58.8742299+00:00",
+  "LastChanged_Achievements": "2023-11-27T03:09:36.6560165+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.0801256+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:21:21.5471062+00:00",
-  "LastUpdate_Achievements": "2023-11-27T02:31:58.8742646+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:59:17.1328316+00:00",
+  "LastUpdate_Achievements": "2023-11-27T03:09:36.6560498+00:00"
 }

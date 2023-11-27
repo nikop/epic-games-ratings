@@ -802,9 +802,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 354270,
+  "EOS_Progressed": 354271,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1059,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25867,6 +25867,11 @@
       "Time": "2023-11-27T02:30:45.6453472+00:00",
       "NumProgressed": 354270,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-27T03:07:59.4406659+00:00",
+      "NumProgressed": 354271,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -25894,7 +25899,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42512
+      "UsersEstimate": 42513
     },
     {
       "ID": "ach004",
@@ -25934,7 +25939,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42512
+      "UsersEstimate": 42513
     },
     {
       "ID": "ach009",
@@ -25982,7 +25987,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53140
+      "UsersEstimate": 53141
     },
     {
       "ID": "ach015",
@@ -26086,7 +26091,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 162964
+      "UsersEstimate": 162965
     },
     {
       "ID": "ach028",
@@ -26517,7 +26522,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354270,
+      "Progressed": 354271,
       "Completed": 7
     }
   ],
@@ -26525,8 +26530,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-26T08:58:41.2212064+00:00",
-  "LastChanged_Achievements": "2023-11-27T02:30:45.6453469+00:00",
+  "LastChanged_Achievements": "2023-11-27T03:07:59.4406655+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:21:46.0760032+00:00",
-  "LastUpdate_Achievements": "2023-11-27T02:30:45.6455469+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:59:48.6787369+00:00",
+  "LastUpdate_Achievements": "2023-11-27T03:07:59.4408568+00:00"
 }

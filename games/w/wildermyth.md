@@ -49,12 +49,12 @@ Number of Ratings: 45  (23.09.2022)
 | Worldwalker | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | The Power of Friendship | 0.10% | ~1 |
+| Back into the Sea | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | War-Ender | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |
 | Tempest | 0.10% | ~1 |
 | Drauvenslayers | 0.00% | ~0 |
-| Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Fight Like a Bird | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |

@@ -5,14 +5,14 @@ Rating: 4.76 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~245,344 |
-| The Player Whisperer | 67.00% | ~241,736 |
-| One of Us, One of Us! | 61.00% | ~220,088 |
-| First Victory | 55.00% | ~198,440 |
-| Clean Sheet | 54.00% | ~194,832 |
-| #DoneDeal | 53.00% | ~191,224 |
-| Off the Books | 51.00% | ~184,008 |
-| Super-Sub | 51.00% | ~184,008 |
+| Motivational Speaker | 68.00% | ~245,345 |
+| The Player Whisperer | 67.00% | ~241,737 |
+| One of Us, One of Us! | 61.00% | ~220,089 |
+| First Victory | 55.00% | ~198,441 |
+| Clean Sheet | 54.00% | ~194,833 |
+| #DoneDeal | 53.00% | ~191,225 |
+| Off the Books | 51.00% | ~184,009 |
+| Super-Sub | 51.00% | ~184,009 |
 | Hat-trick | 46.00% | ~165,968 |
 | Planned Signing | 43.00% | ~155,144 |
 | "I Would Love It If We Beat Them" | 42.00% | ~151,536 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 126)
 | Draft Dominator | 0.10% | ~361 |
 | Draft Value | 0.10% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360,800 (Ranked 47)  
+Progressed: 360,801 (Ranked 47)  
 Completed: 26 (0.01%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 26 (0.01%) (Ranked 341)
 | 2023-11-24 | 360,155 | 26 |
 | 2023-11-25 | 360,449 | 26 |
 | 2023-11-26 | 360,773 | 26 |
-| 2023-11-27 | 360,800 | 26 |
+| 2023-11-27 | 360,801 | 26 |
 ## Awards
 Max (Diverse Characters): 1,216  (Ranked 141)  
 Sum: 8,413 (Ranked 100)  

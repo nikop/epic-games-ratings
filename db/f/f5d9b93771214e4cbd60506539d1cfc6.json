@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -233,10 +233,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154470,
-  "EOS_Completed": 344,
-  "EOS_NewPlayers": 941,
-  "EOS_NewCompleters": 8,
+  "EOS_Progressed": 154471,
+  "EOS_Completed": 345,
+  "EOS_NewPlayers": 939,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -19553,6 +19553,11 @@
       "Time": "2023-11-27T02:27:02.5319654+00:00",
       "NumProgressed": 154470,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2023-11-27T03:04:44.8531876+00:00",
+      "NumProgressed": 154471,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 31,
@@ -19572,7 +19577,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108129
+      "UsersEstimate": 108130
     },
     {
       "ID": "EAwards_10",
@@ -19612,7 +19617,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60243
+      "UsersEstimate": 60244
     },
     {
       "ID": "EAwards_15",
@@ -19620,7 +19625,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18536
+      "UsersEstimate": 18537
     },
     {
       "ID": "EAwards_16",
@@ -19636,7 +19641,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33983
+      "UsersEstimate": 33984
     },
     {
       "ID": "EAwards_18",
@@ -19644,7 +19649,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33983
+      "UsersEstimate": 33984
     },
     {
       "ID": "EAwards_19",
@@ -19764,7 +19769,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23170
+      "UsersEstimate": 23171
     },
     {
       "ID": "EAwards_5",
@@ -19772,7 +19777,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18536
+      "UsersEstimate": 18537
     },
     {
       "ID": "EAwards_6",
@@ -19804,23 +19809,23 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18536
+      "UsersEstimate": 18537
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 154470,
-      "Completed": 344
+      "Progressed": 154471,
+      "Completed": 345
     }
   ],
   "FirstSeen": "2023-06-15T17:57:10.0099472+00:00",
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-27T02:27:02.5319648+00:00",
+  "LastChanged_Achievements": "2023-11-27T03:04:44.8531871+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.3123546+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:22:03.3726681+00:00",
-  "LastUpdate_Achievements": "2023-11-27T02:27:02.532083+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:00:11.405101+00:00",
+  "LastUpdate_Achievements": "2023-11-27T03:04:44.853335+00:00"
 }

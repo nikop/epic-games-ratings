@@ -22,11 +22,11 @@
 | Keep the Doctor Away | 3.00% | ~2 |
 | Just a Palm Tree | 3.00% | ~2 |
 | Under the Hood | 3.00% | ~2 |
+| Long Live Gaipajama! | 3.00% | ~2 |
 | The Corporal's Golden Boy | 3.00% | ~2 |
 | Punctual | 3.00% | ~2 |
 | Barking Dog | 3.00% | ~2 |
 | Threat | 3.00% | ~2 |
-| Long Live Gaipajama! | 2.00% | ~1 |
 | Eyes Shut | 2.00% | ~1 |
 | A Diagnosis | 2.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |

@@ -5,11 +5,11 @@ Rating: 4.06 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,549 |
-| World Map | 78.00% | ~2,138 |
-| Temple of Eternals | 57.00% | ~1,562 |
-| Prestigious | 54.00% | ~1,480 |
-| Fellowship Power | 42.00% | ~1,151 |
+| Victor | 93.00% | ~2,550 |
+| World Map | 78.00% | ~2,139 |
+| Temple of Eternals | 57.00% | ~1,563 |
+| Prestigious | 54.00% | ~1,481 |
+| Fellowship Power | 42.00% | ~1,152 |
 | Guild Power | 24.00% | ~658 |
 | Prestigious x10 | 21.00% | ~576 |
 | The game is on | 19.00% | ~521 |
@@ -49,12 +49,12 @@ Rating: 4.06 (Ranked 980)
 | Engineer Mastery | 7.00% | ~192 |
 | The Expeditioner | 7.00% | ~192 |
 | Weekly Quest Completionist | 7.00% | ~192 |
-| Blueprint Upgrades | 6.00% | ~164 |
-| How Do You Turn This On? | 6.00% | ~164 |
-| Lock And Load | 6.00% | ~164 |
-| Missions Dedication | 6.00% | ~164 |
-| Sailor | 6.00% | ~164 |
-| The Alchemist | 6.00% | ~164 |
+| Blueprint Upgrades | 6.00% | ~165 |
+| How Do You Turn This On? | 6.00% | ~165 |
+| Lock And Load | 6.00% | ~165 |
+| Missions Dedication | 6.00% | ~165 |
+| Sailor | 6.00% | ~165 |
+| The Alchemist | 6.00% | ~165 |
 | Active Member | 5.00% | ~137 |
 | Ancient Knowledge | 5.00% | ~137 |
 | Background Story | 5.00% | ~137 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 980)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,741 (Ranked 213)  
+Progressed: 2,742 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 2 (0.07%) (Ranked 301)
 | 2023-11-24 | 2,644 | 2 |
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
-| 2023-11-27 | 2,741 | 2 |
+| 2023-11-27 | 2,742 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
 Sum: 110 (Ranked 443)  

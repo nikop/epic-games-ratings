@@ -6,13 +6,13 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,756,403 |
-| Easy to forget | 46.00% | ~1,648,868 |
-| Back in the black | 39.00% | ~1,397,953 |
-| That's what I'm talking about | 29.00% | ~1,039,504 |
-| The Best of Both Worlds | 25.00% | ~896,124 |
-| Get your wings | 20.00% | ~716,899 |
-| Double trouble | 16.00% | ~573,519 |
+| You need to plug it in... | 49.00% | ~1,756,407 |
+| Easy to forget | 46.00% | ~1,648,872 |
+| Back in the black | 39.00% | ~1,397,957 |
+| That's what I'm talking about | 29.00% | ~1,039,506 |
+| The Best of Both Worlds | 25.00% | ~896,126 |
+| Get your wings | 20.00% | ~716,901 |
+| Double trouble | 16.00% | ~573,521 |
 | Smashing it | 11.00% | ~394,295 |
 | But can it run Crysis? | 9.00% | ~322,605 |
 | My favourite feature... | 9.00% | ~322,605 |
@@ -37,29 +37,29 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,845 |
 | Majority Shareholder | 1.00% | ~35,845 |
 | Owner | 1.00% | ~35,845 |
-| Show off | 0.90% | ~32,260 |
-| Work ethic 101 | 0.70% | ~25,091 |
+| Show off | 0.90% | ~32,261 |
+| Work ethic 101 | 0.70% | ~25,092 |
 | Building momentum | 0.60% | ~21,507 |
 | Lead by example | 0.60% | ~21,507 |
-| Treat yourself - RAM | 0.50% | ~17,922 |
+| Treat yourself - RAM | 0.50% | ~17,923 |
 | Mr big business | 0.40% | ~14,338 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,753 |
-| Mister Big | 0.30% | ~10,753 |
-| Getting your feet wet | 0.30% | ~10,753 |
-| Customer's ALWAYS right. | 0.30% | ~10,753 |
-| Treat yourself - CPU | 0.30% | ~10,753 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,754 |
+| Mister Big | 0.30% | ~10,754 |
+| Getting your feet wet | 0.30% | ~10,754 |
+| Customer's ALWAYS right. | 0.30% | ~10,754 |
+| Treat yourself - CPU | 0.30% | ~10,754 |
 | 1920x1080 | 0.20% | ~7,169 |
 | Blow 'em away | 0.20% | ~7,169 |
-| Hasta La Vista, Baby. | 0.10% | ~3,584 |
-| Wow to build a PC! | 0.10% | ~3,584 |
-| Hoarder | 0.10% | ~3,584 |
-| Sitting on a fortune | 0.10% | ~3,584 |
-| Wow, you really like PCs | 0.10% | ~3,584 |
-| Going loopy | 0.10% | ~3,584 |
-| Stop it | 0.10% | ~3,584 |
-| Treat yourself - GPU | 0.10% | ~3,584 |
+| Hasta La Vista, Baby. | 0.10% | ~3,585 |
+| Wow to build a PC! | 0.10% | ~3,585 |
+| Hoarder | 0.10% | ~3,585 |
+| Sitting on a fortune | 0.10% | ~3,585 |
+| Wow, you really like PCs | 0.10% | ~3,585 |
+| Going loopy | 0.10% | ~3,585 |
+| Stop it | 0.10% | ~3,585 |
+| Treat yourself - GPU | 0.10% | ~3,585 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,584,496 (Ranked 5)  
+Progressed: 3,584,504 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 39 (0.00%) (Ranked 361)
 | 2023-11-24 | 3,583,588 | 39 |
 | 2023-11-25 | 3,584,032 | 39 |
 | 2023-11-26 | 3,584,453 | 39 |
-| 2023-11-27 | 3,584,496 | 39 |
+| 2023-11-27 | 3,584,504 | 39 |
 ## Awards
 Max (Great for Beginners): 1,107  (Ranked 144)  
 Sum: 8,155 (Ranked 104)  

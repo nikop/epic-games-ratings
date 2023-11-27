@@ -28,11 +28,11 @@
 | “… like son” | 38.00% | ~176 |
 | Mana Cannon | 35.00% | ~162 |
 | Dungeonlord Gorgu | 34.00% | ~157 |
+| The Cathedral of Light | 33.00% | ~152 |
 | Shame! Shame! Shame! | 33.00% | ~152 |
-| The Cathedral of Light | 32.00% | ~148 |
 | Tanos' Crusade Against Thalya | 30.00% | ~139 |
+| All’s Well That Ends Evil | 25.00% | ~116 |
 | Unstoppable Horde | 24.00% | ~111 |
-| All’s Well That Ends Evil | 24.00% | ~111 |
 | Master of the Undead | 23.00% | ~106 |
 | The Duel | 22.00% | ~102 |
 | Forbidden Knowledge | 21.00% | ~97 |

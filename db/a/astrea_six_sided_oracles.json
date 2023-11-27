@@ -1086,9 +1086,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ApianChampion",
@@ -1245,8 +1245,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-27T02:28:07.7667284+00:00",
+  "LastChanged_Achievements": "2023-11-27T03:06:03.019809+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:22:53.0759056+00:00",
-  "LastUpdate_Achievements": "2023-11-27T02:28:07.7668373+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:01:17.0105074+00:00",
+  "LastUpdate_Achievements": "2023-11-27T03:06:03.0199026+00:00"
 }

@@ -20,8 +20,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Thief | 12.00% | ~97,211 |
 | Sinner | 11.00% | ~89,110 |
 | Traveller | 11.00% | ~89,110 |
-| Convict | 10.00% | ~81,009 |
-| Haggler | 9.00% | ~72,908 |
+| Convict | 10.00% | ~81,010 |
+| Haggler | 9.00% | ~72,909 |
 | McLovin | 7.00% | ~56,707 |
 | Runt | 7.00% | ~56,707 |
 | Casanova | 6.00% | ~48,606 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~810 |
 | Wingman | 0.10% | ~810 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810,094 (Ranked 17)  
+Progressed: 810,095 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 52 (0.01%) (Ranked 341)
 | 2023-11-24 | 809,708 | 51 |
 | 2023-11-25 | 809,896 | 52 |
 | 2023-11-26 | 810,082 | 52 |
-| 2023-11-27 | 810,094 | 52 |
+| 2023-11-27 | 810,095 | 52 |
 ## Awards
 Max (Character Customization): 7,630  (Ranked 51)  
 Sum: 28,349 (Ranked 49)  

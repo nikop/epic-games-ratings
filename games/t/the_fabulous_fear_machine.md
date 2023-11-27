@@ -10,15 +10,16 @@
 | Jung's dream | 14.00% | ~6 |
 | Pulp! Where Monsters Dwell | 14.00% | ~6 |
 | A continent with chemistry | 14.00% | ~6 |
+| Giant | 11.00% | ~5 |
+| A rival with no options | 11.00% | ~5 |
 | Pulp! Terror Tales in the Night | 11.00% | ~5 |
-| Giant | 9.00% | ~4 |
-| A rival with no options | 9.00% | ~4 |
-| The happy farmer girl | 9.00% | ~4 |
+| The happy farmer girl | 11.00% | ~5 |
+| The seer | 9.00% | ~4 |
 | Bread and bocaua | 7.00% | ~3 |
 | Fanatacism is... poisonous | 7.00% | ~3 |
 | The artist | 7.00% | ~3 |
-| The seer | 7.00% | ~3 |
 | The adventurer | 7.00% | ~3 |
+| Kirlian's best disciple | 7.00% | ~3 |
 | ECO mode | 7.00% | ~3 |
 | You have two wishes left | 7.00% | ~3 |
 | You had one wish left | 5.00% | ~2 |
@@ -26,7 +27,6 @@
 | The scholar | 5.00% | ~2 |
 | Pulp! Out of this World | 5.00% | ~2 |
 | Pulp! Adventures into the Unknown | 5.00% | ~2 |
-| Kirlian's best disciple | 5.00% | ~2 |
 | Diagnosis: fear | 5.00% | ~2 |
 | Ambition is... blind | 5.00% | ~2 |
 | You've awakened the beast | 2.00% | ~1 |

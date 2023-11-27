@@ -551,9 +551,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41345,
+  "EOS_Progressed": 41346,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1161,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8491,6 +8491,11 @@
       "Time": "2023-11-27T02:31:08.8682978+00:00",
       "NumProgressed": 41345,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-11-27T03:08:37.0522169+00:00",
+      "NumProgressed": 41346,
+      "NumCompleted": 174
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -8511,7 +8516,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 4961
+      "UsersEstimate": 4962
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -8663,7 +8668,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21499
+      "UsersEstimate": 21500
     },
     {
       "ID": "ACH_PEAK",
@@ -8703,7 +8708,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 20672
+      "UsersEstimate": 20673
     },
     {
       "ID": "ACH_S5",
@@ -8711,7 +8716,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -8719,7 +8724,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31009
+      "UsersEstimate": 31010
     },
     {
       "ID": "ACH_STATUE",
@@ -8727,22 +8732,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 17778
+      "UsersEstimate": 17779
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 41345,
+      "Progressed": 41346,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-25T10:58:21.218684+00:00",
-  "LastChanged_Achievements": "2023-11-27T02:31:08.8682975+00:00",
+  "LastChanged_Achievements": "2023-11-27T03:08:37.0522165+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.5276065+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:21:20.3937495+00:00",
-  "LastUpdate_Achievements": "2023-11-27T02:31:08.8683446+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:59:15.6403874+00:00",
+  "LastUpdate_Achievements": "2023-11-27T03:08:37.0522824+00:00"
 }

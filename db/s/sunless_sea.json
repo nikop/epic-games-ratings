@@ -748,7 +748,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41248,
+  "EOS_Progressed": 41250,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
@@ -23203,6 +23203,11 @@
       "Time": "2023-11-27T01:52:24.0315966+00:00",
       "NumProgressed": 41248,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T03:05:32.3391429+00:00",
+      "NumProgressed": 41250,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -23230,7 +23235,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7012
+      "UsersEstimate": 7013
     },
     {
       "ID": "ach_antiquarian10",
@@ -23278,7 +23283,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4538
     },
     {
       "ID": "ach_cursestone",
@@ -23294,7 +23299,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ach_dawnmachine",
@@ -23302,7 +23307,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4538
     },
     {
       "ID": "ach_deathofermod",
@@ -23334,7 +23339,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14849
+      "UsersEstimate": 14850
     },
     {
       "ID": "ach_die10",
@@ -23366,7 +23371,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ach_eye",
@@ -23382,7 +23387,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4538
     },
     {
       "ID": "ach_invictus",
@@ -23398,7 +23403,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -23414,7 +23419,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "ach_legacyrival",
@@ -23430,7 +23435,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "ach_legacyshipmate",
@@ -23438,7 +23443,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4538
     },
     {
       "ID": "ach_newstories",
@@ -23446,7 +23451,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "ach_portbell",
@@ -23558,7 +23563,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "ach_sweetheart",
@@ -23582,7 +23587,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6187
+      "UsersEstimate": 6188
     },
     {
       "ID": "ach_undercurrent",
@@ -23645,15 +23650,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41248,
+      "Progressed": 41250,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-24T16:01:31.2368409+00:00",
-  "LastChanged_Achievements": "2023-11-27T02:27:42.1758118+00:00",
+  "LastChanged_Achievements": "2023-11-27T03:05:32.3391426+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:59.5207793+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:20:33.2907212+00:00",
-  "LastUpdate_Achievements": "2023-11-27T02:27:42.1759297+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:58:16.0979373+00:00",
+  "LastUpdate_Achievements": "2023-11-27T03:05:32.3392515+00:00"
 }
