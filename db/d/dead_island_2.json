@@ -6901,10 +6901,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11868,
       "NumberOfAwardsMax": 7760
+    },
+    {
+      "Time": "2023-11-27T12:01:48.1365585+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11873,
+      "NumberOfAwardsMax": 7760
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11868,
+  "NumberOfAwards": 11873,
   "NumberOfAwardsMax": 7760,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6924,7 +6930,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 534
+      "Count": 539
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6963,9 +6969,9 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 726296,
+  "EOS_Progressed": 726315,
   "EOS_Completed": 2443,
-  "EOS_NewPlayers": 5038,
+  "EOS_NewPlayers": 5039,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32253,6 +32259,11 @@
       "Time": "2023-11-27T11:06:17.0338715+00:00",
       "NumProgressed": 726296,
       "NumCompleted": 2443
+    },
+    {
+      "Time": "2023-11-27T12:08:03.5714897+00:00",
+      "NumProgressed": 726315,
+      "NumCompleted": 2443
     }
   ],
   "TotalAchievements": 51,
@@ -32272,7 +32283,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "ach_ammo_ran",
@@ -32336,7 +32347,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "ach_defensive",
@@ -32368,7 +32379,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -32440,7 +32451,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "ach_investigator",
@@ -32504,7 +32515,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "ach_revival_tour",
@@ -32560,7 +32571,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "ach_the_vcla",
@@ -32592,7 +32603,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -32632,7 +32643,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "ach_gardening_tools",
@@ -32671,22 +32682,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726296,
+      "Progressed": 726315,
       "Completed": 2443
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 51838,
+      "Progressed": 51857,
       "Completed": 36609
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-27T09:59:58.2244065+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:06:17.0338712+00:00",
+  "LastChanged": "2023-11-27T12:01:48.1365584+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:08:03.5714891+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-27T11:00:25.8811628+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:06:17.0340001+00:00"
+  "LastUpdate_Ratings": "2023-11-27T12:01:48.136559+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:08:03.5716717+00:00"
 }

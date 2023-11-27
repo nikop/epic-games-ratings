@@ -32,7 +32,7 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 0.70% | ~1,122 |
 | Inevitable | 0.70% | ~1,122 |
 | All-Seeing | 0.70% | ~1,122 |
-| Dream | 0.70% | ~1,119 |
+| Dream | 0.70% | ~1,120 |
 | Breath | 0.60% | ~962 |
 | Breathsmith | 0.60% | ~962 |
 | Unwrap the Gift | 0.50% | ~802 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~160 |
 | Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,343 (Ranked 78)  
+Progressed: 160,346 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 1 (0.00%) (Ranked 361)
 | 2023-11-24 | 159,888 | 1 |
 | 2023-11-25 | 160,117 | 1 |
 | 2023-11-26 | 160,290 | 1 |
-| 2023-11-27 | 160,343 | 1 |
+| 2023-11-27 | 160,346 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 423)  
 Sum: 387 (Ranked 345)  

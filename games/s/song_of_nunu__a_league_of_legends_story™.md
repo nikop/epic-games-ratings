@@ -49,7 +49,7 @@
 | Rock Star | 2.00% | ~19 |
 | We Are Speed | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 945 (Ranked 268)  
+Progressed: 945 (Ranked 269)  
 Completed: 8 (0.85%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |

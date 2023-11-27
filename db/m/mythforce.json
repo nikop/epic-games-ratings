@@ -782,9 +782,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5127,
+  "EOS_Progressed": 5128,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10007,6 +10007,11 @@
       "Time": "2023-11-27T11:04:09.0624014+00:00",
       "NumProgressed": 5127,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T12:05:02.8416058+00:00",
+      "NumProgressed": 5128,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10107,7 +10112,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10155,7 +10160,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -10187,7 +10192,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -10202,15 +10207,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5127,
+      "Progressed": 5128,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-26T17:57:30.4832205+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:04:09.062401+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:05:02.8416053+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-11-27T10:57:59.5849323+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:04:09.0624448+00:00"
+  "LastUpdate_Ratings": "2023-11-27T11:58:14.6482405+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:05:02.8416493+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 573,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -938,6 +938,11 @@
       "Time": "2023-11-20T19:06:29.4101587+00:00",
       "NumProgressed": 572,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-27T12:05:13.7295811+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -973,7 +978,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Doors_Closing",
@@ -1069,7 +1074,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Leisurely_Strol",
@@ -1165,7 +1170,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1180,7 +1185,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 573,
       "Completed": 6
     }
   ],
@@ -1188,8 +1193,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:04:16.8656037+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:05:13.7295805+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:07.3687464+00:00",
-  "LastUpdate_Ratings": "2023-11-27T11:03:08.8517339+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:04:16.8656317+00:00"
+  "LastUpdate_Ratings": "2023-11-27T12:03:35.3020472+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:05:13.7295996+00:00"
 }

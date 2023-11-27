@@ -2,10 +2,10 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2023-11-26T14:05:02.6784312+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T12:05:38.7112197+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -490,7 +495,7 @@
       "Name": "10,000-Volt Electric Field",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -528,9 +533,9 @@
       "ID": "Epic_Champagne_1",
       "SetID": "ba1m2fc",
       "Name": "Booming Cannon Salute",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "Epic_DailyTask_100",
@@ -538,7 +543,7 @@
       "Name": "Good Harvest",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Epic_DangerousDrive_1",
@@ -592,17 +597,17 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "Epic_Formula_12",
       "SetID": "ba1m2fc",
       "Name": "Dionysus",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "Epic_FruitPlanet_1",
@@ -616,7 +621,7 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -640,9 +645,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -650,7 +655,7 @@
       "Name": "Exorcism",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -664,7 +669,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 65
     },
@@ -682,7 +687,7 @@
       "Name": "Extinction",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Epic_KillElite_500",
@@ -754,7 +759,7 @@
       "Name": "Paradise Lost",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Epic_Revenge_1",
@@ -792,7 +797,7 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 62
     },
@@ -840,9 +845,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -856,7 +861,7 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -873,14 +878,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:04:34.4872076+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:05:38.7112192+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.1827945+00:00",
-  "LastUpdate_Ratings": "2023-11-27T11:00:45.4336118+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:04:34.4872356+00:00"
+  "LastUpdate_Ratings": "2023-11-27T12:02:47.9690678+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:05:38.7112536+00:00"
 }

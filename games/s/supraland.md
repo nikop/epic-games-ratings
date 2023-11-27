@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~726,883 |
-| The Blues | 85.00% | ~624,091 |
-| Fast | 66.00% | ~484,588 |
+| Out of bed | 99.00% | ~726,884 |
+| The Blues | 85.00% | ~624,092 |
+| Fast | 66.00% | ~484,589 |
 | Healthbar | 55.00% | ~403,824 |
-| Force Cube | 53.00% | ~389,139 |
+| Force Cube | 53.00% | ~389,140 |
 | Double Jump | 48.00% | ~352,428 |
 | Regeneration | 47.00% | ~345,086 |
 | Triple Jump | 43.00% | ~315,717 |
-| Climb the hill | 42.00% | ~308,374 |
+| Climb the hill | 42.00% | ~308,375 |
 | Through the fire pipe | 39.00% | ~286,348 |
 | MacGuffin | 38.00% | ~279,006 |
-| Just once | 37.00% | ~271,663 |
+| Just once | 37.00% | ~271,664 |
 | Armor | 30.00% | ~220,268 |
 | True holy spirit | 28.00% | ~205,583 |
 | That's how electronics work obviously | 27.00% | ~198,241 |
@@ -27,7 +27,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Freed from prison | 21.00% | ~154,187 |
 | Stomp | 21.00% | ~154,187 |
 | Double Health | 19.00% | ~139,503 |
-| Green Keycard | 18.00% | ~132,160 |
+| Green Keycard | 18.00% | ~132,161 |
 | Buckle | 17.00% | ~124,818 |
 | Rattle Hag | 16.00% | ~117,476 |
 | All Shells | 15.00% | ~110,134 |
@@ -44,13 +44,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~80,765 |
 | Infiltrated | 11.00% | ~80,765 |
 | Robbed | 11.00% | ~80,765 |
-| Fire Flies | 10.00% | ~73,422 |
-| Cave Flies | 10.00% | ~73,422 |
-| Gold Scam | 10.00% | ~73,422 |
-| Gold Scam Uncovered | 10.00% | ~73,422 |
-| Panic Lights | 10.00% | ~73,422 |
-| Translocator | 10.00% | ~73,422 |
-| Yellow Shot Button | 10.00% | ~73,422 |
+| Fire Flies | 10.00% | ~73,423 |
+| Cave Flies | 10.00% | ~73,423 |
+| Gold Scam | 10.00% | ~73,423 |
+| Gold Scam Uncovered | 10.00% | ~73,423 |
+| Panic Lights | 10.00% | ~73,423 |
+| Translocator | 10.00% | ~73,423 |
+| Yellow Shot Button | 10.00% | ~73,423 |
 | Moon Door | 9.00% | ~66,080 |
 | Momentum | 9.00% | ~66,080 |
 | Through the tiny pipe | 9.00% | ~66,080 |
@@ -59,10 +59,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Well deserved | 6.00% | ~44,054 |
 | Super Sword | 4.00% | ~29,369 |
 | Happiness | 3.00% | ~22,027 |
-| All Chests | 2.00% | ~14,684 |
-| Poor ancestors | 2.00% | ~14,684 |
-| Shelf filled | 2.00% | ~14,684 |
-| Invisible Wall | 2.00% | ~14,684 |
+| All Chests | 2.00% | ~14,685 |
+| Poor ancestors | 2.00% | ~14,685 |
+| Shelf filled | 2.00% | ~14,685 |
+| Invisible Wall | 2.00% | ~14,685 |
 | Groupies | 1.00% | ~7,342 |
 | Jesus Christ Suprastar | 1.00% | ~7,342 |
 | Redstone Pickaxe | 1.00% | ~7,342 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~734 |
 | DLC: Top of the world | 0.10% | ~734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,225 (Ranked 20)  
+Progressed: 734,226 (Ranked 20)  
 Completed: 764 (0.10%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 764 (0.10%) (Ranked 286)
 | 2023-11-24 | 733,890 | 763 |
 | 2023-11-25 | 734,051 | 764 |
 | 2023-11-26 | 734,194 | 764 |
-| 2023-11-27 | 734,225 | 764 |
+| 2023-11-27 | 734,226 | 764 |
 ## Awards
 Max (Challenging Puzzles): 7,734  (Ranked 50)  
 Sum: 10,092 (Ranked 91)  

@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 836,
+  "EOS_Progressed": 837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1926,6 +1926,11 @@
       "Time": "2023-11-26T20:08:17.5952032+00:00",
       "NumProgressed": 836,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T12:09:14.6128533+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1969,7 +1974,7 @@
       "Name": "The City",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -2049,7 +2054,7 @@
       "Name": "Nanonic I",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -2121,7 +2126,7 @@
       "Name": "Terminated III",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -2137,7 +2142,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2168,13 +2173,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 836,
+      "Progressed": 837,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 3
     }
   ],
@@ -2182,8 +2187,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:08:38.3342504+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:09:14.6128528+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6784988+00:00",
-  "LastUpdate_Ratings": "2023-11-27T10:58:18.3231576+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:08:38.334277+00:00"
+  "LastUpdate_Ratings": "2023-11-27T11:58:41.5338907+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:09:14.6128815+00:00"
 }

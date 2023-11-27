@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -469,7 +469,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1552873,
+  "EOS_Progressed": 1552880,
   "EOS_Completed": 733,
   "EOS_NewPlayers": 1277,
   "EOS_NewCompleters": 3,
@@ -25669,6 +25669,11 @@
       "Time": "2023-11-27T11:05:46.0785604+00:00",
       "NumProgressed": 1552873,
       "NumCompleted": 733
+    },
+    {
+      "Time": "2023-11-27T12:07:19.9304221+00:00",
+      "NumProgressed": 1552880,
+      "NumCompleted": 733
     }
   ],
   "TotalAchievements": 20,
@@ -25688,7 +25693,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108701
+      "UsersEstimate": 108702
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -25696,7 +25701,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31057
+      "UsersEstimate": 31058
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -25752,7 +25757,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31057
+      "UsersEstimate": 31058
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -25768,7 +25773,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31057
+      "UsersEstimate": 31058
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -25776,7 +25781,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155287
+      "UsersEstimate": 155288
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -25808,7 +25813,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31057
+      "UsersEstimate": 31058
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -25832,22 +25837,22 @@
       "Name": "Washing Machine",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 6211
+      "UsersEstimate": 6212
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1552873,
+      "Progressed": 1552880,
       "Completed": 733
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-11-20T10:57:26.3491363+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:05:46.0785601+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:07:19.9304215+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0187854+00:00",
-  "LastUpdate_Ratings": "2023-11-27T10:57:46.5964839+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:05:46.0787098+00:00"
+  "LastUpdate_Ratings": "2023-11-27T11:57:54.891451+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:07:19.930552+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -877,11 +877,11 @@
       "Count": 112
     }
   ],
-  "EOS_Progressed": 11111,
+  "EOS_Progressed": 11112,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -13317,6 +13317,11 @@
       "Time": "2023-11-27T08:09:17.6140835+00:00",
       "NumProgressed": 11111,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-27T12:09:07.5100678+00:00",
+      "NumProgressed": 11112,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13488,7 +13493,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "ACH22",
@@ -13496,7 +13501,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "ACH23",
@@ -13599,7 +13604,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11111,
+      "Progressed": 11112,
       "Completed": 65
     }
   ],
@@ -13607,8 +13612,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-26T08:58:55.4778797+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:08:33.2473675+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:09:07.5100663+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:45.8574591+00:00",
-  "LastUpdate_Ratings": "2023-11-27T10:59:41.1020416+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:08:33.2474476+00:00"
+  "LastUpdate_Ratings": "2023-11-27T12:00:40.6965417+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:09:07.5101575+00:00"
 }

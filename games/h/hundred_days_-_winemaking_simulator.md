@@ -6,12 +6,12 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 41.00% | ~5,708 |
-| It's a good start | 10.00% | ~1,392 |
+| Bye Bye | 41.00% | ~5,711 |
+| It's a good start | 10.00% | ~1,393 |
 | Bonjour! | 8.00% | ~1,114 |
-| Quack | 7.00% | ~974 |
-| The Assistant | 6.00% | ~835 |
-| The Blue Marl | 6.00% | ~835 |
+| Quack | 7.00% | ~975 |
+| The Assistant | 6.00% | ~836 |
+| The Blue Marl | 6.00% | ~836 |
 | Ostinata | 5.00% | ~696 |
 | Better than nothing? | 5.00% | ~696 |
 | A long journey | 4.00% | ~557 |
@@ -19,14 +19,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~418 |
 | Surprise of Langhe | 3.00% | ~418 |
 | Famous | 3.00% | ~418 |
-| What is that? A castle? | 2.00% | ~278 |
-| A lot of space | 2.00% | ~278 |
-| A big garage | 2.00% | ~278 |
-| Millionaire | 2.00% | ~278 |
-| Exotic | 2.00% | ~278 |
-| Pastry Chef | 2.00% | ~278 |
-| Welcome to the club | 2.00% | ~278 |
-| Very Important Winemaker | 2.00% | ~278 |
+| What is that? A castle? | 2.00% | ~279 |
+| A lot of space | 2.00% | ~279 |
+| A big garage | 2.00% | ~279 |
+| Millionaire | 2.00% | ~279 |
+| Exotic | 2.00% | ~279 |
+| Pastry Chef | 2.00% | ~279 |
+| Welcome to the club | 2.00% | ~279 |
+| Very Important Winemaker | 2.00% | ~279 |
 | King of Langhe | 1.00% | ~139 |
 | Gem of Monferrato | 1.00% | ~139 |
 | Treasure of Roero | 0.80% | ~111 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~14 |
 | Master Winemaker | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,921 (Ranked 155)  
+Progressed: 13,929 (Ranked 155)  
 Completed: 12 (0.09%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,11 +132,11 @@ Completed: 12 (0.09%) (Ranked 289)
 | 2023-11-24 | 13,589 | 12 |
 | 2023-11-25 | 13,735 | 12 |
 | 2023-11-26 | 13,881 | 12 |
-| 2023-11-27 | 13,921 | 12 |
+| 2023-11-27 | 13,929 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 286)  
-Sum: 1,729 (Ranked 222)  
-Diff (max vs sum): 64  
+Sum: 1,730 (Ranked 221)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 207 |
@@ -148,7 +148,7 @@ Diff (max vs sum): 64
 | This game has Amazing Storytelling | 177 |
 | This game has Easy Combat | 130 |
 | This game has Amazing Characters | 126 |
-| This game has a Creative Community | 109 |
+| This game has a Creative Community | 110 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -218,3 +218,4 @@ Diff (max vs sum): 64
 | 2023-11-14 | 4.35 | - | 207 | 1,726 |
 | 2023-11-22 | 4.35 | - | 207 | 1,728 |
 | 2023-11-24 | 4.35 | - | 207 | 1,729 |
+| 2023-11-27 | 4.35 | - | 207 | 1,730 |

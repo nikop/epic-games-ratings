@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1413,9 +1413,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239952,
+  "EOS_Progressed": 239956,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1517,
+  "EOS_NewPlayers": 1515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20143,6 +20143,11 @@
       "Time": "2023-11-27T11:08:46.6936677+00:00",
       "NumProgressed": 239952,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-27T12:09:26.3120262+00:00",
+      "NumProgressed": 239956,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20602,7 +20607,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83983
+      "UsersEstimate": 83985
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20857,21 +20862,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 239952,
+      "Progressed": 239956,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 239952,
+      "Progressed": 239956,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-27T08:58:03.3636089+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:08:46.6936668+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:09:26.3120255+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-27T10:58:17.8052718+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:08:46.6938016+00:00"
+  "LastUpdate_Ratings": "2023-11-27T11:58:40.7213438+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:09:26.3121592+00:00"
 }

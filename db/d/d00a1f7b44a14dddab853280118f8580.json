@@ -1322,9 +1322,9 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 200,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "ach_complete_tutorial",
@@ -1378,9 +1378,9 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_skip_3",
@@ -1409,8 +1409,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:06:49.9826027+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:08:50.1848756+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-27T10:59:26.1980544+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:06:49.9826216+00:00"
+  "LastUpdate_Ratings": "2023-11-27T12:00:17.43898+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:08:50.1848911+00:00"
 }

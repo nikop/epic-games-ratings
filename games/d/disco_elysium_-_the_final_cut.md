@@ -271,7 +271,7 @@ Completed: 28 (0.02%) (Ranked 332)
 | 2023-11-27 | 131,307 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 179)  
-Sum: 1,126 (Ranked 253)  
+Sum: 1,127 (Ranked 253)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
@@ -283,7 +283,7 @@ Diff (max vs sum): -74
 | This game has Unique Visuals | 38 |
 | This game has Amazing Characters | 38 |
 | This game is Relaxing | 37 |
-| This game has Diverse Characters | 34 |
+| This game has Diverse Characters | 35 |
 | This game is Extremely Fun | 32 |
 | This game has Obsessive Gameplay | 26 |
 | This game has a Creative Community | 24 |
@@ -447,3 +447,4 @@ Diff (max vs sum): -74
 | 2023-11-21 | 4.87 | - | 737 | 1,123 |
 | 2023-11-24 | 4.87 | - | 737 | 1,124 |
 | 2023-11-25 | 4.87 | - | 737 | 1,126 |
+| 2023-11-27 | 4.87 | - | 737 | 1,127 |

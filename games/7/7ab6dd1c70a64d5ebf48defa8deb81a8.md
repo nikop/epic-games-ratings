@@ -33,11 +33,11 @@
 | A Queen's Tale | 2.00% | ~5 |
 | Slayer | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
+| Shardbearer | 0.90% | ~2 |
 | Flawless Victory | 0.90% | ~2 |
 | All There Is | 0.90% | ~2 |
 | False God | 0.90% | ~2 |
 | All That Gold | 0.90% | ~2 |
-| Shardbearer | 0.40% | ~1 |
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

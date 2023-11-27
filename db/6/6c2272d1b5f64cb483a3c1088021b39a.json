@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4557,25 +4557,25 @@
       "ID": "good_host_1",
       "SetID": "53c1p3k",
       "Name": "Good Host 1",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "good_host_2",
       "SetID": "53c1p3k",
       "Name": "Good Host 2",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "good_host_3",
       "SetID": "53c1p3k",
       "Name": "Good Host 3",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "invincible_1",
@@ -4828,8 +4828,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:09:26.3471089+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:10:21.2051241+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:57.5802496+00:00",
-  "LastUpdate_Ratings": "2023-11-27T11:00:48.0485571+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:09:26.3471646+00:00"
+  "LastUpdate_Ratings": "2023-11-27T12:02:51.0576114+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:10:21.20519+00:00"
 }

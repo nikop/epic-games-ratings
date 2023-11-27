@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236275,
+  "EOS_Progressed": 236276,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23562,6 +23562,11 @@
       "Time": "2023-11-27T11:05:43.1358238+00:00",
       "NumProgressed": 236275,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-27T12:07:15.6928574+00:00",
+      "NumProgressed": 236276,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23797,7 +23802,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51980
+      "UsersEstimate": 51981
     },
     {
       "ID": "TACTICIAN",
@@ -23821,7 +23826,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51980
+      "UsersEstimate": 51981
     },
     {
       "ID": "TUNINGMANIAC",
@@ -23844,15 +23849,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236275,
+      "Progressed": 236276,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:05:43.1358234+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:07:15.6928569+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-11-27T10:57:47.3252905+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:05:43.1359593+00:00"
+  "LastUpdate_Ratings": "2023-11-27T11:57:55.8847014+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:07:15.6929887+00:00"
 }

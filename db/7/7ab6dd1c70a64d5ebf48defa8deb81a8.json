@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 227,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -992,9 +992,9 @@
       "ID": "ACH_12",
       "SetID": "efe2lj",
       "Name": "Shardbearer",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_13",
@@ -1199,8 +1199,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:09:22.8351654+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:10:16.9874807+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-27T10:59:37.1449608+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:09:22.835186+00:00"
+  "LastUpdate_Ratings": "2023-11-27T12:00:34.7301491+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:10:16.9875092+00:00"
 }

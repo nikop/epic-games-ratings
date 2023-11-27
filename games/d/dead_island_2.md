@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,555 |
+| Whatever It Takes | 3.00% | ~1,556 |
 | Break A Leg | 2.00% | ~14,526 |
 | Hotel California | 2.00% | ~14,526 |
 | Welcome To Hell-A | 2.00% | ~14,526 |
@@ -33,18 +33,18 @@ Rating: 4.54 (Ranked 528)
 | Perks of the Job | 0.90% | ~6,537 |
 | Ooh, Shiny! | 0.90% | ~6,537 |
 | I Am the Resurrection | 0.90% | ~6,537 |
-| Making Your Mark | 0.80% | ~5,810 |
-| Humanity Distilled | 0.80% | ~5,810 |
-| Max Headroom | 0.80% | ~5,810 |
+| Making Your Mark | 0.80% | ~5,811 |
+| Humanity Distilled | 0.80% | ~5,811 |
+| Max Headroom | 0.80% | ~5,811 |
 | Down with the Sickness | 0.70% | ~5,084 |
 | Not Even My Final Form | 0.60% | ~4,358 |
 | Jumbo Keyring | 0.60% | ~4,358 |
 | Go, Bobcats! | 0.60% | ~4,358 |
 | Rising Star | 0.60% | ~4,358 |
-| On Safari | 0.50% | ~3,631 |
-| Smorgasbord | 0.50% | ~3,631 |
-| Internet Famous | 0.50% | ~3,631 |
-| Variety is the Spice of Death | 0.50% | ~3,631 |
+| On Safari | 0.50% | ~3,632 |
+| Smorgasbord | 0.50% | ~3,632 |
+| Internet Famous | 0.50% | ~3,632 |
+| Variety is the Spice of Death | 0.50% | ~3,632 |
 | Make it So | 0.40% | ~2,905 |
 | LA Influential | 0.30% | ~2,179 |
 | Sole Survivor | 0.30% | ~2,179 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,296 (Ranked 21)  
+Progressed: 726,315 (Ranked 21)  
 Completed: 2,443 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,17 +278,17 @@ Completed: 2,443 (0.34%) (Ranked 229)
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
-| 2023-11-27 | 726,296 | 2,443 |
+| 2023-11-27 | 726,315 | 2,443 |
 ## Awards
 Max (Great Boss Battles): 7,760  (Ranked 49)  
-Sum: 11,868 (Ranked 84)  
+Sum: 11,873 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,760 |
 | This game is Great for Beginners | 598 |
 | This game has Diverse Characters | 566 |
-| This game has Quickly Understood Controls | 534 |
+| This game has Quickly Understood Controls | 539 |
 | This game is Relaxing | 510 |
 | This game has Amazing Storytelling | 497 |
 | This game is Highly Recommended | 481 |
@@ -517,4 +517,4 @@ Diff (max vs sum): -35
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
-| 2023-11-27 | 4.54 | 7,760 | 11,868 |
+| 2023-11-27 | 4.54 | 7,760 | 11,873 |

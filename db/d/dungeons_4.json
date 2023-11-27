@@ -1109,17 +1109,17 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 405
     },
     {
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 405
     },
     {
       "ID": "ach_main01begin_storm",
@@ -1349,9 +1349,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -1604,8 +1604,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:06:02.2806302+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:07:42.7349983+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-27T10:59:33.3203468+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:06:02.2806834+00:00"
+  "LastUpdate_Ratings": "2023-11-27T12:00:29.2984966+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:07:42.7350463+00:00"
 }

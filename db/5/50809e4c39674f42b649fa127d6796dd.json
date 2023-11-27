@@ -2,10 +2,10 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -672,6 +672,11 @@
       "Time": "2023-11-27T09:08:24.0027851+00:00",
       "NumProgressed": 311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T12:09:01.1851153+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -724,7 +729,7 @@
       "Name": "Hardened Hedgehog",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -748,15 +753,15 @@
       "Name": "Perfect Run",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 59
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -764,7 +769,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -772,7 +777,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -788,7 +793,7 @@
       "Name": "Unknown Threat",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 260
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -796,15 +801,15 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -820,7 +825,7 @@
       "Name": "Angler\u0027s Club",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KODAMA_REACH_NUM",
@@ -828,7 +833,7 @@
       "Name": "Koco Leader",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -852,7 +857,7 @@
       "Name": "Futile Resistance",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -876,7 +881,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -924,7 +929,7 @@
       "Name": "Herculean Hedgehog",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
@@ -932,7 +937,7 @@
       "Name": "Hearty Hedgehog",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -940,7 +945,7 @@
       "Name": "Unrivaled Aptitude",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -948,7 +953,7 @@
       "Name": "Hypersonic Hedgehog",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -964,7 +969,7 @@
       "Name": "Kronos Island Expert",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -996,21 +1001,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 313,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-27T11:08:28.7386502+00:00",
+  "LastChanged_Achievements": "2023-11-27T12:09:01.1851148+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-27T11:00:27.4728583+00:00",
-  "LastUpdate_Achievements": "2023-11-27T11:08:28.7386727+00:00"
+  "LastUpdate_Ratings": "2023-11-27T12:01:50.5756093+00:00",
+  "LastUpdate_Achievements": "2023-11-27T12:09:01.1851394+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~401 |
-| Thalya – Simply Immortal | 86.00% | ~401 |
+| The Last Stand | 87.00% | ~405 |
+| Thalya – Simply Immortal | 87.00% | ~405 |
 | For the Horde! | 80.00% | ~373 |
 | Hammer Time, Round Two | 78.00% | ~363 |
 | The Hellwoods | 72.00% | ~336 |
@@ -28,8 +28,8 @@
 | “… like son” | 38.00% | ~177 |
 | Mana Cannon | 35.00% | ~163 |
 | Dungeonlord Gorgu | 34.00% | ~158 |
+| Shame! Shame! Shame! | 34.00% | ~158 |
 | The Cathedral of Light | 33.00% | ~154 |
-| Shame! Shame! Shame! | 33.00% | ~154 |
 | Tanos' Crusade Against Thalya | 30.00% | ~140 |
 | All’s Well That Ends Evil | 25.00% | ~116 |
 | Unstoppable Horde | 24.00% | ~112 |
