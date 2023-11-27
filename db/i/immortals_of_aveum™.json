@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1458,6 +1458,11 @@
       "Time": "2023-11-27T11:08:40.0397964+00:00",
       "NumProgressed": 309,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T14:08:49.1066462+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1468,9 +1473,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_10",
@@ -1558,7 +1563,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_20",
@@ -1606,15 +1611,15 @@
       "Name": "Scholar",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_36",
@@ -1646,7 +1651,7 @@
       "Name": "No More Names",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_41",
@@ -1670,7 +1675,7 @@
       "Name": "Armaments Vert",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_44",
@@ -1710,15 +1715,15 @@
       "Name": "Soldier",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_50",
@@ -1726,7 +1731,7 @@
       "Name": "Veteran",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_54",
@@ -1845,7 +1850,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 1
     }
   ],
@@ -1853,8 +1858,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-26T15:58:20.3340426+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:16:29.5020447+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:08:49.1066459+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.7077171+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:06:40.5873468+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:16:29.502077+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:58:57.0047531+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:08:49.1066794+00:00"
 }

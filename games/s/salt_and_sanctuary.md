@@ -1,33 +1,33 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 382)  
+Rating: 4.61 (Ranked 383)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~447,653 |
-| The Three | 64.00% | ~345,178 |
-| The Banquet | 40.00% | ~215,736 |
-| Devara's Light | 31.00% | ~167,196 |
+| Find Sanctuary | 83.00% | ~447,656 |
+| The Three | 64.00% | ~345,180 |
+| The Banquet | 40.00% | ~215,738 |
+| Devara's Light | 31.00% | ~167,197 |
 | The Iron Ones | 19.00% | ~102,475 |
 | The Village | 17.00% | ~91,688 |
-| The Forest | 15.00% | ~80,901 |
+| The Forest | 15.00% | ~80,902 |
 | The Keep | 14.00% | ~75,508 |
-| Branded | 13.00% | ~70,114 |
-| The Imposter | 13.00% | ~70,114 |
+| Branded | 13.00% | ~70,115 |
+| The Imposter | 13.00% | ~70,115 |
 | The Castle | 11.00% | ~59,328 |
 | The Dome | 9.00% | ~48,541 |
 | The Red Hall | 9.00% | ~48,541 |
-| The Sacrifice | 8.00% | ~43,147 |
-| The Ziggurat | 8.00% | ~43,147 |
+| The Sacrifice | 8.00% | ~43,148 |
+| The Ziggurat | 8.00% | ~43,148 |
 | The Cave | 7.00% | ~37,754 |
 | The Mire | 7.00% | ~37,754 |
 | The Stone Roots | 7.00% | ~37,754 |
-| Storied | 6.00% | ~32,360 |
-| The Construct | 6.00% | ~32,360 |
-| The Lake | 6.00% | ~32,360 |
-| The Ruins | 6.00% | ~32,360 |
+| Storied | 6.00% | ~32,361 |
+| The Construct | 6.00% | ~32,361 |
+| The Lake | 6.00% | ~32,361 |
+| The Ruins | 6.00% | ~32,361 |
 | The Alkymancery | 5.00% | ~26,967 |
 | The Pitchwoods | 5.00% | ~26,967 |
 | Honed | 4.00% | ~21,574 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,787 |
 | Fading Fast | 1.00% | ~5,393 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,341 (Ranked 34)  
+Progressed: 539,344 (Ranked 34)  
 Completed: 1,624 (0.30%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 1,624 (0.30%) (Ranked 236)
 | 2023-11-24 | 539,078 | 1,623 |
 | 2023-11-25 | 539,183 | 1,623 |
 | 2023-11-26 | 539,293 | 1,623 |
-| 2023-11-27 | 539,341 | 1,624 |
+| 2023-11-27 | 539,344 | 1,624 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 256)  
 Sum: 2,003 (Ranked 213)  

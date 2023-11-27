@@ -19,11 +19,11 @@ Rating: 4.42 (Ranked 717)
 | Right through the middle | 58.00% | ~1,311 |
 | Facility Manager | 54.00% | ~1,220 |
 | Poor Devil | 54.00% | ~1,220 |
-| Producer | 50.00% | ~1,130 |
+| Producer | 51.00% | ~1,153 |
 | Apprentice | 42.00% | ~949 |
 | Bridge Builder | 42.00% | ~949 |
+| Going once, going twice, sold | 36.00% | ~814 |
 | Access granted | 35.00% | ~791 |
-| Going once, going twice, sold | 35.00% | ~791 |
 | Bull and bear | 34.00% | ~768 |
 | Stoker | 33.00% | ~746 |
 | Full Steam ahead | 33.00% | ~746 |

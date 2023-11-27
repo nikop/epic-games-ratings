@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 382,
+  "Ranking_Rating": 383,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5516,
+  "EOS_Progressed": 5517,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7533,6 +7533,11 @@
       "Time": "2023-11-27T01:53:32.5316772+00:00",
       "NumProgressed": 5516,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-27T14:06:21.2734705+00:00",
+      "NumProgressed": 5517,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7656,7 +7661,7 @@
       "Name": "Realm Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "23",
@@ -7664,7 +7669,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "24",
@@ -7672,7 +7677,7 @@
       "Name": "Secret Technique",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "25",
@@ -7680,7 +7685,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "26",
@@ -8023,13 +8028,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5516,
+      "Progressed": 5517,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5516,
+      "Progressed": 5517,
       "Completed": 7
     }
   ],
@@ -8037,8 +8042,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:14:06.0341627+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:06:21.2734702+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:06:20.3684321+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:14:06.0342317+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:58:34.274577+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:06:21.2735541+00:00"
 }

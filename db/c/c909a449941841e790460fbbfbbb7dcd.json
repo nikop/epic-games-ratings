@@ -3,9 +3,9 @@
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 392,
-  "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 190,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.68,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.21,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -839,6 +839,11 @@
       "Time": "2023-11-27T06:04:37.8276918+00:00",
       "NumProgressed": 190,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-27T14:04:53.3821635+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -897,9 +902,9 @@
       "ID": "DEFEATED_20000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 110,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_0_0",
@@ -921,9 +926,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -987,13 +992,13 @@
       "ID": "14g34pl",
       "IsBase": true,
       "Progressed": 190,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:12:45.7870561+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:04:53.382163+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:08.5650731+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:05:59.8101482+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:12:45.7870685+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:58:12.0118299+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:04:53.3821777+00:00"
 }

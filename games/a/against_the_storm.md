@@ -6,58 +6,67 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 7.00% | ~1,225 |
-| The Marshlands | 7.00% | ~1,225 |
-| Taking Action | 7.00% | ~1,225 |
-| No Deaths | 7.00% | ~1,225 |
-| Overcoming Difficulty | 6.00% | ~1,050 |
-| Fertile Meadows | 6.00% | ~1,050 |
-| Coral Forest | 6.00% | ~1,050 |
-| The Scarlet Orchard | 6.00% | ~1,050 |
-| Bandit Camp | 5.00% | ~875 |
-| Ancient Battleground | 5.00% | ~875 |
-| Sparkdew Crystals | 5.00% | ~875 |
-| Royal Outpost | 5.00% | ~875 |
-| Lost Colonies | 5.00% | ~875 |
-| Watchtower | 5.00% | ~875 |
-| A Real Challenge | 5.00% | ~875 |
-| Trade Baron | 5.00% | ~875 |
-| Homesick | 4.00% | ~700 |
-| Against All Odds | 4.00% | ~700 |
-| Ruined Armory | 4.00% | ~700 |
-| Barren Lands | 4.00% | ~700 |
-| Haunted Forest | 4.00% | ~700 |
-| Levitating Monument | 4.00% | ~700 |
-| Flooded Mines | 4.00% | ~700 |
-| Monastery of the Holy Flame | 4.00% | ~700 |
-| Statue of the Forefathers | 4.00% | ~700 |
-| Corrosive Torrent | 4.00% | ~700 |
-| Cursed Lands | 4.00% | ~700 |
-| Serving Ale | 3.00% | ~525 |
-| Refinery | 3.00% | ~525 |
-| Dangerous Lands | 3.00% | ~525 |
-| Fishmen Ritual Site | 3.00% | ~525 |
-| Forbidden Lands | 3.00% | ~525 |
-| Forsaken Gods Temple | 3.00% | ~525 |
-| Like a Machine | 3.00% | ~525 |
-| Defying the Crown | 3.00% | ~525 |
-| Into the Forest | 3.00% | ~525 |
-| Feeding The People | 2.00% | ~350 |
-| Efficient Explorer | 2.00% | ~350 |
-| Victory through Prosperity | 2.00% | ~350 |
-| Lizard Utopia | 1.00% | ~175 |
-| Prestigious Expedition | 1.00% | ~175 |
-| Blood Flower Farmer | 1.00% | ~175 |
-| Human Utopia | 0.90% | ~157 |
-| Beaver Utopia | 0.80% | ~140 |
-| The Queen's Chosen | 0.60% | ~105 |
-| Harpy Utopia | 0.50% | ~87 |
-| Ruins | 0.50% | ~87 |
-| Treasure | 0.40% | ~70 |
-| Higher Needs | 0.30% | ~52 |
-| Paradise | 0.20% | ~35 |
+| Against All Odds | 0.10% | ~18 |
+| Corrosive Torrent | 0.10% | ~18 |
+| Coral Forest | 0.10% | ~18 |
+| Prestigious Expedition | 0.10% | ~18 |
+| Abandoned Settlement | 0.10% | ~18 |
+| Frosts | 0.10% | ~18 |
+| Land of Greed | 0.10% | ~18 |
+| Overgrown Library | 0.10% | ~18 |
+| Petrified Necropolis | 0.10% | ~18 |
+| Ominous Presence | 0.10% | ~18 |
+| Gathering Storm | 0.10% | ~18 |
+| Untamed Wilds | 0.10% | ~18 |
+| Fox Utopia | 0.10% | ~18 |
+| Serving Ale | 0.00% | ~0 |
+| Feeding The People | 0.00% | ~0 |
+| Paradise | 0.00% | ~0 |
+| Higher Needs | 0.00% | ~0 |
+| Beaver Utopia | 0.00% | ~0 |
+| Harpy Utopia | 0.00% | ~0 |
+| Human Utopia | 0.00% | ~0 |
+| Lizard Utopia | 0.00% | ~0 |
+| Efficient Explorer | 0.00% | ~0 |
+| Refinery | 0.00% | ~0 |
+| Homesick | 0.00% | ~0 |
+| First Real Expedition | 0.00% | ~0 |
+| Overcoming Difficulty | 0.00% | ~0 |
+| Ruined Armory | 0.00% | ~0 |
+| Bandit Camp | 0.00% | ~0 |
+| Barren Lands | 0.00% | ~0 |
+| Ancient Battleground | 0.00% | ~0 |
+| Sparkdew Crystals | 0.00% | ~0 |
+| Dangerous Lands | 0.00% | ~0 |
+| Fertile Meadows | 0.00% | ~0 |
+| Fishmen Ritual Site | 0.00% | ~0 |
+| Forbidden Lands | 0.00% | ~0 |
+| Haunted Forest | 0.00% | ~0 |
+| Levitating Monument | 0.00% | ~0 |
+| Flooded Mines | 0.00% | ~0 |
+| Monastery of the Holy Flame | 0.00% | ~0 |
+| Royal Outpost | 0.00% | ~0 |
+| Lost Colonies | 0.00% | ~0 |
+| Statue of the Forefathers | 0.00% | ~0 |
+| Forsaken Gods Temple | 0.00% | ~0 |
+| Watchtower | 0.00% | ~0 |
+| Cursed Lands | 0.00% | ~0 |
+| The Marshlands | 0.00% | ~0 |
+| The Scarlet Orchard | 0.00% | ~0 |
+| The Queen's Chosen | 0.00% | ~0 |
+| A Real Challenge | 0.00% | ~0 |
+| Treasure | 0.00% | ~0 |
+| Blood Flower Farmer | 0.00% | ~0 |
+| Taking Action | 0.00% | ~0 |
+| Victory Through Prosperity | 0.00% | ~0 |
+| Ruins | 0.00% | ~0 |
+| Like a Machine | 0.00% | ~0 |
+| Trade Baron | 0.00% | ~0 |
+| No Deaths | 0.00% | ~0 |
+| Defying the Crown | 0.00% | ~0 |
+| Into the Forest | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,499 (Ranked 146)  
+Progressed: 17,500 (Ranked 146)  
 Completed: 56 (0.32%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +287,7 @@ Completed: 56 (0.32%) (Ranked 232)
 | 2023-11-24 | 17,437 | 56 |
 | 2023-11-25 | 17,472 | 56 |
 | 2023-11-26 | 17,488 | 56 |
-| 2023-11-27 | 17,499 | 56 |
+| 2023-11-27 | 17,500 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 440  (Ranked 223)  
 Sum: 3,231 (Ranked 173)  

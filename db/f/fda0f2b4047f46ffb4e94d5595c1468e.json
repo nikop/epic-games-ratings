@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3111,9 +3111,9 @@
       "Count": 398
     }
   ],
-  "EOS_Progressed": 9250,
+  "EOS_Progressed": 9251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9621,6 +9621,11 @@
       "Time": "2023-11-27T13:13:04.8239061+00:00",
       "NumProgressed": 9250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T14:05:14.043214+00:00",
+      "NumProgressed": 9251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -9641,7 +9646,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "ach03",
@@ -9681,7 +9686,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5180
+      "UsersEstimate": 5181
     },
     {
       "ID": "ach08",
@@ -9753,7 +9758,7 @@
       "Name": "Test Your Might",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ach17",
@@ -9761,15 +9766,15 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "ach18",
       "SetID": "47in8n6",
       "Name": "Adventure Time",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3423
     },
     {
       "ID": "ach19",
@@ -9809,7 +9814,7 @@
       "Name": "Take And Deny",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "ach24",
@@ -9849,7 +9854,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "ach29",
@@ -9921,7 +9926,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5272
+      "UsersEstimate": 5273
     },
     {
       "ID": "ach38",
@@ -9937,7 +9942,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3792
+      "UsersEstimate": 3793
     },
     {
       "ID": "ach40",
@@ -9993,7 +9998,7 @@
       "Name": "Happy Endings",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach47",
@@ -10009,7 +10014,7 @@
       "Name": "Total Disrespect",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ach49",
@@ -10017,7 +10022,7 @@
       "Name": "Thank You For Being A Fan!!!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ach50",
@@ -10032,7 +10037,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9250,
+      "Progressed": 9251,
       "Completed": 0
     }
   ],
@@ -10040,8 +10045,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-27T12:03:15.5049267+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:13:04.8239058+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:05:14.0432137+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:10:50.693099+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:13:04.8239758+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:02:48.6362958+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:05:14.043278+00:00"
 }

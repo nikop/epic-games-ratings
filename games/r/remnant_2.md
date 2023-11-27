@@ -13,6 +13,7 @@ Rating: 4.75 (Ranked 147)
 | Expanding Horizons | 0.30% | ~688 |
 | Quest for Survival | 0.30% | ~688 |
 | Familiar Face | 0.30% | ~688 |
+| Boss'n Up | 0.30% | ~688 |
 | Am I Seeing This? | 0.20% | ~459 |
 | Ghost in the Machine | 0.20% | ~459 |
 | Chaos | 0.20% | ~459 |
@@ -29,7 +30,6 @@ Rating: 4.75 (Ranked 147)
 | Top Performer | 0.20% | ~459 |
 | Shhh...It's a Secret | 0.20% | ~459 |
 | Was This Supposed To Happen? | 0.20% | ~459 |
-| Boss'n Up | 0.20% | ~459 |
 | Edgelord | 0.20% | ~459 |
 | Scrap Collector | 0.20% | ~459 |
 | Scrap Hoarder | 0.20% | ~459 |
@@ -59,9 +59,9 @@ Rating: 4.75 (Ranked 147)
 | No One Should Have All That Power | 0.10% | ~229 |
 | Maxed Out! | 0.10% | ~229 |
 | Transmutate | 0.10% | ~229 |
-| A Foul Feast | 0.10% | ~8 |
+| A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,326 (Ranked 68)  
+Progressed: 229,355 (Ranked 68)  
 Completed: 536 (0.23%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 536 (0.23%) (Ranked 249)
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
-| 2023-11-27 | 229,326 | 536 |
+| 2023-11-27 | 229,355 | 536 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
 Sum: 6,028 (Ranked 129)  

@@ -551,9 +551,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41388,
+  "EOS_Progressed": 41392,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1140,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8546,6 +8546,11 @@
       "Time": "2023-11-27T13:16:18.5313587+00:00",
       "NumProgressed": 41388,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-11-27T14:08:37.097215+00:00",
+      "NumProgressed": 41392,
+      "NumCompleted": 174
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -8558,7 +8563,7 @@
       "Name": "Descendants",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 5794
+      "UsersEstimate": 5795
     },
     {
       "ID": "ACH_BLUEEND",
@@ -8694,7 +8699,7 @@
       "Name": "Infinity Loop",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6622
+      "UsersEstimate": 6623
     },
     {
       "ID": "ACH_HUB1",
@@ -8702,7 +8707,7 @@
       "Name": "Mission Success",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 9105
+      "UsersEstimate": 9106
     },
     {
       "ID": "ACH_HUB2",
@@ -8710,7 +8715,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7036
+      "UsersEstimate": 7037
     },
     {
       "ID": "ACH_OASIS",
@@ -8718,7 +8723,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21522
+      "UsersEstimate": 21524
     },
     {
       "ID": "ACH_PEAK",
@@ -8726,7 +8731,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 9105
+      "UsersEstimate": 9106
     },
     {
       "ID": "ACH_PROPELL",
@@ -8734,7 +8739,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "ACH_REDEND",
@@ -8742,7 +8747,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "ACH_S1",
@@ -8750,7 +8755,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28144
+      "UsersEstimate": 28147
     },
     {
       "ID": "ACH_S4",
@@ -8758,7 +8763,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 20694
+      "UsersEstimate": 20696
     },
     {
       "ID": "ACH_S5",
@@ -8766,7 +8771,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 14900
+      "UsersEstimate": 14901
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -8774,7 +8779,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31041
+      "UsersEstimate": 31044
     },
     {
       "ID": "ACH_STATUE",
@@ -8782,22 +8787,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 17797
+      "UsersEstimate": 17799
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 41388,
+      "Progressed": 41392,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-25T10:58:21.218684+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:16:18.5313583+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:08:37.0972147+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.5276065+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:06:50.3264263+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:16:18.5314015+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:59:08.9953781+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:08:37.0972762+00:00"
 }

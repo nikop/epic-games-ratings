@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22339,
+  "EOS_Progressed": 22341,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1524,
+  "EOS_NewPlayers": 1514,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -4772,6 +4772,11 @@
       "Time": "2023-11-27T13:17:04.3399738+00:00",
       "NumProgressed": 22339,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-11-27T14:09:27.6758817+00:00",
+      "NumProgressed": 22341,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 24,
@@ -4935,7 +4940,7 @@
       "Name": "Sector 4",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "ACH_Sector5",
@@ -4957,9 +4962,9 @@
       "ID": "ACH_Sector7",
       "SetID": "a3lf366",
       "Name": "Sector 7",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1340
     },
     {
       "ID": "ACH_TurnBallBlack",
@@ -4974,7 +4979,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 22339,
+      "Progressed": 22341,
       "Completed": 107
     }
   ],
@@ -4982,8 +4987,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-24T17:57:13.410468+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:17:04.3399734+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:09:27.6758813+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.0801256+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:06:51.3284848+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:17:04.3400105+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:59:10.115023+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:09:27.6759168+00:00"
 }

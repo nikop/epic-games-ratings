@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6969,9 +6969,9 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 726361,
+  "EOS_Progressed": 726394,
   "EOS_Completed": 2443,
-  "EOS_NewPlayers": 5065,
+  "EOS_NewPlayers": 5078,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32269,6 +32269,11 @@
       "Time": "2023-11-27T13:14:17.344967+00:00",
       "NumProgressed": 726361,
       "NumCompleted": 2443
+    },
+    {
+      "Time": "2023-11-27T14:06:33.5844917+00:00",
+      "NumProgressed": 726394,
+      "NumCompleted": 2443
     }
   ],
   "TotalAchievements": 51,
@@ -32312,7 +32317,7 @@
       "Name": "Make it So",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2905
+      "UsersEstimate": 2906
     },
     {
       "ID": "ach_big_name_in_town",
@@ -32328,7 +32333,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "ach_bookworm",
@@ -32344,7 +32349,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14527
+      "UsersEstimate": 14528
     },
     {
       "ID": "ach_contender",
@@ -32440,7 +32445,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14527
+      "UsersEstimate": 14528
     },
     {
       "ID": "ach_impressive_aim",
@@ -32528,7 +32533,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "ach_salvation",
@@ -32616,7 +32621,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14527
+      "UsersEstimate": 14528
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32640,7 +32645,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ach_dark_magic",
@@ -32648,7 +32653,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "ach_gardening_tools",
@@ -32664,7 +32669,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32687,13 +32692,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726361,
+      "Progressed": 726394,
       "Completed": 2443
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 51903,
+      "Progressed": 51936,
       "Completed": 36609
     }
   ],
@@ -32701,8 +32706,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-27T12:01:48.1365584+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:14:17.3449666+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:06:33.5844914+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:08:12.9488492+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:14:17.3451168+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:00:39.9249286+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:06:33.5847125+00:00"
 }

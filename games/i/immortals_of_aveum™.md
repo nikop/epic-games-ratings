@@ -5,15 +5,15 @@ Rating: 4.05 (Ranked 987)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 92.00% | ~284 |
-| Battlefields Have Memories | 87.00% | ~269 |
+| Unforeseen | 91.00% | ~282 |
+| Battlefields Have Memories | 87.00% | ~270 |
 | Enlisted | 84.00% | ~260 |
-| Maybe Engage a Little | 81.00% | ~250 |
-| No More Names | 70.00% | ~216 |
-| Initiate | 57.00% | ~176 |
+| Maybe Engage a Little | 80.00% | ~248 |
+| No More Names | 70.00% | ~217 |
+| Initiate | 56.00% | ~174 |
 | Thrada-Kul | 53.00% | ~164 |
 | Gravity-Challenged Rocks | 43.00% | ~133 |
-| Soldier | 36.00% | ~111 |
+| Soldier | 36.00% | ~112 |
 | All the Major Food Groups | 35.00% | ~108 |
 | Beggars Would Ride | 32.00% | ~99 |
 | Socialite | 30.00% | ~93 |
@@ -35,9 +35,9 @@ Rating: 4.05 (Ranked 987)
 | Armaments Azure | 8.00% | ~25 |
 | Armaments Gules | 7.00% | ~22 |
 | Kitted Out | 6.00% | ~19 |
-| Scholar | 5.00% | ~15 |
-| Armaments Vert | 5.00% | ~15 |
-| Veteran | 5.00% | ~15 |
+| Scholar | 5.00% | ~16 |
+| Armaments Vert | 5.00% | ~16 |
+| Veteran | 5.00% | ~16 |
 | Master of Ultramarine | 2.00% | ~6 |
 | Master of Carmine | 2.00% | ~6 |
 | Shroudfane Surveyor | 2.00% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 987)
 | Out of Time | 0.60% | ~2 |
 | Fowl Play | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309 (Ranked 351)  
+Progressed: 310 (Ranked 351)  
 Completed: 1 (0.32%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.32%) (Ranked 232)
 | 2023-11-24 | 300 | 1 |
 | 2023-11-25 | 302 | 1 |
 | 2023-11-26 | 307 | 1 |
-| 2023-11-27 | 309 | 1 |
+| 2023-11-27 | 310 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,22 +5,22 @@ Rating: 4.06 (Ranked 981)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,560 |
-| World Map | 78.00% | ~2,147 |
-| Temple of Eternals | 57.00% | ~1,569 |
+| Victor | 93.00% | ~2,561 |
+| World Map | 78.00% | ~2,148 |
+| Temple of Eternals | 57.00% | ~1,570 |
 | Prestigious | 54.00% | ~1,487 |
-| Fellowship Power | 42.00% | ~1,156 |
+| Fellowship Power | 42.00% | ~1,157 |
 | Guild Power | 24.00% | ~661 |
 | Prestigious x10 | 21.00% | ~578 |
 | The game is on | 19.00% | ~523 |
 | Exotic Merchant | 17.00% | ~468 |
-| Dragon Clicker | 16.00% | ~440 |
-| Miner Clicker | 16.00% | ~440 |
+| Dragon Clicker | 16.00% | ~441 |
+| Miner Clicker | 16.00% | ~441 |
 | Full Party | 15.00% | ~413 |
 | Inspection | 15.00% | ~413 |
-| Dragon Master | 14.00% | ~385 |
-| Enlightenment | 14.00% | ~385 |
-| Hero inspection | 14.00% | ~385 |
+| Dragon Master | 14.00% | ~386 |
+| Enlightenment | 14.00% | ~386 |
+| Hero inspection | 14.00% | ~386 |
 | Lieutenant | 13.00% | ~358 |
 | Milestone collector | 12.00% | ~330 |
 | Mysterious Rock | 12.00% | ~330 |
@@ -47,7 +47,6 @@ Rating: 4.06 (Ranked 981)
 | Dragon Slayer | 7.00% | ~193 |
 | Enchanting skill | 7.00% | ~193 |
 | Engineer Mastery | 7.00% | ~193 |
-| The Expeditioner | 7.00% | ~193 |
 | Weekly Quest Completionist | 7.00% | ~193 |
 | Blueprint Upgrades | 6.00% | ~165 |
 | How Do You Turn This On? | 6.00% | ~165 |
@@ -55,6 +54,7 @@ Rating: 4.06 (Ranked 981)
 | Missions Dedication | 6.00% | ~165 |
 | Sailor | 6.00% | ~165 |
 | The Alchemist | 6.00% | ~165 |
+| The Expeditioner | 6.00% | ~165 |
 | Active Member | 5.00% | ~138 |
 | Ancient Knowledge | 5.00% | ~138 |
 | Background Story | 5.00% | ~138 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 981)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,753 (Ranked 213)  
+Progressed: 2,754 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 2 (0.07%) (Ranked 301)
 | 2023-11-24 | 2,644 | 2 |
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
-| 2023-11-27 | 2,753 | 2 |
+| 2023-11-27 | 2,754 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
 Sum: 111 (Ranked 443)  

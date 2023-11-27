@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,255 |
-| Cool Whip | 90.00% | ~10,032 |
-| Fashion Killa | 88.00% | ~9,809 |
-| Drop the Beat | 86.00% | ~9,586 |
-| Hey Lakeshore | 85.00% | ~9,475 |
-| 100 Miles and Runnin' | 84.00% | ~9,363 |
+| Throwing up Tags | 92.00% | ~10,256 |
+| Cool Whip | 90.00% | ~10,033 |
+| Fashion Killa | 88.00% | ~9,810 |
+| Drop the Beat | 86.00% | ~9,587 |
+| Hey Lakeshore | 85.00% | ~9,476 |
+| 100 Miles and Runnin' | 84.00% | ~9,364 |
 | Public Enemy | 82.00% | ~9,141 |
-| Rebel Without a Pause | 68.00% | ~7,580 |
-| Hey Speedie! | 68.00% | ~7,580 |
-| Most Wanted | 64.00% | ~7,134 |
-| New Crew | 62.00% | ~6,911 |
+| Rebel Without a Pause | 68.00% | ~7,581 |
+| Hey Speedie! | 68.00% | ~7,581 |
+| Most Wanted | 64.00% | ~7,135 |
+| New Crew | 62.00% | ~6,912 |
 | Serious Guap | 53.00% | ~5,908 |
 | Style it Out | 53.00% | ~5,908 |
 | Escape Artist | 53.00% | ~5,908 |
-| Untouchable | 52.00% | ~5,796 |
+| Untouchable | 52.00% | ~5,797 |
 | Oh, It's On | 50.00% | ~5,574 |
 | Rydell's Rydes | 48.00% | ~5,351 |
 | Cash Money Millionaire | 46.00% | ~5,128 |
-| Lake Better Watch Out | 39.00% | ~4,347 |
+| Lake Better Watch Out | 39.00% | ~4,348 |
 | #Blessed | 34.00% | ~3,790 |
 | Access All Areas | 33.00% | ~3,679 |
 | Found Family | 31.00% | ~3,456 |
 | In the Flow | 29.00% | ~3,233 |
 | The Collector | 29.00% | ~3,233 |
 | Kick it | 29.00% | ~3,233 |
-| Top Billin' | 22.00% | ~2,452 |
-| Teacher's Pet | 20.00% | ~2,229 |
-| Full House | 18.00% | ~2,006 |
-| Superstar | 18.00% | ~2,006 |
+| Top Billin' | 22.00% | ~2,453 |
+| Teacher's Pet | 20.00% | ~2,230 |
+| Full House | 18.00% | ~2,007 |
+| Superstar | 18.00% | ~2,007 |
 | B for My Name | 17.00% | ~1,895 |
 | Mixtape | 17.00% | ~1,895 |
 | Bring Your A Game | 15.00% | ~1,672 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~223 |
 | Cleaning Up | 2.00% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,147 (Ranked 161)  
+Progressed: 11,148 (Ranked 161)  
 Completed: 52 (0.47%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,4 +119,4 @@ Completed: 52 (0.47%) (Ranked 209)
 | 2023-11-24 | 10,878 | 51 |
 | 2023-11-25 | 10,970 | 51 |
 | 2023-11-26 | 11,100 | 51 |
-| 2023-11-27 | 11,147 | 52 |
+| 2023-11-27 | 11,148 | 52 |

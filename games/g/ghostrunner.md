@@ -6,23 +6,23 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,697 |
-| Sword Runner | 61.00% | ~14,204 |
-| Running out of breath | 54.00% | ~12,574 |
-| Wallrunner | 53.00% | ~12,341 |
-| Homerunner | 45.00% | ~10,478 |
-| Out of order | 44.00% | ~10,245 |
+| Longrunner | 76.00% | ~17,698 |
+| Sword Runner | 61.00% | ~14,205 |
+| Running out of breath | 54.00% | ~12,575 |
+| Wallrunner | 53.00% | ~12,342 |
+| Homerunner | 45.00% | ~10,479 |
+| Out of order | 44.00% | ~10,246 |
 | I call it luck | 43.00% | ~10,013 |
-| Where are my Keys? | 40.00% | ~9,314 |
-| Back to hell | 37.00% | ~8,615 |
-| Perfection | 32.00% | ~7,451 |
+| Where are my Keys? | 40.00% | ~9,315 |
+| Back to hell | 37.00% | ~8,616 |
+| Perfection | 32.00% | ~7,452 |
 | Why not both | 30.00% | ~6,986 |
 | Sword to a gunfight | 29.00% | ~6,753 |
 | Upgrades not mandatory | 29.00% | ~6,753 |
 | Artificial selection | 28.00% | ~6,520 |
 | Control freak | 27.00% | ~6,287 |
 | Running Wild | 27.00% | ~6,287 |
-| Finish line | 26.00% | ~6,054 |
+| Finish line | 26.00% | ~6,055 |
 | Unstoppable force | 22.00% | ~5,123 |
 | Wave of mutilation | 22.00% | ~5,123 |
 | Can't Run Can't Hide | 16.00% | ~3,726 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Improvise, adapt, overrun | 12.00% | ~2,794 |
 | Pre-empative strike | 12.00% | ~2,794 |
 | Strike | 12.00% | ~2,794 |
-| More than human | 11.00% | ~2,561 |
+| More than human | 11.00% | ~2,562 |
 | Triple A | 9.00% | ~2,096 |
 | Fine addition | 6.00% | ~1,397 |
 | One Of Those Days | 6.00% | ~1,397 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~93 |
 | Up Close And Personal | 0.40% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,285 (Ranked 133)  
+Progressed: 23,287 (Ranked 133)  
 Completed: 89 (0.38%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,14 +273,14 @@ Completed: 89 (0.38%) (Ranked 223)
 | 2023-11-24 | 23,130 | 87 |
 | 2023-11-25 | 23,194 | 88 |
 | 2023-11-26 | 23,262 | 89 |
-| 2023-11-27 | 23,285 | 89 |
+| 2023-11-27 | 23,287 | 89 |
 ## Awards
-Max (Great Boss Battles): 519  (Ranked 210)  
-Sum: 752 (Ranked 289)  
-Diff (max vs sum): -79  
+Max (Great Boss Battles): 520  (Ranked 210)  
+Sum: 753 (Ranked 287)  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 519 |
+| This game has Great Boss Battles | 520 |
 | This game has Diverse Characters | 36 |
 | This game has Amazing Characters | 28 |
 | This game has Challenging Combat | 28 |
@@ -465,3 +465,4 @@ Diff (max vs sum): -79
 | 2023-11-13 | 4.72 | - | 519 | 750 |
 | 2023-11-14 | 4.72 | - | 519 | 751 |
 | 2023-11-26 | 4.72 | - | 519 | 752 |
+| 2023-11-27 | 4.72 | - | 520 | 753 |

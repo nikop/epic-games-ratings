@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1654,
+  "EOS_Progressed": 1655,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 6.95,
   "EosHistory": [
@@ -3889,6 +3889,11 @@
       "Time": "2023-11-27T12:10:14.8090025+00:00",
       "NumProgressed": 1654,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-11-27T14:09:34.9542575+00:00",
+      "NumProgressed": 1655,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 30,
@@ -3900,7 +3905,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "LEVEL_002",
@@ -3924,7 +3929,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "LEVEL_005",
@@ -3980,7 +3985,7 @@
       "Name": "This island of mine",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "LEVEL_012",
@@ -3994,9 +3999,9 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 298
     },
     {
       "ID": "LEVEL_014",
@@ -4036,7 +4041,7 @@
       "Name": "Isle rock city",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "LEVEL_019",
@@ -4139,14 +4144,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1654,
+      "Progressed": 1655,
       "Completed": 115
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:17:10.8749595+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:09:34.9542567+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:08:07.771732+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:17:10.8749977+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:00:35.0725774+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:09:34.9542962+00:00"
 }

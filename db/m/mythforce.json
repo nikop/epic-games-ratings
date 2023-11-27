@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -782,9 +782,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5128,
+  "EOS_Progressed": 5129,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10012,6 +10012,11 @@
       "Time": "2023-11-27T12:05:02.8416058+00:00",
       "NumProgressed": 5128,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T14:04:12.0526372+00:00",
+      "NumProgressed": 5129,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10056,7 +10061,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -10080,7 +10085,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -10207,15 +10212,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5128,
+      "Progressed": 5129,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-26T17:57:30.4832205+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:12:07.0452406+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:04:12.0526368+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:05:50.7064149+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:12:07.0452896+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:58:01.1798189+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:04:12.0526928+00:00"
 }

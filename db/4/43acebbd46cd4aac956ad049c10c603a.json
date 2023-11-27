@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -1579,9 +1579,9 @@
       "ID": "BreakTheLoop",
       "SetID": "1n308hc",
       "Name": "Break the Loop",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "BridgeBuilder",
@@ -1843,9 +1843,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 153
     },
     {
       "ID": "SingleRod",
@@ -2012,8 +2012,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-26T22:57:15.5535811+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:13:42.9012604+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:05:55.9740039+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:05:45.3823441+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:13:42.9013151+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:57:54.9603781+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:05:55.9740848+00:00"
 }

@@ -6,28 +6,28 @@
 | ---- | ---------- | ----- |
 | Trinity | 11.00% | ~25 |
 | Break Out | 10.00% | ~23 |
+| I Found It | 10.00% | ~23 |
 | Find Allies | 9.00% | ~21 |
 | Powerful Allies | 9.00% | ~21 |
-| I Found It | 9.00% | ~21 |
 | A Taste of Wrath | 8.00% | ~18 |
 | Adventurer | 8.00% | ~18 |
 | Geared Up | 8.00% | ~18 |
 | Scholar | 8.00% | ~18 |
+| The Collector | 8.00% | ~18 |
 | Tributes of Caladrias | 7.00% | ~16 |
 | Shatter Them All | 7.00% | ~16 |
 | Big Bazar | 7.00% | ~16 |
 | Fashion Victim | 7.00% | ~16 |
 | Stone Collection | 7.00% | ~16 |
-| The Collector | 7.00% | ~16 |
 | Calm before the Storm | 6.00% | ~14 |
 | To Battle | 4.00% | ~9 |
 | Godslayer | 4.00% | ~9 |
-| Airborne | 4.00% | ~9 |
 | Essence Blow | 4.00% | ~9 |
 | Fine Feathers Make Fine Birds | 4.00% | ~9 |
 | Alchemist | 4.00% | ~9 |
 | Clear Sight | 3.00% | ~7 |
 | The Mentor | 3.00% | ~7 |
+| Airborne | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |
 | Miner | 2.00% | ~5 |
 | A Queen's Tale | 2.00% | ~5 |
@@ -41,8 +41,8 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228 (Ranked 378)  
-Completed: 2 (0.88%) (Ranked 172)  
+Progressed: 229 (Ranked 378)  
+Completed: 2 (0.87%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,4 +89,4 @@ Completed: 2 (0.88%) (Ranked 172)
 | 2023-11-24 | 213 | 2 |
 | 2023-11-25 | 216 | 2 |
 | 2023-11-26 | 226 | 2 |
-| 2023-11-27 | 228 | 2 |
+| 2023-11-27 | 229 | 2 |

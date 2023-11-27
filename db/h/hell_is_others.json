@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1193,10 +1193,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 349,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-11-27T13:59:21.5794065+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 350,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 349,
+  "NumberOfAwards": 350,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1234,7 +1240,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1261,9 +1267,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258797,
+  "EOS_Progressed": 258798,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22581,6 +22587,11 @@
       "Time": "2023-11-27T13:13:11.1134916+00:00",
       "NumProgressed": 258797,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-27T14:05:21.0638521+00:00",
+      "NumProgressed": 258798,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22880,7 +22891,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59523
+      "UsersEstimate": 59524
     },
     {
       "ID": "KillOthers2",
@@ -23039,16 +23050,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258797,
+      "Progressed": 258798,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-11-27T11:59:59.6435594+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:13:11.1134912+00:00",
+  "LastChanged": "2023-11-27T13:59:21.5794063+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:05:21.0638516+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:31.8373031+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:07:01.5810402+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:13:11.113598+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:59:21.5794069+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:05:21.0639862+00:00"
 }

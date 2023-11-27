@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2040,9 +2040,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15520,
+  "EOS_Progressed": 15521,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16665,6 +16665,11 @@
       "Time": "2023-11-27T13:12:36.6540524+00:00",
       "NumProgressed": 15520,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-27T14:04:43.8372938+00:00",
+      "NumProgressed": 15521,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18066,9 +18071,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
       "SetID": "9201eeb",
       "Name": "Cao\u0027an",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -19411,21 +19416,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15520,
+      "Progressed": 15521,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15520,
+      "Progressed": 15521,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-27T04:00:23.37296+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:12:36.6540521+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:04:43.8372932+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:08:09.0096101+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:12:36.6549027+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:00:36.1936828+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:04:43.838235+00:00"
 }

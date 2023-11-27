@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4788,9 +4788,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 542
+      "UsersEstimate": 557
     },
     {
       "ID": "achievement_71",
@@ -5056,8 +5056,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:16:25.2422415+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:08:44.5031344+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:10:55.7911795+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:16:25.2423955+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:02:54.5471679+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:08:44.5033103+00:00"
 }

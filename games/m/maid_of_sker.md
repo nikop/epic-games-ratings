@@ -10,7 +10,7 @@
 | Smooth Operator | 18.00% | ~38 |
 | Easy Listening | 17.00% | ~36 |
 | Rapturous Applause! | 16.00% | ~34 |
-| Perfect Harmony! | 13.00% | ~27 |
+| Perfect Harmony! | 13.00% | ~28 |
 | Wales Interactive | 10.00% | ~21 |
 | Chief Butler | 9.00% | ~19 |
 | Bull in a China Shop | 7.00% | ~15 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 385)  
+Progressed: 212 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-23 | 209 | 0 |
 | 2023-11-24 | 210 | 0 |
 | 2023-11-26 | 211 | 0 |
+| 2023-11-27 | 212 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

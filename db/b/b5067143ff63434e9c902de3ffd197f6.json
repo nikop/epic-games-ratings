@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11878,
+  "EOS_Progressed": 11885,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1360,
+  "EOS_NewPlayers": 1363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6829,6 +6829,11 @@
       "Time": "2023-11-27T13:12:28.5910015+00:00",
       "NumProgressed": 11878,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T14:04:34.8338295+00:00",
+      "NumProgressed": 11885,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -6937,7 +6942,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3090
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -6945,7 +6950,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -6953,7 +6958,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -6961,7 +6966,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -7001,7 +7006,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -7032,14 +7037,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 11878,
+      "Progressed": 11885,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:12:28.5910011+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:04:34.8338291+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.1009511+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:06:41.0988869+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:12:28.5910503+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:58:57.5657461+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:04:34.8338805+00:00"
 }

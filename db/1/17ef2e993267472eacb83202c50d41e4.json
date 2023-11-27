@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8302,
+  "EOS_Progressed": 8303,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7407,6 +7407,11 @@
       "Time": "2023-11-27T13:17:17.4520223+00:00",
       "NumProgressed": 8302,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T14:09:41.8198575+00:00",
+      "NumProgressed": 8303,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7561,9 +7566,9 @@
       "ID": "GamesWon1",
       "SetID": "12d07c7",
       "Name": "Won a Match",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1578
     },
     {
       "ID": "GamesWon10",
@@ -8010,7 +8015,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8302,
+      "Progressed": 8303,
       "Completed": 1
     }
   ],
@@ -8018,8 +8023,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-24T13:07:54.0480111+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:17:17.4520217+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:09:41.8198571+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:10:50.3192798+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:17:17.4520991+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:02:48.221939+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:09:41.8199498+00:00"
 }

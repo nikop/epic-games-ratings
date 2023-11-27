@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -797,9 +797,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -884,8 +884,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:12:33.5477237+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:04:40.3468161+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.1827945+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:10:31.478921+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:12:33.5477521+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:00:58.9521739+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:04:40.3468496+00:00"
 }

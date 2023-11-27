@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 329,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 162,
-  "EOS_NewCompleters": 16,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 17.02,
   "EosHistory": [
     {
@@ -1343,9 +1343,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "ach_hint_6",
@@ -1414,8 +1414,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:16:10.3432834+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:08:28.3270793+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:07:13.7480085+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:16:10.3432943+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:59:35.7206998+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:08:28.327096+00:00"
 }

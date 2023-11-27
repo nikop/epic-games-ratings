@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4369,
+  "EOS_Progressed": 4370,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -3154,6 +3154,11 @@
       "Time": "2023-11-27T13:13:28.9316816+00:00",
       "NumProgressed": 4369,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-11-27T14:05:40.7623625+00:00",
+      "NumProgressed": 4370,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3206,7 +3211,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -3293,14 +3298,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4369,
+      "Progressed": 4370,
       "Completed": 41
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:13:28.9316812+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:05:40.7623622+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:06:35.7464935+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:13:28.9317015+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:58:51.8733271+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:05:40.762393+00:00"
 }

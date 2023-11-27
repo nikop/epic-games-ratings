@@ -1,15 +1,15 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 382)  
+Rating: 4.61 (Ranked 383)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 4.00% | ~221 |
-| Realm Estate | 3.00% | ~165 |
-| A Wonderful Discovery | 3.00% | ~165 |
-| Secret Technique | 3.00% | ~165 |
-| Walls Cannot Stop Us | 3.00% | ~165 |
+| Realm Estate | 3.00% | ~166 |
+| A Wonderful Discovery | 3.00% | ~166 |
+| Secret Technique | 3.00% | ~166 |
+| Walls Cannot Stop Us | 3.00% | ~166 |
 | There Can Only Be One! | 2.00% | ~110 |
 | Full Ascension | 2.00% | ~110 |
 | Bone Peddler | 2.00% | ~110 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 382)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,516 (Ranked 189)  
+Progressed: 5,517 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 7 (0.13%) (Ranked 273)
 | 2023-11-24 | 5,463 | 7 |
 | 2023-11-25 | 5,496 | 7 |
 | 2023-11-26 | 5,515 | 7 |
-| 2023-11-27 | 5,516 | 7 |
+| 2023-11-27 | 5,517 | 7 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 482)  
 Sum: 60 (Ranked 477)  

@@ -15,7 +15,7 @@ Rating: 4.76 (Ranked 125)
 | Powder Monkey | 28.00% | ~265 |
 | Mirror Mirror on the Wall | 27.00% | ~256 |
 | Pirates Assemble! | 25.00% | ~237 |
-| Buccaneer | 22.00% | ~208 |
+| Buccaneer | 22.00% | ~209 |
 | Fishy Fish | 21.00% | ~199 |
 | All Good Things | 19.00% | ~180 |
 | Seadog | 16.00% | ~152 |
@@ -32,7 +32,7 @@ Rating: 4.76 (Ranked 125)
 | Marauder | 4.00% | ~38 |
 | Welcome Back Jester | 4.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 947 (Ranked 268)  
+Progressed: 948 (Ranked 268)  
 Completed: 31 (3.27%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 31 (3.27%) (Ranked 95)
 | 2023-11-24 | 883 | 30 |
 | 2023-11-25 | 911 | 30 |
 | 2023-11-26 | 937 | 31 |
-| 2023-11-27 | 947 | 31 |
+| 2023-11-27 | 948 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

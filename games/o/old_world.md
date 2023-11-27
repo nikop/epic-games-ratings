@@ -133,6 +133,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.90% | ~140 |
 | Poetic Leader | 0.90% | ~140 |
 | Noble Difficulty | 0.80% | ~124 |
+| Cao'an | 0.80% | ~124 |
 | Adur Burzen-Mihr | 0.80% | ~124 |
 | Rome | 0.80% | ~124 |
 | All Nations | 0.80% | ~124 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.70% | ~109 |
 | Carthage - Ox Hide | 0.70% | ~109 |
 | Peacemaker | 0.70% | ~109 |
-| Cao'an | 0.70% | ~109 |
 | Learn to Play 5 | 0.70% | ~109 |
 | Cataphract Archer | 0.70% | ~109 |
 | The Great Mage | 0.70% | ~109 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,520 (Ranked 152)  
+Progressed: 15,521 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 5 (0.03%) (Ranked 325)
 | 2023-11-24 | 15,467 | 5 |
 | 2023-11-25 | 15,489 | 5 |
 | 2023-11-26 | 15,514 | 5 |
-| 2023-11-27 | 15,520 | 5 |
+| 2023-11-27 | 15,521 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,877 (Ranked 218)  

@@ -4839,7 +4839,7 @@
       "Count": 366
     }
   ],
-  "EOS_Progressed": 229326,
+  "EOS_Progressed": 229355,
   "EOS_Completed": 536,
   "EOS_NewPlayers": 4919,
   "EOS_NewCompleters": 45,
@@ -20184,6 +20184,11 @@
       "Time": "2023-11-27T13:16:27.2653554+00:00",
       "NumProgressed": 229326,
       "NumCompleted": 536
+    },
+    {
+      "Time": "2023-11-27T14:08:46.6063599+00:00",
+      "NumProgressed": 229355,
+      "NumCompleted": 536
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20426,9 +20431,9 @@
       "ID": "Obtain_Boss_Weapon",
       "SetID": "bkp3b1a",
       "Name": "Boss\u0027n Up",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 688
     },
     {
       "ID": "Obtain_Guns_A",
@@ -20620,7 +20625,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -20635,13 +20640,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229326,
+      "Progressed": 229355,
       "Completed": 536
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8491,
+      "Progressed": 8520,
       "Completed": 164
     }
   ],
@@ -20649,8 +20654,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-27T13:11:02.6790302+00:00",
-  "LastChanged_Achievements": "2023-11-27T13:16:27.2653551+00:00",
+  "LastChanged_Achievements": "2023-11-27T14:08:46.6063596+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:11:02.6790308+00:00",
-  "LastUpdate_Achievements": "2023-11-27T13:16:27.2654816+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:03:01.1815269+00:00",
+  "LastUpdate_Achievements": "2023-11-27T14:08:46.6064773+00:00"
 }
