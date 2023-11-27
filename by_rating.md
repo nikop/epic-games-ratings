@@ -45,7 +45,7 @@
 | 43 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 158 | 313 |
 | 43 | [Coffee Talk](games/c/coffee_talk.md) | 4.85 | 0 | 556 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,087 | 46 |
-| 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,635 | 68 |
+| 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,639 | 68 |
 | 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 223 | 276 |
 | 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 163 | 311 |
 | 43 | [Subnautica](games/s/subnautica.md) | 4.85 | 750 | 176 |
@@ -163,7 +163,7 @@
 | 159 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 841 | 167 |
 | 159 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 21,657 | 19 |
 | 159 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 749 | 177 |
-| 159 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,428 | 53 |
+| 159 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,437 | 53 |
 | 159 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.74 | 0 | 556 |
 | 159 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 42,442 | 13 |
 | 159 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 556 |
@@ -259,7 +259,7 @@
 | 254 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 556 |
 | 254 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 556 |
 | 254 | [Coromon](games/c/coromon.md) | 4.68 | 42 | 453 |
-| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,536 | 52 |
+| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,539 | 52 |
 | 254 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,060 | 84 |
 | 254 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.68 | 24 | 526 |
 | 254 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 732 | 180 |
@@ -269,7 +269,7 @@
 | 254 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 556 |
 | 254 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 556 |
 | 254 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.68 | 0 | 556 |
-| 254 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 599 | 195 |
+| 254 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 599 | 196 |
 | 254 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 711 | 183 |
 | 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 0 | 556 |
 | 254 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.68 | 0 | 556 |
@@ -666,7 +666,7 @@
 | 663 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 556 |
 | 663 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 259 | 268 |
 | 663 | [Faeria](games/f/faeria.md) | 4.45 | 114 | 345 |
-| 663 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 957 | 157 |
+| 663 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 960 | 157 |
 | 663 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 0 | 556 |
 | 663 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 111 | 349 |
 | 663 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 0 | 556 |
@@ -686,7 +686,7 @@
 | 678 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 556 |
 | 678 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 556 |
 | 678 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 556 |
-| 678 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 599 | 195 |
+| 678 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 601 | 195 |
 | 678 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 556 |
 | 678 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 363 |
 | 678 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 922 | 159 |
