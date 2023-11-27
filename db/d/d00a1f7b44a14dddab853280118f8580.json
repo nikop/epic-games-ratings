@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 17.23,
+  "EOS_Completed_Percentage": 17.18,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1289,6 +1289,11 @@
       "Time": "2023-11-27T01:55:53.2186799+00:00",
       "NumProgressed": 325,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-27T05:08:44.838851+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1301,7 +1306,7 @@
       "Name": "Clever thinking!",
       "Percentage": 81,
       "XP": 100,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ach_complete_30",
@@ -1317,7 +1322,7 @@
       "Name": "Welcome aboard!",
       "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ach_hint_3",
@@ -1333,15 +1338,15 @@
       "Name": "Supported success!",
       "Percentage": 49,
       "XP": 70,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_items_50",
@@ -1373,7 +1378,7 @@
       "Name": "Advance further!",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_skip_5",
@@ -1381,21 +1386,21 @@
       "Name": "Skip and conquer!",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:08:23.7372512+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:08:44.8388506+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:59:23.2557172+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:08:23.7372623+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:59:57.3793476+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:08:44.8388634+00:00"
 }

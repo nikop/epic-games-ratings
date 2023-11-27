@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,551 |
-| Break A Leg | 2.00% | ~14,523 |
-| Hotel California | 2.00% | ~14,523 |
-| Welcome To Hell-A | 2.00% | ~14,523 |
-| One of Us | 2.00% | ~1,034 |
-| Pork Chopped | 2.00% | ~1,034 |
+| Whatever It Takes | 3.00% | ~1,552 |
+| Break A Leg | 2.00% | ~14,524 |
+| Hotel California | 2.00% | ~14,524 |
+| Welcome To Hell-A | 2.00% | ~14,524 |
+| One of Us | 2.00% | ~1,035 |
+| Pork Chopped | 2.00% | ~1,035 |
 | Dr. Reed, I Presume? | 1.00% | ~7,262 |
 | Git Gutte! | 1.00% | ~7,262 |
 | Anger Management | 1.00% | ~7,262 |
@@ -30,11 +30,11 @@ Rating: 4.54 (Ranked 528)
 | Personal Assistant Personally Assisted | 1.00% | ~7,262 |
 | Our True Nature | 1.00% | ~7,262 |
 | This is My Weapon | 1.00% | ~7,262 |
-| Perks of the Job | 0.90% | ~6,535 |
-| Ooh, Shiny! | 0.90% | ~6,535 |
-| I Am the Resurrection | 0.90% | ~6,535 |
-| Making Your Mark | 0.80% | ~5,809 |
-| Max Headroom | 0.80% | ~5,809 |
+| Perks of the Job | 0.90% | ~6,536 |
+| Ooh, Shiny! | 0.90% | ~6,536 |
+| I Am the Resurrection | 0.90% | ~6,536 |
+| Making Your Mark | 0.80% | ~5,810 |
+| Max Headroom | 0.80% | ~5,810 |
 | Humanity Distilled | 0.70% | ~5,083 |
 | Down with the Sickness | 0.70% | ~5,083 |
 | Not Even My Final Form | 0.60% | ~4,357 |
@@ -46,10 +46,10 @@ Rating: 4.54 (Ranked 528)
 | Internet Famous | 0.50% | ~3,631 |
 | Variety is the Spice of Death | 0.50% | ~3,631 |
 | Make it So | 0.40% | ~2,905 |
-| LA Influential | 0.30% | ~2,178 |
-| Sole Survivor | 0.30% | ~2,178 |
-| Gore Horse | 0.30% | ~2,178 |
-| Sharpest Tool in the Box | 0.30% | ~2,178 |
+| LA Influential | 0.30% | ~2,179 |
+| Sole Survivor | 0.30% | ~2,179 |
+| Gore Horse | 0.30% | ~2,179 |
+| Sharpest Tool in the Box | 0.30% | ~2,179 |
 | Top That, Tisha! | 0.30% | ~155 |
 | Survival Skills | 0.20% | ~1,452 |
 | Lawn and Order | 0.20% | ~103 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,164 (Ranked 21)  
+Progressed: 726,188 (Ranked 21)  
 Completed: 2,442 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,14 +278,14 @@ Completed: 2,442 (0.34%) (Ranked 229)
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
-| 2023-11-27 | 726,164 | 2,442 |
+| 2023-11-27 | 726,188 | 2,442 |
 ## Awards
-Max (Great Boss Battles): 7,731  (Ranked 50)  
-Sum: 11,835 (Ranked 84)  
-Diff (max vs sum): -34  
+Max (Great Boss Battles): 7,760  (Ranked 49)  
+Sum: 11,864 (Ranked 84)  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,731 |
+| This game has Great Boss Battles | 7,760 |
 | This game is Great for Beginners | 595 |
 | This game has Diverse Characters | 566 |
 | This game has Quickly Understood Controls | 534 |
@@ -517,3 +517,4 @@ Diff (max vs sum): -34
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
+| 2023-11-27 | 4.54 | 7,760 | 11,864 |

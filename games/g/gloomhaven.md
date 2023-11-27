@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~9,534 |
-| Overkill | 34.00% | ~7,906 |
-| Vaccine Incoming | 33.00% | ~7,674 |
-| A normal day in Gloomhaven | 31.00% | ~7,209 |
-| Spread the plague | 29.00% | ~6,744 |
-| Get over here! | 24.00% | ~5,581 |
-| Just when I thought I was out... | 19.00% | ~4,418 |
-| Precious! | 17.00% | ~3,953 |
-| Mine... All Mine... | 17.00% | ~3,953 |
-| Grizzled veteran | 15.00% | ~3,488 |
-| Anatomy Lesson | 15.00% | ~3,488 |
+| I'm not dead yet | 41.00% | ~9,535 |
+| Overkill | 34.00% | ~7,907 |
+| Vaccine Incoming | 33.00% | ~7,675 |
+| A normal day in Gloomhaven | 31.00% | ~7,210 |
+| Spread the plague | 29.00% | ~6,745 |
+| Get over here! | 25.00% | ~5,814 |
+| Just when I thought I was out... | 19.00% | ~4,419 |
+| Precious! | 17.00% | ~3,954 |
+| Mine... All Mine... | 17.00% | ~3,954 |
+| Grizzled veteran | 15.00% | ~3,489 |
+| Anatomy Lesson | 15.00% | ~3,489 |
 | Light of my life | 14.00% | ~3,256 |
 | Obstacle race | 13.00% | ~3,023 |
-| You activated my trap card! | 12.00% | ~2,790 |
+| You activated my trap card! | 12.00% | ~2,791 |
+| Who's the Boss? | 11.00% | ~2,558 |
 | Augmented rat | 11.00% | ~2,558 |
 | Doom and gloom | 11.00% | ~2,558 |
-| Who's the Boss? | 10.00% | ~2,325 |
-| Dungeon Veteran | 8.00% | ~1,860 |
-| Pack leader | 8.00% | ~1,860 |
-| Pain is your friend | 8.00% | ~1,860 |
-| Black death | 8.00% | ~1,860 |
-| Play it again, Sam | 8.00% | ~1,860 |
+| Dungeon Veteran | 9.00% | ~2,093 |
+| Pack leader | 8.00% | ~1,861 |
+| Pain is your friend | 8.00% | ~1,861 |
+| Black death | 8.00% | ~1,861 |
+| Play it again, Sam | 8.00% | ~1,861 |
 | Quad damage | 6.00% | ~1,395 |
 | Power Up! | 5.00% | ~1,163 |
 | Caught off guard | 5.00% | ~1,163 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~23 |
 | Murder Death Kill | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,254 (Ranked 133)  
+Progressed: 23,257 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.00%) (Ranked 361)
 | 2023-11-24 | 22,692 | 1 |
 | 2023-11-25 | 22,950 | 1 |
 | 2023-11-26 | 23,222 | 1 |
-| 2023-11-27 | 23,254 | 1 |
+| 2023-11-27 | 23,257 | 1 |
 ## Awards
 Max (Character Customization): 3,588  (Ranked 90)  
 Sum: 8,388 (Ranked 101)  

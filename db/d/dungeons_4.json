@@ -3,7 +3,7 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 464,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1084,6 +1084,11 @@
       "Time": "2023-11-27T04:06:05.4432935+00:00",
       "NumProgressed": 463,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-27T05:07:30.1907128+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1094,17 +1099,17 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_main01begin_storm",
@@ -1120,7 +1125,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -1128,7 +1133,7 @@
       "Name": "For the Horde!",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ach_main02horde_traps",
@@ -1136,7 +1141,7 @@
       "Name": "Trap Master",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_main03demon_completed",
@@ -1144,7 +1149,7 @@
       "Name": "The Hellwoods",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ach_main03demon_doors",
@@ -1152,7 +1157,7 @@
       "Name": "Master of Magic",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1160,15 +1165,15 @@
       "Name": "Magic Accidents",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 311
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1176,7 +1181,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -1184,7 +1189,7 @@
       "Name": "Sacrificial Pit = Garbage Disposal?",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_main05evil_completed",
@@ -1200,7 +1205,7 @@
       "Name": "Experienced Thalya",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -1214,9 +1219,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 269
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -1240,7 +1245,7 @@
       "Name": "Hard Work",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_main07storm_completed",
@@ -1248,15 +1253,15 @@
       "Name": "The Ascent",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_main07storm_storm",
@@ -1264,7 +1269,7 @@
       "Name": "It\u0027s Warm and Cozy at Home",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -1272,7 +1277,7 @@
       "Name": "The Big Eaty",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -1304,15 +1309,15 @@
       "Name": "Dungeonlord Gorgu",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_main09journey_nospells",
       "SetID": "4hg22ll",
       "Name": "Forbidden Knowledge",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_main10fire_completed",
@@ -1358,9 +1363,9 @@
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "ach_main12race_completed",
@@ -1440,7 +1445,7 @@
       "Name": "The Finitude Drill",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -1464,7 +1469,7 @@
       "Name": "Doom Hill",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -1583,14 +1588,14 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 464,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:06:05.4432931+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:07:30.1907125+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:59:30.4995145+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:06:05.4433331+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:00:07.7359935+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:07:30.1907793+00:00"
 }

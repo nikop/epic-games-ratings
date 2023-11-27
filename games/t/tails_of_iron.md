@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,746 |
-| Become King | 74.00% | ~1,575 |
-| Defeat 25 Frogs | 63.00% | ~1,341 |
-| Ranged Weapon | 62.00% | ~1,320 |
-| Collect Monster Parts | 59.00% | ~1,256 |
+| Complete Guard Faction | 82.00% | ~1,747 |
+| Become King | 74.00% | ~1,576 |
+| Defeat 25 Frogs | 63.00% | ~1,342 |
+| Ranged Weapon | 62.00% | ~1,321 |
+| Collect Monster Parts | 59.00% | ~1,257 |
 | Two Handed Weapon | 57.00% | ~1,214 |
-| Defeat 25 Grubs | 53.00% | ~1,128 |
-| Rescue Redgi's Brothers | 53.00% | ~1,128 |
+| Defeat 25 Grubs | 53.00% | ~1,129 |
+| Rescue Redgi's Brothers | 53.00% | ~1,129 |
 | Collect Iron Ore | 48.00% | ~1,022 |
 | Kitchen Ready To Cook | 48.00% | ~1,022 |
 | Defeat 25 Mozis | 47.00% | ~1,001 |
-| Collect Gold | 46.00% | ~979 |
-| Smithy Ready to Craft | 46.00% | ~979 |
+| Collect Gold | 46.00% | ~980 |
+| Smithy Ready to Craft | 46.00% | ~980 |
 | Fix the Travellers Wagon | 45.00% | ~958 |
-| Complete Elder Faction | 41.00% | ~873 |
+| Complete Elder Faction | 42.00% | ~895 |
 | End of the Mozis | 38.00% | ~809 |
 | Throne Room Fit For A King | 38.00% | ~809 |
-| Meet the Creatures from the Deep | 36.00% | ~766 |
-| Return Power To The Depths | 36.00% | ~766 |
+| Meet the Creatures from the Deep | 36.00% | ~767 |
+| Return Power To The Depths | 36.00% | ~767 |
 | Defeat Ratnor Rodentson | 30.00% | ~639 |
 | Return the Statues | 27.00% | ~575 |
 | Defeat Rattus Augustail | 26.00% | ~554 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 507)
 | King of Kings | 8.00% | ~170 |
 | A new Warchief rises | 0.80% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,129 (Ranked 223)  
+Progressed: 2,130 (Ranked 223)  
 Completed: 9 (0.42%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 9 (0.42%) (Ranked 215)
 | 2023-11-24 | 2,070 | 9 |
 | 2023-11-25 | 2,103 | 9 |
 | 2023-11-26 | 2,128 | 9 |
-| 2023-11-27 | 2,129 | 9 |
+| 2023-11-27 | 2,130 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

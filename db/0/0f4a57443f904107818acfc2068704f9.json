@@ -1515,9 +1515,9 @@
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 149
     },
     {
       "ID": "CompleteChapter6",
@@ -1650,8 +1650,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:06:30.9353821+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:08:03.2656319+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:00:04.359505+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:06:30.9354094+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:00:53.9888631+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:08:03.2656601+00:00"
 }

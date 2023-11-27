@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1046,
-  "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 555,
+  "Ranking_Popularity": 556,
+  "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 116,
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79270,
+  "EOS_Progressed": 79276,
   "EOS_Completed": 854,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24757,6 +24757,11 @@
       "Time": "2023-11-27T04:03:06.55267+00:00",
       "NumProgressed": 79270,
       "NumCompleted": 854
+    },
+    {
+      "Time": "2023-11-27T05:03:38.6755167+00:00",
+      "NumProgressed": 79276,
+      "NumCompleted": 854
     }
   ],
   "TotalAchievements": 25,
@@ -24784,7 +24789,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15061
+      "UsersEstimate": 15062
     },
     {
       "ID": "Audiophile",
@@ -24792,7 +24797,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "Be Seeing You",
@@ -24800,7 +24805,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17439
+      "UsersEstimate": 17441
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -24808,7 +24813,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14269
+      "UsersEstimate": 14270
     },
     {
       "ID": "Butcher",
@@ -24824,7 +24829,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4756
+      "UsersEstimate": 4757
     },
     {
       "ID": "Fair\u0027sFair",
@@ -24840,7 +24845,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15854
+      "UsersEstimate": 15855
     },
     {
       "ID": "Hearty",
@@ -24856,7 +24861,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7134
+      "UsersEstimate": 7135
     },
     {
       "ID": "Magnetic Miracles",
@@ -24872,7 +24877,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16647
+      "UsersEstimate": 16648
     },
     {
       "ID": "Meaty",
@@ -24888,7 +24893,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15061
+      "UsersEstimate": 15062
     },
     {
       "ID": "Nice Try",
@@ -24896,7 +24901,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12683
+      "UsersEstimate": 12684
     },
     {
       "ID": "Nothing Left to Say",
@@ -24920,7 +24925,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10305
+      "UsersEstimate": 10306
     },
     {
       "ID": "Sniper",
@@ -24952,7 +24957,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "Vinyl Vibes",
@@ -24967,7 +24972,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79270,
+      "Progressed": 79276,
       "Completed": 854
     }
   ],
@@ -24975,8 +24980,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:03:06.5526691+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:03:38.6755163+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.5641615+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:59:08.3538033+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:03:06.5544871+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:59:37.3609894+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:03:38.6756464+00:00"
 }

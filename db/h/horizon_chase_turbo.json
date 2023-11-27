@@ -3001,9 +3001,9 @@
       "Count": 91
     }
   ],
-  "EOS_Progressed": 1079538,
+  "EOS_Progressed": 1079544,
   "EOS_Completed": 496,
-  "EOS_NewPlayers": 2748,
+  "EOS_NewPlayers": 2738,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28211,6 +28211,11 @@
       "Time": "2023-11-27T04:09:13.173493+00:00",
       "NumProgressed": 1079538,
       "NumCompleted": 496
+    },
+    {
+      "Time": "2023-11-27T05:09:47.3799657+00:00",
+      "NumProgressed": 1079544,
+      "NumCompleted": 496
     }
   ],
   "TotalAchievements": 37,
@@ -28222,7 +28227,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 367043
+      "UsersEstimate": 367045
     },
     {
       "ID": "CompleteAustralia",
@@ -28414,7 +28419,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 118749
+      "UsersEstimate": 118750
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -28422,7 +28427,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 971584
+      "UsersEstimate": 971590
     },
     {
       "ID": "GetLotsOfScore",
@@ -28454,7 +28459,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 507383
+      "UsersEstimate": 507386
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -28462,7 +28467,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 194317
+      "UsersEstimate": 194318
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -28486,7 +28491,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 680109
+      "UsersEstimate": 680113
     },
     {
       "ID": "WinBySmallDifference",
@@ -28494,7 +28499,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 194317
+      "UsersEstimate": 194318
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -28517,15 +28522,15 @@
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1079538,
+      "Progressed": 1079544,
       "Completed": 496
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-11-27T01:47:38.9410152+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:09:13.1734927+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:09:47.3799652+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:15.1001877+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:00:45.7109709+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:09:13.1736539+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:01:47.8109151+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:09:47.3800722+00:00"
 }

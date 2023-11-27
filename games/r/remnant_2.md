@@ -9,7 +9,7 @@ Rating: 4.75 (Ranked 148)
 | Regicide | 0.60% | ~50 |
 | Master of the Dark Arts | 0.60% | ~50 |
 | First of Many | 0.50% | ~1,146 |
-| Not Your Average Trait | 0.40% | ~916 |
+| Not Your Average Trait | 0.40% | ~917 |
 | Expanding Horizons | 0.30% | ~687 |
 | Quest for Survival | 0.30% | ~687 |
 | Familiar Face | 0.30% | ~687 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Transmutate | 0.10% | ~229 |
 | A Foul Feast | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,121 (Ranked 68)  
+Progressed: 229,136 (Ranked 68)  
 Completed: 536 (0.23%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 536 (0.23%) (Ranked 249)
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
-| 2023-11-27 | 229,121 | 536 |
+| 2023-11-27 | 229,136 | 536 |
 ## Awards
 Max (Great Boss Battles): 2,455  (Ranked 104)  
 Sum: 5,978 (Ranked 129)  

@@ -3,11 +3,11 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 648,
-  "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 555,
+  "Ranking_Popularity": 556,
+  "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251643,
+  "EOS_Progressed": 251644,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19947,6 +19947,11 @@
       "Time": "2023-11-27T04:09:13.8972567+00:00",
       "NumProgressed": 251643,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-27T05:09:48.2808781+00:00",
+      "NumProgressed": 251644,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20030,7 +20035,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37746
+      "UsersEstimate": 37747
     },
     {
       "ID": "clearCut",
@@ -20174,7 +20179,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20131
+      "UsersEstimate": 20132
     },
     {
       "ID": "lockupLockdown",
@@ -20262,7 +20267,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55361
+      "UsersEstimate": 55362
     },
     {
       "ID": "thunderstruck",
@@ -20325,7 +20330,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251643,
+      "Progressed": 251644,
       "Completed": 6
     }
   ],
@@ -20333,8 +20338,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:09:13.8972565+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:09:48.2808776+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:52.8693744+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:57:39.2869656+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:09:13.8973524+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:57:42.0250643+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:09:48.281043+00:00"
 }

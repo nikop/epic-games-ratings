@@ -6,14 +6,14 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~39,737 |
-| I read Shakespeare and stuff | 62.00% | ~33,293 |
-| Just a sprinkle | 61.00% | ~32,756 |
-| I'm stumped | 59.00% | ~31,682 |
-| Plant get enough | 59.00% | ~31,682 |
-| This is just my weekend vehicle | 57.00% | ~30,608 |
-| It's just the beginning | 57.00% | ~30,608 |
-| Hard work pays off | 52.00% | ~27,923 |
+| Own use | 74.00% | ~39,739 |
+| I read Shakespeare and stuff | 62.00% | ~33,295 |
+| Just a sprinkle | 61.00% | ~32,758 |
+| I'm stumped | 59.00% | ~31,684 |
+| Plant get enough | 59.00% | ~31,684 |
+| This is just my weekend vehicle | 57.00% | ~30,610 |
+| It's just the beginning | 57.00% | ~30,610 |
+| Hard work pays off | 52.00% | ~27,925 |
 | It's never too late to farm | 49.00% | ~26,313 |
 | All out of Land | 43.00% | ~23,091 |
 | Field Trip | 42.00% | ~22,554 |
@@ -44,13 +44,13 @@ Number of Ratings: 7,683  (23.09.2022)
 | Pretty colourful | 0.80% | ~430 |
 | Original grain | 0.80% | ~430 |
 | Thoroughbred! | 0.60% | ~322 |
-| Gone but not for cotton | 0.50% | ~268 |
+| Gone but not for cotton | 0.50% | ~269 |
 | Cheese it | 0.40% | ~215 |
 | Olea europaea | 0.40% | ~215 |
 | You are not a kangaroo | 0.40% | ~215 |
 | Raisin the stakes | 0.30% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,699 (Ranked 111)  
+Progressed: 53,701 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 6 (0.01%) (Ranked 341)
 | 2023-11-24 | 53,002 | 6 |
 | 2023-11-25 | 53,334 | 6 |
 | 2023-11-26 | 53,681 | 6 |
-| 2023-11-27 | 53,699 | 6 |
+| 2023-11-27 | 53,701 | 6 |
 ## Awards
 Max (Great for Beginners): 5,628  (Ranked 69)  
 Sum: 43,269 (Ranked 33)  

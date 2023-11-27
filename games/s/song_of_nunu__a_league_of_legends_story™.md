@@ -8,9 +8,9 @@
 | I Broke It | 73.00% | ~686 |
 | Better On Ice | 68.00% | ~639 |
 | Notai Notes | 68.00% | ~639 |
+| Cutie Poro | 67.00% | ~630 |
 | Blue Dreams | 66.00% | ~620 |
 | He's Famous! | 66.00% | ~620 |
-| Cutie Poro | 66.00% | ~620 |
 | Krugmazing | 64.00% | ~602 |
 | Moneyball | 61.00% | ~573 |
 | The Fire Below the Mountain | 61.00% | ~573 |
@@ -19,7 +19,7 @@
 | Boom Things | 53.00% | ~498 |
 | Tear of Freedom | 52.00% | ~489 |
 | My Darkest Day | 49.00% | ~461 |
-| Rhythm Of Willump | 46.00% | ~432 |
+| Rhythm Of Willump | 47.00% | ~442 |
 | The Relentless Storm | 46.00% | ~432 |
 | A Tragic Reminder | 45.00% | ~423 |
 | 3000 Year Blackout | 44.00% | ~414 |

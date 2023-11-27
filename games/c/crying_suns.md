@@ -8,13 +8,13 @@ Number of Ratings: 1,003  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Shutdown | 66.00% | ~311,140 |
 | Jeef Skeejj | 44.00% | ~207,427 |
-| Careful planning | 39.00% | ~183,855 |
+| Careful planning | 39.00% | ~183,856 |
 | Second Coming | 34.00% | ~160,284 |
-| Jeef Skagg | 30.00% | ~141,427 |
+| Jeef Skagg | 30.00% | ~141,428 |
 | Mother | 25.00% | ~117,856 |
 | In space, no one can hear you scream | 24.00% | ~113,142 |
-| Chapter I: Echoes | 22.00% | ~103,713 |
-| Excelsior Rule | 22.00% | ~103,713 |
+| Chapter I: Echoes | 22.00% | ~103,714 |
+| Excelsior Rule | 22.00% | ~103,714 |
 | Things persisted in not being what they seemed | 20.00% | ~94,285 |
 | Knightmare Frames | 15.00% | ~70,714 |
 | May His passing cleanse the world | 15.00% | ~70,714 |
@@ -31,20 +31,20 @@ Number of Ratings: 1,003  (23.09.2022)
 | Admiral Okonkwo | 7.00% | ~33,000 |
 | The Survivalists | 7.00% | ~33,000 |
 | The Tech Specialist | 7.00% | ~33,000 |
-| Chapter V: Memories of None | 6.00% | ~28,285 |
-| Meet your maker | 6.00% | ~28,285 |
-| The Impersonator | 6.00% | ~28,285 |
-| The Kid | 6.00% | ~28,285 |
-| The Evangelist | 6.00% | ~28,285 |
-| The Inquisitor | 6.00% | ~28,285 |
-| The Ace Pilot | 6.00% | ~28,285 |
-| The Tech Med | 6.00% | ~28,285 |
-| The Mech Soldier | 6.00% | ~28,285 |
-| The lucky charm | 6.00% | ~28,285 |
-| The Anonymous | 6.00% | ~28,285 |
-| The Smuggler | 6.00% | ~28,285 |
-| The Crazy Repairman | 6.00% | ~28,285 |
-| The Weasel | 6.00% | ~28,285 |
+| Chapter V: Memories of None | 6.00% | ~28,286 |
+| Meet your maker | 6.00% | ~28,286 |
+| The Impersonator | 6.00% | ~28,286 |
+| The Kid | 6.00% | ~28,286 |
+| The Evangelist | 6.00% | ~28,286 |
+| The Inquisitor | 6.00% | ~28,286 |
+| The Ace Pilot | 6.00% | ~28,286 |
+| The Tech Med | 6.00% | ~28,286 |
+| The Mech Soldier | 6.00% | ~28,286 |
+| The lucky charm | 6.00% | ~28,286 |
+| The Anonymous | 6.00% | ~28,286 |
+| The Smuggler | 6.00% | ~28,286 |
+| The Crazy Repairman | 6.00% | ~28,286 |
+| The Weasel | 6.00% | ~28,286 |
 | Kill the Doctor | 5.00% | ~23,571 |
 | Forsaken | 5.00% | ~23,571 |
 | Mercy | 5.00% | ~23,571 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~15 |
 | Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,424 (Ranked 40)  
+Progressed: 471,425 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 20 (0.00%) (Ranked 361)
 | 2023-11-24 | 471,312 | 20 |
 | 2023-11-25 | 471,358 | 20 |
 | 2023-11-26 | 471,412 | 20 |
-| 2023-11-27 | 471,424 | 20 |
+| 2023-11-27 | 471,425 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 276)  
 Sum: 245 (Ranked 384)  

@@ -13,10 +13,10 @@
 | Art Connoisseur | 36.00% | ~8 |
 | Survivor | 36.00% | ~8 |
 | The Last Skull | 36.00% | ~8 |
+| A Cautious Man Is Worth Two of His Kind | 32.00% | ~7 |
 | Master of Riddles | 32.00% | ~7 |
 | The Witch’s Haunt | 27.00% | ~6 |
 | A Cabin Boy with Potential | 27.00% | ~6 |
-| A Cautious Man Is Worth Two of His Kind | 27.00% | ~6 |
 | Trapped in Time | 23.00% | ~5 |
 | Thanksgiving Day | 14.00% | ~3 |
 | Don’t Touch the Rum! | 14.00% | ~3 |

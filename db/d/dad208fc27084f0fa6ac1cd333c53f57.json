@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4349,
+  "EOS_Progressed": 4350,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -3119,6 +3119,11 @@
       "Time": "2023-11-27T04:05:30.8651512+00:00",
       "NumProgressed": 4349,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-27T05:06:44.1712601+00:00",
+      "NumProgressed": 4350,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3179,7 +3184,7 @@
       "Name": "Turn on the TV",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -3219,7 +3224,7 @@
       "Name": "Speedrunner",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_OPENGATE",
@@ -3258,14 +3263,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4349,
+      "Progressed": 4350,
       "Completed": 40
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:05:30.865151+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:06:44.1712598+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:58:40.8735642+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:05:30.8651706+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:59:01.8088698+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:06:44.171284+00:00"
 }

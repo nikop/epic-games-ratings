@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -890,6 +890,11 @@
       "Time": "2023-11-26T20:09:02.3317627+00:00",
       "NumProgressed": 226,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-27T05:10:14.9453376+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -1091,9 +1096,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_26",
@@ -1155,9 +1160,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_35",
@@ -1188,14 +1193,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:09:34.7044052+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:10:14.9453371+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:59:34.4896128+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:09:34.7044321+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:00:13.1693746+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:10:14.945365+00:00"
 }

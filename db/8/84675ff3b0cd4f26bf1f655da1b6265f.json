@@ -122,9 +122,9 @@
       "ID": "SURVIVING_THE_NIGHTMARE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Surviving the Nightmare",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "YOURE_PROBABLY_CHEATING_ACH",
@@ -144,8 +144,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:05:54.5369991+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:07:15.8571028+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:19:15.8105827+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:59:06.7236739+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:05:54.5370063+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:59:35.7106383+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:07:15.8571314+00:00"
 }

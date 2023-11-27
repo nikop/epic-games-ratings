@@ -4323,10 +4323,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5069,
       "NumberOfAwardsMax": 2977
+    },
+    {
+      "Time": "2023-11-27T04:57:42.212043+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5071,
+      "NumberOfAwardsMax": 2977
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5069,
+  "NumberOfAwards": 5071,
   "NumberOfAwardsMax": 2977,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4376,7 +4382,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 265
+      "Count": 267
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4391,9 +4397,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77237,
+  "EOS_Progressed": 77238,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24091,6 +24097,11 @@
       "Time": "2023-11-27T04:03:12.1271735+00:00",
       "NumProgressed": 77237,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-27T05:03:45.8614822+00:00",
+      "NumProgressed": 77238,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24182,7 +24193,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9268
+      "UsersEstimate": 9269
     },
     {
       "ID": "APPLY_STATUS",
@@ -24238,7 +24249,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -24278,7 +24289,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9268
+      "UsersEstimate": 9269
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -24326,7 +24337,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21626
+      "UsersEstimate": 21627
     },
     {
       "ID": "FREEZE_1_5",
@@ -24334,7 +24345,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15447
+      "UsersEstimate": 15448
     },
     {
       "ID": "FREEZE_2",
@@ -24414,7 +24425,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19309
+      "UsersEstimate": 19310
     },
     {
       "ID": "HARLEY_3",
@@ -24422,7 +24433,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15447
+      "UsersEstimate": 15448
     },
     {
       "ID": "HARLEY_4",
@@ -24446,7 +24457,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38618
+      "UsersEstimate": 38619
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24470,7 +24481,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15447
+      "UsersEstimate": 15448
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -24502,7 +24513,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19309
+      "UsersEstimate": 19310
     },
     {
       "ID": "MYSTERY_03",
@@ -24518,7 +24529,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15447
+      "UsersEstimate": 15448
     },
     {
       "ID": "MYSTERY_05",
@@ -24550,7 +24561,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9268
+      "UsersEstimate": 9269
     },
     {
       "ID": "SECRET_CACHE",
@@ -24589,22 +24600,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77237,
+      "Progressed": 77238,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47517,
+      "Progressed": 47518,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-27T02:57:37.6575349+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:03:12.1271729+00:00",
+  "LastChanged": "2023-11-27T04:57:42.2120428+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:03:45.8614819+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:57:39.4279155+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:03:12.1273254+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:57:42.2120435+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:03:45.86163+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
   "Ranking_Rating": 415,
-  "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 555,
+  "Ranking_Popularity": 556,
+  "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 107,
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115255,
+  "EOS_Progressed": 115257,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 0,
@@ -19284,6 +19284,11 @@
       "Time": "2023-11-27T04:09:08.5191161+00:00",
       "NumProgressed": 115255,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-27T05:09:41.422706+00:00",
+      "NumProgressed": 115257,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -19303,7 +19308,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88746
+      "UsersEstimate": 88748
     },
     {
       "ID": "EAwards_10",
@@ -19319,7 +19324,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29966
+      "UsersEstimate": 29967
     },
     {
       "ID": "EAwards_12",
@@ -19327,7 +19332,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17288
+      "UsersEstimate": 17289
     },
     {
       "ID": "EAwards_13",
@@ -19367,7 +19372,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42644
+      "UsersEstimate": 42645
     },
     {
       "ID": "EAwards_18",
@@ -19391,7 +19396,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55322
+      "UsersEstimate": 55323
     },
     {
       "ID": "EAwards_20",
@@ -19423,7 +19428,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9220
+      "UsersEstimate": 9221
     },
     {
       "ID": "EAwards_24",
@@ -19439,7 +19444,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21898
+      "UsersEstimate": 21899
     },
     {
       "ID": "EAwards_26",
@@ -19686,7 +19691,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115255,
+      "Progressed": 115257,
       "Completed": 50
     }
   ],
@@ -19694,8 +19699,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:09:08.5191158+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:09:41.4227054+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.5110707+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:59:59.5060526+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:09:08.5192453+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:00:47.4523671+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:09:41.4228447+00:00"
 }

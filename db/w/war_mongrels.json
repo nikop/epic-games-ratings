@@ -3,8 +3,8 @@
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
   "Ranking_Rating": 780,
-  "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 555,
+  "Ranking_Popularity": 556,
+  "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 295,
@@ -2590,9 +2590,9 @@
       "ID": "ACH_KILL_ENV",
       "SetID": "1j25agn",
       "Name": "It\u0027s Just an Accident",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -2678,8 +2678,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-24T23:59:00.6217659+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:09:23.003835+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:09:59.8949705+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:15.0158922+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:00:33.322314+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:09:23.0039184+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:01:30.8500612+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:09:59.8950119+00:00"
 }

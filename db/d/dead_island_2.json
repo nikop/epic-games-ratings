@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 528,
-  "Ranking_Popularity": 50,
+  "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 229,
@@ -6883,18 +6883,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11835,
       "NumberOfAwardsMax": 7731
+    },
+    {
+      "Time": "2023-11-27T05:01:24.3298344+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11864,
+      "NumberOfAwardsMax": 7760
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11835,
-  "NumberOfAwardsMax": 7731,
+  "NumberOfAwards": 11864,
+  "NumberOfAwardsMax": 7760,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7731
+      "Count": 7760
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6945,10 +6951,10 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 726164,
+  "EOS_Progressed": 726188,
   "EOS_Completed": 2442,
-  "EOS_NewPlayers": 4987,
-  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 4999,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32200,6 +32206,11 @@
       "Time": "2023-11-27T04:06:21.585065+00:00",
       "NumProgressed": 726164,
       "NumCompleted": 2442
+    },
+    {
+      "Time": "2023-11-27T05:07:51.2027481+00:00",
+      "NumProgressed": 726188,
+      "NumCompleted": 2442
     }
   ],
   "TotalAchievements": 51,
@@ -32219,7 +32230,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5809
+      "UsersEstimate": 5810
     },
     {
       "ID": "ach_ammo_ran",
@@ -32251,7 +32262,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "ach_blueprinted",
@@ -32259,7 +32270,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "ach_bookworm",
@@ -32275,7 +32286,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14523
+      "UsersEstimate": 14524
     },
     {
       "ID": "ach_contender",
@@ -32371,7 +32382,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14523
+      "UsersEstimate": 14524
     },
     {
       "ID": "ach_impressive_aim",
@@ -32395,7 +32406,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -32427,7 +32438,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "ach_magnum_opus",
@@ -32435,7 +32446,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "ach_metropolitan",
@@ -32459,7 +32470,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "ach_salvation",
@@ -32475,7 +32486,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "ach_skilled_up",
@@ -32507,7 +32518,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5809
+      "UsersEstimate": 5810
     },
     {
       "ID": "ach_the_vcla",
@@ -32547,7 +32558,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14523
+      "UsersEstimate": 14524
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32571,7 +32582,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ach_dark_magic",
@@ -32579,7 +32590,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ach_gardening_tools",
@@ -32595,7 +32606,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32618,22 +32629,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726164,
+      "Progressed": 726188,
       "Completed": 2442
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 51706,
+      "Progressed": 51730,
       "Completed": 36609
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-26T15:59:54.8406486+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:06:21.5850645+00:00",
+  "LastChanged": "2023-11-27T05:01:24.3298343+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:07:51.2027479+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:00:27.1324577+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:06:21.5852044+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:01:24.3298348+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:07:51.2028913+00:00"
 }

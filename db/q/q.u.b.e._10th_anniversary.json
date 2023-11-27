@@ -6,7 +6,7 @@
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -222,11 +222,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22316,
-  "EOS_Completed": 106,
-  "EOS_NewPlayers": 1557,
-  "EOS_NewCompleters": 30,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Progressed": 22318,
+  "EOS_Completed": 107,
+  "EOS_NewPlayers": 1553,
+  "EOS_NewCompleters": 31,
+  "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -4732,6 +4732,11 @@
       "Time": "2023-11-27T04:09:25.7797319+00:00",
       "NumProgressed": 22316,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-11-27T05:10:03.5724772+00:00",
+      "NumProgressed": 22318,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 24,
@@ -4855,7 +4860,7 @@
       "Name": "Master Room",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -4879,7 +4884,7 @@
       "Name": "Sector 2",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4463
+      "UsersEstimate": 4464
     },
     {
       "ID": "ACH_Sector3",
@@ -4895,7 +4900,7 @@
       "Name": "Sector 4",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "ACH_Sector5",
@@ -4903,7 +4908,7 @@
       "Name": "Sector 5",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "ACH_Sector6",
@@ -4934,16 +4939,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 22316,
-      "Completed": 106
+      "Progressed": 22318,
+      "Completed": 107
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-24T17:57:13.410468+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:09:25.7797317+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:10:03.5724767+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.0801256+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:58:57.6517587+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:09:25.779766+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:59:24.8398795+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:10:03.5725198+00:00"
 }

@@ -12,13 +12,13 @@
 | A Taste of Wrath | 8.00% | ~18 |
 | Adventurer | 8.00% | ~18 |
 | Geared Up | 8.00% | ~18 |
-| Fashion Victim | 8.00% | ~18 |
 | Scholar | 8.00% | ~18 |
-| The Collector | 8.00% | ~18 |
 | Tributes of Caladrias | 7.00% | ~16 |
 | Shatter Them All | 7.00% | ~16 |
 | Big Bazar | 7.00% | ~16 |
+| Fashion Victim | 7.00% | ~16 |
 | Stone Collection | 7.00% | ~16 |
+| The Collector | 7.00% | ~16 |
 | Calm before the Storm | 6.00% | ~14 |
 | To Battle | 4.00% | ~9 |
 | Godslayer | 4.00% | ~9 |
@@ -41,7 +41,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226 (Ranked 380)  
+Progressed: 227 (Ranked 379)  
 Completed: 2 (0.88%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,3 +89,4 @@ Completed: 2 (0.88%) (Ranked 172)
 | 2023-11-24 | 213 | 2 |
 | 2023-11-25 | 216 | 2 |
 | 2023-11-26 | 226 | 2 |
+| 2023-11-27 | 227 | 2 |

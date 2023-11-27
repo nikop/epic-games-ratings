@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29240,
+  "EOS_Progressed": 29242,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -25041,6 +25041,11 @@
       "Time": "2023-11-27T04:09:11.7349386+00:00",
       "NumProgressed": 29240,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-27T05:09:45.6334473+00:00",
+      "NumProgressed": 29242,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -25060,7 +25065,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "1017",
@@ -25068,7 +25073,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "1018",
@@ -25108,7 +25113,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "1023",
@@ -25156,7 +25161,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "1029",
@@ -25188,7 +25193,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11696
+      "UsersEstimate": 11697
     },
     {
       "ID": "1033",
@@ -25227,15 +25232,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29240,
+      "Progressed": 29242,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:09:11.7349384+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:09:45.6334465+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.1522502+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:57:58.8566305+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:09:11.7350346+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:58:08.1490669+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:09:45.6335646+00:00"
 }

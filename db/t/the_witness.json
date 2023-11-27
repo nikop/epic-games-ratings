@@ -558,18 +558,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 184,
       "NumberOfAwardsMax": 184
+    },
+    {
+      "Time": "2023-11-27T04:57:52.1937487+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 185,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 184,
-  "NumberOfAwardsMax": 184,
+  "NumberOfAwards": 185,
+  "NumberOfAwardsMax": 185,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 184
+      "Count": 185
     }
   ],
   "EOS_Progressed": 0,
@@ -583,8 +589,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2023-11-22T04:59:05.6423152+00:00",
+  "LastChanged": "2023-11-27T04:57:52.1937486+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:59.2087271+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:57:46.8238812+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:04:36.5095383+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:57:52.1937489+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:05:33.8797183+00:00"
 }

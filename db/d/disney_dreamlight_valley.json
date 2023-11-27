@@ -4893,7 +4893,7 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 11966,
+  "EOS_Progressed": 11967,
   "EOS_Completed": 284,
   "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 5,
@@ -19808,6 +19808,11 @@
       "Time": "2023-11-27T03:06:23.4809751+00:00",
       "NumProgressed": 11966,
       "NumCompleted": 284
+    },
+    {
+      "Time": "2023-11-27T05:06:51.0380137+00:00",
+      "NumProgressed": 11967,
+      "NumCompleted": 284
     }
   ],
   "TotalAchievements": 15,
@@ -19835,7 +19840,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5504
+      "UsersEstimate": 5505
     },
     {
       "ID": "Chef_Cook",
@@ -19875,7 +19880,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3709
+      "UsersEstimate": 3710
     },
     {
       "ID": "Generous",
@@ -19907,7 +19912,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8137
+      "UsersEstimate": 8138
     },
     {
       "ID": "Renovator",
@@ -19931,14 +19936,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7419
+      "UsersEstimate": 7420
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11966,
+      "Progressed": 11967,
       "Completed": 284
     }
   ],
@@ -19946,8 +19951,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-27T01:46:52.5100977+00:00",
-  "LastChanged_Achievements": "2023-11-27T04:05:36.1008226+00:00",
+  "LastChanged_Achievements": "2023-11-27T05:06:51.0380134+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:52.4456566+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:59:53.0263077+00:00",
-  "LastUpdate_Achievements": "2023-11-27T04:05:36.1009072+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:00:38.2395665+00:00",
+  "LastUpdate_Achievements": "2023-11-27T05:06:51.038102+00:00"
 }
