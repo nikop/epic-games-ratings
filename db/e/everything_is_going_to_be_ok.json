@@ -4,7 +4,7 @@
   "ProductSlug": "everything-is-going-to-be-ok-db21ff",
   "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-04-05T07:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-22T07:57:48.3794827+00:00",
   "LastChanged": "2023-04-22T07:57:48.3794828+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.0353325+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:58:38.7214982+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:08:38.0924158+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:58:46.0391854+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:08:38.7766412+00:00"
 }

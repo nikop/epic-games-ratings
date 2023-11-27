@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 398,
+  "EOS_Progressed": 399,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
@@ -1050,6 +1050,11 @@
       "Time": "2023-11-27T22:08:54.5685184+00:00",
       "NumProgressed": 398,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T23:08:56.9170527+00:00",
+      "NumProgressed": 399,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1062,7 +1067,7 @@
       "Name": "The Teleprobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "AchvAllMemories",
@@ -1196,9 +1201,9 @@
       "ID": "AchvNest",
       "SetID": "1hj060c",
       "Name": "Innate curiosity",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "AchvNoHoles",
@@ -1230,7 +1235,7 @@
       "Name": "The field base",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AchvReachCamp",
@@ -1246,7 +1251,7 @@
       "Name": "The City",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "AchvReachCondor",
@@ -1254,23 +1259,23 @@
       "Name": "The Condor",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 116
     },
     {
       "ID": "AchvTeleprobeOperator",
       "SetID": "1hj060c",
       "Name": "Flying Objects Operator",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "AchvTheEnd",
@@ -1293,14 +1298,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 398,
+      "Progressed": 399,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:08:54.568518+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:08:56.9170524+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:57:57.7701021+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:08:54.5685374+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:58:01.4599157+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:08:56.9170748+00:00"
 }

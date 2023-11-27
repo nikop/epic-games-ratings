@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2176,7 +2176,7 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216228,
+  "EOS_Progressed": 216232,
   "EOS_Completed": 99,
   "EOS_NewPlayers": 1265,
   "EOS_NewCompleters": 1,
@@ -27526,6 +27526,11 @@
       "Time": "2023-11-27T22:06:09.3048461+00:00",
       "NumProgressed": 216228,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-11-27T23:06:37.1427148+00:00",
+      "NumProgressed": 216232,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 44,
@@ -27609,7 +27614,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25947
+      "UsersEstimate": 25948
     },
     {
       "ID": "HappyLittleAccidents",
@@ -27713,7 +27718,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10811
+      "UsersEstimate": 10812
     },
     {
       "ID": "OldMan",
@@ -27737,7 +27742,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10811
+      "UsersEstimate": 10812
     },
     {
       "ID": "ReleaseTheKraken",
@@ -27753,7 +27758,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17298
+      "UsersEstimate": 17299
     },
     {
       "ID": "Rollin",
@@ -27785,7 +27790,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17298
+      "UsersEstimate": 17299
     },
     {
       "ID": "TanukiTime",
@@ -27849,7 +27854,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10811
+      "UsersEstimate": 10812
     },
     {
       "ID": "Warzone",
@@ -27888,15 +27893,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216228,
+      "Progressed": 216232,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-27T13:06:46.3599609+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:06:09.3048457+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:06:37.1427144+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:59:01.873565+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:06:09.3050204+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:59:12.9054334+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:06:37.1428695+00:00"
 }

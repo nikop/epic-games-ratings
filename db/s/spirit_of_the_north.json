@@ -4,7 +4,7 @@
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 780,
   "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 438,
+  "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 102,
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75403,
+  "EOS_Progressed": 75405,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -24708,6 +24708,11 @@
       "Time": "2023-11-27T22:09:12.626658+00:00",
       "NumProgressed": 75403,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-11-27T23:09:16.8877218+00:00",
+      "NumProgressed": 75405,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 24,
@@ -24735,7 +24740,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52028
+      "UsersEstimate": 52029
     },
     {
       "ID": "BEST_FRIENDS",
@@ -24799,7 +24804,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39964
+      "UsersEstimate": 39965
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -24871,7 +24876,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8294
+      "UsersEstimate": 8295
     },
     {
       "ID": "SPIRIT_FORM",
@@ -24887,7 +24892,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 11310
+      "UsersEstimate": 11311
     },
     {
       "ID": "WEIGHTLESS",
@@ -24895,7 +24900,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9048
+      "UsersEstimate": 9049
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -24903,14 +24908,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12064
+      "UsersEstimate": 12065
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75403,
+      "Progressed": 75405,
       "Completed": 404
     }
   ],
@@ -24918,8 +24923,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:09:12.6266577+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:09:16.8877215+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.17465+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:00:07.1475337+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:09:12.626788+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:00:26.9752709+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:09:16.8878638+00:00"
 }

@@ -2883,9 +2883,9 @@
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
       "SetID": "7o8nc5m",
       "Name": "Gallant Spin Dash",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 361
     },
     {
       "ID": "ID_15_NOVICE_HERO",
@@ -3067,8 +3067,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-11-24T22:58:28.1556301+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:09:44.6856205+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:09:52.4485393+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.1470593+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:00:20.7819804+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:09:44.6856613+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:00:42.0947804+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:09:52.4485718+00:00"
 }

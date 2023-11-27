@@ -9,20 +9,20 @@
 | For the Horde! | 81.00% | ~386 |
 | Hammer Time, Round Two | 79.00% | ~377 |
 | The Hellwoods | 73.00% | ~348 |
-| The Plains of Strothalm | 68.00% | ~324 |
+| The Plains of Strothalm | 69.00% | ~329 |
+| Experienced Thalya | 68.00% | ~324 |
 | Thalya's Concentrated Fury | 67.00% | ~320 |
-| Experienced Thalya | 67.00% | ~320 |
 | Bad Elves Go Everywhere | 64.00% | ~305 |
 | Master of Magic | 63.00% | ~301 |
+| Heroes’ Gorge | 59.00% | ~281 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~277 |
-| Heroes’ Gorge | 58.00% | ~277 |
 | Magic Accidents | 56.00% | ~267 |
 | Trap Master | 55.00% | ~262 |
 | Minions, Minions! | 53.00% | ~253 |
 | The Ascent | 49.00% | ~234 |
 | It's Warm and Cozy at Home | 49.00% | ~234 |
+| Hard Work | 45.00% | ~215 |
 | YOU SHALL NOT PASS! | 44.00% | ~210 |
-| Hard Work | 44.00% | ~210 |
 | The Big Eaty | 42.00% | ~200 |
 | Pure Dynamite! | 40.00% | ~191 |
 | “… like son” | 38.00% | ~181 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 477 (Ranked 315)  
-Completed: 7 (1.47%) (Ranked 143)  
+Completed: 7 (1.47%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

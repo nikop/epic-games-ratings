@@ -5,17 +5,17 @@ Rating: 4.29 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,005 |
-| Copacetic Coordination | 16.00% | ~56,697 |
+| Corner Clout | 46.00% | ~163,006 |
+| Copacetic Coordination | 16.00% | ~56,698 |
 | Fronting the Money | 15.00% | ~53,154 |
-| The Dawn of Automation | 14.00% | ~49,610 |
-| Extraordinary Logistics | 14.00% | ~49,610 |
+| The Dawn of Automation | 14.00% | ~49,611 |
+| Extraordinary Logistics | 14.00% | ~49,611 |
 | Dirty Money | 13.00% | ~46,067 |
 | Family First | 13.00% | ~46,067 |
 | Cleaning House | 12.00% | ~42,523 |
 | Room in the Back | 12.00% | ~42,523 |
-| Beating the Heat | 11.00% | ~38,979 |
-| Booze Baron | 11.00% | ~38,979 |
+| Beating the Heat | 11.00% | ~38,980 |
+| Booze Baron | 11.00% | ~38,980 |
 | Friends on the Force | 10.00% | ~35,436 |
 | Neighborhood Watch | 10.00% | ~35,436 |
 | Core Corps | 8.00% | ~28,349 |
@@ -23,12 +23,12 @@ Rating: 4.29 (Ranked 844)
 | Street Fighter | 7.00% | ~24,805 |
 | Friendly Gestures | 7.00% | ~24,805 |
 | People Person | 7.00% | ~24,805 |
-| Liquor Lord | 6.00% | ~21,261 |
-| Safety in Numbers | 6.00% | ~21,261 |
-| Moving Experiences | 6.00% | ~21,261 |
-| Wise Head | 6.00% | ~21,261 |
-| Show ‘em the Sugar | 6.00% | ~21,261 |
-| Killing Them Softly | 6.00% | ~21,261 |
+| Liquor Lord | 6.00% | ~21,262 |
+| Safety in Numbers | 6.00% | ~21,262 |
+| Moving Experiences | 6.00% | ~21,262 |
+| Wise Head | 6.00% | ~21,262 |
+| Show ‘em the Sugar | 6.00% | ~21,262 |
+| Killing Them Softly | 6.00% | ~21,262 |
 | Street Knowledge | 5.00% | ~17,718 |
 | Oh Captain | 5.00% | ~17,718 |
 | Branching Out | 5.00% | ~17,718 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 844)
 | High Pillow | 0.10% | ~354 |
 | Station Master | 0.10% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354,358 (Ranked 48)  
+Progressed: 354,361 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 7 (0.00%) (Ranked 361)
 | 2023-11-24 | 353,883 | 7 |
 | 2023-11-25 | 354,051 | 7 |
 | 2023-11-26 | 354,247 | 7 |
-| 2023-11-27 | 354,358 | 7 |
+| 2023-11-27 | 354,361 | 7 |
 ## Awards
-Max (Great for Beginners): 50  (Ranked 436)  
+Max (Great for Beginners): 50  (Ranked 437)  
 Sum: 197 (Ranked 401)  
-Diff (max vs sum): 35  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |

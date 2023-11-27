@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4393,
+  "EOS_Progressed": 4394,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -7830,6 +7830,11 @@
       "Time": "2023-11-27T22:04:18.4144213+00:00",
       "NumProgressed": 4393,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-27T23:04:33.1346727+00:00",
+      "NumProgressed": 4394,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7873,7 +7878,7 @@
       "Name": "Headliner",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Ach006",
@@ -7881,7 +7886,7 @@
       "Name": "Time to pay up!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Ach007",
@@ -7889,7 +7894,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Ach008",
@@ -8041,7 +8046,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Ach027",
@@ -8089,7 +8094,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Ach033",
@@ -8408,13 +8413,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4393,
+      "Progressed": 4394,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2914,
+      "Progressed": 2915,
       "Completed": 1930
     }
   ],
@@ -8422,8 +8427,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:04:18.414421+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:04:33.1346724+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:00:24.2097349+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:04:18.4145284+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:00:46.5467446+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:04:33.1347681+00:00"
 }

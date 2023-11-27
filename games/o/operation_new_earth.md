@@ -7,7 +7,7 @@ Rating: 3.21 (Ranked 1,048)
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 27.00% | ~519 |
 | Defenses Online | 25.00% | ~481 |
-| Facility Online | 20.00% | ~385 |
+| Facility Online | 21.00% | ~404 |
 | Corporal | 15.00% | ~289 |
 | Sergeant | 12.00% | ~231 |
 | Covert Operative | 12.00% | ~231 |

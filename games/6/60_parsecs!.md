@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~751 |
-| Space Colonization | 81.00% | ~627 |
-| Friendzone | 80.00% | ~619 |
-| Hello World | 75.00% | ~580 |
-| Space Engineer | 65.00% | ~503 |
+| Don't Panic! | 97.00% | ~752 |
+| Space Colonization | 81.00% | ~628 |
+| Friendzone | 80.00% | ~620 |
+| Hello World | 75.00% | ~581 |
+| Space Engineer | 65.00% | ~504 |
 | Tinkerer | 63.00% | ~488 |
 | Dust to Dust | 58.00% | ~449 |
-| Across The Stars | 49.00% | ~379 |
+| Across The Stars | 49.00% | ~380 |
 | Crafty | 48.00% | ~372 |
 | All Seats Taken | 39.00% | ~302 |
 | For Science! | 35.00% | ~271 |
@@ -22,7 +22,7 @@
 | Eco-Shuttle | 20.00% | ~155 |
 | Et tu, Astrocitizen? | 20.00% | ~155 |
 | Space Explorer | 17.00% | ~132 |
-| Hands Full | 14.00% | ~108 |
+| Hands Full | 14.00% | ~109 |
 | Gold Medalist | 12.00% | ~93 |
 | Non-Fiction | 12.00% | ~93 |
 | No Man Left Behind | 9.00% | ~70 |
@@ -36,8 +36,8 @@
 | The Improvinator | 4.00% | ~31 |
 | The Last Supper | 4.00% | ~31 |
 | 2018: A Soup Odyssey | 3.00% | ~23 |
-| Bovine Domain | 2.00% | ~15 |
-| That's No Moon! | 2.00% | ~15 |
+| Bovine Domain | 2.00% | ~16 |
+| That's No Moon! | 2.00% | ~16 |
 | AAARGH! | 1.00% | ~8 |
 | No Ticket | 1.00% | ~8 |
 | Feels like home | 1.00% | ~8 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 774 (Ranked 275)  
+Progressed: 775 (Ranked 275)  
 Completed: 1 (0.13%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 1 (0.13%) (Ranked 273)
 | 2023-11-02 | 771 | 1 |
 | 2023-11-05 | 772 | 1 |
 | 2023-11-18 | 774 | 1 |
+| 2023-11-27 | 775 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

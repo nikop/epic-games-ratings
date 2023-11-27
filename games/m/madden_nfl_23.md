@@ -6,8 +6,8 @@ Rating: 4.27 (Ranked 863)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bragging Rights | 55.00% | ~2,053 |
+| MVP | 54.00% | ~2,015 |
 | Big Spender | 53.00% | ~1,978 |
-| MVP | 53.00% | ~1,978 |
 | Stud Finder | 40.00% | ~1,493 |
 | Dealmaker | 39.00% | ~1,455 |
 | ROTY | 32.00% | ~1,194 |
@@ -103,8 +103,8 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-27 | 3,732 | 0 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 459)  
-Sum: 115 (Ranked 438)  
-Diff (max vs sum): 21  
+Sum: 115 (Ranked 439)  
+Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 39 |

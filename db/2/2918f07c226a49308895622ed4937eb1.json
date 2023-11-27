@@ -2,10 +2,10 @@
   "ID": "2918f07c226a49308895622ed4937eb1",
   "Name": "Hide and Seek",
   "ProductSlug": "hide-and-seek-9e0912",
-  "Ranking_EOS_Progress": 484,
-  "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 24.56,
+  "EOS_Completed_Percentage": 24.14,
   "EosHistory": [
     {
       "Time": "2023-10-27T08:03:12.3297461+00:00",
@@ -234,6 +234,11 @@
       "Time": "2023-11-27T22:03:18.6281298+00:00",
       "NumProgressed": 57,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-27T23:03:25.5670606+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-27T08:03:12.3312998+00:00",
@@ -246,15 +251,15 @@
       "Name": "Welcome",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_2",
       "SetID": "dhh8kbc",
       "Name": "Seek",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 175,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -262,7 +267,7 @@
       "Name": "Hide",
       "Percentage": 74,
       "XP": 175,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -270,15 +275,15 @@
       "Name": "The Best Seeker",
       "Percentage": 60,
       "XP": 150,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_5",
       "SetID": "dhh8kbc",
       "Name": "Hiders win!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 150,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -293,14 +298,14 @@
     {
       "ID": "dhh8kbc",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:03:18.628129+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:03:25.5670603+00:00",
   "LastUpdate_AppInfo": "2023-11-24T10:57:18.5833512+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:00:10.5654879+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:03:18.6281413+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:00:30.4027113+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:03:25.5670724+00:00"
 }

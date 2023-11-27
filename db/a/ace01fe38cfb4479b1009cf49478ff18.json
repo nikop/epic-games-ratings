@@ -4,8 +4,8 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -669,6 +669,11 @@
       "Time": "2023-11-27T21:09:18.9960623+00:00",
       "NumProgressed": 150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T23:09:29.6568302+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -679,9 +684,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -697,7 +702,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -705,7 +710,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -721,7 +726,7 @@
       "Name": "Emperor\u2019s Mercy",
       "Percentage": 3,
       "XP": 175,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_complete_difficulty_medium",
@@ -743,9 +748,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 45,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -776,14 +781,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:09:24.2503564+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:09:29.6568299+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.3392935+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:57:13.8671258+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:09:24.2503776+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:57:10.3315738+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:09:29.656849+00:00"
 }

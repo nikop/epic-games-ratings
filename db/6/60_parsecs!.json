@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 774,
+  "EOS_Progressed": 775,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -991,6 +991,11 @@
       "Time": "2023-11-18T14:08:06.0458539+00:00",
       "NumProgressed": 774,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T23:03:22.7329873+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1010,7 +1015,7 @@
       "Name": "Across The Stars",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -1058,7 +1063,7 @@
       "Name": "Bovine Domain",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_Crafty",
@@ -1074,7 +1079,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1146,7 +1151,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1170,7 +1175,7 @@
       "Name": "Hands Full",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Achievement_HelloWorld",
@@ -1178,7 +1183,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1290,7 +1295,7 @@
       "Name": "Space Colonization",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1298,7 +1303,7 @@
       "Name": "Space Engineer",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1330,7 +1335,7 @@
       "Name": "That\u0027s No Moon!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_Tinkerer",
@@ -1353,7 +1358,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 774,
+      "Progressed": 775,
       "Completed": 1
     }
   ],
@@ -1361,8 +1366,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:03:15.9757648+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:03:22.732987+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:57.1894294+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:58:50.7132936+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:03:15.9758144+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:59:00.6648774+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:03:22.7330204+00:00"
 }

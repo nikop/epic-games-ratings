@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -568,9 +568,9 @@
       "ID": "ACH_CAT_SHELTER",
       "SetID": "8h8m55b",
       "Name": "Cat Shelter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHILDS_PLAY",
@@ -856,9 +856,9 @@
       "ID": "ACH_UNLOCK_GALLERY",
       "SetID": "8h8m55b",
       "Name": "Art Connoisseur",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNSOLICITED_BOUNCER",
@@ -919,8 +919,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:04:12.2568002+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:04:26.1633801+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:56.257571+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:02:57.0763081+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:04:12.256834+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:02:59.8339456+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:04:26.1634197+00:00"
 }

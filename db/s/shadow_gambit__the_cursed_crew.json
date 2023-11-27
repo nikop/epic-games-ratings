@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 956,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.25,
+  "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3119,6 +3119,11 @@
       "Time": "2023-11-27T20:05:01.0128794+00:00",
       "NumProgressed": 954,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-27T23:05:10.2960979+00:00",
+      "NumProgressed": 956,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3139,7 +3144,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "_03_FinishAct1",
@@ -3147,7 +3152,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3155,7 +3160,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "_05_FinishAct2",
@@ -3171,7 +3176,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "_07_FinishAct3",
@@ -3179,7 +3184,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "_08_Completion_10",
@@ -3195,7 +3200,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "_10_Completion_30",
@@ -3219,7 +3224,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "_13_Completion_60",
@@ -3249,17 +3254,17 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 238
+      "UsersEstimate": 229
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 354
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3291,7 +3296,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3299,7 +3304,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3315,7 +3320,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3338,7 +3343,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 956,
       "Completed": 31
     }
   ],
@@ -3346,8 +3351,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:04:51.8107833+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:05:10.2960975+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:00:29.3884283+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:04:51.8108213+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:00:52.2579811+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:05:10.2961263+00:00"
 }

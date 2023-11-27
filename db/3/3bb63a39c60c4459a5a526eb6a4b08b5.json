@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3629,6 +3629,11 @@
       "Time": "2023-11-27T19:10:05.4360812+00:00",
       "NumProgressed": 949,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T23:09:48.7805256+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3648,7 +3653,7 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "BasicControls",
@@ -3656,15 +3661,15 @@
       "Name": "Basic Controls",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 238
     },
     {
       "ID": "BudgetFlight",
@@ -3688,7 +3693,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Creator",
@@ -3704,7 +3709,7 @@
       "Name": "Debtor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -3728,7 +3733,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "First",
@@ -3752,7 +3757,7 @@
       "Name": "One Hundred",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Incredible",
@@ -3800,7 +3805,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LongDistance",
@@ -3848,7 +3853,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "NoWayBack",
@@ -3975,14 +3980,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:09:41.3099952+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:09:48.7805253+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:54.7052462+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:57:33.3020206+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:09:41.310038+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:57:32.6204741+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:09:48.7805674+00:00"
 }

@@ -1413,9 +1413,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240054,
+  "EOS_Progressed": 240063,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1495,
+  "EOS_NewPlayers": 1493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20198,6 +20198,11 @@
       "Time": "2023-11-27T22:09:07.7564089+00:00",
       "NumProgressed": 240054,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-27T23:09:11.4551506+00:00",
+      "NumProgressed": 240063,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20257,7 +20262,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14403
+      "UsersEstimate": 14404
     },
     {
       "ID": "Chapter2",
@@ -20265,7 +20270,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9602
+      "UsersEstimate": 9603
     },
     {
       "ID": "Chapter3",
@@ -20609,7 +20614,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19204
+      "UsersEstimate": 19205
     },
     {
       "ID": "DwarfElf15Support",
@@ -20657,7 +20662,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84019
+      "UsersEstimate": 84022
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20673,7 +20678,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9602
+      "UsersEstimate": 9603
     },
     {
       "ID": "EndCombatOneHp",
@@ -20681,7 +20686,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9602
+      "UsersEstimate": 9603
     },
     {
       "ID": "EndGameCursed",
@@ -20705,7 +20710,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21605
+      "UsersEstimate": 21606
     },
     {
       "ID": "FollowBraztok",
@@ -20793,7 +20798,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "QuestEmile",
@@ -20817,7 +20822,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "QuestPriestess",
@@ -20905,28 +20910,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9602
+      "UsersEstimate": 9603
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 240054,
+      "Progressed": 240063,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 240054,
+      "Progressed": 240063,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-27T08:58:03.3636089+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:09:07.7564084+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:09:11.4551501+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:58:25.9481239+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:09:07.756577+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:58:32.2462318+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:09:11.4553359+00:00"
 }

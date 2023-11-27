@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 36.00% | ~10 |
+| Breaking Free | 39.00% | ~11 |
 | Overcoming Weakness | 21.00% | ~6 |
 | Fence-Sitter | 14.00% | ~4 |
 | Green Thumb | 14.00% | ~4 |

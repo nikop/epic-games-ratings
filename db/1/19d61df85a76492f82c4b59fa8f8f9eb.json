@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -1646,9 +1646,9 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 165,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1693,8 +1693,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:03:43.1711219+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:03:53.4614223+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:54.1546229+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:59:41.128276+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:03:43.1711431+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:59:57.5607263+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:03:53.4614364+00:00"
 }

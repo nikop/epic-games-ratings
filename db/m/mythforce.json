@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -788,9 +788,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5144,
+  "EOS_Progressed": 5145,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10058,6 +10058,11 @@
       "Time": "2023-11-27T22:04:23.3108952+00:00",
       "NumProgressed": 5144,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T23:04:38.5487751+00:00",
+      "NumProgressed": 5145,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10126,7 +10131,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -10166,7 +10171,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -10253,15 +10258,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5144,
+      "Progressed": 5145,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-27T17:58:25.8309812+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:04:23.3108948+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:04:38.5487747+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:58:07.3981684+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:04:23.3109713+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:58:12.7318837+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:04:38.5488391+00:00"
 }

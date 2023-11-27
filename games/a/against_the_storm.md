@@ -6,10 +6,10 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overgrown Library | 0.60% | ~105 |
 | Abandoned Settlement | 0.50% | ~88 |
-| Overgrown Library | 0.50% | ~88 |
+| Petrified Necropolis | 0.50% | ~88 |
 | Frosts | 0.40% | ~70 |
-| Petrified Necropolis | 0.40% | ~70 |
 | Ominous Presence | 0.40% | ~70 |
 | Gathering Storm | 0.40% | ~70 |
 | Land of Greed | 0.30% | ~53 |
@@ -28,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 0.10% | ~18 |
 | Fertile Meadows | 0.10% | ~18 |
 | Fishmen Ritual Site | 0.10% | ~18 |
+| Forbidden Lands | 0.10% | ~18 |
 | Haunted Forest | 0.10% | ~18 |
 | Levitating Monument | 0.10% | ~18 |
 | Flooded Mines | 0.10% | ~18 |
@@ -59,7 +60,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.00% | ~0 |
 | Refinery | 0.00% | ~0 |
 | Sparkdew Crystals | 0.00% | ~0 |
-| Forbidden Lands | 0.00% | ~0 |
 | Forsaken Gods Temple | 0.00% | ~0 |
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |

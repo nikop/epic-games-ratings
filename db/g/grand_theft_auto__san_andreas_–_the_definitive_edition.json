@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1591,9 +1591,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13793,
+  "EOS_Progressed": 13794,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -15106,6 +15106,11 @@
       "Time": "2023-11-27T19:09:35.0953073+00:00",
       "NumProgressed": 13793,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-27T23:09:23.6199128+00:00",
+      "NumProgressed": 13794,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 35,
@@ -15117,7 +15122,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11310
+      "UsersEstimate": 11311
     },
     {
       "ID": "ACH02",
@@ -15133,7 +15138,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH04",
@@ -15173,7 +15178,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "ACH09",
@@ -15396,7 +15401,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13793,
+      "Progressed": 13794,
       "Completed": 54
     }
   ],
@@ -15404,8 +15409,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-27T10:57:26.1265046+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:09:18.7044497+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:09:23.6199124+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.1736391+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:57:34.5559214+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:09:18.7045557+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:57:34.095563+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:09:23.6200178+00:00"
 }

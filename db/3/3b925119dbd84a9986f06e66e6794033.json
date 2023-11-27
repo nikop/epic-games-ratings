@@ -2,7 +2,7 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 136,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -919,6 +919,11 @@
       "Time": "2023-11-27T21:09:11.4394565+00:00",
       "NumProgressed": 268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T23:09:21.4576831+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -963,7 +968,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -1090,14 +1095,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:09:16.7656088+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:09:21.4576826+00:00",
   "LastUpdate_AppInfo": "2023-11-24T23:57:10.8721318+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:58:47.905191+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:09:16.7656275+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:58:56.4402819+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:09:21.4576986+00:00"
 }

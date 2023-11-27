@@ -2,7 +2,7 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 445,
+  "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 136,
@@ -456,9 +456,9 @@
       "ID": "ACH_DARK_PALADIN_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Dark Paladin",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -488,9 +488,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "cagp2pi",
       "Name": "Edda and Aven",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -512,9 +512,9 @@
       "ID": "ACH_LUCA_DEFEATED",
       "SetID": "cagp2pi",
       "Name": "LUCA",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_PHOENIX",
@@ -583,8 +583,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:03:42.6543364+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:03:52.8654051+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:58:58.9303606+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:03:42.6543539+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:59:09.586772+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:03:52.8654223+00:00"
 }

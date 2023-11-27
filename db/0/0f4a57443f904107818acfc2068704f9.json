@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 713,
+  "EOS_Progressed": 717,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1402,6 +1402,11 @@
       "Time": "2023-11-27T22:03:27.3062016+00:00",
       "NumProgressed": 713,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T23:03:35.4211568+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1422,7 +1427,7 @@
       "Name": "Territorial",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1470,7 +1475,7 @@
       "Name": "Pathfinder",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 538
     },
     {
       "ID": "CompleteChapter10",
@@ -1478,7 +1483,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CompleteChapter11",
@@ -1542,7 +1547,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CompleteChapter18",
@@ -1556,9 +1561,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 409
     },
     {
       "ID": "CompleteChapter3",
@@ -1566,7 +1571,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "CompleteChapter4",
@@ -1574,7 +1579,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "CompleteChapter5",
@@ -1582,7 +1587,7 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "CompleteChapter6",
@@ -1590,7 +1595,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "CompleteChapter7",
@@ -1614,7 +1619,7 @@
       "Name": "Ingredients List",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1662,7 +1667,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1686,7 +1691,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1709,14 +1714,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 713,
+      "Progressed": 717,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:03:27.3062012+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:03:35.4211564+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:00:05.6497624+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:03:27.3062312+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:00:25.1359195+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:03:35.421185+00:00"
 }

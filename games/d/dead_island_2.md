@@ -5,42 +5,42 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,568 |
-| Break A Leg | 2.00% | ~14,534 |
-| Hotel California | 2.00% | ~14,534 |
-| Welcome To Hell-A | 2.00% | ~14,534 |
-| One of Us | 2.00% | ~1,045 |
-| Pork Chopped | 2.00% | ~1,045 |
-| Dr. Reed, I Presume? | 1.00% | ~7,267 |
-| Git Gutte! | 1.00% | ~7,267 |
-| Anger Management | 1.00% | ~7,267 |
-| Perks of the Job | 1.00% | ~7,267 |
-| Bookworm | 1.00% | ~7,267 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,267 |
-| But Doctor, I am Butcho | 1.00% | ~7,267 |
-| Slayer Squad | 1.00% | ~7,267 |
-| Can't Handle the Truth | 1.00% | ~7,267 |
-| Coup de Grâce | 1.00% | ~7,267 |
-| Like Riding a Bike | 1.00% | ~7,267 |
-| Hazardous Materials | 1.00% | ~7,267 |
-| Friends Like These | 1.00% | ~7,267 |
-| Apex Predator | 1.00% | ~7,267 |
-| Zombologist | 1.00% | ~7,267 |
-| Ooh, Shiny! | 1.00% | ~7,267 |
-| A Patton Emerges | 1.00% | ~7,267 |
-| Stacking the Deck | 1.00% | ~7,267 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,267 |
-| Our True Nature | 1.00% | ~7,267 |
-| This is My Weapon | 1.00% | ~7,267 |
-| I Am the Resurrection | 0.90% | ~6,540 |
+| Whatever It Takes | 3.00% | ~1,569 |
+| Break A Leg | 2.00% | ~14,535 |
+| Hotel California | 2.00% | ~14,535 |
+| Welcome To Hell-A | 2.00% | ~14,535 |
+| One of Us | 2.00% | ~1,046 |
+| Pork Chopped | 2.00% | ~1,046 |
+| Dr. Reed, I Presume? | 1.00% | ~7,268 |
+| Git Gutte! | 1.00% | ~7,268 |
+| Anger Management | 1.00% | ~7,268 |
+| Perks of the Job | 1.00% | ~7,268 |
+| Bookworm | 1.00% | ~7,268 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,268 |
+| But Doctor, I am Butcho | 1.00% | ~7,268 |
+| Slayer Squad | 1.00% | ~7,268 |
+| Can't Handle the Truth | 1.00% | ~7,268 |
+| Coup de Grâce | 1.00% | ~7,268 |
+| Like Riding a Bike | 1.00% | ~7,268 |
+| Hazardous Materials | 1.00% | ~7,268 |
+| Friends Like These | 1.00% | ~7,268 |
+| Apex Predator | 1.00% | ~7,268 |
+| Zombologist | 1.00% | ~7,268 |
+| Ooh, Shiny! | 1.00% | ~7,268 |
+| A Patton Emerges | 1.00% | ~7,268 |
+| Stacking the Deck | 1.00% | ~7,268 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,268 |
+| Our True Nature | 1.00% | ~7,268 |
+| This is My Weapon | 1.00% | ~7,268 |
+| I Am the Resurrection | 0.90% | ~6,541 |
 | Making Your Mark | 0.80% | ~5,814 |
 | Humanity Distilled | 0.80% | ~5,814 |
 | Max Headroom | 0.80% | ~5,814 |
 | Down with the Sickness | 0.70% | ~5,087 |
-| Not Even My Final Form | 0.60% | ~4,360 |
-| Jumbo Keyring | 0.60% | ~4,360 |
-| Go, Bobcats! | 0.60% | ~4,360 |
-| Rising Star | 0.60% | ~4,360 |
+| Not Even My Final Form | 0.60% | ~4,361 |
+| Jumbo Keyring | 0.60% | ~4,361 |
+| Go, Bobcats! | 0.60% | ~4,361 |
+| Rising Star | 0.60% | ~4,361 |
 | On Safari | 0.50% | ~3,634 |
 | Smorgasbord | 0.50% | ~3,634 |
 | Internet Famous | 0.50% | ~3,634 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 528)
 | Gore Horse | 0.30% | ~2,180 |
 | Sharpest Tool in the Box | 0.30% | ~2,180 |
 | Top That, Tisha! | 0.30% | ~157 |
-| Survival Skills | 0.20% | ~1,453 |
+| Survival Skills | 0.20% | ~1,454 |
 | Lawn and Order | 0.20% | ~105 |
 | Donk! | 0.10% | ~727 |
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,718 (Ranked 21)  
+Progressed: 726,753 (Ranked 21)  
 Completed: 2,443 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 2,443 (0.34%) (Ranked 229)
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
-| 2023-11-27 | 726,718 | 2,443 |
+| 2023-11-27 | 726,753 | 2,443 |
 ## Awards
 Max (Great Boss Battles): 7,760  (Ranked 49)  
-Sum: 11,876 (Ranked 84)  
+Sum: 11,879 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -291,7 +291,7 @@ Diff (max vs sum): -35
 | This game has Quickly Understood Controls | 539 |
 | This game is Relaxing | 510 |
 | This game has Amazing Storytelling | 500 |
-| This game is Highly Recommended | 481 |
+| This game is Highly Recommended | 484 |
 | This game is Extremely Fun | 481 |
 | This game has Amazing Characters | 441 |
 ## Ratings History
@@ -517,4 +517,4 @@ Diff (max vs sum): -35
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
-| 2023-11-27 | 4.54 | 7,760 | 11,876 |
+| 2023-11-27 | 4.54 | 7,760 | 11,879 |

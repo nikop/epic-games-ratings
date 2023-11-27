@@ -6,9 +6,9 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -235,11 +235,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15686,
-  "EOS_Completed": 35,
-  "EOS_NewPlayers": 523,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Progressed": 15689,
+  "EOS_Completed": 36,
+  "EOS_NewPlayers": 526,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -12490,6 +12490,11 @@
       "Time": "2023-11-27T22:06:20.6875643+00:00",
       "NumProgressed": 15686,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-27T23:06:49.8899929+00:00",
+      "NumProgressed": 15689,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12534,7 +12539,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "14",
@@ -12558,7 +12563,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "17",
@@ -12622,7 +12627,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "24",
@@ -12646,7 +12651,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "27",
@@ -12726,7 +12731,7 @@
       "Name": "Data Recoverer",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "9",
@@ -12758,7 +12763,7 @@
       "Name": "Zen Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "34",
@@ -12781,13 +12786,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15686,
-      "Completed": 35
+      "Progressed": 15689,
+      "Completed": 36
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1640,
+      "Progressed": 1643,
       "Completed": 741
     }
   ],
@@ -12795,8 +12800,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:06:20.687564+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:06:49.8899925+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:59:27.2171877+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:06:20.6876658+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:59:41.6328606+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:06:49.8900897+00:00"
 }

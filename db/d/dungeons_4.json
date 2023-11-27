@@ -3,8 +3,8 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 477,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -1216,9 +1216,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 329
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1248,9 +1248,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 324
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -1264,9 +1264,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 281
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -1288,9 +1288,9 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 215
     },
     {
       "ID": "ach_main07storm_completed",
@@ -1639,8 +1639,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:06:15.1746636+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:06:43.5773499+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:59:35.5052676+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:06:15.17474+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:59:50.9432843+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:06:43.5773995+00:00"
 }

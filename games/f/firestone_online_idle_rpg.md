@@ -1,33 +1,33 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 980)  
+Rating: 4.04 (Ranked 990)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,573 |
-| World Map | 78.00% | ~2,158 |
-| Temple of Eternals | 57.00% | ~1,577 |
-| Prestigious | 53.00% | ~1,467 |
-| Fellowship Power | 42.00% | ~1,162 |
-| Guild Power | 24.00% | ~664 |
-| Prestigious x10 | 21.00% | ~581 |
+| Victor | 93.00% | ~2,577 |
+| World Map | 78.00% | ~2,161 |
+| Temple of Eternals | 57.00% | ~1,579 |
+| Prestigious | 53.00% | ~1,469 |
+| Fellowship Power | 42.00% | ~1,164 |
+| Guild Power | 24.00% | ~665 |
+| Prestigious x10 | 21.00% | ~582 |
 | The game is on | 19.00% | ~526 |
-| Exotic Merchant | 17.00% | ~470 |
+| Exotic Merchant | 17.00% | ~471 |
 | Dragon Clicker | 16.00% | ~443 |
 | Miner Clicker | 16.00% | ~443 |
-| Full Party | 15.00% | ~415 |
-| Inspection | 15.00% | ~415 |
-| Dragon Master | 14.00% | ~387 |
-| Enlightenment | 14.00% | ~387 |
-| Hero inspection | 14.00% | ~387 |
+| Full Party | 15.00% | ~416 |
+| Inspection | 15.00% | ~416 |
+| Dragon Master | 14.00% | ~388 |
+| Enlightenment | 14.00% | ~388 |
+| Hero inspection | 14.00% | ~388 |
 | Lieutenant | 13.00% | ~360 |
-| Milestone collector | 12.00% | ~332 |
-| Mysterious Rock | 12.00% | ~332 |
-| Natural Talent | 12.00% | ~332 |
-| Superior | 12.00% | ~332 |
-| The Unstoppable | 12.00% | ~332 |
-| Scientist | 11.00% | ~304 |
+| Milestone collector | 12.00% | ~333 |
+| Mysterious Rock | 12.00% | ~333 |
+| Natural Talent | 12.00% | ~333 |
+| Superior | 12.00% | ~333 |
+| The Unstoppable | 12.00% | ~333 |
+| Scientist | 11.00% | ~305 |
 | Doing My Part | 10.00% | ~277 |
 | Hunter | 10.00% | ~277 |
 | The power of Awakening | 10.00% | ~277 |
@@ -38,11 +38,11 @@ Rating: 4.06 (Ranked 980)
 | Moving Up The Ladder | 9.00% | ~249 |
 | Relic Of The Past | 9.00% | ~249 |
 | Scroll Master | 9.00% | ~249 |
-| Four Leaf Clover | 8.00% | ~221 |
-| Here We Go Again | 8.00% | ~221 |
-| Master Enchanter | 8.00% | ~221 |
-| The father of Dragons | 8.00% | ~221 |
-| Trader | 8.00% | ~221 |
+| Four Leaf Clover | 8.00% | ~222 |
+| Here We Go Again | 8.00% | ~222 |
+| Master Enchanter | 8.00% | ~222 |
+| The father of Dragons | 8.00% | ~222 |
+| Trader | 8.00% | ~222 |
 | Crystal Mining | 7.00% | ~194 |
 | Dragon Slayer | 7.00% | ~194 |
 | Enchanting skill | 7.00% | ~194 |
@@ -54,11 +54,11 @@ Rating: 4.06 (Ranked 980)
 | Sailor | 6.00% | ~166 |
 | The Alchemist | 6.00% | ~166 |
 | The Expeditioner | 6.00% | ~166 |
-| Active Member | 5.00% | ~138 |
-| Ancient Knowledge | 5.00% | ~138 |
-| Background Story | 5.00% | ~138 |
-| Legendary | 5.00% | ~138 |
-| Missions Dedication | 5.00% | ~138 |
+| Active Member | 5.00% | ~139 |
+| Ancient Knowledge | 5.00% | ~139 |
+| Background Story | 5.00% | ~139 |
+| Legendary | 5.00% | ~139 |
+| Missions Dedication | 5.00% | ~139 |
 | Arena Challenger | 4.00% | ~111 |
 | Ebony Jungle Liberator | 4.00% | ~111 |
 | Gear Enchanting | 3.00% | ~83 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 980)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,767 (Ranked 213)  
+Progressed: 2,771 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,16 +297,16 @@ Completed: 2 (0.07%) (Ranked 300)
 | 2023-11-24 | 2,644 | 2 |
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
-| 2023-11-27 | 2,767 | 2 |
+| 2023-11-27 | 2,771 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
-Sum: 111 (Ranked 443)  
-Diff (max vs sum): 45  
+Sum: 112 (Ranked 442)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 33 |
 | This game is Great for Quick Sessions | 30 |
-| This game has Diverse Characters | 24 |
+| This game has Diverse Characters | 25 |
 | This game has Playful Visuals | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -375,4 +375,4 @@ Diff (max vs sum): 45
 | 2023-11-23 | 4.12 | 33 | 110 |
 | 2023-11-25 | 4.07 | 33 | 110 |
 | 2023-11-26 | 4.06 | 33 | 110 |
-| 2023-11-27 | 4.06 | 33 | 111 |
+| 2023-11-27 | 4.06 | 33 | 112 |

@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,552 |
-| Basic in Bulk | 6.00% | ~8,552 |
-| Titan's First Steps | 6.00% | ~8,552 |
+| Sponsored by Argon | 6.00% | ~8,553 |
+| Basic in Bulk | 6.00% | ~8,553 |
+| Titan's First Steps | 6.00% | ~8,553 |
 | Tinkle of Coins | 5.00% | ~7,127 |
-| Disintermediation | 4.00% | ~5,701 |
-| It's Free Real Estate | 4.00% | ~5,701 |
-| Budding Merchant | 4.00% | ~5,701 |
-| Capitalism Ho! | 4.00% | ~5,701 |
+| Disintermediation | 4.00% | ~5,702 |
+| It's Free Real Estate | 4.00% | ~5,702 |
+| Budding Merchant | 4.00% | ~5,702 |
+| Capitalism Ho! | 4.00% | ~5,702 |
 | The Daily Grind | 3.00% | ~4,276 |
 | One Easy Payment | 3.00% | ~4,276 |
 | Some Assembly Required | 3.00% | ~4,276 |
@@ -34,6 +34,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 2.00% | ~2,851 |
 | Demand for Supplies | 2.00% | ~2,851 |
 | Flooding the Market | 2.00% | ~2,851 |
+| Flying off the Shelves | 2.00% | ~2,851 |
 | Where it Hurts | 2.00% | ~2,851 |
 | This Power Level...! | 2.00% | ~2,851 |
 | Power of Love | 2.00% | ~2,851 |
@@ -44,6 +45,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 2.00% | ~2,851 |
 | Gild-Gotten Goods | 2.00% | ~2,851 |
 | Royal Ransom | 2.00% | ~2,851 |
+| Mammonite | 2.00% | ~2,851 |
 | Helping Hand | 2.00% | ~2,851 |
 | Accomplished Merchant | 2.00% | ~2,851 |
 | Dungeon Imports | 2.00% | ~2,851 |
@@ -69,7 +71,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 1.00% | ~1,425 |
 | Locally Sourced | 1.00% | ~1,425 |
 | Fillin' the Bin | 1.00% | ~1,425 |
-| Flying off the Shelves | 1.00% | ~1,425 |
 | Industrial Evolution | 1.00% | ~1,425 |
 | Omae wa Mou Shindeiru | 1.00% | ~1,425 |
 | Master of Transmutation | 1.00% | ~1,425 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 1.00% | ~1,425 |
 | By Your Powers Combined... | 1.00% | ~1,425 |
 | A Legend is Born | 1.00% | ~1,425 |
-| Mammonite | 1.00% | ~1,425 |
 | Wealth Beyond Measure | 1.00% | ~1,425 |
 | Fat Cat Tag Team | 1.00% | ~1,425 |
 | Necromancer Queen | 1.00% | ~1,425 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,535 (Ranked 80)  
+Progressed: 142,546 (Ranked 80)  
 Completed: 278 (0.20%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 278 (0.20%) (Ranked 256)
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
-| 2023-11-27 | 142,535 | 278 |
+| 2023-11-27 | 142,546 | 278 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,609 (Ranked 50)  

@@ -4,7 +4,7 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.48,
+  "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:10.0879802+00:00",
@@ -162,6 +162,11 @@
       "Time": "2023-11-26T23:05:05.368831+00:00",
       "NumProgressed": 949,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-27T23:06:20.5929036+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -181,7 +186,7 @@
       "Name": "Botanical",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_fish_god_fed",
@@ -189,7 +194,7 @@
       "Name": "Fish Appreciation",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_giants_found",
@@ -197,7 +202,7 @@
       "Name": "Giants",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "achievement_got_rich",
@@ -221,7 +226,7 @@
       "Name": "Real Estate",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "achievement_lighthouse",
@@ -237,7 +242,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "achievement_ship_bought",
@@ -245,7 +250,7 @@
       "Name": "New Ride",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "achievement_ship_fueled",
@@ -268,7 +273,7 @@
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 14
     }
   ],
@@ -276,8 +281,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-11-27T22:05:54.8468346+00:00",
+  "LastChanged_Achievements": "2023-11-27T23:06:20.5929026+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.8404558+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:57:12.3292662+00:00",
-  "LastUpdate_Achievements": "2023-11-27T22:05:54.8468454+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:57:08.547349+00:00",
+  "LastUpdate_Achievements": "2023-11-27T23:06:20.592911+00:00"
 }

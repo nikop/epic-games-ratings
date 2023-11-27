@@ -1,24 +1,24 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.05 (Ranked 987)  
+Rating: 4.05 (Ranked 986)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 92.00% | ~285 |
-| Battlefields Have Memories | 88.00% | ~273 |
-| Enlisted | 85.00% | ~264 |
-| Maybe Engage a Little | 80.00% | ~248 |
-| No More Names | 70.00% | ~217 |
+| Unforeseen | 91.00% | ~283 |
+| Battlefields Have Memories | 87.00% | ~271 |
+| Enlisted | 84.00% | ~261 |
+| Maybe Engage a Little | 80.00% | ~249 |
+| No More Names | 69.00% | ~215 |
 | Initiate | 56.00% | ~174 |
-| Thrada-Kul | 53.00% | ~164 |
-| Gravity-Challenged Rocks | 44.00% | ~136 |
+| Thrada-Kul | 52.00% | ~162 |
+| Gravity-Challenged Rocks | 43.00% | ~134 |
 | Soldier | 36.00% | ~112 |
-| All the Major Food Groups | 35.00% | ~108 |
-| Beggars Would Ride | 32.00% | ~99 |
+| All the Major Food Groups | 35.00% | ~109 |
+| Beggars Would Ride | 32.00% | ~100 |
 | Socialite | 30.00% | ~93 |
 | Control is an Illusion | 29.00% | ~90 |
-| The Means to Save It | 25.00% | ~78 |
+| The Means to Save It | 24.00% | ~75 |
 | Resilience to Sin | 21.00% | ~65 |
 | A Familiar Nest | 21.00% | ~65 |
 | Periapt Alizarin | 21.00% | ~65 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 987)
 | Out of Time | 0.60% | ~2 |
 | Fowl Play | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310 (Ranked 351)  
+Progressed: 311 (Ranked 350)  
 Completed: 1 (0.32%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.32%) (Ranked 232)
 | 2023-11-24 | 300 | 1 |
 | 2023-11-25 | 302 | 1 |
 | 2023-11-26 | 307 | 1 |
-| 2023-11-27 | 310 | 1 |
+| 2023-11-27 | 311 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

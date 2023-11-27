@@ -7,8 +7,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 7.00% | ~1,087 |
-| Explorer | 6.00% | ~931 |
-| Settler | 6.00% | ~931 |
+| Explorer | 6.00% | ~932 |
+| Settler | 6.00% | ~932 |
 | Intrepid | 5.00% | ~776 |
 | Friendly Family | 5.00% | ~776 |
 | Able | 4.00% | ~621 |
@@ -274,6 +274,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Youth Prevails | 0.10% | ~16 |
 | Toppling the Giants | 0.10% | ~16 |
 | Rule of Pharaohs | 0.10% | ~16 |
+| The Eastern Empire | 0.10% | ~16 |
 | Knowledge of the Ancients | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
 | Learn By Playing 3 - Good | 0.10% | ~16 |
@@ -343,13 +344,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Hekau Khasut Slaves | 0.10% | ~16 |
 | Liberator | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
-| The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,524 (Ranked 152)  
+Progressed: 15,525 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 5 (0.03%) (Ranked 325)
 | 2023-11-24 | 15,467 | 5 |
 | 2023-11-25 | 15,489 | 5 |
 | 2023-11-26 | 15,514 | 5 |
-| 2023-11-27 | 15,524 | 5 |
+| 2023-11-27 | 15,525 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,879 (Ranked 218)  
