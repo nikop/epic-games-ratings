@@ -44,10 +44,10 @@
 | Behenian Hero | 8.00% | ~7 |
 | Can't touch this | 7.00% | ~6 |
 | Denying Destiny | 7.00% | ~6 |
+| Behenian Mastery | 7.00% | ~6 |
 | If I Had Failed... | 6.00% | ~5 |
 | Purification Avatar | 6.00% | ~5 |
 | The Abyssal Terror | 6.00% | ~5 |
-| Behenian Mastery | 6.00% | ~5 |
 | Aquarian Hero | 5.00% | ~4 |
 | Aquarian Mastery | 5.00% | ~4 |
 | Eridanian Hero | 5.00% | ~4 |
@@ -72,6 +72,7 @@
 | Gotta tinker'em all! | 1.00% | ~1 |
 | Plague Doctor | 1.00% | ~1 |
 | Pocket Astrarium | 1.00% | ~1 |
+| Six-Sided Mastery | 1.00% | ~1 |
 | This is Fine | 1.00% | ~1 |
 | Virtuous Warrior | 1.00% | ~1 |
 | Apian Mastery | 1.00% | ~1 |
@@ -98,7 +99,6 @@
 | Noctuan Champion | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
-| Six-Sided Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |

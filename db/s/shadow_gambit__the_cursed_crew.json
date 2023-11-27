@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 946,
+  "EOS_Progressed": 947,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.28,
+  "EOS_Completed_Percentage": 3.27,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3084,6 +3084,11 @@
       "Time": "2023-11-27T12:05:44.1623256+00:00",
       "NumProgressed": 946,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-27T13:12:37.3952685+00:00",
+      "NumProgressed": 947,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3104,7 +3109,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "_03_FinishAct1",
@@ -3112,7 +3117,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3128,7 +3133,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3136,7 +3141,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "_07_FinishAct3",
@@ -3152,7 +3157,7 @@
       "Name": "Swabbie",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "_09_Completion_20",
@@ -3176,7 +3181,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "_12_Completion_50",
@@ -3216,7 +3221,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3224,7 +3229,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3240,7 +3245,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3303,7 +3308,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 946,
+      "Progressed": 947,
       "Completed": 31
     }
   ],
@@ -3311,8 +3316,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-27T12:05:44.1623251+00:00",
+  "LastChanged_Achievements": "2023-11-27T13:12:37.3952679+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-27T12:01:56.3092341+00:00",
-  "LastUpdate_Achievements": "2023-11-27T12:05:44.1623507+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:08:18.6131006+00:00",
+  "LastUpdate_Achievements": "2023-11-27T13:12:37.395301+00:00"
 }

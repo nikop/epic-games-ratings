@@ -21,7 +21,7 @@ Rating: 4.69 (Ranked 233)
 | Lock, Stock, And Barrel | 48.00% | ~395 |
 | Back In The Saddle | 48.00% | ~395 |
 | No Man Is An Island | 48.00% | ~395 |
-| At Wits' End | 47.00% | ~386 |
+| At Wits' End | 48.00% | ~395 |
 | Fhtagn! | 46.00% | ~378 |
 | Up In Flames | 45.00% | ~370 |
 | Bookworm | 44.00% | ~362 |
@@ -29,7 +29,7 @@ Rating: 4.69 (Ranked 233)
 | Let Me Be Frank | 39.00% | ~321 |
 | No Stone Unturned | 38.00% | ~312 |
 | Brain Food | 36.00% | ~296 |
-| Read It And Weep | 22.00% | ~181 |
+| Read It And Weep | 23.00% | ~189 |
 | Curiosity Killed The Cat | 20.00% | ~164 |
 | Big Breakthrough | 13.00% | ~107 |
 | Reawakened | 4.00% | ~33 |

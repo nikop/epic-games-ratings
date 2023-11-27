@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,9 +37,9 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 1.00% | ~33 |
 | Tactical Sabotage | 1.00% | ~33 |
 | Fleetmaster | 0.90% | ~30 |
+| For the Machine God | 0.90% | ~30 |
 | Death Comes For All | 0.90% | ~30 |
 | Patron of Deimos | 0.80% | ~27 |
-| For the Machine God | 0.80% | ~27 |
 | Preservationist | 0.80% | ~27 |
 | Engine Kill | 0.80% | ~27 |
 | Harvest No More | 0.70% | ~23 |

@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,6 +12,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 0.50% | ~1,201 |
 | Nothing To Lose | 0.40% | ~961 |
 | Heavy Hitter | 0.40% | ~961 |
+| Delving Deeper | 0.40% | ~961 |
 | Getting A Glimpse | 0.40% | ~961 |
 | That Was Quick | 0.40% | ~961 |
 | Colorful Corpse | 0.40% | ~961 |
@@ -30,11 +31,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.40% | ~7 |
 | Ambitious Intent | 0.30% | ~721 |
 | Consecutive Curses | 0.30% | ~721 |
-| Delving Deeper | 0.30% | ~721 |
 | R.I.P | 0.30% | ~721 |
 | Dig Your Own Grave | 0.30% | ~721 |
 | Who To Trust? | 0.30% | ~721 |
 | Walk It Off | 0.30% | ~721 |
+| Just Chilling | 0.30% | ~721 |
 | Cold Hearted | 0.30% | ~721 |
 | I Am Overburdened | 0.30% | ~721 |
 | Save Our Souls | 0.30% | ~721 |
@@ -54,7 +55,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 0.20% | ~481 |
 | To The Death! | 0.20% | ~481 |
 | Well Prepared | 0.20% | ~481 |
-| Just Chilling | 0.20% | ~481 |
 | Berzerker | 0.20% | ~481 |
 | Don't Ignore Me! | 0.20% | ~481 |
 | All Consuming | 0.20% | ~481 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,293 (Ranked 62)  
+Progressed: 240,294 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 291 (0.12%) (Ranked 278)
 | 2023-11-24 | 240,173 | 290 |
 | 2023-11-25 | 240,224 | 291 |
 | 2023-11-26 | 240,273 | 291 |
-| 2023-11-27 | 240,293 | 291 |
+| 2023-11-27 | 240,294 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 131)  
 Sum: 13,228 (Ranked 78)  

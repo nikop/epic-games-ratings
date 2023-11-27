@@ -574,9 +574,9 @@
       "ID": "delusions",
       "SetID": "202dmm8",
       "Name": "Delusions",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -598,9 +598,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "just_like_me",
@@ -679,8 +679,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-27T12:09:38.5400439+00:00",
+  "LastChanged_Achievements": "2023-11-27T13:16:44.9960821+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.8439952+00:00",
-  "LastUpdate_Ratings": "2023-11-27T11:59:23.1482183+00:00",
-  "LastUpdate_Achievements": "2023-11-27T12:09:38.5400565+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:06:38.0639106+00:00",
+  "LastUpdate_Achievements": "2023-11-27T13:16:44.9960948+00:00"
 }

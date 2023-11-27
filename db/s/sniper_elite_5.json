@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -613,9 +613,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3942,
+  "EOS_Progressed": 3944,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8263,6 +8263,11 @@
       "Time": "2023-11-27T12:07:14.5648754+00:00",
       "NumProgressed": 3942,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-27T13:13:42.2280472+00:00",
+      "NumProgressed": 3944,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8314,7 +8319,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8354,7 +8359,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8402,7 +8407,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -8410,7 +8415,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8426,7 +8431,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8442,7 +8447,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8490,7 +8495,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8498,7 +8503,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8586,7 +8591,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8610,7 +8615,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8642,7 +8647,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8650,7 +8655,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8666,7 +8671,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8841,13 +8846,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3893,
+      "Progressed": 3895,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3942,
+      "Progressed": 3944,
       "Completed": 11
     }
   ],
@@ -8855,8 +8860,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-26T15:57:16.8224756+00:00",
-  "LastChanged_Achievements": "2023-11-27T12:07:14.564875+00:00",
+  "LastChanged_Achievements": "2023-11-27T13:13:42.2280469+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.6853838+00:00",
-  "LastUpdate_Ratings": "2023-11-27T11:57:58.3757394+00:00",
-  "LastUpdate_Achievements": "2023-11-27T12:07:14.5649619+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:05:39.6872566+00:00",
+  "LastUpdate_Achievements": "2023-11-27T13:13:42.2281215+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.45 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,813 |
-| Confirming Suspicions | 41.00% | ~1,616 |
+| Meeting Resistance | 46.00% | ~1,814 |
+| Confirming Suspicions | 41.00% | ~1,617 |
 | The Kraken Wakes | 37.00% | ~1,459 |
-| It's Starting to Crack | 34.00% | ~1,340 |
-| Change the Channel | 31.00% | ~1,222 |
+| It's Starting to Crack | 34.00% | ~1,341 |
+| Change the Channel | 31.00% | ~1,223 |
 | Lord of War | 30.00% | ~1,183 |
-| Taking it back | 29.00% | ~1,143 |
-| Resourceful | 27.00% | ~1,064 |
-| Target America | 27.00% | ~1,064 |
+| Taking it back | 29.00% | ~1,144 |
+| Resourceful | 27.00% | ~1,065 |
+| Target America | 27.00% | ~1,065 |
 | The Kraken Sleeps | 25.00% | ~986 |
 | Liberté | 23.00% | ~907 |
 | Organ Grinder | 23.00% | ~907 |
 | As Quiet as a Mouse | 23.00% | ~907 |
-| Sharpshooter | 22.00% | ~867 |
+| Sharpshooter | 22.00% | ~868 |
 | Gunslinger | 19.00% | ~749 |
 | Explosive Efficiency | 19.00% | ~749 |
 | Just a Flesh Wound | 17.00% | ~670 |
@@ -26,14 +26,14 @@ Rating: 4.45 (Ranked 663)
 | Climbing the Ladder | 16.00% | ~631 |
 | Close Quarters | 16.00% | ~631 |
 | Snake in the Grass | 16.00% | ~631 |
-| Skirmisher | 15.00% | ~591 |
-| Die Nussknacker Sweet! | 15.00% | ~591 |
-| Brains of the Operation | 15.00% | ~591 |
+| Skirmisher | 15.00% | ~592 |
+| Die Nussknacker Sweet! | 15.00% | ~592 |
+| Brains of the Operation | 15.00% | ~592 |
 | No Stone Unturned | 14.00% | ~552 |
 | Opposing Force | 14.00% | ~552 |
 | Fields of Glory | 14.00% | ~552 |
-| Enemy at the Gates | 13.00% | ~512 |
-| Set Europe Ablaze | 13.00% | ~512 |
+| Enemy at the Gates | 13.00% | ~513 |
+| Set Europe Ablaze | 13.00% | ~513 |
 | Precision Is Key | 10.00% | ~394 |
 | My Little Friend | 10.00% | ~394 |
 | Rigged to Blow | 9.00% | ~355 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 663)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,942 (Ranked 197)  
+Progressed: 3,944 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 11 (0.28%) (Ranked 242)
 | 2023-11-24 | 3,920 | 11 |
 | 2023-11-25 | 3,929 | 11 |
 | 2023-11-26 | 3,939 | 11 |
-| 2023-11-27 | 3,942 | 11 |
+| 2023-11-27 | 3,944 | 11 |
 ## Awards
 Max (Great for Beginners): 26  (Ranked 515)  
 Sum: 26 (Ranked 527)  

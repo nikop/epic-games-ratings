@@ -10,10 +10,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 6.00% | ~8,546 |
 | Titan's First Steps | 6.00% | ~8,546 |
 | Tinkle of Coins | 5.00% | ~7,122 |
-| Disintermediation | 4.00% | ~5,697 |
-| It's Free Real Estate | 4.00% | ~5,697 |
-| Budding Merchant | 4.00% | ~5,697 |
-| Capitalism Ho! | 4.00% | ~5,697 |
+| Disintermediation | 4.00% | ~5,698 |
+| It's Free Real Estate | 4.00% | ~5,698 |
+| Budding Merchant | 4.00% | ~5,698 |
+| Capitalism Ho! | 4.00% | ~5,698 |
 | The Daily Grind | 3.00% | ~4,273 |
 | One Easy Payment | 3.00% | ~4,273 |
 | Some Assembly Required | 3.00% | ~4,273 |
@@ -103,8 +103,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 1.00% | ~1,424 |
 | Thank You Tom Nook | 0.90% | ~1,282 |
 | Jackpot! | 0.90% | ~1,282 |
-| The Free Encyclopedia | 0.80% | ~1,139 |
-| Eternal Crusade | 0.80% | ~1,139 |
+| The Free Encyclopedia | 0.80% | ~1,140 |
+| Eternal Crusade | 0.80% | ~1,140 |
 | The Greatest Grind | 0.60% | ~855 |
 | All or Nothing! | 0.60% | ~855 |
 | Anything not Nailed Down | 0.50% | ~712 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~427 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,433 (Ranked 80)  
+Progressed: 142,440 (Ranked 80)  
 Completed: 278 (0.20%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 278 (0.20%) (Ranked 256)
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
-| 2023-11-27 | 142,433 | 278 |
+| 2023-11-27 | 142,440 | 278 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,608 (Ranked 50)  

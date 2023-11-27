@@ -1,66 +1,66 @@
 # Dying Light 2 Stay Human - Black Friday Edition
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human--black-friday-edition)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 35.00% | ~242,523 |
-| Into the Unknown | 33.00% | ~228,664 |
-| First Shot | 33.00% | ~228,664 |
-| Herzlich Wilkommen! | 31.00% | ~214,806 |
-| Good Night & Good Luck | 30.00% | ~207,877 |
-| Sancho Panza | 29.00% | ~200,947 |
-| Oh, So This Is How It Works! | 27.00% | ~187,089 |
-| Flag Burning | 25.00% | ~173,230 |
-| Under Pressure | 23.00% | ~159,372 |
-| Can't Touch This! | 23.00% | ~159,372 |
-| On the Trail of the Enemy | 22.00% | ~152,443 |
-| Light in the Darkness | 22.00% | ~152,443 |
-| It Wasn't That Hard, Was It? | 22.00% | ~152,443 |
-| Get Outta My House! | 21.00% | ~145,514 |
-| Night Hunter | 21.00% | ~145,514 |
-| Being All Social | 20.00% | ~138,584 |
-| After the Fall | 18.00% | ~124,726 |
-| We Will Be Heard! | 17.00% | ~117,797 |
-| Tunnel Entrance | 16.00% | ~110,868 |
-| Known Associate | 15.00% | ~103,938 |
-| Brush with Death | 15.00% | ~103,938 |
-| Debris and Ashes | 14.00% | ~97,009 |
-| Going Down | 14.00% | ~97,009 |
-| Family First | 14.00% | ~97,009 |
-| Your World, Your Rules | 13.00% | ~90,080 |
-| Death From Afar | 13.00% | ~90,080 |
-| Terminal Headache | 13.00% | ~90,080 |
-| Slowpoke! | 11.00% | ~76,221 |
-| Tickets, Please! | 7.00% | ~48,505 |
-| Parkour Master | 6.00% | ~41,575 |
-| Combat Master | 6.00% | ~41,575 |
-| Ban Hammer | 5.00% | ~34,646 |
-| Modder | 5.00% | ~34,646 |
-| Municipal Services | 4.00% | ~27,717 |
-| Don Quixote | 4.00% | ~27,717 |
-| Can't You Read the Signs? | 4.00% | ~27,717 |
-| Boot Licker | 4.00% | ~27,717 |
-| Tube Map | 3.00% | ~20,788 |
-| Tanning Salon | 3.00% | ~20,788 |
-| That's Teamwork! | 3.00% | ~20,788 |
-| Ironheart | 3.00% | ~20,788 |
-| You're Going Down! | 3.00% | ~20,788 |
-| Revenants | 2.00% | ~13,858 |
-| Who Wants To Be a... | 2.00% | ~13,858 |
-| Fit as a Fiddle | 2.00% | ~13,858 |
-| Find Anything Interesting? | 1.00% | ~6,929 |
-| Lightning Reflexes | 1.00% | ~6,929 |
-| Nemesis | 1.00% | ~3,384 |
-| Enter the Hall | 1.00% | ~3,384 |
-| Night of Terrors | 0.90% | ~3,045 |
-| A Friend in Need... | 0.80% | ~5,543 |
-| Man On a Mission | 0.80% | ~5,543 |
-| Get the Point? | 0.80% | ~5,543 |
-| My Friend, Ciro | 0.70% | ~2,369 |
-| Skullcrusher | 0.70% | ~2,369 |
+| You Never Forget Your First... | 35.00% | ~242,574 |
+| Into the Unknown | 33.00% | ~228,713 |
+| First Shot | 33.00% | ~228,713 |
+| Herzlich Wilkommen! | 31.00% | ~214,851 |
+| Good Night & Good Luck | 30.00% | ~207,921 |
+| Sancho Panza | 29.00% | ~200,990 |
+| Oh, So This Is How It Works! | 27.00% | ~187,129 |
+| Flag Burning | 25.00% | ~173,267 |
+| Under Pressure | 23.00% | ~159,406 |
+| Can't Touch This! | 23.00% | ~159,406 |
+| On the Trail of the Enemy | 22.00% | ~152,475 |
+| Light in the Darkness | 22.00% | ~152,475 |
+| It Wasn't That Hard, Was It? | 22.00% | ~152,475 |
+| Get Outta My House! | 21.00% | ~145,544 |
+| Night Hunter | 21.00% | ~145,544 |
+| Being All Social | 20.00% | ~138,614 |
+| After the Fall | 18.00% | ~124,752 |
+| We Will Be Heard! | 17.00% | ~117,822 |
+| Tunnel Entrance | 16.00% | ~110,891 |
+| Known Associate | 15.00% | ~103,960 |
+| Brush with Death | 15.00% | ~103,960 |
+| Debris and Ashes | 14.00% | ~97,030 |
+| Going Down | 14.00% | ~97,030 |
+| Family First | 14.00% | ~97,030 |
+| Your World, Your Rules | 13.00% | ~90,099 |
+| Death From Afar | 13.00% | ~90,099 |
+| Terminal Headache | 13.00% | ~90,099 |
+| Slowpoke! | 11.00% | ~76,238 |
+| Tickets, Please! | 7.00% | ~48,515 |
+| Parkour Master | 6.00% | ~41,584 |
+| Combat Master | 6.00% | ~41,584 |
+| Ban Hammer | 5.00% | ~34,653 |
+| Modder | 5.00% | ~34,653 |
+| Municipal Services | 4.00% | ~27,723 |
+| Don Quixote | 4.00% | ~27,723 |
+| Can't You Read the Signs? | 4.00% | ~27,723 |
+| Boot Licker | 4.00% | ~27,723 |
+| Tube Map | 3.00% | ~20,792 |
+| Tanning Salon | 3.00% | ~20,792 |
+| That's Teamwork! | 3.00% | ~20,792 |
+| Ironheart | 3.00% | ~20,792 |
+| You're Going Down! | 3.00% | ~20,792 |
+| Revenants | 2.00% | ~13,861 |
+| Who Wants To Be a... | 2.00% | ~13,861 |
+| Fit as a Fiddle | 2.00% | ~13,861 |
+| Find Anything Interesting? | 1.00% | ~6,931 |
+| Lightning Reflexes | 1.00% | ~6,931 |
+| Nemesis | 1.00% | ~3,385 |
+| Enter the Hall | 1.00% | ~3,385 |
+| Night of Terrors | 0.90% | ~3,047 |
+| A Friend in Need... | 0.80% | ~5,545 |
+| Man On a Mission | 0.80% | ~5,545 |
+| Get the Point? | 0.80% | ~5,545 |
+| My Friend, Ciro | 0.70% | ~2,370 |
+| Skullcrusher | 0.70% | ~2,370 |
 | Ultramarathon | 0.30% | ~2,079 |
 | Don't Look Up | 0.20% | ~1,386 |
 | The Madman of Villedor | 0.20% | ~677 |
@@ -69,10 +69,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Archivist | 0.10% | ~693 |
 | Audiophile | 0.10% | ~693 |
 | Street Art Aficionado | 0.10% | ~693 |
-| True Champion | 0.10% | ~338 |
-| Connoisseur | 0.10% | ~338 |
+| True Champion | 0.10% | ~339 |
+| Connoisseur | 0.10% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692,922 (Ranked 24)  
+Progressed: 693,069 (Ranked 24)  
 Completed: 68 (0.01%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 68 (0.01%) (Ranked 341)
 | 2023-11-24 | 684,228 | 68 |
 | 2023-11-25 | 688,157 | 68 |
 | 2023-11-26 | 691,796 | 68 |
-| 2023-11-27 | 692,922 | 68 |
+| 2023-11-27 | 693,069 | 68 |
 ## Awards
 Max (Character Customization): 10,275  (Ranked 39)  
 Sum: 26,204 (Ranked 52)  

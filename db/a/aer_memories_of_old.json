@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25025,
+  "EOS_Progressed": 25027,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -24144,6 +24144,11 @@
       "Time": "2023-11-27T12:06:19.4942053+00:00",
       "NumProgressed": 25025,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-11-27T13:13:03.0256803+00:00",
+      "NumProgressed": 25027,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 20,
@@ -24155,7 +24160,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4254
+      "UsersEstimate": 4255
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -24195,7 +24200,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -24251,7 +24256,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3253
+      "UsersEstimate": 3254
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -24273,9 +24278,9 @@
       "ID": "INTRO_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Light at the end of the tunnel",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 19019
+      "UsersEstimate": 19271
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24291,7 +24296,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3253
+      "UsersEstimate": 3254
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -24307,22 +24312,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4505
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25025,
+      "Progressed": 25027,
       "Completed": 478
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-11-27T12:06:19.4942047+00:00",
+  "LastChanged_Achievements": "2023-11-27T13:13:03.0256799+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-11-27T12:00:48.4592846+00:00",
-  "LastUpdate_Achievements": "2023-11-27T12:06:19.4943299+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:07:32.6107633+00:00",
+  "LastUpdate_Achievements": "2023-11-27T13:13:03.0258024+00:00"
 }

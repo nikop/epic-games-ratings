@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -320,9 +320,9 @@
       "ID": "DroppedHard",
       "SetID": "c8fdd59",
       "Name": "Dropped Hard",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "EnemySlain",
@@ -503,8 +503,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-11-27T12:10:17.2777348+00:00",
+  "LastChanged_Achievements": "2023-11-27T13:17:12.8463425+00:00",
   "LastUpdate_AppInfo": "2023-11-20T13:57:16.6876017+00:00",
-  "LastUpdate_Ratings": "2023-11-27T12:01:05.3578335+00:00",
-  "LastUpdate_Achievements": "2023-11-27T12:10:17.2777632+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:07:44.0560205+00:00",
+  "LastUpdate_Achievements": "2023-11-27T13:17:12.8463713+00:00"
 }

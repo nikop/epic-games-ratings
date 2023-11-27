@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 584,
+  "EOS_Progressed": 586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1323,6 +1323,11 @@
       "Time": "2023-11-27T11:09:19.0391463+00:00",
       "NumProgressed": 584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T13:17:08.7421831+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1375,7 +1380,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_15",
@@ -1399,7 +1404,7 @@
       "Name": "Your first time?",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_18",
@@ -1423,7 +1428,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_20",
@@ -1542,7 +1547,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 584,
+      "Progressed": 586,
       "Completed": 0
     }
   ],
@@ -1550,8 +1555,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-27T01:46:11.4647608+00:00",
-  "LastChanged_Achievements": "2023-11-27T12:10:11.898483+00:00",
+  "LastChanged_Achievements": "2023-11-27T13:17:08.7421826+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-27T11:59:53.8785972+00:00",
-  "LastUpdate_Achievements": "2023-11-27T12:10:11.8985066+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:06:57.6752188+00:00",
+  "LastUpdate_Achievements": "2023-11-27T13:17:08.7422042+00:00"
 }

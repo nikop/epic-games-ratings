@@ -2,13 +2,13 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14640,10 +14640,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 278414,
       "NumberOfAwardsMax": 64056
+    },
+    {
+      "Time": "2023-11-27T13:05:47.0151549+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 278422,
+      "NumberOfAwardsMax": 64056
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 278414,
+  "NumberOfAwards": 278422,
   "NumberOfAwardsMax": 64056,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14675,7 +14681,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 21825
+      "Count": 21833
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14731,8 +14737,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-11-27T08:57:41.2064133+00:00",
+  "LastChanged": "2023-11-27T13:05:47.0151548+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.1726015+00:00",
-  "LastUpdate_Ratings": "2023-11-27T11:58:09.2162403+00:00",
-  "LastUpdate_Achievements": "2023-11-27T12:07:51.8190517+00:00"
+  "LastUpdate_Ratings": "2023-11-27T13:05:47.0151553+00:00",
+  "LastUpdate_Achievements": "2023-11-27T13:14:08.776246+00:00"
 }
