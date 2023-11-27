@@ -321,9 +321,9 @@
       "ID": "GET_SOULSTONES",
       "SetID": "3c20ib3",
       "Name": "Make it rain",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GLOWBUG",
@@ -522,8 +522,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:03:17.5893776+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:03:13.4996057+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.672734+00:00",
-  "LastUpdate_Ratings": "2023-11-27T05:59:48.7607407+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:03:17.5893963+00:00"
+  "LastUpdate_Ratings": "2023-11-27T06:59:48.4648914+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:03:13.4996374+00:00"
 }

@@ -2699,9 +2699,9 @@
       "ID": "GSS_ACH_10_THROW_02",
       "SetID": "5fn8ia4",
       "Name": "Steady Hand!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 262
     },
     {
       "ID": "GSS_ACH_11_THROW_03",
@@ -2779,17 +2779,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 973
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 973
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -2811,9 +2811,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 1006
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -2859,9 +2859,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 907
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -3284,8 +3284,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-25T09:58:05.7161965+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:03:20.0056438+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:03:15.9412713+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-27T05:58:45.4324259+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:03:20.0057226+00:00"
+  "LastUpdate_Ratings": "2023-11-27T06:58:47.5558159+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:03:15.9413492+00:00"
 }

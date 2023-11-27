@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 939,
+  "EOS_Progressed": 940,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
@@ -3054,6 +3054,11 @@
       "Time": "2023-11-27T01:52:07.1468317+00:00",
       "NumProgressed": 939,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-27T07:04:23.0805745+00:00",
+      "NumProgressed": 940,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3074,7 +3079,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "_03_FinishAct1",
@@ -3088,9 +3093,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 320
     },
     {
       "ID": "_05_FinishAct2",
@@ -3114,7 +3119,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "_08_Completion_10",
@@ -3122,7 +3127,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "_09_Completion_20",
@@ -3208,9 +3213,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 150
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3273,7 +3278,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 939,
+      "Progressed": 940,
       "Completed": 31
     }
   ],
@@ -3281,8 +3286,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:04:29.8135437+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:04:23.0805741+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-27T05:59:59.7900278+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:04:29.8135749+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:00:00.1721448+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:04:23.0806021+00:00"
 }

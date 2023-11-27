@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -8183,10 +8183,10 @@
       "Count": 1233
     }
   ],
-  "EOS_Progressed": 847633,
-  "EOS_Completed": 208,
-  "EOS_NewPlayers": 4718,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 847645,
+  "EOS_Completed": 209,
+  "EOS_NewPlayers": 4710,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
@@ -30003,6 +30003,11 @@
       "Time": "2023-11-27T06:05:09.4612621+00:00",
       "NumProgressed": 847633,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-11-27T07:05:01.6683045+00:00",
+      "NumProgressed": 847645,
+      "NumCompleted": 209
     }
   ],
   "TotalAchievements": 75,
@@ -30014,7 +30019,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 211908
+      "UsersEstimate": 211911
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -30094,7 +30099,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 50858
+      "UsersEstimate": 50859
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -30110,7 +30115,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 50858
+      "UsersEstimate": 50859
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -30150,7 +30155,7 @@
       "Name": "Eureka!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     },
     {
       "ID": "ACHIEVEMENT_FOR_THE_REPUBLIC",
@@ -30166,7 +30171,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 33905
+      "UsersEstimate": 33906
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -30222,7 +30227,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 33905
+      "UsersEstimate": 33906
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -30310,7 +30315,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50858
+      "UsersEstimate": 50859
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -30334,7 +30339,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 33905
+      "UsersEstimate": 33906
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -30350,7 +30355,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50858
+      "UsersEstimate": 50859
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -30374,7 +30379,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 33905
+      "UsersEstimate": 33906
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -30438,7 +30443,7 @@
       "Name": "Safety Deposit Box",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     },
     {
       "ID": "ACHIEVEMENT_SIERRA_SOUVENIR_AFICIONADO",
@@ -30478,7 +30483,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 33905
+      "UsersEstimate": 33906
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -30486,7 +30491,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 50858
+      "UsersEstimate": 50859
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -30534,7 +30539,7 @@
       "Name": "Up and Comer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 33905
+      "UsersEstimate": 33906
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -30558,7 +30563,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 33905
+      "UsersEstimate": 33906
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -30613,22 +30618,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 847633,
+      "Progressed": 847645,
       "Completed": 252
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 847633,
-      "Completed": 208
+      "Progressed": 847645,
+      "Completed": 209
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-11-27T01:45:53.6283289+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:05:09.4612617+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:05:01.668304+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:14.6747134+00:00",
-  "LastUpdate_Ratings": "2023-11-27T05:58:19.0493482+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:05:09.4613938+00:00"
+  "LastUpdate_Ratings": "2023-11-27T06:58:22.843269+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:05:01.668459+00:00"
 }

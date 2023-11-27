@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,552 |
+| Whatever It Takes | 3.00% | ~1,553 |
 | Break A Leg | 2.00% | ~14,524 |
 | Hotel California | 2.00% | ~14,524 |
 | Welcome To Hell-A | 2.00% | ~14,524 |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 528)
 | Ooh, Shiny! | 0.90% | ~6,536 |
 | I Am the Resurrection | 0.90% | ~6,536 |
 | Making Your Mark | 0.80% | ~5,810 |
+| Humanity Distilled | 0.80% | ~5,810 |
 | Max Headroom | 0.80% | ~5,810 |
-| Humanity Distilled | 0.70% | ~5,083 |
-| Down with the Sickness | 0.70% | ~5,083 |
+| Down with the Sickness | 0.70% | ~5,084 |
 | Not Even My Final Form | 0.60% | ~4,357 |
 | Jumbo Keyring | 0.60% | ~4,357 |
 | Go, Bobcats! | 0.60% | ~4,357 |
@@ -52,12 +52,12 @@ Rating: 4.54 (Ranked 528)
 | Sharpest Tool in the Box | 0.30% | ~2,179 |
 | Top That, Tisha! | 0.30% | ~155 |
 | Survival Skills | 0.20% | ~1,452 |
-| Lawn and Order | 0.20% | ~103 |
+| Lawn and Order | 0.20% | ~104 |
 | Donk! | 0.10% | ~726 |
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,204 (Ranked 21)  
+Progressed: 726,216 (Ranked 21)  
 Completed: 2,443 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 2,443 (0.34%) (Ranked 229)
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
-| 2023-11-27 | 726,204 | 2,443 |
+| 2023-11-27 | 726,216 | 2,443 |
 ## Awards
 Max (Great Boss Battles): 7,760  (Ranked 49)  
 Sum: 11,864 (Ranked 84)  

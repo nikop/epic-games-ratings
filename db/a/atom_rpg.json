@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1318,
+  "EOS_Progressed": 1319,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3048,6 +3048,11 @@
       "Time": "2023-11-25T22:11:23.3467459+00:00",
       "NumProgressed": 1318,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T07:09:01.9706736+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3059,7 +3064,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -3115,7 +3120,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "EXPERT_1",
@@ -3147,7 +3152,7 @@
       "Name": "Grave Robber",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3155,7 +3160,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "INDY_1",
@@ -3211,7 +3216,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3243,7 +3248,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -3307,7 +3312,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "TRAVELER_1",
@@ -3331,7 +3336,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "WISHMASTER_1",
@@ -3346,15 +3351,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1318,
+      "Progressed": 1319,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:08:54.4945722+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:09:01.9706729+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.5946943+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:00:09.435856+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:08:54.4946247+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:00:09.9918556+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:09:01.9707076+00:00"
 }

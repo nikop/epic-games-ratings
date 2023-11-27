@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4369,
+  "EOS_Progressed": 4370,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7775,6 +7775,11 @@
       "Time": "2023-11-27T06:03:54.0461769+00:00",
       "NumProgressed": 4369,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-27T07:03:48.7366592+00:00",
+      "NumProgressed": 4370,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7786,7 +7791,7 @@
       "Name": "Start with a bang!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "Ach002",
@@ -7794,7 +7799,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "Ach003",
@@ -7962,7 +7967,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "Ach024",
@@ -8353,13 +8358,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4369,
+      "Progressed": 4370,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2890,
+      "Progressed": 2891,
       "Completed": 1930
     }
   ],
@@ -8367,8 +8372,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:03:54.0461765+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:03:48.7366589+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-27T05:59:52.0144299+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:03:54.0462704+00:00"
+  "LastUpdate_Ratings": "2023-11-27T06:59:52.3039239+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:03:48.7367358+00:00"
 }

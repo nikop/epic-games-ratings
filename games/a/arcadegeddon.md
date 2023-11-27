@@ -6,23 +6,23 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,483 |
-| Photogenic | 84.00% | ~8,191 |
-| Surge Gauntlet Jockey | 81.00% | ~7,898 |
-| Plug It In | 80.00% | ~7,801 |
-| Adventure Time | 76.00% | ~7,411 |
+| Let's Get This Party Started | 87.00% | ~8,484 |
+| Photogenic | 84.00% | ~8,192 |
+| Surge Gauntlet Jockey | 81.00% | ~7,899 |
+| Plug It In | 80.00% | ~7,802 |
+| Adventure Time | 76.00% | ~7,412 |
 | Playing With Power | 74.00% | ~7,216 |
 | Coup d'Etat | 56.00% | ~5,461 |
-| You're Fired | 55.00% | ~5,363 |
+| You're Fired | 55.00% | ~5,364 |
 | Get Furious | 54.00% | ~5,266 |
-| Hacks In Stacks | 53.00% | ~5,168 |
+| Hacks In Stacks | 53.00% | ~5,169 |
 | Gunplay And Cosplay | 52.00% | ~5,071 |
 | Meching Enemies | 47.00% | ~4,583 |
 | Ticket Toddler | 43.00% | ~4,193 |
 | Booty Bashing | 37.00% | ~3,608 |
 | Field Medic | 37.00% | ~3,608 |
-| Here Comes a New Challenger | 36.00% | ~3,510 |
-| Rapid Response | 32.00% | ~3,120 |
+| Here Comes a New Challenger | 36.00% | ~3,511 |
+| Rapid Response | 32.00% | ~3,121 |
 | Surge Ahead | 29.00% | ~2,828 |
 | The Full Monty | 29.00% | ~2,828 |
 | Guardian Angel | 27.00% | ~2,633 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~39 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,751 (Ranked 165)  
+Progressed: 9,752 (Ranked 165)  
 Completed: 2 (0.02%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,14 +278,14 @@ Completed: 2 (0.02%) (Ranked 332)
 | 2023-11-24 | 9,714 | 1 |
 | 2023-11-25 | 9,726 | 2 |
 | 2023-11-26 | 9,746 | 2 |
-| 2023-11-27 | 9,751 | 2 |
+| 2023-11-27 | 9,752 | 2 |
 ## Awards
-Max (Relaxing): 64  (Ranked 411)  
-Sum: 463 (Ranked 332)  
+Max (Great for Beginners): 65  (Ranked 411)  
+Sum: 464 (Ranked 332)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 64 |
+| This game is Great for Beginners | 65 |
 | This game is Relaxing | 64 |
 | This game has Quickly Understood Controls | 62 |
 | This game has Diverse Characters | 60 |
@@ -384,3 +384,4 @@ Diff (max vs sum): 79
 | 2023-08-26 | 4.49 | - | 64 | 461 |
 | 2023-09-06 | 4.49 | - | 64 | 462 |
 | 2023-10-11 | 4.49 | - | 64 | 463 |
+| 2023-11-27 | 4.49 | - | 65 | 464 |

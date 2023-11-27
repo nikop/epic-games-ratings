@@ -4741,10 +4741,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5986,
       "NumberOfAwardsMax": 2455
+    },
+    {
+      "Time": "2023-11-27T07:02:58.8811771+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5991,
+      "NumberOfAwardsMax": 2455
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5986,
+  "NumberOfAwards": 5991,
   "NumberOfAwardsMax": 2455,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4788,7 +4794,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 363
+      "Count": 368
     },
     {
       "Text": "This game has a Creative Community",
@@ -4815,9 +4821,9 @@
       "Count": 366
     }
   ],
-  "EOS_Progressed": 229158,
+  "EOS_Progressed": 229179,
   "EOS_Completed": 536,
-  "EOS_NewPlayers": 4922,
+  "EOS_NewPlayers": 4920,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20125,6 +20131,11 @@
       "Time": "2023-11-27T06:08:25.3317985+00:00",
       "NumProgressed": 229158,
       "NumCompleted": 536
+    },
+    {
+      "Time": "2023-11-27T07:08:33.4179656+00:00",
+      "NumProgressed": 229179,
+      "NumCompleted": 536
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20137,7 +20148,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -20257,7 +20268,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -20289,7 +20300,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "Meet_Meidra",
@@ -20576,22 +20587,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229158,
+      "Progressed": 229179,
       "Completed": 536
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8323,
+      "Progressed": 8344,
       "Completed": 163
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-27T06:03:04.0824526+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:08:25.3317983+00:00",
+  "LastChanged": "2023-11-27T07:02:58.8811769+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:08:33.4179653+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:03:04.082453+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:08:25.3318911+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:02:58.8811775+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:08:33.4180544+00:00"
 }

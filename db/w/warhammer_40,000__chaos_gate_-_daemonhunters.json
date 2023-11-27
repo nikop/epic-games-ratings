@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -765,9 +765,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3325,
+  "EOS_Progressed": 3326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3965,6 +3965,11 @@
       "Time": "2023-11-26T15:04:52.6131657+00:00",
       "NumProgressed": 3325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T07:05:13.6760834+00:00",
+      "NumProgressed": 3326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3990,9 +3995,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 266
     },
     {
       "ID": "BloodAndIron",
@@ -4136,7 +4141,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Kills_Auto",
@@ -4160,7 +4165,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Kills_Executioner",
@@ -4304,7 +4309,7 @@
       "Name": "Efficient Killer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -4336,7 +4341,7 @@
       "Name": "Just a Scratch",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "NexusCompleted",
@@ -4512,28 +4517,28 @@
       "Name": "Hive Exterminator",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3325,
+      "Progressed": 3326,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3325,
+      "Progressed": 3326,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-11-27T02:25:17.2504354+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:05:21.6401721+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:05:13.6760829+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:37.9656005+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:00:25.4037639+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:05:21.6402394+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:02:33.9015559+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:05:13.6761569+00:00"
 }

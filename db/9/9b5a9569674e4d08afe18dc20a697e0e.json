@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -445,9 +445,9 @@
       "ID": "CHAIR",
       "SetID": "40o4f14",
       "Name": "A nice view",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CRASHING",
@@ -645,9 +645,9 @@
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "WASHING",
@@ -684,8 +684,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:04:25.1299347+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:04:18.5424938+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-27T05:57:13.5349296+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:04:25.1299508+00:00"
+  "LastUpdate_Ratings": "2023-11-27T06:57:20.1898747+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:04:18.5425123+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -662,6 +662,11 @@
       "Time": "2023-11-27T06:06:55.4878731+00:00",
       "NumProgressed": 308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T07:08:24.6585589+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -738,15 +743,15 @@
       "Name": "Perfect Run",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -754,15 +759,15 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -770,15 +775,15 @@
       "Name": "Celestial Rain",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 256
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -802,7 +807,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GET_FISH_ALL",
@@ -824,9 +829,9 @@
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -866,7 +871,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -986,21 +991,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:06:55.4878728+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:08:24.6585585+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-27T05:59:55.7691841+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:06:55.487895+00:00"
+  "LastUpdate_Ratings": "2023-11-27T06:59:56.6094917+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:08:24.6585818+00:00"
 }

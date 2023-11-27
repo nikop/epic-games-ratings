@@ -4,7 +4,7 @@
   "ProductSlug": "sable",
   "Ranking_Rating": 541,
   "Ranking_Popularity": 521,
-  "Ranking_PopularitySum": 451,
+  "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 74,
@@ -509,10 +509,10 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 101142,
-  "EOS_Completed": 1023,
-  "EOS_NewPlayers": 1170,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 101144,
+  "EOS_Completed": 1024,
+  "EOS_NewPlayers": 1169,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
@@ -25729,6 +25729,11 @@
       "Time": "2023-11-27T06:08:52.5286358+00:00",
       "NumProgressed": 101142,
       "NumCompleted": 1023
+    },
+    {
+      "Time": "2023-11-27T07:09:00.0387148+00:00",
+      "NumProgressed": 101144,
+      "NumCompleted": 1024
     }
   ],
   "TotalAchievements": 56,
@@ -25740,7 +25745,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 33377
+      "UsersEstimate": 33378
     },
     {
       "ID": "ach_001_game_complete",
@@ -25820,7 +25825,7 @@
       "Name": "The Scrapper Mask",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8091
+      "UsersEstimate": 8092
     },
     {
       "ID": "ach_011_merchants_mask",
@@ -25884,7 +25889,7 @@
       "Name": "Shadow Of Neave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8091
+      "UsersEstimate": 8092
     },
     {
       "ID": "ach_019_door_rowleys_way",
@@ -25916,7 +25921,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 15171
+      "UsersEstimate": 15172
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -25932,7 +25937,7 @@
       "Name": "Fragile Goods",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8091
+      "UsersEstimate": 8092
     },
     {
       "ID": "ach_025_solve_the_watch",
@@ -25964,7 +25969,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13148
+      "UsersEstimate": 13149
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -25972,7 +25977,7 @@
       "Name": "Glider on the Storm",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8091
+      "UsersEstimate": 8092
     },
     {
       "ID": "ach_030_collect_glowworm",
@@ -25996,7 +26001,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 24274
+      "UsersEstimate": 24275
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -26004,7 +26009,7 @@
       "Name": "Squeeze One Out",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8091
+      "UsersEstimate": 8092
     },
     {
       "ID": "ach_034_collect_orange_ringed_beetle",
@@ -26052,7 +26057,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 34388
+      "UsersEstimate": 34389
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -26068,7 +26073,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 24274
+      "UsersEstimate": 24275
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -26100,7 +26105,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 13148
+      "UsersEstimate": 13149
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -26116,7 +26121,7 @@
       "Name": "Dune Rider",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8091
+      "UsersEstimate": 8092
     },
     {
       "ID": "ach_048_glide_long_distance",
@@ -26140,7 +26145,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 22251
+      "UsersEstimate": 22252
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -26156,7 +26161,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13148
+      "UsersEstimate": 13149
     },
     {
       "ID": "ach_053_angler_mask",
@@ -26187,15 +26192,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 101142,
-      "Completed": 1023
+      "Progressed": 101144,
+      "Completed": 1024
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-11-23T17:58:18.7561537+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:08:52.5286356+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:09:00.0387144+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:12.9898742+00:00",
-  "LastUpdate_Ratings": "2023-11-27T05:59:52.9406035+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:08:52.5287781+00:00"
+  "LastUpdate_Ratings": "2023-11-27T06:59:53.1466216+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:09:00.0388336+00:00"
 }

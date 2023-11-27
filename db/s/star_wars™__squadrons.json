@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24165,
+  "EOS_Progressed": 24167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2561,
+  "EOS_NewPlayers": 2555,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8074,6 +8074,11 @@
       "Time": "2023-11-27T06:09:13.1127352+00:00",
       "NumProgressed": 24165,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T07:09:19.9714351+00:00",
+      "NumProgressed": 24167,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -8110,7 +8115,7 @@
       "Name": "Victory for the New Republic",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_13",
@@ -8118,7 +8123,7 @@
       "Name": "Victory for the Empire",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_14",
@@ -8126,7 +8131,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_15",
@@ -8158,7 +8163,7 @@
       "Name": "Stay on Target",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_19",
@@ -8270,7 +8275,7 @@
       "Name": "Across the Stars",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_31",
@@ -8294,7 +8299,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4591
+      "UsersEstimate": 4592
     },
     {
       "ID": "achievement_34",
@@ -8310,7 +8315,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 22957
+      "UsersEstimate": 22959
     },
     {
       "ID": "achievement_36",
@@ -8326,7 +8331,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "achievement_38",
@@ -8374,7 +8379,7 @@
       "Name": "Against the Current",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_43",
@@ -8430,7 +8435,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "achievement_7",
@@ -8461,7 +8466,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 24165,
+      "Progressed": 24167,
       "Completed": 1
     }
   ],
@@ -8469,8 +8474,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-27T06:09:13.1127349+00:00",
+  "LastChanged_Achievements": "2023-11-27T07:09:19.9714347+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:13.346216+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:03:00.1427728+00:00",
-  "LastUpdate_Achievements": "2023-11-27T06:09:13.112795+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:02:54.753298+00:00",
+  "LastUpdate_Achievements": "2023-11-27T07:09:19.9714887+00:00"
 }
