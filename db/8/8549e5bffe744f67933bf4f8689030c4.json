@@ -277,9 +277,9 @@
       "ID": "ClearStage50",
       "SetID": "59jf8f5",
       "Name": "Cleared 50 Stages!",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ClearStageAll",
@@ -349,9 +349,9 @@
       "ID": "DropEnemiesIntoMagmaWithBiolante",
       "SetID": "59jf8f5",
       "Name": "Touch of Death",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EditStageFirst",
@@ -660,8 +660,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:04:34.6928987+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:03:47.5506456+00:00",
   "LastUpdate_AppInfo": "2023-11-21T04:57:14.1198184+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:00:16.6510844+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:04:34.6929473+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:59:10.4887768+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:03:47.5506901+00:00"
 }

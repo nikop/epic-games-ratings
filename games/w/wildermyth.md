@@ -19,8 +19,8 @@ Number of Ratings: 45  (23.09.2022)
 | Core Failure | 2.00% | ~30 |
 | A Mythic Menagerie | 1.00% | ~15 |
 | Who's Counting? | 1.00% | ~15 |
+| Echoes Die | 1.00% | ~15 |
 | Let Me Get My Chisel | 0.90% | ~13 |
-| Echoes Die | 0.90% | ~13 |
 | Thematic Divergence | 0.70% | ~10 |
 | Pyrrhic Victory | 0.70% | ~10 |
 | Turncoat | 0.70% | ~10 |
@@ -44,6 +44,7 @@ Number of Ratings: 45  (23.09.2022)
 | Wingknight's Prowess | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
+| Tempest | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
 | Overwhelming Monstrosity | 0.10% | ~1 |
 | Worldwalker | 0.10% | ~1 |
@@ -53,7 +54,6 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 0.10% | ~1 |
 | War-Ender | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |
-| Tempest | 0.10% | ~1 |
 | Drauvenslayers | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Fight Like a Bird | 0.00% | ~0 |

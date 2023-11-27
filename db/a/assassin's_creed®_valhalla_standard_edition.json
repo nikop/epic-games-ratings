@@ -2,12 +2,12 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 415,
+  "Ranking_Rating": 414,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
@@ -12505,18 +12505,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 36277,
       "NumberOfAwardsMax": 14999
+    },
+    {
+      "Time": "2023-11-27T16:57:16.8009287+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 36301,
+      "NumberOfAwardsMax": 15019
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36277,
-  "NumberOfAwardsMax": 14999,
+  "NumberOfAwards": 36301,
+  "NumberOfAwardsMax": 15019,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 14999
+      "Count": 15019
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12546,7 +12552,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1350
+      "Count": 1354
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12596,8 +12602,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-11-27T15:57:37.2873271+00:00",
+  "LastChanged": "2023-11-27T16:57:16.8009285+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:34.9937248+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:57:37.287328+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:07:00.912024+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:57:16.8009292+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:05:35.8191555+00:00"
 }

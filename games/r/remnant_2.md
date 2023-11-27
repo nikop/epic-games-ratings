@@ -5,9 +5,9 @@ Rating: 4.75 (Ranked 147)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.60% | ~1,376 |
-| Regicide | 0.60% | ~51 |
-| Master of the Dark Arts | 0.60% | ~51 |
+| The Killing Jar | 0.60% | ~1,377 |
+| Regicide | 0.60% | ~52 |
+| Master of the Dark Arts | 0.60% | ~52 |
 | First of Many | 0.50% | ~1,147 |
 | Not Your Average Trait | 0.40% | ~918 |
 | Expanding Horizons | 0.30% | ~688 |
@@ -30,6 +30,7 @@ Rating: 4.75 (Ranked 147)
 | Top Performer | 0.20% | ~459 |
 | Shhh...It's a Secret | 0.20% | ~459 |
 | Was This Supposed To Happen? | 0.20% | ~459 |
+| Strapped | 0.20% | ~459 |
 | Edgelord | 0.20% | ~459 |
 | Scrap Collector | 0.20% | ~459 |
 | Scrap Hoarder | 0.20% | ~459 |
@@ -47,7 +48,6 @@ Rating: 4.75 (Ranked 147)
 | The Agenda | 0.10% | ~229 |
 | Tall Tales | 0.10% | ~229 |
 | Bad Moon Rising | 0.10% | ~229 |
-| Strapped | 0.10% | ~229 |
 | The Trigger | 0.10% | ~229 |
 | Cutting Edge | 0.10% | ~229 |
 | The Web | 0.10% | ~229 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | Transmutate | 0.10% | ~229 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,412 (Ranked 68)  
+Progressed: 229,440 (Ranked 68)  
 Completed: 538 (0.23%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 538 (0.23%) (Ranked 249)
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
-| 2023-11-27 | 229,412 | 538 |
+| 2023-11-27 | 229,440 | 538 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
 Sum: 6,028 (Ranked 129)  

@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4388,
+  "EOS_Progressed": 4389,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7810,6 +7810,11 @@
       "Time": "2023-11-27T16:04:48.0084558+00:00",
       "NumProgressed": 4388,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-27T17:03:57.217379+00:00",
+      "NumProgressed": 4389,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7851,9 +7856,9 @@
       "ID": "Ach005",
       "SetID": "12n4k20",
       "Name": "Headliner",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 351
     },
     {
       "ID": "Ach006",
@@ -8061,7 +8066,7 @@
       "Name": "Perfect Parry",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Ach032",
@@ -8093,7 +8098,7 @@
       "Name": "OK, well THEY came after ME!",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Ach036",
@@ -8197,7 +8202,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Ach049",
@@ -8388,13 +8393,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4388,
+      "Progressed": 4389,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2909,
+      "Progressed": 2910,
       "Completed": 1930
     }
   ],
@@ -8402,8 +8407,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:04:48.0084554+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:03:57.2173786+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:01:28.458781+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:04:48.008537+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:00:00.0605038+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:03:57.2174834+00:00"
 }

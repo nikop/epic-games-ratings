@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10324,
+  "EOS_Progressed": 10325,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1904,6 +1904,11 @@
       "Time": "2023-11-27T07:03:32.2338344+00:00",
       "NumProgressed": 10324,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-27T17:03:39.7981774+00:00",
+      "NumProgressed": 10325,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1939,7 +1944,7 @@
       "Name": "autopilot",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1947,7 +1952,7 @@
       "Name": "parking lot",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_BICYCLE",
@@ -1979,7 +1984,7 @@
       "Name": "oktoberfest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_COLLECTIBLES_JAPAN",
@@ -2027,7 +2032,7 @@
       "Name": "rwd only",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -2051,7 +2056,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -2075,7 +2080,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8053
+      "UsersEstimate": 8054
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2091,7 +2096,7 @@
       "Name": "in like a lamb, out like a lion",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_FIVE_HUNDRED_KM",
@@ -2131,7 +2136,7 @@
       "Name": "if in doubt, flat out!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_MAX_SPEED_LIGHT",
@@ -2139,7 +2144,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9911
+      "UsersEstimate": 9912
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2155,7 +2160,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6194
+      "UsersEstimate": 6195
     },
     {
       "ID": "ACH_NIGHT",
@@ -2163,7 +2168,7 @@
       "Name": "night ride",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -2171,7 +2176,7 @@
       "Name": "the artist",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "ACH_RAIN",
@@ -2179,7 +2184,7 @@
       "Name": "snorkel",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "ACH_ROLL",
@@ -2187,7 +2192,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -2235,7 +2240,7 @@
       "Name": "food tour: pasta",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "ACH_WEEKLY",
@@ -2251,22 +2256,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7433
+      "UsersEstimate": 7434
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10324,
+      "Progressed": 10325,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:04:24.4894195+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:03:39.7981769+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:05.4868696+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:58:56.2995256+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:04:24.4894492+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:58:13.3342934+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:03:39.7982179+00:00"
 }

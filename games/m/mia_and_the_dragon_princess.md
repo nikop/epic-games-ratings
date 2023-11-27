@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Glass Act | 40.00% | ~35 |
 | Relight my Cannon | 40.00% | ~35 |
-| Tour Guide Extraordinaire | 36.00% | ~32 |
+| Tour Guide Extraordinaire | 38.00% | ~33 |
+| Explosive End | 25.00% | ~22 |
 | Snitch | 25.00% | ~22 |
-| Explosive End | 24.00% | ~21 |
 | Puzzle Prodigy | 24.00% | ~21 |
-| A Box of Tricks | 22.00% | ~19 |
+| A Box of Tricks | 23.00% | ~20 |
 | Finger-Lickin' Bad | 19.00% | ~17 |
+| Bathroom Brawler | 18.00% | ~16 |
 | Codebreaker | 18.00% | ~16 |
 | Set Sail | 18.00% | ~16 |
-| Bathroom Brawler | 17.00% | ~15 |
 | Breathless End | 17.00% | ~15 |
 | Flying High | 17.00% | ~15 |
 | Backstory Buff | 16.00% | ~14 |

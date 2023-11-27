@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236282,
+  "EOS_Progressed": 236283,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23587,6 +23587,11 @@
       "Time": "2023-11-27T16:07:01.5694266+00:00",
       "NumProgressed": 236282,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-27T17:05:36.5731017+00:00",
+      "NumProgressed": 236283,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23686,7 +23691,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47256
+      "UsersEstimate": 47257
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -23869,15 +23874,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236282,
+      "Progressed": 236283,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:07:01.5694261+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:05:36.5731013+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:58:00.1739646+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:07:01.5695567+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:57:32.9573571+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:05:36.5733014+00:00"
 }

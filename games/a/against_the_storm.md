@@ -9,11 +9,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 0.20% | ~35 |
 | Overgrown Library | 0.20% | ~35 |
 | Petrified Necropolis | 0.20% | ~35 |
+| Gathering Storm | 0.20% | ~35 |
 | Homesick | 0.10% | ~18 |
 | First Real Expedition | 0.10% | ~18 |
 | Against All Odds | 0.10% | ~18 |
 | Fertile Meadows | 0.10% | ~18 |
 | Levitating Monument | 0.10% | ~18 |
+| Royal Outpost | 0.10% | ~18 |
 | Statue of the Forefathers | 0.10% | ~18 |
 | Corrosive Torrent | 0.10% | ~18 |
 | Watchtower | 0.10% | ~18 |
@@ -21,11 +23,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | A Real Challenge | 0.10% | ~18 |
+| Taking Action | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Frosts | 0.10% | ~18 |
 | Land of Greed | 0.10% | ~18 |
 | Ominous Presence | 0.10% | ~18 |
-| Gathering Storm | 0.10% | ~18 |
 | Untamed Wilds | 0.10% | ~18 |
 | Fox Utopia | 0.10% | ~18 |
 | Serving Ale | 0.00% | ~0 |
@@ -50,7 +52,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.00% | ~0 |
 | Flooded Mines | 0.00% | ~0 |
 | Monastery of the Holy Flame | 0.00% | ~0 |
-| Royal Outpost | 0.00% | ~0 |
 | Lost Colonies | 0.00% | ~0 |
 | Forsaken Gods Temple | 0.00% | ~0 |
 | Cursed Lands | 0.00% | ~0 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 | Blood Flower Farmer | 0.00% | ~0 |
-| Taking Action | 0.00% | ~0 |
 | Victory Through Prosperity | 0.00% | ~0 |
 | Ruins | 0.00% | ~0 |
 | Like a Machine | 0.00% | ~0 |

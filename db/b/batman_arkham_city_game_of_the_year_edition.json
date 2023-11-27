@@ -4,10 +4,10 @@
   "ProductSlug": "batman-arkham-city",
   "Ranking_Rating": 96,
   "Ranking_Popularity": 127,
-  "Ranking_PopularitySum": 209,
+  "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2012-09-07T15:00:00+00:00",
@@ -2056,10 +2056,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 2145,
       "NumberOfAwardsMax": 1578
+    },
+    {
+      "Time": "2023-11-27T16:58:47.4609483+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2146,
+      "NumberOfAwardsMax": 1578
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2145,
+  "NumberOfAwards": 2146,
   "NumberOfAwardsMax": 1578,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2109,7 +2115,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2129,8 +2135,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2023-11-26T16:58:23.5414751+00:00",
+  "LastChanged": "2023-11-27T16:58:47.4609481+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.7068448+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:59:44.619119+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:08:55.1815018+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:58:47.4609485+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:08:05.5426103+00:00"
 }

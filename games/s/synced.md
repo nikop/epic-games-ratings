@@ -1,7 +1,7 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.16 (Ranked 940)  
+Rating: 4.16 (Ranked 941)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.16 (Ranked 940)
 | Float Like a Butterfly... | 8.00% | ~5,409 |
 | Nano Connoisseur | 6.00% | ~4,057 |
 | In Two Places At Once | 6.00% | ~4,057 |
-| Pulling Your Weight | 3.00% | ~2,028 |
-| Reaping Rivals | 3.00% | ~2,028 |
+| Pulling Your Weight | 3.00% | ~2,029 |
+| Reaping Rivals | 3.00% | ~2,029 |
 | fifteenth Time's the Charm | 1.00% | ~676 |
 | More Power to You | 1.00% | ~676 |
 | Memory Keeper | 0.40% | ~270 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 940)
 | Gone Rogue | 0.30% | ~203 |
 | Runs for Your Money | 0.30% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,616 (Ranked 102)  
+Progressed: 67,618 (Ranked 102)  
 Completed: 36 (0.05%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 36 (0.05%) (Ranked 312)
 | 2023-11-24 | 67,407 | 36 |
 | 2023-11-25 | 67,494 | 36 |
 | 2023-11-26 | 67,579 | 36 |
-| 2023-11-27 | 67,616 | 36 |
+| 2023-11-27 | 67,618 | 36 |
 ## Awards
 Max (Great for Beginners): 97  (Ranked 366)  
 Sum: 393 (Ranked 342)  

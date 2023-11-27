@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6907,10 +6907,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11873,
       "NumberOfAwardsMax": 7760
+    },
+    {
+      "Time": "2023-11-27T17:00:01.8699289+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11876,
+      "NumberOfAwardsMax": 7760
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11873,
+  "NumberOfAwards": 11876,
   "NumberOfAwardsMax": 7760,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6966,13 +6972,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 497
+      "Count": 500
     }
   ],
-  "EOS_Progressed": 726488,
+  "EOS_Progressed": 726518,
   "EOS_Completed": 2443,
   "EOS_NewPlayers": 5121,
-  "EOS_NewCompleters": 25,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32284,6 +32290,11 @@
       "Time": "2023-11-27T16:07:47.1139445+00:00",
       "NumProgressed": 726488,
       "NumCompleted": 2443
+    },
+    {
+      "Time": "2023-11-27T17:06:10.4987938+00:00",
+      "NumProgressed": 726518,
+      "NumCompleted": 2443
     }
   ],
   "TotalAchievements": 51,
@@ -32335,7 +32346,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "ach_blueprinted",
@@ -32343,7 +32354,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6538
+      "UsersEstimate": 6539
     },
     {
       "ID": "ach_bookworm",
@@ -32367,7 +32378,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "ach_defensive",
@@ -32399,7 +32410,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -32463,7 +32474,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ach_internet_famous",
@@ -32471,7 +32482,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "ach_investigator",
@@ -32479,7 +32490,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -32519,7 +32530,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "ach_metropolitan",
@@ -32543,7 +32554,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6538
+      "UsersEstimate": 6539
     },
     {
       "ID": "ach_salvation",
@@ -32551,7 +32562,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "ach_secrets_of_la",
@@ -32559,7 +32570,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "ach_skilled_up",
@@ -32623,7 +32634,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -32647,7 +32658,7 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ach_brink_of_success",
@@ -32663,7 +32674,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "ach_gardening_tools",
@@ -32702,22 +32713,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726488,
+      "Progressed": 726518,
       "Completed": 2443
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 52030,
+      "Progressed": 52060,
       "Completed": 36609
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-27T12:01:48.1365584+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:07:47.1139436+00:00",
+  "LastChanged": "2023-11-27T17:00:01.8699287+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:06:10.4987933+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:01:31.2497415+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:07:47.114147+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:00:01.8699298+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:06:10.4989996+00:00"
 }

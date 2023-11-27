@@ -1,29 +1,29 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 831)  
+Rating: 4.31 (Ranked 832)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~60,660 |
-| The Pyromancer | 86.00% | ~57,964 |
-| The Wastes | 83.00% | ~55,942 |
-| Waste Not | 80.00% | ~53,920 |
-| The Cryomancer | 76.00% | ~51,224 |
-| Stock Up | 75.00% | ~50,550 |
-| The Hydromancer | 73.00% | ~49,202 |
-| The Matriarch | 70.00% | ~47,180 |
-| The Aeromancer | 66.00% | ~44,484 |
-| The Huntsman | 65.00% | ~43,810 |
-| The Venomancer | 65.00% | ~43,810 |
-| Dawnlight Order | 64.00% | ~43,136 |
-| The Electromancer | 61.00% | ~41,114 |
-| The Terramancer | 59.00% | ~39,766 |
-| The Exalted | 57.00% | ~38,418 |
-| Blueheart Runners | 55.00% | ~37,070 |
-| Sheriff Inquisitors | 55.00% | ~37,070 |
-| The Necromancer | 52.00% | ~35,048 |
+| The Champion | 90.00% | ~60,661 |
+| The Pyromancer | 86.00% | ~57,965 |
+| The Wastes | 83.00% | ~55,943 |
+| Waste Not | 80.00% | ~53,921 |
+| The Cryomancer | 76.00% | ~51,225 |
+| Stock Up | 75.00% | ~50,551 |
+| The Hydromancer | 73.00% | ~49,203 |
+| The Matriarch | 70.00% | ~47,181 |
+| The Aeromancer | 66.00% | ~44,485 |
+| The Huntsman | 65.00% | ~43,811 |
+| The Venomancer | 65.00% | ~43,811 |
+| Dawnlight Order | 64.00% | ~43,137 |
+| The Electromancer | 61.00% | ~41,115 |
+| The Terramancer | 59.00% | ~39,767 |
+| The Exalted | 57.00% | ~38,419 |
+| Blueheart Runners | 55.00% | ~37,071 |
+| Sheriff Inquisitors | 55.00% | ~37,071 |
+| The Necromancer | 52.00% | ~35,049 |
 | The Swamp | 50.00% | ~33,700 |
 | The Fungalmancer | 47.00% | ~31,678 |
 | The Thaumamancer | 47.00% | ~31,678 |
@@ -60,8 +60,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Scholar | 10.00% | ~6,740 |
 | Top Shelf | 5.00% | ~3,370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,400 (Ranked 103)  
-Completed: 1,262 (1.87%) (Ranked 129)  
+Progressed: 67,401 (Ranked 103)  
+Completed: 1,263 (1.87%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,7 +281,7 @@ Completed: 1,262 (1.87%) (Ranked 129)
 | 2023-11-24 | 67,307 | 1,262 |
 | 2023-11-25 | 67,344 | 1,262 |
 | 2023-11-26 | 67,380 | 1,262 |
-| 2023-11-27 | 67,400 | 1,262 |
+| 2023-11-27 | 67,401 | 1,263 |
 ## Awards
 Max (Character Customization): 988  (Ranked 153)  
 Sum: 1,987 (Ranked 215)  

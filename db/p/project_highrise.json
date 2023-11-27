@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -975,6 +975,11 @@
       "Time": "2023-11-23T21:03:54.9948724+00:00",
       "NumProgressed": 354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T17:04:47.0075763+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1002,7 +1007,7 @@
       "Name": "Lux Living",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_apartments_2",
@@ -1034,7 +1039,7 @@
       "Name": "Artfully Done",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_art_large",
@@ -1074,7 +1079,7 @@
       "Name": "Campaign Launch",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_campaigns_1",
@@ -1138,7 +1143,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_consultants_b",
@@ -1194,7 +1199,7 @@
       "Name": "Proper Walls",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_drones",
@@ -1288,9 +1293,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 192
     },
     {
       "ID": "ach_floors_1",
@@ -1322,7 +1327,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_grime_1",
@@ -1354,7 +1359,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_mod_1",
@@ -1378,7 +1383,7 @@
       "Name": "28 Days Later",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_office_1",
@@ -1418,7 +1423,7 @@
       "Name": "Master of Puppets",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_prestige_1",
@@ -1426,7 +1431,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_prestige_2",
@@ -1450,7 +1455,7 @@
       "Name": "In the Black",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_profit_1",
@@ -1458,7 +1463,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_profit_2",
@@ -1490,7 +1495,7 @@
       "Name": "Refined Palates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_restaurants_2",
@@ -1512,9 +1517,9 @@
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_restaurants_5",
@@ -1530,7 +1535,7 @@
       "Name": "Retail Revenue",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_retail_2",
@@ -1538,7 +1543,7 @@
       "Name": "Emporium Empire",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_retail_3",
@@ -1546,7 +1551,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_retail_4",
@@ -1658,7 +1663,7 @@
       "Name": "Get Electrified",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_util_water",
@@ -1682,14 +1687,14 @@
       "Name": "Destination Destiny",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 0
     }
   ],
@@ -1697,8 +1702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:05:55.1472345+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:04:47.0075759+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:49.0321841+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:57:51.0839063+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:05:55.1473052+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:57:26.1968957+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:04:47.0076481+00:00"
 }

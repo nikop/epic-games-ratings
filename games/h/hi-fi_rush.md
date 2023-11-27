@@ -12,8 +12,8 @@ Rating: 4.87 (Ranked 22)
 | Cream of the Crop | 15.00% | ~658 |
 | Thanks for the free chip, Peppermint! | 14.00% | ~614 |
 | You got this, Peppermint? | 14.00% | ~614 |
-| Perfect Parry | 13.00% | ~570 |
-| Alright, that felt AWESOME! | 13.00% | ~570 |
+| Perfect Parry | 13.00% | ~571 |
+| Alright, that felt AWESOME! | 13.00% | ~571 |
 | This will cost you big time | 12.00% | ~527 |
 | Uh, they were broken when I got here | 12.00% | ~527 |
 | I play my own way! | 11.00% | ~483 |
@@ -21,9 +21,9 @@ Rating: 4.87 (Ranked 22)
 | Kissing the sky! | 11.00% | ~483 |
 | The Negotiator | 10.00% | ~439 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~439 |
-| Headliner | 9.00% | ~395 |
 | Out in a puff of smoke | 9.00% | ~395 |
 | I look cool. But I can look COOLER. | 9.00% | ~395 |
+| Headliner | 8.00% | ~351 |
 | Time to pay up! | 8.00% | ~351 |
 | Who's the boss now? | 8.00% | ~351 |
 | You must like calling me in, Chai | 8.00% | ~351 |
@@ -49,7 +49,7 @@ Rating: 4.87 (Ranked 22)
 | First we parry, then we counter | 1.00% | ~44 |
 | You ever parry a volcano? | 1.00% | ~44 |
 | New bad guys? No problem! | 1.00% | ~29 |
-| OK, well THEY came after ME! | 0.90% | ~39 |
+| OK, well THEY came after ME! | 0.90% | ~40 |
 | Easy Listening | 0.60% | ~26 |
 | Problem solved... wait, what? | 0.50% | ~22 |
 | Now this is how you fight like a team! | 0.50% | ~22 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,388 (Ranked 193)  
+Progressed: 4,389 (Ranked 193)  
 Completed: 8 (0.18%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 8 (0.18%) (Ranked 263)
 | 2023-11-24 | 4,316 | 8 |
 | 2023-11-25 | 4,346 | 8 |
 | 2023-11-26 | 4,367 | 8 |
-| 2023-11-27 | 4,388 | 8 |
+| 2023-11-27 | 4,389 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

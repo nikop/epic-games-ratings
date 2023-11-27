@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4893,7 +4893,7 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 11976,
+  "EOS_Progressed": 11977,
   "EOS_Completed": 285,
   "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 6,
@@ -19848,6 +19848,11 @@
       "Time": "2023-11-27T16:06:50.1214811+00:00",
       "NumProgressed": 11976,
       "NumCompleted": 285
+    },
+    {
+      "Time": "2023-11-27T17:05:27.7539059+00:00",
+      "NumProgressed": 11977,
+      "NumCompleted": 285
     }
   ],
   "TotalAchievements": 15,
@@ -19931,7 +19936,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8263
+      "UsersEstimate": 8264
     },
     {
       "ID": "Miner",
@@ -19971,14 +19976,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7425
+      "UsersEstimate": 7426
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11976,
+      "Progressed": 11977,
       "Completed": 285
     }
   ],
@@ -19986,8 +19991,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-27T01:46:52.5100977+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:06:50.1214806+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:05:27.7539054+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:52.4456566+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:00:47.8509011+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:06:50.1215611+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:59:32.453345+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:05:27.7539824+00:00"
 }

@@ -4839,9 +4839,9 @@
       "Count": 366
     }
   ],
-  "EOS_Progressed": 229412,
+  "EOS_Progressed": 229440,
   "EOS_Completed": 538,
-  "EOS_NewPlayers": 4916,
+  "EOS_NewPlayers": 4906,
   "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20199,6 +20199,11 @@
       "Time": "2023-11-27T16:09:07.8069328+00:00",
       "NumProgressed": 229412,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-11-27T17:08:14.8193691+00:00",
+      "NumProgressed": 229440,
+      "NumCompleted": 538
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20291,7 +20296,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20449,9 +20454,9 @@
       "ID": "Obtain_Guns_A",
       "SetID": "bkp3b1a",
       "Name": "Strapped",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 459
     },
     {
       "ID": "Obtain_Guns_B",
@@ -20611,7 +20616,7 @@
       "Name": "Regicide",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -20627,7 +20632,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -20650,13 +20655,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229412,
+      "Progressed": 229440,
       "Completed": 538
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8577,
+      "Progressed": 8605,
       "Completed": 164
     }
   ],
@@ -20664,8 +20669,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-27T13:11:02.6790302+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:09:07.8069323+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:08:14.8193686+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:03:24.9054766+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:09:07.8070443+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:02:54.6116709+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:08:14.8195122+00:00"
 }

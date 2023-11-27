@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 595,
+  "EOS_Progressed": 598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1343,6 +1343,11 @@
       "Time": "2023-11-27T16:10:02.9181542+00:00",
       "NumProgressed": 595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T17:08:55.3329847+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1393,9 +1398,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_15",
@@ -1411,15 +1416,15 @@
       "Name": "Class Act",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_18",
@@ -1443,7 +1448,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 458
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_20",
@@ -1483,15 +1488,15 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_25",
       "SetID": "jnappp",
       "Name": "E-stonia",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_26",
@@ -1539,7 +1544,7 @@
       "Name": "NEW PB!",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "achievement_8",
@@ -1562,7 +1567,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 595,
+      "Progressed": 598,
       "Completed": 0
     }
   ],
@@ -1570,8 +1575,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-27T01:46:11.4647608+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:10:02.9181537+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:08:55.3329843+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:59:49.0257648+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:10:02.9181766+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:58:50.6811182+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:08:55.3330096+00:00"
 }

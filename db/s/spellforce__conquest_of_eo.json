@@ -625,9 +625,9 @@
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Max_Reputation_MistyCoast",
@@ -778,8 +778,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:04:45.2440366+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:03:55.1667843+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:10.4270096+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:59:43.6497921+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:04:45.2440963+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:58:46.8493904+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:03:55.1668334+00:00"
 }

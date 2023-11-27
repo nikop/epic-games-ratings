@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 36.00% | ~276 |
+| That's the spirit | 36.00% | ~277 |
 | Welcome to the Tower | 34.00% | ~261 |
-| The great escape | 29.00% | ~223 |
+| The great escape | 30.00% | ~231 |
 | The Preacher's fate | 28.00% | ~215 |
-| A new dawn | 24.00% | ~184 |
+| A new dawn | 24.00% | ~185 |
+| True G3M4R | 22.00% | ~169 |
 | Scholar | 22.00% | ~169 |
 | A good beginning | 21.00% | ~161 |
-| True G3M4R | 21.00% | ~161 |
 | The darkness | 21.00% | ~161 |
 | One last step | 20.00% | ~154 |
+| I did it | 19.00% | ~146 |
 | Cable guy | 19.00% | ~146 |
 | Half the way | 19.00% | ~146 |
-| I did it | 18.00% | ~138 |
 | In this together | 18.00% | ~138 |
 | Peace walker | 18.00% | ~138 |
 | Champollion | 18.00% | ~138 |
@@ -25,13 +25,13 @@
 | Alchemists Express | 15.00% | ~115 |
 | Free at last | 13.00% | ~100 |
 | Rascal | 12.00% | ~92 |
-| A Link to the Past | 11.00% | ~84 |
+| A Link to the Past | 11.00% | ~85 |
 | A great audience | 10.00% | ~77 |
 | For its own good | 9.00% | ~69 |
 | Fashion victim | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 768 (Ranked 277)  
-Completed: 39 (5.08%) (Ranked 71)  
+Progressed: 769 (Ranked 277)  
+Completed: 39 (5.07%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,4 +158,4 @@ Completed: 39 (5.08%) (Ranked 71)
 | 2023-11-24 | 707 | 35 |
 | 2023-11-25 | 737 | 37 |
 | 2023-11-26 | 761 | 38 |
-| 2023-11-27 | 768 | 39 |
+| 2023-11-27 | 769 | 39 |

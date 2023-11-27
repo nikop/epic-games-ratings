@@ -27,15 +27,15 @@
 | So Close | 41.00% | ~390 |
 | You Get Used To It | 40.00% | ~380 |
 | True Legends | 40.00% | ~380 |
+| Boosted! | 38.00% | ~361 |
 | Family | 37.00% | ~352 |
 | Biggest Snowball Ever | 37.00% | ~352 |
+| Freeze The Ice Witch | 37.00% | ~352 |
 | Bullseye | 37.00% | ~352 |
-| Boosted! | 37.00% | ~352 |
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~352 |
-| Freeze The Ice Witch | 36.00% | ~342 |
 | It Is Not Over | 34.00% | ~323 |
 | On The Rocks | 34.00% | ~323 |
-| Snowy Poro | 31.00% | ~295 |
+| Snowy Poro | 32.00% | ~304 |
 | Never Gets Old | 31.00% | ~295 |
 | Vertical Power | 27.00% | ~257 |
 | One From The Heart | 14.00% | ~133 |

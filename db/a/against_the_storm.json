@@ -3301,7 +3301,7 @@
   ],
   "EOS_Progressed": 17502,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14530,9 +14530,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearRuins",
@@ -14650,9 +14650,9 @@
       "ID": "WinWithEvents",
       "SetID": "cfbk359",
       "Name": "Taking Action",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinWithResolve",
@@ -14762,9 +14762,9 @@
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -14794,8 +14794,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-26T13:00:18.5578162+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:08:59.4134622+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:08:08.7443759+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:58:30.9248864+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:08:59.4135505+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:57:54.4353115+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:08:08.744459+00:00"
 }

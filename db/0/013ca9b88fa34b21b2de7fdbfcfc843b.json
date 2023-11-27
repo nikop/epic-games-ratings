@@ -2,7 +2,7 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 415,
+  "Ranking_Rating": 414,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 175,
@@ -195,7 +195,7 @@
   "Tags": [],
   "EOS_Progressed": 8121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7744,9 +7744,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3492
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7903,8 +7903,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:10:06.9199499+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:08:58.5408691+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:03:13.31359+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:10:06.9200021+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:02:46.9092602+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:08:58.5409335+00:00"
 }

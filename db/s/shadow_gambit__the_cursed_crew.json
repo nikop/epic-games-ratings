@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.27,
+  "EOS_Completed_Percentage": 3.26,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3099,6 +3099,11 @@
       "Time": "2023-11-27T16:05:34.7378516+00:00",
       "NumProgressed": 949,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-27T17:04:31.5677135+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3109,9 +3114,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 256
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3119,7 +3124,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "_03_FinishAct1",
@@ -3127,7 +3132,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3215,7 +3220,7 @@
       "Name": "Freebooter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "_15_Completion_80",
@@ -3231,7 +3236,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3263,7 +3268,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3287,7 +3292,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -3318,7 +3323,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 31
     }
   ],
@@ -3326,8 +3331,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:05:34.7378512+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:04:31.5677129+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:01:39.2154847+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:05:34.7378808+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:00:07.9108285+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:04:31.5677441+00:00"
 }

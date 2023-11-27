@@ -156,9 +156,9 @@
       "ID": "complete_tutorial",
       "SetID": "5ia1dkp",
       "Name": "Trainee",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "diesel_engine",
@@ -188,9 +188,9 @@
       "ID": "first_line",
       "SetID": "5ia1dkp",
       "Name": "Line Up",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "five_cities_connected",
@@ -396,9 +396,9 @@
       "ID": "steam_engine",
       "SetID": "5ia1dkp",
       "Name": "Steam Power",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "task_complete",
@@ -531,8 +531,8 @@
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:03:58.7653921+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:03:20.3606556+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.8084756+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:01:32.1105316+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:03:58.7654207+00:00"
+  "LastUpdate_Ratings": "2023-11-27T17:00:02.392536+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:03:20.3606917+00:00"
 }

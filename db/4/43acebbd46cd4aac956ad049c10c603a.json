@@ -151,9 +151,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 697,
+  "EOS_Progressed": 698,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1526,6 +1526,11 @@
       "Time": "2023-11-27T16:07:01.7911372+00:00",
       "NumProgressed": 697,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T17:05:36.8020052+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1578,7 +1583,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "BreakTheLoop",
@@ -1594,7 +1599,7 @@
       "Name": "Bridge Builder",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ChasingTheLight",
@@ -1690,7 +1695,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "HighPlain",
@@ -1738,7 +1743,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Mnemosyne",
@@ -1754,7 +1759,7 @@
       "Name": "Museum Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "MuseumVisitor",
@@ -1850,7 +1855,7 @@
       "Name": "Signatory",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "SingleRod",
@@ -1880,9 +1885,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 258
     },
     {
       "ID": "TextAdventurer",
@@ -1898,7 +1903,7 @@
       "Name": "The All-Gifted",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1936,9 +1941,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 230
     },
     {
       "ID": "TheWordEndures",
@@ -1946,7 +1951,7 @@
       "Name": "The Word Endures",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "TouchGrass",
@@ -1978,7 +1983,7 @@
       "Name": "Wanderers",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WesternDelta",
@@ -2009,7 +2014,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 697,
+      "Progressed": 698,
       "Completed": 1
     }
   ],
@@ -2017,8 +2022,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-26T22:57:15.5535811+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:07:01.7911367+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:05:36.8020049+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:58:10.2533876+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:07:01.7911812+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:57:40.1844781+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:05:36.8020607+00:00"
 }

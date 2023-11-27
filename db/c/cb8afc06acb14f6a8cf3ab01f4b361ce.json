@@ -371,9 +371,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 319831,
+  "EOS_Progressed": 319850,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4623,
+  "EOS_NewPlayers": 4606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7526,6 +7526,11 @@
       "Time": "2023-11-27T16:08:00.4094646+00:00",
       "NumProgressed": 319831,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T17:07:40.0343468+00:00",
+      "NumProgressed": 319850,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7570,7 +7575,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "S06_LWTC",
@@ -7578,7 +7583,7 @@
       "Name": "They tricked me",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "S07_INWA",
@@ -7586,7 +7591,7 @@
       "Name": "We need to talk",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "S08_MNSA",
@@ -7594,7 +7599,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "S09_MNSE",
@@ -7706,7 +7711,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "S23_ETHEREAL",
@@ -7770,7 +7775,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -7857,7 +7862,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 319831,
+      "Progressed": 319850,
       "Completed": 4
     }
   ],
@@ -7865,8 +7870,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-24T22:57:43.5596717+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:08:00.4094642+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:07:40.0343463+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T16:00:17.8660079+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:08:00.409514+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:59:11.2442518+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:07:40.0344182+00:00"
 }

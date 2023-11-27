@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 429,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 258,
@@ -2939,9 +2939,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 756
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -2955,9 +2955,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 712
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -3059,9 +3059,9 @@
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 4",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 230
     },
     {
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
@@ -3300,8 +3300,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-27T13:07:03.7101124+00:00",
-  "LastChanged_Achievements": "2023-11-27T16:04:02.245144+00:00",
+  "LastChanged_Achievements": "2023-11-27T17:03:23.1233035+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-27T15:59:57.3077938+00:00",
-  "LastUpdate_Achievements": "2023-11-27T16:04:02.2452238+00:00"
+  "LastUpdate_Ratings": "2023-11-27T16:58:57.1922453+00:00",
+  "LastUpdate_Achievements": "2023-11-27T17:03:23.123398+00:00"
 }

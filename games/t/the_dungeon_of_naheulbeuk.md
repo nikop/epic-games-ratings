@@ -1,24 +1,24 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 443)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,993 |
-| Alt+F4 | 9.00% | ~21,598 |
-| Where's that freaking Dwarf? | 8.00% | ~19,198 |
+| Sowwy! | 35.00% | ~83,996 |
+| Alt+F4 | 9.00% | ~21,599 |
+| Where's that freaking Dwarf? | 8.00% | ~19,199 |
 | Déjà vu | 6.00% | ~14,399 |
-| Sock! SOCK! | 5.00% | ~11,999 |
-| Speedrun | 5.00% | ~11,999 |
-| A beer, two curses, three companions | 4.00% | ~9,599 |
-| GG EZ | 4.00% | ~9,599 |
-| DM intervention | 4.00% | ~9,599 |
-| Fireproof Wizardess | 4.00% | ~9,599 |
-| Livin' in a dwarven paradise | 3.00% | ~7,199 |
-| Way of the Wimp | 3.00% | ~7,199 |
-| The plot thickens... At the tavern | 3.00% | ~7,199 |
+| Sock! SOCK! | 5.00% | ~12,000 |
+| Speedrun | 5.00% | ~12,000 |
+| A beer, two curses, three companions | 4.00% | ~9,600 |
+| GG EZ | 4.00% | ~9,600 |
+| DM intervention | 4.00% | ~9,600 |
+| Fireproof Wizardess | 4.00% | ~9,600 |
+| Livin' in a dwarven paradise | 3.00% | ~7,200 |
+| Way of the Wimp | 3.00% | ~7,200 |
+| The plot thickens... At the tavern | 3.00% | ~7,200 |
 | Shiny and Crôm | 2.00% | ~4,800 |
 | The demons' feast | 2.00% | ~4,800 |
 | The Great Library | 2.00% | ~4,800 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,981 (Ranked 63)  
+Progressed: 239,990 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 7 (0.00%) (Ranked 361)
 | 2023-11-24 | 239,357 | 7 |
 | 2023-11-25 | 239,618 | 7 |
 | 2023-11-26 | 239,885 | 7 |
-| 2023-11-27 | 239,981 | 7 |
+| 2023-11-27 | 239,990 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 483 (Ranked 330)  

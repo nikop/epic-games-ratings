@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trainee | 24.00% | ~4 |
+| Trainee | 29.00% | ~5 |
+| Line Up | 24.00% | ~4 |
+| Steam Power | 24.00% | ~4 |
 | City Link | 24.00% | ~4 |
-| Line Up | 18.00% | ~3 |
-| Steam Power | 18.00% | ~3 |
 | Task Apprentice | 18.00% | ~3 |
 | Billionaire Club | 12.00% | ~2 |
 | Full House | 12.00% | ~2 |

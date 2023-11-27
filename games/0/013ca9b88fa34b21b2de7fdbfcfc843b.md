@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.60 (Ranked 415)  
+Rating: 4.60 (Ranked 414)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.60 (Ranked 415)
 | Break-Net Speed | 49.00% | ~3,979 |
 | Bramble Breaker | 47.00% | ~3,817 |
 | Miner 49er | 43.00% | ~3,492 |
-| Humble Collector | 42.00% | ~3,411 |
+| Humble Collector | 43.00% | ~3,492 |
 | Calm Sailing | 37.00% | ~3,005 |
 | Open the Gate! | 34.00% | ~2,761 |
 | Mist Walker | 32.00% | ~2,599 |
