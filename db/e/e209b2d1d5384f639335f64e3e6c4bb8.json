@@ -231,9 +231,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326776,
+  "EOS_Progressed": 326781,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2462,
+  "EOS_NewPlayers": 2455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11591,6 +11591,11 @@
       "Time": "2023-11-27T03:06:05.4217414+00:00",
       "NumProgressed": 326776,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T04:05:21.4076752+00:00",
+      "NumProgressed": 326781,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -11627,7 +11632,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 143781
+      "UsersEstimate": 143784
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -11635,7 +11640,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 104568
+      "UsersEstimate": 104570
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -11643,7 +11648,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 68623
+      "UsersEstimate": 68624
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -11651,7 +11656,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 49016
+      "UsersEstimate": 49017
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -11659,7 +11664,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 39213
+      "UsersEstimate": 39214
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -11707,7 +11712,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 22874
+      "UsersEstimate": 22875
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -11715,7 +11720,7 @@
       "Name": "Torin Crater",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 22874
+      "UsersEstimate": 22875
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -11979,20 +11984,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 166656
+      "UsersEstimate": 166658
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 326776,
+      "Progressed": 326781,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 326765,
+      "Progressed": 326770,
       "Completed": 0
     }
   ],
@@ -12000,8 +12005,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-11-11T17:58:21.8800999+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:06:05.4217409+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:05:21.4076749+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:56.867045+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:58:38.3486071+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:06:05.4218178+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:58:27.1026817+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:05:21.407747+00:00"
 }

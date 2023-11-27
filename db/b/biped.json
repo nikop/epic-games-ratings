@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7141,
+  "EOS_Progressed": 7143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13144,6 +13144,11 @@
       "Time": "2023-11-27T01:51:53.9924375+00:00",
       "NumProgressed": 7141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T04:04:20.9734735+00:00",
+      "NumProgressed": 7143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -13211,7 +13216,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "3",
@@ -13251,7 +13256,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "8",
@@ -13267,14 +13272,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7141,
+      "Progressed": 7143,
       "Completed": 0
     }
   ],
@@ -13282,8 +13287,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:04:51.1555818+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:04:20.973473+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:07.0754942+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:59:08.0448558+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:04:51.1556535+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:58:50.499377+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:04:20.9735391+00:00"
 }

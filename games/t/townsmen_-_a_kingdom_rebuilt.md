@@ -20,11 +20,11 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 7.00% | ~305 |
 | Completionist I | 7.00% | ~305 |
 | Full-time job I | 7.00% | ~305 |
-| I like to build stuff... II | 6.00% | ~261 |
-| Full-time job II | 6.00% | ~261 |
-| A time consuming game II | 6.00% | ~261 |
-| Tools of the trade I | 6.00% | ~261 |
-| Knee deep in snow | 6.00% | ~261 |
+| I like to build stuff... II | 6.00% | ~262 |
+| Full-time job II | 6.00% | ~262 |
+| A time consuming game II | 6.00% | ~262 |
+| Tools of the trade I | 6.00% | ~262 |
+| Knee deep in snow | 6.00% | ~262 |
 | Not a small trader anymore | 5.00% | ~218 |
 | Bread for the people II | 5.00% | ~218 |
 | I like to build stuff... III | 5.00% | ~218 |
@@ -54,7 +54,9 @@ Number of Ratings: 37  (23.09.2022)
 | Five brews are a schnitzel | 2.00% | ~87 |
 | The King's new clothes III | 2.00% | ~87 |
 | My precious... III | 2.00% | ~87 |
+| Lord of War | 2.00% | ~87 |
 | Plague strikes! | 2.00% | ~87 |
+| Builder IV | 2.00% | ~87 |
 | Completionist II | 2.00% | ~87 |
 | Genius | 2.00% | ~87 |
 | I've been everywhere V | 2.00% | ~87 |
@@ -62,8 +64,6 @@ Number of Ratings: 37  (23.09.2022)
 | Tools of the trade III | 2.00% | ~87 |
 | When there's fire... | 1.00% | ~44 |
 | Survivalist | 1.00% | ~44 |
-| Lord of War | 1.00% | ~44 |
-| Builder IV | 1.00% | ~44 |
 | An honorable Governor III | 1.00% | ~44 |
 | Completionist III | 1.00% | ~44 |
 | Only the sausage has two ends. | 1.00% | ~44 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,358 (Ranked 194)  
+Progressed: 4,359 (Ranked 194)  
 Completed: 3 (0.07%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,6 +235,7 @@ Completed: 3 (0.07%) (Ranked 301)
 | 2023-11-24 | 4,354 | 3 |
 | 2023-11-25 | 4,357 | 3 |
 | 2023-11-26 | 4,358 | 3 |
+| 2023-11-27 | 4,359 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -11029,10 +11029,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49258,
       "NumberOfAwardsMax": 24684
+    },
+    {
+      "Time": "2023-11-27T04:00:01.7215506+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49262,
+      "NumberOfAwardsMax": 24684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49258,
+  "NumberOfAwards": 49262,
   "NumberOfAwardsMax": 24684,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11064,7 +11070,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1351
+      "Count": 1355
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11109,9 +11115,9 @@
       "Count": 815
     }
   ],
-  "EOS_Progressed": 303341,
+  "EOS_Progressed": 303345,
   "EOS_Completed": 516,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34854,6 +34860,11 @@
       "Time": "2023-11-27T03:09:48.0534271+00:00",
       "NumProgressed": 303341,
       "NumCompleted": 516
+    },
+    {
+      "Time": "2023-11-27T04:09:35.0263192+00:00",
+      "NumProgressed": 303345,
+      "NumCompleted": 516
     }
   ],
   "TotalAchievements": 45,
@@ -34905,7 +34916,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 18200
+      "UsersEstimate": 18201
     },
     {
       "ID": "PFA_15",
@@ -34913,7 +34924,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24267
+      "UsersEstimate": 24268
     },
     {
       "ID": "PFA_16",
@@ -34929,7 +34940,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24267
+      "UsersEstimate": 24268
     },
     {
       "ID": "PFA_18",
@@ -34945,7 +34956,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24267
+      "UsersEstimate": 24268
     },
     {
       "ID": "PFA_2",
@@ -34985,7 +34996,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39434
+      "UsersEstimate": 39435
     },
     {
       "ID": "PFA_24",
@@ -35001,7 +35012,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18200
+      "UsersEstimate": 18201
     },
     {
       "ID": "PFA_26",
@@ -35033,7 +35044,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18200
+      "UsersEstimate": 18201
     },
     {
       "ID": "PFA_3",
@@ -35193,7 +35204,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45501
+      "UsersEstimate": 45502
     },
     {
       "ID": "PFA_7",
@@ -35209,7 +35220,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39434
+      "UsersEstimate": 39435
     },
     {
       "ID": "PFA_9",
@@ -35224,16 +35235,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303341,
+      "Progressed": 303345,
       "Completed": 516
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-27T01:47:00.1709057+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:09:48.0534265+00:00",
+  "LastChanged": "2023-11-27T04:00:01.7215504+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:09:35.0263189+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:00:39.1419892+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:09:48.0535975+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:00:01.7215511+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:09:35.0264593+00:00"
 }

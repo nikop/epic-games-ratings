@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,542 |
-| Basic in Bulk | 6.00% | ~8,542 |
-| Titan's First Steps | 6.00% | ~8,542 |
+| Sponsored by Argon | 6.00% | ~8,543 |
+| Basic in Bulk | 6.00% | ~8,543 |
+| Titan's First Steps | 6.00% | ~8,543 |
 | Tinkle of Coins | 5.00% | ~7,119 |
 | Disintermediation | 4.00% | ~5,695 |
 | It's Free Real Estate | 4.00% | ~5,695 |
@@ -22,33 +22,34 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 3.00% | ~4,271 |
 | Through Repetition, Perfection | 3.00% | ~4,271 |
 | Own the Means of Production | 3.00% | ~4,271 |
-| On the Path to Greatness | 2.00% | ~2,847 |
-| Ascended | 2.00% | ~2,847 |
-| Tax not Included | 2.00% | ~2,847 |
-| Research & Development | 2.00% | ~2,847 |
-| Vanity, Verily | 2.00% | ~2,847 |
-| Bounty Hunters | 2.00% | ~2,847 |
-| Fated Encounters | 2.00% | ~2,847 |
-| For the Hoard! | 2.00% | ~2,847 |
-| Blank Page Syndrome | 2.00% | ~2,847 |
-| Demand for Supplies | 2.00% | ~2,847 |
-| Flooding the Market | 2.00% | ~2,847 |
-| Where it Hurts | 2.00% | ~2,847 |
-| Power of Love | 2.00% | ~2,847 |
-| Efficient Floor Space | 2.00% | ~2,847 |
-| Flawless Fusion | 2.00% | ~2,847 |
-| Trash to Treasure | 2.00% | ~2,847 |
-| Gem Expert | 2.00% | ~2,847 |
-| Gild-Gotten Goods | 2.00% | ~2,847 |
-| Royal Ransom | 2.00% | ~2,847 |
-| Helping Hand | 2.00% | ~2,847 |
-| Accomplished Merchant | 2.00% | ~2,847 |
-| Dungeon Imports | 2.00% | ~2,847 |
-| Natural 20 | 2.00% | ~2,847 |
-| Did we pack lunch? | 2.00% | ~2,847 |
-| Magical Harmony | 2.00% | ~2,847 |
-| Special Ingredient | 2.00% | ~2,847 |
-| Arcane Industries | 2.00% | ~2,847 |
+| On the Path to Greatness | 2.00% | ~2,848 |
+| Ascended | 2.00% | ~2,848 |
+| Tax not Included | 2.00% | ~2,848 |
+| Research & Development | 2.00% | ~2,848 |
+| Vanity, Verily | 2.00% | ~2,848 |
+| Bounty Hunters | 2.00% | ~2,848 |
+| Fated Encounters | 2.00% | ~2,848 |
+| For the Hoard! | 2.00% | ~2,848 |
+| Blank Page Syndrome | 2.00% | ~2,848 |
+| Demand for Supplies | 2.00% | ~2,848 |
+| Flooding the Market | 2.00% | ~2,848 |
+| Where it Hurts | 2.00% | ~2,848 |
+| Power of Love | 2.00% | ~2,848 |
+| Efficient Floor Space | 2.00% | ~2,848 |
+| Flawless Fusion | 2.00% | ~2,848 |
+| Trash to Treasure | 2.00% | ~2,848 |
+| Gem Expert | 2.00% | ~2,848 |
+| Gild-Gotten Goods | 2.00% | ~2,848 |
+| Royal Ransom | 2.00% | ~2,848 |
+| Helping Hand | 2.00% | ~2,848 |
+| Accomplished Merchant | 2.00% | ~2,848 |
+| Dungeon Imports | 2.00% | ~2,848 |
+| Natural 20 | 2.00% | ~2,848 |
+| Did we pack lunch? | 2.00% | ~2,848 |
+| Magical Harmony | 2.00% | ~2,848 |
+| Special Ingredient | 2.00% | ~2,848 |
+| Arcane Industries | 2.00% | ~2,848 |
+| Complete Monopoly | 2.00% | ~2,848 |
 | A Notch Above the Rest | 1.00% | ~1,424 |
 | Cream of the Crop | 1.00% | ~1,424 |
 | Top of the World | 1.00% | ~1,424 |
@@ -99,7 +100,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 1.00% | ~1,424 |
 | Exotic Commodities | 1.00% | ~1,424 |
 | Economy of Scarce | 1.00% | ~1,424 |
-| Complete Monopoly | 1.00% | ~1,424 |
 | King's Blade | 1.00% | ~1,424 |
 | Thank You Tom Nook | 0.90% | ~1,281 |
 | Jackpot! | 0.90% | ~1,281 |
@@ -109,18 +109,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | All or Nothing! | 0.60% | ~854 |
 | Anything not Nailed Down | 0.50% | ~712 |
 | Marvels from the World Over | 0.50% | ~712 |
-| Bane of Legends | 0.40% | ~569 |
-| Ultimate Collector | 0.40% | ~569 |
-| Unleashed Potential | 0.40% | ~569 |
-| JACKPOT!!! | 0.40% | ~569 |
+| Bane of Legends | 0.40% | ~570 |
+| Ultimate Collector | 0.40% | ~570 |
+| Unleashed Potential | 0.40% | ~570 |
+| JACKPOT!!! | 0.40% | ~570 |
 | Oligarch Monarch | 0.30% | ~427 |
 | Merchant Extraordinaire | 0.30% | ~427 |
 | To Hell and Back | 0.30% | ~427 |
 | Cash Only Please | 0.30% | ~427 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,372 (Ranked 80)  
-Completed: 275 (0.19%) (Ranked 261)  
+Progressed: 142,380 (Ranked 80)  
+Completed: 276 (0.19%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,7 +340,7 @@ Completed: 275 (0.19%) (Ranked 261)
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
-| 2023-11-27 | 142,372 | 275 |
+| 2023-11-27 | 142,380 | 276 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,608 (Ranked 50)  

@@ -3289,9 +3289,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 41326,
+  "EOS_Progressed": 41327,
   "EOS_Completed": 332,
-  "EOS_NewPlayers": 1099,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -27784,6 +27784,11 @@
       "Time": "2023-11-27T03:07:41.3859497+00:00",
       "NumProgressed": 41326,
       "NumCompleted": 332
+    },
+    {
+      "Time": "2023-11-27T04:06:38.8457716+00:00",
+      "NumProgressed": 41327,
+      "NumCompleted": 332
     }
   ],
   "TotalAchievements": 60,
@@ -27795,7 +27800,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 24382
+      "UsersEstimate": 24383
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -27803,7 +27808,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 19423
+      "UsersEstimate": 19424
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -27811,7 +27816,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 23969
+      "UsersEstimate": 23970
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -27907,7 +27912,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 20663
+      "UsersEstimate": 20664
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -28003,7 +28008,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18183
+      "UsersEstimate": 18184
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -28019,7 +28024,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 14877
+      "UsersEstimate": 14878
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -28107,7 +28112,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -28123,7 +28128,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11571
+      "UsersEstimate": 11572
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -28147,7 +28152,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 8678
+      "UsersEstimate": 8679
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -28195,7 +28200,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 28928
+      "UsersEstimate": 28929
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -28251,7 +28256,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -28274,15 +28279,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 41326,
+      "Progressed": 41327,
       "Completed": 332
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-27T01:45:13.6645022+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:07:41.3859494+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:06:38.8457713+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:54.3278178+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:58:00.4748892+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:07:41.3860965+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:57:56.7675402+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:06:38.8458946+00:00"
 }

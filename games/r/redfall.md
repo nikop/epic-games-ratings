@@ -28,7 +28,7 @@ Rating: 3.45 (Ranked 1,047)
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
 | Harvest’s End | 1.00% | ~18 |
-| Bad Wiring | 0.80% | ~14 |
+| Bad Wiring | 0.90% | ~16 |
 | Silence Is Golden | 0.80% | ~14 |
 | Helping Hand | 0.80% | ~14 |
 | Contingency Plans | 0.70% | ~12 |

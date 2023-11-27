@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4311,18 +4311,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7091,
       "NumberOfAwardsMax": 1747
+    },
+    {
+      "Time": "2023-11-27T03:59:47.5874322+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7092,
+      "NumberOfAwardsMax": 1748
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7091,
-  "NumberOfAwardsMax": 1747,
+  "NumberOfAwards": 7092,
+  "NumberOfAwardsMax": 1748,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1747
+      "Count": 1748
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -16148,9 +16154,9 @@
       "ID": "04_FithCrusade",
       "SetID": "989of5o",
       "Name": "Fifth Crusade",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 1097
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -17065,9 +17071,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-11-26T02:58:38.8113903+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:09:00.4152503+00:00",
+  "LastChanged": "2023-11-27T03:59:47.587432+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:08:55.3705645+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:49.3159315+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:00:20.234535+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:09:00.4154752+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:59:47.5874327+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:08:55.3707174+00:00"
 }

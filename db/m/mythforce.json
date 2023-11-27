@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 608,
-  "Ranking_Popularity": 475,
+  "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 296,
@@ -782,7 +782,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5125,
+  "EOS_Progressed": 5126,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
@@ -9997,6 +9997,11 @@
       "Time": "2023-11-27T03:04:30.3063445+00:00",
       "NumProgressed": 5125,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T04:04:03.8614492+00:00",
+      "NumProgressed": 5126,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10009,7 +10014,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -10057,7 +10062,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10081,7 +10086,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -10161,7 +10166,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -10185,22 +10190,22 @@
       "Name": "Vexed Her",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5125,
+      "Progressed": 5126,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-26T17:57:30.4832205+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:04:30.3063442+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:04:03.8614484+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:57:52.3375477+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:04:30.3063996+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:57:50.6682083+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:04:03.8615056+00:00"
 }

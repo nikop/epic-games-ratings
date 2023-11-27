@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -708,9 +708,9 @@
       "ID": "killGrave10",
       "SetID": "ci65fo0",
       "Name": "Gravedigger",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "killLeshy30",
@@ -1153,8 +1153,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:08:27.4467262+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:08:27.928655+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:00.9225567+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:58:38.8646406+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:08:27.4467952+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:58:27.5066204+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:08:27.9287081+00:00"
 }

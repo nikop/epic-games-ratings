@@ -2,9 +2,9 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -879,8 +879,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:05:03.8354055+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:04:31.2928652+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.1827945+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:01:48.0946341+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:05:03.8354381+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:00:55.9931211+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:04:31.2928939+00:00"
 }

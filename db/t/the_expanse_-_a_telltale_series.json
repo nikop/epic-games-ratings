@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15639,
+  "EOS_Progressed": 15643,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12415,6 +12415,11 @@
       "Time": "2023-11-27T03:07:09.3902467+00:00",
       "NumProgressed": 15639,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-27T04:06:12.7662031+00:00",
+      "NumProgressed": 15643,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12443,7 +12448,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "12",
@@ -12473,9 +12478,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 626
+      "UsersEstimate": 782
     },
     {
       "ID": "16",
@@ -12579,7 +12584,7 @@
       "Name": "Bosmang",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "28",
@@ -12603,7 +12608,7 @@
       "Name": "Captain Drummer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "30",
@@ -12635,7 +12640,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "7",
@@ -12651,7 +12656,7 @@
       "Name": "Data Recoverer",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "9",
@@ -12659,7 +12664,7 @@
       "Name": "Impossible Objects",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "31",
@@ -12706,13 +12711,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15639,
+      "Progressed": 15643,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1593,
+      "Progressed": 1597,
       "Completed": 736
     }
   ],
@@ -12720,8 +12725,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:07:09.3902464+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:06:12.7662027+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:59:46.1228881+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:07:09.3903184+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:59:21.1840092+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:06:12.7662824+00:00"
 }

@@ -1712,7 +1712,7 @@
   ],
   "EOS_Progressed": 487,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4565,9 +4565,9 @@
       "ID": "P_CRANELIFT",
       "SetID": "80dcan0",
       "Name": "Better Late than Never",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 234
     },
     {
       "ID": "P_ENVIRONMENT",
@@ -4677,9 +4677,9 @@
       "ID": "P_WATERTOWER",
       "SetID": "80dcan0",
       "Name": "Got the Flow Back",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 190
     },
     {
       "ID": "S_BRIGHTSUN",
@@ -4861,9 +4861,9 @@
       "ID": "X_GET_FECE",
       "SetID": "80dcan0",
       "Name": "Waste Not Want Not",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 224
     },
     {
       "ID": "X_KICK",
@@ -4893,8 +4893,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-27T01:45:00.9269822+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:05:36.7946853+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:04:58.2635158+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.0814627+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:57:43.1040699+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:05:36.794743+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:57:43.2557183+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:04:58.2635611+00:00"
 }

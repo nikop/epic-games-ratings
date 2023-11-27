@@ -476,9 +476,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:07:38.8081082+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:06:36.7931231+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.647609+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:59:14.8056918+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:07:38.8081642+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:58:55.7142719+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:06:36.7931477+00:00"
 }

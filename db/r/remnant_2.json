@@ -4809,9 +4809,9 @@
       "Count": 366
     }
   ],
-  "EOS_Progressed": 229096,
+  "EOS_Progressed": 229121,
   "EOS_Completed": 536,
-  "EOS_NewPlayers": 4909,
+  "EOS_NewPlayers": 4924,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20104,6 +20104,11 @@
       "Time": "2023-11-27T03:08:48.068482+00:00",
       "NumProgressed": 229096,
       "NumCompleted": 536
+    },
+    {
+      "Time": "2023-11-27T04:08:45.082579+00:00",
+      "NumProgressed": 229121,
+      "NumCompleted": 536
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20170,9 +20175,9 @@
       "ID": "Defeat_Faelin_Faerin",
       "SetID": "bkp3b1a",
       "Name": "Traitor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -20194,9 +20199,9 @@
       "ID": "Defeat_Mantis",
       "SetID": "bkp3b1a",
       "Name": "The Killing Jar",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1375
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20300,7 +20305,7 @@
       "Name": "First of Many",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -20555,13 +20560,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229096,
+      "Progressed": 229121,
       "Completed": 536
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8261,
+      "Progressed": 8286,
       "Completed": 163
     }
   ],
@@ -20569,8 +20574,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-27T01:50:46.742616+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:08:48.0684815+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:08:45.0825788+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:03:16.7334272+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:08:48.0685929+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:03:03.2648548+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:08:45.0826669+00:00"
 }

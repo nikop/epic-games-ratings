@@ -5,50 +5,50 @@ Rating: 4.41 (Ranked 723)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~194,904 |
-| Destroyer-In-Chief | 57.00% | ~176,341 |
-| There Is No Pancakes | 53.00% | ~163,967 |
-| First of Many | 41.00% | ~126,842 |
-| Woah. | 36.00% | ~111,374 |
-| Don't Look Down | 29.00% | ~89,718 |
-| Don't Panic | 27.00% | ~83,530 |
-| Ooo A Piece of Candy! | 22.00% | ~68,062 |
-| Ghost in the Machine | 18.00% | ~55,687 |
-| All Too Easy | 15.00% | ~46,406 |
-| Didn't Need to See Him Naked | 13.00% | ~40,218 |
-| Indomitable | 10.00% | ~30,937 |
-| Bow to the Boss! | 9.00% | ~27,843 |
-| Friend of the Raptors | 9.00% | ~27,843 |
-| About Time! | 8.00% | ~24,750 |
-| Blast from the Past | 8.00% | ~24,750 |
-| Actor-Turned-Politician | 7.00% | ~21,656 |
-| Betrayed | 7.00% | ~21,656 |
-| Maximum Stopping Power | 7.00% | ~21,656 |
-| You Chose... Poorly | 7.00% | ~21,656 |
-| Double Team | 6.00% | ~18,562 |
-| Keymaster | 6.00% | ~18,562 |
-| Poodle Skirt | 6.00% | ~18,562 |
+| Zero Saints Thirty | 63.00% | ~194,913 |
+| Destroyer-In-Chief | 57.00% | ~176,350 |
+| There Is No Pancakes | 53.00% | ~163,975 |
+| First of Many | 41.00% | ~126,848 |
+| Woah. | 36.00% | ~111,379 |
+| Don't Look Down | 29.00% | ~89,722 |
+| Don't Panic | 27.00% | ~83,534 |
+| Ooo A Piece of Candy! | 22.00% | ~68,065 |
+| Ghost in the Machine | 18.00% | ~55,689 |
+| All Too Easy | 15.00% | ~46,408 |
+| Didn't Need to See Him Naked | 13.00% | ~40,220 |
+| Indomitable | 10.00% | ~30,939 |
+| Bow to the Boss! | 9.00% | ~27,845 |
+| Friend of the Raptors | 9.00% | ~27,845 |
+| About Time! | 8.00% | ~24,751 |
+| Blast from the Past | 8.00% | ~24,751 |
+| Actor-Turned-Politician | 7.00% | ~21,657 |
+| Betrayed | 7.00% | ~21,657 |
+| Maximum Stopping Power | 7.00% | ~21,657 |
+| You Chose... Poorly | 7.00% | ~21,657 |
+| Double Team | 6.00% | ~18,563 |
+| Keymaster | 6.00% | ~18,563 |
+| Poodle Skirt | 6.00% | ~18,563 |
 | Imperator | 5.00% | ~15,469 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~12,375 |
 | Half Way Home | 4.00% | ~12,375 |
 | How It Should Be | 4.00% | ~12,375 |
 | Machine Man | 4.00% | ~12,375 |
 | The Full Kinzie | 4.00% | ~12,375 |
-| ...A Saint Gets a Gun | 3.00% | ~9,281 |
-| And I Ran... | 3.00% | ~9,281 |
-| Chill Out | 3.00% | ~9,281 |
-| Elementary | 3.00% | ~9,281 |
-| On Her Saint's Secret Service | 3.00% | ~9,281 |
-| Paranormal Bromance | 3.00% | ~9,281 |
-| Saints & Sensibility | 3.00% | ~9,281 |
-| The Two Shaundis | 3.00% | ~9,281 |
-| Benjamin [CENSORED] King | 2.00% | ~6,187 |
-| Better This Way | 2.00% | ~6,187 |
-| Bouncin' with an Old Friend | 2.00% | ~6,187 |
-| Our Gift to You | 2.00% | ~6,187 |
-| The Face of the Saints | 2.00% | ~6,187 |
-| The Twin Saints | 2.00% | ~6,187 |
-| Where's My Cape? | 2.00% | ~6,187 |
+| ...A Saint Gets a Gun | 3.00% | ~9,282 |
+| And I Ran... | 3.00% | ~9,282 |
+| Chill Out | 3.00% | ~9,282 |
+| Elementary | 3.00% | ~9,282 |
+| On Her Saint's Secret Service | 3.00% | ~9,282 |
+| Paranormal Bromance | 3.00% | ~9,282 |
+| Saints & Sensibility | 3.00% | ~9,282 |
+| The Two Shaundis | 3.00% | ~9,282 |
+| Benjamin [CENSORED] King | 2.00% | ~6,188 |
+| Better This Way | 2.00% | ~6,188 |
+| Bouncin' with an Old Friend | 2.00% | ~6,188 |
+| Our Gift to You | 2.00% | ~6,188 |
+| The Face of the Saints | 2.00% | ~6,188 |
+| The Twin Saints | 2.00% | ~6,188 |
+| Where's My Cape? | 2.00% | ~6,188 |
 | A Real Cluster.... | 1.00% | ~3,094 |
 | A Very Genki Holiday | 1.00% | ~3,094 |
 | Here! Catch! | 1.00% | ~3,094 |
@@ -61,8 +61,8 @@ Rating: 4.41 (Ranked 723)
 | Rigging the Race | 0.70% | ~2,166 |
 | Back in the Day | 0.60% | ~1,856 |
 | Health Inspector | 0.50% | ~1,547 |
-| Bringin' the Heat | 0.40% | ~1,237 |
-| Walking the Dinosaur | 0.40% | ~1,237 |
+| Bringin' the Heat | 0.40% | ~1,238 |
+| Walking the Dinosaur | 0.40% | ~1,238 |
 | Experimental Tech | 0.30% | ~928 |
 | Fist Meet Ground | 0.30% | ~928 |
 | Fourth and Forty | 0.30% | ~928 |
@@ -78,7 +78,7 @@ Rating: 4.41 (Ranked 723)
 | Super Power Team Up! | 0.10% | ~309 |
 | Ultimate Hot Potato | 0.10% | ~309 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309,371 (Ranked 53)  
+Progressed: 309,386 (Ranked 53)  
 Completed: 16 (0.01%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 16 (0.01%) (Ranked 341)
 | 2023-11-24 | 307,866 | 16 |
 | 2023-11-25 | 308,581 | 16 |
 | 2023-11-26 | 309,273 | 16 |
-| 2023-11-27 | 309,371 | 16 |
+| 2023-11-27 | 309,386 | 16 |
 ## Awards
 Max (Great Boss Battles): 493  (Ranked 212)  
 Sum: 493 (Ranked 326)  

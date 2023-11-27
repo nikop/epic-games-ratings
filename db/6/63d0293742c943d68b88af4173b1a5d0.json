@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -869,6 +869,11 @@
       "Time": "2023-11-27T02:26:06.6803685+00:00",
       "NumProgressed": 289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T04:03:20.5886401+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -921,7 +926,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "9",
@@ -953,7 +958,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Remake_005",
@@ -975,9 +980,9 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "Remake_008",
@@ -1104,14 +1109,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:03:37.7781213+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:03:20.5886397+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:57:47.9005535+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:03:37.7781462+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:57:47.2499381+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:03:20.5886626+00:00"
 }

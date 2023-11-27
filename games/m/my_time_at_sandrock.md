@@ -30,21 +30,21 @@ Number of Ratings: 892  (23.09.2022)
 | Mole Masher | 49.00% | ~239 |
 | You Don't Win Friends With Salad | 49.00% | ~239 |
 | Builder of the Month | 48.00% | ~234 |
+| Better Late than Never | 48.00% | ~234 |
 | Officially Official | 48.00% | ~234 |
 | Elementary, My Dear | 48.00% | ~234 |
 | Panda-kin | 47.00% | ~229 |
-| Better Late than Never | 47.00% | ~229 |
 | Anti-Santa | 47.00% | ~229 |
 | Knowledge is Power | 46.00% | ~224 |
 | Commissions, commissions...! | 46.00% | ~224 |
 | Martle's Dream | 46.00% | ~224 |
 | What Plants Crave | 46.00% | ~224 |
 | Call Me Fishmael | 46.00% | ~224 |
+| Waste Not Want Not | 46.00% | ~224 |
 | Lifeline Pipeline | 45.00% | ~219 |
-| Waste Not Want Not | 45.00% | ~219 |
 | Finishing Touches | 43.00% | ~209 |
 | Bridging the Gap | 41.00% | ~200 |
-| Got the Flow Back | 38.00% | ~185 |
+| Got the Flow Back | 39.00% | ~190 |
 | My Time Mansion | 37.00% | ~180 |
 | Who Ya Gonna Call...? | 36.00% | ~175 |
 | Jewel of the Eufaula | 35.00% | ~170 |

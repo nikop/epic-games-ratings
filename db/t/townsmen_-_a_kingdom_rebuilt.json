@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4358,
+  "EOS_Progressed": 4359,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1606,6 +1606,11 @@
       "Time": "2023-11-26T07:10:24.1183086+00:00",
       "NumProgressed": 4358,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-27T04:09:40.0405222+00:00",
+      "NumProgressed": 4359,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1689,7 +1694,7 @@
       "Name": "I like to build stuff... II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
@@ -1823,9 +1828,9 @@
       "ID": "ACHIEVEMENT_LORDOFWAR",
       "SetID": "9eacipp",
       "Name": "Lord of War",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_LOSTPLAGUE",
@@ -1871,9 +1876,9 @@
       "ID": "ACHIEVEMENT_POPULATION4",
       "SetID": "9eacipp",
       "Name": "Builder IV",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_POPULATION5",
@@ -1953,7 +1958,7 @@
       "Name": "Full-time job II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -2313,7 +2318,7 @@
       "Name": "A time consuming game II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -2345,7 +2350,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -2393,7 +2398,7 @@
       "Name": "Knee deep in snow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
@@ -2424,15 +2429,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4358,
+      "Progressed": 4359,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-16T20:57:28.2396436+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:09:53.6198366+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:09:40.0405217+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:46.3467623+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:00:12.8435314+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:09:53.6199394+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:59:41.8271235+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:09:40.0406634+00:00"
 }

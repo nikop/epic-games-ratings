@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1207,9 +1207,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 3091,
+  "EOS_Progressed": 3092,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5857,6 +5857,11 @@
       "Time": "2023-11-27T00:09:10.7217789+00:00",
       "NumProgressed": 3091,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-27T04:08:34.9297128+00:00",
+      "NumProgressed": 3092,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -5892,7 +5897,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -5924,7 +5929,7 @@
       "Name": "DIY Boss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -5964,7 +5969,7 @@
       "Name": "Globetrotter",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -6020,7 +6025,7 @@
       "Name": "Keeping it classy",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -6028,7 +6033,7 @@
       "Name": "Laid back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -6068,7 +6073,7 @@
       "Name": "NAHELL!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -6100,7 +6105,7 @@
       "Name": "Purple passion",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -6124,7 +6129,7 @@
       "Name": "Squad goals",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -6132,7 +6137,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -6251,15 +6256,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3091,
+      "Progressed": 3092,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-23T02:59:37.133828+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:08:35.8160288+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:08:34.9297123+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:03.7559297+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:57:33.6975372+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:08:35.8160924+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:57:36.3960551+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:08:34.9297564+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24574,
+  "EOS_Progressed": 24575,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6988,6 +6988,11 @@
       "Time": "2023-11-26T23:04:05.7482237+00:00",
       "NumProgressed": 24574,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-27T04:04:38.3594249+00:00",
+      "NumProgressed": 24575,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7039,7 +7044,7 @@
       "Name": "Creature Feature",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_GET_GUS",
@@ -7063,7 +7068,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -7071,7 +7076,7 @@
       "Name": "Lezduit!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -7079,7 +7084,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -7119,7 +7124,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -7143,7 +7148,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -7151,7 +7156,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -7167,7 +7172,7 @@
       "Name": "Self-Actualization",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -7183,7 +7188,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -7191,7 +7196,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -7223,7 +7228,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -7247,7 +7252,7 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_CHARGED_BALL_KILLS",
@@ -7350,13 +7355,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24574,
+      "Progressed": 24575,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1867,
+      "Progressed": 1868,
       "Completed": 1376
     }
   ],
@@ -7364,8 +7369,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:05:12.4769969+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:04:38.3594245+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.9623441+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:02:51.9160938+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:05:12.4770522+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:02:43.633528+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:04:38.3594901+00:00"
 }

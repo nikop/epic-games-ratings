@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57991,
+  "EOS_Progressed": 57994,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13181,6 +13181,11 @@
       "Time": "2023-11-27T03:05:46.4140678+00:00",
       "NumProgressed": 57991,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-27T04:05:06.0357459+00:00",
+      "NumProgressed": 57994,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13256,7 +13261,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4059
+      "UsersEstimate": 4060
     },
     {
       "ID": "FlyingPresent",
@@ -13336,7 +13341,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "HarshLove",
@@ -13528,7 +13533,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4059
+      "UsersEstimate": 4060
     },
     {
       "ID": "TimelySplash",
@@ -13583,7 +13588,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57991,
+      "Progressed": 57994,
       "Completed": 6
     }
   ],
@@ -13591,8 +13596,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:05:46.4140675+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:05:06.0357456+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.4965941+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:00:17.9428485+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:05:46.4141819+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:59:45.7434571+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:05:06.0358278+00:00"
 }

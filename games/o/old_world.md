@@ -573,7 +573,7 @@ Completed: 5 (0.03%) (Ranked 325)
 | 2023-11-27 | 15,517 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
-Sum: 1,876 (Ranked 218)  
+Sum: 1,877 (Ranked 218)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -585,7 +585,7 @@ Diff (max vs sum): 56
 | This game has Challenging Combat | 202 |
 | This game has Amazing Characters | 196 |
 | This game has Quickly Understood Controls | 194 |
-| This game has Amazing Storytelling | 192 |
+| This game has Amazing Storytelling | 193 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -756,4 +756,4 @@ Diff (max vs sum): 56
 | 2023-11-21 | 4.65 | - | 227 | 1,873 |
 | 2023-11-23 | 4.65 | - | 227 | 1,874 |
 | 2023-11-25 | 4.65 | - | 228 | 1,875 |
-| 2023-11-27 | 4.65 | - | 228 | 1,876 |
+| 2023-11-27 | 4.65 | - | 228 | 1,877 |

@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -512,9 +512,9 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "LW_complete",
@@ -544,9 +544,9 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -704,9 +704,9 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "demiurge_defeated",
@@ -720,9 +720,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "git_gud?",
@@ -809,8 +809,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:05:22.8179801+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:04:46.5780256+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:02.8022056+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:01:45.2001533+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:05:22.8180104+00:00"
+  "LastUpdate_Ratings": "2023-11-27T04:00:53.64238+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:04:46.5780467+00:00"
 }

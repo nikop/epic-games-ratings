@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25005,
+  "EOS_Progressed": 25008,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -24104,6 +24104,11 @@
       "Time": "2023-11-27T03:05:42.4639147+00:00",
       "NumProgressed": 25005,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-11-27T04:05:02.8316703+00:00",
+      "NumProgressed": 25008,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 20,
@@ -24139,7 +24144,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -24155,7 +24160,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -24163,7 +24168,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -24233,9 +24238,9 @@
       "ID": "INTRO_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Light at the end of the tunnel",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19254
+      "UsersEstimate": 19006
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24243,7 +24248,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6751
+      "UsersEstimate": 6752
     },
     {
       "ID": "NORTH_FINISHED",
@@ -24274,15 +24279,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25005,
+      "Progressed": 25008,
       "Completed": 477
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:05:42.4639132+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:05:02.8316699+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-11-27T03:00:15.9780303+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:05:42.4640587+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:59:44.1955655+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:05:02.8317897+00:00"
 }

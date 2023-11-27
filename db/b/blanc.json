@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3026,
+  "EOS_Progressed": 3029,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4446,6 +4446,11 @@
       "Time": "2023-11-27T01:52:56.2883847+00:00",
       "NumProgressed": 3026,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-27T04:05:30.3389719+00:00",
+      "NumProgressed": 3029,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4521,7 +4526,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4545,7 +4550,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4560,7 +4565,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3026,
+      "Progressed": 3029,
       "Completed": 6
     }
   ],
@@ -4568,8 +4573,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-27T03:06:16.3656195+00:00",
+  "LastChanged_Achievements": "2023-11-27T04:05:30.3389716+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:11.4172753+00:00",
-  "LastUpdate_Ratings": "2023-11-27T02:58:42.8952284+00:00",
-  "LastUpdate_Achievements": "2023-11-27T03:06:16.3656577+00:00"
+  "LastUpdate_Ratings": "2023-11-27T03:58:30.2501453+00:00",
+  "LastUpdate_Achievements": "2023-11-27T04:05:30.3390023+00:00"
 }
