@@ -13,7 +13,7 @@ Rating: 4.73 (Ranked 171)
 | Alchemist | 69.00% | ~9,672 |
 | Leaving all Behind | 66.00% | ~9,251 |
 | Felons | 63.00% | ~8,831 |
-| A Sea of Promises | 61.00% | ~8,550 |
+| A Sea of Promises | 62.00% | ~8,691 |
 | Tales and Revelations | 58.00% | ~8,130 |
 | Bloodline | 53.00% | ~7,429 |
 | The Cradle of Centuries | 49.00% | ~6,868 |
@@ -263,12 +263,12 @@ Completed: 55 (0.39%) (Ranked 220)
 | 2023-11-26 | 14,013 | 55 |
 | 2023-11-27 | 14,017 | 55 |
 ## Awards
-Max (Great Boss Battles): 431  (Ranked 225)  
-Sum: 678 (Ranked 300)  
-Diff (max vs sum): -75  
+Max (Great Boss Battles): 432  (Ranked 225)  
+Sum: 679 (Ranked 299)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 431 |
+| This game has Great Boss Battles | 432 |
 | This game is Highly Recommended | 34 |
 | This game is Great for Beginners | 33 |
 | This game has Amazing Storytelling | 30 |
@@ -360,3 +360,4 @@ Diff (max vs sum): -75
 | 2023-11-15 | 4.73 | 430 | 676 |
 | 2023-11-17 | 4.73 | 430 | 677 |
 | 2023-11-18 | 4.73 | 431 | 678 |
+| 2023-11-27 | 4.73 | 432 | 679 |

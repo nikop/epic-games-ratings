@@ -8,13 +8,13 @@ Rating: 4.75 (Ranked 147)
 | The Killing Jar | 0.60% | ~1,377 |
 | Regicide | 0.60% | ~52 |
 | Master of the Dark Arts | 0.60% | ~52 |
-| First of Many | 0.50% | ~1,147 |
+| First of Many | 0.50% | ~1,148 |
 | Not Your Average Trait | 0.40% | ~918 |
-| Expanding Horizons | 0.30% | ~688 |
-| Gleaming the Cube | 0.30% | ~688 |
-| Quest for Survival | 0.30% | ~688 |
-| Familiar Face | 0.30% | ~688 |
-| Boss'n Up | 0.30% | ~688 |
+| Expanding Horizons | 0.30% | ~689 |
+| Gleaming the Cube | 0.30% | ~689 |
+| Quest for Survival | 0.30% | ~689 |
+| Familiar Face | 0.30% | ~689 |
+| Boss'n Up | 0.30% | ~689 |
 | Am I Seeing This? | 0.20% | ~459 |
 | Ghost in the Machine | 0.20% | ~459 |
 | Chaos | 0.20% | ~459 |
@@ -40,28 +40,28 @@ Rating: 4.75 (Ranked 147)
 | Trait Chaser | 0.20% | ~459 |
 | Succession | 0.20% | ~17 |
 | You Shall Pass | 0.20% | ~17 |
-| Crafty | 0.10% | ~229 |
-| Only Human | 0.10% | ~229 |
-| Forever is a Long Time Coming | 0.10% | ~229 |
-| Madman's Paradise | 0.10% | ~229 |
-| Red Room | 0.10% | ~229 |
-| The Agenda | 0.10% | ~229 |
-| Tall Tales | 0.10% | ~229 |
-| Bad Moon Rising | 0.10% | ~229 |
-| The Trigger | 0.10% | ~229 |
-| Cutting Edge | 0.10% | ~229 |
-| The Web | 0.10% | ~229 |
-| The Collector | 0.10% | ~229 |
-| All These Traits� | 0.10% | ~229 |
-| Proving Grounds | 0.10% | ~229 |
-| Carnage in C-Minor | 0.10% | ~229 |
-| The Ultimate Weapon | 0.10% | ~229 |
-| No One Should Have All That Power | 0.10% | ~229 |
-| Maxed Out! | 0.10% | ~229 |
-| Transmutate | 0.10% | ~229 |
+| Crafty | 0.10% | ~230 |
+| Only Human | 0.10% | ~230 |
+| Forever is a Long Time Coming | 0.10% | ~230 |
+| Madman's Paradise | 0.10% | ~230 |
+| Red Room | 0.10% | ~230 |
+| The Agenda | 0.10% | ~230 |
+| Tall Tales | 0.10% | ~230 |
+| Bad Moon Rising | 0.10% | ~230 |
+| The Trigger | 0.10% | ~230 |
+| Cutting Edge | 0.10% | ~230 |
+| The Web | 0.10% | ~230 |
+| The Collector | 0.10% | ~230 |
+| All These Traits� | 0.10% | ~230 |
+| Proving Grounds | 0.10% | ~230 |
+| Carnage in C-Minor | 0.10% | ~230 |
+| The Ultimate Weapon | 0.10% | ~230 |
+| No One Should Have All That Power | 0.10% | ~230 |
+| Maxed Out! | 0.10% | ~230 |
+| Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,487 (Ranked 68)  
+Progressed: 229,524 (Ranked 68)  
 Completed: 538 (0.23%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,10 +195,10 @@ Completed: 538 (0.23%) (Ranked 249)
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
-| 2023-11-27 | 229,487 | 538 |
+| 2023-11-27 | 229,524 | 538 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
-Sum: 6,028 (Ranked 129)  
+Sum: 6,037 (Ranked 129)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -206,12 +206,12 @@ Diff (max vs sum): -25
 | This game has Diverse Characters | 399 |
 | This game is Highly Recommended | 387 |
 | This game has Challenging Combat | 376 |
-| This game is Extremely Fun | 371 |
+| This game is Extremely Fun | 375 |
 | This game has Amazing Storytelling | 368 |
 | This game is Relaxing | 366 |
 | This game has Quickly Understood Controls | 357 |
 | This game has Amazing Characters | 347 |
-| This game has Unique Visuals | 300 |
+| This game has Unique Visuals | 305 |
 | This game has a Creative Community | 277 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -340,4 +340,4 @@ Diff (max vs sum): -25
 | 2023-11-24 | 4.75 | 2,415 | 5,845 |
 | 2023-11-25 | 4.75 | 2,436 | 5,922 |
 | 2023-11-26 | 4.75 | 2,455 | 5,967 |
-| 2023-11-27 | 4.75 | 2,480 | 6,028 |
+| 2023-11-27 | 4.75 | 2,480 | 6,037 |

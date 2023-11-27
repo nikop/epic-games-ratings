@@ -2,10 +2,10 @@
   "ID": "80887b9295fb4f8d9ab0d0a03c0bd191",
   "Name": "Forest Ranger Simulator",
   "ProductSlug": "forest-ranger-simulator-31788c",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-09-01T15:00:00+00:00",
     "PcReleaseDate": "2023-04-24T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-01T23:59:05.2575318+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:30.4433809+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:58:34.3964964+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:07:21.7095298+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:58:17.8403863+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:07:03.4505336+00:00"
 }

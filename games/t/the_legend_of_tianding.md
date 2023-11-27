@@ -24,8 +24,8 @@
 | Tour Guide | 23.00% | ~6 |
 | Not Today | 23.00% | ~6 |
 | Talk to the Fist | 19.00% | ~5 |
+| Tomb Raider | 19.00% | ~5 |
 | The Real O.G. | 15.00% | ~4 |
-| Tomb Raider | 15.00% | ~4 |
 | Collector | 8.00% | ~2 |
 | The Hero of the People | 8.00% | ~2 |
 | Taoist | 8.00% | ~2 |

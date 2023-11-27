@@ -14,7 +14,7 @@
 | Good Karma | 30.00% | ~205 |
 | Office Clerk | 28.00% | ~191 |
 | Protector | 27.00% | ~184 |
-| The Bribe | 25.00% | ~170 |
+| The Bribe | 26.00% | ~177 |
 | The Ploy | 16.00% | ~109 |
 | Interrogation | 16.00% | ~109 |
 | Sabotage | 11.00% | ~75 |

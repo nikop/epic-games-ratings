@@ -10,6 +10,7 @@ Rating: 4.61 (Ranked 382)
 | A Wonderful Discovery | 3.00% | ~166 |
 | Secret Technique | 3.00% | ~166 |
 | Walls Cannot Stop Us | 3.00% | ~166 |
+| Valley of Wonders | 2.00% | ~110 |
 | There Can Only Be One! | 2.00% | ~110 |
 | Full Ascension | 2.00% | ~110 |
 | Bone Peddler | 2.00% | ~110 |
@@ -19,7 +20,6 @@ Rating: 4.61 (Ranked 382)
 | Seat of Power | 2.00% | ~110 |
 | In a Liege of Your Own | 2.00% | ~110 |
 | Freed Lands of Manuhari | 2.00% | ~110 |
-| Valley of Wonders | 1.00% | ~55 |
 | Return of the Wizard King | 1.00% | ~55 |
 | Enchanted Archipelago | 1.00% | ~55 |
 | Digging for Treasure | 1.00% | ~55 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 382)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,519 (Ranked 189)  
+Progressed: 5,520 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 7 (0.13%) (Ranked 273)
 | 2023-11-24 | 5,463 | 7 |
 | 2023-11-25 | 5,496 | 7 |
 | 2023-11-26 | 5,515 | 7 |
-| 2023-11-27 | 5,519 | 7 |
+| 2023-11-27 | 5,520 | 7 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 482)  
 Sum: 60 (Ranked 477)  

@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 180,
-  "EOS_Completed": 27,
+  "EOS_Completed": 28,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 15,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 15.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.0136119+00:00",
@@ -265,6 +265,11 @@
       "Time": "2023-11-26T00:03:30.2367396+00:00",
       "NumProgressed": 180,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-27T19:04:22.8885367+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 53,
@@ -482,9 +487,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_8",
       "SetID": "ak6pfjk",
       "Name": "Starry: The Deep",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 55,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "BADGE_BUILDINGS_CAPTURE",
@@ -586,9 +591,9 @@
       "ID": "BADGE_LOVELESS",
       "SetID": "ak6pfjk",
       "Name": "Loveless",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "BADGE_MANA_POTIONS_COLLECT",
@@ -700,15 +705,15 @@
       "ID": "ak6pfjk",
       "IsBase": true,
       "Progressed": 180,
-      "Completed": 27
+      "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:36.5493914+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:04:39.0405793+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:04:22.8885361+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.1571456+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:02:43.1935757+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:04:39.0406105+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:02:39.419069+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:04:22.8885667+00:00"
 }

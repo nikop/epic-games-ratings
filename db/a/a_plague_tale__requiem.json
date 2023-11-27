@@ -4,11 +4,11 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 171,
   "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 300,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -573,18 +573,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 678,
       "NumberOfAwardsMax": 431
+    },
+    {
+      "Time": "2023-11-27T18:59:12.8299661+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 679,
+      "NumberOfAwardsMax": 432
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 678,
-  "NumberOfAwardsMax": 431,
+  "NumberOfAwards": 679,
+  "NumberOfAwardsMax": 432,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 431
+      "Count": 432
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11776,9 +11782,9 @@
       "ID": "ACH_08",
       "SetID": "9d4cf4c",
       "Name": "A Sea of Promises",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8550
+      "UsersEstimate": 8691
     },
     {
       "ID": "ACH_09",
@@ -12008,9 +12014,9 @@
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-11-18T18:58:13.2063363+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:05:38.883662+00:00",
+  "LastChanged": "2023-11-27T18:59:12.8299657+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:05:21.8789201+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.0182859+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:59:30.7914451+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:05:38.8837296+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:59:12.8299666+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:05:21.8789813+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "24d07b638f8c49c5a5c3760136c747e6",
   "Name": "Luna Abyss",
   "ProductSlug": "luna-abyss-696590",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T19:57:07.480126+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:00:02.2077212+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:06:33.4216244+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:59:43.6739609+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:06:15.1038177+00:00"
 }

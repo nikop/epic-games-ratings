@@ -9,9 +9,9 @@ Rating: 4.21 (Ranked 906)
 | The touch of Chaos | 2.00% | ~6,398 |
 | A powerful aura was here | 1.00% | ~3,199 |
 | Let's raise the stakes!! | 0.70% | ~2,239 |
-| Rumors are true | 0.50% | ~1,599 |
-| Pride is a sin, young Knight | 0.50% | ~1,599 |
-| Your wounds… They are healing so fast! | 0.50% | ~1,599 |
+| Rumors are true | 0.50% | ~1,600 |
+| Pride is a sin, young Knight | 0.50% | ~1,600 |
+| Your wounds… They are healing so fast! | 0.50% | ~1,600 |
 | We'll be careful | 0.40% | ~1,280 |
 | Back to your senses | 0.30% | ~960 |
 | They tricked me | 0.30% | ~960 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 906)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319,877 (Ranked 51)  
+Progressed: 319,916 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 4 (0.00%) (Ranked 361)
 | 2023-11-24 | 317,863 | 4 |
 | 2023-11-25 | 318,672 | 4 |
 | 2023-11-26 | 319,464 | 4 |
-| 2023-11-27 | 319,877 | 4 |
+| 2023-11-27 | 319,916 | 4 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 412)  
 Sum: 63 (Ranked 474)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3689,
+  "EOS_Progressed": 3690,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5688,6 +5688,11 @@
       "Time": "2023-11-27T18:07:46.8607667+00:00",
       "NumProgressed": 3689,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T19:07:27.7502882+00:00",
+      "NumProgressed": 3690,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5763,7 +5768,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5771,7 +5776,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ForAllAurai_8",
@@ -5803,7 +5808,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "HouseofCards_19",
@@ -5883,7 +5888,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5899,7 +5904,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -6034,15 +6039,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3689,
+      "Progressed": 3690,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:07:46.8607663+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:07:27.7502878+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:25.5279181+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:59:49.546051+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:07:46.8608302+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:59:31.3458518+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:07:27.7503591+00:00"
 }

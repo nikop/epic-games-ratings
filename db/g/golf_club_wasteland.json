@@ -2,10 +2,10 @@
   "ID": "f7203037288e4949b5b74f0855025aec",
   "Name": "Golf Club Nostalgia",
   "ProductSlug": "golf-club-wasteland-f6771e",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2021-09-03T08:00:00+00:00",
     "PcReleaseDate": "2021-09-03T19:00:00+00:00",
@@ -50,8 +50,8 @@
   "FirstSeenRating": "2023-03-31T05:58:02.949472+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:40.3311052+00:00",
   "LastChanged": "2023-03-31T05:58:02.9494721+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:04:21.0431399+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:04:04.7065015+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.7619965+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:57:27.5283497+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:04:21.0431417+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:57:12.8125248+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:04:04.7065063+00:00"
 }

@@ -21,15 +21,15 @@
 | Piece of Cake | 42.00% | ~475 |
 | Gooey Delight! | 42.00% | ~475 |
 | Glimmer of Hope | 42.00% | ~475 |
+| The Guardian | 41.00% | ~464 |
 | Teacups for Toppy | 41.00% | ~464 |
 | Nightmare Fuel | 40.00% | ~453 |
 | Take Heart | 40.00% | ~453 |
-| The Guardian | 40.00% | ~453 |
 | Well Rested | 40.00% | ~453 |
+| Ancient Wisdom | 39.00% | ~441 |
+| All That Glistens | 39.00% | ~441 |
 | Stronger! | 39.00% | ~441 |
-| Ancient Wisdom | 38.00% | ~430 |
 | Frog Facts! | 38.00% | ~430 |
-| All That Glistens | 38.00% | ~430 |
 | Spellbound | 37.00% | ~419 |
 | All Skilled Up! | 37.00% | ~419 |
 | It's Pointy! | 37.00% | ~419 |

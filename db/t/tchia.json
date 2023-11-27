@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7831,
+  "EOS_Progressed": 7832,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8495,6 +8495,11 @@
       "Time": "2023-11-27T11:06:47.5935236+00:00",
       "NumProgressed": 7831,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-27T19:08:43.8581161+00:00",
+      "NumProgressed": 7832,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8522,7 +8527,7 @@
       "Name": "Audiophile",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -8530,7 +8535,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -8578,7 +8583,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -8673,7 +8678,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7831,
+      "Progressed": 7832,
       "Completed": 34
     }
   ],
@@ -8681,8 +8686,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-22T17:57:52.5029935+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:08:33.7011177+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:08:43.8581158+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:19.2388904+00:00",
   "LastUpdate_Ratings": "2023-11-27T18:02:39.3030106+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:08:33.7011799+00:00"
+  "LastUpdate_Achievements": "2023-11-27T19:08:43.8581645+00:00"
 }

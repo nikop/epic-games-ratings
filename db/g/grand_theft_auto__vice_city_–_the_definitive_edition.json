@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -877,9 +877,9 @@
       "Count": 112
     }
   ],
-  "EOS_Progressed": 11112,
+  "EOS_Progressed": 11113,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13322,6 +13322,11 @@
       "Time": "2023-11-27T12:09:07.5100678+00:00",
       "NumProgressed": 11112,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-27T19:09:03.3296017+00:00",
+      "NumProgressed": 11113,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13381,7 +13386,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH08",
@@ -13389,7 +13394,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH09",
@@ -13604,7 +13609,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11112,
+      "Progressed": 11113,
       "Completed": 65
     }
   ],
@@ -13612,8 +13617,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-26T08:58:55.4778797+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:08:53.3554229+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:09:03.3296013+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:45.8574591+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:00:42.9996396+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:08:53.3555037+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:00:22.9673618+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:09:03.3296617+00:00"
 }

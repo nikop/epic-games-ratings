@@ -3,7 +3,7 @@
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4385,
+  "EOS_Progressed": 4386,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 0.94,
+  "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
     {
       "Time": "2023-10-29T23:05:30.6543669+00:00",
@@ -3179,6 +3179,11 @@
       "Time": "2023-11-27T18:06:55.5631877+00:00",
       "NumProgressed": 4385,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-11-27T19:06:36.9235616+00:00",
+      "NumProgressed": 4386,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3207,7 +3212,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -3215,7 +3220,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -3247,7 +3252,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 3464
+      "UsersEstimate": 3465
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -3318,14 +3323,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4385,
+      "Progressed": 4386,
       "Completed": 41
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:06:55.5631872+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:06:36.9235611+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:59:29.7613521+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:06:55.5632139+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:59:11.8183094+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:06:36.9235864+00:00"
 }

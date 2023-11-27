@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -2656,9 +2656,9 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 837
+      "UsersEstimate": 847
     }
   ],
   "AchievementSets": [
@@ -2671,8 +2671,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:09:43.522892+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:09:42.8694971+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:00.5073465+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:57:36.5262227+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:09:43.5229094+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:57:21.8390102+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:09:42.8695204+00:00"
 }

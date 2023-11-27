@@ -2,10 +2,10 @@
   "ID": "fabf1b610a0c43dcb8c5b7550f92980c",
   "Name": "Land of the Vikings",
   "ProductSlug": "land-of-the-vikings-d542d8",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-10-20T12:00:00+00:00",
     "PcReleaseDate": "2023-10-20T12:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-10-27T23:58:15.2562481+00:00",
   "FirstSeenAchievements": "2023-10-25T15:03:30.62374+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:06:03.161051+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:05:45.5836897+00:00",
   "LastUpdate_AppInfo": "2023-11-22T17:57:01.3900114+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:02:44.2199381+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:06:03.1610544+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:02:40.3354793+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:05:45.583693+00:00"
 }

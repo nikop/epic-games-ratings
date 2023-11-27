@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8305,
+  "EOS_Progressed": 8307,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7417,6 +7417,11 @@
       "Time": "2023-11-27T16:10:13.6059833+00:00",
       "NumProgressed": 8305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T19:10:13.7259375+00:00",
+      "NumProgressed": 8307,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7477,7 +7482,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "CreditsSpent50000",
@@ -7541,7 +7546,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "GamesPlayed1",
@@ -7621,7 +7626,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "HAUpgraded1",
@@ -7645,7 +7650,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "HSUPurchased1",
@@ -7693,7 +7698,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "InhibitorKills3",
@@ -7797,7 +7802,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "MaxTowersKilled6",
@@ -7853,7 +7858,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "PlayerKills10",
@@ -7861,7 +7866,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "PlayerKills100",
@@ -7989,7 +7994,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "TSUPurchased1",
@@ -8020,7 +8025,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8305,
+      "Progressed": 8307,
       "Completed": 1
     }
   ],
@@ -8028,8 +8033,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-24T13:07:54.0480111+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:10:14.9381198+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:10:13.7259371+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:03:17.3988176+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:10:14.9382008+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:03:02.7143296+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:10:13.726022+00:00"
 }

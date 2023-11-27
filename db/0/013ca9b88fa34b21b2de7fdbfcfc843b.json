@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -193,7 +193,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8121,
+  "EOS_Progressed": 8122,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -7598,6 +7598,11 @@
       "Time": "2023-11-27T16:10:06.9199503+00:00",
       "NumProgressed": 8121,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T19:10:06.7793626+00:00",
+      "NumProgressed": 8122,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7610,7 +7615,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5847
+      "UsersEstimate": 5848
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7618,7 +7623,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5767
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7714,7 +7719,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3979
+      "UsersEstimate": 3980
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7889,22 +7894,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8121,
+      "Progressed": 8122,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 738,
-      "Completed": 738
+      "Progressed": 739,
+      "Completed": 739
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:10:08.0572357+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:10:06.7793623+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:03:23.4567012+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:10:08.0572993+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:03:08.591668+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:10:06.7794073+00:00"
 }

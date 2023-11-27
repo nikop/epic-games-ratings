@@ -2,10 +2,10 @@
   "ID": "d5b4322bbf1f49b981ddc340e64be4df",
   "Name": "Galactic Defender",
   "ProductSlug": "galacticdefender-0d9f3d",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-08-14T18:00:00+00:00",
     "PcReleaseDate": "2023-08-14T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-26T02:20:29.7897193+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:57:41.4629243+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:05:13.5708017+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:57:26.8178623+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:04:56.6883683+00:00"
 }

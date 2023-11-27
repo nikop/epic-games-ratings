@@ -2,10 +2,10 @@
   "ID": "2d011ba02fff43398db33de14f329bcb",
   "Name": "The Empress of Mahjong",
   "ProductSlug": "royal-defense-d046db",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-05-18T18:00:00+00:00",
     "PcReleaseDate": "2023-05-10T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-04T04:57:56.413751+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:08.7206338+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:00:32.1298919+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:05:27.1892715+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:00:12.4059901+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:05:09.9835517+00:00"
 }

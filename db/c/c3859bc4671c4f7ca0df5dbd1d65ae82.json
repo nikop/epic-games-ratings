@@ -2,10 +2,10 @@
   "ID": "c3859bc4671c4f7ca0df5dbd1d65ae82",
   "Name": "Seekers of Tokane",
   "ProductSlug": "seekers-of-tokane-a5986d",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.2821784+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:00:31.4675824+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:04:39.673923+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:00:11.8626415+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:04:23.4678185+00:00"
 }

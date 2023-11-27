@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 939,
+  "EOS_Progressed": 940,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2514,6 +2514,11 @@
       "Time": "2023-11-27T14:09:02.2585648+00:00",
       "NumProgressed": 939,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-27T19:09:27.2748103+00:00",
+      "NumProgressed": 940,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2549,7 +2554,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2573,7 +2578,7 @@
       "Name": "Like Clockwork",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ClovemaryGift",
@@ -2627,9 +2632,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 94
     },
     {
       "ID": "FairgroundsChests1",
@@ -2653,7 +2658,7 @@
       "Name": "The Betrayer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2677,7 +2682,7 @@
       "Name": "Whiz Kid",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "GrindingTime1",
@@ -2837,7 +2842,7 @@
       "Name": "Golem Chaser",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "SkillCompletion1",
@@ -2885,7 +2890,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "TheaterChests1",
@@ -2948,7 +2953,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 939,
+      "Progressed": 940,
       "Completed": 6
     }
   ],
@@ -2956,8 +2961,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:09:27.5720238+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:09:27.27481+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:59:06.7555666+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:09:27.572075+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:58:50.8572836+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:09:27.2748502+00:00"
 }

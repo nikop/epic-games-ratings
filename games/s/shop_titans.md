@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,549 |
-| Basic in Bulk | 6.00% | ~8,549 |
-| Titan's First Steps | 6.00% | ~8,549 |
-| Tinkle of Coins | 5.00% | ~7,124 |
+| Sponsored by Argon | 6.00% | ~8,550 |
+| Basic in Bulk | 6.00% | ~8,550 |
+| Titan's First Steps | 6.00% | ~8,550 |
+| Tinkle of Coins | 5.00% | ~7,125 |
 | Disintermediation | 4.00% | ~5,700 |
 | It's Free Real Estate | 4.00% | ~5,700 |
 | Budding Merchant | 4.00% | ~5,700 |
@@ -17,6 +17,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 3.00% | ~4,275 |
 | One Easy Payment | 3.00% | ~4,275 |
 | Some Assembly Required | 3.00% | ~4,275 |
+| Bounty Hunters | 3.00% | ~4,275 |
 | Another Satisfied Customer | 3.00% | ~4,275 |
 | Pretty Penny | 3.00% | ~4,275 |
 | One-Armed Bandit | 3.00% | ~4,275 |
@@ -27,7 +28,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 2.00% | ~2,850 |
 | Research & Development | 2.00% | ~2,850 |
 | Vanity, Verily | 2.00% | ~2,850 |
-| Bounty Hunters | 2.00% | ~2,850 |
 | Fated Encounters | 2.00% | ~2,850 |
 | For the Hoard! | 2.00% | ~2,850 |
 | Blank Page Syndrome | 2.00% | ~2,850 |
@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 2.00% | ~2,850 |
 | Where it Hurts | 2.00% | ~2,850 |
 | Power of Love | 2.00% | ~2,850 |
+| Expansion in Session | 2.00% | ~2,850 |
 | Efficient Floor Space | 2.00% | ~2,850 |
 | Flawless Fusion | 2.00% | ~2,850 |
 | Trash to Treasure | 2.00% | ~2,850 |
@@ -73,7 +74,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 1.00% | ~1,425 |
 | Hidden Potential | 1.00% | ~1,425 |
 | Supercharged | 1.00% | ~1,425 |
-| Expansion in Session | 1.00% | ~1,425 |
 | Ritualist | 1.00% | ~1,425 |
 | Cranked up to 11 | 1.00% | ~1,425 |
 | Fit for a King | 1.00% | ~1,425 |
@@ -101,25 +101,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 1.00% | ~1,425 |
 | Economy of Scarce | 1.00% | ~1,425 |
 | King's Blade | 1.00% | ~1,425 |
-| Thank You Tom Nook | 0.90% | ~1,282 |
-| Jackpot! | 0.90% | ~1,282 |
+| Thank You Tom Nook | 0.90% | ~1,283 |
+| Jackpot! | 0.90% | ~1,283 |
 | The Free Encyclopedia | 0.80% | ~1,140 |
 | Eternal Crusade | 0.80% | ~1,140 |
 | The Greatest Grind | 0.60% | ~855 |
 | All or Nothing! | 0.60% | ~855 |
-| Bane of Legends | 0.50% | ~712 |
-| JACKPOT!!! | 0.50% | ~712 |
-| Anything not Nailed Down | 0.50% | ~712 |
-| Marvels from the World Over | 0.50% | ~712 |
+| Bane of Legends | 0.50% | ~713 |
+| JACKPOT!!! | 0.50% | ~713 |
+| Anything not Nailed Down | 0.50% | ~713 |
+| Marvels from the World Over | 0.50% | ~713 |
 | Ultimate Collector | 0.40% | ~570 |
 | Unleashed Potential | 0.40% | ~570 |
-| Oligarch Monarch | 0.30% | ~427 |
-| Merchant Extraordinaire | 0.30% | ~427 |
-| To Hell and Back | 0.30% | ~427 |
-| Cash Only Please | 0.30% | ~427 |
+| Oligarch Monarch | 0.30% | ~428 |
+| Merchant Extraordinaire | 0.30% | ~428 |
+| To Hell and Back | 0.30% | ~428 |
+| Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,488 (Ranked 80)  
+Progressed: 142,502 (Ranked 80)  
 Completed: 278 (0.20%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 278 (0.20%) (Ranked 256)
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
-| 2023-11-27 | 142,488 | 278 |
+| 2023-11-27 | 142,502 | 278 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,609 (Ranked 50)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7255,9 +7255,9 @@
       "Count": 3786
     }
   ],
-  "EOS_Progressed": 142488,
+  "EOS_Progressed": 142502,
   "EOS_Completed": 278,
-  "EOS_NewPlayers": 1778,
+  "EOS_NewPlayers": 1787,
   "EOS_NewCompleters": 90,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30115,6 +30115,11 @@
       "Time": "2023-11-27T18:03:47.5681273+00:00",
       "NumProgressed": 142488,
       "NumCompleted": 278
+    },
+    {
+      "Time": "2023-11-27T19:03:32.0870922+00:00",
+      "NumProgressed": 142502,
+      "NumCompleted": 278
     }
   ],
   "TotalAchievements": 112,
@@ -30260,9 +30265,9 @@
       "ID": "boss01",
       "SetID": "anfd17p",
       "Name": "Bounty Hunters",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2850
+      "UsersEstimate": 4275
     },
     {
       "ID": "boss02",
@@ -30278,7 +30283,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "champions01",
@@ -30294,7 +30299,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8549
+      "UsersEstimate": 8550
     },
     {
       "ID": "chest02",
@@ -30358,7 +30363,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8549
+      "UsersEstimate": 8550
     },
     {
       "ID": "commonres02",
@@ -30422,7 +30427,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "damage01",
@@ -30508,9 +30513,9 @@
       "ID": "expansion02",
       "SetID": "anfd17p",
       "Name": "Expansion in Session",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1425
+      "UsersEstimate": 2850
     },
     {
       "ID": "expansion03",
@@ -30518,7 +30523,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "fullmoon",
@@ -30598,7 +30603,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "gold02",
@@ -30686,7 +30691,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "jackslot03",
@@ -30694,7 +30699,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "legenchant01",
@@ -30734,7 +30739,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "lilu_a",
@@ -30774,7 +30779,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "master01",
@@ -30862,7 +30867,7 @@
       "Name": "To Hell and Back",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "rareres01",
@@ -30886,7 +30891,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "rudo_a",
@@ -30918,7 +30923,7 @@
       "Name": "Cash Only Please",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "sia_a",
@@ -30942,7 +30947,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8549
+      "UsersEstimate": 8550
     },
     {
       "ID": "twinenchant01",
@@ -31021,15 +31026,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142488,
+      "Progressed": 142502,
       "Completed": 278
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-27T16:03:08.6604684+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:03:47.5681268+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:03:32.0870916+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:03:18.8786092+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:03:47.568344+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:03:04.0813255+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:03:32.0872812+00:00"
 }

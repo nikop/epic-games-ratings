@@ -7,16 +7,16 @@ Rating: 4.57 (Ranked 474)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 29.00% | ~976 |
 | Sputnik 2049 | 26.00% | ~875 |
-| Infinite Growth... | 25.00% | ~841 |
-| Without Breaking Some Eggs... | 24.00% | ~807 |
+| Infinite Growth... | 25.00% | ~842 |
+| Without Breaking Some Eggs... | 24.00% | ~808 |
 | Ready for a New World | 18.00% | ~606 |
 | Space Society | 17.00% | ~572 |
 | A Thousand Strong | 17.00% | ~572 |
 | Permanent Redesigns | 15.00% | ~505 |
 | Fully Recycled | 14.00% | ~471 |
 | The Ship of Theseus | 14.00% | ~471 |
-| Guy de Borderlands | 13.00% | ~437 |
-| Ain't Nobody Got Time for That | 13.00% | ~437 |
+| Guy de Borderlands | 13.00% | ~438 |
+| Ain't Nobody Got Time for That | 13.00% | ~438 |
 | Exceeding Capacity | 12.00% | ~404 |
 | Breaking Protocol | 12.00% | ~404 |
 | Hope Seeker | 12.00% | ~404 |
@@ -25,9 +25,9 @@ Rating: 4.57 (Ranked 474)
 | Power Outage | 8.00% | ~269 |
 | Convenient Transport | 8.00% | ~269 |
 | Please Make it Stop! | 8.00% | ~269 |
-| Sightseeing | 7.00% | ~235 |
-| Necessary Enhancement | 7.00% | ~235 |
-| From the Past | 7.00% | ~235 |
+| Sightseeing | 7.00% | ~236 |
+| Necessary Enhancement | 7.00% | ~236 |
+| From the Past | 7.00% | ~236 |
 | Access Granted | 6.00% | ~202 |
 | All in Good Health | 6.00% | ~202 |
 | Oats | 5.00% | ~168 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 474)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,364 (Ranked 207)  
+Progressed: 3,366 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 3,342 | 0 |
 | 2023-11-25 | 3,349 | 0 |
 | 2023-11-26 | 3,362 | 0 |
-| 2023-11-27 | 3,364 | 0 |
+| 2023-11-27 | 3,366 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

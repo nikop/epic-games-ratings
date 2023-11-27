@@ -2,10 +2,10 @@
   "ID": "0862b356073847109ed433f008822505",
   "Name": "Forklift 2024 - The Simulation",
   "ProductSlug": "forklift-2024-the-simulation-eb32c5",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-08-14T23:00:00+00:00",
     "PcReleaseDate": "2023-08-14T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-26T02:20:30.1263861+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:03:00.8566792+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:05:18.4970982+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:02:56.495747+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:05:01.5899678+00:00"
 }

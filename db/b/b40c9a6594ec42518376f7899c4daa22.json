@@ -2,10 +2,10 @@
   "ID": "b40c9a6594ec42518376f7899c4daa22",
   "Name": "Tiki Tandems",
   "ProductSlug": "eos_tikitandemstest-f3dbe7",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
     "PcReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-21T19:56:56.6294619+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:03:32.4428426+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:04:17.6035134+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:03:17.3225631+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:04:01.3104713+00:00"
 }

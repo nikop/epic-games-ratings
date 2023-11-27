@@ -2,10 +2,10 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 948,
+  "EOS_Progressed": 949,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -3624,6 +3624,11 @@
       "Time": "2023-11-26T18:10:05.1309839+00:00",
       "NumProgressed": 948,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T19:10:05.4360812+00:00",
+      "NumProgressed": 949,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3659,7 +3664,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "BudgetFlight",
@@ -3817,9 +3822,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 142
     },
     {
       "ID": "Millionaire",
@@ -3835,7 +3840,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "NoTimeForModernization",
@@ -3851,7 +3856,7 @@
       "Name": "No Way Back",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "NotPlanned",
@@ -3970,14 +3975,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 948,
+      "Progressed": 949,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:10:06.5373272+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:10:05.4360809+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:54.7052462+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:57:36.3180507+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:10:06.5373732+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:57:21.5030378+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:10:05.436116+00:00"
 }

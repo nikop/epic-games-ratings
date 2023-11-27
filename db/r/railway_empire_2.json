@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -283,7 +283,7 @@
   "Tags": [],
   "EOS_Progressed": 2264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6493,9 +6493,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1607
     },
     {
       "ID": "A37",
@@ -6597,9 +6597,9 @@
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 702
     },
     {
       "ID": "A50",
@@ -6654,8 +6654,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:06:16.2319468+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:05:58.3712107+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.9441553+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:01:32.4038276+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:06:16.232001+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:01:10.0796251+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:05:58.3712662+00:00"
 }

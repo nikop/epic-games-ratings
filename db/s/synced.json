@@ -1155,9 +1155,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 67624,
+  "EOS_Progressed": 67626,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10655,6 +10655,11 @@
       "Time": "2023-11-27T18:04:56.3144665+00:00",
       "NumProgressed": 67624,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-27T19:04:40.055095+00:00",
+      "NumProgressed": 67626,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10667,7 +10672,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23668
+      "UsersEstimate": 23669
     },
     {
       "ID": "10",
@@ -10699,7 +10704,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "14",
@@ -10707,7 +10712,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "15",
@@ -10723,7 +10728,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "2",
@@ -10731,7 +10736,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12172
+      "UsersEstimate": 12173
     },
     {
       "ID": "3",
@@ -10747,7 +10752,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6762
+      "UsersEstimate": 6763
     },
     {
       "ID": "5",
@@ -10763,7 +10768,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "7",
@@ -10787,14 +10792,14 @@
       "Name": "Past Master",
       "Percentage": 0.4,
       "XP": 200,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67624,
+      "Progressed": 67626,
       "Completed": 36
     }
   ],
@@ -10802,8 +10807,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-27T05:01:35.3952777+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:04:56.3144662+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:04:40.0550945+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:02:35.7209026+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:04:56.3145284+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:01:32.6245089+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:04:40.0551548+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 327,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -697,6 +697,11 @@
       "Time": "2023-11-27T17:08:06.340743+00:00",
       "NumProgressed": 324,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T19:08:57.4546625+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -709,7 +714,7 @@
       "Name": "Combo Crackerjack",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND1",
@@ -717,7 +722,7 @@
       "Name": "Kronos Island Explorer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -725,7 +730,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -757,7 +762,7 @@
       "Name": "Easy Prey",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -765,15 +770,15 @@
       "Name": "Combo Convert",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -789,7 +794,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -797,31 +802,31 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 59
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 268
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 144
     },
     {
       "ID": "FIRST_S_RANK",
@@ -829,7 +834,7 @@
       "Name": "Superior Ranking",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -837,23 +842,23 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "GET_FISH_ALL",
       "SetID": "apihg0e",
       "Name": "Angler\u0027s Club",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "KODAMA_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Koco Leader",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -861,7 +866,7 @@
       "Name": "The Beginning",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -869,7 +874,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -885,7 +890,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -893,7 +898,7 @@
       "Name": "A Land at Peace",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MAIN_CLEAR_TUTORIAL",
@@ -901,7 +906,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 177
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -925,7 +930,7 @@
       "Name": "Ares Island Memories",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD3",
@@ -1019,23 +1024,23 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:08:47.3578898+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:08:57.4546619+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:02:27.6943564+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:08:47.3579159+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:01:24.7907003+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:08:57.4546855+00:00"
 }

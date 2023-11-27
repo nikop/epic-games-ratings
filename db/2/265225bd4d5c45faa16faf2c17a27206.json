@@ -2,10 +2,10 @@
   "ID": "265225bd4d5c45faa16faf2c17a27206",
   "Name": "SteamWorld Dig 2",
   "ProductSlug": "steamworld-dig-2-148dfc",
-  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2017-09-22T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-23T02:19:16.6464373+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:00:30.7001342+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:06:01.5725641+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:00:10.9989849+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:05:44.0966743+00:00"
 }

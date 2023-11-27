@@ -3,9 +3,9 @@
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 426,
-  "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 110,
-  "EOS_Completed": 10,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 10,
   "EosHistory": [
     {
       "Time": "2023-08-23T04:02:11.6245776+00:00",
@@ -594,6 +594,11 @@
       "Time": "2023-11-26T17:05:14.2966382+00:00",
       "NumProgressed": 110,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-27T19:06:42.7656162+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-23T04:02:11.6262951+00:00",
@@ -604,9 +609,9 @@
       "ID": "EpicACHV_1",
       "SetID": "acn799d",
       "Name": "I am Deeeer.",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "EpicACHV_10",
@@ -724,9 +729,9 @@
       "ID": "EpicACHV_8",
       "SetID": "acn799d",
       "Name": "Big Time Monkey",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "EpicACHV_9",
@@ -742,13 +747,13 @@
       "ID": "acn799d",
       "IsBase": true,
       "Progressed": 110,
-      "Completed": 10
+      "Completed": 11
     }
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:07:00.9434585+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:06:42.7656157+00:00",
   "LastUpdate_AppInfo": "2023-11-22T13:04:48.5042762+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:57:47.5231047+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:07:00.9434692+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:57:33.4958337+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:06:42.7656298+00:00"
 }

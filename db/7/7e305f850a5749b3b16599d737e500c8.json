@@ -2,7 +2,7 @@
   "ID": "7e305f850a5749b3b16599d737e500c8",
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
-  "Ranking_EOS_Progress": 394,
+  "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 22,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 180,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 35.2,
+  "EOS_Completed_Percentage": 35,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1014,6 +1014,11 @@
       "Time": "2023-11-27T18:06:37.7056743+00:00",
       "NumProgressed": 179,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-11-27T19:06:19.3247447+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 18,
@@ -1023,9 +1028,9 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 150,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "Dreamkeeper",
@@ -1057,7 +1062,7 @@
       "Name": "Express home delivery",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Fisher",
@@ -1071,9 +1076,9 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "Florist",
@@ -1089,7 +1094,7 @@
       "Name": "Game changer",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Justice",
@@ -1105,7 +1110,7 @@
       "Name": "Liberator",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Peacemaker",
@@ -1113,23 +1118,23 @@
       "Name": "Peacemaker",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "Samaritan",
@@ -1137,7 +1142,7 @@
       "Name": "Samaritan",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Street_food",
@@ -1145,15 +1150,15 @@
       "Name": "Street food",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 112
     },
     {
       "ID": "Troubleshooter",
@@ -1161,21 +1166,21 @@
       "Name": "Troubleshooter",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
     {
       "ID": "b7i210",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 180,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:06:37.7056738+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:06:19.3247443+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-27T17:58:26.3863202+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:06:37.7056885+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:58:11.3285349+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:06:19.3247565+00:00"
 }

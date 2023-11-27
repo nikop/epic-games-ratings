@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 951,
+  "EOS_Progressed": 953,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.26,
+  "EOS_Completed_Percentage": 3.25,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3109,6 +3109,11 @@
       "Time": "2023-11-27T18:05:46.502807+00:00",
       "NumProgressed": 951,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-27T19:05:29.2024667+00:00",
+      "NumProgressed": 953,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3129,7 +3134,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "_03_FinishAct1",
@@ -3145,7 +3150,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "_05_FinishAct2",
@@ -3161,7 +3166,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "_07_FinishAct3",
@@ -3177,7 +3182,7 @@
       "Name": "Swabbie",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "_09_Completion_20",
@@ -3185,7 +3190,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "_10_Completion_30",
@@ -3193,7 +3198,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "_11_Completion_40",
@@ -3207,9 +3212,9 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 95
     },
     {
       "ID": "_13_Completion_60",
@@ -3249,7 +3254,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3271,9 +3276,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 191
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3328,7 +3333,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 951,
+      "Progressed": 953,
       "Completed": 31
     }
   ],
@@ -3336,8 +3341,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:05:46.5028065+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:05:29.2024661+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:02:33.1884024+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:05:46.5028322+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:01:30.1538016+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:05:29.202495+00:00"
 }

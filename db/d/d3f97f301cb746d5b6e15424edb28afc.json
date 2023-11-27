@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -2563,9 +2563,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -3043,9 +3043,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 636
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -3300,8 +3300,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-27T13:07:03.7101124+00:00",
-  "LastChanged_Achievements": "2023-11-27T18:04:14.1863781+00:00",
+  "LastChanged_Achievements": "2023-11-27T19:03:58.0125831+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:00:08.3606013+00:00",
-  "LastUpdate_Achievements": "2023-11-27T18:04:14.1864629+00:00"
+  "LastUpdate_Ratings": "2023-11-27T18:59:49.7727323+00:00",
+  "LastUpdate_Achievements": "2023-11-27T19:03:58.012666+00:00"
 }

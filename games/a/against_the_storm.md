@@ -6,19 +6,20 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Abandoned Settlement | 0.30% | ~53 |
 | Overgrown Library | 0.30% | ~53 |
-| Abandoned Settlement | 0.20% | ~35 |
+| Petrified Necropolis | 0.30% | ~53 |
+| Gathering Storm | 0.30% | ~53 |
 | Frosts | 0.20% | ~35 |
 | Land of Greed | 0.20% | ~35 |
-| Petrified Necropolis | 0.20% | ~35 |
 | Ominous Presence | 0.20% | ~35 |
-| Gathering Storm | 0.20% | ~35 |
 | Untamed Wilds | 0.20% | ~35 |
 | Human Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
 | Homesick | 0.10% | ~18 |
 | First Real Expedition | 0.10% | ~18 |
 | Against All Odds | 0.10% | ~18 |
+| Ruined Armory | 0.10% | ~18 |
 | Bandit Camp | 0.10% | ~18 |
 | Fertile Meadows | 0.10% | ~18 |
 | Levitating Monument | 0.10% | ~18 |
@@ -46,7 +47,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.00% | ~0 |
 | Refinery | 0.00% | ~0 |
 | Overcoming Difficulty | 0.00% | ~0 |
-| Ruined Armory | 0.00% | ~0 |
 | Barren Lands | 0.00% | ~0 |
 | Ancient Battleground | 0.00% | ~0 |
 | Sparkdew Crystals | 0.00% | ~0 |
