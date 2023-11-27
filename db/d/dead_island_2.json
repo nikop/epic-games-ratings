@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 24,
+  "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6951,10 +6951,10 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 726216,
+  "EOS_Progressed": 726234,
   "EOS_Completed": 2443,
-  "EOS_NewPlayers": 5003,
-  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 5009,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32221,6 +32221,11 @@
       "Time": "2023-11-27T07:05:58.9757293+00:00",
       "NumProgressed": 726216,
       "NumCompleted": 2443
+    },
+    {
+      "Time": "2023-11-27T08:08:07.373218+00:00",
+      "NumProgressed": 726234,
+      "NumCompleted": 2443
     }
   ],
   "TotalAchievements": 51,
@@ -32296,7 +32301,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14524
+      "UsersEstimate": 14525
     },
     {
       "ID": "ach_contender",
@@ -32392,7 +32397,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14524
+      "UsersEstimate": 14525
     },
     {
       "ID": "ach_impressive_aim",
@@ -32568,7 +32573,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14524
+      "UsersEstimate": 14525
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32592,7 +32597,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ach_dark_magic",
@@ -32616,7 +32621,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32639,13 +32644,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726216,
+      "Progressed": 726234,
       "Completed": 2443
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 51758,
+      "Progressed": 51776,
       "Completed": 36609
     }
   ],
@@ -32653,8 +32658,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-27T05:01:24.3298343+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:05:58.975729+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:08:07.3732176+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:59:54.8110216+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:05:58.9758617+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:01:44.3462745+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:08:07.3733439+00:00"
 }

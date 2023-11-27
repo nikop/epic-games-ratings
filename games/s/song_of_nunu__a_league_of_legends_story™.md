@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~707 |
 | I Broke It | 73.00% | ~688 |
-| Better On Ice | 68.00% | ~641 |
+| Better On Ice | 69.00% | ~651 |
 | Notai Notes | 68.00% | ~641 |
 | Blue Dreams | 66.00% | ~622 |
 | He's Famous! | 66.00% | ~622 |

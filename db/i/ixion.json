@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3362,
+  "EOS_Progressed": 3363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5918,6 +5918,11 @@
       "Time": "2023-11-26T21:03:50.1573655+00:00",
       "NumProgressed": 3362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T08:04:50.3263137+00:00",
+      "NumProgressed": 3363,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5993,7 +5998,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACH_BASE_19",
@@ -6025,7 +6030,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_BASE_23",
@@ -6073,7 +6078,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_BASE_29",
@@ -6097,7 +6102,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_BASE_31",
@@ -6137,7 +6142,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_BASE_36",
@@ -6289,7 +6294,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_BASE_58",
@@ -6297,7 +6302,7 @@
       "Name": "Drill-dozer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_BASE_59",
@@ -6313,7 +6318,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_BASE_60",
@@ -6384,13 +6389,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1546,
+      "Progressed": 1547,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3362,
+      "Progressed": 3363,
       "Completed": 0
     }
   ],
@@ -6398,8 +6403,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:03:42.6879444+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:04:50.326313+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.2779829+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:58:06.8125498+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:03:42.6879995+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:58:59.8722576+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:04:50.326373+00:00"
 }

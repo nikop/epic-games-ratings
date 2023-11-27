@@ -40,7 +40,7 @@ Number of Ratings: 20  (23.09.2022)
 | Discovery | 13.00% | ~44 |
 | Very Classy | 12.00% | ~41 |
 | Under the Table | 11.00% | ~38 |
-| It's Complicated | 10.00% | ~34 |
+| It's Complicated | 11.00% | ~38 |
 | SCHMETTERLING | 9.00% | ~31 |
 | No Laughing Matter | 9.00% | ~31 |
 | Cold Blood, Warm Heart | 9.00% | ~31 |

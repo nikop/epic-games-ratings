@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1155,9 +1155,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 67591,
+  "EOS_Progressed": 67594,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10600,6 +10600,11 @@
       "Time": "2023-11-27T07:03:46.6090364+00:00",
       "NumProgressed": 67591,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-27T08:04:55.9337639+00:00",
+      "NumProgressed": 67594,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10612,7 +10617,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23657
+      "UsersEstimate": 23658
     },
     {
       "ID": "10",
@@ -10652,7 +10657,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "15",
@@ -10676,7 +10681,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12166
+      "UsersEstimate": 12167
     },
     {
       "ID": "3",
@@ -10700,7 +10705,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5407
+      "UsersEstimate": 5408
     },
     {
       "ID": "6",
@@ -10708,7 +10713,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "7",
@@ -10739,7 +10744,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67591,
+      "Progressed": 67594,
       "Completed": 36
     }
   ],
@@ -10747,8 +10752,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-27T05:01:35.3952777+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:03:46.609036+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:04:55.9337635+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-27T07:00:01.9985693+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:03:46.6090857+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:01:55.1906566+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:04:55.933817+00:00"
 }

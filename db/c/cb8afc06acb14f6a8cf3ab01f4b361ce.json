@@ -371,9 +371,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 319631,
+  "EOS_Progressed": 319648,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4651,
+  "EOS_NewPlayers": 4652,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7481,6 +7481,11 @@
       "Time": "2023-11-27T07:06:13.8968639+00:00",
       "NumProgressed": 319631,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T08:08:28.9881123+00:00",
+      "NumProgressed": 319648,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7683,9 +7688,9 @@
       "ID": "S25_OTWA",
       "SetID": "4j44ol8",
       "Name": "Pride is a sin, young Knight",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1598
     },
     {
       "ID": "S26_CRTA",
@@ -7805,14 +7810,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 319631,
+      "Progressed": 319648,
       "Completed": 4
     }
   ],
@@ -7820,8 +7825,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-24T22:57:43.5596717+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:06:13.8968636+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:08:28.9881119+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:59:02.0102765+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:06:13.8969117+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:00:25.9442473+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:08:28.9881588+00:00"
 }

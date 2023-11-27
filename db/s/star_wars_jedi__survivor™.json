@@ -5475,7 +5475,7 @@
       "Count": 136
     }
   ],
-  "EOS_Progressed": 8820,
+  "EOS_Progressed": 8821,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 5,
@@ -12965,6 +12965,11 @@
       "Time": "2023-11-27T07:08:36.9235705+00:00",
       "NumProgressed": 8820,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-27T08:09:28.9635261+00:00",
+      "NumProgressed": 8821,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -12977,7 +12982,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 8732
+      "UsersEstimate": 8733
     },
     {
       "ID": "achievement_a10",
@@ -12985,7 +12990,7 @@
       "Name": "Tragedy",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "achievement_a11",
@@ -13009,7 +13014,7 @@
       "Name": "A Place You Could Call Home",
       "Percentage": 46,
       "XP": 70,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "achievement_a14",
@@ -13041,7 +13046,7 @@
       "Name": "Catch!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3617
     },
     {
       "ID": "achievement_a18",
@@ -13049,7 +13054,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 6791
+      "UsersEstimate": 6792
     },
     {
       "ID": "achievement_a19",
@@ -13065,7 +13070,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 8644
+      "UsersEstimate": 8645
     },
     {
       "ID": "achievement_a20",
@@ -13113,7 +13118,7 @@
       "Name": "Slam Dunk",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "achievement_a26",
@@ -13121,7 +13126,7 @@
       "Name": "Riposte",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4146
     },
     {
       "ID": "achievement_a27",
@@ -13137,7 +13142,7 @@
       "Name": "King of the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "achievement_a29",
@@ -13153,7 +13158,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "achievement_a30",
@@ -13161,7 +13166,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 5733
+      "UsersEstimate": 5734
     },
     {
       "ID": "achievement_a31",
@@ -13185,7 +13190,7 @@
       "Name": "Skywalker",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 5468
+      "UsersEstimate": 5469
     },
     {
       "ID": "achievement_a34",
@@ -13193,7 +13198,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "achievement_a35",
@@ -13209,7 +13214,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7673
+      "UsersEstimate": 7674
     },
     {
       "ID": "achievement_a37",
@@ -13225,7 +13230,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "achievement_a39",
@@ -13289,7 +13294,7 @@
       "Name": "Kitted Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "achievement_a46",
@@ -13329,7 +13334,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 6968
+      "UsersEstimate": 6969
     },
     {
       "ID": "achievement_a50",
@@ -13377,7 +13382,7 @@
       "Name": "For the Path",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 5821
+      "UsersEstimate": 5822
     },
     {
       "ID": "achievement_a8",
@@ -13385,7 +13390,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 5468
+      "UsersEstimate": 5469
     },
     {
       "ID": "achievement_a9",
@@ -13400,7 +13405,7 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 8820,
+      "Progressed": 8821,
       "Completed": 51
     }
   ],
@@ -13408,8 +13413,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-26T22:57:16.465043+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:08:36.9235701+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:09:28.9635255+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:07.2165049+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:57:32.3735329+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:08:36.923646+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:58:06.7035704+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:09:28.9635977+00:00"
 }

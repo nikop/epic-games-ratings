@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -839,9 +839,9 @@
       "ID": "CLG_RUN_LEVELUP_2",
       "SetID": "89cjc9l",
       "Name": "Level Up!!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -871,9 +871,9 @@
       "ID": "CLG_UNLOCK_10003",
       "SetID": "89cjc9l",
       "Name": "The Idol",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "CLG_UNLOCK_10004",
@@ -1015,9 +1015,9 @@
       "ID": "PRG_BOSS_OOZE",
       "SetID": "89cjc9l",
       "Name": "The Ooze",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "PRG_BOSS_SHIELD",
@@ -1376,8 +1376,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:04:28.2685531+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:05:56.400985+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:56.5842332+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:58:08.4926073+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:04:28.2686052+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:59:02.5279289+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:05:56.4010516+00:00"
 }

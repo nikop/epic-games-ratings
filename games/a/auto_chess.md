@@ -1,7 +1,7 @@
 # Auto Chess
 [Store](https://store.epicgames.com/en-US/p/auto-chess)  
 [View Rawdata](../../db/a/auto_chess.json)  
-Rating: 4.51 (Ranked 569)  
+Rating: 4.52 (Ranked 556)  
 Number of Ratings: 2,249  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 843  (Ranked 165)  
@@ -314,3 +314,4 @@ Diff (max vs sum): 37
 | 2023-11-22 | 4.51 | - | 843 | 6,364 |
 | 2023-11-25 | 4.51 | - | 843 | 6,365 |
 | 2023-11-26 | 4.51 | - | 843 | 6,367 |
+| 2023-11-27 | 4.52 | - | 843 | 6,367 |

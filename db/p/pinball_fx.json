@@ -2041,9 +2041,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 281436,
+  "EOS_Progressed": 281440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27281,6 +27281,11 @@
       "Time": "2023-11-27T07:03:21.3531414+00:00",
       "NumProgressed": 281436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T08:04:19.5363308+00:00",
+      "NumProgressed": 281440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -27412,7 +27417,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11257
+      "UsersEstimate": 11258
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -27516,7 +27521,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 230778
+      "UsersEstimate": 230781
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -27524,22 +27529,22 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 95688
+      "UsersEstimate": 95690
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 281436,
+      "Progressed": 281440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-25T01:46:07.4142269+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:03:21.3531411+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:04:19.5363303+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.1899023+00:00",
-  "LastUpdate_Ratings": "2023-11-27T07:02:58.6272413+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:03:21.3532768+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:03:44.338076+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:04:19.5364468+00:00"
 }

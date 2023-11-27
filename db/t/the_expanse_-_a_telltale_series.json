@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15648,
+  "EOS_Progressed": 15654,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12430,6 +12430,11 @@
       "Time": "2023-11-27T06:06:00.4487421+00:00",
       "NumProgressed": 15648,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-27T08:07:55.5650135+00:00",
+      "NumProgressed": 15654,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12466,7 +12471,7 @@
       "Name": "Data Archivist",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "13",
@@ -12490,7 +12495,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "16",
@@ -12506,7 +12511,7 @@
       "Name": "Spore Taste",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "18",
@@ -12522,7 +12527,7 @@
       "Name": "Martian Music",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "2",
@@ -12538,7 +12543,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "21",
@@ -12578,7 +12583,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "26",
@@ -12626,7 +12631,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "4",
@@ -12642,7 +12647,7 @@
       "Name": "Data Master",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "6",
@@ -12656,17 +12661,17 @@
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 125
     },
     {
       "ID": "9",
@@ -12721,13 +12726,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15648,
+      "Progressed": 15654,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1602,
+      "Progressed": 1608,
       "Completed": 737
     }
   ],
@@ -12735,8 +12740,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:05:50.8257929+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:07:55.565013+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:58:55.2495686+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:05:50.8258733+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:00:14.8303421+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:07:55.5650818+00:00"
 }

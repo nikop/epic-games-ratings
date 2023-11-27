@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -949,9 +949,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9058,
+  "EOS_Progressed": 9059,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8274,6 +8274,11 @@
       "Time": "2023-11-27T07:04:56.6539778+00:00",
       "NumProgressed": 9058,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-27T08:06:37.1235782+00:00",
+      "NumProgressed": 9059,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8285,7 +8290,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -8413,7 +8418,7 @@
       "Name": "Insubordination",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -8453,7 +8458,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -8477,7 +8482,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4257
+      "UsersEstimate": 4258
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8565,7 +8570,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -8613,7 +8618,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8644,7 +8649,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9058,
+      "Progressed": 9059,
       "Completed": 10
     }
   ],
@@ -8652,8 +8657,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-26T17:59:39.1110954+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:04:56.6539775+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:06:37.1235779+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:59:06.9214744+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:04:56.6540396+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:00:33.692713+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:06:37.1236372+00:00"
 }

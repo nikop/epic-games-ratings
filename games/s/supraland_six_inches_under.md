@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.77 (Ranked 112)  
+Rating: 4.77 (Ranked 111)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,11 +13,11 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~2,234 |
 | Knee bending | 96.00% | ~2,234 |
 | Pickaxe | 94.00% | ~2,187 |
+| Cage Town | 94.00% | ~2,187 |
 | Force Beam | 93.00% | ~2,164 |
 | Entered Cage Town | 93.00% | ~2,164 |
 | Stone Pickaxe | 93.00% | ~2,164 |
 | Revenge | 93.00% | ~2,164 |
-| Cage Town | 93.00% | ~2,164 |
 | Surprise | 93.00% | ~2,164 |
 | Magnet | 90.00% | ~2,094 |
 | Industrial Area | 89.00% | ~2,071 |
@@ -251,9 +251,9 @@ Completed: 288 (12.38%) (Ranked 33)
 | 2023-11-25 | 2,320 | 288 |
 | 2023-11-26 | 2,327 | 288 |
 ## Awards
-Max (Challenging Puzzles): 107  (Ranked 352)  
+Max (Challenging Puzzles): 107  (Ranked 353)  
 Sum: 107 (Ranked 446)  
-Diff (max vs sum): -94  
+Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 107 |

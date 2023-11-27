@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 475,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -8979,10 +8979,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 6890,
       "NumberOfAwardsMax": 898
+    },
+    {
+      "Time": "2023-11-27T07:57:56.7992408+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 6892,
+      "NumberOfAwardsMax": 898
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6890,
+  "NumberOfAwards": 6892,
   "NumberOfAwardsMax": 898,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9032,7 +9038,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 815
+      "Count": 817
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9070,8 +9076,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-11-27T05:57:19.909499+00:00",
+  "LastChanged": "2023-11-27T07:57:56.7992406+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:47.8951966+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:57:26.0736654+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:03:02.6601948+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:57:56.7992412+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:03:52.4531735+00:00"
 }

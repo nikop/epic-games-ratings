@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2592,6 +2592,11 @@
       "Time": "2023-11-27T07:03:02.3028786+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T08:03:52.0419839+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2604,7 +2609,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2618,9 +2623,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 525
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2636,7 +2641,7 @@
       "Name": "Like lightning!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2668,7 +2673,7 @@
       "Name": "Masterful!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -2732,7 +2737,7 @@
       "Name": "Solo",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2772,7 +2777,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2860,7 +2865,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2884,7 +2889,7 @@
       "Name": "Perfectionist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -2947,20 +2952,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1193,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 860,
-      "Completed": 860
+      "Progressed": 861,
+      "Completed": 861
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:03:02.3028783+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:03:52.0419837+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:59:10.5958747+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:03:02.3029797+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:00:39.3409345+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:03:52.042024+00:00"
 }

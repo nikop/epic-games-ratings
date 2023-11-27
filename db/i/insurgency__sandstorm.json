@@ -4150,9 +4150,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 492685,
+  "EOS_Progressed": 492708,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6422,
+  "EOS_NewPlayers": 6427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29370,6 +29370,11 @@
       "Time": "2023-11-27T07:08:10.8148872+00:00",
       "NumProgressed": 492685,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-27T08:08:51.4298459+00:00",
+      "NumProgressed": 492708,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -29413,7 +29418,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -29437,7 +29442,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19707
+      "UsersEstimate": 19708
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -29469,7 +29474,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -29541,7 +29546,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -29549,7 +29554,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19707
+      "UsersEstimate": 19708
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -29645,7 +29650,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24634
+      "UsersEstimate": 24635
     },
     {
       "ID": "ACH_WET_FEET",
@@ -29653,22 +29658,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19707
+      "UsersEstimate": 19708
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 492685,
+      "Progressed": 492708,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-11-26T16:00:25.8049516+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:08:10.814886+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:08:51.4298456+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:34.4424138+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:57:12.4927295+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:08:10.8149969+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:57:35.3515304+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:08:51.4299758+00:00"
 }

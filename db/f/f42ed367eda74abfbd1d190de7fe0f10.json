@@ -4,10 +4,10 @@
   "ProductSlug": "endlessrunner-00119d",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 475,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
-    "ReleaseDate": "2023-12-31T00:00:00+00:00",
+    "ReleaseDate": "2023-12-02T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": true,
@@ -28,9 +28,51 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-27T08:09:33.7613608+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "0001",
+      "SetID": "79na3gn",
+      "Name": "EOS Login",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "001",
+      "SetID": "79na3gn",
+      "Name": "How Far ?",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "002",
+      "SetID": "79na3gn",
+      "Name": "How Far 2 ?",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "003",
+      "SetID": "79na3gn",
+      "Name": "How Far 3 ?",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LatestUpdates",
+      "SetID": "79na3gn",
+      "Name": "EOS Latest Updates",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "79na3gn",
@@ -40,8 +82,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-24T20:02:24.32066+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:08:40.2627661+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:09:33.7613592+00:00",
   "LastUpdate_AppInfo": "2023-11-26T23:57:17.2433751+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:57:23.079738+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:08:40.2627687+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:57:52.3120311+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:09:33.7939761+00:00"
 }

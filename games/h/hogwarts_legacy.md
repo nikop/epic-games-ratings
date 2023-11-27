@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 126)  
+Rating: 4.76 (Ranked 125)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,17 +10,17 @@ Rating: 4.76 (Ranked 126)
 | Troll with the Punches | 14.00% | ~42,470 |
 | A Keen Sense of Spell | 13.00% | ~39,436 |
 | That's a Keeper | 13.00% | ~39,436 |
-| The Defender of Dragons | 12.00% | ~36,402 |
-| Loom for Improvement | 12.00% | ~36,402 |
-| A Talent for Spending | 12.00% | ~36,402 |
+| The Defender of Dragons | 12.00% | ~36,403 |
+| Loom for Improvement | 12.00% | ~36,403 |
+| A Talent for Spending | 12.00% | ~36,403 |
 | Grappling with a Graphorn | 11.00% | ~33,369 |
 | The One Who Mastered Memories | 11.00% | ~33,369 |
 | The Hallowed Hero | 11.00% | ~33,369 |
 | The Hero of Hogwarts | 11.00% | ~33,369 |
 | Challenge Accepted | 11.00% | ~33,369 |
 | Coasting Along | 11.00% | ~33,369 |
-| Followed the Butterflies | 10.00% | ~30,335 |
-| Rising From the Ashes | 10.00% | ~30,335 |
+| Followed the Butterflies | 10.00% | ~30,336 |
+| Rising From the Ashes | 10.00% | ~30,336 |
 | A Sallow Grave | 9.00% | ~27,302 |
 | The Spell Master | 9.00% | ~27,302 |
 | The Avenging Gazelle | 8.00% | ~24,268 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,123 |
 | Collector's Edition | 0.30% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,354 (Ranked 54)  
+Progressed: 303,356 (Ranked 54)  
 Completed: 516 (0.17%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 516 (0.17%) (Ranked 265)
 | 2023-11-24 | 302,992 | 514 |
 | 2023-11-25 | 303,175 | 514 |
 | 2023-11-26 | 303,320 | 515 |
-| 2023-11-27 | 303,354 | 516 |
+| 2023-11-27 | 303,356 | 516 |
 ## Awards
 Max (Character Customization): 24,684  (Ranked 17)  
 Sum: 49,266 (Ranked 30)  

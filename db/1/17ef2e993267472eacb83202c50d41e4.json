@@ -77,7 +77,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8296,
+  "EOS_Progressed": 8297,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
@@ -7387,6 +7387,11 @@
       "Time": "2023-11-27T07:09:22.1962954+00:00",
       "NumProgressed": 8296,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T08:10:32.6197562+00:00",
+      "NumProgressed": 8297,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7807,7 +7812,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "NeutralKills200",
@@ -7895,7 +7900,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "SEUpgraded1",
@@ -7990,7 +7995,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8296,
+      "Progressed": 8297,
       "Completed": 1
     }
   ],
@@ -7998,8 +8003,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-24T13:07:54.0480111+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:09:22.1962952+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:10:32.6197558+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-27T07:02:46.8831096+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:09:22.1963856+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:03:27.4057531+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:10:32.6198512+00:00"
 }

@@ -22,6 +22,7 @@ Rating: 4.61 (Ranked 382)
 | Valley of Wonders | 1.00% | ~55 |
 | Return of the Wizard King | 1.00% | ~55 |
 | Enchanted Archipelago | 1.00% | ~55 |
+| Digging for Treasure | 1.00% | ~55 |
 | My Final Form | 1.00% | ~55 |
 | Fiery Friend | 1.00% | ~55 |
 | Impenetrable Fortress | 1.00% | ~55 |
@@ -33,7 +34,6 @@ Rating: 4.61 (Ranked 382)
 | Chaos Surge | 1.00% | ~55 |
 | Seal the Deal | 1.00% | ~55 |
 | Spoils of War | 1.00% | ~55 |
-| Digging for Treasure | 0.90% | ~50 |
 | Dawn of the Dread | 0.90% | ~50 |
 | Preparation Is Everything | 0.80% | ~44 |
 | Prometheus Avenged | 0.80% | ~44 |

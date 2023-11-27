@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131749,
+  "EOS_Progressed": 131750,
   "EOS_Completed": 1145,
-  "EOS_NewPlayers": 1058,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -25463,6 +25463,11 @@
       "Time": "2023-11-27T07:06:04.304771+00:00",
       "NumProgressed": 131749,
       "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-11-27T08:08:15.1189241+00:00",
+      "NumProgressed": 131750,
+      "NumCompleted": 1145
     }
   ],
   "TotalAchievements": 34,
@@ -25482,7 +25487,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22397
+      "UsersEstimate": 22398
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -25498,7 +25503,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 38207
+      "UsersEstimate": 38208
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -25514,7 +25519,7 @@
       "Name": "I\u0027ll make a note of that...",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11857
+      "UsersEstimate": 11858
     },
     {
       "ID": "ACH_GAME_REPLAY",
@@ -25530,7 +25535,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 105399
+      "UsersEstimate": 105400
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -25538,7 +25543,7 @@
       "Name": "Gently down the stream...",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ACH_L01_WHITEBEACH_END",
@@ -25546,7 +25551,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 73779
+      "UsersEstimate": 73780
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -25578,7 +25583,7 @@
       "Name": "Fawning Developers",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6587
+      "UsersEstimate": 6588
     },
     {
       "ID": "ACH_L03_BLACKBEACH_END",
@@ -25594,7 +25599,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 27667
+      "UsersEstimate": 27668
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -25666,7 +25671,7 @@
       "Name": "The Norahnomicon",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 11857
+      "UsersEstimate": 11858
     },
     {
       "ID": "ACH_L05_NAACAL",
@@ -25682,7 +25687,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 32937
+      "UsersEstimate": 32938
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -25690,7 +25695,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 32937
+      "UsersEstimate": 32938
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -25714,7 +25719,7 @@
       "Name": "Meta-reference",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ACH_L06_RITUAL",
@@ -25738,14 +25743,14 @@
       "Name": "Candid Photo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6587
+      "UsersEstimate": 6588
     }
   ],
   "AchievementSets": [
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 131749,
+      "Progressed": 131750,
       "Completed": 1145
     }
   ],
@@ -25753,8 +25758,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:06:04.3047706+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:08:15.1189235+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.6152409+00:00",
-  "LastUpdate_Ratings": "2023-11-27T07:02:31.3252634+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:06:04.3049052+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:03:02.9686178+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:08:15.1190588+00:00"
 }

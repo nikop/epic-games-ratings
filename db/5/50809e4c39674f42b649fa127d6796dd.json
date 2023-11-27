@@ -829,9 +829,9 @@
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -957,9 +957,9 @@
       "ID": "SUB_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Expert",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -1004,8 +1004,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:08:24.6585585+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:09:11.3638375+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:59:56.6094917+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:08:24.6585818+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:01:46.7886474+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:09:11.3638613+00:00"
 }

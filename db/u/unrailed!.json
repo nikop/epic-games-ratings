@@ -2837,9 +2837,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 665770,
+  "EOS_Progressed": 665773,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1627,
+  "EOS_NewPlayers": 1626,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28032,6 +28032,11 @@
       "Time": "2023-11-27T07:09:08.4739309+00:00",
       "NumProgressed": 665770,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-27T08:10:13.9573612+00:00",
+      "NumProgressed": 665773,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -28051,7 +28056,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79892
+      "UsersEstimate": 79893
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -28363,7 +28368,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106523
+      "UsersEstimate": 106524
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -28451,22 +28456,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33288
+      "UsersEstimate": 33289
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 665770,
+      "Progressed": 665773,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-24T09:59:15.1264226+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:09:08.4739305+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:10:13.9573609+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.271404+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:57:21.1527716+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:09:08.474084+00:00"
+  "LastUpdate_Ratings": "2023-11-27T07:57:48.9066313+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:10:13.9575063+00:00"
 }

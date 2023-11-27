@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~318 |
-| Training Simulation | 76.00% | ~266 |
-| Kuku Bird Hunter | 64.00% | ~224 |
-| Storm Traveller | 57.00% | ~199 |
-| Wolf King Killer | 52.00% | ~182 |
-| Fashion Connoisseur | 51.00% | ~178 |
-| Arms Mechanic | 47.00% | ~164 |
-| Flower Thief | 43.00% | ~150 |
+| Travel Streamer | 91.00% | ~319 |
+| Training Simulation | 76.00% | ~267 |
+| Kuku Bird Hunter | 64.00% | ~225 |
+| Storm Traveller | 57.00% | ~200 |
+| Wolf King Killer | 52.00% | ~183 |
+| Fashion Connoisseur | 51.00% | ~179 |
+| Arms Mechanic | 47.00% | ~165 |
+| Flower Thief | 43.00% | ~151 |
 | Apostle of Flame | 38.00% | ~133 |
 | Beginner Cook | 36.00% | ~126 |
 | Beginner Artificer | 36.00% | ~126 |
-| Seal Breaker | 33.00% | ~116 |
+| Seal Breaker | 32.00% | ~112 |
 | Handyman | 28.00% | ~98 |
 | Giant Lizard Killer | 26.00% | ~91 |
 | Guardian | 25.00% | ~88 |
@@ -27,7 +27,7 @@
 | Lethal Blade Mantis Killer | 16.00% | ~56 |
 | Squeaky Clean | 16.00% | ~56 |
 | Master Artificer | 16.00% | ~56 |
-| Furious Scorpion Killer | 15.00% | ~52 |
+| Furious Scorpion Killer | 15.00% | ~53 |
 | Kind Adventurer | 13.00% | ~46 |
 | Mermaid Killer | 13.00% | ~46 |
 | Cave Master | 12.00% | ~42 |
@@ -37,7 +37,7 @@
 | Boss challenge | 6.00% | ~21 |
 | Giantess Slayer | 6.00% | ~21 |
 | Warden Slayer | 6.00% | ~21 |
-| Silver Moon Wolf King Challenge | 3.00% | ~10 |
+| Silver Moon Wolf King Challenge | 3.00% | ~11 |
 | Rebellious | 2.00% | ~7 |
 | Blade Mantis Challenge | 2.00% | ~7 |
 | Big Face Goalkeeper Challenge | 2.00% | ~7 |
@@ -50,8 +50,8 @@
 | Giantess Challenge | 1.00% | ~4 |
 | Warden Challenge | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350 (Ranked 334)  
-Completed: 1 (0.29%) (Ranked 238)  
+Progressed: 351 (Ranked 334)  
+Completed: 1 (0.28%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,7 +134,7 @@ Completed: 1 (0.29%) (Ranked 238)
 | 2023-11-24 | 254 | 0 |
 | 2023-11-25 | 302 | 1 |
 | 2023-11-26 | 341 | 1 |
-| 2023-11-27 | 350 | 1 |
+| 2023-11-27 | 351 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

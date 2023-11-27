@@ -14,8 +14,8 @@ Rating: 4.87 (Ranked 22)
 | You got this, Peppermint? | 14.00% | ~612 |
 | Perfect Parry | 13.00% | ~568 |
 | Alright, that felt AWESOME! | 13.00% | ~568 |
-| This will cost you big time | 12.00% | ~524 |
-| Uh, they were broken when I got here | 12.00% | ~524 |
+| This will cost you big time | 12.00% | ~525 |
+| Uh, they were broken when I got here | 12.00% | ~525 |
 | I play my own way! | 11.00% | ~481 |
 | Z-shielding's got nothing on us! | 11.00% | ~481 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~437 |
@@ -31,10 +31,10 @@ Rating: 4.87 (Ranked 22)
 | Does that say weakpoint? | 8.00% | ~350 |
 | NOW we got a kickass hideout! | 8.00% | ~231 |
 | I have to read these things? | 7.00% | ~306 |
-| Well that was a rush! | 5.00% | ~218 |
-| Beat-hit mania | 5.00% | ~218 |
-| That's a lot of junk metal… | 5.00% | ~218 |
-| There's such a thing as TOO helpful | 5.00% | ~218 |
+| Well that was a rush! | 5.00% | ~219 |
+| Beat-hit mania | 5.00% | ~219 |
+| That's a lot of junk metal… | 5.00% | ~219 |
+| There's such a thing as TOO helpful | 5.00% | ~219 |
 | Chip-tuned | 3.00% | ~131 |
 | Wanna hear my playlist? | 3.00% | ~131 |
 | Check out my moves! | 3.00% | ~131 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,370 (Ranked 193)  
+Progressed: 4,371 (Ranked 193)  
 Completed: 8 (0.18%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 8 (0.18%) (Ranked 263)
 | 2023-11-24 | 4,316 | 8 |
 | 2023-11-25 | 4,346 | 8 |
 | 2023-11-26 | 4,367 | 8 |
-| 2023-11-27 | 4,370 | 8 |
+| 2023-11-27 | 4,371 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

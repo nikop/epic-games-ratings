@@ -1,28 +1,28 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.76 (Ranked 126)  
+Rating: 4.76 (Ranked 125)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 65.00% | ~611 |
-| The Adventure Begins | 51.00% | ~479 |
+| A New Journey | 65.00% | ~612 |
+| The Adventure Begins | 50.00% | ~470 |
 | Swabbie | 39.00% | ~367 |
-| With Great Power… | 38.00% | ~357 |
+| With Great Power… | 38.00% | ~358 |
 | This Belongs in a Museum | 34.00% | ~320 |
-| The Gambit Has Begun | 31.00% | ~291 |
+| The Gambit Has Begun | 31.00% | ~292 |
 | Somewhere Deep in the Lost Caribbean | 28.00% | ~263 |
 | Powder Monkey | 28.00% | ~263 |
 | Mirror Mirror on the Wall | 27.00% | ~254 |
 | Pirates Assemble! | 25.00% | ~235 |
 | Buccaneer | 22.00% | ~207 |
-| Fishy Fish | 21.00% | ~197 |
+| Fishy Fish | 21.00% | ~198 |
 | All Good Things | 19.00% | ~179 |
-| Seadog | 16.00% | ~150 |
-| Persistent Parasite | 16.00% | ~150 |
+| Seadog | 16.00% | ~151 |
+| Persistent Parasite | 16.00% | ~151 |
 | Jaded Judge | 12.00% | ~113 |
-| Privateer | 11.00% | ~103 |
-| Rustic Recipe | 11.00% | ~103 |
+| Privateer | 11.00% | ~104 |
+| Rustic Recipe | 11.00% | ~104 |
 | Tobacco Travesty | 10.00% | ~94 |
 | Accursed Artifacts | 10.00% | ~94 |
 | Lyrical Longing | 9.00% | ~85 |
@@ -32,8 +32,8 @@ Rating: 4.76 (Ranked 126)
 | Marauder | 4.00% | ~38 |
 | Welcome Back Jester | 4.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 940 (Ranked 269)  
-Completed: 31 (3.30%) (Ranked 95)  
+Progressed: 941 (Ranked 269)  
+Completed: 31 (3.29%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,7 +141,7 @@ Completed: 31 (3.30%) (Ranked 95)
 | 2023-11-24 | 883 | 30 |
 | 2023-11-25 | 911 | 30 |
 | 2023-11-26 | 937 | 31 |
-| 2023-11-27 | 940 | 31 |
+| 2023-11-27 | 941 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

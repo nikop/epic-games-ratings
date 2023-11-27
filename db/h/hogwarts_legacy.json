@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 125,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
@@ -11121,9 +11121,9 @@
       "Count": 815
     }
   ],
-  "EOS_Progressed": 303354,
+  "EOS_Progressed": 303356,
   "EOS_Completed": 516,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 893,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34886,6 +34886,11 @@
       "Time": "2023-11-27T07:09:17.9469824+00:00",
       "NumProgressed": 303354,
       "NumCompleted": 516
+    },
+    {
+      "Time": "2023-11-27T08:10:27.1593606+00:00",
+      "NumProgressed": 303356,
+      "NumCompleted": 516
     }
   ],
   "TotalAchievements": 45,
@@ -34953,7 +34958,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36402
+      "UsersEstimate": 36403
     },
     {
       "ID": "PFA_17",
@@ -35025,7 +35030,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36402
+      "UsersEstimate": 36403
     },
     {
       "ID": "PFA_25",
@@ -35081,7 +35086,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36402
+      "UsersEstimate": 36403
     },
     {
       "ID": "PFA_31",
@@ -35121,7 +35126,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30335
+      "UsersEstimate": 30336
     },
     {
       "ID": "PFA_36",
@@ -35249,14 +35254,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30335
+      "UsersEstimate": 30336
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303354,
+      "Progressed": 303356,
       "Completed": 516
     }
   ],
@@ -35264,8 +35269,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-27T05:59:30.7278599+00:00",
-  "LastChanged_Achievements": "2023-11-27T07:09:17.9469821+00:00",
+  "LastChanged_Achievements": "2023-11-27T08:10:27.15936+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T06:59:29.6908296+00:00",
-  "LastUpdate_Achievements": "2023-11-27T07:09:17.947121+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:01:09.0815042+00:00",
+  "LastUpdate_Achievements": "2023-11-27T08:10:27.1594946+00:00"
 }
