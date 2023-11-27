@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.15% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.14% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.32% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
@@ -24,7 +24,7 @@
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
 | 24 | [Island Cities](games/i/island_cities.md) | 17.15% |
-| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.13% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.07% |
 | 26 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 26 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
 | 28 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.00% |
@@ -49,7 +49,7 @@
 | 44 | [Seven Doors](games/s/seven_doors.md) | 9.09% |
 | 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.02% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.77% |
-| 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
+| 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
@@ -259,9 +259,9 @@
 | 256 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
 | 256 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 256 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
+| 256 | [Shop Titans](games/s/shop_titans.md) | 0.20% |
 | 256 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
-| 261 | [Shop Titans](games/s/shop_titans.md) | 0.19% |
-| 261 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.19% |
+| 262 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.19% |
 | 263 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 263 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 265 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
