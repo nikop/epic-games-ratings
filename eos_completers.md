@@ -24,7 +24,7 @@
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
 | 24 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
-| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.23% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.18% |
 | 26 | [Island Cities](games/i/island_cities.md) | 17.15% |
 | 27 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
 | 28 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.00% |
@@ -83,8 +83,8 @@
 | 81 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.50% |
 | 82 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 83 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.31% |
-| 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.27% |
-| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.19% |
+| 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.26% |
+| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.18% |
 | 86 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
 | 87 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 88 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 3.85% |
@@ -123,7 +123,7 @@
 | 121 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.33% |
 | 122 | [Bloodshore](games/b/bloodshore.md) | 2.29% |
 | 123 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.23% |
-| 124 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.11% |
+| 124 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.10% |
 | 125 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.06% |
 | 126 | [Night Book](games/n/night_book.md) | 2.03% |
 | 127 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
@@ -149,9 +149,9 @@
 | 146 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 146 | [Poosh XL](games/p/poosh_xl.md) | 1.32% |
 | 149 | [Chorus](games/c/chorus.md) | 1.31% |
-| 150 | [Dungeons 4](games/d/dungeons_4.md) | 1.30% |
 | 150 | [Ten Dates](games/t/ten_dates.md) | 1.30% |
-| 152 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.26% |
+| 151 | [Dungeons 4](games/d/dungeons_4.md) | 1.29% |
+| 152 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.27% |
 | 153 | [Iron Danger](games/i/iron_danger.md) | 1.25% |
 | 153 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 155 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
@@ -175,8 +175,8 @@
 | 172 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
 | 174 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
 | 174 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
-| 176 | [Infindustry](games/i/infindustry.md) | 0.85% |
 | 176 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.85% |
+| 177 | [Infindustry](games/i/infindustry.md) | 0.84% |
 | 178 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 178 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
 | 180 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.82% |
@@ -207,8 +207,8 @@
 | 204 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 206 | [Eternights](games/e/eternights.md) | 0.48% |
 | 206 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
-| 208 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.47% |
-| 208 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.47% |
+| 206 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.48% |
+| 209 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.47% |
 | 210 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 210 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.45% |
 | 212 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.44% |
