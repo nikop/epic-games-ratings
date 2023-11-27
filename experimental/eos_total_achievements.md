@@ -106,6 +106,7 @@
 | [Rogue Spirit](../games/r/rogue_spirit.md) | 60 | 1,000 |
 | [Sifu](../games/s/sifu.md) | 60 | 1,720 |
 | [WTC - Relentless Protagonist](../games/w/wtc_-_relentless_protagonist.md) | 60 | 1,000 |
+| [Against the Storm](../games/a/against_the_storm.md) | 59 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
 | [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
 | [The Talos Principle 2](../games/4/43acebbd46cd4aac956ad049c10c603a.md) | 59 | 1,000 |

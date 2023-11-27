@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.09% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.08% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.32% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
@@ -31,9 +31,9 @@
 | 29 | [Remains](games/r/remains.md) | 14.55% |
 | 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 31 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 13.48% |
-| 32 | [laserlemon Production](games/l/laserlemon_production.md) | 12.50% |
-| 33 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.38% |
-| 34 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.16% |
+| 32 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 13.33% |
+| 33 | [laserlemon Production](games/l/laserlemon_production.md) | 12.50% |
+| 34 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.38% |
 | 35 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 11.54% |
 | 36 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 11.29% |
 | 37 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -84,12 +84,12 @@
 | 82 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 83 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.31% |
 | 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.26% |
-| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.13% |
-| 85 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
-| 87 | [The Bunker](games/t/the_bunker.md) | 4.03% |
-| 88 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 3.85% |
-| 89 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.83% |
-| 90 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.68% |
+| 85 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.21% |
+| 86 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.13% |
+| 86 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
+| 88 | [The Bunker](games/t/the_bunker.md) | 4.03% |
+| 89 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 3.85% |
+| 90 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.83% |
 | 91 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.66% |
 | 92 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.41% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
@@ -141,7 +141,7 @@
 | 139 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.57% |
 | 139 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 141 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.54% |
-| 142 | [Dungeons 4](games/d/dungeons_4.md) | 1.50% |
+| 142 | [Dungeons 4](games/d/dungeons_4.md) | 1.49% |
 | 143 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 144 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.46% |
 | 145 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.40% |
@@ -171,10 +171,10 @@
 | 168 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
 | 170 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.92% |
 | 171 | [Hades](games/h/hades.md) | 0.91% |
-| 172 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.88% |
 | 172 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
-| 174 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
-| 174 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
+| 173 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.87% |
+| 173 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
+| 173 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 176 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.84% |
 | 177 | [Infindustry](games/i/infindustry.md) | 0.83% |
 | 177 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
@@ -184,7 +184,7 @@
 | 182 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 183 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 183 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
-| 183 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.69% |
+| 185 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.68% |
 | 186 | [Dead Space](games/d/dead_space.md) | 0.65% |
 | 187 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.64% |
 | 188 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.61% |
@@ -243,8 +243,8 @@
 | 238 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 242 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.28% |
 | 242 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.28% |
-| 242 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.28% |
 | 242 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
+| 245 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.27% |
 | 246 | [Filament](games/f/filament.md) | 0.26% |
 | 246 | [The Invincible](games/t/the_invincible.md) | 0.26% |
 | 248 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |

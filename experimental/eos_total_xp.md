@@ -79,6 +79,7 @@
 | [AER Memories of Old](../games/a/aer_memories_of_old.md) | 20 | 1,000 |
 | [Aerial Platforms](../games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 11 | 1,000 |
 | [Afterglitch](../games/a/afterglitch.md) | 10 | 1,000 |
+| [Against the Storm](../games/a/against_the_storm.md) | 59 | 1,000 |
 | [Agatha Christie - Hercule Poirot: The London Case](../games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 46 | 1,000 |
 | [Agatha Christie - Murder on the Orient Express](../games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 27 | 1,000 |
 | [Airborne Kingdom](../games/a/airborne_kingdom.md) | 27 | 1,000 |
