@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 942,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
@@ -3064,6 +3064,11 @@
       "Time": "2023-11-27T08:05:48.9199194+00:00",
       "NumProgressed": 941,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-27T09:04:30.3658145+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3076,7 +3081,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3090,17 +3095,17 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 480
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 330
     },
     {
       "ID": "_05_FinishAct2",
@@ -3140,7 +3145,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "_10_Completion_30",
@@ -3172,7 +3177,7 @@
       "Name": "Corsair",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "_14_Completion_70",
@@ -3196,7 +3201,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3283,7 +3288,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 942,
       "Completed": 31
     }
   ],
@@ -3291,8 +3296,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:05:48.9199191+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:04:30.3658141+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:01:52.4540753+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:05:48.9199496+00:00"
+  "LastUpdate_Ratings": "2023-11-27T09:00:12.8483209+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:04:30.3658385+00:00"
 }

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~319 |
-| Training Simulation | 76.00% | ~267 |
+| Travel Streamer | 91.00% | ~320 |
+| Training Simulation | 76.00% | ~268 |
 | Kuku Bird Hunter | 64.00% | ~225 |
-| Storm Traveller | 57.00% | ~200 |
-| Wolf King Killer | 52.00% | ~183 |
-| Fashion Connoisseur | 51.00% | ~179 |
+| Storm Traveller | 57.00% | ~201 |
+| Fashion Connoisseur | 51.00% | ~180 |
+| Wolf King Killer | 51.00% | ~180 |
 | Arms Mechanic | 47.00% | ~165 |
 | Flower Thief | 43.00% | ~151 |
-| Apostle of Flame | 38.00% | ~133 |
-| Beginner Cook | 36.00% | ~126 |
-| Beginner Artificer | 36.00% | ~126 |
-| Seal Breaker | 32.00% | ~112 |
-| Handyman | 28.00% | ~98 |
-| Giant Lizard Killer | 26.00% | ~91 |
+| Apostle of Flame | 38.00% | ~134 |
+| Beginner Cook | 37.00% | ~130 |
+| Beginner Artificer | 36.00% | ~127 |
+| Seal Breaker | 32.00% | ~113 |
+| Handyman | 28.00% | ~99 |
+| Giant Lizard Killer | 26.00% | ~92 |
 | Guardian | 25.00% | ~88 |
 | Nosebleeder | 25.00% | ~88 |
 | Trader | 22.00% | ~77 |
-| Weapon Boost | 21.00% | ~74 |
+| Weapon Boost | 20.00% | ~70 |
 | Flying Kobold Killer | 17.00% | ~60 |
 | Youth Magnet | 17.00% | ~60 |
 | Lethal Blade Mantis Killer | 16.00% | ~56 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~4 |
 | Warden Challenge | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351 (Ranked 334)  
+Progressed: 352 (Ranked 333)  
 Completed: 1 (0.28%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 1 (0.28%) (Ranked 242)
 | 2023-11-24 | 254 | 0 |
 | 2023-11-25 | 302 | 1 |
 | 2023-11-26 | 341 | 1 |
-| 2023-11-27 | 351 | 1 |
+| 2023-11-27 | 352 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

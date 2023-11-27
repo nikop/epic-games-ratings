@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -1646,9 +1646,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 83
     },
     {
       "ID": "FloodedValley",
@@ -1710,9 +1710,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 271
     },
     {
       "ID": "LostMarshes",
@@ -2007,8 +2007,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-26T22:57:15.5535811+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:07:19.5445552+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:05:34.9522801+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-27T07:58:05.1680065+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:07:19.5446038+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:57:39.434741+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:05:34.9523202+00:00"
 }

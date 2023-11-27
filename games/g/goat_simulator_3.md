@@ -6,25 +6,25 @@ Rating: 4.84 (Ranked 52)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Forgotten Sorority | 91.00% | ~229,558 |
-| Private Club | 74.00% | ~186,673 |
+| Private Club | 74.00% | ~186,674 |
 | Rogue Guild | 65.00% | ~163,970 |
 | I Watched the Intro | 57.00% | ~143,789 |
 | Covert Consortium | 55.00% | ~138,744 |
-| Goat Queen | 53.00% | ~133,698 |
-| Reach the Stratosphere | 51.00% | ~128,653 |
+| Goat Queen | 53.00% | ~133,699 |
+| Reach the Stratosphere | 51.00% | ~128,654 |
 | Synchronization Complete | 47.00% | ~118,563 |
-| Secret Society | 45.00% | ~113,517 |
-| Shadow Syndicate | 38.00% | ~95,859 |
+| Secret Society | 45.00% | ~113,518 |
+| Shadow Syndicate | 38.00% | ~95,860 |
 | What a Waste of Money | 33.00% | ~83,246 |
-| New Goat Order | 30.00% | ~75,678 |
+| New Goat Order | 30.00% | ~75,679 |
 | Don't touch the servers | 28.00% | ~70,633 |
-| San Angora: Become Human | 27.00% | ~68,110 |
-| Real Buoy | 27.00% | ~68,110 |
+| San Angora: Become Human | 27.00% | ~68,111 |
+| Real Buoy | 27.00% | ~68,111 |
 | Raider of the Lost Parking Garage | 26.00% | ~65,588 |
-| Welcome to Earth | 25.00% | ~63,065 |
+| Welcome to Earth | 25.00% | ~63,066 |
 | Into the Matrix | 19.00% | ~47,930 |
 | Egg Simulator | 18.00% | ~45,407 |
-| Where is It? | 17.00% | ~42,884 |
+| Where is It? | 17.00% | ~42,885 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,839 |
 | 401(K.O.) | 15.00% | ~37,839 |
 | Black Market | 14.00% | ~35,317 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 52)
 | Move! That! Bus! | 0.60% | ~1,514 |
 | G.O.A.T | 0.40% | ~1,009 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,261 (Ranked 60)  
+Progressed: 252,262 (Ranked 60)  
 Completed: 890 (0.35%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 890 (0.35%) (Ranked 227)
 | 2023-11-24 | 251,841 | 886 |
 | 2023-11-25 | 252,053 | 889 |
 | 2023-11-26 | 252,231 | 889 |
-| 2023-11-27 | 252,261 | 890 |
+| 2023-11-27 | 252,262 | 890 |
 ## Awards
 Max (Great for Beginners): 470  (Ranked 216)  
 Sum: 3,909 (Ranked 157)  

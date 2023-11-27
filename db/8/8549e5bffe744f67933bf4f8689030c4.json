@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -461,9 +461,9 @@
       "ID": "KillEnemyByFailedGrow",
       "SetID": "59jf8f5",
       "Name": "Empty Fort Strategy",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KillEnemyByIceCrushing",
@@ -629,9 +629,9 @@
       "ID": "SummonMonster6InTurn1",
       "SetID": "59jf8f5",
       "Name": "Summoning Festival",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TransportAlliesOverMagmaWithRadon",
@@ -660,8 +660,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:04:45.699694+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:03:45.1643841+00:00",
   "LastUpdate_AppInfo": "2023-11-21T04:57:14.1198184+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:00:24.6190714+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:04:45.6997456+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:59:10.9224255+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:03:45.1644223+00:00"
 }

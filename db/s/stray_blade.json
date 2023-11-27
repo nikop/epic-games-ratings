@@ -2,10 +2,10 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2023-11-26T22:10:59.0220974+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T09:09:19.4499999+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -631,9 +636,9 @@
       "ID": "ACH_BOJI_SKILLTREE_PROGRESSION_100",
       "SetID": "7i20me3",
       "Name": "Sponsor",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CRAFT_15_WEAPONS",
@@ -641,7 +646,7 @@
       "Name": "Craftsmen",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_CRAFT_ALL_ARMOR",
@@ -703,9 +708,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -873,7 +878,7 @@
       "Name": "Welcome to the Club",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -897,7 +902,7 @@
       "Name": "A new World ahead",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_PERFORM_MANY_PARRIES",
@@ -945,7 +950,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -1040,13 +1045,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 117
     }
   ],
@@ -1054,8 +1059,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:10:28.3394065+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:09:19.4499995+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.7712593+00:00",
-  "LastUpdate_Ratings": "2023-11-27T07:59:01.7386082+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:10:28.3394458+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:58:18.037168+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:09:19.4500376+00:00"
 }

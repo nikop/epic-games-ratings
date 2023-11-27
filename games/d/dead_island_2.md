@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,553 |
+| Whatever It Takes | 3.00% | ~1,554 |
 | Break A Leg | 2.00% | ~14,525 |
 | Hotel California | 2.00% | ~14,525 |
 | Welcome To Hell-A | 2.00% | ~14,525 |
 | One of Us | 2.00% | ~1,036 |
 | Pork Chopped | 2.00% | ~1,036 |
-| Dr. Reed, I Presume? | 1.00% | ~7,262 |
-| Git Gutte! | 1.00% | ~7,262 |
-| Anger Management | 1.00% | ~7,262 |
-| Bookworm | 1.00% | ~7,262 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,262 |
-| But Doctor, I am Butcho | 1.00% | ~7,262 |
-| Slayer Squad | 1.00% | ~7,262 |
-| Can't Handle the Truth | 1.00% | ~7,262 |
-| Coup de Grâce | 1.00% | ~7,262 |
-| Like Riding a Bike | 1.00% | ~7,262 |
-| Hazardous Materials | 1.00% | ~7,262 |
-| Friends Like These | 1.00% | ~7,262 |
-| Apex Predator | 1.00% | ~7,262 |
-| Zombologist | 1.00% | ~7,262 |
-| A Patton Emerges | 1.00% | ~7,262 |
-| Stacking the Deck | 1.00% | ~7,262 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,262 |
-| Our True Nature | 1.00% | ~7,262 |
-| This is My Weapon | 1.00% | ~7,262 |
+| Dr. Reed, I Presume? | 1.00% | ~7,263 |
+| Git Gutte! | 1.00% | ~7,263 |
+| Anger Management | 1.00% | ~7,263 |
+| Bookworm | 1.00% | ~7,263 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,263 |
+| But Doctor, I am Butcho | 1.00% | ~7,263 |
+| Slayer Squad | 1.00% | ~7,263 |
+| Can't Handle the Truth | 1.00% | ~7,263 |
+| Coup de Grâce | 1.00% | ~7,263 |
+| Like Riding a Bike | 1.00% | ~7,263 |
+| Hazardous Materials | 1.00% | ~7,263 |
+| Friends Like These | 1.00% | ~7,263 |
+| Apex Predator | 1.00% | ~7,263 |
+| Zombologist | 1.00% | ~7,263 |
+| A Patton Emerges | 1.00% | ~7,263 |
+| Stacking the Deck | 1.00% | ~7,263 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,263 |
+| Our True Nature | 1.00% | ~7,263 |
+| This is My Weapon | 1.00% | ~7,263 |
 | Perks of the Job | 0.90% | ~6,536 |
 | Ooh, Shiny! | 0.90% | ~6,536 |
 | I Am the Resurrection | 0.90% | ~6,536 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 528)
 | Humanity Distilled | 0.80% | ~5,810 |
 | Max Headroom | 0.80% | ~5,810 |
 | Down with the Sickness | 0.70% | ~5,084 |
-| Not Even My Final Form | 0.60% | ~4,357 |
-| Jumbo Keyring | 0.60% | ~4,357 |
-| Go, Bobcats! | 0.60% | ~4,357 |
-| Rising Star | 0.60% | ~4,357 |
+| Not Even My Final Form | 0.60% | ~4,358 |
+| Jumbo Keyring | 0.60% | ~4,358 |
+| Go, Bobcats! | 0.60% | ~4,358 |
+| Rising Star | 0.60% | ~4,358 |
 | On Safari | 0.50% | ~3,631 |
 | Smorgasbord | 0.50% | ~3,631 |
 | Internet Famous | 0.50% | ~3,631 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 528)
 | Gore Horse | 0.30% | ~2,179 |
 | Sharpest Tool in the Box | 0.30% | ~2,179 |
 | Top That, Tisha! | 0.30% | ~155 |
-| Survival Skills | 0.20% | ~1,452 |
+| Survival Skills | 0.20% | ~1,453 |
 | Lawn and Order | 0.20% | ~104 |
 | Donk! | 0.10% | ~726 |
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,234 (Ranked 21)  
+Progressed: 726,252 (Ranked 21)  
 Completed: 2,443 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,15 +278,15 @@ Completed: 2,443 (0.34%) (Ranked 229)
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
-| 2023-11-27 | 726,234 | 2,443 |
+| 2023-11-27 | 726,252 | 2,443 |
 ## Awards
 Max (Great Boss Battles): 7,760  (Ranked 49)  
-Sum: 11,864 (Ranked 84)  
+Sum: 11,867 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,760 |
-| This game is Great for Beginners | 595 |
+| This game is Great for Beginners | 598 |
 | This game has Diverse Characters | 566 |
 | This game has Quickly Understood Controls | 534 |
 | This game is Relaxing | 510 |
@@ -517,4 +517,4 @@ Diff (max vs sum): -35
 | 2023-11-24 | 4.54 | 7,695 | 11,761 |
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
-| 2023-11-27 | 4.54 | 7,760 | 11,864 |
+| 2023-11-27 | 4.54 | 7,760 | 11,867 |

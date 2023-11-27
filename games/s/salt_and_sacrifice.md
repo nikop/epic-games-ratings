@@ -21,8 +21,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Electromancer | 61.00% | ~41,109 |
 | The Terramancer | 59.00% | ~39,761 |
 | The Exalted | 57.00% | ~38,413 |
+| Blueheart Runners | 55.00% | ~37,066 |
 | Sheriff Inquisitors | 55.00% | ~37,066 |
-| Blueheart Runners | 54.00% | ~36,392 |
 | The Necromancer | 52.00% | ~35,044 |
 | The Swamp | 50.00% | ~33,696 |
 | The Fungalmancer | 47.00% | ~31,674 |

@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 990,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 107,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.04,
+  "Rating": 4.07,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -89,15 +89,21 @@
       "Rating": 4.04,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-27T08:59:20.0357007+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58522,
+  "EOS_Progressed": 58543,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 20348,
+  "EOS_NewPlayers": 20247,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1380,6 +1386,11 @@
       "Time": "2023-11-27T08:05:57.7112032+00:00",
       "NumProgressed": 58522,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-27T09:04:36.7745635+00:00",
+      "NumProgressed": 58543,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -1392,7 +1403,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 21653
+      "UsersEstimate": 21661
     },
     {
       "ID": "Achievement_10",
@@ -1480,7 +1491,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 15801
+      "UsersEstimate": 15807
     },
     {
       "ID": "Achievement_20",
@@ -1568,7 +1579,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6437
+      "UsersEstimate": 6440
     },
     {
       "ID": "Achievement_30",
@@ -1616,7 +1627,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4682
+      "UsersEstimate": 4683
     },
     {
       "ID": "Achievement_5",
@@ -1624,7 +1635,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "Achievement_6",
@@ -1640,7 +1651,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "Achievement_8",
@@ -1648,7 +1659,7 @@
       "Name": "House In Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "Achievement_9",
@@ -1663,16 +1674,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 58522,
+      "Progressed": 58543,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2023-11-25T19:58:46.6033399+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:05:57.7112028+00:00",
+  "LastChanged": "2023-11-27T08:59:20.0357004+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:04:36.7745631+00:00",
   "LastUpdate_AppInfo": "2023-11-23T11:57:10.0145945+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:00:37.7542831+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:05:57.7112316+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:59:20.0357009+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:04:36.7745848+00:00"
 }

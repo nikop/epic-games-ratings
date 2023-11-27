@@ -4,12 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 4.00% | ~5 |
+| Self-Defence | 5.00% | ~6 |
 | Tinkerer | 3.00% | ~4 |
-| Craftsmen | 2.00% | ~2 |
-| Welcome to the Club | 2.00% | ~2 |
-| A new World ahead | 2.00% | ~2 |
-| Apprentice | 2.00% | ~2 |
+| Craftsmen | 2.00% | ~3 |
+| Welcome to the Club | 2.00% | ~3 |
+| A new World ahead | 2.00% | ~3 |
+| Apprentice | 2.00% | ~3 |
+| Sponsor | 0.80% | ~1 |
 | Defeat Tezuth | 0.80% | ~1 |
 | Freezing Cold | 0.80% | ~1 |
 | Locked and Loaded | 0.80% | ~1 |
@@ -19,7 +20,6 @@
 | The Golden Flash | 0.80% | ~1 |
 | Small Setback | 0.80% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
-| Sponsor | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Defeat Ingla | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 416)  
+Progressed: 126 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 123 | 0 |
 | 2023-11-25 | 124 | 0 |
 | 2023-11-26 | 125 | 0 |
+| 2023-11-27 | 126 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

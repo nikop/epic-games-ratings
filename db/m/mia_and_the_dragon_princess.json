@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -542,9 +542,9 @@
       "ID": "flying_high",
       "SetID": "5anb57n",
       "Name": "Flying High",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "fools_gold",
@@ -629,8 +629,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:08:05.5572479+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:06:07.3894821+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:03.6960526+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:01:22.7954912+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:08:05.5572591+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:59:52.0749966+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:06:07.3894969+00:00"
 }

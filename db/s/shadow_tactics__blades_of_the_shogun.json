@@ -2164,9 +2164,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216124,
+  "EOS_Progressed": 216129,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 1274,
+  "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27444,6 +27444,11 @@
       "Time": "2023-11-27T08:07:38.6403421+00:00",
       "NumProgressed": 216124,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-11-27T09:05:48.2614185+00:00",
+      "NumProgressed": 216129,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 44,
@@ -27455,7 +27460,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21612
+      "UsersEstimate": 21613
     },
     {
       "ID": "AtheistOx",
@@ -27463,7 +27468,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "ChickenDinner",
@@ -27479,7 +27484,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "CompleteMastery",
@@ -27495,7 +27500,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19451
+      "UsersEstimate": 19452
     },
     {
       "ID": "FiveShadows",
@@ -27503,7 +27508,7 @@
       "Name": "Five Shadows",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "FlyingRocks",
@@ -27511,7 +27516,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "GearUp",
@@ -27607,7 +27612,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "NoGimmicks",
@@ -27615,7 +27620,7 @@
       "Name": "No Gimmicks",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "Noboru",
@@ -27639,7 +27644,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "PraiseTheShogun",
@@ -27679,7 +27684,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19451
+      "UsersEstimate": 19452
     },
     {
       "ID": "StillRollin",
@@ -27711,7 +27716,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19451
+      "UsersEstimate": 19452
     },
     {
       "ID": "TheCave",
@@ -27743,7 +27748,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21612
+      "UsersEstimate": 21613
     },
     {
       "ID": "TimeParadox",
@@ -27775,7 +27780,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -27791,7 +27796,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "Yabu",
@@ -27806,15 +27811,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216124,
+      "Progressed": 216129,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-26T16:58:15.2089902+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:07:38.6403418+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:05:48.2614181+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-11-27T07:59:36.0292783+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:07:38.6404589+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:58:39.9058413+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:05:48.261556+00:00"
 }

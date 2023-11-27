@@ -3,8 +3,8 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1651,
+  "EOS_Progressed": 1652,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 6.97,
+  "EOS_Completed_Percentage": 6.96,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3874,6 +3874,11 @@
       "Time": "2023-11-27T04:09:33.2756358+00:00",
       "NumProgressed": 1651,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-11-27T09:09:16.5811972+00:00",
+      "NumProgressed": 1652,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 30,
@@ -3885,7 +3890,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "LEVEL_002",
@@ -3893,7 +3898,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "LEVEL_003",
@@ -3917,7 +3922,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "LEVEL_006",
@@ -3941,7 +3946,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "LEVEL_009",
@@ -3949,7 +3954,7 @@
       "Name": "Going zig zag",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "LEVEL_010",
@@ -4124,14 +4129,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1651,
+      "Progressed": 1652,
       "Completed": 115
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:10:24.5897068+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:09:16.5811969+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:01:38.0853506+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:10:24.5897431+00:00"
+  "LastUpdate_Ratings": "2023-11-27T09:00:02.4880895+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:09:16.5812233+00:00"
 }

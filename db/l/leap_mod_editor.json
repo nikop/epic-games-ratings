@@ -4,8 +4,8 @@
   "ProductSlug": "leap-mod-editor",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.2154677+00:00",
-  "LastUpdate_Ratings": "2023-11-27T07:58:02.1690322+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:09:59.6858178+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:57:37.5230259+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:08:58.7644003+00:00"
 }

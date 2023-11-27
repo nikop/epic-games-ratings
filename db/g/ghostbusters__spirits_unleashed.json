@@ -3457,10 +3457,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2853,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-11-27T08:57:30.4957588+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2855,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2853,
+  "NumberOfAwards": 2855,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3498,7 +3504,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 262
+      "Count": 264
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3537,7 +3543,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31651,
+  "EOS_Progressed": 31653,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 1,
@@ -20637,6 +20643,11 @@
       "Time": "2023-11-27T08:03:55.7551542+00:00",
       "NumProgressed": 31651,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-27T09:03:09.1711461+00:00",
+      "NumProgressed": 31653,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21055,16 +21066,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31651,
+      "Progressed": 31653,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-27T01:44:53.9962485+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:03:55.7551537+00:00",
+  "LastChanged": "2023-11-27T08:57:30.4957586+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:03:09.1711457+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-27T07:57:51.6755439+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:03:55.7552797+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:57:30.4957591+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:03:09.1712379+00:00"
 }

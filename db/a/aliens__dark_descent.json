@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -405,9 +405,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3705,
+  "EOS_Progressed": 3706,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6055,6 +6055,11 @@
       "Time": "2023-11-26T22:07:29.8639254+00:00",
       "NumProgressed": 3705,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-27T09:05:31.762743+00:00",
+      "NumProgressed": 3706,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6090,7 +6095,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -6178,7 +6183,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6186,7 +6191,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -6242,7 +6247,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -6258,7 +6263,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "ACH_MISSION_02",
@@ -6274,7 +6279,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ACH_MISSION_04",
@@ -6282,7 +6287,7 @@
       "Name": "Making a Stand",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "ACH_MISSION_05",
@@ -6322,7 +6327,7 @@
       "Name": "The Passenger",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ACH_MISSION_10",
@@ -6330,7 +6335,7 @@
       "Name": "The Spire",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "ACH_MISSION_11",
@@ -6370,7 +6375,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6378,7 +6383,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -6394,7 +6399,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -6425,7 +6430,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3705,
+      "Progressed": 3706,
       "Completed": 3
     }
   ],
@@ -6433,8 +6438,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-24T18:58:43.263284+00:00",
-  "LastChanged_Achievements": "2023-11-27T08:07:15.1321377+00:00",
+  "LastChanged_Achievements": "2023-11-27T09:05:31.7627425+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.06907+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:00:46.4367773+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:07:15.1321804+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:59:25.9940647+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:05:31.7627887+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "efeffab890e0438abe36f643f5da5ca2",
   "Name": "The Colonists",
   "ProductSlug": "the-colonists",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-02-24T18:00:00+00:00",
     "PcReleaseDate": "2018-10-24T18:00:00+00:00",
@@ -67,6 +67,6 @@
   "FirstSeenRating": "2022-11-30T17:01:14.9184871+00:00",
   "LastChanged": "2023-09-25T00:00:27.3228651+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:41.7351611+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:00:27.0560324+00:00",
-  "LastUpdate_Achievements": "2023-11-27T08:05:15.4192222+00:00"
+  "LastUpdate_Ratings": "2023-11-27T08:59:12.546215+00:00",
+  "LastUpdate_Achievements": "2023-11-27T09:04:06.2039014+00:00"
 }
