@@ -207,7 +207,7 @@
 | 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 544 | 3.95 | 1,012 |
 | 205 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 544 | 4.86 | 32 |
 | 207 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 540 | 4.43 | 692 |
-| 208 | [Brawlhalla](games/b/brawlhalla.md) | 531 | 4.59 | 430 |
+| 208 | [Brawlhalla](games/b/brawlhalla.md) | 535 | 4.59 | 430 |
 | 209 | [Terraforming Mars](games/t/terraforming_mars.md) | 528 | 4.53 | 541 |
 | 210 | [Ghostrunner](games/g/ghostrunner.md) | 519 | 4.72 | 185 |
 | 211 | [Surviving Mars](games/s/surviving_mars.md) | 516 | 4.60 | 415 |
@@ -410,7 +410,7 @@
 | 407 | [Symphony of War](games/s/symphony_of_war.md) | 68 | 4.64 | 334 |
 | 409 | [Ranch Simulator](games/r/ranch_simulator.md) | 66 | 4.43 | 692 |
 | 409 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 66 | 4.51 | 569 |
-| 411 | [Arcadegeddon](games/a/arcadegeddon.md) | 64 | 4.49 | 608 |
+| 411 | [Arcadegeddon](games/a/arcadegeddon.md) | 65 | 4.49 | 608 |
 | 412 | [Heavy Rain](games/h/heavy_rain.md) | 63 | 4.59 | 430 |
 | 412 | [In Sound Mind](games/i/in_sound_mind.md) | 63 | 4.60 | 415 |
 | 412 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 63 | 4.21 | 906 |

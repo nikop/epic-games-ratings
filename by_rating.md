@@ -429,7 +429,7 @@
 | 415 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 516 | 211 |
 | 415 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 26 | 515 |
 | 415 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 23 | 534 |
-| 430 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 531 | 208 |
+| 430 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 535 | 208 |
 | 430 | [DOOM 3](games/d/doom_3.md) | 4.59 | 71 | 402 |
 | 430 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 63 | 412 |
 | 430 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.59 | 0 | 556 |
@@ -609,7 +609,7 @@
 | 591 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.50 | 177 | 301 |
 | 608 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 36 | 470 |
 | 608 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 0 | 556 |
-| 608 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 411 |
+| 608 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 65 | 411 |
 | 608 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,022 | 111 |
 | 608 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 39,378 | 14 |
 | 608 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 279 | 262 |
