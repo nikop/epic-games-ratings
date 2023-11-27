@@ -8,11 +8,11 @@
 | Something important | 78.00% | ~69 |
 | A piece of the story | 61.00% | ~54 |
 | It's covered up for a reason | 45.00% | ~40 |
-| Do what you have to | 44.00% | ~39 |
+| Do what you have to | 45.00% | ~40 |
 | Scraps of love | 44.00% | ~39 |
 | The artist’s impression | 44.00% | ~39 |
-| Refuse to look | 36.00% | ~32 |
-| Sign of weakness | 35.00% | ~31 |
+| Refuse to look | 37.00% | ~33 |
+| Sign of weakness | 36.00% | ~32 |
 | Finished it | 28.00% | ~25 |
 | Face your fears | 24.00% | ~21 |
 | Playtime | 13.00% | ~12 |

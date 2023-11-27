@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8359,9 +8359,9 @@
       "Count": 3540
     }
   ],
-  "EOS_Progressed": 237250,
+  "EOS_Progressed": 237256,
   "EOS_Completed": 2481,
-  "EOS_NewPlayers": 1133,
+  "EOS_NewPlayers": 1132,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -33214,6 +33214,11 @@
       "Time": "2023-11-27T20:09:52.310124+00:00",
       "NumProgressed": 237250,
       "NumCompleted": 2481
+    },
+    {
+      "Time": "2023-11-27T21:09:44.6042437+00:00",
+      "NumProgressed": 237256,
+      "NumCompleted": 2481
     }
   ],
   "TotalAchievements": 532,
@@ -33223,9 +33228,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 712
     },
     {
       "ID": "objective_completed_10",
@@ -37480,21 +37485,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 203524,
-      "Completed": 3946
+      "Progressed": 203530,
+      "Completed": 3947
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 237250,
+      "Progressed": 237256,
       "Completed": 2481
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-27T18:01:26.770488+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:09:52.3101237+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:09:44.6042431+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:03.8260824+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:00:19.0866205+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:09:52.3122384+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:00:19.0074389+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:09:44.6065005+00:00"
 }

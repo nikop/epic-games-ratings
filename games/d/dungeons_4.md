@@ -7,20 +7,20 @@
 | The Last Stand | 87.00% | ~414 |
 | Thalya – Simply Immortal | 87.00% | ~414 |
 | For the Horde! | 81.00% | ~386 |
-| Hammer Time, Round Two | 78.00% | ~371 |
-| The Hellwoods | 72.00% | ~343 |
+| Hammer Time, Round Two | 79.00% | ~376 |
+| The Hellwoods | 73.00% | ~347 |
 | Thalya's Concentrated Fury | 67.00% | ~319 |
 | The Plains of Strothalm | 67.00% | ~319 |
 | Experienced Thalya | 67.00% | ~319 |
+| Master of Magic | 63.00% | ~300 |
 | Bad Elves Go Everywhere | 63.00% | ~300 |
-| Master of Magic | 62.00% | ~295 |
+| Unicorn steaks – fresh off the hoof! | 58.00% | ~276 |
 | Heroes’ Gorge | 58.00% | ~276 |
-| Unicorn steaks – fresh off the hoof! | 57.00% | ~271 |
 | Magic Accidents | 56.00% | ~267 |
-| Trap Master | 54.00% | ~257 |
-| Minions, Minions! | 52.00% | ~248 |
-| The Ascent | 48.00% | ~228 |
-| It's Warm and Cozy at Home | 48.00% | ~228 |
+| Trap Master | 55.00% | ~262 |
+| Minions, Minions! | 53.00% | ~252 |
+| The Ascent | 49.00% | ~233 |
+| It's Warm and Cozy at Home | 49.00% | ~233 |
 | YOU SHALL NOT PASS! | 44.00% | ~209 |
 | Hard Work | 44.00% | ~209 |
 | The Big Eaty | 42.00% | ~200 |
@@ -39,14 +39,14 @@
 | Hungry, Hungry Gorgu! | 20.00% | ~95 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~95 |
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~95 |
-| If Looks Could Kill | 19.00% | ~90 |
+| If Looks Could Kill | 20.00% | ~95 |
 | The Finitude Drill | 18.00% | ~86 |
-| Stop Tanos! | 16.00% | ~76 |
+| Stop Tanos! | 17.00% | ~81 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~71 |
 | Doom Hill | 15.00% | ~71 |
 | Sabotage! | 14.00% | ~67 |
+| Brimstone Shaken, Not Stirred | 14.00% | ~67 |
 | Bonus Evilness | 13.00% | ~62 |
-| Brimstone Shaken, Not Stirred | 13.00% | ~62 |
 | Raiders of the Lost Stone | 12.00% | ~57 |
 | The Rune Sockets of Finitude (Part 1) | 12.00% | ~57 |
 | My Little Torture Chamber | 11.00% | ~52 |
@@ -56,9 +56,9 @@
 | Untouchable | 9.00% | ~43 |
 | To Infinity And Beyond! | 9.00% | ~43 |
 | The Last Stand - This Time For Real! | 9.00% | ~43 |
+| Mirror, Mirror | 8.00% | ~38 |
 | To the Max! | 8.00% | ~38 |
 | Gorgu is in the Best of Health | 7.00% | ~33 |
-| Mirror, Mirror | 7.00% | ~33 |
 | Evilification | 7.00% | ~33 |
 | Laser Eyes Are So Useless | 6.00% | ~29 |
 | Heal Heal Blessing | 6.00% | ~29 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 4.00% | ~19 |
 | I Don't Need Any Help | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476 (Ranked 314)  
+Progressed: 476 (Ranked 315)  
 Completed: 7 (1.47%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |

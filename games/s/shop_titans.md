@@ -6,23 +6,23 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,551 |
-| Basic in Bulk | 6.00% | ~8,551 |
-| Titan's First Steps | 6.00% | ~8,551 |
+| Sponsored by Argon | 6.00% | ~8,552 |
+| Basic in Bulk | 6.00% | ~8,552 |
+| Titan's First Steps | 6.00% | ~8,552 |
 | Tinkle of Coins | 5.00% | ~7,126 |
-| Disintermediation | 4.00% | ~5,700 |
-| It's Free Real Estate | 4.00% | ~5,700 |
-| Budding Merchant | 4.00% | ~5,700 |
-| Capitalism Ho! | 4.00% | ~5,700 |
-| The Daily Grind | 3.00% | ~4,275 |
-| One Easy Payment | 3.00% | ~4,275 |
-| Some Assembly Required | 3.00% | ~4,275 |
-| Bounty Hunters | 3.00% | ~4,275 |
-| Another Satisfied Customer | 3.00% | ~4,275 |
-| Pretty Penny | 3.00% | ~4,275 |
-| One-Armed Bandit | 3.00% | ~4,275 |
-| Through Repetition, Perfection | 3.00% | ~4,275 |
-| Own the Means of Production | 3.00% | ~4,275 |
+| Disintermediation | 4.00% | ~5,701 |
+| It's Free Real Estate | 4.00% | ~5,701 |
+| Budding Merchant | 4.00% | ~5,701 |
+| Capitalism Ho! | 4.00% | ~5,701 |
+| The Daily Grind | 3.00% | ~4,276 |
+| One Easy Payment | 3.00% | ~4,276 |
+| Some Assembly Required | 3.00% | ~4,276 |
+| Bounty Hunters | 3.00% | ~4,276 |
+| Another Satisfied Customer | 3.00% | ~4,276 |
+| Pretty Penny | 3.00% | ~4,276 |
+| One-Armed Bandit | 3.00% | ~4,276 |
+| Through Repetition, Perfection | 3.00% | ~4,276 |
+| Own the Means of Production | 3.00% | ~4,276 |
 | On the Path to Greatness | 2.00% | ~2,850 |
 | Ascended | 2.00% | ~2,850 |
 | Tax not Included | 2.00% | ~2,850 |
@@ -35,6 +35,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 2.00% | ~2,850 |
 | Flooding the Market | 2.00% | ~2,850 |
 | Where it Hurts | 2.00% | ~2,850 |
+| This Power Level...! | 2.00% | ~2,850 |
 | Power of Love | 2.00% | ~2,850 |
 | Expansion in Session | 2.00% | ~2,850 |
 | Efficient Floor Space | 2.00% | ~2,850 |
@@ -49,6 +50,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 2.00% | ~2,850 |
 | Seasoned Journeyman | 2.00% | ~2,850 |
 | Did we pack lunch? | 2.00% | ~2,850 |
+| Black Friday Special | 2.00% | ~2,850 |
 | Magical Harmony | 2.00% | ~2,850 |
 | Special Ingredient | 2.00% | ~2,850 |
 | Arcane Industries | 2.00% | ~2,850 |
@@ -69,7 +71,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 1.00% | ~1,425 |
 | Flying off the Shelves | 1.00% | ~1,425 |
 | Industrial Evolution | 1.00% | ~1,425 |
-| This Power Level...! | 1.00% | ~1,425 |
 | Omae wa Mou Shindeiru | 1.00% | ~1,425 |
 | Master of Transmutation | 1.00% | ~1,425 |
 | Hidden Potential | 1.00% | ~1,425 |
@@ -94,7 +95,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 1.00% | ~1,425 |
 | Treasure Trove | 1.00% | ~1,425 |
 | Moment of Respite | 1.00% | ~1,425 |
-| Black Friday Special | 1.00% | ~1,425 |
 | King's Shadow | 1.00% | ~1,425 |
 | Master Recycler | 1.00% | ~1,425 |
 | All Accounted For | 1.00% | ~1,425 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,511 (Ranked 80)  
+Progressed: 142,525 (Ranked 80)  
 Completed: 278 (0.20%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 278 (0.20%) (Ranked 256)
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
-| 2023-11-27 | 142,511 | 278 |
+| 2023-11-27 | 142,525 | 278 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,609 (Ranked 50)  

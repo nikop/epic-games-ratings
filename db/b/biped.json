@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7157,
+  "EOS_Progressed": 7159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13194,6 +13194,11 @@
       "Time": "2023-11-27T17:04:18.2265881+00:00",
       "NumProgressed": 7157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T21:04:47.4755947+00:00",
+      "NumProgressed": 7159,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -13261,7 +13266,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "3",
@@ -13301,7 +13306,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "8",
@@ -13317,14 +13322,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7157,
+      "Progressed": 7159,
       "Completed": 0
     }
   ],
@@ -13332,8 +13337,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:04:48.2028131+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:04:47.475594+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:07.0754942+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:59:08.046014+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:04:48.2028777+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:59:06.0957564+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:04:47.4756705+00:00"
 }

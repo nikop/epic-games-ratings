@@ -5968,9 +5968,9 @@
       "ID": "AK_FIELDS_WATERED",
       "SetID": "dfmb89",
       "Name": "Fields Watered",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3168
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6128,9 +6128,9 @@
       "ID": "AK_TRAVELERS_RETURNED",
       "SetID": "dfmb89",
       "Name": "Travelers Returned",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1810
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -6176,8 +6176,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:05:16.4744318+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:05:17.2046755+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:18.312921+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:03:19.5689009+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:05:16.4744834+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:03:14.6596146+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:05:17.2047246+00:00"
 }

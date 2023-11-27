@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -587,9 +587,9 @@
       "ID": "dont_fear_the_baldness",
       "SetID": "202dmm8",
       "Name": "Don\u0027t fear the baldness",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "instinct",
@@ -684,8 +684,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:09:18.7298456+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:09:11.1172954+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.8439952+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:59:01.5906251+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:09:18.7298537+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:58:58.9158841+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:09:11.1173103+00:00"
 }

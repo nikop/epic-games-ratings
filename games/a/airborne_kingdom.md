@@ -8,7 +8,7 @@ Number of Ratings: 74  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Small Community | 56.00% | ~4,224 |
 | A Grove Replanted | 53.00% | ~3,998 |
-| Fields Watered | 41.00% | ~3,093 |
+| Fields Watered | 42.00% | ~3,168 |
 | Seekers Found | 41.00% | ~3,093 |
 | Settling the Skies | 41.00% | ~3,093 |
 | Wind Powered | 40.00% | ~3,017 |
@@ -18,8 +18,8 @@ Number of Ratings: 74  (23.09.2022)
 | Irons Scorched | 25.00% | ~1,886 |
 | Islands Connected | 25.00% | ~1,886 |
 | Harp Tuned | 24.00% | ~1,810 |
+| Travelers Returned | 24.00% | ~1,810 |
 | Pyre Ignited | 23.00% | ~1,735 |
-| Travelers Returned | 23.00% | ~1,735 |
 | Hopes Hoisted | 22.00% | ~1,659 |
 | Knowledge Shared | 21.00% | ~1,584 |
 | Relic Finder | 20.00% | ~1,509 |

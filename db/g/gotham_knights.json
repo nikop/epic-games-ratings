@@ -4403,9 +4403,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77293,
+  "EOS_Progressed": 77295,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24178,6 +24178,11 @@
       "Time": "2023-11-27T20:03:47.2093661+00:00",
       "NumProgressed": 77293,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-27T21:03:45.4543954+00:00",
+      "NumProgressed": 77295,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24237,7 +24242,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17777
+      "UsersEstimate": 17778
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -24373,7 +24378,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -24405,7 +24410,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7729
+      "UsersEstimate": 7730
     },
     {
       "ID": "FREEZE_1",
@@ -24413,7 +24418,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21642
+      "UsersEstimate": 21643
     },
     {
       "ID": "FREEZE_1_5",
@@ -24501,7 +24506,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19323
+      "UsersEstimate": 19324
     },
     {
       "ID": "HARLEY_3",
@@ -24533,7 +24538,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38646
+      "UsersEstimate": 38648
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24565,7 +24570,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20869
+      "UsersEstimate": 20870
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -24589,7 +24594,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19323
+      "UsersEstimate": 19324
     },
     {
       "ID": "MYSTERY_03",
@@ -24597,7 +24602,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17004
+      "UsersEstimate": 17005
     },
     {
       "ID": "MYSTERY_04",
@@ -24653,7 +24658,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -24676,13 +24681,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77293,
+      "Progressed": 77295,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47573,
+      "Progressed": 47575,
       "Completed": 2675
     }
   ],
@@ -24690,8 +24695,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-27T17:58:11.521629+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:03:47.2093658+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:03:45.4543948+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:58:06.3828414+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:03:47.2094734+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:58:01.5973151+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:03:45.4545748+00:00"
 }

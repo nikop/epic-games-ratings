@@ -19,7 +19,7 @@ Number of Ratings: 209  (23.09.2022)
 | Revenge | 93.00% | ~2,165 |
 | Cage Town | 93.00% | ~2,165 |
 | Surprise | 93.00% | ~2,165 |
-| Magnet | 90.00% | ~2,095 |
+| Magnet | 91.00% | ~2,118 |
 | Industrial Area | 89.00% | ~2,072 |
 | Magnet Repel | 88.00% | ~2,049 |
 | You feel middle classy | 87.00% | ~2,025 |

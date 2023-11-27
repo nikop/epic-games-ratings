@@ -27,9 +27,9 @@
 | Take Heart | 40.00% | ~453 |
 | Well Rested | 40.00% | ~453 |
 | Ancient Wisdom | 39.00% | ~441 |
+| Frog Facts! | 39.00% | ~441 |
 | All That Glistens | 39.00% | ~441 |
 | Stronger! | 39.00% | ~441 |
-| Frog Facts! | 38.00% | ~430 |
 | Spellbound | 37.00% | ~419 |
 | All Skilled Up! | 37.00% | ~419 |
 | It's Pointy! | 37.00% | ~419 |

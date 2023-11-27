@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24582,
+  "EOS_Progressed": 24584,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7028,6 +7028,11 @@
       "Time": "2023-11-27T20:05:04.1931249+00:00",
       "NumProgressed": 24582,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-27T21:05:03.9217693+00:00",
+      "NumProgressed": 24584,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7087,7 +7092,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -7095,7 +7100,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -7127,7 +7132,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -7167,7 +7172,7 @@
       "Name": "First Bounty Down",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -7175,7 +7180,7 @@
       "Name": "G3 Graduation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -7199,7 +7204,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -7215,7 +7220,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -7247,7 +7252,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 0.6,
       "XP": 45,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -7390,13 +7395,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24582,
+      "Progressed": 24584,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1875,
+      "Progressed": 1877,
       "Completed": 1376
     }
   ],
@@ -7404,8 +7409,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:05:04.1931248+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:05:03.9217687+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.9623441+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:03:07.4533359+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:05:04.1931712+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:03:02.2011006+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:05:03.9218241+00:00"
 }

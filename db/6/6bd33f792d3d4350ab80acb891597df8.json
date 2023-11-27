@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -473,9 +473,9 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
@@ -640,8 +640,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:04:25.8894218+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:04:24.6111463+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:31.5236566+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:58:55.3524547+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:04:25.8894405+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:58:52.4828264+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:04:24.6111629+00:00"
 }

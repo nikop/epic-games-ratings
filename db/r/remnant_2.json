@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 68,
@@ -4771,10 +4771,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6037,
       "NumberOfAwardsMax": 2480
+    },
+    {
+      "Time": "2023-11-27T21:03:19.9918847+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6045,
+      "NumberOfAwardsMax": 2480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6037,
+  "NumberOfAwards": 6045,
   "NumberOfAwardsMax": 2480,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4842,13 +4848,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 366
+      "Count": 374
     }
   ],
-  "EOS_Progressed": 229567,
+  "EOS_Progressed": 229579,
   "EOS_Completed": 538,
-  "EOS_NewPlayers": 4944,
-  "EOS_NewCompleters": 45,
+  "EOS_NewPlayers": 4933,
+  "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20225,6 +20231,11 @@
       "Time": "2023-11-27T20:09:01.1291196+00:00",
       "NumProgressed": 229567,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-11-27T21:08:53.0811531+00:00",
+      "NumProgressed": 229579,
+      "NumCompleted": 538
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20676,22 +20687,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229567,
+      "Progressed": 229579,
       "Completed": 538
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8732,
+      "Progressed": 8744,
       "Completed": 165
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-27T19:03:19.0409282+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:09:01.1291193+00:00",
+  "LastChanged": "2023-11-27T21:03:19.9918845+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:08:53.0811525+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:03:24.6411035+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:09:01.129238+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:03:19.9918849+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:08:53.0812684+00:00"
 }

@@ -38,9 +38,9 @@ Rating: 4.61 (Ranked 382)
 | Preparation Is Everything | 0.80% | ~44 |
 | Blood of the Dragon | 0.80% | ~44 |
 | Prometheus Avenged | 0.80% | ~44 |
+| A Conqueror's Cohort | 0.80% | ~44 |
 | Arch Mage | 0.70% | ~39 |
 | Crimson Caldera | 0.70% | ~39 |
-| A Conqueror's Cohort | 0.70% | ~39 |
 | The Creator | 0.60% | ~33 |
 | Lord of Chaos | 0.50% | ~28 |
 | Manufactured War | 0.50% | ~28 |

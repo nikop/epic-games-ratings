@@ -11,8 +11,8 @@ Number of Ratings: 292  (23.09.2022)
 | Critical Hit | 12.00% | ~31 |
 | Veteran | 10.00% | ~26 |
 | Dressed For Success | 7.00% | ~18 |
-| Sorcerous Spree | 5.00% | ~13 |
-| Humiliation | 5.00% | ~13 |
+| Sorcerous Spree | 6.00% | ~16 |
+| Humiliation | 6.00% | ~16 |
 | Veni, Vidi, Vici | 5.00% | ~13 |
 | Whoops! | 4.00% | ~10 |
 | Multi Kill | 3.00% | ~8 |

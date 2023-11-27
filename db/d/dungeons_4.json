@@ -2,10 +2,10 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1163,9 +1163,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 376
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -1179,25 +1179,25 @@
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 262
     },
     {
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 347
     },
     {
       "ID": "ach_main03demon_doors",
       "SetID": "4hg22ll",
       "Name": "Master of Magic",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 300
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1219,9 +1219,9 @@
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 252
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -1251,9 +1251,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 276
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -1291,9 +1291,9 @@
       "ID": "ach_main07storm_completed",
       "SetID": "4hg22ll",
       "Name": "The Ascent",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -1307,9 +1307,9 @@
       "ID": "ach_main07storm_storm",
       "SetID": "4hg22ll",
       "Name": "It\u0027s Warm and Cozy at Home",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -1419,9 +1419,9 @@
       "ID": "ach_main12race_tanosevilness",
       "SetID": "4hg22ll",
       "Name": "Stop Tanos!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_main12race_torture",
@@ -1459,17 +1459,17 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_main14run_mirroruses",
       "SetID": "4hg22ll",
       "Name": "Mirror, Mirror",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_main14run_roomdamage",
@@ -1539,9 +1539,9 @@
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -1634,8 +1634,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:06:24.3648842+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:06:26.4143498+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:59:42.8501552+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:06:24.3649297+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:59:40.6643431+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:06:26.4144393+00:00"
 }

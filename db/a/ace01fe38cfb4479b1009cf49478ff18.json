@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -664,6 +664,11 @@
       "Time": "2023-11-27T20:09:26.4117018+00:00",
       "NumProgressed": 149,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T21:09:18.9960623+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -676,7 +681,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 29,
       "XP": 45,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -756,7 +761,7 @@
       "Name": "Find all Secrets - Chapter 2",
       "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_find_all_secrets_c3",
@@ -764,21 +769,21 @@
       "Name": "Find all Secrets - Chapter 3",
       "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:09:26.4117015+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:09:18.9960619+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.3392935+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:01:27.3492889+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:09:26.4117121+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:57:16.7521261+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:09:18.9960727+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1489,9 +1489,9 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_12",
@@ -1825,9 +1825,9 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_8",
@@ -1858,8 +1858,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-26T15:58:20.3340426+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:09:03.67296+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:08:55.8147317+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.7077171+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:59:03.9742547+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:09:03.6729997+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:59:01.2939416+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:08:55.8147725+00:00"
 }

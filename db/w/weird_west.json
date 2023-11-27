@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2010,
+  "EOS_Progressed": 2011,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2796,6 +2796,11 @@
       "Time": "2023-11-27T20:06:11.7217429+00:00",
       "NumProgressed": 2010,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-27T21:06:13.4804438+00:00",
+      "NumProgressed": 2011,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2831,7 +2836,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2919,7 +2924,7 @@
       "Name": "Healing Old Wounds",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_HERE_COMES_SANTA_CLAUS",
@@ -3039,7 +3044,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -3055,7 +3060,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3079,7 +3084,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_REVENANT",
@@ -3095,7 +3100,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -3103,7 +3108,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3135,7 +3140,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -3159,7 +3164,7 @@
       "Name": "This Is Sparta",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_THROUGH_THEIR_EYES",
@@ -3183,7 +3188,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3199,7 +3204,7 @@
       "Name": "What\u2019s in the Box?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_WHO_YOU_GONNA_CALL",
@@ -3230,15 +3235,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2010,
+      "Progressed": 2011,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:06:11.7217428+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:06:13.4804432+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.3166+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:02:55.0352505+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:06:11.7217797+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:02:50.781171+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:06:13.4804832+00:00"
 }

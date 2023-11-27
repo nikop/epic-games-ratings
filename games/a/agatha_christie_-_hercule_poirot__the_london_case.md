@@ -27,12 +27,12 @@
 | The Apartment | 32.00% | ~11 |
 | A rude awakening | 26.00% | ~9 |
 | Nathaniel Dryden | 26.00% | ~9 |
+| Well-acquainted | 24.00% | ~8 |
+| Anastasia Babanin | 24.00% | ~8 |
+| Zakariya Demir | 24.00% | ~8 |
 | Bartholomew | 24.00% | ~8 |
-| Well-acquainted | 21.00% | ~7 |
+| The Scheme | 24.00% | ~8 |
 | Truth from within | 21.00% | ~7 |
-| Anastasia Babanin | 21.00% | ~7 |
-| Zakariya Demir | 21.00% | ~7 |
-| The Scheme | 21.00% | ~7 |
 | A curious phrase | 18.00% | ~6 |
 | Well-travelled | 15.00% | ~5 |
 | A peculiar fellow | 15.00% | ~5 |

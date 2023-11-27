@@ -23,13 +23,13 @@ Rating: 4.76 (Ranked 125)
 | Rising From the Ashes | 10.00% | ~30,341 |
 | A Sallow Grave | 9.00% | ~27,307 |
 | The Spell Master | 9.00% | ~27,307 |
-| The Avenging Gazelle | 8.00% | ~24,272 |
-| Beast Friends | 8.00% | ~24,272 |
-| Flight the Good Flight | 8.00% | ~24,272 |
-| Raising Expectations | 7.00% | ~21,238 |
-| The Seeker of Knowledge | 6.00% | ~18,204 |
-| The Root of the Problem | 6.00% | ~18,204 |
-| Third Time's a Charm | 6.00% | ~18,204 |
+| The Avenging Gazelle | 8.00% | ~24,273 |
+| Beast Friends | 8.00% | ~24,273 |
+| Flight the Good Flight | 8.00% | ~24,273 |
+| Raising Expectations | 7.00% | ~21,239 |
+| The Seeker of Knowledge | 6.00% | ~18,205 |
+| The Root of the Problem | 6.00% | ~18,205 |
+| Third Time's a Charm | 6.00% | ~18,205 |
 | The Toast of the Town | 5.00% | ~15,170 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,170 |
 | The Ends Petrify the Means | 5.00% | ~15,170 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,124 |
 | Collector's Edition | 0.30% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,406 (Ranked 54)  
+Progressed: 303,409 (Ranked 54)  
 Completed: 518 (0.17%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,10 +272,10 @@ Completed: 518 (0.17%) (Ranked 265)
 | 2023-11-24 | 302,992 | 514 |
 | 2023-11-25 | 303,175 | 514 |
 | 2023-11-26 | 303,320 | 515 |
-| 2023-11-27 | 303,406 | 518 |
+| 2023-11-27 | 303,409 | 518 |
 ## Awards
 Max (Character Customization): 24,711  (Ranked 17)  
-Sum: 49,315 (Ranked 30)  
+Sum: 49,322 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -285,8 +285,8 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,304 |
 | This game has Amazing Storytelling | 1,304 |
 | This game is Extremely Fun | 1,276 |
-| This game is Relaxing | 1,267 |
-| This game has Amazing Characters | 1,233 |
+| This game is Relaxing | 1,273 |
+| This game has Amazing Characters | 1,234 |
 | This game is Highly Recommended | 1,209 |
 | This game has Quickly Understood Controls | 1,177 |
 | This game has Beautiful Visuals | 1,060 |
@@ -542,4 +542,4 @@ Diff (max vs sum): -13
 | 2023-11-24 | 4.76 | 24,595 | 49,037 |
 | 2023-11-25 | 4.76 | 24,634 | 49,151 |
 | 2023-11-26 | 4.76 | 24,684 | 49,249 |
-| 2023-11-27 | 4.76 | 24,711 | 49,315 |
+| 2023-11-27 | 4.76 | 24,711 | 49,322 |

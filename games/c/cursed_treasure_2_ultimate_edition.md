@@ -27,9 +27,9 @@
 | The Apotheosis of War | 68.00% | ~122 |
 | Stasis Alcatraz | 68.00% | ~122 |
 | Tastes Like Chicken | 64.00% | ~115 |
+| Thunderstorm | 64.00% | ~115 |
 | Brilliant: Holy Mountain | 63.00% | ~113 |
 | Combo Breaker | 63.00% | ~113 |
-| Thunderstorm | 63.00% | ~113 |
 | Clean Forests | 62.00% | ~112 |
 | Starry: Meadowshire | 58.00% | ~104 |
 | Lieutenant of the Evil | 58.00% | ~104 |

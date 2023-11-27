@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2793,9 +2793,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 237
     },
     {
       "ID": "AC15",
@@ -2849,9 +2849,9 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 381
     },
     {
       "ID": "AC22",
@@ -3058,8 +3058,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-18T16:58:56.9508532+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:08:49.076329+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:08:40.6726589+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:32.1505355+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:59:27.4366849+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:08:49.0763609+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:59:25.1473834+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:08:40.6727032+00:00"
 }

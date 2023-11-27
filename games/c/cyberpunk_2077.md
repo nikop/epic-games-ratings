@@ -6,39 +6,39 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 10.00% | ~95,522 |
-| Gun Fu | 5.00% | ~47,761 |
-| The Fool | 5.00% | ~47,761 |
-| Right Back At Ya | 3.00% | ~28,657 |
-| The Lovers | 3.00% | ~28,657 |
-| Full Body Conversion | 2.00% | ~19,104 |
-| Stanislavski's Method | 2.00% | ~19,104 |
-| The Wheel of Fortune | 2.00% | ~19,104 |
-| True Soldier | 2.00% | ~19,104 |
-| Relic Ruler | 2.00% | ~1,677 |
-| Christmas Tree Attack | 1.00% | ~9,552 |
-| The Quick and the Dead | 1.00% | ~9,552 |
-| The Hermit | 1.00% | ~9,552 |
-| The High Priestess | 1.00% | ~9,552 |
-| True Warrior | 1.00% | ~9,552 |
-| Legend of The Afterlife | 1.00% | ~9,552 |
-| All the President's Men | 1.00% | ~838 |
-| Arachnophobia | 1.00% | ~838 |
-| Life of the Road | 0.90% | ~8,597 |
-| Bushido and Chill | 0.70% | ~6,687 |
-| Master Crafter | 0.70% | ~6,687 |
-| The World | 0.70% | ~6,687 |
-| Spin Doctor | 0.70% | ~587 |
-| To Protect and Serve | 0.60% | ~5,731 |
-| I Am The Law | 0.60% | ~5,731 |
-| Two Heads, One Bullet | 0.60% | ~5,731 |
-| Judy vs Night City | 0.60% | ~5,731 |
-| The Wandering Fool | 0.50% | ~4,776 |
-| King of Wands | 0.50% | ~419 |
-| Dirty Deeds | 0.50% | ~419 |
-| Easy Come, Easy Go | 0.50% | ~419 |
-| Ten out of Ten | 0.40% | ~3,821 |
-| The Sun | 0.40% | ~3,821 |
+| V for Vendetta | 10.00% | ~95,538 |
+| Gun Fu | 5.00% | ~47,769 |
+| The Fool | 5.00% | ~47,769 |
+| Right Back At Ya | 3.00% | ~28,662 |
+| The Lovers | 3.00% | ~28,662 |
+| Full Body Conversion | 2.00% | ~19,108 |
+| Stanislavski's Method | 2.00% | ~19,108 |
+| The Wheel of Fortune | 2.00% | ~19,108 |
+| True Soldier | 2.00% | ~19,108 |
+| Relic Ruler | 2.00% | ~1,680 |
+| Christmas Tree Attack | 1.00% | ~9,554 |
+| The Quick and the Dead | 1.00% | ~9,554 |
+| The Hermit | 1.00% | ~9,554 |
+| The High Priestess | 1.00% | ~9,554 |
+| True Warrior | 1.00% | ~9,554 |
+| Legend of The Afterlife | 1.00% | ~9,554 |
+| All the President's Men | 1.00% | ~840 |
+| Arachnophobia | 1.00% | ~840 |
+| Life of the Road | 0.90% | ~8,598 |
+| Bushido and Chill | 0.70% | ~6,688 |
+| Master Crafter | 0.70% | ~6,688 |
+| The World | 0.70% | ~6,688 |
+| Spin Doctor | 0.70% | ~588 |
+| To Protect and Serve | 0.60% | ~5,732 |
+| I Am The Law | 0.60% | ~5,732 |
+| Two Heads, One Bullet | 0.60% | ~5,732 |
+| Judy vs Night City | 0.60% | ~5,732 |
+| The Wandering Fool | 0.50% | ~4,777 |
+| King of Wands | 0.50% | ~420 |
+| Dirty Deeds | 0.50% | ~420 |
+| Easy Come, Easy Go | 0.50% | ~420 |
+| Ten out of Ten | 0.40% | ~3,822 |
+| The Sun | 0.40% | ~3,822 |
 | To Bad Decisions! | 0.30% | ~2,866 |
 | Breathtaking | 0.30% | ~2,866 |
 | The Star | 0.30% | ~2,866 |
@@ -46,9 +46,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.30% | ~252 |
 | King of Swords | 0.30% | ~252 |
 | The Tower | 0.30% | ~252 |
-| Autojock | 0.20% | ~1,910 |
-| Must Be Rats | 0.20% | ~1,910 |
-| Temperance | 0.20% | ~1,910 |
+| Autojock | 0.20% | ~1,911 |
+| Must Be Rats | 0.20% | ~1,911 |
+| Temperance | 0.20% | ~1,911 |
 | The APB is Not Enough | 0.20% | ~168 |
 | King of Cups | 0.20% | ~168 |
 | City Lights | 0.10% | ~955 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 955,218 (Ranked 15)  
-Completed: 2,818 (0.30%) (Ranked 236)  
+Progressed: 955,385 (Ranked 15)  
+Completed: 2,818 (0.29%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 2,818 (0.30%) (Ranked 236)
 | 2023-11-24 | 934,254 | 2,810 |
 | 2023-11-25 | 943,308 | 2,812 |
 | 2023-11-26 | 950,531 | 2,816 |
-| 2023-11-27 | 955,218 | 2,818 |
+| 2023-11-27 | 955,385 | 2,818 |
 ## Awards
 Max (Character Customization): 110,030  (Ranked 9)  
 Sum: 368,854 (Ranked 9)  

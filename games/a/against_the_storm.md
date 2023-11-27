@@ -6,23 +6,26 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overgrown Library | 0.50% | ~88 |
 | Abandoned Settlement | 0.40% | ~70 |
-| Overgrown Library | 0.40% | ~70 |
 | Petrified Necropolis | 0.40% | ~70 |
 | Frosts | 0.30% | ~53 |
 | Land of Greed | 0.30% | ~53 |
 | Ominous Presence | 0.30% | ~53 |
 | Gathering Storm | 0.30% | ~53 |
-| Untamed Wilds | 0.20% | ~35 |
+| Untamed Wilds | 0.30% | ~53 |
+| Serving Ale | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
 | Homesick | 0.10% | ~18 |
 | First Real Expedition | 0.10% | ~18 |
+| Overcoming Difficulty | 0.10% | ~18 |
 | Against All Odds | 0.10% | ~18 |
 | Ruined Armory | 0.10% | ~18 |
 | Bandit Camp | 0.10% | ~18 |
 | Ancient Battleground | 0.10% | ~18 |
 | Fertile Meadows | 0.10% | ~18 |
+| Fishmen Ritual Site | 0.10% | ~18 |
 | Haunted Forest | 0.10% | ~18 |
 | Levitating Monument | 0.10% | ~18 |
 | Monastery of the Holy Flame | 0.10% | ~18 |
@@ -36,12 +39,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | A Real Challenge | 0.10% | ~18 |
+| Blood Flower Farmer | 0.10% | ~18 |
 | Taking Action | 0.10% | ~18 |
 | Victory Through Prosperity | 0.10% | ~18 |
+| Trade Baron | 0.10% | ~18 |
 | No Deaths | 0.10% | ~18 |
+| Defying the Crown | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Fox Utopia | 0.10% | ~18 |
-| Serving Ale | 0.00% | ~0 |
 | Feeding The People | 0.00% | ~0 |
 | Paradise | 0.00% | ~0 |
 | Higher Needs | 0.00% | ~0 |
@@ -49,24 +54,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Harpy Utopia | 0.00% | ~0 |
 | Lizard Utopia | 0.00% | ~0 |
 | Refinery | 0.00% | ~0 |
-| Overcoming Difficulty | 0.00% | ~0 |
 | Barren Lands | 0.00% | ~0 |
 | Sparkdew Crystals | 0.00% | ~0 |
 | Dangerous Lands | 0.00% | ~0 |
-| Fishmen Ritual Site | 0.00% | ~0 |
 | Forbidden Lands | 0.00% | ~0 |
 | Flooded Mines | 0.00% | ~0 |
 | Forsaken Gods Temple | 0.00% | ~0 |
 | Cursed Lands | 0.00% | ~0 |
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
-| Blood Flower Farmer | 0.00% | ~0 |
 | Ruins | 0.00% | ~0 |
 | Like a Machine | 0.00% | ~0 |
-| Trade Baron | 0.00% | ~0 |
-| Defying the Crown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,504 (Ranked 146)  
+Progressed: 17,505 (Ranked 146)  
 Completed: 54 (0.31%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 54 (0.31%) (Ranked 234)
 | 2023-11-24 | 17,437 | 56 |
 | 2023-11-25 | 17,472 | 56 |
 | 2023-11-26 | 17,488 | 56 |
-| 2023-11-27 | 17,504 | 56 |
+| 2023-11-27 | 17,505 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 222)  
 Sum: 3,232 (Ranked 173)  

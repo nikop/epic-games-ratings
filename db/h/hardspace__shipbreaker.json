@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 967,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2003,6 +2003,11 @@
       "Time": "2023-11-25T21:06:10.7412899+00:00",
       "NumProgressed": 966,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T21:08:26.4289977+00:00",
+      "NumProgressed": 967,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2094,7 +2099,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2150,7 +2155,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2180,9 +2185,9 @@
       "ID": "ACH_NO_NINOS",
       "SetID": "108h92c",
       "Name": "No Ni\u00F1os",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -2190,7 +2195,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2222,14 +2227,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 967,
       "Completed": 0
     }
   ],
@@ -2237,8 +2242,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:08:35.368971+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:08:26.4289968+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.8904594+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:59:14.281508+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:08:35.3689939+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:59:13.0838997+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:08:26.4290219+00:00"
 }

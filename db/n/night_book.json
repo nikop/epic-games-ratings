@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -485,9 +485,9 @@
       "ID": "pearce",
       "SetID": "a3kkelb",
       "Name": "Pearce",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "personal_life",
@@ -550,8 +550,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:03:37.3391753+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:03:34.7496675+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:55.6643864+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:58:37.7575237+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:03:37.3391856+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:58:33.7083393+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:03:34.749681+00:00"
 }

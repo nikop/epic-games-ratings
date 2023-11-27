@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 763,
+  "Ranking_Rating": 764,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2500,9 +2500,9 @@
       "ID": "ACH_STAR_3",
       "SetID": "7k95e4n",
       "Name": "Still more work ahead",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_STAR_4",
@@ -2557,8 +2557,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-06T04:59:47.279974+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:04:46.2750023+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:04:45.4540668+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.9610757+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:00:34.2493417+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:04:46.2750216+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:00:33.2392062+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:04:45.4540884+00:00"
 }

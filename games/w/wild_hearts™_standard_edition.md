@@ -25,8 +25,8 @@
 | Axer of Auspice | 44.00% | ~147 |
 | Fair Means or Foul | 43.00% | ~144 |
 | Mighty Marmelizer | 42.00% | ~141 |
+| Single Minded | 40.00% | ~134 |
 | Snare Specialist | 40.00% | ~134 |
-| Single Minded | 39.00% | ~131 |
 | Kemono at Heart | 39.00% | ~131 |
 | Karakuri Trail | 36.00% | ~121 |
 | Artful Assister | 36.00% | ~121 |
@@ -36,7 +36,7 @@
 | Left Arm Leverager | 28.00% | ~94 |
 | Unrivaled in Arms | 28.00% | ~94 |
 | Style Seeker | 27.00% | ~90 |
-| Human Believer | 26.00% | ~87 |
+| Human Believer | 27.00% | ~90 |
 | Karakuri Minato | 26.00% | ~87 |
 | Canyon of Karakuri | 25.00% | ~84 |
 | Threaded Harmony | 24.00% | ~80 |

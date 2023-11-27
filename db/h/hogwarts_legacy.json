@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11065,10 +11065,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49315,
       "NumberOfAwardsMax": 24711
+    },
+    {
+      "Time": "2023-11-27T21:00:08.3619311+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49322,
+      "NumberOfAwardsMax": 24711
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49315,
+  "NumberOfAwards": 49322,
   "NumberOfAwardsMax": 24711,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11094,7 +11100,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1233
+      "Count": 1234
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11118,7 +11124,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1267
+      "Count": 1273
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11145,10 +11151,10 @@
       "Count": 817
     }
   ],
-  "EOS_Progressed": 303406,
+  "EOS_Progressed": 303409,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 918,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 920,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -34975,6 +34981,11 @@
       "Time": "2023-11-27T20:09:45.852502+00:00",
       "NumProgressed": 303406,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-11-27T21:09:38.4485055+00:00",
+      "NumProgressed": 303409,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 45,
@@ -35026,7 +35037,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 18204
+      "UsersEstimate": 18205
     },
     {
       "ID": "PFA_15",
@@ -35034,7 +35045,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24272
+      "UsersEstimate": 24273
     },
     {
       "ID": "PFA_16",
@@ -35050,7 +35061,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24272
+      "UsersEstimate": 24273
     },
     {
       "ID": "PFA_18",
@@ -35066,7 +35077,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24272
+      "UsersEstimate": 24273
     },
     {
       "ID": "PFA_2",
@@ -35122,7 +35133,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18204
+      "UsersEstimate": 18205
     },
     {
       "ID": "PFA_26",
@@ -35154,7 +35165,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18204
+      "UsersEstimate": 18205
     },
     {
       "ID": "PFA_3",
@@ -35274,7 +35285,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21238
+      "UsersEstimate": 21239
     },
     {
       "ID": "PFA_43",
@@ -35345,16 +35356,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303406,
+      "Progressed": 303409,
       "Completed": 518
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-27T19:00:51.4539385+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:09:45.8525017+00:00",
+  "LastChanged": "2023-11-27T21:00:08.3619309+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:09:38.4485053+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:00:09.6640185+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:09:45.8526159+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:00:08.3619314+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:09:38.4486565+00:00"
 }

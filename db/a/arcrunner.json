@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2004,9 +2004,9 @@
       "ID": "ACHV_DOCKS",
       "SetID": "cceobco",
       "Name": "Starship Docks",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHV_EDEN",
@@ -2187,8 +2187,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:09:01.7580985+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:08:53.8086021+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6784988+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:58:34.9496212+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:09:01.75812+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:58:30.1391193+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:08:53.80863+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -592,9 +592,9 @@
       "ID": "ACH_COMFORTABLE_WITH_YOU",
       "SetID": "8h8m55b",
       "Name": "Comfortable With You",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FAILED_MESSENGER",
@@ -704,9 +704,9 @@
       "ID": "ACH_LISTEN_ALL_SONG",
       "SetID": "8h8m55b",
       "Name": "24/7 a beat to relax/study to",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LOCAL_FAVORITE",
@@ -824,9 +824,9 @@
       "ID": "ACH_TRUE_FAN",
       "SetID": "8h8m55b",
       "Name": "True Fan",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_ALL",
@@ -888,9 +888,9 @@
       "ID": "ACH_WISTFUL_NIGHT",
       "SetID": "8h8m55b",
       "Name": "Wistful Nights",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_WORK_WOES",
@@ -919,8 +919,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:04:21.4834586+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:04:20.0801991+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:56.257571+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:03:09.3939098+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:04:21.4834984+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:03:04.447456+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:04:20.0802345+00:00"
 }

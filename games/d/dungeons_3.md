@@ -6,42 +6,42 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~28,978 |
-| The Evilest Evil | 59.00% | ~24,424 |
-| Twistram is devastated | 58.00% | ~24,010 |
-| The Gehenna Stones | 50.00% | ~20,698 |
-| No one has to die today! | 47.00% | ~19,457 |
-| Death and destruction! | 46.00% | ~19,043 |
-| The Swamplanders from the swamplands | 44.00% | ~18,215 |
-| The One-Huge-Army-Building Evil | 41.00% | ~16,973 |
-| Rusty Steel | 41.00% | ~16,973 |
-| The last burger | 38.00% | ~15,731 |
-| Braiiiiins! | 38.00% | ~15,731 |
-| Hands off the Dungeonheart! | 36.00% | ~14,903 |
-| A trip on sea, what fun it can be | 34.00% | ~14,075 |
-| Damned good | 33.00% | ~13,661 |
-| Stock Market Crash | 31.00% | ~12,833 |
-| Factory farming | 31.00% | ~12,833 |
-| Shadow hunter | 30.00% | ~12,419 |
-| Not-So-Overproud | 30.00% | ~12,419 |
-| For a handfull of Catapults | 28.00% | ~11,591 |
-| Thirst quencher | 27.00% | ~11,177 |
-| Ogre Solo! | 27.00% | ~11,177 |
-| Destroy the thing | 26.00% | ~10,763 |
-| Tide Master | 26.00% | ~10,763 |
-| Difficult family relationships | 25.00% | ~10,349 |
-| MASS-O-BOT | 25.00% | ~10,349 |
-| Prepare the grave | 24.00% | ~9,935 |
-| Angel of Fire | 24.00% | ~9,935 |
-| Where there is Light, there is Shadow | 23.00% | ~9,521 |
-| At the foot of Mount Destiny | 22.00% | ~9,107 |
-| The Force disturbed | 21.00% | ~8,693 |
-| The Victorious Evil | 20.00% | ~8,279 |
-| Chorus of damnation | 19.00% | ~7,865 |
-| We don’t have time! | 19.00% | ~7,865 |
-| The Stones’ Power | 18.00% | ~7,451 |
-| Flat as a pancake | 17.00% | ~7,037 |
-| Lifeguard | 17.00% | ~7,037 |
+| The Shadow strikes | 70.00% | ~28,982 |
+| The Evilest Evil | 59.00% | ~24,428 |
+| Twistram is devastated | 58.00% | ~24,014 |
+| The Gehenna Stones | 50.00% | ~20,702 |
+| No one has to die today! | 47.00% | ~19,459 |
+| Death and destruction! | 46.00% | ~19,045 |
+| The Swamplanders from the swamplands | 44.00% | ~18,217 |
+| The One-Huge-Army-Building Evil | 41.00% | ~16,975 |
+| Rusty Steel | 41.00% | ~16,975 |
+| The last burger | 38.00% | ~15,733 |
+| Braiiiiins! | 38.00% | ~15,733 |
+| Hands off the Dungeonheart! | 36.00% | ~14,905 |
+| A trip on sea, what fun it can be | 34.00% | ~14,077 |
+| Damned good | 33.00% | ~13,663 |
+| Stock Market Crash | 31.00% | ~12,835 |
+| Factory farming | 31.00% | ~12,835 |
+| Shadow hunter | 30.00% | ~12,421 |
+| Not-So-Overproud | 30.00% | ~12,421 |
+| For a handfull of Catapults | 28.00% | ~11,593 |
+| Thirst quencher | 27.00% | ~11,179 |
+| Ogre Solo! | 27.00% | ~11,179 |
+| Destroy the thing | 26.00% | ~10,765 |
+| Tide Master | 26.00% | ~10,765 |
+| Difficult family relationships | 25.00% | ~10,351 |
+| MASS-O-BOT | 25.00% | ~10,351 |
+| Prepare the grave | 24.00% | ~9,937 |
+| Angel of Fire | 24.00% | ~9,937 |
+| Where there is Light, there is Shadow | 23.00% | ~9,523 |
+| At the foot of Mount Destiny | 22.00% | ~9,109 |
+| The Force disturbed | 21.00% | ~8,695 |
+| The Victorious Evil | 20.00% | ~8,281 |
+| Chorus of damnation | 19.00% | ~7,867 |
+| We don’t have time! | 19.00% | ~7,867 |
+| The Stones’ Power | 18.00% | ~7,453 |
+| Flat as a pancake | 17.00% | ~7,039 |
+| Lifeguard | 17.00% | ~7,039 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,210 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~4,968 |
 | Then let them eat cake! | 12.00% | ~4,968 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~828 |
 | Sacrifices! | 2.00% | ~828 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,397 (Ranked 120)  
+Progressed: 41,403 (Ranked 120)  
 Completed: 332 (0.80%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 332 (0.80%) (Ranked 181)
 | 2023-11-24 | 40,937 | 326 |
 | 2023-11-25 | 41,122 | 328 |
 | 2023-11-26 | 41,313 | 330 |
-| 2023-11-27 | 41,397 | 332 |
+| 2023-11-27 | 41,403 | 332 |
 ## Awards
 Max (Great for Beginners): 379  (Ranked 236)  
 Sum: 2,780 (Ranked 182)  

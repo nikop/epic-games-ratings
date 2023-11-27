@@ -5,13 +5,13 @@ Rating: 4.64 (Ranked 334)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 3.00% | ~737 |
-| Are You Packin'? | 3.00% | ~737 |
-| Sweezy Like Sunday Morning | 3.00% | ~737 |
-| First Bounty Down | 3.00% | ~737 |
-| G3 Graduation | 3.00% | ~737 |
-| Cold-Blooded Driller | 3.00% | ~737 |
-| Who's The Boss? | 3.00% | ~737 |
+| Satisfied Gus-tomer | 3.00% | ~738 |
+| Are You Packin'? | 3.00% | ~738 |
+| Sweezy Like Sunday Morning | 3.00% | ~738 |
+| First Bounty Down | 3.00% | ~738 |
+| G3 Graduation | 3.00% | ~738 |
+| Cold-Blooded Driller | 3.00% | ~738 |
+| Who's The Boss? | 3.00% | ~738 |
 | Creature Feature | 2.00% | ~492 |
 | Bring A Knife to a Gun Fight | 2.00% | ~492 |
 | Lezduit! | 2.00% | ~492 |
@@ -30,7 +30,7 @@ Rating: 4.64 (Ranked 334)
 | Bathe With A Giant Nude Alien | 1.00% | ~19 |
 | Mux Ado About Shipping | 0.80% | ~15 |
 | Gunning For Your Job | 0.70% | ~172 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.60% | ~147 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.60% | ~148 |
 | Fall In Love With A Parasite | 0.50% | ~9 |
 | Sequel-Bait | 0.40% | ~98 |
 | Playing Favorites | 0.30% | ~74 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 334)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,582 (Ranked 128)  
+Progressed: 24,584 (Ranked 128)  
 Completed: 14 (0.06%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 14 (0.06%) (Ranked 305)
 | 2023-11-24 | 24,541 | 14 |
 | 2023-11-25 | 24,562 | 14 |
 | 2023-11-26 | 24,574 | 14 |
-| 2023-11-27 | 24,582 | 14 |
+| 2023-11-27 | 24,584 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

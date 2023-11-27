@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 22320,
+  "EOS_Progressed": 22323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1714,
+  "EOS_NewPlayers": 1717,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8048,6 +8048,11 @@
       "Time": "2023-11-27T20:09:27.1600573+00:00",
       "NumProgressed": 22320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T21:09:19.7486701+00:00",
+      "NumProgressed": 22323,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -8060,7 +8065,7 @@
       "Name": "Storyteller",
       "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "achievement_10",
@@ -8084,7 +8089,7 @@
       "Name": "Fender Bender",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "achievement_13",
@@ -8092,7 +8097,7 @@
       "Name": "Grim Reaper",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 16740
+      "UsersEstimate": 16742
     },
     {
       "ID": "achievement_14",
@@ -8100,7 +8105,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 9374
+      "UsersEstimate": 9376
     },
     {
       "ID": "achievement_15",
@@ -8108,7 +8113,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 11830
+      "UsersEstimate": 11831
     },
     {
       "ID": "achievement_16",
@@ -8116,7 +8121,7 @@
       "Name": "Heads Down",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 16294
+      "UsersEstimate": 16296
     },
     {
       "ID": "achievement_17",
@@ -8124,7 +8129,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2456
     },
     {
       "ID": "achievement_18",
@@ -8132,7 +8137,7 @@
       "Name": "Eager Beaver",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 10490
+      "UsersEstimate": 10492
     },
     {
       "ID": "achievement_19",
@@ -8140,7 +8145,7 @@
       "Name": "Elite",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 5803
+      "UsersEstimate": 5804
     },
     {
       "ID": "achievement_2",
@@ -8156,7 +8161,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 20758
+      "UsersEstimate": 20760
     },
     {
       "ID": "achievement_21",
@@ -8164,7 +8169,7 @@
       "Name": "Not On My Watch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 15624
+      "UsersEstimate": 15626
     },
     {
       "ID": "achievement_3",
@@ -8180,7 +8185,7 @@
       "Name": "Lovely",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 8482
+      "UsersEstimate": 8483
     },
     {
       "ID": "achievement_5",
@@ -8188,7 +8193,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5580
+      "UsersEstimate": 5581
     },
     {
       "ID": "achievement_6",
@@ -8212,7 +8217,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 16517
+      "UsersEstimate": 16519
     },
     {
       "ID": "achievement_9",
@@ -8227,13 +8232,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 22320,
+      "Progressed": 22323,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:09:27.1600571+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:09:19.748669+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.1734992+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:58:24.9741528+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:09:27.1600944+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:58:21.2098462+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:09:19.7487253+00:00"
 }

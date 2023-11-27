@@ -6,7 +6,7 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
@@ -2381,9 +2381,9 @@
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 599
     },
     {
       "ID": "kill-lieutenants",
@@ -2493,8 +2493,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:05:31.2787673+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:05:32.5514078+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:08.8665232+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:58:46.4208911+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:05:31.2787873+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:58:43.1255577+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:05:32.5514265+00:00"
 }

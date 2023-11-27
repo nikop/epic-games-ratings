@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1392,6 +1392,11 @@
       "Time": "2023-11-27T20:03:35.9203717+00:00",
       "NumProgressed": 709,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T21:03:33.3326354+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1498,9 +1503,9 @@
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 36
     },
     {
       "ID": "CompleteChapter15",
@@ -1508,7 +1513,7 @@
       "Name": "The Great Scheme",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CompleteChapter16",
@@ -1516,7 +1521,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CompleteChapter17",
@@ -1524,7 +1529,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -1540,7 +1545,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CompleteChapter2",
@@ -1548,7 +1553,7 @@
       "Name": "Met the Enemy",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "CompleteChapter3",
@@ -1556,15 +1561,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 206
     },
     {
       "ID": "CompleteChapter5",
@@ -1580,15 +1585,15 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 106
     },
     {
       "ID": "CompleteChapter8",
@@ -1699,14 +1704,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-27T20:03:35.9203714+00:00",
+  "LastChanged_Achievements": "2023-11-27T21:03:33.3326348+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:00:12.4010797+00:00",
-  "LastUpdate_Achievements": "2023-11-27T20:03:35.9204013+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:00:11.914822+00:00",
+  "LastUpdate_Achievements": "2023-11-27T21:03:33.3326647+00:00"
 }

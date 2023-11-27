@@ -10,15 +10,15 @@
 | Recruit | 67.00% | ~960 |
 | Search and Rescue | 67.00% | ~960 |
 | Quarian Ally | 63.00% | ~903 |
-| Medal of Heroism | 59.00% | ~845 |
+| Medal of Heroism | 60.00% | ~860 |
 | Honorarium of Corporate Service | 59.00% | ~845 |
 | Medal of Exploration II | 54.00% | ~774 |
 | Council Legion of Merit | 54.00% | ~774 |
 | Turian Ally | 52.00% | ~745 |
 | Medal of Honor | 51.00% | ~731 |
 | Meritorious Service Medal | 51.00% | ~731 |
+| Soldier | 50.00% | ~716 |
 | Charismatic | 50.00% | ~716 |
-| Soldier | 49.00% | ~702 |
 | Soldier Ally | 46.00% | ~659 |
 | Asari Ally | 46.00% | ~659 |
 | Medal of Exploration III | 45.00% | ~645 |
@@ -74,11 +74,11 @@
 | Friend or Foe | 28.00% | ~401 |
 | Mobilizer | 28.00% | ~401 |
 | Untouchable | 27.00% | ~387 |
+| Giant Killer | 27.00% | ~387 |
 | A House Divided | 27.00% | ~387 |
 | Eye of the Hurricane | 26.00% | ~373 |
-| Giant Killer | 26.00% | ~373 |
+| First Aid Specialist | 26.00% | ~373 |
 | World Shaker | 26.00% | ~373 |
-| First Aid Specialist | 25.00% | ~358 |
 | Tunnel Rat | 25.00% | ~358 |
 | Liberator | 25.00% | ~358 |
 | Weapon Specialist | 24.00% | ~344 |
