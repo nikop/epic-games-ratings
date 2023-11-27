@@ -17,7 +17,7 @@
 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 2023-11-30 | 25 (1,000 XP) | 1 | - | - |
 | [The Ecdysis](games/8/824dd71739cf45fba9d997979856c5a9.md) | 2023-11-30 | - |  | - | - |
 | [Zi](games/9/9824e1bd7ad44702a573bf07f0822bfa.md) | 2023-11-30 | - |  | - | - |
-| [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2023-11-30 | 53 (1,000 XP) | 10 | - | - |
+| [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2023-11-30 | 53 (1,000 XP) | 11 | - | - |
 | [Christmas Mahjong](games/9/9a884ebe02d948d4b50c46e909f7b0dd.md) | 2023-11-30 | - |  | - | - |
 | [1428: Shadows over Silesia](games/4/4bd54a4fed074c488e0bb7428f29d2f4.md) | 2023-12-01 | 62 (1,000 XP) | 2 | - | - |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2023-12-01 | - |  | - | - |
@@ -147,7 +147,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 353,644 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 353,702 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -189,7 +189,7 @@
 | [Genkai: Primal Awakening](games/6/631264786bda409f919dd1db541825a9.md) | 2024-12-31 | - |  | - | - |
 | [Hexxen: Hunters](games/e/eaab430db9f24d558c949b85906f1c79.md) | 2024-12-31 | - |  | - | - |
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2024-12-31 | 19 (1,000 XP) | 1 | - | - |
-| [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-12-31 | - |  | - | - |
+| [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-12-31 | 16 (1,000 XP) | 0 | - | - |
 | [Lesson Learned](games/7/73451456d3d0498385b49ae94424d37d.md) | 2024-12-31 | - |  | - | - |
 | [Lost Colony](games/0/06a110092f0143eeb0c13bdbf367fb55.md) | 2024-12-31 | - |  | - | - |
 | [Mars Tactics](games/m/mars_tactics.md) | 2024-12-31 | - |  | - | - |

@@ -664,6 +664,7 @@
 | [Cymatically Muffed](../games/c/cymatically_muffed.md) | 16 | 1,000 |
 | [Echo Storm](../games/0/0b4313e25d17431b901edda54d678ab4.md) | 16 | 1,000 |
 | [Eximius: Seize the Frontline](../games/e/eximius__seize_the_frontline.md) | 16 | 1,000 |
+| [IHAS](../games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 16 | 1,000 |
 | [Masterplan Tycoon](../games/3/3933d71231a543fd873b8768585e2bd7.md) | 16 | 1,000 |
 | [Orten Was The Case](../games/4/40257023d2d44231ac722108f30ab717.md) | 16 | 1,000 |
 | [Pixel Art Coloring Book](../games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 16 | 1,000 |
