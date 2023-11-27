@@ -114,7 +114,7 @@
 | 112 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.77 | 37 | 466 |
 | 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 7,801 | 48 |
 | 112 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.77 | 0 | 555 |
-| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 8,123 | 45 |
+| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 8,144 | 45 |
 | 112 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.77 | 1,863 | 116 |
 | 112 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 555 |
 | 112 | [Quake](games/q/quake.md) | 4.77 | 51 | 432 |
@@ -247,7 +247,7 @@
 | 233 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 58 | 417 |
 | 233 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 418 | 227 |
 | 233 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.69 | 0 | 555 |
-| 233 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 510 |
+| 233 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 511 |
 | 233 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 555 |
 | 233 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 555 |
 | 233 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 95 | 371 |
@@ -305,10 +305,10 @@
 | 294 | [Overcooked](games/o/overcooked.md) | 4.66 | 122 | 340 |
 | 294 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,943 | 113 |
 | 294 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 555 |
-| 294 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 474 | 215 |
+| 294 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 478 | 214 |
 | 294 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 209 | 285 |
 | 294 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,983 | 64 |
-| 294 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,035 | 85 |
+| 294 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,040 | 85 |
 | 294 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 218 |
 | 311 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 555 |
 | 311 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 555 |
@@ -498,7 +498,7 @@
 | 494 | [Aztez](games/a/aztez.md) | 4.56 | 20 | 549 |
 | 494 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 52 | 428 |
 | 494 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 937 | 158 |
-| 494 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 510 |
+| 494 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 511 |
 | 494 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 32 | 491 |
 | 494 | [Hue](games/h/hue.md) | 4.56 | 0 | 555 |
 | 494 | [Isonzo](games/i/isonzo.md) | 4.56 | 38 | 462 |
@@ -521,7 +521,7 @@
 | 507 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 555 |
 | 507 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 93 | 375 |
 | 507 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 98 | 363 |
-| 507 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 27 | 510 |
+| 507 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 27 | 511 |
 | 507 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 0 | 555 |
 | 507 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 555 |
 | 507 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 372 | 238 |
@@ -661,7 +661,7 @@
 | 648 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 555 |
 | 648 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 12,466 | 34 |
 | 648 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 555 |
-| 648 | [Tunche](games/t/tunche.md) | 4.46 | 27 | 510 |
+| 648 | [Tunche](games/t/tunche.md) | 4.46 | 28 | 507 |
 | 663 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 555 |
 | 663 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 555 |
 | 663 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 259 | 268 |
@@ -804,7 +804,7 @@
 | 790 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 555 |
 | 790 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.35 | 321 | 249 |
 | 790 | [ZOMBI](games/z/zombi.md) | 4.35 | 0 | 555 |
-| 805 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 510 |
+| 805 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 511 |
 | 805 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 106 | 354 |
 | 805 | [Encased](games/e/encased.md) | 4.34 | 155 | 315 |
 | 805 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 0 | 555 |
@@ -934,7 +934,7 @@
 | 926 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 555 |
 | 933 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 555 |
 | 933 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 555 |
-| 933 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,972 | 98 |
+| 933 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,977 | 98 |
 | 933 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 212,827 | 5 |
 | 933 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 369 |
 | 938 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 366 |
@@ -988,7 +988,7 @@
 | 986 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.05 | 0 | 555 |
 | 986 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 555 |
 | 986 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.05 | 0 | 555 |
-| 986 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 477 | 214 |
+| 986 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 477 | 215 |
 | 990 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.04 | 0 | 555 |
 | 990 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 555 |
 | 990 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.04 | 24 | 526 |

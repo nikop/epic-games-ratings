@@ -44,7 +44,7 @@
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,763 | 4.89 | 11 |
 | 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,601 | 4.49 | 608 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,287 | 4.57 | 475 |
-| 45 | [DEATH STRANDING](games/d/death_stranding.md) | 8,123 | 4.77 | 112 |
+| 45 | [DEATH STRANDING](games/d/death_stranding.md) | 8,144 | 4.77 | 112 |
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,087 | 4.85 | 43 |
 | 47 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,082 | 4.70 | 215 |
 | 48 | [Bloons TD 6](games/b/bloons_td_6.md) | 7,801 | 4.77 | 112 |
@@ -84,7 +84,7 @@
 | 82 | [God of War](games/g/god_of_war.md) | 4,403 | 4.88 | 16 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,151 | 4.51 | 569 |
 | 84 | [Days Gone](games/d/days_gone.md) | 4,060 | 4.68 | 254 |
-| 85 | [Trackmania](games/t/trackmania.md) | 4,035 | 4.66 | 294 |
+| 85 | [Trackmania](games/t/trackmania.md) | 4,040 | 4.66 | 294 |
 | 86 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,872 | 4.68 | 254 |
 | 87 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,861 | 4.27 | 862 |
 | 88 | [Paladins](games/p/paladins.md) | 3,854 | 4.32 | 822 |
@@ -97,7 +97,7 @@
 | 95 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,350 | 4.35 | 790 |
 | 96 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,337 | 4.50 | 591 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,051 | 4.50 | 591 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,972 | 4.18 | 933 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,977 | 4.18 | 933 |
 | 99 | [Among Us](games/a/among_us.md) | 2,853 | 4.57 | 475 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,732 | 4.27 | 862 |
 | 101 | [Path of Exile](games/p/path_of_exile.md) | 2,695 | 4.61 | 382 |
@@ -213,8 +213,8 @@
 | 211 | [Surviving Mars](games/s/surviving_mars.md) | 516 | 4.60 | 415 |
 | 212 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 493 | 4.41 | 723 |
 | 213 | [Loop Hero](games/l/loop_hero.md) | 481 | 4.67 | 275 |
-| 214 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.05 | 986 |
-| 215 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 474 | 4.66 | 294 |
+| 214 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 478 | 4.66 | 294 |
+| 215 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.05 | 986 |
 | 216 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 470 | 4.84 | 52 |
 | 217 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 465 | 4.71 | 199 |
 | 218 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 294 |
@@ -509,11 +509,11 @@
 | 507 | [DOOM II](games/d/doom_ii.md) | 28 | 4.64 | 334 |
 | 507 | [God's Trigger](games/g/god's_trigger.md) | 28 | 4.15 | 948 |
 | 507 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.83 | 61 |
-| 510 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 805 |
-| 510 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 494 |
-| 510 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 507 |
-| 510 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 233 |
-| 510 | [Tunche](games/t/tunche.md) | 27 | 4.46 | 648 |
+| 507 | [Tunche](games/t/tunche.md) | 28 | 4.46 | 648 |
+| 511 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 805 |
+| 511 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 494 |
+| 511 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 507 |
+| 511 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 233 |
 | 515 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 26 | 4.55 | 507 |
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 26 | 4.48 | 629 |
 | 515 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 26 | 4.45 | 663 |
