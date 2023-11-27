@@ -613,9 +613,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3944,
+  "EOS_Progressed": 3945,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8268,6 +8268,11 @@
       "Time": "2023-11-27T13:13:42.2280472+00:00",
       "NumProgressed": 3944,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-27T15:05:46.0733866+00:00",
+      "NumProgressed": 3945,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8335,7 +8340,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8359,7 +8364,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8375,7 +8380,7 @@
       "Name": "Master of Secondaries",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -8383,7 +8388,7 @@
       "Name": "Master of Rifles",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_23_MASTER_AT_ARMS",
@@ -8399,7 +8404,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8479,7 +8484,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8487,7 +8492,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8511,7 +8516,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8527,7 +8532,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8846,13 +8851,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3895,
+      "Progressed": 3896,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3944,
+      "Progressed": 3945,
       "Completed": 11
     }
   ],
@@ -8860,8 +8865,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-26T15:57:16.8224756+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:05:55.2436801+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:05:46.0733862+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.6853838+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:57:48.8003833+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:05:55.2437707+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:57:43.8650773+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:05:46.0734698+00:00"
 }

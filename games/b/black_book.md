@@ -1,31 +1,31 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 311)  
+Rating: 4.65 (Ranked 310)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,778 |
-| Student | 22.00% | ~12,397 |
-| Knower | 16.00% | ~9,016 |
-| Listener | 15.00% | ~8,453 |
-| Aspen Tree | 14.00% | ~7,889 |
-| Healer | 14.00% | ~7,889 |
-| Soldier | 12.00% | ~6,762 |
-| Cow Level | 11.00% | ~6,199 |
-| Scientist | 11.00% | ~6,199 |
-| Water | 10.00% | ~5,635 |
+| Initiation | 28.00% | ~15,781 |
+| Student | 22.00% | ~12,399 |
+| Knower | 16.00% | ~9,018 |
+| Listener | 15.00% | ~8,454 |
+| Aspen Tree | 14.00% | ~7,891 |
+| Healer | 14.00% | ~7,891 |
+| Soldier | 12.00% | ~6,763 |
+| Cow Level | 11.00% | ~6,200 |
+| Scientist | 11.00% | ~6,200 |
+| Water | 10.00% | ~5,636 |
 | Old Friend | 9.00% | ~5,072 |
 | Herbalist | 9.00% | ~5,072 |
 | New Spirits | 9.00% | ~5,072 |
 | Voipel | 9.00% | ~5,072 |
 | Black Mage | 9.00% | ~5,072 |
-| Card Player | 8.00% | ~4,508 |
-| Dead Friend | 8.00% | ~4,508 |
-| Pine Tree | 8.00% | ~4,508 |
-| Collector | 8.00% | ~4,508 |
-| Wolf | 8.00% | ~4,508 |
+| Card Player | 8.00% | ~4,509 |
+| Dead Friend | 8.00% | ~4,509 |
+| Pine Tree | 8.00% | ~4,509 |
+| Collector | 8.00% | ~4,509 |
+| Wolf | 8.00% | ~4,509 |
 | Worthy | 7.00% | ~3,945 |
 | Black Book | 7.00% | ~3,945 |
 | Black Sorcerer | 7.00% | ~3,945 |
@@ -34,12 +34,12 @@ Number of Ratings: 96  (23.09.2022)
 | 100 Friends | 7.00% | ~3,945 |
 | Researcher | 7.00% | ~3,945 |
 | Savvy | 7.00% | ~3,945 |
-| Encyclopedist | 6.00% | ~3,381 |
-| Witch | 6.00% | ~3,381 |
-| Old Spirits | 6.00% | ~3,381 |
-| Sinner | 6.00% | ~3,381 |
-| Folklorist | 6.00% | ~3,381 |
-| Keeper of Knowledge | 6.00% | ~3,381 |
+| Encyclopedist | 6.00% | ~3,382 |
+| Witch | 6.00% | ~3,382 |
+| Old Spirits | 6.00% | ~3,382 |
+| Sinner | 6.00% | ~3,382 |
+| Folklorist | 6.00% | ~3,382 |
+| Keeper of Knowledge | 6.00% | ~3,382 |
 | Vorsa | 5.00% | ~2,818 |
 | Susanin | 5.00% | ~2,818 |
 | Traveller | 5.00% | ~2,818 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,127 |
 | Word Master | 0.20% | ~113 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,351 (Ranked 109)  
+Progressed: 56,361 (Ranked 109)  
 Completed: 55 (0.10%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 55 (0.10%) (Ranked 286)
 | 2023-11-24 | 55,614 | 54 |
 | 2023-11-25 | 55,921 | 55 |
 | 2023-11-26 | 56,236 | 55 |
-| 2023-11-27 | 56,351 | 55 |
+| 2023-11-27 | 56,361 | 55 |
 ## Awards
 Max (Character Customization): 90  (Ranked 380)  
 Sum: 90 (Ranked 457)  

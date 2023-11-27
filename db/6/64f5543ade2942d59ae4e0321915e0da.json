@@ -364,9 +364,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_BOSS_02",
@@ -460,9 +460,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -492,9 +492,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 45,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:07:45.4216154+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:08:01.020345+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.647609+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:59:08.4399654+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:07:45.4216404+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:58:54.9513551+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:08:01.0203708+00:00"
 }

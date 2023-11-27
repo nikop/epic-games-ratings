@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Air Fighter | 78.00% | ~7 |
-| Act of Kindness | 67.00% | ~6 |
+| Air Fighter | 89.00% | ~8 |
+| Act of Kindness | 78.00% | ~7 |
 | The Altruist | 67.00% | ~6 |
 | Merry Co-operation | 56.00% | ~5 |
 | Savior | 56.00% | ~5 |
 | Watch your Step! | 56.00% | ~5 |
 | Treasure Hunter | 56.00% | ~5 |
+| Oo-De-Lally | 44.00% | ~4 |
 | Tap Dancing | 44.00% | ~4 |
 | Right between the eyes | 44.00% | ~4 |
 | MAX LEVEL | 44.00% | ~4 |
 | The Gang prevails | 33.00% | ~3 |
-| Oo-De-Lally | 33.00% | ~3 |
 | Finish Him! | 33.00% | ~3 |
 | Locksley's Tears | 33.00% | ~3 |
 | Assault on the Ram | 33.00% | ~3 |

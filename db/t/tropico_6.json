@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 311,
+  "Ranking_Rating": 310,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 185,
@@ -1395,7 +1395,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6151,
+  "EOS_Progressed": 6152,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -13545,6 +13545,11 @@
       "Time": "2023-11-27T13:17:13.9663399+00:00",
       "NumProgressed": 6151,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-27T15:09:26.0317257+00:00",
+      "NumProgressed": 6152,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13716,7 +13721,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4613
+      "UsersEstimate": 4614
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13812,7 +13817,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -13875,15 +13880,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6151,
+      "Progressed": 6152,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-26T14:58:04.8713258+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:09:38.2581192+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:09:26.0317254+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.1116703+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:59:00.629591+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:09:38.258201+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:58:47.9307479+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:09:26.0317953+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.58 (Ranked 444)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 10.00% | ~1,566 |
+| Oyedang, Kopengs | 11.00% | ~1,723 |
 | The Pit and the Pirates | 6.00% | ~940 |
 | Drone Dodger | 6.00% | ~940 |
 | Bosmang | 6.00% | ~940 |
@@ -18,14 +18,14 @@ Rating: 4.58 (Ranked 444)
 | Martian Music | 5.00% | ~783 |
 | Safe Cracker | 5.00% | ~81 |
 | Madame Undersecretary | 5.00% | ~81 |
-| Drug Gifter | 4.00% | ~626 |
-| Heal Thy Medic | 4.00% | ~626 |
-| Call it Even | 4.00% | ~626 |
+| Drug Gifter | 4.00% | ~627 |
+| Heal Thy Medic | 4.00% | ~627 |
+| Call it Even | 4.00% | ~627 |
 | Keep Arjun in Check | 4.00% | ~65 |
 | Data Archivist | 3.00% | ~470 |
 | Thorston Mayer | 3.00% | ~470 |
 | Khan's Revenge | 3.00% | ~470 |
-| Master Negotiator | 3.00% | ~48 |
+| Master Negotiator | 3.00% | ~49 |
 | Doctor Approved | 2.00% | ~313 |
 | Bottoms up! | 2.00% | ~313 |
 | Data Logger | 2.00% | ~313 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 444)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,662 (Ranked 151)  
+Progressed: 15,663 (Ranked 151)  
 Completed: 35 (0.22%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 35 (0.22%) (Ranked 251)
 | 2023-11-24 | 15,437 | 35 |
 | 2023-11-25 | 15,549 | 35 |
 | 2023-11-26 | 15,631 | 35 |
-| 2023-11-27 | 15,662 | 35 |
+| 2023-11-27 | 15,663 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

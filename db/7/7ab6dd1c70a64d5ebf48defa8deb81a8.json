@@ -1114,9 +1114,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_27",
@@ -1146,9 +1146,9 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_31",
@@ -1209,8 +1209,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:09:36.7880994+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:09:24.5670157+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:59:47.0693028+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:09:36.7881303+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:59:29.5778407+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:09:24.567044+00:00"
 }

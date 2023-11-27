@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75361,
+  "EOS_Progressed": 75362,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -24668,6 +24668,11 @@
       "Time": "2023-11-27T14:09:02.6176821+00:00",
       "NumProgressed": 75361,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-11-27T15:08:53.2062279+00:00",
+      "NumProgressed": 75362,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 24,
@@ -24687,7 +24692,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16579
+      "UsersEstimate": 16580
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -24695,7 +24700,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 51245
+      "UsersEstimate": 51246
     },
     {
       "ID": "BEST_FRIENDS",
@@ -24703,7 +24708,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16579
+      "UsersEstimate": 16580
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -24759,7 +24764,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39941
+      "UsersEstimate": 39942
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -24799,7 +24804,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6782
+      "UsersEstimate": 6783
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -24807,7 +24812,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 6782
+      "UsersEstimate": 6783
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -24839,7 +24844,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12811
+      "UsersEstimate": 12812
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -24870,7 +24875,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75361,
+      "Progressed": 75362,
       "Completed": 404
     }
   ],
@@ -24878,8 +24883,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:09:02.6176817+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:08:53.2062275+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.17465+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:00:18.5333581+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:09:02.6178209+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:59:58.9894529+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:08:53.206355+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 766,
+  "EOS_Progressed": 767,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.09,
+  "EOS_Completed_Percentage": 5.08,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3100,6 +3100,11 @@
       "Time": "2023-11-27T11:04:13.027136+00:00",
       "NumProgressed": 766,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-27T15:04:14.5996013+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 25,
@@ -3221,9 +3226,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 169
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3231,7 +3236,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3271,7 +3276,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "PROGRESS_N2",
@@ -3310,14 +3315,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 766,
+      "Progressed": 767,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:04:16.5224939+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:04:14.599601+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:57:19.0356987+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:04:16.5225308+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:57:14.2180375+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:04:14.5996281+00:00"
 }

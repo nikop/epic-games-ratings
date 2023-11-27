@@ -1,56 +1,56 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.65 (Ranked 311)  
+Rating: 4.65 (Ranked 310)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 10.00% | ~95,380 |
-| Gun Fu | 5.00% | ~47,690 |
-| The Fool | 4.00% | ~38,152 |
-| Right Back At Ya | 3.00% | ~28,614 |
-| The Lovers | 3.00% | ~28,614 |
-| Full Body Conversion | 2.00% | ~19,076 |
-| Stanislavski's Method | 2.00% | ~19,076 |
-| The Wheel of Fortune | 2.00% | ~19,076 |
-| True Soldier | 2.00% | ~19,076 |
-| Relic Ruler | 2.00% | ~1,649 |
-| Christmas Tree Attack | 1.00% | ~9,538 |
-| The Hermit | 1.00% | ~9,538 |
-| True Warrior | 1.00% | ~9,538 |
-| Legend of The Afterlife | 1.00% | ~9,538 |
-| All the President's Men | 1.00% | ~824 |
-| Arachnophobia | 1.00% | ~824 |
-| The Quick and the Dead | 0.90% | ~8,584 |
-| Life of the Road | 0.90% | ~8,584 |
-| The High Priestess | 0.90% | ~8,584 |
-| Bushido and Chill | 0.70% | ~6,677 |
-| Master Crafter | 0.70% | ~6,677 |
-| The World | 0.70% | ~6,677 |
-| Spin Doctor | 0.70% | ~577 |
-| To Protect and Serve | 0.60% | ~5,723 |
-| I Am The Law | 0.60% | ~5,723 |
-| Two Heads, One Bullet | 0.60% | ~5,723 |
-| Judy vs Night City | 0.60% | ~5,723 |
-| King of Wands | 0.50% | ~412 |
-| Dirty Deeds | 0.50% | ~412 |
-| Easy Come, Easy Go | 0.50% | ~412 |
-| The Wandering Fool | 0.40% | ~3,815 |
-| Ten out of Ten | 0.40% | ~3,815 |
-| The Sun | 0.40% | ~3,815 |
-| To Bad Decisions! | 0.30% | ~2,861 |
-| Breathtaking | 0.30% | ~2,861 |
-| The Star | 0.30% | ~2,861 |
-| Judgement Day | 0.30% | ~247 |
-| King of Pentacles | 0.30% | ~247 |
-| King of Swords | 0.30% | ~247 |
-| The Tower | 0.30% | ~247 |
+| V for Vendetta | 10.00% | ~95,418 |
+| Gun Fu | 5.00% | ~47,709 |
+| The Fool | 4.00% | ~38,167 |
+| Right Back At Ya | 3.00% | ~28,625 |
+| The Lovers | 3.00% | ~28,625 |
+| Full Body Conversion | 2.00% | ~19,084 |
+| Stanislavski's Method | 2.00% | ~19,084 |
+| The Wheel of Fortune | 2.00% | ~19,084 |
+| True Soldier | 2.00% | ~19,084 |
+| Relic Ruler | 2.00% | ~1,656 |
+| Christmas Tree Attack | 1.00% | ~9,542 |
+| The Hermit | 1.00% | ~9,542 |
+| The High Priestess | 1.00% | ~9,542 |
+| True Warrior | 1.00% | ~9,542 |
+| Legend of The Afterlife | 1.00% | ~9,542 |
+| All the President's Men | 1.00% | ~828 |
+| Arachnophobia | 1.00% | ~828 |
+| The Quick and the Dead | 0.90% | ~8,588 |
+| Life of the Road | 0.90% | ~8,588 |
+| Bushido and Chill | 0.70% | ~6,679 |
+| Master Crafter | 0.70% | ~6,679 |
+| The World | 0.70% | ~6,679 |
+| Spin Doctor | 0.70% | ~580 |
+| To Protect and Serve | 0.60% | ~5,725 |
+| I Am The Law | 0.60% | ~5,725 |
+| Two Heads, One Bullet | 0.60% | ~5,725 |
+| Judy vs Night City | 0.60% | ~5,725 |
+| King of Wands | 0.50% | ~414 |
+| Dirty Deeds | 0.50% | ~414 |
+| Easy Come, Easy Go | 0.50% | ~414 |
+| The Wandering Fool | 0.40% | ~3,817 |
+| Ten out of Ten | 0.40% | ~3,817 |
+| The Sun | 0.40% | ~3,817 |
+| To Bad Decisions! | 0.30% | ~2,863 |
+| Breathtaking | 0.30% | ~2,863 |
+| The Star | 0.30% | ~2,863 |
+| Judgement Day | 0.30% | ~248 |
+| King of Pentacles | 0.30% | ~248 |
+| King of Swords | 0.30% | ~248 |
+| The Tower | 0.30% | ~248 |
 | Autojock | 0.20% | ~1,908 |
 | Must Be Rats | 0.20% | ~1,908 |
 | Temperance | 0.20% | ~1,908 |
-| The APB is Not Enough | 0.20% | ~165 |
-| King of Cups | 0.20% | ~165 |
+| The APB is Not Enough | 0.20% | ~166 |
+| King of Cups | 0.20% | ~166 |
 | City Lights | 0.10% | ~954 |
 | Frequent Flyer | 0.10% | ~954 |
 | Gunslinger | 0.10% | ~954 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 953,803 (Ranked 15)  
+Progressed: 954,176 (Ranked 15)  
 Completed: 2,818 (0.30%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,16 +295,16 @@ Completed: 2,818 (0.30%) (Ranked 236)
 | 2023-11-24 | 934,254 | 2,810 |
 | 2023-11-25 | 943,308 | 2,812 |
 | 2023-11-26 | 950,531 | 2,816 |
-| 2023-11-27 | 953,803 | 2,818 |
+| 2023-11-27 | 954,176 | 2,818 |
 ## Awards
 Max (Character Customization): 109,140  (Ranked 9)  
-Sum: 367,498 (Ranked 9)  
+Sum: 367,589 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 109,140 |
 | This game has Great Boss Battles | 79,061 |
-| This game is Great for Beginners | 22,230 |
+| This game is Great for Beginners | 22,321 |
 | This game has Diverse Characters | 21,822 |
 | This game is Highly Recommended | 20,945 |
 | This game has Amazing Storytelling | 20,801 |
@@ -628,4 +628,4 @@ Diff (max vs sum): 0
 | 2023-11-24 | 4.65 | - | 107,456 | 362,468 |
 | 2023-11-25 | 4.65 | - | 108,211 | 364,318 |
 | 2023-11-26 | 4.65 | - | 109,140 | 366,585 |
-| 2023-11-27 | 4.65 | - | 109,140 | 367,498 |
+| 2023-11-27 | 4.65 | - | 109,140 | 367,589 |

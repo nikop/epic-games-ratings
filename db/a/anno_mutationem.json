@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -909,17 +909,17 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 311
     },
     {
       "ID": "I_think_its_broke",
       "SetID": "gl7plp",
       "Name": "I think it\u0027s broke",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 193
     },
     {
       "ID": "In the smacker...I think",
@@ -933,9 +933,9 @@
       "ID": "Keep_em_coming",
       "SetID": "gl7plp",
       "Name": "Keep \u0027em coming!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 311
     },
     {
       "ID": "Lady_Luck",
@@ -1021,9 +1021,9 @@
       "ID": "The_Ann_Flores_Combo_Experience",
       "SetID": "gl7plp",
       "Name": "The Ann Flores Combo Experience",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 193
     },
     {
       "ID": "The_Warlord",
@@ -1037,17 +1037,17 @@
       "ID": "The_things_they_print_nowadays",
       "SetID": "gl7plp",
       "Name": "The things they print nowadays",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 289
     },
     {
       "ID": "The_truth_is_out_there",
       "SetID": "gl7plp",
       "Name": "The truth is out there",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 119
     },
     {
       "ID": "This_cant_be_right",
@@ -1118,8 +1118,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:05:32.2466251+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:05:24.708066+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:00:28.4812068+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:05:32.246652+00:00"
+  "LastUpdate_Ratings": "2023-11-27T15:00:07.8124553+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:05:24.7080884+00:00"
 }

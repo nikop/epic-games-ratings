@@ -195,6 +195,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Swahili Persuasion | 0.10% | ~465 |
 | Sweden is not overpowered! | 0.10% | ~465 |
 | Sweet Harmony | 0.10% | ~465 |
+| Sweet Home Qaraqorum | 0.10% | ~465 |
 | Switzerlake | 0.10% | ~465 |
 | Tear Down This Wall | 0.10% | ~465 |
 | That is mine! | 0.10% | ~465 |
@@ -338,7 +339,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stern des Südens | 0.00% | ~0 |
 | Stiff Upper Lippe | 0.00% | ~0 |
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
-| Sweet Home Qaraqorum | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | Take that, von Habsburgs! | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,723 (Ranked 41)  
+Progressed: 464,753 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 1 (0.00%) (Ranked 361)
 | 2023-11-24 | 462,785 | 1 |
 | 2023-11-25 | 463,679 | 1 |
 | 2023-11-26 | 464,479 | 1 |
-| 2023-11-27 | 464,723 | 1 |
+| 2023-11-27 | 464,753 | 1 |
 ## Awards
 Max (Educational): 7,180  (Ranked 54)  
 Sum: 59,065 (Ranked 24)  

@@ -6,8 +6,8 @@ Rating: 4.62 (Ranked 364)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 33.00% | ~310 |
+| The Mysterious Stranger | 26.00% | ~244 |
 | Rail Rat | 26.00% | ~244 |
-| The Mysterious Stranger | 25.00% | ~235 |
 | Immaculate Aim | 23.00% | ~216 |
 | Make Up For Lost Time | 22.00% | ~207 |
 | Time Flies | 22.00% | ~207 |
@@ -60,7 +60,7 @@ Rating: 4.62 (Ranked 364)
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 939 (Ranked 270)  
-Completed: 6 (0.64%) (Ranked 187)  
+Completed: 6 (0.64%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

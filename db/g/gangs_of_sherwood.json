@@ -123,9 +123,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -203,9 +203,9 @@
       "ID": "ACH_COMPLETE_TUTO",
       "SetID": "5akmpni",
       "Name": "Oo-De-Lally",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_COOP_MISSIONS",
@@ -283,9 +283,9 @@
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
       "SetID": "5akmpni",
       "Name": "Act of Kindness",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -505,8 +505,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:06:06.3198061+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:05:56.2668627+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:57:37.6525971+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:06:06.3198453+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:57:33.7637417+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:05:56.2669112+00:00"
 }

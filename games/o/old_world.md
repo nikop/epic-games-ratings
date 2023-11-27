@@ -1,12 +1,12 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 311)  
+Rating: 4.65 (Ranked 310)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 7.00% | ~1,086 |
+| Play a Single Player Game | 7.00% | ~1,087 |
 | Explorer | 6.00% | ~931 |
 | Settler | 6.00% | ~931 |
 | Intrepid | 5.00% | ~776 |
@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 2.00% | ~310 |
 | Artisans | 2.00% | ~310 |
 | Champions | 2.00% | ~310 |
+| Patrons | 2.00% | ~310 |
 | Sages | 2.00% | ~310 |
 | Acropolis | 2.00% | ~310 |
 | Apadana | 2.00% | ~310 |
@@ -90,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 1.00% | ~155 |
 | Hunters | 1.00% | ~155 |
 | Landowners | 1.00% | ~155 |
-| Patrons | 1.00% | ~155 |
 | Riders | 1.00% | ~155 |
 | Statesmen | 1.00% | ~155 |
 | Traders | 1.00% | ~155 |
@@ -144,11 +144,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.70% | ~109 |
 | Cataphract Archer | 0.70% | ~109 |
 | The Great Mage | 0.70% | ~109 |
+| Beja Archer | 0.70% | ~109 |
 | Old | 0.60% | ~93 |
 | Old World Order | 0.60% | ~93 |
 | No Undo | 0.60% | ~93 |
 | Kush | 0.60% | ~93 |
-| Beja Archer | 0.60% | ~93 |
 | Glorious Difficulty | 0.50% | ~78 |
 | Hatti | 0.50% | ~78 |
 | Persia | 0.50% | ~78 |
@@ -170,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Nenikekamen | 0.40% | ~62 |
 | Assyria | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
+| Deposed Tribe | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
 | Gold Victory (Carthage 1) | 0.30% | ~47 |
 | Carthage - Riches and Influence | 0.30% | ~47 |
@@ -185,7 +186,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~47 |
 | Circus Maximus in Roma | 0.30% | ~47 |
 | Randomized Leaders | 0.30% | ~47 |
-| Deposed Tribe | 0.30% | ~47 |
 | Barbarian Horde | 0.20% | ~31 |
 | Blade of the Monkey | 0.20% | ~31 |
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,521 (Ranked 152)  
+Progressed: 15,522 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 5 (0.03%) (Ranked 325)
 | 2023-11-24 | 15,467 | 5 |
 | 2023-11-25 | 15,489 | 5 |
 | 2023-11-26 | 15,514 | 5 |
-| 2023-11-27 | 15,521 | 5 |
+| 2023-11-27 | 15,522 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,877 (Ranked 218)  

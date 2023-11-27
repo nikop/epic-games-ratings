@@ -9,7 +9,7 @@
 | The City | 36.00% | ~139 |
 | The field base | 32.00% | ~124 |
 | Survivors | 28.00% | ~108 |
-| The Condor | 25.00% | ~96 |
+| The Condor | 26.00% | ~100 |
 | The End | 25.00% | ~96 |
 | The Necroevolution | 20.00% | ~77 |
 | Krauta is alive | 18.00% | ~69 |

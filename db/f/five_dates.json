@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
@@ -1735,6 +1735,11 @@
       "Time": "2023-11-27T01:56:40.3574605+00:00",
       "NumProgressed": 683,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-27T15:09:08.1245508+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1746,7 +1751,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "booty_call",
@@ -1754,7 +1759,7 @@
       "Name": "Booty Call",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "crash_and_burn",
@@ -1762,7 +1767,7 @@
       "Name": "Crash and Burn",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "digital_casanova",
@@ -1770,7 +1775,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "hold_my_beer",
@@ -1778,7 +1783,7 @@
       "Name": "Hold my Beer",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1802,7 +1807,7 @@
       "Name": "Light Sleepers",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "not_alone",
@@ -1834,7 +1839,7 @@
       "Name": "Planting the Seed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "smooth_criminal",
@@ -1865,7 +1870,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 11
     }
   ],
@@ -1873,8 +1878,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:09:18.7195432+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:09:08.1245504+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:08.7163399+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:00:32.1309257+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:09:18.7195638+00:00"
+  "LastUpdate_Ratings": "2023-11-27T15:00:11.0877135+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:09:08.1245664+00:00"
 }

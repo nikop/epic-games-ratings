@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,767 |
-| Biggest Communism Builder | 24.00% | ~31,514 |
-| The World's Most Laughable Centrist | 21.00% | ~27,575 |
-| Il Coppo Del'Arte! | 18.00% | ~23,636 |
+| Goodest Of The Good Cops | 28.00% | ~36,768 |
+| Biggest Communism Builder | 24.00% | ~31,515 |
+| The World's Most Laughable Centrist | 21.00% | ~27,576 |
+| Il Coppo Del'Arte! | 18.00% | ~23,637 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,010 |
 | Hyperstellar Law Official | 16.00% | ~21,010 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,383 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,383 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,070 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,444 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,384 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,384 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,071 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,445 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,131 |
 | Unbelievably Boring **** | 9.00% | ~11,818 |
 | Enemy Of The Physical Realm | 9.00% | ~11,818 |
 | Hardie's Heroes | 6.00% | ~7,879 |
-| The Lawbringer | 4.00% | ~5,252 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,252 |
+| The Lawbringer | 4.00% | ~5,253 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,253 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,939 |
 | Bother Kim After Hours | 3.00% | ~3,939 |
 | Baddest Of the Bad Cops | 2.00% | ~2,626 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Committee of la Responsabilité | 0.90% | ~1,182 |
 | Venture into the HARDCORE | 0.90% | ~1,182 |
 | Real Musor | 0.90% | ~1,182 |
-| Baddest Brow in Town | 0.80% | ~1,050 |
+| Baddest Brow in Town | 0.80% | ~1,051 |
 | Networthy Individual | 0.70% | ~919 |
 | Leopard Mindset | 0.60% | ~788 |
 | Modus: Mullen | 0.30% | ~394 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,310 (Ranked 83)  
+Progressed: 131,314 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 28 (0.02%) (Ranked 332)
 | 2023-11-24 | 131,166 | 28 |
 | 2023-11-25 | 131,237 | 28 |
 | 2023-11-26 | 131,290 | 28 |
-| 2023-11-27 | 131,310 | 28 |
+| 2023-11-27 | 131,314 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 179)  
 Sum: 1,127 (Ranked 253)  

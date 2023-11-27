@@ -1730,9 +1730,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -1761,8 +1761,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:06:09.5110263+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:05:59.4026435+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:19.4276968+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:58:06.6618966+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:06:09.5110709+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:57:59.848719+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:05:59.4026704+00:00"
 }

@@ -4839,10 +4839,10 @@
       "Count": 366
     }
   ],
-  "EOS_Progressed": 229355,
+  "EOS_Progressed": 229383,
   "EOS_Completed": 536,
-  "EOS_NewPlayers": 4919,
-  "EOS_NewCompleters": 45,
+  "EOS_NewPlayers": 4906,
+  "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20189,6 +20189,11 @@
       "Time": "2023-11-27T14:08:46.6063599+00:00",
       "NumProgressed": 229355,
       "NumCompleted": 536
+    },
+    {
+      "Time": "2023-11-27T15:08:38.6291724+00:00",
+      "NumProgressed": 229383,
+      "NumCompleted": 536
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20247,9 +20252,9 @@
       "ID": "Defeat_Cube",
       "SetID": "bkp3b1a",
       "Name": "Gleaming the Cube",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 688
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -20505,7 +20510,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "Obtain_Traits_B",
@@ -20640,13 +20645,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229355,
+      "Progressed": 229383,
       "Completed": 536
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8520,
+      "Progressed": 8548,
       "Completed": 164
     }
   ],
@@ -20654,8 +20659,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-27T13:11:02.6790302+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:08:46.6063596+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:08:38.6291714+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:03:01.1815269+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:08:46.6064773+00:00"
+  "LastUpdate_Ratings": "2023-11-27T15:02:53.2058968+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:08:38.6292928+00:00"
 }

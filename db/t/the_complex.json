@@ -2,9 +2,9 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.11,
   "EosHistory": [
@@ -1025,6 +1025,11 @@
       "Time": "2023-11-26T10:09:30.8263+00:00",
       "NumProgressed": 643,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-27T15:08:40.8456131+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 20,
@@ -1140,7 +1145,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "kindar_surprise",
@@ -1172,7 +1177,7 @@
       "Name": "Storage Hunter",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1180,7 +1185,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "tough_decision",
@@ -1188,14 +1193,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 20
     }
   ],
@@ -1203,8 +1208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:08:48.8640109+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:08:40.8456127+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:06.3422687+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:58:18.0248857+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:08:48.8640294+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:58:10.5209855+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:08:40.8456291+00:00"
 }

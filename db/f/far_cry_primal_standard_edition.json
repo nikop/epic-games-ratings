@@ -2,7 +2,7 @@
   "ID": "larkspur",
   "Name": "Far Cry Primal Standard Edition",
   "ProductSlug": "far-cry-primal",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 199,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 759,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 463,
   "RatingHistory": [
     {
@@ -1397,6 +1397,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 658,
       "NumberOfAwardsMax": 456
+    },
+    {
+      "Time": "2023-11-27T14:58:04.7755373+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 658,
+      "NumberOfAwardsMax": 456
     }
   ],
   "ReviewsDisabled": false,
@@ -1470,8 +1476,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2023-11-26T18:57:56.7698699+00:00",
+  "LastChanged": "2023-11-27T14:58:04.7755371+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.7308801+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:58:11.8355454+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:03:52.7283619+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:58:04.7755377+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:03:52.5592733+00:00"
 }

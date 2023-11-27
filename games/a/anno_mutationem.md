@@ -7,20 +7,20 @@ Rating: 4.56 (Ranked 494)
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~556 |
 | Don't judge a manhole by its cover | 60.00% | ~445 |
-| I just love stuff! | 41.00% | ~304 |
-| Keep 'em coming! | 41.00% | ~304 |
+| I just love stuff! | 42.00% | ~311 |
+| Keep 'em coming! | 42.00% | ~311 |
+| The things they print nowadays | 39.00% | ~289 |
 | Big Spender | 38.00% | ~282 |
-| The things they print nowadays | 38.00% | ~282 |
 | That's gotta hurt | 35.00% | ~259 |
+| I think it's broke | 26.00% | ~193 |
+| The Ann Flores Combo Experience | 26.00% | ~193 |
 | Club Star | 25.00% | ~185 |
-| I think it's broke | 25.00% | ~185 |
-| The Ann Flores Combo Experience | 25.00% | ~185 |
 | Fire in the hole! | 21.00% | ~156 |
 | Omnipotence | 19.00% | ~141 |
 | The Warlord | 19.00% | ~141 |
 | You are the One | 19.00% | ~141 |
 | Deadly Kombationem | 18.00% | ~133 |
-| The truth is out there | 15.00% | ~111 |
+| The truth is out there | 16.00% | ~119 |
 | Annakin Skyscroller | 13.00% | ~96 |
 | In the smacker...I think | 10.00% | ~74 |
 | Arm Wrestlin' | 9.00% | ~67 |

@@ -12567,9 +12567,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 464723,
+  "EOS_Progressed": 464753,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4770,
+  "EOS_NewPlayers": 4758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37917,6 +37917,11 @@
       "Time": "2023-11-27T14:06:26.1582572+00:00",
       "NumProgressed": 464723,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T15:06:14.5744441+00:00",
+      "NumProgressed": 464753,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -40150,9 +40155,9 @@
       "ID": "achievement_sweet_home_qaraqorum",
       "SetID": "8p2n7he",
       "Name": "Sweet Home Qaraqorum",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_switzerlake",
@@ -40831,21 +40836,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 464723,
+      "Progressed": 464753,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 464723,
+      "Progressed": 464753,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-27T04:00:18.8543444+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:06:26.1582569+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:06:14.5744437+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:00:31.5835122+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:06:26.159463+00:00"
+  "LastUpdate_Ratings": "2023-11-27T15:00:10.6657587+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:06:14.5754742+00:00"
 }

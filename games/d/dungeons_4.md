@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~403 |
-| Thalya – Simply Immortal | 86.00% | ~403 |
-| For the Horde! | 80.00% | ~375 |
+| The Last Stand | 87.00% | ~408 |
+| Thalya – Simply Immortal | 87.00% | ~408 |
+| For the Horde! | 81.00% | ~380 |
 | Hammer Time, Round Two | 78.00% | ~366 |
 | The Hellwoods | 72.00% | ~338 |
-| The Plains of Strothalm | 67.00% | ~314 |
+| The Plains of Strothalm | 68.00% | ~319 |
 | Experienced Thalya | 67.00% | ~314 |
 | Thalya's Concentrated Fury | 66.00% | ~310 |
 | Bad Elves Go Everywhere | 63.00% | ~295 |
@@ -24,15 +24,15 @@
 | YOU SHALL NOT PASS! | 44.00% | ~206 |
 | Hard Work | 43.00% | ~202 |
 | The Big Eaty | 42.00% | ~197 |
-| Pure Dynamite! | 39.00% | ~183 |
+| Pure Dynamite! | 40.00% | ~188 |
 | “… like son” | 38.00% | ~178 |
 | Mana Cannon | 35.00% | ~164 |
 | Dungeonlord Gorgu | 34.00% | ~159 |
 | Shame! Shame! Shame! | 34.00% | ~159 |
 | The Cathedral of Light | 33.00% | ~155 |
 | Tanos' Crusade Against Thalya | 30.00% | ~141 |
+| Unstoppable Horde | 25.00% | ~117 |
 | All’s Well That Ends Evil | 25.00% | ~117 |
-| Unstoppable Horde | 24.00% | ~113 |
 | Master of the Undead | 23.00% | ~108 |
 | The Duel | 22.00% | ~103 |
 | Forbidden Knowledge | 21.00% | ~98 |
@@ -57,9 +57,9 @@
 | To Infinity And Beyond! | 9.00% | ~42 |
 | The Last Stand - This Time For Real! | 9.00% | ~42 |
 | To the Max! | 8.00% | ~38 |
+| Gorgu is in the Best of Health | 7.00% | ~33 |
 | Mirror, Mirror | 7.00% | ~33 |
 | Evilification | 7.00% | ~33 |
-| Gorgu is in the Best of Health | 6.00% | ~28 |
 | Laser Eyes Are So Useless | 6.00% | ~28 |
 | Heal Heal Blessing | 6.00% | ~28 |
 | Hands Off My Stones | 5.00% | ~23 |

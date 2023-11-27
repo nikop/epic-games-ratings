@@ -5,13 +5,13 @@ Rating: 4.06 (Ranked 981)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,561 |
-| World Map | 78.00% | ~2,148 |
+| Victor | 93.00% | ~2,562 |
+| World Map | 78.00% | ~2,149 |
 | Temple of Eternals | 57.00% | ~1,570 |
-| Prestigious | 54.00% | ~1,487 |
+| Prestigious | 54.00% | ~1,488 |
 | Fellowship Power | 42.00% | ~1,157 |
 | Guild Power | 24.00% | ~661 |
-| Prestigious x10 | 21.00% | ~578 |
+| Prestigious x10 | 21.00% | ~579 |
 | The game is on | 19.00% | ~523 |
 | Exotic Merchant | 17.00% | ~468 |
 | Dragon Clicker | 16.00% | ~441 |
@@ -22,16 +22,16 @@ Rating: 4.06 (Ranked 981)
 | Enlightenment | 14.00% | ~386 |
 | Hero inspection | 14.00% | ~386 |
 | Lieutenant | 13.00% | ~358 |
-| Milestone collector | 12.00% | ~330 |
-| Mysterious Rock | 12.00% | ~330 |
-| Natural Talent | 12.00% | ~330 |
-| Superior | 12.00% | ~330 |
-| The Unstoppable | 12.00% | ~330 |
-| Daily Quest Completionist | 10.00% | ~275 |
-| Doing My Part | 10.00% | ~275 |
-| Hunter | 10.00% | ~275 |
-| Scientist | 10.00% | ~275 |
-| The power of Awakening | 10.00% | ~275 |
+| Milestone collector | 12.00% | ~331 |
+| Mysterious Rock | 12.00% | ~331 |
+| Natural Talent | 12.00% | ~331 |
+| Superior | 12.00% | ~331 |
+| The Unstoppable | 12.00% | ~331 |
+| Daily Quest Completionist | 10.00% | ~276 |
+| Doing My Part | 10.00% | ~276 |
+| Hunter | 10.00% | ~276 |
+| Scientist | 10.00% | ~276 |
+| The power of Awakening | 10.00% | ~276 |
 | Challenger | 9.00% | ~248 |
 | Four Leaf Clover | 9.00% | ~248 |
 | Frostfire Liberator | 9.00% | ~248 |
@@ -81,8 +81,8 @@ Rating: 4.06 (Ranked 981)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,754 (Ranked 213)  
-Completed: 2 (0.07%) (Ranked 301)  
+Progressed: 2,755 (Ranked 213)  
+Completed: 2 (0.07%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,7 +297,7 @@ Completed: 2 (0.07%) (Ranked 301)
 | 2023-11-24 | 2,644 | 2 |
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
-| 2023-11-27 | 2,754 | 2 |
+| 2023-11-27 | 2,755 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
 Sum: 111 (Ranked 443)  

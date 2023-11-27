@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1320,6 +1320,11 @@
       "Time": "2023-11-25T07:09:48.6628267+00:00",
       "NumProgressed": 395,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T15:09:28.6094696+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1659,7 +1664,7 @@
       "Name": "I like parks",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1763,7 +1768,7 @@
       "Name": "Small town",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "POPULATION_2",
@@ -1962,7 +1967,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 0
     }
   ],
@@ -1970,8 +1975,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:09:40.8256188+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:09:28.6094692+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:56.1100225+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:00:11.6945708+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:09:40.8256944+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:59:52.7304826+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:09:28.6095299+00:00"
 }

@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15662,
+  "EOS_Progressed": 15663,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12450,6 +12450,11 @@
       "Time": "2023-11-27T14:06:23.9276936+00:00",
       "NumProgressed": 15662,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-27T15:06:12.3660555+00:00",
+      "NumProgressed": 15663,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12492,9 +12497,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1723
     },
     {
       "ID": "14",
@@ -12518,7 +12523,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "17",
@@ -12582,7 +12587,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "24",
@@ -12606,7 +12611,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "27",
@@ -12726,7 +12731,7 @@
       "Name": "Master Negotiator",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "35",
@@ -12741,13 +12746,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15662,
+      "Progressed": 15663,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1616,
+      "Progressed": 1617,
       "Completed": 739
     }
   ],
@@ -12755,8 +12760,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:06:23.9276933+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:06:12.3660549+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:59:33.7691813+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:06:23.9277676+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:59:17.5644862+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:06:12.3661336+00:00"
 }

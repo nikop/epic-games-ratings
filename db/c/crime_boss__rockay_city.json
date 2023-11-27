@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4815,9 +4815,9 @@
       "Count": 501
     }
   ],
-  "EOS_Progressed": 91607,
+  "EOS_Progressed": 91608,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26630,6 +26630,11 @@
       "Time": "2023-11-27T12:04:09.4764514+00:00",
       "NumProgressed": 91607,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-27T15:03:32.0996336+00:00",
+      "NumProgressed": 91608,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -26751,9 +26756,9 @@
       "ID": "ACH_0100",
       "SetID": "3kam13l",
       "Name": "Headhunter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_0101",
@@ -26968,13 +26973,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91607,
+      "Progressed": 91608,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19954,
+      "Progressed": 19955,
       "Completed": 15580
     }
   ],
@@ -26982,8 +26987,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-27T13:05:22.6873124+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:03:30.7128828+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:03:32.0996333+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:51.3334037+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:57:30.2954681+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:03:30.7130125+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:57:27.0862935+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:03:32.0997431+00:00"
 }

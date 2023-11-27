@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1509,10 +1509,10 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 314537,
-  "EOS_Completed": 334,
-  "EOS_NewPlayers": 9443,
-  "EOS_NewCompleters": 25,
+  "EOS_Progressed": 314569,
+  "EOS_Completed": 335,
+  "EOS_NewPlayers": 9428,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -13884,6 +13884,11 @@
       "Time": "2023-11-27T14:04:04.533304+00:00",
       "NumProgressed": 314537,
       "NumCompleted": 334
+    },
+    {
+      "Time": "2023-11-27T15:04:03.4206118+00:00",
+      "NumProgressed": 314569,
+      "NumCompleted": 335
     }
   ],
   "TotalAchievements": 24,
@@ -13895,7 +13900,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3146
     },
     {
       "ID": "10",
@@ -13903,7 +13908,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15727
+      "UsersEstimate": 15728
     },
     {
       "ID": "11",
@@ -13919,7 +13924,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "13",
@@ -13935,7 +13940,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22018
+      "UsersEstimate": 22020
     },
     {
       "ID": "15",
@@ -13975,7 +13980,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 0.8,
       "XP": 85,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "2",
@@ -13983,7 +13988,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3146
     },
     {
       "ID": "20",
@@ -13991,7 +13996,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12581
+      "UsersEstimate": 12583
     },
     {
       "ID": "21",
@@ -14023,7 +14028,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9436
+      "UsersEstimate": 9437
     },
     {
       "ID": "3",
@@ -14031,7 +14036,7 @@
       "Name": "FRIENDLY",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "4",
@@ -14039,7 +14044,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9436
+      "UsersEstimate": 9437
     },
     {
       "ID": "5",
@@ -14047,7 +14052,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34599
+      "UsersEstimate": 34603
     },
     {
       "ID": "6",
@@ -14055,7 +14060,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12581
+      "UsersEstimate": 12583
     },
     {
       "ID": "7",
@@ -14086,16 +14091,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 314537,
-      "Completed": 334
+      "Progressed": 314569,
+      "Completed": 335
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-27T09:57:43.4511615+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:04:04.5333034+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:04:03.4206115+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-11-27T13:58:10.4541519+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:04:04.5333817+00:00"
+  "LastUpdate_Ratings": "2023-11-27T14:58:03.5681377+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:04:03.4206854+00:00"
 }

@@ -6,10 +6,14 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Real Expedition | 0.10% | ~18 |
 | Against All Odds | 0.10% | ~18 |
+| Fertile Meadows | 0.10% | ~18 |
 | Corrosive Torrent | 0.10% | ~18 |
+| Watchtower | 0.10% | ~18 |
 | Coral Forest | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
+| Into the Forest | 0.10% | ~18 |
 | Abandoned Settlement | 0.10% | ~18 |
 | Frosts | 0.10% | ~18 |
 | Land of Greed | 0.10% | ~18 |
@@ -30,7 +34,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 0.00% | ~0 |
 | Refinery | 0.00% | ~0 |
 | Homesick | 0.00% | ~0 |
-| First Real Expedition | 0.00% | ~0 |
 | Overcoming Difficulty | 0.00% | ~0 |
 | Ruined Armory | 0.00% | ~0 |
 | Bandit Camp | 0.00% | ~0 |
@@ -38,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 0.00% | ~0 |
 | Sparkdew Crystals | 0.00% | ~0 |
 | Dangerous Lands | 0.00% | ~0 |
-| Fertile Meadows | 0.00% | ~0 |
 | Fishmen Ritual Site | 0.00% | ~0 |
 | Forbidden Lands | 0.00% | ~0 |
 | Haunted Forest | 0.00% | ~0 |
@@ -49,7 +51,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 0.00% | ~0 |
 | Statue of the Forefathers | 0.00% | ~0 |
 | Forsaken Gods Temple | 0.00% | ~0 |
-| Watchtower | 0.00% | ~0 |
 | Cursed Lands | 0.00% | ~0 |
 | The Marshlands | 0.00% | ~0 |
 | The Scarlet Orchard | 0.00% | ~0 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 0.00% | ~0 |
 | No Deaths | 0.00% | ~0 |
 | Defying the Crown | 0.00% | ~0 |
-| Into the Forest | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,500 (Ranked 146)  
 Completed: 56 (0.32%) (Ranked 232)  

@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 311,
+  "Ranking_Rating": 310,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
@@ -2040,9 +2040,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15521,
+  "EOS_Progressed": 15522,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16670,6 +16670,11 @@
       "Time": "2023-11-27T14:04:43.8372938+00:00",
       "NumProgressed": 15521,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-27T15:04:39.7759299+00:00",
+      "NumProgressed": 15522,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17551,9 +17556,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
       "SetID": "7l38kb8",
       "Name": "Patrons",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 310
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -18433,7 +18438,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -18967,9 +18972,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
       "SetID": "9201eeb",
       "Name": "Deposed Tribe",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
@@ -19407,30 +19412,30 @@
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
       "SetID": "9201eeb",
       "Name": "Beja Archer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 109
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15521,
+      "Progressed": 15522,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15521,
+      "Progressed": 15522,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-27T04:00:23.37296+00:00",
-  "LastChanged_Achievements": "2023-11-27T14:04:43.8372932+00:00",
+  "LastChanged_Achievements": "2023-11-27T15:04:39.7759294+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-27T14:00:36.1936828+00:00",
-  "LastUpdate_Achievements": "2023-11-27T14:04:43.838235+00:00"
+  "LastUpdate_Ratings": "2023-11-27T15:00:14.8470258+00:00",
+  "LastUpdate_Achievements": "2023-11-27T15:04:39.7767969+00:00"
 }
