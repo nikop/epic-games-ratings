@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -949,9 +949,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9056,
+  "EOS_Progressed": 9057,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8264,6 +8264,11 @@
       "Time": "2023-11-26T23:04:36.5065216+00:00",
       "NumProgressed": 9056,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-27T00:06:29.2454453+00:00",
+      "NumProgressed": 9057,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8353,9 +8358,9 @@
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
       "SetID": "akchbl3",
       "Name": "Dirty Dozen",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 996
+      "UsersEstimate": 1087
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -8387,7 +8392,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2808
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -8419,7 +8424,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -8467,7 +8472,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8569,9 +8574,9 @@
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
       "SetID": "akchbl3",
       "Name": "The Lion of the Isonzo",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1359
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -8579,7 +8584,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -8595,7 +8600,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -8634,7 +8639,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9056,
+      "Progressed": 9057,
       "Completed": 10
     }
   ],
@@ -8642,8 +8647,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-26T17:59:39.1110954+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:04:36.5065212+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:06:29.2454449+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:58:49.6007385+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:04:36.5065785+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:00:22.6824188+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:06:29.2454986+00:00"
 }

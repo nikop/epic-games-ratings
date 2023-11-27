@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -458,9 +458,9 @@
       "ID": "ACH_JUGGLE_10",
       "SetID": "aio76gp",
       "Name": "Juggle the People",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_KILL_1000_ENEMIES",
@@ -523,8 +523,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:03:55.4199178+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:05:29.8216405+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.9832168+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:56:59.7463998+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:03:55.4199373+00:00"
+  "LastUpdate_Ratings": "2023-11-26T23:57:32.3258659+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:05:29.8216599+00:00"
 }

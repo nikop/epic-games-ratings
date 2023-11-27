@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2286,
+  "EOS_Progressed": 2287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5432,6 +5432,11 @@
       "Time": "2023-11-26T21:09:29.1341338+00:00",
       "NumProgressed": 2286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T00:10:30.1186551+00:00",
+      "NumProgressed": 2287,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5460,7 +5465,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5476,7 +5481,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -5500,7 +5505,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5546,9 +5551,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 412
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -5652,7 +5657,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5700,7 +5705,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5835,14 +5840,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2286,
+      "Progressed": 2287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:08:57.7112742+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:10:30.1186547+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.7913611+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:58:35.3985533+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:08:57.7113419+00:00"
+  "LastUpdate_Ratings": "2023-11-26T23:59:59.9405427+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:10:30.1187068+00:00"
 }

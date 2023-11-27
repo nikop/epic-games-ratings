@@ -12,10 +12,10 @@
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Guardian angel ✔ | 1.00% | ~3 |
 | Voodoo ✔ | 0.70% | ~2 |
+| Mask ✔ | 0.70% | ~2 |
+| Doctor ✔ | 0.70% | ~2 |
 | Master of Unlocking ✔ | 0.70% | ~2 |
 | Light will show the truth ✔ | 0.30% | ~1 |
-| Mask ✔ | 0.30% | ~1 |
-| Doctor ✔ | 0.30% | ~1 |
 | Recruit ✔ | 0.30% | ~1 |
 | Saved the planet ✔ | 0.30% | ~1 |
 | Seeker ✔ | 0.00% | ~0 |

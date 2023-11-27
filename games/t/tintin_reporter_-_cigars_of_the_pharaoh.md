@@ -19,19 +19,19 @@
 | Dynamite, Treason and Coconuts | 5.00% | ~3 |
 | Save a Friend | 5.00% | ~3 |
 | The Eyes! | 3.00% | ~2 |
+| Keep the Doctor Away | 3.00% | ~2 |
 | The Corporal's Golden Boy | 3.00% | ~2 |
 | Punctual | 3.00% | ~2 |
 | Barking Dog | 3.00% | ~2 |
 | Threat | 3.00% | ~2 |
-| Keep the Doctor Away | 2.00% | ~1 |
 | Just a Palm Tree | 2.00% | ~1 |
 | Under the Hood | 2.00% | ~1 |
 | Long Live Gaipajama! | 2.00% | ~1 |
 | Eyes Shut | 2.00% | ~1 |
+| A Diagnosis | 2.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Tintin, Reporter | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
-| A Diagnosis | 0.00% | ~0 |
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 | Jungle Runner | 0.00% | ~0 |

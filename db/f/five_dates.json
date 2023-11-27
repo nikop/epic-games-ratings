@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.62,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -1725,6 +1725,11 @@
       "Time": "2023-11-26T22:10:33.3656694+00:00",
       "NumProgressed": 681,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-27T00:10:03.2635009+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1736,7 +1741,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "booty_call",
@@ -1758,9 +1763,9 @@
       "ID": "digital_casanova",
       "SetID": "c4ipj3h",
       "Name": "Digital Casanova",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 661
+      "UsersEstimate": 655
     },
     {
       "ID": "hold_my_beer",
@@ -1800,7 +1805,7 @@
       "Name": "Not Alone",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "nueva_beginnings",
@@ -1808,7 +1813,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1840,7 +1845,7 @@
       "Name": "Sore Loser",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "we_go_again",
@@ -1855,7 +1860,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 11
     }
   ],
@@ -1863,8 +1868,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:08:38.1593766+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:10:03.2635005+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:08.7163399+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:59:26.8899837+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:08:38.159393+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:01:22.2248566+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:10:03.2635206+00:00"
 }

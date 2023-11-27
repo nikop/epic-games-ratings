@@ -42,12 +42,12 @@
 | Colony Defense | 34.00% | ~484 |
 | The Krogan | 34.00% | ~484 |
 | Broke, Blind, and Bedlam | 33.00% | ~470 |
+| A Personal Touch | 32.00% | ~456 |
 | Ghost Ship | 32.00% | ~456 |
 | The Quarian | 32.00% | ~456 |
 | The Prodigal | 32.00% | ~456 |
 | Galactic Explorer | 32.00% | ~456 |
 | Shopaholic | 32.00% | ~456 |
-| A Personal Touch | 31.00% | ~441 |
 | The Assassin | 31.00% | ~441 |
 | The Justicar | 31.00% | ~441 |
 | Battlemaster | 31.00% | ~441 |
@@ -95,9 +95,9 @@
 | No One Left Behind | 20.00% | ~285 |
 | Saboteur | 20.00% | ~285 |
 | Last Witness | 20.00% | ~285 |
+| Well Connected | 20.00% | ~285 |
 | Fact Finder | 20.00% | ~285 |
 | Pyromaniac | 19.00% | ~271 |
-| Well Connected | 19.00% | ~271 |
 | Executioner | 18.00% | ~256 |
 | Patriot | 18.00% | ~256 |
 | Legend | 17.00% | ~242 |

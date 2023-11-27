@@ -4723,10 +4723,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5967,
       "NumberOfAwardsMax": 2455
+    },
+    {
+      "Time": "2023-11-27T00:03:46.8372852+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5971,
+      "NumberOfAwardsMax": 2455
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5967,
+  "NumberOfAwards": 5971,
   "NumberOfAwardsMax": 2455,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4752,7 +4758,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 372
+      "Count": 376
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4797,10 +4803,10 @@
       "Count": 366
     }
   ],
-  "EOS_Progressed": 229012,
-  "EOS_Completed": 534,
+  "EOS_Progressed": 229032,
+  "EOS_Completed": 536,
   "EOS_NewPlayers": 4903,
-  "EOS_NewCompleters": 49,
+  "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20072,6 +20078,11 @@
       "Time": "2023-11-26T23:08:09.599759+00:00",
       "NumProgressed": 229012,
       "NumCompleted": 534
+    },
+    {
+      "Time": "2023-11-27T00:09:23.5137868+00:00",
+      "NumProgressed": 229032,
+      "NumCompleted": 536
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20178,9 +20189,9 @@
       "ID": "Defeat_Nightweaver",
       "SetID": "bkp3b1a",
       "Name": "Dark Designs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -20523,22 +20534,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229012,
-      "Completed": 534
+      "Progressed": 229032,
+      "Completed": 536
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8177,
+      "Progressed": 8197,
       "Completed": 163
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-26T22:04:08.79539+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:08:09.5997587+00:00",
+  "LastChanged": "2023-11-27T00:03:46.837285+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:09:23.5137865+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:02:45.7211412+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:08:09.5998517+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:03:46.8372856+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:09:23.5139052+00:00"
 }

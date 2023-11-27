@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 17.34,
+  "EOS_Completed_Percentage": 17.28,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1279,6 +1279,11 @@
       "Time": "2023-11-26T22:09:24.7698916+00:00",
       "NumProgressed": 323,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-27T00:08:56.7347581+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1307,23 +1312,23 @@
       "Name": "Welcome aboard!",
       "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 201
     },
     {
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 70,
-      "UsersEstimate": 162
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_hint_9",
@@ -1331,7 +1336,7 @@
       "Name": "Together is better!",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ach_items_50",
@@ -1339,7 +1344,7 @@
       "Name": "Sharp-sighted!",
       "Percentage": 75,
       "XP": 60,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ach_minigames_10",
@@ -1347,7 +1352,7 @@
       "Name": "Inquiring mind!",
       "Percentage": 67,
       "XP": 80,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ach_skip_1",
@@ -1378,14 +1383,14 @@
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:07:50.853424+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:08:56.7347578+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:58:39.5778016+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:07:50.8534391+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:00:06.3347076+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:08:56.7347713+00:00"
 }

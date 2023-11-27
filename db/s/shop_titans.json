@@ -7249,7 +7249,7 @@
       "Count": 3785
     }
   ],
-  "EOS_Progressed": 142346,
+  "EOS_Progressed": 142349,
   "EOS_Completed": 274,
   "EOS_NewPlayers": 1698,
   "EOS_NewCompleters": 86,
@@ -30019,6 +30019,11 @@
       "Time": "2023-11-26T23:07:55.7578096+00:00",
       "NumProgressed": 142346,
       "NumCompleted": 274
+    },
+    {
+      "Time": "2023-11-27T00:09:03.7893599+00:00",
+      "NumProgressed": 142349,
+      "NumCompleted": 274
     }
   ],
   "TotalAchievements": 112,
@@ -30764,9 +30769,9 @@
       "ID": "quest04",
       "SetID": "anfd17p",
       "Name": "To Hell and Back",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 427
     },
     {
       "ID": "rareres01",
@@ -30925,15 +30930,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142346,
+      "Progressed": 142349,
       "Completed": 274
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-26T22:03:52.4347232+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:07:55.7578094+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:09:03.7893596+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:02:35.1719245+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:07:55.7579872+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:03:31.236795+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:09:03.7895739+00:00"
 }

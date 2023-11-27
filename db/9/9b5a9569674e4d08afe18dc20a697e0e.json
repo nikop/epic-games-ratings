@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -555,9 +555,9 @@
       "ID": "MERCENARY",
       "SetID": "40o4f14",
       "Name": "Mercenary",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MINES",
@@ -635,9 +635,9 @@
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "WASHING",
@@ -674,8 +674,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:03:58.7227204+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:05:34.517773+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:57:04.3574311+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:03:58.7227417+00:00"
+  "LastUpdate_Ratings": "2023-11-26T23:57:40.6599208+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:05:34.5177939+00:00"
 }

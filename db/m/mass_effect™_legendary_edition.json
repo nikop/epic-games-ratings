@@ -4029,9 +4029,9 @@
       "ID": "achievement_100",
       "SetID": "d252ncf",
       "Name": "A Personal Touch",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_101",
@@ -4957,9 +4957,9 @@
       "ID": "achievement_91",
       "SetID": "d252ncf",
       "Name": "Well Connected",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_92",
@@ -5041,8 +5041,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:08:06.5607468+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:09:19.2482786+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:02:39.9482709+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:08:06.5608928+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:03:37.6929612+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:09:19.2484332+00:00"
 }

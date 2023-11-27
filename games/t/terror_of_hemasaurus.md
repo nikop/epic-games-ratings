@@ -28,11 +28,11 @@
 | Demolition Tactician | 4.00% | ~3 |
 | Hot Potato | 4.00% | ~3 |
 | Shakedown Breakdown | 4.00% | ~3 |
+| Juggle the People | 4.00% | ~3 |
 | Trash the Planet. | 4.00% | ~3 |
 | Demolition Exhibition | 3.00% | ~2 |
 | Oblideration Nation | 3.00% | ~2 |
 | SWATing Flies | 3.00% | ~2 |
-| Juggle the People | 3.00% | ~2 |
 | Simulation 8e7d28c1 | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79 (Ranked 459)  

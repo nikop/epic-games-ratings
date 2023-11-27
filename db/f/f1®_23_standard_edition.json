@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -651,9 +651,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5930,
+  "EOS_Progressed": 5931,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6346,6 +6346,11 @@
       "Time": "2023-11-26T23:03:45.7985848+00:00",
       "NumProgressed": 5930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T00:05:15.9438367+00:00",
+      "NumProgressed": 5931,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6398,7 +6403,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4566
+      "UsersEstimate": 4567
     },
     {
       "ID": "achievement_0007",
@@ -6406,7 +6411,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5574
+      "UsersEstimate": 5575
     },
     {
       "ID": "achievement_0008",
@@ -6414,7 +6419,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "achievement_0009",
@@ -6430,7 +6435,7 @@
       "Name": "Network Success",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "achievement_0011",
@@ -6582,7 +6587,7 @@
       "Name": "Reduce",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "achievement_0030",
@@ -6694,7 +6699,7 @@
       "Name": "Familiar Faces",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     },
     {
       "ID": "achievement_0044",
@@ -6718,7 +6723,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "achievement_0047",
@@ -6726,7 +6731,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_0048",
@@ -6749,7 +6754,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5930,
+      "Progressed": 5931,
       "Completed": 0
     }
   ],
@@ -6757,8 +6762,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-26T16:00:18.5628015+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:03:45.7985843+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:05:15.9438363+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:59:57.6171306+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:03:45.79865+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:02:49.6120957+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:05:15.9439328+00:00"
 }

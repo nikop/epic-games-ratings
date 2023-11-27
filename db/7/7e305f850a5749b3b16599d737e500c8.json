@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -1006,17 +1006,17 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Engineer",
@@ -1046,9 +1046,9 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "Florist",
@@ -1062,9 +1062,9 @@
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Justice",
@@ -1118,25 +1118,25 @@
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
@@ -1149,8 +1149,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:04:40.1065229+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:06:34.4818973+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:57:20.5204482+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:04:40.1065386+00:00"
+  "LastUpdate_Ratings": "2023-11-26T23:58:07.5966482+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:06:34.4819147+00:00"
 }

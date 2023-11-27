@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -349,9 +349,9 @@
       "ID": "Achievement14",
       "SetID": "9fa3l5n",
       "Name": "Keep the Doctor Away",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement15",
@@ -437,9 +437,9 @@
       "ID": "Achievement24",
       "SetID": "9fa3l5n",
       "Name": "A Diagnosis",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement25",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:03:39.1709218+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:05:06.3691993+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:09.384053+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:59:27.7099978+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:03:39.1709496+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:01:23.3645491+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:05:06.3692229+00:00"
 }

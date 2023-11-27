@@ -1567,9 +1567,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160290,
+  "EOS_Progressed": 160296,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17192,6 +17192,11 @@
       "Time": "2023-11-26T23:05:00.7847099+00:00",
       "NumProgressed": 160290,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T00:07:04.3705341+00:00",
+      "NumProgressed": 160296,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17243,7 +17248,7 @@
       "Name": "Zygote",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -17267,7 +17272,7 @@
       "Name": "Taste",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9617
+      "UsersEstimate": 9618
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -17419,7 +17424,7 @@
       "Name": "Imprint",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9617
+      "UsersEstimate": 9618
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -17523,7 +17528,7 @@
       "Name": "Listen",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "QUEST_YON",
@@ -17570,21 +17575,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159873,
+      "Progressed": 159879,
       "Completed": 1226
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160290,
+      "Progressed": 160296,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-25T23:59:33.0917526+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:05:00.7847093+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:07:04.3705337+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:58:57.5701895+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:05:00.7848053+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:00:34.9678425+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:07:04.3706591+00:00"
 }

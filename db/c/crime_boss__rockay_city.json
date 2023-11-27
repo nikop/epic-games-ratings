@@ -4803,9 +4803,9 @@
       "Count": 501
     }
   ],
-  "EOS_Progressed": 91597,
+  "EOS_Progressed": 91598,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26578,6 +26578,11 @@
       "Time": "2023-11-26T22:04:27.1589423+00:00",
       "NumProgressed": 91597,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-27T00:04:07.0317607+00:00",
+      "NumProgressed": 91598,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26779,9 +26784,9 @@
       "ID": "ACH_0330",
       "SetID": "3kam13l",
       "Name": "Ding Dong",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_0340",
@@ -26916,13 +26921,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91597,
+      "Progressed": 91598,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19944,
+      "Progressed": 19945,
       "Completed": 15580
     }
   ],
@@ -26930,8 +26935,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-26T14:02:18.3756439+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:02:57.9565027+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:04:07.0317603+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:51.3334037+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:56:55.5453173+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:02:57.9566385+00:00"
+  "LastUpdate_Ratings": "2023-11-26T23:57:25.7758558+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:04:07.0318978+00:00"
 }

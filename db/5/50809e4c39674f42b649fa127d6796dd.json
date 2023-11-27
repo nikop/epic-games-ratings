@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -637,6 +637,11 @@
       "Time": "2023-11-26T23:07:59.6863825+00:00",
       "NumProgressed": 301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T00:09:09.4372572+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -703,9 +708,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -713,7 +718,7 @@
       "Name": "Perfect Run",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -727,9 +732,9 @@
       "ID": "FIRST_KODAMA_ELDER_TALK",
       "SetID": "apihg0e",
       "Name": "Elder Koco Encounter",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -737,7 +742,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -753,7 +758,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -761,7 +766,7 @@
       "Name": "Speed Demon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "FIRST_S_RANK",
@@ -769,15 +774,15 @@
       "Name": "Superior Ranking",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "GET_FISH_ALL",
@@ -855,9 +860,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Memories",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -959,23 +964,23 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:07:59.6863821+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:09:09.4372567+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:59:35.1226442+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:07:59.6864051+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:01:35.4552754+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:09:09.4372868+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 126,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 937,
+  "EOS_Progressed": 938,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.31,
+  "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3044,6 +3044,11 @@
       "Time": "2023-11-26T21:04:32.0682612+00:00",
       "NumProgressed": 937,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-27T00:05:41.067206+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3056,7 +3061,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3064,7 +3069,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "_03_FinishAct1",
@@ -3072,7 +3077,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3088,7 +3093,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3112,7 +3117,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "_09_Completion_20",
@@ -3120,7 +3125,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "_10_Completion_30",
@@ -3168,7 +3173,7 @@
       "Name": "Marauder",
       "Percentage": 4,
       "XP": 125,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -3240,7 +3245,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3256,14 +3261,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 4,
       "XP": 140,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 937,
+      "Progressed": 938,
       "Completed": 31
     }
   ],
@@ -3271,8 +3276,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:04:03.3525786+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:05:41.0672055+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:59:39.5125466+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:04:03.3526047+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:01:41.8667108+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:05:41.0672345+00:00"
 }

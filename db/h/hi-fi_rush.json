@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4367,
+  "EOS_Progressed": 4368,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7765,6 +7765,11 @@
       "Time": "2023-11-26T21:03:56.2055566+00:00",
       "NumProgressed": 4367,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-27T00:04:50.9578132+00:00",
+      "NumProgressed": 4368,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7888,7 +7893,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "Ach016",
@@ -7968,7 +7973,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "Ach026",
@@ -8176,7 +8181,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "Ach052",
@@ -8343,13 +8348,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4367,
+      "Progressed": 4368,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2888,
+      "Progressed": 2889,
       "Completed": 1930
     }
   ],
@@ -8357,8 +8362,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:03:28.2428824+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:04:50.9578129+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:59:31.877483+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:03:28.242986+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:01:29.5522267+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:04:50.9579035+00:00"
 }

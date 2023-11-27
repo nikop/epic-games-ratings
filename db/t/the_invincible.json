@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 375,
+  "EOS_Progressed": 376,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -975,6 +975,11 @@
       "Time": "2023-11-26T23:08:05.0093079+00:00",
       "NumProgressed": 375,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T00:09:16.9829588+00:00",
+      "NumProgressed": 376,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -987,7 +992,7 @@
       "Name": "The Teleprobe",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "AchvAllMemories",
@@ -1123,7 +1128,7 @@
       "Name": "Innate curiosity",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AchvNoHoles",
@@ -1171,7 +1176,7 @@
       "Name": "The City",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AchvReachCondor",
@@ -1187,7 +1192,7 @@
       "Name": "Survivors",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1218,14 +1223,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 375,
+      "Progressed": 376,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:08:05.0093076+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:09:16.9829585+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:57:11.3927985+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:08:05.0093254+00:00"
+  "LastUpdate_Ratings": "2023-11-26T23:57:52.1037284+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:09:16.9829758+00:00"
 }

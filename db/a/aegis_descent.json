@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -410,6 +410,11 @@
       "Time": "2023-11-26T22:08:11.7333375+00:00",
       "NumProgressed": 423,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T00:07:47.3492721+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -437,7 +442,7 @@
       "Name": "Boss Down",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Award_BumperCar",
@@ -461,7 +466,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -509,7 +514,7 @@
       "Name": "Extra Ammo",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Award_FinalAscension",
@@ -533,7 +538,7 @@
       "Name": "Gunner",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Award_HalfwayThere",
@@ -645,7 +650,7 @@
       "Name": "Perky",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Award_PowerUp",
@@ -669,7 +674,7 @@
       "Name": "Scavenger",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Award_ShellShock",
@@ -709,7 +714,7 @@
       "Name": "Splash Damage",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Award_Stunning",
@@ -765,14 +770,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 1
     }
   ],
@@ -780,8 +785,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:05:31.1840006+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:07:47.3492719+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:50.6228804+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:59:02.8196574+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:05:31.1840277+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:00:44.0475752+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:07:47.3492963+00:00"
 }

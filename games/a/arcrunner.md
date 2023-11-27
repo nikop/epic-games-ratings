@@ -21,8 +21,8 @@
 | Cybernetic | 8.00% | ~67 |
 | The Bigger They Are | 7.00% | ~59 |
 | Rookie | 7.00% | ~59 |
+| Eden Heights | 6.00% | ~50 |
 | Up Close And Personal | 6.00% | ~50 |
-| Eden Heights | 5.00% | ~42 |
 | Outer Core | 5.00% | ~42 |
 | Inner Core | 4.00% | ~33 |
 | Integration | 3.00% | ~25 |

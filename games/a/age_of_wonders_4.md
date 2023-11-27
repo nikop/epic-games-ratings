@@ -53,9 +53,9 @@ Rating: 4.61 (Ranked 382)
 | One for All, All for One | 0.40% | ~22 |
 | The Goddess of Nature | 0.30% | ~17 |
 | Duality | 0.30% | ~17 |
+| The Magic That Empowers Me! | 0.20% | ~11 |
 | Betrayal Most Foul | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~6 |
-| The Magic That Empowers Me! | 0.10% | ~6 |
 | I Want to Break Free | 0.10% | ~6 |
 | Against the Odds | 0.10% | ~6 |
 | Jack of All Tomes | 0.10% | ~6 |

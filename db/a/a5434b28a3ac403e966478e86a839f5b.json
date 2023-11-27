@@ -1855,9 +1855,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 120,
-      "UsersEstimate": 97
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_eou1",
@@ -1966,8 +1966,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:04:39.942174+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:06:34.2148441+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.8942797+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:57:33.1185338+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:04:39.9421915+00:00"
+  "LastUpdate_Ratings": "2023-11-26T23:58:27.64743+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:06:34.2148633+00:00"
 }

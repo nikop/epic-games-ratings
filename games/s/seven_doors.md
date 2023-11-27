@@ -14,8 +14,8 @@
 | Art Connoisseur | 32.00% | ~7 |
 | Survivor | 32.00% | ~7 |
 | Master of Riddles | 32.00% | ~7 |
+| The Witch’s Haunt | 27.00% | ~6 |
 | A Cautious Man Is Worth Two of His Kind | 27.00% | ~6 |
-| The Witch’s Haunt | 23.00% | ~5 |
 | A Cabin Boy with Potential | 23.00% | ~5 |
 | Trapped in Time | 18.00% | ~4 |
 | Thanksgiving Day | 14.00% | ~3 |

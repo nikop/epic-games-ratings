@@ -18,6 +18,7 @@ Rating: 4.75 (Ranked 148)
 | Gleaming the Cube | 0.20% | ~458 |
 | Power Surge | 0.20% | ~458 |
 | The God Gambit | 0.20% | ~458 |
+| Dark Designs | 0.20% | ~458 |
 | Not So Special Now | 0.20% | ~458 |
 | Not a Janitor | 0.20% | ~458 |
 | Familiar Face | 0.20% | ~458 |
@@ -39,7 +40,6 @@ Rating: 4.75 (Ranked 148)
 | Only Human | 0.10% | ~229 |
 | Traitor | 0.10% | ~229 |
 | Forever is a Long Time Coming | 0.10% | ~229 |
-| Dark Designs | 0.10% | ~229 |
 | Madman's Paradise | 0.10% | ~229 |
 | Red Room | 0.10% | ~229 |
 | The Agenda | 0.10% | ~229 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~8 |
 | You Shall Pass | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,012 (Ranked 68)  
-Completed: 534 (0.23%) (Ranked 249)  
+Progressed: 229,032 (Ranked 68)  
+Completed: 536 (0.23%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,16 +195,17 @@ Completed: 534 (0.23%) (Ranked 249)
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
+| 2023-11-27 | 229,032 | 536 |
 ## Awards
 Max (Great Boss Battles): 2,455  (Ranked 104)  
-Sum: 5,967 (Ranked 129)  
+Sum: 5,971 (Ranked 129)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,455 |
 | This game has Diverse Characters | 393 |
 | This game is Highly Recommended | 379 |
-| This game has Challenging Combat | 372 |
+| This game has Challenging Combat | 376 |
 | This game is Extremely Fun | 371 |
 | This game is Relaxing | 366 |
 | This game has Amazing Storytelling | 363 |
@@ -339,3 +340,4 @@ Diff (max vs sum): -25
 | 2023-11-24 | 4.75 | 2,415 | 5,845 |
 | 2023-11-25 | 4.75 | 2,436 | 5,922 |
 | 2023-11-26 | 4.75 | 2,455 | 5,967 |
+| 2023-11-27 | 4.75 | 2,455 | 5,971 |

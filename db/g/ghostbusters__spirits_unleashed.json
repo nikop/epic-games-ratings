@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3445,10 +3445,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2850,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-11-26T23:57:44.5627904+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2851,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2850,
+  "NumberOfAwards": 2851,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3480,7 +3486,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 275
+      "Count": 276
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3525,9 +3531,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31638,
+  "EOS_Progressed": 31640,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20590,6 +20596,11 @@
       "Time": "2023-11-26T23:05:59.9842009+00:00",
       "NumProgressed": 31638,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-27T00:08:27.8488489+00:00",
+      "NumProgressed": 31640,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20905,7 +20916,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "Summoner",
@@ -21008,16 +21019,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31638,
+      "Progressed": 31640,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-26T08:02:39.558705+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:05:59.9842006+00:00",
+  "LastChanged": "2023-11-26T23:57:44.5627902+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:08:27.8488485+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:57:06.7894757+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:05:59.9843554+00:00"
+  "LastUpdate_Ratings": "2023-11-26T23:57:44.5627908+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:08:27.8489392+00:00"
 }

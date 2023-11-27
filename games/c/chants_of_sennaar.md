@@ -9,29 +9,29 @@
 | The great escape | 29.00% | ~221 |
 | The Preacher's fate | 28.00% | ~213 |
 | A new dawn | 24.00% | ~183 |
-| Scholar | 22.00% | ~167 |
+| Scholar | 22.00% | ~168 |
+| A good beginning | 21.00% | ~160 |
 | True G3M4R | 21.00% | ~160 |
 | The darkness | 21.00% | ~160 |
-| A good beginning | 20.00% | ~152 |
 | One last step | 20.00% | ~152 |
+| Cable guy | 19.00% | ~145 |
 | Half the way | 19.00% | ~145 |
 | I did it | 18.00% | ~137 |
 | Peace walker | 18.00% | ~137 |
-| Cable guy | 18.00% | ~137 |
 | Champollion | 18.00% | ~137 |
-| In this together | 17.00% | ~129 |
-| Feels like springtime | 16.00% | ~122 |
+| In this together | 17.00% | ~130 |
 | Open door | 15.00% | ~114 |
+| Feels like springtime | 15.00% | ~114 |
 | Alchemists Express | 15.00% | ~114 |
 | Free at last | 13.00% | ~99 |
 | Rascal | 12.00% | ~91 |
 | A Link to the Past | 11.00% | ~84 |
 | A great audience | 10.00% | ~76 |
-| For its own good | 9.00% | ~68 |
+| For its own good | 9.00% | ~69 |
 | Fashion victim | 4.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761 (Ranked 278)  
-Completed: 38 (4.99%) (Ranked 73)  
+Progressed: 762 (Ranked 278)  
+Completed: 39 (5.12%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,3 +158,4 @@ Completed: 38 (4.99%) (Ranked 73)
 | 2023-11-24 | 707 | 35 |
 | 2023-11-25 | 737 | 37 |
 | 2023-11-26 | 761 | 38 |
+| 2023-11-27 | 762 | 39 |

@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251635,
+  "EOS_Progressed": 251636,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19922,6 +19922,11 @@
       "Time": "2023-11-26T22:10:29.5997184+00:00",
       "NumProgressed": 251635,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-27T00:09:59.5697954+00:00",
+      "NumProgressed": 251636,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19933,7 +19938,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17614
+      "UsersEstimate": 17615
     },
     {
       "ID": "aWinnerIsYou",
@@ -19957,7 +19962,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52843
+      "UsersEstimate": 52844
     },
     {
       "ID": "blotbuster",
@@ -20125,7 +20130,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17614
+      "UsersEstimate": 17615
     },
     {
       "ID": "itsTheFall",
@@ -20205,7 +20210,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17614
+      "UsersEstimate": 17615
     },
     {
       "ID": "rideTheWave",
@@ -20300,7 +20305,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251635,
+      "Progressed": 251636,
       "Completed": 6
     }
   ],
@@ -20308,8 +20313,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:08:35.5066092+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:09:59.569795+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:52.8693744+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:57:10.6827046+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:08:35.5067461+00:00"
+  "LastUpdate_Ratings": "2023-11-26T23:57:50.8583886+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:09:59.5699126+00:00"
 }

@@ -35,6 +35,7 @@ Number of Ratings: 45  (23.09.2022)
 | Plague Doctor | 0.30% | ~4 |
 | Legends Never Die | 0.30% | ~4 |
 | All My Birds, Safely Home | 0.30% | ~4 |
+| Some Say I'm Too Flashy | 0.30% | ~4 |
 | Into Mulch | 0.30% | ~4 |
 | Astrology | 0.30% | ~4 |
 | Lochias's Hunger | 0.30% | ~4 |
@@ -42,7 +43,6 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 0.20% | ~3 |
 | Wingknight's Prowess | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
-| Some Say I'm Too Flashy | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
 | Overwhelming Monstrosity | 0.10% | ~1 |

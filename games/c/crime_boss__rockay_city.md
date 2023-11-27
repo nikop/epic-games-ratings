@@ -27,10 +27,10 @@ Rating: 3.95 (Ranked 1,012)
 | Legend Looter | 0.50% | ~458 |
 | Foo Finder | 0.50% | ~458 |
 | Moneybags | 0.50% | ~458 |
+| Ding Dong | 0.50% | ~458 |
 | Imports and Exports | 0.40% | ~366 |
 | Savvy Seeker | 0.40% | ~366 |
 | Olympus Ascended | 0.40% | ~366 |
-| Ding Dong | 0.40% | ~366 |
 | All that Glitters | 0.40% | ~80 |
 | Rockay Raider | 0.30% | ~275 |
 | Groundhog Days | 0.30% | ~275 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,012)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,597 (Ranked 92)  
+Progressed: 91,598 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,6 +268,7 @@ Completed: 57 (0.06%) (Ranked 304)
 | 2023-11-24 | 91,512 | 57 |
 | 2023-11-25 | 91,554 | 57 |
 | 2023-11-26 | 91,597 | 57 |
+| 2023-11-27 | 91,598 | 57 |
 ## Awards
 Max (Diverse Characters): 544  (Ranked 205)  
 Sum: 3,109 (Ranked 176)  

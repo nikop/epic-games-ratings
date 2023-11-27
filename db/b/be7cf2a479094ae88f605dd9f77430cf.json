@@ -2,9 +2,9 @@
   "ID": "be7cf2a479094ae88f605dd9f77430cf",
   "Name": "Asterix and Obelix Heroes",
   "ProductSlug": "asterix-and-obelix-heroes",
-  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Progress": 589,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -85,6 +85,11 @@
       "Time": "2023-11-26T17:04:20.072859+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T00:05:41.8037858+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T17:02:30.1575422+00:00",
@@ -95,17 +100,17 @@
       "ID": "1",
       "SetID": "5jnn47e",
       "Name": "First Steps of a long journey",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "10",
       "SetID": "5jnn47e",
       "Name": "Play with fire",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "11",
@@ -143,9 +148,9 @@
       "ID": "15",
       "SetID": "5jnn47e",
       "Name": "Most beautiful",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "16",
@@ -255,15 +260,15 @@
       "ID": "8",
       "SetID": "5jnn47e",
       "Name": "Victory is ours",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "9",
       "SetID": "5jnn47e",
       "Name": "Nothing is holding you back",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 6
     }
@@ -272,14 +277,14 @@
     {
       "ID": "5jnn47e",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:04:03.8916285+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:05:41.8037853+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.7363353+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:59:25.7634147+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:04:03.8916401+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:01:20.3957078+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:05:41.8037986+00:00"
 }

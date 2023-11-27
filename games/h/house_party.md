@@ -38,12 +38,12 @@ Number of Ratings: 177  (23.09.2022)
 | Deck the Balls | 0.50% | ~18 |
 | Love Conquers All | 0.50% | ~33 |
 | The Bride | 0.40% | ~26 |
+| Rule 34 | 0.40% | ~26 |
 | Rachael | 0.40% | ~26 |
 | Good Ol' Days | 0.40% | ~26 |
 | Drunk and Disorderly: Madison | 0.30% | ~20 |
 | Do Not Burn | 0.30% | ~20 |
 | First Impressions | 0.30% | ~20 |
-| Rule 34 | 0.30% | ~20 |
 | The Muse: Derek | 0.30% | ~20 |
 | The Elder Brahs | 0.30% | ~20 |
 | Beyond the Call of Dude-y | 0.20% | ~13 |

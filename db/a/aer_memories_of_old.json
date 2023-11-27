@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24992,
+  "EOS_Progressed": 24996,
   "EOS_Completed": 475,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -24089,6 +24089,11 @@
       "Time": "2023-11-26T23:04:27.5778659+00:00",
       "NumProgressed": 24992,
       "NumCompleted": 475
+    },
+    {
+      "Time": "2023-11-27T00:06:16.2965029+00:00",
+      "NumProgressed": 24996,
+      "NumCompleted": 475
     }
   ],
   "TotalAchievements": 20,
@@ -24124,7 +24129,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -24132,7 +24137,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -24140,7 +24145,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2499
+      "UsersEstimate": 2500
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -24148,7 +24153,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -24156,7 +24161,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -24212,15 +24217,15 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "INTRO_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Light at the end of the tunnel",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18994
+      "UsersEstimate": 19247
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24228,7 +24233,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "NORTH_FINISHED",
@@ -24259,15 +24264,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24992,
+      "Progressed": 24996,
       "Completed": 475
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:04:27.5778656+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:06:16.2965025+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:58:57.3881964+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:04:27.5779817+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:00:34.7564178+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:06:16.2966245+00:00"
 }

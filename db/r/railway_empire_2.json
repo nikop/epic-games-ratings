@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -6412,9 +6412,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 813
     },
     {
       "ID": "A30",
@@ -6629,8 +6629,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-26T23:04:23.9333493+00:00",
+  "LastChanged_Achievements": "2023-11-27T00:06:10.7809996+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.9441553+00:00",
-  "LastUpdate_Ratings": "2023-11-26T22:59:24.3046845+00:00",
-  "LastUpdate_Achievements": "2023-11-26T23:04:23.9334068+00:00"
+  "LastUpdate_Ratings": "2023-11-27T00:01:18.30759+00:00",
+  "LastUpdate_Achievements": "2023-11-27T00:06:10.7810528+00:00"
 }
