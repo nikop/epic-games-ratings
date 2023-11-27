@@ -259,6 +259,7 @@
 | [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Elypse](../games/e/elypse.md) | 34 | 1,000 |
 | [Enchanted Portals](../games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 22 | 1,000 |
+| [EndlessRunner](../games/f/f42ed367eda74abfbd1d190de7fe0f10.md) | 5 | 1,000 |
 | [ENDLESS™ Dungeon](../games/e/endless™_dungeon.md) | 30 | 1,000 |
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
 | [Engine Evolution 2023](../games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 35 | 1,000 |

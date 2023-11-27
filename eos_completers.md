@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.17% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.16% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.32% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
@@ -84,7 +84,7 @@
 | 82 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 83 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.31% |
 | 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.26% |
-| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.17% |
+| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.16% |
 | 86 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
 | 87 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 88 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 3.85% |
@@ -94,7 +94,7 @@
 | 92 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.41% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 94 | [Bunny Park](games/b/bunny_park.md) | 3.32% |
-| 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.30% |
+| 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.29% |
 | 96 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.17% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.12% |
 | 97 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
@@ -239,12 +239,12 @@
 | 236 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 238 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
 | 238 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
-| 238 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.29% |
 | 238 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.29% |
 | 238 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
-| 243 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.28% |
-| 243 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.28% |
-| 243 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
+| 242 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.28% |
+| 242 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.28% |
+| 242 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.28% |
+| 242 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 246 | [Filament](games/f/filament.md) | 0.26% |
 | 246 | [The Invincible](games/t/the_invincible.md) | 0.26% |
 | 248 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
