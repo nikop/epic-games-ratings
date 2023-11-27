@@ -175,11 +175,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 10114,
-  "EOS_Completed": 166,
-  "EOS_NewPlayers": 1495,
-  "EOS_NewCompleters": 21,
-  "EOS_Completed_Percentage": 1.64,
+  "EOS_Progressed": 10116,
+  "EOS_Completed": 167,
+  "EOS_NewPlayers": 1494,
+  "EOS_NewCompleters": 22,
+  "EOS_Completed_Percentage": 1.65,
   "EosHistory": [
     {
       "Time": "2023-07-27T01:53:04.8005716+00:00",
@@ -4710,6 +4710,11 @@
       "Time": "2023-11-27T05:08:33.3569715+00:00",
       "NumProgressed": 10114,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-11-27T06:06:38.1782476+00:00",
+      "NumProgressed": 10116,
+      "NumCompleted": 167
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -4722,7 +4727,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 9204
+      "UsersEstimate": 9206
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -4730,7 +4735,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 8698
+      "UsersEstimate": 8700
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -4762,7 +4767,7 @@
       "Name": "All I Have Is Money",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -4778,7 +4783,7 @@
       "Name": "Lover In Dark Alley",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -4794,7 +4799,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -4802,7 +4807,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -4810,7 +4815,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -4818,7 +4823,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 7282
+      "UsersEstimate": 7284
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -4834,7 +4839,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -4858,7 +4863,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4855
+      "UsersEstimate": 4856
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -4874,7 +4879,7 @@
       "Name": "Still Single",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -4906,7 +4911,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 6675
+      "UsersEstimate": 6677
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -4930,7 +4935,7 @@
       "Name": "What I Want Is You",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6070
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -4938,7 +4943,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5766
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -4976,9 +4981,9 @@
       "ID": "NEW_ACHIEVEMENT_2_0",
       "SetID": "7opfcp",
       "Name": "Are You Alright?",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4956
+      "UsersEstimate": 5058
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -4986,7 +4991,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -5002,7 +5007,7 @@
       "Name": "David",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -5010,7 +5015,7 @@
       "Name": "That\u0027s So You",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -5018,7 +5023,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3743
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -5034,7 +5039,7 @@
       "Name": "Drama King",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 4147
+      "UsersEstimate": 4148
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -5050,23 +5055,23 @@
       "Name": "SALUTE",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     }
   ],
   "AchievementSets": [
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10114,
-      "Completed": 166
+      "Progressed": 10116,
+      "Completed": 167
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-26T04:00:05.7352298+00:00",
-  "LastChanged_Achievements": "2023-11-27T05:08:33.3569711+00:00",
+  "LastChanged_Achievements": "2023-11-27T06:06:38.1782472+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:57:04.1608985+00:00",
-  "LastUpdate_Achievements": "2023-11-27T05:08:33.3570258+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:56:54.5624201+00:00",
+  "LastUpdate_Achievements": "2023-11-27T06:06:38.1782858+00:00"
 }

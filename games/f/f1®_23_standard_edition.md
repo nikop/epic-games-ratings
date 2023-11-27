@@ -5,32 +5,32 @@ Rating: 4.68 (Ranked 254)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,576 |
-| On the Top Step | 88.00% | ~5,220 |
+| Getting on the Step | 94.00% | ~5,577 |
+| On the Top Step | 88.00% | ~5,221 |
 | Setting up for Success | 77.00% | ~4,568 |
-| Team Orders | 75.00% | ~4,449 |
+| Team Orders | 75.00% | ~4,450 |
 | Engineer | 55.00% | ~3,263 |
-| Familiar Faces | 48.00% | ~2,847 |
+| Familiar Faces | 48.00% | ~2,848 |
 | Sharing the Love | 43.00% | ~2,551 |
-| Going the Extra Mile | 42.00% | ~2,491 |
+| Going the Extra Mile | 42.00% | ~2,492 |
 | Hitting a Season | 40.00% | ~2,373 |
 | A Dozen Pieces | 33.00% | ~1,958 |
 | Challenge Yourself | 33.00% | ~1,958 |
-| Making History | 32.00% | ~1,898 |
+| Making History | 32.00% | ~1,899 |
 | Network Success | 28.00% | ~1,661 |
 | Writing a new Chapter | 25.00% | ~1,483 |
 | Spring Cleaning | 24.00% | ~1,424 |
 | Reduce | 21.00% | ~1,246 |
-| Crucial Combo | 20.00% | ~1,186 |
-| Ups and Downs | 20.00% | ~1,186 |
-| Reuse | 17.00% | ~1,008 |
-| One for the Book | 17.00% | ~1,008 |
-| Proving Them Wrong | 17.00% | ~1,008 |
+| Crucial Combo | 20.00% | ~1,187 |
+| Ups and Downs | 20.00% | ~1,187 |
+| Reuse | 17.00% | ~1,009 |
+| One for the Book | 17.00% | ~1,009 |
+| Proving Them Wrong | 17.00% | ~1,009 |
 | Gathering Dust | 16.00% | ~949 |
 | Oil and Water | 15.00% | ~890 |
-| Lightning Round the World | 14.00% | ~830 |
-| Hitting a Bullseye | 14.00% | ~830 |
-| Spinning Around | 14.00% | ~830 |
+| Lightning Round the World | 14.00% | ~831 |
+| Hitting a Bullseye | 14.00% | ~831 |
+| Spinning Around | 14.00% | ~831 |
 | Eagle Eye | 13.00% | ~771 |
 | Switcheroo | 13.00% | ~771 |
 | All in a Weekend's Work | 12.00% | ~712 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 254)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,932 (Ranked 186)  
+Progressed: 5,933 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 5,892 | 0 |
 | 2023-11-25 | 5,910 | 0 |
 | 2023-11-26 | 5,930 | 0 |
-| 2023-11-27 | 5,932 | 0 |
+| 2023-11-27 | 5,933 | 0 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 526)  
 Sum: 92 (Ranked 452)  

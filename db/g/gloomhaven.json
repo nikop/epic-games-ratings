@@ -2561,9 +2561,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23257,
+  "EOS_Progressed": 23259,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1383,
+  "EOS_NewPlayers": 1382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10861,6 +10861,11 @@
       "Time": "2023-11-27T05:07:44.0143944+00:00",
       "NumProgressed": 23257,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T06:06:03.426687+00:00",
+      "NumProgressed": 23259,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -10879,9 +10884,9 @@
       "ID": "Achievement_Trophy02",
       "SetID": "724h0m0",
       "Name": "Dungeon Veteran",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2093
+      "UsersEstimate": 1861
     },
     {
       "ID": "Achievement_Trophy03",
@@ -11057,7 +11062,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9535
+      "UsersEstimate": 9536
     },
     {
       "ID": "Achievement_Trophy25",
@@ -11073,7 +11078,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 7907
+      "UsersEstimate": 7908
     },
     {
       "ID": "Achievement_Trophy27",
@@ -11161,7 +11166,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5814
+      "UsersEstimate": 5815
     },
     {
       "ID": "Achievement_Trophy38",
@@ -11193,7 +11198,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "Achievement_Trophy42",
@@ -11217,7 +11222,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "Achievement_Trophy45",
@@ -11360,7 +11365,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23257,
+      "Progressed": 23259,
       "Completed": 1
     }
   ],
@@ -11368,8 +11373,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-27T01:45:57.9568431+00:00",
-  "LastChanged_Achievements": "2023-11-27T05:07:44.014394+00:00",
+  "LastChanged_Achievements": "2023-11-27T06:06:03.4266866+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:59:14.0864678+00:00",
-  "LastUpdate_Achievements": "2023-11-27T05:07:44.0144673+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:58:24.149396+00:00",
+  "LastUpdate_Achievements": "2023-11-27T06:06:03.4267741+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -1199,9 +1199,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1455,17 +1455,17 @@
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
@@ -1480,8 +1480,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-27T05:05:10.0700658+00:00",
+  "LastChanged_Achievements": "2023-11-27T06:04:13.652362+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:57:33.5685228+00:00",
-  "LastUpdate_Achievements": "2023-11-27T05:05:10.0701+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:57:14.6087342+00:00",
+  "LastUpdate_Achievements": "2023-11-27T06:04:13.6524004+00:00"
 }

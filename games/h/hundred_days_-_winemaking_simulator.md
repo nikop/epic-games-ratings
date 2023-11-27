@@ -29,7 +29,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Very Important Winemaker | 2.00% | ~278 |
 | King of Langhe | 1.00% | ~139 |
 | Gem of Monferrato | 1.00% | ~139 |
-| Treasure of Roero | 0.70% | ~97 |
+| Treasure of Roero | 0.80% | ~111 |
 | Knight of Langhe | 0.50% | ~70 |
 | King of red wines | 0.20% | ~28 |
 | King of white wines | 0.20% | ~28 |

@@ -1511,9 +1511,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 6978,
+  "EOS_Progressed": 6979,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13526,6 +13526,11 @@
       "Time": "2023-11-27T05:06:35.5453287+00:00",
       "NumProgressed": 6978,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-27T06:05:14.627253+00:00",
+      "NumProgressed": 6979,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13569,7 +13574,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4675
+      "UsersEstimate": 4676
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -13577,7 +13582,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5303
+      "UsersEstimate": 5304
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -13585,7 +13590,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5094
+      "UsersEstimate": 5095
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -13665,7 +13670,7 @@
       "Name": "Feast or Famine",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -13697,7 +13702,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4815
+      "UsersEstimate": 4816
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -13721,7 +13726,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -13745,7 +13750,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4675
+      "UsersEstimate": 4676
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -13753,7 +13758,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3141
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -13769,7 +13774,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4047
+      "UsersEstimate": 4048
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -13784,15 +13789,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6978,
+      "Progressed": 6979,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-26T14:58:06.420762+00:00",
-  "LastChanged_Achievements": "2023-11-27T05:06:35.5453284+00:00",
+  "LastChanged_Achievements": "2023-11-27T06:05:14.6272526+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:59:15.6691688+00:00",
-  "LastUpdate_Achievements": "2023-11-27T05:06:35.5453884+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:58:25.7659455+00:00",
+  "LastUpdate_Achievements": "2023-11-27T06:05:14.6273321+00:00"
 }

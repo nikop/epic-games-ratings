@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1140,6 +1140,11 @@
       "Time": "2023-11-27T03:08:50.4088381+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T06:08:26.9596905+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1232,7 +1237,7 @@
       "Name": "Extra Funding",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achSponsor10",
@@ -1256,7 +1261,7 @@
       "Name": "In the Good Books",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achSponsorMain1",
@@ -1375,14 +1380,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-11-27T05:09:14.3754033+00:00",
+  "LastChanged_Achievements": "2023-11-27T06:08:26.9596902+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:57.6073488+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:59:41.7124942+00:00",
-  "LastUpdate_Achievements": "2023-11-27T05:09:14.3754293+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:58:44.73833+00:00",
+  "LastUpdate_Achievements": "2023-11-27T06:08:26.9597215+00:00"
 }

@@ -14,7 +14,7 @@ Rating: 4.05 (Ranked 986)
 | Thrada-Kul | 53.00% | ~163 |
 | Gravity-Challenged Rocks | 43.00% | ~132 |
 | Soldier | 36.00% | ~111 |
-| All the Major Food Groups | 35.00% | ~107 |
+| All the Major Food Groups | 36.00% | ~111 |
 | Beggars Would Ride | 32.00% | ~98 |
 | Control is an Illusion | 30.00% | ~92 |
 | Socialite | 30.00% | ~92 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 986)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 351)  
+Progressed: 307 (Ranked 352)  
 Completed: 1 (0.33%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

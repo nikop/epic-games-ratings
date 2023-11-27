@@ -4,7 +4,7 @@
   "ProductSlug": "generative-quest-db8a3f",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 475,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-18T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-19T10:57:33.1892173+00:00",
   "LastUpdate_AppInfo": "2023-11-21T02:23:10.5921029+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:57:55.4145193+00:00",
-  "LastUpdate_Achievements": "2023-11-27T05:07:18.4386181+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:57:29.604034+00:00",
+  "LastUpdate_Achievements": "2023-11-27T06:05:45.1398914+00:00"
 }

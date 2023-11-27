@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 91.00% | ~318 |
-| Training Simulation | 75.00% | ~262 |
+| Training Simulation | 76.00% | ~266 |
 | Kuku Bird Hunter | 64.00% | ~224 |
 | Storm Traveller | 57.00% | ~199 |
 | Wolf King Killer | 52.00% | ~182 |
@@ -15,8 +15,8 @@
 | Apostle of Flame | 38.00% | ~133 |
 | Beginner Cook | 36.00% | ~126 |
 | Beginner Artificer | 36.00% | ~126 |
-| Seal Breaker | 32.00% | ~112 |
-| Handyman | 27.00% | ~94 |
+| Seal Breaker | 33.00% | ~116 |
+| Handyman | 28.00% | ~98 |
 | Giant Lizard Killer | 26.00% | ~91 |
 | Guardian | 25.00% | ~88 |
 | Nosebleeder | 25.00% | ~88 |

@@ -65,6 +65,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.20% | ~481 |
 | Acid Bath | 0.20% | ~481 |
 | Antivenom | 0.20% | ~481 |
+| Decisions, Decisions | 0.20% | ~481 |
 | Snake Sneak | 0.20% | ~481 |
 | The Long Run | 0.20% | ~481 |
 | Who Needs Luck? | 0.20% | ~4 |
@@ -111,7 +112,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Good Boys | 0.10% | ~240 |
 | Just Looking Around | 0.10% | ~240 |
 | Need An Antidote? | 0.10% | ~240 |
-| Decisions, Decisions | 0.10% | ~240 |
 | Fragile Mortality | 0.10% | ~240 |
 | Sprinter | 0.10% | ~240 |
 | Fire Away! | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,285 (Ranked 62)  
+Progressed: 240,286 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 291 (0.12%) (Ranked 278)
 | 2023-11-24 | 240,173 | 290 |
 | 2023-11-25 | 240,224 | 291 |
 | 2023-11-26 | 240,273 | 291 |
-| 2023-11-27 | 240,285 | 291 |
+| 2023-11-27 | 240,286 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 131)  
 Sum: 13,228 (Ranked 78)  

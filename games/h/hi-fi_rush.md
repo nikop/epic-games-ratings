@@ -16,19 +16,19 @@ Rating: 4.87 (Ranked 22)
 | Alright, that felt AWESOME! | 13.00% | ~568 |
 | This will cost you big time | 12.00% | ~524 |
 | Uh, they were broken when I got here | 12.00% | ~524 |
-| I play my own way! | 11.00% | ~480 |
-| Z-shielding's got nothing on us! | 11.00% | ~480 |
+| I play my own way! | 11.00% | ~481 |
+| Z-shielding's got nothing on us! | 11.00% | ~481 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~437 |
 | Kissing the sky! | 10.00% | ~437 |
 | The Negotiator | 9.00% | ~393 |
 | Out in a puff of smoke | 9.00% | ~393 |
 | I look cool. But I can look COOLER. | 9.00% | ~393 |
-| Headliner | 8.00% | ~349 |
-| Time to pay up! | 8.00% | ~349 |
-| Who's the boss now? | 8.00% | ~349 |
-| You must like calling me in, Chai | 8.00% | ~349 |
-| Perfecter Parry-er! | 8.00% | ~349 |
-| Does that say weakpoint? | 8.00% | ~349 |
+| Headliner | 8.00% | ~350 |
+| Time to pay up! | 8.00% | ~350 |
+| Who's the boss now? | 8.00% | ~350 |
+| You must like calling me in, Chai | 8.00% | ~350 |
+| Perfecter Parry-er! | 8.00% | ~350 |
+| Does that say weakpoint? | 8.00% | ~350 |
 | NOW we got a kickass hideout! | 8.00% | ~231 |
 | I have to read these things? | 7.00% | ~306 |
 | Well that was a rush! | 5.00% | ~218 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,368 (Ranked 193)  
+Progressed: 4,369 (Ranked 193)  
 Completed: 8 (0.18%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 8 (0.18%) (Ranked 263)
 | 2023-11-24 | 4,316 | 8 |
 | 2023-11-25 | 4,346 | 8 |
 | 2023-11-26 | 4,367 | 8 |
-| 2023-11-27 | 4,368 | 8 |
+| 2023-11-27 | 4,369 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": null,
@@ -3938,9 +3938,9 @@
       "Count": 3408
     }
   ],
-  "EOS_Progressed": 1081097,
+  "EOS_Progressed": 1081098,
   "EOS_Completed": 31692,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.93,
   "EosHistory": [
@@ -11088,6 +11088,11 @@
       "Time": "2023-11-23T06:07:57.1153502+00:00",
       "NumProgressed": 1081097,
       "NumCompleted": 31692
+    },
+    {
+      "Time": "2023-11-27T06:04:19.9435868+00:00",
+      "NumProgressed": 1081098,
+      "NumCompleted": 31692
     }
   ],
   "TotalAchievements": 28,
@@ -11139,7 +11144,7 @@
       "Name": "Spike Specialist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 583792
+      "UsersEstimate": 583793
     },
     {
       "ID": "ACH_10_RINGOUTS_DOWNSPIKE",
@@ -11155,7 +11160,7 @@
       "Name": "Southpaw Specialist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 583792
+      "UsersEstimate": 583793
     },
     {
       "ID": "ACH_10_RINGOUTS_RIGHT",
@@ -11163,7 +11168,7 @@
       "Name": "Rightie Specialist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 583792
+      "UsersEstimate": 583793
     },
     {
       "ID": "ACH_10_RINGOUTS_TOP",
@@ -11171,7 +11176,7 @@
       "Name": "Aerial Specialist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 681091
+      "UsersEstimate": 681092
     },
     {
       "ID": "ACH_10_TOASTS",
@@ -11219,7 +11224,7 @@
       "Name": "Bun-Puncher Supreme",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 735146
+      "UsersEstimate": 735147
     },
     {
       "ID": "ACH_GET_200_PROJECTILE_RINGOUTS",
@@ -11243,7 +11248,7 @@
       "Name": "You Mean Business",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 735146
+      "UsersEstimate": 735147
     },
     {
       "ID": "ACH_GET_50_PROJECTILE_RINGOUTS",
@@ -11259,7 +11264,7 @@
       "Name": "You\u0027re Getting Pretty Good At This!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 735146
+      "UsersEstimate": 735147
     },
     {
       "ID": "ACH_PLAY_100_PARTY_MATCHES",
@@ -11275,7 +11280,7 @@
       "Name": "Matchmaker",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 800012
+      "UsersEstimate": 800013
     },
     {
       "ID": "ACH_PLAY_25_PARTY_MATCHES",
@@ -11299,7 +11304,7 @@
       "Name": "Proving Yourself",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 681091
+      "UsersEstimate": 681092
     },
     {
       "ID": "ACH_WIN_10_MATCHMADE_GAMES",
@@ -11307,7 +11312,7 @@
       "Name": "Stepping Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 681091
+      "UsersEstimate": 681092
     },
     {
       "ID": "ACH_WIN_300_MATCHMADE_GAMES",
@@ -11315,22 +11320,22 @@
       "Name": "The Throne Is Yours",
       "Percentage": 63,
       "XP": 90,
-      "UsersEstimate": 681091
+      "UsersEstimate": 681092
     }
   ],
   "AchievementSets": [
     {
       "ID": "dc21kim",
       "IsBase": true,
-      "Progressed": 1081097,
+      "Progressed": 1081098,
       "Completed": 31692
     }
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
   "LastChanged": "2023-11-23T02:23:08.8388691+00:00",
-  "LastChanged_Achievements": "2023-11-27T05:05:18.9148721+00:00",
+  "LastChanged_Achievements": "2023-11-27T06:04:19.9435864+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.5172523+00:00",
-  "LastUpdate_Ratings": "2023-11-27T04:59:16.5864217+00:00",
-  "LastUpdate_Achievements": "2023-11-27T05:05:18.9149133+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:58:26.3870776+00:00",
+  "LastUpdate_Achievements": "2023-11-27T06:04:19.9436364+00:00"
 }

@@ -11035,10 +11035,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49262,
       "NumberOfAwardsMax": 24684
+    },
+    {
+      "Time": "2023-11-27T05:59:30.7278697+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49266,
+      "NumberOfAwardsMax": 24684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49262,
+  "NumberOfAwards": 49266,
   "NumberOfAwardsMax": 24684,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11100,7 +11106,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1300
+      "Count": 1304
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11115,9 +11121,9 @@
       "Count": 815
     }
   ],
-  "EOS_Progressed": 303350,
+  "EOS_Progressed": 303353,
   "EOS_Completed": 516,
-  "EOS_NewPlayers": 890,
+  "EOS_NewPlayers": 892,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -34870,6 +34876,11 @@
       "Time": "2023-11-27T05:10:15.3519592+00:00",
       "NumProgressed": 303350,
       "NumCompleted": 516
+    },
+    {
+      "Time": "2023-11-27T06:09:11.078262+00:00",
+      "NumProgressed": 303353,
+      "NumCompleted": 516
     }
   ],
   "TotalAchievements": 45,
@@ -34889,7 +34900,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33368
+      "UsersEstimate": 33369
     },
     {
       "ID": "PFA_11",
@@ -34897,7 +34908,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33368
+      "UsersEstimate": 33369
     },
     {
       "ID": "PFA_12",
@@ -34905,7 +34916,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33368
+      "UsersEstimate": 33369
     },
     {
       "ID": "PFA_13",
@@ -34913,7 +34924,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33368
+      "UsersEstimate": 33369
     },
     {
       "ID": "PFA_14",
@@ -34985,7 +34996,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33368
+      "UsersEstimate": 33369
     },
     {
       "ID": "PFA_22",
@@ -35041,7 +35052,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9100
+      "UsersEstimate": 9101
     },
     {
       "ID": "PFA_29",
@@ -35057,7 +35068,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9100
+      "UsersEstimate": 9101
     },
     {
       "ID": "PFA_30",
@@ -35097,7 +35108,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9100
+      "UsersEstimate": 9101
     },
     {
       "ID": "PFA_35",
@@ -35137,7 +35148,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33368
+      "UsersEstimate": 33369
     },
     {
       "ID": "PFA_4",
@@ -35209,7 +35220,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45502
+      "UsersEstimate": 45503
     },
     {
       "ID": "PFA_7",
@@ -35240,16 +35251,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303350,
+      "Progressed": 303353,
       "Completed": 516
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-27T04:00:01.7215504+00:00",
-  "LastChanged_Achievements": "2023-11-27T05:10:15.3519588+00:00",
+  "LastChanged": "2023-11-27T05:59:30.7278599+00:00",
+  "LastChanged_Achievements": "2023-11-27T06:09:11.0782617+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T05:00:49.8927924+00:00",
-  "LastUpdate_Achievements": "2023-11-27T05:10:15.3521024+00:00"
+  "LastUpdate_Ratings": "2023-11-27T05:59:30.72787+00:00",
+  "LastUpdate_Achievements": "2023-11-27T06:09:11.078395+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,543 |
-| Basic in Bulk | 6.00% | ~8,543 |
-| Titan's First Steps | 6.00% | ~8,543 |
-| Tinkle of Coins | 5.00% | ~7,119 |
-| Disintermediation | 4.00% | ~5,695 |
-| It's Free Real Estate | 4.00% | ~5,695 |
-| Budding Merchant | 4.00% | ~5,695 |
-| Capitalism Ho! | 4.00% | ~5,695 |
+| Sponsored by Argon | 6.00% | ~8,544 |
+| Basic in Bulk | 6.00% | ~8,544 |
+| Titan's First Steps | 6.00% | ~8,544 |
+| Tinkle of Coins | 5.00% | ~7,120 |
+| Disintermediation | 4.00% | ~5,696 |
+| It's Free Real Estate | 4.00% | ~5,696 |
+| Budding Merchant | 4.00% | ~5,696 |
+| Capitalism Ho! | 4.00% | ~5,696 |
 | The Daily Grind | 3.00% | ~4,272 |
 | One Easy Payment | 3.00% | ~4,272 |
 | Some Assembly Required | 3.00% | ~4,272 |
@@ -101,8 +101,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 1.00% | ~1,424 |
 | Economy of Scarce | 1.00% | ~1,424 |
 | King's Blade | 1.00% | ~1,424 |
-| Thank You Tom Nook | 0.90% | ~1,281 |
-| Jackpot! | 0.90% | ~1,281 |
+| Thank You Tom Nook | 0.90% | ~1,282 |
+| Jackpot! | 0.90% | ~1,282 |
 | Eternal Crusade | 0.80% | ~1,139 |
 | The Free Encyclopedia | 0.70% | ~997 |
 | The Greatest Grind | 0.60% | ~854 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~427 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,387 (Ranked 80)  
+Progressed: 142,393 (Ranked 80)  
 Completed: 276 (0.19%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 276 (0.19%) (Ranked 261)
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
-| 2023-11-27 | 142,387 | 276 |
+| 2023-11-27 | 142,393 | 276 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,608 (Ranked 50)  
