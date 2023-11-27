@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1035,6 +1035,11 @@
       "Time": "2023-11-27T18:08:52.906215+00:00",
       "NumProgressed": 393,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T20:08:56.9075351+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1047,7 +1052,7 @@
       "Name": "The Teleprobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "AchvAllMemories",
@@ -1069,9 +1074,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "AchvBombStop",
@@ -1213,9 +1218,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "AchvReachCamp",
@@ -1223,15 +1228,15 @@
       "Name": "The Camp",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 146
     },
     {
       "ID": "AchvReachCondor",
@@ -1278,14 +1283,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:09:02.884829+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:08:56.9075348+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:57:57.9552723+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:09:02.8848472+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:58:07.0914342+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:08:56.9075528+00:00"
 }

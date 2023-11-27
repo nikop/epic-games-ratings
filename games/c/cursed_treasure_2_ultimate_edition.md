@@ -35,8 +35,8 @@
 | Lieutenant of the Evil | 58.00% | ~104 |
 | Avada Kedavra | 57.00% | ~103 |
 | Brilliant: Tanglewood | 54.00% | ~97 |
+| Starry: Holy Mountain | 54.00% | ~97 |
 | It's a Trap | 54.00% | ~97 |
-| Starry: Holy Mountain | 53.00% | ~95 |
 | Deposition | 51.00% | ~92 |
 | Brilliant: Arcania | 51.00% | ~92 |
 | Starry: Tanglewood | 47.00% | ~85 |
@@ -58,7 +58,7 @@
 | Loveless | 19.00% | ~34 |
 | Hostile Waters | 18.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 393)  
+Progressed: 180 (Ranked 394)  
 Completed: 28 (15.56%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |

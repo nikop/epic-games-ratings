@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 53.00% | ~47 |
-| Purification Pioneer | 51.00% | ~45 |
+| Meissa's Savior | 53.00% | ~48 |
+| Purification Pioneer | 51.00% | ~46 |
 | Dicesmithing Time! | 47.00% | ~42 |
 | Mechanical Buddy | 47.00% | ~42 |
-| Endless Tricks | 44.00% | ~39 |
-| Sanctuary Guardian | 42.00% | ~37 |
+| Endless Tricks | 43.00% | ~39 |
+| Sanctuary Guardian | 41.00% | ~37 |
 | Noctuan Champion | 37.00% | ~33 |
 | Mind Illuminator | 36.00% | ~32 |
-| Wild's Keeper | 35.00% | ~31 |
+| Wild's Keeper | 34.00% | ~31 |
 | Stellar Dismantler | 30.00% | ~27 |
 | Anomaly Destroyer | 27.00% | ~24 |
 | Eridanian Champion | 27.00% | ~24 |
 | Lacertian Champion | 27.00% | ~24 |
-| Apian Champion | 25.00% | ~22 |
-| Star Killer | 24.00% | ~21 |
+| Apian Champion | 24.00% | ~22 |
+| Star Killer | 23.00% | ~21 |
 | Astral Adventurer | 22.00% | ~20 |
 | Loyal Partner | 21.00% | ~19 |
 | Behenian Champion | 21.00% | ~19 |
@@ -26,7 +26,7 @@
 | Unbeatable | 17.00% | ~15 |
 | Aquarian Champion | 17.00% | ~15 |
 | Astral Seeker | 16.00% | ~14 |
-| Heart Gate | 15.00% | ~13 |
+| Heart Gate | 14.00% | ~13 |
 | Favored by the Cosmos | 13.00% | ~12 |
 | Stellar Haste | 13.00% | ~12 |
 | The Corruption Goddess | 13.00% | ~12 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 444)  
+Progressed: 90 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,4 +142,4 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 79 | 0 |
 | 2023-11-25 | 84 | 0 |
 | 2023-11-26 | 88 | 0 |
-| 2023-11-27 | 89 | 0 |
+| 2023-11-27 | 90 | 0 |

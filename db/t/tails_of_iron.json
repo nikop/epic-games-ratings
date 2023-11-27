@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2139,
+  "EOS_Progressed": 2140,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -3522,6 +3522,11 @@
       "Time": "2023-11-27T19:04:17.9626704+00:00",
       "NumProgressed": 2139,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-27T20:04:08.5277192+00:00",
+      "NumProgressed": 2140,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3533,7 +3538,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "Collect20Gold",
@@ -3557,7 +3562,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "CollectAllStatues",
@@ -3605,7 +3610,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3613,7 +3618,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3677,7 +3682,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "GetTHWeapon",
@@ -3685,7 +3690,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "Kill25Bugs",
@@ -3709,7 +3714,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "MeetTheMoles",
@@ -3725,7 +3730,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "RepairChef",
@@ -3749,7 +3754,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "RescueBrothers",
@@ -3772,22 +3777,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2139,
+      "Progressed": 2140,
       "Completed": 10
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 780,
-      "Completed": 780
+      "Progressed": 781,
+      "Completed": 781
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:04:17.9626698+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:04:08.5277188+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:00:39.5293161+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:04:17.9627058+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:00:01.1965203+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:04:08.5277455+00:00"
 }

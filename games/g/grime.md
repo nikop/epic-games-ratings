@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 6.00% | ~9,622 |
-| Imprint | 6.00% | ~9,622 |
+| Taste | 6.00% | ~9,623 |
+| Imprint | 6.00% | ~9,623 |
 | The Hunt | 4.00% | ~6,415 |
 | Ravenous | 4.00% | ~6,415 |
 | Weeper | 3.00% | ~4,811 |
@@ -35,7 +35,7 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.70% | ~1,123 |
 | Dream | 0.70% | ~1,120 |
 | Breath | 0.60% | ~962 |
-| Unwrap the Gift | 0.50% | ~802 |
+| Unwrap the Gift | 0.60% | ~962 |
 | Passage | 0.50% | ~802 |
 | Bloodhunter | 0.40% | ~642 |
 | Zygote | 0.40% | ~640 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~160 |
 | Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,375 (Ranked 78)  
+Progressed: 160,383 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 1 (0.00%) (Ranked 361)
 | 2023-11-24 | 159,888 | 1 |
 | 2023-11-25 | 160,117 | 1 |
 | 2023-11-26 | 160,290 | 1 |
-| 2023-11-27 | 160,375 | 1 |
+| 2023-11-27 | 160,383 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 423)  
 Sum: 388 (Ranked 346)  

@@ -10,8 +10,8 @@ Rating: 4.69 (Ranked 233)
 | High Profile | 59.00% | ~485 |
 | Whispers In The Dark | 58.00% | ~477 |
 | Fond Memories | 56.00% | ~460 |
-| A Method To His Madness | 54.00% | ~444 |
-| History Check | 53.00% | ~436 |
+| A Method To His Madness | 55.00% | ~452 |
+| History Check | 54.00% | ~444 |
 | The New World | 51.00% | ~419 |
 | Open Sesame | 50.00% | ~411 |
 | Sticky Fingers | 50.00% | ~411 |

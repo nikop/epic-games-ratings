@@ -4845,9 +4845,9 @@
       "Count": 366
     }
   ],
-  "EOS_Progressed": 229524,
+  "EOS_Progressed": 229567,
   "EOS_Completed": 538,
-  "EOS_NewPlayers": 4924,
+  "EOS_NewPlayers": 4944,
   "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20220,6 +20220,11 @@
       "Time": "2023-11-27T19:09:08.5861112+00:00",
       "NumProgressed": 229524,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-11-27T20:09:01.1291196+00:00",
+      "NumProgressed": 229567,
+      "NumCompleted": 538
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20502,9 +20507,9 @@
       "ID": "Obtain_Nightweaver_Item",
       "SetID": "bkp3b1a",
       "Name": "The Web",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 459
     },
     {
       "ID": "Obtain_Relics",
@@ -20671,13 +20676,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229524,
+      "Progressed": 229567,
       "Completed": 538
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8689,
+      "Progressed": 8732,
       "Completed": 165
     }
   ],
@@ -20685,8 +20690,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-27T19:03:19.0409282+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:09:08.586111+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:09:01.1291193+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:03:19.0409288+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:09:08.5862005+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:03:24.6411035+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:09:01.129238+00:00"
 }

@@ -1579,9 +1579,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160375,
+  "EOS_Progressed": 160383,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1090,
+  "EOS_NewPlayers": 1087,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17304,6 +17304,11 @@
       "Time": "2023-11-27T19:06:48.7669558+00:00",
       "NumProgressed": 160375,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T20:05:59.9871896+00:00",
+      "NumProgressed": 160383,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17379,7 +17384,7 @@
       "Name": "Taste",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9622
+      "UsersEstimate": 9623
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -17531,7 +17536,7 @@
       "Name": "Imprint",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9622
+      "UsersEstimate": 9623
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -17593,9 +17598,9 @@
       "ID": "MISC_UNLOCKBARRIERDOOR",
       "SetID": "ccc0dlh",
       "Name": "Unwrap the Gift",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 962
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -17682,21 +17687,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159958,
+      "Progressed": 159966,
       "Completed": 1226
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160375,
+      "Progressed": 160383,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-27T13:07:32.7280476+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:06:48.7669553+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:05:59.9871893+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:00:30.179508+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:06:48.7670486+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:59:54.6764409+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:05:59.9872946+00:00"
 }

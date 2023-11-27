@@ -2,7 +2,7 @@
   "ID": "68f36df0a2174a6ab9059fb149f994f4",
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 89,
@@ -439,9 +439,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Starry: Holy Mountain",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_3",
@@ -712,8 +712,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:04:22.8885361+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:04:11.8171933+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.1571456+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:02:39.419069+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:04:22.8885667+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:02:55.8818916+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:04:11.8172247+00:00"
 }

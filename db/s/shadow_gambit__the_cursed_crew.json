@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 954,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.25,
   "EosHistory": [
@@ -3114,6 +3114,11 @@
       "Time": "2023-11-27T19:05:29.2024667+00:00",
       "NumProgressed": 953,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-27T20:05:01.0128794+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3126,7 +3131,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3134,7 +3139,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "_03_FinishAct1",
@@ -3142,7 +3147,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3158,7 +3163,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3182,7 +3187,7 @@
       "Name": "Swabbie",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "_09_Completion_20",
@@ -3206,7 +3211,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "_12_Completion_50",
@@ -3254,15 +3259,15 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 67
+      "UsersEstimate": 57
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -3270,7 +3275,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3333,7 +3338,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 954,
       "Completed": 31
     }
   ],
@@ -3341,8 +3346,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:05:29.2024661+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:05:01.0128786+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:01:30.1538016+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:05:29.202495+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:02:47.7036999+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:05:01.0129063+00:00"
 }

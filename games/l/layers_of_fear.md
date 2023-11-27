@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 81.00% | ~71 |
+| Wanderer | 80.00% | ~71 |
 | Something important | 78.00% | ~69 |
 | A piece of the story | 61.00% | ~54 |
 | It's covered up for a reason | 45.00% | ~40 |
+| Do what you have to | 44.00% | ~39 |
 | Scraps of love | 44.00% | ~39 |
-| Do what you have to | 43.00% | ~38 |
-| The artist’s impression | 43.00% | ~38 |
+| The artist’s impression | 44.00% | ~39 |
 | Refuse to look | 36.00% | ~32 |
 | Sign of weakness | 35.00% | ~31 |
-| Finished it | 27.00% | ~24 |
+| Finished it | 28.00% | ~25 |
 | Face your fears | 24.00% | ~21 |
-| Playtime | 14.00% | ~12 |
-| Tough conversation | 14.00% | ~12 |
-| The tragedy unfolds | 13.00% | ~11 |
-| Whispers long forgotten | 13.00% | ~11 |
+| Playtime | 13.00% | ~12 |
+| Tough conversation | 13.00% | ~12 |
+| The tragedy unfolds | 12.00% | ~11 |
+| Whispers long forgotten | 12.00% | ~11 |
 | First steps | 11.00% | ~10 |
 | True Reflection | 11.00% | ~10 |
 | A new way | 10.00% | ~9 |
@@ -32,8 +32,8 @@
 | Lights! Camera! Action! | 8.00% | ~7 |
 | Casting Finished | 7.00% | ~6 |
 | Fisherman | 6.00% | ~5 |
-| We Are Not Alone | 5.00% | ~4 |
-| Body of Work | 5.00% | ~4 |
+| We Are Not Alone | 4.00% | ~4 |
+| Body of Work | 4.00% | ~4 |
 | Something to think about | 3.00% | ~3 |
 | I remember It Like Was Yesterday | 3.00% | ~3 |
 | The Perfect Storm | 3.00% | ~3 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 446)  
+Progressed: 89 (Ranked 445)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,3 +96,4 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 83 | 0 |
 | 2023-11-25 | 86 | 0 |
 | 2023-11-26 | 88 | 0 |
+| 2023-11-27 | 89 | 0 |

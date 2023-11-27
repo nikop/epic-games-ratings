@@ -7911,9 +7911,9 @@
       "Count": 425
     }
   ],
-  "EOS_Progressed": 717498,
+  "EOS_Progressed": 717500,
   "EOS_Completed": 12940,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -27546,6 +27546,11 @@
       "Time": "2023-11-27T19:04:19.3060845+00:00",
       "NumProgressed": 717498,
       "NumCompleted": 12940
+    },
+    {
+      "Time": "2023-11-27T20:04:09.2086029+00:00",
+      "NumProgressed": 717500,
+      "NumCompleted": 12940
     }
   ],
   "TotalAchievements": 60,
@@ -27589,7 +27594,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "06_Vengeance_H5",
@@ -27597,7 +27602,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "07_Wude_H1",
@@ -27661,7 +27666,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "15_Detective_H1",
@@ -27677,7 +27682,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "17_Detective_H3",
@@ -27685,7 +27690,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "18_Detective_H4",
@@ -27693,7 +27698,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "19_Detective_H5",
@@ -27701,7 +27706,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -27709,7 +27714,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -27725,7 +27730,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -27781,7 +27786,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "30_ComboMid",
@@ -27797,7 +27802,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "32_ReachMaxAge",
@@ -27805,7 +27810,7 @@
       "Name": "Old Child",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "33_BladeOneShot",
@@ -27853,7 +27858,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -27861,7 +27866,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -27869,7 +27874,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -27877,7 +27882,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -27885,7 +27890,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -28036,21 +28041,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26799,
+      "Progressed": 26801,
       "Completed": 10753
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717498,
+      "Progressed": 717500,
       "Completed": 12940
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-27T09:58:23.5938355+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:04:19.3060841+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:04:09.2086026+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.5864979+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:59:18.4122724+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:04:19.3061917+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:59:04.0145968+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:04:09.2087297+00:00"
 }

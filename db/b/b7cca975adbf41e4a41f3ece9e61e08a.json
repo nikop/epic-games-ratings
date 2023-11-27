@@ -177,7 +177,7 @@
   ],
   "EOS_Progressed": 10224,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 1563,
+  "EOS_NewPlayers": 1560,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
@@ -4889,9 +4889,9 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "7opfcp",
       "Name": "Happy Family",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3578
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -5130,8 +5130,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-26T04:00:05.7352298+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:08:36.2615281+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:08:37.182169+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:57:21.4951352+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:08:36.2615674+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:57:40.968796+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:08:37.1822066+00:00"
 }

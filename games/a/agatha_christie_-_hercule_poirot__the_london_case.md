@@ -19,19 +19,19 @@
 | Order and method | 44.00% | ~15 |
 | An expert mediator | 41.00% | ~14 |
 | DI Hardwicke | 41.00% | ~14 |
-| Betty Allen | 35.00% | ~12 |
-| The Investigation Begins | 35.00% | ~12 |
-| An odd series of events | 29.00% | ~10 |
-| Ms. Camilla B. Culsham | 29.00% | ~10 |
-| Irene Court-Smyth | 29.00% | ~10 |
-| The Apartment | 29.00% | ~10 |
-| A rude awakening | 24.00% | ~8 |
-| Nathaniel Dryden | 24.00% | ~8 |
+| Betty Allen | 38.00% | ~13 |
+| The Investigation Begins | 38.00% | ~13 |
+| An odd series of events | 32.00% | ~11 |
+| Ms. Camilla B. Culsham | 32.00% | ~11 |
+| Irene Court-Smyth | 32.00% | ~11 |
+| The Apartment | 32.00% | ~11 |
+| A rude awakening | 26.00% | ~9 |
+| Nathaniel Dryden | 26.00% | ~9 |
+| Bartholomew | 24.00% | ~8 |
 | Well-acquainted | 21.00% | ~7 |
 | Truth from within | 21.00% | ~7 |
 | Anastasia Babanin | 21.00% | ~7 |
 | Zakariya Demir | 21.00% | ~7 |
-| Bartholomew | 21.00% | ~7 |
 | The Scheme | 21.00% | ~7 |
 | A curious phrase | 18.00% | ~6 |
 | Well-travelled | 15.00% | ~5 |
@@ -51,7 +51,7 @@
 | Perkins | 9.00% | ~3 |
 | A perilous journey | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 522)  
+Progressed: 34 (Ranked 523)  
 Completed: 1 (2.94%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

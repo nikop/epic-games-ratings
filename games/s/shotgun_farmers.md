@@ -28,7 +28,7 @@
 | Getting Started | 16.00% | ~55 |
 | Carrocketeer | 16.00% | ~55 |
 | Eggtraordinary | 15.00% | ~51 |
-| Oh My Gourd | 14.00% | ~41 |
+| Oh My Gourd | 15.00% | ~44 |
 | Summers Here | 12.00% | ~35 |
 | Quit Horsin' Around | 11.00% | ~38 |
 | Perfect | 11.00% | ~32 |

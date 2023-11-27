@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -949,9 +949,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9078,
+  "EOS_Progressed": 9079,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8319,6 +8319,11 @@
       "Time": "2023-11-27T19:06:14.9408586+00:00",
       "NumProgressed": 9078,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-27T20:05:35.2246245+00:00",
+      "NumProgressed": 9079,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8338,7 +8343,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -8346,7 +8351,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -8498,7 +8503,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -8689,7 +8694,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9078,
+      "Progressed": 9079,
       "Completed": 10
     }
   ],
@@ -8697,8 +8702,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-26T17:59:39.1110954+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:06:14.9408583+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:05:35.2246242+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:00:17.8025332+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:06:14.9409471+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:59:46.4669566+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:05:35.2246849+00:00"
 }

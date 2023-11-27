@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 375,
+  "EOS_Progressed": 376,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1162,6 +1162,11 @@
       "Time": "2023-11-27T19:05:07.8486768+00:00",
       "NumProgressed": 375,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T20:04:45.5489768+00:00",
+      "NumProgressed": 376,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1173,7 +1178,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1261,7 +1266,7 @@
       "Name": "Training Simulation",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1285,7 +1290,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1301,15 +1306,15 @@
       "Name": "Arms Mechanic",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1325,7 +1330,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1341,7 +1346,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1365,7 +1370,7 @@
       "Name": "Boss challenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1429,7 +1434,7 @@
       "Name": "Storm Traveller",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1453,7 +1458,7 @@
       "Name": "Giantess Slayer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -1461,7 +1466,7 @@
       "Name": "Warden Slayer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1493,7 +1498,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1517,22 +1522,22 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 375,
+      "Progressed": 376,
       "Completed": 1
     }
   ],
@@ -1540,8 +1545,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:05:07.848676+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:04:45.5489762+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:57:48.7279518+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:05:07.8487055+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:58:00.1259783+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:04:45.5490153+00:00"
 }

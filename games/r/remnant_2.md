@@ -32,6 +32,7 @@ Rating: 4.75 (Ranked 147)
 | Was This Supposed To Happen? | 0.20% | ~459 |
 | Strapped | 0.20% | ~459 |
 | Edgelord | 0.20% | ~459 |
+| The Web | 0.20% | ~459 |
 | Scrap Collector | 0.20% | ~459 |
 | Scrap Hoarder | 0.20% | ~459 |
 | Almost There | 0.20% | ~459 |
@@ -50,7 +51,6 @@ Rating: 4.75 (Ranked 147)
 | Bad Moon Rising | 0.10% | ~230 |
 | The Trigger | 0.10% | ~230 |
 | Cutting Edge | 0.10% | ~230 |
-| The Web | 0.10% | ~230 |
 | The Collector | 0.10% | ~230 |
 | All These Traits� | 0.10% | ~230 |
 | Proving Grounds | 0.10% | ~230 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,524 (Ranked 68)  
+Progressed: 229,567 (Ranked 68)  
 Completed: 538 (0.23%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 538 (0.23%) (Ranked 249)
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
-| 2023-11-27 | 229,524 | 538 |
+| 2023-11-27 | 229,567 | 538 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
 Sum: 6,037 (Ranked 129)  

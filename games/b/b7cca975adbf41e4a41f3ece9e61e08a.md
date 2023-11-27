@@ -16,7 +16,7 @@ Rating: 4.75 (Ranked 147)
 | Drama King | 41.00% | ~4,192 |
 | You're Really Something Else | 37.00% | ~3,783 |
 | Go Clean up In Your Own Way | 36.00% | ~3,681 |
-| Happy Family | 34.00% | ~3,476 |
+| Happy Family | 35.00% | ~3,578 |
 | ONE PUNCH | 34.00% | ~3,476 |
 | FIRST LOVE | 34.00% | ~3,476 |
 | Drama CP: Reel to Real | 34.00% | ~3,476 |

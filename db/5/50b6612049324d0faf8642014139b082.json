@@ -2,10 +2,10 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_Rating": 879,
+  "Ranking_Rating": 853,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 134,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.25,
+  "Rating": 4.28,
   "RatingHistory": [
     {
       "Time": "2023-11-25T01:40:43.9281936+00:00",
@@ -37,15 +37,21 @@
       "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-27T19:59:21.6086934+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 607,
+  "EOS_Progressed": 610,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1358,6 +1364,11 @@
       "Time": "2023-11-27T19:10:02.827463+00:00",
       "NumProgressed": 607,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T20:09:41.8126435+00:00",
+      "NumProgressed": 610,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1378,7 +1389,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_11",
@@ -1386,7 +1397,7 @@
       "Name": "Gravel Guru",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_12",
@@ -1410,7 +1421,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_15",
@@ -1426,7 +1437,7 @@
       "Name": "Class Act",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_17",
@@ -1434,7 +1445,7 @@
       "Name": "Your first time?",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_18",
@@ -1458,7 +1469,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 467
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_20",
@@ -1498,15 +1509,15 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_25",
       "SetID": "jnappp",
       "Name": "E-stonia",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_26",
@@ -1554,7 +1565,7 @@
       "Name": "NEW PB!",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_8",
@@ -1577,16 +1588,16 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 607,
+      "Progressed": 610,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2023-11-27T01:46:11.4647608+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:10:02.8274625+00:00",
+  "LastChanged": "2023-11-27T19:59:21.6086932+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:09:41.8126432+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:59:41.4629295+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:10:02.8275+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:59:21.6086937+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:09:41.8126645+00:00"
 }

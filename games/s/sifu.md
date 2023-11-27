@@ -20,13 +20,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.60% | ~4,305 |
 | Rumble in the Hangar | 0.60% | ~4,305 |
 | Fight the way you practice | 0.60% | ~161 |
-| Lady Wing Chun | 0.50% | ~3,587 |
-| Furious Fists | 0.50% | ~3,587 |
-| Kill Nil | 0.50% | ~3,587 |
-| Stuntmaster | 0.50% | ~3,587 |
-| Street Fighting | 0.50% | ~3,587 |
-| Old Child | 0.50% | ~3,587 |
-| Take damage to save time | 0.50% | ~3,587 |
+| Lady Wing Chun | 0.50% | ~3,588 |
+| Furious Fists | 0.50% | ~3,588 |
+| Kill Nil | 0.50% | ~3,588 |
+| Stuntmaster | 0.50% | ~3,588 |
+| Street Fighting | 0.50% | ~3,588 |
+| Old Child | 0.50% | ~3,588 |
+| Take damage to save time | 0.50% | ~3,588 |
 | Martial Hub | 0.50% | ~134 |
 | Scareless | 0.40% | ~2,870 |
 | Qi Gong: Mind | 0.40% | ~2,870 |
@@ -47,16 +47,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 0.20% | ~54 |
 | A Touch of Acumen | 0.20% | ~54 |
 | Beatmaker | 0.20% | ~54 |
-| Drunken Fighter | 0.10% | ~717 |
-| Martial Artist | 0.10% | ~717 |
-| Knowledge Greed | 0.10% | ~717 |
-| Healing Memory | 0.10% | ~717 |
-| Master of the Phoenix Eye Fist | 0.10% | ~717 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~717 |
-| The Pit Protector | 0.10% | ~717 |
-| Be like water my friend | 0.10% | ~717 |
-| Warriors from the Mountain | 0.10% | ~717 |
-| Come Snap With Me | 0.10% | ~717 |
+| Drunken Fighter | 0.10% | ~718 |
+| Martial Artist | 0.10% | ~718 |
+| Knowledge Greed | 0.10% | ~718 |
+| Healing Memory | 0.10% | ~718 |
+| Master of the Phoenix Eye Fist | 0.10% | ~718 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~718 |
+| The Pit Protector | 0.10% | ~718 |
+| Be like water my friend | 0.10% | ~718 |
+| Warriors from the Mountain | 0.10% | ~718 |
+| Come Snap With Me | 0.10% | ~718 |
 | Secure, Protect, Leave | 0.10% | ~27 |
 | Crouching Tiger | 0.10% | ~27 |
 | Hidden Dragon | 0.10% | ~27 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,498 (Ranked 22)  
+Progressed: 717,500 (Ranked 22)  
 Completed: 12,940 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 12,940 (1.80%) (Ranked 132)
 | 2023-11-24 | 717,272 | 12,939 |
 | 2023-11-25 | 717,366 | 12,940 |
 | 2023-11-26 | 717,455 | 12,940 |
-| 2023-11-27 | 717,498 | 12,940 |
+| 2023-11-27 | 717,500 | 12,940 |
 ## Awards
 Max (Great Boss Battles): 6,847  (Ranked 55)  
 Sum: 11,989 (Ranked 83)  

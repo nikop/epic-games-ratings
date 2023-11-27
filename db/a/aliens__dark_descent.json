@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -411,9 +411,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3709,
+  "EOS_Progressed": 3710,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6076,6 +6076,11 @@
       "Time": "2023-11-27T13:13:39.6322214+00:00",
       "NumProgressed": 3709,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-27T20:06:02.1130301+00:00",
+      "NumProgressed": 3710,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6189,9 +6194,9 @@
       "ID": "ACH_KILL_QUEENS",
       "SetID": "816efe",
       "Name": "Regicide",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 631
+      "UsersEstimate": 594
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -6207,7 +6212,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -6239,7 +6244,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -6279,7 +6284,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "ACH_MISSION_02",
@@ -6295,7 +6300,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "ACH_MISSION_04",
@@ -6303,7 +6308,7 @@
       "Name": "Making a Stand",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_MISSION_05",
@@ -6351,7 +6356,7 @@
       "Name": "The Spire",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH_MISSION_11",
@@ -6391,7 +6396,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 3004
+      "UsersEstimate": 3005
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6399,7 +6404,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -6407,7 +6412,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -6439,14 +6444,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3709,
+      "Progressed": 3710,
       "Completed": 3
     }
   ],
@@ -6454,8 +6459,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-27T19:00:30.5070176+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:06:51.4705501+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:06:02.1130297+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.06907+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:00:30.5070181+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:06:51.470595+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:59:54.9212716+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:06:02.1130868+00:00"
 }

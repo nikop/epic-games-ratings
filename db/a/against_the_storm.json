@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 78,
-  "Ranking_Popularity": 223,
+  "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 234,
@@ -3231,18 +3231,24 @@
       "Rating": 4.81,
       "NumberOfAwards": 3231,
       "NumberOfAwardsMax": 440
+    },
+    {
+      "Time": "2023-11-27T19:58:26.3844837+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3232,
+      "NumberOfAwardsMax": 441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3231,
-  "NumberOfAwardsMax": 440,
+  "NumberOfAwards": 3232,
+  "NumberOfAwardsMax": 441,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 440
+      "Count": 441
     },
     {
       "Text": "This game is Relaxing",
@@ -3301,7 +3307,7 @@
   ],
   "EOS_Progressed": 17504,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14455,9 +14461,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearCrystals",
@@ -14503,9 +14509,9 @@
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearLevitating",
@@ -14663,9 +14669,9 @@
       "ID": "WinWithResolve",
       "SetID": "cfbk359",
       "Name": "Victory Through Prosperity",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinWithRuins",
@@ -14719,49 +14725,49 @@
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 70
     },
     {
       "ID": "WinNearFrosts",
       "SetID": "cfbk359",
       "Name": "Frosts",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinNearGreed",
       "SetID": "cfbk359",
       "Name": "Land of Greed",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinNearLibrary",
       "SetID": "cfbk359",
       "Name": "Overgrown Library",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 70
     },
     {
       "ID": "WinNearPetrified",
       "SetID": "cfbk359",
       "Name": "Petrified Necropolis",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 70
     },
     {
       "ID": "WinNearPresence",
       "SetID": "cfbk359",
       "Name": "Ominous Presence",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinNearStorms",
@@ -14798,9 +14804,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-11-26T13:00:18.5578162+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:09:00.6743269+00:00",
+  "LastChanged": "2023-11-27T19:58:26.3844836+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:08:55.2750658+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:58:24.6790647+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:09:00.67442+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:58:26.384484+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:08:55.2751412+00:00"
 }

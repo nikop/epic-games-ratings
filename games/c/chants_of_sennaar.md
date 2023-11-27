@@ -11,8 +11,8 @@
 | A new dawn | 24.00% | ~185 |
 | True G3M4R | 22.00% | ~169 |
 | Scholar | 22.00% | ~169 |
+| The darkness | 22.00% | ~169 |
 | A good beginning | 21.00% | ~162 |
-| The darkness | 21.00% | ~162 |
 | One last step | 20.00% | ~154 |
 | I did it | 19.00% | ~146 |
 | Cable guy | 19.00% | ~146 |
@@ -26,7 +26,7 @@
 | Free at last | 14.00% | ~108 |
 | Rascal | 13.00% | ~100 |
 | A Link to the Past | 12.00% | ~92 |
-| A great audience | 10.00% | ~77 |
+| A great audience | 11.00% | ~85 |
 | For its own good | 9.00% | ~69 |
 | Fashion victim | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)

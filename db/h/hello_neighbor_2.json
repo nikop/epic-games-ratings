@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3274,
+  "EOS_Progressed": 3275,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
@@ -4976,6 +4976,11 @@
       "Time": "2023-11-27T19:06:57.3968402+00:00",
       "NumProgressed": 3274,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-11-27T20:06:06.4543287+00:00",
+      "NumProgressed": 3275,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 14,
@@ -4987,7 +4992,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -4995,7 +5000,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -5003,7 +5008,7 @@
       "Name": "Cat Person",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ACH_CLIMBER",
@@ -5011,7 +5016,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -5035,7 +5040,7 @@
       "Name": "Family Lost",
       "Percentage": 34,
       "XP": 80,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -5043,7 +5048,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -5067,7 +5072,7 @@
       "Name": "Reunion",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5098,7 +5103,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3274,
+      "Progressed": 3275,
       "Completed": 135
     }
   ],
@@ -5106,8 +5111,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:06:57.3968398+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:06:06.4543284+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.1918151+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:57:52.7805228+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:06:57.3968722+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:58:03.0080118+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:06:06.4543569+00:00"
 }

@@ -6,18 +6,18 @@ Rating: 4.58 (Ranked 443)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 11.00% | ~1,724 |
-| The Pit and the Pirates | 6.00% | ~940 |
-| Drone Dodger | 6.00% | ~940 |
-| Bosmang | 6.00% | ~940 |
-| Captain Drummer | 6.00% | ~940 |
-| Celebrations are in Order | 6.00% | ~940 |
-| Impossible Objects | 6.00% | ~940 |
+| The Pit and the Pirates | 6.00% | ~941 |
+| Drone Dodger | 6.00% | ~941 |
+| Bosmang | 6.00% | ~941 |
+| Captain Drummer | 6.00% | ~941 |
+| Celebrations are in Order | 6.00% | ~941 |
+| Impossible Objects | 6.00% | ~941 |
 | Zen Master | 6.00% | ~98 |
 | Stogie for Fogey | 5.00% | ~784 |
 | Spore Taste | 5.00% | ~784 |
 | Martian Music | 5.00% | ~784 |
-| Safe Cracker | 5.00% | ~81 |
-| Madame Undersecretary | 5.00% | ~81 |
+| Safe Cracker | 5.00% | ~82 |
+| Madame Undersecretary | 5.00% | ~82 |
 | Drug Gifter | 4.00% | ~627 |
 | Heal Thy Medic | 4.00% | ~627 |
 | Call it Even | 4.00% | ~627 |
@@ -26,10 +26,10 @@ Rating: 4.58 (Ranked 443)
 | Thorston Mayer | 3.00% | ~470 |
 | Khan's Revenge | 3.00% | ~470 |
 | Master Negotiator | 3.00% | ~49 |
-| Doctor Approved | 2.00% | ~313 |
-| Bottoms up! | 2.00% | ~313 |
-| Data Logger | 2.00% | ~313 |
-| Miraculous Maya | 2.00% | ~313 |
+| Doctor Approved | 2.00% | ~314 |
+| Bottoms up! | 2.00% | ~314 |
+| Data Logger | 2.00% | ~314 |
+| Miraculous Maya | 2.00% | ~314 |
 | No Belter Left Behind | 1.00% | ~157 |
 | Data Master | 1.00% | ~157 |
 | Brother's Reaper | 0.90% | ~141 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 443)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,673 (Ranked 151)  
+Progressed: 15,676 (Ranked 151)  
 Completed: 35 (0.22%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 35 (0.22%) (Ranked 251)
 | 2023-11-24 | 15,437 | 35 |
 | 2023-11-25 | 15,549 | 35 |
 | 2023-11-26 | 15,631 | 35 |
-| 2023-11-27 | 15,673 | 35 |
+| 2023-11-27 | 15,676 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,7 +3,7 @@
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
@@ -517,9 +517,9 @@
       "ID": "unhelpful",
       "SetID": "a3kkelb",
       "Name": "Unhelpful",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "use_your_connections",
@@ -550,8 +550,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:03:35.975418+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:03:37.3391753+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:55.6643864+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:58:40.9012854+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:03:35.9754301+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:58:37.7575237+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:03:37.3391856+00:00"
 }

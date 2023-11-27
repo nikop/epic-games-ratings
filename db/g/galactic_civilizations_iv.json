@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -927,9 +927,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7358,
+  "EOS_Progressed": 7360,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8827,6 +8827,11 @@
       "Time": "2023-11-27T10:08:28.375118+00:00",
       "NumProgressed": 7358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T20:09:08.8470947+00:00",
+      "NumProgressed": 7360,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8878,7 +8883,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4490
     },
     {
       "ID": "Control_All_Relics",
@@ -8902,7 +8907,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8918,7 +8923,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "First_Major_Ally",
@@ -8926,7 +8931,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -8942,7 +8947,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     },
     {
       "ID": "First_Race_Met",
@@ -8950,7 +8955,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "First_Ship_Designed",
@@ -8974,7 +8979,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9054,7 +9059,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "Play_1000_Hours",
@@ -9158,7 +9163,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4490
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9294,7 +9299,7 @@
       "Name": "Win as Terrans",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Win_As_Torian",
@@ -9326,7 +9331,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4783
+      "UsersEstimate": 4784
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9350,7 +9355,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Win_Diplomacy",
@@ -9413,15 +9418,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7358,
+      "Progressed": 7360,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-24T10:59:15.0247193+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:09:19.0510894+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:09:08.8470945+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:12.8136336+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:01:01.6645343+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:09:19.0511692+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:00:16.9772258+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:09:08.8471917+00:00"
 }

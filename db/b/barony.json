@@ -4,10 +4,10 @@
   "ProductSlug": "barony",
   "Ranking_Rating": 185,
   "Ranking_Popularity": 376,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 475,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
@@ -1548,10 +1548,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 666,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2023-11-27T20:00:30.8969609+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 668,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 666,
+  "NumberOfAwards": 668,
   "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1607,7 +1613,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 45
+      "Count": 47
     }
   ],
   "EOS_Progressed": 0,
@@ -1621,8 +1627,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2023-11-24T22:58:31.4694186+00:00",
+  "LastChanged": "2023-11-27T20:00:30.8969608+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.7755215+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:01:20.9708433+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:03:53.4369787+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:00:30.8969611+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:03:50.1604265+00:00"
 }

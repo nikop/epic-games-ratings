@@ -6,13 +6,13 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 0.30% | ~53 |
-| Overgrown Library | 0.30% | ~53 |
-| Petrified Necropolis | 0.30% | ~53 |
+| Abandoned Settlement | 0.40% | ~70 |
+| Overgrown Library | 0.40% | ~70 |
+| Petrified Necropolis | 0.40% | ~70 |
+| Frosts | 0.30% | ~53 |
+| Land of Greed | 0.30% | ~53 |
+| Ominous Presence | 0.30% | ~53 |
 | Gathering Storm | 0.30% | ~53 |
-| Frosts | 0.20% | ~35 |
-| Land of Greed | 0.20% | ~35 |
-| Ominous Presence | 0.20% | ~35 |
 | Untamed Wilds | 0.20% | ~35 |
 | Human Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
@@ -21,7 +21,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 0.10% | ~18 |
 | Ruined Armory | 0.10% | ~18 |
 | Bandit Camp | 0.10% | ~18 |
+| Ancient Battleground | 0.10% | ~18 |
 | Fertile Meadows | 0.10% | ~18 |
+| Haunted Forest | 0.10% | ~18 |
 | Levitating Monument | 0.10% | ~18 |
 | Monastery of the Holy Flame | 0.10% | ~18 |
 | Royal Outpost | 0.10% | ~18 |
@@ -35,6 +37,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 0.10% | ~18 |
 | A Real Challenge | 0.10% | ~18 |
 | Taking Action | 0.10% | ~18 |
+| Victory Through Prosperity | 0.10% | ~18 |
 | No Deaths | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Fox Utopia | 0.10% | ~18 |
@@ -48,19 +51,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 0.00% | ~0 |
 | Overcoming Difficulty | 0.00% | ~0 |
 | Barren Lands | 0.00% | ~0 |
-| Ancient Battleground | 0.00% | ~0 |
 | Sparkdew Crystals | 0.00% | ~0 |
 | Dangerous Lands | 0.00% | ~0 |
 | Fishmen Ritual Site | 0.00% | ~0 |
 | Forbidden Lands | 0.00% | ~0 |
-| Haunted Forest | 0.00% | ~0 |
 | Flooded Mines | 0.00% | ~0 |
 | Forsaken Gods Temple | 0.00% | ~0 |
 | Cursed Lands | 0.00% | ~0 |
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 | Blood Flower Farmer | 0.00% | ~0 |
-| Victory Through Prosperity | 0.00% | ~0 |
 | Ruins | 0.00% | ~0 |
 | Like a Machine | 0.00% | ~0 |
 | Trade Baron | 0.00% | ~0 |
@@ -289,12 +289,12 @@ Completed: 54 (0.31%) (Ranked 234)
 | 2023-11-26 | 17,488 | 56 |
 | 2023-11-27 | 17,504 | 56 |
 ## Awards
-Max (Quickly Understood Controls): 440  (Ranked 223)  
-Sum: 3,231 (Ranked 173)  
-Diff (max vs sum): 50  
+Max (Quickly Understood Controls): 441  (Ranked 222)  
+Sum: 3,232 (Ranked 173)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 440 |
+| This game has Quickly Understood Controls | 441 |
 | This game is Relaxing | 430 |
 | This game is Great for Beginners | 420 |
 | This game is Extremely Fun | 407 |
@@ -545,3 +545,4 @@ Diff (max vs sum): 50
 | 2023-11-23 | 4.81 | - | 440 | 3,228 |
 | 2023-11-24 | 4.81 | - | 440 | 3,230 |
 | 2023-11-26 | 4.81 | - | 440 | 3,231 |
+| 2023-11-27 | 4.81 | - | 441 | 3,232 |

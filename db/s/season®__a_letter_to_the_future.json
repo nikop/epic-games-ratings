@@ -2784,17 +2784,17 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2865,8 +2865,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:09:43.7094215+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:09:27.1711675+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:56.2839298+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:00:48.6739204+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:09:43.7094449+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:00:07.7115268+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:09:27.1711881+00:00"
 }

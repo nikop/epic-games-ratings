@@ -11,21 +11,22 @@
 | Watch your Step! | 55.00% | ~6 |
 | Treasure Hunter | 55.00% | ~6 |
 | Savior | 45.00% | ~5 |
+| Tap Dancing | 45.00% | ~5 |
+| Rebel Unleashed | 45.00% | ~5 |
 | MAX LEVEL | 45.00% | ~5 |
 | Oo-De-Lally | 36.00% | ~4 |
-| Tap Dancing | 36.00% | ~4 |
+| Finish Him! | 36.00% | ~4 |
 | Right between the eyes | 36.00% | ~4 |
-| Rebel Unleashed | 36.00% | ~4 |
+| Locksley's Tears | 36.00% | ~4 |
+| Assault on the Ram | 36.00% | ~4 |
+| Spring Board | 36.00% | ~4 |
 | The Gang prevails | 27.00% | ~3 |
-| Finish Him! | 27.00% | ~3 |
-| Locksley's Tears | 27.00% | ~3 |
-| Assault on the Ram | 27.00% | ~3 |
-| Spring Board | 27.00% | ~3 |
 | Ultra Rebel Instinct | 27.00% | ~3 |
 | Take Action! | 27.00% | ~3 |
 | First Aid | 27.00% | ~3 |
 | Merry Go Round | 27.00% | ~3 |
 | Starry Night | 18.00% | ~2 |
+| Ascending Will | 18.00% | ~2 |
 | Brilliant Executioner | 18.00% | ~2 |
 | King of the Iron Fist | 18.00% | ~2 |
 | Ultra Combo | 18.00% | ~2 |
@@ -35,7 +36,6 @@
 | Hidden Experiment | 18.00% | ~2 |
 | Into the Lion's Den | 18.00% | ~2 |
 | Haute Couture | 18.00% | ~2 |
-| Ascending Will | 9.00% | ~1 |
 | Out of the ring | 9.00% | ~1 |
 | The Crowkiller | 9.00% | ~1 |
 | A Gest of Robyn Hode | 9.00% | ~1 |

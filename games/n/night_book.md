@@ -14,7 +14,7 @@
 | On Your Bike | 30.00% | ~74 |
 | Save Dad | 22.00% | ~54 |
 | A Little Extra | 16.00% | ~39 |
-| Unhelpful | 13.00% | ~32 |
+| Unhelpful | 14.00% | ~34 |
 | Pearce | 12.00% | ~30 |
 | The Marriage Is Off | 11.00% | ~27 |
 | Use Your Connections | 11.00% | ~27 |
@@ -23,7 +23,7 @@
 | Shady Truth | 6.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 246 (Ranked 372)  
-Completed: 5 (2.03%) (Ranked 126)  
+Completed: 5 (2.03%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

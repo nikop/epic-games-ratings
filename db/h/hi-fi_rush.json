@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4390,
+  "EOS_Progressed": 4392,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7820,6 +7820,11 @@
       "Time": "2023-11-27T19:04:43.6031915+00:00",
       "NumProgressed": 4390,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-27T20:04:27.6796595+00:00",
+      "NumProgressed": 4392,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7831,7 +7836,7 @@
       "Name": "Start with a bang!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "Ach002",
@@ -7839,7 +7844,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "Ach003",
@@ -8007,7 +8012,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "Ach024",
@@ -8199,7 +8204,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "Ach048",
@@ -8231,7 +8236,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "Ach052",
@@ -8398,13 +8403,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4390,
+      "Progressed": 4392,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2911,
+      "Progressed": 2913,
       "Completed": 1930
     }
   ],
@@ -8412,8 +8417,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:04:43.6031913+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:04:27.6796593+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:01:20.7230883+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:04:43.6032714+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:00:30.7115699+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:04:27.6797326+00:00"
 }

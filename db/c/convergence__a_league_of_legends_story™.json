@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2656,9 +2656,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 188
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2961,8 +2961,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:09:27.27481+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:09:15.1349596+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-27T18:58:50.8572836+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:09:27.2748502+00:00"
+  "LastUpdate_Ratings": "2023-11-27T19:58:45.005435+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:09:15.135009+00:00"
 }

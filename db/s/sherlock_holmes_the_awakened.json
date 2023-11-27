@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -3242,9 +3242,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 436
+      "UsersEstimate": 444
     },
     {
       "ID": "MQ03_4",
@@ -3258,9 +3258,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 444
+      "UsersEstimate": 452
     },
     {
       "ID": "MQ04_1",
@@ -3411,8 +3411,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-26T10:02:59.0802972+00:00",
-  "LastChanged_Achievements": "2023-11-27T19:04:18.4282537+00:00",
+  "LastChanged_Achievements": "2023-11-27T20:04:08.8247744+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:13.2567556+00:00",
-  "LastUpdate_Ratings": "2023-11-27T19:02:58.1702232+00:00",
-  "LastUpdate_Achievements": "2023-11-27T19:04:18.4282879+00:00"
+  "LastUpdate_Ratings": "2023-11-27T20:03:09.8629334+00:00",
+  "LastUpdate_Achievements": "2023-11-27T20:04:08.8247987+00:00"
 }
