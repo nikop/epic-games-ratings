@@ -6,37 +6,37 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 10.00% | ~95,225 |
-| Gun Fu | 5.00% | ~47,612 |
-| The Fool | 4.00% | ~38,090 |
-| Right Back At Ya | 3.00% | ~28,568 |
-| The Lovers | 3.00% | ~28,568 |
-| Full Body Conversion | 2.00% | ~19,045 |
-| Stanislavski's Method | 2.00% | ~19,045 |
-| True Soldier | 2.00% | ~19,045 |
-| Relic Ruler | 2.00% | ~1,617 |
-| Christmas Tree Attack | 1.00% | ~9,522 |
-| The Hermit | 1.00% | ~9,522 |
-| The Wheel of Fortune | 1.00% | ~9,522 |
-| True Warrior | 1.00% | ~9,522 |
-| All the President's Men | 1.00% | ~809 |
-| Arachnophobia | 1.00% | ~809 |
-| The Quick and the Dead | 0.90% | ~8,570 |
-| Life of the Road | 0.90% | ~8,570 |
-| The High Priestess | 0.90% | ~8,570 |
-| Legend of The Afterlife | 0.90% | ~8,570 |
-| Bushido and Chill | 0.70% | ~6,666 |
-| Master Crafter | 0.70% | ~6,666 |
-| The World | 0.70% | ~6,666 |
-| Spin Doctor | 0.70% | ~566 |
-| To Protect and Serve | 0.60% | ~5,714 |
-| I Am The Law | 0.60% | ~5,714 |
-| Two Heads, One Bullet | 0.60% | ~5,714 |
-| Judy vs Night City | 0.60% | ~5,714 |
-| King of Wands | 0.50% | ~404 |
-| Dirty Deeds | 0.50% | ~404 |
-| Easy Come, Easy Go | 0.50% | ~404 |
-| The Wandering Fool | 0.40% | ~3,809 |
+| V for Vendetta | 10.00% | ~95,247 |
+| Gun Fu | 5.00% | ~47,624 |
+| The Fool | 4.00% | ~38,099 |
+| Right Back At Ya | 3.00% | ~28,574 |
+| The Lovers | 3.00% | ~28,574 |
+| Full Body Conversion | 2.00% | ~19,049 |
+| Stanislavski's Method | 2.00% | ~19,049 |
+| True Soldier | 2.00% | ~19,049 |
+| Relic Ruler | 2.00% | ~1,622 |
+| Christmas Tree Attack | 1.00% | ~9,525 |
+| The Hermit | 1.00% | ~9,525 |
+| The Wheel of Fortune | 1.00% | ~9,525 |
+| True Warrior | 1.00% | ~9,525 |
+| All the President's Men | 1.00% | ~811 |
+| Arachnophobia | 1.00% | ~811 |
+| The Quick and the Dead | 0.90% | ~8,572 |
+| Life of the Road | 0.90% | ~8,572 |
+| The High Priestess | 0.90% | ~8,572 |
+| Legend of The Afterlife | 0.90% | ~8,572 |
+| Bushido and Chill | 0.70% | ~6,667 |
+| Master Crafter | 0.70% | ~6,667 |
+| The World | 0.70% | ~6,667 |
+| Spin Doctor | 0.70% | ~568 |
+| To Protect and Serve | 0.60% | ~5,715 |
+| I Am The Law | 0.60% | ~5,715 |
+| Two Heads, One Bullet | 0.60% | ~5,715 |
+| Judy vs Night City | 0.60% | ~5,715 |
+| King of Wands | 0.50% | ~405 |
+| Dirty Deeds | 0.50% | ~405 |
+| Easy Come, Easy Go | 0.50% | ~405 |
+| The Wandering Fool | 0.40% | ~3,810 |
 | To Bad Decisions! | 0.30% | ~2,857 |
 | Breathtaking | 0.30% | ~2,857 |
 | Ten out of Ten | 0.30% | ~2,857 |
@@ -45,9 +45,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judgement Day | 0.30% | ~243 |
 | King of Swords | 0.30% | ~243 |
 | The Tower | 0.30% | ~243 |
-| Autojock | 0.20% | ~1,904 |
-| Must Be Rats | 0.20% | ~1,904 |
-| Temperance | 0.20% | ~1,904 |
+| Autojock | 0.20% | ~1,905 |
+| Must Be Rats | 0.20% | ~1,905 |
+| Temperance | 0.20% | ~1,905 |
 | The APB is Not Enough | 0.20% | ~162 |
 | King of Cups | 0.20% | ~162 |
 | King of Pentacles | 0.20% | ~162 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 952,250 (Ranked 15)  
+Progressed: 952,474 (Ranked 15)  
 Completed: 2,818 (0.30%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,15 +295,15 @@ Completed: 2,818 (0.30%) (Ranked 236)
 | 2023-11-24 | 934,254 | 2,810 |
 | 2023-11-25 | 943,308 | 2,812 |
 | 2023-11-26 | 950,531 | 2,816 |
-| 2023-11-27 | 952,250 | 2,818 |
+| 2023-11-27 | 952,474 | 2,818 |
 ## Awards
 Max (Character Customization): 109,140  (Ranked 9)  
-Sum: 366,685 (Ranked 9)  
+Sum: 367,227 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 109,140 |
-| This game has Great Boss Battles | 78,519 |
+| This game has Great Boss Battles | 79,061 |
 | This game is Great for Beginners | 22,230 |
 | This game has Diverse Characters | 21,822 |
 | This game is Highly Recommended | 20,847 |
@@ -628,4 +628,4 @@ Diff (max vs sum): 0
 | 2023-11-24 | 4.65 | - | 107,456 | 362,468 |
 | 2023-11-25 | 4.65 | - | 108,211 | 364,318 |
 | 2023-11-26 | 4.65 | - | 109,140 | 366,585 |
-| 2023-11-27 | 4.65 | - | 109,140 | 366,685 |
+| 2023-11-27 | 4.65 | - | 109,140 | 367,227 |

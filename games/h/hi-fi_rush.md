@@ -8,7 +8,7 @@ Rating: 4.87 (Ranked 22)
 | Start with a bang! | 18.00% | ~787 |
 | Feeling the beat! | 18.00% | ~787 |
 | You can pet the cat! | 17.00% | ~743 |
-| Who put gears in there? | 16.00% | ~699 |
+| Who put gears in there? | 16.00% | ~700 |
 | Cream of the Crop | 15.00% | ~656 |
 | Thanks for the free chip, Peppermint! | 14.00% | ~612 |
 | You got this, Peppermint? | 14.00% | ~612 |
@@ -18,18 +18,18 @@ Rating: 4.87 (Ranked 22)
 | Uh, they were broken when I got here | 12.00% | ~525 |
 | I play my own way! | 11.00% | ~481 |
 | Z-shielding's got nothing on us! | 11.00% | ~481 |
+| Kissing the sky! | 11.00% | ~481 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~437 |
-| Kissing the sky! | 10.00% | ~437 |
-| The Negotiator | 9.00% | ~393 |
-| Headliner | 9.00% | ~393 |
-| Out in a puff of smoke | 9.00% | ~393 |
-| I look cool. But I can look COOLER. | 9.00% | ~393 |
+| The Negotiator | 9.00% | ~394 |
+| Headliner | 9.00% | ~394 |
+| Out in a puff of smoke | 9.00% | ~394 |
+| I look cool. But I can look COOLER. | 9.00% | ~394 |
 | Time to pay up! | 8.00% | ~350 |
 | Who's the boss now? | 8.00% | ~350 |
 | You must like calling me in, Chai | 8.00% | ~350 |
 | Perfecter Parry-er! | 8.00% | ~350 |
 | Does that say weakpoint? | 8.00% | ~350 |
-| NOW we got a kickass hideout! | 8.00% | ~231 |
+| NOW we got a kickass hideout! | 8.00% | ~232 |
 | I have to read these things? | 7.00% | ~306 |
 | Well that was a rush! | 5.00% | ~219 |
 | Beat-hit mania | 5.00% | ~219 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,371 (Ranked 193)  
+Progressed: 4,373 (Ranked 193)  
 Completed: 8 (0.18%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 8 (0.18%) (Ranked 263)
 | 2023-11-24 | 4,316 | 8 |
 | 2023-11-25 | 4,346 | 8 |
 | 2023-11-26 | 4,367 | 8 |
-| 2023-11-27 | 4,371 | 8 |
+| 2023-11-27 | 4,373 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

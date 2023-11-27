@@ -1761,10 +1761,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 811,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-11-27T09:57:50.3082493+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 812,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 811,
+  "NumberOfAwards": 812,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1796,7 +1802,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1853,9 +1859,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 64814,
+  "EOS_Progressed": 64815,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26128,6 +26134,11 @@
       "Time": "2023-11-27T09:04:39.3314949+00:00",
       "NumProgressed": 64814,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T10:04:28.4728545+00:00",
+      "NumProgressed": 64815,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -26259,7 +26270,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15555
+      "UsersEstimate": 15556
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -26395,7 +26406,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20740
+      "UsersEstimate": 20741
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -26451,7 +26462,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15555
+      "UsersEstimate": 15556
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -26507,7 +26518,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 50555
+      "UsersEstimate": 50556
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -26603,22 +26614,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 23981
+      "UsersEstimate": 23982
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 64814,
+      "Progressed": 64815,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2023-11-24T22:59:46.4352445+00:00",
-  "LastChanged_Achievements": "2023-11-27T09:04:39.3314945+00:00",
+  "LastChanged": "2023-11-27T09:57:50.3082491+00:00",
+  "LastChanged_Achievements": "2023-11-27T10:04:28.4728542+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:58.4579333+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:58:00.395118+00:00",
-  "LastUpdate_Achievements": "2023-11-27T09:04:39.3316189+00:00"
+  "LastUpdate_Ratings": "2023-11-27T09:57:50.3082495+00:00",
+  "LastUpdate_Achievements": "2023-11-27T10:04:28.4730282+00:00"
 }

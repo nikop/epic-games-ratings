@@ -6,19 +6,19 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~372,464 |
-| Now You're Talking | 62.00% | ~329,897 |
-| Steel Yourself | 62.00% | ~329,897 |
+| First Step | 70.00% | ~372,465 |
+| Now You're Talking | 62.00% | ~329,898 |
+| Steel Yourself | 62.00% | ~329,898 |
 | Window Dressing | 50.00% | ~266,046 |
-| Trigger Happy | 46.00% | ~244,762 |
-| Riverborn | 45.00% | ~239,441 |
-| Starry Eyed | 34.00% | ~180,911 |
-| Poking Around | 34.00% | ~180,911 |
+| Trigger Happy | 46.00% | ~244,763 |
+| Riverborn | 45.00% | ~239,442 |
+| Starry Eyed | 34.00% | ~180,912 |
+| Poking Around | 34.00% | ~180,912 |
 | Talk of the Town | 24.00% | ~127,702 |
 | AAARR! | 23.00% | ~122,381 |
 | Hello Darkness | 23.00% | ~122,381 |
 | Wind At Our Backs | 22.00% | ~117,060 |
-| To the Beat | 20.00% | ~106,418 |
+| To the Beat | 20.00% | ~106,419 |
 | Sunny Shores | 17.00% | ~90,456 |
 | Sunday Best | 16.00% | ~85,135 |
 | To Victory! | 15.00% | ~79,814 |
@@ -31,8 +31,8 @@ Number of Ratings: 617  (23.09.2022)
 | Road Less Travelled | 9.00% | ~47,888 |
 | Lost and Found | 9.00% | ~47,888 |
 | Under the Radar | 8.00% | ~42,567 |
-| Partner in Crime | 7.00% | ~37,246 |
-| Hard to Hear | 7.00% | ~37,246 |
+| Partner in Crime | 7.00% | ~37,247 |
+| Hard to Hear | 7.00% | ~37,247 |
 | Moving On Up | 6.00% | ~31,926 |
 | Owl Knows Best | 6.00% | ~31,926 |
 | Mind the Moose | 6.00% | ~31,926 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,596 |
 | Point Taken | 0.20% | ~1,064 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,092 (Ranked 35)  
+Progressed: 532,093 (Ranked 35)  
 Completed: 502 (0.09%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 502 (0.09%) (Ranked 289)
 | 2023-11-24 | 531,921 | 502 |
 | 2023-11-25 | 532,010 | 502 |
 | 2023-11-26 | 532,080 | 502 |
-| 2023-11-27 | 532,092 | 502 |
+| 2023-11-27 | 532,093 | 502 |
 ## Awards
 Max (Relaxing): 20  (Ranked 549)  
 Sum: 20 (Ranked 550)  

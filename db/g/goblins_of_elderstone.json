@@ -4,7 +4,7 @@
   "ProductSlug": "goblins-of-elderstone-330b84",
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 475,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-08T18:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5328515+00:00",
   "LastChanged": "2023-03-31T05:57:23.5328516+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.8197003+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:58:46.427516+00:00",
-  "LastUpdate_Achievements": "2023-11-27T09:08:30.5300898+00:00"
+  "LastUpdate_Ratings": "2023-11-27T09:58:37.022819+00:00",
+  "LastUpdate_Achievements": "2023-11-27T10:08:17.989381+00:00"
 }

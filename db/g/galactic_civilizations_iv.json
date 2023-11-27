@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -927,9 +927,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7357,
+  "EOS_Progressed": 7358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8822,6 +8822,11 @@
       "Time": "2023-11-27T07:08:40.9063867+00:00",
       "NumProgressed": 7357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T10:08:28.375118+00:00",
+      "NumProgressed": 7358,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8937,7 +8942,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "First_Race_Met",
@@ -8945,7 +8950,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "First_Ship_Designed",
@@ -8953,7 +8958,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "First_Stream_Travel",
@@ -8969,7 +8974,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9217,7 +9222,7 @@
       "Name": "Win as the Drengin",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Win_As_Festron",
@@ -9249,7 +9254,7 @@
       "Name": "Win as the Krynn",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Win_As_Manti",
@@ -9305,7 +9310,7 @@
       "Name": "Win as Xeloxi",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Win_As_Yor",
@@ -9321,7 +9326,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9385,7 +9390,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Win_Quickly",
@@ -9408,15 +9413,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7357,
+      "Progressed": 7358,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-24T10:59:15.0247193+00:00",
-  "LastChanged_Achievements": "2023-11-27T09:08:40.9944098+00:00",
+  "LastChanged_Achievements": "2023-11-27T10:08:28.3751176+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:12.8136336+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:59:50.3746387+00:00",
-  "LastUpdate_Achievements": "2023-11-27T09:08:40.9944998+00:00"
+  "LastUpdate_Ratings": "2023-11-27T09:59:41.5615204+00:00",
+  "LastUpdate_Achievements": "2023-11-27T10:08:28.3752342+00:00"
 }

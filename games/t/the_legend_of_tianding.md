@@ -15,10 +15,10 @@
 | Dispel Rumors | 35.00% | ~9 |
 | Captain Mustache | 35.00% | ~9 |
 | Demon Slayer | 27.00% | ~7 |
+| Urban Explorer | 27.00% | ~7 |
 | Steal Her Away | 27.00% | ~7 |
 | Sewer Rat | 27.00% | ~7 |
 | Big Eater | 23.00% | ~6 |
-| Urban Explorer | 23.00% | ~6 |
 | Not Today | 23.00% | ~6 |
 | Coward | 23.00% | ~6 |
 | Fight Fire With Fire | 23.00% | ~6 |

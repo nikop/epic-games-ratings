@@ -308,9 +308,9 @@
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "OmamoriExpert",
@@ -397,8 +397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-11-27T09:04:30.3836188+00:00",
+  "LastChanged_Achievements": "2023-11-27T10:04:19.6287474+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.2230551+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:57:14.5973534+00:00",
-  "LastUpdate_Achievements": "2023-11-27T09:04:30.3836305+00:00"
+  "LastUpdate_Ratings": "2023-11-27T09:57:05.8759616+00:00",
+  "LastUpdate_Achievements": "2023-11-27T10:04:19.628765+00:00"
 }

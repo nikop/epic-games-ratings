@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1652,
+  "EOS_Progressed": 1653,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 6.96,
   "EosHistory": [
@@ -3879,6 +3879,11 @@
       "Time": "2023-11-27T09:09:16.5811972+00:00",
       "NumProgressed": 1652,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-11-27T10:09:03.9858693+00:00",
+      "NumProgressed": 1653,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 30,
@@ -3890,7 +3895,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "LEVEL_002",
@@ -3898,7 +3903,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "LEVEL_003",
@@ -3906,7 +3911,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "LEVEL_004",
@@ -3914,7 +3919,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "LEVEL_005",
@@ -3930,7 +3935,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "LEVEL_007",
@@ -3962,7 +3967,7 @@
       "Name": "Rocks around the island",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "LEVEL_011",
@@ -4129,14 +4134,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1652,
+      "Progressed": 1653,
       "Completed": 115
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-27T09:09:16.5811969+00:00",
+  "LastChanged_Achievements": "2023-11-27T10:09:03.985869+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:00:02.4880895+00:00",
-  "LastUpdate_Achievements": "2023-11-27T09:09:16.5812233+00:00"
+  "LastUpdate_Ratings": "2023-11-27T09:59:53.7551239+00:00",
+  "LastUpdate_Achievements": "2023-11-27T10:09:03.9859027+00:00"
 }

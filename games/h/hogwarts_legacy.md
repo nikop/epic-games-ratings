@@ -5,20 +5,20 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,537 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,538 |
 | First Class Student | 15.00% | ~45,504 |
-| Troll with the Punches | 14.00% | ~42,470 |
+| Troll with the Punches | 14.00% | ~42,471 |
 | A Keen Sense of Spell | 13.00% | ~39,437 |
 | That's a Keeper | 13.00% | ~39,437 |
 | The Defender of Dragons | 12.00% | ~36,403 |
 | Loom for Improvement | 12.00% | ~36,403 |
 | A Talent for Spending | 12.00% | ~36,403 |
-| Grappling with a Graphorn | 11.00% | ~33,369 |
-| The One Who Mastered Memories | 11.00% | ~33,369 |
-| The Hallowed Hero | 11.00% | ~33,369 |
-| The Hero of Hogwarts | 11.00% | ~33,369 |
-| Challenge Accepted | 11.00% | ~33,369 |
-| Coasting Along | 11.00% | ~33,369 |
+| Grappling with a Graphorn | 11.00% | ~33,370 |
+| The One Who Mastered Memories | 11.00% | ~33,370 |
+| The Hallowed Hero | 11.00% | ~33,370 |
+| The Hero of Hogwarts | 11.00% | ~33,370 |
+| Challenge Accepted | 11.00% | ~33,370 |
+| Coasting Along | 11.00% | ~33,370 |
 | Followed the Butterflies | 10.00% | ~30,336 |
 | Rising From the Ashes | 10.00% | ~30,336 |
 | A Sallow Grave | 9.00% | ~27,302 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,124 |
 | Collector's Edition | 0.30% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,359 (Ranked 54)  
+Progressed: 303,361 (Ranked 54)  
 Completed: 516 (0.17%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,10 +272,10 @@ Completed: 516 (0.17%) (Ranked 265)
 | 2023-11-24 | 302,992 | 514 |
 | 2023-11-25 | 303,175 | 514 |
 | 2023-11-26 | 303,320 | 515 |
-| 2023-11-27 | 303,359 | 516 |
+| 2023-11-27 | 303,361 | 516 |
 ## Awards
 Max (Character Customization): 24,684  (Ranked 17)  
-Sum: 49,266 (Ranked 30)  
+Sum: 49,273 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -284,7 +284,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,355 |
 | This game has Diverse Characters | 1,304 |
 | This game has Amazing Storytelling | 1,304 |
-| This game is Extremely Fun | 1,269 |
+| This game is Extremely Fun | 1,276 |
 | This game is Relaxing | 1,267 |
 | This game has Amazing Characters | 1,233 |
 | This game is Highly Recommended | 1,205 |
@@ -542,4 +542,4 @@ Diff (max vs sum): -13
 | 2023-11-24 | 4.76 | 24,595 | 49,037 |
 | 2023-11-25 | 4.76 | 24,634 | 49,151 |
 | 2023-11-26 | 4.76 | 24,684 | 49,249 |
-| 2023-11-27 | 4.76 | 24,684 | 49,266 |
+| 2023-11-27 | 4.76 | 24,684 | 49,273 |

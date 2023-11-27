@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -168,7 +168,7 @@
   ],
   "EOS_Progressed": 1490,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2036,9 +2036,9 @@
       "ID": "achievement_kill1000Cultists",
       "SetID": "95dc8p",
       "Name": "Empty the Caves",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_kill1000Drauven",
@@ -2396,8 +2396,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-27T09:09:16.7252857+00:00",
+  "LastChanged_Achievements": "2023-11-27T10:09:04.2308028+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:17.0768471+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:02:36.8511638+00:00",
-  "LastUpdate_Achievements": "2023-11-27T09:09:16.7253225+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:02:25.4239678+00:00",
+  "LastUpdate_Achievements": "2023-11-27T10:09:04.2308508+00:00"
 }

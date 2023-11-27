@@ -539,9 +539,9 @@
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
       "SetID": "caeik3h",
       "Name": "Find Cap",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "KR4_ACHIEVEMENT_FROGGER",
@@ -571,9 +571,9 @@
       "ID": "KR4_ACHIEVEMENT_GOLLUM",
       "SetID": "caeik3h",
       "Name": "My Precious!",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOOD_DINOSAUR",
@@ -883,9 +883,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -987,9 +987,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
       "SetID": "caeik3h",
       "Name": "More Than A Legend",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-27T09:08:01.6072306+00:00",
+  "LastChanged_Achievements": "2023-11-27T10:07:49.7747502+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:59:39.9615306+00:00",
-  "LastUpdate_Achievements": "2023-11-27T09:08:01.6072918+00:00"
+  "LastUpdate_Ratings": "2023-11-27T09:59:31.3818993+00:00",
+  "LastUpdate_Achievements": "2023-11-27T10:07:49.774804+00:00"
 }

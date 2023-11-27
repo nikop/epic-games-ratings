@@ -76,10 +76,10 @@ Number of Ratings: 37  (23.09.2022)
 | Last man standing | 0.80% | ~35 |
 | Builder V | 0.80% | ~35 |
 | Ten-Hut! | 0.80% | ~35 |
+| Penny pincher | 0.80% | ~35 |
 | The wood shortage | 0.80% | ~35 |
 | Buried | 0.70% | ~31 |
 | Craftsmen challenge | 0.70% | ~31 |
-| Penny pincher | 0.70% | ~31 |
 | I've been everywhere III | 0.60% | ~26 |
 | Made my choice | 0.60% | ~26 |
 | An honorable departure | 0.60% | ~26 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,359 (Ranked 194)  
+Progressed: 4,359 (Ranked 195)  
 Completed: 3 (0.07%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |

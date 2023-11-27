@@ -6,14 +6,14 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,935 |
-| A thief's beginning | 10.00% | ~21,613 |
-| Thorough | 10.00% | ~21,613 |
+| Genin | 12.00% | ~25,936 |
+| A thief's beginning | 10.00% | ~21,614 |
+| Thorough | 10.00% | ~21,614 |
 | Disguised | 9.00% | ~19,452 |
 | Rollin' | 9.00% | ~19,452 |
 | Tanuki Time | 9.00% | ~19,452 |
-| Rescue Takuma | 8.00% | ~17,290 |
-| Stoned Ox | 8.00% | ~17,290 |
+| Rescue Takuma | 8.00% | ~17,291 |
+| Stoned Ox | 8.00% | ~17,291 |
 | Happy Planning | 7.00% | ~15,129 |
 | Ice Ice Yuki | 7.00% | ~15,129 |
 | Jonin | 7.00% | ~15,129 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 6.00% | ~12,968 |
 | Mugen Unchained | 6.00% | ~12,968 |
 | Warzone | 6.00% | ~12,968 |
-| Okkoto | 5.00% | ~10,806 |
-| Prisoners | 5.00% | ~10,806 |
-| Too Early | 5.00% | ~10,806 |
+| Okkoto | 5.00% | ~10,807 |
+| Prisoners | 5.00% | ~10,807 |
+| Too Early | 5.00% | ~10,807 |
 | Gear up | 4.00% | ~8,645 |
 | Happy little accidents | 4.00% | ~8,645 |
 | Noboru | 4.00% | ~8,645 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~216 |
 | Release the Kraken | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,129 (Ranked 72)  
+Progressed: 216,135 (Ranked 72)  
 Completed: 99 (0.05%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,15 +272,15 @@ Completed: 99 (0.05%) (Ranked 312)
 | 2023-11-24 | 215,632 | 98 |
 | 2023-11-25 | 215,844 | 98 |
 | 2023-11-26 | 216,075 | 99 |
-| 2023-11-27 | 216,129 | 99 |
+| 2023-11-27 | 216,135 | 99 |
 ## Awards
 Max (Great for Beginners): 577  (Ranked 200)  
-Sum: 4,874 (Ranked 144)  
+Sum: 4,875 (Ranked 144)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 577 |
-| This game has Diverse Characters | 541 |
+| This game has Diverse Characters | 542 |
 | This game is Extremely Fun | 537 |
 | This game has Amazing Storytelling | 517 |
 | This game has Amazing Characters | 501 |
@@ -515,3 +515,4 @@ Diff (max vs sum): 56
 | 2023-11-23 | 4.67 | - | 576 | 4,867 |
 | 2023-11-25 | 4.67 | - | 577 | 4,871 |
 | 2023-11-26 | 4.67 | - | 577 | 4,874 |
+| 2023-11-27 | 4.67 | - | 577 | 4,875 |

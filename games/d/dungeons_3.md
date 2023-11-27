@@ -6,19 +6,19 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~28,937 |
-| The Evilest Evil | 59.00% | ~24,390 |
+| The Shadow strikes | 70.00% | ~28,938 |
+| The Evilest Evil | 59.00% | ~24,391 |
 | Twistram is devastated | 58.00% | ~23,977 |
 | The Gehenna Stones | 50.00% | ~20,670 |
-| No one has to die today! | 47.00% | ~19,429 |
+| No one has to die today! | 47.00% | ~19,430 |
 | Death and destruction! | 46.00% | ~19,016 |
-| The Swamplanders from the swamplands | 44.00% | ~18,189 |
+| The Swamplanders from the swamplands | 44.00% | ~18,190 |
 | The One-Huge-Army-Building Evil | 41.00% | ~16,949 |
 | Rusty Steel | 41.00% | ~16,949 |
 | Braiiiiins! | 38.00% | ~15,709 |
-| The last burger | 37.00% | ~15,295 |
+| The last burger | 37.00% | ~15,296 |
 | Hands off the Dungeonheart! | 36.00% | ~14,882 |
-| A trip on sea, what fun it can be | 34.00% | ~14,055 |
+| A trip on sea, what fun it can be | 34.00% | ~14,056 |
 | Damned good | 33.00% | ~13,642 |
 | Stock Market Crash | 31.00% | ~12,815 |
 | Factory farming | 31.00% | ~12,815 |
@@ -31,14 +31,14 @@ Number of Ratings: 1,635  (23.09.2022)
 | Tide Master | 26.00% | ~10,748 |
 | Difficult family relationships | 25.00% | ~10,335 |
 | MASS-O-BOT | 25.00% | ~10,335 |
-| Prepare the grave | 24.00% | ~9,921 |
-| Angel of Fire | 24.00% | ~9,921 |
+| Prepare the grave | 24.00% | ~9,922 |
+| Angel of Fire | 24.00% | ~9,922 |
 | Where there is Light, there is Shadow | 23.00% | ~9,508 |
 | At the foot of Mount Destiny | 22.00% | ~9,095 |
 | The Force disturbed | 21.00% | ~8,681 |
 | The Victorious Evil | 20.00% | ~8,268 |
-| Chorus of damnation | 19.00% | ~7,854 |
-| We don’t have time! | 19.00% | ~7,854 |
+| Chorus of damnation | 19.00% | ~7,855 |
+| We don’t have time! | 19.00% | ~7,855 |
 | The Stones’ Power | 18.00% | ~7,441 |
 | Flat as a pancake | 17.00% | ~7,028 |
 | Lifeguard | 17.00% | ~7,028 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~827 |
 | Sacrifices! | 2.00% | ~827 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,339 (Ranked 120)  
+Progressed: 41,340 (Ranked 120)  
 Completed: 332 (0.80%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,14 +288,14 @@ Completed: 332 (0.80%) (Ranked 181)
 | 2023-11-24 | 40,937 | 326 |
 | 2023-11-25 | 41,122 | 328 |
 | 2023-11-26 | 41,313 | 330 |
-| 2023-11-27 | 41,339 | 332 |
+| 2023-11-27 | 41,340 | 332 |
 ## Awards
-Max (Great for Beginners): 377  (Ranked 236)  
-Sum: 2,778 (Ranked 182)  
+Max (Great for Beginners): 379  (Ranked 236)  
+Sum: 2,780 (Ranked 182)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 377 |
+| This game is Great for Beginners | 379 |
 | This game is Extremely Fun | 327 |
 | This game has Quickly Understood Controls | 316 |
 | This game is Highly Recommended | 309 |
@@ -542,4 +542,4 @@ Diff (max vs sum): 54
 | 2023-11-24 | 4.66 | - | 375 | 2,770 |
 | 2023-11-25 | 4.66 | - | 377 | 2,773 |
 | 2023-11-26 | 4.66 | - | 377 | 2,777 |
-| 2023-11-27 | 4.66 | - | 377 | 2,778 |
+| 2023-11-27 | 4.66 | - | 379 | 2,780 |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 43,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 506,
-  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 130,
@@ -151,7 +151,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 694,
+  "EOS_Progressed": 695,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
@@ -1516,6 +1516,11 @@
       "Time": "2023-11-27T08:07:19.5445555+00:00",
       "NumProgressed": 694,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T10:05:24.381621+00:00",
+      "NumProgressed": 695,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1536,7 +1541,7 @@
       "Name": "Ab Initio",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "AnthropicHills",
@@ -1742,9 +1747,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 125
     },
     {
       "ID": "MuseumVisitor",
@@ -1784,15 +1789,15 @@
       "Name": "Overload",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 174
     },
     {
       "ID": "PrometheusUnbound",
@@ -1806,9 +1811,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 83
     },
     {
       "ID": "RemnantsOfThePast",
@@ -1816,7 +1821,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "RenaissanceRobot",
@@ -1864,7 +1869,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "TeamSpirit",
@@ -1936,7 +1941,7 @@
       "Name": "The Word Endures",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "TouchGrass",
@@ -1999,7 +2004,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 694,
+      "Progressed": 695,
       "Completed": 1
     }
   ],
@@ -2007,8 +2012,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-26T22:57:15.5535811+00:00",
-  "LastChanged_Achievements": "2023-11-27T09:05:34.9522801+00:00",
+  "LastChanged_Achievements": "2023-11-27T10:05:24.3816207+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-27T08:57:39.434741+00:00",
-  "LastUpdate_Achievements": "2023-11-27T09:05:34.9523202+00:00"
+  "LastUpdate_Ratings": "2023-11-27T09:57:31.2538639+00:00",
+  "LastUpdate_Achievements": "2023-11-27T10:05:24.3816716+00:00"
 }

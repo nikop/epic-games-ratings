@@ -9,7 +9,7 @@
 | For the Horde! | 80.00% | ~372 |
 | Hammer Time, Round Two | 78.00% | ~363 |
 | The Hellwoods | 72.00% | ~335 |
-| The Plains of Strothalm | 67.00% | ~312 |
+| The Plains of Strothalm | 68.00% | ~316 |
 | Experienced Thalya | 67.00% | ~312 |
 | Thalya's Concentrated Fury | 66.00% | ~307 |
 | Bad Elves Go Everywhere | 63.00% | ~293 |
@@ -17,8 +17,8 @@
 | Heroes’ Gorge | 58.00% | ~270 |
 | Unicorn steaks – fresh off the hoof! | 57.00% | ~265 |
 | Magic Accidents | 56.00% | ~260 |
-| Trap Master | 53.00% | ~246 |
-| Minions, Minions! | 52.00% | ~242 |
+| Trap Master | 54.00% | ~251 |
+| Minions, Minions! | 53.00% | ~246 |
 | The Ascent | 48.00% | ~223 |
 | It's Warm and Cozy at Home | 48.00% | ~223 |
 | YOU SHALL NOT PASS! | 44.00% | ~205 |
@@ -61,7 +61,7 @@
 | Evilification | 7.00% | ~33 |
 | Gorgu is in the Best of Health | 6.00% | ~28 |
 | Laser Eyes Are So Useless | 6.00% | ~28 |
-| Heal Heal Blessing | 5.00% | ~23 |
+| Heal Heal Blessing | 6.00% | ~28 |
 | Hands Off My Stones | 5.00% | ~23 |
 | No Mana, No Cry | 4.00% | ~19 |
 | I Don't Need Any Help | 3.00% | ~14 |

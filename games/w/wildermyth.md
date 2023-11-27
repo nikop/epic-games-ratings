@@ -25,9 +25,9 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 0.70% | ~10 |
 | Turncoat | 0.70% | ~10 |
 | A Story of Heroes | 0.60% | ~9 |
+| Empty the Caves | 0.50% | ~7 |
 | Another Tale to Tell | 0.50% | ~7 |
 | No Time for Clawmonsters | 0.50% | ~7 |
-| Empty the Caves | 0.40% | ~6 |
 | Chain Reaction | 0.40% | ~6 |
 | Everfading | 0.40% | ~6 |
 | Storied Past | 0.30% | ~4 |

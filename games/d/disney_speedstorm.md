@@ -5,11 +5,11 @@ Rating: 4.39 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,587 |
-| IT MAKES BOOM! | 7.00% | ~22,010 |
+| ROOKIE | 11.00% | ~34,589 |
+| IT MAKES BOOM! | 7.00% | ~22,011 |
 | EXTRA BOOST | 5.00% | ~15,722 |
-| PROTECTED | 4.00% | ~12,577 |
-| PRO | 4.00% | ~12,577 |
+| PROTECTED | 4.00% | ~12,578 |
+| PRO | 4.00% | ~12,578 |
 | HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,433 |
 | AGGRESSIVE RACER | 3.00% | ~9,433 |
 | A TIGER'S FEAR | 2.00% | ~6,289 |
@@ -19,9 +19,9 @@ Rating: 4.39 (Ranked 748)
 | BE OUR GUEST | 0.90% | ~2,830 |
 | MASTER | 0.90% | ~2,830 |
 | LEGENDARY HERO | 0.90% | ~2,830 |
-| TRAINING HARD | 0.80% | ~2,515 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,515 |
-| FRIENDLY | 0.80% | ~2,515 |
+| TRAINING HARD | 0.80% | ~2,516 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,516 |
+| FRIENDLY | 0.80% | ~2,516 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,201 |
 | EXPERIENCED CREW | 0.60% | ~1,887 |
 | ACE DEFENDER | 0.50% | ~1,572 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 748)
 | ACE TRICKSTER | 0.30% | ~943 |
 | PERFECTLY POISED | 0.20% | ~629 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314,431 (Ranked 52)  
+Progressed: 314,446 (Ranked 52)  
 Completed: 334 (0.11%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,14 +247,14 @@ Completed: 334 (0.11%) (Ranked 280)
 | 2023-11-24 | 310,756 | 327 |
 | 2023-11-25 | 312,443 | 330 |
 | 2023-11-26 | 314,023 | 333 |
-| 2023-11-27 | 314,431 | 334 |
+| 2023-11-27 | 314,446 | 334 |
 ## Awards
-Max (Great for Beginners): 87  (Ranked 383)  
-Sum: 660 (Ranked 307)  
-Diff (max vs sum): 76  
+Max (Great for Beginners): 89  (Ranked 381)  
+Sum: 662 (Ranked 307)  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 87 |
+| This game is Great for Beginners | 89 |
 | This game is Great for Quick Sessions | 81 |
 | This game has Diverse Characters | 76 |
 | This game has Amazing Characters | 55 |
@@ -326,4 +326,4 @@ Diff (max vs sum): 76
 | 2023-11-24 | 4.39 | 81 | 633 |
 | 2023-11-25 | 4.39 | 83 | 640 |
 | 2023-11-26 | 4.39 | 87 | 658 |
-| 2023-11-27 | 4.39 | 87 | 660 |
+| 2023-11-27 | 4.39 | 89 | 662 |
