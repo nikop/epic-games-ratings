@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.16% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 27.15% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.32% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 25.00% |
@@ -58,8 +58,8 @@
 | 55 | [Sonic Origins](games/s/sonic_origins.md) | 7.23% |
 | 57 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 58 | [Time Loader](games/t/time_loader.md) | 7.03% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.97% |
 | 59 | [Scorn](games/s/scorn.md) | 6.97% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.96% |
 | 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.80% |
 | 62 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
@@ -84,7 +84,7 @@
 | 82 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 83 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.31% |
 | 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.26% |
-| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.16% |
+| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.15% |
 | 86 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
 | 87 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 88 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 3.85% |
@@ -182,9 +182,9 @@
 | 179 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.82% |
 | 181 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 182 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
+| 183 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 183 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 183 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.69% |
-| 185 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
 | 186 | [Dead Space](games/d/dead_space.md) | 0.65% |
 | 187 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.64% |
 | 188 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.61% |
@@ -757,4 +757,4 @@
 | 361 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 361 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 361 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,612 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,613 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
