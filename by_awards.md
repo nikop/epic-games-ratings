@@ -56,7 +56,7 @@
 | 54 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 7,180 | 4.69 | 233 |
 | 55 | [Sifu](games/s/sifu.md) | 6,847 | 4.82 | 67 |
 | 56 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 717 |
-| 57 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,623 | 4.75 | 147 |
+| 57 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,638 | 4.75 | 147 |
 | 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,561 | 4.58 | 443 |
 | 59 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,475 | 4.80 | 87 |
 | 60 | [Cities: Skylines](games/c/cities__skylines.md) | 6,312 | 4.66 | 294 |
@@ -93,7 +93,7 @@
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,398 | 4.76 | 125 |
 | 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,388 | 4.68 | 254 |
 | 93 | [Hades](games/h/hades.md) | 3,386 | 4.92 | 4 |
-| 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,365 | 4.57 | 475 |
+| 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,368 | 4.57 | 475 |
 | 95 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,350 | 4.35 | 790 |
 | 96 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,337 | 4.50 | 591 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,051 | 4.50 | 591 |
@@ -239,7 +239,7 @@
 | 237 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 376 | 3.99 | 1,006 |
 | 238 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 372 | 4.31 | 831 |
 | 238 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 372 | 4.55 | 507 |
-| 240 | [Alan Wake 2](games/a/alan_wake_2.md) | 352 | 4.78 | 106 |
+| 240 | [Alan Wake 2](games/a/alan_wake_2.md) | 359 | 4.78 | 106 |
 | 241 | [Inscryption](games/i/inscryption.md) | 347 | 4.86 | 32 |
 | 241 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 347 | 4.72 | 185 |
 | 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 344 | 4.57 | 475 |

@@ -163,7 +163,6 @@
 | [Mount & Blade II: Bannerlord](../games/m/mount_&_blade_ii__bannerlord.md) | 51 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [The Evil Within 2](../games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 51 | 1,000 |
-| [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
 | [Arcadegeddon](../games/a/arcadegeddon.md) | 50 | 1,000 |
 | [Ash of Gods: Redemption](../games/b/bf3261d8abc64fdfb73c3f9c4f7870e0.md) | 50 | 1,000 |
 | [Black Book](../games/b/black_book.md) | 50 | 1,000 |

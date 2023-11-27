@@ -105,7 +105,7 @@
 | 96 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 405 | 231 |
 | 96 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 125 | 338 |
 | 96 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 556 |
-| 106 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 352 | 240 |
+| 106 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 359 | 240 |
 | 106 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 425 |
 | 106 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,826 | 37 |
 | 106 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,445 | 105 |
@@ -146,7 +146,7 @@
 | 125 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 51 | 432 |
 | 125 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 456 |
 | 125 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.76 | 0 | 556 |
-| 147 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,623 | 57 |
+| 147 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,638 | 57 |
 | 147 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 836 | 168 |
 | 147 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.75 | 26 | 515 |
 | 147 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.75 | 0 | 556 |
@@ -484,7 +484,7 @@
 | 475 | [Minit](games/m/minit.md) | 4.57 | 0 | 556 |
 | 475 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 25 | 522 |
 | 475 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,294 | 44 |
-| 475 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,365 | 94 |
+| 475 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,368 | 94 |
 | 475 | [Risen](games/r/risen.md) | 4.57 | 0 | 556 |
 | 475 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.57 | 109 | 352 |
 | 475 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 556 |
