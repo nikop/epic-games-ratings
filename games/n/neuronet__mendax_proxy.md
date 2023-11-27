@@ -21,13 +21,13 @@
 | The Philosopher | 38.00% | ~10 |
 | The Partner | 38.00% | ~10 |
 | Socially Acceptable Insanity | 38.00% | ~10 |
+| The Companion | 38.00% | ~10 |
 | They Flock to Him | 38.00% | ~10 |
 | The Counsellor | 38.00% | ~10 |
 | A Real Headache | 35.00% | ~9 |
 | A Total Riot | 35.00% | ~9 |
 | Everyone Needs a Break | 35.00% | ~9 |
 | Knock Knock | 35.00% | ~9 |
-| The Companion | 35.00% | ~9 |
 | That One Doesn't Count | 31.00% | ~8 |
 | Blood Begets Blood | 27.00% | ~7 |
 | Full Coverage | 27.00% | ~7 |
@@ -40,9 +40,9 @@
 | A Little Eccentric | 19.00% | ~5 |
 | Leave It to the Professionals | 19.00% | ~5 |
 | Ring of Fire | 19.00% | ~5 |
+| The Provocateur | 19.00% | ~5 |
 | Couldn't Have Planned It Better Myself | 15.00% | ~4 |
 | The Mentor | 15.00% | ~4 |
-| The Provocateur | 15.00% | ~4 |
 | Tastes Like Regret | 15.00% | ~4 |
 | The Spice of Life | 15.00% | ~4 |
 | Keeper of the People | 12.00% | ~3 |

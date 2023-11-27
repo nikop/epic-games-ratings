@@ -7,18 +7,18 @@ Number of Ratings: 892  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept Assembler | 223.00% | ~1,070 |
-| Iron Chef | 160.00% | ~768 |
+| Iron Chef | 161.00% | ~773 |
 | Greeno-B-Gone | 119.00% | ~571 |
 | Super Spelunker | 108.00% | ~518 |
 | Your Especially Earned Trajectory | 94.00% | ~451 |
 | The Little Wood that Could | 79.00% | ~379 |
-| On that Grindset | 71.00% | ~341 |
-| One of the Cool Kids | 71.00% | ~341 |
+| On that Grindset | 72.00% | ~346 |
+| One of the Cool Kids | 72.00% | ~346 |
 | No Mountain Wide Enough | 70.00% | ~336 |
 | Yakmel Whisperer | 68.00% | ~326 |
 | Can We Keep It? | 65.00% | ~312 |
 | Diamonds are Forever | 65.00% | ~312 |
-| Pack Mule | 63.00% | ~302 |
+| Pack Mule | 64.00% | ~307 |
 | I Do! | 61.00% | ~293 |
 | Unboxing | 60.00% | ~288 |
 | First Love | 58.00% | ~278 |
@@ -26,25 +26,25 @@ Number of Ratings: 892  (23.09.2022)
 | Big Game Hunter | 54.00% | ~259 |
 | Financially Secure | 53.00% | ~254 |
 | Got Served | 53.00% | ~254 |
+| Officially Official | 51.00% | ~245 |
 | Happier-est Place on Earth | 51.00% | ~245 |
 | Mole Masher | 51.00% | ~245 |
 | Builder of the Month | 50.00% | ~240 |
 | Better Late than Never | 50.00% | ~240 |
-| Officially Official | 50.00% | ~240 |
 | Elementary, My Dear | 50.00% | ~240 |
 | You Don't Win Friends With Salad | 50.00% | ~240 |
 | Panda-kin | 49.00% | ~235 |
 | Anti-Santa | 49.00% | ~235 |
+| Commissions, commissions...! | 48.00% | ~230 |
 | Martle's Dream | 48.00% | ~230 |
 | What Plants Crave | 48.00% | ~230 |
 | Call Me Fishmael | 48.00% | ~230 |
 | Knowledge is Power | 47.00% | ~226 |
-| Commissions, commissions...! | 47.00% | ~226 |
 | Lifeline Pipeline | 47.00% | ~226 |
 | Waste Not Want Not | 47.00% | ~226 |
 | Finishing Touches | 45.00% | ~216 |
 | Bridging the Gap | 43.00% | ~206 |
-| Got the Flow Back | 40.00% | ~192 |
+| Got the Flow Back | 41.00% | ~197 |
 | My Time Mansion | 38.00% | ~182 |
 | Who Ya Gonna Call...? | 38.00% | ~182 |
 | Sepia Toned Memories | 37.00% | ~178 |
@@ -100,17 +100,17 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-27 | 496 | 0 |
 ## Awards
 Max (Character Customization): 599  (Ranked 196)  
-Sum: 1,402 (Ranked 240)  
+Sum: 1,405 (Ranked 240)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 599 |
 | This game is Great for Beginners | 113 |
-| This game is Highly Recommended | 89 |
+| This game is Highly Recommended | 90 |
 | This game is Extremely Fun | 88 |
 | This game has Quickly Understood Controls | 85 |
 | This game has Diverse Characters | 80 |
-| This game is Relaxing | 74 |
+| This game is Relaxing | 76 |
 | This game has Amazing Characters | 73 |
 | This game has Amazing Storytelling | 72 |
 | This game has Easy Combat | 70 |
@@ -293,4 +293,4 @@ Diff (max vs sum): -44
 | 2023-11-24 | 4.68 | - | 599 | 1,393 |
 | 2023-11-25 | 4.68 | - | 599 | 1,395 |
 | 2023-11-26 | 4.68 | - | 599 | 1,400 |
-| 2023-11-27 | 4.68 | - | 599 | 1,402 |
+| 2023-11-27 | 4.68 | - | 599 | 1,405 |

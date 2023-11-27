@@ -5,7 +5,7 @@
   "Ranking_Rating": 148,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 129,
-  "Ranking_EOS_Progress": 68,
+  "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 7,
@@ -4851,10 +4851,10 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 229579,
+  "EOS_Progressed": 229595,
   "EOS_Completed": 538,
-  "EOS_NewPlayers": 4933,
-  "EOS_NewCompleters": 44,
+  "EOS_NewPlayers": 4926,
+  "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20236,6 +20236,11 @@
       "Time": "2023-11-27T21:08:53.0811531+00:00",
       "NumProgressed": 229579,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-11-27T22:08:58.8260019+00:00",
+      "NumProgressed": 229595,
+      "NumCompleted": 538
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20328,7 +20333,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20350,9 +20355,9 @@
       "ID": "Defeat_Special_Enemies",
       "SetID": "bkp3b1a",
       "Name": "Not So Special Now",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 689
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -20582,9 +20587,9 @@
       "ID": "Upgrade_Boss_Weapon_A",
       "SetID": "bkp3b1a",
       "Name": "The Ultimate Weapon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 459
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -20648,7 +20653,7 @@
       "Name": "Regicide",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -20656,7 +20661,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -20664,7 +20669,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -20680,20 +20685,20 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229579,
+      "Progressed": 229595,
       "Completed": 538
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8744,
+      "Progressed": 8760,
       "Completed": 165
     }
   ],
@@ -20701,8 +20706,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-27T21:03:19.9918845+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:08:53.0811525+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:08:58.8260016+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:03:19.9918849+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:08:53.0812684+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:03:13.0348977+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:08:58.8261136+00:00"
 }

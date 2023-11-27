@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 377,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1167,6 +1167,11 @@
       "Time": "2023-11-27T20:04:45.5489768+00:00",
       "NumProgressed": 376,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T22:04:36.1274868+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1178,7 +1183,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1224,9 +1229,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1234,7 +1239,7 @@
       "Name": "Lethal Blade Mantis Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1242,7 +1247,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1266,7 +1271,7 @@
       "Name": "Training Simulation",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1304,9 +1309,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1314,7 +1319,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1346,7 +1351,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1522,7 +1527,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1530,14 +1535,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 377,
       "Completed": 1
     }
   ],
@@ -1545,8 +1550,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:04:44.7802312+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:04:36.1274864+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:57:56.0625949+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:04:44.7802681+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:57:51.5686555+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:04:36.127525+00:00"
 }

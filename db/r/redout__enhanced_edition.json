@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236298,
+  "EOS_Progressed": 236299,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23612,6 +23612,11 @@
       "Time": "2023-11-27T21:06:06.9249838+00:00",
       "NumProgressed": 236298,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-27T22:05:55.9421127+00:00",
+      "NumProgressed": 236299,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23639,7 +23644,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66163
+      "UsersEstimate": 66164
     },
     {
       "ID": "CENTAUR",
@@ -23759,7 +23764,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77978
+      "UsersEstimate": 77979
     },
     {
       "ID": "NOBUNAGA",
@@ -23887,22 +23892,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96882
+      "UsersEstimate": 96883
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236298,
+      "Progressed": 236299,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:06:06.9249832+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:05:55.9421121+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:57:59.7152942+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:06:06.9250817+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:57:55.2688181+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:05:55.9422516+00:00"
 }

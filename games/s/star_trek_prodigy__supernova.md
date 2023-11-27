@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 47.00% | ~8 |
+| Restoring the Protostar | 53.00% | ~9 |
 | Three Watchers, Two Phasers | 35.00% | ~6 |
 | Guess who's back | 29.00% | ~5 |
 | One for the Crew | 24.00% | ~4 |

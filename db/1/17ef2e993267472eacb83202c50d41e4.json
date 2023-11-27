@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -7501,9 +7501,9 @@
       "ID": "DHUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Deflector Helmet to Level 3",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 75
     },
     {
       "ID": "EARUpgraded1",
@@ -7581,9 +7581,9 @@
       "ID": "GamesWon1",
       "SetID": "12d07c7",
       "Name": "Won a Match",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1662
     },
     {
       "ID": "GamesWon10",
@@ -8038,8 +8038,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-24T13:07:54.0480111+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:09:43.1426214+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:09:47.722332+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:03:08.1666466+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:09:43.1427294+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:03:00.7954381+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:09:47.7224412+00:00"
 }

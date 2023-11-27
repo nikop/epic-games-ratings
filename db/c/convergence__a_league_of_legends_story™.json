@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 940,
+  "EOS_Progressed": 941,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2519,6 +2519,11 @@
       "Time": "2023-11-27T19:09:27.2748103+00:00",
       "NumProgressed": 940,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-27T22:09:12.8081937+00:00",
+      "NumProgressed": 941,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2538,7 +2543,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2650,7 +2655,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2680,9 +2685,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 141
     },
     {
       "ID": "GrindingTime1",
@@ -2690,7 +2695,7 @@
       "Name": "Rail Rat",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "HexlockGift",
@@ -2778,7 +2783,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ParryRepeated1",
@@ -2786,7 +2791,7 @@
       "Name": "No, Thanks!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2794,7 +2799,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2802,7 +2807,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "PidgeDefeated",
@@ -2818,7 +2823,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "RewindParry",
@@ -2826,7 +2831,7 @@
       "Name": "Honest Mistake",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2858,7 +2863,7 @@
       "Name": "Fast Learner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "SpeedRun",
@@ -2874,7 +2879,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "SyronGift",
@@ -2882,7 +2887,7 @@
       "Name": "Syron for Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2914,7 +2919,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "WatcherFought",
@@ -2953,7 +2958,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 940,
+      "Progressed": 941,
       "Completed": 6
     }
   ],
@@ -2961,8 +2966,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:09:07.4725811+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:09:12.8081934+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:58:41.3817244+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:09:07.4726253+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:58:37.1312889+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:09:12.8082343+00:00"
 }

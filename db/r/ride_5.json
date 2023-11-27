@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2294,
+  "EOS_Progressed": 2295,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -5472,6 +5472,11 @@
       "Time": "2023-11-27T20:09:48.8002932+00:00",
       "NumProgressed": 2294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T22:09:46.1315467+00:00",
+      "NumProgressed": 2295,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5484,7 +5489,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5772,7 +5777,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5780,7 +5785,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5836,7 +5841,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5875,14 +5880,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2294,
+      "Progressed": 2295,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:09:41.4924295+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:09:46.1315463+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.7913611+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:59:29.5445434+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:09:41.492488+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:59:23.9961084+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:09:46.1316213+00:00"
 }

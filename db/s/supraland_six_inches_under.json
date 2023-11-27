@@ -2362,9 +2362,9 @@
       "ID": "Area2",
       "SetID": "5lok9mm",
       "Name": "Industrial Area",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2095
     },
     {
       "ID": "Area3",
@@ -2778,8 +2778,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-11-25T08:00:41.8887629+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:06:09.9278962+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:05:58.930522+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:49.8265484+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:59:56.2649798+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:06:09.9279508+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:59:51.1523369+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:05:58.9305667+00:00"
 }

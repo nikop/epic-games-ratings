@@ -7,7 +7,7 @@
 | Shipwrecked! | 76.00% | ~16 |
 | Sea Legs | 71.00% | ~15 |
 | What?! | 48.00% | ~10 |
-| Frogs Legs | 33.00% | ~7 |
+| Frogs Legs | 38.00% | ~8 |
 | Mad Scientist | 29.00% | ~6 |
 | Hoist the Sails | 24.00% | ~5 |
 | Secure the Sheets | 24.00% | ~5 |

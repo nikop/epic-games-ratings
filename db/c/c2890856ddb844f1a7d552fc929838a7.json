@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -171,9 +171,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1031,
+  "EOS_Progressed": 1032,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2671,6 +2671,11 @@
       "Time": "2023-11-27T18:08:42.2535159+00:00",
       "NumProgressed": 1031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T22:08:46.6847822+00:00",
+      "NumProgressed": 1032,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -2699,7 +2704,7 @@
       "Name": "Blood and Dust",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "AC03",
@@ -2707,7 +2712,7 @@
       "Name": "Blood and Gold",
       "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "AC04",
@@ -2739,7 +2744,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "AC08",
@@ -2747,7 +2752,7 @@
       "Name": "Forged in Fire",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "AC09",
@@ -2755,7 +2760,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "AC10",
@@ -2763,7 +2768,7 @@
       "Name": "The Wait is Over",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "AC11",
@@ -2793,9 +2798,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 227
     },
     {
       "ID": "AC15",
@@ -2827,7 +2832,7 @@
       "Name": "Acquired Taste",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "AC19",
@@ -2835,7 +2840,7 @@
       "Name": "Soledad",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "AC20",
@@ -2851,7 +2856,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "AC22",
@@ -2875,7 +2880,7 @@
       "Name": "The Work of a Master",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "AC25",
@@ -2891,7 +2896,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "AC27",
@@ -2915,7 +2920,7 @@
       "Name": "The Veteran One",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "AC30",
@@ -2931,7 +2936,7 @@
       "Name": "The Merciless One",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "AC32",
@@ -2947,7 +2952,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "AC34",
@@ -2963,7 +2968,7 @@
       "Name": "Flawless Penance",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "AC36",
@@ -2971,7 +2976,7 @@
       "Name": "Blessed Incense",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "AC37",
@@ -2987,7 +2992,7 @@
       "Name": "Edge of Orison",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "AC39",
@@ -3003,7 +3008,7 @@
       "Name": "Welcome Back!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "AC41",
@@ -3050,7 +3055,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1031,
+      "Progressed": 1032,
       "Completed": 0
     }
   ],
@@ -3058,8 +3063,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-18T16:58:56.9508532+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:08:40.6726589+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:08:46.6847816+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:32.1505355+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:59:25.1473834+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:08:40.6727032+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:59:19.703405+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:08:46.68483+00:00"
 }

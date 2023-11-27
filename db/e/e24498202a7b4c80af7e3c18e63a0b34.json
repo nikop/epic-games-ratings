@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7076,
+  "EOS_Progressed": 7077,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
@@ -6308,6 +6308,11 @@
       "Time": "2023-11-27T20:03:39.7913189+00:00",
       "NumProgressed": 7076,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-11-27T22:03:31.2813178+00:00",
+      "NumProgressed": 7077,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6320,7 +6325,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6156
+      "UsersEstimate": 6157
     },
     {
       "ID": "achievement_01_02",
@@ -6328,7 +6333,7 @@
       "Name": "Tournament Star",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "achievement_01_03",
@@ -6344,7 +6349,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5236
+      "UsersEstimate": 5237
     },
     {
       "ID": "achievement_01_05",
@@ -6352,7 +6357,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "achievement_01_06",
@@ -6376,7 +6381,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5236
+      "UsersEstimate": 5237
     },
     {
       "ID": "achievement_01_09",
@@ -6448,7 +6453,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "achievement_02_08",
@@ -6456,7 +6461,7 @@
       "Name": "Car Specialist",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "achievement_03_01",
@@ -6480,7 +6485,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "achievement_03_04",
@@ -6568,7 +6573,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3750
+      "UsersEstimate": 3751
     },
     {
       "ID": "achievement_04_04",
@@ -6608,7 +6613,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "achievement_04_09",
@@ -6623,7 +6628,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7076,
+      "Progressed": 7077,
       "Completed": 41
     }
   ],
@@ -6631,8 +6636,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-18T21:58:48.6399645+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:03:37.2795566+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:03:31.2813174+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:06.7248226+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:59:45.4236618+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:03:37.2796023+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:59:40.1935208+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:03:31.2813601+00:00"
 }

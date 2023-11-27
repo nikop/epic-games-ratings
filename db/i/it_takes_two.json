@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24527,
+  "EOS_Progressed": 24529,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 1644,
   "EOS_NewCompleters": 10,
@@ -8048,6 +8048,11 @@
       "Time": "2023-11-27T21:08:56.4250262+00:00",
       "NumProgressed": 24527,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-11-27T22:09:02.1747908+00:00",
+      "NumProgressed": 24529,
+      "NumCompleted": 105
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -8060,7 +8065,7 @@
       "Name": "It Took Two",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 10792
+      "UsersEstimate": 10793
     },
     {
       "ID": "achievement_10",
@@ -8084,7 +8089,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 13980
+      "UsersEstimate": 13982
     },
     {
       "ID": "achievement_13",
@@ -8092,7 +8097,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "achievement_14",
@@ -8132,7 +8137,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "achievement_19",
@@ -8164,7 +8169,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 21338
+      "UsersEstimate": 21340
     },
     {
       "ID": "achievement_4",
@@ -8172,7 +8177,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 21584
+      "UsersEstimate": 21586
     },
     {
       "ID": "achievement_5",
@@ -8196,7 +8201,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 19131
+      "UsersEstimate": 19133
     },
     {
       "ID": "achievement_8",
@@ -8212,20 +8217,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12754
+      "UsersEstimate": 12755
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 24527,
+      "Progressed": 24529,
       "Completed": 105
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:08:56.4250256+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:09:02.1747904+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:15.6228469+00:00",
   "LastUpdate_Ratings": "2023-11-27T21:02:54.0095416+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:08:56.425073+00:00"
+  "LastUpdate_Achievements": "2023-11-27T22:09:02.1748517+00:00"
 }

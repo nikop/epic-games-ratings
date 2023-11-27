@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -567,9 +567,9 @@
       "ID": "LOVERS",
       "SetID": "40o4f14",
       "Name": "Lover\u0027s dream",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "MERCENARY",
@@ -583,9 +583,9 @@
       "ID": "MINES",
       "SetID": "40o4f14",
       "Name": "The mines",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MIRROR",
@@ -694,8 +694,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:04:56.7916096+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:04:47.9077422+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:57:55.0992878+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:04:56.7916282+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:57:50.620812+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:04:47.9077636+00:00"
 }

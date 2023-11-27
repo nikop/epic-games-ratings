@@ -116,6 +116,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Just Resting In My Account | 0.10% | ~465 |
 | A Kaiser not just in name | 0.10% | ~465 |
 | Keep the Flame Burning | 0.10% | ~465 |
+| KHAAAAAAN | 0.10% | ~465 |
 | King of Jerusalem | 0.10% | ~465 |
 | Kingdom of God | 0.10% | ~465 |
 | Kirishitan Japan | 0.10% | ~465 |
@@ -301,7 +302,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
-| KHAAAAAAN | 0.00% | ~0 |
 | Kinslayer | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Komnenoi Empire | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,960 (Ranked 41)  
+Progressed: 464,978 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,10 +591,10 @@ Completed: 1 (0.00%) (Ranked 361)
 | 2023-11-24 | 462,785 | 1 |
 | 2023-11-25 | 463,679 | 1 |
 | 2023-11-26 | 464,479 | 1 |
-| 2023-11-27 | 464,960 | 1 |
+| 2023-11-27 | 464,978 | 1 |
 ## Awards
 Max (Educational): 7,187  (Ranked 54)  
-Sum: 59,106 (Ranked 24)  
+Sum: 59,114 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -603,7 +603,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,881 |
 | This game has Challenging Combat | 6,809 |
 | This game is Extremely Fun | 6,770 |
-| This game is Relaxing | 6,590 |
+| This game is Relaxing | 6,598 |
 | This game has Competitive Players | 6,429 |
 | This game has Amazing Storytelling | 5,979 |
 | This game has Amazing Characters | 5,527 |
@@ -925,4 +925,4 @@ Diff (max vs sum): 30
 | 2023-11-24 | 4.69 | - | 7,144 | 58,780 |
 | 2023-11-25 | 4.69 | - | 7,165 | 58,897 |
 | 2023-11-26 | 4.69 | - | 7,180 | 59,017 |
-| 2023-11-27 | 4.69 | - | 7,187 | 59,106 |
+| 2023-11-27 | 4.69 | - | 7,187 | 59,114 |

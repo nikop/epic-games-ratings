@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 770,
-  "EOS_Completed": 40,
+  "EOS_Completed": 41,
   "EOS_NewPlayers": 146,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.19,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 5.32,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3120,6 +3120,11 @@
       "Time": "2023-11-27T18:05:12.8404361+00:00",
       "NumProgressed": 770,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-27T22:04:27.44987+00:00",
+      "NumProgressed": 770,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 25,
@@ -3209,9 +3214,9 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 77
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3331,13 +3336,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 770,
-      "Completed": 40
+      "Completed": 41
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:04:35.8054495+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:04:27.4498694+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:57:35.0017731+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:04:35.8054795+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:57:31.7450036+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:04:27.4498989+00:00"
 }

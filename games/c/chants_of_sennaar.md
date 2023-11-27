@@ -27,11 +27,11 @@
 | Rascal | 13.00% | ~100 |
 | A Link to the Past | 12.00% | ~92 |
 | A great audience | 11.00% | ~85 |
-| For its own good | 9.00% | ~69 |
+| For its own good | 10.00% | ~77 |
 | Fashion victim | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 770 (Ranked 277)  
-Completed: 40 (5.19%) (Ranked 71)  
+Completed: 41 (5.32%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,4 +158,4 @@ Completed: 40 (5.19%) (Ranked 71)
 | 2023-11-24 | 707 | 35 |
 | 2023-11-25 | 737 | 37 |
 | 2023-11-26 | 761 | 38 |
-| 2023-11-27 | 770 | 40 |
+| 2023-11-27 | 770 | 41 |

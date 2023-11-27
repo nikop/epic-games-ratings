@@ -137,7 +137,7 @@
   "Tags": [],
   "EOS_Progressed": 6867,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1199,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4904,17 +4904,17 @@
       "ID": "TheFloorIsLava",
       "SetID": "acc6ea0",
       "Name": "The Floor Is Lava",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 206
     },
     {
       "ID": "TheOldSchoolWay",
       "SetID": "acc6ea0",
       "Name": "The Old-School Way",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 824
+      "UsersEstimate": 893
     },
     {
       "ID": "TheQuarterback",
@@ -5001,8 +5001,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-27T07:58:34.9093892+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:09:22.7481919+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:09:27.9468384+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:58:26.5214071+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:09:22.7482356+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:58:22.8361827+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:09:27.9468824+00:00"
 }

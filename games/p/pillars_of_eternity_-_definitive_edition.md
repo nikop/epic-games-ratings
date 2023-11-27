@@ -6,7 +6,7 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 83.00% | ~903 |
+| Kickstarter Backer | 83.00% | ~902 |
 | Completed Act I | 31.00% | ~337 |
 | 5 Upgrades in Stronghold | 26.00% | ~283 |
 | First 5 Levels of Od Nua | 25.00% | ~272 |
@@ -20,7 +20,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | All Upgrades in Stronghold | 14.00% | ~152 |
 | Soulbinder | 14.00% | ~152 |
 | The Heir of Caed Nua | 13.00% | ~141 |
-| Last 5 Levels of Od Nua | 12.00% | ~131 |
+| Last 5 Levels of Od Nua | 12.00% | ~130 |
 | Bounty Hunter | 11.00% | ~120 |
 | The Giftbearer | 11.00% | ~120 |
 | Trappy | 9.00% | ~98 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | From the Clouds to the Depths | 5.00% | ~54 |
 | Appease All of the Gods | 5.00% | ~54 |
 | Terror of the White March | 5.00% | ~54 |
-| Scribe | 4.00% | ~44 |
+| Scribe | 4.00% | ~43 |
 | Won the Game!!! | 3.00% | ~33 |
 | The Storied Adventurer | 3.00% | ~33 |
 | Among the Moss and Peat | 2.00% | ~22 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088 (Ranked 259)  
+Progressed: 1,087 (Ranked 259)  
 Completed: 2 (0.18%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |

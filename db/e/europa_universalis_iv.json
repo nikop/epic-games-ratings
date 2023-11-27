@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12511,10 +12511,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 59106,
       "NumberOfAwardsMax": 7187
+    },
+    {
+      "Time": "2023-11-27T22:00:19.0460821+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 59114,
+      "NumberOfAwardsMax": 7187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59106,
+  "NumberOfAwards": 59114,
   "NumberOfAwardsMax": 7187,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12564,7 +12570,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6590
+      "Count": 6598
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12585,9 +12591,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 464960,
+  "EOS_Progressed": 464978,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4740,
+  "EOS_NewPlayers": 4727,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37970,6 +37976,11 @@
       "Time": "2023-11-27T21:06:36.159829+00:00",
       "NumProgressed": 464960,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T22:06:24.7815219+00:00",
+      "NumProgressed": 464978,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -39259,9 +39270,9 @@
       "ID": "achievement_khaaaaaan",
       "SetID": "8p2n7he",
       "Name": "KHAAAAAAN",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_king_of_jerusalem",
@@ -40884,21 +40895,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 464960,
+      "Progressed": 464978,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 464960,
+      "Progressed": 464978,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-27T21:00:24.8463095+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:06:36.1598285+00:00",
+  "LastChanged": "2023-11-27T22:00:19.046082+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:06:24.7815216+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:00:24.8463101+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:06:36.1609415+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:00:19.0460825+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:06:24.7827075+00:00"
 }

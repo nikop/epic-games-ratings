@@ -9,7 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 6.00% | ~8,552 |
 | Basic in Bulk | 6.00% | ~8,552 |
 | Titan's First Steps | 6.00% | ~8,552 |
-| Tinkle of Coins | 5.00% | ~7,126 |
+| Tinkle of Coins | 5.00% | ~7,127 |
 | Disintermediation | 4.00% | ~5,701 |
 | It's Free Real Estate | 4.00% | ~5,701 |
 | Budding Merchant | 4.00% | ~5,701 |
@@ -23,38 +23,38 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 3.00% | ~4,276 |
 | Through Repetition, Perfection | 3.00% | ~4,276 |
 | Own the Means of Production | 3.00% | ~4,276 |
-| On the Path to Greatness | 2.00% | ~2,850 |
-| Ascended | 2.00% | ~2,850 |
-| Tax not Included | 2.00% | ~2,850 |
-| Research & Development | 2.00% | ~2,850 |
-| Vanity, Verily | 2.00% | ~2,850 |
-| Fated Encounters | 2.00% | ~2,850 |
-| For the Hoard! | 2.00% | ~2,850 |
-| Blank Page Syndrome | 2.00% | ~2,850 |
-| Scrapbooker | 2.00% | ~2,850 |
-| Demand for Supplies | 2.00% | ~2,850 |
-| Flooding the Market | 2.00% | ~2,850 |
-| Where it Hurts | 2.00% | ~2,850 |
-| This Power Level...! | 2.00% | ~2,850 |
-| Power of Love | 2.00% | ~2,850 |
-| Expansion in Session | 2.00% | ~2,850 |
-| Efficient Floor Space | 2.00% | ~2,850 |
-| Flawless Fusion | 2.00% | ~2,850 |
-| Trash to Treasure | 2.00% | ~2,850 |
-| Gem Expert | 2.00% | ~2,850 |
-| Gild-Gotten Goods | 2.00% | ~2,850 |
-| Royal Ransom | 2.00% | ~2,850 |
-| Helping Hand | 2.00% | ~2,850 |
-| Accomplished Merchant | 2.00% | ~2,850 |
-| Dungeon Imports | 2.00% | ~2,850 |
-| Natural 20 | 2.00% | ~2,850 |
-| Seasoned Journeyman | 2.00% | ~2,850 |
-| Did we pack lunch? | 2.00% | ~2,850 |
-| Black Friday Special | 2.00% | ~2,850 |
-| Magical Harmony | 2.00% | ~2,850 |
-| Special Ingredient | 2.00% | ~2,850 |
-| Arcane Industries | 2.00% | ~2,850 |
-| Complete Monopoly | 2.00% | ~2,850 |
+| On the Path to Greatness | 2.00% | ~2,851 |
+| Ascended | 2.00% | ~2,851 |
+| Tax not Included | 2.00% | ~2,851 |
+| Research & Development | 2.00% | ~2,851 |
+| Vanity, Verily | 2.00% | ~2,851 |
+| Fated Encounters | 2.00% | ~2,851 |
+| For the Hoard! | 2.00% | ~2,851 |
+| Blank Page Syndrome | 2.00% | ~2,851 |
+| Scrapbooker | 2.00% | ~2,851 |
+| Demand for Supplies | 2.00% | ~2,851 |
+| Flooding the Market | 2.00% | ~2,851 |
+| Where it Hurts | 2.00% | ~2,851 |
+| This Power Level...! | 2.00% | ~2,851 |
+| Power of Love | 2.00% | ~2,851 |
+| Expansion in Session | 2.00% | ~2,851 |
+| Efficient Floor Space | 2.00% | ~2,851 |
+| Flawless Fusion | 2.00% | ~2,851 |
+| Trash to Treasure | 2.00% | ~2,851 |
+| Gem Expert | 2.00% | ~2,851 |
+| Gild-Gotten Goods | 2.00% | ~2,851 |
+| Royal Ransom | 2.00% | ~2,851 |
+| Helping Hand | 2.00% | ~2,851 |
+| Accomplished Merchant | 2.00% | ~2,851 |
+| Dungeon Imports | 2.00% | ~2,851 |
+| Natural 20 | 2.00% | ~2,851 |
+| Seasoned Journeyman | 2.00% | ~2,851 |
+| Did we pack lunch? | 2.00% | ~2,851 |
+| Black Friday Special | 2.00% | ~2,851 |
+| Magical Harmony | 2.00% | ~2,851 |
+| Special Ingredient | 2.00% | ~2,851 |
+| Arcane Industries | 2.00% | ~2,851 |
+| Complete Monopoly | 2.00% | ~2,851 |
 | A Notch Above the Rest | 1.00% | ~1,425 |
 | Cream of the Crop | 1.00% | ~1,425 |
 | Top of the World | 1.00% | ~1,425 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,525 (Ranked 80)  
+Progressed: 142,535 (Ranked 80)  
 Completed: 278 (0.20%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 278 (0.20%) (Ranked 256)
 | 2023-11-24 | 141,659 | 215 |
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
-| 2023-11-27 | 142,525 | 278 |
+| 2023-11-27 | 142,535 | 278 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,609 (Ranked 50)  

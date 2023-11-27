@@ -3305,7 +3305,7 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17505,
+  "EOS_Progressed": 17506,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": -2,
@@ -14320,6 +14320,11 @@
       "Time": "2023-11-27T21:08:47.2668345+00:00",
       "NumProgressed": 17505,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-27T22:08:53.0438103+00:00",
+      "NumProgressed": 17506,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14458,9 +14463,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearBattleground",
@@ -14482,9 +14487,9 @@
       "ID": "WinNearDangerous",
       "SetID": "cfbk359",
       "Name": "Dangerous Lands",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearFertile",
@@ -14530,9 +14535,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearMonastery",
@@ -14602,9 +14607,9 @@
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinOnMarshlands",
@@ -14730,17 +14735,17 @@
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 88
     },
     {
       "ID": "WinNearFrosts",
       "SetID": "cfbk359",
       "Name": "Frosts",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 70
     },
     {
       "ID": "WinNearGreed",
@@ -14770,17 +14775,17 @@
       "ID": "WinNearPresence",
       "SetID": "cfbk359",
       "Name": "Ominous Presence",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 70
     },
     {
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 70
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -14803,15 +14808,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17505,
+      "Progressed": 17506,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-27T19:58:26.3844836+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:08:47.2668338+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:08:53.04381+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:58:21.9605554+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:08:47.2669429+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:58:18.576353+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:08:53.0439251+00:00"
 }

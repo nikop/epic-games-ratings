@@ -4,7 +4,7 @@
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 13.16,
+  "EOS_Completed_Percentage": 12.99,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -389,6 +389,11 @@
       "Time": "2023-11-27T18:10:04.9481239+00:00",
       "NumProgressed": 76,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-27T22:09:39.9580595+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -401,7 +406,7 @@
       "Name": "First tower built",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
@@ -409,7 +414,7 @@
       "Name": "Hanoi beginner",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "03_ACHIEVEMENT_Level_20",
@@ -488,14 +493,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:09:35.0823972+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:09:39.9580592+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.6558312+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:57:37.5478643+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:09:35.0824074+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:57:34.0545798+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:09:39.9580704+00:00"
 }

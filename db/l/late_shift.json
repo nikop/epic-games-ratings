@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -1620,6 +1620,11 @@
       "Time": "2023-11-27T11:08:32.1079545+00:00",
       "NumProgressed": 682,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-27T22:08:53.7075247+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1631,7 +1636,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1685,17 +1690,17 @@
       "ID": "ENDING_6",
       "SetID": "8eejhlh",
       "Name": "The Bribe",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 171
     },
     {
       "ID": "ENDING_7",
       "SetID": "8eejhlh",
       "Name": "The Frenzy",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 218
+      "UsersEstimate": 212
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1775,7 +1780,7 @@
       "Name": "Shill Bidder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1790,7 +1795,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 9
     }
   ],
@@ -1798,8 +1803,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:08:47.9800663+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:08:53.7075244+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.6156226+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:58:13.1008704+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:08:47.9800866+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:58:10.2413466+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:08:53.7075479+00:00"
 }

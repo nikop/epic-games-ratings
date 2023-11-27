@@ -15,9 +15,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Queen's Gratitude | 12.00% | ~1,463 |
 | Fifth Crusade | 9.00% | ~1,097 |
 | Embrace of the Abyss | 7.00% | ~853 |
+| Demonic and Divine | 7.00% | ~853 |
 | Path of the Angel | 6.00% | ~732 |
 | Great Upstart | 6.00% | ~732 |
-| Demonic and Divine | 6.00% | ~732 |
 | Path of the Azata | 5.00% | ~610 |
 | Transformation | 5.00% | ~610 |
 | The Legacy | 5.00% | ~610 |

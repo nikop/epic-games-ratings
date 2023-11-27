@@ -3,9 +3,9 @@
   "Name": "Hide and Seek",
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 484,
-  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 57,
-  "EOS_Completed": 12,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 27,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 21.05,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 24.56,
   "EosHistory": [
     {
       "Time": "2023-10-27T08:03:12.3297461+00:00",
@@ -229,6 +229,11 @@
       "Time": "2023-11-27T21:03:24.3662998+00:00",
       "NumProgressed": 57,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-27T22:03:18.6281298+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-27T08:03:12.3312998+00:00",
@@ -279,9 +284,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "dhh8kbc",
       "Name": "Seekers win!",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 150,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
@@ -289,13 +294,13 @@
       "ID": "dhh8kbc",
       "IsBase": true,
       "Progressed": 57,
-      "Completed": 12
+      "Completed": 14
     }
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:03:24.3662994+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:03:18.628129+00:00",
   "LastUpdate_AppInfo": "2023-11-24T10:57:18.5833512+00:00",
-  "LastUpdate_Ratings": "2023-11-27T21:00:16.611007+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:03:24.3663091+00:00"
+  "LastUpdate_Ratings": "2023-11-27T22:00:10.5654879+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:03:18.6281413+00:00"
 }

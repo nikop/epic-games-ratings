@@ -20,9 +20,9 @@ Rating: 4.05 (Ranked 987)
 | Control is an Illusion | 29.00% | ~90 |
 | The Means to Save It | 25.00% | ~78 |
 | Resilience to Sin | 21.00% | ~65 |
-| A Familiar Nest | 20.00% | ~62 |
+| A Familiar Nest | 21.00% | ~65 |
+| Periapt Alizarin | 21.00% | ~65 |
 | Geas Aristeya | 20.00% | ~62 |
-| Periapt Alizarin | 20.00% | ~62 |
 | A Perfect Cycle | 18.00% | ~56 |
 | Recruit | 17.00% | ~53 |
 | Armsman | 17.00% | ~53 |

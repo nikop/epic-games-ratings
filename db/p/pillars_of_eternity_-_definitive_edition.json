@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 3612,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -3315,9 +3315,9 @@
       "Count": 188
     }
   ],
-  "EOS_Progressed": 1088,
+  "EOS_Progressed": 1087,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": -1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3595,6 +3595,11 @@
       "Time": "2023-11-27T16:05:05.6367135+00:00",
       "NumProgressed": 1088,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-27T22:04:30.7783287+00:00",
+      "NumProgressed": 1087,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -3654,7 +3659,7 @@
       "Name": "Scribe",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_08",
@@ -3838,7 +3843,7 @@
       "Name": "Last 5 Levels of Od Nua",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_31",
@@ -3886,7 +3891,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 902
     },
     {
       "ID": "achievement_37",
@@ -3989,15 +3994,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1088,
+      "Progressed": 1087,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-11-27T15:58:06.7700084+00:00",
-  "LastChanged_Achievements": "2023-11-27T21:04:39.2695978+00:00",
+  "LastChanged_Achievements": "2023-11-27T22:04:30.7783284+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:19.2765739+00:00",
-  "LastUpdate_Ratings": "2023-11-27T20:58:04.3398886+00:00",
-  "LastUpdate_Achievements": "2023-11-27T21:04:39.2696277+00:00"
+  "LastUpdate_Ratings": "2023-11-27T21:58:00.2878645+00:00",
+  "LastUpdate_Achievements": "2023-11-27T22:04:30.7783598+00:00"
 }
