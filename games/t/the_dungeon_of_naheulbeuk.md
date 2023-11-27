@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,982 |
-| Alt+F4 | 9.00% | ~21,595 |
+| Sowwy! | 35.00% | ~83,983 |
+| Alt+F4 | 9.00% | ~21,596 |
 | Where's that freaking Dwarf? | 8.00% | ~19,196 |
 | Déjà vu | 6.00% | ~14,397 |
-| Sock! SOCK! | 5.00% | ~11,997 |
-| Speedrun | 5.00% | ~11,997 |
+| Sock! SOCK! | 5.00% | ~11,998 |
+| Speedrun | 5.00% | ~11,998 |
 | A beer, two curses, three companions | 4.00% | ~9,598 |
 | GG EZ | 4.00% | ~9,598 |
 | DM intervention | 4.00% | ~9,598 |
 | Fireproof Wizardess | 4.00% | ~9,598 |
-| Livin' in a dwarven paradise | 3.00% | ~7,198 |
-| Way of the Wimp | 3.00% | ~7,198 |
-| The plot thickens... At the tavern | 3.00% | ~7,198 |
+| Livin' in a dwarven paradise | 3.00% | ~7,199 |
+| Way of the Wimp | 3.00% | ~7,199 |
+| The plot thickens... At the tavern | 3.00% | ~7,199 |
 | Shiny and Crôm | 2.00% | ~4,799 |
 | The demons' feast | 2.00% | ~4,799 |
 | The Great Library | 2.00% | ~4,799 |
@@ -38,12 +38,12 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,799 |
 | Team Building Exercise | 2.00% | ~4,799 |
 | Oh, when I'll be level 10... | 2.00% | ~4,799 |
-| %#*!$*! | 1.00% | ~2,399 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,399 |
-| Dead for good | 1.00% | ~2,399 |
-| Gargantua | 1.00% | ~2,399 |
-| Lust and Debauchery | 1.00% | ~2,399 |
-| Material Girl | 1.00% | ~2,399 |
+| %#*!$*! | 1.00% | ~2,400 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,400 |
+| Dead for good | 1.00% | ~2,400 |
+| Gargantua | 1.00% | ~2,400 |
+| Lust and Debauchery | 1.00% | ~2,400 |
+| Material Girl | 1.00% | ~2,400 |
 | In Navalu's footsteps | 0.90% | ~2,160 |
 | Lëgal Legend | 0.80% | ~1,920 |
 | We come in peace | 0.70% | ~1,680 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,949 (Ranked 63)  
+Progressed: 239,952 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 7 (0.00%) (Ranked 361)
 | 2023-11-24 | 239,357 | 7 |
 | 2023-11-25 | 239,618 | 7 |
 | 2023-11-26 | 239,885 | 7 |
-| 2023-11-27 | 239,949 | 7 |
+| 2023-11-27 | 239,952 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 483 (Ranked 330)  

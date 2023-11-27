@@ -1859,7 +1859,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 64815,
+  "EOS_Progressed": 64816,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
@@ -26139,6 +26139,11 @@
       "Time": "2023-11-27T10:04:28.4728545+00:00",
       "NumProgressed": 64815,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T11:04:47.4056007+00:00",
+      "NumProgressed": 64816,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -26150,7 +26155,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 35648
+      "UsersEstimate": 35649
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -26438,7 +26443,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 40833
+      "UsersEstimate": 40834
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -26621,15 +26626,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 64815,
+      "Progressed": 64816,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-27T09:57:50.3082491+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:04:28.4728542+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:04:47.4056003+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:58.4579333+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:57:50.3082495+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:04:28.4730282+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:58:14.901711+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:04:47.4057519+00:00"
 }

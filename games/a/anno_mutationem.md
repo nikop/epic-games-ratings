@@ -5,8 +5,8 @@ Rating: 4.56 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~554 |
-| Don't judge a manhole by its cover | 60.00% | ~443 |
+| Tell me your story | 75.00% | ~555 |
+| Don't judge a manhole by its cover | 60.00% | ~444 |
 | I just love stuff! | 41.00% | ~303 |
 | Keep 'em coming! | 41.00% | ~303 |
 | Big Spender | 38.00% | ~281 |
@@ -16,9 +16,9 @@ Rating: 4.56 (Ranked 494)
 | I think it's broke | 25.00% | ~185 |
 | The Ann Flores Combo Experience | 25.00% | ~185 |
 | Fire in the hole! | 21.00% | ~155 |
-| Omnipotence | 19.00% | ~140 |
-| The Warlord | 19.00% | ~140 |
-| You are the One | 19.00% | ~140 |
+| Omnipotence | 19.00% | ~141 |
+| The Warlord | 19.00% | ~141 |
+| You are the One | 19.00% | ~141 |
 | Deadly Kombationem | 18.00% | ~133 |
 | The truth is out there | 15.00% | ~111 |
 | Annakin Skyscroller | 13.00% | ~96 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 494)
 | Love me like I love my posters | 0.90% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739 (Ranked 279)  
+Progressed: 740 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 705 | 0 |
 | 2023-11-25 | 726 | 0 |
 | 2023-11-26 | 737 | 0 |
-| 2023-11-27 | 739 | 0 |
+| 2023-11-27 | 740 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 748,
   "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 307,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1509,9 +1509,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 314446,
+  "EOS_Progressed": 314471,
   "EOS_Completed": 334,
-  "EOS_NewPlayers": 9482,
+  "EOS_NewPlayers": 9491,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -13864,6 +13864,11 @@
       "Time": "2023-11-27T10:03:43.1867276+00:00",
       "NumProgressed": 314446,
       "NumCompleted": 334
+    },
+    {
+      "Time": "2023-11-27T11:04:02.1462145+00:00",
+      "NumProgressed": 314471,
+      "NumCompleted": 334
     }
   ],
   "TotalAchievements": 24,
@@ -13875,7 +13880,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "10",
@@ -13883,7 +13888,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15722
+      "UsersEstimate": 15724
     },
     {
       "ID": "11",
@@ -13915,7 +13920,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22011
+      "UsersEstimate": 22013
     },
     {
       "ID": "15",
@@ -13963,7 +13968,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "20",
@@ -13971,7 +13976,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12578
+      "UsersEstimate": 12579
     },
     {
       "ID": "21",
@@ -14003,7 +14008,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9433
+      "UsersEstimate": 9434
     },
     {
       "ID": "3",
@@ -14019,7 +14024,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9433
+      "UsersEstimate": 9434
     },
     {
       "ID": "5",
@@ -14027,7 +14032,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34589
+      "UsersEstimate": 34592
     },
     {
       "ID": "6",
@@ -14035,7 +14040,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12578
+      "UsersEstimate": 12579
     },
     {
       "ID": "7",
@@ -14066,7 +14071,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 314446,
+      "Progressed": 314471,
       "Completed": 334
     }
   ],
@@ -14074,8 +14079,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-27T09:57:43.4511615+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:03:43.1867272+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:04:02.1462138+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:57:43.4511621+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:03:43.1868088+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:58:07.906737+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:04:02.1462986+00:00"
 }

@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9695,
+  "EOS_Progressed": 9705,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 2963,
+  "EOS_NewPlayers": 2957,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2248,6 +2248,11 @@
       "Time": "2023-11-27T10:03:57.4589583+00:00",
       "NumProgressed": 9695,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-27T11:04:16.3089425+00:00",
+      "NumProgressed": 9705,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -2276,7 +2281,7 @@
       "Name": "Good Listener",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -2308,7 +2313,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1165
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -2339,7 +2344,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 9695,
+      "Progressed": 9705,
       "Completed": 32
     }
   ],
@@ -2347,8 +2352,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-25T10:00:25.1151094+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:03:57.4589578+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:04:16.3089421+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.5649017+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:57:31.3716696+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:03:57.4589784+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:57:54.8029905+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:04:16.3089579+00:00"
 }

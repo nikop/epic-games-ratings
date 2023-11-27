@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -873,9 +873,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -929,9 +929,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -969,9 +969,9 @@
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 110,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -992,8 +992,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:04:27.6539575+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:04:46.4340201+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:08.5650731+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:57:44.9169765+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:04:27.6539752+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:58:09.4404825+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:04:46.4340334+00:00"
 }

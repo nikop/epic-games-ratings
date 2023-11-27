@@ -6,45 +6,45 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~36,951 |
-| To The Nines | 42.00% | ~33,738 |
-| Optimized | 37.00% | ~29,722 |
-| Performance Review | 36.00% | ~28,918 |
-| Making a Name | 35.00% | ~28,115 |
-| Tune Up | 34.00% | ~27,312 |
-| Landlord | 33.00% | ~26,509 |
-| Wet Work | 32.00% | ~25,705 |
-| The Side Job | 31.00% | ~24,902 |
-| Wrecking Ball | 28.00% | ~22,492 |
-| Food for Thought | 27.00% | ~21,689 |
-| Finders Keepers | 26.00% | ~20,886 |
-| A Young Empire | 26.00% | ~20,886 |
-| Work Ethic | 23.00% | ~18,476 |
-| Picking Fights | 20.00% | ~16,066 |
+| First F#@!ing Day | 46.00% | ~36,954 |
+| To The Nines | 42.00% | ~33,740 |
+| Optimized | 37.00% | ~29,724 |
+| Performance Review | 36.00% | ~28,920 |
+| Making a Name | 35.00% | ~28,117 |
+| Tune Up | 34.00% | ~27,314 |
+| Landlord | 33.00% | ~26,510 |
+| Wet Work | 32.00% | ~25,707 |
+| The Side Job | 31.00% | ~24,904 |
+| Wrecking Ball | 28.00% | ~22,494 |
+| Food for Thought | 27.00% | ~21,690 |
+| Finders Keepers | 26.00% | ~20,887 |
+| A Young Empire | 26.00% | ~20,887 |
+| Work Ethic | 23.00% | ~18,477 |
+| Picking Fights | 20.00% | ~16,067 |
 | Power Players | 19.00% | ~15,263 |
-| Quality Time | 18.00% | ~14,459 |
-| Showdown | 17.00% | ~13,656 |
-| Et tu? | 17.00% | ~13,656 |
-| Took It to The Limit | 17.00% | ~13,656 |
-| Kitted Out | 14.00% | ~11,246 |
-| Masters of Santo Ileso | 12.00% | ~9,639 |
-| Hijacked | 11.00% | ~8,836 |
+| Quality Time | 18.00% | ~14,460 |
+| Showdown | 17.00% | ~13,657 |
+| Et tu? | 17.00% | ~13,657 |
+| Took It to The Limit | 17.00% | ~13,657 |
+| Kitted Out | 14.00% | ~11,247 |
+| Masters of Santo Ileso | 12.00% | ~9,640 |
+| Hijacked | 11.00% | ~8,837 |
 | The Spins | 10.00% | ~8,033 |
 | The Mechanic | 10.00% | ~8,033 |
-| Closet Space | 8.00% | ~6,426 |
+| Closet Space | 8.00% | ~6,427 |
 | We could go home, or… | 7.00% | ~5,623 |
 | Challenge Accepted | 7.00% | ~5,623 |
 | A Golden Age | 7.00% | ~5,623 |
 | Producer Credit | 7.00% | ~3,638 |
 | Chaos Tamer | 6.00% | ~4,820 |
 | Face Off | 6.00% | ~3,118 |
-| The Professional | 5.00% | ~4,016 |
-| Untouchable | 5.00% | ~4,016 |
-| Free Refills | 5.00% | ~4,016 |
-| Neighborly | 5.00% | ~4,016 |
-| Prankster | 5.00% | ~4,016 |
-| Smooth Moves | 5.00% | ~4,016 |
-| Hazardous Heist | 5.00% | ~2,598 |
+| The Professional | 5.00% | ~4,017 |
+| Untouchable | 5.00% | ~4,017 |
+| Free Refills | 5.00% | ~4,017 |
+| Neighborly | 5.00% | ~4,017 |
+| Prankster | 5.00% | ~4,017 |
+| Smooth Moves | 5.00% | ~4,017 |
+| Hazardous Heist | 5.00% | ~2,599 |
 | Tourist | 4.00% | ~3,213 |
 | Shopping Spree | 3.00% | ~2,410 |
 | Always Be Hustling | 3.00% | ~2,410 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~161 |
 | Fiesta Time | 0.20% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,329 (Ranked 96)  
+Progressed: 80,334 (Ranked 96)  
 Completed: 52 (0.06%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,10 +281,10 @@ Completed: 52 (0.06%) (Ranked 304)
 | 2023-11-24 | 79,914 | 51 |
 | 2023-11-25 | 80,092 | 51 |
 | 2023-11-26 | 80,287 | 52 |
-| 2023-11-27 | 80,329 | 52 |
+| 2023-11-27 | 80,334 | 52 |
 ## Awards
 Max (Extremely Fun): 1,078  (Ranked 146)  
-Sum: 8,745 (Ranked 98)  
+Sum: 8,746 (Ranked 98)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -293,7 +293,7 @@ Diff (max vs sum): 48
 | This game is Great for Beginners | 1,018 |
 | This game is Highly Recommended | 1,017 |
 | This game has Diverse Characters | 1,006 |
-| This game has Amazing Characters | 997 |
+| This game has Amazing Characters | 998 |
 | This game is Relaxing | 993 |
 | This game has Amazing Storytelling | 976 |
 | This game has Playful Visuals | 777 |
@@ -525,4 +525,4 @@ Diff (max vs sum): 48
 | 2023-11-23 | 3.79 | - | 1,077 | 8,737 |
 | 2023-11-24 | 3.79 | - | 1,078 | 8,742 |
 | 2023-11-25 | 3.79 | - | 1,078 | 8,743 |
-| 2023-11-27 | 3.79 | - | 1,078 | 8,745 |
+| 2023-11-27 | 3.79 | - | 1,078 | 8,746 |

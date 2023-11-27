@@ -14,7 +14,7 @@ Number of Ratings: 285  (23.09.2022)
 | Mushroom Madness! | 22.00% | ~1,128 |
 | First Strike | 19.00% | ~974 |
 | Spending Spree | 18.00% | ~923 |
-| Horder Better Faster Stronger | 17.00% | ~871 |
+| Horder Better Faster Stronger | 17.00% | ~872 |
 | Ten Steps from the Grave | 15.00% | ~769 |
 | Everything Must Go! | 14.00% | ~718 |
 | Next Time on MythForce... | 14.00% | ~718 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~21 |
 | Deadalus and Loving It | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,126 (Ranked 191)  
+Progressed: 5,127 (Ranked 191)  
 Completed: 4 (0.08%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 4 (0.08%) (Ranked 296)
 | 2023-11-24 | 5,065 | 4 |
 | 2023-11-25 | 5,087 | 4 |
 | 2023-11-26 | 5,119 | 4 |
-| 2023-11-27 | 5,126 | 4 |
+| 2023-11-27 | 5,127 | 4 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 476)  
 Sum: 286 (Ranked 371)  

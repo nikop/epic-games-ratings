@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewPlayers": 32,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -371,9 +371,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 319689,
+  "EOS_Progressed": 319702,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4653,
+  "EOS_NewPlayers": 4646,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7496,6 +7496,11 @@
       "Time": "2023-11-27T10:07:43.0675746+00:00",
       "NumProgressed": 319689,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-27T11:06:30.4889672+00:00",
+      "NumProgressed": 319702,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7524,7 +7529,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "S04_BRDC",
@@ -7700,7 +7705,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "S26_CRTA",
@@ -7732,7 +7737,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "S30_DIAMOND",
@@ -7827,7 +7832,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 319689,
+      "Progressed": 319702,
       "Completed": 4
     }
   ],
@@ -7835,8 +7840,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-24T22:57:43.5596717+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:07:43.0675743+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:06:30.4889669+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:59:03.9236309+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:07:43.067642+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:59:32.0526666+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:06:30.4890177+00:00"
 }

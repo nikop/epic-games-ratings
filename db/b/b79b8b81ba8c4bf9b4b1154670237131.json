@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13320,
+  "EOS_Progressed": 13323,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 3071,
+  "EOS_NewPlayers": 3057,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1593,6 +1593,11 @@
       "Time": "2023-11-27T09:08:24.0061872+00:00",
       "NumProgressed": 13320,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-27T11:08:28.8628448+00:00",
+      "NumProgressed": 13323,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -1605,7 +1610,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     },
     {
       "ID": "ACH_AE_10",
@@ -1637,7 +1642,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 9990
+      "UsersEstimate": 9992
     },
     {
       "ID": "ACH_AE_14",
@@ -1653,15 +1658,15 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "ACH_AE_16",
       "SetID": "ck3465",
       "Name": "Energy Efficient",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1732
     },
     {
       "ID": "ACH_AE_17",
@@ -1725,7 +1730,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ACH_AE_24",
@@ -1733,7 +1738,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ACH_AE_25",
@@ -1749,7 +1754,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ACH_AE_27",
@@ -1781,7 +1786,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "ACH_AE_30",
@@ -1805,7 +1810,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_AE_33",
@@ -1837,7 +1842,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "ACH_AE_5",
@@ -1845,7 +1850,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "ACH_AE_6",
@@ -1884,7 +1889,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 13320,
+      "Progressed": 13323,
       "Completed": 10
     }
   ],
@@ -1892,8 +1897,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-11-27T04:59:44.5114981+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:08:11.7788414+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:08:28.8628445+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:58.566124+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:58:48.4529963+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:08:11.7788758+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:59:17.1272696+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:08:28.8628692+00:00"
 }

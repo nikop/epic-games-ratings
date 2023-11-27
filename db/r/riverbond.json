@@ -497,7 +497,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532093,
+  "EOS_Progressed": 532094,
   "EOS_Completed": 502,
   "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 2,
@@ -23932,6 +23932,11 @@
       "Time": "2023-11-27T10:07:44.8638258+00:00",
       "NumProgressed": 532093,
       "NumCompleted": 502
+    },
+    {
+      "Time": "2023-11-27T11:06:32.1503459+00:00",
+      "NumProgressed": 532094,
+      "NumCompleted": 502
     }
   ],
   "TotalAchievements": 57,
@@ -23943,7 +23948,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122381
+      "UsersEstimate": 122382
     },
     {
       "ID": "10",
@@ -23959,7 +23964,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372465
+      "UsersEstimate": 372466
     },
     {
       "ID": "12",
@@ -23967,7 +23972,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117060
+      "UsersEstimate": 117061
     },
     {
       "ID": "13",
@@ -24039,7 +24044,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127702
+      "UsersEstimate": 127703
     },
     {
       "ID": "21",
@@ -24167,7 +24172,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 266046
+      "UsersEstimate": 266047
     },
     {
       "ID": "36",
@@ -24247,7 +24252,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42567
+      "UsersEstimate": 42568
     },
     {
       "ID": "45",
@@ -24327,7 +24332,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122381
+      "UsersEstimate": 122382
     },
     {
       "ID": "54",
@@ -24398,15 +24403,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532093,
+      "Progressed": 532094,
       "Completed": 502
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:07:44.8638255+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:06:32.1503455+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:56.9532267+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:57:33.3111673+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:07:44.8639931+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:57:56.7984986+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:06:32.1504884+00:00"
 }

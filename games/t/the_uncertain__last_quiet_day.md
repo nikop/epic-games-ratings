@@ -37,7 +37,7 @@
 | Accurate | 4.00% | ~23 |
 | Silent | 4.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583 (Ranked 298)  
+Progressed: 583 (Ranked 299)  
 Completed: 18 (3.09%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |

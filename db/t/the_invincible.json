@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1005,6 +1005,11 @@
       "Time": "2023-11-27T09:08:28.1442965+00:00",
       "NumProgressed": 382,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T11:08:32.9526871+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1033,7 +1038,7 @@
       "Name": "On her own",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "AchvBattleScore",
@@ -1111,9 +1116,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "AchvLava",
@@ -1145,7 +1150,7 @@
       "Name": "The Necroevolution",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "AchvNest",
@@ -1185,7 +1190,7 @@
       "Name": "The field base",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "AchvReachCamp",
@@ -1193,7 +1198,7 @@
       "Name": "The Camp",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "AchvReachCity",
@@ -1209,7 +1214,7 @@
       "Name": "The Condor",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "AchvSurvivors",
@@ -1223,9 +1228,9 @@
       "ID": "AchvTeleprobeOperator",
       "SetID": "1hj060c",
       "Name": "Flying Objects Operator",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "AchvTheEnd",
@@ -1248,14 +1253,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:08:15.8264092+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:08:32.9526867+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:57:26.9355932+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:08:15.8264355+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:57:49.8558159+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:08:32.9527065+00:00"
 }

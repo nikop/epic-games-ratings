@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2290,
+  "EOS_Progressed": 2291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5452,6 +5452,11 @@
       "Time": "2023-11-27T09:09:21.3789834+00:00",
       "NumProgressed": 2290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T11:09:26.1087142+00:00",
+      "NumProgressed": 2291,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5504,7 +5509,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -5640,7 +5645,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5752,7 +5757,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5855,14 +5860,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2290,
+      "Progressed": 2291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:09:08.9882706+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:09:26.1087139+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.7913611+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:58:52.4742413+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:09:08.9883447+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:59:20.9157309+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:09:26.1087597+00:00"
 }

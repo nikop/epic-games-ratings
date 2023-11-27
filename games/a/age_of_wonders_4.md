@@ -36,19 +36,19 @@ Rating: 4.61 (Ranked 382)
 | Spoils of War | 1.00% | ~55 |
 | Dawn of the Dread | 0.90% | ~50 |
 | Preparation Is Everything | 0.80% | ~44 |
+| Blood of the Dragon | 0.80% | ~44 |
 | Prometheus Avenged | 0.80% | ~44 |
 | Arch Mage | 0.70% | ~39 |
 | Crimson Caldera | 0.70% | ~39 |
-| Blood of the Dragon | 0.70% | ~39 |
 | A Conqueror's Cohort | 0.70% | ~39 |
 | The Creator | 0.60% | ~33 |
 | Lord of Chaos | 0.50% | ~28 |
 | Manufactured War | 0.50% | ~28 |
 | The Eternal Court | 0.50% | ~28 |
+| Pruning for Progress | 0.50% | ~28 |
 | I've Got Everything I Need Right Here | 0.40% | ~22 |
 | God Emperor | 0.40% | ~22 |
 | Eternal Lord | 0.40% | ~22 |
-| Pruning for Progress | 0.40% | ~22 |
 | Grexolis | 0.40% | ~22 |
 | One for All, All for One | 0.40% | ~22 |
 | The Goddess of Nature | 0.30% | ~17 |

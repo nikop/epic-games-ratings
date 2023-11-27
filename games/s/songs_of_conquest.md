@@ -6,23 +6,23 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 32.00% | ~81 |
+| Adept | 31.00% | ~79 |
 | Double Kill | 23.00% | ~58 |
 | Critical Hit | 11.00% | ~28 |
 | Veteran | 9.00% | ~23 |
-| Dressed For Success | 8.00% | ~20 |
+| Dressed For Success | 7.00% | ~18 |
+| Humiliation | 6.00% | ~15 |
 | Sorcerous Spree | 5.00% | ~13 |
-| Humiliation | 5.00% | ~13 |
 | Veni, Vidi, Vici | 5.00% | ~13 |
+| Whoops! | 4.00% | ~10 |
 | Multi Kill | 3.00% | ~8 |
-| Whoops! | 3.00% | ~8 |
+| Expert Essence Employment | 3.00% | ~8 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~8 |
 | The Song of Stoutheart | 2.00% | ~5 |
 | This Spot's Taken | 2.00% | ~5 |
 | Such A Fungi | 2.00% | ~5 |
 | Trojan Horse | 2.00% | ~5 |
 | Master | 2.00% | ~5 |
-| Expert Essence Employment | 2.00% | ~5 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~5 |
 | Infernal Influence | 1.00% | ~3 |
 | Pyrrhic Victory | 1.00% | ~3 |
 | Death To Diplomacy | 0.80% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253 (Ranked 370)  
+Progressed: 254 (Ranked 370)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 212 | 0 |
 | 2023-11-25 | 234 | 0 |
 | 2023-11-26 | 250 | 0 |
-| 2023-11-27 | 253 | 0 |
+| 2023-11-27 | 254 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 511)  
 Sum: 194 (Ranked 404)  

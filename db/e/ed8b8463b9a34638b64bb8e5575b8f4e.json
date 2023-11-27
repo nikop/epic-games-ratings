@@ -2,9 +2,9 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.56,
+  "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -339,6 +339,11 @@
       "Time": "2023-11-26T10:10:00.2609498+00:00",
       "NumProgressed": 64,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T11:09:01.512638+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -357,7 +362,7 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -373,7 +378,7 @@
       "ID": "cultipedia",
       "SetID": "7i36ba9",
       "Name": "Cultipedia",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -405,7 +410,7 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -413,7 +418,7 @@
       "ID": "josh_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Josh the Saviour",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -493,7 +498,7 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 95,
       "UsersEstimate": 23
     },
@@ -517,7 +522,7 @@
       "ID": "the_petition",
       "SetID": "7i36ba9",
       "Name": "The Petition",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 95,
       "UsersEstimate": 8
     },
@@ -525,7 +530,7 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -558,14 +563,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-11-27T10:08:44.1940599+00:00",
+  "LastChanged_Achievements": "2023-11-27T11:09:01.5126376+00:00",
   "LastUpdate_AppInfo": "2023-11-25T02:57:17.602935+00:00",
-  "LastUpdate_Ratings": "2023-11-27T09:57:31.3087696+00:00",
-  "LastUpdate_Achievements": "2023-11-27T10:08:44.1940771+00:00"
+  "LastUpdate_Ratings": "2023-11-27T10:57:54.796053+00:00",
+  "LastUpdate_Achievements": "2023-11-27T11:09:01.512656+00:00"
 }
