@@ -18,7 +18,7 @@
 | The Colossus | 8.00% | ~51 |
 | Floor is Lava | 6.00% | ~38 |
 | Pim Pam Pum | 6.00% | ~38 |
-| Dash Crash - Hero Edition | 4.00% | ~25 |
+| Dash Crash - Hero Edition | 5.00% | ~32 |
 | Ambush | 4.00% | ~25 |
 | Black Belt | 3.00% | ~19 |
 | Snake Eyes - Hero Edition | 2.00% | ~13 |
@@ -29,11 +29,11 @@
 | Path of the Hero | 1.00% | ~6 |
 | Hit That Ball - Hero Edition | 1.00% | ~6 |
 | Eat That Apple - Hero Edition | 1.00% | ~6 |
+| Oh, no | 1.00% | ~6 |
 | Apprentice | 1.00% | ~6 |
 | Vertigo | 1.00% | ~6 |
-| Oh, no | 0.90% | ~6 |
+| Bomberman - Hero Edition | 0.90% | ~6 |
 | Tornado Chaser - Hero Edition | 0.80% | ~5 |
-| Bomberman - Hero Edition | 0.80% | ~5 |
 | The Colossus - Hero Edition | 0.60% | ~4 |
 | Pim Pam Pum - Hero Edition | 0.50% | ~3 |
 | Killing Spree | 0.50% | ~3 |

@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
@@ -859,6 +859,11 @@
       "Time": "2023-11-26T22:04:25.5492218+00:00",
       "NumProgressed": 286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T01:50:59.7851679+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -911,7 +916,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "9",
@@ -925,9 +930,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "REMAKE_002",
@@ -935,7 +940,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REMAKE_004",
@@ -959,7 +964,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Remake_007",
@@ -1094,14 +1099,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:04:05.4363158+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:50:59.7851675+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:58:01.8670603+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:04:05.4363379+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:45:04.2765009+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:50:59.7851848+00:00"
 }

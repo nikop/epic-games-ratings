@@ -10,18 +10,18 @@
 | Mechanical Buddy | 48.00% | ~42 |
 | Endless Tricks | 43.00% | ~38 |
 | Sanctuary Guardian | 42.00% | ~37 |
+| Noctuan Champion | 36.00% | ~32 |
 | Mind Illuminator | 35.00% | ~31 |
-| Noctuan Champion | 35.00% | ~31 |
 | Wild's Keeper | 34.00% | ~30 |
-| Stellar Dismantler | 30.00% | ~26 |
+| Stellar Dismantler | 31.00% | ~27 |
 | Eridanian Champion | 27.00% | ~24 |
 | Lacertian Champion | 27.00% | ~24 |
-| Anomaly Destroyer | 25.00% | ~22 |
+| Anomaly Destroyer | 26.00% | ~23 |
 | Apian Champion | 25.00% | ~22 |
 | Star Killer | 24.00% | ~21 |
+| Astral Adventurer | 22.00% | ~19 |
 | Loyal Partner | 22.00% | ~19 |
 | Behenian Champion | 22.00% | ~19 |
-| Astral Adventurer | 20.00% | ~18 |
 | Shard Spender | 18.00% | ~16 |
 | Unbeatable | 17.00% | ~15 |
 | Aquarian Champion | 17.00% | ~15 |
@@ -31,7 +31,7 @@
 | Stellar Haste | 14.00% | ~12 |
 | The Corruption Goddess | 14.00% | ~12 |
 | The Goddes Avatar | 14.00% | ~12 |
-| Sadistic Plan | 11.00% | ~10 |
+| Sadistic Plan | 13.00% | ~11 |
 | Heavy Purger | 10.00% | ~9 |
 | Apian Hero | 10.00% | ~9 |
 | Anomaly Control | 9.00% | ~8 |

@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1505,6 +1505,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 387,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-11-27T01:46:45.1452137+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 387,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
@@ -1567,9 +1573,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160296,
+  "EOS_Progressed": 160308,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1108,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17197,6 +17203,11 @@
       "Time": "2023-11-27T00:07:04.3705341+00:00",
       "NumProgressed": 160296,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T01:53:05.0417355+00:00",
+      "NumProgressed": 160308,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17488,7 +17499,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -17496,7 +17507,7 @@
       "Name": "Passage",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "QUEST_CHILD",
@@ -17575,21 +17586,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159879,
+      "Progressed": 159891,
       "Completed": 1226
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160296,
+      "Progressed": 160308,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-25T23:59:33.0917526+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:07:04.3705337+00:00",
+  "LastChanged": "2023-11-27T01:46:45.1452136+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:53:05.0417352+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-27T00:00:34.9678425+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:07:04.3706591+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:46:45.145214+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:53:05.0418245+00:00"
 }

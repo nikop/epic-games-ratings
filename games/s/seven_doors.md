@@ -10,14 +10,14 @@
 | Egyptologist | 45.00% | ~10 |
 | No Fear of the Dark | 41.00% | ~9 |
 | They’re Watching | 36.00% | ~8 |
+| Art Connoisseur | 36.00% | ~8 |
+| Survivor | 36.00% | ~8 |
 | The Last Skull | 36.00% | ~8 |
-| Art Connoisseur | 32.00% | ~7 |
-| Survivor | 32.00% | ~7 |
 | Master of Riddles | 32.00% | ~7 |
 | The Witch’s Haunt | 27.00% | ~6 |
+| A Cabin Boy with Potential | 27.00% | ~6 |
 | A Cautious Man Is Worth Two of His Kind | 27.00% | ~6 |
-| A Cabin Boy with Potential | 23.00% | ~5 |
-| Trapped in Time | 18.00% | ~4 |
+| Trapped in Time | 23.00% | ~5 |
 | Thanksgiving Day | 14.00% | ~3 |
 | Don’t Touch the Rum! | 14.00% | ~3 |
 | Oh... You didn't think to bring it? | 14.00% | ~3 |

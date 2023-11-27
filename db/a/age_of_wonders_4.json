@@ -483,9 +483,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5515,
+  "EOS_Progressed": 5516,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7528,6 +7528,11 @@
       "Time": "2023-11-26T21:05:57.4412209+00:00",
       "NumProgressed": 5515,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-27T01:53:32.5316772+00:00",
+      "NumProgressed": 5516,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7753,9 +7758,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "35",
@@ -8018,13 +8023,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5515,
+      "Progressed": 5516,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5515,
+      "Progressed": 5516,
       "Completed": 7
     }
   ],
@@ -8032,8 +8037,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-24T23:02:33.526718+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:07:43.6459267+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:53:32.5316769+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:58:48.9818121+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:07:43.6460053+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:45:35.8364274+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:53:32.531741+00:00"
 }

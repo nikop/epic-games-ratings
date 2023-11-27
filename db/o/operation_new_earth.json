@@ -7438,9 +7438,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 538
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7575,8 +7575,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:05:32.4448737+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:52:01.0814317+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.1285109+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:59:38.2319686+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:05:32.4449412+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:46:08.0381985+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:52:01.0814882+00:00"
 }

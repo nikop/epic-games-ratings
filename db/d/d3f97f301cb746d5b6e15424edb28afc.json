@@ -2,12 +2,12 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -2923,9 +2923,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 754
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -3067,9 +3067,9 @@
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 2",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 689
     },
     {
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
@@ -3099,9 +3099,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 885
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -3131,9 +3131,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 656
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -3284,8 +3284,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-25T09:58:05.7161965+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:04:04.0726172+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:50:58.8096417+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:59:52.7646306+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:04:04.0727596+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:46:17.3746179+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:50:58.8097929+00:00"
 }

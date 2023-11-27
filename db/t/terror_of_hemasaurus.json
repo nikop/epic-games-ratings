@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -410,9 +410,9 @@
       "ID": "ACH_50_MILITARY_CARS",
       "SetID": "aio76gp",
       "Name": "Oblideration Nation",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_50_MILITARY_HELICOPTERS",
@@ -442,9 +442,9 @@
       "ID": "ACH_50_SWAT_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "SWATing Flies",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_50_SWAT_VANS",
@@ -523,8 +523,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:05:29.8216405+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:51:59.2558965+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.9832168+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:57:32.3258659+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:05:29.8216599+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:44:46.7715813+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:51:59.2559121+00:00"
 }

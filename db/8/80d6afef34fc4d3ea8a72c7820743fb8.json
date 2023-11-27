@@ -2,9 +2,9 @@
   "ID": "80d6afef34fc4d3ea8a72c7820743fb8",
   "Name": "Power Vacuum",
   "ProductSlug": "power-vacuum-3b662e",
-  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-07-04T04:00:00+00:00",
@@ -288,8 +288,8 @@
   ],
   "FirstSeen": "2023-10-30T14:01:37.4822774+00:00",
   "FirstSeenAchievements": "2023-05-30T09:00:58.4633941+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:09:45.7306848+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:56:27.9872971+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:29.7256256+00:00",
-  "LastUpdate_Ratings": "2023-11-27T00:01:57.27665+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:09:45.730695+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:47:39.1449831+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:56:27.9873088+00:00"
 }

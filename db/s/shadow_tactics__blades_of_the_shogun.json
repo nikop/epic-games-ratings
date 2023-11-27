@@ -2164,9 +2164,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216082,
+  "EOS_Progressed": 216089,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 1273,
+  "EOS_NewPlayers": 1267,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27404,6 +27404,11 @@
       "Time": "2023-11-27T00:07:29.9713078+00:00",
       "NumProgressed": 216082,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-11-27T01:53:22.8714711+00:00",
+      "NumProgressed": 216089,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 44,
@@ -27415,7 +27420,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21608
+      "UsersEstimate": 21609
     },
     {
       "ID": "AtheistOx",
@@ -27455,7 +27460,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19447
+      "UsersEstimate": 19448
     },
     {
       "ID": "FiveShadows",
@@ -27479,7 +27484,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "Genin",
@@ -27487,7 +27492,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25930
+      "UsersEstimate": 25931
     },
     {
       "ID": "HappyLittleAccidents",
@@ -27495,7 +27500,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "HappyPlanning",
@@ -27527,7 +27532,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6483
     },
     {
       "ID": "Jonin",
@@ -27583,7 +27588,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "Okkoto",
@@ -27639,7 +27644,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19447
+      "UsersEstimate": 19448
     },
     {
       "ID": "StillRollin",
@@ -27647,7 +27652,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "Stoned",
@@ -27655,7 +27660,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6483
     },
     {
       "ID": "StonedOx",
@@ -27671,7 +27676,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19447
+      "UsersEstimate": 19448
     },
     {
       "ID": "TheCave",
@@ -27695,7 +27700,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6483
     },
     {
       "ID": "Thorough",
@@ -27703,7 +27708,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21608
+      "UsersEstimate": 21609
     },
     {
       "ID": "TimeParadox",
@@ -27711,7 +27716,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "UndeservedHonor",
@@ -27766,15 +27771,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216082,
+      "Progressed": 216089,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-26T16:58:15.2089902+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:07:29.9713075+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:53:22.8714708+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:59:27.4151166+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:07:29.9714257+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:46:00.5289338+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:53:22.8716097+00:00"
 }

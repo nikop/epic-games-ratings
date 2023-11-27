@@ -2,12 +2,12 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 414,
+  "Ranking_Rating": 415,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8101,
+  "EOS_Progressed": 8107,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7558,6 +7558,11 @@
       "Time": "2023-11-27T00:10:24.7349014+00:00",
       "NumProgressed": 8101,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T01:56:55.4416079+00:00",
+      "NumProgressed": 8107,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7570,7 +7575,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5833
+      "UsersEstimate": 5837
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7578,7 +7583,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5752
+      "UsersEstimate": 5756
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7586,7 +7591,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2997
+      "UsersEstimate": 3000
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -7594,7 +7599,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2754
+      "UsersEstimate": 2756
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -7602,7 +7607,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -7610,7 +7615,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -7618,7 +7623,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -7626,7 +7631,7 @@
       "Name": "Fae Farmer",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -7642,7 +7647,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "COLLECT_FISH",
@@ -7658,7 +7663,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2189
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -7666,7 +7671,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3486
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -7674,7 +7679,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3969
+      "UsersEstimate": 3972
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7682,7 +7687,7 @@
       "Name": "Beach Comber",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -7704,9 +7709,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3405
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7722,7 +7727,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4942
+      "UsersEstimate": 4945
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7730,7 +7735,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2594
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -7738,7 +7743,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -7746,7 +7751,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3807
+      "UsersEstimate": 3810
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -7754,7 +7759,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -7762,7 +7767,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "HAVE_WEDDING",
@@ -7786,7 +7791,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1865
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -7794,7 +7799,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -7842,29 +7847,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8101,
+      "Progressed": 8107,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 718,
-      "Completed": 718
+      "Progressed": 724,
+      "Completed": 724
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:10:24.7349011+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:56:55.4416073+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-27T00:03:36.3089928+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:10:24.7349623+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:50:37.6222836+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:56:55.4416662+00:00"
 }

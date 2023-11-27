@@ -9,7 +9,7 @@
 | First to the post | 91.00% | ~31 |
 | A kind of Magic | 85.00% | ~29 |
 | Connected | 85.00% | ~29 |
-| Expansion | 76.00% | ~26 |
+| Expansion | 79.00% | ~27 |
 | Harvest Time | 74.00% | ~25 |
 | Mine! | 71.00% | ~24 |
 | Artificer's Apprentice | 62.00% | ~21 |
@@ -18,7 +18,7 @@
 | Alchemist's Apprentice | 53.00% | ~18 |
 | Friend of Lyraine | 53.00% | ~18 |
 | The Circle | 50.00% | ~17 |
-| Necromancer's Apprentice | 47.00% | ~16 |
+| Necromancer's Apprentice | 50.00% | ~17 |
 | Redecorating | 41.00% | ~14 |
 | Friend of Sevenkeeps | 32.00% | ~11 |
 | Slave to the rhythm | 29.00% | ~10 |

@@ -3451,10 +3451,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2851,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-11-27T01:44:53.9962486+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2853,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2851,
+  "NumberOfAwards": 2853,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3510,7 +3516,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 281
+      "Count": 283
     },
     {
       "Text": "This game is Relaxing",
@@ -3531,9 +3537,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31640,
+  "EOS_Progressed": 31644,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20601,6 +20607,11 @@
       "Time": "2023-11-27T00:08:27.8488489+00:00",
       "NumProgressed": 31640,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-27T01:54:03.6592609+00:00",
+      "NumProgressed": 31644,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20964,7 +20975,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "There_You_Are",
@@ -21019,16 +21030,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31640,
+      "Progressed": 31644,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-26T23:57:44.5627902+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:08:27.8488485+00:00",
+  "LastChanged": "2023-11-27T01:44:53.9962485+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:54:03.6592605+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:57:44.5627908+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:08:27.8489392+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:44:53.9962493+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:54:03.6593584+00:00"
 }

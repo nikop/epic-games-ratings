@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3024,
+  "EOS_Progressed": 3026,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4441,6 +4441,11 @@
       "Time": "2023-11-26T22:07:15.1941534+00:00",
       "NumProgressed": 3024,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-27T01:52:56.2883847+00:00",
+      "NumProgressed": 3026,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4468,7 +4473,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -4548,14 +4553,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3024,
+      "Progressed": 3026,
       "Completed": 6
     }
   ],
@@ -4563,8 +4568,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:06:51.8804107+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:52:56.2883843+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:11.4172753+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:58:58.839448+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:06:51.8804444+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:45:41.957788+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:52:56.2884158+00:00"
 }

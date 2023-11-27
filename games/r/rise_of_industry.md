@@ -5,24 +5,24 @@ Rating: 4.24 (Ranked 886)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~362,458 |
-| Well educated | 37.00% | ~279,394 |
-| City Planner | 19.00% | ~143,473 |
-| Deforester | 17.00% | ~128,370 |
-| Big Hauling | 16.00% | ~120,819 |
-| Apprentice Manufacturer | 13.00% | ~98,166 |
-| Exporter | 13.00% | ~98,166 |
-| I would drive 500 tiles... | 12.00% | ~90,614 |
-| Landscaper | 12.00% | ~90,614 |
-| Railwayman | 8.00% | ~60,410 |
-| Penniless | 6.00% | ~45,307 |
-| Massive Gains | 6.00% | ~45,307 |
+| Entrepreneur | 48.00% | ~362,469 |
+| Well educated | 37.00% | ~279,403 |
+| City Planner | 19.00% | ~143,477 |
+| Deforester | 17.00% | ~128,374 |
+| Big Hauling | 16.00% | ~120,823 |
+| Apprentice Manufacturer | 13.00% | ~98,169 |
+| Exporter | 13.00% | ~98,169 |
+| I would drive 500 tiles... | 12.00% | ~90,617 |
+| Landscaper | 12.00% | ~90,617 |
+| Railwayman | 8.00% | ~60,411 |
+| Penniless | 6.00% | ~45,309 |
+| Massive Gains | 6.00% | ~45,309 |
 | Salesman | 3.00% | ~22,654 |
-| Engineer | 2.00% | ~15,102 |
-| High Flyer | 2.00% | ~15,102 |
+| Engineer | 2.00% | ~15,103 |
+| High Flyer | 2.00% | ~15,103 |
 | Captain | 0.80% | ~6,041 |
 | Billionaire | 0.70% | ~5,286 |
-| Vroom Vroom | 0.40% | ~3,020 |
+| Vroom Vroom | 0.40% | ~3,021 |
 | Excavator | 0.30% | ~2,265 |
 | Loan Ranger | 0.30% | ~2,265 |
 | [2130] Nature Lover | 0.10% | ~755 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 886)
 | Master Builder | 0.10% | ~755 |
 | Hard working | 0.10% | ~755 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755,120 (Ranked 18)  
+Progressed: 755,143 (Ranked 18)  
 Completed: 4 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 4 (0.00%) (Ranked 361)
 | 2023-11-24 | 754,463 | 4 |
 | 2023-11-25 | 754,809 | 4 |
 | 2023-11-26 | 755,109 | 4 |
-| 2023-11-27 | 755,120 | 4 |
+| 2023-11-27 | 755,143 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

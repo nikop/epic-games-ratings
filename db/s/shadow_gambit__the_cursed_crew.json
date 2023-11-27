@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 939,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
@@ -3049,6 +3049,11 @@
       "Time": "2023-11-27T00:05:41.067206+00:00",
       "NumProgressed": 938,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-27T01:52:07.1468317+00:00",
+      "NumProgressed": 939,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3077,7 +3082,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3101,7 +3106,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "_07_FinishAct3",
@@ -3133,7 +3138,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "_11_Completion_40",
@@ -3181,7 +3186,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3189,7 +3194,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3205,7 +3210,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3237,7 +3242,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -3268,7 +3273,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 939,
       "Completed": 31
     }
   ],
@@ -3276,8 +3281,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:05:41.0672055+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:52:07.1468314+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-27T00:01:41.8667108+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:05:41.0672345+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:47:29.3988478+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:52:07.146858+00:00"
 }

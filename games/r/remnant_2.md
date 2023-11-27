@@ -9,9 +9,10 @@ Rating: 4.75 (Ranked 148)
 | Master of the Dark Arts | 0.60% | ~49 |
 | The Killing Jar | 0.50% | ~1,145 |
 | First of Many | 0.50% | ~1,145 |
+| Not Your Average Trait | 0.40% | ~916 |
 | Expanding Horizons | 0.30% | ~687 |
 | Quest for Survival | 0.30% | ~687 |
-| Not Your Average Trait | 0.30% | ~687 |
+| Familiar Face | 0.30% | ~687 |
 | Am I Seeing This? | 0.20% | ~458 |
 | Ghost in the Machine | 0.20% | ~458 |
 | Chaos | 0.20% | ~458 |
@@ -21,7 +22,6 @@ Rating: 4.75 (Ranked 148)
 | Dark Designs | 0.20% | ~458 |
 | Not So Special Now | 0.20% | ~458 |
 | Not a Janitor | 0.20% | ~458 |
-| Familiar Face | 0.20% | ~458 |
 | Equal Measures | 0.20% | ~458 |
 | Blue Goddess | 0.20% | ~458 |
 | Duality | 0.20% | ~458 |
@@ -36,6 +36,8 @@ Rating: 4.75 (Ranked 148)
 | Make Some Room | 0.20% | ~458 |
 | Good, But Could Be Better! | 0.20% | ~458 |
 | Trait Chaser | 0.20% | ~458 |
+| Succession | 0.20% | ~16 |
+| You Shall Pass | 0.20% | ~16 |
 | Crafty | 0.10% | ~229 |
 | Only Human | 0.10% | ~229 |
 | Traitor | 0.10% | ~229 |
@@ -57,11 +59,9 @@ Rating: 4.75 (Ranked 148)
 | No One Should Have All That Power | 0.10% | ~229 |
 | Maxed Out! | 0.10% | ~229 |
 | Transmutate | 0.10% | ~229 |
-| Succession | 0.10% | ~8 |
 | A Foul Feast | 0.10% | ~8 |
-| You Shall Pass | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,032 (Ranked 68)  
+Progressed: 229,070 (Ranked 68)  
 Completed: 536 (0.23%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,10 +195,10 @@ Completed: 536 (0.23%) (Ranked 249)
 | 2023-11-24 | 227,254 | 515 |
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
-| 2023-11-27 | 229,032 | 536 |
+| 2023-11-27 | 229,070 | 536 |
 ## Awards
 Max (Great Boss Battles): 2,455  (Ranked 104)  
-Sum: 5,971 (Ranked 129)  
+Sum: 5,978 (Ranked 129)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -210,7 +210,7 @@ Diff (max vs sum): -25
 | This game is Relaxing | 366 |
 | This game has Amazing Storytelling | 363 |
 | This game has Quickly Understood Controls | 351 |
-| This game has Amazing Characters | 340 |
+| This game has Amazing Characters | 347 |
 | This game has Unique Visuals | 300 |
 | This game has a Creative Community | 277 |
 ## Ratings History
@@ -340,4 +340,4 @@ Diff (max vs sum): -25
 | 2023-11-24 | 4.75 | 2,415 | 5,845 |
 | 2023-11-25 | 4.75 | 2,436 | 5,922 |
 | 2023-11-26 | 4.75 | 2,455 | 5,967 |
-| 2023-11-27 | 4.75 | 2,455 | 5,971 |
+| 2023-11-27 | 4.75 | 2,455 | 5,978 |

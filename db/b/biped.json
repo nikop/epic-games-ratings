@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7140,
+  "EOS_Progressed": 7141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13139,6 +13139,11 @@
       "Time": "2023-11-26T22:05:43.9541532+00:00",
       "NumProgressed": 7140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T01:51:53.9924375+00:00",
+      "NumProgressed": 7141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -13150,7 +13155,7 @@
       "Name": "First Step",
       "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "10",
@@ -13214,7 +13219,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "4",
@@ -13269,7 +13274,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7140,
+      "Progressed": 7141,
       "Completed": 0
     }
   ],
@@ -13277,8 +13282,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:05:22.1239533+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:51:53.9924371+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:07.0754942+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:59:25.131548+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:05:22.1240302+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:45:59.0915051+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:51:53.9925087+00:00"
 }

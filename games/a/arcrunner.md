@@ -18,8 +18,8 @@
 | Supply Run | 10.00% | ~84 |
 | Starship Docks | 9.00% | ~75 |
 | Nanonic III | 9.00% | ~75 |
+| The Bigger They Are | 8.00% | ~67 |
 | Cybernetic | 8.00% | ~67 |
-| The Bigger They Are | 7.00% | ~59 |
 | Rookie | 7.00% | ~59 |
 | Eden Heights | 6.00% | ~50 |
 | Up Close And Personal | 6.00% | ~50 |
@@ -27,7 +27,7 @@
 | Inner Core | 4.00% | ~33 |
 | Integration | 3.00% | ~25 |
 | Trickshot | 2.00% | ~17 |
-| Destruction | 0.80% | ~7 |
+| Destruction | 1.00% | ~8 |
 | Ripperdoc | 0.50% | ~4 |
 | Hard Boiled | 0.40% | ~3 |
 | Weaponsmith | 0.40% | ~3 |

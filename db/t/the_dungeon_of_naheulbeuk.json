@@ -1407,9 +1407,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239893,
+  "EOS_Progressed": 239907,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1506,
+  "EOS_NewPlayers": 1507,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20082,6 +20082,11 @@
       "Time": "2023-11-27T00:09:36.3609234+00:00",
       "NumProgressed": 239893,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-27T01:56:21.3434454+00:00",
+      "NumProgressed": 239907,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20133,7 +20138,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "Chapter1",
@@ -20493,7 +20498,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19191
+      "UsersEstimate": 19193
     },
     {
       "ID": "DwarfElf15Support",
@@ -20541,7 +20546,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83963
+      "UsersEstimate": 83967
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20589,7 +20594,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21590
+      "UsersEstimate": 21592
     },
     {
       "ID": "FollowBraztok",
@@ -20796,21 +20801,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 239893,
+      "Progressed": 239907,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 239893,
+      "Progressed": 239907,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-26T16:57:36.7990914+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:09:36.3609231+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:56:21.3434449+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-26T23:58:33.4427937+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:09:36.3610962+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:45:24.9615046+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:56:21.3435915+00:00"
 }

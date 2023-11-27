@@ -47,13 +47,13 @@
 | The Quarian | 32.00% | ~456 |
 | The Prodigal | 32.00% | ~456 |
 | Galactic Explorer | 32.00% | ~456 |
+| Driven | 32.00% | ~456 |
 | Shopaholic | 32.00% | ~456 |
 | The Assassin | 31.00% | ~441 |
 | The Justicar | 31.00% | ~441 |
 | Battlemaster | 31.00% | ~441 |
 | Ghost of the Father | 31.00% | ~441 |
 | The Cure | 31.00% | ~441 |
-| Driven | 31.00% | ~441 |
 | Completionist | 30.00% | ~427 |
 | Catharsis | 30.00% | ~427 |
 | Fade Away | 30.00% | ~427 |
@@ -83,8 +83,8 @@
 | Weapon Specialist | 24.00% | ~342 |
 | Pathfinder | 24.00% | ~342 |
 | Tunnel Rat | 24.00% | ~342 |
+| Arbiter | 24.00% | ~342 |
 | Savior | 23.00% | ~328 |
-| Arbiter | 23.00% | ~328 |
 | Party Crasher | 22.00% | ~313 |
 | Lost and Found | 22.00% | ~313 |
 | Paramour II | 21.00% | ~299 |

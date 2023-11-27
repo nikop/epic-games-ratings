@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.58 (Ranked 444)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 10.00% | ~1,563 |
+| Oyedang, Kopengs | 10.00% | ~1,564 |
 | The Pit and the Pirates | 6.00% | ~938 |
 | Bosmang | 6.00% | ~938 |
 | Captain Drummer | 6.00% | ~938 |
@@ -15,13 +15,13 @@ Rating: 4.58 (Ranked 445)
 | Spore Taste | 5.00% | ~782 |
 | Martian Music | 5.00% | ~782 |
 | Drone Dodger | 5.00% | ~782 |
-| Safe Cracker | 5.00% | ~79 |
-| Madame Undersecretary | 5.00% | ~79 |
+| Safe Cracker | 5.00% | ~80 |
+| Madame Undersecretary | 5.00% | ~80 |
 | Stogie for Fogey | 4.00% | ~625 |
 | Drug Gifter | 4.00% | ~625 |
 | Heal Thy Medic | 4.00% | ~625 |
 | Call it Even | 4.00% | ~625 |
-| Keep Arjun in Check | 4.00% | ~63 |
+| Keep Arjun in Check | 4.00% | ~64 |
 | Data Archivist | 3.00% | ~469 |
 | Thorston Mayer | 3.00% | ~469 |
 | Khan's Revenge | 3.00% | ~469 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 445)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,632 (Ranked 151)  
+Progressed: 15,636 (Ranked 151)  
 Completed: 35 (0.22%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 35 (0.22%) (Ranked 251)
 | 2023-11-24 | 15,437 | 35 |
 | 2023-11-25 | 15,549 | 35 |
 | 2023-11-26 | 15,631 | 35 |
-| 2023-11-27 | 15,632 | 35 |
+| 2023-11-27 | 15,636 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

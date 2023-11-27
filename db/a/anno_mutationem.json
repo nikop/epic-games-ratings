@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 737,
+  "EOS_Progressed": 738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -792,6 +792,11 @@
       "Time": "2023-11-26T19:06:22.3100874+00:00",
       "NumProgressed": 737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T01:52:49.3259405+00:00",
+      "NumProgressed": 738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -889,9 +894,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 303
     },
     {
       "ID": "I_think_its_broke",
@@ -915,7 +920,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "Lady_Luck",
@@ -971,7 +976,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1017,9 +1022,9 @@
       "ID": "The_things_they_print_nowadays",
       "SetID": "gl7plp",
       "Name": "The things they print nowadays",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 280
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1051,7 +1056,7 @@
       "Name": "Woman on a (side) mission",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "You_are_the_One",
@@ -1067,7 +1072,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "posters",
@@ -1090,7 +1095,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 737,
+      "Progressed": 738,
       "Completed": 0
     }
   ],
@@ -1098,8 +1103,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:06:41.8733882+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:52:49.3259402+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-27T00:01:17.5491298+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:06:41.8734136+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:47:13.279444+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:52:49.3259648+00:00"
 }

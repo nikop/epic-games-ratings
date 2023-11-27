@@ -4729,10 +4729,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5971,
       "NumberOfAwardsMax": 2455
+    },
+    {
+      "Time": "2023-11-27T01:50:46.742616+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5978,
+      "NumberOfAwardsMax": 2455
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5971,
+  "NumberOfAwards": 5978,
   "NumberOfAwardsMax": 2455,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4788,7 +4794,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 340
+      "Count": 347
     },
     {
       "Text": "This game has Unique Visuals",
@@ -4803,10 +4809,10 @@
       "Count": 366
     }
   ],
-  "EOS_Progressed": 229032,
+  "EOS_Progressed": 229070,
   "EOS_Completed": 536,
-  "EOS_NewPlayers": 4903,
-  "EOS_NewCompleters": 51,
+  "EOS_NewPlayers": 4904,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20083,6 +20089,11 @@
       "Time": "2023-11-27T00:09:23.5137868+00:00",
       "NumProgressed": 229032,
       "NumCompleted": 536
+    },
+    {
+      "Time": "2023-11-27T01:56:12.1754771+00:00",
+      "NumProgressed": 229070,
+      "NumCompleted": 536
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20245,9 +20256,9 @@
       "ID": "Meet_Flautist",
       "SetID": "bkp3b1a",
       "Name": "Familiar Face",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 687
     },
     {
       "ID": "Meet_Meidra",
@@ -20397,9 +20408,9 @@
       "ID": "Obtain_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Not Your Average Trait",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 916
     },
     {
       "ID": "Obtain_Traits_B",
@@ -20501,9 +20512,9 @@
       "ID": "DLC1_Discover_True_Ending",
       "SetID": "bkoie00",
       "Name": "Succession",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -20525,31 +20536,31 @@
       "ID": "DLC1_Obtain_Warden_Reward",
       "SetID": "bkoie00",
       "Name": "You Shall Pass",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229032,
+      "Progressed": 229070,
       "Completed": 536
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8197,
+      "Progressed": 8235,
       "Completed": 163
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-27T00:03:46.837285+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:09:23.5137865+00:00",
+  "LastChanged": "2023-11-27T01:50:46.742616+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:56:12.1754769+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-27T00:03:46.8372856+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:09:23.5139052+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:50:46.7426165+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:56:12.1755643+00:00"
 }

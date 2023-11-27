@@ -5,16 +5,17 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,548 |
-| Break A Leg | 2.00% | ~14,521 |
-| Hotel California | 2.00% | ~14,521 |
-| Welcome To Hell-A | 2.00% | ~14,521 |
-| One of Us | 2.00% | ~1,032 |
-| Pork Chopped | 2.00% | ~1,032 |
+| Whatever It Takes | 3.00% | ~1,550 |
+| Break A Leg | 2.00% | ~14,522 |
+| Hotel California | 2.00% | ~14,522 |
+| Welcome To Hell-A | 2.00% | ~14,522 |
+| One of Us | 2.00% | ~1,033 |
+| Pork Chopped | 2.00% | ~1,033 |
 | Dr. Reed, I Presume? | 1.00% | ~7,261 |
 | Git Gutte! | 1.00% | ~7,261 |
 | Anger Management | 1.00% | ~7,261 |
 | Bookworm | 1.00% | ~7,261 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,261 |
 | But Doctor, I am Butcho | 1.00% | ~7,261 |
 | Slayer Squad | 1.00% | ~7,261 |
 | Can't Handle the Truth | 1.00% | ~7,261 |
@@ -30,21 +31,20 @@ Rating: 4.54 (Ranked 528)
 | Our True Nature | 1.00% | ~7,261 |
 | This is My Weapon | 1.00% | ~7,261 |
 | Perks of the Job | 0.90% | ~6,535 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,535 |
 | Ooh, Shiny! | 0.90% | ~6,535 |
 | I Am the Resurrection | 0.90% | ~6,535 |
 | Making Your Mark | 0.80% | ~5,809 |
 | Max Headroom | 0.80% | ~5,809 |
-| Humanity Distilled | 0.70% | ~5,082 |
-| Down with the Sickness | 0.70% | ~5,082 |
-| Not Even My Final Form | 0.60% | ~4,356 |
-| Jumbo Keyring | 0.60% | ~4,356 |
-| Go, Bobcats! | 0.60% | ~4,356 |
-| Rising Star | 0.60% | ~4,356 |
-| On Safari | 0.50% | ~3,630 |
-| Smorgasbord | 0.50% | ~3,630 |
-| Internet Famous | 0.50% | ~3,630 |
-| Variety is the Spice of Death | 0.50% | ~3,630 |
+| Humanity Distilled | 0.70% | ~5,083 |
+| Down with the Sickness | 0.70% | ~5,083 |
+| Not Even My Final Form | 0.60% | ~4,357 |
+| Jumbo Keyring | 0.60% | ~4,357 |
+| Go, Bobcats! | 0.60% | ~4,357 |
+| Rising Star | 0.60% | ~4,357 |
+| On Safari | 0.50% | ~3,631 |
+| Smorgasbord | 0.50% | ~3,631 |
+| Internet Famous | 0.50% | ~3,631 |
+| Variety is the Spice of Death | 0.50% | ~3,631 |
 | Make it So | 0.40% | ~2,904 |
 | LA Influential | 0.30% | ~2,178 |
 | Sole Survivor | 0.30% | ~2,178 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~726 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,071 (Ranked 21)  
-Completed: 2,441 (0.34%) (Ranked 229)  
+Progressed: 726,124 (Ranked 21)  
+Completed: 2,442 (0.34%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,7 +278,7 @@ Completed: 2,441 (0.34%) (Ranked 229)
 | 2023-11-24 | 724,112 | 2,429 |
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
-| 2023-11-27 | 726,071 | 2,441 |
+| 2023-11-27 | 726,124 | 2,442 |
 ## Awards
 Max (Great Boss Battles): 7,731  (Ranked 50)  
 Sum: 11,835 (Ranked 83)  

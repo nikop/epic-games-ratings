@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7539,
+  "EOS_Progressed": 7540,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -5928,6 +5928,11 @@
       "Time": "2023-11-26T21:04:46.5550105+00:00",
       "NumProgressed": 7539,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-27T01:52:22.0653928+00:00",
+      "NumProgressed": 7540,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5979,7 +5984,7 @@
       "Name": "Harp Tuned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -6043,7 +6048,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -6107,7 +6112,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6115,7 +6120,7 @@
       "Name": "Travelers Returned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -6147,22 +6152,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7539,
+      "Progressed": 7540,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-27T00:06:02.3010179+00:00",
+  "LastChanged_Achievements": "2023-11-27T01:52:22.0653925+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:18.312921+00:00",
-  "LastUpdate_Ratings": "2023-11-27T00:03:39.6722797+00:00",
-  "LastUpdate_Achievements": "2023-11-27T00:06:02.3010678+00:00"
+  "LastUpdate_Ratings": "2023-11-27T01:50:40.3298186+00:00",
+  "LastUpdate_Achievements": "2023-11-27T01:52:22.06543+00:00"
 }

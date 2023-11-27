@@ -13,7 +13,7 @@
 | Bustling Store | 12.00% | ~20 |
 | Expert Baker | 11.00% | ~18 |
 | Verdant Greenhouse | 11.00% | ~18 |
-| Luxury Kitchen | 10.00% | ~16 |
+| Luxury Kitchen | 11.00% | ~18 |
 | Gotta Go Fast | 9.00% | ~15 |
 | Swing The Broom | 9.00% | ~15 |
 | Bakery Business | 7.00% | ~11 |

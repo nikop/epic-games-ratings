@@ -5,13 +5,13 @@ Rating: 4.45 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,851 |
+| Meeting Resistance | 46.00% | ~1,812 |
 | Confirming Suspicions | 41.00% | ~1,615 |
-| The Kraken Wakes | 37.00% | ~1,457 |
-| It's Starting to Crack | 34.00% | ~1,339 |
+| The Kraken Wakes | 37.00% | ~1,458 |
+| It's Starting to Crack | 34.00% | ~1,340 |
 | Change the Channel | 31.00% | ~1,221 |
 | Lord of War | 30.00% | ~1,182 |
-| Taking it back | 29.00% | ~1,142 |
+| Taking it back | 29.00% | ~1,143 |
 | Resourceful | 27.00% | ~1,064 |
 | Target America | 27.00% | ~1,064 |
 | The Kraken Sleeps | 25.00% | ~985 |
@@ -19,8 +19,8 @@ Rating: 4.45 (Ranked 663)
 | Organ Grinder | 23.00% | ~906 |
 | As Quiet as a Mouse | 23.00% | ~906 |
 | Sharpshooter | 22.00% | ~867 |
-| Gunslinger | 19.00% | ~748 |
-| Explosive Efficiency | 19.00% | ~748 |
+| Gunslinger | 19.00% | ~749 |
+| Explosive Efficiency | 19.00% | ~749 |
 | Just a Flesh Wound | 17.00% | ~670 |
 | Der Geist | 17.00% | ~670 |
 | Climbing the Ladder | 16.00% | ~630 |
@@ -29,10 +29,10 @@ Rating: 4.45 (Ranked 663)
 | Skirmisher | 15.00% | ~591 |
 | Die Nussknacker Sweet! | 15.00% | ~591 |
 | Brains of the Operation | 15.00% | ~591 |
-| No Stone Unturned | 14.00% | ~551 |
-| Opposing Force | 14.00% | ~551 |
-| Enemy at the Gates | 14.00% | ~551 |
-| Fields of Glory | 14.00% | ~551 |
+| No Stone Unturned | 14.00% | ~552 |
+| Opposing Force | 14.00% | ~552 |
+| Enemy at the Gates | 14.00% | ~552 |
+| Fields of Glory | 14.00% | ~552 |
 | Set Europe Ablaze | 13.00% | ~512 |
 | Precision Is Key | 10.00% | ~394 |
 | My Little Friend | 10.00% | ~394 |
@@ -44,9 +44,9 @@ Rating: 4.45 (Ranked 663)
 | It'll Buff Right Out | 5.00% | ~197 |
 | Road Rage | 5.00% | ~197 |
 | Don't hold your breath | 5.00% | ~197 |
-| Last Resort | 5.00% | ~194 |
-| Siegebreaker | 5.00% | ~194 |
-| Ghost of Falaise | 5.00% | ~194 |
+| Last Resort | 5.00% | ~195 |
+| Siegebreaker | 5.00% | ~195 |
+| Ghost of Falaise | 5.00% | ~195 |
 | Strategist | 4.00% | ~158 |
 | Locomotion Commotion | 4.00% | ~158 |
 | From Paris with Love | 3.00% | ~118 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 663)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,939 (Ranked 197)  
+Progressed: 3,940 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-11-24 | 3,920 | 11 |
 | 2023-11-25 | 3,929 | 11 |
 | 2023-11-26 | 3,939 | 11 |
+| 2023-11-27 | 3,940 | 11 |
 ## Awards
 Max (Great for Beginners): 26  (Ranked 515)  
 Sum: 26 (Ranked 527)  
