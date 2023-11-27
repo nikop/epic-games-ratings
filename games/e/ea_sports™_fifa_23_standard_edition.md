@@ -5,33 +5,33 @@ Rating: 4.26 (Ranked 869)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~144,193 |
-| Dead-ball specialist | 62.00% | ~119,199 |
-| European Legend | 52.00% | ~99,974 |
-| Multitasking | 51.00% | ~98,051 |
-| Balanced Path | 49.00% | ~94,206 |
-| High Grades | 49.00% | ~94,206 |
-| Let the Games Begin | 47.00% | ~90,361 |
-| A Moment of Your Time | 46.00% | ~88,438 |
-| Aiming High | 46.00% | ~88,438 |
-| Tactical Tinkerer | 41.00% | ~78,825 |
-| Intuition and Execution | 40.00% | ~76,903 |
-| Squad Building Connoisseur | 39.00% | ~74,980 |
-| The Winning Formula | 37.00% | ~71,135 |
-| Parking the Bus | 28.00% | ~53,832 |
-| Safe House | 27.00% | ~51,909 |
-| Best of Five | 25.00% | ~48,064 |
-| Football is Everything | 24.00% | ~46,142 |
+| Power Shot | 75.00% | ~144,196 |
+| Dead-ball specialist | 62.00% | ~119,202 |
+| European Legend | 52.00% | ~99,976 |
+| Multitasking | 51.00% | ~98,053 |
+| Balanced Path | 49.00% | ~94,208 |
+| High Grades | 49.00% | ~94,208 |
+| Let the Games Begin | 47.00% | ~90,363 |
+| A Moment of Your Time | 46.00% | ~88,440 |
+| Aiming High | 46.00% | ~88,440 |
+| Tactical Tinkerer | 41.00% | ~78,827 |
+| Intuition and Execution | 40.00% | ~76,904 |
+| Squad Building Connoisseur | 39.00% | ~74,982 |
+| The Winning Formula | 37.00% | ~71,137 |
+| Parking the Bus | 28.00% | ~53,833 |
+| Safe House | 27.00% | ~51,910 |
+| Best of Five | 25.00% | ~48,065 |
+| Football is Everything | 24.00% | ~46,143 |
 | The Chosen One | 22.00% | ~42,297 |
-| Fresh Fit | 21.00% | ~40,374 |
+| Fresh Fit | 21.00% | ~40,375 |
 | Bring it on | 17.00% | ~32,684 |
-| Life-Like | 14.00% | ~26,916 |
-| Make the Grade | 13.00% | ~24,993 |
+| Life-Like | 14.00% | ~26,917 |
+| Make the Grade | 13.00% | ~24,994 |
 | I Played Them All | 10.00% | ~19,226 |
 | Specialist | 10.00% | ~19,226 |
 | Teamwork works | 9.00% | ~17,303 |
 | First of Many | 9.00% | ~17,303 |
-| Momentous Achievement | 6.00% | ~11,535 |
+| Momentous Achievement | 6.00% | ~11,536 |
 | In Cahoots | 5.00% | ~9,613 |
 | Tune Your Club | 5.00% | ~9,613 |
 | Becoming Unplayable | 5.00% | ~9,613 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 869)
 | Training Addict | 0.10% | ~192 |
 | Dazzling Personality | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,257 (Ranked 76)  
+Progressed: 192,261 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-24 | 190,848 | 0 |
 | 2023-11-25 | 191,601 | 0 |
 | 2023-11-26 | 192,204 | 0 |
-| 2023-11-27 | 192,257 | 0 |
+| 2023-11-27 | 192,261 | 0 |
 ## Awards
 Max (Diverse Characters): 21,302  (Ranked 20)  
 Sum: 106,556 (Ranked 14)  

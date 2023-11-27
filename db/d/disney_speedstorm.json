@@ -1503,7 +1503,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 314200,
+  "EOS_Progressed": 314238,
   "EOS_Completed": 333,
   "EOS_NewPlayers": 9529,
   "EOS_NewCompleters": 26,
@@ -13813,6 +13813,11 @@
       "Time": "2023-11-27T01:51:31.5244997+00:00",
       "NumProgressed": 314200,
       "NumCompleted": 333
+    },
+    {
+      "Time": "2023-11-27T02:26:42.3772153+00:00",
+      "NumProgressed": 314238,
+      "NumCompleted": 333
     }
   ],
   "TotalAchievements": 24,
@@ -13832,7 +13837,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15710
+      "UsersEstimate": 15712
     },
     {
       "ID": "11",
@@ -13864,7 +13869,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 21994
+      "UsersEstimate": 21997
     },
     {
       "ID": "15",
@@ -13920,7 +13925,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12568
+      "UsersEstimate": 12570
     },
     {
       "ID": "21",
@@ -13936,7 +13941,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 0.7,
       "XP": 55,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "23",
@@ -13944,7 +13949,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6284
+      "UsersEstimate": 6285
     },
     {
       "ID": "24",
@@ -13952,7 +13957,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9426
+      "UsersEstimate": 9427
     },
     {
       "ID": "3",
@@ -13968,7 +13973,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9426
+      "UsersEstimate": 9427
     },
     {
       "ID": "5",
@@ -13976,7 +13981,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34562
+      "UsersEstimate": 34566
     },
     {
       "ID": "6",
@@ -13984,7 +13989,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12568
+      "UsersEstimate": 12570
     },
     {
       "ID": "7",
@@ -14015,7 +14020,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 314200,
+      "Progressed": 314238,
       "Completed": 333
     }
   ],
@@ -14023,8 +14028,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-27T01:45:15.4478719+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:51:31.5244994+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:26:42.377215+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:45:15.447896+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:51:31.5245649+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:20:23.4057402+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:26:42.3772777+00:00"
 }

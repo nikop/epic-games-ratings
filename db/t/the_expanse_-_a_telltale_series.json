@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15636,
+  "EOS_Progressed": 15638,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12405,6 +12405,11 @@
       "Time": "2023-11-27T01:53:35.0401544+00:00",
       "NumProgressed": 15636,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-27T02:29:03.1023827+00:00",
+      "NumProgressed": 15638,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12465,7 +12470,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "16",
@@ -12473,7 +12478,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "17",
@@ -12537,7 +12542,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "24",
@@ -12561,7 +12566,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "27",
@@ -12673,7 +12678,7 @@
       "Name": "Zen Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "34",
@@ -12696,13 +12701,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15636,
+      "Progressed": 15638,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1590,
+      "Progressed": 1592,
       "Completed": 736
     }
   ],
@@ -12710,8 +12715,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:53:35.0401538+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:29:03.1023822+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:46:25.1362607+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:53:35.0402405+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:21:44.1148533+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:29:03.1024597+00:00"
 }

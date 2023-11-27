@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2023-11-26T19:08:31.8663211+00:00",
       "NumProgressed": 163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T02:30:48.0383108+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -626,7 +631,7 @@
       "Name": "Administrator",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -634,7 +639,7 @@
       "Name": "A friend of the animals... or not.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -672,9 +677,9 @@
       "ID": "TINGWD_BUZZ",
       "SetID": "c0imaa6",
       "Name": "To infinity and beyond!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -688,9 +693,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 125
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -698,7 +703,7 @@
       "Name": "A soundly led quest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -714,7 +719,7 @@
       "Name": "The end of the ordeal",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -746,7 +751,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -754,7 +759,7 @@
       "Name": "Private Detective",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -802,7 +807,7 @@
       "Name": "Have you no shame?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -826,7 +831,7 @@
       "Name": "One Punch Man",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "TINGWD_RADAR",
@@ -842,7 +847,7 @@
       "Name": "Raiders of the lost game",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -897,14 +902,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:55:45.7556876+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:30:48.0383103+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:47:22.570362+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:55:45.7557127+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:22:48.6629863+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:30:48.0383336+00:00"
 }

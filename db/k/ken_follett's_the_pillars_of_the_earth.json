@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16692,
+  "EOS_Progressed": 16693,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
@@ -14953,6 +14953,11 @@
       "Time": "2023-11-27T01:51:03.874584+00:00",
       "NumProgressed": 16692,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-27T02:26:11.5260018+00:00",
+      "NumProgressed": 16693,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15004,7 +15009,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5508
+      "UsersEstimate": 5509
     },
     {
       "ID": "tpote_achievement_15",
@@ -15052,7 +15057,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5508
+      "UsersEstimate": 5509
     },
     {
       "ID": "tpote_achievement_20",
@@ -15076,7 +15081,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3339
     },
     {
       "ID": "tpote_achievement_23",
@@ -15140,7 +15145,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "tpote_achievement_30",
@@ -15268,7 +15273,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "tpote_achievement_8",
@@ -15276,7 +15281,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "tpote_achievement_9",
@@ -15284,22 +15289,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5675
+      "UsersEstimate": 5676
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16692,
+      "Progressed": 16693,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:51:03.8745838+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:26:11.5260014+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:45:34.7027406+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:51:03.8746612+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:20:46.0070078+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:26:11.5260755+00:00"
 }

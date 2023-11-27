@@ -3,7 +3,7 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
-  "Ranking_Popularity": 510,
+  "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 361,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1178,6 +1178,11 @@
       "Time": "2023-11-26T20:05:49.5566287+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-27T02:29:20.2582004+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1366,7 +1371,7 @@
       "Name": "Infernal Influence",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KillingSpree",
@@ -1470,7 +1475,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1516,9 +1521,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "WielderLevel2",
@@ -1550,7 +1555,7 @@
       "Name": "Humiliation",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1558,7 +1563,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -1574,7 +1579,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1621,15 +1626,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:53:49.995998+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:29:20.2582+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:45:10.9259282+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:53:49.9960349+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:20:18.796075+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:29:20.2582391+00:00"
 }

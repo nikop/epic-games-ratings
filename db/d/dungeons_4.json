@@ -1137,9 +1137,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 333
     },
     {
       "ID": "ach_main03demon_doors",
@@ -1153,9 +1153,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 259
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1584,8 +1584,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:53:28.3227891+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:28:55.4392422+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:46:33.1485423+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:53:28.3228291+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:21:53.4860684+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:28:55.4392853+00:00"
 }

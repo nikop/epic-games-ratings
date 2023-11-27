@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131728,
+  "EOS_Progressed": 131730,
   "EOS_Completed": 1145,
-  "EOS_NewPlayers": 1062,
+  "EOS_NewPlayers": 1063,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -25433,6 +25433,11 @@
       "Time": "2023-11-27T01:53:48.2030084+00:00",
       "NumProgressed": 131728,
       "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-11-27T02:29:18.1796902+00:00",
+      "NumProgressed": 131730,
+      "NumCompleted": 1145
     }
   ],
   "TotalAchievements": 34,
@@ -25460,7 +25465,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 55326
+      "UsersEstimate": 55327
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -25468,7 +25473,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 38201
+      "UsersEstimate": 38202
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -25500,7 +25505,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 105382
+      "UsersEstimate": 105384
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -25516,7 +25521,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 73768
+      "UsersEstimate": 73769
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -25532,7 +25537,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 52691
+      "UsersEstimate": 52692
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -25556,7 +25561,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 39518
+      "UsersEstimate": 39519
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -25572,7 +25577,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 39518
+      "UsersEstimate": 39519
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -25596,7 +25601,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 19759
+      "UsersEstimate": 19760
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -25644,7 +25649,7 @@
       "Name": "Naacalvision",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 21076
+      "UsersEstimate": 21077
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -25700,7 +25705,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 30297
+      "UsersEstimate": 30298
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -25715,7 +25720,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 131728,
+      "Progressed": 131730,
       "Completed": 1145
     }
   ],
@@ -25723,8 +25728,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:53:48.2030076+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:29:18.1796896+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.6152409+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:47:52.7100514+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:53:48.2031519+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:25:13.4527733+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:29:18.1798128+00:00"
 }

@@ -12,8 +12,8 @@
 | Quarian Ally | 63.00% | ~897 |
 | Medal of Heroism | 59.00% | ~840 |
 | Honorarium of Corporate Service | 59.00% | ~840 |
+| Medal of Exploration II | 54.00% | ~769 |
 | Council Legion of Merit | 54.00% | ~769 |
-| Medal of Exploration II | 53.00% | ~755 |
 | Turian Ally | 52.00% | ~740 |
 | Medal of Honor | 51.00% | ~726 |
 | Meritorious Service Medal | 51.00% | ~726 |
@@ -77,16 +77,16 @@
 | A House Divided | 27.00% | ~384 |
 | Eye of the Hurricane | 26.00% | ~370 |
 | Giant Killer | 26.00% | ~370 |
+| First Aid Specialist | 26.00% | ~370 |
 | World Shaker | 26.00% | ~370 |
-| First Aid Specialist | 25.00% | ~356 |
 | Liberator | 25.00% | ~356 |
 | Weapon Specialist | 24.00% | ~342 |
 | Pathfinder | 24.00% | ~342 |
 | Tunnel Rat | 24.00% | ~342 |
 | Arbiter | 24.00% | ~342 |
 | Savior | 23.00% | ~328 |
+| Lost and Found | 23.00% | ~328 |
 | Party Crasher | 22.00% | ~313 |
-| Lost and Found | 22.00% | ~313 |
 | Paramour II | 21.00% | ~299 |
 | Hard Target | 21.00% | ~299 |
 | Problem Solver | 21.00% | ~299 |

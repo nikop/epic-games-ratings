@@ -8,11 +8,11 @@
 | You have three wishes left | 18.00% | ~8 |
 | The battle of Great Britain | 16.00% | ~7 |
 | Jung's dream | 14.00% | ~6 |
-| Pulp! Where Monsters Dwell | 11.00% | ~5 |
-| A continent with chemistry | 11.00% | ~5 |
+| Pulp! Where Monsters Dwell | 14.00% | ~6 |
+| A continent with chemistry | 14.00% | ~6 |
+| Pulp! Terror Tales in the Night | 11.00% | ~5 |
 | Giant | 9.00% | ~4 |
 | A rival with no options | 9.00% | ~4 |
-| Pulp! Terror Tales in the Night | 9.00% | ~4 |
 | The happy farmer girl | 9.00% | ~4 |
 | Bread and bocaua | 7.00% | ~3 |
 | Fanatacism is... poisonous | 7.00% | ~3 |

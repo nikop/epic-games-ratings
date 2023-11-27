@@ -1140,9 +1140,9 @@
       "ID": "Vanilla_FleeFromAFight",
       "SetID": "27kik8p",
       "Name": "Fight Another Day",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Vanilla_Forager",
@@ -1581,8 +1581,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:55:47.451842+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:30:49.974607+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8906494+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:44:56.2777749+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:55:47.4519451+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:20:00.7502801+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:30:49.9746947+00:00"
 }

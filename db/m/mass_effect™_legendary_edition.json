@@ -4293,9 +4293,9 @@
       "ID": "achievement_16",
       "SetID": "b9pe172",
       "Name": "First Aid Specialist",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_17",
@@ -4349,9 +4349,9 @@
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 755
+      "UsersEstimate": 769
     },
     {
       "ID": "achievement_23",
@@ -5021,9 +5021,9 @@
       "ID": "achievement_99",
       "SetID": "d252ncf",
       "Name": "Lost and Found",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 328
     }
   ],
   "AchievementSets": [
@@ -5041,8 +5041,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:56:09.3520508+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:31:14.9214104+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:50:38.5701716+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:56:09.3522075+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:25:42.6296391+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:31:14.9215754+00:00"
 }

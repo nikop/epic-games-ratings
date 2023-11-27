@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4234,
+  "EOS_Progressed": 4235,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
@@ -10534,6 +10534,11 @@
       "Time": "2023-11-27T01:54:01.6287649+00:00",
       "NumProgressed": 4234,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-27T02:29:33.3359663+00:00",
+      "NumProgressed": 4235,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 16,
@@ -10577,7 +10582,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "ach_architecture_completed",
@@ -10593,7 +10598,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ach_bomb",
@@ -10633,7 +10638,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "ach_game_opened",
@@ -10657,7 +10662,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "ach_tornado",
@@ -10672,14 +10677,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4234,
+      "Progressed": 4235,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:54:01.6287646+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:29:33.3359657+00:00",
   "LastUpdate_AppInfo": "2023-11-24T20:57:04.2285438+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:46:09.2259103+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:54:01.6288192+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:21:25.7588207+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:29:33.336028+00:00"
 }

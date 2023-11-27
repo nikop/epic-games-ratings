@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9633,
+  "EOS_Progressed": 9636,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 3015,
+  "EOS_NewPlayers": 3010,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2203,6 +2203,11 @@
       "Time": "2023-11-27T01:51:45.6466204+00:00",
       "NumProgressed": 9633,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-27T02:26:58.4961534+00:00",
+      "NumProgressed": 9636,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -2223,7 +2228,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -2294,7 +2299,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 9633,
+      "Progressed": 9636,
       "Completed": 32
     }
   ],
@@ -2302,8 +2307,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-25T10:00:25.1151094+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:51:45.6466201+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:26:58.4961528+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.5649017+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:45:02.5986583+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:51:45.6466365+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:20:09.0540185+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:26:58.4961695+00:00"
 }

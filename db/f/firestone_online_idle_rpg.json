@@ -517,9 +517,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2740,
+  "EOS_Progressed": 2741,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8137,6 +8137,11 @@
       "Time": "2023-11-27T01:56:26.6372338+00:00",
       "NumProgressed": 2740,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-27T02:31:34.2691775+00:00",
+      "NumProgressed": 2741,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8252,7 +8257,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "dragonmaster",
@@ -8484,7 +8489,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "missionsdedication",
@@ -8548,7 +8553,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "relicofthepast",
@@ -8572,7 +8577,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "scrollmaster",
@@ -8708,7 +8713,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "warmachinesarmy",
@@ -8740,14 +8745,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2740,
+      "Progressed": 2741,
       "Completed": 2
     }
   ],
@@ -8755,8 +8760,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-26T15:02:29.5488839+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:56:26.6372334+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:31:34.2691772+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:50:27.7668682+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:56:26.6373328+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:25:29.6390599+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:31:34.2692569+00:00"
 }

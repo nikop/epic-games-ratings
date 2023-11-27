@@ -551,9 +551,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41344,
+  "EOS_Progressed": 41345,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 1167,
+  "EOS_NewPlayers": 1163,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8486,6 +8486,11 @@
       "Time": "2023-11-27T01:56:03.9337774+00:00",
       "NumProgressed": 41344,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-11-27T02:31:08.8682978+00:00",
+      "NumProgressed": 41345,
+      "NumCompleted": 174
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -8514,7 +8519,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 7855
+      "UsersEstimate": 7856
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -8650,7 +8655,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7028
+      "UsersEstimate": 7029
     },
     {
       "ID": "ACH_OASIS",
@@ -8690,7 +8695,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28114
+      "UsersEstimate": 28115
     },
     {
       "ID": "ACH_S4",
@@ -8714,7 +8719,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31008
+      "UsersEstimate": 31009
     },
     {
       "ID": "ACH_STATUE",
@@ -8729,15 +8734,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 41344,
+      "Progressed": 41345,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-25T10:58:21.218684+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:56:03.9337772+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:31:08.8682975+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.5276065+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:46:04.5273259+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:56:03.9338325+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:21:20.3937495+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:31:08.8683446+00:00"
 }

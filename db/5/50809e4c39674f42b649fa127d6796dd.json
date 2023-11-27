@@ -769,9 +769,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "FIRST_S_RANK",
@@ -984,8 +984,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:56:02.0621423+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:31:06.8100921+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:47:25.5716247+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:56:02.0621658+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:22:52.1035681+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:31:06.8101162+00:00"
 }

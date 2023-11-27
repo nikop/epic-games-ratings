@@ -443,9 +443,9 @@
       "ID": "605832",
       "SetID": "4lpaifm",
       "Name": "Deity of Darkness",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "605842",
@@ -548,8 +548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:53:57.6082009+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:29:28.6780638+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.8631435+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:45:36.1966388+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:53:57.6082366+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:20:47.8651265+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:29:28.6781022+00:00"
 }

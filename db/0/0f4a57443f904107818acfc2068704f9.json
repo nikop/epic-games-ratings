@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 676,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1327,6 +1327,11 @@
       "Time": "2023-11-27T01:53:51.4233498+00:00",
       "NumProgressed": 674,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-27T02:29:21.6564304+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1387,7 +1392,7 @@
       "Name": "Knight-Vexillor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteChapter1",
@@ -1395,7 +1400,7 @@
       "Name": "Pathfinder",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "CompleteChapter10",
@@ -1435,7 +1440,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CompleteChapter15",
@@ -1483,7 +1488,7 @@
       "Name": "Met the Enemy",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "CompleteChapter3",
@@ -1491,7 +1496,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "CompleteChapter4",
@@ -1505,9 +1510,9 @@
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 142
     },
     {
       "ID": "CompleteChapter6",
@@ -1539,7 +1544,7 @@
       "Name": "Ingredients List",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1587,7 +1592,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1611,7 +1616,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1619,7 +1624,7 @@
       "Name": "Warmaster Supreme",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -1634,14 +1639,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 676,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:53:51.4233494+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:29:21.6564298+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:47:02.9341262+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:53:51.4233769+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:22:27.2752875+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:29:21.6564587+00:00"
 }

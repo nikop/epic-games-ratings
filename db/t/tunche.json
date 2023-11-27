@@ -3,8 +3,8 @@
   "Name": "Tunche",
   "ProductSlug": "tunche",
   "Ranking_Rating": 648,
-  "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 525,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 759,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 474,
@@ -325,18 +325,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 27,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-11-27T02:25:08.570601+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 27
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -351,8 +357,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.1699893+00:00",
   "FirstSeenRating": "2023-03-31T05:57:24.4690387+00:00",
-  "LastChanged": "2023-11-23T03:58:22.4575768+00:00",
+  "LastChanged": "2023-11-27T02:25:08.5706009+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:30.5609819+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:47:48.2874342+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:56:15.5456257+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:25:08.5706013+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:31:21.7095503+00:00"
 }

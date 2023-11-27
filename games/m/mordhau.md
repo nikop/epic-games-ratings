@@ -5,17 +5,17 @@ Rating: 4.38 (Ranked 763)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~765,943 |
+| Justice from the Grave | 49.00% | ~765,944 |
 | The ABCs | 43.00% | ~672,154 |
-| Home Run | 41.00% | ~640,891 |
-| Keeps Coming Off | 41.00% | ~640,891 |
+| Home Run | 41.00% | ~640,892 |
+| Keeps Coming Off | 41.00% | ~640,892 |
 | Guts | 20.00% | ~312,630 |
 | Meat Grinder | 19.00% | ~296,998 |
 | Burning Man | 16.00% | ~250,104 |
 | Lived to Tell the Tale | 12.00% | ~187,578 |
 | Highlander | 10.00% | ~156,315 |
 | Unstoppable | 10.00% | ~156,315 |
-| Just a Scratch | 9.00% | ~140,683 |
+| Just a Scratch | 9.00% | ~140,684 |
 | Tough Nut to Crack | 6.00% | ~93,789 |
 | Yoink | 6.00% | ~93,789 |
 | Long List of Names | 4.00% | ~62,526 |
@@ -28,8 +28,8 @@ Rating: 4.38 (Ranked 763)
 | Poacher | 2.00% | ~31,263 |
 | Put That Away | 2.00% | ~31,263 |
 | You’re Welcome | 2.00% | ~31,263 |
-| Chambermaid | 1.00% | ~15,631 |
-| Coming Through | 1.00% | ~15,631 |
+| Chambermaid | 1.00% | ~15,632 |
+| Coming Through | 1.00% | ~15,632 |
 | Boxer | 0.90% | ~14,068 |
 | Training Accident | 0.90% | ~14,068 |
 | Flyswatter | 0.80% | ~12,505 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 763)
 | That’s No Ordinary Cold | 0.10% | ~1,563 |
 | Stairway to Hell | 0.10% | ~1,563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,563,148 (Ranked 7)  
+Progressed: 1,563,150 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 68 (0.00%) (Ranked 361)
 | 2023-11-24 | 1,561,879 | 68 |
 | 2023-11-25 | 1,562,510 | 68 |
 | 2023-11-26 | 1,563,103 | 68 |
-| 2023-11-27 | 1,563,148 | 68 |
+| 2023-11-27 | 1,563,150 | 68 |
 ## Awards
 Max (Diverse Characters): 979  (Ranked 155)  
 Sum: 5,107 (Ranked 139)  

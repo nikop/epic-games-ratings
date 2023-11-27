@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2820,9 +2820,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 539300,
+  "EOS_Progressed": 539301,
   "EOS_Completed": 1623,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -27155,6 +27155,11 @@
       "Time": "2023-11-27T01:51:01.8346031+00:00",
       "NumProgressed": 539300,
       "NumCompleted": 1623
+    },
+    {
+      "Time": "2023-11-27T02:26:09.0227682+00:00",
+      "NumProgressed": 539301,
+      "NumCompleted": 1623
     }
   ],
   "TotalAchievements": 37,
@@ -27222,7 +27227,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 447619
+      "UsersEstimate": 447620
     },
     {
       "ID": "HONED",
@@ -27422,7 +27427,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345152
+      "UsersEstimate": 345153
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -27461,15 +27466,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 539300,
+      "Progressed": 539301,
       "Completed": 1623
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-26T10:02:54.1263186+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:51:01.8346027+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:26:09.0227679+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.6010345+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:50:26.4402921+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:51:01.8347435+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:25:27.960823+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:26:09.0228732+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8871,9 +8871,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 810093,
+  "EOS_Progressed": 810094,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1003,
+  "EOS_NewPlayers": 1002,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33646,6 +33646,11 @@
       "Time": "2023-11-27T01:56:11.6972461+00:00",
       "NumProgressed": 810093,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-27T02:31:17.5454737+00:00",
+      "NumProgressed": 810094,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -33769,7 +33774,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202523
+      "UsersEstimate": 202524
     },
     {
       "ID": "Chivalrous",
@@ -33857,7 +33862,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186321
+      "UsersEstimate": 186322
     },
     {
       "ID": "Fighter",
@@ -34312,15 +34317,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 810093,
+      "Progressed": 810094,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-27T01:45:28.6736754+00:00",
-  "LastChanged_Achievements": "2023-11-27T01:56:11.6972459+00:00",
+  "LastChanged_Achievements": "2023-11-27T02:31:17.5454731+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.8106757+00:00",
-  "LastUpdate_Ratings": "2023-11-27T01:45:28.6736763+00:00",
-  "LastUpdate_Achievements": "2023-11-27T01:56:11.6974029+00:00"
+  "LastUpdate_Ratings": "2023-11-27T02:20:39.0653651+00:00",
+  "LastUpdate_Achievements": "2023-11-27T02:31:17.5456372+00:00"
 }
