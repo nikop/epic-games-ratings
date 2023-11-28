@@ -64,7 +64,7 @@
 | Heal Heal Blessing | 6.00% | ~29 |
 | No Mana, No Cry | 5.00% | ~24 |
 | Hands Off My Stones | 5.00% | ~24 |
-| I Don't Need Any Help | 3.00% | ~14 |
+| I Don't Need Any Help | 4.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 483 (Ranked 311)  
 Completed: 7 (1.45%) (Ranked 145)  

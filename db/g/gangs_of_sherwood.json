@@ -3,9 +3,9 @@
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 561,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -131,9 +131,9 @@
       "ID": "ACH_100_FLUX",
       "SetID": "5akmpni",
       "Name": "Brilliant Executioner",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_100_HEAT",
@@ -363,9 +363,9 @@
       "ID": "ACH_KILL_GISBORNE",
       "SetID": "5akmpni",
       "Name": "Locksley\u0027s Tears",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_KILL_KIRKLEES",
@@ -545,8 +545,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:06:34.8093847+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:05:54.9975395+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:58:02.6474003+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:06:34.8094289+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:57:55.4705969+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:05:54.9975839+00:00"
 }

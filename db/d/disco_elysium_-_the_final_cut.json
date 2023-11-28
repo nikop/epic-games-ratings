@@ -6,9 +6,9 @@
   "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1508,7 +1508,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131342,
+  "EOS_Progressed": 131344,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
@@ -23203,6 +23203,11 @@
       "Time": "2023-11-28T09:08:22.4142809+00:00",
       "NumProgressed": 131342,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-28T10:06:01.0201154+00:00",
+      "NumProgressed": 131344,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23270,7 +23275,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31522
+      "UsersEstimate": 31523
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23342,7 +23347,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17074
+      "UsersEstimate": 17075
     },
     {
       "ID": "ACH_COP_STAR",
@@ -23533,15 +23538,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131342,
+      "Progressed": 131344,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-27T11:59:25.2910786+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:08:22.4142805+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:06:01.020115+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:59:11.0305448+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:08:22.4143839+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:59:00.6620909+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:06:01.0202295+00:00"
 }

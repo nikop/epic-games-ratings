@@ -6,9 +6,9 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 267,
+  "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4415,9 +4415,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77338,
+  "EOS_Progressed": 77340,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24255,6 +24255,11 @@
       "Time": "2023-11-28T09:04:06.8750728+00:00",
       "NumProgressed": 77338,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-28T10:03:27.9450796+00:00",
+      "NumProgressed": 77340,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24362,7 +24367,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13147
+      "UsersEstimate": 13148
     },
     {
       "ID": "CLAYFACE_1",
@@ -24386,7 +24391,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10827
+      "UsersEstimate": 10828
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -24450,7 +24455,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6960
+      "UsersEstimate": 6961
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -24506,7 +24511,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14694
+      "UsersEstimate": 14695
     },
     {
       "ID": "FREEZE_3",
@@ -24514,7 +24519,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10827
+      "UsersEstimate": 10828
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -24570,7 +24575,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 27068
+      "UsersEstimate": 27069
     },
     {
       "ID": "HARLEY_2",
@@ -24578,7 +24583,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19334
+      "UsersEstimate": 19335
     },
     {
       "ID": "HARLEY_3",
@@ -24610,7 +24615,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38669
+      "UsersEstimate": 38670
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24642,7 +24647,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20881
+      "UsersEstimate": 20882
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -24658,7 +24663,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26295
+      "UsersEstimate": 26296
     },
     {
       "ID": "MYSTERY_02",
@@ -24666,7 +24671,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19334
+      "UsersEstimate": 19335
     },
     {
       "ID": "MYSTERY_03",
@@ -24674,7 +24679,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17014
+      "UsersEstimate": 17015
     },
     {
       "ID": "MYSTERY_04",
@@ -24706,7 +24711,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10827
+      "UsersEstimate": 10828
     },
     {
       "ID": "MYSTERY_08",
@@ -24730,7 +24735,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6960
+      "UsersEstimate": 6961
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -24753,13 +24758,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77338,
+      "Progressed": 77340,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47618,
+      "Progressed": 47620,
       "Completed": 2675
     }
   ],
@@ -24767,8 +24772,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-28T07:57:56.6522139+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:04:06.8750724+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:03:27.9450793+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:58:12.7612343+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:04:06.8751796+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:58:05.2026089+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:03:27.9451939+00:00"
 }

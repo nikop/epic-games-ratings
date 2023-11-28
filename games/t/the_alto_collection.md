@@ -47,7 +47,7 @@ Number of Ratings: 332  (23.09.2022)
 | Windswept | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 48,031 (Ranked 113)  
-Completed: 5 (0.01%) (Ranked 342)  
+Completed: 5 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

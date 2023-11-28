@@ -3,12 +3,12 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 844,
-  "Ranking_Popularity": 378,
+  "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -489,9 +489,9 @@
       "Count": 91
     }
   ],
-  "EOS_Progressed": 253272,
+  "EOS_Progressed": 253273,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25314,6 +25314,11 @@
       "Time": "2023-11-28T09:05:28.0921534+00:00",
       "NumProgressed": 253272,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-28T10:04:48.3412398+00:00",
+      "NumProgressed": 253273,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -25325,7 +25330,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68383
+      "UsersEstimate": 68384
     },
     {
       "ID": "ACH_AON",
@@ -25405,7 +25410,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22794
+      "UsersEstimate": 22795
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -25740,7 +25745,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 253272,
+      "Progressed": 253273,
       "Completed": 7
     }
   ],
@@ -25748,8 +25753,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-22T22:59:02.1390079+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:05:28.092153+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:04:48.3412395+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:16.3700247+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:57:44.8374329+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:05:28.0923174+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:57:37.776452+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:04:48.3413765+00:00"
 }

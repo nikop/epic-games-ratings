@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11089,10 +11089,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49346,
       "NumberOfAwardsMax": 24711
+    },
+    {
+      "Time": "2023-11-28T10:00:06.1630295+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49348,
+      "NumberOfAwardsMax": 24711
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49346,
+  "NumberOfAwards": 49348,
   "NumberOfAwardsMax": 24711,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11124,7 +11130,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1355
+      "Count": 1357
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11169,9 +11175,9 @@
       "Count": 817
     }
   ],
-  "EOS_Progressed": 303444,
+  "EOS_Progressed": 303446,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 934,
+  "EOS_NewPlayers": 936,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35059,6 +35065,11 @@
       "Time": "2023-11-28T09:09:51.777799+00:00",
       "NumProgressed": 303444,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-11-28T10:08:58.0048772+00:00",
+      "NumProgressed": 303446,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 45,
@@ -35126,7 +35137,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36413
+      "UsersEstimate": 36414
     },
     {
       "ID": "PFA_17",
@@ -35198,7 +35209,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36413
+      "UsersEstimate": 36414
     },
     {
       "ID": "PFA_25",
@@ -35254,7 +35265,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36413
+      "UsersEstimate": 36414
     },
     {
       "ID": "PFA_31",
@@ -35294,7 +35305,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30344
+      "UsersEstimate": 30345
     },
     {
       "ID": "PFA_36",
@@ -35422,23 +35433,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30344
+      "UsersEstimate": 30345
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303444,
+      "Progressed": 303446,
       "Completed": 518
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-28T07:01:46.775408+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:09:51.7777986+00:00",
+  "LastChanged": "2023-11-28T10:00:06.1630293+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:08:58.0048769+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:00:22.4286132+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:09:51.7779547+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:00:06.16303+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:08:58.0049926+00:00"
 }

@@ -18,20 +18,20 @@
 | Right between the eyes | 37.00% | ~7 |
 | Spring Board | 37.00% | ~7 |
 | Starry Night | 32.00% | ~6 |
+| Locksley's Tears | 32.00% | ~6 |
 | Rebel Unleashed | 32.00% | ~6 |
 | Merry Go Round | 32.00% | ~6 |
 | Finish Him! | 26.00% | ~5 |
-| Locksley's Tears | 26.00% | ~5 |
 | Assault on the Ram | 26.00% | ~5 |
 | Ascending Will | 21.00% | ~4 |
 | Ultra Combo | 21.00% | ~4 |
 | Ultra Rebel Instinct | 21.00% | ~4 |
 | Take Action! | 21.00% | ~4 |
+| Brilliant Executioner | 16.00% | ~3 |
 | The Gang prevails | 16.00% | ~3 |
 | Hidden Experiment | 16.00% | ~3 |
 | Into the Lion's Den | 16.00% | ~3 |
 | Haute Couture | 16.00% | ~3 |
-| Brilliant Executioner | 11.00% | ~2 |
 | King of the Iron Fist | 11.00% | ~2 |
 | Bold and Bossy | 11.00% | ~2 |
 | Power of Friendship! | 11.00% | ~2 |
@@ -59,7 +59,7 @@
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19 (Ranked 561)  
-Completed: 0 (0.00%) (Ranked 362)  
+Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

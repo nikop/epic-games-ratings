@@ -5,20 +5,20 @@ Rating: 4.39 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,693 |
-| IT MAKES BOOM! | 7.00% | ~22,077 |
-| EXTRA BOOST | 5.00% | ~15,769 |
-| PROTECTED | 4.00% | ~12,615 |
-| PRO | 4.00% | ~12,615 |
+| ROOKIE | 11.00% | ~34,694 |
+| IT MAKES BOOM! | 7.00% | ~22,078 |
+| EXTRA BOOST | 5.00% | ~15,770 |
+| PROTECTED | 4.00% | ~12,616 |
+| PRO | 4.00% | ~12,616 |
 | HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,462 |
 | AGGRESSIVE RACER | 3.00% | ~9,462 |
 | A TIGER'S FEAR | 2.00% | ~6,308 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,154 |
 | ACE SPEEDSTER | 1.00% | ~3,154 |
-| RELEASE THE KRAKEN | 0.90% | ~2,838 |
-| BE OUR GUEST | 0.90% | ~2,838 |
-| MASTER | 0.90% | ~2,838 |
-| LEGENDARY HERO | 0.90% | ~2,838 |
+| RELEASE THE KRAKEN | 0.90% | ~2,839 |
+| BE OUR GUEST | 0.90% | ~2,839 |
+| MASTER | 0.90% | ~2,839 |
+| LEGENDARY HERO | 0.90% | ~2,839 |
 | TRAINING HARD | 0.80% | ~2,523 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,523 |
 | FRIENDLY | 0.80% | ~2,523 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 748)
 | FRAMED! | 0.30% | ~946 |
 | PERFECTLY POISED | 0.20% | ~631 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315,387 (Ranked 52)  
-Completed: 339 (0.11%) (Ranked 281)  
+Progressed: 315,399 (Ranked 52)  
+Completed: 339 (0.11%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -248,14 +248,14 @@ Completed: 339 (0.11%) (Ranked 281)
 | 2023-11-25 | 312,443 | 330 |
 | 2023-11-26 | 314,023 | 333 |
 | 2023-11-27 | 315,001 | 338 |
-| 2023-11-28 | 315,387 | 339 |
+| 2023-11-28 | 315,399 | 339 |
 ## Awards
-Max (Great for Beginners): 89  (Ranked 381)  
-Sum: 667 (Ranked 306)  
-Diff (max vs sum): 75  
+Max (Great for Beginners): 93  (Ranked 375)  
+Sum: 671 (Ranked 304)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 89 |
+| This game is Great for Beginners | 93 |
 | This game is Great for Quick Sessions | 81 |
 | This game has Diverse Characters | 78 |
 | This game has Amazing Characters | 56 |
@@ -328,4 +328,4 @@ Diff (max vs sum): 75
 | 2023-11-25 | 4.39 | 83 | 640 |
 | 2023-11-26 | 4.39 | 87 | 658 |
 | 2023-11-27 | 4.39 | 89 | 665 |
-| 2023-11-28 | 4.39 | 89 | 667 |
+| 2023-11-28 | 4.39 | 93 | 671 |

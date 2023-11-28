@@ -3,7 +3,7 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1105,6 +1105,11 @@
       "Time": "2023-11-28T09:09:02.683594+00:00",
       "NumProgressed": 415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T10:08:10.2910013+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1117,7 +1122,7 @@
       "Name": "The Teleprobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "AchvAllMemories",
@@ -1291,9 +1296,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 212
     },
     {
       "ID": "AchvReachCity",
@@ -1301,7 +1306,7 @@
       "Name": "The City",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "AchvReachCondor",
@@ -1348,14 +1353,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:09:02.6835934+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:08:10.2910008+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:58:13.5097579+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:09:02.6836124+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:58:05.9668923+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:08:10.2910233+00:00"
 }

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~21,632 |
-| Fried Friendship | 87.00% | ~21,386 |
-| Look At Him Go | 78.00% | ~19,174 |
-| On Rails Experience | 57.00% | ~14,012 |
-| A Daring Devil | 52.00% | ~12,783 |
-| It Took Two | 44.00% | ~10,816 |
-| Break the Bank | 43.00% | ~10,570 |
-| Bug Sized Relaxation | 21.00% | ~5,162 |
-| Plastic Prison Breakers | 17.00% | ~4,179 |
-| Terror Of The Seven Seas | 16.00% | ~3,933 |
-| Realize Your Art | 12.00% | ~2,950 |
-| Force Triangulated | 12.00% | ~2,950 |
-| Meditation Maestro | 12.00% | ~2,950 |
-| Lost And Found | 11.00% | ~2,704 |
-| Something Fishy | 11.00% | ~2,704 |
-| Platforming Prodigy | 9.00% | ~2,212 |
+| Struck A Pose | 88.00% | ~21,641 |
+| Fried Friendship | 87.00% | ~21,395 |
+| Look At Him Go | 78.00% | ~19,182 |
+| On Rails Experience | 57.00% | ~14,017 |
+| A Daring Devil | 52.00% | ~12,788 |
+| It Took Two | 44.00% | ~10,820 |
+| Break the Bank | 43.00% | ~10,575 |
+| Bug Sized Relaxation | 21.00% | ~5,164 |
+| Plastic Prison Breakers | 17.00% | ~4,181 |
+| Terror Of The Seven Seas | 16.00% | ~3,935 |
+| Realize Your Art | 12.00% | ~2,951 |
+| Force Triangulated | 12.00% | ~2,951 |
+| Meditation Maestro | 12.00% | ~2,951 |
+| Lost And Found | 11.00% | ~2,705 |
+| Something Fishy | 11.00% | ~2,705 |
+| Platforming Prodigy | 9.00% | ~2,213 |
 | Snackosaurus | 8.00% | ~1,967 |
 | Mood Swing | 7.00% | ~1,721 |
-| Faraway Frequencies | 4.00% | ~983 |
-| Minigame Megalomania | 3.00% | ~737 |
+| Faraway Frequencies | 4.00% | ~984 |
+| Minigame Megalomania | 3.00% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,582 (Ranked 129)  
-Completed: 105 (0.43%) (Ranked 215)  
+Progressed: 24,592 (Ranked 128)  
+Completed: 105 (0.43%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,4 +99,4 @@ Completed: 105 (0.43%) (Ranked 215)
 | 2023-11-25 | 24,052 | 104 |
 | 2023-11-26 | 24,372 | 104 |
 | 2023-11-27 | 24,529 | 105 |
-| 2023-11-28 | 24,582 | 105 |
+| 2023-11-28 | 24,592 | 105 |

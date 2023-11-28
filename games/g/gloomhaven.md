@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~9,606 |
-| Overkill | 34.00% | ~7,966 |
+| I'm not dead yet | 41.00% | ~9,607 |
+| Overkill | 34.00% | ~7,967 |
 | Vaccine Incoming | 33.00% | ~7,732 |
-| A normal day in Gloomhaven | 31.00% | ~7,263 |
+| A normal day in Gloomhaven | 31.00% | ~7,264 |
 | Spread the plague | 29.00% | ~6,795 |
 | Get over here! | 25.00% | ~5,858 |
 | Just when I thought I was out... | 19.00% | ~4,452 |
 | Precious! | 17.00% | ~3,983 |
 | Mine... All Mine... | 17.00% | ~3,983 |
-| Grizzled veteran | 15.00% | ~3,514 |
-| Anatomy Lesson | 15.00% | ~3,514 |
+| Grizzled veteran | 15.00% | ~3,515 |
+| Anatomy Lesson | 15.00% | ~3,515 |
 | Light of my life | 14.00% | ~3,280 |
 | Obstacle race | 13.00% | ~3,046 |
 | You activated my trap card! | 12.00% | ~2,812 |
@@ -68,8 +68,8 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~23 |
 | Murder Death Kill | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,430 (Ranked 132)  
-Completed: 1 (0.00%) (Ranked 362)  
+Progressed: 23,431 (Ranked 132)  
+Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,7 +144,7 @@ Completed: 1 (0.00%) (Ranked 362)
 | 2023-11-25 | 22,950 | 1 |
 | 2023-11-26 | 23,222 | 1 |
 | 2023-11-27 | 23,367 | 1 |
-| 2023-11-28 | 23,430 | 1 |
+| 2023-11-28 | 23,431 | 1 |
 ## Awards
 Max (Character Customization): 3,590  (Ranked 90)  
 Sum: 8,391 (Ranked 101)  

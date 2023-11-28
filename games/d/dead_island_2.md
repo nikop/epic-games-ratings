@@ -12,27 +12,27 @@ Rating: 4.54 (Ranked 528)
 | Welcome To Hell-A | 2.00% | ~14,539 |
 | One of Us | 2.00% | ~1,050 |
 | Pork Chopped | 2.00% | ~1,050 |
-| Dr. Reed, I Presume? | 1.00% | ~7,269 |
-| Git Gutte! | 1.00% | ~7,269 |
-| Anger Management | 1.00% | ~7,269 |
-| Perks of the Job | 1.00% | ~7,269 |
-| Bookworm | 1.00% | ~7,269 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,269 |
-| But Doctor, I am Butcho | 1.00% | ~7,269 |
-| Slayer Squad | 1.00% | ~7,269 |
-| Can't Handle the Truth | 1.00% | ~7,269 |
-| Like Riding a Bike | 1.00% | ~7,269 |
-| Hazardous Materials | 1.00% | ~7,269 |
-| Friends Like These | 1.00% | ~7,269 |
-| Apex Predator | 1.00% | ~7,269 |
-| Zombologist | 1.00% | ~7,269 |
-| Ooh, Shiny! | 1.00% | ~7,269 |
-| A Patton Emerges | 1.00% | ~7,269 |
-| Stacking the Deck | 1.00% | ~7,269 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,269 |
-| Our True Nature | 1.00% | ~7,269 |
-| This is My Weapon | 1.00% | ~7,269 |
-| I Am the Resurrection | 0.90% | ~6,542 |
+| Dr. Reed, I Presume? | 1.00% | ~7,270 |
+| Git Gutte! | 1.00% | ~7,270 |
+| Anger Management | 1.00% | ~7,270 |
+| Perks of the Job | 1.00% | ~7,270 |
+| Bookworm | 1.00% | ~7,270 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,270 |
+| But Doctor, I am Butcho | 1.00% | ~7,270 |
+| Slayer Squad | 1.00% | ~7,270 |
+| Can't Handle the Truth | 1.00% | ~7,270 |
+| Like Riding a Bike | 1.00% | ~7,270 |
+| Hazardous Materials | 1.00% | ~7,270 |
+| Friends Like These | 1.00% | ~7,270 |
+| Apex Predator | 1.00% | ~7,270 |
+| Zombologist | 1.00% | ~7,270 |
+| Ooh, Shiny! | 1.00% | ~7,270 |
+| A Patton Emerges | 1.00% | ~7,270 |
+| Stacking the Deck | 1.00% | ~7,270 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,270 |
+| Our True Nature | 1.00% | ~7,270 |
+| This is My Weapon | 1.00% | ~7,270 |
+| I Am the Resurrection | 0.90% | ~6,543 |
 | Making Your Mark | 0.80% | ~5,816 |
 | Humanity Distilled | 0.80% | ~5,816 |
 | Max Headroom | 0.80% | ~5,816 |
@@ -50,15 +50,15 @@ Rating: 4.54 (Ranked 528)
 | Sole Survivor | 0.30% | ~2,181 |
 | Gore Horse | 0.30% | ~2,181 |
 | Sharpest Tool in the Box | 0.30% | ~2,181 |
-| Top That, Tisha! | 0.30% | ~157 |
+| Top That, Tisha! | 0.30% | ~158 |
 | Survival Skills | 0.20% | ~1,454 |
 | Lawn and Order | 0.20% | ~105 |
 | Donk! | 0.10% | ~727 |
 | Bucket List | 0.10% | ~727 |
-| Wilhelm | 0.10% | ~52 |
+| Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,942 (Ranked 21)  
-Completed: 2,444 (0.34%) (Ranked 230)  
+Progressed: 726,965 (Ranked 21)  
+Completed: 2,444 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,7 +279,7 @@ Completed: 2,444 (0.34%) (Ranked 230)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 726,942 | 2,444 |
+| 2023-11-28 | 726,965 | 2,444 |
 ## Awards
 Max (Great Boss Battles): 7,784  (Ranked 49)  
 Sum: 11,910 (Ranked 84)  

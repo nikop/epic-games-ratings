@@ -43,12 +43,12 @@ Rating: 4.61 (Ranked 382)
 | Crimson Caldera | 0.70% | ~39 |
 | The Creator | 0.60% | ~33 |
 | Lord of Chaos | 0.50% | ~28 |
+| Eternal Lord | 0.50% | ~28 |
 | Manufactured War | 0.50% | ~28 |
 | The Eternal Court | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
 | I've Got Everything I Need Right Here | 0.40% | ~22 |
 | God Emperor | 0.40% | ~22 |
-| Eternal Lord | 0.40% | ~22 |
 | Grexolis | 0.40% | ~22 |
 | One for All, All for One | 0.40% | ~22 |
 | The Goddess of Nature | 0.30% | ~17 |
@@ -67,7 +67,7 @@ Rating: 4.61 (Ranked 382)
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,529 (Ranked 189)  
-Completed: 7 (0.13%) (Ranked 274)  
+Completed: 7 (0.13%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -23,7 +23,7 @@ Rating: 4.08 (Ranked 973)
 | ...To Heroes | 18.00% | ~667 |
 | Mas, Por Favor | 18.00% | ~667 |
 | And Still Champion... | 15.00% | ~555 |
-| Super Trusting Friend! | 9.00% | ~333 |
+| Super Trusting Friend! | 10.00% | ~370 |
 | Bring back the butt! | 4.00% | ~148 |
 | Hey, thanks! | 4.00% | ~148 |
 | Murderous Mascot Mayhem | 3.00% | ~111 |
@@ -33,7 +33,7 @@ Rating: 4.08 (Ranked 973)
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,703 (Ranked 203)  
-Completed: 0 (0.00%) (Ranked 362)  
+Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

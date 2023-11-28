@@ -30,19 +30,19 @@
 | Airborne | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |
 | Miner | 3.00% | ~7 |
+| Slayer | 2.00% | ~5 |
 | A Queen's Tale | 2.00% | ~5 |
-| Slayer | 1.00% | ~2 |
+| False God | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Shardbearer | 0.90% | ~2 |
 | Flawless Victory | 0.90% | ~2 |
 | All There Is | 0.90% | ~2 |
-| False God | 0.90% | ~2 |
 | All That Gold | 0.90% | ~2 |
-| Forgemaster | 0.00% | ~0 |
+| Forgemaster | 0.40% | ~1 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233 (Ranked 378)  
-Completed: 2 (0.86%) (Ranked 176)  
+Progressed: 234 (Ranked 378)  
+Completed: 2 (0.85%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,4 +90,4 @@ Completed: 2 (0.86%) (Ranked 176)
 | 2023-11-25 | 216 | 2 |
 | 2023-11-26 | 226 | 2 |
 | 2023-11-27 | 230 | 2 |
-| 2023-11-28 | 233 | 2 |
+| 2023-11-28 | 234 | 2 |

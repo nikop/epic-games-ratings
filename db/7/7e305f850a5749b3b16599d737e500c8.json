@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 185,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 35.87,
+  "EOS_Completed_Percentage": 35.68,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1054,6 +1054,11 @@
       "Time": "2023-11-28T07:07:05.0096456+00:00",
       "NumProgressed": 184,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-11-28T10:05:17.8543123+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 18,
@@ -1073,7 +1078,7 @@
       "Name": "Dreamkeeper",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Dust_fighter",
@@ -1081,7 +1086,7 @@
       "Name": "Dust fighter",
       "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Engineer",
@@ -1089,7 +1094,7 @@
       "Name": "Engineer",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Express_home_delivery",
@@ -1097,7 +1102,7 @@
       "Name": "Express home delivery",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Fisher",
@@ -1105,7 +1110,7 @@
       "Name": "Fisher",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Fixer",
@@ -1121,15 +1126,15 @@
       "Name": "Florist",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "Justice",
@@ -1137,15 +1142,15 @@
       "Name": "Justice",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "Peacemaker",
@@ -1153,7 +1158,7 @@
       "Name": "Peacemaker",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Repair",
@@ -1177,15 +1182,15 @@
       "Name": "Samaritan",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "Tower_builder",
@@ -1193,7 +1198,7 @@
       "Name": "Tower builder",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Troubleshooter",
@@ -1201,21 +1206,21 @@
       "Name": "Troubleshooter",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     }
   ],
   "AchievementSets": [
     {
       "ID": "b7i210",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 66
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:05:58.3414811+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:05:17.8543119+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:58:23.2132548+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:05:58.3414965+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:58:15.3348927+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:05:17.8543246+00:00"
 }

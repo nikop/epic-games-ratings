@@ -23,11 +23,11 @@ Rating: 4.58 (Ranked 443)
 | Drug Gifter | 4.00% | ~628 |
 | Heal Thy Medic | 4.00% | ~628 |
 | Call it Even | 4.00% | ~628 |
+| Bottoms up! | 3.00% | ~471 |
 | Thorston Mayer | 3.00% | ~471 |
 | Khan's Revenge | 3.00% | ~471 |
 | Master Negotiator | 3.00% | ~50 |
 | Doctor Approved | 2.00% | ~314 |
-| Bottoms up! | 2.00% | ~314 |
 | Data Logger | 2.00% | ~314 |
 | Miraculous Maya | 2.00% | ~314 |
 | No Belter Left Behind | 1.00% | ~157 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 443)
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,710 (Ranked 151)  
-Completed: 36 (0.23%) (Ranked 250)  
+Completed: 36 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

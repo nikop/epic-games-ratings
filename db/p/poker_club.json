@@ -6,9 +6,9 @@
   "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 33,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -985,9 +985,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 540229,
+  "EOS_Progressed": 540231,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1286,
+  "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26140,6 +26140,11 @@
       "Time": "2023-11-28T09:05:14.0590204+00:00",
       "NumProgressed": 540229,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-28T10:04:34.6181855+00:00",
+      "NumProgressed": 540231,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -26159,7 +26164,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 135057
+      "UsersEstimate": 135058
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -26303,7 +26308,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 221494
+      "UsersEstimate": 221495
     },
     {
       "ID": "HoldingYourOwn",
@@ -26399,7 +26404,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 410574
+      "UsersEstimate": 410576
     },
     {
       "ID": "ProPlayer",
@@ -26423,7 +26428,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 118850
+      "UsersEstimate": 118851
     },
     {
       "ID": "RegularPunter",
@@ -26503,14 +26508,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64827
+      "UsersEstimate": 64828
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 540229,
+      "Progressed": 540231,
       "Completed": 2
     }
   ],
@@ -26518,8 +26523,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-26T16:59:21.6017221+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:05:14.0590201+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:04:34.618185+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.682354+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:02:47.2025091+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:05:14.0591892+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:00:09.383353+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:04:34.6183425+00:00"
 }

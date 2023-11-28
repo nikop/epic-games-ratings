@@ -10,17 +10,17 @@ Rating: 4.76 (Ranked 125)
 | Troll with the Punches | 14.00% | ~42,482 |
 | A Keen Sense of Spell | 13.00% | ~39,448 |
 | That's a Keeper | 13.00% | ~39,448 |
-| The Defender of Dragons | 12.00% | ~36,413 |
-| Loom for Improvement | 12.00% | ~36,413 |
-| A Talent for Spending | 12.00% | ~36,413 |
+| The Defender of Dragons | 12.00% | ~36,414 |
+| Loom for Improvement | 12.00% | ~36,414 |
+| A Talent for Spending | 12.00% | ~36,414 |
 | Grappling with a Graphorn | 11.00% | ~33,379 |
 | The One Who Mastered Memories | 11.00% | ~33,379 |
 | The Hallowed Hero | 11.00% | ~33,379 |
 | The Hero of Hogwarts | 11.00% | ~33,379 |
 | Challenge Accepted | 11.00% | ~33,379 |
 | Coasting Along | 11.00% | ~33,379 |
-| Followed the Butterflies | 10.00% | ~30,344 |
-| Rising From the Ashes | 10.00% | ~30,344 |
+| Followed the Butterflies | 10.00% | ~30,345 |
+| Rising From the Ashes | 10.00% | ~30,345 |
 | A Sallow Grave | 9.00% | ~27,310 |
 | The Spell Master | 9.00% | ~27,310 |
 | The Avenging Gazelle | 8.00% | ~24,276 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,124 |
 | Collector's Edition | 0.30% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,444 (Ranked 54)  
-Completed: 518 (0.17%) (Ranked 266)  
+Progressed: 303,446 (Ranked 54)  
+Completed: 518 (0.17%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,16 +273,16 @@ Completed: 518 (0.17%) (Ranked 266)
 | 2023-11-25 | 303,175 | 514 |
 | 2023-11-26 | 303,320 | 515 |
 | 2023-11-27 | 303,418 | 518 |
-| 2023-11-28 | 303,444 | 518 |
+| 2023-11-28 | 303,446 | 518 |
 ## Awards
 Max (Character Customization): 24,711  (Ranked 17)  
-Sum: 49,346 (Ranked 30)  
+Sum: 49,348 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,711 |
 | This game has Great Boss Battles | 12,617 |
-| This game is Great for Beginners | 1,355 |
+| This game is Great for Beginners | 1,357 |
 | This game has Amazing Storytelling | 1,309 |
 | This game has Diverse Characters | 1,307 |
 | This game is Extremely Fun | 1,276 |
@@ -544,4 +544,4 @@ Diff (max vs sum): -13
 | 2023-11-25 | 4.76 | 24,634 | 49,151 |
 | 2023-11-26 | 4.76 | 24,684 | 49,249 |
 | 2023-11-27 | 4.76 | 24,711 | 49,337 |
-| 2023-11-28 | 4.76 | 24,711 | 49,346 |
+| 2023-11-28 | 4.76 | 24,711 | 49,348 |

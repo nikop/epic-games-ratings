@@ -6,9 +6,9 @@
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3159,9 +3159,9 @@
       "Count": 399
     }
   ],
-  "EOS_Progressed": 9313,
+  "EOS_Progressed": 9314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9759,6 +9759,11 @@
       "Time": "2023-11-28T09:05:47.8363912+00:00",
       "NumProgressed": 9313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T10:05:07.6889937+00:00",
+      "NumProgressed": 9314,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -9787,7 +9792,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4377
+      "UsersEstimate": 4378
     },
     {
       "ID": "ach04",
@@ -9811,7 +9816,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6985
+      "UsersEstimate": 6986
     },
     {
       "ID": "ach07",
@@ -9819,7 +9824,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5215
+      "UsersEstimate": 5216
     },
     {
       "ID": "ach08",
@@ -9827,7 +9832,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "ach09",
@@ -9851,7 +9856,7 @@
       "Name": "Karnage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ach12",
@@ -9939,7 +9944,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "ach23",
@@ -9971,7 +9976,7 @@
       "Name": "Running On Empty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ach27",
@@ -9987,7 +9992,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "ach29",
@@ -10059,7 +10064,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5308
+      "UsersEstimate": 5309
     },
     {
       "ID": "ach38",
@@ -10075,7 +10080,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "ach40",
@@ -10123,7 +10128,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ach46",
@@ -10170,7 +10175,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9313,
+      "Progressed": 9314,
       "Completed": 0
     }
   ],
@@ -10178,8 +10183,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-28T09:03:16.6616589+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:05:47.8363909+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:05:07.688993+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:03:16.6616595+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:05:47.8364506+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:02:37.6732025+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:05:07.6890644+00:00"
 }

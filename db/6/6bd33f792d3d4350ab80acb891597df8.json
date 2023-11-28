@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci 3",
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 464,
-  "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -438,9 +438,9 @@
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -645,8 +645,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:04:44.5971827+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:04:05.3873667+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:31.5236566+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:59:02.4894892+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:04:44.5972+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:58:52.4522086+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:04:05.3873864+00:00"
 }

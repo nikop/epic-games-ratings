@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-new-dawn",
   "Ranking_Rating": 678,
   "Ranking_Popularity": 270,
-  "Ranking_PopularitySum": 382,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 761,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2019-02-15T16:00:00+00:00",
     "PcReleaseDate": "2019-02-15T11:00:00+00:00",
@@ -1003,6 +1003,6 @@
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
   "LastChanged": "2023-11-25T01:42:57.3207379+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:46.476763+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:57:59.8149058+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:05:29.0772289+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:57:52.6624668+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:04:49.2839877+00:00"
 }

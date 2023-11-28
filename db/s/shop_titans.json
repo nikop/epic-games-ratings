@@ -6,8 +6,8 @@
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7211,10 +7211,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27615,
       "NumberOfAwardsMax": 4851
+    },
+    {
+      "Time": "2023-11-28T10:02:38.2839202+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27618,
+      "NumberOfAwardsMax": 4851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27615,
+  "NumberOfAwards": 27618,
   "NumberOfAwardsMax": 4851,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7252,7 +7258,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4046
+      "Count": 4049
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7267,7 +7273,7 @@
       "Count": 3786
     }
   ],
-  "EOS_Progressed": 142606,
+  "EOS_Progressed": 142615,
   "EOS_Completed": 280,
   "EOS_NewPlayers": 1839,
   "EOS_NewCompleters": 92,
@@ -30202,6 +30208,11 @@
       "Time": "2023-11-28T09:03:54.5639706+00:00",
       "NumProgressed": 142606,
       "NumCompleted": 280
+    },
+    {
+      "Time": "2023-11-28T10:03:15.9790216+00:00",
+      "NumProgressed": 142615,
+      "NumCompleted": 280
     }
   ],
   "TotalAchievements": 112,
@@ -30381,7 +30392,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8556
+      "UsersEstimate": 8557
     },
     {
       "ID": "chest02",
@@ -30445,7 +30456,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8556
+      "UsersEstimate": 8557
     },
     {
       "ID": "commonres02",
@@ -30477,7 +30488,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5704
+      "UsersEstimate": 5705
     },
     {
       "ID": "craft02",
@@ -30589,7 +30600,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5704
+      "UsersEstimate": 5705
     },
     {
       "ID": "expansion02",
@@ -30605,7 +30616,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "fullmoon",
@@ -30685,7 +30696,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7130
+      "UsersEstimate": 7131
     },
     {
       "ID": "gold02",
@@ -30797,7 +30808,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5704
+      "UsersEstimate": 5705
     },
     {
       "ID": "level02",
@@ -30989,7 +31000,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5704
+      "UsersEstimate": 5705
     },
     {
       "ID": "sell02",
@@ -31029,7 +31040,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8556
+      "UsersEstimate": 8557
     },
     {
       "ID": "twinenchant01",
@@ -31108,15 +31119,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142606,
+      "Progressed": 142615,
       "Completed": 280
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-28T08:02:37.7211641+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:03:54.5639702+00:00",
+  "LastChanged": "2023-11-28T10:02:38.28392+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:03:15.9790212+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:03:17.4622239+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:03:54.5641515+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:02:38.2839206+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:03:15.9792094+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -12622,9 +12622,9 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 314
+      "UsersEstimate": 471
     },
     {
       "ID": "19",
@@ -12845,8 +12845,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:08:30.022298+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:06:08.5801868+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:59:44.8264619+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:08:30.0224092+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:59:31.5849317+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:06:08.5802558+00:00"
 }

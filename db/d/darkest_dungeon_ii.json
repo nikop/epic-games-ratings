@@ -6,7 +6,7 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -9198,9 +9198,9 @@
       "Count": 975
     }
   ],
-  "EOS_Progressed": 124998,
+  "EOS_Progressed": 124999,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 795,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32643,6 +32643,11 @@
       "Time": "2023-11-28T09:05:12.728839+00:00",
       "NumProgressed": 124998,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-28T10:04:33.3160496+00:00",
+      "NumProgressed": 124999,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 65,
@@ -32750,7 +32755,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 47499
+      "UsersEstimate": 47500
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -32758,7 +32763,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 62499
+      "UsersEstimate": 62500
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -32774,7 +32779,7 @@
       "Name": "Predator",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 32499
+      "UsersEstimate": 32500
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -32798,7 +32803,7 @@
       "Name": "Banishment",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 39999
+      "UsersEstimate": 40000
     },
     {
       "ID": "combat_kill_death",
@@ -32814,7 +32819,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 42499
+      "UsersEstimate": 42500
     },
     {
       "ID": "combat_kill_fanatics",
@@ -32838,7 +32843,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 47499
+      "UsersEstimate": 47500
     },
     {
       "ID": "combat_kill_gentry",
@@ -32878,7 +32883,7 @@
       "Name": "Overdue Notice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41249
+      "UsersEstimate": 41250
     },
     {
       "ID": "combat_kill_pillagers",
@@ -32958,7 +32963,7 @@
       "Name": "Merry Time",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 44999
+      "UsersEstimate": 45000
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -32966,7 +32971,7 @@
       "Name": "Harvest Festival",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 46249
+      "UsersEstimate": 46250
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -32982,7 +32987,7 @@
       "Name": "Ramble On",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 62499
+      "UsersEstimate": 62500
     },
     {
       "ID": "driving_distance_hard",
@@ -33030,7 +33035,7 @@
       "Name": "Whale",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 39999
+      "UsersEstimate": 40000
     },
     {
       "ID": "hospital_full_service",
@@ -33046,7 +33051,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 116248
+      "UsersEstimate": 116249
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -33062,7 +33067,7 @@
       "Name": "FNG",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 37499
+      "UsersEstimate": 37500
     },
     {
       "ID": "inn_visit_all_variants",
@@ -33102,7 +33107,7 @@
       "Name": "Nope",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 61249
+      "UsersEstimate": 61250
     },
     {
       "ID": "run_victory_act01",
@@ -33118,7 +33123,7 @@
       "Name": "Hot Air",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 46249
+      "UsersEstimate": 46250
     },
     {
       "ID": "run_victory_act03",
@@ -33173,15 +33178,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 124998,
+      "Progressed": 124999,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-11-28T07:57:44.5398512+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:05:12.7288387+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:04:33.3160492+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.5668132+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:58:00.7912109+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:05:12.7289823+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:57:53.6238553+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:04:33.3161777+00:00"
 }

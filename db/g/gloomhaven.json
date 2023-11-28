@@ -6,9 +6,9 @@
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2573,9 +2573,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23430,
+  "EOS_Progressed": 23431,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1378,
+  "EOS_NewPlayers": 1373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11008,6 +11008,11 @@
       "Time": "2023-11-28T09:08:32.2798648+00:00",
       "NumProgressed": 23430,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T10:06:11.0179486+00:00",
+      "NumProgressed": 23431,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11196,7 +11201,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "Achievement_Trophy24",
@@ -11204,7 +11209,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9606
+      "UsersEstimate": 9607
     },
     {
       "ID": "Achievement_Trophy25",
@@ -11220,7 +11225,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 7966
+      "UsersEstimate": 7967
     },
     {
       "ID": "Achievement_Trophy27",
@@ -11260,7 +11265,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7263
+      "UsersEstimate": 7264
     },
     {
       "ID": "Achievement_Trophy32",
@@ -11404,7 +11409,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "Achievement_Trophy50",
@@ -11507,7 +11512,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23430,
+      "Progressed": 23431,
       "Completed": 1
     }
   ],
@@ -11515,8 +11520,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-28T02:58:56.0622889+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:08:32.2798643+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:06:11.0179481+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:59:15.8765406+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:08:32.2799545+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:59:05.192811+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:06:11.0180384+00:00"
 }

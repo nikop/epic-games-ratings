@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~116,248 |
+| A Place to Lay Your Head | 93.00% | ~116,249 |
 | Don't Make Me Turn This Coach Around | 72.00% | ~89,999 |
 | A Clear Conscience | 69.00% | ~86,249 |
 | Unleash Hell | 68.00% | ~84,999 |
@@ -20,20 +20,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 61.00% | ~76,249 |
 | Rush Hour | 60.00% | ~74,999 |
 | Serenity Now! | 54.00% | ~67,499 |
-| Hope Rekindled | 50.00% | ~62,499 |
-| Ramble On | 50.00% | ~62,499 |
-| Nope | 49.00% | ~61,249 |
-| This Looks Familiar | 38.00% | ~47,499 |
-| Now Stay Dead | 38.00% | ~47,499 |
-| Harvest Festival | 37.00% | ~46,249 |
-| Hot Air | 37.00% | ~46,249 |
-| Merry Time | 36.00% | ~44,999 |
-| Creep and Sleep | 34.00% | ~42,499 |
-| Overdue Notice | 33.00% | ~41,249 |
-| Banishment | 32.00% | ~39,999 |
-| Whale | 32.00% | ~39,999 |
-| FNG | 30.00% | ~37,499 |
-| Predator | 26.00% | ~32,499 |
+| Hope Rekindled | 50.00% | ~62,500 |
+| Ramble On | 50.00% | ~62,500 |
+| Nope | 49.00% | ~61,250 |
+| This Looks Familiar | 38.00% | ~47,500 |
+| Now Stay Dead | 38.00% | ~47,500 |
+| Harvest Festival | 37.00% | ~46,250 |
+| Hot Air | 37.00% | ~46,250 |
+| Merry Time | 36.00% | ~45,000 |
+| Creep and Sleep | 34.00% | ~42,500 |
+| Overdue Notice | 33.00% | ~41,250 |
+| Banishment | 32.00% | ~40,000 |
+| Whale | 32.00% | ~40,000 |
+| FNG | 30.00% | ~37,500 |
+| Predator | 26.00% | ~32,500 |
 | Reverse Banditry | 25.00% | ~31,250 |
 | Autodidact | 25.00% | ~31,250 |
 | Meat and Greet | 23.00% | ~28,750 |
@@ -72,8 +72,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~125 |
 | No Gravestone Left Unturned | 0.10% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,998 (Ranked 84)  
-Completed: 2 (0.00%) (Ranked 362)  
+Progressed: 124,999 (Ranked 84)  
+Completed: 2 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,7 +284,7 @@ Completed: 2 (0.00%) (Ranked 362)
 | 2023-11-25 | 124,732 | 2 |
 | 2023-11-26 | 124,857 | 2 |
 | 2023-11-27 | 124,959 | 2 |
-| 2023-11-28 | 124,998 | 2 |
+| 2023-11-28 | 124,999 | 2 |
 ## Awards
 Max (Character Customization): 7,539  (Ranked 52)  
 Sum: 19,885 (Ranked 59)  

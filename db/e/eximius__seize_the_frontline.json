@@ -6,9 +6,9 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 74,
-  "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200643,
+  "EOS_Progressed": 200644,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23808,6 +23808,11 @@
       "Time": "2023-11-28T09:06:23.7735823+00:00",
       "NumProgressed": 200643,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-28T10:05:44.1679821+00:00",
+      "NumProgressed": 200644,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -23819,7 +23824,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16051
+      "UsersEstimate": 16052
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -23946,7 +23951,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200643,
+      "Progressed": 200644,
       "Completed": 4
     }
   ],
@@ -23954,8 +23959,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:06:23.773582+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:05:44.1679817+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:59.1341357+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:00:04.4399797+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:06:23.7737346+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:57:04.4209226+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:05:44.1681045+00:00"
 }

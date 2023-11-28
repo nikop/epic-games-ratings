@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1458,9 +1458,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1513,8 +1513,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:04:58.4954356+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:04:19.2918348+00:00",
   "LastUpdate_AppInfo": "2023-11-26T02:20:29.6479156+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:02:55.3780224+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:04:58.4954527+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:00:17.4971917+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:04:19.2918523+00:00"
 }

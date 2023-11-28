@@ -3,9 +3,9 @@
   "Name": "FUR Squadron",
   "ProductSlug": "fur-squadron-0042b8",
   "Ranking_EOS_Progress": 467,
-  "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
     "PcReleaseDate": "2023-03-16T00:00:00+00:00",
@@ -448,25 +448,25 @@
       "ID": "COMPLETED_BLAZE_4",
       "SetID": "d91enl3",
       "Name": "Whatever it is, fix it!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "COMPLETED_BLAZE_5",
       "SetID": "d91enl3",
       "Name": "The opposite of good news",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "COMPLETED_BLAZE_6",
       "SetID": "d91enl3",
       "Name": "My Emperor... I\u0027ve failed you!",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "COMPLETED_KIRO_1",
@@ -574,8 +574,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:04:15.5434614+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:03:36.3760408+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:44.1669544+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:59:58.393201+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:04:15.5434775+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:59:43.9695331+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:03:36.3760611+00:00"
 }

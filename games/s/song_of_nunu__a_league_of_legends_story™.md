@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~732 |
-| I Broke It | 72.00% | ~703 |
-| Better On Ice | 67.00% | ~654 |
+| I Broke It | 73.00% | ~712 |
+| Better On Ice | 68.00% | ~664 |
 | Notai Notes | 67.00% | ~654 |
+| Blue Dreams | 66.00% | ~644 |
+| He's Famous! | 66.00% | ~644 |
 | Cutie Poro | 66.00% | ~644 |
-| Blue Dreams | 65.00% | ~634 |
-| He's Famous! | 65.00% | ~634 |
 | Krugmazing | 63.00% | ~615 |
 | Moneyball | 61.00% | ~595 |
 | The Fire Below the Mountain | 60.00% | ~586 |
@@ -26,7 +26,7 @@
 | So Close | 41.00% | ~400 |
 | The Finisher | 41.00% | ~400 |
 | You Get Used To It | 40.00% | ~390 |
-| True Legends | 39.00% | ~381 |
+| True Legends | 40.00% | ~390 |
 | Biggest Snowball Ever | 37.00% | ~361 |
 | Boosted! | 37.00% | ~361 |
 | Family | 36.00% | ~351 |
@@ -35,7 +35,7 @@
 | Deadliest and Biggest Snowball Ever! | 36.00% | ~351 |
 | It Is Not Over | 34.00% | ~332 |
 | On The Rocks | 34.00% | ~332 |
-| Snowy Poro | 31.00% | ~303 |
+| Snowy Poro | 32.00% | ~312 |
 | Never Gets Old | 31.00% | ~303 |
 | Vertical Power | 27.00% | ~264 |
 | One From The Heart | 14.00% | ~137 |
@@ -50,7 +50,7 @@
 | We Are Speed | 2.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 976 (Ranked 264)  
-Completed: 8 (0.82%) (Ranked 179)  
+Completed: 8 (0.82%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

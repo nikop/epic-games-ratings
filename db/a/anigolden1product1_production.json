@@ -2,9 +2,9 @@
   "ID": "7707cbdb13d04bf8a5059fbc9e9bbfa1",
   "Name": "anigolden1product1 Production",
   "Ranking_EOS_Progress": 761,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:30:55.9773539+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:59:23.2439375+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:05:07.6059279+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:59:11.9461403+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:04:28.3121519+00:00"
 }

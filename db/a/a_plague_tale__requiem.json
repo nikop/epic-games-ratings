@@ -6,9 +6,9 @@
   "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -647,9 +647,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14020,
+  "EOS_Progressed": 14021,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -11732,6 +11732,11 @@
       "Time": "2023-11-28T04:04:51.3416599+00:00",
       "NumProgressed": 14020,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-28T10:04:35.8520978+00:00",
+      "NumProgressed": 14021,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 35,
@@ -11743,7 +11748,7 @@
       "Name": "Under a New Sun",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 13039
+      "UsersEstimate": 13040
     },
     {
       "ID": "ACH_02",
@@ -11751,7 +11756,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 11076
+      "UsersEstimate": 11077
     },
     {
       "ID": "ACH_03",
@@ -11759,7 +11764,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10375
+      "UsersEstimate": 10376
     },
     {
       "ID": "ACH_04",
@@ -11767,7 +11772,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9954
+      "UsersEstimate": 9955
     },
     {
       "ID": "ACH_05",
@@ -11783,7 +11788,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 9253
+      "UsersEstimate": 9254
     },
     {
       "ID": "ACH_07",
@@ -11799,7 +11804,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8552
+      "UsersEstimate": 8553
     },
     {
       "ID": "ACH_09",
@@ -11831,7 +11836,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "ACH_13",
@@ -11911,7 +11916,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACH_23",
@@ -11919,7 +11924,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3786
     },
     {
       "ID": "ACH_24",
@@ -11935,7 +11940,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "ACH_26",
@@ -11943,7 +11948,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACH_27",
@@ -11999,7 +12004,7 @@
       "Name": "Perfect throw",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "ACH_34",
@@ -12022,7 +12027,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14020,
+      "Progressed": 14021,
       "Completed": 55
     }
   ],
@@ -12030,8 +12035,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-27T18:59:12.8299657+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:05:15.3848979+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:04:35.8520974+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.0182859+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:59:08.3625967+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:05:15.3849642+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:58:57.6538061+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:04:35.8521655+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "SlavicPunk: Oldtimer",
   "ProductSlug": "slavicpunk-oldtimer-10ed1c",
   "Ranking_EOS_Progress": 761,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-11T18:00:00+00:00",
     "PcReleaseDate": "2023-06-28T09:00:00+00:00",
@@ -637,8 +637,8 @@
   ],
   "FirstSeen": "2023-08-14T04:57:57.0609345+00:00",
   "FirstSeenAchievements": "2023-08-01T13:09:17.3833059+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:09:39.5691547+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:08:46.1786752+00:00",
   "LastUpdate_AppInfo": "2023-11-28T03:57:10.889353+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:03:27.8904695+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:09:39.5692049+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:02:48.5220662+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:08:46.1787269+00:00"
 }

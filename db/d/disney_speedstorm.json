@@ -3,10 +3,10 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 748,
-  "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 306,
+  "Ranking_Popularity": 375,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 52,
-  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -1453,11 +1453,17 @@
       "Rating": 4.39,
       "NumberOfAwards": 667,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2023-11-28T09:58:22.1241047+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 671,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 667,
-  "NumberOfAwardsMax": 89,
+  "NumberOfAwards": 671,
+  "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1470,7 +1476,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 89
+      "Count": 93
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1533,9 +1539,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 315387,
+  "EOS_Progressed": 315399,
   "EOS_Completed": 339,
-  "EOS_NewPlayers": 9215,
+  "EOS_NewPlayers": 9186,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -14003,6 +14009,11 @@
       "Time": "2023-11-28T09:04:45.4727362+00:00",
       "NumProgressed": 315387,
       "NumCompleted": 339
+    },
+    {
+      "Time": "2023-11-28T10:04:06.2515036+00:00",
+      "NumProgressed": 315399,
+      "NumCompleted": 339
     }
   ],
   "TotalAchievements": 24,
@@ -14022,7 +14033,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15769
+      "UsersEstimate": 15770
     },
     {
       "ID": "11",
@@ -14054,7 +14065,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22077
+      "UsersEstimate": 22078
     },
     {
       "ID": "15",
@@ -14070,7 +14081,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 0.9,
       "XP": 45,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "17",
@@ -14078,7 +14089,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "18",
@@ -14110,7 +14121,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12615
+      "UsersEstimate": 12616
     },
     {
       "ID": "21",
@@ -14166,7 +14177,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34693
+      "UsersEstimate": 34694
     },
     {
       "ID": "6",
@@ -14174,7 +14185,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12615
+      "UsersEstimate": 12616
     },
     {
       "ID": "7",
@@ -14182,7 +14193,7 @@
       "Name": "MASTER",
       "Percentage": 0.9,
       "XP": 65,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "8",
@@ -14198,23 +14209,23 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 315387,
+      "Progressed": 315399,
       "Completed": 339
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-28T02:58:12.8922027+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:04:45.4727358+00:00",
+  "LastChanged": "2023-11-28T09:58:22.1241045+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:04:06.2515032+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:58:30.4991499+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:04:45.4727909+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:58:22.1241055+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:04:06.2515596+00:00"
 }

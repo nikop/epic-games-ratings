@@ -78,7 +78,7 @@ Rating: 4.87 (Ranked 22)
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,403 (Ranked 194)  
-Completed: 8 (0.18%) (Ranked 264)  
+Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

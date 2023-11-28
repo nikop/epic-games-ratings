@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,556 |
-| Basic in Bulk | 6.00% | ~8,556 |
-| Titan's First Steps | 6.00% | ~8,556 |
-| Tinkle of Coins | 5.00% | ~7,130 |
-| Disintermediation | 4.00% | ~5,704 |
-| It's Free Real Estate | 4.00% | ~5,704 |
-| Budding Merchant | 4.00% | ~5,704 |
-| Capitalism Ho! | 4.00% | ~5,704 |
+| Sponsored by Argon | 6.00% | ~8,557 |
+| Basic in Bulk | 6.00% | ~8,557 |
+| Titan's First Steps | 6.00% | ~8,557 |
+| Tinkle of Coins | 5.00% | ~7,131 |
+| Disintermediation | 4.00% | ~5,705 |
+| It's Free Real Estate | 4.00% | ~5,705 |
+| Budding Merchant | 4.00% | ~5,705 |
+| Capitalism Ho! | 4.00% | ~5,705 |
 | The Daily Grind | 3.00% | ~4,278 |
 | One Easy Payment | 3.00% | ~4,278 |
 | Some Assembly Required | 3.00% | ~4,278 |
@@ -102,7 +102,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 1.00% | ~1,426 |
 | Economy of Scarce | 1.00% | ~1,426 |
 | King's Blade | 1.00% | ~1,426 |
-| Thank You Tom Nook | 0.90% | ~1,283 |
+| Thank You Tom Nook | 0.90% | ~1,284 |
 | The Free Encyclopedia | 0.80% | ~1,141 |
 | Eternal Crusade | 0.80% | ~1,141 |
 | The Greatest Grind | 0.60% | ~856 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,606 (Ranked 80)  
-Completed: 280 (0.20%) (Ranked 257)  
+Progressed: 142,615 (Ranked 80)  
+Completed: 280 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -341,15 +341,15 @@ Completed: 280 (0.20%) (Ranked 257)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,606 | 280 |
+| 2023-11-28 | 142,615 | 280 |
 ## Awards
 Max (Great for Beginners): 4,851  (Ranked 75)  
-Sum: 27,615 (Ranked 50)  
+Sum: 27,618 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,851 |
-| This game is Relaxing | 4,046 |
+| This game is Relaxing | 4,049 |
 | This game has Quickly Understood Controls | 4,034 |
 | This game has Diverse Characters | 3,952 |
 | This game is Highly Recommended | 3,786 |
@@ -660,4 +660,4 @@ Diff (max vs sum): 25
 | 2023-11-25 | 3.99 | - | 4,844 | 27,598 |
 | 2023-11-26 | 3.99 | - | 4,848 | 27,608 |
 | 2023-11-27 | 3.99 | - | 4,848 | 27,609 |
-| 2023-11-28 | 3.99 | - | 4,851 | 27,615 |
+| 2023-11-28 | 3.99 | - | 4,851 | 27,618 |

@@ -3,9 +3,9 @@
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -521,9 +521,9 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -608,8 +608,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-28T09:04:10.4821968+00:00",
+  "LastChanged_Achievements": "2023-11-28T10:03:31.4236948+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:59:15.1312636+00:00",
-  "LastUpdate_Achievements": "2023-11-28T09:04:10.4822125+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:59:04.5100682+00:00",
+  "LastUpdate_Achievements": "2023-11-28T10:03:31.4237094+00:00"
 }
