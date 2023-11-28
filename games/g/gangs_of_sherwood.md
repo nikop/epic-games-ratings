@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Air Fighter | 85.00% | ~17 |
-| Act of Kindness | 85.00% | ~17 |
-| The Altruist | 75.00% | ~15 |
-| Watch your Step! | 70.00% | ~14 |
+| Air Fighter | 90.00% | ~18 |
+| Act of Kindness | 90.00% | ~18 |
+| The Altruist | 80.00% | ~16 |
+| Watch your Step! | 75.00% | ~15 |
 | Treasure Hunter | 70.00% | ~14 |
 | Oo-De-Lally | 65.00% | ~13 |
 | Tap Dancing | 60.00% | ~12 |
 | MAX LEVEL | 60.00% | ~12 |
 | Merry Co-operation | 50.00% | ~10 |
 | Savior | 50.00% | ~10 |
+| Right between the eyes | 45.00% | ~9 |
+| Spring Board | 45.00% | ~9 |
 | Rebel Unleashed | 45.00% | ~9 |
-| Right between the eyes | 40.00% | ~8 |
+| Finish Him! | 40.00% | ~8 |
 | Locksley's Tears | 40.00% | ~8 |
 | Assault on the Ram | 40.00% | ~8 |
-| Spring Board | 40.00% | ~8 |
 | First Aid | 40.00% | ~8 |
-| Finish Him! | 35.00% | ~7 |
+| Starry Night | 35.00% | ~7 |
 | Merry Go Round | 35.00% | ~7 |
-| Starry Night | 30.00% | ~6 |
 | Ascending Will | 25.00% | ~5 |
 | Ultra Rebel Instinct | 25.00% | ~5 |
+| Take Action! | 25.00% | ~5 |
 | Ultra Combo | 20.00% | ~4 |
-| Take Action! | 20.00% | ~4 |
 | Brilliant Executioner | 15.00% | ~3 |
 | The Gang prevails | 15.00% | ~3 |
 | Hidden Experiment | 15.00% | ~3 |
@@ -58,7 +58,7 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 557)  
+Progressed: 20 (Ranked 558)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |

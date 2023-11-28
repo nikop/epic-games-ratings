@@ -2,7 +2,7 @@
   "ID": "f76aab05872f4293bb5f46485cb2f16c",
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
-  "Ranking_EOS_Progress": 557,
+  "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 137,
@@ -120,9 +120,9 @@
       "ID": "ACH_100_ARROW",
       "SetID": "5akmpni",
       "Name": "Starry Night",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_100_CHARGE",
@@ -168,9 +168,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 85,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -280,9 +280,9 @@
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 70,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ENEMY_LEDGE_THROW",
@@ -320,17 +320,17 @@
       "ID": "ACH_FINISHER",
       "SetID": "5akmpni",
       "Name": "Finish Him!",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
       "SetID": "5akmpni",
       "Name": "Act of Kindness",
-      "Percentage": 85,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -344,9 +344,9 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_HIGH_FIVE",
@@ -408,9 +408,9 @@
       "ID": "ACH_LAUNCH_ENEMY",
       "SetID": "5akmpni",
       "Name": "Spring Board",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_LONG_REBEL_INSTINCT",
@@ -432,9 +432,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -464,9 +464,9 @@
       "ID": "ACH_REBEL_ABILITY",
       "SetID": "5akmpni",
       "Name": "Take Action!",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_REBEL_INSTINCT",
@@ -550,8 +550,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:11:33.3145994+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:06:26.36381+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:03:05.8051539+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:11:33.3146599+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:58:10.7377737+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:06:26.3638539+00:00"
 }

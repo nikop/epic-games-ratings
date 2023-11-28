@@ -11,11 +11,11 @@ Rating: 4.56 (Ranked 494)
 | Keep 'em coming! | 42.00% | ~312 |
 | The things they print nowadays | 39.00% | ~290 |
 | Big Spender | 38.00% | ~282 |
-| That's gotta hurt | 35.00% | ~260 |
+| That's gotta hurt | 36.00% | ~267 |
 | I think it's broke | 26.00% | ~193 |
 | The Ann Flores Combo Experience | 26.00% | ~193 |
 | Club Star | 25.00% | ~186 |
-| Fire in the hole! | 20.00% | ~149 |
+| Fire in the hole! | 21.00% | ~156 |
 | Omnipotence | 19.00% | ~141 |
 | The Warlord | 19.00% | ~141 |
 | You are the One | 19.00% | ~141 |

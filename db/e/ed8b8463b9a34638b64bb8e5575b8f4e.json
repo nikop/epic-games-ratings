@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -362,9 +362,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "cold_feet",
@@ -569,8 +569,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:14:11.623797+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:09:16.1051603+00:00",
   "LastUpdate_AppInfo": "2023-11-25T02:57:17.602935+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:03:22.3082882+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:14:11.6238101+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:58:25.5268343+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:09:16.1051763+00:00"
 }

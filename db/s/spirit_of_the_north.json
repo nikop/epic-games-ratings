@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75430,
+  "EOS_Progressed": 75431,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -24778,6 +24778,11 @@
       "Time": "2023-11-28T13:14:00.1402772+00:00",
       "NumProgressed": 75430,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-11-28T14:09:05.7368018+00:00",
+      "NumProgressed": 75431,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 24,
@@ -24829,7 +24834,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15840
+      "UsersEstimate": 15841
     },
     {
       "ID": "FETCH",
@@ -24837,7 +24842,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21120
+      "UsersEstimate": 21121
     },
     {
       "ID": "FOXIN_AROUND",
@@ -24861,7 +24866,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13577
+      "UsersEstimate": 13578
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -24933,7 +24938,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15840
+      "UsersEstimate": 15841
     },
     {
       "ID": "SPIRIT_DASH",
@@ -24957,7 +24962,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 11314
+      "UsersEstimate": 11315
     },
     {
       "ID": "WEIGHTLESS",
@@ -24980,7 +24985,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75430,
+      "Progressed": 75431,
       "Completed": 404
     }
   ],
@@ -24988,8 +24993,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:14:00.1402767+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:09:05.7368013+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.17465+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:02:08.531532+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:14:00.1404296+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:57:20.1482353+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:09:05.7369508+00:00"
 }

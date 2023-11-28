@@ -8,10 +8,10 @@ Rating: 4.87 (Ranked 22)
 | Feeling the beat! | 19.00% | ~838 |
 | Start with a bang! | 18.00% | ~794 |
 | You can pet the cat! | 17.00% | ~750 |
-| Who put gears in there? | 16.00% | ~705 |
-| Cream of the Crop | 15.00% | ~661 |
-| Thanks for the free chip, Peppermint! | 15.00% | ~661 |
-| You got this, Peppermint? | 14.00% | ~617 |
+| Who put gears in there? | 16.00% | ~706 |
+| Cream of the Crop | 15.00% | ~662 |
+| Thanks for the free chip, Peppermint! | 15.00% | ~662 |
+| You got this, Peppermint? | 14.00% | ~618 |
 | Perfect Parry | 13.00% | ~573 |
 | Alright, that felt AWESOME! | 13.00% | ~573 |
 | This will cost you big time | 12.00% | ~529 |
@@ -29,12 +29,12 @@ Rating: 4.87 (Ranked 22)
 | Time to pay up! | 8.00% | ~353 |
 | Who's the boss now? | 8.00% | ~353 |
 | Perfecter Parry-er! | 8.00% | ~353 |
-| NOW we got a kickass hideout! | 8.00% | ~234 |
+| NOW we got a kickass hideout! | 8.00% | ~235 |
 | I have to read these things? | 7.00% | ~309 |
-| Well that was a rush! | 5.00% | ~220 |
-| Beat-hit mania | 5.00% | ~220 |
-| That's a lot of junk metal… | 5.00% | ~220 |
-| There's such a thing as TOO helpful | 5.00% | ~220 |
+| Well that was a rush! | 5.00% | ~221 |
+| Beat-hit mania | 5.00% | ~221 |
+| That's a lot of junk metal… | 5.00% | ~221 |
+| There's such a thing as TOO helpful | 5.00% | ~221 |
 | Chip-tuned | 3.00% | ~132 |
 | Wanna hear my playlist? | 3.00% | ~132 |
 | I told you I'd be fine, Peppermint! | 3.00% | ~132 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,409 (Ranked 194)  
+Progressed: 4,411 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-25 | 4,346 | 8 |
 | 2023-11-26 | 4,367 | 8 |
 | 2023-11-27 | 4,394 | 8 |
-| 2023-11-28 | 4,409 | 8 |
+| 2023-11-28 | 4,411 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

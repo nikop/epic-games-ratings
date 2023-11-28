@@ -9,7 +9,7 @@
 | Daddy’s Glasses | 53.00% | ~47 |
 | The Best Snowman Ever! | 46.00% | ~41 |
 | Whose tracks are these? | 45.00% | ~40 |
-| Rounding Up the Chickens. | 44.00% | ~39 |
+| Rounding Up the Chickens. | 45.00% | ~40 |
 | Collecting Sticks For the Campfire. | 40.00% | ~36 |
 | What’s in These Rockpools? | 37.00% | ~33 |
 | Where’s Mr. Dinosaur? | 24.00% | ~21 |

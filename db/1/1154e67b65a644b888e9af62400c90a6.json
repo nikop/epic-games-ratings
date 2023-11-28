@@ -3,11 +3,11 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 609,
-  "Ranking_Popularity": 186,
+  "Ranking_Popularity": 187,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -1233,6 +1233,6 @@
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
   "LastChanged": "2023-11-28T09:59:48.7010469+00:00",
   "LastUpdate_AppInfo": "2023-11-21T19:56:56.3514409+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:05:16.2142631+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:08:28.953208+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:00:07.4873323+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:03:39.5627394+00:00"
 }

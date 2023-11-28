@@ -434,9 +434,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
       "SetID": "caeik3h",
       "Name": "Blackburn Returns",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
@@ -618,9 +618,9 @@
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
       "SetID": "caeik3h",
       "Name": "Happy New Year!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KR4_ACHIEVEMENT_HEROIC",
@@ -722,9 +722,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -746,17 +746,17 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -834,9 +834,9 @@
       "ID": "KR4_ACHIEVEMENT_ORCSHAMAN",
       "SetID": "caeik3h",
       "Name": "Thunderstruck",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KR4_ACHIEVEMENT_PEERLESS_DEFENDER",
@@ -890,9 +890,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -914,9 +914,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -962,9 +962,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
       "SetID": "caeik3h",
       "Name": "The Gill-man",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_THING",
@@ -1017,8 +1017,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:08:05.9008786+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:03:18.6785648+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:05:34.2515292+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:08:05.900951+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:00:23.6282494+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:03:18.6786313+00:00"
 }

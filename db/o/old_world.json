@@ -2046,7 +2046,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15528,
+  "EOS_Progressed": 15531,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -16711,6 +16711,11 @@
       "Time": "2023-11-28T10:04:44.66799+00:00",
       "NumProgressed": 15528,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-28T14:05:17.0353057+00:00",
+      "NumProgressed": 15531,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17064,9 +17069,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
       "SetID": "9201eeb",
       "Name": "Ancient",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
@@ -17210,7 +17215,7 @@
       "Name": "Intrepid",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -17634,7 +17639,7 @@
       "Name": "Friendly Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -18560,9 +18565,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -19457,21 +19462,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15528,
+      "Progressed": 15531,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15528,
+      "Progressed": 15531,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-27T16:01:26.663656+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:10:15.3627677+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:05:17.0353051+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:02:12.3229675+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:10:15.3636981+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:57:23.4982855+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:05:17.0362428+00:00"
 }

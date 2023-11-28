@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131351,
+  "EOS_Progressed": 131353,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23229,6 +23229,11 @@
       "Time": "2023-11-28T13:12:59.5048982+00:00",
       "NumProgressed": 131351,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-28T14:06:31.1706523+00:00",
+      "NumProgressed": 131353,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23272,7 +23277,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23643
+      "UsersEstimate": 23644
     },
     {
       "ID": "ACH_COP_BAD",
@@ -23296,7 +23301,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31524
+      "UsersEstimate": 31525
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23320,7 +23325,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36778
+      "UsersEstimate": 36779
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23559,15 +23564,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131351,
+      "Progressed": 131353,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:12:59.5048979+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:06:31.1706518+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:04:21.1680365+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:12:59.5049996+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:59:18.2830408+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:06:31.1708306+00:00"
 }

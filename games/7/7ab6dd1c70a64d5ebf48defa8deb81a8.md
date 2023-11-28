@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 11.00% | ~26 |
+| Trinity | 12.00% | ~28 |
 | Break Out | 10.00% | ~23 |
 | Find Allies | 9.00% | ~21 |
 | Powerful Allies | 9.00% | ~21 |
@@ -14,11 +14,11 @@
 | I Found It | 9.00% | ~21 |
 | A Taste of Wrath | 8.00% | ~19 |
 | Big Bazar | 8.00% | ~19 |
+| Stone Collection | 8.00% | ~19 |
 | The Collector | 8.00% | ~19 |
 | Tributes of Caladrias | 7.00% | ~16 |
 | Shatter Them All | 7.00% | ~16 |
 | Fashion Victim | 7.00% | ~16 |
-| Stone Collection | 7.00% | ~16 |
 | Calm before the Storm | 6.00% | ~14 |
 | Alchemist | 5.00% | ~12 |
 | To Battle | 4.00% | ~9 |
@@ -32,11 +32,11 @@
 | Miner | 3.00% | ~7 |
 | Slayer | 2.00% | ~5 |
 | A Queen's Tale | 2.00% | ~5 |
+| Flawless Victory | 1.00% | ~2 |
+| All There Is | 1.00% | ~2 |
 | False God | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Shardbearer | 0.90% | ~2 |
-| Flawless Victory | 0.90% | ~2 |
-| All There Is | 0.90% | ~2 |
 | All That Gold | 0.90% | ~2 |
 | Forgemaster | 0.40% | ~1 |
 | Feeling Fancy | 0.00% | ~0 |

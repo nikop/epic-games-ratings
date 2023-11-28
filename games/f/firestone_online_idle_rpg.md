@@ -6,16 +6,16 @@ Rating: 4.04 (Ranked 990)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~2,584 |
-| World Map | 78.00% | ~2,167 |
-| Temple of Eternals | 57.00% | ~1,583 |
-| Prestigious | 53.00% | ~1,472 |
+| World Map | 78.00% | ~2,168 |
+| Temple of Eternals | 57.00% | ~1,584 |
+| Prestigious | 53.00% | ~1,473 |
 | Fellowship Power | 42.00% | ~1,167 |
 | Guild Power | 24.00% | ~667 |
-| Prestigious x10 | 21.00% | ~583 |
+| Prestigious x10 | 21.00% | ~584 |
 | The game is on | 19.00% | ~528 |
 | Exotic Merchant | 17.00% | ~472 |
-| Dragon Clicker | 16.00% | ~444 |
-| Miner Clicker | 16.00% | ~444 |
+| Dragon Clicker | 16.00% | ~445 |
+| Miner Clicker | 16.00% | ~445 |
 | Full Party | 15.00% | ~417 |
 | Inspection | 15.00% | ~417 |
 | Dragon Master | 14.00% | ~389 |
@@ -27,9 +27,9 @@ Rating: 4.04 (Ranked 990)
 | Natural Talent | 12.00% | ~333 |
 | Superior | 12.00% | ~333 |
 | The Unstoppable | 12.00% | ~333 |
+| Scientist | 11.00% | ~306 |
 | Doing My Part | 10.00% | ~278 |
 | Hunter | 10.00% | ~278 |
-| Scientist | 10.00% | ~278 |
 | The power of Awakening | 10.00% | ~278 |
 | Challenger | 9.00% | ~250 |
 | Daily Quest Completionist | 9.00% | ~250 |
@@ -43,14 +43,15 @@ Rating: 4.04 (Ranked 990)
 | Master Enchanter | 8.00% | ~222 |
 | The father of Dragons | 8.00% | ~222 |
 | Trader | 8.00% | ~222 |
-| Crystal Mining | 7.00% | ~194 |
-| Dragon Slayer | 7.00% | ~194 |
-| Enchanting skill | 7.00% | ~194 |
-| Engineer Mastery | 7.00% | ~194 |
-| Weekly Quest Completionist | 7.00% | ~194 |
+| Crystal Mining | 7.00% | ~195 |
+| Dragon Slayer | 7.00% | ~195 |
+| Enchanting skill | 7.00% | ~195 |
+| Engineer Mastery | 7.00% | ~195 |
+| Weekly Quest Completionist | 7.00% | ~195 |
 | Blueprint Upgrades | 6.00% | ~167 |
 | How Do You Turn This On? | 6.00% | ~167 |
 | Lock And Load | 6.00% | ~167 |
+| Missions Dedication | 6.00% | ~167 |
 | Sailor | 6.00% | ~167 |
 | The Alchemist | 6.00% | ~167 |
 | The Expeditioner | 6.00% | ~167 |
@@ -58,7 +59,6 @@ Rating: 4.04 (Ranked 990)
 | Ancient Knowledge | 5.00% | ~139 |
 | Background Story | 5.00% | ~139 |
 | Legendary | 5.00% | ~139 |
-| Missions Dedication | 5.00% | ~139 |
 | Arena Challenger | 4.00% | ~111 |
 | Ebony Jungle Liberator | 4.00% | ~111 |
 | Gear Enchanting | 3.00% | ~83 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 990)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,778 (Ranked 213)  
+Progressed: 2,779 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,14 +298,14 @@ Completed: 2 (0.07%) (Ranked 302)
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
 | 2023-11-27 | 2,771 | 2 |
-| 2023-11-28 | 2,778 | 2 |
+| 2023-11-28 | 2,779 | 2 |
 ## Awards
-Max (Great for Beginners): 33  (Ranked 488)  
-Sum: 133 (Ranked 429)  
-Diff (max vs sum): 59  
+Max (Great for Beginners): 34  (Ranked 483)  
+Sum: 134 (Ranked 429)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 33 |
+| This game is Great for Beginners | 34 |
 | This game is Great for Quick Sessions | 30 |
 | This game has Diverse Characters | 25 |
 | This game has Playful Visuals | 25 |
@@ -378,4 +378,4 @@ Diff (max vs sum): 59
 | 2023-11-25 | 4.07 | 33 | 110 |
 | 2023-11-26 | 4.06 | 33 | 110 |
 | 2023-11-27 | 4.06 | 33 | 112 |
-| 2023-11-28 | 4.04 | 33 | 133 |
+| 2023-11-28 | 4.04 | 34 | 134 |

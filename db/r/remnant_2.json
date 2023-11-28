@@ -4819,18 +4819,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 6073,
       "NumberOfAwardsMax": 2480
+    },
+    {
+      "Time": "2023-11-28T14:03:12.9307323+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6091,
+      "NumberOfAwardsMax": 2498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6073,
-  "NumberOfAwardsMax": 2480,
+  "NumberOfAwards": 6091,
+  "NumberOfAwardsMax": 2498,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2480
+      "Count": 2498
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4893,10 +4899,10 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 229903,
+  "EOS_Progressed": 229930,
   "EOS_Completed": 539,
-  "EOS_NewPlayers": 4937,
-  "EOS_NewCompleters": 44,
+  "EOS_NewPlayers": 4942,
+  "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20358,6 +20364,11 @@
       "Time": "2023-11-28T13:13:45.0635544+00:00",
       "NumProgressed": 229903,
       "NumCompleted": 539
+    },
+    {
+      "Time": "2023-11-28T14:08:51.7519324+00:00",
+      "NumProgressed": 229930,
+      "NumCompleted": 539
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20450,7 +20461,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20554,7 +20565,7 @@
       "Name": "First of Many",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -20770,7 +20781,7 @@
       "Name": "Regicide",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -20786,7 +20797,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -20809,22 +20820,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229903,
+      "Progressed": 229930,
       "Completed": 539
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9068,
+      "Progressed": 9095,
       "Completed": 165
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-28T12:03:26.0096618+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:13:45.0635538+00:00",
+  "LastChanged": "2023-11-28T14:03:12.9307321+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:08:51.7519321+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:08:00.792469+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:13:45.0636426+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:03:12.9307328+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:08:51.7520466+00:00"
 }

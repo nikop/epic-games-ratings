@@ -4,7 +4,7 @@
   "ProductSlug": "roboplant-5cc445",
   "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -327,8 +327,8 @@
   ],
   "FirstSeen": "2023-05-12T13:57:09.8331307+00:00",
   "FirstSeenAchievements": "2023-04-29T09:59:46.73483+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:11:25.6050938+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:06:19.6261677+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:14.2785042+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:05:54.0490975+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:11:25.6051138+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:02:50.9086458+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:06:19.6261911+00:00"
 }

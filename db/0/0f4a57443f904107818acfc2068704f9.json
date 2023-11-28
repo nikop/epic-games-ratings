@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 137,
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1624,9 +1624,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 279
     },
     {
       "ID": "CompleteChapter4",
@@ -1775,8 +1775,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:08:35.1819788+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:03:45.0974702+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:05:38.7795441+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:08:35.1820135+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:00:27.6171204+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:03:45.0975015+00:00"
 }

@@ -484,9 +484,9 @@
       "ID": "DISCIPLE",
       "SetID": "40o4f14",
       "Name": "Disciple",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "DRAGON",
@@ -508,9 +508,9 @@
       "ID": "GAMBLER",
       "SetID": "40o4f14",
       "Name": "The Gambler",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GENERAL",
@@ -524,9 +524,9 @@
       "ID": "GOLSA",
       "SetID": "40o4f14",
       "Name": "The Rescue",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "GREEDY",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:10:06.4961203+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:05:08.7171912+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:03:09.4711504+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:10:06.4961414+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:58:13.9047432+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:05:08.7172124+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 91,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -464,6 +464,11 @@
       "Time": "2023-11-28T01:52:45.3868903+00:00",
       "NumProgressed": 90,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T14:05:06.94295+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -578,7 +583,7 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
       "UsersEstimate": 33
     },
@@ -658,7 +663,7 @@
       "ID": "finished_it",
       "SetID": "f2im8d",
       "Name": "Finished it",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 25
     },
@@ -746,7 +751,7 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 54
     },
@@ -802,7 +807,7 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -812,13 +817,13 @@
       "Name": "Something important",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "spy_one_item",
       "SetID": "f2im8d",
       "Name": "Fisherman",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -874,7 +879,7 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
       "UsersEstimate": 72
     },
@@ -891,14 +896,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:10:04.7520207+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:05:06.9429496+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:59.9446154+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:03:07.382421+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:10:04.7520588+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:58:12.0880205+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:05:06.9429886+00:00"
 }

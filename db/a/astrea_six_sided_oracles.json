@@ -482,9 +482,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AnomalyMaster",
@@ -562,9 +562,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AstralSeeker",
@@ -1234,9 +1234,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NoctuanHero",
@@ -1265,8 +1265,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:10:56.9994187+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:05:54.1040096+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:02:19.5133555+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:10:56.9994945+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:57:29.6350085+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:05:54.1041323+00:00"
 }

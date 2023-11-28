@@ -233,7 +233,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154598,
+  "EOS_Progressed": 154600,
   "EOS_Completed": 349,
   "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 10,
@@ -19723,6 +19723,11 @@
       "Time": "2023-11-28T13:09:51.40828+00:00",
       "NumProgressed": 154598,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2023-11-28T14:04:54.9996965+00:00",
+      "NumProgressed": 154600,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 31,
@@ -19742,7 +19747,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108219
+      "UsersEstimate": 108220
     },
     {
       "ID": "EAwards_10",
@@ -19782,7 +19787,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60293
+      "UsersEstimate": 60294
     },
     {
       "ID": "EAwards_15",
@@ -19830,7 +19835,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43287
+      "UsersEstimate": 43288
     },
     {
       "ID": "EAwards_20",
@@ -19966,7 +19971,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 58747
+      "UsersEstimate": 58748
     },
     {
       "ID": "EAwards_9",
@@ -19981,7 +19986,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 154598,
+      "Progressed": 154600,
       "Completed": 349
     }
   ],
@@ -19989,8 +19994,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:09:51.4082796+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:04:54.999696+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.3123546+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:05:15.7971053+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:09:51.4083742+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:00:07.0744935+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:04:54.9998696+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 4249,
-  "EOS_Completed": 35,
+  "EOS_Completed": 36,
   "EOS_NewPlayers": 144,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.82,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-06-26T07:03:57.4473035+00:00",
@@ -10589,6 +10589,11 @@
       "Time": "2023-11-28T01:51:24.4810541+00:00",
       "NumProgressed": 4249,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-28T14:03:46.3121896+00:00",
+      "NumProgressed": 4249,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -10702,9 +10707,9 @@
       "ID": "ach_magic_wand",
       "SetID": "3h4khpo",
       "Name": "Magic time",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1275
     },
     {
       "ID": "ach_no_boosters",
@@ -10728,13 +10733,13 @@
       "ID": "3h4khpo",
       "IsBase": true,
       "Progressed": 4249,
-      "Completed": 35
+      "Completed": 36
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-28T13:08:36.3685611+00:00",
+  "LastChanged_Achievements": "2023-11-28T14:03:46.3121891+00:00",
   "LastUpdate_AppInfo": "2023-11-24T20:57:04.2285438+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:04:39.0159618+00:00",
-  "LastUpdate_Achievements": "2023-11-28T13:08:36.36862+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:59:33.7032057+00:00",
+  "LastUpdate_Achievements": "2023-11-28T14:03:46.3122469+00:00"
 }

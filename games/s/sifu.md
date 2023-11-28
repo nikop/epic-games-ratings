@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 1.00% | ~268 |
+| Diligence as a goal | 1.00% | ~269 |
 | Project Arena | 0.70% | ~188 |
 | The Old Grandmaster | 0.60% | ~4,305 |
 | The Assault | 0.60% | ~4,305 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,549 (Ranked 22)  
+Progressed: 717,552 (Ranked 22)  
 Completed: 12,940 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 12,940 (1.80%) (Ranked 132)
 | 2023-11-25 | 717,366 | 12,940 |
 | 2023-11-26 | 717,455 | 12,940 |
 | 2023-11-27 | 717,516 | 12,940 |
-| 2023-11-28 | 717,549 | 12,940 |
+| 2023-11-28 | 717,552 | 12,940 |
 ## Awards
 Max (Great Boss Battles): 6,847  (Ranked 55)  
 Sum: 11,989 (Ranked 83)  

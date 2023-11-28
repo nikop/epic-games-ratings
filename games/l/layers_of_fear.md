@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 80.00% | ~72 |
-| Something important | 77.00% | ~69 |
-| A piece of the story | 60.00% | ~54 |
+| Wanderer | 79.00% | ~72 |
+| Something important | 77.00% | ~70 |
+| A piece of the story | 59.00% | ~54 |
 | It's covered up for a reason | 44.00% | ~40 |
 | Do what you have to | 44.00% | ~40 |
 | Scraps of love | 43.00% | ~39 |
 | The artist’s impression | 43.00% | ~39 |
-| Refuse to look | 37.00% | ~33 |
-| Sign of weakness | 36.00% | ~32 |
-| Finished it | 28.00% | ~25 |
+| Refuse to look | 36.00% | ~33 |
+| Sign of weakness | 35.00% | ~32 |
+| Finished it | 27.00% | ~25 |
 | Face your fears | 23.00% | ~21 |
 | Playtime | 13.00% | ~12 |
 | Tough conversation | 13.00% | ~12 |
@@ -31,7 +31,7 @@
 | Heavy Burden | 8.00% | ~7 |
 | Lights! Camera! Action! | 8.00% | ~7 |
 | Casting Finished | 7.00% | ~6 |
-| Fisherman | 6.00% | ~5 |
+| Fisherman | 5.00% | ~5 |
 | We Are Not Alone | 4.00% | ~4 |
 | Body of Work | 4.00% | ~4 |
 | Something to think about | 3.00% | ~3 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 446)  
+Progressed: 91 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,4 +97,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 86 | 0 |
 | 2023-11-26 | 88 | 0 |
 | 2023-11-27 | 89 | 0 |
-| 2023-11-28 | 90 | 0 |
+| 2023-11-28 | 91 | 0 |
