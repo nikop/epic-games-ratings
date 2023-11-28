@@ -3,7 +3,7 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 772,
+  "EOS_Progressed": 774,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.44,
+  "EOS_Completed_Percentage": 5.43,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3135,6 +3135,11 @@
       "Time": "2023-11-28T00:05:09.6432704+00:00",
       "NumProgressed": 772,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-28T01:52:25.9674987+00:00",
+      "NumProgressed": 774,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 25,
@@ -3178,7 +3183,7 @@
       "Name": "A good beginning",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "META_HALF_LINK",
@@ -3250,7 +3255,7 @@
       "Name": "Rascal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3266,7 +3271,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3290,7 +3295,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3306,7 +3311,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "PROGRESS_N2",
@@ -3322,7 +3327,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "PROGRESS_N4",
@@ -3338,21 +3343,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 772,
+      "Progressed": 774,
       "Completed": 42
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:05:09.6432698+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:52:25.9674979+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:57:31.0943048+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:05:09.6432958+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:45:32.8077646+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:52:25.9675392+00:00"
 }

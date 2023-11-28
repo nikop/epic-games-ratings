@@ -6,9 +6,9 @@
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16709,
+  "EOS_Progressed": 16710,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -15023,6 +15023,11 @@
       "Time": "2023-11-27T23:04:00.905605+00:00",
       "NumProgressed": 16709,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-28T01:51:47.0020442+00:00",
+      "NumProgressed": 16710,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15058,7 +15063,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "tpote_achievement_13",
@@ -15066,7 +15071,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "tpote_achievement_14",
@@ -15274,7 +15279,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "tpote_achievement_38",
@@ -15361,15 +15366,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16709,
+      "Progressed": 16710,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:04:16.4480715+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:51:47.0020438+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:59:04.0507598+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:04:16.4481727+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:46:38.4411697+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:51:47.0021309+00:00"
 }

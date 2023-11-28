@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,553 |
-| Basic in Bulk | 6.00% | ~8,553 |
-| Titan's First Steps | 6.00% | ~8,553 |
+| Sponsored by Argon | 6.00% | ~8,554 |
+| Basic in Bulk | 6.00% | ~8,554 |
+| Titan's First Steps | 6.00% | ~8,554 |
 | Tinkle of Coins | 5.00% | ~7,128 |
-| Disintermediation | 4.00% | ~5,702 |
-| It's Free Real Estate | 4.00% | ~5,702 |
-| Budding Merchant | 4.00% | ~5,702 |
-| Capitalism Ho! | 4.00% | ~5,702 |
+| Disintermediation | 4.00% | ~5,703 |
+| It's Free Real Estate | 4.00% | ~5,703 |
+| Budding Merchant | 4.00% | ~5,703 |
+| Capitalism Ho! | 4.00% | ~5,703 |
 | The Daily Grind | 3.00% | ~4,277 |
 | One Easy Payment | 3.00% | ~4,277 |
 | Some Assembly Required | 3.00% | ~4,277 |
@@ -24,6 +24,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 3.00% | ~4,277 |
 | Own the Means of Production | 3.00% | ~4,277 |
 | On the Path to Greatness | 2.00% | ~2,851 |
+| A Notch Above the Rest | 2.00% | ~2,851 |
 | Ascended | 2.00% | ~2,851 |
 | Tax not Included | 2.00% | ~2,851 |
 | Research & Development | 2.00% | ~2,851 |
@@ -37,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 2.00% | ~2,851 |
 | Where it Hurts | 2.00% | ~2,851 |
 | This Power Level...! | 2.00% | ~2,851 |
+| Hidden Potential | 2.00% | ~2,851 |
 | Power of Love | 2.00% | ~2,851 |
 | Expansion in Session | 2.00% | ~2,851 |
 | Efficient Floor Space | 2.00% | ~2,851 |
@@ -57,7 +59,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 2.00% | ~2,851 |
 | Arcane Industries | 2.00% | ~2,851 |
 | Complete Monopoly | 2.00% | ~2,851 |
-| A Notch Above the Rest | 1.00% | ~1,426 |
 | Cream of the Crop | 1.00% | ~1,426 |
 | Top of the World | 1.00% | ~1,426 |
 | Proud Paladin | 1.00% | ~1,426 |
@@ -74,7 +75,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 1.00% | ~1,426 |
 | Omae wa Mou Shindeiru | 1.00% | ~1,426 |
 | Master of Transmutation | 1.00% | ~1,426 |
-| Hidden Potential | 1.00% | ~1,426 |
 | Supercharged | 1.00% | ~1,426 |
 | Ritualist | 1.00% | ~1,426 |
 | Cranked up to 11 | 1.00% | ~1,426 |
@@ -103,14 +103,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 1.00% | ~1,426 |
 | Thank You Tom Nook | 0.90% | ~1,283 |
 | Jackpot! | 0.90% | ~1,283 |
-| The Free Encyclopedia | 0.80% | ~1,140 |
-| Eternal Crusade | 0.80% | ~1,140 |
+| The Free Encyclopedia | 0.80% | ~1,141 |
+| Eternal Crusade | 0.80% | ~1,141 |
 | The Greatest Grind | 0.60% | ~855 |
 | All or Nothing! | 0.60% | ~855 |
+| Marvels from the World Over | 0.60% | ~855 |
 | Bane of Legends | 0.50% | ~713 |
 | JACKPOT!!! | 0.50% | ~713 |
 | Anything not Nailed Down | 0.50% | ~713 |
-| Marvels from the World Over | 0.50% | ~713 |
 | Ultimate Collector | 0.40% | ~570 |
 | Unleashed Potential | 0.40% | ~570 |
 | Oligarch Monarch | 0.30% | ~428 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,551 (Ranked 80)  
-Completed: 279 (0.20%) (Ranked 256)  
+Progressed: 142,567 (Ranked 80)  
+Completed: 279 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -341,7 +341,7 @@ Completed: 279 (0.20%) (Ranked 256)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,551 | 279 |
+| 2023-11-28 | 142,567 | 279 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,609 (Ranked 50)  

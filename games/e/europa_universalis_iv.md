@@ -21,6 +21,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Aggressive Expander | 0.10% | ~465 |
 | Albania or Iberia | 0.10% | ~465 |
 | All belongs to Mother Russia | 0.10% | ~465 |
+| All Blue | 0.10% | ~465 |
 | All That's Thine Shall Be Mine | 0.10% | ~465 |
 | All Your Trade Are Belong to Us | 0.10% | ~465 |
 | Almost Prussian Blue | 0.10% | ~465 |
@@ -256,7 +257,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | I don't like sand | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
-| All Blue | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Assembly Instructions Needed | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,017 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 361)  
+Progressed: 465,037 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -592,7 +592,7 @@ Completed: 1 (0.00%) (Ranked 361)
 | 2023-11-25 | 463,679 | 1 |
 | 2023-11-26 | 464,479 | 1 |
 | 2023-11-27 | 465,000 | 1 |
-| 2023-11-28 | 465,017 | 1 |
+| 2023-11-28 | 465,037 | 1 |
 ## Awards
 Max (Educational): 7,187  (Ranked 54)  
 Sum: 59,114 (Ranked 24)  

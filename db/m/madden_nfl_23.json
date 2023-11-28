@@ -6,9 +6,9 @@
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 361,
+  "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3736,
+  "EOS_Progressed": 3738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6239,6 +6239,11 @@
       "Time": "2023-11-28T00:08:45.6300108+00:00",
       "NumProgressed": 3736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T01:56:37.3687204+00:00",
+      "NumProgressed": 3738,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6259,7 +6264,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "achievement_11",
@@ -6275,7 +6280,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "achievement_13",
@@ -6283,7 +6288,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "achievement_14",
@@ -6291,15 +6296,15 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1980
+      "UsersEstimate": 2019
     },
     {
       "ID": "achievement_16",
@@ -6395,7 +6400,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "achievement_8",
@@ -6418,7 +6423,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3736,
+      "Progressed": 3738,
       "Completed": 0
     }
   ],
@@ -6426,8 +6431,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-26T19:58:44.6138362+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:08:45.6300105+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:56:37.3687201+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-11-28T00:00:24.2595533+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:08:45.6300565+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:47:32.5118973+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:56:37.3687513+00:00"
 }

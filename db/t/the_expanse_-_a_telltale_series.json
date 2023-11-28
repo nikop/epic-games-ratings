@@ -6,7 +6,7 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15690,
+  "EOS_Progressed": 15693,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12500,6 +12500,11 @@
       "Time": "2023-11-28T00:07:48.0771804+00:00",
       "NumProgressed": 15690,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-28T01:54:22.6023757+00:00",
+      "NumProgressed": 15693,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12528,15 +12533,15 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 471
+      "UsersEstimate": 628
     },
     {
       "ID": "13",
@@ -12560,7 +12565,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "16",
@@ -12576,7 +12581,7 @@
       "Name": "Spore Taste",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "18",
@@ -12592,7 +12597,7 @@
       "Name": "Martian Music",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "2",
@@ -12616,7 +12621,7 @@
       "Name": "Drone Dodger",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "22",
@@ -12664,7 +12669,7 @@
       "Name": "Bosmang",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "28",
@@ -12688,7 +12693,7 @@
       "Name": "Captain Drummer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "30",
@@ -12720,7 +12725,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "7",
@@ -12744,15 +12749,15 @@
       "Name": "Impossible Objects",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "31",
       "SetID": "9nnpo9n",
       "Name": "Keep Arjun in Check",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 82
     },
     {
       "ID": "32",
@@ -12791,22 +12796,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15690,
+      "Progressed": 15693,
       "Completed": 36
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1644,
-      "Completed": 741
+      "Progressed": 1647,
+      "Completed": 743
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:07:48.0771801+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:54:22.6023754+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-28T00:00:21.1731614+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:07:48.0773138+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:47:30.0552397+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:54:22.6024643+00:00"
 }

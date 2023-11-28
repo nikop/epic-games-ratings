@@ -13,12 +13,12 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~2,236 |
 | Knee bending | 96.00% | ~2,236 |
 | Pickaxe | 94.00% | ~2,189 |
+| Cage Town | 94.00% | ~2,189 |
+| Force Beam | 93.00% | ~2,166 |
 | Entered Cage Town | 93.00% | ~2,166 |
 | Stone Pickaxe | 93.00% | ~2,166 |
 | Revenge | 93.00% | ~2,166 |
-| Cage Town | 93.00% | ~2,166 |
 | Surprise | 93.00% | ~2,166 |
-| Force Beam | 92.00% | ~2,143 |
 | Magnet | 90.00% | ~2,096 |
 | Industrial Area | 89.00% | ~2,073 |
 | Magnet Repel | 88.00% | ~2,050 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 14.00% | ~326 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,329 (Ranked 218)  
-Completed: 288 (12.37%) (Ranked 34)  
+Completed: 288 (12.37%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

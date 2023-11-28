@@ -3,9 +3,9 @@
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -934,9 +934,9 @@
       "ID": "7",
       "SetID": "acl54ke",
       "Name": "Solved eighth case",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "8",
@@ -1021,8 +1021,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:04:49.8236463+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:52:11.3323367+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.5044969+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:57:55.7677421+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:04:49.8236697+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:45:48.8535882+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:52:11.3323499+00:00"
 }

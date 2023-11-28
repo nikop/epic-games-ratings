@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 93.00% | ~1,335 |
 | Spectre Inductee | 80.00% | ~1,148 |
 | Medal of Exploration I | 71.00% | ~1,019 |
-| Recruit | 67.00% | ~961 |
+| Recruit | 68.00% | ~976 |
 | Search and Rescue | 67.00% | ~961 |
 | Quarian Ally | 63.00% | ~904 |
 | Medal of Heroism | 60.00% | ~861 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.80% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,435 (Ranked 243)  
-Completed: 6 (0.42%) (Ranked 216)  
+Completed: 6 (0.42%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

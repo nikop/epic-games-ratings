@@ -9,17 +9,19 @@ Rating: 4.75 (Ranked 148)
 | Regicide | 0.60% | ~53 |
 | Master of the Dark Arts | 0.60% | ~53 |
 | First of Many | 0.50% | ~1,148 |
-| Not Your Average Trait | 0.40% | ~918 |
+| Not Your Average Trait | 0.40% | ~919 |
 | Expanding Horizons | 0.30% | ~689 |
 | Gleaming the Cube | 0.30% | ~689 |
 | Not So Special Now | 0.30% | ~689 |
 | Quest for Survival | 0.30% | ~689 |
 | Familiar Face | 0.30% | ~689 |
 | Boss'n Up | 0.30% | ~689 |
+| Trait Chaser | 0.30% | ~689 |
 | Am I Seeing This? | 0.20% | ~459 |
 | Ghost in the Machine | 0.20% | ~459 |
 | Chaos | 0.20% | ~459 |
 | Traitor | 0.20% | ~459 |
+| Forever is a Long Time Coming | 0.20% | ~459 |
 | Power Surge | 0.20% | ~459 |
 | The God Gambit | 0.20% | ~459 |
 | Dark Designs | 0.20% | ~459 |
@@ -39,12 +41,10 @@ Rating: 4.75 (Ranked 148)
 | Almost There | 0.20% | ~459 |
 | Make Some Room | 0.20% | ~459 |
 | Good, But Could Be Better! | 0.20% | ~459 |
-| Trait Chaser | 0.20% | ~459 |
 | Succession | 0.20% | ~18 |
 | You Shall Pass | 0.20% | ~18 |
 | Crafty | 0.10% | ~230 |
 | Only Human | 0.10% | ~230 |
-| Forever is a Long Time Coming | 0.10% | ~230 |
 | Madman's Paradise | 0.10% | ~230 |
 | Red Room | 0.10% | ~230 |
 | The Agenda | 0.10% | ~230 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,615 (Ranked 69)  
-Completed: 538 (0.23%) (Ranked 249)  
+Progressed: 229,652 (Ranked 69)  
+Completed: 538 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,7 +196,7 @@ Completed: 538 (0.23%) (Ranked 249)
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
-| 2023-11-28 | 229,615 | 538 |
+| 2023-11-28 | 229,652 | 538 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
 Sum: 6,051 (Ranked 129)  

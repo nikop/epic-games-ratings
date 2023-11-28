@@ -3,9 +3,9 @@
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
   "Ranking_EOS_Progress": 760,
-  "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-16T06:00:00+00:00",
     "PcReleaseDate": "2014-12-23T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:02.0921437+00:00",
-  "LastUpdate_Ratings": "2023-11-28T00:02:58.0451994+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:04:22.2654104+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:50:50.550821+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:51:51.2238526+00:00"
 }

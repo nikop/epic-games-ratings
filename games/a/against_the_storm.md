@@ -6,15 +6,16 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Abandoned Settlement | 0.60% | ~105 |
 | Overgrown Library | 0.60% | ~105 |
-| Abandoned Settlement | 0.50% | ~88 |
 | Petrified Necropolis | 0.50% | ~88 |
+| Gathering Storm | 0.50% | ~88 |
 | Frosts | 0.40% | ~70 |
 | Land of Greed | 0.40% | ~70 |
 | Ominous Presence | 0.40% | ~70 |
-| Gathering Storm | 0.40% | ~70 |
 | Untamed Wilds | 0.30% | ~53 |
 | Serving Ale | 0.10% | ~18 |
+| Feeding The People | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
 | Homesick | 0.10% | ~18 |
@@ -25,6 +26,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 0.10% | ~18 |
 | Barren Lands | 0.10% | ~18 |
 | Ancient Battleground | 0.10% | ~18 |
+| Sparkdew Crystals | 0.10% | ~18 |
 | Dangerous Lands | 0.10% | ~18 |
 | Fertile Meadows | 0.10% | ~18 |
 | Fishmen Ritual Site | 0.10% | ~18 |
@@ -36,6 +38,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 0.10% | ~18 |
 | Lost Colonies | 0.10% | ~18 |
 | Statue of the Forefathers | 0.10% | ~18 |
+| Forsaken Gods Temple | 0.10% | ~18 |
 | Corrosive Torrent | 0.10% | ~18 |
 | Watchtower | 0.10% | ~18 |
 | Coral Forest | 0.10% | ~18 |
@@ -52,22 +55,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Fox Utopia | 0.10% | ~18 |
-| Feeding The People | 0.00% | ~0 |
 | Paradise | 0.00% | ~0 |
 | Higher Needs | 0.00% | ~0 |
 | Beaver Utopia | 0.00% | ~0 |
 | Harpy Utopia | 0.00% | ~0 |
 | Lizard Utopia | 0.00% | ~0 |
 | Refinery | 0.00% | ~0 |
-| Sparkdew Crystals | 0.00% | ~0 |
-| Forsaken Gods Temple | 0.00% | ~0 |
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 | Ruins | 0.00% | ~0 |
 | Like a Machine | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,507 (Ranked 146)  
-Completed: 54 (0.31%) (Ranked 234)  
+Progressed: 17,510 (Ranked 146)  
+Completed: 54 (0.31%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,7 +288,7 @@ Completed: 54 (0.31%) (Ranked 234)
 | 2023-11-25 | 17,472 | 56 |
 | 2023-11-26 | 17,488 | 56 |
 | 2023-11-27 | 17,506 | 56 |
-| 2023-11-28 | 17,507 | 54 |
+| 2023-11-28 | 17,510 | 54 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 222)  
 Sum: 3,232 (Ranked 173)  

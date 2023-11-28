@@ -6,9 +6,9 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -458,6 +458,11 @@
       "Time": "2023-11-26T09:08:32.5376793+00:00",
       "NumProgressed": 434,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T01:56:34.483203+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -501,7 +506,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "collect-discounted-items2",
@@ -525,7 +530,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "different-items2",
@@ -539,9 +544,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 161
     },
     {
       "ID": "finished-quest-cube",
@@ -557,7 +562,7 @@
       "Name": "Great Flight",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "finished-quest-monster",
@@ -573,7 +578,7 @@
       "Name": "Feed a God",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "finished-quest-pit",
@@ -589,7 +594,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "finished-quest-reaper",
@@ -605,7 +610,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "finished-quest-secret",
@@ -621,7 +626,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "get-all",
@@ -683,9 +688,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 335
     },
     {
       "ID": "win-first-level",
@@ -693,7 +698,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "win-koth-fights1",
@@ -733,7 +738,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "win-with-mrakus",
@@ -748,7 +753,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 1
     }
   ],
@@ -756,8 +761,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:08:41.6233927+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:56:34.4832027+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.2944425+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:58:29.0522903+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:08:41.6234179+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:46:13.1994818+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:56:34.4832286+00:00"
 }

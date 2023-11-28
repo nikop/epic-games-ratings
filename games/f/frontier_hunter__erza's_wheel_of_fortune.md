@@ -30,8 +30,8 @@
 | Squeaky Clean | 15.00% | ~57 |
 | Kind Adventurer | 12.00% | ~45 |
 | Mermaid Killer | 12.00% | ~45 |
+| Cave Master | 12.00% | ~45 |
 | Face Slapper | 12.00% | ~45 |
-| Cave Master | 11.00% | ~42 |
 | Master Cook | 8.00% | ~30 |
 | Berserker Slayer | 7.00% | ~27 |
 | Boss challenge | 6.00% | ~23 |
@@ -51,7 +51,7 @@
 | Warden Challenge | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 379 (Ranked 330)  
-Completed: 1 (0.26%) (Ranked 245)  
+Completed: 1 (0.26%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

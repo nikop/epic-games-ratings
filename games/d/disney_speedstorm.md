@@ -5,33 +5,33 @@ Rating: 4.39 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,655 |
-| IT MAKES BOOM! | 7.00% | ~22,053 |
-| EXTRA BOOST | 5.00% | ~15,752 |
-| PROTECTED | 4.00% | ~12,602 |
-| PRO | 4.00% | ~12,602 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,451 |
-| AGGRESSIVE RACER | 3.00% | ~9,451 |
-| A TIGER'S FEAR | 2.00% | ~6,301 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,150 |
-| ACE SPEEDSTER | 1.00% | ~3,150 |
-| RELEASE THE KRAKEN | 0.90% | ~2,835 |
-| BE OUR GUEST | 0.90% | ~2,835 |
-| MASTER | 0.90% | ~2,835 |
-| LEGENDARY HERO | 0.90% | ~2,835 |
-| TRAINING HARD | 0.80% | ~2,520 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,520 |
-| FRIENDLY | 0.80% | ~2,520 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,205 |
-| EXPERIENCED CREW | 0.60% | ~1,890 |
-| ACE DEFENDER | 0.50% | ~1,575 |
-| ACE BRAWLER | 0.40% | ~1,260 |
-| ACE TRICKSTER | 0.40% | ~1,260 |
+| ROOKIE | 11.00% | ~34,667 |
+| IT MAKES BOOM! | 7.00% | ~22,061 |
+| EXTRA BOOST | 5.00% | ~15,758 |
+| PROTECTED | 4.00% | ~12,606 |
+| PRO | 4.00% | ~12,606 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,455 |
+| AGGRESSIVE RACER | 3.00% | ~9,455 |
+| A TIGER'S FEAR | 2.00% | ~6,303 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,152 |
+| ACE SPEEDSTER | 1.00% | ~3,152 |
+| RELEASE THE KRAKEN | 0.90% | ~2,836 |
+| BE OUR GUEST | 0.90% | ~2,836 |
+| MASTER | 0.90% | ~2,836 |
+| LEGENDARY HERO | 0.90% | ~2,836 |
+| TRAINING HARD | 0.80% | ~2,521 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,521 |
+| FRIENDLY | 0.80% | ~2,521 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,206 |
+| EXPERIENCED CREW | 0.60% | ~1,891 |
+| ACE DEFENDER | 0.50% | ~1,576 |
+| ACE BRAWLER | 0.40% | ~1,261 |
+| ACE TRICKSTER | 0.40% | ~1,261 |
 | FRAMED! | 0.30% | ~945 |
 | PERFECTLY POISED | 0.20% | ~630 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315,049 (Ranked 52)  
-Completed: 338 (0.11%) (Ranked 280)  
+Progressed: 315,151 (Ranked 52)  
+Completed: 339 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -248,7 +248,7 @@ Completed: 338 (0.11%) (Ranked 280)
 | 2023-11-25 | 312,443 | 330 |
 | 2023-11-26 | 314,023 | 333 |
 | 2023-11-27 | 315,001 | 338 |
-| 2023-11-28 | 315,049 | 338 |
+| 2023-11-28 | 315,151 | 339 |
 ## Awards
 Max (Great for Beginners): 89  (Ranked 381)  
 Sum: 665 (Ranked 307)  

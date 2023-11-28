@@ -6,9 +6,9 @@
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -613,7 +613,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3945,
+  "EOS_Progressed": 3946,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -8273,6 +8273,11 @@
       "Time": "2023-11-27T15:05:46.0733866+00:00",
       "NumProgressed": 3945,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-28T01:53:56.9056022+00:00",
+      "NumProgressed": 3946,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8292,7 +8297,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8348,7 +8353,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8364,7 +8369,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8444,7 +8449,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8452,7 +8457,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8476,7 +8481,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -8524,7 +8529,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8596,7 +8601,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8851,13 +8856,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3896,
+      "Progressed": 3897,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3945,
+      "Progressed": 3946,
       "Completed": 11
     }
   ],
@@ -8865,8 +8870,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-26T15:57:16.8224756+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:07:12.6120186+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:53:56.9056018+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.6853838+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:58:09.7169306+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:07:12.612132+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:45:58.5754153+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:53:56.90568+00:00"
 }

@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 507)  
+Rating: 4.56 (Ranked 494)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -50,7 +50,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,690 (Ranked 204)  
-Completed: 4 (0.11%) (Ranked 280)  
+Completed: 4 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -342,3 +342,4 @@ Diff (max vs sum): 92
 | 2023-09-12 | 4.55 | - | 34 | 243 |
 | 2023-09-17 | 4.55 | - | 35 | 244 |
 | 2023-11-13 | 4.55 | - | 35 | 245 |
+| 2023-11-28 | 4.56 | - | 35 | 245 |

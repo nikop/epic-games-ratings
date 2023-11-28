@@ -12,13 +12,13 @@
 | I like books | 5.00% | ~20 |
 | The woodcutter | 5.00% | ~20 |
 | Bucolic city | 5.00% | ~20 |
+| Soviet town | 5.00% | ~20 |
 | I like my life | 4.00% | ~16 |
 | Clean energy | 4.00% | ~16 |
-| Soviet town | 4.00% | ~16 |
 | I love books! | 2.00% | ~8 |
+| King of fish | 2.00% | ~8 |
 | I love parks | 2.00% | ~8 |
 | Food producer | 1.00% | ~4 |
-| King of fish | 1.00% | ~4 |
 | Metropolurbek | 1.00% | ~4 |
 | Rebel city | 0.80% | ~3 |
 | Banking city | 0.50% | ~2 |
@@ -85,7 +85,7 @@
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 396 (Ranked 328)  
-Completed: 0 (0.00%) (Ranked 361)  
+Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

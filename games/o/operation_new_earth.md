@@ -5,16 +5,16 @@ Rating: 3.21 (Ranked 1,048)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 27.00% | ~519 |
-| Defenses Online | 25.00% | ~481 |
+| It's Good to have Allies | 27.00% | ~520 |
+| Defenses Online | 25.00% | ~482 |
 | Facility Online | 21.00% | ~404 |
 | Corporal | 15.00% | ~289 |
 | Sergeant | 12.00% | ~231 |
 | Covert Operative | 12.00% | ~231 |
-| Lieutenant | 10.00% | ~192 |
-| Getting Deployment | 10.00% | ~192 |
-| Stocking Up | 10.00% | ~192 |
-| On Target | 10.00% | ~192 |
+| Lieutenant | 10.00% | ~193 |
+| Getting Deployment | 10.00% | ~193 |
+| Stocking Up | 10.00% | ~193 |
+| On Target | 10.00% | ~193 |
 | Keeping Busy | 9.00% | ~173 |
 | Infantry Reporting | 9.00% | ~173 |
 | Fighting for Survival | 8.00% | ~154 |
@@ -22,20 +22,20 @@ Rating: 3.21 (Ranked 1,048)
 | Captain | 8.00% | ~154 |
 | Factory Expansion | 8.00% | ~154 |
 | Exterminator | 7.00% | ~135 |
-| Know The Enemy | 6.00% | ~115 |
-| Silver Achiever | 6.00% | ~115 |
-| Moving On Up | 6.00% | ~115 |
-| Brothers in Arms | 6.00% | ~115 |
+| Know The Enemy | 6.00% | ~116 |
+| Silver Achiever | 6.00% | ~116 |
+| Moving On Up | 6.00% | ~116 |
+| Brothers in Arms | 6.00% | ~116 |
 | Player Betrayer | 5.00% | ~96 |
 | Major | 5.00% | ~96 |
 | Resourceful | 4.00% | ~77 |
 | Gold Achiever | 3.00% | ~58 |
 | Colonel | 3.00% | ~58 |
 | Control the Skies | 3.00% | ~58 |
-| Advanced Warfare | 2.00% | ~38 |
-| General | 2.00% | ~38 |
-| Seek & Destroy | 2.00% | ~38 |
-| Battle Ready | 2.00% | ~38 |
+| Advanced Warfare | 2.00% | ~39 |
+| General | 2.00% | ~39 |
+| Seek & Destroy | 2.00% | ~39 |
+| Battle Ready | 2.00% | ~39 |
 | Advanced Interceptors | 1.00% | ~19 |
 | Titan Tanks | 1.00% | ~19 |
 | Shock Troops | 1.00% | ~19 |
@@ -44,8 +44,8 @@ Rating: 3.21 (Ranked 1,048)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,924 (Ranked 229)  
-Completed: 1 (0.05%) (Ranked 312)  
+Progressed: 1,926 (Ranked 229)  
+Completed: 1 (0.05%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -217,6 +217,7 @@ Completed: 1 (0.05%) (Ranked 312)
 | 2023-11-25 | 1,915 | 1 |
 | 2023-11-26 | 1,919 | 1 |
 | 2023-11-27 | 1,924 | 1 |
+| 2023-11-28 | 1,926 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

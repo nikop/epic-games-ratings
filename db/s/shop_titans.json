@@ -6,7 +6,7 @@
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -7255,9 +7255,9 @@
       "Count": 3786
     }
   ],
-  "EOS_Progressed": 142551,
+  "EOS_Progressed": 142567,
   "EOS_Completed": 279,
-  "EOS_NewPlayers": 1819,
+  "EOS_NewPlayers": 1825,
   "EOS_NewCompleters": 91,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30145,6 +30145,11 @@
       "Time": "2023-11-28T00:03:43.4842839+00:00",
       "NumProgressed": 142551,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-11-28T01:51:22.842351+00:00",
+      "NumProgressed": 142567,
+      "NumCompleted": 279
     }
   ],
   "TotalAchievements": 112,
@@ -30170,9 +30175,9 @@
       "ID": "advlevel03",
       "SetID": "anfd17p",
       "Name": "A Notch Above the Rest",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 2851
     },
     {
       "ID": "advlevel04",
@@ -30324,7 +30329,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8553
+      "UsersEstimate": 8554
     },
     {
       "ID": "chest02",
@@ -30372,7 +30377,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "collection05",
@@ -30388,7 +30393,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8553
+      "UsersEstimate": 8554
     },
     {
       "ID": "commonres02",
@@ -30420,7 +30425,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "craft02",
@@ -30490,9 +30495,9 @@
       "ID": "enchant01",
       "SetID": "anfd17p",
       "Name": "Hidden Potential",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1426
+      "UsersEstimate": 2851
     },
     {
       "ID": "enchant02",
@@ -30532,7 +30537,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "expansion02",
@@ -30740,7 +30745,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "level02",
@@ -30884,7 +30889,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "quest04",
@@ -30914,9 +30919,9 @@
       "ID": "rareres03",
       "SetID": "anfd17p",
       "Name": "Marvels from the World Over",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 855
     },
     {
       "ID": "rudo_a",
@@ -30932,7 +30937,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "sell02",
@@ -30972,7 +30977,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8553
+      "UsersEstimate": 8554
     },
     {
       "ID": "twinenchant01",
@@ -31051,15 +31056,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142551,
+      "Progressed": 142567,
       "Completed": 279
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-27T16:03:08.6604684+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:03:43.4842836+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:51:22.8423507+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-28T00:03:03.5072656+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:03:43.4844889+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:50:53.4592153+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:51:22.8425334+00:00"
 }

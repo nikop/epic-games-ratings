@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Seven Doors | 55.00% | ~12 |
+| Egyptologist | 50.00% | ~11 |
 | Kill the Dead Man | 45.00% | ~10 |
 | Diogenes Syndrome | 45.00% | ~10 |
-| Egyptologist | 45.00% | ~10 |
 | No Fear of the Dark | 41.00% | ~9 |
+| The Last Skull | 41.00% | ~9 |
 | They’re Watching | 36.00% | ~8 |
 | Art Connoisseur | 36.00% | ~8 |
 | Survivor | 36.00% | ~8 |
-| The Last Skull | 36.00% | ~8 |
+| Master of Riddles | 36.00% | ~8 |
 | A Cautious Man Is Worth Two of His Kind | 32.00% | ~7 |
-| Master of Riddles | 32.00% | ~7 |
 | The Witch’s Haunt | 27.00% | ~6 |
 | A Cabin Boy with Potential | 27.00% | ~6 |
 | Trapped in Time | 23.00% | ~5 |
@@ -23,7 +23,7 @@
 | Oh... You didn't think to bring it? | 14.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 547)  
-Completed: 2 (9.09%) (Ranked 45)  
+Completed: 2 (9.09%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

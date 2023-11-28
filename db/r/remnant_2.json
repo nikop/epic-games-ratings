@@ -6,7 +6,7 @@
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -4857,9 +4857,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 229615,
+  "EOS_Progressed": 229652,
   "EOS_Completed": 538,
-  "EOS_NewPlayers": 4907,
+  "EOS_NewPlayers": 4919,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20257,6 +20257,11 @@
       "Time": "2023-11-28T00:09:01.0960975+00:00",
       "NumProgressed": 229615,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-11-28T01:56:48.7401802+00:00",
+      "NumProgressed": 229652,
+      "NumCompleted": 538
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20331,9 +20336,9 @@
       "ID": "Defeat_Final_Boss",
       "SetID": "bkp3b1a",
       "Name": "Forever is a Long Time Coming",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 459
     },
     {
       "ID": "Defeat_Guardian",
@@ -20573,7 +20578,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "Obtain_Traits_B",
@@ -20643,9 +20648,9 @@
       "ID": "Upgrade_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Trait Chaser",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 689
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -20708,13 +20713,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229615,
+      "Progressed": 229652,
       "Completed": 538
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8780,
+      "Progressed": 8817,
       "Completed": 165
     }
   ],
@@ -20722,8 +20727,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-28T00:03:19.9108346+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:09:01.0960972+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:56:48.7401799+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-28T00:03:19.9108351+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:09:01.0962193+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:51:06.0238035+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:56:48.7402742+00:00"
 }

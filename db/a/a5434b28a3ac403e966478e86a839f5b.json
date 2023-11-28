@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.23,
+  "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -1855,6 +1855,11 @@
       "Time": "2023-11-27T06:05:07.3117188+00:00",
       "NumProgressed": 571,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-28T01:53:29.7916468+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1865,9 +1870,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 103
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_eou1",
@@ -1875,7 +1880,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_eou2",
@@ -1891,7 +1896,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_eou4",
@@ -1907,7 +1912,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_eou6",
@@ -1915,7 +1920,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_eou7",
@@ -1931,7 +1936,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_mg2",
@@ -1970,14 +1975,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:06:35.117061+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:53:29.7916464+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.8942797+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:58:44.3207326+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:06:35.1170777+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:46:24.0449796+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:53:29.7916611+00:00"
 }

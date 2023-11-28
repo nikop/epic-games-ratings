@@ -3,9 +3,9 @@
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
@@ -1412,6 +1412,11 @@
       "Time": "2023-11-28T00:03:44.7843904+00:00",
       "NumProgressed": 718,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T01:51:23.691881+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1480,7 +1485,7 @@
       "Name": "Pathfinder",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "CompleteChapter10",
@@ -1496,7 +1501,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CompleteChapter12",
@@ -1568,7 +1573,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "CompleteChapter3",
@@ -1584,7 +1589,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "CompleteChapter5",
@@ -1672,7 +1677,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1719,14 +1724,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:03:44.7843901+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:51:23.6918808+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-28T00:01:18.0232353+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:03:44.7844229+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:48:10.3508644+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:51:23.6919111+00:00"
 }

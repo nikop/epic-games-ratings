@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,570 |
+| Whatever It Takes | 3.00% | ~1,571 |
 | Break A Leg | 2.00% | ~14,536 |
 | Hotel California | 2.00% | ~14,536 |
 | Welcome To Hell-A | 2.00% | ~14,536 |
-| One of Us | 2.00% | ~1,046 |
-| Pork Chopped | 2.00% | ~1,046 |
+| One of Us | 2.00% | ~1,047 |
+| Pork Chopped | 2.00% | ~1,047 |
 | Dr. Reed, I Presume? | 1.00% | ~7,268 |
 | Git Gutte! | 1.00% | ~7,268 |
 | Anger Management | 1.00% | ~7,268 |
@@ -33,10 +33,10 @@ Rating: 4.54 (Ranked 528)
 | Our True Nature | 1.00% | ~7,268 |
 | This is My Weapon | 1.00% | ~7,268 |
 | I Am the Resurrection | 0.90% | ~6,541 |
-| Making Your Mark | 0.80% | ~5,814 |
-| Humanity Distilled | 0.80% | ~5,814 |
-| Max Headroom | 0.80% | ~5,814 |
-| Down with the Sickness | 0.70% | ~5,087 |
+| Making Your Mark | 0.80% | ~5,815 |
+| Humanity Distilled | 0.80% | ~5,815 |
+| Max Headroom | 0.80% | ~5,815 |
+| Down with the Sickness | 0.70% | ~5,088 |
 | Not Even My Final Form | 0.60% | ~4,361 |
 | Jumbo Keyring | 0.60% | ~4,361 |
 | Go, Bobcats! | 0.60% | ~4,361 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,775 (Ranked 21)  
-Completed: 2,443 (0.34%) (Ranked 229)  
+Progressed: 726,818 (Ranked 21)  
+Completed: 2,444 (0.34%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,7 +279,7 @@ Completed: 2,443 (0.34%) (Ranked 229)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 726,775 | 2,443 |
+| 2023-11-28 | 726,818 | 2,444 |
 ## Awards
 Max (Great Boss Battles): 7,760  (Ranked 49)  
 Sum: 11,883 (Ranked 84)  

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -245,7 +245,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7834,
+  "EOS_Progressed": 7835,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -8505,6 +8505,11 @@
       "Time": "2023-11-27T21:08:34.1638771+00:00",
       "NumProgressed": 7834,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-28T01:56:30.0688195+00:00",
+      "NumProgressed": 7835,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8516,7 +8521,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ARRR",
@@ -8683,7 +8688,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7834,
+      "Progressed": 7835,
       "Completed": 34
     }
   ],
@@ -8691,8 +8696,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-22T17:57:52.5029935+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:08:35.5476216+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:56:30.0688191+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:19.2388904+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:57:06.0208538+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:08:35.5476822+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:45:15.9280611+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:56:30.0688788+00:00"
 }

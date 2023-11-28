@@ -1,44 +1,44 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 507)  
+Rating: 4.55 (Ranked 508)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,990 |
-| First Steps | 80.00% | ~35,260 |
-| Control the Shadows | 67.00% | ~29,530 |
-| Tools of the Trade | 63.00% | ~27,767 |
-| Apprentice | 60.00% | ~26,445 |
-| Secret Seeker | 57.00% | ~25,123 |
-| Forge of Assassins | 55.00% | ~24,241 |
-| Revenant | 52.00% | ~22,919 |
-| I don’t Care! | 45.00% | ~19,834 |
-| Bird of Prey | 37.00% | ~16,308 |
-| Engraved with Power | 32.00% | ~14,104 |
-| Lady | 31.00% | ~13,663 |
-| Fashionable Assassin | 27.00% | ~11,900 |
-| Apex Predator | 24.00% | ~10,578 |
-| Soul Reaver | 23.00% | ~10,137 |
-| Embers | 22.00% | ~9,696 |
-| Wall Lizard | 20.00% | ~8,815 |
+| Awakening | 93.00% | ~40,993 |
+| First Steps | 80.00% | ~35,263 |
+| Control the Shadows | 67.00% | ~29,533 |
+| Tools of the Trade | 63.00% | ~27,770 |
+| Apprentice | 60.00% | ~26,447 |
+| Secret Seeker | 57.00% | ~25,125 |
+| Forge of Assassins | 55.00% | ~24,243 |
+| Revenant | 52.00% | ~22,921 |
+| I don’t Care! | 45.00% | ~19,836 |
+| Bird of Prey | 37.00% | ~16,309 |
+| Engraved with Power | 32.00% | ~14,105 |
+| Lady | 31.00% | ~13,664 |
+| Fashionable Assassin | 27.00% | ~11,901 |
+| Apex Predator | 24.00% | ~10,579 |
+| Soul Reaver | 23.00% | ~10,138 |
+| Embers | 22.00% | ~9,697 |
+| Wall Lizard | 20.00% | ~8,816 |
 | Clinging to Life | 18.00% | ~7,934 |
 | Burning | 17.00% | ~7,493 |
-| Look Behind You | 16.00% | ~7,052 |
-| Sleeping on the Job | 16.00% | ~7,052 |
+| Look Behind You | 16.00% | ~7,053 |
+| Sleeping on the Job | 16.00% | ~7,053 |
 | Family | 14.00% | ~6,171 |
 | War Engines | 14.00% | ~6,171 |
 | Signature Move | 14.00% | ~6,171 |
-| Ruse | 11.00% | ~4,848 |
-| Master Ninja | 11.00% | ~4,848 |
+| Ruse | 11.00% | ~4,849 |
+| Master Ninja | 11.00% | ~4,849 |
 | Hatching | 10.00% | ~4,408 |
 | Bonds | 9.00% | ~3,967 |
 | Get Over Here | 9.00% | ~3,967 |
 | The Hidden Village | 9.00% | ~3,967 |
 | Denouement | 8.00% | ~3,526 |
 | A Pleasant Stay | 8.00% | ~3,526 |
-| Pilgrimage | 7.00% | ~3,085 |
+| Pilgrimage | 7.00% | ~3,086 |
 | The Lookout | 5.00% | ~2,204 |
 | The Spirit of Vengeance | 5.00% | ~2,204 |
 | Hollow | 5.00% | ~2,204 |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~882 |
 | Legacy | 2.00% | ~882 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,075 (Ranked 115)  
-Completed: 241 (0.55%) (Ranked 197)  
+Progressed: 44,079 (Ranked 115)  
+Completed: 241 (0.55%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 241 (0.55%) (Ranked 197)
 | 2023-11-25 | 44,028 | 241 |
 | 2023-11-26 | 44,049 | 241 |
 | 2023-11-27 | 44,073 | 241 |
-| 2023-11-28 | 44,075 | 241 |
+| 2023-11-28 | 44,079 | 241 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

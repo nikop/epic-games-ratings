@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 11.00% | ~25 |
+| Trinity | 11.00% | ~26 |
 | Break Out | 10.00% | ~23 |
-| Powerful Allies | 10.00% | ~23 |
-| I Found It | 10.00% | ~23 |
 | Find Allies | 9.00% | ~21 |
+| Powerful Allies | 9.00% | ~21 |
 | Geared Up | 9.00% | ~21 |
 | Scholar | 9.00% | ~21 |
-| A Taste of Wrath | 8.00% | ~18 |
-| Adventurer | 8.00% | ~18 |
-| Big Bazar | 8.00% | ~18 |
-| The Collector | 8.00% | ~18 |
+| I Found It | 9.00% | ~21 |
+| A Taste of Wrath | 8.00% | ~19 |
+| Adventurer | 8.00% | ~19 |
+| Big Bazar | 8.00% | ~19 |
+| The Collector | 8.00% | ~19 |
 | Tributes of Caladrias | 7.00% | ~16 |
 | Shatter Them All | 7.00% | ~16 |
 | Fashion Victim | 7.00% | ~16 |
@@ -23,10 +23,10 @@
 | Alchemist | 5.00% | ~12 |
 | To Battle | 4.00% | ~9 |
 | Godslayer | 4.00% | ~9 |
+| The Mentor | 4.00% | ~9 |
 | Essence Blow | 4.00% | ~9 |
 | Fine Feathers Make Fine Birds | 4.00% | ~9 |
 | Clear Sight | 3.00% | ~7 |
-| The Mentor | 3.00% | ~7 |
 | Airborne | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |
 | Miner | 3.00% | ~7 |
@@ -41,8 +41,8 @@
 | Forgemaster | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 378)  
-Completed: 2 (0.87%) (Ranked 173)  
+Progressed: 232 (Ranked 378)  
+Completed: 2 (0.86%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,3 +90,4 @@ Completed: 2 (0.87%) (Ranked 173)
 | 2023-11-25 | 216 | 2 |
 | 2023-11-26 | 226 | 2 |
 | 2023-11-27 | 230 | 2 |
+| 2023-11-28 | 232 | 2 |

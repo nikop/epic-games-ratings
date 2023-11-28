@@ -13,8 +13,8 @@
 | Armored | 29.00% | ~33 |
 | Amokuali Tower | 28.00% | ~32 |
 | Freedom | 27.00% | ~31 |
+| Winner | 24.00% | ~28 |
 | The Pride of Moozhaw | 23.00% | ~26 |
-| Winner | 23.00% | ~26 |
 | Omnia Vincit Amor | 22.00% | ~25 |
 | Stilt House | 17.00% | ~20 |
 | Corwid Hill | 14.00% | ~16 |
@@ -27,7 +27,7 @@
 | Broken Reflection | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 115 (Ranked 422)  
-Completed: 1 (0.87%) (Ranked 173)  
+Completed: 1 (0.87%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

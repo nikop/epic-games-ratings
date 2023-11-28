@@ -3,9 +3,9 @@
   "Name": "Forest Grove",
   "ProductSlug": "forest-grove-6b05cf",
   "Ranking_EOS_Progress": 600,
-  "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
     "PcReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -149,8 +149,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:05:51.2642031+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:52:57.1636823+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:54.5500161+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:57:00.205006+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:05:51.2642095+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:45:11.2810399+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:52:57.163691+00:00"
 }

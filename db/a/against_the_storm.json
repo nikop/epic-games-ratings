@@ -6,8 +6,8 @@
   "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 3614,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3305,9 +3305,9 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17507,
+  "EOS_Progressed": 17510,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14330,6 +14330,11 @@
       "Time": "2023-11-28T00:08:53.2752254+00:00",
       "NumProgressed": 17507,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-28T01:56:42.8261164+00:00",
+      "NumProgressed": 17510,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14348,9 +14353,9 @@
       "ID": "AllFood",
       "SetID": "cfbk359",
       "Name": "Feeding The People",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "AllNeeds",
@@ -14484,9 +14489,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearDangerous",
@@ -14580,9 +14585,9 @@
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinNearTorrent",
@@ -14740,9 +14745,9 @@
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 105
     },
     {
       "ID": "WinNearFrosts",
@@ -14788,9 +14793,9 @@
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 88
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -14813,15 +14818,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17507,
+      "Progressed": 17510,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-27T19:58:26.3844836+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:08:53.2752248+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:56:42.8261161+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:58:39.325546+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:08:53.2753638+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:46:20.3042315+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:56:42.8262037+00:00"
 }

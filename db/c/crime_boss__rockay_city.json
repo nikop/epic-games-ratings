@@ -6,7 +6,7 @@
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
@@ -4759,10 +4759,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 3117,
       "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-11-28T01:45:43.1930222+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3119,
+      "NumberOfAwardsMax": 545
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3117,
+  "NumberOfAwards": 3119,
   "NumberOfAwardsMax": 545,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4782,7 +4788,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 503
+      "Count": 505
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4821,7 +4827,7 @@
       "Count": 501
     }
   ],
-  "EOS_Progressed": 91616,
+  "EOS_Progressed": 91617,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 1,
@@ -26661,6 +26667,11 @@
       "Time": "2023-11-27T22:03:46.9442904+00:00",
       "NumProgressed": 91616,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-28T01:51:44.0789113+00:00",
+      "NumProgressed": 91617,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -26672,7 +26683,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "ACH_0011",
@@ -26816,7 +26827,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "ACH_0210",
@@ -26824,7 +26835,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "ACH_0211",
@@ -26999,22 +27010,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91616,
+      "Progressed": 91617,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19963,
+      "Progressed": 19964,
       "Completed": 15580
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-27T15:57:40.8300706+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:04:12.363741+00:00",
+  "LastChanged": "2023-11-28T01:45:43.1930221+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:51:44.078911+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:51.3334037+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:57:45.6240431+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:04:12.3638584+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:45:43.1930228+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:51:44.079053+00:00"
 }

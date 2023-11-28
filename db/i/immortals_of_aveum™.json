@@ -6,9 +6,9 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 136,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1566,9 +1566,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_20",
@@ -1622,9 +1622,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_36",
@@ -1710,9 +1710,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_49",
@@ -1863,8 +1863,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-26T15:58:20.3340426+00:00",
-  "LastChanged_Achievements": "2023-11-28T00:09:04.8700406+00:00",
+  "LastChanged_Achievements": "2023-11-28T01:56:51.5400689+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.7077171+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:59:35.405368+00:00",
-  "LastUpdate_Achievements": "2023-11-28T00:09:04.8700721+00:00"
+  "LastUpdate_Ratings": "2023-11-28T01:46:59.9916736+00:00",
+  "LastUpdate_Achievements": "2023-11-28T01:56:51.540111+00:00"
 }
