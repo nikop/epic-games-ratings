@@ -5,32 +5,32 @@ Rating: 4.39 (Ranked 749)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,704 |
-| IT MAKES BOOM! | 7.00% | ~22,084 |
-| EXTRA BOOST | 5.00% | ~15,774 |
-| PROTECTED | 4.00% | ~12,620 |
-| PRO | 4.00% | ~12,620 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,465 |
-| AGGRESSIVE RACER | 3.00% | ~9,465 |
-| A TIGER'S FEAR | 2.00% | ~6,310 |
+| ROOKIE | 11.00% | ~34,708 |
+| IT MAKES BOOM! | 7.00% | ~22,087 |
+| EXTRA BOOST | 5.00% | ~15,776 |
+| PROTECTED | 4.00% | ~12,621 |
+| PRO | 4.00% | ~12,621 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,466 |
+| AGGRESSIVE RACER | 3.00% | ~9,466 |
+| A TIGER'S FEAR | 2.00% | ~6,311 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,155 |
 | ACE SPEEDSTER | 1.00% | ~3,155 |
-| RELEASE THE KRAKEN | 0.90% | ~2,839 |
-| BE OUR GUEST | 0.90% | ~2,839 |
-| MASTER | 0.90% | ~2,839 |
-| LEGENDARY HERO | 0.90% | ~2,839 |
+| RELEASE THE KRAKEN | 0.90% | ~2,840 |
+| BE OUR GUEST | 0.90% | ~2,840 |
+| MASTER | 0.90% | ~2,840 |
+| LEGENDARY HERO | 0.90% | ~2,840 |
 | TRAINING HARD | 0.80% | ~2,524 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,524 |
 | FRIENDLY | 0.80% | ~2,524 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,208 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,209 |
 | EXPERIENCED CREW | 0.60% | ~1,893 |
-| ACE DEFENDER | 0.50% | ~1,577 |
+| ACE DEFENDER | 0.50% | ~1,578 |
 | ACE BRAWLER | 0.40% | ~1,262 |
 | ACE TRICKSTER | 0.40% | ~1,262 |
-| FRAMED! | 0.30% | ~946 |
+| FRAMED! | 0.30% | ~947 |
 | PERFECTLY POISED | 0.20% | ~631 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315,490 (Ranked 52)  
+Progressed: 315,527 (Ranked 52)  
 Completed: 339 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 339 (0.11%) (Ranked 281)
 | 2023-11-25 | 312,443 | 330 |
 | 2023-11-26 | 314,023 | 333 |
 | 2023-11-27 | 315,001 | 338 |
-| 2023-11-28 | 315,490 | 339 |
+| 2023-11-28 | 315,527 | 339 |
 ## Awards
 Max (Great for Beginners): 93  (Ranked 375)  
 Sum: 672 (Ranked 304)  

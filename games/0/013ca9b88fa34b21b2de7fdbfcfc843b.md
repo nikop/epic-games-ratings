@@ -5,31 +5,31 @@ Rating: 4.60 (Ranked 415)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,859 |
-| A Thorny Situation | 71.00% | ~5,778 |
-| ... And Spit Back Out | 61.00% | ~4,964 |
-| Break-Net Speed | 49.00% | ~3,988 |
-| Bramble Breaker | 47.00% | ~3,825 |
-| Miner 49er | 43.00% | ~3,499 |
-| Humble Collector | 42.00% | ~3,418 |
-| Calm Sailing | 37.00% | ~3,011 |
-| Open the Gate! | 34.00% | ~2,767 |
-| Mist Walker | 32.00% | ~2,604 |
-| Lumberjack | 27.00% | ~2,197 |
-| Oui, Chef! | 23.00% | ~1,872 |
-| Clear the Air | 19.00% | ~1,546 |
-| Botanical Breakthrough | 17.00% | ~1,383 |
-| Search for the Hairy Grell | 14.00% | ~1,139 |
-| Beach Comber | 14.00% | ~1,139 |
-| Higher Tax Bracket | 14.00% | ~1,139 |
-| Skilled | 9.00% | ~732 |
+| Azoria Beckons | 72.00% | ~5,862 |
+| A Thorny Situation | 71.00% | ~5,781 |
+| ... And Spit Back Out | 61.00% | ~4,967 |
+| Break-Net Speed | 49.00% | ~3,990 |
+| Bramble Breaker | 47.00% | ~3,827 |
+| Miner 49er | 43.00% | ~3,501 |
+| Humble Collector | 42.00% | ~3,420 |
+| Calm Sailing | 37.00% | ~3,013 |
+| Open the Gate! | 34.00% | ~2,768 |
+| Mist Walker | 32.00% | ~2,605 |
+| Lumberjack | 27.00% | ~2,198 |
+| Oui, Chef! | 23.00% | ~1,873 |
+| Clear the Air | 19.00% | ~1,547 |
+| Botanical Breakthrough | 17.00% | ~1,384 |
+| Search for the Hairy Grell | 14.00% | ~1,140 |
+| Beach Comber | 14.00% | ~1,140 |
+| Higher Tax Bracket | 14.00% | ~1,140 |
+| Skilled | 9.00% | ~733 |
 | Flaming Hot Completos | 8.00% | ~651 |
 | Fae Farmer | 8.00% | ~651 |
 | Got to Catch Them All | 8.00% | ~651 |
 | Rumble in the Jumble | 8.00% | ~651 |
 | Fanatical Farmer | 8.00% | ~651 |
-| Scattered Scroll Scrounger | 6.00% | ~488 |
-| Azorian Anniversary | 6.00% | ~488 |
+| Scattered Scroll Scrounger | 6.00% | ~489 |
+| Azorian Anniversary | 6.00% | ~489 |
 | I Now Pronounce You... | 5.00% | ~407 |
 | Chatty Neighbor | 4.00% | ~326 |
 | Right Tool For the Job | 4.00% | ~326 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 415)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,138 (Ranked 175)  
+Progressed: 8,142 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1 (0.01%) (Ranked 343)
 | 2023-11-25 | 8,050 | 1 |
 | 2023-11-26 | 8,100 | 1 |
 | 2023-11-27 | 8,128 | 1 |
-| 2023-11-28 | 8,138 | 1 |
+| 2023-11-28 | 8,142 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,14 +17,14 @@ Rating: 4.19 (Ranked 926)
 | In the Pipe, Five by Five | 6.00% | ~989 |
 | Desperate Times | 6.00% | ~989 |
 | Keep Fighting | 6.00% | ~265 |
-| You Need a Gun | 5.00% | ~824 |
-| I Do Belong Here | 5.00% | ~824 |
-| If the SHU Fits... | 5.00% | ~824 |
-| Without A Paddle | 5.00% | ~824 |
-| What Lies Beneath | 5.00% | ~824 |
-| Crash Site | 5.00% | ~824 |
-| Full Circle | 5.00% | ~824 |
-| Power Up | 5.00% | ~824 |
+| You Need a Gun | 5.00% | ~825 |
+| I Do Belong Here | 5.00% | ~825 |
+| If the SHU Fits... | 5.00% | ~825 |
+| Without A Paddle | 5.00% | ~825 |
+| What Lies Beneath | 5.00% | ~825 |
+| Crash Site | 5.00% | ~825 |
+| Full Circle | 5.00% | ~825 |
+| Power Up | 5.00% | ~825 |
 | Giving Back | 4.00% | ~660 |
 | Terminated | 4.00% | ~660 |
 | It's Time | 4.00% | ~177 |
@@ -38,8 +38,8 @@ Rating: 4.19 (Ranked 926)
 | Grim Reaper | 0.70% | ~115 |
 | Parole Denied | 0.70% | ~31 |
 | Mugshot | 0.60% | ~99 |
-| Instigator | 0.60% | ~26 |
-| Quick Pick | 0.60% | ~26 |
+| Instigator | 0.60% | ~27 |
+| Quick Pick | 0.60% | ~27 |
 | Subject Alpha | 0.40% | ~18 |
 | Don't Let It Mellow | 0.30% | ~13 |
 | The Protocol is About Life | 0.20% | ~33 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 926)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,490 (Ranked 149)  
+Progressed: 16,491 (Ranked 149)  
 Completed: 81 (0.49%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 81 (0.49%) (Ranked 207)
 | 2023-11-25 | 16,482 | 80 |
 | 2023-11-26 | 16,487 | 81 |
 | 2023-11-27 | 16,488 | 81 |
-| 2023-11-28 | 16,490 | 81 |
+| 2023-11-28 | 16,491 | 81 |
 ## Awards
 Max (Highly Recommended): 83  (Ranked 388)  
 Sum: 488 (Ranked 328)  

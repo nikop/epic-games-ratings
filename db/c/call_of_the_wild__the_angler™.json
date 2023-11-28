@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -931,9 +931,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6699,
+  "EOS_Progressed": 6700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10596,6 +10596,11 @@
       "Time": "2023-11-28T13:08:46.2874263+00:00",
       "NumProgressed": 6699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T15:03:57.0962353+00:00",
+      "NumProgressed": 6700,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10765,9 +10770,9 @@
       "ID": "ACHIEVEMENT_021",
       "SetID": "1a05lfd",
       "Name": "I\u0027m Hooked!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -10926,13 +10931,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6699,
+      "Progressed": 6700,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6071,
+      "Progressed": 6072,
       "Completed": 113
     }
   ],
@@ -10940,8 +10945,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-25T22:58:05.6860746+00:00",
-  "LastChanged_Achievements": "2023-11-28T14:03:55.2497091+00:00",
+  "LastChanged_Achievements": "2023-11-28T15:03:57.096235+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.1325852+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:59:30.3572329+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:03:55.2497894+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:59:34.1156627+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:03:57.0963325+00:00"
 }

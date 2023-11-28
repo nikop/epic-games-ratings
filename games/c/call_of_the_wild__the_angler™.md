@@ -19,7 +19,7 @@ Number of Ratings: 281  (23.09.2022)
 | Goldfish? | 1.00% | ~67 |
 | Going for Gold | 1.00% | ~67 |
 | School's Out for Summer | 1.00% | ~67 |
-| I'm Hooked! | 0.90% | ~60 |
+| I'm Hooked! | 1.00% | ~67 |
 | I'm the Captain Now | 0.40% | ~27 |
 | Marathon | 0.40% | ~27 |
 | Diamond in the Rough | 0.40% | ~27 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,699 (Ranked 183)  
+Progressed: 6,700 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 6,666 | 0 |
 | 2023-11-26 | 6,682 | 0 |
 | 2023-11-27 | 6,695 | 0 |
-| 2023-11-28 | 6,699 | 0 |
+| 2023-11-28 | 6,700 | 0 |
 ## Awards
 Max (Relaxing): 37  (Ranked 467)  
 Sum: 197 (Ranked 401)  

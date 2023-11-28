@@ -6,7 +6,7 @@ Number of Ratings: 216  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~155,304 |
+| Midnight Drifter | 10.00% | ~155,305 |
 | Good Skills | 9.00% | ~139,774 |
 | Multiplier Master | 9.00% | ~139,774 |
 | Maverick | 7.00% | ~108,713 |
@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,212 |
 | The Completionist | 0.10% | ~1,553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,553,042 (Ranked 8)  
+Progressed: 1,553,048 (Ranked 8)  
 Completed: 734 (0.05%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 734 (0.05%) (Ranked 314)
 | 2023-11-25 | 1,552,617 | 732 |
 | 2023-11-26 | 1,552,821 | 733 |
 | 2023-11-27 | 1,552,962 | 734 |
-| 2023-11-28 | 1,553,042 | 734 |
+| 2023-11-28 | 1,553,048 | 734 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

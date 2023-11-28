@@ -9,8 +9,8 @@
 | For the Horde! | 81.00% | ~394 |
 | Hammer Time, Round Two | 78.00% | ~379 |
 | The Hellwoods | 73.00% | ~355 |
+| The Plains of Strothalm | 68.00% | ~330 |
 | Thalya's Concentrated Fury | 67.00% | ~326 |
-| The Plains of Strothalm | 67.00% | ~326 |
 | Experienced Thalya | 67.00% | ~326 |
 | Bad Elves Go Everywhere | 64.00% | ~311 |
 | Master of Magic | 63.00% | ~306 |
@@ -18,10 +18,10 @@
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~282 |
 | Magic Accidents | 56.00% | ~272 |
 | Trap Master | 55.00% | ~267 |
-| Minions, Minions! | 52.00% | ~253 |
+| Minions, Minions! | 53.00% | ~258 |
 | The Ascent | 49.00% | ~238 |
 | It's Warm and Cozy at Home | 49.00% | ~238 |
-| YOU SHALL NOT PASS! | 44.00% | ~214 |
+| YOU SHALL NOT PASS! | 45.00% | ~219 |
 | Hard Work | 44.00% | ~214 |
 | The Big Eaty | 42.00% | ~204 |
 | Pure Dynamite! | 40.00% | ~194 |
@@ -41,7 +41,7 @@
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~97 |
 | If Looks Could Kill | 20.00% | ~97 |
 | The Finitude Drill | 18.00% | ~87 |
-| Stop Tanos! | 16.00% | ~78 |
+| Stop Tanos! | 17.00% | ~83 |
 | Doom Hill | 16.00% | ~78 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~73 |
 | Brimstone Shaken, Not Stirred | 15.00% | ~73 |
@@ -49,7 +49,7 @@
 | Bonus Evilness | 13.00% | ~63 |
 | Raiders of the Lost Stone | 13.00% | ~63 |
 | The Rune Sockets of Finitude (Part 1) | 13.00% | ~63 |
-| My Little Torture Chamber | 11.00% | ~53 |
+| My Little Torture Chamber | 12.00% | ~58 |
 | Lavalumps on Ice! | 11.00% | ~53 |
 | The Rune Sockets of Finitude (Part 2) | 11.00% | ~53 |
 | Rubble and Ashes | 10.00% | ~49 |
@@ -59,8 +59,8 @@
 | Mirror, Mirror | 8.00% | ~39 |
 | Untouchable | 8.00% | ~39 |
 | Gorgu is in the Best of Health | 7.00% | ~34 |
+| Laser Eyes Are So Useless | 7.00% | ~34 |
 | Evilification | 7.00% | ~34 |
-| Laser Eyes Are So Useless | 6.00% | ~29 |
 | Heal Heal Blessing | 6.00% | ~29 |
 | No Mana, No Cry | 5.00% | ~24 |
 | Hands Off My Stones | 5.00% | ~24 |

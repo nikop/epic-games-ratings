@@ -1,35 +1,35 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 310)  
+Rating: 4.65 (Ranked 311)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,756,628 |
-| Easy to forget | 46.00% | ~1,649,080 |
-| Back in the black | 39.00% | ~1,398,133 |
-| That's what I'm talking about | 29.00% | ~1,039,637 |
-| The Best of Both Worlds | 25.00% | ~896,239 |
-| Get your wings | 20.00% | ~716,991 |
-| Double trouble | 16.00% | ~573,593 |
-| Smashing it | 11.00% | ~394,345 |
-| But can it run Crysis? | 9.00% | ~322,646 |
-| My favourite feature... | 9.00% | ~322,646 |
-| From humble beginnings... | 7.00% | ~250,947 |
-| Customer satisfaction | 7.00% | ~250,947 |
-| Keeping things neat | 4.00% | ~143,398 |
-| Seems you're pretty good at this | 4.00% | ~143,398 |
-| Bending over backwards | 4.00% | ~143,398 |
+| You need to plug it in... | 49.00% | ~1,756,639 |
+| Easy to forget | 46.00% | ~1,649,090 |
+| Back in the black | 39.00% | ~1,398,141 |
+| That's what I'm talking about | 29.00% | ~1,039,644 |
+| The Best of Both Worlds | 25.00% | ~896,244 |
+| Get your wings | 20.00% | ~716,996 |
+| Double trouble | 16.00% | ~573,596 |
+| Smashing it | 11.00% | ~394,348 |
+| But can it run Crysis? | 9.00% | ~322,648 |
+| My favourite feature... | 9.00% | ~322,648 |
+| From humble beginnings... | 7.00% | ~250,948 |
+| Customer satisfaction | 7.00% | ~250,948 |
+| Keeping things neat | 4.00% | ~143,399 |
+| Seems you're pretty good at this | 4.00% | ~143,399 |
+| Bending over backwards | 4.00% | ~143,399 |
 | Triple threat | 3.00% | ~107,549 |
 | You rock at this! | 3.00% | ~107,549 |
 | Your music sucks | 3.00% | ~107,549 |
-| I'm broke, Uncle! | 2.00% | ~71,699 |
-| Maybe you should try something else? | 2.00% | ~71,699 |
-| Taking care of business | 2.00% | ~71,699 |
-| Things are under control | 2.00% | ~71,699 |
-| Perfection | 2.00% | ~71,699 |
-| Calling in Sick | 2.00% | ~71,699 |
+| I'm broke, Uncle! | 2.00% | ~71,700 |
+| Maybe you should try something else? | 2.00% | ~71,700 |
+| Taking care of business | 2.00% | ~71,700 |
+| Things are under control | 2.00% | ~71,700 |
+| Perfection | 2.00% | ~71,700 |
+| Calling in Sick | 2.00% | ~71,700 |
 | Overvolted | 1.00% | ~35,850 |
 | If you fail the first time... | 1.00% | ~35,850 |
 | Amazonian | 1.00% | ~35,850 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,585 |
 | Treat yourself - GPU | 0.10% | ~3,585 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,584,956 (Ranked 5)  
+Progressed: 3,584,978 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 39 (0.00%) (Ranked 363)
 | 2023-11-25 | 3,584,032 | 39 |
 | 2023-11-26 | 3,584,453 | 39 |
 | 2023-11-27 | 3,584,794 | 39 |
-| 2023-11-28 | 3,584,956 | 39 |
+| 2023-11-28 | 3,584,978 | 39 |
 ## Awards
 Max (Great for Beginners): 1,110  (Ranked 144)  
 Sum: 8,161 (Ranked 104)  

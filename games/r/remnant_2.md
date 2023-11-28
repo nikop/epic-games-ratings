@@ -16,6 +16,7 @@ Rating: 4.75 (Ranked 149)
 | Quest for Survival | 0.30% | ~690 |
 | Not a Janitor | 0.30% | ~690 |
 | Familiar Face | 0.30% | ~690 |
+| Duality | 0.30% | ~690 |
 | Boss'n Up | 0.30% | ~690 |
 | Trait Chaser | 0.30% | ~690 |
 | Am I Seeing This? | 0.20% | ~460 |
@@ -29,7 +30,6 @@ Rating: 4.75 (Ranked 149)
 | Madman's Paradise | 0.20% | ~460 |
 | Equal Measures | 0.20% | ~460 |
 | Blue Goddess | 0.20% | ~460 |
-| Duality | 0.20% | ~460 |
 | Top Performer | 0.20% | ~460 |
 | Shhh...It's a Secret | 0.20% | ~460 |
 | Was This Supposed To Happen? | 0.20% | ~460 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 149)
 | Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,930 (Ranked 69)  
-Completed: 539 (0.23%) (Ranked 251)  
+Progressed: 229,979 (Ranked 69)  
+Completed: 540 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,7 +196,7 @@ Completed: 539 (0.23%) (Ranked 251)
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
-| 2023-11-28 | 229,930 | 539 |
+| 2023-11-28 | 229,979 | 540 |
 ## Awards
 Max (Great Boss Battles): 2,498  (Ranked 104)  
 Sum: 6,091 (Ranked 129)  

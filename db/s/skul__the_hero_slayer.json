@@ -5747,9 +5747,9 @@
       "ID": "Manners",
       "SetID": "97dk767",
       "Name": "Rules of Etiquette",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3511
     },
     {
       "ID": "RookieWelcome",
@@ -5835,8 +5835,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-28T05:58:39.0331156+00:00",
-  "LastChanged_Achievements": "2023-11-28T14:04:33.2445651+00:00",
+  "LastChanged_Achievements": "2023-11-28T15:04:35.4462491+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.1005476+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:58:14.0890043+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:04:33.244605+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:58:15.4289244+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:04:35.4463302+00:00"
 }

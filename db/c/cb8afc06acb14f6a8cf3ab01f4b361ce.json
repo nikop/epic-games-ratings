@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -371,9 +371,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 320280,
+  "EOS_Progressed": 320303,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4465,
+  "EOS_NewPlayers": 4456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7631,6 +7631,11 @@
       "Time": "2023-11-28T14:03:30.4690123+00:00",
       "NumProgressed": 320280,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-28T15:03:31.5760704+00:00",
+      "NumProgressed": 320303,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7659,7 +7664,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "S04_BRDC",
@@ -7835,7 +7840,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "S26_CRTA",
@@ -7867,7 +7872,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "S30_DIAMOND",
@@ -7962,7 +7967,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 320280,
+      "Progressed": 320303,
       "Completed": 4
     }
   ],
@@ -7970,8 +7975,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-24T22:57:43.5596717+00:00",
-  "LastChanged_Achievements": "2023-11-28T14:03:30.4690119+00:00",
+  "LastChanged_Achievements": "2023-11-28T15:03:31.5760698+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:59:57.2837337+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:03:30.4690755+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:00:02.1128979+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:03:31.5761357+00:00"
 }

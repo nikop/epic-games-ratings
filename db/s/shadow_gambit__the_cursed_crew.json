@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 965,
+  "EOS_Progressed": 966,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
@@ -3164,6 +3164,11 @@
       "Time": "2023-11-28T14:05:12.3906855+00:00",
       "NumProgressed": 965,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-28T15:05:15.7178294+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3184,7 +3189,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "_03_FinishAct1",
@@ -3192,7 +3197,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3224,7 +3229,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "_08_Completion_10",
@@ -3248,7 +3253,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "_11_Completion_40",
@@ -3256,7 +3261,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "_12_Completion_50",
@@ -3264,7 +3269,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "_13_Completion_60",
@@ -3320,7 +3325,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3336,7 +3341,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -3383,7 +3388,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 965,
+      "Progressed": 966,
       "Completed": 31
     }
   ],
@@ -3391,8 +3396,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-28T14:05:12.390685+00:00",
+  "LastChanged_Achievements": "2023-11-28T15:05:15.717829+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:57:18.5801075+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:05:12.3907206+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:57:17.7813398+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:05:15.7178595+00:00"
 }

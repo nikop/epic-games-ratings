@@ -2,13 +2,13 @@
   "ID": "conanexiles",
   "Name": "Conan Exiles",
   "ProductSlug": "conan-exiles",
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 527,
   "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 482,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
     "PcReleaseDate": "2018-05-08T16:00:00+00:00",
@@ -8188,10 +8188,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10802,
       "NumberOfAwardsMax": 1573
+    },
+    {
+      "Time": "2023-11-28T14:58:27.8550339+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10805,
+      "NumberOfAwardsMax": 1573
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10802,
+  "NumberOfAwards": 10805,
   "NumberOfAwardsMax": 1573,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8223,7 +8229,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1389
+      "Count": 1390
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8235,7 +8241,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1370
+      "Count": 1372
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8261,8 +8267,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-11-28T10:58:14.4426179+00:00",
+  "LastChanged": "2023-11-28T14:58:27.8550337+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:59.0310685+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:58:26.1225975+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:04:20.984584+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:58:27.8550343+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:04:22.9193958+00:00"
 }

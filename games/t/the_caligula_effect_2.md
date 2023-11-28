@@ -6,25 +6,25 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 98.00% | ~235 |
-| Daily Life Begins Anew | 82.00% | ~197 |
-| Our World Now | 81.00% | ~194 |
-| Never Saw It Coming | 67.00% | ~161 |
-| Coup de Grace | 58.00% | ~139 |
+| Welcome to Redo | 98.00% | ~236 |
+| Daily Life Begins Anew | 81.00% | ~195 |
+| Our World Now | 81.00% | ~195 |
+| Never Saw It Coming | 66.00% | ~159 |
+| Coup de Grace | 58.00% | ~140 |
 | Go-Home Club Activities START! | 49.00% | ~118 |
 | Philanthropist | 39.00% | ~94 |
 | Test Your Luck | 34.00% | ~82 |
-| Behind the Curtain | 33.00% | ~79 |
-| Master of Surprise | 30.00% | ~72 |
+| Behind the Curtain | 33.00% | ~80 |
+| Master of Surprise | 29.00% | ~70 |
 | Be Who You Wanna Be | 27.00% | ~65 |
-| Investment Ban-χ-ing | 25.00% | ~60 |
 | Counter Champion | 25.00% | ~60 |
 | Friendly Neighborhood | 24.00% | ~58 |
+| Investment Ban-χ-ing | 24.00% | ~58 |
 | Combo Commando | 24.00% | ~58 |
 | One-Track Mind | 23.00% | ~55 |
 | Nice Doing Business | 23.00% | ~55 |
 | Stay Winning | 23.00% | ~55 |
-| WIRE Guru | 21.00% | ~50 |
+| WIRE Guru | 21.00% | ~51 |
 | The Greater Good | 20.00% | ~48 |
 | Depths of the Heart | 20.00% | ~48 |
 | Selfish Decisions | 19.00% | ~46 |
@@ -35,20 +35,20 @@ Number of Ratings: 32  (23.09.2022)
 | Hopes Rewarded | 17.00% | ~41 |
 | Guarding Guru | 17.00% | ~41 |
 | Hustled and Bustled | 12.00% | ~29 |
-| To Each Their Own | 11.00% | ~26 |
+| To Each Their Own | 11.00% | ~27 |
 | Eat Your Heart Out | 10.00% | ~24 |
 | Extra! Extra! Journalism Club Showdown | 9.00% | ~22 |
 | Redo Redone | 8.00% | ~19 |
-| The Part-Time Tyrant | 8.00% | ~19 |
-| Prince of Lettuce | 8.00% | ~19 |
 | Love, Loss, and the Omega Nebula | 8.00% | ~19 |
+| The Part-Time Tyrant | 7.00% | ~17 |
+| Prince of Lettuce | 7.00% | ~17 |
 | Songstress Unleashed | 7.00% | ~17 |
 | Executive Privilege | 6.00% | ~14 |
 | For the Love of Regret | 4.00% | ~10 |
 | Building Bridges | 3.00% | ~7 |
-| Birth of a Salesman | 3.00% | ~7 |
 | To the Other Side | 2.00% | ~5 |
 | From Nurse to Worse | 2.00% | ~5 |
+| Birth of a Salesman | 2.00% | ~5 |
 | Group Therapy | 2.00% | ~5 |
 | χ Signature | 2.00% | ~5 |
 | World Peace | 1.00% | ~2 |
@@ -56,7 +56,7 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 374)  
+Progressed: 241 (Ranked 374)  
 Completed: 2 (0.83%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 2 (0.83%) (Ranked 179)
 | 2023-10-21 | 237 | 2 |
 | 2023-11-22 | 238 | 2 |
 | 2023-11-23 | 240 | 2 |
+| 2023-11-28 | 241 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

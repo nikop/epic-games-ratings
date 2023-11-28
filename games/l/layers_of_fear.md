@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 79.00% | ~72 |
+| Wanderer | 80.00% | ~73 |
 | Something important | 77.00% | ~70 |
 | A piece of the story | 59.00% | ~54 |
 | It's covered up for a reason | 44.00% | ~40 |
@@ -17,8 +17,8 @@
 | Face your fears | 23.00% | ~21 |
 | Playtime | 13.00% | ~12 |
 | Tough conversation | 13.00% | ~12 |
+| Whispers long forgotten | 13.00% | ~12 |
 | The tragedy unfolds | 12.00% | ~11 |
-| Whispers long forgotten | 12.00% | ~11 |
 | First steps | 11.00% | ~10 |
 | True Reflection | 11.00% | ~10 |
 | A new way | 10.00% | ~9 |

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,296 |
+| New Recruit | 89.00% | ~1,297 |
 | Off to a good start | 67.00% | ~976 |
 | Do... or do not. There is no try | 50.00% | ~728 |
-| A good blaster at your side | 31.00% | ~451 |
+| A good blaster at your side | 31.00% | ~452 |
 | I suggest a new strategy | 19.00% | ~277 |
 | Scrap collector | 18.00% | ~262 |
 | All right, I'll give it a try | 17.00% | ~248 |
@@ -19,8 +19,8 @@
 | Tell Jabba that I've got his money | 9.00% | ~131 |
 | Best star-pilot in the galaxy | 9.00% | ~131 |
 | Survivor | 9.00% | ~131 |
-| Never tell me the odds! | 8.00% | ~116 |
-| A cunning warrior | 8.00% | ~116 |
+| Never tell me the odds! | 8.00% | ~117 |
+| A cunning warrior | 8.00% | ~117 |
 | What's the cargo? | 7.00% | ~102 |
 | Impressive. Most impressive. | 6.00% | ~87 |
 | Judge me by my size, do you? | 6.00% | ~87 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,456 (Ranked 242)  
+Progressed: 1,457 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 1 (0.07%) (Ranked 302)
 | 2023-11-25 | 1,421 | 1 |
 | 2023-11-26 | 1,444 | 1 |
 | 2023-11-27 | 1,451 | 1 |
-| 2023-11-28 | 1,456 | 1 |
+| 2023-11-28 | 1,457 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

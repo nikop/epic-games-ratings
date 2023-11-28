@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115346,
+  "EOS_Progressed": 115347,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19439,6 +19439,11 @@
       "Time": "2023-11-28T14:09:13.7414952+00:00",
       "NumProgressed": 115346,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-28T15:09:19.92229+00:00",
+      "NumProgressed": 115347,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -19458,7 +19463,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88816
+      "UsersEstimate": 88817
     },
     {
       "ID": "EAwards_10",
@@ -19546,7 +19551,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55366
+      "UsersEstimate": 55367
     },
     {
       "ID": "EAwards_20",
@@ -19841,7 +19846,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115346,
+      "Progressed": 115347,
       "Completed": 50
     }
   ],
@@ -19849,8 +19854,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-28T14:09:13.7414947+00:00",
+  "LastChanged_Achievements": "2023-11-28T15:09:19.9222632+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.5110707+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:00:23.7785032+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:09:13.741634+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:00:30.5514453+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:09:19.9224279+00:00"
 }

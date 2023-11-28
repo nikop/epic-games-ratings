@@ -1,18 +1,18 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 528)  
+Rating: 4.54 (Ranked 527)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,578 |
-| Break A Leg | 2.00% | ~14,541 |
-| Coup de Grâce | 2.00% | ~14,541 |
-| Hazardous Materials | 2.00% | ~14,541 |
-| Hotel California | 2.00% | ~14,541 |
-| Welcome To Hell-A | 2.00% | ~14,541 |
-| One of Us | 2.00% | ~1,052 |
-| Pork Chopped | 2.00% | ~1,052 |
+| Whatever It Takes | 3.00% | ~1,579 |
+| Break A Leg | 2.00% | ~14,542 |
+| Coup de Grâce | 2.00% | ~14,542 |
+| Hazardous Materials | 2.00% | ~14,542 |
+| Hotel California | 2.00% | ~14,542 |
+| Welcome To Hell-A | 2.00% | ~14,542 |
+| One of Us | 2.00% | ~1,053 |
+| Pork Chopped | 2.00% | ~1,053 |
 | Dr. Reed, I Presume? | 1.00% | ~7,271 |
 | Git Gutte! | 1.00% | ~7,271 |
 | Anger Management | 1.00% | ~7,271 |
@@ -36,15 +36,15 @@ Rating: 4.54 (Ranked 528)
 | Making Your Mark | 0.80% | ~5,817 |
 | Humanity Distilled | 0.80% | ~5,817 |
 | Max Headroom | 0.80% | ~5,817 |
-| Down with the Sickness | 0.70% | ~5,089 |
-| Not Even My Final Form | 0.60% | ~4,362 |
-| Jumbo Keyring | 0.60% | ~4,362 |
-| Go, Bobcats! | 0.60% | ~4,362 |
-| Rising Star | 0.60% | ~4,362 |
-| On Safari | 0.50% | ~3,635 |
-| Smorgasbord | 0.50% | ~3,635 |
-| Internet Famous | 0.50% | ~3,635 |
-| Variety is the Spice of Death | 0.50% | ~3,635 |
+| Down with the Sickness | 0.70% | ~5,090 |
+| Not Even My Final Form | 0.60% | ~4,363 |
+| Jumbo Keyring | 0.60% | ~4,363 |
+| Go, Bobcats! | 0.60% | ~4,363 |
+| Rising Star | 0.60% | ~4,363 |
+| On Safari | 0.50% | ~3,636 |
+| Smorgasbord | 0.50% | ~3,636 |
+| Internet Famous | 0.50% | ~3,636 |
+| Variety is the Spice of Death | 0.50% | ~3,636 |
 | Make it So | 0.40% | ~2,908 |
 | LA Influential | 0.30% | ~2,181 |
 | Sole Survivor | 0.30% | ~2,181 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,070 (Ranked 21)  
+Progressed: 727,105 (Ranked 21)  
 Completed: 2,445 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 2,445 (0.34%) (Ranked 231)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 727,070 | 2,445 |
+| 2023-11-28 | 727,105 | 2,445 |
 ## Awards
 Max (Great Boss Battles): 7,784  (Ranked 49)  
-Sum: 11,912 (Ranked 84)  
+Sum: 11,917 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 500 |
 | This game is Highly Recommended | 484 |
 | This game is Extremely Fun | 483 |
-| This game has Amazing Characters | 441 |
+| This game has Amazing Characters | 446 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -519,4 +519,4 @@ Diff (max vs sum): -35
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
 | 2023-11-27 | 4.54 | 7,760 | 11,883 |
-| 2023-11-28 | 4.54 | 7,784 | 11,912 |
+| 2023-11-28 | 4.54 | 7,784 | 11,917 |

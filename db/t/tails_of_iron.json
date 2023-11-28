@@ -3717,9 +3717,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 969
     },
     {
       "ID": "GetRangedWeapon",
@@ -3797,9 +3797,9 @@
       "ID": "RepairThroneRoom",
       "SetID": "9lj35g4",
       "Name": "Throne Room Fit For A King",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 819
+      "UsersEstimate": 840
     },
     {
       "ID": "RescueBrothers",
@@ -3836,8 +3836,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-28T14:04:19.6895216+00:00",
+  "LastChanged_Achievements": "2023-11-28T15:04:21.7003226+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:00:16.9274737+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:04:19.6895605+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:00:23.4111213+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:04:21.7003595+00:00"
 }

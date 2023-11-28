@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1511,9 +1511,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 16490,
+  "EOS_Progressed": 16491,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9236,6 +9236,11 @@
       "Time": "2023-11-28T13:11:32.1101318+00:00",
       "NumProgressed": 16490,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-28T15:08:10.8821692+00:00",
+      "NumProgressed": 16491,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9271,7 +9276,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "DISARM_ENEMY",
@@ -9311,7 +9316,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -9447,7 +9452,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "STORY_HABITAT",
@@ -9455,7 +9460,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "STORY_HANGAR",
@@ -9471,7 +9476,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -9487,7 +9492,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "STORY_TOWER",
@@ -9495,7 +9500,7 @@
       "Name": "Full Circle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "STORY_TUNNELS",
@@ -9503,7 +9508,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "DISMEMBER_100",
@@ -9519,7 +9524,7 @@
       "Name": "Instigator",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -9615,20 +9620,20 @@
       "Name": "Quick Pick",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16490,
+      "Progressed": 16491,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4416,
+      "Progressed": 4417,
       "Completed": 29
     }
   ],
@@ -9636,8 +9641,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-28T05:03:25.3871299+00:00",
-  "LastChanged_Achievements": "2023-11-28T14:06:25.354868+00:00",
+  "LastChanged_Achievements": "2023-11-28T15:08:10.8821687+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:08.1426858+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:03:03.951049+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:06:25.354937+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:03:00.7448138+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:08:10.882243+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 527,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6943,10 +6943,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11912,
       "NumberOfAwardsMax": 7784
+    },
+    {
+      "Time": "2023-11-28T14:57:38.933427+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11917,
+      "NumberOfAwardsMax": 7784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11912,
+  "NumberOfAwards": 11917,
   "NumberOfAwardsMax": 7784,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6984,7 +6990,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 441
+      "Count": 446
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7005,9 +7011,9 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 727070,
+  "EOS_Progressed": 727105,
   "EOS_Completed": 2445,
-  "EOS_NewPlayers": 5294,
+  "EOS_NewPlayers": 5304,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32430,6 +32436,11 @@
       "Time": "2023-11-28T14:08:22.8865072+00:00",
       "NumProgressed": 727070,
       "NumCompleted": 2445
+    },
+    {
+      "Time": "2023-11-28T15:08:27.4331907+00:00",
+      "NumProgressed": 727105,
+      "NumCompleted": 2445
     }
   ],
   "TotalAchievements": 51,
@@ -32505,7 +32516,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14541
+      "UsersEstimate": 14542
     },
     {
       "ID": "ach_contender",
@@ -32513,7 +32524,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ach_defensive",
@@ -32545,7 +32556,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -32561,7 +32572,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14541
+      "UsersEstimate": 14542
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -32577,7 +32588,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     },
     {
       "ID": "ach_hazardous_materials",
@@ -32585,7 +32596,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14541
+      "UsersEstimate": 14542
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -32601,7 +32612,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14541
+      "UsersEstimate": 14542
     },
     {
       "ID": "ach_impressive_aim",
@@ -32617,7 +32628,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ach_investigator",
@@ -32633,7 +32644,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     },
     {
       "ID": "ach_knock_down",
@@ -32697,7 +32708,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ach_secrets_of_la",
@@ -32745,7 +32756,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     },
     {
       "ID": "ach_thesacrifice",
@@ -32769,7 +32780,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -32777,7 +32788,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14541
+      "UsersEstimate": 14542
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32785,7 +32796,7 @@
       "Name": "Rising Star",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     },
     {
       "ID": "ach_well_trained",
@@ -32801,7 +32812,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ach_dark_magic",
@@ -32809,7 +32820,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "ach_gardening_tools",
@@ -32825,7 +32836,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32848,22 +32859,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727070,
+      "Progressed": 727105,
       "Completed": 2445
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 52612,
+      "Progressed": 52647,
       "Completed": 36611
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-28T13:02:30.5326518+00:00",
-  "LastChanged_Achievements": "2023-11-28T14:08:22.8865066+00:00",
+  "LastChanged": "2023-11-28T14:57:38.9334268+00:00",
+  "LastChanged_Achievements": "2023-11-28T15:08:27.4331902+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:57:39.0295891+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:08:22.8866594+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:57:38.9334277+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:08:27.4333376+00:00"
 }

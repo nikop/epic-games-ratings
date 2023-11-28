@@ -5,13 +5,13 @@ Rating: 4.68 (Ranked 254)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,593 |
-| On the Top Step | 88.00% | ~5,236 |
-| Setting up for Success | 78.00% | ~4,641 |
-| Team Orders | 75.00% | ~4,462 |
-| Engineer | 56.00% | ~3,332 |
+| Getting on the Step | 94.00% | ~5,594 |
+| On the Top Step | 88.00% | ~5,237 |
+| Setting up for Success | 78.00% | ~4,642 |
+| Team Orders | 75.00% | ~4,463 |
+| Engineer | 56.00% | ~3,333 |
 | Familiar Faces | 48.00% | ~2,856 |
-| Sharing the Love | 43.00% | ~2,558 |
+| Sharing the Love | 43.00% | ~2,559 |
 | Going the Extra Mile | 42.00% | ~2,499 |
 | Hitting a Season | 40.00% | ~2,380 |
 | A Dozen Pieces | 34.00% | ~2,023 |
@@ -27,7 +27,7 @@ Rating: 4.68 (Ranked 254)
 | One for the Book | 17.00% | ~1,012 |
 | Proving Them Wrong | 17.00% | ~1,012 |
 | Gathering Dust | 16.00% | ~952 |
-| Oil and Water | 15.00% | ~892 |
+| Oil and Water | 15.00% | ~893 |
 | Lightning Round the World | 14.00% | ~833 |
 | Hitting a Bullseye | 14.00% | ~833 |
 | Spinning Around | 14.00% | ~833 |
@@ -44,8 +44,8 @@ Rating: 4.68 (Ranked 254)
 | Peak Performance | 5.00% | ~298 |
 | Hitting a Century | 4.00% | ~238 |
 | Loyal Bond | 4.00% | ~238 |
-| Seasoned Rookie | 3.00% | ~178 |
-| Wait, I know you? | 3.00% | ~178 |
+| Seasoned Rookie | 3.00% | ~179 |
+| Wait, I know you? | 3.00% | ~179 |
 | Filling in the Gaps | 2.00% | ~119 |
 | Under the Microscope | 1.00% | ~60 |
 | Saturday Night Drama | 1.00% | ~60 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 254)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,950 (Ranked 186)  
+Progressed: 5,951 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 5,910 | 0 |
 | 2023-11-26 | 5,930 | 0 |
 | 2023-11-27 | 5,947 | 0 |
-| 2023-11-28 | 5,950 | 0 |
+| 2023-11-28 | 5,951 | 0 |
 ## Awards
 Max (Diverse Characters): 26  (Ranked 515)  
 Sum: 94 (Ranked 452)  

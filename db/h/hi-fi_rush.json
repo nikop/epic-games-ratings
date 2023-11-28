@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4411,
+  "EOS_Progressed": 4413,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7880,6 +7880,11 @@
       "Time": "2023-11-28T14:04:39.2185866+00:00",
       "NumProgressed": 4411,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-28T15:04:41.7823221+00:00",
+      "NumProgressed": 4413,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7907,7 +7912,7 @@
       "Name": "This will cost you big time",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Ach004",
@@ -7921,9 +7926,9 @@
       "ID": "Ach005",
       "SetID": "12n4k20",
       "Name": "Headliner",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 397
     },
     {
       "ID": "Ach006",
@@ -8131,7 +8136,7 @@
       "Name": "Perfect Parry",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "Ach032",
@@ -8147,7 +8152,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Ach034",
@@ -8267,7 +8272,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "Ach049",
@@ -8458,13 +8463,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4411,
+      "Progressed": 4413,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2932,
+      "Progressed": 2934,
       "Completed": 1930
     }
   ],
@@ -8472,8 +8477,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-28T14:04:39.2185861+00:00",
+  "LastChanged_Achievements": "2023-11-28T15:04:41.7823214+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:57:24.9490455+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:04:39.2186924+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:57:24.3774582+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:04:41.7824134+00:00"
 }

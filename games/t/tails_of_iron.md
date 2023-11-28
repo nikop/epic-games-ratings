@@ -18,10 +18,10 @@ Rating: 4.55 (Ranked 507)
 | Defeat 25 Mozis | 47.00% | ~1,012 |
 | Collect Gold | 46.00% | ~991 |
 | Smithy Ready to Craft | 46.00% | ~991 |
-| Fix the Travellers Wagon | 44.00% | ~948 |
+| Fix the Travellers Wagon | 45.00% | ~969 |
 | Complete Elder Faction | 42.00% | ~905 |
+| Throne Room Fit For A King | 39.00% | ~840 |
 | End of the Mozis | 38.00% | ~819 |
-| Throne Room Fit For A King | 38.00% | ~819 |
 | Meet the Creatures from the Deep | 36.00% | ~775 |
 | Return Power To The Depths | 36.00% | ~775 |
 | Defeat Ratnor Rodentson | 30.00% | ~646 |

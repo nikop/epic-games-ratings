@@ -33,15 +33,15 @@
 | Employee of the year | 59.00% | ~208 |
 | Little hacker | 58.00% | ~205 |
 | Intriguing candies | 57.00% | ~201 |
-| Legal courier | 55.00% | ~194 |
+| Legal courier | 56.00% | ~198 |
 | Extreme neuropower! | 55.00% | ~194 |
 | Escaped from a big trouble | 52.00% | ~184 |
 | Now you are worthy | 49.00% | ~173 |
 | Fight is life | 47.00% | ~166 |
 | Mysterious voice | 47.00% | ~166 |
 | Guiding on the right path | 46.00% | ~162 |
+| No blades in the gym | 45.00% | ~159 |
 | Champion – no way back | 44.00% | ~155 |
-| No blades in the gym | 44.00% | ~155 |
 | Underground dwellers | 42.00% | ~148 |
 | Responsible approach | 42.00% | ~148 |
 | Deal with life | 41.00% | ~145 |

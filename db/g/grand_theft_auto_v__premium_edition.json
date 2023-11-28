@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 482,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9779,10 +9779,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1815944,
       "NumberOfAwardsMax": 265823
+    },
+    {
+      "Time": "2023-11-28T14:59:31.248699+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1816820,
+      "NumberOfAwardsMax": 265823
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1815944,
+  "NumberOfAwards": 1816820,
   "NumberOfAwardsMax": 265823,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9790,13 +9796,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 230341
+      "Count": 230631
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 215455
+      "Count": 215747
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9826,7 +9832,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 222041
+      "Count": 222335
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9858,8 +9864,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-11-28T13:04:32.0207347+00:00",
+  "LastChanged": "2023-11-28T14:59:31.2486988+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:25.0674004+00:00",
-  "LastUpdate_Ratings": "2023-11-28T13:59:27.3670152+00:00",
-  "LastUpdate_Achievements": "2023-11-28T14:05:25.5837098+00:00"
+  "LastUpdate_Ratings": "2023-11-28T14:59:31.2486998+00:00",
+  "LastUpdate_Achievements": "2023-11-28T15:05:29.4905992+00:00"
 }

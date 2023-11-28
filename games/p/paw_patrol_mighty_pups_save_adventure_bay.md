@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 78.00% | ~31 |
+| Mighty Powers | 80.00% | ~32 |
 | Grand Re-Opening | 68.00% | ~27 |
-| Pup Pup Boogie | 63.00% | ~25 |
+| Pup Pup Boogie | 65.00% | ~26 |
 | Summer Day | 63.00% | ~25 |
 | Mr. Porter | 53.00% | ~21 |
 | Risky Rescue | 48.00% | ~19 |

@@ -12,20 +12,20 @@ Rating: 4.87 (Ranked 22)
 | Cream of the Crop | 15.00% | ~662 |
 | Thanks for the free chip, Peppermint! | 15.00% | ~662 |
 | You got this, Peppermint? | 14.00% | ~618 |
-| Perfect Parry | 13.00% | ~573 |
-| Alright, that felt AWESOME! | 13.00% | ~573 |
-| This will cost you big time | 12.00% | ~529 |
-| Uh, they were broken when I got here | 12.00% | ~529 |
+| Perfect Parry | 13.00% | ~574 |
+| Alright, that felt AWESOME! | 13.00% | ~574 |
+| This will cost you big time | 12.00% | ~530 |
+| Uh, they were broken when I got here | 12.00% | ~530 |
 | I play my own way! | 11.00% | ~485 |
 | Z-shielding's got nothing on us! | 11.00% | ~485 |
 | Kissing the sky! | 11.00% | ~485 |
 | The Negotiator | 10.00% | ~441 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~441 |
+| Headliner | 9.00% | ~397 |
 | You must like calling me in, Chai | 9.00% | ~397 |
 | Out in a puff of smoke | 9.00% | ~397 |
 | I look cool. But I can look COOLER. | 9.00% | ~397 |
 | Does that say weakpoint? | 9.00% | ~397 |
-| Headliner | 8.00% | ~353 |
 | Time to pay up! | 8.00% | ~353 |
 | Who's the boss now? | 8.00% | ~353 |
 | Perfecter Parry-er! | 8.00% | ~353 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,411 (Ranked 194)  
+Progressed: 4,413 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-25 | 4,346 | 8 |
 | 2023-11-26 | 4,367 | 8 |
 | 2023-11-27 | 4,394 | 8 |
-| 2023-11-28 | 4,411 | 8 |
+| 2023-11-28 | 4,413 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
