@@ -2,12 +2,12 @@
   "ID": "038295c445bb40d1b06545fd75741af1",
   "Name": "Kerbal Space Program 2",
   "ProductSlug": "kerbal-space-program-2",
-  "Ranking_Rating": 941,
+  "Ranking_Rating": 948,
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-02-27T02:15:09.7091153+00:00",
@@ -629,10 +629,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 168,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-11-28T08:02:51.2119415+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 169,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 168,
+  "NumberOfAwards": 169,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -664,7 +670,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Relaxing",
@@ -691,8 +697,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2023-11-26T19:03:35.941251+00:00",
+  "LastChanged": "2023-11-28T08:02:51.2119413+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:18.9561554+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:03:32.5018452+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:06:11.807965+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:02:51.2119417+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:04:42.8342325+00:00"
 }

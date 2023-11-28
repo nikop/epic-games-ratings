@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1800,9 +1800,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 425515,
+  "EOS_Progressed": 425628,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 100953,
+  "EOS_NewPlayers": 100150,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19130,6 +19130,11 @@
       "Time": "2023-11-28T07:06:38.8682478+00:00",
       "NumProgressed": 425515,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-28T08:05:01.9697958+00:00",
+      "NumProgressed": 425628,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 59,
@@ -19141,7 +19146,7 @@
       "Name": "Leader",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 204247
+      "UsersEstimate": 204301
     },
     {
       "ID": "10",
@@ -19149,7 +19154,7 @@
       "Name": "Friendly",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21276
+      "UsersEstimate": 21281
     },
     {
       "ID": "11",
@@ -19157,7 +19162,7 @@
       "Name": "Really Friendly",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "12",
@@ -19173,7 +19178,7 @@
       "Name": "Explorer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 148930
+      "UsersEstimate": 148970
     },
     {
       "ID": "14",
@@ -19181,7 +19186,7 @@
       "Name": "Famous Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76593
+      "UsersEstimate": 76613
     },
     {
       "ID": "15",
@@ -19189,7 +19194,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 59572
+      "UsersEstimate": 59588
     },
     {
       "ID": "16",
@@ -19197,7 +19202,7 @@
       "Name": "Adventurer",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110634
+      "UsersEstimate": 110663
     },
     {
       "ID": "17",
@@ -19205,7 +19210,7 @@
       "Name": "Famous Adventurer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 21276
+      "UsersEstimate": 21281
     },
     {
       "ID": "18",
@@ -19221,7 +19226,7 @@
       "Name": "Healer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157441
+      "UsersEstimate": 157482
     },
     {
       "ID": "2",
@@ -19229,7 +19234,7 @@
       "Name": "Local Leader",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 80848
+      "UsersEstimate": 80869
     },
     {
       "ID": "20",
@@ -19237,7 +19242,7 @@
       "Name": "Famous Healer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 93613
+      "UsersEstimate": 93638
     },
     {
       "ID": "21",
@@ -19245,7 +19250,7 @@
       "Name": "The Great Healer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 68082
+      "UsersEstimate": 68100
     },
     {
       "ID": "22",
@@ -19253,7 +19258,7 @@
       "Name": "First Step",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 357433
+      "UsersEstimate": 357528
     },
     {
       "ID": "23",
@@ -19261,7 +19266,7 @@
       "Name": "New Opportunities",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 80848
+      "UsersEstimate": 80869
     },
     {
       "ID": "24",
@@ -19269,7 +19274,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 17021
+      "UsersEstimate": 17025
     },
     {
       "ID": "25",
@@ -19277,7 +19282,7 @@
       "Name": "Cleaner",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 59572
+      "UsersEstimate": 59588
     },
     {
       "ID": "26",
@@ -19285,7 +19290,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29786
+      "UsersEstimate": 29794
     },
     {
       "ID": "27",
@@ -19293,7 +19298,7 @@
       "Name": "Energized",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76593
+      "UsersEstimate": 76613
     },
     {
       "ID": "28",
@@ -19301,7 +19306,7 @@
       "Name": "Merchant",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 38296
+      "UsersEstimate": 38307
     },
     {
       "ID": "29",
@@ -19309,7 +19314,7 @@
       "Name": "Trader",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8510
+      "UsersEstimate": 8513
     },
     {
       "ID": "3",
@@ -19317,7 +19322,7 @@
       "Name": "Great Leader",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 42552
+      "UsersEstimate": 42563
     },
     {
       "ID": "30",
@@ -19333,7 +19338,7 @@
       "Name": "Ranch Hand",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "32",
@@ -19349,7 +19354,7 @@
       "Name": "Around the World",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 29786
+      "UsersEstimate": 29794
     },
     {
       "ID": "34",
@@ -19357,7 +19362,7 @@
       "Name": "Ice Lakes",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46807
+      "UsersEstimate": 46819
     },
     {
       "ID": "35",
@@ -19365,7 +19370,7 @@
       "Name": "War Never Changes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 29786
+      "UsersEstimate": 29794
     },
     {
       "ID": "36",
@@ -19373,7 +19378,7 @@
       "Name": "Luxurious Living",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "37",
@@ -19381,7 +19386,7 @@
       "Name": "Spreading Influence",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34041
+      "UsersEstimate": 34050
     },
     {
       "ID": "38",
@@ -19389,7 +19394,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 114889
+      "UsersEstimate": 114920
     },
     {
       "ID": "39",
@@ -19397,7 +19402,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 38296
+      "UsersEstimate": 38307
     },
     {
       "ID": "4",
@@ -19405,7 +19410,7 @@
       "Name": "Catastrofan",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 68082
+      "UsersEstimate": 68100
     },
     {
       "ID": "40",
@@ -19413,7 +19418,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12765
+      "UsersEstimate": 12769
     },
     {
       "ID": "41",
@@ -19421,7 +19426,7 @@
       "Name": "New Eden",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8510
+      "UsersEstimate": 8513
     },
     {
       "ID": "42",
@@ -19437,7 +19442,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 25531
+      "UsersEstimate": 25538
     },
     {
       "ID": "44",
@@ -19453,7 +19458,7 @@
       "Name": "Look, no Hands!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8510
+      "UsersEstimate": 8513
     },
     {
       "ID": "46",
@@ -19461,7 +19466,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 51062
+      "UsersEstimate": 51075
     },
     {
       "ID": "47",
@@ -19469,7 +19474,7 @@
       "Name": "The Long Haul",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 68082
+      "UsersEstimate": 68100
     },
     {
       "ID": "48",
@@ -19477,7 +19482,7 @@
       "Name": "Feng Shui",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "49",
@@ -19485,7 +19490,7 @@
       "Name": "Mentor",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46807
+      "UsersEstimate": 46819
     },
     {
       "ID": "5",
@@ -19493,7 +19498,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 21276
+      "UsersEstimate": 21281
     },
     {
       "ID": "50",
@@ -19501,7 +19506,7 @@
       "Name": "Bookworm",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 25531
+      "UsersEstimate": 25538
     },
     {
       "ID": "51",
@@ -19509,7 +19514,7 @@
       "Name": "Sky Burial",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34041
+      "UsersEstimate": 34050
     },
     {
       "ID": "52",
@@ -19517,7 +19522,7 @@
       "Name": "A Closer Look",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "53",
@@ -19525,7 +19530,7 @@
       "Name": "Amped Up",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8510
+      "UsersEstimate": 8513
     },
     {
       "ID": "54",
@@ -19533,7 +19538,7 @@
       "Name": "Top Notch",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46807
+      "UsersEstimate": 46819
     },
     {
       "ID": "55",
@@ -19565,7 +19570,7 @@
       "Name": "Tailored to fit",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "59",
@@ -19581,7 +19586,7 @@
       "Name": "Biggest Catastrofan",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "7",
@@ -19589,7 +19594,7 @@
       "Name": "Survivor",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76593
+      "UsersEstimate": 76613
     },
     {
       "ID": "8",
@@ -19597,7 +19602,7 @@
       "Name": "Real Survivor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 42552
+      "UsersEstimate": 42563
     },
     {
       "ID": "9",
@@ -19605,22 +19610,22 @@
       "Name": "True Survivor",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     }
   ],
   "AchievementSets": [
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 425515,
+      "Progressed": 425628,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-28T05:57:23.965179+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:06:38.8682473+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:05:01.9697954+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.5676001+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:57:09.5827937+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:06:38.8684644+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:57:00.3333965+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:05:01.9698896+00:00"
 }

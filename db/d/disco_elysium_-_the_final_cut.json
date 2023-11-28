@@ -1508,9 +1508,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131340,
+  "EOS_Progressed": 131341,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23193,6 +23193,11 @@
       "Time": "2023-11-28T06:08:22.4383161+00:00",
       "NumProgressed": 131340,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-28T08:06:04.9620711+00:00",
+      "NumProgressed": 131341,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23308,7 +23313,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21014
+      "UsersEstimate": 21015
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -23316,7 +23321,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27581
+      "UsersEstimate": 27582
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -23340,7 +23345,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21014
+      "UsersEstimate": 21015
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -23348,7 +23353,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14447
+      "UsersEstimate": 14448
     },
     {
       "ID": "ACH_CUNO",
@@ -23523,15 +23528,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131340,
+      "Progressed": 131341,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-27T11:59:25.2910786+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:08:08.5075277+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:06:04.9620707+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:00:02.5375667+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:08:08.5077917+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:58:53.3542169+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:06:04.9621695+00:00"
 }

@@ -557,9 +557,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AstralSeeker",
@@ -829,9 +829,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1260,8 +1260,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:07:10.4096489+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:05:24.0296371+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:57:15.1651958+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:07:10.4098286+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:57:03.8326752+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:05:24.0297302+00:00"
 }

@@ -7,26 +7,26 @@
 | Air Fighter | 84.00% | ~16 |
 | Act of Kindness | 84.00% | ~16 |
 | The Altruist | 74.00% | ~14 |
+| Treasure Hunter | 68.00% | ~13 |
 | Oo-De-Lally | 63.00% | ~12 |
-| Treasure Hunter | 63.00% | ~12 |
+| Watch your Step! | 63.00% | ~12 |
 | Tap Dancing | 58.00% | ~11 |
+| MAX LEVEL | 58.00% | ~11 |
 | Merry Co-operation | 53.00% | ~10 |
-| Watch your Step! | 53.00% | ~10 |
-| Savior | 42.00% | ~8 |
-| MAX LEVEL | 37.00% | ~7 |
+| Savior | 53.00% | ~10 |
+| Spring Board | 37.00% | ~7 |
 | Starry Night | 32.00% | ~6 |
 | Right between the eyes | 32.00% | ~6 |
 | Rebel Unleashed | 32.00% | ~6 |
+| First Aid | 32.00% | ~6 |
+| Merry Go Round | 32.00% | ~6 |
 | Finish Him! | 26.00% | ~5 |
 | Locksley's Tears | 26.00% | ~5 |
 | Assault on the Ram | 26.00% | ~5 |
-| Spring Board | 26.00% | ~5 |
 | Ascending Will | 21.00% | ~4 |
+| Ultra Combo | 21.00% | ~4 |
 | Ultra Rebel Instinct | 21.00% | ~4 |
 | Take Action! | 21.00% | ~4 |
-| First Aid | 21.00% | ~4 |
-| Merry Go Round | 21.00% | ~4 |
-| Ultra Combo | 16.00% | ~3 |
 | The Gang prevails | 16.00% | ~3 |
 | Hidden Experiment | 16.00% | ~3 |
 | Into the Lion's Den | 16.00% | ~3 |
@@ -37,6 +37,7 @@
 | Power of Friendship! | 11.00% | ~2 |
 | Five of Friends | 11.00% | ~2 |
 | Out of the ring | 5.00% | ~1 |
+| Sky High Fighter | 5.00% | ~1 |
 | The Crowkiller | 5.00% | ~1 |
 | A Gest of Robyn Hode | 5.00% | ~1 |
 | Money can not buy happiness | 5.00% | ~1 |
@@ -49,7 +50,6 @@
 | Heroes of Sherwood | 0.00% | ~0 |
 | It belongs in a museum | 0.00% | ~0 |
 | Sherwood Moment 37 | 0.00% | ~0 |
-| Sky High Fighter | 0.00% | ~0 |
 | Only Child | 0.00% | ~0 |
 | The transmuted game | 0.00% | ~0 |
 | The Arsenal | 0.00% | ~0 |

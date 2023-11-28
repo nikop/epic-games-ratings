@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
@@ -4869,9 +4869,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 229750,
+  "EOS_Progressed": 229773,
   "EOS_Completed": 539,
-  "EOS_NewPlayers": 4933,
+  "EOS_NewPlayers": 4942,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20304,6 +20304,11 @@
       "Time": "2023-11-28T07:09:14.3248639+00:00",
       "NumProgressed": 229750,
       "NumCompleted": 539
+    },
+    {
+      "Time": "2023-11-28T08:08:21.470127+00:00",
+      "NumProgressed": 229773,
+      "NumCompleted": 539
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20396,7 +20401,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20500,7 +20505,7 @@
       "Name": "First of Many",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -20716,7 +20721,7 @@
       "Name": "Regicide",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -20732,7 +20737,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -20755,13 +20760,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229750,
+      "Progressed": 229773,
       "Completed": 539
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8915,
+      "Progressed": 8938,
       "Completed": 165
     }
   ],
@@ -20769,8 +20774,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-28T07:03:29.6012255+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:09:14.3248633+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:08:21.4701268+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:03:29.6012261+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:09:14.3250712+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:02:49.3040788+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:08:21.4702267+00:00"
 }

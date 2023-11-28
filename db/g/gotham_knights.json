@@ -4,7 +4,7 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 933,
   "Ranking_Popularity": 98,
-  "Ranking_PopularitySum": 141,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 110,
@@ -4341,10 +4341,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5074,
       "NumberOfAwardsMax": 2977
+    },
+    {
+      "Time": "2023-11-28T07:57:56.652214+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5075,
+      "NumberOfAwardsMax": 2977
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5074,
+  "NumberOfAwards": 5075,
   "NumberOfAwardsMax": 2977,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4370,7 +4376,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 262
+      "Count": 263
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4409,9 +4415,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77334,
+  "EOS_Progressed": 77336,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24239,6 +24245,11 @@
       "Time": "2023-11-28T07:04:23.3986551+00:00",
       "NumProgressed": 77334,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-28T08:03:27.2988906+00:00",
+      "NumProgressed": 77336,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24354,7 +24365,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16240
+      "UsersEstimate": 16241
     },
     {
       "ID": "CLAYFACE_2",
@@ -24394,7 +24405,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -24410,7 +24421,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10053
+      "UsersEstimate": 10054
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -24458,7 +24469,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10053
+      "UsersEstimate": 10054
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -24466,7 +24477,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7733
+      "UsersEstimate": 7734
     },
     {
       "ID": "FREEZE_1",
@@ -24490,7 +24501,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14693
+      "UsersEstimate": 14694
     },
     {
       "ID": "FREEZE_3",
@@ -24554,7 +24565,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 27067
+      "UsersEstimate": 27068
     },
     {
       "ID": "HARLEY_2",
@@ -24578,7 +24589,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12373
+      "UsersEstimate": 12374
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -24594,7 +24605,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38667
+      "UsersEstimate": 38668
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24626,7 +24637,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20880
+      "UsersEstimate": 20881
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -24658,7 +24669,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17013
+      "UsersEstimate": 17014
     },
     {
       "ID": "MYSTERY_04",
@@ -24737,22 +24748,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77334,
+      "Progressed": 77336,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47614,
+      "Progressed": 47616,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-28T02:57:54.9930321+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:04:23.3986545+00:00",
+  "LastChanged": "2023-11-28T07:57:56.6522139+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:03:27.2988903+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:58:34.7722546+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:04:23.3988975+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:57:56.6522145+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:03:27.2990208+00:00"
 }

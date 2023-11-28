@@ -8069,9 +8069,9 @@
       "ID": "Ach026",
       "SetID": "12n4k20",
       "Name": "You must like calling me in, Chai",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 396
     },
     {
       "ID": "Ach027",
@@ -8452,8 +8452,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:05:22.438749+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:04:08.191027+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:57:07.9900649+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:05:22.4389423+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:56:59.3058673+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:04:08.1911103+00:00"
 }

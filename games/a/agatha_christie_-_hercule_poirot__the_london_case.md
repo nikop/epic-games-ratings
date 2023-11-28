@@ -48,8 +48,8 @@
 | A treasured heirloom | 11.00% | ~4 |
 | The Penitent Magdalene | 11.00% | ~4 |
 | A true performance | 11.00% | ~4 |
+| A perilous journey | 9.00% | ~3 |
 | Perkins | 9.00% | ~3 |
-| A perilous journey | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35 (Ranked 521)  
 Completed: 1 (2.86%) (Ranked 109)  

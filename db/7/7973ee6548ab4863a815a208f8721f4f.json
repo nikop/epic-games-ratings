@@ -4,7 +4,7 @@
   "ProductSlug": "grandchase-c03eb2",
   "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-15T02:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T05:56:58.3446483+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:28.8351434+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:01:46.6287781+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:05:45.9385477+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:00:01.3167956+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:04:24.7501619+00:00"
 }

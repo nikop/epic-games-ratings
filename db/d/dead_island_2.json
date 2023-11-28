@@ -6925,10 +6925,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11883,
       "NumberOfAwardsMax": 7760
+    },
+    {
+      "Time": "2023-11-28T07:57:13.5316851+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11886,
+      "NumberOfAwardsMax": 7760
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11883,
+  "NumberOfAwards": 11886,
   "NumberOfAwardsMax": 7760,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6978,7 +6984,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 510
+      "Count": 513
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6987,10 +6993,10 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 726911,
+  "EOS_Progressed": 726923,
   "EOS_Completed": 2444,
-  "EOS_NewPlayers": 5224,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 5227,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32377,6 +32383,11 @@
       "Time": "2023-11-28T07:08:25.7766076+00:00",
       "NumProgressed": 726911,
       "NumCompleted": 2444
+    },
+    {
+      "Time": "2023-11-28T08:06:17.2615178+00:00",
+      "NumProgressed": 726923,
+      "NumCompleted": 2444
     }
   ],
   "TotalAchievements": 51,
@@ -32524,7 +32535,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "ach_hazardous_materials",
@@ -32580,7 +32591,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "ach_knock_down",
@@ -32692,7 +32703,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "ach_thesacrifice",
@@ -32732,7 +32743,7 @@
       "Name": "Rising Star",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "ach_well_trained",
@@ -32795,22 +32806,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726911,
+      "Progressed": 726923,
       "Completed": 2444
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 52453,
+      "Progressed": 52465,
       "Completed": 36611
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-27T23:57:06.9242353+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:08:25.776607+00:00",
+  "LastChanged": "2023-11-28T07:57:13.5316849+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:06:17.2615174+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:57:30.3245274+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:08:25.7768815+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:57:13.5316855+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:06:17.2616522+00:00"
 }

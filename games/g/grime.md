@@ -10,20 +10,20 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 6.00% | ~9,627 |
 | The Hunt | 4.00% | ~6,418 |
 | Ravenous | 4.00% | ~6,418 |
-| Weeper | 3.00% | ~4,813 |
+| Weeper | 3.00% | ~4,814 |
 | Harmless | 2.00% | ~3,209 |
 | Silenced Whispers | 2.00% | ~3,209 |
 | Devourer | 2.00% | ~3,209 |
 | Yank | 2.00% | ~3,209 |
 | Sharpened Vessel | 2.00% | ~3,209 |
-| Shapely | 1.00% | ~1,604 |
+| Shapely | 1.00% | ~1,605 |
 | Scion | 1.00% | ~1,600 |
 | Glare | 1.00% | ~1,600 |
-| Jawcrab | 1.00% | ~1,604 |
-| Jawstag | 1.00% | ~1,604 |
-| Feast | 1.00% | ~1,604 |
-| Watcher | 1.00% | ~1,604 |
-| Predator | 1.00% | ~1,604 |
+| Jawcrab | 1.00% | ~1,605 |
+| Jawstag | 1.00% | ~1,605 |
+| Feast | 1.00% | ~1,605 |
+| Watcher | 1.00% | ~1,605 |
+| Predator | 1.00% | ~1,605 |
 | Assimilation | 0.90% | ~1,444 |
 | Host | 0.90% | ~1,440 |
 | Celebration | 0.90% | ~1,444 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~160 |
 | Touch of Otherwhere | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,449 (Ranked 78)  
+Progressed: 160,453 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 1 (0.00%) (Ranked 362)
 | 2023-11-25 | 160,117 | 1 |
 | 2023-11-26 | 160,290 | 1 |
 | 2023-11-27 | 160,411 | 1 |
-| 2023-11-28 | 160,449 | 1 |
+| 2023-11-28 | 160,453 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 423)  
 Sum: 388 (Ranked 346)  

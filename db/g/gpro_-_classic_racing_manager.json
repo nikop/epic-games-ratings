@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -2381,8 +2381,8 @@
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:10:17.9911506+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:09:06.2401657+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:10.2873616+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:01:35.7665627+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:10:17.9914574+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:59:54.1860857+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:09:06.2404332+00:00"
 }

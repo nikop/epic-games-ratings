@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -765,9 +765,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3923,
+  "EOS_Progressed": 3924,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6150,6 +6150,11 @@
       "Time": "2023-11-28T06:06:44.4529623+00:00",
       "NumProgressed": 3923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T08:04:54.7241564+00:00",
+      "NumProgressed": 3924,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6258,7 +6263,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "achievement_21",
@@ -6322,14 +6327,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3923,
+      "Progressed": 3924,
       "Completed": 0
     }
   ],
@@ -6337,8 +6342,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-28T01:47:14.0748099+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:06:28.6251347+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:04:54.724156+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:00:26.1471637+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:06:28.6251986+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:59:08.579302+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:04:54.7241974+00:00"
 }

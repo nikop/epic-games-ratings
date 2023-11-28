@@ -6,38 +6,38 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~439 |
-| Cowardice | 62.00% | ~400 |
-| NO LIFE IS WORTH SAVING... | 47.00% | ~303 |
-| Eat Lead! | 45.00% | ~290 |
-| The Breaking Point | 44.00% | ~284 |
-| Here Comes the Boom | 42.00% | ~271 |
-| Prospector | 41.00% | ~264 |
+| Explorer | 68.00% | ~440 |
+| Cowardice | 62.00% | ~401 |
+| NO LIFE IS WORTH SAVING... | 47.00% | ~304 |
+| Eat Lead! | 45.00% | ~291 |
+| The Breaking Point | 44.00% | ~285 |
+| Here Comes the Boom | 42.00% | ~272 |
+| Prospector | 41.00% | ~265 |
 | Sniper Wolf | 39.00% | ~252 |
-| Treasure Hunter | 38.00% | ~245 |
-| The Motivation | 38.00% | ~245 |
-| Heroism | 36.00% | ~232 |
-| Collectibles of Chapter I | 34.00% | ~219 |
-| Missing in Action | 34.00% | ~219 |
-| King of Knives | 33.00% | ~213 |
-| Consequences | 32.00% | ~206 |
-| Opportunities | 31.00% | ~200 |
-| The Horror | 29.00% | ~187 |
-| The Difference | 27.00% | ~174 |
+| Treasure Hunter | 38.00% | ~246 |
+| The Motivation | 38.00% | ~246 |
+| Heroism | 35.00% | ~226 |
+| Collectibles of Chapter I | 34.00% | ~220 |
+| Missing in Action | 34.00% | ~220 |
+| King of Knives | 33.00% | ~214 |
+| Consequences | 32.00% | ~207 |
+| Opportunities | 31.00% | ~201 |
+| The Horror | 29.00% | ~188 |
+| The Difference | 27.00% | ~175 |
 | Vengeance | 26.00% | ~168 |
-| It's Just an Accident | 25.00% | ~161 |
-| Broken Hopes | 23.00% | ~148 |
-| Bullseye! | 23.00% | ~148 |
+| It's Just an Accident | 25.00% | ~162 |
+| Broken Hopes | 23.00% | ~149 |
+| Bullseye! | 23.00% | ~149 |
 | Collectibles of Chapter II | 22.00% | ~142 |
 | Sorrow | 20.00% | ~129 |
 | Atonement | 18.00% | ~116 |
 | Food Massacre | 18.00% | ~116 |
-| Helping Hand | 16.00% | ~103 |
+| Helping Hand | 16.00% | ~104 |
 | Without a Second Thought | 15.00% | ~97 |
-| Collectibles of Chapter III | 14.00% | ~90 |
-| Collectibles of Chapter IV | 14.00% | ~90 |
-| Collectibles of Chapter V | 10.00% | ~64 |
-| Tiptoe Around | 10.00% | ~64 |
+| Collectibles of Chapter III | 14.00% | ~91 |
+| Collectibles of Chapter IV | 14.00% | ~91 |
+| Collectibles of Chapter V | 10.00% | ~65 |
+| Tiptoe Around | 10.00% | ~65 |
 | Such is War! | 8.00% | ~52 |
 | Collectibles of Chapter XII | 7.00% | ~45 |
 | Piece of Cake | 7.00% | ~45 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645 (Ranked 291)  
+Progressed: 647 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-25 | 641 | 0 |
 | 2023-11-26 | 644 | 0 |
 | 2023-11-27 | 645 | 0 |
+| 2023-11-28 | 647 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

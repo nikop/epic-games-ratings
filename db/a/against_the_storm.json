@@ -3305,9 +3305,9 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17511,
+  "EOS_Progressed": 17512,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14340,6 +14340,11 @@
       "Time": "2023-11-28T03:08:28.170581+00:00",
       "NumProgressed": 17511,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-28T08:08:15.93512+00:00",
+      "NumProgressed": 17512,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14750,9 +14755,9 @@
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 123
     },
     {
       "ID": "WinNearFrosts",
@@ -14798,9 +14803,9 @@
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 105
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -14823,15 +14828,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17511,
+      "Progressed": 17512,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-27T19:58:26.3844836+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:09:06.5861263+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:08:15.9351196+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:59:05.0251424+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:09:06.586284+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:58:16.6635928+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:08:15.9352181+00:00"
 }

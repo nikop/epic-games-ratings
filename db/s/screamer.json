@@ -4,7 +4,7 @@
   "ProductSlug": "screamer-460080",
   "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-07-15T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.0500544+00:00",
   "LastChanged": "2023-03-31T05:58:47.0500545+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:09.6091631+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:02:43.7659388+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:06:53.4437651+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:00:18.7167198+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:05:12.0681839+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-fall-part-2-unbound",
   "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-03-15T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:21.8778842+00:00",
   "LastChanged": "2023-03-31T05:57:21.8778843+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:11.2285797+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:03:22.6745247+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:06:16.7443463+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:02:44.6493236+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:04:46.2669503+00:00"
 }

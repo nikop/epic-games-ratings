@@ -6,9 +6,9 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -233,11 +233,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154583,
-  "EOS_Completed": 347,
-  "EOS_NewPlayers": 889,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Progressed": 154584,
+  "EOS_Completed": 349,
+  "EOS_NewPlayers": 890,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-06-15T18:00:30.4820704+00:00",
@@ -19693,6 +19693,11 @@
       "Time": "2023-11-28T07:05:45.5901725+00:00",
       "NumProgressed": 154583,
       "NumCompleted": 347
+    },
+    {
+      "Time": "2023-11-28T08:04:24.5700973+00:00",
+      "NumProgressed": 154584,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 31,
@@ -19712,7 +19717,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108208
+      "UsersEstimate": 108209
     },
     {
       "ID": "EAwards_10",
@@ -19728,7 +19733,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32462
+      "UsersEstimate": 32463
     },
     {
       "ID": "EAwards_12",
@@ -19752,7 +19757,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60287
+      "UsersEstimate": 60288
     },
     {
       "ID": "EAwards_15",
@@ -19800,7 +19805,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43283
+      "UsersEstimate": 43284
     },
     {
       "ID": "EAwards_20",
@@ -19864,7 +19869,7 @@
       "Name": "El Savior",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 4637
+      "UsersEstimate": 4638
     },
     {
       "ID": "EAwards_28",
@@ -19880,7 +19885,7 @@
       "Name": "The Devil wears Revenge!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4637
+      "UsersEstimate": 4638
     },
     {
       "ID": "EAwards_3",
@@ -19896,7 +19901,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13912
+      "UsersEstimate": 13913
     },
     {
       "ID": "EAwards_4",
@@ -19904,7 +19909,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23187
+      "UsersEstimate": 23188
     },
     {
       "ID": "EAwards_5",
@@ -19951,16 +19956,16 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 154583,
-      "Completed": 347
+      "Progressed": 154584,
+      "Completed": 349
     }
   ],
   "FirstSeen": "2023-06-15T17:57:10.0099472+00:00",
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:05:45.5901722+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:04:24.5700968+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.3123546+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:01:17.6531113+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:05:45.590452+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:59:43.0239731+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:04:24.5701803+00:00"
 }

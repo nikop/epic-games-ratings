@@ -6,42 +6,42 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 9.00% | ~94,440 |
-| Zealous | 8.00% | ~83,947 |
-| Skillful | 8.00% | ~83,947 |
-| Not half bad | 7.00% | ~73,454 |
-| Apt Survivor | 7.00% | ~73,454 |
-| Make Some Noise | 7.00% | ~73,454 |
-| Handyman | 6.00% | ~62,960 |
-| Survival Treasures | 6.00% | ~62,960 |
-| Sorted | 6.00% | ~62,960 |
-| The Grand Sacrifice | 5.00% | ~52,467 |
-| No one left behind | 5.00% | ~52,467 |
-| Medic | 5.00% | ~52,467 |
-| Bloody Millionaire | 5.00% | ~52,467 |
-| I | 5.00% | ~52,467 |
-| Healthy Obsession | 5.00% | ~52,467 |
-| Resurgence | 5.00% | ~52,467 |
-| Preemptive Strike | 5.00% | ~52,467 |
-| Agonizing Escape | 4.00% | ~41,973 |
-| Backdoor Escape | 4.00% | ~41,973 |
-| I've got your back | 4.00% | ~41,973 |
-| Perfect Escape | 4.00% | ~41,973 |
-| Perfect Killing | 4.00% | ~41,973 |
-| Risk it all | 4.00% | ~41,973 |
-| II | 4.00% | ~41,973 |
-| Engineer | 4.00% | ~41,973 |
-| Wounded Healer | 4.00% | ~41,973 |
-| Close Shave | 4.00% | ~41,973 |
-| Humanitarian | 4.00% | ~41,973 |
-| Escape Artist | 3.00% | ~31,480 |
-| Apt Killer | 3.00% | ~31,480 |
-| Vulture | 3.00% | ~31,480 |
-| III | 3.00% | ~31,480 |
-| First to the Punch | 3.00% | ~31,480 |
-| Operation: Survival | 3.00% | ~31,480 |
-| With Scars to Show | 3.00% | ~31,480 |
-| Second Act | 3.00% | ~31,480 |
+| It wakes | 9.00% | ~94,443 |
+| Zealous | 8.00% | ~83,949 |
+| Skillful | 8.00% | ~83,949 |
+| Not half bad | 7.00% | ~73,455 |
+| Apt Survivor | 7.00% | ~73,455 |
+| Make Some Noise | 7.00% | ~73,455 |
+| Handyman | 6.00% | ~62,962 |
+| Survival Treasures | 6.00% | ~62,962 |
+| Sorted | 6.00% | ~62,962 |
+| The Grand Sacrifice | 5.00% | ~52,468 |
+| No one left behind | 5.00% | ~52,468 |
+| Medic | 5.00% | ~52,468 |
+| Bloody Millionaire | 5.00% | ~52,468 |
+| I | 5.00% | ~52,468 |
+| Healthy Obsession | 5.00% | ~52,468 |
+| Resurgence | 5.00% | ~52,468 |
+| Preemptive Strike | 5.00% | ~52,468 |
+| Agonizing Escape | 4.00% | ~41,975 |
+| Backdoor Escape | 4.00% | ~41,975 |
+| I've got your back | 4.00% | ~41,975 |
+| Perfect Escape | 4.00% | ~41,975 |
+| Perfect Killing | 4.00% | ~41,975 |
+| Risk it all | 4.00% | ~41,975 |
+| II | 4.00% | ~41,975 |
+| Engineer | 4.00% | ~41,975 |
+| Wounded Healer | 4.00% | ~41,975 |
+| Close Shave | 4.00% | ~41,975 |
+| Humanitarian | 4.00% | ~41,975 |
+| Escape Artist | 3.00% | ~31,481 |
+| Apt Killer | 3.00% | ~31,481 |
+| Vulture | 3.00% | ~31,481 |
+| III | 3.00% | ~31,481 |
+| First to the Punch | 3.00% | ~31,481 |
+| Operation: Survival | 3.00% | ~31,481 |
+| With Scars to Show | 3.00% | ~31,481 |
+| Second Act | 3.00% | ~31,481 |
 | A bite for the Entity | 2.00% | ~20,987 |
 | Blood on your hands | 2.00% | ~20,987 |
 | Blood on your face | 2.00% | ~20,987 |
@@ -77,35 +77,35 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 2.00% | ~20,987 |
 | One More Step | 2.00% | ~20,987 |
 | MU/TH/UR Dearest | 2.00% | ~20,987 |
-| Jump Scares | 1.00% | ~10,493 |
-| Hemophobia | 1.00% | ~10,493 |
-| Deep Cleansing | 1.00% | ~10,493 |
-| Texas BBQ | 1.00% | ~10,493 |
-| Serial Killer | 1.00% | ~10,493 |
-| Happy Holidays | 1.00% | ~10,493 |
-| Game Over | 1.00% | ~10,493 |
-| Party Crasher | 1.00% | ~10,493 |
-| Outrage | 1.00% | ~10,493 |
-| Heavy Burden | 1.00% | ~10,493 |
-| Devoted Gatekeeping | 1.00% | ~10,493 |
-| Shrine Apparatus | 1.00% | ~10,493 |
-| Broken Bodies | 1.00% | ~10,493 |
-| Selfless Survival | 1.00% | ~10,493 |
-| I See You | 1.00% | ~10,493 |
-| End of Days | 1.00% | ~10,493 |
-| Insult and Injury | 1.00% | ~10,493 |
-| Punch Drunk | 1.00% | ~10,493 |
-| Prowler | 1.00% | ~10,493 |
-| Triage | 1.00% | ~10,493 |
-| Outrun the Overlap | 1.00% | ~10,493 |
-| High Speed Pursuit | 1.00% | ~10,493 |
-| Complete the Evolution | 1.00% | ~10,493 |
-| Kitted Out | 1.00% | ~10,493 |
+| Jump Scares | 1.00% | ~10,494 |
+| Hemophobia | 1.00% | ~10,494 |
+| Deep Cleansing | 1.00% | ~10,494 |
+| Texas BBQ | 1.00% | ~10,494 |
+| Serial Killer | 1.00% | ~10,494 |
+| Happy Holidays | 1.00% | ~10,494 |
+| Game Over | 1.00% | ~10,494 |
+| Party Crasher | 1.00% | ~10,494 |
+| Outrage | 1.00% | ~10,494 |
+| Heavy Burden | 1.00% | ~10,494 |
+| Devoted Gatekeeping | 1.00% | ~10,494 |
+| Shrine Apparatus | 1.00% | ~10,494 |
+| Broken Bodies | 1.00% | ~10,494 |
+| Selfless Survival | 1.00% | ~10,494 |
+| I See You | 1.00% | ~10,494 |
+| End of Days | 1.00% | ~10,494 |
+| Insult and Injury | 1.00% | ~10,494 |
+| Punch Drunk | 1.00% | ~10,494 |
+| Prowler | 1.00% | ~10,494 |
+| Triage | 1.00% | ~10,494 |
+| Outrun the Overlap | 1.00% | ~10,494 |
+| High Speed Pursuit | 1.00% | ~10,494 |
+| Complete the Evolution | 1.00% | ~10,494 |
+| Kitted Out | 1.00% | ~10,494 |
 | Blood in your mouth | 0.90% | ~9,444 |
 | Whiffing to Success | 0.90% | ~9,444 |
 | Power Moves | 0.90% | ~9,444 |
-| Looter | 0.70% | ~7,345 |
-| Death of Ignorance | 0.70% | ~7,345 |
+| Looter | 0.70% | ~7,346 |
+| Death of Ignorance | 0.70% | ~7,346 |
 | Denied! | 0.60% | ~6,296 |
 | Viral Video | 0.60% | ~6,296 |
 | Ghost in the Machine | 0.60% | ~6,296 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,049 |
 | Adept Ripley | 0.10% | ~1,049 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,049,337 (Ranked 14)  
+Progressed: 1,049,364 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -458,7 +458,7 @@ Completed: 61 (0.01%) (Ranked 342)
 | 2023-11-25 | 1,044,518 | 60 |
 | 2023-11-26 | 1,047,100 | 60 |
 | 2023-11-27 | 1,048,888 | 61 |
-| 2023-11-28 | 1,049,337 | 61 |
+| 2023-11-28 | 1,049,364 | 61 |
 ## Awards
 Max (Diverse Characters): 36,673  (Ranked 15)  
 Sum: 279,577 (Ranked 12)  

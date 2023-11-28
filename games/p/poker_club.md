@@ -5,19 +5,19 @@ Rating: 3.82 (Ranked 1,031)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~410,569 |
-| Handy | 41.00% | ~221,491 |
-| Cold Caller | 40.00% | ~216,089 |
-| A Bit On The Side | 27.00% | ~145,860 |
+| Pro Creation | 76.00% | ~410,572 |
+| Handy | 41.00% | ~221,493 |
+| Cold Caller | 40.00% | ~216,090 |
+| A Bit On The Side | 27.00% | ~145,861 |
 | Backdoor | 25.00% | ~135,056 |
-| Rank Amateur | 22.00% | ~118,849 |
-| Three Way | 19.00% | ~102,642 |
+| Rank Amateur | 22.00% | ~118,850 |
+| Three Way | 19.00% | ~102,643 |
 | Deadly Assassin | 16.00% | ~86,436 |
-| Gutshot | 14.00% | ~75,631 |
-| Risk It For A Biscuit | 14.00% | ~75,631 |
+| Gutshot | 14.00% | ~75,632 |
+| Risk It For A Biscuit | 14.00% | ~75,632 |
 | Showoff | 13.00% | ~70,229 |
 | W.H.I.P. | 12.00% | ~64,827 |
-| Bet Bet Bet | 10.00% | ~54,022 |
+| Bet Bet Bet | 10.00% | ~54,023 |
 | Blindman's Bluff | 9.00% | ~48,620 |
 | Poker Joker | 9.00% | ~48,620 |
 | Never Give Up | 8.00% | ~43,218 |
@@ -25,13 +25,13 @@ Rating: 3.82 (Ranked 1,031)
 | Total Knock Out | 8.00% | ~43,218 |
 | Dog Eat Dog | 7.00% | ~37,816 |
 | Quack Quack | 7.00% | ~37,816 |
-| Give Your Regards To Broadway | 6.00% | ~32,413 |
+| Give Your Regards To Broadway | 6.00% | ~32,414 |
 | Check Yourself | 4.00% | ~21,609 |
 | Moneymaker | 4.00% | ~21,609 |
 | In The Gang | 3.00% | ~16,207 |
 | On The Button | 3.00% | ~16,207 |
-| Before You Wreck Yourself | 2.00% | ~10,804 |
-| Keep Your Heads Up | 2.00% | ~10,804 |
+| Before You Wreck Yourself | 2.00% | ~10,805 |
+| Keep Your Heads Up | 2.00% | ~10,805 |
 | Bluffing Eh? | 1.00% | ~5,402 |
 | Go For It | 1.00% | ~5,402 |
 | Holding Your Own | 1.00% | ~5,402 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,031)
 | Rounder | 0.10% | ~540 |
 | Top Dog | 0.10% | ~540 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540,222 (Ranked 33)  
+Progressed: 540,226 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2 (0.00%) (Ranked 362)
 | 2023-11-25 | 539,793 | 2 |
 | 2023-11-26 | 540,015 | 2 |
 | 2023-11-27 | 540,176 | 2 |
-| 2023-11-28 | 540,222 | 2 |
+| 2023-11-28 | 540,226 | 2 |
 ## Awards
 Max (Great for Beginners): 62  (Ranked 415)  
 Sum: 182 (Ranked 410)  

@@ -20,8 +20,8 @@
 | Half the way | 19.00% | ~147 |
 | In this together | 18.00% | ~140 |
 | Champollion | 18.00% | ~140 |
+| Open door | 16.00% | ~124 |
 | Feels like springtime | 16.00% | ~124 |
-| Open door | 15.00% | ~116 |
 | Alchemists Express | 15.00% | ~116 |
 | Free at last | 14.00% | ~109 |
 | Rascal | 13.00% | ~101 |

@@ -21,11 +21,11 @@ Rating: 4.57 (Ranked 474)
 | Idiot | 29.00% | ~16 |
 | Beast slayer | 27.00% | ~15 |
 | Ogre friend | 25.00% | ~14 |
+| Hard worker | 25.00% | ~14 |
 | The fourth triplet | 25.00% | ~14 |
 | Master detective | 25.00% | ~14 |
 | Family man | 24.00% | ~13 |
 | Death of a legend | 24.00% | ~13 |
-| Hard worker | 24.00% | ~13 |
 | Peacekeeper | 24.00% | ~13 |
 | Archaeologist | 22.00% | ~12 |
 | Little hero | 22.00% | ~12 |

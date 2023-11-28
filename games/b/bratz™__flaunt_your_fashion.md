@@ -12,12 +12,12 @@
 | Welcome to Seoul | 38.00% | ~26 |
 | We will need a bigger wardrobe | 38.00% | ~26 |
 | Stilesville Hidden Style | 32.00% | ~22 |
+| Creating New Trends | 26.00% | ~18 |
 | Barcelona Hidden Style | 26.00% | ~18 |
-| Creating New Trends | 25.00% | ~17 |
+| Welcome to the The Stylin' Soiree | 26.00% | ~18 |
 | Best Gala Ever | 25.00% | ~17 |
-| Welcome to the The Stylin' Soiree | 25.00% | ~17 |
 | Scooter Race | 19.00% | ~13 |
-| Seoul Hidden Style | 16.00% | ~11 |
+| Seoul Hidden Style | 18.00% | ~12 |
 | Hoverboard Race | 7.00% | ~5 |
 | Trendy Selfies | 3.00% | ~2 |
 | Talented Photographer | 1.00% | ~1 |

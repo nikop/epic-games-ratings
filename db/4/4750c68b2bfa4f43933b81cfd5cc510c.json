@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2115,9 +2115,9 @@
       "Count": 365
     }
   ],
-  "EOS_Progressed": 55178,
+  "EOS_Progressed": 55179,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1758,
+  "EOS_NewPlayers": 1757,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10065,6 +10065,11 @@
       "Time": "2023-11-28T07:08:03.3214396+00:00",
       "NumProgressed": 55178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T08:06:01.3174791+00:00",
+      "NumProgressed": 55179,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -10101,7 +10106,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 34762
+      "UsersEstimate": 34763
     },
     {
       "ID": "achievement_13",
@@ -10109,7 +10114,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 29244
+      "UsersEstimate": 29245
     },
     {
       "ID": "achievement_14",
@@ -10117,7 +10122,7 @@
       "Name": "The Alchemist",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 27589
+      "UsersEstimate": 27590
     },
     {
       "ID": "achievement_15",
@@ -10125,7 +10130,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 27037
+      "UsersEstimate": 27038
     },
     {
       "ID": "achievement_16",
@@ -10141,7 +10146,7 @@
       "Name": "One Moment Please!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 32555
+      "UsersEstimate": 32556
     },
     {
       "ID": "achievement_18",
@@ -10173,7 +10178,7 @@
       "Name": "Record Breaker",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 11587
+      "UsersEstimate": 11588
     },
     {
       "ID": "achievement_21",
@@ -10181,7 +10186,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 45798
+      "UsersEstimate": 45799
     },
     {
       "ID": "achievement_22",
@@ -10197,7 +10202,7 @@
       "Name": "Graduation Day",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 26485
+      "UsersEstimate": 26486
     },
     {
       "ID": "achievement_24",
@@ -10237,7 +10242,7 @@
       "Name": "First of Many",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "achievement_29",
@@ -10269,7 +10274,7 @@
       "Name": "Dazzling Personality",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 11587
+      "UsersEstimate": 11588
     },
     {
       "ID": "achievement_32",
@@ -10365,7 +10370,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 32555
+      "UsersEstimate": 32556
     },
     {
       "ID": "achievement_7",
@@ -10396,7 +10401,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 55178,
+      "Progressed": 55179,
       "Completed": 0
     }
   ],
@@ -10404,8 +10409,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-28T02:58:18.648078+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:08:03.3214392+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:06:01.3174787+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.8436707+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:59:10.6631161+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:08:03.3215705+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:58:20.2903856+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:06:01.3175462+00:00"
 }

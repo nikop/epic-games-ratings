@@ -9142,18 +9142,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 15474,
       "NumberOfAwardsMax": 7437
+    },
+    {
+      "Time": "2023-11-28T07:59:01.2376528+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15480,
+      "NumberOfAwardsMax": 7443
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15474,
-  "NumberOfAwardsMax": 7437,
+  "NumberOfAwards": 15480,
+  "NumberOfAwardsMax": 7443,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7437
+      "Count": 7443
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9222,9 +9228,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66449,
+  "EOS_Progressed": 66453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32602,6 +32608,11 @@
       "Time": "2023-11-28T07:10:19.1096083+00:00",
       "NumProgressed": 66449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T08:09:07.0147992+00:00",
+      "NumProgressed": 66453,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32613,7 +32624,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8638
+      "UsersEstimate": 8639
     },
     {
       "ID": "Apple of my eye",
@@ -32629,7 +32640,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15948
+      "UsersEstimate": 15949
     },
     {
       "ID": "Best served cold",
@@ -32653,7 +32664,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5980
+      "UsersEstimate": 5981
     },
     {
       "ID": "Catch",
@@ -32669,7 +32680,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "Crackshot",
@@ -32685,7 +32696,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "Duelist",
@@ -32709,7 +32720,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "Explorer",
@@ -32733,7 +32744,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "God of the Arena",
@@ -32741,7 +32752,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8638
+      "UsersEstimate": 8639
     },
     {
       "ID": "Great Granny",
@@ -32773,7 +32784,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15948
+      "UsersEstimate": 15949
     },
     {
       "ID": "I can do it",
@@ -32805,7 +32816,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11961
+      "UsersEstimate": 11962
     },
     {
       "ID": "Kingslayer",
@@ -32821,7 +32832,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4651
+      "UsersEstimate": 4652
     },
     {
       "ID": "Lance-a-lot",
@@ -32837,7 +32848,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21928
+      "UsersEstimate": 21929
     },
     {
       "ID": "Lawbringer",
@@ -32845,7 +32856,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26580
+      "UsersEstimate": 26581
     },
     {
       "ID": "Lawmaker",
@@ -32853,7 +32864,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15948
+      "UsersEstimate": 15949
     },
     {
       "ID": "Long live the Empire",
@@ -32861,7 +32872,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "Mastery",
@@ -32893,7 +32904,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "Real Estate",
@@ -32901,7 +32912,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "Ride it like you stole it",
@@ -32965,7 +32976,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12625
+      "UsersEstimate": 12626
     },
     {
       "ID": "This Is Our Land",
@@ -32973,7 +32984,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8638
+      "UsersEstimate": 8639
     },
     {
       "ID": "This is Sparta",
@@ -32989,7 +33000,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15948
+      "UsersEstimate": 15949
     },
     {
       "ID": "Undercover",
@@ -33020,15 +33031,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66449,
+      "Progressed": 66453,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-27T23:59:45.1605647+00:00",
-  "LastChanged_Achievements": "2023-11-28T07:10:19.1096079+00:00",
+  "LastChanged": "2023-11-28T07:59:01.2376526+00:00",
+  "LastChanged_Achievements": "2023-11-28T08:09:07.0147987+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:00:14.7484185+00:00",
-  "LastUpdate_Achievements": "2023-11-28T07:10:19.109842+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:59:01.2376533+00:00",
+  "LastUpdate_Achievements": "2023-11-28T08:09:07.0149085+00:00"
 }
