@@ -34,7 +34,7 @@
 | 32 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.99% |
 | 33 | [laserlemon Production](games/l/laserlemon_production.md) | 12.50% |
 | 33 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 12.50% |
-| 35 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.37% |
+| 35 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.36% |
 | 36 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 11.54% |
 | 37 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 11.29% |
 | 38 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -80,8 +80,8 @@
 | 78 | [ZZT!](games/z/zzt!.md) | 4.62% |
 | 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.56% |
 | 80 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
-| 80 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.55% |
-| 82 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.49% |
+| 81 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
+| 81 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.49% |
 | 83 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 84 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.30% |
 | 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.25% |
@@ -170,8 +170,8 @@
 | 168 | [Trifox](games/t/trifox.md) | 0.96% |
 | 169 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.95% |
 | 170 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
-| 171 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.92% |
-| 172 | [Hades](games/h/hades.md) | 0.91% |
+| 171 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.91% |
+| 171 | [Hades](games/h/hades.md) | 0.91% |
 | 173 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
 | 174 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
 | 174 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
@@ -190,9 +190,9 @@
 | 187 | [Dead Space](games/d/dead_space.md) | 0.64% |
 | 189 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.61% |
 | 190 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
+| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
 | 190 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
-| 192 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.59% |
-| 192 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
+| 193 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 194 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
 | 194 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 194 | [Haven](games/h/haven.md) | 0.58% |
@@ -250,10 +250,10 @@
 | 248 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 248 | [The Invincible](games/t/the_invincible.md) | 0.24% |
 | 250 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
+| 250 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
 | 250 | [Remnant 2](games/r/remnant_2.md) | 0.23% |
 | 250 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.23% |
-| 253 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
-| 253 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.22% |
+| 254 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 255 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 255 | [Scrapnaut](games/s/scrapnaut.md) | 0.21% |
 | 257 | [Blanc](games/b/blanc.md) | 0.20% |
