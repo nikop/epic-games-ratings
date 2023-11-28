@@ -18,7 +18,7 @@ Number of Ratings: 274  (23.09.2022)
 | FASTER THAN EVER | 8.00% | ~18,905 |
 | CHALLENGE THE WORLD | 7.00% | ~16,542 |
 | PHOTOFINISH | 7.00% | ~16,542 |
-| QAREEN | 5.00% | ~11,815 |
+| QAREEN | 5.00% | ~11,816 |
 | SHOWOFF | 4.00% | ~9,452 |
 | TAKATORA | 4.00% | ~9,452 |
 | GILA | 3.00% | ~7,089 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~473 |
 | ENLIGHTENED | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,309 (Ranked 65)  
+Progressed: 236,310 (Ranked 65)  
 Completed: 49 (0.02%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 49 (0.02%) (Ranked 333)
 | 2023-11-25 | 236,178 | 49 |
 | 2023-11-26 | 236,251 | 49 |
 | 2023-11-27 | 236,301 | 49 |
-| 2023-11-28 | 236,309 | 49 |
+| 2023-11-28 | 236,310 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

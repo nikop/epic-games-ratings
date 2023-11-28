@@ -6,17 +6,17 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,319 |
-| Get A Room | 75.00% | ~5,249 |
-| Reap What You Sow | 73.00% | ~5,109 |
-| The First Day | 69.00% | ~4,829 |
-| Green Thumb | 67.00% | ~4,689 |
-| Novice Researcher | 67.00% | ~4,689 |
-| Home Cooked Meal | 61.00% | ~4,269 |
-| Onward | 58.00% | ~4,059 |
-| The First Week | 55.00% | ~3,849 |
-| Beam Me Up | 52.00% | ~3,639 |
-| Studious Researcher | 52.00% | ~3,639 |
+| Having A Field Day | 76.00% | ~5,320 |
+| Get A Room | 75.00% | ~5,250 |
+| Reap What You Sow | 73.00% | ~5,110 |
+| The First Day | 69.00% | ~4,830 |
+| Green Thumb | 67.00% | ~4,690 |
+| Novice Researcher | 67.00% | ~4,690 |
+| Home Cooked Meal | 61.00% | ~4,270 |
+| Onward | 58.00% | ~4,060 |
+| The First Week | 55.00% | ~3,850 |
+| Beam Me Up | 52.00% | ~3,640 |
+| Studious Researcher | 52.00% | ~3,640 |
 | Putting Food on the Table | 47.00% | ~3,290 |
 | Adept Researcher | 45.00% | ~3,150 |
 | Retribution | 42.00% | ~2,940 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~140 |
 | Wabbit Season | 0.50% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,999 (Ranked 181)  
+Progressed: 7,000 (Ranked 181)  
 Completed: 14 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,10 +239,10 @@ Completed: 14 (0.20%) (Ranked 257)
 | 2023-11-25 | 6,928 | 14 |
 | 2023-11-26 | 6,970 | 14 |
 | 2023-11-27 | 6,995 | 14 |
-| 2023-11-28 | 6,999 | 14 |
+| 2023-11-28 | 7,000 | 14 |
 ## Awards
 Max (Great for Beginners): 126  (Ranked 337)  
-Sum: 1,025 (Ranked 260)  
+Sum: 1,026 (Ranked 260)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -254,7 +254,7 @@ Diff (max vs sum): 77
 | This game is Highly Recommended | 104 |
 | This game has Amazing Characters | 97 |
 | This game has Amazing Storytelling | 88 |
-| This game has Unique Visuals | 85 |
+| This game has Unique Visuals | 86 |
 | This game has a Creative Community | 71 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
@@ -419,3 +419,4 @@ Diff (max vs sum): 77
 | 2023-11-23 | 4.60 | - | 125 | 1,020 |
 | 2023-11-25 | 4.60 | - | 125 | 1,024 |
 | 2023-11-26 | 4.60 | - | 126 | 1,025 |
+| 2023-11-28 | 4.60 | - | 126 | 1,026 |

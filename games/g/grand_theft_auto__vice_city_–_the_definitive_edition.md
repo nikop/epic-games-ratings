@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~5,224 |
-| Greasy Palms | 42.00% | ~4,668 |
+| Legal Counsel | 47.00% | ~5,225 |
+| Greasy Palms | 42.00% | ~4,669 |
 | South American Connection | 26.00% | ~2,890 |
-| Life of the Party | 21.00% | ~2,334 |
-| Tommy Two-Wheels | 16.00% | ~1,778 |
-| Big Heat from Little Havana | 15.00% | ~1,667 |
-| Chauffeur | 15.00% | ~1,667 |
+| Life of the Party | 21.00% | ~2,335 |
+| Tommy Two-Wheels | 16.00% | ~1,779 |
+| Big Heat from Little Havana | 15.00% | ~1,668 |
+| Chauffeur | 15.00% | ~1,668 |
 | Salutations My Little Friend | 11.00% | ~1,223 |
 | Iron-y | 10.00% | ~1,112 |
-| Gun for Hire | 9.00% | ~1,000 |
-| Mischief Managed | 9.00% | ~1,000 |
+| Gun for Hire | 9.00% | ~1,001 |
+| Mischief Managed | 9.00% | ~1,001 |
 | Vice City Mogul | 7.00% | ~778 |
 | Bloodstained Hands | 7.00% | ~778 |
 | Catch Me if You Can | 6.00% | ~667 |
@@ -23,13 +23,13 @@ Rating: 4.54 (Ranked 528)
 | Grand Theft Auto | 5.00% | ~556 |
 | High Quality H2O | 4.00% | ~445 |
 | Pie Guy | 4.00% | ~445 |
-| Running Rampant | 3.00% | ~333 |
-| Point A to Point B | 3.00% | ~333 |
-| Bull in a China Shop | 3.00% | ~333 |
-| Somebody Call the Wambulance? | 3.00% | ~333 |
-| Just Like the Real Thing | 3.00% | ~333 |
-| Don't Need Roads | 3.00% | ~333 |
-| City Sleuth | 3.00% | ~333 |
+| Running Rampant | 3.00% | ~334 |
+| Point A to Point B | 3.00% | ~334 |
+| Bull in a China Shop | 3.00% | ~334 |
+| Somebody Call the Wambulance? | 3.00% | ~334 |
+| Just Like the Real Thing | 3.00% | ~334 |
+| Don't Need Roads | 3.00% | ~334 |
+| City Sleuth | 3.00% | ~334 |
 | One is Better Than Two | 2.00% | ~222 |
 | Take the Cannoli | 2.00% | ~222 |
 | Chopper’d Up | 2.00% | ~222 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 528)
 | Done it All | 1.00% | ~111 |
 | Kingpin | 0.60% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,115 (Ranked 162)  
+Progressed: 11,117 (Ranked 162)  
 Completed: 65 (0.58%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 65 (0.58%) (Ranked 194)
 | 2023-11-25 | 11,100 | 65 |
 | 2023-11-26 | 11,108 | 65 |
 | 2023-11-27 | 11,114 | 65 |
-| 2023-11-28 | 11,115 | 65 |
+| 2023-11-28 | 11,117 | 65 |
 ## Awards
 Max (Great Boss Battles): 112  (Ranked 348)  
 Sum: 112 (Ranked 442)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -2093,9 +2093,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 642
     },
     {
       "ID": "EV_ACH04",
@@ -2133,9 +2133,9 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 399
     },
     {
       "ID": "EV_ACH09",
@@ -2189,9 +2189,9 @@
       "ID": "EV_ACH15",
       "SetID": "6jeac23",
       "Name": "Better On Ice",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 661
     },
     {
       "ID": "EV_ACH16",
@@ -2229,9 +2229,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 389
     },
     {
       "ID": "EV_ACH21",
@@ -2436,8 +2436,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-28T03:09:18.2303675+00:00",
+  "LastChanged_Achievements": "2023-11-28T04:09:24.6542833+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:58:52.4536123+00:00",
-  "LastUpdate_Achievements": "2023-11-28T03:09:18.2303978+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:59:06.7412989+00:00",
+  "LastUpdate_Achievements": "2023-11-28T04:09:24.6543249+00:00"
 }

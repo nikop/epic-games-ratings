@@ -47,11 +47,11 @@
 | Pro Shotgunner | 1.00% | ~3 |
 | Easy Peasy | 1.00% | ~3 |
 | King of the Crow | 0.90% | ~3 |
+| Tomassacred | 0.90% | ~3 |
 | Pro Pyromancer | 0.60% | ~2 |
 | Pro Sniperagus | 0.60% | ~2 |
 | Unstoppable | 0.60% | ~2 |
 | Death From Above | 0.60% | ~2 |
-| Tomassacred | 0.60% | ~2 |
 | 30 Days | 0.30% | ~1 |
 | Darkside Survivor | 0.30% | ~1 |
 | Forestside Survivor | 0.30% | ~1 |

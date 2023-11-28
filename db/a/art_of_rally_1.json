@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10325,
+  "EOS_Progressed": 10326,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1909,6 +1909,11 @@
       "Time": "2023-11-27T17:03:39.7981774+00:00",
       "NumProgressed": 10325,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-28T04:04:04.2589515+00:00",
+      "NumProgressed": 10326,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -2008,7 +2013,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -2064,7 +2069,7 @@
       "Name": "parallel universe",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -2128,7 +2133,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2144,7 +2149,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9912
+      "UsersEstimate": 9913
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2160,7 +2165,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6195
+      "UsersEstimate": 6196
     },
     {
       "ID": "ACH_NIGHT",
@@ -2256,22 +2261,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7434
+      "UsersEstimate": 7435
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10325,
+      "Progressed": 10326,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-11-28T03:03:53.9082425+00:00",
+  "LastChanged_Achievements": "2023-11-28T04:04:04.2589513+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:05.4868696+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:58:33.3764628+00:00",
-  "LastUpdate_Achievements": "2023-11-28T03:03:53.9082728+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:58:47.5066025+00:00",
+  "LastUpdate_Achievements": "2023-11-28T04:04:04.2589806+00:00"
 }

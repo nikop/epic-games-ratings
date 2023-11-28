@@ -4,7 +4,7 @@
   "ProductSlug": "seven-doors-7039de",
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
@@ -174,17 +174,17 @@
       "ID": "ACH_12",
       "SetID": "15cie2",
       "Name": "The Witch\u2019s Haunt",
-      "Percentage": 27,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_13",
       "SetID": "15cie2",
       "Name": "Trapped in Time",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_14",
@@ -198,9 +198,9 @@
       "ID": "ACH_15",
       "SetID": "15cie2",
       "Name": "Don\u2019t Touch the Rum!",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_16",
@@ -295,8 +295,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-11-28T03:08:40.2547361+00:00",
+  "LastChanged_Achievements": "2023-11-28T04:08:45.2190322+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.1989147+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:58:49.0957638+00:00",
-  "LastUpdate_Achievements": "2023-11-28T03:08:40.2547476+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:59:03.779957+00:00",
+  "LastUpdate_Achievements": "2023-11-28T04:08:45.2190435+00:00"
 }

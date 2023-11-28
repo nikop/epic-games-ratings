@@ -151,9 +151,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 725,
+  "EOS_Progressed": 726,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1576,6 +1576,11 @@
       "Time": "2023-11-28T02:29:47.8419687+00:00",
       "NumProgressed": 725,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T04:06:02.60494+00:00",
+      "NumProgressed": 726,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1612,7 +1617,7 @@
       "Name": "Archaeologist",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Balance",
@@ -1620,7 +1625,7 @@
       "Name": "Balance",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BecomingSmarter",
@@ -1642,9 +1647,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 407
     },
     {
       "ID": "ChasingTheLight",
@@ -1660,7 +1665,7 @@
       "Name": "Chicken",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CircularOasis",
@@ -1740,7 +1745,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "HighPlain",
@@ -1802,9 +1807,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 123
     },
     {
       "ID": "MuseumVisitor",
@@ -1844,7 +1849,7 @@
       "Name": "Overload",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Persistent",
@@ -1884,7 +1889,7 @@
       "Name": "Renaissance Robot",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -1932,7 +1937,7 @@
       "Name": "Team Spirit",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "TextAdventurer",
@@ -1956,7 +1961,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TheFuture",
@@ -1988,7 +1993,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "TheWordEndures",
@@ -1996,7 +2001,7 @@
       "Name": "The Word Endures",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "TouchGrass",
@@ -2004,7 +2009,7 @@
       "Name": "Touch Grass",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "TrevorsBiographer",
@@ -2059,7 +2064,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 725,
+      "Progressed": 726,
       "Completed": 1
     }
   ],
@@ -2067,8 +2072,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-26T22:57:15.5535811+00:00",
-  "LastChanged_Achievements": "2023-11-28T03:05:48.0390102+00:00",
+  "LastChanged_Achievements": "2023-11-28T04:06:02.6049396+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:58:00.4102864+00:00",
-  "LastUpdate_Achievements": "2023-11-28T03:05:48.0390694+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:58:12.5880448+00:00",
+  "LastUpdate_Achievements": "2023-11-28T04:06:02.6049926+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -948,9 +948,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228172,
+  "EOS_Progressed": 228173,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25173,6 +25173,11 @@
       "Time": "2023-11-28T03:09:12.3974111+00:00",
       "NumProgressed": 228172,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-28T04:09:18.6731498+00:00",
+      "NumProgressed": 228173,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25184,7 +25189,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45634
+      "UsersEstimate": 45635
     },
     {
       "ID": "ACH_BASE_10",
@@ -25224,7 +25229,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     },
     {
       "ID": "ACH_BASE_16",
@@ -25240,7 +25245,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     },
     {
       "ID": "ACH_BASE_18",
@@ -25248,7 +25253,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     },
     {
       "ID": "ACH_BASE_19",
@@ -25448,14 +25453,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228172,
+      "Progressed": 228173,
       "Completed": 5
     }
   ],
@@ -25463,8 +25468,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-28T02:26:12.6557311+00:00",
-  "LastChanged_Achievements": "2023-11-28T03:09:12.3974107+00:00",
+  "LastChanged_Achievements": "2023-11-28T04:09:18.6731494+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.278824+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:26:12.6557315+00:00",
-  "LastUpdate_Achievements": "2023-11-28T03:09:12.3975644+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:57:11.4338956+00:00",
+  "LastUpdate_Achievements": "2023-11-28T04:09:18.6732908+00:00"
 }

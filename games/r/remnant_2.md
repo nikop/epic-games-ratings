@@ -14,6 +14,7 @@ Rating: 4.75 (Ranked 148)
 | Gleaming the Cube | 0.30% | ~689 |
 | Not So Special Now | 0.30% | ~689 |
 | Quest for Survival | 0.30% | ~689 |
+| Not a Janitor | 0.30% | ~689 |
 | Familiar Face | 0.30% | ~689 |
 | Boss'n Up | 0.30% | ~689 |
 | Trait Chaser | 0.30% | ~689 |
@@ -25,7 +26,6 @@ Rating: 4.75 (Ranked 148)
 | Power Surge | 0.20% | ~459 |
 | The God Gambit | 0.20% | ~459 |
 | Dark Designs | 0.20% | ~459 |
-| Not a Janitor | 0.20% | ~459 |
 | Equal Measures | 0.20% | ~459 |
 | Blue Goddess | 0.20% | ~459 |
 | Duality | 0.20% | ~459 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,673 (Ranked 69)  
+Progressed: 229,689 (Ranked 69)  
 Completed: 538 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 538 (0.23%) (Ranked 250)
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
-| 2023-11-28 | 229,673 | 538 |
+| 2023-11-28 | 229,689 | 538 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
 Sum: 6,051 (Ranked 129)  

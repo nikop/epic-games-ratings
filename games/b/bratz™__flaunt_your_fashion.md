@@ -18,7 +18,7 @@
 | Welcome to the The Stylin' Soiree | 25.00% | ~17 |
 | Scooter Race | 19.00% | ~13 |
 | Seoul Hidden Style | 16.00% | ~11 |
-| Hoverboard Race | 6.00% | ~4 |
+| Hoverboard Race | 7.00% | ~5 |
 | Trendy Selfies | 3.00% | ~2 |
 | Talented Photographer | 1.00% | ~1 |
 | Xtremely Cool Pictures | 1.00% | ~1 |

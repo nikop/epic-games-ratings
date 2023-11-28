@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2062,9 +2062,9 @@
       "ID": "ach_x_victims_using_grenade_launcher",
       "SetID": "bf10c8p",
       "Name": "Tomassacred",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_x_victims_using_lmg",
@@ -2117,8 +2117,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-11-28T03:05:28.8709438+00:00",
+  "LastChanged_Achievements": "2023-11-28T04:05:42.9387902+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:04.6987839+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:58:08.952498+00:00",
-  "LastUpdate_Achievements": "2023-11-28T03:05:28.8710178+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:58:21.7921408+00:00",
+  "LastUpdate_Achievements": "2023-11-28T04:05:42.9388546+00:00"
 }

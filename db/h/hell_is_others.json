@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1267,9 +1267,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258808,
+  "EOS_Progressed": 258812,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22622,6 +22622,11 @@
       "Time": "2023-11-28T03:05:17.34504+00:00",
       "NumProgressed": 258808,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-28T04:05:30.783038+00:00",
+      "NumProgressed": 258812,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22681,7 +22686,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80230
+      "UsersEstimate": 80232
     },
     {
       "ID": "BackHomeNTimes",
@@ -22689,7 +22694,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12940
+      "UsersEstimate": 12941
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -22761,7 +22766,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12940
+      "UsersEstimate": 12941
     },
     {
       "ID": "CreedsInBank2",
@@ -22833,7 +22838,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15528
+      "UsersEstimate": 15529
     },
     {
       "ID": "GrowPlants2",
@@ -22889,7 +22894,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15528
+      "UsersEstimate": 15529
     },
     {
       "ID": "KillOtherWithKatana",
@@ -22921,7 +22926,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59526
+      "UsersEstimate": 59527
     },
     {
       "ID": "KillOthers2",
@@ -23080,7 +23085,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258808,
+      "Progressed": 258812,
       "Completed": 3
     }
   ],
@@ -23088,8 +23093,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-27T13:59:21.5794063+00:00",
-  "LastChanged_Achievements": "2023-11-28T03:05:17.3450397+00:00",
+  "LastChanged_Achievements": "2023-11-28T04:05:30.7830378+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:31.8373031+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:59:12.8529888+00:00",
-  "LastUpdate_Achievements": "2023-11-28T03:05:17.3451728+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:59:27.9824681+00:00",
+  "LastUpdate_Achievements": "2023-11-28T04:05:30.7831424+00:00"
 }

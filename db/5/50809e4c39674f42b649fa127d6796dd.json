@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 339,
+  "EOS_Progressed": 340,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -727,6 +727,11 @@
       "Time": "2023-11-28T01:56:40.2343307+00:00",
       "NumProgressed": 339,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T04:08:29.9347629+00:00",
+      "NumProgressed": 340,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -795,7 +800,7 @@
       "Name": "Combo Convert",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -803,7 +808,7 @@
       "Name": "Perfect Run",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -811,7 +816,7 @@
       "Name": "Big Encounter",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -819,7 +824,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -851,7 +856,7 @@
       "Name": "Speed Demon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1058,14 +1063,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 339,
+      "Progressed": 340,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-28T03:08:25.4098621+00:00",
+  "LastChanged_Achievements": "2023-11-28T04:08:29.9347625+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:00:21.265888+00:00",
-  "LastUpdate_Achievements": "2023-11-28T03:08:25.4098909+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:00:38.1758266+00:00",
+  "LastUpdate_Achievements": "2023-11-28T04:08:29.9347884+00:00"
 }

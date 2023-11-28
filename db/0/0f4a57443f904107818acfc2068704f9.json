@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 719,
+  "EOS_Progressed": 720,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
@@ -1417,6 +1417,11 @@
       "Time": "2023-11-28T01:51:23.691881+00:00",
       "NumProgressed": 719,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T04:03:29.8315614+00:00",
+      "NumProgressed": 720,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1485,7 +1490,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "CompleteChapter10",
@@ -1573,7 +1578,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "CompleteChapter3",
@@ -1611,9 +1616,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 108
     },
     {
       "ID": "CompleteChapter8",
@@ -1724,14 +1729,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 719,
+      "Progressed": 720,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-28T03:03:20.4387426+00:00",
+  "LastChanged_Achievements": "2023-11-28T04:03:29.831561+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:00:00.5154024+00:00",
-  "LastUpdate_Achievements": "2023-11-28T03:03:20.438793+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:00:16.2903782+00:00",
+  "LastUpdate_Achievements": "2023-11-28T04:03:29.8315922+00:00"
 }
