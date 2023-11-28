@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -600,9 +600,9 @@
       "ID": "escape",
       "SetID": "8b5dfcp",
       "Name": "Escape",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "help",
@@ -624,9 +624,9 @@
       "ID": "jack",
       "SetID": "8b5dfcp",
       "Name": "Jack",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "nonconsensual",
@@ -689,8 +689,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:07:48.6099457+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:08:01.4897178+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:16.3438418+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:59:01.6155644+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:07:48.6099699+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:59:10.4992003+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:08:01.4897325+00:00"
 }

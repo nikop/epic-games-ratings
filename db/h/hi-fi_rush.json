@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -8203,9 +8203,9 @@
       "ID": "Ach039",
       "SetID": "12n4k20",
       "Name": "First we parry, then we counter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 88
     },
     {
       "ID": "Ach040",
@@ -8482,8 +8482,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:04:26.3924172+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:04:37.9930452+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:57:14.9233011+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:04:26.3925219+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:57:23.4269286+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:04:37.9931229+00:00"
 }

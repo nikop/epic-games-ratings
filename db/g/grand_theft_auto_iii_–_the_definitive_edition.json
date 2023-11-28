@@ -541,9 +541,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8667,
+  "EOS_Progressed": 8669,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -11461,6 +11461,11 @@
       "Time": "2023-11-28T10:05:11.1256825+00:00",
       "NumProgressed": 8667,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-11-28T17:05:44.3508091+00:00",
+      "NumProgressed": 8669,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11472,7 +11477,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7194
+      "UsersEstimate": 7195
     },
     {
       "ID": "ACH02",
@@ -11496,7 +11501,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "ACH05",
@@ -11576,7 +11581,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "ACH15",
@@ -11592,7 +11597,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "ACH17",
@@ -11600,7 +11605,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH18",
@@ -11703,7 +11708,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8667,
+      "Progressed": 8669,
       "Completed": 60
     }
   ],
@@ -11711,8 +11716,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-24T13:06:28.1547378+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:05:30.5537738+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:05:44.3508086+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:05.6726179+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:58:46.6564702+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:05:30.5538474+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:58:55.4294969+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:05:44.3509247+00:00"
 }

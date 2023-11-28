@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 97.00% | ~34 |
-| Suicide squad | 57.00% | ~20 |
-| First blood | 34.00% | ~12 |
+| First success | 97.00% | ~35 |
+| Suicide squad | 56.00% | ~20 |
+| First blood | 33.00% | ~12 |
 | Train hard, fight easy | 31.00% | ~11 |
 | Under cover | 31.00% | ~11 |
-| All for one! | 26.00% | ~9 |
-| Royal blessing | 26.00% | ~9 |
-| A hidden snake | 26.00% | ~9 |
-| Blood and sand | 26.00% | ~9 |
-| Vene, vidi, vici | 20.00% | ~7 |
+| All for one! | 25.00% | ~9 |
+| Royal blessing | 25.00% | ~9 |
+| A hidden snake | 25.00% | ~9 |
+| Blood and sand | 25.00% | ~9 |
+| Vene, vidi, vici | 19.00% | ~7 |
 | Surpass the teacher | 17.00% | ~6 |
 | She-Wolf | 17.00% | ~6 |
 | Crimson rivers | 14.00% | ~5 |
@@ -25,13 +25,13 @@
 | The champion of the arena | 11.00% | ~4 |
 | Rage | 11.00% | ~4 |
 | Protect the Healer! | 11.00% | ~4 |
-| Collector | 9.00% | ~3 |
-| Overplay the rogue | 9.00% | ~3 |
-| Stronger than Gellian steel | 9.00% | ~3 |
-| By own strength | 9.00% | ~3 |
-| Punish the Punisher | 9.00% | ~3 |
-| The End | 9.00% | ~3 |
-| Nothing is settled | 9.00% | ~3 |
+| Collector | 8.00% | ~3 |
+| Overplay the rogue | 8.00% | ~3 |
+| Stronger than Gellian steel | 8.00% | ~3 |
+| By own strength | 8.00% | ~3 |
+| Punish the Punisher | 8.00% | ~3 |
+| The End | 8.00% | ~3 |
+| Nothing is settled | 8.00% | ~3 |
 | The best apprentice | 6.00% | ~2 |
 | First among Frisians | 6.00% | ~2 |
 | The power of persuasion | 6.00% | ~2 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 521)  
+Progressed: 36 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-09 | 33 | 0 |
 | 2023-11-25 | 34 | 0 |
 | 2023-11-27 | 35 | 0 |
+| 2023-11-28 | 36 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

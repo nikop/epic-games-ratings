@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 429,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.75,
+  "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -234,6 +234,11 @@
       "Time": "2023-11-25T11:10:04.0244656+00:00",
       "NumProgressed": 109,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-28T17:09:13.7017719+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -253,7 +258,7 @@
       "Name": "Hunter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AutoBullets_1",
@@ -269,7 +274,7 @@
       "Name": "Sapper",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "EnemyDefeat_0",
@@ -299,7 +304,7 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 78
     },
@@ -315,7 +320,7 @@
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 63
     },
@@ -357,7 +362,7 @@
       "Name": "Zero Gravity",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Neuroconnector",
@@ -436,7 +441,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 3
     }
   ],
@@ -444,8 +449,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:09:01.1818894+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:09:13.7017714+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.3160466+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:59:21.4051773+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:09:01.1819065+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:59:31.2684336+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:09:13.7017848+00:00"
 }

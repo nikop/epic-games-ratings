@@ -816,9 +816,9 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:09:07.7247519+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:09:20.350537+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:02.7698905+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:57:07.3122093+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:09:07.7247649+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:57:15.5817368+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:09:20.3505555+00:00"
 }

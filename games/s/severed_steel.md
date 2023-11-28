@@ -5,17 +5,17 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~213,664 |
-| 50 HEADSHOTS | 29.00% | ~199,879 |
-| SCIENCE AND INDUSTRY | 28.00% | ~192,987 |
-| FINISHED CHAPTER 1 | 26.00% | ~179,202 |
-| FINISHED CHAPTER 2 | 19.00% | ~130,955 |
-| 200 HEADSHOTS | 17.00% | ~117,171 |
-| FINISHED CHAPTER 3 | 16.00% | ~110,278 |
-| FINISHED CHAPTER 4 | 14.00% | ~96,493 |
-| FINISH CHAPTER 5 | 12.00% | ~82,709 |
-| FINISH CHAPTER 6 | 10.00% | ~68,924 |
-| CATHARTIC ESCAPISM | 10.00% | ~68,924 |
+| 100 KILLS | 31.00% | ~213,668 |
+| 50 HEADSHOTS | 29.00% | ~199,882 |
+| SCIENCE AND INDUSTRY | 28.00% | ~192,990 |
+| FINISHED CHAPTER 1 | 26.00% | ~179,205 |
+| FINISHED CHAPTER 2 | 19.00% | ~130,958 |
+| 200 HEADSHOTS | 17.00% | ~117,173 |
+| FINISHED CHAPTER 3 | 16.00% | ~110,280 |
+| FINISHED CHAPTER 4 | 14.00% | ~96,495 |
+| FINISH CHAPTER 5 | 12.00% | ~82,710 |
+| FINISH CHAPTER 6 | 10.00% | ~68,925 |
+| CATHARTIC ESCAPISM | 10.00% | ~68,925 |
 | 1000 KILLS | 9.00% | ~62,032 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~27,570 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,785 |
@@ -25,7 +25,7 @@ Rating: 4.69 (Ranked 232)
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,203 |
 | OUT OF ORDER | 0.90% | ~6,203 |
 | PARTYHARD | 0.80% | ~5,514 |
-| NEW GAME PLUS | 0.60% | ~4,135 |
+| NEW GAME PLUS | 0.60% | ~4,136 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,446 |
 | CHURCH | 0.40% | ~2,757 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,068 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~689 |
 | WARRIOR IN A GARDEN | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,239 (Ranked 26)  
+Progressed: 689,250 (Ranked 26)  
 Completed: 86 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 86 (0.01%) (Ranked 343)
 | 2023-11-25 | 688,520 | 86 |
 | 2023-11-26 | 688,866 | 86 |
 | 2023-11-27 | 689,101 | 86 |
-| 2023-11-28 | 689,239 | 86 |
+| 2023-11-28 | 689,250 | 86 |
 ## Awards
 Max (Great Boss Battles): 418  (Ranked 227)  
 Sum: 418 (Ranked 336)  

@@ -13,23 +13,23 @@ Number of Ratings: 292  (23.09.2022)
 | Dressed For Success | 7.00% | ~19 |
 | Sorcerous Spree | 6.00% | ~16 |
 | Humiliation | 6.00% | ~16 |
-| Veni, Vidi, Vici | 5.00% | ~13 |
 | Whoops! | 4.00% | ~11 |
+| Veni, Vidi, Vici | 4.00% | ~11 |
 | Multi Kill | 3.00% | ~8 |
 | Expert Essence Employment | 3.00% | ~8 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~8 |
-| The Song of Stoutheart | 2.00% | ~5 |
-| This Spot's Taken | 2.00% | ~5 |
 | Such A Fungi | 2.00% | ~5 |
-| Trojan Horse | 2.00% | ~5 |
 | Master | 2.00% | ~5 |
+| The Song of Stoutheart | 1.00% | ~3 |
+| This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
+| Trojan Horse | 1.00% | ~3 |
 | Pyrrhic Victory | 1.00% | ~3 |
-| Death To Diplomacy | 0.80% | ~2 |
-| Versatile Wielder | 0.80% | ~2 |
-| Coming Through! | 0.80% | ~2 |
-| Landlord Extraordinaire | 0.80% | ~2 |
+| Death To Diplomacy | 0.70% | ~2 |
+| Versatile Wielder | 0.70% | ~2 |
+| Coming Through! | 0.70% | ~2 |
+| Landlord Extraordinaire | 0.70% | ~2 |
 | Hello There | 0.40% | ~1 |
 | Unlimited Power! | 0.40% | ~1 |
 | Fully Charged | 0.40% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265 (Ranked 369)  
+Progressed: 267 (Ranked 369)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,11 +79,11 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 234 | 0 |
 | 2023-11-26 | 250 | 0 |
 | 2023-11-27 | 261 | 0 |
-| 2023-11-28 | 265 | 0 |
+| 2023-11-28 | 267 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 511)  
+Max (Quickly Understood Controls): 27  (Ranked 512)  
 Sum: 194 (Ranked 404)  
-Diff (max vs sum): 107  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

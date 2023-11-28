@@ -12615,9 +12615,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 465302,
+  "EOS_Progressed": 465334,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4639,
+  "EOS_NewPlayers": 4636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38090,6 +38090,11 @@
       "Time": "2023-11-28T16:03:18.6656556+00:00",
       "NumProgressed": 465302,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T17:03:29.3629604+00:00",
+      "NumProgressed": 465334,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38515,9 +38520,9 @@
       "ID": "achievement_brentry",
       "SetID": "8p2n7he",
       "Name": "Brentry!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_brick_by_brick",
@@ -41004,21 +41009,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 465302,
+      "Progressed": 465334,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 465302,
+      "Progressed": 465334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-28T12:02:42.5007827+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:03:18.6656554+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:03:29.3629599+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:02:31.7080298+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:03:18.66679+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:02:40.5566586+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:03:29.3640557+00:00"
 }

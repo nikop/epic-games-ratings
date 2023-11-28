@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 25.00% | ~1,289 |
+| Faceroll the Bones | 26.00% | ~1,340 |
 | Hit 'Em Where It Hurts | 24.00% | ~1,237 |
 | Perk Shard Punch Card | 24.00% | ~1,237 |
 | That'll Leave a Mark | 24.00% | ~1,237 |
@@ -169,15 +169,15 @@ Completed: 4 (0.08%) (Ranked 298)
 | 2023-11-28 | 5,155 | 4 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 476)  
-Sum: 287 (Ranked 370)  
-Diff (max vs sum): 106  
+Sum: 288 (Ranked 368)  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Characters | 31 |
 | This game has Quickly Understood Controls | 31 |
-| This game has Diverse Characters | 29 |
+| This game has Diverse Characters | 30 |
 | This game has Unique Visuals | 28 |
 | This game has Challenging Combat | 28 |
 | This game has Amazing Storytelling | 27 |
@@ -284,4 +284,4 @@ Diff (max vs sum): 106
 | 2023-11-16 | 4.48 | - | 35 | 286 |
 | 2023-11-26 | 4.49 | - | 35 | 286 |
 | 2023-11-27 | 4.48 | - | 35 | 286 |
-| 2023-11-28 | 4.48 | - | 35 | 287 |
+| 2023-11-28 | 4.48 | - | 35 | 288 |

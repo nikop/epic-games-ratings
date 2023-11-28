@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -411,9 +411,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3715,
+  "EOS_Progressed": 3716,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6101,6 +6101,11 @@
       "Time": "2023-11-28T14:06:13.4838924+00:00",
       "NumProgressed": 3715,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-28T17:06:14.5167125+00:00",
+      "NumProgressed": 3716,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6168,7 +6173,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -6208,7 +6213,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -6224,7 +6229,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6232,7 +6237,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -6280,7 +6285,7 @@
       "Name": "Frontliner",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -6304,7 +6309,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "ACH_MISSION_02",
@@ -6336,7 +6341,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6344,7 +6349,7 @@
       "Name": "Living Nightmare",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ACH_MISSION_07",
@@ -6360,7 +6365,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ACH_MISSION_09",
@@ -6368,7 +6373,7 @@
       "Name": "The Passenger",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "ACH_MISSION_10",
@@ -6384,7 +6389,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH_MISSION_12",
@@ -6392,7 +6397,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -6408,7 +6413,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6416,7 +6421,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6440,7 +6445,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -6456,7 +6461,7 @@
       "Name": "The More The Merrier",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -6471,7 +6476,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3715,
+      "Progressed": 3716,
       "Completed": 3
     }
   ],
@@ -6479,8 +6484,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-27T19:00:30.5070176+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:06:00.5590548+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:06:14.516712+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.06907+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:59:58.0400657+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:06:00.5591004+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:00:08.5091622+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:06:14.5167635+00:00"
 }

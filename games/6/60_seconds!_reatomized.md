@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.53 (Ranked 540)  
+Rating: 4.53 (Ranked 539)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,8 +40,8 @@ Rating: 4.53 (Ranked 540)
 | Unplugged | 9.00% | ~510 |
 | Holidays! | 7.00% | ~397 |
 | Mad Hatter | 7.00% | ~397 |
+| Yes Man | 7.00% | ~397 |
 | Lumbersexual | 6.00% | ~340 |
-| Yes Man | 6.00% | ~340 |
 | Take that, Brundlefly! | 5.00% | ~284 |
 | Danger zone | 4.00% | ~227 |
 | Feline Domination | 4.00% | ~227 |

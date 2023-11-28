@@ -44,6 +44,7 @@ Rating: 4.75 (Ranked 149)
 | Make Some Room | 0.20% | ~460 |
 | Good, But Could Be Better! | 0.20% | ~460 |
 | No One Should Have All That Power | 0.20% | ~460 |
+| Transmutate | 0.20% | ~460 |
 | Succession | 0.20% | ~18 |
 | You Shall Pass | 0.20% | ~18 |
 | Crafty | 0.10% | ~230 |
@@ -58,10 +59,9 @@ Rating: 4.75 (Ranked 149)
 | Proving Grounds | 0.10% | ~230 |
 | Carnage in C-Minor | 0.10% | ~230 |
 | Maxed Out! | 0.10% | ~230 |
-| Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,014 (Ranked 69)  
+Progressed: 230,040 (Ranked 69)  
 Completed: 541 (0.24%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 541 (0.24%) (Ranked 249)
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
-| 2023-11-28 | 230,014 | 541 |
+| 2023-11-28 | 230,040 | 541 |
 ## Awards
 Max (Great Boss Battles): 2,498  (Ranked 104)  
 Sum: 6,091 (Ranked 129)  

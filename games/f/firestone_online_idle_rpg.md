@@ -1,18 +1,18 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.04 (Ranked 990)  
+Rating: 4.04 (Ranked 989)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,586 |
-| World Map | 78.00% | ~2,169 |
-| Temple of Eternals | 57.00% | ~1,585 |
+| Victor | 93.00% | ~2,587 |
+| World Map | 78.00% | ~2,170 |
+| Temple of Eternals | 57.00% | ~1,586 |
 | Prestigious | 53.00% | ~1,474 |
 | Fellowship Power | 42.00% | ~1,168 |
-| Guild Power | 24.00% | ~667 |
+| Guild Power | 24.00% | ~668 |
 | Prestigious x10 | 21.00% | ~584 |
-| The game is on | 19.00% | ~528 |
+| The game is on | 19.00% | ~529 |
 | Exotic Merchant | 17.00% | ~473 |
 | Dragon Clicker | 16.00% | ~445 |
 | Miner Clicker | 16.00% | ~445 |
@@ -38,11 +38,11 @@ Rating: 4.04 (Ranked 990)
 | Moving Up The Ladder | 9.00% | ~250 |
 | Relic Of The Past | 9.00% | ~250 |
 | Scroll Master | 9.00% | ~250 |
-| Four Leaf Clover | 8.00% | ~222 |
-| Here We Go Again | 8.00% | ~222 |
-| Master Enchanter | 8.00% | ~222 |
-| The father of Dragons | 8.00% | ~222 |
-| Trader | 8.00% | ~222 |
+| Four Leaf Clover | 8.00% | ~223 |
+| Here We Go Again | 8.00% | ~223 |
+| Master Enchanter | 8.00% | ~223 |
+| The father of Dragons | 8.00% | ~223 |
+| Trader | 8.00% | ~223 |
 | Crystal Mining | 7.00% | ~195 |
 | Dragon Slayer | 7.00% | ~195 |
 | Enchanting skill | 7.00% | ~195 |
@@ -51,14 +51,14 @@ Rating: 4.04 (Ranked 990)
 | Blueprint Upgrades | 6.00% | ~167 |
 | How Do You Turn This On? | 6.00% | ~167 |
 | Lock And Load | 6.00% | ~167 |
-| Missions Dedication | 6.00% | ~167 |
 | Sailor | 6.00% | ~167 |
-| The Alchemist | 6.00% | ~167 |
 | The Expeditioner | 6.00% | ~167 |
 | Active Member | 5.00% | ~139 |
 | Ancient Knowledge | 5.00% | ~139 |
 | Background Story | 5.00% | ~139 |
 | Legendary | 5.00% | ~139 |
+| Missions Dedication | 5.00% | ~139 |
+| The Alchemist | 5.00% | ~139 |
 | Arena Challenger | 4.00% | ~111 |
 | Ebony Jungle Liberator | 4.00% | ~111 |
 | Gear Enchanting | 3.00% | ~83 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 990)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,781 (Ranked 213)  
+Progressed: 2,782 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 2 (0.07%) (Ranked 302)
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
 | 2023-11-27 | 2,771 | 2 |
-| 2023-11-28 | 2,781 | 2 |
+| 2023-11-28 | 2,782 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
 Sum: 134 (Ranked 429)  

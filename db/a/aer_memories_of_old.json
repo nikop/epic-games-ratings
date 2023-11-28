@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25106,
+  "EOS_Progressed": 25109,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -24269,6 +24269,11 @@
       "Time": "2023-11-28T16:05:24.542725+00:00",
       "NumProgressed": 25106,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-11-28T17:05:38.6803196+00:00",
+      "NumProgressed": 25109,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 20,
@@ -24280,7 +24285,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -24328,7 +24333,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -24360,7 +24365,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "FOUND_MAMBA",
@@ -24368,7 +24373,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -24384,7 +24389,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "GAME_FINISHED",
@@ -24400,7 +24405,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19081
+      "UsersEstimate": 19083
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24424,7 +24429,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "WEST_FINISHED",
@@ -24432,22 +24437,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4519
+      "UsersEstimate": 4520
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25106,
+      "Progressed": 25109,
       "Completed": 478
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:05:24.5427247+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:05:38.6803192+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:59:57.9230572+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:05:24.5428468+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:00:08.3911256+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:05:38.6804422+00:00"
 }

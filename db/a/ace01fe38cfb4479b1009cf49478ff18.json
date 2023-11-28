@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.65,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -694,6 +694,11 @@
       "Time": "2023-11-28T15:09:23.6019281+00:00",
       "NumProgressed": 155,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T17:09:04.3849039+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -706,7 +711,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -762,15 +767,15 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 17,
       "XP": 45,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 45,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -801,14 +806,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:08:51.4606023+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:09:04.3849015+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.3392935+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:57:26.7352085+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:08:51.4606099+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:57:36.1880343+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:09:04.3849204+00:00"
 }

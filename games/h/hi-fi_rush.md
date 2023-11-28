@@ -43,10 +43,10 @@ Rating: 4.87 (Ranked 22)
 | I think I found your calling, Macaron | 2.00% | ~88 |
 | This is a breeze! | 2.00% | ~88 |
 | We're Jammin' | 2.00% | ~88 |
+| First we parry, then we counter | 2.00% | ~88 |
 | I hit things with a guitar really well. | 2.00% | ~88 |
 | Call me Turbo Chai | 2.00% | ~59 |
 | I'm not done with you yet | 1.00% | ~44 |
-| First we parry, then we counter | 1.00% | ~44 |
 | You ever parry a volcano? | 1.00% | ~44 |
 | New bad guys? No problem! | 1.00% | ~29 |
 | OK, well THEY came after ME! | 0.90% | ~40 |

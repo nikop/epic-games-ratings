@@ -2,7 +2,7 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 540,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 187,
@@ -7782,9 +7782,9 @@
       "ID": "ACH_YESMAN",
       "SetID": "5nj1ea3",
       "Name": "Yes Man",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 397
     }
   ],
   "AchievementSets": [
@@ -7799,8 +7799,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-11-17T19:00:10.4063992+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:03:08.742151+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:03:18.9953388+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:27.9722219+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:57:50.2312429+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:03:08.7422497+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:57:59.2557806+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:03:18.9954079+00:00"
 }

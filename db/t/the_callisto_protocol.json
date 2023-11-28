@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 926,
+  "Ranking_Rating": 927,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 149,
@@ -1511,9 +1511,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 16491,
+  "EOS_Progressed": 16492,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9241,6 +9241,11 @@
       "Time": "2023-11-28T15:08:10.8821692+00:00",
       "NumProgressed": 16491,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-28T17:06:25.1279149+00:00",
+      "NumProgressed": 16492,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9372,7 +9377,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -9396,7 +9401,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -9420,7 +9425,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "PRINT_WEAPON",
@@ -9468,7 +9473,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "STORY_MINETOWN",
@@ -9484,7 +9489,7 @@
       "Name": "Desperate Times",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -9627,13 +9632,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16491,
+      "Progressed": 16492,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4417,
+      "Progressed": 4418,
       "Completed": 29
     }
   ],
@@ -9641,8 +9646,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-28T05:03:25.3871299+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:06:11.1805415+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:06:25.1279143+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:08.1426858+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:02:48.0877906+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:06:11.1806808+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:02:57.6604488+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:06:25.1280149+00:00"
 }

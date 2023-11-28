@@ -5,7 +5,7 @@
   "Ranking_Rating": 125,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 89,
@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 967,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
@@ -3169,6 +3169,11 @@
       "Time": "2023-11-28T15:05:15.7178294+00:00",
       "NumProgressed": 966,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-28T17:05:13.4279877+00:00",
+      "NumProgressed": 967,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3189,7 +3194,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "_03_FinishAct1",
@@ -3197,7 +3202,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3205,7 +3210,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "_05_FinishAct2",
@@ -3213,7 +3218,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3245,7 +3250,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "_10_Completion_30",
@@ -3388,7 +3393,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 967,
       "Completed": 31
     }
   ],
@@ -3396,8 +3401,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:04:59.3464429+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:05:13.4279871+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:57:08.5440714+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:04:59.3464779+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:57:16.9824238+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:05:13.4280199+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 746,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1632,6 +1632,11 @@
       "Time": "2023-11-28T16:06:04.6447394+00:00",
       "NumProgressed": 744,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T17:06:18.7326881+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1642,480 +1647,480 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 22
-    },
-    {
-      "ID": "AbInitio",
-      "SetID": "1n308hc",
-      "Name": "Ab Initio",
-      "Percentage": 47,
-      "XP": 5,
-      "UsersEstimate": 350
-    },
-    {
-      "ID": "AnthropicHills",
-      "SetID": "1n308hc",
-      "Name": "Anthropic Hills",
-      "Percentage": 5,
-      "XP": 5,
-      "UsersEstimate": 37
-    },
-    {
-      "ID": "Archaeologist",
-      "SetID": "1n308hc",
-      "Name": "Archaeologist",
-      "Percentage": 2,
-      "XP": 20,
-      "UsersEstimate": 15
-    },
-    {
-      "ID": "Balance",
-      "SetID": "1n308hc",
-      "Name": "Balance",
-      "Percentage": 2,
-      "XP": 15,
-      "UsersEstimate": 15
-    },
-    {
-      "ID": "BecomingSmarter",
-      "SetID": "1n308hc",
-      "Name": "Becoming Smarter",
-      "Percentage": 51,
-      "XP": 20,
-      "UsersEstimate": 379
-    },
-    {
-      "ID": "BreakTheLoop",
-      "SetID": "1n308hc",
-      "Name": "Break the Loop",
-      "Percentage": 4,
-      "XP": 20,
-      "UsersEstimate": 30
-    },
-    {
-      "ID": "BridgeBuilder",
-      "SetID": "1n308hc",
-      "Name": "Bridge Builder",
-      "Percentage": 56,
-      "XP": 15,
-      "UsersEstimate": 417
-    },
-    {
-      "ID": "ChasingTheLight",
-      "SetID": "1n308hc",
-      "Name": "Chasing the Light",
-      "Percentage": 15,
-      "XP": 20,
-      "UsersEstimate": 112
-    },
-    {
-      "ID": "Chicken",
-      "SetID": "1n308hc",
-      "Name": "Chicken",
-      "Percentage": 2,
-      "XP": 5,
-      "UsersEstimate": 15
-    },
-    {
-      "ID": "CircularOasis",
-      "SetID": "1n308hc",
-      "Name": "Circular Oasis",
-      "Percentage": 7,
-      "XP": 5,
-      "UsersEstimate": 52
-    },
-    {
-      "ID": "DesolateIsland",
-      "SetID": "1n308hc",
-      "Name": "Desolate Island",
-      "Percentage": 12,
-      "XP": 5,
-      "UsersEstimate": 89
-    },
-    {
-      "ID": "Discovery",
-      "SetID": "1n308hc",
-      "Name": "Discovery",
-      "Percentage": 35,
-      "XP": 10,
-      "UsersEstimate": 260
-    },
-    {
-      "ID": "EasternWetlands",
-      "SetID": "1n308hc",
-      "Name": "Eastern Wetlands",
-      "Percentage": 15,
-      "XP": 5,
-      "UsersEstimate": 112
-    },
-    {
-      "ID": "EcstaticTruth",
-      "SetID": "1n308hc",
-      "Name": "Ecstatic Truth",
-      "Percentage": 5,
-      "XP": 35,
-      "UsersEstimate": 37
-    },
-    {
-      "ID": "Excellent",
-      "SetID": "1n308hc",
-      "Name": "Excellent",
-      "Percentage": 11,
-      "XP": 15,
-      "UsersEstimate": 82
-    },
-    {
-      "ID": "FloodedValley",
-      "SetID": "1n308hc",
-      "Name": "Flooded Valley",
-      "Percentage": 13,
-      "XP": 5,
-      "UsersEstimate": 97
-    },
-    {
-      "ID": "GnothiSeauton",
-      "SetID": "1n308hc",
-      "Name": "Gnothi Seauton",
-      "Percentage": 5,
-      "XP": 25,
-      "UsersEstimate": 37
-    },
-    {
-      "ID": "GoodCitizen",
-      "SetID": "1n308hc",
-      "Name": "Good Citizen",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 45
-    },
-    {
-      "ID": "GrasslandsRing",
-      "SetID": "1n308hc",
-      "Name": "Grasslands Ring",
-      "Percentage": 18,
-      "XP": 5,
-      "UsersEstimate": 134
-    },
-    {
-      "ID": "HighPlain",
-      "SetID": "1n308hc",
-      "Name": "High Plain",
-      "Percentage": 4,
-      "XP": 5,
-      "UsersEstimate": 30
-    },
-    {
-      "ID": "IntoTheMachine",
-      "SetID": "1n308hc",
-      "Name": "Into the Machine",
-      "Percentage": 30,
-      "XP": 5,
-      "UsersEstimate": 223
-    },
-    {
-      "ID": "JustOneLap",
-      "SetID": "1n308hc",
-      "Name": "Just One Lap",
-      "Percentage": 12,
-      "XP": 30,
-      "UsersEstimate": 89
-    },
-    {
-      "ID": "LordOfTheFiles",
-      "SetID": "1n308hc",
-      "Name": "Lord of the Files",
-      "Percentage": 38,
-      "XP": 30,
-      "UsersEstimate": 283
-    },
-    {
-      "ID": "LostMarshes",
-      "SetID": "1n308hc",
-      "Name": "Lost Marshes",
-      "Percentage": 13,
-      "XP": 5,
-      "UsersEstimate": 97
-    },
-    {
-      "ID": "MistressOfRiddles",
-      "SetID": "1n308hc",
-      "Name": "Mistress of Riddles",
-      "Percentage": 25,
-      "XP": 20,
-      "UsersEstimate": 186
-    },
-    {
-      "ID": "Mnemosyne",
-      "SetID": "1n308hc",
-      "Name": "Mnemosyne",
-      "Percentage": 3,
-      "XP": 40,
-      "UsersEstimate": 22
-    },
-    {
-      "ID": "MuseumExplorer",
-      "SetID": "1n308hc",
-      "Name": "Museum Explorer",
-      "Percentage": 17,
-      "XP": 10,
-      "UsersEstimate": 126
-    },
-    {
-      "ID": "MuseumVisitor",
-      "SetID": "1n308hc",
-      "Name": "Museum Visitor",
-      "Percentage": 32,
-      "XP": 5,
-      "UsersEstimate": 238
-    },
-    {
-      "ID": "NewBeginning",
-      "SetID": "1n308hc",
-      "Name": "A New Beginning",
-      "Percentage": 3,
-      "XP": 40,
-      "UsersEstimate": 22
-    },
-    {
-      "ID": "NewMorality",
-      "SetID": "1n308hc",
-      "Name": "A New Morality",
       "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 1
     },
     {
+      "ID": "AbInitio",
+      "SetID": "1n308hc",
+      "Name": "Ab Initio",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "AnthropicHills",
+      "SetID": "1n308hc",
+      "Name": "Anthropic Hills",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Archaeologist",
+      "SetID": "1n308hc",
+      "Name": "Archaeologist",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Balance",
+      "SetID": "1n308hc",
+      "Name": "Balance",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BecomingSmarter",
+      "SetID": "1n308hc",
+      "Name": "Becoming Smarter",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BreakTheLoop",
+      "SetID": "1n308hc",
+      "Name": "Break the Loop",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BridgeBuilder",
+      "SetID": "1n308hc",
+      "Name": "Bridge Builder",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ChasingTheLight",
+      "SetID": "1n308hc",
+      "Name": "Chasing the Light",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Chicken",
+      "SetID": "1n308hc",
+      "Name": "Chicken",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CircularOasis",
+      "SetID": "1n308hc",
+      "Name": "Circular Oasis",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DesolateIsland",
+      "SetID": "1n308hc",
+      "Name": "Desolate Island",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Discovery",
+      "SetID": "1n308hc",
+      "Name": "Discovery",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "EasternWetlands",
+      "SetID": "1n308hc",
+      "Name": "Eastern Wetlands",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EcstaticTruth",
+      "SetID": "1n308hc",
+      "Name": "Ecstatic Truth",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Excellent",
+      "SetID": "1n308hc",
+      "Name": "Excellent",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FloodedValley",
+      "SetID": "1n308hc",
+      "Name": "Flooded Valley",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GnothiSeauton",
+      "SetID": "1n308hc",
+      "Name": "Gnothi Seauton",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GoodCitizen",
+      "SetID": "1n308hc",
+      "Name": "Good Citizen",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GrasslandsRing",
+      "SetID": "1n308hc",
+      "Name": "Grasslands Ring",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HighPlain",
+      "SetID": "1n308hc",
+      "Name": "High Plain",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IntoTheMachine",
+      "SetID": "1n308hc",
+      "Name": "Into the Machine",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JustOneLap",
+      "SetID": "1n308hc",
+      "Name": "Just One Lap",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LordOfTheFiles",
+      "SetID": "1n308hc",
+      "Name": "Lord of the Files",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LostMarshes",
+      "SetID": "1n308hc",
+      "Name": "Lost Marshes",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MistressOfRiddles",
+      "SetID": "1n308hc",
+      "Name": "Mistress of Riddles",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Mnemosyne",
+      "SetID": "1n308hc",
+      "Name": "Mnemosyne",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MuseumExplorer",
+      "SetID": "1n308hc",
+      "Name": "Museum Explorer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MuseumVisitor",
+      "SetID": "1n308hc",
+      "Name": "Museum Visitor",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NewBeginning",
+      "SetID": "1n308hc",
+      "Name": "A New Beginning",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NewMorality",
+      "SetID": "1n308hc",
+      "Name": "A New Morality",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 0
     },
     {
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 45,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 0
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 24,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 0
     },
     {
       "ID": "PrometheusUnbound",
       "SetID": "1n308hc",
       "Name": "Prometheus Unbound",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 0
     },
     {
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 11,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 0
     },
     {
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 48,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 0
     },
     {
       "ID": "RenaissanceRobot",
       "SetID": "1n308hc",
       "Name": "Renaissance Robot",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 0
     },
     {
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 0
     },
     {
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 21,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 2
     },
     {
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 0
     },
     {
       "ID": "Sinner",
       "SetID": "1n308hc",
       "Name": "Sinner",
-      "Percentage": 0.5,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 0
     },
     {
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 37,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 0
     },
     {
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 0
     },
     {
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 24,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 0
     },
     {
       "ID": "TheEdgeOfForever",
       "SetID": "1n308hc",
       "Name": "The Edge of Forever",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 0
     },
     {
       "ID": "TheFuture",
       "SetID": "1n308hc",
       "Name": "The Future",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 1
     },
     {
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.9,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 0
     },
     {
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 39,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 0
     },
     {
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 0
     },
     {
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 64,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 1
     },
     {
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 37,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 0
     },
     {
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 0
     },
     {
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 7,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 0
     },
     {
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 23,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 0
     },
     {
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 0
     },
     {
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 16,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 1
     },
     {
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 746,
       "Completed": 1
     }
   ],
@@ -2123,8 +2128,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-28T04:58:21.1400637+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:06:04.6447389+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:06:18.7326874+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:58:15.5156777+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:06:04.6447869+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:58:25.3881569+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:06:18.7327366+00:00"
 }

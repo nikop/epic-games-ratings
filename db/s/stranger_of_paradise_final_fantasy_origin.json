@@ -6,7 +6,7 @@
   "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
@@ -1777,9 +1777,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 80049,
+  "EOS_Progressed": 80050,
   "EOS_Completed": 2196,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
@@ -10077,6 +10077,11 @@
       "Time": "2023-11-28T16:03:43.7771853+00:00",
       "NumProgressed": 80049,
       "NumCompleted": 2196
+    },
+    {
+      "Time": "2023-11-28T17:03:54.7468908+00:00",
+      "NumProgressed": 80050,
+      "NumCompleted": 2196
     }
   ],
   "TotalAchievements": 46,
@@ -10096,7 +10101,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 65640
+      "UsersEstimate": 65641
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -10104,7 +10109,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 59236
+      "UsersEstimate": 59237
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -10112,7 +10117,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 54433
+      "UsersEstimate": 54434
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -10120,7 +10125,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 50431
+      "UsersEstimate": 50432
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -10128,7 +10133,7 @@
       "Name": "A Landscape of Memory",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 46428
+      "UsersEstimate": 46429
     },
     {
       "ID": "006_TROPHY_MISSION_WIND_MEMORIES",
@@ -10136,7 +10141,7 @@
       "Name": "The Wind\u0027s Light",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 43226
+      "UsersEstimate": 43227
     },
     {
       "ID": "007_TROPHY_MISSION_POISON_MEMORIES",
@@ -10152,7 +10157,7 @@
       "Name": "The Fire\u0027s Light",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37623
+      "UsersEstimate": 37624
     },
     {
       "ID": "009_TROPHY_MISSION_PAST_PHANTOM",
@@ -10160,7 +10165,7 @@
       "Name": "Phantom Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37623
+      "UsersEstimate": 37624
     },
     {
       "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
@@ -10240,7 +10245,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 52832
+      "UsersEstimate": 52833
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -10248,7 +10253,7 @@
       "Name": "Strangers\u0027 Memories",
       "Percentage": 3,
       "XP": 95,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "021_TROPHY_FIRST_SOUL_BURST",
@@ -10264,7 +10269,7 @@
       "Name": "Imbued Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37623
+      "UsersEstimate": 37624
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -10272,7 +10277,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 68842
+      "UsersEstimate": 68843
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -10280,7 +10285,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 62438
+      "UsersEstimate": 62439
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -10312,7 +10317,7 @@
       "Name": "Crest Bearer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5604
     },
     {
       "ID": "029_TROPHY_FULL_UPGRADE_SPECIAL_EFFECT",
@@ -10336,7 +10341,7 @@
       "Name": "Savant",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 49630
+      "UsersEstimate": 49631
     },
     {
       "ID": "032_TROPHY_USED_MASTER_POINT",
@@ -10344,7 +10349,7 @@
       "Name": "Master\u0027s Awakening",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15209
+      "UsersEstimate": 15210
     },
     {
       "ID": "033_TROPHY_ACHIEVED_MASTER_FOUR_RANK_JOB",
@@ -10360,7 +10365,7 @@
       "Name": "Dark Crystal, Warrior\u0027s Heart",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 56835
+      "UsersEstimate": 56836
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -10368,7 +10373,7 @@
       "Name": "Jack-of-All-Trades",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 15209
+      "UsersEstimate": 15210
     },
     {
       "ID": "036_TROPHY_UNLOCKED_DARK_KNIGHT",
@@ -10408,7 +10413,7 @@
       "Name": "Path of the Liberator",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 28017
+      "UsersEstimate": 28018
     },
     {
       "ID": "041_TROPHY_UNLOCKED_BREAKER",
@@ -10432,7 +10437,7 @@
       "Name": "Path of the Tyrant",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 28017
+      "UsersEstimate": 28018
     },
     {
       "ID": "044_TROPHY_UNLOCKED_SAGE",
@@ -10455,15 +10460,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 80049,
+      "Progressed": 80050,
       "Completed": 2196
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-11-25T04:00:36.2600843+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:03:43.777185+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:03:54.7468902+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:01.8568764+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:58:32.8365962+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:03:43.7772573+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:58:42.0217021+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:03:54.7469479+00:00"
 }

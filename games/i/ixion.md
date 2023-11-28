@@ -5,21 +5,21 @@ Rating: 4.57 (Ranked 474)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 29.00% | ~977 |
+| Wakey Wakey | 29.00% | ~978 |
 | Sputnik 2049 | 26.00% | ~876 |
-| Infinite Growth... | 25.00% | ~842 |
+| Infinite Growth... | 25.00% | ~843 |
 | Without Breaking Some Eggs... | 24.00% | ~809 |
-| Ready for a New World | 18.00% | ~606 |
+| Ready for a New World | 18.00% | ~607 |
 | Space Society | 17.00% | ~573 |
 | A Thousand Strong | 17.00% | ~573 |
-| Permanent Redesigns | 15.00% | ~505 |
+| Permanent Redesigns | 15.00% | ~506 |
 | Fully Recycled | 14.00% | ~472 |
 | The Ship of Theseus | 14.00% | ~472 |
 | Guy de Borderlands | 13.00% | ~438 |
 | Ain't Nobody Got Time for That | 13.00% | ~438 |
-| Exceeding Capacity | 12.00% | ~404 |
-| Breaking Protocol | 12.00% | ~404 |
-| Hope Seeker | 12.00% | ~404 |
+| Exceeding Capacity | 12.00% | ~405 |
+| Breaking Protocol | 12.00% | ~405 |
+| Hope Seeker | 12.00% | ~405 |
 | A Hunk of Junk | 11.00% | ~371 |
 | Man's Best Friend | 9.00% | ~303 |
 | Power Outage | 8.00% | ~270 |
@@ -30,11 +30,11 @@ Rating: 4.57 (Ranked 474)
 | From the Past | 7.00% | ~236 |
 | Access Granted | 6.00% | ~202 |
 | All in Good Health | 6.00% | ~202 |
-| Oats | 5.00% | ~168 |
-| What They Hide From Us | 5.00% | ~168 |
-| ...  in a finite world | 5.00% | ~168 |
-| BRAWL! | 5.00% | ~168 |
-| What the Ruins Teach Us | 5.00% | ~168 |
+| Oats | 5.00% | ~169 |
+| What They Hide From Us | 5.00% | ~169 |
+| ...  in a finite world | 5.00% | ~169 |
+| BRAWL! | 5.00% | ~169 |
+| What the Ruins Teach Us | 5.00% | ~169 |
 | Sustainable Energy | 4.00% | ~135 |
 | In Dolos We Trust | 4.00% | ~135 |
 | Pedal to the Metal | 4.00% | ~135 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 474)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,369 (Ranked 207)  
+Progressed: 3,371 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 3,349 | 0 |
 | 2023-11-26 | 3,362 | 0 |
 | 2023-11-27 | 3,367 | 0 |
-| 2023-11-28 | 3,369 | 0 |
+| 2023-11-28 | 3,371 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

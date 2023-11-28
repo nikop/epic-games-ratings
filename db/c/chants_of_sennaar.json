@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 787,
+  "EOS_Progressed": 788,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.34,
+  "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3185,6 +3185,11 @@
       "Time": "2023-11-28T16:04:34.7359132+00:00",
       "NumProgressed": 787,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-28T17:04:47.2343984+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 25,
@@ -3242,9 +3247,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 118
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3284,15 +3289,15 @@
       "Name": "A Link to the Past",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 118
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3316,7 +3321,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3324,7 +3329,7 @@
       "Name": "Fashion victim",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -3340,7 +3345,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3356,7 +3361,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "PROGRESS_N2",
@@ -3388,21 +3393,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 787,
+      "Progressed": 788,
       "Completed": 42
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:04:34.7359128+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:04:47.2343978+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:57:44.9144025+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:04:34.7359478+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:57:54.1501325+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:04:47.234425+00:00"
 }

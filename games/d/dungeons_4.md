@@ -10,26 +10,26 @@
 | Hammer Time, Round Two | 79.00% | ~384 |
 | The Hellwoods | 73.00% | ~355 |
 | The Plains of Strothalm | 68.00% | ~330 |
+| Experienced Thalya | 68.00% | ~330 |
 | Thalya's Concentrated Fury | 67.00% | ~326 |
-| Experienced Thalya | 67.00% | ~326 |
 | Bad Elves Go Everywhere | 65.00% | ~316 |
 | Master of Magic | 63.00% | ~306 |
 | Heroes’ Gorge | 59.00% | ~287 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~282 |
-| Magic Accidents | 56.00% | ~272 |
+| Magic Accidents | 57.00% | ~277 |
 | Trap Master | 55.00% | ~267 |
 | Minions, Minions! | 53.00% | ~258 |
-| The Ascent | 49.00% | ~238 |
-| It's Warm and Cozy at Home | 49.00% | ~238 |
+| The Ascent | 50.00% | ~243 |
+| It's Warm and Cozy at Home | 50.00% | ~243 |
 | YOU SHALL NOT PASS! | 45.00% | ~219 |
 | Hard Work | 45.00% | ~219 |
-| The Big Eaty | 42.00% | ~204 |
+| The Big Eaty | 43.00% | ~209 |
 | Pure Dynamite! | 40.00% | ~194 |
 | “… like son” | 38.00% | ~185 |
 | Mana Cannon | 36.00% | ~175 |
 | Dungeonlord Gorgu | 34.00% | ~165 |
+| Shame! Shame! Shame! | 34.00% | ~165 |
 | The Cathedral of Light | 33.00% | ~160 |
-| Shame! Shame! Shame! | 33.00% | ~160 |
 | Tanos' Crusade Against Thalya | 30.00% | ~146 |
 | All’s Well That Ends Evil | 26.00% | ~126 |
 | Unstoppable Horde | 24.00% | ~117 |
@@ -45,12 +45,12 @@
 | Doom Hill | 16.00% | ~78 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~73 |
 | Brimstone Shaken, Not Stirred | 15.00% | ~73 |
+| Bonus Evilness | 14.00% | ~68 |
 | Sabotage! | 14.00% | ~68 |
-| Bonus Evilness | 13.00% | ~63 |
 | Raiders of the Lost Stone | 13.00% | ~63 |
 | The Rune Sockets of Finitude (Part 1) | 13.00% | ~63 |
 | My Little Torture Chamber | 12.00% | ~58 |
-| Lavalumps on Ice! | 11.00% | ~53 |
+| Lavalumps on Ice! | 12.00% | ~58 |
 | The Rune Sockets of Finitude (Part 2) | 11.00% | ~53 |
 | Rubble and Ashes | 10.00% | ~49 |
 | Untouchable | 9.00% | ~44 |

@@ -2,7 +2,7 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 415,
+  "Ranking_Rating": 416,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 175,
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8142,
+  "EOS_Progressed": 8143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7648,6 +7648,11 @@
       "Time": "2023-11-28T15:09:42.2016893+00:00",
       "NumProgressed": 8142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T17:09:22.4953598+00:00",
+      "NumProgressed": 8143,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7660,7 +7665,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7668,7 +7673,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7684,7 +7689,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -7748,7 +7753,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -7820,7 +7825,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -7939,22 +7944,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8142,
+      "Progressed": 8143,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 759,
-      "Completed": 759
+      "Progressed": 760,
+      "Completed": 760
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:09:09.8966489+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:09:22.4953594+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:02:49.6508332+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:09:09.8967078+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:02:59.1454239+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:09:22.4954197+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6949,10 +6949,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11917,
       "NumberOfAwardsMax": 7784
+    },
+    {
+      "Time": "2023-11-28T16:57:38.3533806+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11920,
+      "NumberOfAwardsMax": 7784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11917,
+  "NumberOfAwards": 11920,
   "NumberOfAwardsMax": 7784,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6978,7 +6984,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 598
+      "Count": 601
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7011,10 +7017,10 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 727152,
-  "EOS_Completed": 2445,
-  "EOS_NewPlayers": 5329,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 727178,
+  "EOS_Completed": 2446,
+  "EOS_NewPlayers": 5319,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32446,6 +32452,11 @@
       "Time": "2023-11-28T16:07:56.6521025+00:00",
       "NumProgressed": 727152,
       "NumCompleted": 2445
+    },
+    {
+      "Time": "2023-11-28T17:08:09.6592171+00:00",
+      "NumProgressed": 727178,
+      "NumCompleted": 2446
     }
   ],
   "TotalAchievements": 51,
@@ -32497,7 +32508,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "ach_blueprinted",
@@ -32521,7 +32532,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14543
+      "UsersEstimate": 14544
     },
     {
       "ID": "ach_contender",
@@ -32577,7 +32588,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14543
+      "UsersEstimate": 14544
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -32601,7 +32612,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14543
+      "UsersEstimate": 14544
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -32617,7 +32628,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14543
+      "UsersEstimate": 14544
     },
     {
       "ID": "ach_impressive_aim",
@@ -32641,7 +32652,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -32681,7 +32692,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "ach_metropolitan",
@@ -32705,7 +32716,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6545
     },
     {
       "ID": "ach_salvation",
@@ -32721,7 +32732,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "ach_skilled_up",
@@ -32793,7 +32804,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14543
+      "UsersEstimate": 14544
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32825,7 +32836,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ach_gardening_tools",
@@ -32864,22 +32875,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727152,
-      "Completed": 2445
+      "Progressed": 727178,
+      "Completed": 2446
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 52694,
+      "Progressed": 52720,
       "Completed": 36611
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-28T14:57:38.9334268+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:07:56.652102+00:00",
+  "LastChanged": "2023-11-28T16:57:38.3533804+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:08:09.6592166+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:57:28.9134748+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:07:56.6522971+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:57:38.3533811+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:08:09.6593604+00:00"
 }

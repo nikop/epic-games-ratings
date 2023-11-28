@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,687 |
-| Man of politics | 34.00% | ~5,684 |
-| Friends of sorts | 33.00% | ~5,517 |
-| Yet another secret | 33.00% | ~5,517 |
+| Tattletale | 40.00% | ~6,688 |
+| Man of politics | 34.00% | ~5,685 |
+| Friends of sorts | 33.00% | ~5,518 |
+| Yet another secret | 33.00% | ~5,518 |
 | Let there be darkness | 32.00% | ~5,350 |
-| End of Book One | 30.00% | ~5,015 |
-| Garden of Eden | 24.00% | ~4,012 |
-| Full house | 24.00% | ~4,012 |
-| Wannabe knight | 23.00% | ~3,845 |
+| End of Book One | 30.00% | ~5,016 |
+| Garden of Eden | 24.00% | ~4,013 |
+| Wannabe knight | 23.00% | ~3,846 |
+| Full house | 23.00% | ~3,846 |
 | Help an old friend | 21.00% | ~3,511 |
 | Two of us | 20.00% | ~3,344 |
-| Negotiation skills | 18.00% | ~3,009 |
-| Workers' union | 18.00% | ~3,009 |
-| End of Book Two | 18.00% | ~3,009 |
+| Negotiation skills | 18.00% | ~3,010 |
+| Workers' union | 18.00% | ~3,010 |
+| End of Book Two | 18.00% | ~3,010 |
 | Everything's in order | 17.00% | ~2,842 |
 | Twist of Fate | 14.00% | ~2,341 |
 | Jack was here! | 14.00% | ~2,341 |
-| Exterminator | 13.00% | ~2,173 |
+| Exterminator | 13.00% | ~2,174 |
 | Whodunnit | 12.00% | ~2,006 |
 | First profit | 11.00% | ~1,839 |
 | Good midwife | 10.00% | ~1,672 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,505 |
 | The truth revealed | 9.00% | ~1,505 |
 | The End. | 9.00% | ~1,505 |
-| A cry for help | 8.00% | ~1,337 |
+| A cry for help | 8.00% | ~1,338 |
 | Silentium est aureum | 7.00% | ~1,170 |
 | Rebel without a cause | 6.00% | ~1,003 |
 | Staring contest champion | 5.00% | ~836 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~502 |
 | Boy of mystery | 2.00% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,718 (Ranked 148)  
+Progressed: 16,720 (Ranked 148)  
 Completed: 116 (0.69%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 116 (0.69%) (Ranked 185)
 | 2023-11-25 | 16,661 | 116 |
 | 2023-11-26 | 16,690 | 116 |
 | 2023-11-27 | 16,709 | 116 |
-| 2023-11-28 | 16,718 | 116 |
+| 2023-11-28 | 16,720 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 315)  
 Sum: 198 (Ranked 400)  

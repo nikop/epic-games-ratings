@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18937,
+  "EOS_Progressed": 18939,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13274,6 +13274,11 @@
       "Time": "2023-11-28T16:03:07.0094872+00:00",
       "NumProgressed": 18937,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-28T17:03:17.0811715+00:00",
+      "NumProgressed": 18939,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13285,7 +13290,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5681
+      "UsersEstimate": 5682
     },
     {
       "ID": "0002",
@@ -13301,7 +13306,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3219
+      "UsersEstimate": 3220
     },
     {
       "ID": "0004",
@@ -13325,7 +13330,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "0007",
@@ -13357,7 +13362,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "0011",
@@ -13421,7 +13426,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "0019",
@@ -13469,7 +13474,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4166
+      "UsersEstimate": 4167
     },
     {
       "ID": "0025",
@@ -13485,7 +13490,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "0027",
@@ -13549,7 +13554,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "0035",
@@ -13572,7 +13577,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18937,
+      "Progressed": 18939,
       "Completed": 4
     }
   ],
@@ -13580,8 +13585,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:03:07.0094868+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:03:17.081171+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:57:39.9416133+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:03:07.0095621+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:57:48.9851976+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:03:17.0812813+00:00"
 }

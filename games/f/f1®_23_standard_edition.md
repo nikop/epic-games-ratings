@@ -5,25 +5,25 @@ Rating: 4.68 (Ranked 254)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,594 |
-| On the Top Step | 88.00% | ~5,237 |
-| Setting up for Success | 78.00% | ~4,642 |
-| Team Orders | 75.00% | ~4,463 |
-| Engineer | 56.00% | ~3,333 |
-| Familiar Faces | 48.00% | ~2,856 |
-| Sharing the Love | 43.00% | ~2,559 |
-| Going the Extra Mile | 42.00% | ~2,499 |
-| Hitting a Season | 40.00% | ~2,380 |
-| A Dozen Pieces | 34.00% | ~2,023 |
-| Challenge Yourself | 34.00% | ~2,023 |
-| Making History | 32.00% | ~1,904 |
-| Network Success | 28.00% | ~1,666 |
-| Writing a new Chapter | 26.00% | ~1,547 |
-| Spring Cleaning | 24.00% | ~1,428 |
+| Getting on the Step | 94.00% | ~5,596 |
+| On the Top Step | 88.00% | ~5,239 |
+| Setting up for Success | 78.00% | ~4,643 |
+| Team Orders | 75.00% | ~4,465 |
+| Engineer | 56.00% | ~3,334 |
+| Familiar Faces | 48.00% | ~2,857 |
+| Sharing the Love | 43.00% | ~2,560 |
+| Going the Extra Mile | 42.00% | ~2,500 |
+| Hitting a Season | 40.00% | ~2,381 |
+| A Dozen Pieces | 34.00% | ~2,024 |
+| Challenge Yourself | 34.00% | ~2,024 |
+| Making History | 32.00% | ~1,905 |
+| Network Success | 28.00% | ~1,667 |
+| Writing a new Chapter | 26.00% | ~1,548 |
+| Spring Cleaning | 24.00% | ~1,429 |
 | Reduce | 21.00% | ~1,250 |
 | Ups and Downs | 21.00% | ~1,250 |
-| Crucial Combo | 20.00% | ~1,190 |
-| Reuse | 18.00% | ~1,071 |
+| Crucial Combo | 20.00% | ~1,191 |
+| Reuse | 18.00% | ~1,072 |
 | One for the Book | 17.00% | ~1,012 |
 | Proving Them Wrong | 17.00% | ~1,012 |
 | Gathering Dust | 16.00% | ~952 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 254)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,951 (Ranked 186)  
+Progressed: 5,953 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,11 +131,11 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 5,910 | 0 |
 | 2023-11-26 | 5,930 | 0 |
 | 2023-11-27 | 5,947 | 0 |
-| 2023-11-28 | 5,951 | 0 |
+| 2023-11-28 | 5,953 | 0 |
 ## Awards
-Max (Diverse Characters): 26  (Ranked 515)  
+Max (Diverse Characters): 26  (Ranked 516)  
 Sum: 94 (Ranked 452)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

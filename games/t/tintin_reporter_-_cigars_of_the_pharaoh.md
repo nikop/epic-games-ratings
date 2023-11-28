@@ -18,18 +18,19 @@
 | Mummy Nightmare | 5.00% | ~4 |
 | Dynamite, Treason and Coconuts | 5.00% | ~4 |
 | Save a Friend | 5.00% | ~4 |
+| The Eyes! | 4.00% | ~3 |
 | The Corporal's Golden Boy | 4.00% | ~3 |
+| Punctual | 4.00% | ~3 |
 | Barking Dog | 4.00% | ~3 |
-| The Eyes! | 3.00% | ~2 |
 | Keep the Doctor Away | 3.00% | ~2 |
 | Just a Palm Tree | 3.00% | ~2 |
 | Under the Hood | 3.00% | ~2 |
 | Long Live Gaipajama! | 3.00% | ~2 |
-| Punctual | 3.00% | ~2 |
+| Eyes Shut | 3.00% | ~2 |
 | Threat | 3.00% | ~2 |
-| Eyes Shut | 1.00% | ~1 |
 | A Diagnosis | 1.00% | ~1 |
 | A Yummy Detour | 1.00% | ~1 |
+| Subtlety | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Tintin, Reporter | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | Broken Brotherhood | 0.00% | ~0 |
 | Mountain Runner | 0.00% | ~0 |
 | The Pharaoh's New Clothes | 0.00% | ~0 |
-| Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 73 (Ranked 464)  

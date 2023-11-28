@@ -1243,9 +1243,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 277
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1283,9 +1283,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 330
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -1331,9 +1331,9 @@
       "ID": "ach_main07storm_completed",
       "SetID": "4hg22ll",
       "Name": "The Ascent",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 243
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -1347,17 +1347,17 @@
       "ID": "ach_main07storm_storm",
       "SetID": "4hg22ll",
       "Name": "It\u0027s Warm and Cozy at Home",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 243
     },
     {
       "ID": "ach_main08sacrifice_completed",
       "SetID": "4hg22ll",
       "Name": "The Big Eaty",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -1419,9 +1419,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -1491,9 +1491,9 @@
       "ID": "ach_main13tanos_evilbosses",
       "SetID": "4hg22ll",
       "Name": "Bonus Evilness",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_main14run_completed",
@@ -1555,9 +1555,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -1674,8 +1674,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-28T16:07:48.9227092+00:00",
+  "LastChanged_Achievements": "2023-11-28T17:08:01.8698124+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:59:45.9152352+00:00",
-  "LastUpdate_Achievements": "2023-11-28T16:07:48.9227844+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:59:56.295124+00:00",
+  "LastUpdate_Achievements": "2023-11-28T17:08:01.8698606+00:00"
 }

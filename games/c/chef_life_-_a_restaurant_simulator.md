@@ -12,7 +12,7 @@
 | S is for Scrumptious | 17.00% | ~120 |
 | Next Level Cuisine | 10.00% | ~71 |
 | Haute Cuisine | 9.00% | ~64 |
-| Italian Style | 7.00% | ~49 |
+| Italian Style | 7.00% | ~50 |
 | Sous-Chef | 5.00% | ~35 |
 | Rolling in Dough | 5.00% | ~35 |
 | Well-Stocked Kitchen | 5.00% | ~35 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707 (Ranked 282)  
+Progressed: 708 (Ranked 282)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 698 | 0 |
 | 2023-11-26 | 701 | 0 |
 | 2023-11-27 | 706 | 0 |
-| 2023-11-28 | 707 | 0 |
+| 2023-11-28 | 708 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
