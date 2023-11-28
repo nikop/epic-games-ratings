@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1748,
+  "EOS_Progressed": 1750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4396,6 +4396,11 @@
       "Time": "2023-11-28T19:07:27.7677015+00:00",
       "NumProgressed": 1748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T22:05:27.9353634+00:00",
+      "NumProgressed": 1750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4455,7 +4460,7 @@
       "Name": "Hot Repairs",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_LETS_COOK",
@@ -4487,7 +4492,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4527,7 +4532,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4543,7 +4548,7 @@
       "Name": "Caveman",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
@@ -4567,7 +4572,7 @@
       "Name": "DeDust",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -4583,7 +4588,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4599,7 +4604,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4639,7 +4644,7 @@
       "Name": "ITS crash site",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -4655,7 +4660,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4663,7 +4668,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4671,7 +4676,7 @@
       "Name": "Never Ending Story?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
@@ -4679,7 +4684,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4687,7 +4692,7 @@
       "Name": "One does not simply...",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -4711,7 +4716,7 @@
       "Name": "Roadster",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROCKET_JUMP",
@@ -4767,7 +4772,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4775,7 +4780,7 @@
       "Name": "Thunderstruck",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
@@ -4790,7 +4795,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1748,
+      "Progressed": 1750,
       "Completed": 0
     }
   ],
@@ -4798,8 +4803,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:06:55.3453243+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:05:27.9353631+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.1060902+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:58:29.9222879+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:06:55.3453793+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:58:00.7433523+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:05:27.9354404+00:00"
 }

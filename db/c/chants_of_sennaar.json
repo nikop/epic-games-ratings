@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.31,
+  "EOS_Completed_Percentage": 5.3,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3200,6 +3200,11 @@
       "Time": "2023-11-28T20:05:42.4145903+00:00",
       "NumProgressed": 791,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-28T22:04:27.8494562+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 25,
@@ -3219,7 +3224,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "META_ALL_LINK",
@@ -3257,9 +3262,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 127
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3331,7 +3336,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3347,7 +3352,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3379,7 +3384,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "PROGRESS_N3",
@@ -3410,14 +3415,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 42
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:05:35.3009788+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:04:27.8494559+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:58:02.3464172+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:05:35.3010087+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:57:41.7190394+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:04:27.8494875+00:00"
 }

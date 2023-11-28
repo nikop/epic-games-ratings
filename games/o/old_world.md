@@ -148,6 +148,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beja Archer | 0.70% | ~109 |
 | Old | 0.60% | ~93 |
 | Old World Order | 0.60% | ~93 |
+| Ten Crowns | 0.60% | ~93 |
 | No Undo | 0.60% | ~93 |
 | Ancient | 0.50% | ~78 |
 | Glorious Difficulty | 0.50% | ~78 |
@@ -156,7 +157,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.50% | ~78 |
 | Play a Network Game | 0.50% | ~78 |
 | Capturing Cities | 0.50% | ~78 |
-| Ten Crowns | 0.50% | ~78 |
 | Three Man Chariot | 0.50% | ~78 |
 | Siege Tower | 0.50% | ~78 |
 | Conquest Victory | 0.50% | ~78 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,533 (Ranked 152)  
+Progressed: 15,534 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 5 (0.03%) (Ranked 327)
 | 2023-11-25 | 15,489 | 5 |
 | 2023-11-26 | 15,514 | 5 |
 | 2023-11-27 | 15,525 | 5 |
-| 2023-11-28 | 15,533 | 5 |
+| 2023-11-28 | 15,534 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,879 (Ranked 218)  

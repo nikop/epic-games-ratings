@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,051 |
 | Adept Good Guy | 0.10% | ~1,051 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050,599 (Ranked 14)  
+Progressed: 1,050,714 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,10 +461,10 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-25 | 1,044,518 | 60 |
 | 2023-11-26 | 1,047,100 | 60 |
 | 2023-11-27 | 1,048,888 | 61 |
-| 2023-11-28 | 1,050,599 | 61 |
+| 2023-11-28 | 1,050,714 | 61 |
 ## Awards
 Max (Diverse Characters): 36,768  (Ranked 15)  
-Sum: 279,869 (Ranked 12)  
+Sum: 279,989 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -472,10 +472,10 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 32,049 |
 | This game has Amazing Characters | 31,565 |
 | This game has Competitive Players | 31,416 |
-| This game is Extremely Fun | 31,068 |
+| This game is Extremely Fun | 31,124 |
 | This game has Challenging Combat | 30,894 |
 | This game has Quickly Understood Controls | 30,309 |
-| This game has Amazing Storytelling | 28,562 |
+| This game has Amazing Storytelling | 28,626 |
 | This game has a Competitive Community | 27,238 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -790,4 +790,4 @@ Diff (max vs sum): 3
 | 2023-11-25 | 4.51 | - | 36,585 | 278,953 |
 | 2023-11-26 | 4.51 | - | 36,632 | 279,309 |
 | 2023-11-27 | 4.51 | - | 36,673 | 279,577 |
-| 2023-11-28 | 4.51 | - | 36,768 | 279,869 |
+| 2023-11-28 | 4.51 | - | 36,768 | 279,989 |

@@ -949,9 +949,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9105,
+  "EOS_Progressed": 9106,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8399,6 +8399,11 @@
       "Time": "2023-11-28T21:06:53.8484916+00:00",
       "NumProgressed": 9105,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-28T22:05:26.8694016+00:00",
+      "NumProgressed": 9106,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8426,7 +8431,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -8466,7 +8471,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -8546,7 +8551,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -8586,7 +8591,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -8602,7 +8607,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4279
+      "UsersEstimate": 4280
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8658,7 +8663,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -8682,7 +8687,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -8738,7 +8743,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4553
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8769,7 +8774,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9105,
+      "Progressed": 9106,
       "Completed": 10
     }
   ],
@@ -8777,8 +8782,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-26T17:59:39.1110954+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:06:53.8484912+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:05:26.8694012+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:01:04.4251557+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:06:53.848543+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:59:46.4560198+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:05:26.8694742+00:00"
 }

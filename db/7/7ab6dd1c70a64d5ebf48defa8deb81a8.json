@@ -1040,9 +1040,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_14",
@@ -1056,9 +1056,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_16",
@@ -1239,8 +1239,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:10:05.8864521+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:08:57.4024803+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2061003+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:01:03.8962394+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:10:05.8864767+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:59:46.0685236+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:08:57.4025051+00:00"
 }

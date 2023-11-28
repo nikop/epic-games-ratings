@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 659,
+  "EOS_Progressed": 660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1460,6 +1460,11 @@
       "Time": "2023-11-28T21:10:01.7449147+00:00",
       "NumProgressed": 659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T22:08:54.2462676+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1486,9 +1491,9 @@
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 171
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_12",
@@ -1560,7 +1565,7 @@
       "Name": "Team Principal",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "achievement_20",
@@ -1600,7 +1605,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_25",
@@ -1679,7 +1684,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 659,
+      "Progressed": 660,
       "Completed": 0
     }
   ],
@@ -1687,8 +1692,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-28T20:00:54.5834404+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:10:01.7449141+00:00",
-  "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:00:28.2343481+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:10:01.744939+00:00"
+  "LastChanged_Achievements": "2023-11-28T22:08:54.2462665+00:00",
+  "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
+  "LastUpdate_Ratings": "2023-11-28T21:59:20.6913236+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:08:54.2462948+00:00"
 }

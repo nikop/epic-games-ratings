@@ -4825,10 +4825,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6091,
       "NumberOfAwardsMax": 2498
+    },
+    {
+      "Time": "2023-11-28T22:02:48.0751621+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6096,
+      "NumberOfAwardsMax": 2498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6091,
+  "NumberOfAwards": 6096,
   "NumberOfAwardsMax": 2498,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4848,7 +4854,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 375
+      "Count": 380
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4899,9 +4905,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 230153,
+  "EOS_Progressed": 230169,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 4950,
+  "EOS_NewPlayers": 4939,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -20404,6 +20410,11 @@
       "Time": "2023-11-28T21:09:07.9424525+00:00",
       "NumProgressed": 230153,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-28T22:08:13.6476474+00:00",
+      "NumProgressed": 230169,
+      "NumCompleted": 541
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20464,7 +20475,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -20520,7 +20531,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -20536,7 +20547,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -20560,7 +20571,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Meet_Flautist",
@@ -20568,7 +20579,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Meet_Meidra",
@@ -20608,7 +20619,7 @@
       "Name": "Duality",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -20648,7 +20659,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Obtain_Guns_A",
@@ -20792,7 +20803,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -20855,22 +20866,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230153,
+      "Progressed": 230169,
       "Completed": 541
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9318,
-      "Completed": 166
+      "Progressed": 9334,
+      "Completed": 167
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-28T14:03:12.9307321+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:09:07.9424523+00:00",
+  "LastChanged": "2023-11-28T22:02:48.0751619+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:08:13.6476472+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:03:22.0920607+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:09:07.9425445+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:02:48.0751624+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:08:13.6477341+00:00"
 }

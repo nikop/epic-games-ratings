@@ -5,16 +5,16 @@ Rating: 4.39 (Ranked 749)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,742 |
-| IT MAKES BOOM! | 7.00% | ~22,109 |
-| EXTRA BOOST | 5.00% | ~15,792 |
-| PROTECTED | 4.00% | ~12,634 |
-| PRO | 4.00% | ~12,634 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,475 |
-| AGGRESSIVE RACER | 3.00% | ~9,475 |
-| A TIGER'S FEAR | 2.00% | ~6,317 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,158 |
-| ACE SPEEDSTER | 1.00% | ~3,158 |
+| ROOKIE | 11.00% | ~34,747 |
+| IT MAKES BOOM! | 7.00% | ~22,112 |
+| EXTRA BOOST | 5.00% | ~15,794 |
+| PROTECTED | 4.00% | ~12,635 |
+| PRO | 4.00% | ~12,635 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,476 |
+| AGGRESSIVE RACER | 3.00% | ~9,476 |
+| A TIGER'S FEAR | 2.00% | ~6,318 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,159 |
+| ACE SPEEDSTER | 1.00% | ~3,159 |
 | RELEASE THE KRAKEN | 0.90% | ~2,843 |
 | BE OUR GUEST | 0.90% | ~2,843 |
 | MASTER | 0.90% | ~2,843 |
@@ -25,12 +25,12 @@ Rating: 4.39 (Ranked 749)
 | THE EYE OF THE HUNTER | 0.70% | ~2,211 |
 | EXPERIENCED CREW | 0.60% | ~1,895 |
 | ACE DEFENDER | 0.50% | ~1,579 |
-| ACE BRAWLER | 0.40% | ~1,263 |
-| ACE TRICKSTER | 0.40% | ~1,263 |
+| ACE BRAWLER | 0.40% | ~1,264 |
+| ACE TRICKSTER | 0.40% | ~1,264 |
 | FRAMED! | 0.30% | ~948 |
 | PERFECTLY POISED | 0.20% | ~632 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315,840 (Ranked 52)  
+Progressed: 315,879 (Ranked 52)  
 Completed: 344 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,15 +248,15 @@ Completed: 344 (0.11%) (Ranked 281)
 | 2023-11-25 | 312,443 | 330 |
 | 2023-11-26 | 314,023 | 333 |
 | 2023-11-27 | 315,001 | 338 |
-| 2023-11-28 | 315,840 | 344 |
+| 2023-11-28 | 315,879 | 344 |
 ## Awards
 Max (Great for Beginners): 93  (Ranked 375)  
-Sum: 672 (Ranked 304)  
-Diff (max vs sum): 71  
+Sum: 673 (Ranked 302)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 93 |
-| This game is Great for Quick Sessions | 81 |
+| This game is Great for Quick Sessions | 82 |
 | This game has Diverse Characters | 78 |
 | This game has Amazing Characters | 56 |
 | This game is Highly Recommended | 50 |
@@ -328,4 +328,4 @@ Diff (max vs sum): 71
 | 2023-11-25 | 4.39 | 83 | 640 |
 | 2023-11-26 | 4.39 | 87 | 658 |
 | 2023-11-27 | 4.39 | 89 | 665 |
-| 2023-11-28 | 4.39 | 93 | 672 |
+| 2023-11-28 | 4.39 | 93 | 673 |

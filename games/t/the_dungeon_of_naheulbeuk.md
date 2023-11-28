@@ -1,24 +1,24 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,073 |
-| Alt+F4 | 9.00% | ~21,619 |
-| Where's that freaking Dwarf? | 8.00% | ~19,217 |
-| Déjà vu | 6.00% | ~14,412 |
-| Sock! SOCK! | 5.00% | ~12,010 |
-| Speedrun | 5.00% | ~12,010 |
-| A beer, two curses, three companions | 4.00% | ~9,608 |
-| GG EZ | 4.00% | ~9,608 |
-| DM intervention | 4.00% | ~9,608 |
-| Fireproof Wizardess | 4.00% | ~9,608 |
-| Livin' in a dwarven paradise | 3.00% | ~7,206 |
-| Way of the Wimp | 3.00% | ~7,206 |
-| The plot thickens... At the tavern | 3.00% | ~7,206 |
+| Sowwy! | 35.00% | ~84,077 |
+| Alt+F4 | 9.00% | ~21,620 |
+| Where's that freaking Dwarf? | 8.00% | ~19,218 |
+| Déjà vu | 6.00% | ~14,413 |
+| Sock! SOCK! | 5.00% | ~12,011 |
+| Speedrun | 5.00% | ~12,011 |
+| A beer, two curses, three companions | 4.00% | ~9,609 |
+| GG EZ | 4.00% | ~9,609 |
+| DM intervention | 4.00% | ~9,609 |
+| Fireproof Wizardess | 4.00% | ~9,609 |
+| Livin' in a dwarven paradise | 3.00% | ~7,207 |
+| Way of the Wimp | 3.00% | ~7,207 |
+| The plot thickens... At the tavern | 3.00% | ~7,207 |
 | Shiny and Crôm | 2.00% | ~4,804 |
 | The demons' feast | 2.00% | ~4,804 |
 | The Great Library | 2.00% | ~4,804 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,402 |
 | In Navalu's footsteps | 0.90% | ~2,162 |
 | Lëgal Legend | 0.80% | ~1,922 |
-| We come in peace | 0.70% | ~1,681 |
+| We come in peace | 0.70% | ~1,682 |
 | Holistic Adventuring Party | 0.60% | ~1,441 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,441 |
 | Law and Order | 0.60% | ~1,441 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,208 (Ranked 63)  
+Progressed: 240,220 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-25 | 239,618 | 7 |
 | 2023-11-26 | 239,885 | 7 |
 | 2023-11-27 | 240,063 | 7 |
-| 2023-11-28 | 240,208 | 7 |
+| 2023-11-28 | 240,220 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 484 (Ranked 329)  

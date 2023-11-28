@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 57,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -347,9 +347,9 @@
       "ID": "AC_ALL_WEAPON_SLOTS",
       "SetID": "16i2akc",
       "Name": "Armory",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AC_BLACKJACK_GAMES_1",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:04:00.2531552+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:03:16.4163619+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:00:17.6631512+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:04:00.2531816+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:59:13.2691385+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:03:16.4163934+00:00"
 }

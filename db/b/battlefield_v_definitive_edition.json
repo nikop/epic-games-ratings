@@ -2,7 +2,7 @@
   "ID": "bf5708c386744107b8a8a24ac707dd0e",
   "Name": "Battlefield V Definitive Edition",
   "ProductSlug": "battlefield-v-definitive-edition",
-  "Ranking_EOS_Progress": 135,
+  "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 142,
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 22542,
+  "EOS_Progressed": 22543,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1845,
+  "EOS_NewPlayers": 1843,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8173,6 +8173,11 @@
       "Time": "2023-11-28T21:09:42.2403251+00:00",
       "NumProgressed": 22542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T22:08:39.3155889+00:00",
+      "NumProgressed": 22543,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -8193,7 +8198,7 @@
       "Name": "Globetrotter",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "achievement_11",
@@ -8217,7 +8222,7 @@
       "Name": "Grim Reaper",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 16906
+      "UsersEstimate": 16907
     },
     {
       "ID": "achievement_14",
@@ -8233,7 +8238,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 11947
+      "UsersEstimate": 11948
     },
     {
       "ID": "achievement_16",
@@ -8281,7 +8286,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 20964
+      "UsersEstimate": 20965
     },
     {
       "ID": "achievement_21",
@@ -8289,7 +8294,7 @@
       "Name": "Not On My Watch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 15779
+      "UsersEstimate": 15780
     },
     {
       "ID": "achievement_3",
@@ -8337,7 +8342,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 16681
+      "UsersEstimate": 16682
     },
     {
       "ID": "achievement_9",
@@ -8352,13 +8357,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 22542,
+      "Progressed": 22543,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:09:42.2403247+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:08:39.3155888+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.1734992+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:59:08.3472966+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:09:42.2403672+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:58:26.1390739+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:08:39.3156429+00:00"
 }

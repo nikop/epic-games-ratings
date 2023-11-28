@@ -6,7 +6,7 @@
   "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 3617,
   "Store": {
@@ -3305,11 +3305,11 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17517,
-  "EOS_Completed": 52,
+  "EOS_Progressed": 17518,
+  "EOS_Completed": 51,
   "EOS_NewPlayers": 149,
-  "EOS_NewCompleters": -4,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_NewCompleters": -5,
+  "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -14370,6 +14370,11 @@
       "Time": "2023-11-28T21:09:01.5572836+00:00",
       "NumProgressed": 17517,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-28T22:08:08.9965779+00:00",
+      "NumProgressed": 17518,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14812,9 +14817,9 @@
       "ID": "WinNearPetrified",
       "SetID": "cfbk359",
       "Name": "Petrified Necropolis",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 158
     },
     {
       "ID": "WinNearPresence",
@@ -14853,15 +14858,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17517,
-      "Completed": 52
+      "Progressed": 17518,
+      "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-27T19:58:26.3844836+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:09:01.5572832+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:08:08.9965774+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:59:09.1943085+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:09:01.5573655+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:58:26.7201096+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:08:08.996683+00:00"
 }

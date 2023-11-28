@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 840,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1931,6 +1931,11 @@
       "Time": "2023-11-27T12:09:14.6128533+00:00",
       "NumProgressed": 837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T22:08:13.8332586+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1942,7 +1947,7 @@
       "Name": "Augmented",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1958,7 +1963,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -2038,7 +2043,7 @@
       "Name": "Inner Core",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHV_INTEGRATION",
@@ -2070,7 +2075,7 @@
       "Name": "Nanonic III",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -2110,7 +2115,7 @@
       "Name": "Terminated I",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -2118,7 +2123,7 @@
       "Name": "Terminated II",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -2173,13 +2178,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 840,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 263,
+      "Progressed": 266,
       "Completed": 3
     }
   ],
@@ -2187,8 +2192,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:09:08.1836896+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:08:13.8332582+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6784988+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:59:20.6579935+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:09:08.1837172+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:58:34.5848136+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:08:13.8332871+00:00"
 }

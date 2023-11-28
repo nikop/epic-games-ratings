@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -243,10 +243,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2163,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 154,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.51,
+  "EOS_Completed": 10,
+  "EOS_NewPlayers": 153,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:46.139377+00:00",
@@ -3602,6 +3602,11 @@
       "Time": "2023-11-28T21:04:58.5684517+00:00",
       "NumProgressed": 2163,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-28T22:04:00.6396735+00:00",
+      "NumProgressed": 2163,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3835,9 +3840,9 @@
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1146
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3853,7 +3858,7 @@
       "ID": "9lj35g4",
       "IsBase": true,
       "Progressed": 2163,
-      "Completed": 11
+      "Completed": 10
     },
     {
       "ID": "cbf1i0c",
@@ -3866,8 +3871,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:04:58.5684513+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:04:00.639673+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:01:58.5678855+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:04:58.5684795+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:56:53.0783738+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:04:00.6397088+00:00"
 }

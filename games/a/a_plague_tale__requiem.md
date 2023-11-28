@@ -5,23 +5,23 @@ Rating: 4.73 (Ranked 171)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 93.00% | ~13,043 |
-| Newcomers | 79.00% | ~11,080 |
-| A Burden of Blood | 74.00% | ~10,378 |
+| Under a New Sun | 93.00% | ~13,044 |
+| Newcomers | 79.00% | ~11,081 |
+| A Burden of Blood | 74.00% | ~10,379 |
 | Protector's Duty | 71.00% | ~9,958 |
-| In our Wake | 69.00% | ~9,677 |
-| Alchemist | 69.00% | ~9,677 |
-| Leaving all Behind | 66.00% | ~9,256 |
+| In our Wake | 69.00% | ~9,678 |
+| Alchemist | 69.00% | ~9,678 |
+| Leaving all Behind | 66.00% | ~9,257 |
 | Felons | 63.00% | ~8,836 |
 | A Sea of Promises | 62.00% | ~8,696 |
-| Tales and Revelations | 58.00% | ~8,134 |
-| Bloodline | 53.00% | ~7,433 |
-| The Cradle of Centuries | 50.00% | ~7,012 |
+| Tales and Revelations | 58.00% | ~8,135 |
+| Bloodline | 53.00% | ~7,434 |
+| The Cradle of Centuries | 50.00% | ~7,013 |
 | The Life We Deserve | 47.00% | ~6,592 |
 | Night guard | 44.00% | ~6,171 |
 | Nothing Left | 40.00% | ~5,610 |
 | Healing our Wounds | 38.00% | ~5,330 |
-| Dying Sun | 34.00% | ~4,768 |
+| Dying Sun | 34.00% | ~4,769 |
 | Improved crossbow | 27.00% | ~3,787 |
 | King Hugo | 25.00% | ~3,506 |
 | Mercy | 24.00% | ~3,366 |
@@ -37,11 +37,11 @@ Rating: 4.73 (Ranked 171)
 | Ornithologist | 5.00% | ~701 |
 | Immortal memories | 4.00% | ~561 |
 | Sneaky | 4.00% | ~561 |
-| Explorer | 2.00% | ~280 |
-| Old protector | 2.00% | ~280 |
+| Explorer | 2.00% | ~281 |
+| Old protector | 2.00% | ~281 |
 | Malignant | 1.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,025 (Ranked 154)  
+Progressed: 14,026 (Ranked 154)  
 Completed: 55 (0.39%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 55 (0.39%) (Ranked 222)
 | 2023-11-25 | 14,002 | 55 |
 | 2023-11-26 | 14,013 | 55 |
 | 2023-11-27 | 14,018 | 55 |
-| 2023-11-28 | 14,025 | 55 |
+| 2023-11-28 | 14,026 | 55 |
 ## Awards
 Max (Great Boss Battles): 432  (Ranked 225)  
 Sum: 679 (Ranked 299)  

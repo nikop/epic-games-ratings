@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,563 |
-| Basic in Bulk | 6.00% | ~8,563 |
-| Titan's First Steps | 6.00% | ~8,563 |
-| Tinkle of Coins | 5.00% | ~7,136 |
+| Sponsored by Argon | 6.00% | ~8,564 |
+| Basic in Bulk | 6.00% | ~8,564 |
+| Titan's First Steps | 6.00% | ~8,564 |
+| Tinkle of Coins | 5.00% | ~7,137 |
 | Disintermediation | 4.00% | ~5,709 |
 | Another Satisfied Customer | 4.00% | ~5,709 |
 | It's Free Real Estate | 4.00% | ~5,709 |
@@ -25,45 +25,45 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 3.00% | ~4,282 |
 | Through Repetition, Perfection | 3.00% | ~4,282 |
 | Own the Means of Production | 3.00% | ~4,282 |
-| On the Path to Greatness | 2.00% | ~2,854 |
-| A Notch Above the Rest | 2.00% | ~2,854 |
-| Ascended | 2.00% | ~2,854 |
-| Tax not Included | 2.00% | ~2,854 |
-| The King's Caprice | 2.00% | ~2,854 |
-| Research & Development | 2.00% | ~2,854 |
-| Vanity, Verily | 2.00% | ~2,854 |
-| Big Game Hunting | 2.00% | ~2,854 |
-| Fated Encounters | 2.00% | ~2,854 |
-| For the Hoard! | 2.00% | ~2,854 |
-| Blank Page Syndrome | 2.00% | ~2,854 |
-| Scrapbooker | 2.00% | ~2,854 |
-| Demand for Supplies | 2.00% | ~2,854 |
-| Locally Sourced | 2.00% | ~2,854 |
-| Flying off the Shelves | 2.00% | ~2,854 |
-| Where it Hurts | 2.00% | ~2,854 |
-| This Power Level...! | 2.00% | ~2,854 |
-| Hidden Potential | 2.00% | ~2,854 |
-| Power of Love | 2.00% | ~2,854 |
-| Expansion in Session | 2.00% | ~2,854 |
-| Efficient Floor Space | 2.00% | ~2,854 |
-| Cranked up to 11 | 2.00% | ~2,854 |
-| Flawless Fusion | 2.00% | ~2,854 |
-| Trash to Treasure | 2.00% | ~2,854 |
-| Gem Expert | 2.00% | ~2,854 |
-| Gild-Gotten Goods | 2.00% | ~2,854 |
-| Royal Ransom | 2.00% | ~2,854 |
-| Mammonite | 2.00% | ~2,854 |
-| Helping Hand | 2.00% | ~2,854 |
-| Accomplished Merchant | 2.00% | ~2,854 |
-| Laden with Loot | 2.00% | ~2,854 |
-| Natural 20 | 2.00% | ~2,854 |
-| Seasoned Journeyman | 2.00% | ~2,854 |
-| Did we pack lunch? | 2.00% | ~2,854 |
-| Black Friday Special | 2.00% | ~2,854 |
-| Magical Harmony | 2.00% | ~2,854 |
-| Special Ingredient | 2.00% | ~2,854 |
-| Arcane Industries | 2.00% | ~2,854 |
-| Complete Monopoly | 2.00% | ~2,854 |
+| On the Path to Greatness | 2.00% | ~2,855 |
+| A Notch Above the Rest | 2.00% | ~2,855 |
+| Ascended | 2.00% | ~2,855 |
+| Tax not Included | 2.00% | ~2,855 |
+| The King's Caprice | 2.00% | ~2,855 |
+| Research & Development | 2.00% | ~2,855 |
+| Vanity, Verily | 2.00% | ~2,855 |
+| Big Game Hunting | 2.00% | ~2,855 |
+| Fated Encounters | 2.00% | ~2,855 |
+| For the Hoard! | 2.00% | ~2,855 |
+| Blank Page Syndrome | 2.00% | ~2,855 |
+| Scrapbooker | 2.00% | ~2,855 |
+| Demand for Supplies | 2.00% | ~2,855 |
+| Locally Sourced | 2.00% | ~2,855 |
+| Flying off the Shelves | 2.00% | ~2,855 |
+| Where it Hurts | 2.00% | ~2,855 |
+| This Power Level...! | 2.00% | ~2,855 |
+| Hidden Potential | 2.00% | ~2,855 |
+| Power of Love | 2.00% | ~2,855 |
+| Expansion in Session | 2.00% | ~2,855 |
+| Efficient Floor Space | 2.00% | ~2,855 |
+| Cranked up to 11 | 2.00% | ~2,855 |
+| Flawless Fusion | 2.00% | ~2,855 |
+| Trash to Treasure | 2.00% | ~2,855 |
+| Gem Expert | 2.00% | ~2,855 |
+| Gild-Gotten Goods | 2.00% | ~2,855 |
+| Royal Ransom | 2.00% | ~2,855 |
+| Mammonite | 2.00% | ~2,855 |
+| Helping Hand | 2.00% | ~2,855 |
+| Accomplished Merchant | 2.00% | ~2,855 |
+| Laden with Loot | 2.00% | ~2,855 |
+| Natural 20 | 2.00% | ~2,855 |
+| Seasoned Journeyman | 2.00% | ~2,855 |
+| Did we pack lunch? | 2.00% | ~2,855 |
+| Black Friday Special | 2.00% | ~2,855 |
+| Magical Harmony | 2.00% | ~2,855 |
+| Special Ingredient | 2.00% | ~2,855 |
+| Arcane Industries | 2.00% | ~2,855 |
+| Complete Monopoly | 2.00% | ~2,855 |
 | Cream of the Crop | 1.00% | ~1,427 |
 | Top of the World | 1.00% | ~1,427 |
 | Proud Paladin | 1.00% | ~1,427 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,724 (Ranked 80)  
+Progressed: 142,732 (Ranked 80)  
 Completed: 284 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 284 (0.20%) (Ranked 258)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,724 | 284 |
+| 2023-11-28 | 142,732 | 284 |
 ## Awards
 Max (Great for Beginners): 4,851  (Ranked 75)  
 Sum: 27,621 (Ranked 50)  

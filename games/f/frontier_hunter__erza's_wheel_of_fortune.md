@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 91.00% | ~371 |
-| Training Simulation | 76.00% | ~310 |
+| Training Simulation | 75.00% | ~306 |
 | Kuku Bird Hunter | 62.00% | ~253 |
 | Storm Traveller | 56.00% | ~228 |
-| Wolf King Killer | 51.00% | ~208 |
 | Fashion Connoisseur | 50.00% | ~204 |
+| Wolf King Killer | 50.00% | ~204 |
 | Arms Mechanic | 45.00% | ~184 |
 | Flower Thief | 42.00% | ~171 |
 | Apostle of Flame | 37.00% | ~151 |
 | Beginner Cook | 35.00% | ~143 |
 | Beginner Artificer | 35.00% | ~143 |
 | Seal Breaker | 31.00% | ~126 |
-| Handyman | 28.00% | ~114 |
+| Handyman | 27.00% | ~110 |
 | Giant Lizard Killer | 26.00% | ~106 |
 | Guardian | 25.00% | ~102 |
 | Nosebleeder | 25.00% | ~102 |
-| Trader | 20.00% | ~82 |
+| Trader | 21.00% | ~86 |
 | Weapon Boost | 20.00% | ~82 |
 | Flying Kobold Killer | 16.00% | ~65 |
 | Youth Magnet | 16.00% | ~65 |

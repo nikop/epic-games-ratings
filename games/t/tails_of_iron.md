@@ -12,7 +12,7 @@ Rating: 4.55 (Ranked 505)
 | Collect Monster Parts | 58.00% | ~1,255 |
 | Two Handed Weapon | 57.00% | ~1,233 |
 | Defeat 25 Grubs | 53.00% | ~1,146 |
-| Rescue Redgi's Brothers | 52.00% | ~1,125 |
+| Rescue Redgi's Brothers | 53.00% | ~1,146 |
 | Collect Iron Ore | 48.00% | ~1,038 |
 | Kitchen Ready To Cook | 48.00% | ~1,038 |
 | Defeat 25 Mozis | 47.00% | ~1,017 |
@@ -37,7 +37,7 @@ Rating: 4.55 (Ranked 505)
 | A new Warchief rises | 0.90% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,163 (Ranked 223)  
-Completed: 11 (0.51%) (Ranked 205)  
+Completed: 10 (0.46%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

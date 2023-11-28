@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement5",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-28T21:05:35.8911181+00:00",
+  "LastChanged_Achievements": "2023-11-28T22:04:28.2234826+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:09.384053+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:02:47.2521514+00:00",
-  "LastUpdate_Achievements": "2023-11-28T21:05:35.891144+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:02:25.087354+00:00",
+  "LastUpdate_Achievements": "2023-11-28T22:04:28.2235071+00:00"
 }

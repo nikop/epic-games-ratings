@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~972,094 |
-| I Need a Bigger Garage | 63.00% | ~680,466 |
-| Pump my Ride | 47.00% | ~507,649 |
-| Ghostbuster | 34.00% | ~367,236 |
-| Call Roadside Assistance | 18.00% | ~194,419 |
-| That Was Close | 18.00% | ~194,419 |
-| Quickie | 11.00% | ~118,812 |
-| California Dreamer | 7.00% | ~75,607 |
-| Can't Touch This | 5.00% | ~54,005 |
-| Carménère Taster | 4.00% | ~43,204 |
-| Comeback | 4.00% | ~43,204 |
-| Driver from Ipanema | 3.00% | ~32,403 |
-| Supersonic | 3.00% | ~32,403 |
-| Marathonist | 3.00% | ~32,403 |
-| Living Legend | 3.00% | ~32,403 |
+| The First of Many | 90.00% | ~972,108 |
+| I Need a Bigger Garage | 63.00% | ~680,476 |
+| Pump my Ride | 47.00% | ~507,656 |
+| Ghostbuster | 34.00% | ~367,241 |
+| Call Roadside Assistance | 18.00% | ~194,422 |
+| That Was Close | 18.00% | ~194,422 |
+| Quickie | 11.00% | ~118,813 |
+| California Dreamer | 7.00% | ~75,608 |
+| Can't Touch This | 5.00% | ~54,006 |
+| Carménère Taster | 4.00% | ~43,205 |
+| Comeback | 4.00% | ~43,205 |
+| Driver from Ipanema | 3.00% | ~32,404 |
+| Supersonic | 3.00% | ~32,404 |
+| Marathonist | 3.00% | ~32,404 |
+| Living Legend | 3.00% | ~32,404 |
 | God of Roads | 2.00% | ~21,602 |
 | Pathfinder | 2.00% | ~21,602 |
 | Go-Kart Champion | 2.00% | ~21,602 |
@@ -44,8 +44,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,080 |
 | Look Mom, No Hands! | 0.10% | ~1,080 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,080,105 (Ranked 13)  
-Completed: 496 (0.05%) (Ranked 314)  
+Progressed: 1,080,120 (Ranked 13)  
+Completed: 496 (0.05%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,7 +266,7 @@ Completed: 496 (0.05%) (Ranked 314)
 | 2023-11-25 | 1,078,962 | 495 |
 | 2023-11-26 | 1,079,468 | 496 |
 | 2023-11-27 | 1,079,781 | 496 |
-| 2023-11-28 | 1,080,105 | 496 |
+| 2023-11-28 | 1,080,120 | 496 |
 ## Awards
 Max (Great for Beginners): 169  (Ranked 308)  
 Sum: 1,546 (Ranked 234)  
