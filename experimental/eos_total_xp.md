@@ -1,7 +1,7 @@
 | Game | Total Achievements | Total XP |
 | ---- | ------------------ | -------- |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 |
-| [Dead by Daylight](../games/d/dead_by_daylight.md) | 229 | 5,505 |
+| [Dead by Daylight](../games/d/dead_by_daylight.md) | 232 | 5,585 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 363 | 5,330 |
 | [Old World](../games/o/old_world.md) | 342 | 3,360 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 |
@@ -405,6 +405,7 @@
 | [Kaze and the Wild Masks](../games/8/87b2e2971d6b485085001a91c73a9718.md) | 25 | 1,000 |
 | [Ken Follett's The Pillars of the Earth](../games/k/ken_follett's_the_pillars_of_the_earth.md) | 41 | 1,000 |
 | [Kena: Bridge of Spirits](../games/k/kena__bridge_of_spirits.md) | 41 | 1,000 |
+| [Kids Learn](../games/1/173d783680df4fba92423e189f6df67d.md) | 5 | 1,000 |
 | [Kingdom Come: Deliverance](../games/k/kingdom_come__deliverance.md) | 82 | 1,000 |
 | [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 |
 | [Knight vs Giant: The Broken Excalibur](../games/9/973549a03a1441058badf7a1bc8b565d.md) | 25 | 1,000 |

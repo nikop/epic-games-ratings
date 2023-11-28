@@ -4,7 +4,7 @@
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 532 | 2,660 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 363 | 5,330 |
 | [Old World](../games/o/old_world.md) | 342 | 3,360 |
-| [Dead by Daylight](../games/d/dead_by_daylight.md) | 229 | 5,505 |
+| [Dead by Daylight](../games/d/dead_by_daylight.md) | 232 | 5,585 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
 | [GPRO - Classic racing manager](../games/g/gpro_-_classic_racing_manager.md) | 162 | 1,000 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 |
@@ -810,6 +810,7 @@
 | [Dizzy Fight](../games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 5 | 1,000 |
 | [EndlessRunner](../games/f/f42ed367eda74abfbd1d190de7fe0f10.md) | 5 | 1,000 |
 | [Jill of the Jungle: The Complete Trilogy](../games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5 | 1,000 |
+| [Kids Learn](../games/1/173d783680df4fba92423e189f6df67d.md) | 5 | 1,000 |
 | [Little Brother Jim](../games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 5 | 1,000 |
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
 | [Party Monsterzz](../games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 5 | 1,000 |
