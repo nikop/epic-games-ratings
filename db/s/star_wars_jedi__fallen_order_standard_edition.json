@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
     "PcReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -211,11 +211,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20605,
-  "EOS_Completed": 209,
-  "EOS_NewPlayers": 1378,
-  "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Progressed": 20606,
+  "EOS_Completed": 210,
+  "EOS_NewPlayers": 1375,
+  "EOS_NewCompleters": 20,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-07-27T21:08:07.5576872+00:00",
@@ -10521,6 +10521,11 @@
       "Time": "2023-11-28T12:07:31.7105813+00:00",
       "NumProgressed": 20605,
       "NumCompleted": 209
+    },
+    {
+      "Time": "2023-11-28T13:11:11.0640366+00:00",
+      "NumProgressed": 20606,
+      "NumCompleted": 210
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -10541,7 +10546,7 @@
       "Name": "Everything is Connected",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 12363
+      "UsersEstimate": 12364
     },
     {
       "ID": "achievement_11",
@@ -10549,7 +10554,7 @@
       "Name": "The Holocron Awaits",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 9478
+      "UsersEstimate": 9479
     },
     {
       "ID": "achievement_12",
@@ -10557,7 +10562,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 14423
+      "UsersEstimate": 14424
     },
     {
       "ID": "achievement_13",
@@ -10589,7 +10594,7 @@
       "Name": "For A More Civilized Age",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 10096
+      "UsersEstimate": 10097
     },
     {
       "ID": "achievement_17",
@@ -10597,7 +10602,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 9684
+      "UsersEstimate": 9685
     },
     {
       "ID": "achievement_18",
@@ -10661,7 +10666,7 @@
       "Name": "Don\u0027t Mess with BD-1",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8654
+      "UsersEstimate": 8655
     },
     {
       "ID": "achievement_25",
@@ -10669,7 +10674,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "achievement_26",
@@ -10677,7 +10682,7 @@
       "Name": "Look Out Below",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9066
+      "UsersEstimate": 9067
     },
     {
       "ID": "achievement_27",
@@ -10757,7 +10762,7 @@
       "Name": "Sabersmith",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 16484
+      "UsersEstimate": 16485
     },
     {
       "ID": "achievement_36",
@@ -10765,7 +10770,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 10302
+      "UsersEstimate": 10303
     },
     {
       "ID": "achievement_37",
@@ -10781,7 +10786,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 8860
+      "UsersEstimate": 8861
     },
     {
       "ID": "achievement_39",
@@ -10797,7 +10802,7 @@
       "Name": "Feel the Force",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "achievement_5",
@@ -10813,7 +10818,7 @@
       "Name": "Trust Only In The Force",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 9066
+      "UsersEstimate": 9067
     },
     {
       "ID": "achievement_7",
@@ -10821,7 +10826,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 20605
+      "UsersEstimate": 20606
     },
     {
       "ID": "achievement_8",
@@ -10829,7 +10834,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 19163
+      "UsersEstimate": 19164
     },
     {
       "ID": "achievement_9",
@@ -10837,23 +10842,23 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 16072
+      "UsersEstimate": 16073
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 20605,
-      "Completed": 209
+      "Progressed": 20606,
+      "Completed": 210
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.6839746+00:00",
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-11-12T21:59:15.958654+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:07:31.7105808+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:11:11.0640363+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:00.0508632+00:00",
-  "LastUpdate_Ratings": "2023-11-28T12:01:44.3212347+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:07:31.7106578+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:05:23.6681167+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:11:11.0641181+00:00"
 }

@@ -4893,9 +4893,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 229854,
+  "EOS_Progressed": 229903,
   "EOS_Completed": 539,
-  "EOS_NewPlayers": 4931,
+  "EOS_NewPlayers": 4937,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20353,6 +20353,11 @@
       "Time": "2023-11-28T12:09:08.3870247+00:00",
       "NumProgressed": 229854,
       "NumCompleted": 539
+    },
+    {
+      "Time": "2023-11-28T13:13:45.0635544+00:00",
+      "NumProgressed": 229903,
+      "NumCompleted": 539
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20365,7 +20370,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -20669,7 +20674,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "Obtain_Traits_B",
@@ -20731,9 +20736,9 @@
       "ID": "Upgrade_Standard_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "No One Should Have All That Power",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 230
+      "UsersEstimate": 460
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -20804,13 +20809,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229854,
+      "Progressed": 229903,
       "Completed": 539
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9019,
+      "Progressed": 9068,
       "Completed": 165
     }
   ],
@@ -20818,8 +20823,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-28T12:03:26.0096618+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:09:08.3870243+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:13:45.0635538+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-28T12:03:26.0096624+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:09:08.3871287+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:08:00.792469+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:13:45.0636426+00:00"
 }

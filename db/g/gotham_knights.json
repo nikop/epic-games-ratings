@@ -4415,7 +4415,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77343,
+  "EOS_Progressed": 77344,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
@@ -24270,6 +24270,11 @@
       "Time": "2023-11-28T12:04:28.5888526+00:00",
       "NumProgressed": 77343,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-28T13:08:49.488485+00:00",
+      "NumProgressed": 77344,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24369,7 +24374,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11601
+      "UsersEstimate": 11602
     },
     {
       "ID": "CHALLENGES_1",
@@ -24689,7 +24694,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17015
+      "UsersEstimate": 17016
     },
     {
       "ID": "MYSTERY_04",
@@ -24713,7 +24718,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11601
+      "UsersEstimate": 11602
     },
     {
       "ID": "MYSTERY_07",
@@ -24768,13 +24773,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77343,
+      "Progressed": 77344,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47623,
+      "Progressed": 47624,
       "Completed": 2675
     }
   ],
@@ -24782,8 +24787,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-28T07:57:56.6522139+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:04:28.5888519+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:08:49.4884846+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:58:47.8384324+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:04:28.5890068+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:03:16.9110856+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:08:49.4886251+00:00"
 }

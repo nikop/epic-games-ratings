@@ -645,9 +645,9 @@
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DEFEAT_ISHULAR_GIANT",
@@ -709,9 +709,9 @@
       "ID": "FLARE_KNIGHT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "The Guardian of Fire",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FLARE_KNIGHT_MASTER",
@@ -918,8 +918,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:06:52.399489+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:10:40.0404927+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:25.50781+00:00",
-  "LastUpdate_Ratings": "2023-11-28T12:00:32.066972+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:06:52.3995335+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:04:33.6869535+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:10:40.0405372+00:00"
 }

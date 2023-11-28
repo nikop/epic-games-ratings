@@ -8070,9 +8070,9 @@
       "ID": "60",
       "SetID": "7132754",
       "Name": "A Very Special Ring",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -8093,8 +8093,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-27T19:58:44.8868894+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:08:17.3678696+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:13:05.8409648+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:59:46.6630001+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:08:17.3679348+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:04:00.7586257+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:13:05.8410588+00:00"
 }

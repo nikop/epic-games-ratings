@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 1,
@@ -1115,6 +1115,11 @@
       "Time": "2023-11-28T12:09:02.6349612+00:00",
       "NumProgressed": 417,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T13:13:40.7143077+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1143,7 +1148,7 @@
       "Name": "On her own",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AchvBattleScore",
@@ -1221,9 +1226,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "AchvLava",
@@ -1295,15 +1300,15 @@
       "Name": "The field base",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 209
     },
     {
       "ID": "AchvReachCity",
@@ -1351,21 +1356,21 @@
       "Name": "Beyond divisions",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:09:02.6349609+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:13:40.7143069+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:58:49.507001+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:09:02.6349844+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:03:17.73793+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:13:40.7143322+00:00"
 }

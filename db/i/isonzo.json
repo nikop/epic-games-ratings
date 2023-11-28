@@ -6,9 +6,9 @@
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -949,9 +949,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9091,
+  "EOS_Progressed": 9092,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8359,6 +8359,11 @@
       "Time": "2023-11-28T11:05:34.3648877+00:00",
       "NumProgressed": 9091,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-28T13:10:49.2899474+00:00",
+      "NumProgressed": 9092,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8370,7 +8375,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -8498,7 +8503,7 @@
       "Name": "Insubordination",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -8578,7 +8583,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -8650,7 +8655,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -8698,7 +8703,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4636
+      "UsersEstimate": 4637
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8722,14 +8727,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4636
+      "UsersEstimate": 4637
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9091,
+      "Progressed": 9092,
       "Completed": 10
     }
   ],
@@ -8737,8 +8742,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-26T17:59:39.1110954+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:07:03.9897608+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:10:49.2899471+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-11-28T12:01:23.3529994+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:07:03.9898291+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:05:10.4431701+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:10:49.2900047+00:00"
 }

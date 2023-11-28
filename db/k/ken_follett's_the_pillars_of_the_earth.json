@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16714,
+  "EOS_Progressed": 16715,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15043,6 +15043,11 @@
       "Time": "2023-11-28T12:04:43.6081214+00:00",
       "NumProgressed": 16714,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-28T13:09:00.8094473+00:00",
+      "NumProgressed": 16715,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15054,7 +15059,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "tpote_achievement_10",
@@ -15118,7 +15123,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "tpote_achievement_18",
@@ -15126,7 +15131,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "tpote_achievement_19",
@@ -15230,7 +15235,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5348
+      "UsersEstimate": 5349
     },
     {
       "ID": "tpote_achievement_30",
@@ -15238,7 +15243,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "tpote_achievement_31",
@@ -15342,7 +15347,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "tpote_achievement_6",
@@ -15350,7 +15355,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "tpote_achievement_7",
@@ -15381,15 +15386,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16714,
+      "Progressed": 16715,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:04:43.6081209+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:09:00.8094469+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:59:44.2183131+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:04:43.6082078+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:03:58.8163248+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:09:00.8095235+00:00"
 }

@@ -1,42 +1,42 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.55 (Ranked 508)  
+Rating: 4.55 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,764 |
-| Become King | 74.00% | ~1,592 |
-| Defeat 25 Frogs | 63.00% | ~1,355 |
-| Ranged Weapon | 62.00% | ~1,334 |
-| Collect Monster Parts | 58.00% | ~1,248 |
-| Two Handed Weapon | 57.00% | ~1,226 |
-| Defeat 25 Grubs | 53.00% | ~1,140 |
-| Rescue Redgi's Brothers | 53.00% | ~1,140 |
-| Collect Iron Ore | 48.00% | ~1,032 |
-| Kitchen Ready To Cook | 48.00% | ~1,032 |
-| Defeat 25 Mozis | 47.00% | ~1,011 |
-| Collect Gold | 46.00% | ~989 |
-| Smithy Ready to Craft | 46.00% | ~989 |
-| Fix the Travellers Wagon | 44.00% | ~946 |
-| Complete Elder Faction | 42.00% | ~903 |
-| End of the Mozis | 38.00% | ~817 |
-| Throne Room Fit For A King | 38.00% | ~817 |
-| Meet the Creatures from the Deep | 36.00% | ~774 |
-| Return Power To The Depths | 36.00% | ~774 |
-| Defeat Ratnor Rodentson | 30.00% | ~645 |
+| Complete Guard Faction | 82.00% | ~1,765 |
+| Become King | 74.00% | ~1,593 |
+| Defeat 25 Frogs | 63.00% | ~1,356 |
+| Ranged Weapon | 62.00% | ~1,335 |
+| Collect Monster Parts | 58.00% | ~1,249 |
+| Two Handed Weapon | 57.00% | ~1,227 |
+| Defeat 25 Grubs | 53.00% | ~1,141 |
+| Rescue Redgi's Brothers | 53.00% | ~1,141 |
+| Collect Iron Ore | 48.00% | ~1,033 |
+| Kitchen Ready To Cook | 48.00% | ~1,033 |
+| Defeat 25 Mozis | 47.00% | ~1,012 |
+| Collect Gold | 46.00% | ~990 |
+| Smithy Ready to Craft | 46.00% | ~990 |
+| Fix the Travellers Wagon | 44.00% | ~947 |
+| Complete Elder Faction | 42.00% | ~904 |
+| End of the Mozis | 38.00% | ~818 |
+| Throne Room Fit For A King | 38.00% | ~818 |
+| Meet the Creatures from the Deep | 36.00% | ~775 |
+| Return Power To The Depths | 36.00% | ~775 |
+| Defeat Ratnor Rodentson | 30.00% | ~646 |
 | Return the Statues | 27.00% | ~581 |
-| Defeat Rattus Augustail | 26.00% | ~559 |
+| Defeat Rattus Augustail | 26.00% | ~560 |
 | Complete the Chefs Book | 25.00% | ~538 |
 | Complete Ranger Faction | 21.00% | ~452 |
-| Defeat Avor Warden of the Northern Wastes | 20.00% | ~430 |
+| Defeat Avor Warden of the Northern Wastes | 20.00% | ~431 |
 | Discover the mystery of the Kings Chambers | 19.00% | ~409 |
 | Complete Arena Faction | 16.00% | ~344 |
 | Complete Redgi's Armory | 8.00% | ~172 |
 | King of Kings | 8.00% | ~172 |
-| A new Warchief rises | 0.80% | ~17 |
+| A new Warchief rises | 0.90% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,151 (Ranked 223)  
+Progressed: 2,153 (Ranked 223)  
 Completed: 10 (0.46%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 10 (0.46%) (Ranked 211)
 | 2023-11-25 | 2,103 | 9 |
 | 2023-11-26 | 2,128 | 9 |
 | 2023-11-27 | 2,144 | 10 |
-| 2023-11-28 | 2,151 | 10 |
+| 2023-11-28 | 2,153 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

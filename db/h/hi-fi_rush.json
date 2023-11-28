@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4407,
+  "EOS_Progressed": 4409,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7870,6 +7870,11 @@
       "Time": "2023-11-28T11:04:27.5547211+00:00",
       "NumProgressed": 4407,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-28T13:09:33.9383621+00:00",
+      "NumProgressed": 4409,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7881,7 +7886,7 @@
       "Name": "Start with a bang!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "Ach002",
@@ -8041,7 +8046,7 @@
       "Name": "I have to read these things?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Ach022",
@@ -8057,7 +8062,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "Ach024",
@@ -8281,7 +8286,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "Ach052",
@@ -8448,13 +8453,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4407,
+      "Progressed": 4409,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2928,
+      "Progressed": 2930,
       "Completed": 1930
     }
   ],
@@ -8462,8 +8467,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:05:26.3093607+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:09:33.9383616+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:57:21.4746492+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:05:26.3094372+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:02:14.0846789+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:09:33.9384503+00:00"
 }

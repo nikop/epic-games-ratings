@@ -4,7 +4,7 @@
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 781,
   "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 440,
+  "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 102,
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75429,
+  "EOS_Progressed": 75430,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -24773,6 +24773,11 @@
       "Time": "2023-11-28T12:09:27.7492948+00:00",
       "NumProgressed": 75429,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-11-28T13:14:00.1402772+00:00",
+      "NumProgressed": 75430,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 24,
@@ -24792,7 +24797,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16594
+      "UsersEstimate": 16595
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -24800,7 +24805,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52046
+      "UsersEstimate": 52047
     },
     {
       "ID": "BEST_FRIENDS",
@@ -24808,7 +24813,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16594
+      "UsersEstimate": 16595
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -24840,7 +24845,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21874
+      "UsersEstimate": 21875
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -24864,7 +24869,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39977
+      "UsersEstimate": 39978
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -24960,7 +24965,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9051
+      "UsersEstimate": 9052
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -24975,7 +24980,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75429,
+      "Progressed": 75430,
       "Completed": 404
     }
   ],
@@ -24983,8 +24988,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:09:27.7492942+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:14:00.1402767+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.17465+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:57:14.2287788+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:09:27.7494165+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:02:08.531532+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:14:00.1404296+00:00"
 }

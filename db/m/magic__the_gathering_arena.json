@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -14324,10 +14324,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 98018,
       "NumberOfAwardsMax": 12472
+    },
+    {
+      "Time": "2023-11-28T13:05:40.4503806+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 98029,
+      "NumberOfAwardsMax": 12472
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 98018,
+  "NumberOfAwards": 98029,
   "NumberOfAwardsMax": 12472,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -14353,7 +14359,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 10356
+      "Count": 10367
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14409,8 +14415,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-11-28T12:02:08.9186436+00:00",
+  "LastChanged": "2023-11-28T13:05:40.4503804+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.7319009+00:00",
-  "LastUpdate_Ratings": "2023-11-28T12:02:08.9186442+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:07:39.6505441+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:05:40.450381+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:11:17.1767065+00:00"
 }

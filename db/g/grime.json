@@ -1579,9 +1579,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160467,
+  "EOS_Progressed": 160474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1088,
+  "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17389,6 +17389,11 @@
       "Time": "2023-11-28T12:07:39.3828323+00:00",
       "NumProgressed": 160467,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T13:11:16.9580579+00:00",
+      "NumProgressed": 160474,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17504,7 +17509,7 @@
       "Name": "Scion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -17512,7 +17517,7 @@
       "Name": "Glare",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -17520,7 +17525,7 @@
       "Name": "Host",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -17767,21 +17772,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 160050,
+      "Progressed": 160057,
       "Completed": 1226
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160467,
+      "Progressed": 160474,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-27T13:07:32.7280476+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:07:39.3828318+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:11:16.9580575+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-28T12:01:38.1721289+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:07:39.3829448+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:05:19.4766557+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:11:16.9582258+00:00"
 }

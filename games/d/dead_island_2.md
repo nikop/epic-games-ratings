@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,576 |
-| Break A Leg | 2.00% | ~14,540 |
-| Coup de Grâce | 2.00% | ~14,540 |
-| Hotel California | 2.00% | ~14,540 |
-| Welcome To Hell-A | 2.00% | ~14,540 |
-| One of Us | 2.00% | ~1,051 |
-| Pork Chopped | 2.00% | ~1,051 |
+| Whatever It Takes | 3.00% | ~1,577 |
+| Break A Leg | 2.00% | ~14,541 |
+| Coup de Grâce | 2.00% | ~14,541 |
+| Hotel California | 2.00% | ~14,541 |
+| Welcome To Hell-A | 2.00% | ~14,541 |
+| One of Us | 2.00% | ~1,052 |
+| Pork Chopped | 2.00% | ~1,052 |
 | Dr. Reed, I Presume? | 1.00% | ~7,270 |
 | Git Gutte! | 1.00% | ~7,270 |
 | Anger Management | 1.00% | ~7,270 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,001 (Ranked 21)  
+Progressed: 727,037 (Ranked 21)  
 Completed: 2,445 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 2,445 (0.34%) (Ranked 231)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 727,001 | 2,445 |
+| 2023-11-28 | 727,037 | 2,445 |
 ## Awards
 Max (Great Boss Battles): 7,784  (Ranked 49)  
-Sum: 11,910 (Ranked 84)  
+Sum: 11,912 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -293,7 +293,7 @@ Diff (max vs sum): -35
 | This game is Relaxing | 513 |
 | This game has Amazing Storytelling | 500 |
 | This game is Highly Recommended | 484 |
-| This game is Extremely Fun | 481 |
+| This game is Extremely Fun | 483 |
 | This game has Amazing Characters | 441 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -519,4 +519,4 @@ Diff (max vs sum): -35
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
 | 2023-11-27 | 4.54 | 7,760 | 11,883 |
-| 2023-11-28 | 4.54 | 7,784 | 11,910 |
+| 2023-11-28 | 4.54 | 7,784 | 11,912 |

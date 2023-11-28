@@ -34,9 +34,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.40% | ~2,870 |
 | Bloody Sport | 0.40% | ~107 |
 | Muk Yan Master | 0.30% | ~2,153 |
+| Tiger on Fire | 0.30% | ~2,153 |
 | Detective Story | 0.30% | ~2,153 |
 | Dance of the Praying Mantis | 0.30% | ~2,153 |
-| Tiger on Fire | 0.20% | ~1,435 |
 | Source of Flying Daggers | 0.20% | ~1,435 |
 | Iron Money | 0.20% | ~1,435 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,435 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,545 (Ranked 22)  
+Progressed: 717,549 (Ranked 22)  
 Completed: 12,940 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 12,940 (1.80%) (Ranked 132)
 | 2023-11-25 | 717,366 | 12,940 |
 | 2023-11-26 | 717,455 | 12,940 |
 | 2023-11-27 | 717,516 | 12,940 |
-| 2023-11-28 | 717,545 | 12,940 |
+| 2023-11-28 | 717,549 | 12,940 |
 ## Awards
 Max (Great Boss Battles): 6,847  (Ranked 55)  
 Sum: 11,989 (Ranked 83)  

@@ -2,9 +2,9 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -636,6 +636,11 @@
       "Time": "2023-11-27T19:09:13.1228712+00:00",
       "NumProgressed": 309,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-28T13:13:49.0598376+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -663,7 +668,7 @@
       "Name": "Playing the field",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "misha_date3_all",
@@ -677,9 +682,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 149
     },
     {
       "ID": "profile_ryan",
@@ -687,7 +692,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ryan_date2_all",
@@ -727,7 +732,7 @@
       "Name": "The boss",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "success_derek",
@@ -759,7 +764,7 @@
       "Name": "The intellectual",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "success_lucas",
@@ -773,9 +778,9 @@
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "success_ty",
@@ -798,7 +803,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 4
     }
   ],
@@ -806,8 +811,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:09:13.4134711+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:13:49.0598371+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.5366094+00:00",
-  "LastUpdate_Ratings": "2023-11-28T12:00:29.2833753+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:09:13.4134884+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:04:31.6113163+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:13:49.0598516+00:00"
 }

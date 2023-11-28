@@ -11175,9 +11175,9 @@
       "Count": 817
     }
   ],
-  "EOS_Progressed": 303454,
+  "EOS_Progressed": 303458,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 943,
+  "EOS_NewPlayers": 946,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35080,6 +35080,11 @@
       "Time": "2023-11-28T12:10:11.5420742+00:00",
       "NumProgressed": 303454,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-11-28T13:14:33.883517+00:00",
+      "NumProgressed": 303458,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 45,
@@ -35139,7 +35144,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24276
+      "UsersEstimate": 24277
     },
     {
       "ID": "PFA_16",
@@ -35147,7 +35152,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36414
+      "UsersEstimate": 36415
     },
     {
       "ID": "PFA_17",
@@ -35155,7 +35160,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24276
+      "UsersEstimate": 24277
     },
     {
       "ID": "PFA_18",
@@ -35171,7 +35176,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24276
+      "UsersEstimate": 24277
     },
     {
       "ID": "PFA_2",
@@ -35211,7 +35216,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39449
+      "UsersEstimate": 39450
     },
     {
       "ID": "PFA_24",
@@ -35219,7 +35224,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36414
+      "UsersEstimate": 36415
     },
     {
       "ID": "PFA_25",
@@ -35275,7 +35280,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36414
+      "UsersEstimate": 36415
     },
     {
       "ID": "PFA_31",
@@ -35315,7 +35320,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30345
+      "UsersEstimate": 30346
     },
     {
       "ID": "PFA_36",
@@ -35419,7 +35424,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45518
+      "UsersEstimate": 45519
     },
     {
       "ID": "PFA_7",
@@ -35435,7 +35440,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39449
+      "UsersEstimate": 39450
     },
     {
       "ID": "PFA_9",
@@ -35443,14 +35448,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30345
+      "UsersEstimate": 30346
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303454,
+      "Progressed": 303458,
       "Completed": 518
     }
   ],
@@ -35458,8 +35463,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-28T10:00:06.1630293+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:10:11.5420734+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:14:33.8835168+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-28T12:02:02.6363637+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:10:11.542235+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:05:36.4642913+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:14:33.8836417+00:00"
 }

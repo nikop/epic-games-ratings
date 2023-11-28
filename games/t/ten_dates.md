@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That wasn't so bad | 86.00% | ~266 |
-| Let it begin | 49.00% | ~151 |
-| The athlete | 27.00% | ~83 |
-| The intellectual | 26.00% | ~80 |
-| The boss | 25.00% | ~77 |
+| That wasn't so bad | 86.00% | ~267 |
+| Let it begin | 48.00% | ~149 |
+| The intellectual | 26.00% | ~81 |
+| The athlete | 26.00% | ~81 |
+| The boss | 25.00% | ~78 |
 | The activist | 22.00% | ~68 |
 | The individualist | 20.00% | ~62 |
 | The nice guy | 13.00% | ~40 |
@@ -18,13 +18,13 @@
 | The techie | 8.00% | ~25 |
 | More than browsing | 7.00% | ~22 |
 | The bad boy | 6.00% | ~19 |
-| Playing the field | 5.00% | ~15 |
+| Playing the field | 5.00% | ~16 |
 | Picky! | 4.00% | ~12 |
 | Go well, lad | 4.00% | ~12 |
 | Keep the spark alive | 3.00% | ~9 |
 | Muggy Misha | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309 (Ranked 353)  
+Progressed: 310 (Ranked 352)  
 Completed: 4 (1.29%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,6 +105,7 @@ Completed: 4 (1.29%) (Ranked 152)
 | 2023-11-25 | 306 | 4 |
 | 2023-11-26 | 307 | 4 |
 | 2023-11-27 | 309 | 4 |
+| 2023-11-28 | 310 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

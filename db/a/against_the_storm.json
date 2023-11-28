@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 3615,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3305,7 +3305,7 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17512,
+  "EOS_Progressed": 17513,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": -3,
@@ -14350,6 +14350,11 @@
       "Time": "2023-11-28T11:08:34.863532+00:00",
       "NumProgressed": 17512,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-28T13:13:39.5083594+00:00",
+      "NumProgressed": 17513,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14760,9 +14765,9 @@
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 140
     },
     {
       "ID": "WinNearFrosts",
@@ -14833,15 +14838,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17512,
+      "Progressed": 17513,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-27T19:58:26.3844836+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:09:01.0715133+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:13:39.5083591+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:59:18.4916355+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:09:01.0715896+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:03:40.0011951+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:13:39.5084658+00:00"
 }

@@ -698,9 +698,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "EndlessTricks",
@@ -978,9 +978,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "StellarHaste",
@@ -1265,8 +1265,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:07:13.8915803+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:10:56.9994187+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:57:28.3303812+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:07:13.8916606+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:02:19.5133555+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:10:56.9994945+00:00"
 }

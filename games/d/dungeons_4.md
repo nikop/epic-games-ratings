@@ -44,10 +44,10 @@
 | Stop Tanos! | 16.00% | ~78 |
 | Doom Hill | 16.00% | ~78 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~73 |
+| Brimstone Shaken, Not Stirred | 15.00% | ~73 |
 | Sabotage! | 14.00% | ~68 |
-| Brimstone Shaken, Not Stirred | 14.00% | ~68 |
 | Bonus Evilness | 13.00% | ~63 |
-| Raiders of the Lost Stone | 12.00% | ~58 |
+| Raiders of the Lost Stone | 13.00% | ~63 |
 | The Rune Sockets of Finitude (Part 1) | 12.00% | ~58 |
 | My Little Torture Chamber | 11.00% | ~53 |
 | Lavalumps on Ice! | 11.00% | ~53 |

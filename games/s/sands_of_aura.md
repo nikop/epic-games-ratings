@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Setting Sail | 88.00% | ~76 |
 | A Small Thirsty Thing | 15.00% | ~13 |
-| Dousing a Venerable Flame | 12.00% | ~10 |
+| Dousing a Venerable Flame | 13.00% | ~11 |
 | Advanced Armaments | 12.00% | ~10 |
 | Spirit Within | 12.00% | ~10 |
 | Rain Must Fall | 9.00% | ~8 |
 | Overboard | 9.00% | ~8 |
 | Leisis Bless You | 9.00% | ~8 |
 | Bladesmith | 8.00% | ~7 |
+| The Guardian of Fire | 8.00% | ~7 |
 | Explorer | 7.00% | ~6 |
-| The Guardian of Fire | 7.00% | ~6 |
 | Sovereignty of Irons | 6.00% | ~5 |
 | A Sandwyrm's Hoard | 6.00% | ~5 |
 | Twin Thorns | 6.00% | ~5 |

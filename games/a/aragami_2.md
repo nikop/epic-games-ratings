@@ -1,35 +1,35 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 508)  
+Rating: 4.55 (Ranked 507)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,996 |
+| Awakening | 93.00% | ~40,997 |
 | First Steps | 80.00% | ~35,266 |
-| Control the Shadows | 67.00% | ~29,535 |
+| Control the Shadows | 67.00% | ~29,536 |
 | Tools of the Trade | 63.00% | ~27,772 |
-| Apprentice | 60.00% | ~26,449 |
+| Apprentice | 60.00% | ~26,450 |
 | Secret Seeker | 57.00% | ~25,127 |
-| Forge of Assassins | 55.00% | ~24,245 |
+| Forge of Assassins | 55.00% | ~24,246 |
 | Revenant | 52.00% | ~22,923 |
 | I don’t Care! | 45.00% | ~19,837 |
-| Bird of Prey | 37.00% | ~16,310 |
-| Engraved with Power | 32.00% | ~14,106 |
-| Lady | 31.00% | ~13,665 |
+| Bird of Prey | 37.00% | ~16,311 |
+| Engraved with Power | 32.00% | ~14,107 |
+| Lady | 31.00% | ~13,666 |
 | Fashionable Assassin | 27.00% | ~11,902 |
 | Apex Predator | 24.00% | ~10,580 |
 | Soul Reaver | 23.00% | ~10,139 |
 | Embers | 22.00% | ~9,698 |
-| Wall Lizard | 20.00% | ~8,816 |
+| Wall Lizard | 20.00% | ~8,817 |
 | Clinging to Life | 18.00% | ~7,935 |
 | Burning | 17.00% | ~7,494 |
 | Look Behind You | 16.00% | ~7,053 |
 | Sleeping on the Job | 16.00% | ~7,053 |
-| Family | 14.00% | ~6,171 |
-| War Engines | 14.00% | ~6,171 |
-| Signature Move | 14.00% | ~6,171 |
+| Family | 14.00% | ~6,172 |
+| War Engines | 14.00% | ~6,172 |
+| Signature Move | 14.00% | ~6,172 |
 | Ruse | 11.00% | ~4,849 |
 | Master Ninja | 11.00% | ~4,849 |
 | Hatching | 10.00% | ~4,408 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~882 |
 | Legacy | 2.00% | ~882 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,082 (Ranked 115)  
+Progressed: 44,083 (Ranked 115)  
 Completed: 241 (0.55%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 241 (0.55%) (Ranked 199)
 | 2023-11-25 | 44,028 | 241 |
 | 2023-11-26 | 44,049 | 241 |
 | 2023-11-27 | 44,073 | 241 |
-| 2023-11-28 | 44,082 | 241 |
+| 2023-11-28 | 44,083 | 241 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

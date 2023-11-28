@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -874,9 +874,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "whispers_long_forgotten",
@@ -897,8 +897,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:06:06.817441+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:10:04.7520207+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:59.9446154+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:58:34.7362815+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:06:06.8174818+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:03:07.382421+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:10:04.7520588+00:00"
 }

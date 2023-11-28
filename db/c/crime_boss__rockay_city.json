@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4827,9 +4827,9 @@
       "Count": 501
     }
   ],
-  "EOS_Progressed": 91624,
+  "EOS_Progressed": 91627,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26702,6 +26702,11 @@
       "Time": "2023-11-28T12:04:39.7046648+00:00",
       "NumProgressed": 91624,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-28T13:08:57.9284964+00:00",
+      "NumProgressed": 91627,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -26721,7 +26726,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "ACH_0012",
@@ -26761,7 +26766,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_0021",
@@ -26785,7 +26790,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_0040",
@@ -26881,7 +26886,7 @@
       "Name": "Too Old for This",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "ACH_0300",
@@ -26889,7 +26894,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_0310",
@@ -26945,7 +26950,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "ACH_0431",
@@ -27040,13 +27045,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91624,
+      "Progressed": 91627,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19971,
+      "Progressed": 19974,
       "Completed": 15580
     }
   ],
@@ -27054,8 +27059,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-28T01:45:43.1930221+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:04:39.7046642+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:08:57.9284959+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:51.3334037+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:58:23.0363178+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:04:39.704805+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:02:59.4161744+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:08:57.9286192+00:00"
 }

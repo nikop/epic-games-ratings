@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471482,
+  "EOS_Progressed": 471484,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
@@ -23763,6 +23763,11 @@
       "Time": "2023-11-28T12:10:15.931193+00:00",
       "NumProgressed": 471482,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-28T13:14:37.5387189+00:00",
+      "NumProgressed": 471484,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23774,7 +23779,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70722
+      "UsersEstimate": 70723
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -23782,7 +23787,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70722
+      "UsersEstimate": 70723
     },
     {
       "ID": "achievement_first_death",
@@ -23806,7 +23811,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70722
+      "UsersEstimate": 70723
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -23862,7 +23867,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311178
+      "UsersEstimate": 311179
     },
     {
       "ID": "achievement_story_landa",
@@ -23894,7 +23899,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117870
+      "UsersEstimate": 117871
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -23942,7 +23947,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70722
+      "UsersEstimate": 70723
     },
     {
       "ID": "achievement_story_neon_child",
@@ -23950,7 +23955,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94296
+      "UsersEstimate": 94297
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -23958,7 +23963,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160304
+      "UsersEstimate": 160305
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -24198,7 +24203,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207452
+      "UsersEstimate": 207453
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24230,7 +24235,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183878
+      "UsersEstimate": 183879
     },
     {
       "ID": "achievement_win_run_hard",
@@ -24246,7 +24251,7 @@
       "Name": "Geno Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14144
+      "UsersEstimate": 14145
     },
     {
       "ID": "achievement_win_run_with_church",
@@ -24262,7 +24267,7 @@
       "Name": "Hammer Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14144
+      "UsersEstimate": 14145
     },
     {
       "ID": "achievement_win_run_with_pirate",
@@ -24334,7 +24339,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -24405,21 +24410,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15416,
+      "Progressed": 15418,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471482,
+      "Progressed": 471484,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:10:15.9311927+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:14:37.5387188+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:57:26.0642595+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:10:15.931355+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:02:17.6958058+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:14:37.5388951+00:00"
 }

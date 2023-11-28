@@ -9,8 +9,8 @@ Rating: 4.75 (Ranked 149)
 | First of Many | 0.60% | ~1,379 |
 | Regicide | 0.60% | ~54 |
 | Master of the Dark Arts | 0.60% | ~54 |
-| Expanding Horizons | 0.40% | ~919 |
-| Not Your Average Trait | 0.40% | ~919 |
+| Expanding Horizons | 0.40% | ~920 |
+| Not Your Average Trait | 0.40% | ~920 |
 | Gleaming the Cube | 0.30% | ~690 |
 | Not So Special Now | 0.30% | ~690 |
 | Quest for Survival | 0.30% | ~690 |
@@ -43,6 +43,7 @@ Rating: 4.75 (Ranked 149)
 | Almost There | 0.20% | ~460 |
 | Make Some Room | 0.20% | ~460 |
 | Good, But Could Be Better! | 0.20% | ~460 |
+| No One Should Have All That Power | 0.20% | ~460 |
 | Succession | 0.20% | ~18 |
 | You Shall Pass | 0.20% | ~18 |
 | Crafty | 0.10% | ~230 |
@@ -56,12 +57,11 @@ Rating: 4.75 (Ranked 149)
 | The Collector | 0.10% | ~230 |
 | Proving Grounds | 0.10% | ~230 |
 | Carnage in C-Minor | 0.10% | ~230 |
-| No One Should Have All That Power | 0.10% | ~230 |
 | Maxed Out! | 0.10% | ~230 |
 | Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,854 (Ranked 69)  
+Progressed: 229,903 (Ranked 69)  
 Completed: 539 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 539 (0.23%) (Ranked 251)
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
-| 2023-11-28 | 229,854 | 539 |
+| 2023-11-28 | 229,903 | 539 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
 Sum: 6,073 (Ranked 129)  

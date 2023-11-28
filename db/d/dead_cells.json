@@ -4,10 +4,10 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 16,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 193,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -3203,10 +3203,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 2510,
       "NumberOfAwardsMax": 296
+    },
+    {
+      "Time": "2023-11-28T13:02:37.3237176+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2511,
+      "NumberOfAwardsMax": 296
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2510,
+  "NumberOfAwards": 2511,
   "NumberOfAwardsMax": 296,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3214,7 +3220,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 262
+      "Count": 263
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3294,8 +3300,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-11-28T06:57:38.9159015+00:00",
+  "LastChanged": "2023-11-28T13:02:37.3237173+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:21.7416334+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:57:52.5657911+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:07:05.0085822+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:02:37.3237179+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:10:50.2055988+00:00"
 }

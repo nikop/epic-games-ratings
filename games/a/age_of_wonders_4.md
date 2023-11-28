@@ -55,6 +55,7 @@ Rating: 4.61 (Ranked 382)
 | Duality | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.20% | ~11 |
 | Betrayal Most Foul | 0.20% | ~11 |
+| A Very Special Ring | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~6 |
 | I Want to Break Free | 0.10% | ~6 |
 | Against the Odds | 0.10% | ~6 |
@@ -62,7 +63,6 @@ Rating: 4.61 (Ranked 382)
 | Returning Circle | 0.10% | ~6 |
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
-| A Very Special Ring | 0.10% | ~6 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

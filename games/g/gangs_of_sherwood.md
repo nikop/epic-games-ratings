@@ -7,22 +7,22 @@
 | Air Fighter | 85.00% | ~17 |
 | Act of Kindness | 85.00% | ~17 |
 | The Altruist | 75.00% | ~15 |
+| Watch your Step! | 70.00% | ~14 |
 | Treasure Hunter | 70.00% | ~14 |
 | Oo-De-Lally | 65.00% | ~13 |
 | Tap Dancing | 60.00% | ~12 |
-| Watch your Step! | 60.00% | ~12 |
-| MAX LEVEL | 55.00% | ~11 |
+| MAX LEVEL | 60.00% | ~12 |
 | Merry Co-operation | 50.00% | ~10 |
 | Savior | 50.00% | ~10 |
+| Rebel Unleashed | 45.00% | ~9 |
+| Right between the eyes | 40.00% | ~8 |
+| Locksley's Tears | 40.00% | ~8 |
+| Assault on the Ram | 40.00% | ~8 |
+| Spring Board | 40.00% | ~8 |
 | First Aid | 40.00% | ~8 |
-| Right between the eyes | 35.00% | ~7 |
-| Locksley's Tears | 35.00% | ~7 |
-| Spring Board | 35.00% | ~7 |
-| Rebel Unleashed | 35.00% | ~7 |
+| Finish Him! | 35.00% | ~7 |
+| Merry Go Round | 35.00% | ~7 |
 | Starry Night | 30.00% | ~6 |
-| Finish Him! | 30.00% | ~6 |
-| Assault on the Ram | 30.00% | ~6 |
-| Merry Go Round | 30.00% | ~6 |
 | Ascending Will | 25.00% | ~5 |
 | Ultra Rebel Instinct | 25.00% | ~5 |
 | Ultra Combo | 20.00% | ~4 |

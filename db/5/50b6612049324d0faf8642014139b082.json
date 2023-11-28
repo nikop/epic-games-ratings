@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1409,6 +1409,11 @@
       "Time": "2023-11-28T12:10:06.3272301+00:00",
       "NumProgressed": 630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T13:14:29.8841047+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1485,7 +1490,7 @@
       "Name": "Your first time?",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_18",
@@ -1509,7 +1514,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "achievement_20",
@@ -1547,9 +1552,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_25",
@@ -1628,7 +1633,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 0
     }
   ],
@@ -1636,8 +1641,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-27T19:59:21.6086932+00:00",
-  "LastChanged_Achievements": "2023-11-28T12:10:06.3272296+00:00",
+  "LastChanged_Achievements": "2023-11-28T13:14:29.8841043+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-28T12:00:43.2777898+00:00",
-  "LastUpdate_Achievements": "2023-11-28T12:10:06.3272525+00:00"
+  "LastUpdate_Ratings": "2023-11-28T13:04:41.6991753+00:00",
+  "LastUpdate_Achievements": "2023-11-28T13:14:29.8841269+00:00"
 }
