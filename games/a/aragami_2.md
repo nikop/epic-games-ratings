@@ -6,15 +6,15 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,009 |
-| First Steps | 80.00% | ~35,277 |
-| Control the Shadows | 67.00% | ~29,544 |
-| Tools of the Trade | 63.00% | ~27,780 |
+| Awakening | 93.00% | ~41,010 |
+| First Steps | 80.00% | ~35,278 |
+| Control the Shadows | 67.00% | ~29,545 |
+| Tools of the Trade | 63.00% | ~27,781 |
 | Apprentice | 60.00% | ~26,458 |
 | Secret Seeker | 57.00% | ~25,135 |
 | Forge of Assassins | 55.00% | ~24,253 |
 | Revenant | 52.00% | ~22,930 |
-| I don’t Care! | 45.00% | ~19,843 |
+| I don’t Care! | 45.00% | ~19,844 |
 | Bird of Prey | 37.00% | ~16,316 |
 | Engraved with Power | 32.00% | ~14,111 |
 | Lady | 31.00% | ~13,670 |
@@ -25,11 +25,11 @@ Number of Ratings: 88  (23.09.2022)
 | Wall Lizard | 20.00% | ~8,819 |
 | Clinging to Life | 18.00% | ~7,937 |
 | Burning | 17.00% | ~7,496 |
-| Look Behind You | 16.00% | ~7,055 |
-| Sleeping on the Job | 16.00% | ~7,055 |
-| Family | 14.00% | ~6,173 |
-| War Engines | 14.00% | ~6,173 |
-| Signature Move | 14.00% | ~6,173 |
+| Look Behind You | 16.00% | ~7,056 |
+| Sleeping on the Job | 16.00% | ~7,056 |
+| Family | 14.00% | ~6,174 |
+| War Engines | 14.00% | ~6,174 |
+| Signature Move | 14.00% | ~6,174 |
 | Ruse | 11.00% | ~4,851 |
 | Master Ninja | 11.00% | ~4,851 |
 | Hatching | 10.00% | ~4,410 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~882 |
 | Legacy | 2.00% | ~882 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,096 (Ranked 116)  
+Progressed: 44,097 (Ranked 116)  
 Completed: 242 (0.55%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 242 (0.55%) (Ranked 199)
 | 2023-11-25 | 44,028 | 241 |
 | 2023-11-26 | 44,049 | 241 |
 | 2023-11-27 | 44,073 | 241 |
-| 2023-11-28 | 44,096 | 242 |
+| 2023-11-28 | 44,097 | 242 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

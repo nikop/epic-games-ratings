@@ -27,9 +27,9 @@
 | It's not easy being green! | 18.00% | ~31 |
 | Home is where the heart is | 18.00% | ~31 |
 | Fastidious Clown | 17.00% | ~29 |
-| Death is a part of life | 13.00% | ~22 |
+| Death is a part of life | 14.00% | ~24 |
+| Master of Thermodynamics | 13.00% | ~22 |
 | To err is human... | 12.00% | ~21 |
-| Master of Thermodynamics | 12.00% | ~21 |
 | Unfullfilled dreams | 12.00% | ~21 |
 | Nothing can stop me | 9.00% | ~15 |
 | Mumbo Jumbo | 9.00% | ~15 |

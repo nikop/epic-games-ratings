@@ -233,13 +233,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Disarm and Dismember | 0.10% | ~1,050 |
 | MU/TH/UR Dearest | 0.10% | ~1,050 |
 | Kitted Out | 0.10% | ~1,050 |
+| Adept Ripley | 0.10% | ~1,050 |
 | Joke’s On You | 0.10% | ~1,050 |
 | Outta Nowhere | 0.10% | ~1,050 |
 | Adept Good Guy | 0.10% | ~1,050 |
 | Adept Xenomorph | 0.00% | ~0 |
-| Adept Ripley | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050,148 (Ranked 14)  
+Progressed: 1,050,289 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,15 +461,15 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-25 | 1,044,518 | 60 |
 | 2023-11-26 | 1,047,100 | 60 |
 | 2023-11-27 | 1,048,888 | 61 |
-| 2023-11-28 | 1,050,148 | 61 |
+| 2023-11-28 | 1,050,289 | 61 |
 ## Awards
 Max (Diverse Characters): 36,673  (Ranked 15)  
-Sum: 279,644 (Ranked 12)  
+Sum: 279,694 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 36,673 |
-| This game is Highly Recommended | 31,999 |
+| This game is Highly Recommended | 32,049 |
 | This game has Amazing Characters | 31,485 |
 | This game has Competitive Players | 31,416 |
 | This game is Extremely Fun | 31,068 |
@@ -790,4 +790,4 @@ Diff (max vs sum): 3
 | 2023-11-25 | 4.51 | - | 36,585 | 278,953 |
 | 2023-11-26 | 4.51 | - | 36,632 | 279,309 |
 | 2023-11-27 | 4.51 | - | 36,673 | 279,577 |
-| 2023-11-28 | 4.51 | - | 36,673 | 279,644 |
+| 2023-11-28 | 4.51 | - | 36,673 | 279,694 |

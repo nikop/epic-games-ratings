@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15722,
+  "EOS_Progressed": 15724,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12576,6 +12576,11 @@
       "Time": "2023-11-28T18:07:51.0524275+00:00",
       "NumProgressed": 15722,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-28T19:08:31.8202248+00:00",
+      "NumProgressed": 15724,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12620,7 +12625,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "14",
@@ -12698,9 +12703,9 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 157
     },
     {
       "ID": "23",
@@ -12780,7 +12785,7 @@
       "Name": "Debris Spree",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "5",
@@ -12867,13 +12872,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15722,
+      "Progressed": 15724,
       "Completed": 36
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1676,
+      "Progressed": 1678,
       "Completed": 746
     }
   ],
@@ -12881,8 +12886,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:07:51.0524271+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:08:31.8202245+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:00:52.6774224+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:07:51.0525191+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:01:17.8812151+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:08:31.8203073+00:00"
 }

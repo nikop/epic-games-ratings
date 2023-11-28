@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 487,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 1.65,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1169,6 +1169,11 @@
       "Time": "2023-11-28T14:06:33.7018107+00:00",
       "NumProgressed": 486,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-28T19:08:27.655238+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1181,7 +1186,7 @@
       "Name": "The Last Stand",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ach_main01begin_die",
@@ -1189,7 +1194,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ach_main01begin_storm",
@@ -1205,7 +1210,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -1221,7 +1226,7 @@
       "Name": "Trap Master",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ach_main03demon_completed",
@@ -1229,7 +1234,7 @@
       "Name": "The Hellwoods",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ach_main03demon_doors",
@@ -1237,7 +1242,7 @@
       "Name": "Master of Magic",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1245,7 +1250,7 @@
       "Name": "Magic Accidents",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1253,7 +1258,7 @@
       "Name": "The Plains of Strothalm",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1277,7 +1282,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1285,7 +1290,7 @@
       "Name": "Experienced Thalya",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -1331,9 +1336,9 @@
       "ID": "ach_main07storm_completed",
       "SetID": "4hg22ll",
       "Name": "The Ascent",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 239
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -1341,15 +1346,15 @@
       "Name": "Pure Dynamite!",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ach_main07storm_storm",
       "SetID": "4hg22ll",
       "Name": "It\u0027s Warm and Cozy at Home",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 239
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -1389,7 +1394,7 @@
       "Name": "Dungeonlord Gorgu",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -1405,7 +1410,7 @@
       "Name": "The Cathedral of Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -1421,7 +1426,7 @@
       "Name": "Shame! Shame! Shame!",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -1453,7 +1458,7 @@
       "Name": "All\u2019s Well That Ends Evil",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -1525,7 +1530,7 @@
       "Name": "The Finitude Drill",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -1565,7 +1570,7 @@
       "Name": "Rubble and Ashes",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_main17stone_completed",
@@ -1621,7 +1626,7 @@
       "Name": "The Rune Sockets of Finitude (Part 2)",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_main19war_heal",
@@ -1668,14 +1673,14 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 487,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:07:47.0776172+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:08:27.6552376+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:01:04.8435385+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:07:47.0776618+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:01:30.5665488+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:08:27.6552829+00:00"
 }

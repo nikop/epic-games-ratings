@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 7098,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -6658,9 +6658,9 @@
       "ID": "achievement_04_07",
       "SetID": "4f1m94d",
       "Name": "Nitro Saver",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3549
+      "UsersEstimate": 3620
     },
     {
       "ID": "achievement_04_08",
@@ -6691,8 +6691,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-18T21:58:48.6399645+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:04:11.3057804+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:04:37.5733479+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:06.7248226+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:01:11.6613205+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:04:11.3058366+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:01:38.1599293+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:04:37.5734087+00:00"
 }

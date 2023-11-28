@@ -1,20 +1,20 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.44 (Ranked 677)  
+Rating: 4.44 (Ranked 676)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,756 |
-| Returning Home: Quick Learner | 26.00% | ~1,462 |
-| Level: Charlie's Circuits | 22.00% | ~1,237 |
+| Level: Returning Home | 49.00% | ~2,757 |
+| Returning Home: Quick Learner | 26.00% | ~1,463 |
+| Level: Charlie's Circuits | 22.00% | ~1,238 |
 | Level: Rising Markets | 9.00% | ~506 |
 | Peddler | 8.00% | ~450 |
 | Level: Extra Life | 7.00% | ~394 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~394 |
 | Data Churn Type I | 7.00% | ~394 |
-| Millionaire | 6.00% | ~337 |
+| Millionaire | 6.00% | ~338 |
 | Data Churn Type II | 5.00% | ~281 |
 | Speedy | 5.00% | ~281 |
 | Extra Life: Wish Granted | 4.00% | ~225 |
@@ -24,17 +24,17 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Bet On Bots | 3.00% | ~169 |
 | Modular Performance | 3.00% | ~169 |
 | Salesperson | 3.00% | ~169 |
-| Level: Merry-Go-Around | 2.00% | ~112 |
-| Charlies's Circuits: Artist | 2.00% | ~112 |
-| Modular Peak | 2.00% | ~112 |
-| Accountant | 2.00% | ~112 |
-| Data Churn Type III | 2.00% | ~112 |
-| Multi-Millionaire | 2.00% | ~112 |
-| Contender | 2.00% | ~112 |
-| Trophy Collector | 2.00% | ~112 |
-| Module Maniac | 2.00% | ~112 |
-| Overproducer | 2.00% | ~112 |
-| Natural Talent | 2.00% | ~112 |
+| Level: Merry-Go-Around | 2.00% | ~113 |
+| Charlies's Circuits: Artist | 2.00% | ~113 |
+| Modular Peak | 2.00% | ~113 |
+| Accountant | 2.00% | ~113 |
+| Data Churn Type III | 2.00% | ~113 |
+| Multi-Millionaire | 2.00% | ~113 |
+| Contender | 2.00% | ~113 |
+| Trophy Collector | 2.00% | ~113 |
+| Module Maniac | 2.00% | ~113 |
+| Overproducer | 2.00% | ~113 |
+| Natural Talent | 2.00% | ~113 |
 | Level: A Happy Taskforce | 1.00% | ~56 |
 | Level: The Machinery | 1.00% | ~56 |
 | Extra Life: Knowledge Cap | 1.00% | ~56 |
@@ -52,8 +52,8 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Heating-Up | 0.50% | ~28 |
 | CEO | 0.50% | ~28 |
 | Rockstar | 0.50% | ~28 |
-| Campaign: Man vs. Machine | 0.40% | ~22 |
-| A Happy Taskforce: Interior Designer | 0.40% | ~22 |
+| Campaign: Man vs. Machine | 0.40% | ~23 |
+| A Happy Taskforce: Interior Designer | 0.40% | ~23 |
 | The Machinery: Goal Orientated | 0.30% | ~17 |
 | The Machinery: Energy Saver | 0.30% | ~17 |
 | Super Rich | 0.30% | ~17 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,624 (Ranked 188)  
+Progressed: 5,626 (Ranked 188)  
 Completed: 1 (0.02%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 1 (0.02%) (Ranked 334)
 | 2023-11-25 | 5,618 | 1 |
 | 2023-11-26 | 5,620 | 1 |
 | 2023-11-27 | 5,623 | 1 |
-| 2023-11-28 | 5,624 | 1 |
+| 2023-11-28 | 5,626 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

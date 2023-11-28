@@ -553,7 +553,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2783,
+  "EOS_Progressed": 2784,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
@@ -8298,6 +8298,11 @@
       "Time": "2023-11-28T18:09:19.2171077+00:00",
       "NumProgressed": 2783,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-28T19:09:42.9462291+00:00",
+      "NumProgressed": 2784,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8373,7 +8378,7 @@
       "Name": "Challenger",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "conqueror",
@@ -8397,7 +8402,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "doingmypart",
@@ -8509,7 +8514,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "fullparty",
@@ -8517,7 +8522,7 @@
       "Name": "Full Party",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "gearenchanting",
@@ -8525,7 +8530,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "guardianmaster",
@@ -8581,7 +8586,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "jewelenchanting",
@@ -8629,7 +8634,7 @@
       "Name": "Mastery",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "milestonecollector",
@@ -8661,7 +8666,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "mysteriousrock",
@@ -8677,7 +8682,7 @@
       "Name": "Mythic Power",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "naturaltalent",
@@ -8701,7 +8706,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "prestigiousx10",
@@ -8709,7 +8714,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "relicofthepast",
@@ -8717,7 +8722,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "sailor",
@@ -8741,7 +8746,7 @@
       "Name": "Scroll Master",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "silverwoodliberator",
@@ -8765,7 +8770,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "thealchemist",
@@ -8869,7 +8874,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "warmachinesarmy",
@@ -8893,7 +8898,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "worldmap",
@@ -8901,14 +8906,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2172
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2783,
+      "Progressed": 2784,
       "Completed": 2
     }
   ],
@@ -8916,8 +8921,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-28T14:02:57.4349611+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:09:19.2171071+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:09:42.9462288+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:02:48.7313276+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:09:19.2171917+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:03:07.8357303+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:09:42.9463279+00:00"
 }

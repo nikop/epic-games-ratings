@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewPlayers": 12,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
@@ -13044,10 +13044,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 279644,
       "NumberOfAwardsMax": 36673
+    },
+    {
+      "Time": "2023-11-28T18:59:06.9351792+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 279694,
+      "NumberOfAwardsMax": 36673
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 279644,
+  "NumberOfAwards": 279694,
   "NumberOfAwardsMax": 36673,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13091,7 +13097,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 31999
+      "Count": 32049
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13118,9 +13124,9 @@
       "Count": 27238
     }
   ],
-  "EOS_Progressed": 1050148,
+  "EOS_Progressed": 1050289,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 14504,
+  "EOS_NewPlayers": 14516,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38633,6 +38639,11 @@
       "Time": "2023-11-28T18:10:05.8472035+00:00",
       "NumProgressed": 1050148,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-11-28T19:10:30.8963215+00:00",
+      "NumProgressed": 1050289,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -40466,9 +40477,9 @@
       "ID": "ACH_232",
       "SetID": "16jml5b",
       "Name": "Adept Ripley",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1050
     },
     {
       "ID": "ACH_233",
@@ -40499,21 +40510,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1050148,
+      "Progressed": 1050289,
       "Completed": 63
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1050148,
+      "Progressed": 1050289,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-11-28T16:58:23.1322936+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:10:05.8472034+00:00",
+  "LastChanged": "2023-11-28T18:59:06.9351791+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:10:30.8963212+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:58:46.7549713+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:10:05.8477144+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:59:06.9351797+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:10:30.8969089+00:00"
 }

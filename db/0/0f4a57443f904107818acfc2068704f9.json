@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 747,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1482,6 +1482,11 @@
       "Time": "2023-11-28T18:04:04.5306382+00:00",
       "NumProgressed": 745,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T19:04:30.2966043+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1548,9 +1553,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 553
     },
     {
       "ID": "CompleteChapter10",
@@ -1638,7 +1643,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "CompleteChapter3",
@@ -1654,7 +1659,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "CompleteChapter5",
@@ -1662,15 +1667,15 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 120
     },
     {
       "ID": "CompleteChapter7",
@@ -1686,7 +1691,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CompleteChapter9",
@@ -1694,7 +1699,7 @@
       "Name": "Ingredients List",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1789,14 +1794,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 747,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:04:04.5306379+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:04:30.2966037+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:02:28.2506674+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:04:04.5306608+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:02:46.5754216+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:04:30.2966394+00:00"
 }

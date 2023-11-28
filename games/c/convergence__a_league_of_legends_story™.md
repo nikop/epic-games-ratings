@@ -22,10 +22,10 @@ Rating: 4.62 (Ranked 365)
 | Fast Learner | 21.00% | ~198 |
 | Immaculate Aim | 21.00% | ~198 |
 | The Betrayer | 20.00% | ~188 |
+| Right On Time | 19.00% | ~179 |
 | Like Clockwork | 19.00% | ~179 |
 | Golem Chaser | 19.00% | ~179 |
 | Check Your Pulse | 19.00% | ~179 |
-| Right On Time | 18.00% | ~169 |
 | The Man Who Shattered Time | 18.00% | ~169 |
 | The Loose Cannon | 18.00% | ~169 |
 | The Family Fortune | 18.00% | ~169 |

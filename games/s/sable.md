@@ -6,39 +6,39 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,461 |
-| Just The Two of Us | 33.00% | ~33,448 |
-| Up On High | 25.00% | ~25,339 |
-| Under The Hood | 25.00% | ~25,339 |
-| Got Your Nose | 24.00% | ~24,326 |
-| The Gift of Gab | 24.00% | ~24,326 |
-| Wrapping Up | 22.00% | ~22,299 |
-| More Than A Box Of Sand | 18.00% | ~18,244 |
-| The Dunboyne | 17.00% | ~17,231 |
-| Badge Hobbyist | 17.00% | ~17,231 |
-| Chum Novice | 16.00% | ~16,217 |
-| Silver-Tongued Sable | 16.00% | ~16,217 |
-| Sticky Paws | 16.00% | ~16,217 |
-| Bubble Up | 16.00% | ~16,217 |
+| Simoon | 34.00% | ~34,463 |
+| Just The Two of Us | 33.00% | ~33,450 |
+| Up On High | 25.00% | ~25,341 |
+| Under The Hood | 25.00% | ~25,341 |
+| Got Your Nose | 24.00% | ~24,327 |
+| The Gift of Gab | 24.00% | ~24,327 |
+| Wrapping Up | 22.00% | ~22,300 |
+| More Than A Box Of Sand | 18.00% | ~18,245 |
+| The Dunboyne | 17.00% | ~17,232 |
+| Badge Hobbyist | 17.00% | ~17,232 |
+| Chum Novice | 16.00% | ~16,218 |
+| Silver-Tongued Sable | 16.00% | ~16,218 |
+| Sticky Paws | 16.00% | ~16,218 |
+| Bubble Up | 16.00% | ~16,218 |
 | Thread The Needle | 15.00% | ~15,204 |
-| Power to the People | 14.00% | ~14,190 |
-| Nesting Giant | 14.00% | ~14,190 |
-| Take That! | 13.00% | ~13,176 |
-| Treasure Tracker | 13.00% | ~13,176 |
-| Big Spender | 13.00% | ~13,176 |
-| Badge Collector | 12.00% | ~12,163 |
-| Quite The Catch | 12.00% | ~12,163 |
-| Rowleys Way | 11.00% | ~11,149 |
+| Power to the People | 14.00% | ~14,191 |
+| Nesting Giant | 14.00% | ~14,191 |
+| Take That! | 13.00% | ~13,177 |
+| Treasure Tracker | 13.00% | ~13,177 |
+| Big Spender | 13.00% | ~13,177 |
+| Badge Collector | 12.00% | ~12,164 |
+| Quite The Catch | 12.00% | ~12,164 |
+| Rowleys Way | 11.00% | ~11,150 |
 | The Machinist Mask | 10.00% | ~10,136 |
 | The Cartographer Mask | 10.00% | ~10,136 |
 | Balfron Connection | 10.00% | ~10,136 |
 | Ceiling Of Stars | 10.00% | ~10,136 |
 | Playing Dress Up | 10.00% | ~10,136 |
-| Many Different Faces | 9.00% | ~9,122 |
-| Trellick's Pillar | 9.00% | ~9,122 |
-| Centre Of Brunswick | 9.00% | ~9,122 |
-| Bike Collector | 9.00% | ~9,122 |
-| Not That Kind Of Gliding | 9.00% | ~9,122 |
+| Many Different Faces | 9.00% | ~9,123 |
+| Trellick's Pillar | 9.00% | ~9,123 |
+| Centre Of Brunswick | 9.00% | ~9,123 |
+| Bike Collector | 9.00% | ~9,123 |
+| Not That Kind Of Gliding | 9.00% | ~9,123 |
 | The Scrapper Mask | 8.00% | ~8,109 |
 | Shadow Of Neave | 8.00% | ~8,109 |
 | Fragile Goods | 8.00% | ~8,109 |
@@ -50,20 +50,20 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~7,095 |
 | Smoked Out | 7.00% | ~7,095 |
 | A Hard Place | 7.00% | ~7,095 |
-| The Climber Mask | 6.00% | ~6,081 |
-| The Merchant Mask | 6.00% | ~6,081 |
-| Honorary Chum | 6.00% | ~6,081 |
-| Bikes Don't Fly | 6.00% | ~6,081 |
+| The Climber Mask | 6.00% | ~6,082 |
+| The Merchant Mask | 6.00% | ~6,082 |
+| Honorary Chum | 6.00% | ~6,082 |
+| Bikes Don't Fly | 6.00% | ~6,082 |
 | The Gliding | 5.00% | ~5,068 |
 | The Entertainer Mask | 5.00% | ~5,068 |
-| The Quick and the Curious | 4.00% | ~4,054 |
-| Bike Aficionado | 4.00% | ~4,054 |
+| The Quick and the Curious | 4.00% | ~4,055 |
+| Bike Aficionado | 4.00% | ~4,055 |
 | Chum Expert | 3.00% | ~3,041 |
 | Gastric Bypass | 3.00% | ~3,041 |
 | The Angler Mask | 3.00% | ~3,041 |
 | Vivacious Vivarium | 2.00% | ~2,027 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,357 (Ranked 88)  
+Progressed: 101,363 (Ranked 88)  
 Completed: 1,028 (1.01%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,11 +285,11 @@ Completed: 1,028 (1.01%) (Ranked 168)
 | 2023-11-25 | 100,894 | 1,020 |
 | 2023-11-26 | 101,095 | 1,022 |
 | 2023-11-27 | 101,246 | 1,027 |
-| 2023-11-28 | 101,357 | 1,028 |
+| 2023-11-28 | 101,363 | 1,028 |
 ## Awards
 Max (Quickly Understood Controls): 25  (Ranked 523)  
-Sum: 93 (Ranked 453)  
-Diff (max vs sum): 70  
+Sum: 93 (Ranked 452)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 25 |

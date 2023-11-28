@@ -1557,9 +1557,9 @@
       "ID": "TownCompletion",
       "SetID": "71c0n9i",
       "Name": "Landlord Extraordinaire",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TrojanHorse",
@@ -1693,8 +1693,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:04:05.4515757+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:04:31.4626161+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:59:04.7636904+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:04:05.4516094+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:59:24.2011469+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:04:31.462653+00:00"
 }

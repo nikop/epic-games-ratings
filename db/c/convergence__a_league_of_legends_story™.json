@@ -2565,9 +2565,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 179
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2966,8 +2966,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:09:17.8011149+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:09:41.5059364+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:59:39.999031+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:09:17.8011544+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:00:01.1605277+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:09:41.5059877+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -121,7 +121,7 @@
   "Tags": [],
   "EOS_Progressed": 967,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
@@ -3336,9 +3336,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 203
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3401,8 +3401,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:06:02.2817433+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:06:35.7168544+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:57:11.586746+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:06:02.2817708+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:57:25.0819833+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:06:35.7168843+00:00"
 }

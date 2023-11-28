@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Touch My Gems! | 97.00% | ~175 |
-| On the Crest of a Wave | 96.00% | ~173 |
-| Foreman of Darkness | 96.00% | ~173 |
-| Brilliant Day | 93.00% | ~167 |
-| Evil Genius | 88.00% | ~158 |
-| Air Defense | 85.00% | ~153 |
-| Tinned Corpse | 84.00% | ~151 |
-| Your War is Over | 83.00% | ~149 |
-| The Starry Night | 78.00% | ~140 |
+| Don't Touch My Gems! | 97.00% | ~176 |
+| On the Crest of a Wave | 96.00% | ~174 |
+| Foreman of Darkness | 96.00% | ~174 |
+| Brilliant Day | 93.00% | ~168 |
+| Evil Genius | 88.00% | ~159 |
+| Tinned Corpse | 85.00% | ~154 |
+| Air Defense | 85.00% | ~154 |
+| Your War is Over | 83.00% | ~150 |
+| The Starry Night | 78.00% | ~141 |
 | Go Home! | 77.00% | ~139 |
-| Brilliant: Meadowshire | 75.00% | ~135 |
-| Sergeant of the Evil | 75.00% | ~135 |
-| Look After the Pence... | 74.00% | ~133 |
-| Drunken Master | 74.00% | ~133 |
+| Brilliant: Meadowshire | 75.00% | ~136 |
+| Sergeant of the Evil | 75.00% | ~136 |
+| Look After the Pence... | 74.00% | ~134 |
+| Drunken Master | 73.00% | ~132 |
 | V.I.P. Cemetery | 72.00% | ~130 |
-| Top of the World | 71.00% | ~128 |
-| Takeover | 71.00% | ~128 |
-| Woodcutter | 71.00% | ~128 |
-| Sharpshooter | 71.00% | ~128 |
-| Architect of Darkness | 71.00% | ~128 |
-| The Apotheosis of War | 68.00% | ~122 |
-| Stasis Alcatraz | 68.00% | ~122 |
-| Brilliant: Holy Mountain | 64.00% | ~115 |
-| Tastes Like Chicken | 64.00% | ~115 |
-| Thunderstorm | 64.00% | ~115 |
-| Combo Breaker | 63.00% | ~113 |
+| Woodcutter | 71.00% | ~129 |
+| Architect of Darkness | 71.00% | ~129 |
+| Top of the World | 70.00% | ~127 |
+| Takeover | 70.00% | ~127 |
+| Sharpshooter | 70.00% | ~127 |
+| The Apotheosis of War | 68.00% | ~123 |
+| Stasis Alcatraz | 68.00% | ~123 |
+| Brilliant: Holy Mountain | 64.00% | ~116 |
+| Tastes Like Chicken | 64.00% | ~116 |
+| Thunderstorm | 64.00% | ~116 |
+| Combo Breaker | 63.00% | ~114 |
 | Clean Forests | 62.00% | ~112 |
-| Starry: Meadowshire | 58.00% | ~104 |
-| Lieutenant of the Evil | 58.00% | ~104 |
-| Avada Kedavra | 57.00% | ~103 |
-| Brilliant: Tanglewood | 54.00% | ~97 |
-| Starry: Holy Mountain | 54.00% | ~97 |
-| It's a Trap | 54.00% | ~97 |
-| Deposition | 51.00% | ~92 |
-| Brilliant: Arcania | 51.00% | ~92 |
+| Starry: Meadowshire | 58.00% | ~105 |
+| Lieutenant of the Evil | 57.00% | ~103 |
+| Avada Kedavra | 56.00% | ~101 |
+| Brilliant: Tanglewood | 54.00% | ~98 |
+| Starry: Holy Mountain | 54.00% | ~98 |
+| It's a Trap | 54.00% | ~98 |
+| Deposition | 50.00% | ~90 |
+| Brilliant: Arcania | 50.00% | ~90 |
 | Starry: Tanglewood | 47.00% | ~85 |
-| Sing, My Angel | 44.00% | ~79 |
-| Starry: Arcania | 44.00% | ~79 |
-| The Coreland | 41.00% | ~74 |
-| Feed the Fishes | 39.00% | ~70 |
-| Starry: The Coreland | 38.00% | ~68 |
+| Sing, My Angel | 44.00% | ~80 |
+| Starry: Arcania | 44.00% | ~80 |
+| The Coreland | 40.00% | ~72 |
+| Feed the Fishes | 39.00% | ~71 |
+| Starry: The Coreland | 38.00% | ~69 |
 | Brilliant: Wasteland | 35.00% | ~63 |
-| Father of Nation | 34.00% | ~61 |
+| Father of Nation | 34.00% | ~62 |
 | Dwarven Countdown | 31.00% | ~56 |
 | Starry: Wasteland | 29.00% | ~52 |
 | Deadman's Chest | 29.00% | ~52 |
-| Monument Keeper | 28.00% | ~50 |
+| Monument Keeper | 28.00% | ~51 |
 | Brilliant: Free Coast | 27.00% | ~49 |
 | Brilliant: The Deep | 24.00% | ~43 |
 | Starry: Free Coast | 24.00% | ~43 |
-| Starry: The Deep | 23.00% | ~41 |
+| Starry: The Deep | 23.00% | ~42 |
 | Loveless | 19.00% | ~34 |
-| Hostile Waters | 18.00% | ~32 |
+| Hostile Waters | 18.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 394)  
-Completed: 28 (15.56%) (Ranked 28)  
+Progressed: 181 (Ranked 394)  
+Completed: 28 (15.47%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,6 +106,7 @@ Completed: 28 (15.56%) (Ranked 28)
 | 2023-11-25 | 179 | 27 |
 | 2023-11-26 | 180 | 27 |
 | 2023-11-27 | 180 | 28 |
+| 2023-11-28 | 181 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

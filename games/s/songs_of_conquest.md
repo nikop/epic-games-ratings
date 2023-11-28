@@ -24,12 +24,12 @@ Number of Ratings: 292  (23.09.2022)
 | This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
+| Landlord Extraordinaire | 1.00% | ~3 |
 | Trojan Horse | 1.00% | ~3 |
 | Pyrrhic Victory | 1.00% | ~3 |
 | Death To Diplomacy | 0.70% | ~2 |
 | Versatile Wielder | 0.70% | ~2 |
 | Coming Through! | 0.70% | ~2 |
-| Landlord Extraordinaire | 0.70% | ~2 |
 | Hello There | 0.40% | ~1 |
 | Unlimited Power! | 0.40% | ~1 |
 | Fully Charged | 0.40% | ~1 |

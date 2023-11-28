@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -430,17 +430,17 @@
       "ID": "CgkIxYDzrbcPEAIQBQ",
       "SetID": "4egpam7",
       "Name": "Man of Faith",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -518,9 +518,9 @@
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
@@ -645,8 +645,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:05:13.7350997+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:05:43.8967007+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:31.5236566+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:59:54.8673518+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:05:13.7351199+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:00:17.0012657+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:05:43.8967181+00:00"
 }

@@ -1579,9 +1579,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160500,
+  "EOS_Progressed": 160503,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1075,
+  "EOS_NewPlayers": 1068,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17419,6 +17419,11 @@
       "Time": "2023-11-28T18:07:22.7921154+00:00",
       "NumProgressed": 160500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T19:08:01.4704054+00:00",
+      "NumProgressed": 160503,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -17430,7 +17435,7 @@
       "Name": "Spiral Heart",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACQUIRE_ALLHUNTPOINTS",
@@ -17446,7 +17451,7 @@
       "Name": "Skinmaker",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -17462,7 +17467,7 @@
       "Name": "Instruments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -17518,7 +17523,7 @@
       "Name": "Artisan",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -17558,7 +17563,7 @@
       "Name": "Hush",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -17598,7 +17603,7 @@
       "Name": "Inevitable",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -17638,7 +17643,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -17678,7 +17683,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -17718,7 +17723,7 @@
       "Name": "Passage",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "QUEST_CHILD",
@@ -17797,21 +17802,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 160083,
+      "Progressed": 160086,
       "Completed": 1226
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160500,
+      "Progressed": 160503,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-27T13:07:32.7280476+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:07:22.7921149+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:08:01.470405+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:01:22.8686668+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:07:22.7922068+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:01:50.2046535+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:08:01.4705338+00:00"
 }

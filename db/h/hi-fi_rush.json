@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4414,
+  "EOS_Progressed": 4415,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7890,6 +7890,11 @@
       "Time": "2023-11-28T16:04:26.3924175+00:00",
       "NumProgressed": 4414,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-28T19:05:47.8955962+00:00",
+      "NumProgressed": 4415,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7925,7 +7930,7 @@
       "Name": "The Negotiator",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Ach005",
@@ -8037,7 +8042,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Ach019",
@@ -8301,7 +8306,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "Ach052",
@@ -8468,13 +8473,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4414,
+      "Progressed": 4415,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2935,
+      "Progressed": 2936,
       "Completed": 1930
     }
   ],
@@ -8482,8 +8487,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:05:17.4278534+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:05:47.8955958+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:57:20.9271338+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:05:17.42794+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:57:35.0707751+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:05:47.8956892+00:00"
 }

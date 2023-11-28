@@ -2,12 +2,12 @@
   "ID": "22516e1b4eea447e8f027e34d3a05e87",
   "Name": "Knights of Honor II: Sovereign",
   "ProductSlug": "knights-of-honor-ii-sovereign",
-  "Ranking_Rating": 664,
+  "Ranking_Rating": 716,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[KR]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-02-23T23:57:47.5434783+00:00",
@@ -175,6 +175,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-28T18:59:49.6130023+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -193,8 +199,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-07T15:57:38.7138742+00:00",
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
-  "LastChanged": "2023-11-12T17:57:50.800025+00:00",
+  "LastChanged": "2023-11-28T18:59:49.6130022+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.5631222+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:59:29.0635271+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:08:21.032518+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:59:49.6130026+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:08:41.9955861+00:00"
 }

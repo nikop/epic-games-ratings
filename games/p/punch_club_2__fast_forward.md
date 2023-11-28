@@ -8,10 +8,10 @@
 | Your first fight | 87.00% | ~307 |
 | Good Person Chip | 86.00% | ~304 |
 | First winning | 85.00% | ~300 |
-| Your first job | 83.00% | ~293 |
+| Your first job | 84.00% | ~297 |
 | Fitness professional | 79.00% | ~279 |
 | Old movies enjoyer | 79.00% | ~279 |
-| Depressed visitor | 78.00% | ~275 |
+| Depressed visitor | 79.00% | ~279 |
 | Neurotrainer – power gainer! | 78.00% | ~275 |
 | Employee of the week | 78.00% | ~275 |
 | Your own amateur gym | 74.00% | ~261 |
@@ -32,7 +32,7 @@
 | Own four walls | 59.00% | ~208 |
 | Employee of the year | 59.00% | ~208 |
 | Little hacker | 58.00% | ~205 |
-| Intriguing candies | 57.00% | ~201 |
+| Intriguing candies | 58.00% | ~205 |
 | Legal courier | 56.00% | ~198 |
 | Extreme neuropower! | 55.00% | ~194 |
 | Escaped from a big trouble | 52.00% | ~184 |

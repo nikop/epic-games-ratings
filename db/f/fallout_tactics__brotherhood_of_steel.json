@@ -2,12 +2,12 @@
   "ID": "b90be973f6e74975ac1a6ff15dbfd0b3",
   "Name": "Fallout Tactics: Brotherhood of Steel",
   "ProductSlug": "fallout-tactics-brotherhood-of-steel",
-  "Ranking_Rating": 648,
+  "Ranking_Rating": 663,
   "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 445,
+  "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2022-12-23T20:57:41.5501636+00:00",
@@ -419,6 +419,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 110,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-11-28T19:03:01.1474582+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 110,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
@@ -445,8 +451,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:01:33.5009817+00:00",
   "FirstSeenRating": "2022-12-23T20:57:41.5501633+00:00",
-  "LastChanged": "2023-11-20T07:00:11.9644466+00:00",
+  "LastChanged": "2023-11-28T19:03:01.147458+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.434791+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:02:42.079552+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:03:21.6059464+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:03:01.1474585+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:03:44.4243038+00:00"
 }

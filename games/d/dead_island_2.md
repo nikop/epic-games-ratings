@@ -5,42 +5,42 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,583 |
-| Break A Leg | 2.00% | ~14,544 |
-| Coup de Grâce | 2.00% | ~14,544 |
-| Hazardous Materials | 2.00% | ~14,544 |
-| Hotel California | 2.00% | ~14,544 |
-| Welcome To Hell-A | 2.00% | ~14,544 |
-| One of Us | 2.00% | ~1,055 |
-| Pork Chopped | 2.00% | ~1,055 |
-| Dr. Reed, I Presume? | 1.00% | ~7,272 |
-| Git Gutte! | 1.00% | ~7,272 |
-| Anger Management | 1.00% | ~7,272 |
-| Perks of the Job | 1.00% | ~7,272 |
-| Bookworm | 1.00% | ~7,272 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,272 |
-| But Doctor, I am Butcho | 1.00% | ~7,272 |
-| Slayer Squad | 1.00% | ~7,272 |
-| Can't Handle the Truth | 1.00% | ~7,272 |
-| Like Riding a Bike | 1.00% | ~7,272 |
-| Friends Like These | 1.00% | ~7,272 |
-| Apex Predator | 1.00% | ~7,272 |
-| Zombologist | 1.00% | ~7,272 |
-| Ooh, Shiny! | 1.00% | ~7,272 |
-| A Patton Emerges | 1.00% | ~7,272 |
-| Stacking the Deck | 1.00% | ~7,272 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,272 |
-| Our True Nature | 1.00% | ~7,272 |
-| This is My Weapon | 1.00% | ~7,272 |
+| Whatever It Takes | 3.00% | ~1,584 |
+| Break A Leg | 2.00% | ~14,545 |
+| Coup de Grâce | 2.00% | ~14,545 |
+| Hazardous Materials | 2.00% | ~14,545 |
+| Hotel California | 2.00% | ~14,545 |
+| Welcome To Hell-A | 2.00% | ~14,545 |
+| One of Us | 2.00% | ~1,056 |
+| Pork Chopped | 2.00% | ~1,056 |
+| Dr. Reed, I Presume? | 1.00% | ~7,273 |
+| Git Gutte! | 1.00% | ~7,273 |
+| Anger Management | 1.00% | ~7,273 |
+| Perks of the Job | 1.00% | ~7,273 |
+| Bookworm | 1.00% | ~7,273 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,273 |
+| But Doctor, I am Butcho | 1.00% | ~7,273 |
+| Slayer Squad | 1.00% | ~7,273 |
+| Can't Handle the Truth | 1.00% | ~7,273 |
+| Like Riding a Bike | 1.00% | ~7,273 |
+| Friends Like These | 1.00% | ~7,273 |
+| Apex Predator | 1.00% | ~7,273 |
+| Zombologist | 1.00% | ~7,273 |
+| Ooh, Shiny! | 1.00% | ~7,273 |
+| A Patton Emerges | 1.00% | ~7,273 |
+| Stacking the Deck | 1.00% | ~7,273 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,273 |
+| Our True Nature | 1.00% | ~7,273 |
+| This is My Weapon | 1.00% | ~7,273 |
 | I Am the Resurrection | 0.90% | ~6,545 |
 | Making Your Mark | 0.80% | ~5,818 |
 | Humanity Distilled | 0.80% | ~5,818 |
 | Max Headroom | 0.80% | ~5,818 |
 | Down with the Sickness | 0.70% | ~5,091 |
-| Not Even My Final Form | 0.60% | ~4,363 |
-| Jumbo Keyring | 0.60% | ~4,363 |
-| Go, Bobcats! | 0.60% | ~4,363 |
-| Rising Star | 0.60% | ~4,363 |
+| Not Even My Final Form | 0.60% | ~4,364 |
+| Jumbo Keyring | 0.60% | ~4,364 |
+| Go, Bobcats! | 0.60% | ~4,364 |
+| Rising Star | 0.60% | ~4,364 |
 | On Safari | 0.50% | ~3,636 |
 | Smorgasbord | 0.50% | ~3,636 |
 | Internet Famous | 0.50% | ~3,636 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 526)
 | Gore Horse | 0.30% | ~2,182 |
 | Sharpest Tool in the Box | 0.30% | ~2,182 |
 | Top That, Tisha! | 0.30% | ~158 |
-| Survival Skills | 0.20% | ~1,454 |
+| Survival Skills | 0.20% | ~1,455 |
 | Lawn and Order | 0.20% | ~106 |
 | Donk! | 0.10% | ~727 |
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,225 (Ranked 21)  
+Progressed: 727,263 (Ranked 21)  
 Completed: 2,446 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2,446 (0.34%) (Ranked 231)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 727,225 | 2,446 |
+| 2023-11-28 | 727,263 | 2,446 |
 ## Awards
 Max (Great Boss Battles): 7,784  (Ranked 49)  
 Sum: 11,920 (Ranked 84)  

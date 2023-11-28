@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -725,9 +725,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 2033,
+  "EOS_Progressed": 2034,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -6240,6 +6240,11 @@
       "Time": "2023-11-28T18:08:35.7771484+00:00",
       "NumProgressed": 2033,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-28T19:08:57.8533035+00:00",
+      "NumProgressed": 2034,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6252,7 +6257,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "achievement_10",
@@ -6324,7 +6329,7 @@
       "Name": "Full Arsenal",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "achievement_19",
@@ -6340,7 +6345,7 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "achievement_20",
@@ -6348,7 +6353,7 @@
       "Name": "Autofire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "achievement_21",
@@ -6428,7 +6433,7 @@
       "Name": "All Systems Go",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "achievement_30",
@@ -6444,7 +6449,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "achievement_32",
@@ -6468,7 +6473,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "achievement_35",
@@ -6476,7 +6481,7 @@
       "Name": "Freeze",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "achievement_36",
@@ -6500,7 +6505,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "achievement_39",
@@ -6516,7 +6521,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "achievement_40",
@@ -6548,7 +6553,7 @@
       "Name": "Exterminator",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "achievement_44",
@@ -6588,7 +6593,7 @@
       "Name": "True Believer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "achievement_6",
@@ -6596,7 +6601,7 @@
       "Name": "Greenhouse Effect",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "achievement_7",
@@ -6627,7 +6632,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 2033,
+      "Progressed": 2034,
       "Completed": 13
     }
   ],
@@ -6635,8 +6640,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-26T22:02:06.8733907+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:08:35.7771482+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:08:57.8533031+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.9761475+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:57:12.6619531+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:08:35.7771975+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:57:26.2150553+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:08:57.853358+00:00"
 }

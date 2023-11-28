@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~21,738 |
-| Fried Friendship | 87.00% | ~21,491 |
-| Look At Him Go | 78.00% | ~19,268 |
-| On Rails Experience | 57.00% | ~14,080 |
-| A Daring Devil | 52.00% | ~12,845 |
-| It Took Two | 44.00% | ~10,869 |
-| Break the Bank | 43.00% | ~10,622 |
-| Bug Sized Relaxation | 21.00% | ~5,187 |
-| Plastic Prison Breakers | 17.00% | ~4,199 |
-| Terror Of The Seven Seas | 16.00% | ~3,952 |
-| Realize Your Art | 12.00% | ~2,964 |
-| Force Triangulated | 12.00% | ~2,964 |
-| Meditation Maestro | 12.00% | ~2,964 |
-| Lost And Found | 11.00% | ~2,717 |
-| Something Fishy | 11.00% | ~2,717 |
-| Platforming Prodigy | 9.00% | ~2,223 |
-| Snackosaurus | 8.00% | ~1,976 |
+| Struck A Pose | 88.00% | ~21,742 |
+| Fried Friendship | 87.00% | ~21,495 |
+| Look At Him Go | 78.00% | ~19,271 |
+| On Rails Experience | 57.00% | ~14,083 |
+| A Daring Devil | 52.00% | ~12,848 |
+| It Took Two | 44.00% | ~10,871 |
+| Break the Bank | 43.00% | ~10,624 |
+| Bug Sized Relaxation | 21.00% | ~5,188 |
+| Plastic Prison Breakers | 17.00% | ~4,200 |
+| Terror Of The Seven Seas | 16.00% | ~3,953 |
+| Realize Your Art | 12.00% | ~2,965 |
+| Force Triangulated | 12.00% | ~2,965 |
+| Meditation Maestro | 12.00% | ~2,965 |
+| Lost And Found | 11.00% | ~2,718 |
+| Something Fishy | 11.00% | ~2,718 |
+| Platforming Prodigy | 9.00% | ~2,224 |
+| Snackosaurus | 8.00% | ~1,977 |
 | Mood Swing | 7.00% | ~1,729 |
 | Faraway Frequencies | 4.00% | ~988 |
 | Minigame Megalomania | 3.00% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,702 (Ranked 128)  
-Completed: 105 (0.43%) (Ranked 216)  
+Progressed: 24,707 (Ranked 128)  
+Completed: 105 (0.42%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,4 +99,4 @@ Completed: 105 (0.43%) (Ranked 216)
 | 2023-11-25 | 24,052 | 104 |
 | 2023-11-26 | 24,372 | 104 |
 | 2023-11-27 | 24,529 | 105 |
-| 2023-11-28 | 24,702 | 105 |
+| 2023-11-28 | 24,707 | 105 |

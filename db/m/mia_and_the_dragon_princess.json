@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -496,9 +496,9 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "bathroom_brawler",
@@ -520,9 +520,9 @@
       "ID": "codebreaker",
       "SetID": "5anb57n",
       "Name": "Codebreaker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "escape_artist",
@@ -608,9 +608,9 @@
       "ID": "set_sail",
       "SetID": "5anb57n",
       "Name": "Set Sail",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "snitch",
@@ -639,8 +639,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:08:16.6523213+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:08:37.5079292+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:03.6960526+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:56:58.5452578+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:08:16.6523328+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:57:11.2028327+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:08:37.5079431+00:00"
 }

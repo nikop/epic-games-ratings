@@ -5,19 +5,19 @@ Rating: 4.04 (Ranked 989)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,588 |
-| World Map | 78.00% | ~2,171 |
-| Temple of Eternals | 57.00% | ~1,586 |
-| Prestigious | 53.00% | ~1,475 |
+| Victor | 93.00% | ~2,589 |
+| World Map | 78.00% | ~2,172 |
+| Temple of Eternals | 57.00% | ~1,587 |
+| Prestigious | 53.00% | ~1,476 |
 | Fellowship Power | 42.00% | ~1,169 |
 | Guild Power | 24.00% | ~668 |
-| Prestigious x10 | 21.00% | ~584 |
+| Prestigious x10 | 21.00% | ~585 |
 | The game is on | 19.00% | ~529 |
 | Exotic Merchant | 17.00% | ~473 |
 | Dragon Clicker | 16.00% | ~445 |
 | Miner Clicker | 16.00% | ~445 |
-| Full Party | 15.00% | ~417 |
-| Inspection | 15.00% | ~417 |
+| Full Party | 15.00% | ~418 |
+| Inspection | 15.00% | ~418 |
 | Dragon Master | 14.00% | ~390 |
 | Enlightenment | 14.00% | ~390 |
 | Hero inspection | 14.00% | ~390 |
@@ -31,13 +31,13 @@ Rating: 4.04 (Ranked 989)
 | Hunter | 10.00% | ~278 |
 | Scientist | 10.00% | ~278 |
 | The power of Awakening | 10.00% | ~278 |
-| Challenger | 9.00% | ~250 |
-| Daily Quest Completionist | 9.00% | ~250 |
-| Frostfire Liberator | 9.00% | ~250 |
-| Mastery | 9.00% | ~250 |
-| Moving Up The Ladder | 9.00% | ~250 |
-| Relic Of The Past | 9.00% | ~250 |
-| Scroll Master | 9.00% | ~250 |
+| Challenger | 9.00% | ~251 |
+| Daily Quest Completionist | 9.00% | ~251 |
+| Frostfire Liberator | 9.00% | ~251 |
+| Mastery | 9.00% | ~251 |
+| Moving Up The Ladder | 9.00% | ~251 |
+| Relic Of The Past | 9.00% | ~251 |
+| Scroll Master | 9.00% | ~251 |
 | Four Leaf Clover | 8.00% | ~223 |
 | Here We Go Again | 8.00% | ~223 |
 | Master Enchanter | 8.00% | ~223 |
@@ -61,9 +61,9 @@ Rating: 4.04 (Ranked 989)
 | The Alchemist | 5.00% | ~139 |
 | Arena Challenger | 4.00% | ~111 |
 | Ebony Jungle Liberator | 4.00% | ~111 |
-| Gear Enchanting | 3.00% | ~83 |
-| Mythic Power | 3.00% | ~83 |
-| What lies behind the bush | 3.00% | ~83 |
+| Gear Enchanting | 3.00% | ~84 |
+| Mythic Power | 3.00% | ~84 |
+| What lies behind the bush | 3.00% | ~84 |
 | Cauldron Liberator | 2.00% | ~56 |
 | Enchanting skill x5 | 2.00% | ~56 |
 | Guardian Master | 2.00% | ~56 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 989)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,783 (Ranked 213)  
+Progressed: 2,784 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 2 (0.07%) (Ranked 302)
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
 | 2023-11-27 | 2,771 | 2 |
-| 2023-11-28 | 2,783 | 2 |
+| 2023-11-28 | 2,784 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
 Sum: 134 (Ranked 429)  

@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,062 |
-| Alt+F4 | 9.00% | ~21,616 |
-| Where's that freaking Dwarf? | 8.00% | ~19,214 |
+| Sowwy! | 35.00% | ~84,065 |
+| Alt+F4 | 9.00% | ~21,617 |
+| Where's that freaking Dwarf? | 8.00% | ~19,215 |
 | Déjà vu | 6.00% | ~14,411 |
 | Sock! SOCK! | 5.00% | ~12,009 |
 | Speedrun | 5.00% | ~12,009 |
@@ -16,9 +16,9 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 4.00% | ~9,607 |
 | DM intervention | 4.00% | ~9,607 |
 | Fireproof Wizardess | 4.00% | ~9,607 |
-| Livin' in a dwarven paradise | 3.00% | ~7,205 |
-| Way of the Wimp | 3.00% | ~7,205 |
-| The plot thickens... At the tavern | 3.00% | ~7,205 |
+| Livin' in a dwarven paradise | 3.00% | ~7,206 |
+| Way of the Wimp | 3.00% | ~7,206 |
+| The plot thickens... At the tavern | 3.00% | ~7,206 |
 | Shiny and Crôm | 2.00% | ~4,804 |
 | The demons' feast | 2.00% | ~4,804 |
 | The Great Library | 2.00% | ~4,804 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,177 (Ranked 63)  
+Progressed: 240,185 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-25 | 239,618 | 7 |
 | 2023-11-26 | 239,885 | 7 |
 | 2023-11-27 | 240,063 | 7 |
-| 2023-11-28 | 240,177 | 7 |
+| 2023-11-28 | 240,185 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 484 (Ranked 329)  

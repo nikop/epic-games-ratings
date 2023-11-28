@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4443,
+  "EOS_Progressed": 4445,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -3279,6 +3279,11 @@
       "Time": "2023-11-28T18:07:10.9117835+00:00",
       "NumProgressed": 4443,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-11-28T19:07:48.653863+00:00",
+      "NumProgressed": 4445,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3323,7 +3328,7 @@
       "Name": "Unlock the PC",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -3339,7 +3344,7 @@
       "Name": "Turn on the TV",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2489
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -3347,7 +3352,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 3510
+      "UsersEstimate": 3512
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -3418,14 +3423,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4443,
+      "Progressed": 4445,
       "Completed": 43
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:07:10.9117831+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:07:48.6538627+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:00:01.2693742+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:07:10.9118199+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:00:24.6172174+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:07:48.6538842+00:00"
 }

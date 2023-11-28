@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "max_hp",
       "SetID": "94981fl",
       "Name": "MAX HP!",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "missile",
@@ -495,9 +495,9 @@
       "ID": "plasmagun",
       "SetID": "94981fl",
       "Name": "plasma gun",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "resistance",
@@ -606,8 +606,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:08:08.5368422+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:03:37.8862642+00:00",
   "LastUpdate_AppInfo": "2023-11-24T20:57:05.2726385+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:58:48.5819865+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:08:08.5368595+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:59:08.863833+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:03:37.8863441+00:00"
 }

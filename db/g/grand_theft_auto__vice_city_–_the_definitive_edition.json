@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 539,
   "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 443,
+  "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -883,9 +883,9 @@
       "Count": 112
     }
   ],
-  "EOS_Progressed": 11121,
+  "EOS_Progressed": 11122,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13358,6 +13358,11 @@
       "Time": "2023-11-28T17:08:35.6495067+00:00",
       "NumProgressed": 11121,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-28T19:09:15.5722914+00:00",
+      "NumProgressed": 11122,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13441,7 +13446,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH11",
@@ -13537,7 +13542,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "ACH23",
@@ -13545,7 +13550,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "ACH24",
@@ -13569,7 +13574,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACH27",
@@ -13585,7 +13590,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH29",
@@ -13640,7 +13645,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11121,
+      "Progressed": 11122,
       "Completed": 65
     }
   ],
@@ -13648,8 +13653,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-28T17:00:04.053138+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:08:53.0624914+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:09:15.5722911+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:45.8574591+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:01:15.9953028+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:08:53.0625776+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:01:43.4073077+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:09:15.5723891+00:00"
 }

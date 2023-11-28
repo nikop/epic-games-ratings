@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,610 |
-| Landlord | 33.00% | ~21,954 |
-| Bannerlord | 24.00% | ~15,966 |
-| Horde breaker | 24.00% | ~15,966 |
-| Lawmaker | 24.00% | ~15,966 |
-| Trained | 24.00% | ~15,966 |
-| The king is pleased | 19.00% | ~12,640 |
+| Lawbringer | 40.00% | ~26,612 |
+| Landlord | 33.00% | ~21,955 |
+| Bannerlord | 24.00% | ~15,967 |
+| Horde breaker | 24.00% | ~15,967 |
+| Lawmaker | 24.00% | ~15,967 |
+| Trained | 24.00% | ~15,967 |
+| The king is pleased | 19.00% | ~12,641 |
 | King Solomon | 18.00% | ~11,975 |
-| Apple of my eye | 16.00% | ~10,644 |
-| I can do it | 16.00% | ~10,644 |
-| Against all odds | 13.00% | ~8,648 |
-| God of the Arena | 13.00% | ~8,648 |
-| This Is Our Land | 13.00% | ~8,648 |
+| Apple of my eye | 16.00% | ~10,645 |
+| I can do it | 16.00% | ~10,645 |
+| Against all odds | 13.00% | ~8,649 |
+| God of the Arena | 13.00% | ~8,649 |
+| This Is Our Land | 13.00% | ~8,649 |
 | Duelist | 10.00% | ~6,653 |
 | Dynasty | 10.00% | ~6,653 |
 | I spit on your grave | 10.00% | ~6,653 |
 | Swordbearer | 10.00% | ~6,653 |
 | What have the Romans ever done for us? | 10.00% | ~6,653 |
-| Butterlord | 9.00% | ~5,987 |
+| Butterlord | 9.00% | ~5,988 |
 | Mastery | 8.00% | ~5,322 |
 | Know your enemy | 7.00% | ~4,657 |
 | Crowdfunded | 5.00% | ~3,326 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,526 (Ranked 104)  
+Progressed: 66,530 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 66,150 | 0 |
 | 2023-11-26 | 66,306 | 0 |
 | 2023-11-27 | 66,427 | 0 |
-| 2023-11-28 | 66,526 | 0 |
+| 2023-11-28 | 66,530 | 0 |
 ## Awards
 Max (Character Customization): 7,443  (Ranked 53)  
 Sum: 15,486 (Ranked 68)  

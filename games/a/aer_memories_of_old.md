@@ -1,7 +1,7 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 664)  
+Rating: 4.45 (Ranked 663)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 170  (23.09.2022)
 | Mama? | 27.00% | ~6,780 |
 | People's Haven | 18.00% | ~4,520 |
 | Cartographer | 17.00% | ~4,269 |
-| Knowledge for Power | 14.00% | ~3,515 |
-| Antlers of Stone | 14.00% | ~3,515 |
+| Knowledge for Power | 14.00% | ~3,516 |
+| Antlers of Stone | 14.00% | ~3,516 |
 | Gaze into the abyss | 13.00% | ~3,264 |
 | Mausoleum of Ice | 13.00% | ~3,264 |
 | Wings of Stone | 12.00% | ~3,013 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,256 |
 | Hide and Seek | 4.00% | ~1,004 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,110 (Ranked 127)  
+Progressed: 25,111 (Ranked 127)  
 Completed: 478 (1.90%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 478 (1.90%) (Ranked 129)
 | 2023-11-25 | 24,907 | 474 |
 | 2023-11-26 | 24,992 | 475 |
 | 2023-11-27 | 25,066 | 478 |
-| 2023-11-28 | 25,110 | 478 |
+| 2023-11-28 | 25,111 | 478 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

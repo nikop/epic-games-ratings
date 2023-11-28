@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -284,6 +284,11 @@
       "Time": "2023-11-27T12:04:02.6343032+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T19:04:52.3869445+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -294,7 +299,7 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 25,
       "UsersEstimate": 33
     },
@@ -310,7 +315,7 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 27
     },
@@ -318,7 +323,7 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -326,7 +331,7 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 25,
       "UsersEstimate": 25
     },
@@ -334,7 +339,7 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 65,
       "UsersEstimate": 20
     },
@@ -350,7 +355,7 @@
       "ID": "JustCautious",
       "SetID": "7m88n8p",
       "Name": "Just Being Cautious",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -366,7 +371,7 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 19
     },
@@ -374,7 +379,7 @@
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 19
     },
@@ -390,7 +395,7 @@
       "ID": "MortuaryMarkup",
       "SetID": "7m88n8p",
       "Name": "Mortuary Makeup Artist",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 65,
       "UsersEstimate": 17
     },
@@ -406,7 +411,7 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
       "UsersEstimate": 21
     },
@@ -414,7 +419,7 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 25,
       "UsersEstimate": 49
     },
@@ -430,7 +435,7 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
       "UsersEstimate": 21
     },
@@ -438,7 +443,7 @@
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 65,
       "UsersEstimate": 21
     },
@@ -446,7 +451,7 @@
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -454,7 +459,7 @@
       "ID": "WaitingForSalvation",
       "SetID": "7m88n8p",
       "Name": "Waiting for Salvation",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 65,
       "UsersEstimate": 17
     },
@@ -462,7 +467,7 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
       "UsersEstimate": 24
     }
@@ -471,14 +476,14 @@
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:04:25.3570018+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:04:52.3869441+00:00",
   "LastUpdate_AppInfo": "2023-11-27T10:57:15.6283933+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:57:58.3871272+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:04:25.3570139+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:58:15.9690987+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:04:52.3869585+00:00"
 }

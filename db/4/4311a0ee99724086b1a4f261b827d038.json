@@ -647,9 +647,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 234699,
+  "EOS_Progressed": 234708,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1156,
+  "EOS_NewPlayers": 1152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15427,6 +15427,11 @@
       "Time": "2023-11-28T18:09:50.6665519+00:00",
       "NumProgressed": 234699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T19:10:15.5750485+00:00",
+      "NumProgressed": 234708,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -15495,7 +15500,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49287
+      "UsersEstimate": 49289
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -15503,7 +15508,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21123
+      "UsersEstimate": 21124
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -15591,7 +15596,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -15607,7 +15612,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -15615,7 +15620,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -15623,7 +15628,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32858
+      "UsersEstimate": 32859
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -15631,7 +15636,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16429
+      "UsersEstimate": 16430
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -15687,7 +15692,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -15695,7 +15700,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58675
+      "UsersEstimate": 58677
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -15710,7 +15715,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 234699,
+      "Progressed": 234708,
       "Completed": 0
     }
   ],
@@ -15718,8 +15723,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-28T13:02:09.2290114+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:09:50.6665513+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:10:15.5750482+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.33261+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:57:14.8712365+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:09:50.6666461+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:57:28.6154233+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:10:15.575119+00:00"
 }

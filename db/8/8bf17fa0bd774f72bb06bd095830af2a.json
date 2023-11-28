@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -218,9 +218,9 @@
       "ID": "SteamAchievement_KillForestMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Grassholt",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SteamAchievement_KillFrostMonsters",
@@ -250,9 +250,9 @@
       "ID": "SteamAchievement_WinBattles01",
       "SetID": "b8gj0ip",
       "Name": "Battle Commander",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SteamAchievement_WinBattles02",
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-11-28T18:06:32.7865194+00:00",
+  "LastChanged_Achievements": "2023-11-28T19:07:08.2303349+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:31.0560855+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:58:48.3972854+00:00",
-  "LastUpdate_Achievements": "2023-11-28T18:06:32.7865413+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:59:08.673737+00:00",
+  "LastUpdate_Achievements": "2023-11-28T19:07:08.2303604+00:00"
 }
