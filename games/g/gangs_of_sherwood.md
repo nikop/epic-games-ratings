@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Air Fighter | 81.00% | ~13 |
-| Act of Kindness | 75.00% | ~12 |
+| Act of Kindness | 81.00% | ~13 |
 | The Altruist | 63.00% | ~10 |
 | Oo-De-Lally | 56.00% | ~9 |
 | Watch your Step! | 56.00% | ~9 |
@@ -23,13 +23,13 @@
 | Spring Board | 31.00% | ~5 |
 | Ultra Rebel Instinct | 25.00% | ~4 |
 | Take Action! | 25.00% | ~4 |
+| First Aid | 25.00% | ~4 |
 | Merry Go Round | 25.00% | ~4 |
 | Ascending Will | 19.00% | ~3 |
 | Ultra Combo | 19.00% | ~3 |
 | The Gang prevails | 19.00% | ~3 |
 | Hidden Experiment | 19.00% | ~3 |
 | Haute Couture | 19.00% | ~3 |
-| First Aid | 19.00% | ~3 |
 | Brilliant Executioner | 13.00% | ~2 |
 | King of the Iron Fist | 13.00% | ~2 |
 | Bold and Bossy | 13.00% | ~2 |

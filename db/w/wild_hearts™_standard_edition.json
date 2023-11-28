@@ -1709,9 +1709,9 @@
       "ID": "achievement_25",
       "SetID": "2cpn27e",
       "Name": "Volatile Vocation",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_26",
@@ -1963,8 +1963,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:27:54.4760218+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:04:07.6280855+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.7646149+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:23:08.8439998+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:27:54.4760561+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:59:22.880991+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:04:07.628128+00:00"
 }

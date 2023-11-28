@@ -6987,9 +6987,9 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 726831,
+  "EOS_Progressed": 726839,
   "EOS_Completed": 2444,
-  "EOS_NewPlayers": 5189,
+  "EOS_NewPlayers": 5193,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32352,6 +32352,11 @@
       "Time": "2023-11-28T02:30:23.6130491+00:00",
       "NumProgressed": 726831,
       "NumCompleted": 2444
+    },
+    {
+      "Time": "2023-11-28T03:07:58.8943665+00:00",
+      "NumProgressed": 726839,
+      "NumCompleted": 2444
     }
   ],
   "TotalAchievements": 51,
@@ -32403,7 +32408,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ach_blueprinted",
@@ -32547,7 +32552,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -32587,7 +32592,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ach_metropolitan",
@@ -32611,7 +32616,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6541
+      "UsersEstimate": 6542
     },
     {
       "ID": "ach_salvation",
@@ -32627,7 +32632,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ach_skilled_up",
@@ -32723,7 +32728,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ach_dark_magic",
@@ -32747,7 +32752,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32770,13 +32775,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726831,
+      "Progressed": 726839,
       "Completed": 2444
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 52373,
+      "Progressed": 52381,
       "Completed": 36609
     }
   ],
@@ -32784,8 +32789,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-27T23:57:06.9242353+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:30:23.6130486+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:07:58.8943659+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:20:39.2768049+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:30:23.6132001+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:57:11.5774634+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:07:58.8944857+00:00"
 }

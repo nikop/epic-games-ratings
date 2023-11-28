@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8133,
+  "EOS_Progressed": 8134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7628,6 +7628,11 @@
       "Time": "2023-11-28T01:57:33.4876797+00:00",
       "NumProgressed": 8133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T03:09:16.5855742+00:00",
+      "NumProgressed": 8134,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7648,7 +7653,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5774
+      "UsersEstimate": 5775
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7656,7 +7661,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -7664,7 +7669,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -7736,7 +7741,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -7744,7 +7749,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7776,7 +7781,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7792,7 +7797,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4961
+      "UsersEstimate": 4962
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7919,22 +7924,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8133,
+      "Progressed": 8134,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 750,
-      "Completed": 750
+      "Progressed": 751,
+      "Completed": 751
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:33:00.4708341+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:09:16.5855739+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:26:30.9223622+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:33:00.4708957+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:02:51.6120646+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:09:16.5856361+00:00"
 }

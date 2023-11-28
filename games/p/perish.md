@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 6.00% | ~223 |
-| Initiate's Resolve | 6.00% | ~223 |
+| To Suffer is to Learn | 6.00% | ~224 |
+| Initiate's Resolve | 6.00% | ~224 |
 | Missilis | 5.00% | ~186 |
 | Modest Earnings | 5.00% | ~186 |
 | Armaments of the Pantheon | 5.00% | ~186 |
@@ -53,7 +53,7 @@
 | Rites at Sea | 1.00% | ~37 |
 | Close Shut the Doors | 1.00% | ~37 |
 | Scrap Metal | 1.00% | ~37 |
-| Athenian Treasury | 0.90% | ~33 |
+| Athenian Treasury | 0.90% | ~34 |
 | Invicta | 0.80% | ~30 |
 | Olympian | 0.50% | ~19 |
 | Hipparchia's Labour | 0.40% | ~15 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,722 (Ranked 201)  
+Progressed: 3,725 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-25 | 3,700 | 0 |
 | 2023-11-26 | 3,715 | 0 |
 | 2023-11-27 | 3,718 | 0 |
-| 2023-11-28 | 3,722 | 0 |
+| 2023-11-28 | 3,725 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

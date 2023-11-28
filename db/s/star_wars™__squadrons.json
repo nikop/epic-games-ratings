@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24401,
+  "EOS_Progressed": 24408,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2582,
+  "EOS_NewPlayers": 2579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8174,6 +8174,11 @@
       "Time": "2023-11-28T02:33:03.7432179+00:00",
       "NumProgressed": 24401,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T03:09:19.6492687+00:00",
+      "NumProgressed": 24408,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -8186,7 +8191,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3660
+      "UsersEstimate": 3661
     },
     {
       "ID": "achievement_10",
@@ -8234,7 +8239,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4882
     },
     {
       "ID": "achievement_16",
@@ -8338,7 +8343,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "achievement_28",
@@ -8394,7 +8399,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4636
+      "UsersEstimate": 4638
     },
     {
       "ID": "achievement_34",
@@ -8410,7 +8415,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 23181
+      "UsersEstimate": 23188
     },
     {
       "ID": "achievement_36",
@@ -8418,7 +8423,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "achievement_37",
@@ -8426,7 +8431,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "achievement_38",
@@ -8442,7 +8447,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5858
     },
     {
       "ID": "achievement_4",
@@ -8530,7 +8535,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "achievement_7",
@@ -8546,7 +8551,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5858
     },
     {
       "ID": "achievement_9",
@@ -8561,7 +8566,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 24401,
+      "Progressed": 24408,
       "Completed": 1
     }
   ],
@@ -8569,8 +8574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:33:03.7432176+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:09:19.6492684+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:13.346216+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:26:34.6987741+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:33:03.7432865+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:02:56.4145651+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:09:19.6493527+00:00"
 }

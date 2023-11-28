@@ -10,8 +10,8 @@ Rating: 4.54 (Ranked 528)
 | Coup de Grâce | 2.00% | ~14,537 |
 | Hotel California | 2.00% | ~14,537 |
 | Welcome To Hell-A | 2.00% | ~14,537 |
-| One of Us | 2.00% | ~1,047 |
-| Pork Chopped | 2.00% | ~1,047 |
+| One of Us | 2.00% | ~1,048 |
+| Pork Chopped | 2.00% | ~1,048 |
 | Dr. Reed, I Presume? | 1.00% | ~7,268 |
 | Git Gutte! | 1.00% | ~7,268 |
 | Anger Management | 1.00% | ~7,268 |
@@ -32,7 +32,7 @@ Rating: 4.54 (Ranked 528)
 | Personal Assistant Personally Assisted | 1.00% | ~7,268 |
 | Our True Nature | 1.00% | ~7,268 |
 | This is My Weapon | 1.00% | ~7,268 |
-| I Am the Resurrection | 0.90% | ~6,541 |
+| I Am the Resurrection | 0.90% | ~6,542 |
 | Making Your Mark | 0.80% | ~5,815 |
 | Humanity Distilled | 0.80% | ~5,815 |
 | Max Headroom | 0.80% | ~5,815 |
@@ -46,10 +46,10 @@ Rating: 4.54 (Ranked 528)
 | Internet Famous | 0.50% | ~3,634 |
 | Variety is the Spice of Death | 0.50% | ~3,634 |
 | Make it So | 0.40% | ~2,907 |
-| LA Influential | 0.30% | ~2,180 |
-| Sole Survivor | 0.30% | ~2,180 |
-| Gore Horse | 0.30% | ~2,180 |
-| Sharpest Tool in the Box | 0.30% | ~2,180 |
+| LA Influential | 0.30% | ~2,181 |
+| Sole Survivor | 0.30% | ~2,181 |
+| Gore Horse | 0.30% | ~2,181 |
+| Sharpest Tool in the Box | 0.30% | ~2,181 |
 | Top That, Tisha! | 0.30% | ~157 |
 | Survival Skills | 0.20% | ~1,454 |
 | Lawn and Order | 0.20% | ~105 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,831 (Ranked 21)  
+Progressed: 726,839 (Ranked 21)  
 Completed: 2,444 (0.34%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2,444 (0.34%) (Ranked 230)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 726,831 | 2,444 |
+| 2023-11-28 | 726,839 | 2,444 |
 ## Awards
 Max (Great Boss Battles): 7,760  (Ranked 49)  
 Sum: 11,883 (Ranked 84)  

@@ -5,11 +5,11 @@ Rating: 4.39 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,670 |
-| IT MAKES BOOM! | 7.00% | ~22,063 |
-| EXTRA BOOST | 5.00% | ~15,759 |
-| PROTECTED | 4.00% | ~12,607 |
-| PRO | 4.00% | ~12,607 |
+| ROOKIE | 11.00% | ~34,674 |
+| IT MAKES BOOM! | 7.00% | ~22,065 |
+| EXTRA BOOST | 5.00% | ~15,761 |
+| PROTECTED | 4.00% | ~12,609 |
+| PRO | 4.00% | ~12,609 |
 | HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,456 |
 | AGGRESSIVE RACER | 3.00% | ~9,456 |
 | A TIGER'S FEAR | 2.00% | ~6,304 |
@@ -19,10 +19,10 @@ Rating: 4.39 (Ranked 748)
 | BE OUR GUEST | 0.90% | ~2,837 |
 | MASTER | 0.90% | ~2,837 |
 | LEGENDARY HERO | 0.90% | ~2,837 |
-| TRAINING HARD | 0.80% | ~2,521 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,521 |
-| FRIENDLY | 0.80% | ~2,521 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,206 |
+| TRAINING HARD | 0.80% | ~2,522 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,522 |
+| FRIENDLY | 0.80% | ~2,522 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,207 |
 | EXPERIENCED CREW | 0.60% | ~1,891 |
 | ACE DEFENDER | 0.50% | ~1,576 |
 | ACE BRAWLER | 0.40% | ~1,261 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 748)
 | FRAMED! | 0.30% | ~946 |
 | PERFECTLY POISED | 0.20% | ~630 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315,185 (Ranked 52)  
+Progressed: 315,215 (Ranked 52)  
 Completed: 339 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,16 +248,16 @@ Completed: 339 (0.11%) (Ranked 281)
 | 2023-11-25 | 312,443 | 330 |
 | 2023-11-26 | 314,023 | 333 |
 | 2023-11-27 | 315,001 | 338 |
-| 2023-11-28 | 315,185 | 339 |
+| 2023-11-28 | 315,215 | 339 |
 ## Awards
 Max (Great for Beginners): 89  (Ranked 381)  
-Sum: 665 (Ranked 308)  
-Diff (max vs sum): 73  
+Sum: 667 (Ranked 306)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 89 |
 | This game is Great for Quick Sessions | 81 |
-| This game has Diverse Characters | 76 |
+| This game has Diverse Characters | 78 |
 | This game has Amazing Characters | 56 |
 | This game is Highly Recommended | 50 |
 | This game has Playful Visuals | 50 |
@@ -328,3 +328,4 @@ Diff (max vs sum): 73
 | 2023-11-25 | 4.39 | 83 | 640 |
 | 2023-11-26 | 4.39 | 87 | 658 |
 | 2023-11-27 | 4.39 | 89 | 665 |
+| 2023-11-28 | 4.39 | 89 | 667 |

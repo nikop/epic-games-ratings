@@ -6,24 +6,24 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~9,592 |
+| I'm not dead yet | 41.00% | ~9,593 |
 | Overkill | 34.00% | ~7,955 |
 | Vaccine Incoming | 33.00% | ~7,721 |
 | A normal day in Gloomhaven | 31.00% | ~7,253 |
 | Spread the plague | 29.00% | ~6,785 |
-| Get over here! | 25.00% | ~5,849 |
-| Just when I thought I was out... | 19.00% | ~4,445 |
-| Precious! | 17.00% | ~3,977 |
-| Mine... All Mine... | 17.00% | ~3,977 |
-| Grizzled veteran | 15.00% | ~3,509 |
-| Anatomy Lesson | 15.00% | ~3,509 |
-| Light of my life | 14.00% | ~3,275 |
-| Obstacle race | 13.00% | ~3,041 |
+| Get over here! | 25.00% | ~5,850 |
+| Just when I thought I was out... | 19.00% | ~4,446 |
+| Precious! | 17.00% | ~3,978 |
+| Mine... All Mine... | 17.00% | ~3,978 |
+| Grizzled veteran | 15.00% | ~3,510 |
+| Anatomy Lesson | 15.00% | ~3,510 |
+| Light of my life | 14.00% | ~3,276 |
+| Obstacle race | 13.00% | ~3,042 |
 | You activated my trap card! | 12.00% | ~2,808 |
 | Who's the Boss? | 11.00% | ~2,574 |
 | Augmented rat | 11.00% | ~2,574 |
 | Doom and gloom | 11.00% | ~2,574 |
-| Dungeon Veteran | 8.00% | ~1,872 |
+| Dungeon Veteran | 9.00% | ~2,106 |
 | Pack leader | 8.00% | ~1,872 |
 | Pain is your friend | 8.00% | ~1,872 |
 | Black death | 8.00% | ~1,872 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~23 |
 | Murder Death Kill | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,396 (Ranked 132)  
+Progressed: 23,398 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,14 +144,14 @@ Completed: 1 (0.00%) (Ranked 362)
 | 2023-11-25 | 22,950 | 1 |
 | 2023-11-26 | 23,222 | 1 |
 | 2023-11-27 | 23,367 | 1 |
-| 2023-11-28 | 23,396 | 1 |
+| 2023-11-28 | 23,398 | 1 |
 ## Awards
-Max (Character Customization): 3,588  (Ranked 90)  
-Sum: 8,389 (Ranked 101)  
+Max (Character Customization): 3,590  (Ranked 90)  
+Sum: 8,391 (Ranked 101)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,588 |
+| This game has Inclusive Character Customization | 3,590 |
 | This game has Diverse Characters | 600 |
 | This game has Challenging Combat | 553 |
 | This game is Highly Recommended | 547 |
@@ -395,3 +395,4 @@ Diff (max vs sum): -11
 | 2023-11-25 | 4.47 | - | 3,586 | 8,384 |
 | 2023-11-26 | 4.47 | - | 3,588 | 8,387 |
 | 2023-11-27 | 4.47 | - | 3,588 | 8,389 |
+| 2023-11-28 | 4.47 | - | 3,590 | 8,391 |

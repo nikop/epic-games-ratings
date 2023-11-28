@@ -15,7 +15,7 @@
 | Freedom | 27.00% | ~31 |
 | Winner | 24.00% | ~28 |
 | The Pride of Moozhaw | 23.00% | ~26 |
-| Omnia Vincit Amor | 22.00% | ~25 |
+| Omnia Vincit Amor | 23.00% | ~26 |
 | Stilt House | 17.00% | ~20 |
 | Corwid Hill | 14.00% | ~16 |
 | Armor Collector | 13.00% | ~15 |

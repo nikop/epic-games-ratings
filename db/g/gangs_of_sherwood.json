@@ -313,9 +313,9 @@
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
       "SetID": "5akmpni",
       "Name": "Act of Kindness",
-      "Percentage": 75,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -473,9 +473,9 @@
       "ID": "ACH_REVIVE_ALLY",
       "SetID": "5akmpni",
       "Name": "First Aid",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_THROW_ENEMY",
@@ -535,8 +535,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:29:58.0043113+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:05:57.0775386+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:21:15.5561995+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:29:58.0043501+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:57:44.6653975+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:05:57.0775766+00:00"
 }

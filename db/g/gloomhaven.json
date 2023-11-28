@@ -2487,18 +2487,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 8389,
       "NumberOfAwardsMax": 3588
+    },
+    {
+      "Time": "2023-11-28T02:58:56.0622891+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8391,
+      "NumberOfAwardsMax": 3590
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8389,
-  "NumberOfAwardsMax": 3588,
+  "NumberOfAwards": 8391,
+  "NumberOfAwardsMax": 3590,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3588
+      "Count": 3590
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2567,9 +2573,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23396,
+  "EOS_Progressed": 23398,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1371,
+  "EOS_NewPlayers": 1366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10967,6 +10973,11 @@
       "Time": "2023-11-28T02:30:17.6196314+00:00",
       "NumProgressed": 23396,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T03:06:14.3704188+00:00",
+      "NumProgressed": 23398,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -10985,9 +10996,9 @@
       "ID": "Achievement_Trophy02",
       "SetID": "724h0m0",
       "Name": "Dungeon Veteran",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1872
+      "UsersEstimate": 2106
     },
     {
       "ID": "Achievement_Trophy03",
@@ -11147,7 +11158,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3977
+      "UsersEstimate": 3978
     },
     {
       "ID": "Achievement_Trophy23",
@@ -11155,7 +11166,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "Achievement_Trophy24",
@@ -11163,7 +11174,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9592
+      "UsersEstimate": 9593
     },
     {
       "ID": "Achievement_Trophy25",
@@ -11267,7 +11278,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "Achievement_Trophy38",
@@ -11275,7 +11286,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3977
+      "UsersEstimate": 3978
     },
     {
       "ID": "Achievement_Trophy39",
@@ -11283,7 +11294,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4445
+      "UsersEstimate": 4446
     },
     {
       "ID": "Achievement_Trophy40",
@@ -11299,7 +11310,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "Achievement_Trophy42",
@@ -11315,7 +11326,7 @@
       "Name": "Light of my life",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3275
+      "UsersEstimate": 3276
     },
     {
       "ID": "Achievement_Trophy44",
@@ -11363,7 +11374,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "Achievement_Trophy50",
@@ -11466,16 +11477,16 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23396,
+      "Progressed": 23398,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2023-11-27T23:59:40.2429576+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:30:17.6196311+00:00",
+  "LastChanged": "2023-11-28T02:58:56.0622889+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:06:14.3704185+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:22:37.7922036+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:30:17.6197314+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:58:56.0622894+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:06:14.3705126+00:00"
 }

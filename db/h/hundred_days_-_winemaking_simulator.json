@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 14005,
+  "EOS_Progressed": 14006,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11635,6 +11635,11 @@
       "Time": "2023-11-28T02:32:24.1556388+00:00",
       "NumProgressed": 14005,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-28T03:08:43.5934893+00:00",
+      "NumProgressed": 14006,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11647,7 +11652,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "a_10",
@@ -11894,7 +11899,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 14005,
+      "Progressed": 14006,
       "Completed": 12
     }
   ],
@@ -11902,8 +11907,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:32:24.1556385+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:08:43.5934891+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.5449859+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:26:28.1323814+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:32:24.1557209+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:02:49.2783707+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:08:43.5935426+00:00"
 }

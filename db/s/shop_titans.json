@@ -7199,11 +7199,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27609,
       "NumberOfAwardsMax": 4848
+    },
+    {
+      "Time": "2023-11-28T03:02:48.6765166+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27612,
+      "NumberOfAwardsMax": 4851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27609,
-  "NumberOfAwardsMax": 4848,
+  "NumberOfAwards": 27612,
+  "NumberOfAwardsMax": 4851,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7222,7 +7228,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4848
+      "Count": 4851
     },
     {
       "Text": "This game has Easy Combat",
@@ -7255,9 +7261,9 @@
       "Count": 3786
     }
   ],
-  "EOS_Progressed": 142570,
+  "EOS_Progressed": 142572,
   "EOS_Completed": 279,
-  "EOS_NewPlayers": 1827,
+  "EOS_NewPlayers": 1826,
   "EOS_NewCompleters": 91,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30155,6 +30161,11 @@
       "Time": "2023-11-28T02:26:59.9012096+00:00",
       "NumProgressed": 142570,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-11-28T03:03:19.7670422+00:00",
+      "NumProgressed": 142572,
+      "NumCompleted": 279
     }
   ],
   "TotalAchievements": 112,
@@ -30638,7 +30649,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7128
+      "UsersEstimate": 7129
     },
     {
       "ID": "gold02",
@@ -31061,15 +31072,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142570,
+      "Progressed": 142572,
       "Completed": 279
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-27T16:03:08.6604684+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:26:59.9012092+00:00",
+  "LastChanged": "2023-11-28T03:02:48.6765164+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:03:19.7670417+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:26:27.3428331+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:26:59.9014459+00:00"
+  "LastUpdate_Ratings": "2023-11-28T03:02:48.6765174+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:03:19.7672389+00:00"
 }

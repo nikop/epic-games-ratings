@@ -2206,9 +2206,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 684127,
+  "EOS_Progressed": 684129,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1641,
+  "EOS_NewPlayers": 1638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27546,6 +27546,11 @@
       "Time": "2023-11-28T02:33:04.241442+00:00",
       "NumProgressed": 684127,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-28T03:09:20.1027855+00:00",
+      "NumProgressed": 684129,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 54,
@@ -27557,7 +27562,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 540460
+      "UsersEstimate": 540462
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -27797,7 +27802,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 212079
+      "UsersEstimate": 212080
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -27973,7 +27978,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61571
+      "UsersEstimate": 61572
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -27988,15 +27993,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 684127,
+      "Progressed": 684129,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-27T01:45:56.2783952+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:33:04.2414417+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:09:20.1027852+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:21.4586634+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:22:35.8203141+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:33:04.2415979+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:58:54.4089408+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:09:20.1029116+00:00"
 }

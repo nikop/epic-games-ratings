@@ -43,7 +43,7 @@
 | Quintessence of Form | 23.00% | ~77 |
 | Jack of All Trades | 22.00% | ~74 |
 | Karakuri Fortress | 21.00% | ~70 |
-| Volatile Vocation | 19.00% | ~64 |
+| Volatile Vocation | 20.00% | ~67 |
 | Tender Touch | 19.00% | ~64 |
 | Haven Hunter | 19.00% | ~64 |
 | Superlative View | 18.00% | ~60 |

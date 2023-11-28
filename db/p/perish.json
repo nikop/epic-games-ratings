@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3722,
+  "EOS_Progressed": 3725,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3861,6 +3861,11 @@
       "Time": "2023-11-28T01:54:25.2824892+00:00",
       "NumProgressed": 3722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T03:06:14.8057172+00:00",
+      "NumProgressed": 3725,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4000,7 +4005,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_M_D1",
@@ -4040,7 +4045,7 @@
       "Name": "Athenian Treasury",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_M_DC",
@@ -4248,7 +4253,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_R_A",
@@ -4375,7 +4380,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3722,
+      "Progressed": 3725,
       "Completed": 0
     }
   ],
@@ -4383,8 +4388,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:30:18.0336252+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:06:14.8057167+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:25.0137128+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:20:41.3607723+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:30:18.0337067+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:57:13.3781568+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:06:14.8058086+00:00"
 }

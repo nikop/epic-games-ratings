@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 51.00% | ~206 |
+| The Camp | 51.00% | ~207 |
 | The Teleprobe | 41.00% | ~166 |
-| The City | 37.00% | ~149 |
-| The field base | 33.00% | ~133 |
+| The City | 37.00% | ~150 |
+| The field base | 33.00% | ~134 |
 | Survivors | 29.00% | ~117 |
 | The Condor | 26.00% | ~105 |
 | The End | 25.00% | ~101 |
@@ -20,7 +20,7 @@
 | Beyond divisions | 14.00% | ~57 |
 | Fierce fight | 13.00% | ~53 |
 | Evacuation | 13.00% | ~53 |
-| Flying Objects Operator | 12.00% | ~48 |
+| Flying Objects Operator | 12.00% | ~49 |
 | I remember everything! | 10.00% | ~40 |
 | Violent solution | 7.00% | ~28 |
 | Innate curiosity | 7.00% | ~28 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~4 |
 | No more mistakes | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404 (Ranked 327)  
+Progressed: 405 (Ranked 327)  
 Completed: 1 (0.25%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 1 (0.25%) (Ranked 248)
 | 2023-11-25 | 329 | 0 |
 | 2023-11-26 | 375 | 1 |
 | 2023-11-27 | 399 | 1 |
-| 2023-11-28 | 404 | 1 |
+| 2023-11-28 | 405 | 1 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2017-02-24T11:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 499660,
+  "EOS_Progressed": 499664,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 4609,
+  "EOS_NewPlayers": 4601,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9117,6 +9117,11 @@
       "Time": "2023-11-28T02:27:24.3129294+00:00",
       "NumProgressed": 499660,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-28T03:03:41.0285119+00:00",
+      "NumProgressed": 499664,
+      "NumCompleted": 80
     }
   ],
   "AchievementsAdded": "2023-09-07T15:04:00.2217259+00:00",
@@ -9161,7 +9166,7 @@
       "Name": "Field Training Officer Medal",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 364752
+      "UsersEstimate": 364755
     },
     {
       "ID": "achiv_fires",
@@ -9177,7 +9182,7 @@
       "Name": "Purple Heart",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 179878
+      "UsersEstimate": 179879
     },
     {
       "ID": "achiv_honor",
@@ -9209,7 +9214,7 @@
       "Name": "Lifesaving Medal",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 194867
+      "UsersEstimate": 194869
     },
     {
       "ID": "achiv_meds",
@@ -9217,7 +9222,7 @@
       "Name": "Exemplary Medical Service Medal",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 119918
+      "UsersEstimate": 119919
     },
     {
       "ID": "achiv_meritorius",
@@ -9257,7 +9262,7 @@
       "Name": "Tactical Squad Service Medal",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 69952
+      "UsersEstimate": 69953
     },
     {
       "ID": "achiv_valor",
@@ -9272,7 +9277,7 @@
     {
       "ID": "7oh7228",
       "IsBase": true,
-      "Progressed": 499660,
+      "Progressed": 499664,
       "Completed": 80
     }
   ],
@@ -9280,8 +9285,8 @@
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
   "LastChanged": "2023-11-25T16:01:34.3628678+00:00",
-  "LastChanged_Achievements": "2023-11-28T02:27:24.3129288+00:00",
+  "LastChanged_Achievements": "2023-11-28T03:03:41.0285111+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:07.3906119+00:00",
-  "LastUpdate_Ratings": "2023-11-28T02:21:38.6405894+00:00",
-  "LastUpdate_Achievements": "2023-11-28T02:27:24.3129939+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:58:06.5376225+00:00",
+  "LastUpdate_Achievements": "2023-11-28T03:03:41.0285801+00:00"
 }
