@@ -15,16 +15,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 4.00% | ~5,709 |
 | Budding Merchant | 4.00% | ~5,709 |
 | Capitalism Ho! | 4.00% | ~5,709 |
-| The Daily Grind | 3.00% | ~4,281 |
-| One Easy Payment | 3.00% | ~4,281 |
-| Some Assembly Required | 3.00% | ~4,281 |
-| Bounty Hunters | 3.00% | ~4,281 |
-| Flooding the Market | 3.00% | ~4,281 |
-| Pretty Penny | 3.00% | ~4,281 |
-| One-Armed Bandit | 3.00% | ~4,281 |
-| Dungeon Imports | 3.00% | ~4,281 |
-| Through Repetition, Perfection | 3.00% | ~4,281 |
-| Own the Means of Production | 3.00% | ~4,281 |
+| The Daily Grind | 3.00% | ~4,282 |
+| One Easy Payment | 3.00% | ~4,282 |
+| Some Assembly Required | 3.00% | ~4,282 |
+| Bounty Hunters | 3.00% | ~4,282 |
+| Flooding the Market | 3.00% | ~4,282 |
+| Pretty Penny | 3.00% | ~4,282 |
+| One-Armed Bandit | 3.00% | ~4,282 |
+| Dungeon Imports | 3.00% | ~4,282 |
+| Through Repetition, Perfection | 3.00% | ~4,282 |
+| Own the Means of Production | 3.00% | ~4,282 |
 | On the Path to Greatness | 2.00% | ~2,854 |
 | A Notch Above the Rest | 2.00% | ~2,854 |
 | Ascended | 2.00% | ~2,854 |
@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 2.00% | ~2,854 |
 | Expansion in Session | 2.00% | ~2,854 |
 | Efficient Floor Space | 2.00% | ~2,854 |
+| Cranked up to 11 | 2.00% | ~2,854 |
 | Flawless Fusion | 2.00% | ~2,854 |
 | Trash to Treasure | 2.00% | ~2,854 |
 | Gem Expert | 2.00% | ~2,854 |
@@ -79,7 +80,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 1.00% | ~1,427 |
 | Thank You Tom Nook | 1.00% | ~1,427 |
 | Ritualist | 1.00% | ~1,427 |
-| Cranked up to 11 | 1.00% | ~1,427 |
 | Fit for a King | 1.00% | ~1,427 |
 | By Your Powers Combined... | 1.00% | ~1,427 |
 | A Legend is Born | 1.00% | ~1,427 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,714 (Ranked 80)  
+Progressed: 142,720 (Ranked 80)  
 Completed: 284 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 284 (0.20%) (Ranked 258)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,714 | 284 |
+| 2023-11-28 | 142,720 | 284 |
 ## Awards
 Max (Great for Beginners): 4,851  (Ranked 75)  
 Sum: 27,621 (Ranked 50)  

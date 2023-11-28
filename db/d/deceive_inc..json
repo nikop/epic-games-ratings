@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18942,
+  "EOS_Progressed": 18944,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13289,6 +13289,11 @@
       "Time": "2023-11-28T19:03:51.6809933+00:00",
       "NumProgressed": 18942,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-28T20:03:36.054335+00:00",
+      "NumProgressed": 18944,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13484,7 +13489,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4167
+      "UsersEstimate": 4168
     },
     {
       "ID": "0025",
@@ -13524,7 +13529,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "0030",
@@ -13587,7 +13592,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18942,
+      "Progressed": 18944,
       "Completed": 4
     }
   ],
@@ -13595,8 +13600,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:03:51.680993+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:03:36.0543348+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:58:14.6378703+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:03:51.68109+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:58:09.743506+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:03:36.0543994+00:00"
 }

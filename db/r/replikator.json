@@ -4,7 +4,7 @@
   "ProductSlug": "replikator-6adddc",
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewPlayers": 493,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-09-05T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:12.6901019+00:00",
   "LastChanged": "2023-03-31T05:57:12.6901019+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:51.8590966+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:01:09.9732861+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:08:29.4018216+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:01:08.1339426+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:08:11.5239709+00:00"
 }

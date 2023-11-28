@@ -21,9 +21,9 @@ Rating: 4.62 (Ranked 365)
 | Honest Mistake | 21.00% | ~198 |
 | Fast Learner | 21.00% | ~198 |
 | Immaculate Aim | 21.00% | ~198 |
+| Like Clockwork | 20.00% | ~188 |
 | The Betrayer | 20.00% | ~188 |
 | Right On Time | 19.00% | ~179 |
-| Like Clockwork | 19.00% | ~179 |
 | Golem Chaser | 19.00% | ~179 |
 | Check Your Pulse | 19.00% | ~179 |
 | The Man Who Shattered Time | 18.00% | ~169 |

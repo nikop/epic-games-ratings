@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~369 |
-| Training Simulation | 75.00% | ~304 |
+| Travel Streamer | 91.00% | ~370 |
+| Training Simulation | 75.00% | ~305 |
 | Kuku Bird Hunter | 62.00% | ~252 |
-| Storm Traveller | 56.00% | ~227 |
-| Fashion Connoisseur | 50.00% | ~203 |
-| Wolf King Killer | 50.00% | ~203 |
+| Storm Traveller | 56.00% | ~228 |
+| Wolf King Killer | 51.00% | ~208 |
+| Fashion Connoisseur | 50.00% | ~204 |
 | Arms Mechanic | 45.00% | ~183 |
 | Flower Thief | 42.00% | ~171 |
-| Apostle of Flame | 37.00% | ~150 |
+| Apostle of Flame | 37.00% | ~151 |
 | Beginner Cook | 35.00% | ~142 |
 | Beginner Artificer | 35.00% | ~142 |
 | Seal Breaker | 31.00% | ~126 |
@@ -22,17 +22,17 @@
 | Nosebleeder | 25.00% | ~102 |
 | Trader | 20.00% | ~81 |
 | Weapon Boost | 20.00% | ~81 |
-| Flying Kobold Killer | 17.00% | ~69 |
+| Flying Kobold Killer | 16.00% | ~65 |
 | Youth Magnet | 16.00% | ~65 |
 | Master Artificer | 16.00% | ~65 |
 | Furious Scorpion Killer | 15.00% | ~61 |
 | Lethal Blade Mantis Killer | 15.00% | ~61 |
-| Squeaky Clean | 15.00% | ~61 |
+| Squeaky Clean | 14.00% | ~57 |
 | Kind Adventurer | 13.00% | ~53 |
 | Mermaid Killer | 12.00% | ~49 |
 | Cave Master | 11.00% | ~45 |
 | Face Slapper | 11.00% | ~45 |
-| Master Cook | 8.00% | ~32 |
+| Master Cook | 8.00% | ~33 |
 | Berserker Slayer | 7.00% | ~28 |
 | Boss challenge | 6.00% | ~24 |
 | Giantess Slayer | 6.00% | ~24 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~4 |
 | Warden Challenge | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406 (Ranked 328)  
+Progressed: 407 (Ranked 328)  
 Completed: 1 (0.25%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 1 (0.25%) (Ranked 248)
 | 2023-11-25 | 302 | 1 |
 | 2023-11-26 | 341 | 1 |
 | 2023-11-27 | 379 | 1 |
-| 2023-11-28 | 406 | 1 |
+| 2023-11-28 | 407 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

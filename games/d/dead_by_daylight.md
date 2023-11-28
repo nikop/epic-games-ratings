@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Good Guy | 0.10% | ~1,050 |
 | Adept Xenomorph | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050,289 (Ranked 14)  
+Progressed: 1,050,451 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,7 +461,7 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-25 | 1,044,518 | 60 |
 | 2023-11-26 | 1,047,100 | 60 |
 | 2023-11-27 | 1,048,888 | 61 |
-| 2023-11-28 | 1,050,289 | 61 |
+| 2023-11-28 | 1,050,451 | 61 |
 ## Awards
 Max (Diverse Characters): 36,673  (Ranked 15)  
 Sum: 279,694 (Ranked 12)  

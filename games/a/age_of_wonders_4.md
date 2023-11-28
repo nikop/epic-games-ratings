@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 382)  
+Rating: 4.61 (Ranked 383)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,8 +51,8 @@ Rating: 4.61 (Ranked 382)
 | God Emperor | 0.40% | ~22 |
 | Grexolis | 0.40% | ~22 |
 | One for All, All for One | 0.40% | ~22 |
+| Duality | 0.40% | ~22 |
 | The Goddess of Nature | 0.30% | ~17 |
-| Duality | 0.30% | ~17 |
 | The Magic That Empowers Me! | 0.20% | ~11 |
 | Betrayal Most Foul | 0.20% | ~11 |
 | A Very Special Ring | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 382)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,534 (Ranked 189)  
+Progressed: 5,536 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,15 +256,16 @@ Completed: 7 (0.13%) (Ranked 273)
 | 2023-11-25 | 5,496 | 7 |
 | 2023-11-26 | 5,515 | 7 |
 | 2023-11-27 | 5,524 | 7 |
-| 2023-11-28 | 5,534 | 7 |
+| 2023-11-28 | 5,536 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 476)  
-Sum: 61 (Ranked 477)  
-Diff (max vs sum): -1  
+Sum: 81 (Ranked 462)  
+Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |
 | This game has Diverse Characters | 26 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -333,3 +334,4 @@ Diff (max vs sum): -1
 | 2023-11-23 | 4.61 | 33 | 59 |
 | 2023-11-24 | 4.61 | 34 | 60 |
 | 2023-11-27 | 4.61 | 35 | 61 |
+| 2023-11-28 | 4.61 | 35 | 81 |

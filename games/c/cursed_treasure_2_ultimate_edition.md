@@ -27,14 +27,14 @@
 | The Apotheosis of War | 68.00% | ~123 |
 | Stasis Alcatraz | 68.00% | ~123 |
 | Brilliant: Holy Mountain | 64.00% | ~116 |
+| Combo Breaker | 64.00% | ~116 |
 | Tastes Like Chicken | 64.00% | ~116 |
 | Thunderstorm | 64.00% | ~116 |
-| Combo Breaker | 63.00% | ~114 |
 | Clean Forests | 62.00% | ~112 |
 | Starry: Meadowshire | 58.00% | ~105 |
-| Lieutenant of the Evil | 57.00% | ~103 |
+| Lieutenant of the Evil | 58.00% | ~105 |
 | Avada Kedavra | 56.00% | ~101 |
-| Brilliant: Tanglewood | 54.00% | ~98 |
+| Brilliant: Tanglewood | 55.00% | ~100 |
 | Starry: Holy Mountain | 54.00% | ~98 |
 | It's a Trap | 54.00% | ~98 |
 | Deposition | 50.00% | ~90 |

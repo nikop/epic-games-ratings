@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,584 |
-| Break A Leg | 2.00% | ~14,545 |
-| Coup de Grâce | 2.00% | ~14,545 |
-| Hazardous Materials | 2.00% | ~14,545 |
-| Hotel California | 2.00% | ~14,545 |
-| Welcome To Hell-A | 2.00% | ~14,545 |
-| One of Us | 2.00% | ~1,056 |
-| Pork Chopped | 2.00% | ~1,056 |
+| Whatever It Takes | 3.00% | ~1,585 |
+| Break A Leg | 2.00% | ~14,546 |
+| Coup de Grâce | 2.00% | ~14,546 |
+| Hazardous Materials | 2.00% | ~14,546 |
+| Hotel California | 2.00% | ~14,546 |
+| Welcome To Hell-A | 2.00% | ~14,546 |
+| One of Us | 2.00% | ~1,057 |
+| Pork Chopped | 2.00% | ~1,057 |
 | Dr. Reed, I Presume? | 1.00% | ~7,273 |
 | Git Gutte! | 1.00% | ~7,273 |
 | Anger Management | 1.00% | ~7,273 |
@@ -32,7 +32,7 @@ Rating: 4.54 (Ranked 526)
 | Personal Assistant Personally Assisted | 1.00% | ~7,273 |
 | Our True Nature | 1.00% | ~7,273 |
 | This is My Weapon | 1.00% | ~7,273 |
-| I Am the Resurrection | 0.90% | ~6,545 |
+| I Am the Resurrection | 0.90% | ~6,546 |
 | Making Your Mark | 0.80% | ~5,818 |
 | Humanity Distilled | 0.80% | ~5,818 |
 | Max Headroom | 0.80% | ~5,818 |
@@ -41,24 +41,24 @@ Rating: 4.54 (Ranked 526)
 | Jumbo Keyring | 0.60% | ~4,364 |
 | Go, Bobcats! | 0.60% | ~4,364 |
 | Rising Star | 0.60% | ~4,364 |
-| On Safari | 0.50% | ~3,636 |
-| Smorgasbord | 0.50% | ~3,636 |
-| Internet Famous | 0.50% | ~3,636 |
-| Variety is the Spice of Death | 0.50% | ~3,636 |
+| On Safari | 0.50% | ~3,637 |
+| Smorgasbord | 0.50% | ~3,637 |
+| Internet Famous | 0.50% | ~3,637 |
+| Variety is the Spice of Death | 0.50% | ~3,637 |
 | Make it So | 0.40% | ~2,909 |
-| LA Influential | 0.30% | ~2,182 |
+| LA Influential | 0.40% | ~2,909 |
 | Sole Survivor | 0.30% | ~2,182 |
 | Gore Horse | 0.30% | ~2,182 |
 | Sharpest Tool in the Box | 0.30% | ~2,182 |
-| Top That, Tisha! | 0.30% | ~158 |
+| Top That, Tisha! | 0.30% | ~159 |
 | Survival Skills | 0.20% | ~1,455 |
 | Lawn and Order | 0.20% | ~106 |
 | Donk! | 0.10% | ~727 |
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,263 (Ranked 21)  
-Completed: 2,446 (0.34%) (Ranked 231)  
+Progressed: 727,301 (Ranked 21)  
+Completed: 2,447 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,7 +279,7 @@ Completed: 2,446 (0.34%) (Ranked 231)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 727,263 | 2,446 |
+| 2023-11-28 | 727,301 | 2,447 |
 ## Awards
 Max (Great Boss Battles): 7,784  (Ranked 49)  
 Sum: 11,920 (Ranked 84)  

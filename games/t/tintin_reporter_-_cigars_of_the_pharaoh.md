@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 75.00% | ~55 |
-| A Loyal Friend | 36.00% | ~26 |
+| A Loyal Friend | 37.00% | ~27 |
 | Abandon Ship! | 21.00% | ~15 |
 | The Tomb of Kih-Oskh | 16.00% | ~12 |
 | The Weighing of the Soul | 14.00% | ~10 |
@@ -19,16 +19,16 @@
 | Dynamite, Treason and Coconuts | 5.00% | ~4 |
 | Save a Friend | 5.00% | ~4 |
 | The Eyes! | 4.00% | ~3 |
+| Keep the Doctor Away | 4.00% | ~3 |
 | The Corporal's Golden Boy | 4.00% | ~3 |
 | Punctual | 4.00% | ~3 |
 | Barking Dog | 4.00% | ~3 |
-| Keep the Doctor Away | 3.00% | ~2 |
 | Just a Palm Tree | 3.00% | ~2 |
 | Under the Hood | 3.00% | ~2 |
 | Long Live Gaipajama! | 3.00% | ~2 |
 | Eyes Shut | 3.00% | ~2 |
+| A Diagnosis | 3.00% | ~2 |
 | Threat | 3.00% | ~2 |
-| A Diagnosis | 1.00% | ~1 |
 | A Yummy Detour | 1.00% | ~1 |
 | Subtlety | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |

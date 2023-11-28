@@ -4,7 +4,7 @@
   "ProductSlug": "afterparty",
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewPlayers": 493,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2019-10-29T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.7219801+00:00",
   "LastChanged": "2023-03-31T05:57:08.7219802+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:04.1013256+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:59:22.3755627+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:07:06.7802617+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:59:18.6653005+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:06:48.9051066+00:00"
 }

@@ -7017,9 +7017,9 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 727263,
-  "EOS_Completed": 2446,
-  "EOS_NewPlayers": 5351,
+  "EOS_Progressed": 727301,
+  "EOS_Completed": 2447,
+  "EOS_NewPlayers": 5356,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32467,6 +32467,11 @@
       "Time": "2023-11-28T19:08:38.2466116+00:00",
       "NumProgressed": 727263,
       "NumCompleted": 2446
+    },
+    {
+      "Time": "2023-11-28T20:08:20.4694354+00:00",
+      "NumProgressed": 727301,
+      "NumCompleted": 2447
     }
   ],
   "TotalAchievements": 51,
@@ -32516,9 +32521,9 @@
       "ID": "ach_big_name_in_town",
       "SetID": "7km39fm",
       "Name": "LA Influential",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2909
     },
     {
       "ID": "ach_blueprinted",
@@ -32542,7 +32547,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14545
+      "UsersEstimate": 14546
     },
     {
       "ID": "ach_contender",
@@ -32550,7 +32555,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "ach_defensive",
@@ -32582,7 +32587,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -32598,7 +32603,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14545
+      "UsersEstimate": 14546
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -32622,7 +32627,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14545
+      "UsersEstimate": 14546
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -32638,7 +32643,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14545
+      "UsersEstimate": 14546
     },
     {
       "ID": "ach_impressive_aim",
@@ -32654,7 +32659,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "ach_investigator",
@@ -32726,7 +32731,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6546
     },
     {
       "ID": "ach_salvation",
@@ -32806,7 +32811,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -32814,7 +32819,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14545
+      "UsersEstimate": 14546
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32838,7 +32843,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "ach_dark_magic",
@@ -32846,7 +32851,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ach_gardening_tools",
@@ -32862,7 +32867,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32878,20 +32883,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727263,
-      "Completed": 2446
+      "Progressed": 727301,
+      "Completed": 2447
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 52805,
+      "Progressed": 52843,
       "Completed": 36612
     }
   ],
@@ -32899,8 +32904,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-28T16:57:38.3533804+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:08:38.2466113+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:08:20.469435+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:57:57.6356124+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:08:38.2467855+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:57:53.7421853+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:08:20.4695665+00:00"
 }

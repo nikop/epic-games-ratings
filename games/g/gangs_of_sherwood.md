@@ -27,11 +27,11 @@
 | Ultra Rebel Instinct | 24.00% | ~5 |
 | Take Action! | 24.00% | ~5 |
 | Ultra Combo | 19.00% | ~4 |
+| Haute Couture | 19.00% | ~4 |
 | Brilliant Executioner | 14.00% | ~3 |
 | The Gang prevails | 14.00% | ~3 |
 | Hidden Experiment | 14.00% | ~3 |
 | Into the Lion's Den | 14.00% | ~3 |
-| Haute Couture | 14.00% | ~3 |
 | King of the Iron Fist | 10.00% | ~2 |
 | Bold and Bossy | 10.00% | ~2 |
 | Power of Friendship! | 10.00% | ~2 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12048,
+  "EOS_Progressed": 12057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1290,
+  "EOS_NewPlayers": 1292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6974,6 +6974,11 @@
       "Time": "2023-11-28T19:06:23.9197772+00:00",
       "NumProgressed": 12048,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T20:06:06.2590601+00:00",
+      "NumProgressed": 12057,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -7010,7 +7015,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_LEVEL974",
@@ -7074,7 +7079,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -7082,7 +7087,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3135
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -7090,7 +7095,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -7098,7 +7103,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -7106,7 +7111,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -7146,7 +7151,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -7177,14 +7182,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 12048,
+      "Progressed": 12057,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:06:23.9197769+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:06:06.2590598+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.4801965+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:00:32.386958+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:06:23.9198315+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:00:30.4885096+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:06:06.2591+00:00"
 }

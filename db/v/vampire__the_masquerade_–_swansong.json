@@ -4,10 +4,10 @@
   "ProductSlug": "vampire-the-masquerade-swansong",
   "Ranking_Rating": 907,
   "Ranking_Popularity": 394,
-  "Ranking_PopularitySum": 465,
+  "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewPlayers": 493,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-05-19T08:00:00+00:00",
@@ -552,8 +552,8 @@
   "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:14.6927205+00:00",
   "LastChanged": "2023-11-23T19:00:06.4516098+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:08:46.1750606+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:08:28.0939094+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.7057838+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:59:00.3605133+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:08:46.1750657+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:58:55.0924813+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:08:28.0939129+00:00"
 }

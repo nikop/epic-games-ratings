@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -906,9 +906,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 297
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -954,9 +954,9 @@
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -994,9 +994,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1129,8 +1129,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:09:08.4599676+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:08:50.3696602+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:03:00.5788222+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:09:08.459998+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:02:47.2702015+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:08:50.3696843+00:00"
 }

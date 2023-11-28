@@ -9,32 +9,32 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~238,420 |
 | He's Signed! | 50.00% | ~238,420 |
 | First Victory | 50.00% | ~238,420 |
-| He's Sold! | 48.00% | ~228,883 |
-| I'm The Boss! | 42.00% | ~200,272 |
-| Hat-trick | 41.00% | ~195,504 |
-| Scoring Streak | 38.00% | ~181,199 |
-| Unbeatable! | 37.00% | ~176,430 |
-| Thumping | 37.00% | ~176,430 |
+| He's Sold! | 48.00% | ~228,884 |
+| I'm The Boss! | 42.00% | ~200,273 |
+| Hat-trick | 41.00% | ~195,505 |
+| Scoring Streak | 38.00% | ~181,200 |
+| Unbeatable! | 37.00% | ~176,431 |
+| Thumping | 37.00% | ~176,431 |
 | Superb Dressing Room Atmosphere | 35.00% | ~166,894 |
-| Total Support | 32.00% | ~152,588 |
-| Record Signing | 32.00% | ~152,588 |
-| He's a Natural | 31.00% | ~147,820 |
-| Millionaire's Club | 31.00% | ~147,820 |
+| Total Support | 32.00% | ~152,589 |
+| Record Signing | 32.00% | ~152,589 |
+| He's a Natural | 31.00% | ~147,821 |
+| Millionaire's Club | 31.00% | ~147,821 |
 | Team Performance | 30.00% | ~143,052 |
-| Parked The Bus | 29.00% | ~138,283 |
-| Shrewd Spender | 29.00% | ~138,283 |
-| Star Man | 29.00% | ~138,283 |
+| Parked The Bus | 29.00% | ~138,284 |
+| Shrewd Spender | 29.00% | ~138,284 |
+| Star Man | 29.00% | ~138,284 |
 | Attack! | 28.00% | ~133,515 |
 | You're On Fire | 27.00% | ~128,747 |
 | Tremendous Trio | 27.00% | ~128,747 |
 | Record Sale | 27.00% | ~128,747 |
-| On A Roll | 26.00% | ~123,978 |
-| Unstoppable Force | 26.00% | ~123,978 |
+| On A Roll | 26.00% | ~123,979 |
+| Unstoppable Force | 26.00% | ~123,979 |
 | Armchair Expert | 25.00% | ~119,210 |
-| Fantastic Five | 24.00% | ~114,441 |
-| Full Faith | 24.00% | ~114,441 |
-| Iron Curtain | 24.00% | ~114,441 |
-| The Boss | 24.00% | ~114,441 |
+| Fantastic Five | 24.00% | ~114,442 |
+| Full Faith | 24.00% | ~114,442 |
+| Iron Curtain | 24.00% | ~114,442 |
+| The Boss | 24.00% | ~114,442 |
 | Top Of The Class | 23.00% | ~109,673 |
 | Goal Machine | 23.00% | ~109,673 |
 | Splashing The Cash | 22.00% | ~104,905 |
@@ -43,18 +43,18 @@ Number of Ratings: 19,160  (23.09.2022)
 | Cup Glory! | 22.00% | ~104,905 |
 | Irresistible Force | 20.00% | ~95,368 |
 | Excellent Match Cohesion | 20.00% | ~95,368 |
-| Do The Double | 19.00% | ~90,599 |
+| Do The Double | 19.00% | ~90,600 |
 | Top Form | 17.00% | ~81,063 |
 | Cash To Burn | 17.00% | ~81,063 |
-| Overachiever! | 16.00% | ~76,294 |
-| Rushed signing | 16.00% | ~76,294 |
+| Overachiever! | 16.00% | ~76,295 |
+| Rushed signing | 16.00% | ~76,295 |
 | Beating Expectations | 15.00% | ~71,526 |
 | Window Shopping | 15.00% | ~71,526 |
-| Eyes and Ears | 14.00% | ~66,757 |
-| Comeback King! | 14.00% | ~66,757 |
+| Eyes and Ears | 14.00% | ~66,758 |
+| Comeback King! | 14.00% | ~66,758 |
 | You're Up! | 13.00% | ~61,989 |
 | Money, Money, Money | 12.00% | ~57,221 |
-| Invincible! | 11.00% | ~52,452 |
+| Invincible! | 11.00% | ~52,453 |
 | Superb Strike | 10.00% | ~47,684 |
 | International Superstar | 10.00% | ~47,684 |
 | Best In The World | 10.00% | ~47,684 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~477 |
 | Shoestring Budget | 0.10% | ~477 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,839 (Ranked 39)  
+Progressed: 476,841 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,17 +327,17 @@ Completed: 22 (0.00%) (Ranked 363)
 | 2023-11-25 | 476,692 | 22 |
 | 2023-11-26 | 476,768 | 22 |
 | 2023-11-27 | 476,812 | 22 |
-| 2023-11-28 | 476,839 | 22 |
+| 2023-11-28 | 476,841 | 22 |
 ## Awards
 Max (Relaxing): 6,475  (Ranked 59)  
-Sum: 51,052 (Ranked 29)  
+Sum: 51,054 (Ranked 29)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,475 |
 | This game is Extremely Fun | 6,075 |
 | This game has Competitive Players | 5,913 |
-| This game is Highly Recommended | 5,900 |
+| This game is Highly Recommended | 5,902 |
 | This game has Quickly Understood Controls | 5,897 |
 | This game is Educational | 5,888 |
 | This game has Diverse Characters | 5,584 |
@@ -649,3 +649,4 @@ Diff (max vs sum): 30
 | 2023-11-25 | 4.80 | - | 6,473 | 51,039 |
 | 2023-11-26 | 4.80 | - | 6,475 | 51,047 |
 | 2023-11-27 | 4.80 | - | 6,475 | 51,052 |
+| 2023-11-28 | 4.80 | - | 6,475 | 51,054 |

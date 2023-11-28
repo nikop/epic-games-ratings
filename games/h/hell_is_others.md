@@ -5,10 +5,10 @@ Rating: 4.39 (Ranked 749)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,236 |
+| Survivor | 31.00% | ~80,237 |
 | Predator I | 23.00% | ~59,530 |
-| Fixer I | 10.00% | ~25,882 |
-| A week in Century City | 10.00% | ~25,882 |
+| Fixer I | 10.00% | ~25,883 |
+| A week in Century City | 10.00% | ~25,883 |
 | The Wait | 7.00% | ~18,118 |
 | Green thumb I | 6.00% | ~15,530 |
 | Cleaning Company | 6.00% | ~15,530 |
@@ -20,14 +20,14 @@ Rating: 4.39 (Ranked 749)
 | Capitalist I | 4.00% | ~10,353 |
 | Fixer II | 3.00% | ~7,765 |
 | Adrenaline | 3.00% | ~7,765 |
-| By a hair | 2.00% | ~5,176 |
-| It took a while | 2.00% | ~5,176 |
-| Samurai | 2.00% | ~5,176 |
-| I Left You a Present | 2.00% | ~5,176 |
-| Predator II | 2.00% | ~5,176 |
-| Truffle Dog | 2.00% | ~5,176 |
-| Don't try this at home | 2.00% | ~5,176 |
-| A month in Century City | 2.00% | ~5,176 |
+| By a hair | 2.00% | ~5,177 |
+| It took a while | 2.00% | ~5,177 |
+| Samurai | 2.00% | ~5,177 |
+| I Left You a Present | 2.00% | ~5,177 |
+| Predator II | 2.00% | ~5,177 |
+| Truffle Dog | 2.00% | ~5,177 |
+| Don't try this at home | 2.00% | ~5,177 |
+| A month in Century City | 2.00% | ~5,177 |
 | The Strengthening | 1.00% | ~2,588 |
 | Saver II | 1.00% | ~2,588 |
 | It's the last one, I swear | 1.00% | ~2,588 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 749)
 | Capitalist III | 0.10% | ~259 |
 | Hell Is You | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,825 (Ranked 58)  
+Progressed: 258,828 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,11 +284,11 @@ Completed: 3 (0.00%) (Ranked 363)
 | 2023-11-25 | 258,737 | 3 |
 | 2023-11-26 | 258,784 | 3 |
 | 2023-11-27 | 258,805 | 3 |
-| 2023-11-28 | 258,825 | 3 |
+| 2023-11-28 | 258,828 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 51  (Ranked 432)  
+Max (Great for Quick Sessions): 51  (Ranked 433)  
 Sum: 350 (Ranked 355)  
-Diff (max vs sum): 77  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 51 |

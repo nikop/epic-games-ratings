@@ -6,35 +6,35 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~9,630 |
-| Overkill | 34.00% | ~7,986 |
-| Vaccine Incoming | 33.00% | ~7,751 |
-| A normal day in Gloomhaven | 31.00% | ~7,281 |
-| Spread the plague | 29.00% | ~6,811 |
-| Get over here! | 25.00% | ~5,872 |
-| Just when I thought I was out... | 19.00% | ~4,463 |
-| Precious! | 17.00% | ~3,993 |
-| Mine... All Mine... | 17.00% | ~3,993 |
-| Grizzled veteran | 15.00% | ~3,523 |
-| Anatomy Lesson | 15.00% | ~3,523 |
-| Light of my life | 14.00% | ~3,288 |
-| Obstacle race | 13.00% | ~3,053 |
-| You activated my trap card! | 12.00% | ~2,818 |
-| Who's the Boss? | 11.00% | ~2,584 |
-| Augmented rat | 11.00% | ~2,584 |
-| Doom and gloom | 11.00% | ~2,584 |
-| Dungeon Veteran | 9.00% | ~2,114 |
-| Pack leader | 8.00% | ~1,879 |
-| Pain is your friend | 8.00% | ~1,879 |
-| Black death | 8.00% | ~1,879 |
-| Play it again, Sam | 8.00% | ~1,879 |
-| Quad damage | 6.00% | ~1,409 |
-| Power Up! | 5.00% | ~1,174 |
-| Caught off guard | 5.00% | ~1,174 |
-| Pretty lights! | 5.00% | ~1,174 |
-| Now you see me... | 5.00% | ~1,174 |
-| Merchant of doom | 4.00% | ~939 |
-| The Pro from Dover | 4.00% | ~939 |
+| I'm not dead yet | 41.00% | ~9,636 |
+| Overkill | 34.00% | ~7,991 |
+| Vaccine Incoming | 33.00% | ~7,756 |
+| A normal day in Gloomhaven | 31.00% | ~7,286 |
+| Spread the plague | 29.00% | ~6,816 |
+| Get over here! | 25.00% | ~5,876 |
+| Just when I thought I was out... | 19.00% | ~4,466 |
+| Precious! | 17.00% | ~3,996 |
+| Mine... All Mine... | 17.00% | ~3,996 |
+| Grizzled veteran | 15.00% | ~3,525 |
+| Anatomy Lesson | 15.00% | ~3,525 |
+| Light of my life | 14.00% | ~3,290 |
+| Obstacle race | 13.00% | ~3,055 |
+| You activated my trap card! | 12.00% | ~2,820 |
+| Who's the Boss? | 11.00% | ~2,585 |
+| Augmented rat | 11.00% | ~2,585 |
+| Doom and gloom | 11.00% | ~2,585 |
+| Dungeon Veteran | 9.00% | ~2,115 |
+| Pack leader | 8.00% | ~1,880 |
+| Pain is your friend | 8.00% | ~1,880 |
+| Black death | 8.00% | ~1,880 |
+| Play it again, Sam | 8.00% | ~1,880 |
+| Quad damage | 6.00% | ~1,410 |
+| Power Up! | 5.00% | ~1,175 |
+| Caught off guard | 5.00% | ~1,175 |
+| Pretty lights! | 5.00% | ~1,175 |
+| Now you see me... | 5.00% | ~1,175 |
+| Merchant of doom | 4.00% | ~940 |
+| The Pro from Dover | 4.00% | ~940 |
 | I hate portals | 3.00% | ~705 |
 | Down the hatch | 3.00% | ~705 |
 | An eye for an eye | 3.00% | ~705 |
@@ -49,26 +49,26 @@ Number of Ratings: 68  (23.09.2022)
 | Add a bit of colour | 1.00% | ~235 |
 | Captain hooked | 1.00% | ~235 |
 | New Blood | 1.00% | ~235 |
-| Betray this | 0.90% | ~211 |
-| Spoiler police! | 0.90% | ~211 |
-| The Pacifist | 0.50% | ~117 |
-| Born Support | 0.50% | ~117 |
+| Betray this | 0.90% | ~212 |
+| Spoiler police! | 0.90% | ~212 |
+| The Pacifist | 0.50% | ~118 |
+| Born Support | 0.50% | ~118 |
 | A tough job | 0.40% | ~94 |
-| The evil that men do | 0.30% | ~70 |
-| MacReady Steady.. Go! | 0.30% | ~70 |
-| Pull out the big guns | 0.30% | ~70 |
-| Crimson Tornado | 0.30% | ~70 |
+| The evil that men do | 0.30% | ~71 |
+| MacReady Steady.. Go! | 0.30% | ~71 |
+| Pull out the big guns | 0.30% | ~71 |
+| Crimson Tornado | 0.30% | ~71 |
 | The Cartographer | 0.20% | ~47 |
 | Beware my power | 0.20% | ~47 |
 | The Jaws of victory! | 0.20% | ~47 |
-| A cult following | 0.10% | ~23 |
-| Over your dead body | 0.10% | ~23 |
-| The Guildmaster | 0.10% | ~23 |
-| Lara Who? | 0.10% | ~23 |
-| Hard-travelling Heroes | 0.10% | ~23 |
-| Murder Death Kill | 0.10% | ~23 |
+| A cult following | 0.10% | ~24 |
+| Over your dead body | 0.10% | ~24 |
+| The Guildmaster | 0.10% | ~24 |
+| Lara Who? | 0.10% | ~24 |
+| Hard-travelling Heroes | 0.10% | ~24 |
+| Murder Death Kill | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,487 (Ranked 132)  
+Progressed: 23,503 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 1 (0.00%) (Ranked 363)
 | 2023-11-25 | 22,950 | 1 |
 | 2023-11-26 | 23,222 | 1 |
 | 2023-11-27 | 23,367 | 1 |
-| 2023-11-28 | 23,487 | 1 |
+| 2023-11-28 | 23,503 | 1 |
 ## Awards
 Max (Character Customization): 3,590  (Ranked 90)  
 Sum: 8,391 (Ranked 101)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -619,9 +619,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3946,
+  "EOS_Progressed": 3948,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8284,6 +8284,11 @@
       "Time": "2023-11-28T01:53:56.9056022+00:00",
       "NumProgressed": 3946,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-28T20:07:51.2640534+00:00",
+      "NumProgressed": 3948,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8295,7 +8300,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8319,7 +8324,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8327,7 +8332,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -8343,7 +8348,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -8375,7 +8380,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8431,7 +8436,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8463,7 +8468,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8519,7 +8524,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8543,7 +8548,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8551,7 +8556,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8559,7 +8564,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8631,7 +8636,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8663,7 +8668,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8687,7 +8692,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8703,7 +8708,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8862,13 +8867,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3897,
+      "Progressed": 3899,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3946,
+      "Progressed": 3948,
       "Completed": 11
     }
   ],
@@ -8876,8 +8881,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-28T16:58:20.0432339+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:08:09.0192819+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:07:51.2640531+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.6853838+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:59:02.2834134+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:08:09.019362+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:58:58.4750819+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:07:51.2641276+00:00"
 }

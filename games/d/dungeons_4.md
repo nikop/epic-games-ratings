@@ -9,12 +9,12 @@
 | For the Horde! | 81.00% | ~394 |
 | Hammer Time, Round Two | 79.00% | ~385 |
 | The Hellwoods | 73.00% | ~356 |
-| The Plains of Strothalm | 68.00% | ~331 |
+| The Plains of Strothalm | 69.00% | ~336 |
 | Experienced Thalya | 68.00% | ~331 |
 | Thalya's Concentrated Fury | 67.00% | ~326 |
 | Bad Elves Go Everywhere | 65.00% | ~317 |
 | Master of Magic | 63.00% | ~307 |
-| Heroes’ Gorge | 59.00% | ~287 |
+| Heroes’ Gorge | 60.00% | ~292 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~282 |
 | Magic Accidents | 57.00% | ~278 |
 | Trap Master | 55.00% | ~268 |
@@ -25,15 +25,15 @@
 | Hard Work | 45.00% | ~219 |
 | The Big Eaty | 43.00% | ~209 |
 | Pure Dynamite! | 40.00% | ~195 |
-| “… like son” | 38.00% | ~185 |
+| “… like son” | 39.00% | ~190 |
 | Mana Cannon | 36.00% | ~175 |
-| Dungeonlord Gorgu | 34.00% | ~166 |
+| Dungeonlord Gorgu | 35.00% | ~170 |
 | Shame! Shame! Shame! | 34.00% | ~166 |
 | The Cathedral of Light | 33.00% | ~161 |
-| Tanos' Crusade Against Thalya | 30.00% | ~146 |
+| Tanos' Crusade Against Thalya | 31.00% | ~151 |
 | All’s Well That Ends Evil | 26.00% | ~127 |
-| Unstoppable Horde | 24.00% | ~117 |
-| Master of the Undead | 23.00% | ~112 |
+| Unstoppable Horde | 25.00% | ~122 |
+| Master of the Undead | 24.00% | ~117 |
 | The Duel | 23.00% | ~112 |
 | Hungry, Hungry Gorgu! | 21.00% | ~102 |
 | Forbidden Knowledge | 21.00% | ~102 |

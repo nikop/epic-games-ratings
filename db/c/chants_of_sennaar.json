@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 789,
+  "EOS_Progressed": 791,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.32,
+  "EOS_Completed_Percentage": 5.31,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3195,6 +3195,11 @@
       "Time": "2023-11-28T19:06:00.0188404+00:00",
       "NumProgressed": 789,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-28T20:05:42.4145903+00:00",
+      "NumProgressed": 791,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 25,
@@ -3254,7 +3259,7 @@
       "Name": "Open door",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3270,15 +3275,15 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 79
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3300,9 +3305,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 127
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3350,7 +3355,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3364,9 +3369,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 285
     },
     {
       "ID": "PROGRESS_N2",
@@ -3382,7 +3387,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "PROGRESS_N4",
@@ -3405,14 +3410,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 789,
+      "Progressed": 791,
       "Completed": 42
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:06:00.0188389+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:05:42.41459+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:58:22.6120995+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:06:00.0188714+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:58:17.5274142+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:05:42.414614+00:00"
 }

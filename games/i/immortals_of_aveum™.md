@@ -5,31 +5,31 @@ Rating: 4.05 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 91.00% | ~286 |
-| Battlefields Have Memories | 88.00% | ~276 |
-| Enlisted | 84.00% | ~264 |
-| Maybe Engage a Little | 81.00% | ~254 |
+| Unforeseen | 91.00% | ~287 |
+| Battlefields Have Memories | 88.00% | ~277 |
+| Enlisted | 84.00% | ~265 |
+| Maybe Engage a Little | 80.00% | ~252 |
 | No More Names | 69.00% | ~217 |
 | Initiate | 56.00% | ~176 |
-| Thrada-Kul | 52.00% | ~163 |
+| Thrada-Kul | 52.00% | ~164 |
 | Gravity-Challenged Rocks | 43.00% | ~135 |
 | Soldier | 35.00% | ~110 |
 | All the Major Food Groups | 35.00% | ~110 |
-| Beggars Would Ride | 32.00% | ~100 |
+| Beggars Would Ride | 31.00% | ~98 |
 | Control is an Illusion | 29.00% | ~91 |
 | Socialite | 29.00% | ~91 |
-| The Means to Save It | 24.00% | ~75 |
+| The Means to Save It | 24.00% | ~76 |
 | Resilience to Sin | 21.00% | ~66 |
 | A Familiar Nest | 21.00% | ~66 |
 | Periapt Alizarin | 21.00% | ~66 |
 | Geas Aristeya | 20.00% | ~63 |
 | A Perfect Cycle | 18.00% | ~57 |
-| Recruit | 18.00% | ~57 |
-| Armsman | 17.00% | ~53 |
+| Recruit | 17.00% | ~54 |
+| Armsman | 17.00% | ~54 |
 | Lights Army | 12.00% | ~38 |
 | Periapt Cerulean | 11.00% | ~35 |
 | Good Boy | 11.00% | ~35 |
-| Periapt Viridian | 9.00% | ~28 |
+| Periapt Viridian | 10.00% | ~32 |
 | Shroudfane Explorer | 9.00% | ~28 |
 | Best Dressed | 8.00% | ~25 |
 | Armaments Azure | 8.00% | ~25 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 985)
 | Out of Time | 0.60% | ~2 |
 | Fowl Play | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314 (Ranked 348)  
+Progressed: 315 (Ranked 348)  
 Completed: 1 (0.32%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.32%) (Ranked 234)
 | 2023-11-25 | 302 | 1 |
 | 2023-11-26 | 307 | 1 |
 | 2023-11-27 | 311 | 1 |
-| 2023-11-28 | 314 | 1 |
+| 2023-11-28 | 315 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

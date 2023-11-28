@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -380,9 +380,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Tanglewood",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_4",
@@ -628,9 +628,9 @@
       "ID": "BADGE_NINJA_INVISIBLE_KILL",
       "SetID": "ak6pfjk",
       "Name": "Combo Breaker",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "BADGE_PLAYER_RANK",
@@ -644,9 +644,9 @@
       "ID": "BADGE_PLAYER_RANK_2",
       "SetID": "ak6pfjk",
       "Name": "Lieutenant of the Evil",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "BADGE_POLYMORPH_COUNT",
@@ -717,8 +717,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:05:24.3387574+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:05:07.3210928+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.1571456+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:03:01.2438105+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:05:24.3387913+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:02:47.8684729+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:05:07.3211227+00:00"
 }

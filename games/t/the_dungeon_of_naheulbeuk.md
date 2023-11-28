@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,065 |
-| Alt+F4 | 9.00% | ~21,617 |
-| Where's that freaking Dwarf? | 8.00% | ~19,215 |
-| Déjà vu | 6.00% | ~14,411 |
-| Sock! SOCK! | 5.00% | ~12,009 |
-| Speedrun | 5.00% | ~12,009 |
-| A beer, two curses, three companions | 4.00% | ~9,607 |
-| GG EZ | 4.00% | ~9,607 |
-| DM intervention | 4.00% | ~9,607 |
-| Fireproof Wizardess | 4.00% | ~9,607 |
+| Sowwy! | 35.00% | ~84,068 |
+| Alt+F4 | 9.00% | ~21,618 |
+| Where's that freaking Dwarf? | 8.00% | ~19,216 |
+| Déjà vu | 6.00% | ~14,412 |
+| Sock! SOCK! | 5.00% | ~12,010 |
+| Speedrun | 5.00% | ~12,010 |
+| A beer, two curses, three companions | 4.00% | ~9,608 |
+| GG EZ | 4.00% | ~9,608 |
+| DM intervention | 4.00% | ~9,608 |
+| Fireproof Wizardess | 4.00% | ~9,608 |
 | Livin' in a dwarven paradise | 3.00% | ~7,206 |
 | Way of the Wimp | 3.00% | ~7,206 |
 | The plot thickens... At the tavern | 3.00% | ~7,206 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,402 |
 | Material Girl | 1.00% | ~2,402 |
 | In Navalu's footsteps | 0.90% | ~2,162 |
-| Lëgal Legend | 0.80% | ~1,921 |
+| Lëgal Legend | 0.80% | ~1,922 |
 | We come in peace | 0.70% | ~1,681 |
 | Holistic Adventuring Party | 0.60% | ~1,441 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,441 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,185 (Ranked 63)  
+Progressed: 240,195 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-25 | 239,618 | 7 |
 | 2023-11-26 | 239,885 | 7 |
 | 2023-11-27 | 240,063 | 7 |
-| 2023-11-28 | 240,185 | 7 |
+| 2023-11-28 | 240,195 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 484 (Ranked 329)  

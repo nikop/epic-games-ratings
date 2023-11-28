@@ -461,9 +461,9 @@
       "ID": "ACH_PURCHASE_OUTFIT",
       "SetID": "5akmpni",
       "Name": "Haute Couture",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_REBEL_ABILITY",
@@ -555,8 +555,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:03:39.1992352+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:03:23.6868459+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-11-28T18:58:48.1428382+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:03:39.1992791+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:58:42.3723307+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:03:23.6868846+00:00"
 }

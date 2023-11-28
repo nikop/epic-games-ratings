@@ -5,21 +5,21 @@ Rating: 4.57 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 93.00% | ~52 |
-| Map reader | 77.00% | ~43 |
-| Philanthropist | 71.00% | ~40 |
-| Adventurer | 68.00% | ~38 |
-| The brave little tailor | 54.00% | ~30 |
-| Archer | 54.00% | ~30 |
-| Field hand | 48.00% | ~27 |
-| Samaritan | 48.00% | ~27 |
-| Well-to-do | 45.00% | ~25 |
-| The merciful one | 43.00% | ~24 |
-| Ladies' man | 41.00% | ~23 |
+| Beginner | 93.00% | ~53 |
+| Map reader | 77.00% | ~44 |
+| Philanthropist | 72.00% | ~41 |
+| Adventurer | 68.00% | ~39 |
+| The brave little tailor | 53.00% | ~30 |
+| Archer | 53.00% | ~30 |
+| Field hand | 47.00% | ~27 |
+| Samaritan | 47.00% | ~27 |
+| Well-to-do | 44.00% | ~25 |
+| The merciful one | 42.00% | ~24 |
+| Ladies' man | 40.00% | ~23 |
 | Ferocious wild boars | 30.00% | ~17 |
-| Wise man | 29.00% | ~16 |
-| Idiot | 29.00% | ~16 |
-| Beast slayer | 27.00% | ~15 |
+| Wise man | 28.00% | ~16 |
+| Idiot | 28.00% | ~16 |
+| Beast slayer | 26.00% | ~15 |
 | Ogre friend | 25.00% | ~14 |
 | Hard worker | 25.00% | ~14 |
 | The fourth triplet | 25.00% | ~14 |
@@ -30,15 +30,15 @@ Rating: 4.57 (Ranked 473)
 | Archaeologist | 21.00% | ~12 |
 | Little hero | 21.00% | ~12 |
 | Pandora's box | 21.00% | ~12 |
-| Sidelined | 20.00% | ~11 |
+| Sidelined | 19.00% | ~11 |
 | Defender | 18.00% | ~10 |
 | Fence | 18.00% | ~10 |
 | Ghost hunter | 16.00% | ~9 |
 | Showdown | 16.00% | ~9 |
 | Workaholic | 16.00% | ~9 |
 | Master thief | 14.00% | ~8 |
-| Freedom fighter | 13.00% | ~7 |
-| Safecracker | 13.00% | ~7 |
+| Freedom fighter | 12.00% | ~7 |
+| Safecracker | 12.00% | ~7 |
 | Titan Lord | 11.00% | ~6 |
 | Moneybags | 11.00% | ~6 |
 | Terror of the hens | 9.00% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 473)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 488)  
+Progressed: 57 (Ranked 486)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-24 | 50 | 0 |
 | 2023-11-26 | 53 | 0 |
 | 2023-11-27 | 55 | 0 |
-| 2023-11-28 | 56 | 0 |
+| 2023-11-28 | 57 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

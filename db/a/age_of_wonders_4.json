@@ -2,9 +2,9 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 382,
+  "Ranking_Rating": 383,
   "Ranking_Popularity": 476,
-  "Ranking_PopularitySum": 477,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 177,
@@ -469,10 +469,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 61,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-11-28T19:59:57.0422454+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 81,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61,
+  "NumberOfAwards": 81,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -487,11 +493,17 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 26
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 5534,
+  "EOS_Progressed": 5536,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7609,6 +7621,11 @@
       "Time": "2023-11-28T18:03:23.6861448+00:00",
       "NumProgressed": 5534,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-28T20:03:31.2719354+00:00",
+      "NumProgressed": 5536,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7986,9 +8003,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "48",
@@ -8099,22 +8116,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5534,
+      "Progressed": 5536,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5534,
+      "Progressed": 5536,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-11-27T19:58:44.8868894+00:00",
-  "LastChanged_Achievements": "2023-11-28T19:03:46.7580348+00:00",
+  "LastChanged": "2023-11-28T19:59:57.0422452+00:00",
+  "LastChanged_Achievements": "2023-11-28T20:03:31.271935+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:00:00.9707684+00:00",
-  "LastUpdate_Achievements": "2023-11-28T19:03:46.7581183+00:00"
+  "LastUpdate_Ratings": "2023-11-28T19:59:57.0422457+00:00",
+  "LastUpdate_Achievements": "2023-11-28T20:03:31.2720012+00:00"
 }

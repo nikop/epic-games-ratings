@@ -5,32 +5,32 @@ Rating: 4.44 (Ranked 676)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 23.00% | ~5,185 |
-| Sector 2 | 20.00% | ~4,509 |
-| Crush That Cube! | 17.00% | ~3,832 |
-| Sector 3 | 17.00% | ~3,832 |
-| Crush That Ball! | 14.00% | ~3,156 |
-| Sector 4 | 14.00% | ~3,156 |
-| Sector 5 | 9.00% | ~2,029 |
-| Sector 6 | 8.00% | ~1,803 |
+| Sector 1 | 23.00% | ~5,187 |
+| Sector 2 | 20.00% | ~4,511 |
+| Crush That Cube! | 17.00% | ~3,834 |
+| Sector 3 | 17.00% | ~3,834 |
+| Crush That Ball! | 14.00% | ~3,157 |
+| Sector 4 | 14.00% | ~3,157 |
+| Sector 5 | 9.00% | ~2,030 |
+| Sector 6 | 8.00% | ~1,804 |
 | Feeling the Blues | 6.00% | ~1,353 |
 | Squished | 6.00% | ~1,353 |
 | Finale | 6.00% | ~1,353 |
 | Sector 7 | 6.00% | ~1,353 |
-| Did That Work? -- No! | 5.00% | ~1,127 |
-| Master Room | 3.00% | ~676 |
+| Did That Work? -- No! | 5.00% | ~1,128 |
+| Master Room | 3.00% | ~677 |
 | Bronze Trophy | 2.00% | ~451 |
 | The Puzzle Master | 2.00% | ~451 |
 | Completed It. | 2.00% | ~451 |
-| The Collector | 1.00% | ~225 |
-| Master Of The Collectables | 1.00% | ~225 |
-| Gold Trophy | 1.00% | ~225 |
-| Hopefully that's all of them! | 1.00% | ~225 |
-| Phew! | 1.00% | ~225 |
-| Silver Trophy | 1.00% | ~225 |
-| Maxed Out | 1.00% | ~225 |
+| The Collector | 1.00% | ~226 |
+| Master Of The Collectables | 1.00% | ~226 |
+| Gold Trophy | 1.00% | ~226 |
+| Hopefully that's all of them! | 1.00% | ~226 |
+| Phew! | 1.00% | ~226 |
+| Silver Trophy | 1.00% | ~226 |
+| Maxed Out | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,543 (Ranked 134)  
+Progressed: 22,553 (Ranked 134)  
 Completed: 113 (0.50%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 113 (0.50%) (Ranked 207)
 | 2023-11-25 | 22,007 | 103 |
 | 2023-11-26 | 22,281 | 104 |
 | 2023-11-27 | 22,417 | 110 |
-| 2023-11-28 | 22,543 | 113 |
+| 2023-11-28 | 22,553 | 113 |
 ## Awards
 Max (Challenging Puzzles): 20  (Ranked 549)  
 Sum: 20 (Ranked 550)  
