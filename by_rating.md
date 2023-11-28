@@ -203,7 +203,7 @@
 | 199 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 476 |
 | 199 | [GNOG](games/g/gnog.md) | 4.71 | 0 | 556 |
 | 199 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 52 | 428 |
-| 199 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,630 | 51 |
+| 199 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,631 | 51 |
 | 199 | [Northgard](games/n/northgard.md) | 4.71 | 32 | 491 |
 | 199 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 556 |
 | 199 | [shapez](games/s/shapez.md) | 4.71 | 0 | 556 |
@@ -306,7 +306,7 @@
 | 294 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 556 |
 | 294 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 478 | 214 |
 | 294 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 209 | 285 |
-| 294 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,983 | 64 |
+| 294 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,986 | 64 |
 | 294 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,055 | 85 |
 | 294 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 218 |
 | 310 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 556 |
@@ -387,7 +387,7 @@
 | 382 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.61 | 35 | 476 |
 | 382 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 136 | 326 |
 | 382 | [Control](games/c/control.md) | 4.61 | 8,797 | 41 |
-| 382 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 390 | 233 |
+| 382 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 390 | 234 |
 | 382 | [Darkwood](games/d/darkwood.md) | 4.61 | 329 | 247 |
 | 382 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 49,748 | 12 |
 | 382 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 556 |
@@ -526,7 +526,7 @@
 | 508 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 556 |
 | 508 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 372 | 238 |
 | 508 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 82 | 390 |
-| 508 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,360 | 135 |
+| 508 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,362 | 135 |
 | 528 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,573 | 128 |
 | 528 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,760 | 49 |
 | 528 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 470 |
@@ -538,7 +538,7 @@
 | 528 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 483 |
 | 528 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.54 | 0 | 556 |
 | 528 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 528 |
-| 528 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 366 |
+| 528 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 367 |
 | 528 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 556 |
 | 528 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 629 | 191 |
 | 542 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.53 | 0 | 556 |
@@ -938,7 +938,7 @@
 | 933 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,977 | 98 |
 | 933 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 212,939 | 5 |
 | 933 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 369 |
-| 939 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 366 |
+| 939 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 367 |
 | 939 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 556 |
 | 941 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 556 |
 | 941 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 621 | 193 |
@@ -946,7 +946,7 @@
 | 941 | [Forspoken](games/f/forspoken.md) | 4.16 | 29 | 500 |
 | 941 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.16 | 29 | 500 |
 | 941 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 302 |
-| 941 | [SYNCED](games/s/synced.md) | 4.16 | 97 | 366 |
+| 941 | [SYNCED](games/s/synced.md) | 4.16 | 98 | 363 |
 | 941 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 0 | 556 |
 | 949 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 556 |
 | 949 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.15 | 25 | 523 |
@@ -1018,7 +1018,7 @@
 | 1,015 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.94 | 0 | 556 |
 | 1,015 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 556 |
 | 1,015 | [Patron](games/p/patron.md) | 3.94 | 0 | 556 |
-| 1,019 | [Blazing Sails](games/b/blazing_sails.md) | 3.93 | 389 | 234 |
+| 1,019 | [Blazing Sails](games/b/blazing_sails.md) | 3.93 | 393 | 233 |
 | 1,019 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 556 |
 | 1,019 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.93 | 0 | 556 |
 | 1,022 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 356 |
