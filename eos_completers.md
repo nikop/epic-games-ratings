@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 26.76% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 26.75% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.16% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -71,7 +71,7 @@
 | 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.38% |
+| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.36% |
 | 73 | [JARS](games/j/jars.md) | 5.00% |
 | 74 | [Bugsnax](games/b/bugsnax.md) | 4.83% |
 | 75 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -96,7 +96,7 @@
 | 94 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.41% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 96 | [Bunny Park](games/b/bunny_park.md) | 3.32% |
-| 97 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.22% |
+| 97 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.21% |
 | 98 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.17% |
 | 99 | [Doodle God](games/d/doodle_god.md) | 3.12% |
 | 99 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
@@ -177,10 +177,10 @@
 | 175 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.87% |
 | 175 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 177 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.85% |
-| 178 | [Infindustry](games/i/infindustry.md) | 0.83% |
-| 178 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
-| 180 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.82% |
-| 180 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.82% |
+| 177 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.85% |
+| 179 | [Infindustry](games/i/infindustry.md) | 0.83% |
+| 179 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
+| 181 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.82% |
 | 182 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.81% |
 | 183 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 184 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
@@ -760,4 +760,4 @@
 | 363 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 363 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 363 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,615 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,616 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
