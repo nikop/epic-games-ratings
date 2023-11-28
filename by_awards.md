@@ -47,7 +47,7 @@
 | 45 | [DEATH STRANDING](games/d/death_stranding.md) | 8,144 | 4.77 | 111 |
 | 46 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,090 | 4.70 | 216 |
 | 47 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,087 | 4.85 | 43 |
-| 48 | [Bloons TD 6](games/b/bloons_td_6.md) | 7,832 | 4.77 | 111 |
+| 48 | [Bloons TD 6](games/b/bloons_td_6.md) | 7,857 | 4.77 | 111 |
 | 49 | [Dead Island 2](games/d/dead_island_2.md) | 7,760 | 4.54 | 528 |
 | 50 | [Supraland](games/s/supraland.md) | 7,734 | 4.61 | 382 |
 | 51 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,630 | 4.71 | 199 |
@@ -74,7 +74,7 @@
 | 72 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,976 | 3.97 | 1,010 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,960 | 4.60 | 415 |
 | 74 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,896 | 4.56 | 494 |
-| 75 | [Shop Titans](games/s/shop_titans.md) | 4,848 | 3.99 | 1,006 |
+| 75 | [Shop Titans](games/s/shop_titans.md) | 4,851 | 3.99 | 1,006 |
 | 76 | [MultiVersus](games/m/multiversus.md) | 4,751 | 4.56 | 494 |
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,709 | 4.70 | 216 |
 | 78 | [SMITE](games/s/smite.md) | 4,654 | 4.43 | 693 |
@@ -84,12 +84,12 @@
 | 82 | [God of War](games/g/god_of_war.md) | 4,406 | 4.88 | 16 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,151 | 4.51 | 571 |
 | 84 | [Days Gone](games/d/days_gone.md) | 4,060 | 4.68 | 254 |
-| 85 | [Trackmania](games/t/trackmania.md) | 4,040 | 4.66 | 294 |
+| 85 | [Trackmania](games/t/trackmania.md) | 4,055 | 4.66 | 294 |
 | 86 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,880 | 4.68 | 254 |
 | 87 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,864 | 4.27 | 863 |
 | 88 | [Paladins](games/p/paladins.md) | 3,861 | 4.32 | 824 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,745 | 4.46 | 648 |
-| 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,588 | 4.47 | 639 |
+| 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,590 | 4.47 | 639 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,398 | 4.76 | 125 |
 | 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,389 | 4.68 | 254 |
 | 93 | [Hades](games/h/hades.md) | 3,386 | 4.92 | 4 |
@@ -524,15 +524,15 @@
 | 515 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 26 | 4.60 | 415 |
 | 523 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 25 | 4.15 | 949 |
 | 523 | [MotoGP™21](games/m/motogp™21.md) | 25 | 4.57 | 474 |
+| 523 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 25 | 4.04 | 990 |
 | 523 | [Sable](games/s/sable.md) | 25 | 4.53 | 542 |
 | 523 | [WRC Generations](games/w/wrc_generations.md) | 25 | 4.45 | 663 |
-| 527 | [ELEX](games/e/elex.md) | 24 | 4.47 | 639 |
-| 527 | [Fez](games/f/fez.md) | 24 | 4.72 | 185 |
-| 527 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 24 | 4.04 | 990 |
-| 527 | [RUINER](games/r/ruiner.md) | 24 | 4.54 | 528 |
-| 527 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.65 | 310 |
-| 527 | [We Were Here Forever](games/w/we_were_here_forever.md) | 24 | 4.67 | 275 |
-| 527 | [Yooka-Laylee](games/y/yooka-laylee.md) | 24 | 4.25 | 880 |
+| 528 | [ELEX](games/e/elex.md) | 24 | 4.47 | 639 |
+| 528 | [Fez](games/f/fez.md) | 24 | 4.72 | 185 |
+| 528 | [RUINER](games/r/ruiner.md) | 24 | 4.54 | 528 |
+| 528 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.65 | 310 |
+| 528 | [We Were Here Forever](games/w/we_were_here_forever.md) | 24 | 4.67 | 275 |
+| 528 | [Yooka-Laylee](games/y/yooka-laylee.md) | 24 | 4.25 | 880 |
 | 534 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 23 | 4.88 | 16 |
 | 534 | [DEMON'S TILT](games/d/demon's_tilt.md) | 23 | 4.53 | 542 |
 | 534 | [Void Bastards](games/v/void_bastards.md) | 23 | 4.60 | 415 |
