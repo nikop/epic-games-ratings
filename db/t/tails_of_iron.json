@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2149,
+  "EOS_Progressed": 2150,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -3552,6 +3552,11 @@
       "Time": "2023-11-28T06:05:12.6169611+00:00",
       "NumProgressed": 2149,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-28T09:04:27.8058273+00:00",
+      "NumProgressed": 2150,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3563,7 +3568,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "Collect20Gold",
@@ -3627,7 +3632,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "CompleteElderFaction",
@@ -3635,7 +3640,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3643,7 +3648,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3651,7 +3656,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "CompleteStoryDM",
@@ -3707,7 +3712,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "GetTHWeapon",
@@ -3715,7 +3720,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "Kill25Bugs",
@@ -3723,7 +3728,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "Kill25Frogs",
@@ -3787,7 +3792,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3802,22 +3807,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2149,
+      "Progressed": 2150,
       "Completed": 10
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 790,
-      "Completed": 790
+      "Progressed": 791,
+      "Completed": 791
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:03:48.5133073+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:04:27.8058269+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:59:52.8228345+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:03:48.5133368+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:00:13.5162434+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:04:27.8058602+00:00"
 }

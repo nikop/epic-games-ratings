@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,574 |
-| Break A Leg | 2.00% | ~14,538 |
-| Coup de Grâce | 2.00% | ~14,538 |
-| Hotel California | 2.00% | ~14,538 |
-| Welcome To Hell-A | 2.00% | ~14,538 |
-| One of Us | 2.00% | ~1,049 |
-| Pork Chopped | 2.00% | ~1,049 |
+| Whatever It Takes | 3.00% | ~1,575 |
+| Break A Leg | 2.00% | ~14,539 |
+| Coup de Grâce | 2.00% | ~14,539 |
+| Hotel California | 2.00% | ~14,539 |
+| Welcome To Hell-A | 2.00% | ~14,539 |
+| One of Us | 2.00% | ~1,050 |
+| Pork Chopped | 2.00% | ~1,050 |
 | Dr. Reed, I Presume? | 1.00% | ~7,269 |
 | Git Gutte! | 1.00% | ~7,269 |
 | Anger Management | 1.00% | ~7,269 |
@@ -33,10 +33,10 @@ Rating: 4.54 (Ranked 528)
 | Our True Nature | 1.00% | ~7,269 |
 | This is My Weapon | 1.00% | ~7,269 |
 | I Am the Resurrection | 0.90% | ~6,542 |
-| Making Your Mark | 0.80% | ~5,815 |
-| Humanity Distilled | 0.80% | ~5,815 |
-| Max Headroom | 0.80% | ~5,815 |
-| Down with the Sickness | 0.70% | ~5,088 |
+| Making Your Mark | 0.80% | ~5,816 |
+| Humanity Distilled | 0.80% | ~5,816 |
+| Max Headroom | 0.80% | ~5,816 |
+| Down with the Sickness | 0.70% | ~5,089 |
 | Not Even My Final Form | 0.60% | ~4,362 |
 | Jumbo Keyring | 0.60% | ~4,362 |
 | Go, Bobcats! | 0.60% | ~4,362 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,923 (Ranked 21)  
+Progressed: 726,942 (Ranked 21)  
 Completed: 2,444 (0.34%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,14 +279,14 @@ Completed: 2,444 (0.34%) (Ranked 230)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 726,923 | 2,444 |
+| 2023-11-28 | 726,942 | 2,444 |
 ## Awards
-Max (Great Boss Battles): 7,760  (Ranked 49)  
-Sum: 11,886 (Ranked 84)  
+Max (Great Boss Battles): 7,784  (Ranked 49)  
+Sum: 11,910 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,760 |
+| This game has Great Boss Battles | 7,784 |
 | This game is Great for Beginners | 598 |
 | This game has Diverse Characters | 570 |
 | This game has Quickly Understood Controls | 539 |
@@ -519,4 +519,4 @@ Diff (max vs sum): -35
 | 2023-11-25 | 4.54 | 7,712 | 11,802 |
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
 | 2023-11-27 | 4.54 | 7,760 | 11,883 |
-| 2023-11-28 | 4.54 | 7,760 | 11,886 |
+| 2023-11-28 | 4.54 | 7,784 | 11,910 |

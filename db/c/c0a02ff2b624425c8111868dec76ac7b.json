@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 94,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -394,6 +394,11 @@
       "Time": "2023-11-28T05:04:14.482091+00:00",
       "NumProgressed": 93,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T09:04:10.4821972+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -444,9 +449,9 @@
       "ID": "ACH_ANGEL_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Angel",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_AVEN_UNLOCKED",
@@ -476,7 +481,7 @@
       "ID": "ACH_DARK_PALADIN_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Dark Paladin",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -516,7 +521,7 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 20,
       "UsersEstimate": 76
     },
@@ -597,14 +602,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 94,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:03:30.8807389+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:04:10.4821968+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:58:57.2007927+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:03:30.880755+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:59:15.1312636+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:04:10.4822125+00:00"
 }

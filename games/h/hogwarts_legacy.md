@@ -5,31 +5,31 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,550 |
-| First Class Student | 15.00% | ~45,516 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,551 |
+| First Class Student | 15.00% | ~45,517 |
 | Troll with the Punches | 14.00% | ~42,482 |
-| A Keen Sense of Spell | 13.00% | ~39,447 |
-| That's a Keeper | 13.00% | ~39,447 |
+| A Keen Sense of Spell | 13.00% | ~39,448 |
+| That's a Keeper | 13.00% | ~39,448 |
 | The Defender of Dragons | 12.00% | ~36,413 |
 | Loom for Improvement | 12.00% | ~36,413 |
 | A Talent for Spending | 12.00% | ~36,413 |
-| Grappling with a Graphorn | 11.00% | ~33,378 |
-| The One Who Mastered Memories | 11.00% | ~33,378 |
-| The Hallowed Hero | 11.00% | ~33,378 |
-| The Hero of Hogwarts | 11.00% | ~33,378 |
-| Challenge Accepted | 11.00% | ~33,378 |
-| Coasting Along | 11.00% | ~33,378 |
+| Grappling with a Graphorn | 11.00% | ~33,379 |
+| The One Who Mastered Memories | 11.00% | ~33,379 |
+| The Hallowed Hero | 11.00% | ~33,379 |
+| The Hero of Hogwarts | 11.00% | ~33,379 |
+| Challenge Accepted | 11.00% | ~33,379 |
+| Coasting Along | 11.00% | ~33,379 |
 | Followed the Butterflies | 10.00% | ~30,344 |
 | Rising From the Ashes | 10.00% | ~30,344 |
 | A Sallow Grave | 9.00% | ~27,310 |
 | The Spell Master | 9.00% | ~27,310 |
-| The Avenging Gazelle | 8.00% | ~24,275 |
-| Beast Friends | 8.00% | ~24,275 |
-| Flight the Good Flight | 8.00% | ~24,275 |
+| The Avenging Gazelle | 8.00% | ~24,276 |
+| Beast Friends | 8.00% | ~24,276 |
+| Flight the Good Flight | 8.00% | ~24,276 |
 | Raising Expectations | 7.00% | ~21,241 |
-| The Seeker of Knowledge | 6.00% | ~18,206 |
-| The Root of the Problem | 6.00% | ~18,206 |
-| Third Time's a Charm | 6.00% | ~18,206 |
+| The Seeker of Knowledge | 6.00% | ~18,207 |
+| The Root of the Problem | 6.00% | ~18,207 |
+| Third Time's a Charm | 6.00% | ~18,207 |
 | The Toast of the Town | 5.00% | ~15,172 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,172 |
 | The Ends Petrify the Means | 5.00% | ~15,172 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,124 |
 | Collector's Edition | 0.30% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,440 (Ranked 54)  
+Progressed: 303,444 (Ranked 54)  
 Completed: 518 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 518 (0.17%) (Ranked 266)
 | 2023-11-25 | 303,175 | 514 |
 | 2023-11-26 | 303,320 | 515 |
 | 2023-11-27 | 303,418 | 518 |
-| 2023-11-28 | 303,440 | 518 |
+| 2023-11-28 | 303,444 | 518 |
 ## Awards
 Max (Character Customization): 24,711  (Ranked 17)  
 Sum: 49,346 (Ranked 30)  

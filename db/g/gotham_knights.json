@@ -4415,9 +4415,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77336,
+  "EOS_Progressed": 77338,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24250,6 +24250,11 @@
       "Time": "2023-11-28T08:03:27.2988906+00:00",
       "NumProgressed": 77336,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-28T09:04:06.8750728+00:00",
+      "NumProgressed": 77338,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24309,7 +24314,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17787
+      "UsersEstimate": 17788
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -24341,7 +24346,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9280
+      "UsersEstimate": 9281
     },
     {
       "ID": "APPLY_STATUS",
@@ -24349,7 +24354,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11600
+      "UsersEstimate": 11601
     },
     {
       "ID": "CHALLENGES_1",
@@ -24373,7 +24378,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13920
+      "UsersEstimate": 13921
     },
     {
       "ID": "CLAYFACE_3",
@@ -24397,7 +24402,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -24437,7 +24442,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9280
+      "UsersEstimate": 9281
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -24485,7 +24490,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21654
+      "UsersEstimate": 21655
     },
     {
       "ID": "FREEZE_1_5",
@@ -24493,7 +24498,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15467
+      "UsersEstimate": 15468
     },
     {
       "ID": "FREEZE_2",
@@ -24581,7 +24586,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15467
+      "UsersEstimate": 15468
     },
     {
       "ID": "HARLEY_4",
@@ -24605,7 +24610,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38668
+      "UsersEstimate": 38669
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24629,7 +24634,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15467
+      "UsersEstimate": 15468
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -24653,7 +24658,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26294
+      "UsersEstimate": 26295
     },
     {
       "ID": "MYSTERY_02",
@@ -24677,7 +24682,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15467
+      "UsersEstimate": 15468
     },
     {
       "ID": "MYSTERY_05",
@@ -24685,7 +24690,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13920
+      "UsersEstimate": 13921
     },
     {
       "ID": "MYSTERY_06",
@@ -24693,7 +24698,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11600
+      "UsersEstimate": 11601
     },
     {
       "ID": "MYSTERY_07",
@@ -24709,7 +24714,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9280
+      "UsersEstimate": 9281
     },
     {
       "ID": "SECRET_CACHE",
@@ -24748,13 +24753,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77336,
+      "Progressed": 77338,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47616,
+      "Progressed": 47618,
       "Completed": 2675
     }
   ],
@@ -24762,8 +24767,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-28T07:57:56.6522139+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:03:27.2988903+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:04:06.8750724+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:57:56.6522145+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:03:27.2990208+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:58:12.7612343+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:04:06.8751796+00:00"
 }

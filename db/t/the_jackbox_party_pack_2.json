@@ -2,9 +2,9 @@
   "ID": "lilac",
   "Name": "The Jackbox Party Pack 2",
   "ProductSlug": "jackbox-party-pack-2",
-  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Progress": 761,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2015-10-13T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:02.811734+00:00",
   "LastChanged": "2023-03-31T05:57:02.8117341+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.2700812+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:57:08.085006+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:03:06.4631119+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:57:23.8372523+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:03:46.5869456+00:00"
 }

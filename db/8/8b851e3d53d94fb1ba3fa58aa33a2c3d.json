@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -643,9 +643,9 @@
       "ID": "STEALTH_MASTER",
       "SetID": "e4de54",
       "Name": "Stealth master",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TAMER",
@@ -674,8 +674,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:04:09.467083+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:04:48.3353229+00:00",
   "LastUpdate_AppInfo": "2023-11-25T06:57:20.100659+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:59:50.5492602+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:04:09.4671053+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:00:11.1987316+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:04:48.3353464+00:00"
 }

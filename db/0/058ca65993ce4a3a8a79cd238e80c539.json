@@ -2,9 +2,9 @@
   "ID": "058ca65993ce4a3a8a79cd238e80c539",
   "Name": "Dr. Virus",
   "ProductSlug": "dr-virus-9b3243",
-  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Progress": 761,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-06-23T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T03:57:10.1341699+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:58:57.0767664+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:08:25.1654651+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:59:15.0074454+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:09:10.5010855+00:00"
 }

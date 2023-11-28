@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87925,
+  "EOS_Progressed": 87926,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -12442,6 +12442,11 @@
       "Time": "2023-11-28T07:04:30.0331593+00:00",
       "NumProgressed": 87925,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-11-28T09:04:11.3231125+00:00",
+      "NumProgressed": 87926,
+      "NumCompleted": 293
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -12454,7 +12459,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 70340
+      "UsersEstimate": 70341
     },
     {
       "ID": "grp_beet",
@@ -12470,7 +12475,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 67702
+      "UsersEstimate": 67703
     },
     {
       "ID": "grp_endless",
@@ -12494,7 +12499,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 21981
+      "UsersEstimate": 21982
     },
     {
       "ID": "grp_level10",
@@ -12550,7 +12555,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 65064
+      "UsersEstimate": 65065
     },
     {
       "ID": "grp_speed",
@@ -12589,7 +12594,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 87925,
+      "Progressed": 87926,
       "Completed": 293
     }
   ],
@@ -12597,8 +12602,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-11-24T09:59:32.7266205+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:03:31.7491542+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:04:11.3231118+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.1314286+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:57:57.6549868+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:03:31.7492181+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:58:13.7373529+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:04:11.32319+00:00"
 }

@@ -21,6 +21,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 3.00% | ~4,278 |
 | Pretty Penny | 3.00% | ~4,278 |
 | One-Armed Bandit | 3.00% | ~4,278 |
+| Dungeon Imports | 3.00% | ~4,278 |
 | Through Repetition, Perfection | 3.00% | ~4,278 |
 | Own the Means of Production | 3.00% | ~4,278 |
 | On the Path to Greatness | 2.00% | ~2,852 |
@@ -52,7 +53,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 2.00% | ~2,852 |
 | Helping Hand | 2.00% | ~2,852 |
 | Accomplished Merchant | 2.00% | ~2,852 |
-| Dungeon Imports | 2.00% | ~2,852 |
 | Natural 20 | 2.00% | ~2,852 |
 | Seasoned Journeyman | 2.00% | ~2,852 |
 | Did we pack lunch? | 2.00% | ~2,852 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,600 (Ranked 80)  
+Progressed: 142,606 (Ranked 80)  
 Completed: 280 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 280 (0.20%) (Ranked 257)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,600 | 280 |
+| 2023-11-28 | 142,606 | 280 |
 ## Awards
 Max (Great for Beginners): 4,851  (Ranked 75)  
 Sum: 27,615 (Ranked 50)  

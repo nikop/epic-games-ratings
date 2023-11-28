@@ -6,51 +6,51 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 10.00% | ~95,707 |
-| Gun Fu | 6.00% | ~57,424 |
-| The Fool | 5.00% | ~47,853 |
-| Right Back At Ya | 3.00% | ~28,712 |
-| The Lovers | 3.00% | ~28,712 |
-| Full Body Conversion | 2.00% | ~19,141 |
-| Stanislavski's Method | 2.00% | ~19,141 |
-| The Wheel of Fortune | 2.00% | ~19,141 |
-| True Soldier | 2.00% | ~19,141 |
-| Relic Ruler | 2.00% | ~1,714 |
-| Christmas Tree Attack | 1.00% | ~9,571 |
-| The Quick and the Dead | 1.00% | ~9,571 |
-| The Hermit | 1.00% | ~9,571 |
-| The High Priestess | 1.00% | ~9,571 |
-| True Warrior | 1.00% | ~9,571 |
-| Legend of The Afterlife | 1.00% | ~9,571 |
-| All the President's Men | 1.00% | ~857 |
-| Arachnophobia | 1.00% | ~857 |
-| Life of the Road | 0.90% | ~8,614 |
-| Bushido and Chill | 0.80% | ~7,657 |
-| The World | 0.80% | ~7,657 |
-| Master Crafter | 0.70% | ~6,699 |
-| Spin Doctor | 0.70% | ~600 |
-| To Protect and Serve | 0.60% | ~5,742 |
-| I Am The Law | 0.60% | ~5,742 |
-| Two Heads, One Bullet | 0.60% | ~5,742 |
-| Judy vs Night City | 0.60% | ~5,742 |
-| The Wandering Fool | 0.50% | ~4,785 |
-| King of Wands | 0.50% | ~428 |
-| Dirty Deeds | 0.50% | ~428 |
-| Easy Come, Easy Go | 0.50% | ~428 |
-| Ten out of Ten | 0.40% | ~3,828 |
-| The Sun | 0.40% | ~3,828 |
-| To Bad Decisions! | 0.30% | ~2,871 |
-| Breathtaking | 0.30% | ~2,871 |
-| The Star | 0.30% | ~2,871 |
-| Judgement Day | 0.30% | ~257 |
-| King of Pentacles | 0.30% | ~257 |
-| King of Swords | 0.30% | ~257 |
-| The Tower | 0.30% | ~257 |
+| V for Vendetta | 10.00% | ~95,725 |
+| Gun Fu | 6.00% | ~57,435 |
+| The Fool | 5.00% | ~47,862 |
+| Right Back At Ya | 3.00% | ~28,717 |
+| The Lovers | 3.00% | ~28,717 |
+| Full Body Conversion | 2.00% | ~19,145 |
+| Stanislavski's Method | 2.00% | ~19,145 |
+| The Wheel of Fortune | 2.00% | ~19,145 |
+| True Soldier | 2.00% | ~19,145 |
+| Relic Ruler | 2.00% | ~1,717 |
+| Christmas Tree Attack | 1.00% | ~9,572 |
+| The Quick and the Dead | 1.00% | ~9,572 |
+| The Hermit | 1.00% | ~9,572 |
+| The High Priestess | 1.00% | ~9,572 |
+| True Warrior | 1.00% | ~9,572 |
+| Legend of The Afterlife | 1.00% | ~9,572 |
+| All the President's Men | 1.00% | ~859 |
+| Arachnophobia | 1.00% | ~859 |
+| Life of the Road | 0.90% | ~8,615 |
+| Bushido and Chill | 0.80% | ~7,658 |
+| The World | 0.80% | ~7,658 |
+| Master Crafter | 0.70% | ~6,701 |
+| Spin Doctor | 0.70% | ~601 |
+| To Protect and Serve | 0.60% | ~5,743 |
+| I Am The Law | 0.60% | ~5,743 |
+| Two Heads, One Bullet | 0.60% | ~5,743 |
+| Judy vs Night City | 0.60% | ~5,743 |
+| The Wandering Fool | 0.50% | ~4,786 |
+| King of Wands | 0.50% | ~429 |
+| Dirty Deeds | 0.50% | ~429 |
+| Easy Come, Easy Go | 0.50% | ~429 |
+| Ten out of Ten | 0.40% | ~3,829 |
+| The Sun | 0.40% | ~3,829 |
+| To Bad Decisions! | 0.30% | ~2,872 |
+| Breathtaking | 0.30% | ~2,872 |
+| The Star | 0.30% | ~2,872 |
+| Judgement Day | 0.30% | ~258 |
+| King of Pentacles | 0.30% | ~258 |
+| King of Swords | 0.30% | ~258 |
+| The Tower | 0.30% | ~258 |
 | Autojock | 0.20% | ~1,914 |
 | Must Be Rats | 0.20% | ~1,914 |
 | Temperance | 0.20% | ~1,914 |
-| The APB is Not Enough | 0.20% | ~171 |
-| King of Cups | 0.20% | ~171 |
+| The APB is Not Enough | 0.20% | ~172 |
+| King of Cups | 0.20% | ~172 |
 | City Lights | 0.10% | ~957 |
 | Frequent Flyer | 0.10% | ~957 |
 | Gunslinger | 0.10% | ~957 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 957,068 (Ranked 15)  
+Progressed: 957,248 (Ranked 15)  
 Completed: 2,820 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 2,820 (0.29%) (Ranked 238)
 | 2023-11-25 | 943,308 | 2,812 |
 | 2023-11-26 | 950,531 | 2,816 |
 | 2023-11-27 | 955,649 | 2,818 |
-| 2023-11-28 | 957,068 | 2,820 |
+| 2023-11-28 | 957,248 | 2,820 |
 ## Awards
 Max (Character Customization): 110,030  (Ranked 9)  
 Sum: 368,941 (Ranked 9)  

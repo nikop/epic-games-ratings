@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2268,
+  "EOS_Progressed": 2269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6216,6 +6216,11 @@
       "Time": "2023-11-28T08:05:04.6980386+00:00",
       "NumProgressed": 2268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T09:05:42.8353931+00:00",
+      "NumProgressed": 2269,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6235,7 +6240,7 @@
       "Name": "Stoker",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "A02",
@@ -6267,7 +6272,7 @@
       "Name": "A new Hope",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "A06",
@@ -6323,7 +6328,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "A13",
@@ -6331,7 +6336,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "A14",
@@ -6339,7 +6344,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "A15",
@@ -6347,7 +6352,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "A16",
@@ -6379,7 +6384,7 @@
       "Name": "Tycoon",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "A20",
@@ -6403,7 +6408,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "A23",
@@ -6451,7 +6456,7 @@
       "Name": "We brake for nobody",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "A29",
@@ -6467,7 +6472,7 @@
       "Name": "All mine",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "A31",
@@ -6547,7 +6552,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "A41",
@@ -6555,7 +6560,7 @@
       "Name": "Right through the middle",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "A42",
@@ -6571,7 +6576,7 @@
       "Name": "Mole",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "A44",
@@ -6595,7 +6600,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "A47",
@@ -6603,7 +6608,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "A48",
@@ -6666,7 +6671,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2268,
+      "Progressed": 2269,
       "Completed": 0
     }
   ],
@@ -6674,8 +6679,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:05:04.6980383+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:05:42.8353927+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.9441553+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:00:14.117517+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:05:04.6980948+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:02:54.9831563+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:05:42.8354492+00:00"
 }

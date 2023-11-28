@@ -11,8 +11,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Petrified Necropolis | 0.60% | ~105 |
 | Gathering Storm | 0.60% | ~105 |
 | Frosts | 0.50% | ~88 |
+| Land of Greed | 0.50% | ~88 |
 | Ominous Presence | 0.50% | ~88 |
-| Land of Greed | 0.40% | ~70 |
 | Untamed Wilds | 0.40% | ~70 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |

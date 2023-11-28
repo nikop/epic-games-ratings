@@ -2599,9 +2599,9 @@
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 531
+      "UsersEstimate": 540
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2686,8 +2686,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:08:47.2784272+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:09:32.4136535+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:00.5073465+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:57:32.2893105+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:08:47.2784503+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:57:48.6702238+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:09:32.4136787+00:00"
 }

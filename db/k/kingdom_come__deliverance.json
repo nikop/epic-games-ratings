@@ -8895,9 +8895,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 810247,
+  "EOS_Progressed": 810249,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1017,
+  "EOS_NewPlayers": 1014,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33825,6 +33825,11 @@
       "Time": "2023-11-28T08:08:22.072726+00:00",
       "NumProgressed": 810247,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-28T09:09:07.3711282+00:00",
+      "NumProgressed": 810249,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -33916,7 +33921,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259279
+      "UsersEstimate": 259280
     },
     {
       "ID": "Bookworm",
@@ -34316,7 +34321,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162049
+      "UsersEstimate": 162050
     },
     {
       "ID": "RevenantOfLedechko",
@@ -34356,7 +34361,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162049
+      "UsersEstimate": 162050
     },
     {
       "ID": "SerialKiller",
@@ -34491,15 +34496,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 810247,
+      "Progressed": 810249,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-28T06:59:22.4827209+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:08:22.0727257+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:09:07.3711279+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.8106757+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:58:27.7928909+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:08:22.0728911+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:58:44.756489+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:09:07.3713072+00:00"
 }

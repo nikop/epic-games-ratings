@@ -2,9 +2,9 @@
   "ID": "4c5336cff1364069bb387ced530f2384",
   "Name": "Boom Blaster",
   "ProductSlug": "boom-blaster-f3c6e0",
-  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Progress": 761,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-03-14T13:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-02T03:58:05.2002281+00:00",
   "LastChanged": "2023-04-02T03:58:05.2002282+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:58.570185+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:58:00.9807389+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:05:23.3048272+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:58:17.1976137+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:06:01.3166468+00:00"
 }

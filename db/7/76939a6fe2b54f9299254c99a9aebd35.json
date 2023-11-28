@@ -2,9 +2,9 @@
   "ID": "76939a6fe2b54f9299254c99a9aebd35",
   "Name": "The Smurfs 2 - The Prisoner of the Green Stone",
   "ProductSlug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
-  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Progress": 699,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-02T09:00:00+00:00",
@@ -24,12 +24,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-11-28T09:04:38.4051467+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-11-27T11:03:54.8105331+00:00",
   "TotalAchievements": 37,
   "TotalAchievementsXP": 1000,
@@ -335,14 +341,14 @@
     {
       "ID": "1oh5c4a",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:03:59.3698426+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:04:38.4051464+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.4142758+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:59:34.5573719+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:03:59.3698599+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:59:55.5066207+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:04:38.4051708+00:00"
 }

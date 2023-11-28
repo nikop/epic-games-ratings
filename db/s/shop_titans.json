@@ -7267,9 +7267,9 @@
       "Count": 3786
     }
   ],
-  "EOS_Progressed": 142600,
+  "EOS_Progressed": 142606,
   "EOS_Completed": 280,
-  "EOS_NewPlayers": 1841,
+  "EOS_NewPlayers": 1839,
   "EOS_NewCompleters": 92,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30197,6 +30197,11 @@
       "Time": "2023-11-28T08:03:14.7932152+00:00",
       "NumProgressed": 142600,
       "NumCompleted": 280
+    },
+    {
+      "Time": "2023-11-28T09:03:54.5639706+00:00",
+      "NumProgressed": 142606,
+      "NumCompleted": 280
     }
   ],
   "TotalAchievements": 112,
@@ -30830,9 +30835,9 @@
       "ID": "loot01",
       "SetID": "anfd17p",
       "Name": "Dungeon Imports",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2852
+      "UsersEstimate": 4278
     },
     {
       "ID": "loot02",
@@ -31103,15 +31108,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142600,
+      "Progressed": 142606,
       "Completed": 280
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-28T08:02:37.7211641+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:03:14.7932149+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:03:54.5639702+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-28T08:02:37.7211646+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:03:14.7934022+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:03:17.4622239+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:03:54.5641515+00:00"
 }

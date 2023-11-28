@@ -639,9 +639,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2099,
+  "EOS_Progressed": 2102,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3464,6 +3464,11 @@
       "Time": "2023-11-28T07:04:13.8381986+00:00",
       "NumProgressed": 2099,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T09:04:00.2453853+00:00",
+      "NumProgressed": 2102,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -3492,7 +3497,7 @@
       "Name": "Lost and Found",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -3636,7 +3641,7 @@
       "Name": "Shared Triumph",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_022",
@@ -3652,7 +3657,7 @@
       "Name": "No Mercy",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -3924,7 +3929,7 @@
       "Name": "Thriving in Darkness",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -3979,7 +3984,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 2099,
+      "Progressed": 2102,
       "Completed": 1
     }
   ],
@@ -3987,8 +3992,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-27T21:57:57.9030747+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:03:20.6174606+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:04:00.2453849+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.9278986+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:57:57.5343352+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:03:20.6175123+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:58:13.6388498+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:04:00.2454655+00:00"
 }

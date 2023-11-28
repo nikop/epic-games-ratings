@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -663,9 +663,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 56499,
+  "EOS_Progressed": 56504,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1852,
+  "EOS_NewPlayers": 1845,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11258,6 +11258,11 @@
       "Time": "2023-11-28T08:05:59.5696086+00:00",
       "NumProgressed": 56499,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-28T09:08:16.7376593+00:00",
+      "NumProgressed": 56504,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -11294,7 +11299,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "BAD_END",
@@ -11382,7 +11387,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12430
+      "UsersEstimate": 12431
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -11446,7 +11451,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "HERBS_2",
@@ -11470,7 +11475,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 15820
+      "UsersEstimate": 15821
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -11590,7 +11595,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "TALES_2",
@@ -11646,7 +11651,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9040
+      "UsersEstimate": 9041
     },
     {
       "ID": "ZNATKOST_2",
@@ -11669,15 +11674,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 56499,
+      "Progressed": 56504,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-24T14:58:20.0827646+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:05:59.5696083+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:08:16.737659+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:46.0067578+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:59:42.6597578+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:05:59.5696905+00:00"
+  "LastUpdate_Ratings": "2023-11-28T09:00:02.497213+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:08:16.7377486+00:00"
 }

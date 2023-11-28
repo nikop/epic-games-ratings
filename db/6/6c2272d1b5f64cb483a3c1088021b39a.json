@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4289,6 +4289,11 @@
       "Time": "2023-11-27T20:09:49.0316482+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T09:09:55.012031+00:00",
+      "NumProgressed": 1226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4404,7 +4409,7 @@
       "Name": "Collector 2",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "collector_3",
@@ -4468,7 +4473,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "elemental_stones_2",
@@ -4564,7 +4569,7 @@
       "Name": "Good Host 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "good_host_2",
@@ -4660,7 +4665,7 @@
       "Name": "Obsessed Carver 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "obsessed_carver_2",
@@ -4716,7 +4721,7 @@
       "Name": "Sophisticated Alchemist 2",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -4812,29 +4817,29 @@
       "Name": "Tomb Raider 2",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "tomb_raider_3",
       "SetID": "53c1p3k",
       "Name": "Tomb Raider 3",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:09:09.7561832+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:09:55.0120306+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:57.5802496+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:57:18.313292+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:09:09.7562541+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:57:33.7421589+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:09:55.012087+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.55 (Ranked 508)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,762 |
-| Become King | 74.00% | ~1,590 |
+| Complete Guard Faction | 82.00% | ~1,763 |
+| Become King | 74.00% | ~1,591 |
 | Defeat 25 Frogs | 63.00% | ~1,354 |
-| Ranged Weapon | 62.00% | ~1,332 |
+| Ranged Weapon | 62.00% | ~1,333 |
 | Collect Monster Parts | 59.00% | ~1,268 |
-| Two Handed Weapon | 57.00% | ~1,225 |
-| Defeat 25 Grubs | 53.00% | ~1,139 |
-| Rescue Redgi's Brothers | 53.00% | ~1,139 |
+| Two Handed Weapon | 57.00% | ~1,226 |
+| Defeat 25 Grubs | 53.00% | ~1,140 |
+| Rescue Redgi's Brothers | 53.00% | ~1,140 |
 | Collect Iron Ore | 48.00% | ~1,032 |
 | Kitchen Ready To Cook | 48.00% | ~1,032 |
 | Defeat 25 Mozis | 47.00% | ~1,010 |
 | Collect Gold | 46.00% | ~989 |
 | Smithy Ready to Craft | 46.00% | ~989 |
 | Fix the Travellers Wagon | 44.00% | ~946 |
-| Complete Elder Faction | 41.00% | ~881 |
+| Complete Elder Faction | 41.00% | ~882 |
 | End of the Mozis | 38.00% | ~817 |
 | Throne Room Fit For A King | 38.00% | ~817 |
 | Meet the Creatures from the Deep | 36.00% | ~774 |
@@ -27,8 +27,8 @@ Rating: 4.55 (Ranked 508)
 | Defeat Ratnor Rodentson | 30.00% | ~645 |
 | Return the Statues | 27.00% | ~580 |
 | Defeat Rattus Augustail | 27.00% | ~580 |
-| Complete the Chefs Book | 25.00% | ~537 |
-| Complete Ranger Faction | 21.00% | ~451 |
+| Complete the Chefs Book | 25.00% | ~538 |
+| Complete Ranger Faction | 21.00% | ~452 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~430 |
 | Discover the mystery of the Kings Chambers | 19.00% | ~408 |
 | Complete Arena Faction | 16.00% | ~344 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 508)
 | King of Kings | 8.00% | ~172 |
 | A new Warchief rises | 0.80% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,149 (Ranked 223)  
+Progressed: 2,150 (Ranked 223)  
 Completed: 10 (0.47%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 10 (0.47%) (Ranked 210)
 | 2023-11-25 | 2,103 | 9 |
 | 2023-11-26 | 2,128 | 9 |
 | 2023-11-27 | 2,144 | 10 |
-| 2023-11-28 | 2,149 | 10 |
+| 2023-11-28 | 2,150 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9,16 +9,16 @@
 | The Altruist | 74.00% | ~14 |
 | Treasure Hunter | 68.00% | ~13 |
 | Oo-De-Lally | 63.00% | ~12 |
+| Tap Dancing | 63.00% | ~12 |
 | Watch your Step! | 63.00% | ~12 |
-| Tap Dancing | 58.00% | ~11 |
 | MAX LEVEL | 58.00% | ~11 |
 | Merry Co-operation | 53.00% | ~10 |
 | Savior | 53.00% | ~10 |
+| First Aid | 42.00% | ~8 |
+| Right between the eyes | 37.00% | ~7 |
 | Spring Board | 37.00% | ~7 |
 | Starry Night | 32.00% | ~6 |
-| Right between the eyes | 32.00% | ~6 |
 | Rebel Unleashed | 32.00% | ~6 |
-| First Aid | 32.00% | ~6 |
 | Merry Go Round | 32.00% | ~6 |
 | Finish Him! | 26.00% | ~5 |
 | Locksley's Tears | 26.00% | ~5 |

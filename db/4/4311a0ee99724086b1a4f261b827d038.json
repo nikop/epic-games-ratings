@@ -641,9 +641,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 234637,
+  "EOS_Progressed": 234639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1146,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15371,6 +15371,11 @@
       "Time": "2023-11-28T08:09:00.4080384+00:00",
       "NumProgressed": 234637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T09:09:45.6103388+00:00",
+      "NumProgressed": 234639,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -15447,7 +15452,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21117
+      "UsersEstimate": 21118
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -15463,7 +15468,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9385
+      "UsersEstimate": 9386
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -15639,7 +15644,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58659
+      "UsersEstimate": 58660
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -15654,7 +15659,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 234637,
+      "Progressed": 234639,
       "Completed": 0
     }
   ],
@@ -15662,8 +15667,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-27T13:07:53.4575074+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:09:00.4080381+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:09:45.6103385+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.33261+00:00",
   "LastUpdate_Ratings": "2023-11-28T08:00:05.7880191+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:09:00.4081135+00:00"
+  "LastUpdate_Achievements": "2023-11-28T09:09:45.610418+00:00"
 }

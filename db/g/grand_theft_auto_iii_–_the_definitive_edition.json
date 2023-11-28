@@ -541,7 +541,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8665,
+  "EOS_Progressed": 8666,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
@@ -11451,6 +11451,11 @@
       "Time": "2023-11-28T06:07:10.4674279+00:00",
       "NumProgressed": 8665,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-11-28T09:05:51.3502859+00:00",
+      "NumProgressed": 8666,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11462,7 +11467,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7192
+      "UsersEstimate": 7193
     },
     {
       "ID": "ACH02",
@@ -11502,7 +11507,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "ACH07",
@@ -11526,7 +11531,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ACH10",
@@ -11598,7 +11603,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ACH19",
@@ -11646,7 +11651,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "ACH25",
@@ -11654,7 +11659,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ACH26",
@@ -11693,7 +11698,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8665,
+      "Progressed": 8666,
       "Completed": 60
     }
   ],
@@ -11701,8 +11706,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-24T13:06:28.1547378+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:05:13.2054175+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:05:51.3502856+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:05.6726179+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:58:32.3799469+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:05:13.2054848+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:58:49.4669791+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:05:51.3503492+00:00"
 }

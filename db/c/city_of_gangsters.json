@@ -802,9 +802,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 354388,
+  "EOS_Progressed": 354389,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26007,6 +26007,11 @@
       "Time": "2023-11-28T08:06:27.8821286+00:00",
       "NumProgressed": 354388,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-28T09:08:44.7595638+00:00",
+      "NumProgressed": 354389,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26146,7 +26151,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46070
+      "UsersEstimate": 46071
     },
     {
       "ID": "ach018",
@@ -26226,7 +26231,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163018
+      "UsersEstimate": 163019
     },
     {
       "ID": "ach028",
@@ -26370,7 +26375,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46070
+      "UsersEstimate": 46071
     },
     {
       "ID": "ach046",
@@ -26386,7 +26391,7 @@
       "Name": "Crossing Over",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "ach048",
@@ -26657,7 +26662,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354388,
+      "Progressed": 354389,
       "Completed": 7
     }
   ],
@@ -26665,8 +26670,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-26T08:58:41.2212064+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:06:27.8821284+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:08:44.7595636+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:59:26.4113316+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:06:27.8822773+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:59:46.4568082+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:08:44.7597217+00:00"
 }

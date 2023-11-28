@@ -63,6 +63,7 @@
 | Bringer of War | 30.00% | ~431 |
 | Focused | 29.00% | ~416 |
 | Archivist | 29.00% | ~416 |
+| Friend or Foe | 29.00% | ~416 |
 | Cat's in the Cradle | 29.00% | ~416 |
 | Doppelganger | 29.00% | ~416 |
 | Treason | 29.00% | ~416 |
@@ -72,7 +73,6 @@
 | Mission Accomplished | 28.00% | ~402 |
 | Suicide Mission | 28.00% | ~402 |
 | Against All Odds | 28.00% | ~402 |
-| Friend or Foe | 28.00% | ~402 |
 | Mobilizer | 28.00% | ~402 |
 | Giant Killer | 27.00% | ~388 |
 | A House Divided | 27.00% | ~388 |

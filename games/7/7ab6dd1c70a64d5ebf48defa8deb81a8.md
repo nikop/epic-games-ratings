@@ -8,11 +8,11 @@
 | Break Out | 10.00% | ~23 |
 | Find Allies | 9.00% | ~21 |
 | Powerful Allies | 9.00% | ~21 |
+| Adventurer | 9.00% | ~21 |
 | Geared Up | 9.00% | ~21 |
 | Scholar | 9.00% | ~21 |
 | I Found It | 9.00% | ~21 |
 | A Taste of Wrath | 8.00% | ~19 |
-| Adventurer | 8.00% | ~19 |
 | Big Bazar | 8.00% | ~19 |
 | The Collector | 8.00% | ~19 |
 | Tributes of Caladrias | 7.00% | ~16 |

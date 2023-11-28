@@ -2,9 +2,9 @@
   "ID": "dabe4b57c6ef4a70b3651e4274545a62",
   "Name": "Georifters",
   "ProductSlug": "georifters-ead0bb",
-  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Progress": 761,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-05-14T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:57:29.4901495+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:59:11.6385133+00:00",
+  "LastUpdate_Ratings": "2023-11-28T08:59:30.7903591+00:00",
   "LastUpdate_Achievements": "2023-11-28T08:05:58.1495143+00:00"
 }

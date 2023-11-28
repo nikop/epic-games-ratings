@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4412,
+  "EOS_Progressed": 4413,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -3234,6 +3234,11 @@
       "Time": "2023-11-28T07:07:23.8665466+00:00",
       "NumProgressed": 4412,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-28T09:06:11.4727065+00:00",
+      "NumProgressed": 4413,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3278,7 +3283,7 @@
       "Name": "Unlock the PC",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -3302,7 +3307,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -3326,7 +3331,7 @@
       "Name": "Collect the mask in Speedrun",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_ONEMINUTE",
@@ -3342,7 +3347,7 @@
       "Name": "Unlock the gate in Speedrun",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_PC",
@@ -3358,7 +3363,7 @@
       "Name": "Move the sofa in Speedrun",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_TV",
@@ -3373,14 +3378,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4412,
+      "Progressed": 4413,
       "Completed": 42
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-28T08:05:33.5558067+00:00",
+  "LastChanged_Achievements": "2023-11-28T09:06:11.4727062+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:58:50.0087307+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:05:33.5558268+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:59:07.6785192+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:06:11.4727685+00:00"
 }

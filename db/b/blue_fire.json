@@ -2,9 +2,9 @@
   "ID": "b2c22f02a966425db54645674eeeaee0",
   "Name": "Blue Fire",
   "ProductSlug": "blue-fire-9c1dac",
-  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Progress": 761,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-03-24T07:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.3219626+00:00",
   "LastChanged": "2023-03-31T05:58:41.3219627+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.0605741+00:00",
-  "LastUpdate_Ratings": "2023-11-28T07:59:24.9970314+00:00",
-  "LastUpdate_Achievements": "2023-11-28T08:04:38.6341446+00:00"
+  "LastUpdate_Ratings": "2023-11-28T08:59:44.9513286+00:00",
+  "LastUpdate_Achievements": "2023-11-28T09:05:17.0001958+00:00"
 }
