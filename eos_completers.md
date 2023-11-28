@@ -247,8 +247,8 @@
 | 243 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 246 | [Filament](games/f/filament.md) | 0.26% |
 | 246 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.26% |
-| 248 | [The Invincible](games/t/the_invincible.md) | 0.25% |
-| 249 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
+| 248 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
+| 248 | [The Invincible](games/t/the_invincible.md) | 0.24% |
 | 250 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 250 | [Remnant 2](games/r/remnant_2.md) | 0.23% |
 | 250 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.23% |

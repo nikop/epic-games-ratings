@@ -99,7 +99,7 @@
 | 96 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 656 | 188 |
 | 96 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 167 | 309 |
 | 96 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 556 |
-| 96 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,157 | 142 |
+| 96 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,160 | 142 |
 | 96 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 815 | 170 |
 | 96 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,120 | 62 |
 | 96 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 405 | 231 |
@@ -411,7 +411,7 @@
 | 382 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 516 | 211 |
 | 382 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 556 |
 | 382 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 54 | 423 |
-| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 295 | 255 |
+| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 296 | 254 |
 | 382 | [Transistor](games/t/transistor.md) | 4.61 | 0 | 556 |
 | 382 | [Warframe](games/w/warframe.md) | 4.61 | 18,674 | 23 |
 | 382 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 590 | 198 |
@@ -483,7 +483,7 @@
 | 474 | [Metalstorm](games/m/metalstorm.md) | 4.57 | 0 | 556 |
 | 474 | [Minit](games/m/minit.md) | 4.57 | 0 | 556 |
 | 474 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 25 | 523 |
-| 474 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,294 | 44 |
+| 474 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,299 | 44 |
 | 474 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,368 | 94 |
 | 474 | [Risen](games/r/risen.md) | 4.57 | 0 | 556 |
 | 474 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.57 | 109 | 352 |
@@ -693,7 +693,7 @@
 | 678 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 926 | 159 |
 | 678 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 29 | 500 |
 | 693 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 51 | 432 |
-| 693 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,755 | 29 |
+| 693 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,759 | 29 |
 | 693 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 556 |
 | 693 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 556 |
 | 693 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.43 | 0 | 556 |
@@ -757,21 +757,21 @@
 | 748 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,792 | 35 |
 | 748 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 556 |
 | 748 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 398 |
-| 748 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.39 | 133 | 328 |
 | 748 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 556 |
 | 748 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 335 | 245 |
 | 748 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.39 | 0 | 556 |
 | 748 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.39 | 54 | 423 |
 | 748 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 556 |
-| 764 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 556 |
-| 764 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 556 |
-| 764 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.38 | 0 | 556 |
-| 764 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 166 | 310 |
-| 764 | [MORDHAU](games/m/mordhau.md) | 4.38 | 984 | 154 |
-| 764 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 175 | 303 |
-| 764 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 87 | 384 |
-| 764 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 556 |
-| 764 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 556 |
+| 763 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 556 |
+| 763 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 556 |
+| 763 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.38 | 0 | 556 |
+| 763 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 166 | 310 |
+| 763 | [MORDHAU](games/m/mordhau.md) | 4.38 | 984 | 154 |
+| 763 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 175 | 303 |
+| 763 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 87 | 384 |
+| 763 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 133 | 328 |
+| 763 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 556 |
+| 763 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 556 |
 | 773 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.37 | 0 | 556 |
 | 773 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 556 |
 | 773 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,161 | 109 |
