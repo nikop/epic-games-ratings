@@ -27,9 +27,9 @@ Rating: 4.64 (Ranked 334)
 | Live with the Hot Ones | 42.00% | ~849 |
 | Keeper of the Faith | 41.00% | ~829 |
 | Betrayed | 40.00% | ~808 |
+| Exodus | 39.00% | ~788 |
 | Legend Teller | 39.00% | ~788 |
 | Mindless Prey | 39.00% | ~788 |
-| Exodus | 38.00% | ~768 |
 | There's Always Peng! | 38.00% | ~768 |
 | Front Toward Enemy | 34.00% | ~687 |
 | A Cut Above | 33.00% | ~667 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 334)
 | Untouchable | 2.00% | ~40 |
 | One Gun | 2.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,021 (Ranked 225)  
+Progressed: 2,021 (Ranked 226)  
 Completed: 13 (0.64%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |

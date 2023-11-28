@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11157,7 +11157,7 @@
       "Count": 817
     }
   ],
-  "EOS_Progressed": 303418,
+  "EOS_Progressed": 303421,
   "EOS_Completed": 518,
   "EOS_NewPlayers": 927,
   "EOS_NewCompleters": 5,
@@ -35002,6 +35002,11 @@
       "Time": "2023-11-27T23:09:50.9331454+00:00",
       "NumProgressed": 303418,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-11-28T00:10:03.4735338+00:00",
+      "NumProgressed": 303421,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 45,
@@ -35061,7 +35066,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24273
+      "UsersEstimate": 24274
     },
     {
       "ID": "PFA_16",
@@ -35069,7 +35074,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36410
+      "UsersEstimate": 36411
     },
     {
       "ID": "PFA_17",
@@ -35077,7 +35082,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24273
+      "UsersEstimate": 24274
     },
     {
       "ID": "PFA_18",
@@ -35093,7 +35098,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24273
+      "UsersEstimate": 24274
     },
     {
       "ID": "PFA_2",
@@ -35133,7 +35138,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39444
+      "UsersEstimate": 39445
     },
     {
       "ID": "PFA_24",
@@ -35141,7 +35146,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36410
+      "UsersEstimate": 36411
     },
     {
       "ID": "PFA_25",
@@ -35197,7 +35202,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36410
+      "UsersEstimate": 36411
     },
     {
       "ID": "PFA_31",
@@ -35357,7 +35362,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39444
+      "UsersEstimate": 39445
     },
     {
       "ID": "PFA_9",
@@ -35372,7 +35377,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303418,
+      "Progressed": 303421,
       "Completed": 518
     }
   ],
@@ -35380,8 +35385,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-27T23:00:22.6507304+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:09:50.9331451+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:10:03.4735336+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:00:22.650731+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:09:50.9333202+00:00"
+  "LastUpdate_Ratings": "2023-11-28T00:01:14.7123265+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:10:03.4736657+00:00"
 }

@@ -6,30 +6,30 @@
 | ---- | ---------- | ----- |
 | Act of Kindness | 79.00% | ~11 |
 | Air Fighter | 71.00% | ~10 |
-| The Altruist | 57.00% | ~8 |
+| The Altruist | 71.00% | ~10 |
+| Treasure Hunter | 64.00% | ~9 |
 | Oo-De-Lally | 50.00% | ~7 |
+| Savior | 50.00% | ~7 |
+| Tap Dancing | 50.00% | ~7 |
 | Watch your Step! | 50.00% | ~7 |
-| Treasure Hunter | 50.00% | ~7 |
 | Merry Co-operation | 43.00% | ~6 |
-| Savior | 43.00% | ~6 |
-| Tap Dancing | 43.00% | ~6 |
+| Rebel Unleashed | 43.00% | ~6 |
 | MAX LEVEL | 43.00% | ~6 |
+| Right between the eyes | 36.00% | ~5 |
+| Locksley's Tears | 36.00% | ~5 |
 | Spring Board | 36.00% | ~5 |
-| Rebel Unleashed | 36.00% | ~5 |
 | Finish Him! | 29.00% | ~4 |
-| Right between the eyes | 29.00% | ~4 |
-| Locksley's Tears | 29.00% | ~4 |
 | Assault on the Ram | 29.00% | ~4 |
 | Merry Go Round | 29.00% | ~4 |
+| Starry Night | 21.00% | ~3 |
 | Ascending Will | 21.00% | ~3 |
+| Ultra Combo | 21.00% | ~3 |
 | The Gang prevails | 21.00% | ~3 |
 | Ultra Rebel Instinct | 21.00% | ~3 |
 | Take Action! | 21.00% | ~3 |
 | First Aid | 21.00% | ~3 |
-| Starry Night | 14.00% | ~2 |
 | Brilliant Executioner | 14.00% | ~2 |
 | King of the Iron Fist | 14.00% | ~2 |
-| Ultra Combo | 14.00% | ~2 |
 | Bold and Bossy | 14.00% | ~2 |
 | Power of Friendship! | 14.00% | ~2 |
 | Five of Friends | 14.00% | ~2 |

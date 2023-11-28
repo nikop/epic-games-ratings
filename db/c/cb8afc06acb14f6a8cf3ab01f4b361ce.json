@@ -4,7 +4,7 @@
   "ProductSlug": "soulstice",
   "Ranking_Rating": 906,
   "Ranking_Popularity": 412,
-  "Ranking_PopularitySum": 474,
+  "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 32,
@@ -371,9 +371,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 320009,
+  "EOS_Progressed": 320031,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4547,
+  "EOS_NewPlayers": 4554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7561,6 +7561,11 @@
       "Time": "2023-11-27T23:07:05.4634409+00:00",
       "NumProgressed": 320009,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-28T00:08:17.4146285+00:00",
+      "NumProgressed": 320031,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7573,7 +7578,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6400
+      "UsersEstimate": 6401
     },
     {
       "ID": "S02_BRDA",
@@ -7709,7 +7714,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6400
+      "UsersEstimate": 6401
     },
     {
       "ID": "S19_CHALLENGES",
@@ -7892,7 +7897,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 320009,
+      "Progressed": 320031,
       "Completed": 4
     }
   ],
@@ -7900,8 +7905,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-24T22:57:43.5596717+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:07:05.4634404+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:08:17.4146282+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:59:49.6756135+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:07:05.4635266+00:00"
+  "LastUpdate_Ratings": "2023-11-28T00:00:32.0615067+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:08:17.4146775+00:00"
 }

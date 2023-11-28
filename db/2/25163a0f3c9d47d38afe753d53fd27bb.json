@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1656,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
@@ -3972,9 +3972,9 @@
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 447
     },
     {
       "ID": "LEVEL_010",
@@ -4155,8 +4155,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:09:48.9883616+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:10:01.6631206+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-27T23:00:43.4538877+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:09:48.9883976+00:00"
+  "LastUpdate_Ratings": "2023-11-28T00:01:41.9915044+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:10:01.6631729+00:00"
 }

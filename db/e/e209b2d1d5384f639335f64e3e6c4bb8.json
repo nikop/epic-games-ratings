@@ -245,9 +245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 326989,
+  "EOS_Progressed": 326992,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2375,
+  "EOS_NewPlayers": 2363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11705,6 +11705,11 @@
       "Time": "2023-11-27T23:05:57.3856254+00:00",
       "NumProgressed": 326989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T00:06:41.7601102+00:00",
+      "NumProgressed": 326992,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -11741,7 +11746,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 143875
+      "UsersEstimate": 143876
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -11749,7 +11754,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 104636
+      "UsersEstimate": 104637
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -11765,7 +11770,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 49048
+      "UsersEstimate": 49049
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -11837,7 +11842,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 19619
+      "UsersEstimate": 19620
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -12093,20 +12098,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 166764
+      "UsersEstimate": 166766
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 326989,
+      "Progressed": 326992,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 326978,
+      "Progressed": 326981,
       "Completed": 0
     }
   ],
@@ -12114,8 +12119,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-11-27T04:58:45.0464699+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:05:57.385625+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:06:41.7601099+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:56.867045+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:58:48.1874757+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:05:57.385694+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:59:11.8589496+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:06:41.7601938+00:00"
 }

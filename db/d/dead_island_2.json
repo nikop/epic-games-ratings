@@ -6919,10 +6919,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11879,
       "NumberOfAwardsMax": 7760
+    },
+    {
+      "Time": "2023-11-27T23:57:06.9242354+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11883,
+      "NumberOfAwardsMax": 7760
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11879,
+  "NumberOfAwards": 11883,
   "NumberOfAwardsMax": 7760,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6936,7 +6942,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 566
+      "Count": 570
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6981,9 +6987,9 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 726753,
+  "EOS_Progressed": 726775,
   "EOS_Completed": 2443,
-  "EOS_NewPlayers": 5182,
+  "EOS_NewPlayers": 5174,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32331,6 +32337,11 @@
       "Time": "2023-11-27T23:06:58.55952+00:00",
       "NumProgressed": 726753,
       "NumCompleted": 2443
+    },
+    {
+      "Time": "2023-11-28T00:07:58.8342957+00:00",
+      "NumProgressed": 726775,
+      "NumCompleted": 2443
     }
   ],
   "TotalAchievements": 51,
@@ -32406,7 +32417,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14535
+      "UsersEstimate": 14536
     },
     {
       "ID": "ach_contender",
@@ -32502,7 +32513,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14535
+      "UsersEstimate": 14536
     },
     {
       "ID": "ach_impressive_aim",
@@ -32678,7 +32689,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14535
+      "UsersEstimate": 14536
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32710,7 +32721,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "ach_gardening_tools",
@@ -32749,22 +32760,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726753,
+      "Progressed": 726775,
       "Completed": 2443
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 52295,
+      "Progressed": 52317,
       "Completed": 36609
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-27T22:57:12.5835803+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:06:58.5595196+00:00",
+  "LastChanged": "2023-11-27T23:57:06.9242353+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:07:58.8342955+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:57:12.5835808+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:06:58.5597295+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:57:06.9242359+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:07:58.8344537+00:00"
 }

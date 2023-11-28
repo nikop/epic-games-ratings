@@ -5,23 +5,23 @@ Rating: 4.38 (Ranked 764)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~766,106 |
-| The ABCs | 43.00% | ~672,297 |
-| Home Run | 41.00% | ~641,028 |
-| Keeps Coming Off | 41.00% | ~641,028 |
-| Guts | 20.00% | ~312,696 |
-| Meat Grinder | 19.00% | ~297,062 |
-| Burning Man | 16.00% | ~250,157 |
-| Lived to Tell the Tale | 12.00% | ~187,618 |
-| Highlander | 10.00% | ~156,348 |
-| Unstoppable | 10.00% | ~156,348 |
-| Just a Scratch | 9.00% | ~140,713 |
+| Justice from the Grave | 49.00% | ~766,110 |
+| The ABCs | 43.00% | ~672,301 |
+| Home Run | 41.00% | ~641,031 |
+| Keeps Coming Off | 41.00% | ~641,031 |
+| Guts | 20.00% | ~312,698 |
+| Meat Grinder | 19.00% | ~297,063 |
+| Burning Man | 16.00% | ~250,158 |
+| Lived to Tell the Tale | 12.00% | ~187,619 |
+| Highlander | 10.00% | ~156,349 |
+| Unstoppable | 10.00% | ~156,349 |
+| Just a Scratch | 9.00% | ~140,714 |
 | Tough Nut to Crack | 6.00% | ~93,809 |
 | Yoink | 6.00% | ~93,809 |
-| Long List of Names | 4.00% | ~62,539 |
-| Pyromaniac | 4.00% | ~62,539 |
-| The Queen of Weapons | 4.00% | ~62,539 |
-| This isn’t Sparta | 3.00% | ~46,904 |
+| Long List of Names | 4.00% | ~62,540 |
+| Pyromaniac | 4.00% | ~62,540 |
+| The Queen of Weapons | 4.00% | ~62,540 |
+| This isn’t Sparta | 3.00% | ~46,905 |
 | Crybaby | 2.00% | ~31,270 |
 | Eagle Eye | 2.00% | ~31,270 |
 | I Know Kung Fu | 2.00% | ~31,270 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 764)
 | That’s No Ordinary Cold | 0.10% | ~1,563 |
 | Stairway to Hell | 0.10% | ~1,563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,563,482 (Ranked 7)  
+Progressed: 1,563,490 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,6 +266,7 @@ Completed: 68 (0.00%) (Ranked 361)
 | 2023-11-25 | 1,562,510 | 68 |
 | 2023-11-26 | 1,563,103 | 68 |
 | 2023-11-27 | 1,563,482 | 68 |
+| 2023-11-28 | 1,563,490 | 68 |
 ## Awards
 Max (Diverse Characters): 984  (Ranked 154)  
 Sum: 5,120 (Ranked 139)  

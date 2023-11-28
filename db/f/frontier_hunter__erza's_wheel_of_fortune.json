@@ -1202,17 +1202,17 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1370,9 +1370,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1555,8 +1555,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:04:52.8741582+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:05:21.9248629+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:57:54.3066833+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:04:52.874192+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:58:02.2692136+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:05:21.9249013+00:00"
 }

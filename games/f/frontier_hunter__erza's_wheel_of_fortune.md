@@ -18,10 +18,10 @@
 | Seal Breaker | 31.00% | ~117 |
 | Handyman | 28.00% | ~106 |
 | Giant Lizard Killer | 27.00% | ~102 |
-| Guardian | 25.00% | ~95 |
-| Nosebleeder | 25.00% | ~95 |
+| Guardian | 26.00% | ~99 |
+| Nosebleeder | 26.00% | ~99 |
 | Trader | 21.00% | ~80 |
-| Weapon Boost | 20.00% | ~76 |
+| Weapon Boost | 21.00% | ~80 |
 | Flying Kobold Killer | 16.00% | ~61 |
 | Youth Magnet | 16.00% | ~61 |
 | Master Artificer | 16.00% | ~61 |

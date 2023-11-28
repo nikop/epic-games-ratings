@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79315,
+  "EOS_Progressed": 79316,
   "EOS_Completed": 856,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24847,6 +24847,11 @@
       "Time": "2023-11-27T23:03:42.3386601+00:00",
       "NumProgressed": 79315,
       "NumCompleted": 856
+    },
+    {
+      "Time": "2023-11-28T00:03:53.2302476+00:00",
+      "NumProgressed": 79316,
+      "NumCompleted": 856
     }
   ],
   "TotalAchievements": 25,
@@ -24890,7 +24895,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17449
+      "UsersEstimate": 17450
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -24986,7 +24991,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12690
+      "UsersEstimate": 12691
     },
     {
       "ID": "Nothing Left to Say",
@@ -25057,7 +25062,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79315,
+      "Progressed": 79316,
       "Completed": 856
     }
   ],
@@ -25065,8 +25070,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:03:42.3386597+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:03:53.2302473+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.5641615+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:59:27.5631463+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:03:42.3388222+00:00"
+  "LastUpdate_Ratings": "2023-11-28T00:00:03.378045+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:03:53.2303774+00:00"
 }

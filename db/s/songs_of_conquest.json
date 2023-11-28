@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1524,9 +1524,9 @@
       "ID": "SweepKillCount",
       "SetID": "71c0n9i",
       "Name": "Cleave",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TownCompletion",
@@ -1668,8 +1668,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:03:35.0245093+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:03:44.4021312+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:58:16.6743578+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:03:35.0245615+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:58:30.5140166+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:03:44.4021789+00:00"
 }

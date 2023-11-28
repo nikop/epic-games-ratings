@@ -4,7 +4,7 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 365,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 476,
@@ -1243,10 +1243,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 389,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-11-27T23:59:45.7604736+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 389,
+  "NumberOfAwards": 390,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1278,7 +1284,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Educational",
@@ -1323,8 +1329,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-11-27T17:59:46.2710205+00:00",
+  "LastChanged": "2023-11-27T23:59:45.7604735+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.6790445+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:59:14.4101641+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:05:23.4278794+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:59:45.7604741+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:05:59.982432+00:00"
 }

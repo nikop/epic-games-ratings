@@ -20,13 +20,13 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 1.00% | ~67 |
 | School's Out for Summer | 1.00% | ~67 |
 | I'm Hooked! | 0.90% | ~60 |
+| I'm the Captain Now | 0.40% | ~27 |
 | Marathon | 0.40% | ~27 |
 | Diamond in the Rough | 0.40% | ~27 |
 | More than a Tourist | 0.30% | ~20 |
-| I'm the Captain Now | 0.30% | ~20 |
+| Hook, Line and Sinker | 0.30% | ~20 |
 | No Fin left to give | 0.30% | ~20 |
 | Gonna Need a Bigger Boat | 0.30% | ~20 |
-| Hook, Line and Sinker | 0.20% | ~13 |
 | Aguas Claras Conquistador | 0.20% | ~12 |
 | All Good Kings Must Come to an End | 0.20% | ~12 |
 | Head for Heights | 0.10% | ~7 |

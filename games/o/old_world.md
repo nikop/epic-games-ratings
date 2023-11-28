@@ -49,39 +49,39 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 3.00% | ~466 |
 | Roman Paganism | 3.00% | ~466 |
 | Zoroastrianism | 3.00% | ~466 |
-| Regicide | 2.00% | ~310 |
-| Beloved | 2.00% | ~310 |
-| Drillmaster | 2.00% | ~310 |
-| Conqueror | 2.00% | ~310 |
-| Great | 2.00% | ~310 |
-| Intercessor | 2.00% | ~310 |
-| Lion | 2.00% | ~310 |
-| Mighty | 2.00% | ~310 |
-| Valiant | 2.00% | ~310 |
-| Victorious | 2.00% | ~310 |
-| Legendary Cities | 2.00% | ~310 |
-| Good Difficulty | 2.00% | ~310 |
-| Just Difficulty | 2.00% | ~310 |
-| Artisans | 2.00% | ~310 |
-| Champions | 2.00% | ~310 |
-| Patrons | 2.00% | ~310 |
-| Sages | 2.00% | ~310 |
-| Acropolis | 2.00% | ~310 |
-| Apadana | 2.00% | ~310 |
-| Colossus | 2.00% | ~310 |
-| Mausoleum | 2.00% | ~310 |
-| Musaeum | 2.00% | ~310 |
-| Necropolis | 2.00% | ~310 |
-| Learn to Play 2 | 2.00% | ~310 |
-| Learn to Play 3 | 2.00% | ~310 |
-| Greece | 2.00% | ~310 |
-| Manichaeism | 2.00% | ~310 |
-| Egyptian Paganism | 2.00% | ~310 |
-| Mythology | 2.00% | ~310 |
-| Points Victory | 2.00% | ~310 |
-| Win a Single Player Game | 2.00% | ~310 |
-| Kushite Pyramids | 2.00% | ~310 |
-| Kushite Paganism | 2.00% | ~310 |
+| Regicide | 2.00% | ~311 |
+| Beloved | 2.00% | ~311 |
+| Drillmaster | 2.00% | ~311 |
+| Conqueror | 2.00% | ~311 |
+| Great | 2.00% | ~311 |
+| Intercessor | 2.00% | ~311 |
+| Lion | 2.00% | ~311 |
+| Mighty | 2.00% | ~311 |
+| Valiant | 2.00% | ~311 |
+| Victorious | 2.00% | ~311 |
+| Legendary Cities | 2.00% | ~311 |
+| Good Difficulty | 2.00% | ~311 |
+| Just Difficulty | 2.00% | ~311 |
+| Artisans | 2.00% | ~311 |
+| Champions | 2.00% | ~311 |
+| Patrons | 2.00% | ~311 |
+| Sages | 2.00% | ~311 |
+| Acropolis | 2.00% | ~311 |
+| Apadana | 2.00% | ~311 |
+| Colossus | 2.00% | ~311 |
+| Mausoleum | 2.00% | ~311 |
+| Musaeum | 2.00% | ~311 |
+| Necropolis | 2.00% | ~311 |
+| Learn to Play 2 | 2.00% | ~311 |
+| Learn to Play 3 | 2.00% | ~311 |
+| Greece | 2.00% | ~311 |
+| Manichaeism | 2.00% | ~311 |
+| Egyptian Paganism | 2.00% | ~311 |
+| Mythology | 2.00% | ~311 |
+| Points Victory | 2.00% | ~311 |
+| Win a Single Player Game | 2.00% | ~311 |
+| Kushite Pyramids | 2.00% | ~311 |
+| Kushite Paganism | 2.00% | ~311 |
 | Hanging Gardens in Babylon | 1.00% | ~155 |
 | Capable | 1.00% | ~155 |
 | Devout | 1.00% | ~155 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,525 (Ranked 152)  
+Progressed: 15,526 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,6 +571,7 @@ Completed: 5 (0.03%) (Ranked 325)
 | 2023-11-25 | 15,489 | 5 |
 | 2023-11-26 | 15,514 | 5 |
 | 2023-11-27 | 15,525 | 5 |
+| 2023-11-28 | 15,526 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,879 (Ranked 218)  

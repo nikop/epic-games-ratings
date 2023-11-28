@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
@@ -1055,6 +1055,11 @@
       "Time": "2023-11-27T23:08:56.9170527+00:00",
       "NumProgressed": 399,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T00:08:55.3776252+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1065,9 +1070,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 168
     },
     {
       "ID": "AchvAllMemories",
@@ -1081,9 +1086,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "AchvBattleScore",
@@ -1097,17 +1102,17 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "AchvBombing",
       "SetID": "1hj060c",
       "Name": "Violent solution",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "AchvConvoyList",
@@ -1217,9 +1222,9 @@
       "ID": "AchvPing",
       "SetID": "1hj060c",
       "Name": "Got lost again",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "AchvPutAsleep",
@@ -1243,7 +1248,7 @@
       "Name": "The Camp",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "AchvReachCity",
@@ -1281,9 +1286,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 55,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "AchvUnity",
@@ -1298,14 +1303,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:08:56.9170524+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:08:55.3776249+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:58:01.4599157+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:08:56.9170748+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:58:11.5462635+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:08:55.3776492+00:00"
 }

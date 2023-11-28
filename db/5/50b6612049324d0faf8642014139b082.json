@@ -1410,9 +1410,9 @@
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 161
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_12",
@@ -1611,8 +1611,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-27T19:59:21.6086932+00:00",
-  "LastChanged_Achievements": "2023-11-27T23:09:46.5577061+00:00",
+  "LastChanged_Achievements": "2023-11-28T00:09:57.7848645+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-27T22:59:24.9922821+00:00",
-  "LastUpdate_Achievements": "2023-11-27T23:09:46.5577306+00:00"
+  "LastUpdate_Ratings": "2023-11-27T23:59:59.8943509+00:00",
+  "LastUpdate_Achievements": "2023-11-28T00:09:57.7848816+00:00"
 }

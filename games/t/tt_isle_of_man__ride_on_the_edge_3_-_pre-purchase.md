@@ -11,9 +11,9 @@
 | Onwards and Upwards | 18.00% | ~29 |
 | Serial Winner | 13.00% | ~21 |
 | Highly Qualified | 10.00% | ~16 |
+| No Room for Improvement | 10.00% | ~16 |
 | Start Your Engines | 10.00% | ~16 |
 | Lone Wolf | 10.00% | ~16 |
-| No Room for Improvement | 9.00% | ~15 |
 | Nerd | 7.00% | ~11 |
 | Playing God | 7.00% | ~11 |
 | First and Foremost | 6.00% | ~10 |
@@ -44,7 +44,7 @@
 | Superbike Superfan | 1.00% | ~2 |
 | Playing Favourites | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163 (Ranked 400)  
+Progressed: 163 (Ranked 401)  
 Completed: 2 (1.23%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |

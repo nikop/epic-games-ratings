@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,571 |
-| Landlord | 33.00% | ~21,921 |
-| Bannerlord | 24.00% | ~15,942 |
-| Horde breaker | 24.00% | ~15,942 |
-| Lawmaker | 24.00% | ~15,942 |
-| Trained | 24.00% | ~15,942 |
-| The king is pleased | 19.00% | ~12,621 |
-| King Solomon | 18.00% | ~11,957 |
-| Apple of my eye | 16.00% | ~10,628 |
-| I can do it | 16.00% | ~10,628 |
+| Lawbringer | 40.00% | ~26,572 |
+| Landlord | 33.00% | ~21,922 |
+| Bannerlord | 24.00% | ~15,943 |
+| Horde breaker | 24.00% | ~15,943 |
+| Lawmaker | 24.00% | ~15,943 |
+| Trained | 24.00% | ~15,943 |
+| The king is pleased | 19.00% | ~12,622 |
+| King Solomon | 18.00% | ~11,958 |
+| Apple of my eye | 16.00% | ~10,629 |
+| I can do it | 16.00% | ~10,629 |
 | Against all odds | 13.00% | ~8,636 |
 | God of the Arena | 13.00% | ~8,636 |
 | This Is Our Land | 13.00% | ~8,636 |
@@ -24,12 +24,12 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 10.00% | ~6,643 |
 | Swordbearer | 10.00% | ~6,643 |
 | What have the Romans ever done for us? | 10.00% | ~6,643 |
-| Butterlord | 9.00% | ~5,978 |
+| Butterlord | 9.00% | ~5,979 |
 | Mastery | 8.00% | ~5,314 |
 | Know your enemy | 7.00% | ~4,650 |
-| Crowdfunded | 5.00% | ~3,321 |
-| Crush your enemies | 5.00% | ~3,321 |
-| My way | 5.00% | ~3,321 |
+| Crowdfunded | 5.00% | ~3,322 |
+| Crush your enemies | 5.00% | ~3,322 |
+| My way | 5.00% | ~3,322 |
 | Veni vidi vici | 4.00% | ~2,657 |
 | Freedom! | 3.00% | ~1,993 |
 | Long live the Empire! | 3.00% | ~1,993 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,427 (Ranked 104)  
+Progressed: 66,431 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,9 +280,10 @@ Completed: 0 (0.00%) (Ranked 361)
 | 2023-11-25 | 66,150 | 0 |
 | 2023-11-26 | 66,306 | 0 |
 | 2023-11-27 | 66,427 | 0 |
+| 2023-11-28 | 66,431 | 0 |
 ## Awards
 Max (Character Customization): 7,437  (Ranked 53)  
-Sum: 15,472 (Ranked 68)  
+Sum: 15,474 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -295,7 +296,7 @@ Diff (max vs sum): -15
 | This game has Amazing Characters | 870 |
 | This game is Relaxing | 861 |
 | This game has Quickly Understood Controls | 841 |
-| This game has a Creative Community | 645 |
+| This game has a Creative Community | 647 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -617,4 +618,4 @@ Diff (max vs sum): -15
 | 2023-11-24 | 4.74 | - | 7,423 | 15,422 |
 | 2023-11-25 | 4.74 | - | 7,423 | 15,434 |
 | 2023-11-26 | 4.74 | - | 7,428 | 15,453 |
-| 2023-11-27 | 4.74 | - | 7,437 | 15,472 |
+| 2023-11-27 | 4.74 | - | 7,437 | 15,474 |

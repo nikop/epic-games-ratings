@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 87.00% | ~415 |
 | Thalya – Simply Immortal | 87.00% | ~415 |
-| For the Horde! | 81.00% | ~386 |
+| For the Horde! | 82.00% | ~391 |
 | Hammer Time, Round Two | 79.00% | ~377 |
 | The Hellwoods | 73.00% | ~348 |
 | The Plains of Strothalm | 69.00% | ~329 |
@@ -19,8 +19,8 @@
 | Magic Accidents | 56.00% | ~267 |
 | Trap Master | 55.00% | ~262 |
 | Minions, Minions! | 53.00% | ~253 |
-| The Ascent | 49.00% | ~234 |
-| It's Warm and Cozy at Home | 49.00% | ~234 |
+| The Ascent | 50.00% | ~238 |
+| It's Warm and Cozy at Home | 50.00% | ~238 |
 | Hard Work | 45.00% | ~215 |
 | YOU SHALL NOT PASS! | 44.00% | ~210 |
 | The Big Eaty | 42.00% | ~200 |
