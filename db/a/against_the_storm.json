@@ -14806,9 +14806,9 @@
       "ID": "WinNearUntamedWilds",
       "SetID": "cfbk359",
       "Name": "Untamed Wilds",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 70
     },
     {
       "ID": "WinWithFoxes",
@@ -14830,8 +14830,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-27T19:58:26.3844836+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:09:19.4000533+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:09:06.5861263+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:59:18.7433991+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:09:19.400141+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:59:05.0251424+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:09:06.586284+00:00"
 }

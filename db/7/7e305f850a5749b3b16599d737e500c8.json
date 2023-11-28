@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 184,
-  "EOS_Completed": 65,
+  "EOS_Completed": 66,
   "EOS_NewPlayers": 72,
-  "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 35.33,
+  "EOS_NewCompleters": 19,
+  "EOS_Completed_Percentage": 35.87,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1049,6 +1049,11 @@
       "Time": "2023-11-28T05:06:00.4781826+00:00",
       "NumProgressed": 184,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-28T07:07:05.0096456+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 18,
@@ -1138,9 +1143,9 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Peacemaker",
@@ -1154,17 +1159,17 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Samaritan",
@@ -1204,13 +1209,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 184,
-      "Completed": 65
+      "Completed": 66
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:07:20.2117429+00:00",
-  "LastUpdate_AppInfo": "2023-11-21T06:56:53.7904531+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:59:04.2775678+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:07:20.2117599+00:00"
+  "LastChanged_Achievements": "2023-11-28T07:07:05.009645+00:00",
+  "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
+  "LastUpdate_Ratings": "2023-11-28T06:58:50.6228939+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:07:05.0097036+00:00"
 }

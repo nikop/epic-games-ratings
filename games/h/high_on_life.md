@@ -7,13 +7,13 @@ Rating: 4.64 (Ranked 334)
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 3.00% | ~738 |
 | Are You Packin'? | 3.00% | ~738 |
+| Bring A Knife to a Gun Fight | 3.00% | ~738 |
 | Sweezy Like Sunday Morning | 3.00% | ~738 |
 | First Bounty Down | 3.00% | ~738 |
 | G3 Graduation | 3.00% | ~738 |
 | Cold-Blooded Driller | 3.00% | ~738 |
 | Who's The Boss? | 3.00% | ~738 |
 | Creature Feature | 2.00% | ~492 |
-| Bring A Knife to a Gun Fight | 2.00% | ~492 |
 | Lezduit! | 2.00% | ~492 |
 | RIP Davey Glutes | 2.00% | ~492 |
 | We're All Very Impressed, Trust Me | 2.00% | ~492 |

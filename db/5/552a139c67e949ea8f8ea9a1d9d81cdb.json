@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1207,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2818,9 +2818,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 121
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2999,8 +2999,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:04:32.4099527+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:04:12.8870384+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:01:27.3867041+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:04:32.4099957+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:01:15.5380013+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:04:12.8871179+00:00"
 }

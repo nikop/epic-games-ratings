@@ -4,7 +4,7 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 365,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 478,
@@ -1255,10 +1255,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 392,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-11-28T07:00:15.2347558+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 394,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 392,
+  "NumberOfAwards": 394,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1302,7 +1308,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1335,8 +1341,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-11-28T03:59:14.2493445+00:00",
+  "LastChanged": "2023-11-28T07:00:15.2347556+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.6790445+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:00:26.9977723+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:06:43.5740696+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:00:15.2347561+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:06:27.5784821+00:00"
 }

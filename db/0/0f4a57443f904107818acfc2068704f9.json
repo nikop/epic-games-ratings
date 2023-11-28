@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1432,6 +1432,11 @@
       "Time": "2023-11-28T06:04:25.5482279+00:00",
       "NumProgressed": 722,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T07:04:05.8724775+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1452,7 +1457,7 @@
       "Name": "Territorial",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1596,7 +1601,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "CompleteChapter4",
@@ -1604,7 +1609,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "CompleteChapter5",
@@ -1739,14 +1744,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:04:25.5482276+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:04:05.8724766+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:02:01.0568352+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:04:25.5482575+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:01:50.2320196+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:04:05.8725249+00:00"
 }

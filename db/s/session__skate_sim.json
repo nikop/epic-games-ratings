@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1207,9 +1207,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 3095,
+  "EOS_Progressed": 3096,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5872,6 +5872,11 @@
       "Time": "2023-11-28T03:03:25.2865646+00:00",
       "NumProgressed": 3095,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-28T07:04:13.2553441+00:00",
+      "NumProgressed": 3096,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6195,7 +6200,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -6259,22 +6264,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3095,
+      "Progressed": 3096,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-23T02:59:37.133828+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:04:32.7856665+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:04:13.2553437+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:03.7559297+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:58:44.7814292+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:04:32.7857216+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:58:30.7933109+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:04:13.2554334+00:00"
 }

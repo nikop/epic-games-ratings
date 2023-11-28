@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 729,
+  "EOS_Progressed": 730,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1597,6 +1597,11 @@
       "Time": "2023-11-28T06:07:58.7565536+00:00",
       "NumProgressed": 729,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T07:07:44.3354621+00:00",
+      "NumProgressed": 730,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1617,7 +1622,7 @@
       "Name": "Ab Initio",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "AnthropicHills",
@@ -1663,9 +1668,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 409
     },
     {
       "ID": "ChasingTheLight",
@@ -1673,7 +1678,7 @@
       "Name": "Chasing the Light",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Chicken",
@@ -1697,7 +1702,7 @@
       "Name": "Desolate Island",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Discovery",
@@ -1713,7 +1718,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "EcstaticTruth",
@@ -1729,7 +1734,7 @@
       "Name": "Excellent",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FloodedValley",
@@ -1785,7 +1790,7 @@
       "Name": "Just One Lap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LordOfTheFiles",
@@ -1823,9 +1828,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 131
     },
     {
       "ID": "MuseumVisitor",
@@ -1833,7 +1838,7 @@
       "Name": "Museum Visitor",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "NewBeginning",
@@ -1921,7 +1926,7 @@
       "Name": "Signatory",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "SingleRod",
@@ -2073,14 +2078,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 729,
+      "Progressed": 730,
       "Completed": 1
     }
   ],
@@ -2088,8 +2093,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-28T04:58:21.1400637+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:07:58.7565533+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:07:44.3354612+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:58:56.1357704+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:07:58.7565974+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:58:42.2757847+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:07:44.3355483+00:00"
 }

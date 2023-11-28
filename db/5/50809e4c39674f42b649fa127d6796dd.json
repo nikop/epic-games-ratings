@@ -2,7 +2,7 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 136,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 346,
+  "EOS_Progressed": 347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -742,6 +742,11 @@
       "Time": "2023-11-28T06:09:15.1061306+00:00",
       "NumProgressed": 346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T07:09:02.0287196+00:00",
+      "NumProgressed": 347,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -834,7 +839,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -858,7 +863,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -882,7 +887,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "GET_FISH_ALL",
@@ -946,7 +951,7 @@
       "Name": "The Journey Begins",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1073,14 +1078,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 346,
+      "Progressed": 347,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:09:15.1061299+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:09:02.0287192+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:03:10.9079932+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:09:15.1061551+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:02:49.5710459+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:09:02.028764+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.04 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,581 |
-| World Map | 78.00% | ~2,164 |
+| Victor | 93.00% | ~2,582 |
+| World Map | 78.00% | ~2,165 |
 | Temple of Eternals | 57.00% | ~1,582 |
 | Prestigious | 53.00% | ~1,471 |
 | Fellowship Power | 42.00% | ~1,166 |
@@ -48,12 +48,12 @@ Rating: 4.04 (Ranked 990)
 | Enchanting skill | 7.00% | ~194 |
 | Engineer Mastery | 7.00% | ~194 |
 | Weekly Quest Completionist | 7.00% | ~194 |
-| Blueprint Upgrades | 6.00% | ~166 |
-| How Do You Turn This On? | 6.00% | ~166 |
-| Lock And Load | 6.00% | ~166 |
-| Sailor | 6.00% | ~166 |
-| The Alchemist | 6.00% | ~166 |
-| The Expeditioner | 6.00% | ~166 |
+| Blueprint Upgrades | 6.00% | ~167 |
+| How Do You Turn This On? | 6.00% | ~167 |
+| Lock And Load | 6.00% | ~167 |
+| Sailor | 6.00% | ~167 |
+| The Alchemist | 6.00% | ~167 |
+| The Expeditioner | 6.00% | ~167 |
 | Active Member | 5.00% | ~139 |
 | Ancient Knowledge | 5.00% | ~139 |
 | Background Story | 5.00% | ~139 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 990)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,775 (Ranked 213)  
+Progressed: 2,776 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 2 (0.07%) (Ranked 301)
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
 | 2023-11-27 | 2,771 | 2 |
-| 2023-11-28 | 2,775 | 2 |
+| 2023-11-28 | 2,776 | 2 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 488)  
 Sum: 112 (Ranked 442)  

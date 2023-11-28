@@ -6,9 +6,9 @@ Rating: 4.75 (Ranked 148)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.60% | ~1,378 |
+| First of Many | 0.60% | ~1,378 |
 | Regicide | 0.60% | ~53 |
 | Master of the Dark Arts | 0.60% | ~53 |
-| First of Many | 0.50% | ~1,149 |
 | Not Your Average Trait | 0.40% | ~919 |
 | Expanding Horizons | 0.30% | ~689 |
 | Gleaming the Cube | 0.30% | ~689 |
@@ -18,31 +18,31 @@ Rating: 4.75 (Ranked 148)
 | Familiar Face | 0.30% | ~689 |
 | Boss'n Up | 0.30% | ~689 |
 | Trait Chaser | 0.30% | ~689 |
-| Am I Seeing This? | 0.20% | ~459 |
-| Ghost in the Machine | 0.20% | ~459 |
-| Chaos | 0.20% | ~459 |
-| Traitor | 0.20% | ~459 |
-| Forever is a Long Time Coming | 0.20% | ~459 |
-| Power Surge | 0.20% | ~459 |
-| The God Gambit | 0.20% | ~459 |
-| Dark Designs | 0.20% | ~459 |
-| Madman's Paradise | 0.20% | ~459 |
-| Equal Measures | 0.20% | ~459 |
-| Blue Goddess | 0.20% | ~459 |
-| Duality | 0.20% | ~459 |
-| Top Performer | 0.20% | ~459 |
-| Shhh...It's a Secret | 0.20% | ~459 |
-| Was This Supposed To Happen? | 0.20% | ~459 |
-| Strapped | 0.20% | ~459 |
-| Edgelord | 0.20% | ~459 |
-| The Web | 0.20% | ~459 |
-| Scrap Collector | 0.20% | ~459 |
-| Scrap Hoarder | 0.20% | ~459 |
-| All These Traits� | 0.20% | ~459 |
-| The Ultimate Weapon | 0.20% | ~459 |
-| Almost There | 0.20% | ~459 |
-| Make Some Room | 0.20% | ~459 |
-| Good, But Could Be Better! | 0.20% | ~459 |
+| Am I Seeing This? | 0.20% | ~460 |
+| Ghost in the Machine | 0.20% | ~460 |
+| Chaos | 0.20% | ~460 |
+| Traitor | 0.20% | ~460 |
+| Forever is a Long Time Coming | 0.20% | ~460 |
+| Power Surge | 0.20% | ~460 |
+| The God Gambit | 0.20% | ~460 |
+| Dark Designs | 0.20% | ~460 |
+| Madman's Paradise | 0.20% | ~460 |
+| Equal Measures | 0.20% | ~460 |
+| Blue Goddess | 0.20% | ~460 |
+| Duality | 0.20% | ~460 |
+| Top Performer | 0.20% | ~460 |
+| Shhh...It's a Secret | 0.20% | ~460 |
+| Was This Supposed To Happen? | 0.20% | ~460 |
+| Strapped | 0.20% | ~460 |
+| Edgelord | 0.20% | ~460 |
+| The Web | 0.20% | ~460 |
+| Scrap Collector | 0.20% | ~460 |
+| Scrap Hoarder | 0.20% | ~460 |
+| All These Traits� | 0.20% | ~460 |
+| The Ultimate Weapon | 0.20% | ~460 |
+| Almost There | 0.20% | ~460 |
+| Make Some Room | 0.20% | ~460 |
+| Good, But Could Be Better! | 0.20% | ~460 |
 | Succession | 0.20% | ~18 |
 | You Shall Pass | 0.20% | ~18 |
 | Crafty | 0.10% | ~230 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,735 (Ranked 69)  
+Progressed: 229,750 (Ranked 69)  
 Completed: 539 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,10 +196,10 @@ Completed: 539 (0.23%) (Ranked 250)
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
-| 2023-11-28 | 229,735 | 539 |
+| 2023-11-28 | 229,750 | 539 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
-Sum: 6,055 (Ranked 129)  
+Sum: 6,057 (Ranked 129)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): -25
 | This game has Quickly Understood Controls | 357 |
 | This game has Amazing Characters | 347 |
 | This game has Unique Visuals | 305 |
-| This game has a Creative Community | 277 |
+| This game has a Creative Community | 279 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -342,4 +342,4 @@ Diff (max vs sum): -25
 | 2023-11-25 | 4.75 | 2,436 | 5,922 |
 | 2023-11-26 | 4.75 | 2,455 | 5,967 |
 | 2023-11-27 | 4.75 | 2,480 | 6,045 |
-| 2023-11-28 | 4.75 | 2,480 | 6,055 |
+| 2023-11-28 | 4.75 | 2,480 | 6,057 |

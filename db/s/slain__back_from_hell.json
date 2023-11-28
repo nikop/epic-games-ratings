@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 41125,
+  "EOS_Progressed": 41126,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24428,6 +24428,11 @@
       "Time": "2023-11-28T06:05:56.465631+00:00",
       "NumProgressed": 41125,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-28T07:05:39.1888481+00:00",
+      "NumProgressed": 41126,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -24479,7 +24484,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -24551,7 +24556,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -24559,7 +24564,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -24567,7 +24572,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -24670,7 +24675,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41125,
+      "Progressed": 41126,
       "Completed": 26
     }
   ],
@@ -24678,8 +24683,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:05:56.4656303+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:05:39.1888478+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:57.6169847+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:59:24.1701997+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:05:56.4657808+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:59:10.4869842+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:05:39.1891388+00:00"
 }

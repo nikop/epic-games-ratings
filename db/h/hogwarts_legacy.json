@@ -11083,10 +11083,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49341,
       "NumberOfAwardsMax": 24711
+    },
+    {
+      "Time": "2023-11-28T07:01:46.7754145+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49346,
+      "NumberOfAwardsMax": 24711
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49341,
+  "NumberOfAwards": 49346,
   "NumberOfAwardsMax": 24711,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11148,7 +11154,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1304
+      "Count": 1309
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11163,9 +11169,9 @@
       "Count": 817
     }
   ],
-  "EOS_Progressed": 303438,
+  "EOS_Progressed": 303440,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35043,6 +35049,11 @@
       "Time": "2023-11-28T06:10:29.6612273+00:00",
       "NumProgressed": 303438,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-11-28T07:10:18.5107286+00:00",
+      "NumProgressed": 303440,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 45,
@@ -35126,7 +35137,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27309
+      "UsersEstimate": 27310
     },
     {
       "ID": "PFA_19",
@@ -35358,7 +35369,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27309
+      "UsersEstimate": 27310
     },
     {
       "ID": "PFA_45",
@@ -35390,7 +35401,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42481
+      "UsersEstimate": 42482
     },
     {
       "ID": "PFA_8",
@@ -35413,16 +35424,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303438,
+      "Progressed": 303440,
       "Completed": 518
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-28T01:48:06.9670517+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:10:29.6612269+00:00",
+  "LastChanged": "2023-11-28T07:01:46.775408+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:10:18.5107281+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:01:57.5976959+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:10:29.6613506+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:01:46.7754151+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:10:18.5109815+00:00"
 }

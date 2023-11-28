@@ -35,6 +35,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 2.00% | ~2,852 |
 | Scrapbooker | 2.00% | ~2,852 |
 | Demand for Supplies | 2.00% | ~2,852 |
+| Locally Sourced | 2.00% | ~2,852 |
 | Flooding the Market | 2.00% | ~2,852 |
 | Flying off the Shelves | 2.00% | ~2,852 |
 | Where it Hurts | 2.00% | ~2,852 |
@@ -70,7 +71,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 1.00% | ~1,426 |
 | Booty by the Boatload | 1.00% | ~1,426 |
 | Archivist | 1.00% | ~1,426 |
-| Locally Sourced | 1.00% | ~1,426 |
 | Fillin' the Bin | 1.00% | ~1,426 |
 | Industrial Evolution | 1.00% | ~1,426 |
 | Omae wa Mou Shindeiru | 1.00% | ~1,426 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,593 (Ranked 80)  
+Progressed: 142,598 (Ranked 80)  
 Completed: 280 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 280 (0.20%) (Ranked 257)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,593 | 280 |
+| 2023-11-28 | 142,598 | 280 |
 ## Awards
 Max (Great for Beginners): 4,851  (Ranked 75)  
 Sum: 27,612 (Ranked 50)  

@@ -5,7 +5,7 @@
   "Ranking_Rating": 790,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 221,
-  "Ranking_EOS_Progress": 154,
+  "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 89,
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 14017,
+  "EOS_Progressed": 14020,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 879,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11655,6 +11655,11 @@
       "Time": "2023-11-28T06:09:41.2081892+00:00",
       "NumProgressed": 14017,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-28T07:09:28.6920997+00:00",
+      "NumProgressed": 14020,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11715,7 +11720,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "a_19",
@@ -11723,7 +11728,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "a_2",
@@ -11914,7 +11919,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 14017,
+      "Progressed": 14020,
       "Completed": 12
     }
   ],
@@ -11922,8 +11927,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:09:41.2081889+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:09:28.6920993+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.5449859+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:03:33.9065536+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:09:41.2082613+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:03:14.0442361+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:09:28.6922142+00:00"
 }

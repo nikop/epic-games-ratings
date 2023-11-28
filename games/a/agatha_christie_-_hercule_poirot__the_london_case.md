@@ -11,43 +11,43 @@
 | An old friend | 57.00% | ~20 |
 | The Gala | 54.00% | ~19 |
 | A curious gathering | 54.00% | ~19 |
-| Little grey cells | 49.00% | ~17 |
-| Impossible is possible | 49.00% | ~17 |
-| The Missing Magdalene | 49.00% | ~17 |
-| Arthur Hastings | 49.00% | ~17 |
-| Everything matters | 43.00% | ~15 |
+| Little grey cells | 51.00% | ~18 |
+| Impossible is possible | 51.00% | ~18 |
+| The Missing Magdalene | 51.00% | ~18 |
+| Arthur Hastings | 51.00% | ~18 |
+| Everything matters | 46.00% | ~16 |
 | Order and method | 43.00% | ~15 |
-| An expert mediator | 40.00% | ~14 |
-| DI Hardwicke | 40.00% | ~14 |
-| Betty Allen | 37.00% | ~13 |
-| The Investigation Begins | 37.00% | ~13 |
-| An odd series of events | 31.00% | ~11 |
-| Ms. Camilla B. Culsham | 31.00% | ~11 |
-| Irene Court-Smyth | 31.00% | ~11 |
-| The Apartment | 31.00% | ~11 |
-| A rude awakening | 26.00% | ~9 |
-| Nathaniel Dryden | 26.00% | ~9 |
-| Well-acquainted | 23.00% | ~8 |
-| Anastasia Babanin | 23.00% | ~8 |
-| Zakariya Demir | 23.00% | ~8 |
-| Bartholomew | 23.00% | ~8 |
-| The Scheme | 23.00% | ~8 |
-| Truth from within | 20.00% | ~7 |
-| A curious phrase | 17.00% | ~6 |
+| An expert mediator | 43.00% | ~15 |
+| DI Hardwicke | 43.00% | ~15 |
+| Betty Allen | 40.00% | ~14 |
+| The Investigation Begins | 40.00% | ~14 |
+| An odd series of events | 34.00% | ~12 |
+| Ms. Camilla B. Culsham | 34.00% | ~12 |
+| Irene Court-Smyth | 34.00% | ~12 |
+| The Apartment | 34.00% | ~12 |
+| A rude awakening | 29.00% | ~10 |
+| Nathaniel Dryden | 29.00% | ~10 |
+| Well-acquainted | 26.00% | ~9 |
+| Anastasia Babanin | 26.00% | ~9 |
+| Zakariya Demir | 26.00% | ~9 |
+| Bartholomew | 26.00% | ~9 |
+| The Scheme | 26.00% | ~9 |
+| Truth from within | 23.00% | ~8 |
+| A curious phrase | 20.00% | ~7 |
+| Evelyn Lakshmi Warbeck | 17.00% | ~6 |
+| The Suspects | 17.00% | ~6 |
 | Well-travelled | 14.00% | ~5 |
 | A peculiar fellow | 14.00% | ~5 |
-| Evelyn Lakshmi Warbeck | 14.00% | ~5 |
 | Florence Farquhar | 14.00% | ~5 |
 | Horace Mountjoy | 14.00% | ~5 |
+| Johan Kristiansen | 14.00% | ~5 |
 | Mortimer Ailsworth | 14.00% | ~5 |
-| The Suspects | 14.00% | ~5 |
 | The Secrets | 14.00% | ~5 |
 | The Investigation Starts Anew | 14.00% | ~5 |
 | The Denouement | 11.00% | ~4 |
 | A treasured heirloom | 11.00% | ~4 |
 | The Penitent Magdalene | 11.00% | ~4 |
 | A true performance | 11.00% | ~4 |
-| Johan Kristiansen | 11.00% | ~4 |
 | Perkins | 9.00% | ~3 |
 | A perilous journey | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

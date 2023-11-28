@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -411,9 +411,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3713,
+  "EOS_Progressed": 3714,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6091,6 +6091,11 @@
       "Time": "2023-11-28T01:53:54.0743035+00:00",
       "NumProgressed": 3713,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-28T07:07:38.9808001+00:00",
+      "NumProgressed": 3714,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6150,7 +6155,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -6198,7 +6203,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -6214,7 +6219,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6294,7 +6299,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACH_MISSION_02",
@@ -6326,7 +6331,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6398,7 +6403,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6422,7 +6427,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -6430,7 +6435,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -6454,14 +6459,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3713,
+      "Progressed": 3714,
       "Completed": 3
     }
   ],
@@ -6469,8 +6474,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-27T19:00:30.5070176+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:07:53.5324851+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:07:38.9807996+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.06907+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:01:34.6363929+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:07:53.5325389+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:01:22.9866299+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:07:38.9809233+00:00"
 }

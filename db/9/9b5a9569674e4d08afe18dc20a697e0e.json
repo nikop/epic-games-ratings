@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -484,9 +484,9 @@
       "ID": "DISCIPLE",
       "SetID": "40o4f14",
       "Name": "Disciple",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DRAGON",
@@ -636,9 +636,9 @@
       "ID": "SAVIOR",
       "SetID": "40o4f14",
       "Name": "Savior of the people",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SKILLED",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:06:21.8039088+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:06:05.270381+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:58:38.6733522+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:06:21.8039315+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:58:24.6764345+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:06:05.2704162+00:00"
 }

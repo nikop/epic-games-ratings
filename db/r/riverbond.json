@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532127,
+  "EOS_Progressed": 532128,
   "EOS_Completed": 502,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -23992,6 +23992,11 @@
       "Time": "2023-11-28T04:03:16.7542187+00:00",
       "NumProgressed": 532127,
       "NumCompleted": 502
+    },
+    {
+      "Time": "2023-11-28T07:03:47.2339541+00:00",
+      "NumProgressed": 532128,
+      "NumCompleted": 502
     }
   ],
   "TotalAchievements": 57,
@@ -24011,7 +24016,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239457
+      "UsersEstimate": 239458
     },
     {
       "ID": "11",
@@ -24019,7 +24024,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372489
+      "UsersEstimate": 372490
     },
     {
       "ID": "12",
@@ -24059,7 +24064,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47891
+      "UsersEstimate": 47892
     },
     {
       "ID": "17",
@@ -24099,7 +24104,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127710
+      "UsersEstimate": 127711
     },
     {
       "ID": "21",
@@ -24115,7 +24120,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47891
+      "UsersEstimate": 47892
     },
     {
       "ID": "23",
@@ -24259,7 +24264,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180923
+      "UsersEstimate": 180924
     },
     {
       "ID": "4",
@@ -24339,7 +24344,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106425
+      "UsersEstimate": 106426
     },
     {
       "ID": "49",
@@ -24347,7 +24352,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180923
+      "UsersEstimate": 180924
     },
     {
       "ID": "5",
@@ -24379,7 +24384,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244778
+      "UsersEstimate": 244779
     },
     {
       "ID": "53",
@@ -24458,15 +24463,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532127,
+      "Progressed": 532128,
       "Completed": 502
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:04:07.3450152+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:03:47.2339531+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:56.9532267+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:58:59.3762584+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:04:07.3453678+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:58:45.7228968+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:03:47.2342469+00:00"
 }

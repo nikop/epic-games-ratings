@@ -529,9 +529,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2775,
+  "EOS_Progressed": 2776,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8239,6 +8239,11 @@
       "Time": "2023-11-28T05:09:25.6342513+00:00",
       "NumProgressed": 2775,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-28T07:09:36.8287218+00:00",
+      "NumProgressed": 2776,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8298,7 +8303,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "cauldronliberator",
@@ -8506,7 +8511,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "hunter",
@@ -8554,7 +8559,7 @@
       "Name": "Lock And Load",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "masterenchanter",
@@ -8666,7 +8671,7 @@
       "Name": "Sailor",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "scientist",
@@ -8714,7 +8719,7 @@
       "Name": "The Alchemist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "theexpeditioner",
@@ -8722,7 +8727,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "thefatherofdragons",
@@ -8810,7 +8815,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "warmachinesarmy",
@@ -8842,14 +8847,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2775,
+      "Progressed": 2776,
       "Completed": 2
     }
   ],
@@ -8857,8 +8862,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-27T23:02:57.4785966+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:09:49.0518966+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:09:36.8287214+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:03:22.7098182+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:09:49.0520083+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:03:02.5317181+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:09:36.8289399+00:00"
 }

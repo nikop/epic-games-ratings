@@ -11,8 +11,8 @@ Rating: 4.29 (Ranked 844)
 | Right Back Atcha | 6.00% | ~2,468 |
 | Killed by Death | 5.00% | ~2,056 |
 | Kill 'Em All | 4.00% | ~1,645 |
-| Down Boy! | 2.00% | ~822 |
-| A Snowball's Chance in Hell | 2.00% | ~822 |
+| Down Boy! | 2.00% | ~823 |
+| A Snowball's Chance in Hell | 2.00% | ~823 |
 | Enjoy The Silence | 1.00% | ~411 |
 | Sure Footed As A Goat | 0.90% | ~370 |
 | Backdoor Man | 0.90% | ~370 |
@@ -26,8 +26,8 @@ Rating: 4.29 (Ranked 844)
 | That'll Come In Handy... | 0.70% | ~288 |
 | Four Legged Friend | 0.50% | ~206 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~206 |
-| Ice To See You | 0.40% | ~164 |
-| Smack My Imp Up | 0.40% | ~164 |
+| Ice To See You | 0.40% | ~165 |
+| Smack My Imp Up | 0.40% | ~165 |
 | Vroll With It | 0.30% | ~123 |
 | Swift of Foot, Keen of Blade | 0.30% | ~123 |
 | Flame Retardant | 0.20% | ~82 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 844)
 | Heart Of Steel | 0.10% | ~41 |
 | Death or Glory | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,125 (Ranked 122)  
+Progressed: 41,126 (Ranked 122)  
 Completed: 26 (0.06%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 26 (0.06%) (Ranked 306)
 | 2023-11-25 | 40,977 | 26 |
 | 2023-11-26 | 41,066 | 26 |
 | 2023-11-27 | 41,114 | 26 |
-| 2023-11-28 | 41,125 | 26 |
+| 2023-11-28 | 41,126 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 334)  
 Sum: 127 (Ranked 430)  

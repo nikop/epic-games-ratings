@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 82.00% | ~14 |
-| Air Fighter | 76.00% | ~13 |
-| Oo-De-Lally | 59.00% | ~10 |
-| The Altruist | 59.00% | ~10 |
-| Watch your Step! | 53.00% | ~9 |
-| Treasure Hunter | 53.00% | ~9 |
-| Savior | 41.00% | ~7 |
-| Tap Dancing | 41.00% | ~7 |
-| MAX LEVEL | 41.00% | ~7 |
-| Merry Co-operation | 35.00% | ~6 |
-| Right between the eyes | 35.00% | ~6 |
-| Rebel Unleashed | 35.00% | ~6 |
-| Starry Night | 29.00% | ~5 |
-| Finish Him! | 29.00% | ~5 |
-| Locksley's Tears | 29.00% | ~5 |
-| Assault on the Ram | 29.00% | ~5 |
-| Spring Board | 29.00% | ~5 |
-| Ultra Rebel Instinct | 24.00% | ~4 |
-| Take Action! | 24.00% | ~4 |
-| First Aid | 24.00% | ~4 |
-| Merry Go Round | 24.00% | ~4 |
-| Ascending Will | 18.00% | ~3 |
-| Ultra Combo | 18.00% | ~3 |
-| The Gang prevails | 18.00% | ~3 |
-| Hidden Experiment | 18.00% | ~3 |
-| Into the Lion's Den | 18.00% | ~3 |
-| Haute Couture | 18.00% | ~3 |
-| Brilliant Executioner | 12.00% | ~2 |
-| King of the Iron Fist | 12.00% | ~2 |
-| Bold and Bossy | 12.00% | ~2 |
-| Power of Friendship! | 12.00% | ~2 |
-| Five of Friends | 12.00% | ~2 |
-| Out of the ring | 6.00% | ~1 |
-| The Crowkiller | 6.00% | ~1 |
-| A Gest of Robyn Hode | 6.00% | ~1 |
-| Money can not buy happiness | 6.00% | ~1 |
+| Air Fighter | 84.00% | ~16 |
+| Act of Kindness | 84.00% | ~16 |
+| The Altruist | 74.00% | ~14 |
+| Oo-De-Lally | 63.00% | ~12 |
+| Treasure Hunter | 63.00% | ~12 |
+| Tap Dancing | 58.00% | ~11 |
+| Merry Co-operation | 53.00% | ~10 |
+| Watch your Step! | 53.00% | ~10 |
+| Savior | 42.00% | ~8 |
+| MAX LEVEL | 37.00% | ~7 |
+| Starry Night | 32.00% | ~6 |
+| Right between the eyes | 32.00% | ~6 |
+| Rebel Unleashed | 32.00% | ~6 |
+| Finish Him! | 26.00% | ~5 |
+| Locksley's Tears | 26.00% | ~5 |
+| Assault on the Ram | 26.00% | ~5 |
+| Spring Board | 26.00% | ~5 |
+| Ascending Will | 21.00% | ~4 |
+| Ultra Rebel Instinct | 21.00% | ~4 |
+| Take Action! | 21.00% | ~4 |
+| First Aid | 21.00% | ~4 |
+| Merry Go Round | 21.00% | ~4 |
+| Ultra Combo | 16.00% | ~3 |
+| The Gang prevails | 16.00% | ~3 |
+| Hidden Experiment | 16.00% | ~3 |
+| Into the Lion's Den | 16.00% | ~3 |
+| Haute Couture | 16.00% | ~3 |
+| Brilliant Executioner | 11.00% | ~2 |
+| King of the Iron Fist | 11.00% | ~2 |
+| Bold and Bossy | 11.00% | ~2 |
+| Power of Friendship! | 11.00% | ~2 |
+| Five of Friends | 11.00% | ~2 |
+| Out of the ring | 5.00% | ~1 |
+| The Crowkiller | 5.00% | ~1 |
+| A Gest of Robyn Hode | 5.00% | ~1 |
+| Money can not buy happiness | 5.00% | ~1 |
 | No Mercy | 0.00% | ~0 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |
@@ -58,7 +58,7 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 571)  
+Progressed: 19 (Ranked 561)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-23 | 7 | 0 |
 | 2023-11-24 | 8 | 0 |
 | 2023-11-27 | 14 | 0 |
-| 2023-11-28 | 17 | 0 |
+| 2023-11-28 | 19 | 0 |

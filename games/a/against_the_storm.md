@@ -13,7 +13,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 0.50% | ~88 |
 | Gathering Storm | 0.50% | ~88 |
 | Land of Greed | 0.40% | ~70 |
-| Untamed Wilds | 0.30% | ~53 |
+| Untamed Wilds | 0.40% | ~70 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |

@@ -2573,9 +2573,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23419,
+  "EOS_Progressed": 23423,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1379,
+  "EOS_NewPlayers": 1380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10993,6 +10993,11 @@
       "Time": "2023-11-28T06:08:36.2727495+00:00",
       "NumProgressed": 23419,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T07:08:22.6402566+00:00",
+      "NumProgressed": 23423,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11045,7 +11050,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "Achievement_Trophy07",
@@ -11173,7 +11178,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "Achievement_Trophy23",
@@ -11189,7 +11194,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9602
+      "UsersEstimate": 9603
     },
     {
       "ID": "Achievement_Trophy25",
@@ -11197,7 +11202,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "Achievement_Trophy26",
@@ -11205,7 +11210,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 7962
+      "UsersEstimate": 7964
     },
     {
       "ID": "Achievement_Trophy27",
@@ -11221,7 +11226,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7728
+      "UsersEstimate": 7730
     },
     {
       "ID": "Achievement_Trophy29",
@@ -11237,7 +11242,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6792
+      "UsersEstimate": 6793
     },
     {
       "ID": "Achievement_Trophy31",
@@ -11245,7 +11250,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7260
+      "UsersEstimate": 7261
     },
     {
       "ID": "Achievement_Trophy32",
@@ -11269,7 +11274,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "Achievement_Trophy35",
@@ -11293,7 +11298,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5855
+      "UsersEstimate": 5856
     },
     {
       "ID": "Achievement_Trophy38",
@@ -11301,7 +11306,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "Achievement_Trophy39",
@@ -11325,7 +11330,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "Achievement_Trophy42",
@@ -11381,7 +11386,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "Achievement_Trophy49",
@@ -11492,7 +11497,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23419,
+      "Progressed": 23423,
       "Completed": 1
     }
   ],
@@ -11500,8 +11505,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-28T02:58:56.0622889+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:08:36.2727491+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:08:22.6402561+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-28T06:00:21.4200447+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:08:36.2728262+00:00"
+  "LastUpdate_Ratings": "2023-11-28T07:00:09.6289389+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:08:22.6404095+00:00"
 }

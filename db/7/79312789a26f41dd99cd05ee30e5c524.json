@@ -28,9 +28,51 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-28T07:08:15.1625405+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "001",
+      "SetID": "a3l0i5e",
+      "Name": "Flame Unleashed",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "002",
+      "SetID": "a3l0i5e",
+      "Name": "Ice Age Commencing",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "003",
+      "SetID": "a3l0i5e",
+      "Name": "Magic Unbound",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "004",
+      "SetID": "a3l0i5e",
+      "Name": "Earth Shaker",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "005",
+      "SetID": "a3l0i5e",
+      "Name": "Tech Triumph Achieved",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "a3l0i5e",
@@ -40,8 +82,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-28T06:08:28.8985409+00:00",
-  "LastChanged_Achievements": "2023-11-28T06:08:28.898539+00:00",
+  "LastChanged_Achievements": "2023-11-28T07:08:15.1625388+00:00",
   "LastUpdate_AppInfo": "2023-11-26T08:57:07.1793596+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:59:00.7237595+00:00",
-  "LastUpdate_Achievements": "2023-11-28T06:08:28.8985429+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:58:47.0657285+00:00",
+  "LastUpdate_Achievements": "2023-11-28T07:08:15.2013549+00:00"
 }

@@ -6,25 +6,25 @@ Rating: 4.50 (Ranked 591)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~3,008 |
-| Keep 'Em Coming | 73.00% | ~2,710 |
-| Snatched Out | 73.00% | ~2,710 |
+| Keep 'Em Coming | 73.00% | ~2,711 |
+| Snatched Out | 73.00% | ~2,711 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,488 |
-| Call Me Snake | 63.00% | ~2,339 |
-| Something Lurks Under The Hills | 61.00% | ~2,265 |
+| Call Me Snake | 63.00% | ~2,340 |
+| Something Lurks Under The Hills | 61.00% | ~2,266 |
 | This Was No Papercut | 59.00% | ~2,191 |
-| People Person | 57.00% | ~2,116 |
-| The Shrink Hates Me | 57.00% | ~2,116 |
+| People Person | 57.00% | ~2,117 |
+| The Shrink Hates Me | 57.00% | ~2,117 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,968 |
 | First Steps Into Madness | 53.00% | ~1,968 |
 | Colonial Barrels | 51.00% | ~1,894 |
 | Harper's Hell | 46.00% | ~1,708 |
 | Making a Stand | 45.00% | ~1,671 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,559 |
-| Where It All Begun | 41.00% | ~1,522 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,560 |
+| Where It All Begun | 41.00% | ~1,523 |
 | Recouped Investment | 39.00% | ~1,448 |
 | Living Nightmare | 35.00% | ~1,300 |
 | The More The Merrier | 35.00% | ~1,300 |
-| Omelette Du Fromage | 34.00% | ~1,262 |
+| Omelette Du Fromage | 34.00% | ~1,263 |
 | The Darwin Era Was Here | 31.00% | ~1,151 |
 | Deep Into Insanity | 30.00% | ~1,114 |
 | The Passenger | 29.00% | ~1,077 |
@@ -51,7 +51,7 @@ Rating: 4.50 (Ranked 591)
 | Chalk It Up To Experience | 0.80% | ~30 |
 | This Ain't No Picnic | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,713 (Ranked 202)  
+Progressed: 3,714 (Ranked 202)  
 Completed: 3 (0.08%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 3 (0.08%) (Ranked 297)
 | 2023-11-25 | 3,701 | 3 |
 | 2023-11-26 | 3,705 | 3 |
 | 2023-11-27 | 3,712 | 3 |
-| 2023-11-28 | 3,713 | 3 |
+| 2023-11-28 | 3,714 | 3 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 470)  
 Sum: 36 (Ranked 504)  
