@@ -23,8 +23,8 @@
 | It's Warm and Cozy at Home | 50.00% | ~244 |
 | YOU SHALL NOT PASS! | 46.00% | ~225 |
 | Hard Work | 46.00% | ~225 |
-| The Big Eaty | 43.00% | ~210 |
-| Pure Dynamite! | 40.00% | ~196 |
+| The Big Eaty | 44.00% | ~215 |
+| Pure Dynamite! | 41.00% | ~200 |
 | “… like son” | 39.00% | ~191 |
 | Mana Cannon | 37.00% | ~181 |
 | Dungeonlord Gorgu | 35.00% | ~171 |
@@ -35,9 +35,9 @@
 | Unstoppable Horde | 25.00% | ~122 |
 | Master of the Undead | 24.00% | ~117 |
 | The Duel | 23.00% | ~112 |
-| Hungry, Hungry Gorgu! | 21.00% | ~103 |
+| Hungry, Hungry Gorgu! | 22.00% | ~108 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~103 |
 | Forbidden Knowledge | 21.00% | ~103 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~98 |
 | If Looks Could Kill | 20.00% | ~98 |
 | Ghost Pirates? Ghost Heroes! | 19.00% | ~93 |
 | The Finitude Drill | 18.00% | ~88 |

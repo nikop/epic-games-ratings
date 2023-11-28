@@ -6,36 +6,36 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~852,529 |
-| Green Energy | 60.00% | ~720,447 |
-| Foggy Weather | 59.00% | ~708,440 |
-| Singing In The- | 59.00% | ~708,440 |
-| Unpopular Mayor | 40.00% | ~480,298 |
-| Power at Your Fingertips | 33.00% | ~396,246 |
-| City Planner | 22.00% | ~264,164 |
-| Rolling in Dough | 20.00% | ~240,149 |
-| Does My Bum Look Big In This? | 17.00% | ~204,127 |
-| Climbing the Social Ladder | 16.00% | ~192,119 |
-| Safe City | 14.00% | ~168,104 |
-| Quay-King | 11.00% | ~132,082 |
-| Lawmaker | 10.00% | ~120,074 |
-| With Canals You Can! | 10.00% | ~120,074 |
-| Nomen Est Omen | 7.00% | ~84,052 |
-| Well Informed | 6.00% | ~72,045 |
-| Fire Watch | 5.00% | ~60,037 |
-| Greenest City | 4.00% | ~48,030 |
-| Heavenly City | 3.00% | ~36,022 |
-| Reporting! | 3.00% | ~36,022 |
-| SIMulated City | 3.00% | ~36,022 |
-| The Safest Town | 3.00% | ~36,022 |
-| Professional Dumper | 2.00% | ~24,015 |
-| City in Motion | 1.00% | ~12,007 |
-| Earthloving City | 1.00% | ~12,007 |
-| Metropolis | 1.00% | ~12,007 |
+| Pioneer | 71.00% | ~852,564 |
+| Green Energy | 60.00% | ~720,477 |
+| Foggy Weather | 59.00% | ~708,469 |
+| Singing In The- | 59.00% | ~708,469 |
+| Unpopular Mayor | 40.00% | ~480,318 |
+| Power at Your Fingertips | 33.00% | ~396,262 |
+| City Planner | 22.00% | ~264,175 |
+| Rolling in Dough | 20.00% | ~240,159 |
+| Does My Bum Look Big In This? | 17.00% | ~204,135 |
+| Climbing the Social Ladder | 16.00% | ~192,127 |
+| Safe City | 14.00% | ~168,111 |
+| Quay-King | 11.00% | ~132,087 |
+| Lawmaker | 10.00% | ~120,080 |
+| With Canals You Can! | 10.00% | ~120,080 |
+| Nomen Est Omen | 7.00% | ~84,056 |
+| Well Informed | 6.00% | ~72,048 |
+| Fire Watch | 5.00% | ~60,040 |
+| Greenest City | 4.00% | ~48,032 |
+| Heavenly City | 3.00% | ~36,024 |
+| Reporting! | 3.00% | ~36,024 |
+| SIMulated City | 3.00% | ~36,024 |
+| The Safest Town | 3.00% | ~36,024 |
+| Professional Dumper | 2.00% | ~24,016 |
+| City in Motion | 1.00% | ~12,008 |
+| Earthloving City | 1.00% | ~12,008 |
+| Metropolis | 1.00% | ~12,008 |
 | Higher Education | 0.80% | ~9,606 |
-| Beam Me Up | 0.70% | ~8,405 |
-| Full Capacity | 0.60% | ~7,204 |
-| Terraformer | 0.60% | ~7,204 |
+| Beam Me Up | 0.70% | ~8,406 |
+| Full Capacity | 0.60% | ~7,205 |
+| Terraformer | 0.60% | ~7,205 |
 | Decorator | 0.50% | ~6,004 |
 | Drop the Base | 0.50% | ~6,004 |
 | It's heading right for us! | 0.50% | ~6,004 |
@@ -57,16 +57,16 @@ Number of Ratings: 25,248  (23.09.2022)
 | Here's A Tram | 0.30% | ~3,602 |
 | Short Fuse | 0.30% | ~3,602 |
 | We need snorkels! | 0.30% | ~3,602 |
-| City in Motion 2 | 0.20% | ~2,401 |
-| Eternal City | 0.20% | ~2,401 |
-| Friendly Teaching | 0.20% | ~2,401 |
-| It's Wintertime! | 0.20% | ~2,401 |
-| Make Them Pay | 0.20% | ~2,401 |
-| Medic! | 0.20% | ~2,401 |
-| New Eden | 0.20% | ~2,401 |
-| Power to the People | 0.20% | ~2,401 |
-| Run, Bambi! | 0.20% | ~2,401 |
-| The Park To Rule All Parks | 0.20% | ~2,401 |
+| City in Motion 2 | 0.20% | ~2,402 |
+| Eternal City | 0.20% | ~2,402 |
+| Friendly Teaching | 0.20% | ~2,402 |
+| It's Wintertime! | 0.20% | ~2,402 |
+| Make Them Pay | 0.20% | ~2,402 |
+| Medic! | 0.20% | ~2,402 |
+| New Eden | 0.20% | ~2,402 |
+| Power to the People | 0.20% | ~2,402 |
+| Run, Bambi! | 0.20% | ~2,402 |
+| The Park To Rule All Parks | 0.20% | ~2,402 |
 | 1001 Nights | 0.10% | ~1,201 |
 | Academic Scholar | 0.10% | ~1,201 |
 | Airline Tycoon | 0.10% | ~1,201 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,201 |
 | Z00 | 0.10% | ~1,201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200,745 (Ranked 11)  
+Progressed: 1,200,795 (Ranked 11)  
 Completed: 10 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,17 +348,17 @@ Completed: 10 (0.00%) (Ranked 363)
 | 2023-11-25 | 1,196,368 | 10 |
 | 2023-11-26 | 1,198,146 | 10 |
 | 2023-11-27 | 1,199,502 | 10 |
-| 2023-11-28 | 1,200,745 | 10 |
+| 2023-11-28 | 1,200,795 | 10 |
 ## Awards
 Max (Great for Beginners): 6,323  (Ranked 60)  
-Sum: 46,877 (Ranked 31)  
+Sum: 46,885 (Ranked 31)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,323 |
 | This game is Relaxing | 6,175 |
 | This game is Educational | 5,886 |
-| This game has Quickly Understood Controls | 5,728 |
+| This game has Quickly Understood Controls | 5,736 |
 | This game is Extremely Fun | 5,381 |
 | This game is Highly Recommended | 5,231 |
 | This game has Amazing Storytelling | 4,339 |
@@ -674,4 +674,4 @@ Diff (max vs sum): 29
 | 2023-11-25 | 4.66 | - | 6,301 | 46,712 |
 | 2023-11-26 | 4.66 | - | 6,301 | 46,776 |
 | 2023-11-27 | 4.66 | - | 6,312 | 46,829 |
-| 2023-11-28 | 4.66 | - | 6,323 | 46,877 |
+| 2023-11-28 | 4.66 | - | 6,323 | 46,885 |

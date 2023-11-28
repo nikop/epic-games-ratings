@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -241,11 +241,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15730,
-  "EOS_Completed": 38,
-  "EOS_NewPlayers": 533,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Progressed": 15732,
+  "EOS_Completed": 39,
+  "EOS_NewPlayers": 529,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -12596,6 +12596,11 @@
       "Time": "2023-11-28T22:07:40.546953+00:00",
       "NumProgressed": 15730,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-28T23:08:00.5484176+00:00",
+      "NumProgressed": 15732,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12606,9 +12611,9 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 94
     },
     {
       "ID": "10",
@@ -12640,7 +12645,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "14",
@@ -12656,7 +12661,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "16",
@@ -12672,7 +12677,7 @@
       "Name": "Spore Taste",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "18",
@@ -12752,7 +12757,7 @@
       "Name": "Call it Even",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "27",
@@ -12887,13 +12892,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15730,
-      "Completed": 38
+      "Progressed": 15732,
+      "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1684,
+      "Progressed": 1686,
       "Completed": 747
     }
   ],
@@ -12901,8 +12906,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:07:40.5469526+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:08:00.5484173+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:59:33.9515574+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:07:40.5470333+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:59:46.7053328+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:08:00.54849+00:00"
 }

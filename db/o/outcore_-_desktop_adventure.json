@@ -4,7 +4,7 @@
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
@@ -131,9 +131,9 @@
       "ID": "CompletedChapter1",
       "SetID": "7ejh407",
       "Name": "Defeated Captain Tutorial",
-      "Percentage": 61,
+      "Percentage": 67,
       "XP": 200,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CompletedChapter2",
@@ -338,8 +338,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:04:55.8550826+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:05:07.2895196+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:17.577377+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:57:23.0745828+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:04:55.8550968+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:57:36.465506+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:05:07.2895381+00:00"
 }

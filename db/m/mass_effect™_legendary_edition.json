@@ -4295,9 +4295,9 @@
       "ID": "achievement_120",
       "SetID": "d252ncf",
       "Name": "Paramour I",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_121",
@@ -4471,9 +4471,9 @@
       "ID": "achievement_26",
       "SetID": "b9pe172",
       "Name": "Krogan Ally",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_27",
@@ -4559,9 +4559,9 @@
       "ID": "achievement_36",
       "SetID": "b9pe172",
       "Name": "Missing in Action",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_37",
@@ -5131,8 +5131,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:08:14.3141549+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:08:34.6454755+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:02:42.041497+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:08:14.3143289+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:02:52.3693057+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:08:34.645624+00:00"
 }

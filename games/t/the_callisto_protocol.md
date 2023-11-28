@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 926)  
+Rating: 4.19 (Ranked 927)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -271,12 +271,12 @@ Completed: 81 (0.49%) (Ranked 207)
 | 2023-11-28 | 16,493 | 81 |
 ## Awards
 Max (Highly Recommended): 83  (Ranked 388)  
-Sum: 488 (Ranked 328)  
+Sum: 489 (Ranked 328)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 83 |
-| This game has Amazing Storytelling | 81 |
+| This game has Amazing Storytelling | 82 |
 | This game has Quickly Understood Controls | 80 |
 | This game has Amazing Characters | 79 |
 | This game is Extremely Fun | 73 |
@@ -447,4 +447,4 @@ Diff (max vs sum): 60
 | 2023-11-19 | 4.19 | 82 | 484 |
 | 2023-11-20 | 4.19 | 82 | 485 |
 | 2023-11-23 | 4.19 | 82 | 486 |
-| 2023-11-28 | 4.19 | 83 | 488 |
+| 2023-11-28 | 4.19 | 83 | 489 |

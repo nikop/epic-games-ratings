@@ -13,8 +13,8 @@ Number of Ratings: 177  (23.09.2022)
 | Katherine | 3.00% | ~196 |
 | Life Found a Way | 3.00% | ~107 |
 | If at First You Don't Succeed... | 3.00% | ~196 |
-| Drunk and Disorderly: Stephanie | 2.00% | ~130 |
-| Relentless | 2.00% | ~130 |
+| Drunk and Disorderly: Stephanie | 2.00% | ~131 |
+| Relentless | 2.00% | ~131 |
 | Amy | 1.00% | ~65 |
 | Drunk and Disorderly: Ashley | 1.00% | ~65 |
 | IRL Let's Player | 1.00% | ~65 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,525 (Ranked 184)  
-Completed: 3 (0.05%) (Ranked 315)  
+Progressed: 6,526 (Ranked 184)  
+Completed: 3 (0.05%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -290,7 +290,7 @@ Completed: 3 (0.05%) (Ranked 315)
 | 2023-11-25 | 6,508 | 3 |
 | 2023-11-26 | 6,513 | 3 |
 | 2023-11-27 | 6,519 | 3 |
-| 2023-11-28 | 6,525 | 3 |
+| 2023-11-28 | 6,526 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

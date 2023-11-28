@@ -948,9 +948,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228215,
+  "EOS_Progressed": 228217,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25258,6 +25258,11 @@
       "Time": "2023-11-28T22:08:53.1564805+00:00",
       "NumProgressed": 228215,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-28T23:09:13.6144405+00:00",
+      "NumProgressed": 228217,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25309,7 +25314,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20539
+      "UsersEstimate": 20540
     },
     {
       "ID": "ACH_BASE_16",
@@ -25325,7 +25330,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20539
+      "UsersEstimate": 20540
     },
     {
       "ID": "ACH_BASE_18",
@@ -25333,7 +25338,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20539
+      "UsersEstimate": 20540
     },
     {
       "ID": "ACH_BASE_19",
@@ -25357,7 +25362,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6846
+      "UsersEstimate": 6847
     },
     {
       "ID": "ACH_BASE_21",
@@ -25493,7 +25498,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6846
+      "UsersEstimate": 6847
     },
     {
       "ID": "ACH_BASE_5",
@@ -25533,14 +25538,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20539
+      "UsersEstimate": 20540
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228215,
+      "Progressed": 228217,
       "Completed": 5
     }
   ],
@@ -25548,8 +25553,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-28T02:26:12.6557311+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:08:53.1564802+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:09:13.6144401+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.278824+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:57:14.2925897+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:08:53.1566166+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:57:28.1364581+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:09:13.6145636+00:00"
 }

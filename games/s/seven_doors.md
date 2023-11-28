@@ -22,7 +22,7 @@
 | Thanksgiving Day | 14.00% | ~3 |
 | Oh... You didn't think to bring it? | 14.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 547)  
+Progressed: 22 (Ranked 548)  
 Completed: 2 (9.09%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -143,7 +143,7 @@
   "Tags": [],
   "EOS_Progressed": 7023,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1295,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4934,9 +4934,9 @@
       "ID": "GarbageMan",
       "SetID": "acc6ea0",
       "Name": "Garbage Man",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "Godrunner",
@@ -5127,8 +5127,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-28T07:58:21.1482847+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:08:42.9747462+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:09:03.5434788+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:58:31.2439513+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:08:42.9748059+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:58:45.0190673+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:09:03.5435115+00:00"
 }

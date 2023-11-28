@@ -5,7 +5,7 @@ Rating: 4.75 (Ranked 149)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.60% | ~1,381 |
+| The Killing Jar | 0.70% | ~1,611 |
 | First of Many | 0.60% | ~1,381 |
 | Regicide | 0.60% | ~56 |
 | Master of the Dark Arts | 0.60% | ~56 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,169 (Ranked 69)  
+Progressed: 230,188 (Ranked 69)  
 Completed: 541 (0.24%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,10 +196,10 @@ Completed: 541 (0.24%) (Ranked 249)
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
-| 2023-11-28 | 230,169 | 541 |
+| 2023-11-28 | 230,188 | 541 |
 ## Awards
 Max (Great Boss Battles): 2,498  (Ranked 104)  
-Sum: 6,096 (Ranked 129)  
+Sum: 6,104 (Ranked 129)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -208,11 +208,11 @@ Diff (max vs sum): -25
 | This game is Highly Recommended | 391 |
 | This game has Challenging Combat | 382 |
 | This game is Extremely Fun | 380 |
-| This game is Relaxing | 374 |
+| This game is Relaxing | 378 |
 | This game has Amazing Storytelling | 373 |
 | This game has Quickly Understood Controls | 359 |
 | This game has Amazing Characters | 352 |
-| This game has Unique Visuals | 305 |
+| This game has Unique Visuals | 309 |
 | This game has a Creative Community | 279 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -342,4 +342,4 @@ Diff (max vs sum): -25
 | 2023-11-25 | 4.75 | 2,436 | 5,922 |
 | 2023-11-26 | 4.75 | 2,455 | 5,967 |
 | 2023-11-27 | 4.75 | 2,480 | 6,045 |
-| 2023-11-28 | 4.75 | 2,498 | 6,096 |
+| 2023-11-28 | 4.75 | 2,498 | 6,104 |

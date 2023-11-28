@@ -47,10 +47,10 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.50% | ~17 |
 | Reign of Confusion | 0.50% | ~17 |
 | Suffer Not the Mutant | 0.50% | ~17 |
+| Exercise in Restraint | 0.40% | ~13 |
 | True Mastery | 0.40% | ~13 |
 | Blood and Iron | 0.30% | ~10 |
 | Warp Flickers | 0.30% | ~10 |
-| Exercise in Restraint | 0.30% | ~10 |
 | Abomination | 0.30% | ~10 |
 | Killing Rampage | 0.30% | ~10 |
 | The Flesh is Weak | 0.20% | ~7 |

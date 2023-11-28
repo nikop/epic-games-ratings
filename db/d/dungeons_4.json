@@ -1354,9 +1354,9 @@
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_main07storm_storm",
@@ -1370,25 +1370,25 @@
       "ID": "ach_main08sacrifice_completed",
       "SetID": "4hg22ll",
       "Name": "The Big Eaty",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 215
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
       "SetID": "4hg22ll",
       "Name": "Hungry, Hungry Gorgu!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_main08sacrifice_overfed",
       "SetID": "4hg22ll",
       "Name": "Not Even a Tiny Thin Mint Wafer, Thanks!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_main09journey_completed",
@@ -1689,8 +1689,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:07:38.1075774+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:07:58.141674+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:59:42.1888258+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:07:38.1076185+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:59:55.1365665+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:07:58.1417138+00:00"
 }

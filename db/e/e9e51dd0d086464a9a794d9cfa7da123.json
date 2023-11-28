@@ -4,7 +4,7 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -922,9 +922,9 @@
       "ID": "Stingy",
       "SetID": "2621k8c",
       "Name": "Stingy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Straightforward",
@@ -1065,8 +1065,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:09:01.7385687+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:09:22.214106+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.1854671+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:57:00.5620678+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:09:01.7386635+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:57:14.3824719+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:09:22.2141802+00:00"
 }

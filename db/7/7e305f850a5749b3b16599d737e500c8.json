@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -1133,9 +1133,9 @@
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "Fixer",
@@ -1244,8 +1244,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:05:29.3392857+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:05:40.7639782+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:58:17.8256563+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:05:29.3393049+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:58:31.4323915+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:05:40.7639977+00:00"
 }

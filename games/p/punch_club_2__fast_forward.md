@@ -32,7 +32,7 @@
 | Employee of the year | 59.00% | ~209 |
 | Fight for life | 58.00% | ~205 |
 | Little hacker | 58.00% | ~205 |
-| Intriguing candies | 57.00% | ~202 |
+| Intriguing candies | 58.00% | ~205 |
 | Legal courier | 55.00% | ~195 |
 | Extreme neuropower! | 55.00% | ~195 |
 | Escaped from a big trouble | 52.00% | ~184 |

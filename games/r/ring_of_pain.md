@@ -6,7 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matching | 0.90% | ~16 |
+| Matching | 0.90% | ~17 |
 | First Steps | 0.60% | ~1,442 |
 | Not Touching You | 0.60% | ~11 |
 | Uncharted Territory | 0.50% | ~1,202 |
@@ -49,6 +49,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.30% | ~721 |
 | Flesh Wound | 0.30% | ~721 |
 | Shapeshifting | 0.30% | ~721 |
+| Who Needs Luck? | 0.30% | ~6 |
 | Thank You, Friend | 0.20% | ~481 |
 | Shadow Spreads | 0.20% | ~481 |
 | Max Damage! | 0.20% | ~481 |
@@ -70,7 +71,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Long Run | 0.20% | ~481 |
 | Obsessed | 0.20% | ~481 |
 | Precious | 0.20% | ~481 |
-| Who Needs Luck? | 0.20% | ~4 |
 | Raw Power | 0.20% | ~4 |
 | Achievement Hunter | 0.10% | ~240 |
 | Quick Descent | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,352 (Ranked 62)  
+Progressed: 240,354 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-25 | 240,224 | 291 |
 | 2023-11-26 | 240,273 | 291 |
 | 2023-11-27 | 240,313 | 291 |
-| 2023-11-28 | 240,352 | 291 |
+| 2023-11-28 | 240,354 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 131)  
 Sum: 13,232 (Ranked 78)  

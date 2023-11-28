@@ -8,7 +8,7 @@
 | A Loyal Friend | 36.00% | ~27 |
 | Abandon Ship! | 20.00% | ~15 |
 | The Tomb of Kih-Oskh | 17.00% | ~13 |
-| The Weighing of the Soul | 13.00% | ~10 |
+| The Weighing of the Soul | 15.00% | ~11 |
 | Cat Lover | 7.00% | ~5 |
 | The Curse of Kih-Oskh | 7.00% | ~5 |
 | It's a Deal! | 7.00% | ~5 |
@@ -31,6 +31,7 @@
 | Threat | 3.00% | ~2 |
 | Tintin, Reporter | 1.00% | ~1 |
 | A Yummy Detour | 1.00% | ~1 |
+| The Pharaoh's New Clothes | 1.00% | ~1 |
 | Subtlety | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | Jungle Runner | 0.00% | ~0 |
 | Broken Brotherhood | 0.00% | ~0 |
 | Mountain Runner | 0.00% | ~0 |
-| The Pharaoh's New Clothes | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 75 (Ranked 464)  

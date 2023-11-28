@@ -6,8 +6,8 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_Completed": 316,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -377,7 +377,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6525,
+  "EOS_Progressed": 6526,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -6492,6 +6492,11 @@
       "Time": "2023-11-28T21:05:49.6233023+00:00",
       "NumProgressed": 6525,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-28T23:04:50.0364105+00:00",
+      "NumProgressed": 6526,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6639,7 +6644,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "DoNotBurn",
@@ -6823,7 +6828,7 @@
       "Name": "Relentless",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Penguinfucker",
@@ -7054,21 +7059,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3564,
+      "Progressed": 3565,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6525,
+      "Progressed": 6526,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:04:38.6749164+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:04:50.0364098+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:05.3490956+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:58:15.8142325+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:04:38.675006+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:58:29.5024408+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:04:50.0364787+00:00"
 }

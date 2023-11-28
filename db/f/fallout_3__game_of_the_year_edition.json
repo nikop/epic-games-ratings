@@ -5693,10 +5693,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 28962,
       "NumberOfAwardsMax": 14055
+    },
+    {
+      "Time": "2023-11-28T23:00:15.0473652+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 28965,
+      "NumberOfAwardsMax": 14055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28962,
+  "NumberOfAwards": 28965,
   "NumberOfAwardsMax": 14055,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5734,7 +5740,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1453
+      "Count": 1454
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5770,7 +5776,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1642
+      "Count": 1644
     }
   ],
   "EOS_Progressed": 0,
@@ -5785,8 +5791,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2023-11-28T16:00:06.9547332+00:00",
+  "LastChanged": "2023-11-28T23:00:15.047365+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:53.278002+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:00:02.6462033+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:04:44.0348126+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:00:15.0473656+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:04:55.491493+00:00"
 }

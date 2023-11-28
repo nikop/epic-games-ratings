@@ -15,9 +15,9 @@
 | Clear the Road | 39.00% | ~16 |
 | Paw patrol member | 37.00% | ~15 |
 | Robot Out of Control | 37.00% | ~15 |
-| Break Time | 32.00% | ~13 |
+| Break Time | 34.00% | ~14 |
+| Master of the Rope | 32.00% | ~13 |
 | Training Day | 32.00% | ~13 |
-| Master of the Rope | 29.00% | ~12 |
 | The Fastest | 29.00% | ~12 |
 | In the Air | 29.00% | ~12 |
 | Never Miss | 29.00% | ~12 |

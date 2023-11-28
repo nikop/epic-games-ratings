@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24715,
+  "EOS_Progressed": 24716,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1684,
+  "EOS_NewPlayers": 1683,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8168,6 +8168,11 @@
       "Time": "2023-11-28T22:08:16.3808343+00:00",
       "NumProgressed": 24715,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-11-28T23:08:36.7761369+00:00",
+      "NumProgressed": 24716,
+      "NumCompleted": 105
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -8252,7 +8257,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3954
+      "UsersEstimate": 3955
     },
     {
       "ID": "achievement_19",
@@ -8284,7 +8289,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 21502
+      "UsersEstimate": 21503
     },
     {
       "ID": "achievement_4",
@@ -8292,7 +8297,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 21749
+      "UsersEstimate": 21750
     },
     {
       "ID": "achievement_5",
@@ -8324,7 +8329,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 10627
+      "UsersEstimate": 10628
     },
     {
       "ID": "achievement_9",
@@ -8339,13 +8344,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 24715,
+      "Progressed": 24716,
       "Completed": 105
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:08:16.380834+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:08:36.7761366+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:15.6228469+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:57:21.4898324+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:08:16.3809117+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:57:34.8968909+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:08:36.7761766+00:00"
 }

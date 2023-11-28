@@ -3490,7 +3490,7 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240352,
+  "EOS_Progressed": 240354,
   "EOS_Completed": 291,
   "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 1,
@@ -26495,6 +26495,11 @@
       "Time": "2023-11-28T22:09:02.5850051+00:00",
       "NumProgressed": 240352,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-11-28T23:09:22.995574+00:00",
+      "NumProgressed": 240354,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -27488,9 +27493,9 @@
       "ID": "FINISHGAMELOWCHANCESTATS",
       "SetID": "1peahb6",
       "Name": "Who Needs Luck?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "FINISHGAMENOEXPLOSIONDAMAGE",
@@ -27602,20 +27607,20 @@
       "Name": "Matching",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240352,
+      "Progressed": 240354,
       "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1832,
+      "Progressed": 1834,
       "Completed": 391
     }
   ],
@@ -27623,8 +27628,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-27T18:00:48.4052938+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:09:02.5850049+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:09:22.9955738+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:59:54.6726029+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:09:02.5853134+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:00:06.9697533+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:09:22.9957981+00:00"
 }

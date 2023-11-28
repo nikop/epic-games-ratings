@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 749)  
+Rating: 4.40 (Ranked 737)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,747 |
-| IT MAKES BOOM! | 7.00% | ~22,112 |
-| EXTRA BOOST | 5.00% | ~15,794 |
-| PROTECTED | 4.00% | ~12,635 |
-| PRO | 4.00% | ~12,635 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,476 |
-| AGGRESSIVE RACER | 3.00% | ~9,476 |
-| A TIGER'S FEAR | 2.00% | ~6,318 |
+| ROOKIE | 11.00% | ~34,754 |
+| IT MAKES BOOM! | 7.00% | ~22,116 |
+| EXTRA BOOST | 5.00% | ~15,797 |
+| PROTECTED | 4.00% | ~12,638 |
+| PRO | 4.00% | ~12,638 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,478 |
+| AGGRESSIVE RACER | 3.00% | ~9,478 |
+| A TIGER'S FEAR | 2.00% | ~6,319 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,159 |
 | ACE SPEEDSTER | 1.00% | ~3,159 |
-| RELEASE THE KRAKEN | 0.90% | ~2,843 |
-| BE OUR GUEST | 0.90% | ~2,843 |
-| MASTER | 0.90% | ~2,843 |
-| LEGENDARY HERO | 0.90% | ~2,843 |
-| TRAINING HARD | 0.80% | ~2,527 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,527 |
-| FRIENDLY | 0.80% | ~2,527 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,211 |
-| EXPERIENCED CREW | 0.60% | ~1,895 |
-| ACE DEFENDER | 0.50% | ~1,579 |
+| RELEASE THE KRAKEN | 0.90% | ~2,844 |
+| BE OUR GUEST | 0.90% | ~2,844 |
+| MASTER | 0.90% | ~2,844 |
+| LEGENDARY HERO | 0.90% | ~2,844 |
+| TRAINING HARD | 0.80% | ~2,528 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,528 |
+| FRIENDLY | 0.80% | ~2,528 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,212 |
+| EXPERIENCED CREW | 0.60% | ~1,896 |
+| ACE DEFENDER | 0.50% | ~1,580 |
 | ACE BRAWLER | 0.40% | ~1,264 |
 | ACE TRICKSTER | 0.40% | ~1,264 |
 | FRAMED! | 0.30% | ~948 |
 | PERFECTLY POISED | 0.20% | ~632 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315,879 (Ranked 52)  
+Progressed: 315,946 (Ranked 52)  
 Completed: 344 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 344 (0.11%) (Ranked 281)
 | 2023-11-25 | 312,443 | 330 |
 | 2023-11-26 | 314,023 | 333 |
 | 2023-11-27 | 315,001 | 338 |
-| 2023-11-28 | 315,879 | 344 |
+| 2023-11-28 | 315,946 | 344 |
 ## Awards
 Max (Great for Beginners): 93  (Ranked 375)  
-Sum: 673 (Ranked 302)  
+Sum: 675 (Ranked 302)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
@@ -259,7 +259,7 @@ Diff (max vs sum): 73
 | This game is Great for Quick Sessions | 82 |
 | This game has Diverse Characters | 78 |
 | This game has Amazing Characters | 56 |
-| This game is Highly Recommended | 50 |
+| This game is Highly Recommended | 52 |
 | This game has Playful Visuals | 50 |
 | This game has a Competitive Community | 49 |
 | This game has Competitive Players | 47 |
@@ -328,4 +328,4 @@ Diff (max vs sum): 73
 | 2023-11-25 | 4.39 | 83 | 640 |
 | 2023-11-26 | 4.39 | 87 | 658 |
 | 2023-11-27 | 4.39 | 89 | 665 |
-| 2023-11-28 | 4.39 | 93 | 673 |
+| 2023-11-28 | 4.40 | 93 | 675 |

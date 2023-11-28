@@ -8,19 +8,19 @@ Rating: 4.76 (Ranked 125)
 | The Sort Who Makes an Entrance | 16.00% | ~48,562 |
 | First Class Student | 15.00% | ~45,527 |
 | Troll with the Punches | 14.00% | ~42,492 |
-| A Keen Sense of Spell | 13.00% | ~39,456 |
-| That's a Keeper | 13.00% | ~39,456 |
-| The Defender of Dragons | 12.00% | ~36,421 |
-| Loom for Improvement | 12.00% | ~36,421 |
-| A Talent for Spending | 12.00% | ~36,421 |
-| Grappling with a Graphorn | 11.00% | ~33,386 |
-| The One Who Mastered Memories | 11.00% | ~33,386 |
-| The Hallowed Hero | 11.00% | ~33,386 |
-| The Hero of Hogwarts | 11.00% | ~33,386 |
-| Challenge Accepted | 11.00% | ~33,386 |
-| Coasting Along | 11.00% | ~33,386 |
-| Followed the Butterflies | 10.00% | ~30,351 |
-| Rising From the Ashes | 10.00% | ~30,351 |
+| A Keen Sense of Spell | 13.00% | ~39,457 |
+| That's a Keeper | 13.00% | ~39,457 |
+| The Defender of Dragons | 12.00% | ~36,422 |
+| Loom for Improvement | 12.00% | ~36,422 |
+| A Talent for Spending | 12.00% | ~36,422 |
+| Grappling with a Graphorn | 11.00% | ~33,387 |
+| The One Who Mastered Memories | 11.00% | ~33,387 |
+| The Hallowed Hero | 11.00% | ~33,387 |
+| The Hero of Hogwarts | 11.00% | ~33,387 |
+| Challenge Accepted | 11.00% | ~33,387 |
+| Coasting Along | 11.00% | ~33,387 |
+| Followed the Butterflies | 10.00% | ~30,352 |
+| Rising From the Ashes | 10.00% | ~30,352 |
 | A Sallow Grave | 9.00% | ~27,316 |
 | The Spell Master | 9.00% | ~27,316 |
 | The Avenging Gazelle | 8.00% | ~24,281 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 125)
 | The Toast of the Town | 5.00% | ~15,176 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,176 |
 | The Ends Petrify the Means | 5.00% | ~15,176 |
-| Going Through the Potions | 4.00% | ~12,140 |
-| Room with a View | 4.00% | ~12,140 |
-| The Intrepid Explorer | 4.00% | ~12,140 |
-| The Wise Owl | 4.00% | ~12,140 |
+| Going Through the Potions | 4.00% | ~12,141 |
+| Room with a View | 4.00% | ~12,141 |
+| The Intrepid Explorer | 4.00% | ~12,141 |
+| The Wise Owl | 4.00% | ~12,141 |
 | Put Down Roots | 3.00% | ~9,105 |
 | The Auror's Apprentice | 3.00% | ~9,105 |
 | Floo Around the World | 3.00% | ~9,105 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,125 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,511 (Ranked 54)  
+Progressed: 303,515 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,21 +273,21 @@ Completed: 519 (0.17%) (Ranked 267)
 | 2023-11-25 | 303,175 | 514 |
 | 2023-11-26 | 303,320 | 515 |
 | 2023-11-27 | 303,418 | 518 |
-| 2023-11-28 | 303,511 | 519 |
+| 2023-11-28 | 303,515 | 519 |
 ## Awards
 Max (Character Customization): 24,728  (Ranked 17)  
-Sum: 49,371 (Ranked 30)  
+Sum: 49,391 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,728 |
-| This game has Great Boss Battles | 12,617 |
+| This game has Great Boss Battles | 12,630 |
 | This game is Great for Beginners | 1,357 |
 | This game has Amazing Storytelling | 1,309 |
 | This game has Diverse Characters | 1,307 |
+| This game is Relaxing | 1,277 |
 | This game is Extremely Fun | 1,276 |
-| This game is Relaxing | 1,273 |
-| This game has Amazing Characters | 1,234 |
+| This game has Amazing Characters | 1,237 |
 | This game is Highly Recommended | 1,211 |
 | This game has Quickly Understood Controls | 1,177 |
 | This game has Beautiful Visuals | 1,061 |
@@ -544,4 +544,4 @@ Diff (max vs sum): -13
 | 2023-11-25 | 4.76 | 24,634 | 49,151 |
 | 2023-11-26 | 4.76 | 24,684 | 49,249 |
 | 2023-11-27 | 4.76 | 24,711 | 49,337 |
-| 2023-11-28 | 4.76 | 24,728 | 49,371 |
+| 2023-11-28 | 4.76 | 24,728 | 49,391 |

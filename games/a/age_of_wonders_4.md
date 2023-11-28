@@ -20,6 +20,7 @@ Rating: 4.61 (Ranked 384)
 | Seat of Power | 2.00% | ~111 |
 | In a Liege of Your Own | 2.00% | ~111 |
 | Freed Lands of Manuhari | 2.00% | ~111 |
+| Chaos Surge | 2.00% | ~111 |
 | Return of the Wizard King | 1.00% | ~55 |
 | Enchanted Archipelago | 1.00% | ~55 |
 | Digging for Treasure | 1.00% | ~55 |
@@ -31,7 +32,6 @@ Rating: 4.61 (Ranked 384)
 | Tipping the Scales | 1.00% | ~55 |
 | Mighty Hoard | 1.00% | ~55 |
 | Sehiran Oasis | 1.00% | ~55 |
-| Chaos Surge | 1.00% | ~55 |
 | Seal the Deal | 1.00% | ~55 |
 | Spoils of War | 1.00% | ~55 |
 | Dawn of the Dread | 0.90% | ~50 |

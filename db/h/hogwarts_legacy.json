@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11113,10 +11113,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49371,
       "NumberOfAwardsMax": 24728
+    },
+    {
+      "Time": "2023-11-28T23:02:28.762392+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49391,
+      "NumberOfAwardsMax": 24728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49371,
+  "NumberOfAwards": 49391,
   "NumberOfAwardsMax": 24728,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11130,7 +11136,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12617
+      "Count": 12630
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -11142,7 +11148,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1234
+      "Count": 1237
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11166,7 +11172,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1273
+      "Count": 1277
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11193,9 +11199,9 @@
       "Count": 821
     }
   ],
-  "EOS_Progressed": 303511,
+  "EOS_Progressed": 303515,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 955,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35148,6 +35154,11 @@
       "Time": "2023-11-28T22:08:57.6255939+00:00",
       "NumProgressed": 303511,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-28T23:09:18.0120891+00:00",
+      "NumProgressed": 303515,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35167,7 +35178,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33386
+      "UsersEstimate": 33387
     },
     {
       "ID": "PFA_11",
@@ -35175,7 +35186,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33386
+      "UsersEstimate": 33387
     },
     {
       "ID": "PFA_12",
@@ -35183,7 +35194,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33386
+      "UsersEstimate": 33387
     },
     {
       "ID": "PFA_13",
@@ -35191,7 +35202,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33386
+      "UsersEstimate": 33387
     },
     {
       "ID": "PFA_14",
@@ -35215,7 +35226,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36421
+      "UsersEstimate": 36422
     },
     {
       "ID": "PFA_17",
@@ -35263,7 +35274,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33386
+      "UsersEstimate": 33387
     },
     {
       "ID": "PFA_22",
@@ -35279,7 +35290,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39456
+      "UsersEstimate": 39457
     },
     {
       "ID": "PFA_24",
@@ -35287,7 +35298,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36421
+      "UsersEstimate": 36422
     },
     {
       "ID": "PFA_25",
@@ -35311,7 +35322,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12140
+      "UsersEstimate": 12141
     },
     {
       "ID": "PFA_28",
@@ -35343,7 +35354,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36421
+      "UsersEstimate": 36422
     },
     {
       "ID": "PFA_31",
@@ -35359,7 +35370,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12140
+      "UsersEstimate": 12141
     },
     {
       "ID": "PFA_33",
@@ -35383,7 +35394,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30351
+      "UsersEstimate": 30352
     },
     {
       "ID": "PFA_36",
@@ -35407,7 +35418,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12140
+      "UsersEstimate": 12141
     },
     {
       "ID": "PFA_39",
@@ -35415,7 +35426,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33386
+      "UsersEstimate": 33387
     },
     {
       "ID": "PFA_4",
@@ -35479,7 +35490,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12140
+      "UsersEstimate": 12141
     },
     {
       "ID": "PFA_6",
@@ -35503,7 +35514,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39456
+      "UsersEstimate": 39457
     },
     {
       "ID": "PFA_9",
@@ -35511,23 +35522,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30351
+      "UsersEstimate": 30352
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303511,
+      "Progressed": 303515,
       "Completed": 519
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-28T22:02:18.0543447+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:08:57.6255937+00:00",
+  "LastChanged": "2023-11-28T23:02:28.7623918+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:09:18.0120888+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:02:18.0543453+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:08:57.6257348+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:02:28.7623925+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:09:18.0121998+00:00"
 }

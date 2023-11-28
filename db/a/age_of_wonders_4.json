@@ -8059,9 +8059,9 @@
       "ID": "54",
       "SetID": "7132754",
       "Name": "Chaos Surge",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 111
     },
     {
       "ID": "55",
@@ -8130,8 +8130,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-28T19:59:57.0422452+00:00",
-  "LastChanged_Achievements": "2023-11-28T22:02:57.3032569+00:00",
+  "LastChanged_Achievements": "2023-11-28T23:03:08.8674165+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-28T21:58:45.1899788+00:00",
-  "LastUpdate_Achievements": "2023-11-28T22:02:57.3033433+00:00"
+  "LastUpdate_Ratings": "2023-11-28T22:58:58.7985266+00:00",
+  "LastUpdate_Achievements": "2023-11-28T23:03:08.8675046+00:00"
 }
