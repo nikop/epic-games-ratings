@@ -22,8 +22,8 @@
 | Let Me Solo Them | 5.00% | ~4 |
 | The River Styx | 5.00% | ~4 |
 | Frigid Winds | 3.00% | ~3 |
+| Smotherly Love | 2.00% | ~2 |
 | Missing Melodies | 1.00% | ~1 |
-| Smotherly Love | 1.00% | ~1 |
 | Transformative Nature | 1.00% | ~1 |
 | Champion of Starspire | 1.00% | ~1 |
 | No Salvation | 0.00% | ~0 |

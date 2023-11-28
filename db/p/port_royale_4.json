@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1056,
+  "EOS_Progressed": 1057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2841,6 +2841,11 @@
       "Time": "2023-11-27T20:06:00.6051497+00:00",
       "NumProgressed": 1056,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T12:07:40.5530987+00:00",
+      "NumProgressed": 1057,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2852,7 +2857,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ACH001",
@@ -2874,9 +2879,9 @@
       "ID": "ACH003",
       "SetID": "69nfp41",
       "Name": "Buccaneer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH004",
@@ -2940,7 +2945,7 @@
       "Name": "Intangible",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH012",
@@ -2948,15 +2953,15 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH014",
@@ -3050,9 +3055,9 @@
       "ID": "ACH025",
       "SetID": "69nfp41",
       "Name": "My precious!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH026",
@@ -3092,7 +3097,7 @@
       "Name": "Walk the plank",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH031",
@@ -3140,7 +3145,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH037",
@@ -3148,7 +3153,7 @@
       "Name": "Paths of Glory",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH038",
@@ -3164,7 +3169,7 @@
       "Name": "Panel of experts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH040",
@@ -3202,9 +3207,9 @@
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH045",
@@ -3236,7 +3241,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH049",
@@ -3244,22 +3249,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1056,
+      "Progressed": 1057,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:05:59.3372054+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:07:40.5530982+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.5697484+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:57:22.6145751+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:05:59.3372751+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:57:34.1677586+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:07:40.5531407+00:00"
 }

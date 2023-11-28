@@ -4813,10 +4813,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6071,
       "NumberOfAwardsMax": 2480
+    },
+    {
+      "Time": "2023-11-28T12:03:26.009662+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6073,
+      "NumberOfAwardsMax": 2480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6071,
+  "NumberOfAwards": 6073,
   "NumberOfAwardsMax": 2480,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4854,7 +4860,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 357
+      "Count": 359
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4887,9 +4893,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 229822,
+  "EOS_Progressed": 229854,
   "EOS_Completed": 539,
-  "EOS_NewPlayers": 4933,
+  "EOS_NewPlayers": 4931,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20342,6 +20348,11 @@
       "Time": "2023-11-28T11:08:39.9769653+00:00",
       "NumProgressed": 229822,
       "NumCompleted": 539
+    },
+    {
+      "Time": "2023-11-28T12:09:08.3870247+00:00",
+      "NumProgressed": 229854,
+      "NumCompleted": 539
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20352,9 +20363,9 @@
       "ID": "Craft_Weapon_Mod_A",
       "SetID": "bkp3b1a",
       "Name": "Expanding Horizons",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 919
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -20402,7 +20413,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -20458,7 +20469,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -20474,7 +20485,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -20498,7 +20509,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "Meet_Flautist",
@@ -20506,7 +20517,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "Meet_Meidra",
@@ -20586,7 +20597,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "Obtain_Guns_A",
@@ -20730,7 +20741,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -20793,22 +20804,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229822,
+      "Progressed": 229854,
       "Completed": 539
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8987,
+      "Progressed": 9019,
       "Completed": 165
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-28T11:03:07.0998352+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:08:39.9769647+00:00",
+  "LastChanged": "2023-11-28T12:03:26.0096618+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:09:08.3870243+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:03:07.0998357+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:08:39.9770879+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:03:26.0096624+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:09:08.3871287+00:00"
 }

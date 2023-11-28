@@ -222,11 +222,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22469,
-  "EOS_Completed": 111,
-  "EOS_NewPlayers": 1451,
-  "EOS_NewCompleters": 27,
-  "EOS_Completed_Percentage": 0.49,
+  "EOS_Progressed": 22480,
+  "EOS_Completed": 112,
+  "EOS_NewPlayers": 1457,
+  "EOS_NewCompleters": 28,
+  "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -4877,6 +4877,11 @@
       "Time": "2023-11-28T11:09:16.0233138+00:00",
       "NumProgressed": 22469,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-11-28T12:10:00.502713+00:00",
+      "NumProgressed": 22480,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 24,
@@ -4888,7 +4893,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH_CollectAll",
@@ -4904,7 +4909,7 @@
       "Name": "Squished",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -4912,7 +4917,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -4920,7 +4925,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3822
     },
     {
       "ID": "ACH_Finale",
@@ -4928,7 +4933,7 @@
       "Name": "Finale",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -4936,7 +4941,7 @@
       "Name": "Bronze Trophy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_S8AllCubes",
@@ -4976,7 +4981,7 @@
       "Name": "The Puzzle Master",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -4992,7 +4997,7 @@
       "Name": "Completed It.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_S8MasterRoom",
@@ -5016,7 +5021,7 @@
       "Name": "Sector 1",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5170
     },
     {
       "ID": "ACH_Sector2",
@@ -5024,7 +5029,7 @@
       "Name": "Sector 2",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4494
+      "UsersEstimate": 4496
     },
     {
       "ID": "ACH_Sector3",
@@ -5032,7 +5037,7 @@
       "Name": "Sector 3",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3822
     },
     {
       "ID": "ACH_Sector4",
@@ -5040,7 +5045,7 @@
       "Name": "Sector 4",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "ACH_Sector5",
@@ -5048,7 +5053,7 @@
       "Name": "Sector 5",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "ACH_Sector6",
@@ -5064,7 +5069,7 @@
       "Name": "Sector 7",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH_TurnBallBlack",
@@ -5072,23 +5077,23 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 22469,
-      "Completed": 111
+      "Progressed": 22480,
+      "Completed": 112
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-24T17:57:13.410468+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:09:16.0233131+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:10:00.5027126+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.0801256+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:59:19.4158334+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:09:16.0233587+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:00:33.7141016+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:10:00.502749+00:00"
 }

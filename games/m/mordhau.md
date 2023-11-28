@@ -5,17 +5,17 @@ Rating: 4.38 (Ranked 763)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~766,160 |
-| The ABCs | 43.00% | ~672,345 |
-| Home Run | 41.00% | ~641,073 |
-| Keeps Coming Off | 41.00% | ~641,073 |
-| Guts | 20.00% | ~312,718 |
-| Meat Grinder | 19.00% | ~297,082 |
-| Burning Man | 16.00% | ~250,175 |
-| Lived to Tell the Tale | 12.00% | ~187,631 |
-| Highlander | 10.00% | ~156,359 |
-| Unstoppable | 10.00% | ~156,359 |
-| Just a Scratch | 9.00% | ~140,723 |
+| Justice from the Grave | 49.00% | ~766,166 |
+| The ABCs | 43.00% | ~672,350 |
+| Home Run | 41.00% | ~641,078 |
+| Keeps Coming Off | 41.00% | ~641,078 |
+| Guts | 20.00% | ~312,721 |
+| Meat Grinder | 19.00% | ~297,085 |
+| Burning Man | 16.00% | ~250,177 |
+| Lived to Tell the Tale | 12.00% | ~187,633 |
+| Highlander | 10.00% | ~156,360 |
+| Unstoppable | 10.00% | ~156,360 |
+| Just a Scratch | 9.00% | ~140,724 |
 | Tough Nut to Crack | 6.00% | ~93,816 |
 | Yoink | 6.00% | ~93,816 |
 | Long List of Names | 4.00% | ~62,544 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 763)
 | That’s No Ordinary Cold | 0.10% | ~1,564 |
 | Stairway to Hell | 0.10% | ~1,564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,563,592 (Ranked 7)  
+Progressed: 1,563,605 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,17 +266,17 @@ Completed: 68 (0.00%) (Ranked 363)
 | 2023-11-25 | 1,562,510 | 68 |
 | 2023-11-26 | 1,563,103 | 68 |
 | 2023-11-27 | 1,563,482 | 68 |
-| 2023-11-28 | 1,563,592 | 68 |
+| 2023-11-28 | 1,563,605 | 68 |
 ## Awards
 Max (Diverse Characters): 984  (Ranked 154)  
-Sum: 5,120 (Ranked 139)  
+Sum: 5,123 (Ranked 139)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 984 |
 | This game has Challenging Combat | 837 |
 | This game is Highly Recommended | 803 |
-| This game has Amazing Characters | 664 |
+| This game has Amazing Characters | 667 |
 | This game is Extremely Fun | 657 |
 | This game has Competitive Players | 620 |
 | This game has Amazing Storytelling | 555 |
@@ -512,3 +512,4 @@ Diff (max vs sum): 15
 | 2023-11-25 | 4.38 | 972 | 5,062 |
 | 2023-11-26 | 4.38 | 979 | 5,100 |
 | 2023-11-27 | 4.38 | 984 | 5,120 |
+| 2023-11-28 | 4.38 | 984 | 5,123 |

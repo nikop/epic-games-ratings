@@ -10,8 +10,8 @@ Rating: 4.54 (Ranked 528)
 | Coup de Grâce | 2.00% | ~14,540 |
 | Hotel California | 2.00% | ~14,540 |
 | Welcome To Hell-A | 2.00% | ~14,540 |
-| One of Us | 2.00% | ~1,050 |
-| Pork Chopped | 2.00% | ~1,050 |
+| One of Us | 2.00% | ~1,051 |
+| Pork Chopped | 2.00% | ~1,051 |
 | Dr. Reed, I Presume? | 1.00% | ~7,270 |
 | Git Gutte! | 1.00% | ~7,270 |
 | Anger Management | 1.00% | ~7,270 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,982 (Ranked 21)  
+Progressed: 727,001 (Ranked 21)  
 Completed: 2,445 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2,445 (0.34%) (Ranked 231)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 726,982 | 2,445 |
+| 2023-11-28 | 727,001 | 2,445 |
 ## Awards
 Max (Great Boss Battles): 7,784  (Ranked 49)  
 Sum: 11,910 (Ranked 84)  

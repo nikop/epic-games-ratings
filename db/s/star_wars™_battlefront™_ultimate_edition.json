@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1454,
+  "EOS_Progressed": 1455,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4314,6 +4314,11 @@
       "Time": "2023-11-28T06:10:34.3682574+00:00",
       "NumProgressed": 1454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T12:10:16.5630319+00:00",
+      "NumProgressed": 1455,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4388,9 +4393,9 @@
       "ID": "achievement_17",
       "SetID": "271ol84",
       "Name": "\u0022Gonk? Gonk!\u0022",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_18",
@@ -4550,7 +4555,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "achievement_36",
@@ -4566,7 +4571,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "achievement_38",
@@ -4598,7 +4603,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "achievement_41",
@@ -4829,13 +4834,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1454,
+      "Progressed": 1455,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1454,
+      "Progressed": 1455,
       "Completed": 1
     }
   ],
@@ -4843,8 +4848,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:09:27.5561159+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:10:16.5630316+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:00:21.5183607+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:09:27.5561745+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:02:11.9547098+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:10:16.563095+00:00"
 }

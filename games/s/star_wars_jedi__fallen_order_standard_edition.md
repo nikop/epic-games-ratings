@@ -5,17 +5,17 @@ Rating: 4.66 (Ranked 294)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~20,604 |
-| A Long Time Ago | 93.00% | ~19,162 |
-| Sabersmith | 80.00% | ~16,483 |
-| The Obstacle is the Way | 78.00% | ~16,071 |
-| Back At You | 73.00% | ~15,041 |
+| The Mantis | 100.00% | ~20,605 |
+| A Long Time Ago | 93.00% | ~19,163 |
+| Sabersmith | 80.00% | ~16,484 |
+| The Obstacle is the Way | 78.00% | ~16,072 |
+| Back At You | 73.00% | ~15,042 |
 | Happy Go Wookiee | 70.00% | ~14,423 |
-| Everything is Connected | 60.00% | ~12,362 |
-| Her Name Was Masana Tide | 55.00% | ~11,332 |
-| Bank Shot | 54.00% | ~11,126 |
-| Perfect Timing | 53.00% | ~10,920 |
-| Gorgara Falls | 51.00% | ~10,508 |
+| Everything is Connected | 60.00% | ~12,363 |
+| Her Name Was Masana Tide | 55.00% | ~11,333 |
+| Bank Shot | 54.00% | ~11,127 |
+| Perfect Timing | 53.00% | ~10,921 |
+| Gorgara Falls | 51.00% | ~10,509 |
 | The Full Glow-Up | 50.00% | ~10,302 |
 | For A More Civilized Age | 49.00% | ~10,096 |
 | I Knew He Was No Good | 47.00% | ~9,684 |
@@ -25,13 +25,13 @@ Rating: 4.66 (Ranked 294)
 | Scum and Villainy | 43.00% | ~8,860 |
 | Don't Mess with BD-1 | 42.00% | ~8,654 |
 | Blade Master | 39.00% | ~8,036 |
-| Full House | 36.00% | ~7,417 |
+| Full House | 36.00% | ~7,418 |
 | Legendary Beasts | 22.00% | ~4,533 |
 | Echo Location | 20.00% | ~4,121 |
 | Visiting Alderaan Places | 18.00% | ~3,709 |
 | Triple Take | 14.00% | ~2,885 |
 | Cal Got Your Tongue? | 14.00% | ~2,885 |
-| Big Bang | 12.00% | ~2,472 |
+| Big Bang | 12.00% | ~2,473 |
 | Feel the Force | 10.00% | ~2,060 |
 | Can't Touch This | 9.00% | ~1,854 |
 | Medical Droid | 8.00% | ~1,648 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 294)
 | Kicking Back | 2.00% | ~412 |
 | Not So Fast | 1.00% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,604 (Ranked 143)  
+Progressed: 20,605 (Ranked 143)  
 Completed: 209 (1.01%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 209 (1.01%) (Ranked 167)
 | 2023-11-25 | 20,131 | 200 |
 | 2023-11-26 | 20,371 | 205 |
 | 2023-11-27 | 20,543 | 209 |
-| 2023-11-28 | 20,604 | 209 |
+| 2023-11-28 | 20,605 | 209 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

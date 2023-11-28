@@ -2,7 +2,7 @@
   "ID": "d00a1f7b44a14dddab853280118f8580",
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 16,
@@ -1384,17 +1384,17 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 285
+      "UsersEstimate": 289
     },
     {
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 200,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_complete_tutorial",
@@ -1432,17 +1432,17 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 60,
-      "UsersEstimate": 264
+      "UsersEstimate": 268
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 243
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_skip_1",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:08:25.0509918+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:08:46.7720324+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:59:40.1721845+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:08:25.0510085+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:01:06.9322891+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:08:46.7720486+00:00"
 }

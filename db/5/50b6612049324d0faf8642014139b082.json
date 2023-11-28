@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1404,6 +1404,11 @@
       "Time": "2023-11-28T04:09:20.1314203+00:00",
       "NumProgressed": 629,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T12:10:06.3272301+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1440,7 +1445,7 @@
       "Name": "Snow Specialist",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_13",
@@ -1504,7 +1509,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "achievement_20",
@@ -1542,9 +1547,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_25",
@@ -1560,7 +1565,7 @@
       "Name": "Driver\u0027s Alliance",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_3",
@@ -1600,7 +1605,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_8",
@@ -1623,7 +1628,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 0
     }
   ],
@@ -1631,8 +1636,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-27T19:59:21.6086932+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:09:19.990978+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:10:06.3272296+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:59:25.4336335+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:09:19.9909991+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:00:43.2777898+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:10:06.3272525+00:00"
 }

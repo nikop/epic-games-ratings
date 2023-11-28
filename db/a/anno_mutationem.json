@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -817,6 +817,11 @@
       "Time": "2023-11-28T02:29:24.2972881+00:00",
       "NumProgressed": 742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T12:07:16.71759+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -836,7 +841,7 @@
       "Name": "Annakin Skyscroller",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Arm_Wrestling",
@@ -892,7 +897,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -996,7 +1001,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1044,7 +1049,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1092,7 +1097,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "posters",
@@ -1115,7 +1120,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 0
     }
   ],
@@ -1123,8 +1128,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:05:43.1287514+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:07:16.7175895+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:00:25.8799834+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:05:43.1287868+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:02:38.5882752+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:07:16.717612+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1937,9 +1937,9 @@
       "ID": "ACHIEVEMENT_QUESTS3",
       "SetID": "9eacipp",
       "Name": "Completionist III",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_REBUILTIT",
@@ -2441,8 +2441,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-16T20:57:28.2396436+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:09:28.5007274+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:10:17.6822315+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:46.3467623+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:59:57.8829392+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:09:28.5008167+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:01:34.5120763+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:10:17.6823527+00:00"
 }

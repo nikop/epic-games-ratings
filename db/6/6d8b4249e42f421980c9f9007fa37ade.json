@@ -674,9 +674,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -762,9 +762,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Epic_Revenge_1",
@@ -826,9 +826,9 @@
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Epic_Swamp_1",
@@ -889,8 +889,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:04:57.0861377+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:06:09.7736622+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.1827945+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:57:22.8473677+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:04:57.0861766+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:57:34.5872919+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:06:09.7737011+00:00"
 }

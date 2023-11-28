@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 25.00% | ~1,288 |
+| Faceroll the Bones | 26.00% | ~1,340 |
 | Hit 'Em Where It Hurts | 24.00% | ~1,236 |
 | Perk Shard Punch Card | 24.00% | ~1,236 |
 | That'll Leave a Mark | 24.00% | ~1,236 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~21 |
 | Deadalus and Loving It | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,151 (Ranked 191)  
+Progressed: 5,152 (Ranked 191)  
 Completed: 4 (0.08%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,17 +166,17 @@ Completed: 4 (0.08%) (Ranked 298)
 | 2023-11-25 | 5,087 | 4 |
 | 2023-11-26 | 5,119 | 4 |
 | 2023-11-27 | 5,145 | 4 |
-| 2023-11-28 | 5,151 | 4 |
+| 2023-11-28 | 5,152 | 4 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 476)  
-Sum: 286 (Ranked 371)  
-Diff (max vs sum): 105  
+Sum: 287 (Ranked 370)  
+Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Characters | 31 |
-| This game has Quickly Understood Controls | 30 |
+| This game has Quickly Understood Controls | 31 |
 | This game has Diverse Characters | 29 |
 | This game has Unique Visuals | 28 |
 | This game has Challenging Combat | 28 |
@@ -284,3 +284,4 @@ Diff (max vs sum): 105
 | 2023-11-16 | 4.48 | - | 35 | 286 |
 | 2023-11-26 | 4.49 | - | 35 | 286 |
 | 2023-11-27 | 4.48 | - | 35 | 286 |
+| 2023-11-28 | 4.48 | - | 35 | 287 |

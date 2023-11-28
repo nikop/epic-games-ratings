@@ -1,7 +1,7 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 649)  
+Rating: 4.46 (Ranked 648)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,7 +15,7 @@ Rating: 4.46 (Ranked 649)
 | Can You Dig It? | 17.00% | ~42,782 |
 | You Juan-A-Go? | 16.00% | ~40,266 |
 | Chan-tastic | 15.00% | ~37,749 |
-| Muddy Waters | 14.00% | ~35,232 |
+| Muddy Waters | 14.00% | ~35,233 |
 | Toasty! | 13.00% | ~32,716 |
 | Lazy Laser | 8.00% | ~20,133 |
 | Just A Phaze | 7.00% | ~17,616 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 649)
 | Talent Scout | 0.10% | ~252 |
 | True Completionist | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,660 (Ranked 61)  
+Progressed: 251,661 (Ranked 61)  
 Completed: 6 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 6 (0.00%) (Ranked 363)
 | 2023-11-25 | 251,600 | 6 |
 | 2023-11-26 | 251,635 | 6 |
 | 2023-11-27 | 251,654 | 6 |
-| 2023-11-28 | 251,660 | 6 |
+| 2023-11-28 | 251,661 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

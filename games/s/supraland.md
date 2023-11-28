@@ -6,11 +6,11 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~726,954 |
-| The Blues | 85.00% | ~624,152 |
-| Fast | 66.00% | ~484,636 |
-| Healthbar | 55.00% | ~403,863 |
-| Force Cube | 53.00% | ~389,177 |
+| Out of bed | 99.00% | ~726,955 |
+| The Blues | 85.00% | ~624,153 |
+| Fast | 66.00% | ~484,637 |
+| Healthbar | 55.00% | ~403,864 |
+| Force Cube | 53.00% | ~389,178 |
 | Double Jump | 48.00% | ~352,463 |
 | Regeneration | 47.00% | ~345,120 |
 | Triple Jump | 43.00% | ~315,748 |
@@ -22,13 +22,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | True holy spirit | 28.00% | ~205,603 |
 | That's how electronics work obviously | 27.00% | ~198,260 |
 | Force Cube Catapult | 25.00% | ~183,574 |
-| Holy Sword | 23.00% | ~168,888 |
-| Telefrag | 23.00% | ~168,888 |
-| Freed from prison | 21.00% | ~154,202 |
-| Stomp | 21.00% | ~154,202 |
-| Double Health | 19.00% | ~139,516 |
-| Green Keycard | 18.00% | ~132,173 |
-| Buckle | 17.00% | ~124,830 |
+| Holy Sword | 23.00% | ~168,889 |
+| Telefrag | 23.00% | ~168,889 |
+| Freed from prison | 21.00% | ~154,203 |
+| Stomp | 21.00% | ~154,203 |
+| Double Health | 19.00% | ~139,517 |
+| Green Keycard | 18.00% | ~132,174 |
+| Buckle | 17.00% | ~124,831 |
 | Rattle Hag | 16.00% | ~117,488 |
 | All Shells | 15.00% | ~110,145 |
 | Beam | 14.00% | ~102,802 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~734 |
 | DLC: Top of the world | 0.10% | ~734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,297 (Ranked 20)  
+Progressed: 734,298 (Ranked 20)  
 Completed: 764 (0.10%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 764 (0.10%) (Ranked 288)
 | 2023-11-25 | 734,051 | 764 |
 | 2023-11-26 | 734,194 | 764 |
 | 2023-11-27 | 734,275 | 764 |
-| 2023-11-28 | 734,297 | 764 |
+| 2023-11-28 | 734,298 | 764 |
 ## Awards
 Max (Challenging Puzzles): 7,734  (Ranked 50)  
 Sum: 10,092 (Ranked 91)  

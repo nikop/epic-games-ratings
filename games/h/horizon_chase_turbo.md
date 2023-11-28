@@ -6,27 +6,27 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~971,932 |
-| I Need a Bigger Garage | 63.00% | ~680,352 |
-| Pump my Ride | 47.00% | ~507,564 |
-| Ghostbuster | 34.00% | ~367,174 |
-| Call Roadside Assistance | 18.00% | ~194,386 |
-| That Was Close | 18.00% | ~194,386 |
-| Quickie | 11.00% | ~118,792 |
-| California Dreamer | 7.00% | ~75,595 |
-| Can't Touch This | 5.00% | ~53,996 |
+| The First of Many | 90.00% | ~971,943 |
+| I Need a Bigger Garage | 63.00% | ~680,360 |
+| Pump my Ride | 47.00% | ~507,570 |
+| Ghostbuster | 34.00% | ~367,179 |
+| Call Roadside Assistance | 18.00% | ~194,389 |
+| That Was Close | 18.00% | ~194,389 |
+| Quickie | 11.00% | ~118,793 |
+| California Dreamer | 7.00% | ~75,596 |
+| Can't Touch This | 5.00% | ~53,997 |
 | Carménère Taster | 4.00% | ~43,197 |
 | Comeback | 4.00% | ~43,197 |
 | Driver from Ipanema | 3.00% | ~32,398 |
 | Supersonic | 3.00% | ~32,398 |
 | Marathonist | 3.00% | ~32,398 |
 | Living Legend | 3.00% | ~32,398 |
-| God of Roads | 2.00% | ~21,598 |
-| Pathfinder | 2.00% | ~21,598 |
-| Go-Kart Champion | 2.00% | ~21,598 |
-| Round the Globe | 2.00% | ~21,598 |
-| Completionist | 2.00% | ~21,598 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,598 |
+| God of Roads | 2.00% | ~21,599 |
+| Pathfinder | 2.00% | ~21,599 |
+| Go-Kart Champion | 2.00% | ~21,599 |
+| Round the Globe | 2.00% | ~21,599 |
+| Completionist | 2.00% | ~21,599 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,599 |
 | Crocodile Hunter | 1.00% | ~10,799 |
 | The Iceman | 1.00% | ~10,799 |
 | Bollywood Star | 1.00% | ~10,799 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,080 |
 | Look Mom, No Hands! | 0.10% | ~1,080 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,079,924 (Ranked 13)  
+Progressed: 1,079,937 (Ranked 13)  
 Completed: 496 (0.05%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 496 (0.05%) (Ranked 314)
 | 2023-11-25 | 1,078,962 | 495 |
 | 2023-11-26 | 1,079,468 | 496 |
 | 2023-11-27 | 1,079,781 | 496 |
-| 2023-11-28 | 1,079,924 | 496 |
+| 2023-11-28 | 1,079,937 | 496 |
 ## Awards
 Max (Great for Beginners): 169  (Ranked 308)  
-Sum: 1,545 (Ranked 234)  
+Sum: 1,546 (Ranked 234)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): 74
 | This game is Great for Quick Sessions | 142 |
 | This game is Relaxing | 139 |
 | This game is Highly Recommended | 133 |
-| This game has Playful Visuals | 126 |
+| This game has Playful Visuals | 127 |
 | This game has Competitive Players | 125 |
 | This game is Extremely Fun | 122 |
 | This game has Amazing Storytelling | 107 |
@@ -541,4 +541,4 @@ Diff (max vs sum): 74
 | 2023-11-25 | 4.54 | - | 167 | 1,537 |
 | 2023-11-26 | 4.54 | - | 169 | 1,541 |
 | 2023-11-27 | 4.54 | - | 169 | 1,542 |
-| 2023-11-28 | 4.54 | - | 169 | 1,545 |
+| 2023-11-28 | 4.54 | - | 169 | 1,546 |

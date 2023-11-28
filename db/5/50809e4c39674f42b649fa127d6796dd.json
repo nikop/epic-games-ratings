@@ -2,7 +2,7 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 137,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 351,
+  "EOS_Progressed": 354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -757,6 +757,11 @@
       "Time": "2023-11-28T10:08:06.0252034+00:00",
       "NumProgressed": 351,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T12:08:56.3134147+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -825,7 +830,7 @@
       "Name": "Combo Convert",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -833,7 +838,7 @@
       "Name": "Perfect Run",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -841,15 +846,15 @@
       "Name": "Big Encounter",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
       "SetID": "apihg0e",
       "Name": "Elder Koco Encounter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -857,7 +862,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -871,9 +876,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 283
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -881,7 +886,7 @@
       "Name": "Speed Demon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "FIRST_S_RANK",
@@ -889,7 +894,7 @@
       "Name": "Superior Ranking",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -897,7 +902,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GET_FISH_ALL",
@@ -961,13 +966,13 @@
       "Name": "The Journey Begins",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 188
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
       "SetID": "apihg0e",
       "Name": "Threats Identified",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -1055,7 +1060,7 @@
       "ID": "SUB_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ares Island Expert",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1081,21 +1086,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 351,
+      "Progressed": 354,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:08:31.6344244+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:08:56.3134145+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:00:34.8464148+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:08:31.6344749+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:02:53.5141127+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:08:56.313443+00:00"
 }

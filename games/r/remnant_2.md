@@ -9,15 +9,15 @@ Rating: 4.75 (Ranked 149)
 | First of Many | 0.60% | ~1,379 |
 | Regicide | 0.60% | ~54 |
 | Master of the Dark Arts | 0.60% | ~54 |
+| Expanding Horizons | 0.40% | ~919 |
 | Not Your Average Trait | 0.40% | ~919 |
-| Expanding Horizons | 0.30% | ~689 |
-| Gleaming the Cube | 0.30% | ~689 |
-| Not So Special Now | 0.30% | ~689 |
-| Quest for Survival | 0.30% | ~689 |
-| Not a Janitor | 0.30% | ~689 |
-| Familiar Face | 0.30% | ~689 |
-| Boss'n Up | 0.30% | ~689 |
-| Trait Chaser | 0.30% | ~689 |
+| Gleaming the Cube | 0.30% | ~690 |
+| Not So Special Now | 0.30% | ~690 |
+| Quest for Survival | 0.30% | ~690 |
+| Not a Janitor | 0.30% | ~690 |
+| Familiar Face | 0.30% | ~690 |
+| Boss'n Up | 0.30% | ~690 |
+| Trait Chaser | 0.30% | ~690 |
 | Am I Seeing This? | 0.20% | ~460 |
 | Ghost in the Machine | 0.20% | ~460 |
 | Chaos | 0.20% | ~460 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,822 (Ranked 69)  
+Progressed: 229,854 (Ranked 69)  
 Completed: 539 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,10 +196,10 @@ Completed: 539 (0.23%) (Ranked 251)
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
-| 2023-11-28 | 229,822 | 539 |
+| 2023-11-28 | 229,854 | 539 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
-Sum: 6,071 (Ranked 129)  
+Sum: 6,073 (Ranked 129)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -210,7 +210,7 @@ Diff (max vs sum): -25
 | This game is Extremely Fun | 375 |
 | This game is Relaxing | 374 |
 | This game has Amazing Storytelling | 373 |
-| This game has Quickly Understood Controls | 357 |
+| This game has Quickly Understood Controls | 359 |
 | This game has Amazing Characters | 352 |
 | This game has Unique Visuals | 305 |
 | This game has a Creative Community | 279 |
@@ -342,4 +342,4 @@ Diff (max vs sum): -25
 | 2023-11-25 | 4.75 | 2,436 | 5,922 |
 | 2023-11-26 | 4.75 | 2,455 | 5,967 |
 | 2023-11-27 | 4.75 | 2,480 | 6,045 |
-| 2023-11-28 | 4.75 | 2,480 | 6,071 |
+| 2023-11-28 | 4.75 | 2,480 | 6,073 |

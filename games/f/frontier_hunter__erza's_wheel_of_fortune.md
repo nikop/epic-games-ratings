@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~353 |
-| Training Simulation | 75.00% | ~291 |
-| Kuku Bird Hunter | 62.00% | ~241 |
-| Storm Traveller | 55.00% | ~213 |
-| Wolf King Killer | 51.00% | ~198 |
-| Fashion Connoisseur | 50.00% | ~194 |
-| Arms Mechanic | 45.00% | ~175 |
-| Flower Thief | 42.00% | ~163 |
+| Travel Streamer | 91.00% | ~355 |
+| Training Simulation | 75.00% | ~292 |
+| Kuku Bird Hunter | 62.00% | ~242 |
+| Storm Traveller | 55.00% | ~215 |
+| Fashion Connoisseur | 50.00% | ~195 |
+| Wolf King Killer | 50.00% | ~195 |
+| Arms Mechanic | 45.00% | ~176 |
+| Flower Thief | 42.00% | ~164 |
 | Apostle of Flame | 37.00% | ~144 |
 | Beginner Cook | 35.00% | ~136 |
 | Beginner Artificer | 35.00% | ~136 |
-| Seal Breaker | 31.00% | ~120 |
+| Seal Breaker | 32.00% | ~125 |
 | Handyman | 28.00% | ~109 |
 | Giant Lizard Killer | 26.00% | ~101 |
-| Guardian | 25.00% | ~97 |
-| Nosebleeder | 25.00% | ~97 |
+| Guardian | 25.00% | ~98 |
+| Nosebleeder | 25.00% | ~98 |
 | Trader | 20.00% | ~78 |
 | Weapon Boost | 20.00% | ~78 |
 | Flying Kobold Killer | 16.00% | ~62 |
 | Youth Magnet | 16.00% | ~62 |
 | Master Artificer | 16.00% | ~62 |
+| Furious Scorpion Killer | 15.00% | ~58 |
 | Lethal Blade Mantis Killer | 15.00% | ~58 |
-| Furious Scorpion Killer | 14.00% | ~54 |
-| Squeaky Clean | 14.00% | ~54 |
-| Kind Adventurer | 13.00% | ~50 |
+| Squeaky Clean | 14.00% | ~55 |
+| Kind Adventurer | 13.00% | ~51 |
 | Mermaid Killer | 12.00% | ~47 |
 | Cave Master | 12.00% | ~47 |
 | Face Slapper | 12.00% | ~47 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~4 |
 | Warden Challenge | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 330)  
+Progressed: 390 (Ranked 329)  
 Completed: 1 (0.26%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 1 (0.26%) (Ranked 247)
 | 2023-11-25 | 302 | 1 |
 | 2023-11-26 | 341 | 1 |
 | 2023-11-27 | 379 | 1 |
-| 2023-11-28 | 388 | 1 |
+| 2023-11-28 | 390 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1110,6 +1110,11 @@
       "Time": "2023-11-28T10:08:10.2910013+00:00",
       "NumProgressed": 416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T12:09:02.6349612+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1144,9 +1149,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 50
     },
     {
       "ID": "AchvBombStop",
@@ -1178,7 +1183,7 @@
       "Name": "Ubiquitous holes",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -1250,7 +1255,7 @@
       "Name": "The Necroevolution",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "AchvNest",
@@ -1274,7 +1279,7 @@
       "Name": "Got lost again",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "AchvPutAsleep",
@@ -1298,7 +1303,7 @@
       "Name": "The Camp",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "AchvReachCity",
@@ -1322,7 +1327,7 @@
       "Name": "Survivors",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1353,14 +1358,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:08:35.9579057+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:09:02.6349609+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:58:09.8966736+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:08:35.9579282+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:58:49.507001+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:09:02.6349844+00:00"
 }

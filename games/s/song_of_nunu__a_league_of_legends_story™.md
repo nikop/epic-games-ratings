@@ -11,7 +11,7 @@
 | Blue Dreams | 66.00% | ~644 |
 | He's Famous! | 66.00% | ~644 |
 | Cutie Poro | 66.00% | ~644 |
-| Krugmazing | 63.00% | ~615 |
+| Krugmazing | 64.00% | ~625 |
 | Moneyball | 61.00% | ~595 |
 | The Fire Below the Mountain | 60.00% | ~586 |
 | No Bites | 54.00% | ~527 |

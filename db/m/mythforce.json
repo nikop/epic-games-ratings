@@ -4,7 +4,7 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 631,
   "Ranking_Popularity": 476,
-  "Ranking_PopularitySum": 371,
+  "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 167,
@@ -720,10 +720,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-11-28T11:59:03.9161722+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -761,7 +767,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Unique Visuals",
@@ -788,9 +794,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5151,
+  "EOS_Progressed": 5152,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10083,6 +10089,11 @@
       "Time": "2023-11-28T06:05:46.5689749+00:00",
       "NumProgressed": 5151,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-28T12:05:32.8045702+00:00",
+      "NumProgressed": 5152,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10141,9 +10152,9 @@
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1340
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10278,15 +10289,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5151,
+      "Progressed": 5152,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-11-27T17:58:25.8309812+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:04:31.9446336+00:00",
+  "LastChanged": "2023-11-28T11:59:03.916172+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:05:32.8045696+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:58:19.1926661+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:04:31.9446868+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:59:03.9161724+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:05:32.804665+00:00"
 }

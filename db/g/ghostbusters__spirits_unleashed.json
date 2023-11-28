@@ -3549,9 +3549,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31687,
+  "EOS_Progressed": 31690,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20749,6 +20749,11 @@
       "Time": "2023-11-28T10:03:23.5528514+00:00",
       "NumProgressed": 31687,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-28T12:04:21.866764+00:00",
+      "NumProgressed": 31690,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20800,7 +20805,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "Collect_Spores",
@@ -20824,7 +20829,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "Daily_Dose",
@@ -21120,7 +21125,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "Tobins_Prodigy",
@@ -21144,7 +21149,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "Welcome_Crew",
@@ -21160,14 +21165,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31687,
+      "Progressed": 31690,
       "Completed": 69
     }
   ],
@@ -21175,8 +21180,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-27T21:57:53.4045946+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:03:43.6207731+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:04:21.8667635+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:58:05.2898884+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:03:43.6209004+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:58:41.9595293+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:04:21.8668689+00:00"
 }

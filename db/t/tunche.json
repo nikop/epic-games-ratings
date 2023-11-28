@@ -2,12 +2,12 @@
   "ID": "78683b0edafd4a978a5ab61a7f6b0594",
   "Name": "Tunche",
   "ProductSlug": "tunche",
-  "Ranking_Rating": 649,
+  "Ranking_Rating": 648,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-11-02T17:00:00+00:00",
@@ -359,6 +359,6 @@
   "FirstSeenRating": "2023-03-31T05:57:24.4690387+00:00",
   "LastChanged": "2023-11-27T02:25:08.5706009+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:30.5609819+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:02:28.3518072+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:08:42.4226398+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:57:09.0934624+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:09:11.9608594+00:00"
 }

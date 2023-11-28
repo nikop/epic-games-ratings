@@ -193,7 +193,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8137,
+  "EOS_Progressed": 8138,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
@@ -7638,6 +7638,11 @@
       "Time": "2023-11-28T07:10:16.8498473+00:00",
       "NumProgressed": 8137,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T12:10:10.1454795+00:00",
+      "NumProgressed": 8138,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7658,7 +7663,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5777
+      "UsersEstimate": 5778
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7754,7 +7759,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3987
+      "UsersEstimate": 3988
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7826,7 +7831,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -7858,7 +7863,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -7898,7 +7903,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -7914,7 +7919,7 @@
       "Name": "House Proud",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -7929,22 +7934,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8137,
+      "Progressed": 8138,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 754,
-      "Completed": 754
+      "Progressed": 755,
+      "Completed": 755
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:09:22.6290863+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:10:10.145479+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:02:59.285964+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:09:22.629144+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:03:13.9729474+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:10:10.1455334+00:00"
 }

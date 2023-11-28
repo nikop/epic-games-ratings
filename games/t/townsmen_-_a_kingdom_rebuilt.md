@@ -58,6 +58,7 @@ Number of Ratings: 37  (23.09.2022)
 | Plague strikes! | 2.00% | ~87 |
 | Builder IV | 2.00% | ~87 |
 | Completionist II | 2.00% | ~87 |
+| Completionist III | 2.00% | ~87 |
 | Genius | 2.00% | ~87 |
 | I've been everywhere V | 2.00% | ~87 |
 | Tax-man V | 2.00% | ~87 |
@@ -65,7 +66,6 @@ Number of Ratings: 37  (23.09.2022)
 | When there's fire... | 1.00% | ~44 |
 | Survivalist | 1.00% | ~44 |
 | An honorable Governor III | 1.00% | ~44 |
-| Completionist III | 1.00% | ~44 |
 | Only the sausage has two ends. | 1.00% | ~44 |
 | Reunification | 1.00% | ~44 |
 | Treat her well… | 1.00% | ~44 |

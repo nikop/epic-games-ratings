@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 186,
-  "EOS_Completed": 66,
+  "EOS_Completed": 67,
   "EOS_NewPlayers": 74,
-  "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 35.48,
+  "EOS_NewCompleters": 20,
+  "EOS_Completed_Percentage": 36.02,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1064,6 +1064,11 @@
       "Time": "2023-11-28T11:05:37.2286186+00:00",
       "NumProgressed": 186,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-11-28T12:07:08.0929967+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 18,
@@ -1105,17 +1110,17 @@
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 138
     },
     {
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "Fixer",
@@ -1153,9 +1158,9 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Peacemaker",
@@ -1219,13 +1224,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 186,
-      "Completed": 66
+      "Completed": 67
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:05:37.2286182+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:07:08.0929964+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:58:19.5236176+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:05:37.2286358+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:59:04.3965619+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:07:08.0930111+00:00"
 }

@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115333,
+  "EOS_Progressed": 115335,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19424,6 +19424,11 @@
       "Time": "2023-11-28T11:09:01.2286882+00:00",
       "NumProgressed": 115333,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-28T12:09:39.0828925+00:00",
+      "NumProgressed": 115335,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -19443,7 +19448,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88806
+      "UsersEstimate": 88808
     },
     {
       "ID": "EAwards_10",
@@ -19491,7 +19496,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11533
+      "UsersEstimate": 11534
     },
     {
       "ID": "EAwards_16",
@@ -19507,7 +19512,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42673
+      "UsersEstimate": 42674
     },
     {
       "ID": "EAwards_18",
@@ -19531,7 +19536,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55360
+      "UsersEstimate": 55361
     },
     {
       "ID": "EAwards_20",
@@ -19579,7 +19584,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21913
+      "UsersEstimate": 21914
     },
     {
       "ID": "EAwards_26",
@@ -19595,7 +19600,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11533
+      "UsersEstimate": 11534
     },
     {
       "ID": "EAwards_28",
@@ -19635,7 +19640,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11533
+      "UsersEstimate": 11534
     },
     {
       "ID": "EAwards_32",
@@ -19707,7 +19712,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14993
+      "UsersEstimate": 14994
     },
     {
       "ID": "EAwards_40",
@@ -19787,7 +19792,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11533
+      "UsersEstimate": 11534
     },
     {
       "ID": "EAwards_6",
@@ -19826,7 +19831,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115333,
+      "Progressed": 115335,
       "Completed": 50
     }
   ],
@@ -19834,8 +19839,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:09:01.2286876+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:09:39.0828921+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.5110707+00:00",
-  "LastUpdate_Ratings": "2023-11-28T11:00:13.9081494+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:09:01.2288053+00:00"
+  "LastUpdate_Ratings": "2023-11-28T12:01:59.9334126+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:09:39.083015+00:00"
 }

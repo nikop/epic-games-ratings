@@ -10,10 +10,10 @@ Number of Ratings: 1,611  (23.09.2022)
 | Biggest Communism Builder | 24.00% | ~31,523 |
 | The World's Most Laughable Centrist | 21.00% | ~27,583 |
 | Il Coppo Del'Arte! | 18.00% | ~23,642 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,015 |
-| Hyperstellar Law Official | 16.00% | ~21,015 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,388 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,388 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,016 |
+| Hyperstellar Law Official | 16.00% | ~21,016 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,389 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,389 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,075 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,448 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,135 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,346 (Ranked 83)  
+Progressed: 131,347 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,10 +269,10 @@ Completed: 28 (0.02%) (Ranked 334)
 | 2023-11-25 | 131,237 | 28 |
 | 2023-11-26 | 131,290 | 28 |
 | 2023-11-27 | 131,332 | 28 |
-| 2023-11-28 | 131,346 | 28 |
+| 2023-11-28 | 131,347 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 179)  
-Sum: 1,127 (Ranked 253)  
+Sum: 1,128 (Ranked 253)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
@@ -282,8 +282,8 @@ Diff (max vs sum): -74
 | This game is Highly Recommended | 45 |
 | This game has Quickly Understood Controls | 43 |
 | This game has Unique Visuals | 38 |
+| This game is Relaxing | 38 |
 | This game has Amazing Characters | 38 |
-| This game is Relaxing | 37 |
 | This game has Diverse Characters | 35 |
 | This game is Extremely Fun | 32 |
 | This game has Obsessive Gameplay | 26 |
@@ -449,3 +449,4 @@ Diff (max vs sum): -74
 | 2023-11-24 | 4.87 | - | 737 | 1,124 |
 | 2023-11-25 | 4.87 | - | 737 | 1,126 |
 | 2023-11-27 | 4.87 | - | 737 | 1,127 |
+| 2023-11-28 | 4.87 | - | 737 | 1,128 |

@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -2636,9 +2636,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 763
+      "UsersEstimate": 773
     },
     {
       "ID": "SkeletonCrew",
@@ -2691,8 +2691,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:09:04.9564573+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:09:44.502661+00:00",
   "LastUpdate_AppInfo": "2023-11-22T19:57:00.5073465+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:57:45.9628351+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:09:04.9564886+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:58:10.5719529+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:09:44.5026939+00:00"
 }

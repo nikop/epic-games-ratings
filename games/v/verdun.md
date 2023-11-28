@@ -1,22 +1,22 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 542)  
+Rating: 4.53 (Ranked 541)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~50,619 |
-| Worth it | 63.00% | ~40,884 |
-| Eagle Eye | 55.00% | ~35,693 |
-| Corpseman I | 40.00% | ~25,958 |
-| Blast fishing | 37.00% | ~24,012 |
-| Not alone | 32.00% | ~20,767 |
-| Headhunter I | 26.00% | ~16,873 |
-| Manual Labour I | 25.00% | ~16,224 |
-| Developers, Developers, Developers | 24.00% | ~15,575 |
-| Basic Training | 24.00% | ~15,575 |
-| Furchtlos und Treu | 13.00% | ~8,436 |
+| Setting an example | 78.00% | ~50,623 |
+| Worth it | 63.00% | ~40,888 |
+| Eagle Eye | 55.00% | ~35,696 |
+| Corpseman I | 40.00% | ~25,960 |
+| Blast fishing | 37.00% | ~24,013 |
+| Not alone | 32.00% | ~20,768 |
+| Headhunter I | 26.00% | ~16,874 |
+| Manual Labour I | 25.00% | ~16,225 |
+| Developers, Developers, Developers | 24.00% | ~15,576 |
+| Basic Training | 24.00% | ~15,576 |
+| Furchtlos und Treu | 13.00% | ~8,437 |
 | Gott Mit Uns | 12.00% | ~7,788 |
 | This We'll Defend! | 9.00% | ~5,841 |
 | Anker wirf! | 9.00% | ~5,841 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~65 |
 | Blood Brother | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,896 (Ranked 105)  
+Progressed: 64,901 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 4 (0.01%) (Ranked 343)
 | 2023-11-25 | 64,683 | 4 |
 | 2023-11-26 | 64,791 | 4 |
 | 2023-11-27 | 64,866 | 4 |
-| 2023-11-28 | 64,896 | 4 |
+| 2023-11-28 | 64,901 | 4 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 356)  
 Sum: 812 (Ranked 281)  

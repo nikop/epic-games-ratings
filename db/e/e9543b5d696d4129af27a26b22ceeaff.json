@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "ACH_FULL_ARENA",
       "SetID": "1lnhagg",
       "Name": "Full Arena",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_HALL_OF_FAME",
@@ -337,8 +337,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-11-28T11:04:58.5508154+00:00",
+  "LastChanged_Achievements": "2023-11-28T12:06:11.9920943+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:54.711803+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:57:37.9955616+00:00",
-  "LastUpdate_Achievements": "2023-11-28T11:04:58.5508414+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:57:57.5451929+00:00",
+  "LastUpdate_Achievements": "2023-11-28T12:06:11.9921133+00:00"
 }
