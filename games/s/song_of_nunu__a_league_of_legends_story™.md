@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~732 |
+| Feels Familiar | 76.00% | ~742 |
 | I Broke It | 73.00% | ~712 |
 | Better On Ice | 68.00% | ~664 |
 | Notai Notes | 67.00% | ~654 |
@@ -27,12 +27,12 @@
 | The Finisher | 41.00% | ~400 |
 | You Get Used To It | 40.00% | ~390 |
 | True Legends | 40.00% | ~390 |
+| Family | 37.00% | ~361 |
 | Biggest Snowball Ever | 37.00% | ~361 |
 | Boosted! | 37.00% | ~361 |
-| Family | 36.00% | ~351 |
+| Deadliest and Biggest Snowball Ever! | 37.00% | ~361 |
 | Freeze The Ice Witch | 36.00% | ~351 |
 | Bullseye | 36.00% | ~351 |
-| Deadliest and Biggest Snowball Ever! | 36.00% | ~351 |
 | It Is Not Over | 34.00% | ~332 |
 | On The Rocks | 34.00% | ~332 |
 | Snowy Poro | 32.00% | ~312 |
@@ -40,7 +40,7 @@
 | Vertical Power | 27.00% | ~264 |
 | One From The Heart | 14.00% | ~137 |
 | Yummy | 10.00% | ~98 |
-| Snowball Fightn't | 9.00% | ~88 |
+| Snowball Fightn't | 10.00% | ~98 |
 | It Was Him | 7.00% | ~68 |
 | Handy Yeti | 7.00% | ~68 |
 | The Pied Piper Of Freljord | 5.00% | ~49 |

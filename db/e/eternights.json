@@ -1631,9 +1631,9 @@
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -1695,17 +1695,17 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1766,8 +1766,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:05:56.2914768+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:06:13.8876708+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:19.4276968+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:58:19.1189074+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:05:56.2915044+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:58:24.200864+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:06:13.8877048+00:00"
 }

@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16711,
+  "EOS_Progressed": 16713,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15033,6 +15033,11 @@
       "Time": "2023-11-28T06:04:58.1058261+00:00",
       "NumProgressed": 16711,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-28T11:03:58.5349856+00:00",
+      "NumProgressed": 16713,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15148,7 +15153,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5013
+      "UsersEstimate": 5014
     },
     {
       "ID": "tpote_achievement_22",
@@ -15156,7 +15161,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "tpote_achievement_23",
@@ -15180,7 +15185,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "tpote_achievement_26",
@@ -15188,7 +15193,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "tpote_achievement_27",
@@ -15204,7 +15209,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "tpote_achievement_29",
@@ -15292,7 +15297,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "tpote_achievement_39",
@@ -15308,7 +15313,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6684
+      "UsersEstimate": 6685
     },
     {
       "ID": "tpote_achievement_40",
@@ -15356,7 +15361,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "tpote_achievement_9",
@@ -15371,15 +15376,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16711,
+      "Progressed": 16713,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:03:38.4863603+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:03:58.5349853+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:58:40.474265+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:03:38.4864509+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:58:47.4252716+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:03:58.5350854+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1320,
+  "EOS_Progressed": 1321,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3058,6 +3058,11 @@
       "Time": "2023-11-28T01:57:17.9562522+00:00",
       "NumProgressed": 1320,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T11:09:08.3267664+00:00",
+      "NumProgressed": 1321,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3125,7 +3130,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "EXPERT_1",
@@ -3221,7 +3226,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3356,15 +3361,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1320,
+      "Progressed": 1321,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:08:42.5674838+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:09:08.3267656+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.5946943+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:57:17.8272252+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:08:42.5675177+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:57:22.4925703+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:09:08.3268114+00:00"
 }

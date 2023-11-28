@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -1063,9 +1063,9 @@
       "ID": "SUB_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Expert",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SUB_CLEAR_ISLAND4",
@@ -1094,8 +1094,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:08:06.025203+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:08:31.6344244+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:00:25.331879+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:08:06.0252315+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:00:34.8464148+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:08:31.6344749+00:00"
 }

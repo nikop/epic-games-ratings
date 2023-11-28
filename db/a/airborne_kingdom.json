@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7544,
+  "EOS_Progressed": 7545,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -5948,6 +5948,11 @@
       "Time": "2023-11-28T02:28:52.9961142+00:00",
       "NumProgressed": 7544,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-28T11:05:15.1297219+00:00",
+      "NumProgressed": 7545,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5967,7 +5972,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -5975,7 +5980,7 @@
       "Name": "Fields Watered",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -5991,7 +5996,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6055,7 +6060,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6133,9 +6138,9 @@
       "ID": "AK_TRAVELERS_RETURNED",
       "SetID": "dfmb89",
       "Name": "Travelers Returned",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1735
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -6167,22 +6172,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7544,
+      "Progressed": 7545,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:04:55.7503347+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:05:15.1297216+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:18.312921+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:02:43.5253436+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:04:55.750381+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:03:01.5924408+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:05:15.1297683+00:00"
 }

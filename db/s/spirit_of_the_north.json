@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75424,
+  "EOS_Progressed": 75425,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -24763,6 +24763,11 @@
       "Time": "2023-11-28T10:08:27.704902+00:00",
       "NumProgressed": 75424,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-11-28T11:08:53.3143807+00:00",
+      "NumProgressed": 75425,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 24,
@@ -24782,7 +24787,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16593
+      "UsersEstimate": 16594
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -24798,7 +24803,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16593
+      "UsersEstimate": 16594
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -24965,7 +24970,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75424,
+      "Progressed": 75425,
       "Completed": 404
     }
   ],
@@ -24973,8 +24978,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:08:27.7049016+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:08:53.3143801+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.17465+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:57:05.1930304+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:08:27.7050226+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:57:09.5414651+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:08:53.314512+00:00"
 }

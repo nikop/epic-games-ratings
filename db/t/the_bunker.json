@@ -4,7 +4,7 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -592,8 +592,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:06:05.8705236+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:06:23.4278084+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:53.6642156+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:00:01.1827882+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:06:05.8705612+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:00:10.0130378+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:06:23.4278366+00:00"
 }

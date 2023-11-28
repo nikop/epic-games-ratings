@@ -9,9 +9,9 @@
 | Solved first case | 11.00% | ~23 |
 | Solved third case | 11.00% | ~23 |
 | Solved The Spider of Lanka 3rd Case | 8.00% | ~13 |
+| Solved sixth case | 7.00% | ~15 |
 | Solved The Spider of Lanka 2nd Case | 7.00% | ~11 |
 | Solved fourth case | 6.00% | ~13 |
-| Solved sixth case | 6.00% | ~13 |
 | Solved eighth case | 6.00% | ~13 |
 | Solved the Lemurian Vampire 1st Case | 6.00% | ~9 |
 | Solved fifth case | 5.00% | ~11 |

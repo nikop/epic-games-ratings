@@ -6,7 +6,7 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,683 |
+| Wallbanger | 5.00% | ~24,684 |
 | Exploitative | 4.00% | ~19,747 |
 | Point Shooting | 4.00% | ~19,747 |
 | Wet Feet | 4.00% | ~19,747 |
@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~14,810 |
 | Stylin' | 3.00% | ~14,810 |
 | Turf War | 3.00% | ~14,810 |
-| Banged | 2.00% | ~9,873 |
-| Checkpoint Victory | 2.00% | ~9,873 |
-| First Blood | 2.00% | ~9,873 |
-| Flaccid Paralysis | 2.00% | ~9,873 |
-| Push Victory | 2.00% | ~9,873 |
-| Self-destructive | 2.00% | ~9,873 |
+| Banged | 2.00% | ~9,874 |
+| Checkpoint Victory | 2.00% | ~9,874 |
+| First Blood | 2.00% | ~9,874 |
+| Flaccid Paralysis | 2.00% | ~9,874 |
+| Push Victory | 2.00% | ~9,874 |
+| Self-destructive | 2.00% | ~9,874 |
 | Blindfire | 1.00% | ~4,937 |
 | Ruthless | 1.00% | ~4,937 |
 | Semper Paratus | 1.00% | ~4,937 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~494 |
 | Road Hazard | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,663 (Ranked 37)  
+Progressed: 493,683 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,16 +264,16 @@ Completed: 2 (0.00%) (Ranked 363)
 | 2023-11-25 | 491,130 | 2 |
 | 2023-11-26 | 492,345 | 2 |
 | 2023-11-27 | 493,246 | 2 |
-| 2023-11-28 | 493,663 | 2 |
+| 2023-11-28 | 493,683 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 397  (Ranked 232)  
-Sum: 3,184 (Ranked 174)  
+Sum: 3,185 (Ranked 174)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 397 |
 | This game has Challenging Combat | 390 |
-| This game is Extremely Fun | 367 |
+| This game is Extremely Fun | 368 |
 | This game has Competitive Players | 365 |
 | This game is Highly Recommended | 354 |
 | This game has Amazing Characters | 339 |
@@ -578,3 +578,4 @@ Diff (max vs sum): 58
 | 2023-11-25 | 4.62 | - | 397 | 3,179 |
 | 2023-11-26 | 4.62 | - | 397 | 3,180 |
 | 2023-11-27 | 4.61 | - | 397 | 3,184 |
+| 2023-11-28 | 4.61 | - | 397 | 3,185 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -918,9 +918,9 @@
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "6",
@@ -1021,8 +1021,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:04:01.7656795+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:04:21.551023+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.5044969+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:57:55.2547557+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:04:01.765696+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:57:59.3322823+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:04:21.5510408+00:00"
 }

@@ -1283,9 +1283,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "7pimpda",
       "Name": "Kind Adventurer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1323,9 +1323,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1539,9 +1539,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1580,8 +1580,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:04:25.2197575+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:04:44.6525256+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:57:59.5358538+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:04:25.2197973+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:58:03.48608+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:04:44.6525624+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,020 |
+| Corner Clout | 46.00% | ~163,021 |
 | Copacetic Coordination | 16.00% | ~56,703 |
 | Fronting the Money | 15.00% | ~53,159 |
 | The Dawn of Automation | 14.00% | ~49,615 |
@@ -18,17 +18,17 @@ Rating: 4.29 (Ranked 844)
 | Booze Baron | 11.00% | ~38,983 |
 | Friends on the Force | 10.00% | ~35,439 |
 | Neighborhood Watch | 10.00% | ~35,439 |
-| Core Corps | 8.00% | ~28,351 |
-| Sizeable Stash | 8.00% | ~28,351 |
-| Street Fighter | 7.00% | ~24,807 |
-| Friendly Gestures | 7.00% | ~24,807 |
-| People Person | 7.00% | ~24,807 |
-| Liquor Lord | 6.00% | ~21,263 |
-| Safety in Numbers | 6.00% | ~21,263 |
-| Moving Experiences | 6.00% | ~21,263 |
-| Wise Head | 6.00% | ~21,263 |
-| Show ‘em the Sugar | 6.00% | ~21,263 |
-| Killing Them Softly | 6.00% | ~21,263 |
+| Core Corps | 8.00% | ~28,352 |
+| Sizeable Stash | 8.00% | ~28,352 |
+| Street Fighter | 7.00% | ~24,808 |
+| Friendly Gestures | 7.00% | ~24,808 |
+| People Person | 7.00% | ~24,808 |
+| Liquor Lord | 6.00% | ~21,264 |
+| Safety in Numbers | 6.00% | ~21,264 |
+| Moving Experiences | 6.00% | ~21,264 |
+| Wise Head | 6.00% | ~21,264 |
+| Show ‘em the Sugar | 6.00% | ~21,264 |
+| Killing Them Softly | 6.00% | ~21,264 |
 | Street Knowledge | 5.00% | ~17,720 |
 | Oh Captain | 5.00% | ~17,720 |
 | Branching Out | 5.00% | ~17,720 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 844)
 | High Pillow | 0.10% | ~354 |
 | Station Master | 0.10% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354,391 (Ranked 48)  
+Progressed: 354,394 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-25 | 354,051 | 7 |
 | 2023-11-26 | 354,247 | 7 |
 | 2023-11-27 | 354,361 | 7 |
-| 2023-11-28 | 354,391 | 7 |
+| 2023-11-28 | 354,394 | 7 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 437)  
 Sum: 197 (Ranked 401)  

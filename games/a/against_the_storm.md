@@ -8,11 +8,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 0.70% | ~123 |
 | Overgrown Library | 0.70% | ~123 |
-| Petrified Necropolis | 0.60% | ~105 |
+| Petrified Necropolis | 0.70% | ~123 |
+| Ominous Presence | 0.60% | ~105 |
 | Gathering Storm | 0.60% | ~105 |
 | Frosts | 0.50% | ~88 |
 | Land of Greed | 0.50% | ~88 |
-| Ominous Presence | 0.50% | ~88 |
 | Untamed Wilds | 0.40% | ~70 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,512 (Ranked 146)  
-Completed: 54 (0.31%) (Ranked 236)  
+Completed: 53 (0.30%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

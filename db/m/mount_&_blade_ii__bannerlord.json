@@ -9228,9 +9228,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66462,
+  "EOS_Progressed": 66465,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 916,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32623,6 +32623,11 @@
       "Time": "2023-11-28T10:08:58.5003122+00:00",
       "NumProgressed": 66462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T11:09:24.4128263+00:00",
+      "NumProgressed": 66465,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32650,7 +32655,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15951
+      "UsersEstimate": 15952
     },
     {
       "ID": "Best served cold",
@@ -32794,7 +32799,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15951
+      "UsersEstimate": 15952
     },
     {
       "ID": "I can do it",
@@ -32826,7 +32831,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11963
+      "UsersEstimate": 11964
     },
     {
       "ID": "Kingslayer",
@@ -32842,7 +32847,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4652
+      "UsersEstimate": 4653
     },
     {
       "ID": "Lance-a-lot",
@@ -32858,7 +32863,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21932
+      "UsersEstimate": 21933
     },
     {
       "ID": "Lawbringer",
@@ -32866,7 +32871,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26585
+      "UsersEstimate": 26586
     },
     {
       "ID": "Lawmaker",
@@ -32874,7 +32879,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15951
+      "UsersEstimate": 15952
     },
     {
       "ID": "Long live the Empire",
@@ -33010,7 +33015,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15951
+      "UsersEstimate": 15952
     },
     {
       "ID": "Undercover",
@@ -33026,7 +33031,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -33041,15 +33046,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66462,
+      "Progressed": 66465,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-28T07:59:01.2376526+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:08:58.5003119+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:09:24.4128256+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:59:08.9627891+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:08:58.5004269+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:59:15.8464632+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:09:24.4130061+00:00"
 }

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~23,238 |
-| Safety in the Storm | 24.00% | ~5,871 |
-| A Better Idea | 24.00% | ~5,871 |
-| Begin the Ceremony | 20.00% | ~4,892 |
-| Mission Accomplished | 19.00% | ~4,648 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~3,669 |
-| Asset Secured | 13.00% | ~3,180 |
-| A Starfighter of Your Own | 13.00% | ~3,180 |
-| Unkillable | 8.00% | ~1,957 |
-| Together, Vanguard | 7.00% | ~1,712 |
+| Fracture at Fostar Haven | 95.00% | ~23,246 |
+| Safety in the Storm | 24.00% | ~5,873 |
+| A Better Idea | 24.00% | ~5,873 |
+| Begin the Ceremony | 20.00% | ~4,894 |
+| Mission Accomplished | 19.00% | ~4,649 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~3,670 |
+| Asset Secured | 13.00% | ~3,181 |
+| A Starfighter of Your Own | 13.00% | ~3,181 |
+| Unkillable | 8.00% | ~1,958 |
+| Together, Vanguard | 7.00% | ~1,713 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,468 |
 | Sound Strategy | 6.00% | ~1,468 |
-| Flames Over Mon Cala | 5.00% | ~1,223 |
-| Stomped | 5.00% | ~1,223 |
-| A Promising Career | 5.00% | ~1,223 |
-| Great Shot, Kid | 4.00% | ~978 |
-| Fearless | 4.00% | ~978 |
-| Back From the Brink | 4.00% | ~978 |
-| Temporary Guardian | 4.00% | ~978 |
-| Baited | 4.00% | ~978 |
+| Flames Over Mon Cala | 5.00% | ~1,224 |
+| Stomped | 5.00% | ~1,224 |
+| A Promising Career | 5.00% | ~1,224 |
+| Great Shot, Kid | 4.00% | ~979 |
+| Fearless | 4.00% | ~979 |
+| Back From the Brink | 4.00% | ~979 |
+| Temporary Guardian | 4.00% | ~979 |
+| Baited | 4.00% | ~979 |
 | Stronger Together | 3.00% | ~734 |
 | Squadron Hunter | 3.00% | ~734 |
 | Punch It | 3.00% | ~734 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~24 |
 | The Galaxy's Finest (Ace) | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,461 (Ranked 130)  
+Progressed: 24,470 (Ranked 130)  
 Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.00%) (Ranked 363)
 | 2023-11-25 | 23,592 | 1 |
 | 2023-11-26 | 24,071 | 1 |
 | 2023-11-27 | 24,357 | 1 |
-| 2023-11-28 | 24,461 | 1 |
+| 2023-11-28 | 24,470 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

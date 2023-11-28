@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 961,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
@@ -3144,6 +3144,11 @@
       "Time": "2023-11-28T08:04:42.2753053+00:00",
       "NumProgressed": 960,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-28T11:05:00.1652903+00:00",
+      "NumProgressed": 961,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3164,7 +3169,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "_03_FinishAct1",
@@ -3180,7 +3185,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "_05_FinishAct2",
@@ -3204,7 +3209,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "_08_Completion_10",
@@ -3276,7 +3281,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3363,7 +3368,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 961,
       "Completed": 31
     }
   ],
@@ -3371,8 +3376,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:04:40.8694895+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:05:00.1652897+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:03:04.9976098+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:04:40.8695189+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:57:07.8579076+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:05:00.1653236+00:00"
 }

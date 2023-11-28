@@ -8139,10 +8139,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 16758,
       "NumberOfAwardsMax": 5741
+    },
+    {
+      "Time": "2023-11-28T10:59:06.8904354+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 16765,
+      "NumberOfAwardsMax": 5741
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16758,
+  "NumberOfAwards": 16765,
   "NumberOfAwardsMax": 5741,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8162,7 +8168,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1085
+      "Count": 1092
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8219,9 +8225,9 @@
       "Count": 1244
     }
   ],
-  "EOS_Progressed": 848214,
+  "EOS_Progressed": 848221,
   "EOS_Completed": 210,
-  "EOS_NewPlayers": 4650,
+  "EOS_NewPlayers": 4644,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -30179,6 +30185,11 @@
       "Time": "2023-11-28T10:05:20.3197746+00:00",
       "NumProgressed": 848214,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2023-11-28T11:05:39.77957+00:00",
+      "NumProgressed": 848221,
+      "NumCompleted": 210
     }
   ],
   "TotalAchievements": 75,
@@ -30190,7 +30201,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 212054
+      "UsersEstimate": 212055
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -30230,7 +30241,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25446
+      "UsersEstimate": 25447
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -30294,7 +30305,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25446
+      "UsersEstimate": 25447
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -30326,7 +30337,7 @@
       "Name": "Eureka!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "ACHIEVEMENT_FOR_THE_REPUBLIC",
@@ -30614,7 +30625,7 @@
       "Name": "Safety Deposit Box",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "ACHIEVEMENT_SIERRA_SOUVENIR_AFICIONADO",
@@ -30670,7 +30681,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25446
+      "UsersEstimate": 25447
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -30758,7 +30769,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 25446
+      "UsersEstimate": 25447
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -30789,22 +30800,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 848214,
+      "Progressed": 848221,
       "Completed": 252
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 848214,
+      "Progressed": 848221,
       "Completed": 210
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-11-28T04:59:11.0403627+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:05:20.3197743+00:00",
+  "LastChanged": "2023-11-28T10:59:06.8904353+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:05:39.7795695+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:14.6747134+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:59:00.7966344+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:05:20.3199329+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:59:06.8904358+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:05:39.7797721+00:00"
 }

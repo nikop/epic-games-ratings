@@ -17,15 +17,15 @@
 | First Aid | 42.00% | ~8 |
 | Right between the eyes | 37.00% | ~7 |
 | Spring Board | 37.00% | ~7 |
+| Rebel Unleashed | 37.00% | ~7 |
 | Starry Night | 32.00% | ~6 |
+| Finish Him! | 32.00% | ~6 |
 | Locksley's Tears | 32.00% | ~6 |
-| Rebel Unleashed | 32.00% | ~6 |
+| Assault on the Ram | 32.00% | ~6 |
 | Merry Go Round | 32.00% | ~6 |
-| Finish Him! | 26.00% | ~5 |
-| Assault on the Ram | 26.00% | ~5 |
+| Ultra Rebel Instinct | 26.00% | ~5 |
 | Ascending Will | 21.00% | ~4 |
 | Ultra Combo | 21.00% | ~4 |
-| Ultra Rebel Instinct | 21.00% | ~4 |
 | Take Action! | 21.00% | ~4 |
 | Brilliant Executioner | 16.00% | ~3 |
 | The Gang prevails | 16.00% | ~3 |

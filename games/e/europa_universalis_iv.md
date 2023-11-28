@@ -6,6 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Until death do us apart | 0.20% | ~930 |
 | A Blessed Nation | 0.10% | ~465 |
 | A Decent Reserve | 0.10% | ~465 |
 | A Hero’s Welcome | 0.10% | ~465 |
@@ -94,6 +95,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Gold Rush | 0.10% | ~465 |
 | A Golden Empire | 0.10% | ~465 |
 | Golden Horn | 0.10% | ~465 |
+| Golden Wind | 0.10% | ~465 |
 | That's a Grand Army | 0.10% | ~465 |
 | Grand Coalition | 0.10% | ~465 |
 | Grand Duchy | 0.10% | ~465 |
@@ -126,6 +128,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Land of Eastern Jade | 0.10% | ~465 |
 | Laughingstock | 0.10% | ~465 |
 | Lazarus | 0.10% | ~465 |
+| Lessons of Hemmingstedt | 0.10% | ~465 |
 | The Levant Turnabout | 0.10% | ~465 |
 | Liberty or Death | 0.10% | ~465 |
 | Lion of the North | 0.10% | ~465 |
@@ -233,7 +236,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Divine Ruler | 0.10% | ~465 |
 | Trustworthy | 0.10% | ~465 |
 | Turning the Tide | 0.10% | ~465 |
-| Until death do us apart | 0.10% | ~465 |
 | Vasa or Wettin? | 0.10% | ~465 |
 | Victorious! | 0.10% | ~465 |
 | Viva la Revolución! | 0.10% | ~465 |
@@ -287,7 +289,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Frozen Assets | 0.00% | ~0 |
 | Fugger Banking | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
-| Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
@@ -307,7 +308,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Komnenoi Empire | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
-| Lessons of Hemmingstedt | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,136 (Ranked 41)  
+Progressed: 465,158 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 1 (0.00%) (Ranked 363)
 | 2023-11-25 | 463,679 | 1 |
 | 2023-11-26 | 464,479 | 1 |
 | 2023-11-27 | 465,000 | 1 |
-| 2023-11-28 | 465,136 | 1 |
+| 2023-11-28 | 465,158 | 1 |
 ## Awards
 Max (Educational): 7,187  (Ranked 54)  
 Sum: 59,149 (Ranked 24)  

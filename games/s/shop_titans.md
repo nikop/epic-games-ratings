@@ -14,16 +14,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 4.00% | ~5,705 |
 | Budding Merchant | 4.00% | ~5,705 |
 | Capitalism Ho! | 4.00% | ~5,705 |
-| The Daily Grind | 3.00% | ~4,278 |
-| One Easy Payment | 3.00% | ~4,278 |
-| Some Assembly Required | 3.00% | ~4,278 |
-| Bounty Hunters | 3.00% | ~4,278 |
-| Another Satisfied Customer | 3.00% | ~4,278 |
-| Pretty Penny | 3.00% | ~4,278 |
-| One-Armed Bandit | 3.00% | ~4,278 |
-| Dungeon Imports | 3.00% | ~4,278 |
-| Through Repetition, Perfection | 3.00% | ~4,278 |
-| Own the Means of Production | 3.00% | ~4,278 |
+| The Daily Grind | 3.00% | ~4,279 |
+| One Easy Payment | 3.00% | ~4,279 |
+| Some Assembly Required | 3.00% | ~4,279 |
+| Bounty Hunters | 3.00% | ~4,279 |
+| Another Satisfied Customer | 3.00% | ~4,279 |
+| Pretty Penny | 3.00% | ~4,279 |
+| One-Armed Bandit | 3.00% | ~4,279 |
+| Dungeon Imports | 3.00% | ~4,279 |
+| Through Repetition, Perfection | 3.00% | ~4,279 |
+| Own the Means of Production | 3.00% | ~4,279 |
 | On the Path to Greatness | 2.00% | ~2,852 |
 | A Notch Above the Rest | 2.00% | ~2,852 |
 | Ascended | 2.00% | ~2,852 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,615 (Ranked 80)  
+Progressed: 142,623 (Ranked 80)  
 Completed: 280 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 280 (0.20%) (Ranked 258)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,615 | 280 |
+| 2023-11-28 | 142,623 | 280 |
 ## Awards
 Max (Great for Beginners): 4,851  (Ranked 75)  
 Sum: 27,618 (Ranked 50)  

@@ -2,7 +2,7 @@
   "ID": "3a404cb5028b43b9a553312b7c965b42",
   "Name": "Coryphaeus Championships",
   "ProductSlug": "coryphaeus-championships-216f4a",
-  "Ranking_EOS_Progress": 761,
+  "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 137,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:08:45.1386738+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:09:10.9251888+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.0322206+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:00:03.4685251+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:08:45.1386767+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:00:12.9521074+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:09:10.9251926+00:00"
 }

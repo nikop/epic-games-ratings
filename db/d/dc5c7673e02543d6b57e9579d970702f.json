@@ -2,7 +2,7 @@
   "ID": "dc5c7673e02543d6b57e9579d970702f",
   "Name": "Revans",
   "ProductSlug": "revans-617bc6",
-  "Ranking_EOS_Progress": 761,
+  "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 137,
@@ -554,8 +554,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T17:03:28.9457803+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:09:00.1727833+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:09:25.8412659+00:00",
   "LastUpdate_AppInfo": "2023-11-24T23:57:11.7049034+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:58:20.6061027+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:09:00.1728228+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:58:26.5196278+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:09:25.8413089+00:00"
 }

@@ -12609,9 +12609,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 465136,
+  "EOS_Progressed": 465158,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4665,
+  "EOS_NewPlayers": 4661,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38054,6 +38054,11 @@
       "Time": "2023-11-28T10:03:00.1485207+00:00",
       "NumProgressed": 465136,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T11:03:20.1766081+00:00",
+      "NumProgressed": 465158,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -39039,9 +39044,9 @@
       "ID": "achievement_golden_wind",
       "SetID": "8p2n7he",
       "Name": "Golden Wind",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_good_king_rene",
@@ -39455,9 +39460,9 @@
       "ID": "achievement_lessons_of_hemmingstedt",
       "SetID": "8p2n7he",
       "Name": "Lessons of Hemmingstedt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_let_it_go",
@@ -40727,9 +40732,9 @@
       "ID": "achievement_until_death_do_us_apart",
       "SetID": "8p2n7he",
       "Name": "Until death do us apart",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -40968,21 +40973,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 465136,
+      "Progressed": 465158,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 465136,
+      "Progressed": 465158,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-28T09:02:57.1364311+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:03:00.1485203+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:03:20.1766076+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-28T10:00:19.1159662+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:03:00.1495369+00:00"
+  "LastUpdate_Ratings": "2023-11-28T11:00:28.3569442+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:03:20.1779592+00:00"
 }

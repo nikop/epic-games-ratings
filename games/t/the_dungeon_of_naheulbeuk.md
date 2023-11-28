@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,039 |
+| Sowwy! | 35.00% | ~84,040 |
 | Alt+F4 | 9.00% | ~21,610 |
 | Where's that freaking Dwarf? | 8.00% | ~19,209 |
 | Déjà vu | 6.00% | ~14,407 |
 | Sock! SOCK! | 5.00% | ~12,006 |
 | Speedrun | 5.00% | ~12,006 |
-| A beer, two curses, three companions | 4.00% | ~9,604 |
-| GG EZ | 4.00% | ~9,604 |
-| DM intervention | 4.00% | ~9,604 |
-| Fireproof Wizardess | 4.00% | ~9,604 |
+| A beer, two curses, three companions | 4.00% | ~9,605 |
+| GG EZ | 4.00% | ~9,605 |
+| DM intervention | 4.00% | ~9,605 |
+| Fireproof Wizardess | 4.00% | ~9,605 |
 | Livin' in a dwarven paradise | 3.00% | ~7,203 |
 | Way of the Wimp | 3.00% | ~7,203 |
 | The plot thickens... At the tavern | 3.00% | ~7,203 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,111 (Ranked 63)  
+Progressed: 240,115 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,11 +276,11 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-25 | 239,618 | 7 |
 | 2023-11-26 | 239,885 | 7 |
 | 2023-11-27 | 240,063 | 7 |
-| 2023-11-28 | 240,111 | 7 |
+| 2023-11-28 | 240,115 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
-Sum: 483 (Ranked 330)  
-Diff (max vs sum): -58  
+Sum: 484 (Ranked 329)  
+Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 240 |
@@ -290,7 +290,7 @@ Diff (max vs sum): -58
 | This game has Amazing Storytelling | 31 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Amazing Characters | 27 |
-| This game has Diverse Characters | 26 |
+| This game has Diverse Characters | 27 |
 | This game is Extremely Fun | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -480,3 +480,4 @@ Diff (max vs sum): -58
 | 2023-11-23 | 4.58 | - | 238 | 478 |
 | 2023-11-26 | 4.59 | - | 238 | 481 |
 | 2023-11-27 | 4.58 | - | 240 | 483 |
+| 2023-11-28 | 4.58 | - | 240 | 484 |

@@ -315,9 +315,9 @@
       "ID": "ACH_FINISHER",
       "SetID": "5akmpni",
       "Name": "Finish Him!",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
@@ -387,9 +387,9 @@
       "ID": "ACH_KILL_RAM",
       "SetID": "5akmpni",
       "Name": "Assault on the Ram",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_KILL_SHERIFF",
@@ -411,9 +411,9 @@
       "ID": "ACH_LONG_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Ultra Rebel Instinct",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_MONEY_KILL",
@@ -467,9 +467,9 @@
       "ID": "ACH_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Rebel Unleashed",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_REPUTATION_LVL_4",
@@ -545,8 +545,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-28T10:05:54.9975395+00:00",
+  "LastChanged_Achievements": "2023-11-28T11:06:12.70343+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-11-28T09:57:55.4705969+00:00",
-  "LastUpdate_Achievements": "2023-11-28T10:05:54.9975839+00:00"
+  "LastUpdate_Ratings": "2023-11-28T10:57:59.555065+00:00",
+  "LastUpdate_Achievements": "2023-11-28T11:06:12.7034775+00:00"
 }

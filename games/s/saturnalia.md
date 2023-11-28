@@ -11,10 +11,10 @@ Rating: 4.26 (Ranked 870)
 | Denial | 2.00% | ~1,375 |
 | Acceptance | 2.00% | ~1,375 |
 | Bargaining | 2.00% | ~1,375 |
-| Anger | 1.00% | ~687 |
-| Fear Of The Dark | 1.00% | ~687 |
-| Detective of the occult | 1.00% | ~687 |
-| Depression | 1.00% | ~687 |
+| Anger | 1.00% | ~688 |
+| Fear Of The Dark | 1.00% | ~688 |
+| Detective of the occult | 1.00% | ~688 |
+| Depression | 1.00% | ~688 |
 | Bless me Father... | 0.90% | ~619 |
 | Phone Bill | 0.80% | ~550 |
 | Power of Friendship | 0.70% | ~481 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 870)
 | Are you still there? | 0.40% | ~275 |
 | Ear Ringing | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,748 (Ranked 101)  
+Progressed: 68,750 (Ranked 101)  
 Completed: 18 (0.03%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 18 (0.03%) (Ranked 327)
 | 2023-11-25 | 68,657 | 18 |
 | 2023-11-26 | 68,697 | 18 |
 | 2023-11-27 | 68,731 | 18 |
-| 2023-11-28 | 68,748 | 18 |
+| 2023-11-28 | 68,750 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

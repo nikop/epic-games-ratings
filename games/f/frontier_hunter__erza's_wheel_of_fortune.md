@@ -11,10 +11,10 @@
 | Wolf King Killer | 51.00% | ~198 |
 | Fashion Connoisseur | 50.00% | ~194 |
 | Arms Mechanic | 45.00% | ~175 |
-| Flower Thief | 41.00% | ~159 |
+| Flower Thief | 42.00% | ~163 |
 | Apostle of Flame | 37.00% | ~144 |
+| Beginner Cook | 35.00% | ~136 |
 | Beginner Artificer | 35.00% | ~136 |
-| Beginner Cook | 34.00% | ~132 |
 | Seal Breaker | 31.00% | ~120 |
 | Handyman | 28.00% | ~109 |
 | Giant Lizard Killer | 26.00% | ~101 |
@@ -28,7 +28,7 @@
 | Lethal Blade Mantis Killer | 15.00% | ~58 |
 | Furious Scorpion Killer | 14.00% | ~54 |
 | Squeaky Clean | 14.00% | ~54 |
-| Kind Adventurer | 12.00% | ~47 |
+| Kind Adventurer | 13.00% | ~50 |
 | Mermaid Killer | 12.00% | ~47 |
 | Cave Master | 12.00% | ~47 |
 | Face Slapper | 12.00% | ~47 |
