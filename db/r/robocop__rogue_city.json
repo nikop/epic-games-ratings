@@ -2,13 +2,13 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 989,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "Rating": 4.04,
+  "Rating": 4.07,
   "RatingHistory": [
     {
       "Time": "2023-11-07T18:58:52.6047076+00:00",
@@ -145,6 +145,12 @@
     {
       "Time": "2023-11-28T02:57:39.4948472+00:00",
       "Rating": 4.04,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-11-28T20:58:20.1964254+00:00",
+      "Rating": 4.07,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
     }
@@ -1081,25 +1087,25 @@
       "ID": "FindSkillBook",
       "SetID": "80nhi4a",
       "Name": "I\u0027d Buy That For a Dollar!",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "FinishCSI",
       "SetID": "80nhi4a",
       "Name": "Hard Boiled",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "GiveTicket",
       "SetID": "80nhi4a",
       "Name": "Uphold the Law",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "HackTurret",
@@ -1121,9 +1127,9 @@
       "ID": "Kill3WithExplosion",
       "SetID": "80nhi4a",
       "Name": "Nukem!",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "KillBikerWithHisBike",
@@ -1137,17 +1143,17 @@
       "ID": "KillEnemyWithThrowable",
       "SetID": "80nhi4a",
       "Name": "Strikeout!",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "L15Efficiency",
       "SetID": "80nhi4a",
       "Name": "There Can Only Be One",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ModifyAuto9",
@@ -1161,9 +1167,9 @@
       "ID": "Ql01station",
       "SetID": "80nhi4a",
       "Name": "Night Has Just Begun",
-      "Percentage": 0.4,
+      "Percentage": 0,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "Ql04soot",
@@ -1241,9 +1247,9 @@
       "ID": "SecretArcadeRoom",
       "SetID": "80nhi4a",
       "Name": "No stone unturned",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "SecretAuto9Board",
@@ -1257,33 +1263,33 @@
       "ID": "ShootInTheBalls",
       "SetID": "80nhi4a",
       "Name": "Zip This Up",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ShootingRangeBronze",
       "SetID": "80nhi4a",
       "Name": "Dead-On",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ShootingRangeGold",
       "SetID": "80nhi4a",
       "Name": "SuperCop",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ShootingRangeSilver",
       "SetID": "80nhi4a",
       "Name": "\u0022This Guy Is Really Good\u0022",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "SkillBranchMax",
@@ -1305,9 +1311,9 @@
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2023-11-28T02:57:39.494847+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:07:59.5740817+00:00",
+  "LastChanged": "2023-11-28T20:58:20.1964252+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:07:40.8261592+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:03.0515446+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:58:36.258801+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:07:59.5740993+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:58:20.1964257+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:07:40.8262066+00:00"
 }

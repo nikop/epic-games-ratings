@@ -1,23 +1,23 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 275)  
+Rating: 4.67 (Ranked 276)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,963 |
+| Genin | 12.00% | ~25,964 |
 | A thief's beginning | 10.00% | ~21,636 |
 | Thorough | 10.00% | ~21,636 |
-| Disguised | 9.00% | ~19,472 |
-| Rollin' | 9.00% | ~19,472 |
-| Tanuki Time | 9.00% | ~19,472 |
+| Disguised | 9.00% | ~19,473 |
+| Rollin' | 9.00% | ~19,473 |
+| Tanuki Time | 9.00% | ~19,473 |
 | Rescue Takuma | 8.00% | ~17,309 |
 | Stoned Ox | 8.00% | ~17,309 |
-| Happy Planning | 7.00% | ~15,145 |
-| Ice Ice Yuki | 7.00% | ~15,145 |
-| Jonin | 7.00% | ~15,145 |
-| Yabu | 7.00% | ~15,145 |
+| Happy Planning | 7.00% | ~15,146 |
+| Ice Ice Yuki | 7.00% | ~15,146 |
+| Jonin | 7.00% | ~15,146 |
+| Yabu | 7.00% | ~15,146 |
 | Chunin | 6.00% | ~12,982 |
 | Flying Rocks | 6.00% | ~12,982 |
 | Mugen Unchained | 6.00% | ~12,982 |
@@ -25,10 +25,10 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,818 |
 | Prisoners | 5.00% | ~10,818 |
 | Too Early | 5.00% | ~10,818 |
-| Gear up | 4.00% | ~8,654 |
-| Happy little accidents | 4.00% | ~8,654 |
-| Noboru | 4.00% | ~8,654 |
-| Still Rollin' | 4.00% | ~8,654 |
+| Gear up | 4.00% | ~8,655 |
+| Happy little accidents | 4.00% | ~8,655 |
+| Noboru | 4.00% | ~8,655 |
+| Still Rollin' | 4.00% | ~8,655 |
 | It's raining men | 3.00% | ~6,491 |
 | Stoned | 3.00% | ~6,491 |
 | The Old Way | 3.00% | ~6,491 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~216 |
 | Release the Kraken | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,361 (Ranked 72)  
+Progressed: 216,365 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 100 (0.05%) (Ranked 314)
 | 2023-11-25 | 215,844 | 98 |
 | 2023-11-26 | 216,075 | 99 |
 | 2023-11-27 | 216,232 | 99 |
-| 2023-11-28 | 216,361 | 100 |
+| 2023-11-28 | 216,365 | 100 |
 ## Awards
 Max (Great for Beginners): 578  (Ranked 200)  
 Sum: 4,879 (Ranked 144)  

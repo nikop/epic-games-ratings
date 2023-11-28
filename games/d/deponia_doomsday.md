@@ -11,7 +11,7 @@ Rating: 4.55 (Ranked 505)
 | Burn, Elysium, burn! | 63.00% | ~302 |
 | FunScore | 55.00% | ~264 |
 | Funtime's over | 53.00% | ~254 |
-| Chunky | 50.00% | ~240 |
+| Chunky | 51.00% | ~245 |
 | Boat of love, boat of love | 49.00% | ~235 |
 | Shall we play a game? | 48.00% | ~230 |
 | School's out | 44.00% | ~211 |

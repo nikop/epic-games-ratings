@@ -2,10 +2,10 @@
   "ID": "172112126caf448aa6e069b16a9f0118",
   "Name": "Forest Grove",
   "ProductSlug": "forest-grove-6b05cf",
-  "Ranking_EOS_Progress": 596,
-  "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_Progress": 590,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
     "PcReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-10-10T13:09:13.100464+00:00",
@@ -42,6 +42,11 @@
       "Time": "2023-11-28T15:05:20.9770347+00:00",
       "NumProgressed": 12,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T21:06:14.0217815+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-10T13:09:13.1022392+00:00",
@@ -52,7 +57,7 @@
       "ID": "1",
       "SetID": "36pe9e2",
       "Name": "Entered the Nanodeck",
-      "Percentage": 67,
+      "Percentage": 62,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -108,7 +113,7 @@
       "ID": "5",
       "SetID": "36pe9e2",
       "Name": "Set the Time",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -149,13 +154,13 @@
     {
       "ID": "36pe9e2",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:06:24.7936378+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:06:14.0217811+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.2699178+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:57:46.6207114+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:06:24.7936448+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:57:33.8128963+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:06:14.0217898+00:00"
 }

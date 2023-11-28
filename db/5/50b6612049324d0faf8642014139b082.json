@@ -3,12 +3,12 @@
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 838,
-  "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1455,6 +1455,11 @@
       "Time": "2023-11-28T20:10:00.3777346+00:00",
       "NumProgressed": 657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T21:10:01.7449147+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1473,9 +1478,9 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 171
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_11",
@@ -1507,7 +1512,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_15",
@@ -1531,7 +1536,7 @@
       "Name": "Your first time?",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_18",
@@ -1555,7 +1560,7 @@
       "Name": "Team Principal",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 499
+      "UsersEstimate": 501
     },
     {
       "ID": "achievement_20",
@@ -1609,9 +1614,9 @@
       "ID": "achievement_26",
       "SetID": "jnappp",
       "Name": "Driver\u0027s Alliance",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_3",
@@ -1641,9 +1646,9 @@
       "ID": "achievement_6",
       "SetID": "jnappp",
       "Name": "Keepin it real",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_7",
@@ -1651,7 +1656,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_8",
@@ -1674,7 +1679,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 659,
       "Completed": 0
     }
   ],
@@ -1682,8 +1687,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-28T20:00:54.5834404+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:10:00.3777342+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:10:01.7449141+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:00:54.5834415+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:10:00.3777592+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:00:28.2343481+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:10:01.744939+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -483,9 +483,9 @@
       "ID": "ach26",
       "SetID": "baneh2j",
       "Name": "Passion",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach27",
@@ -594,8 +594,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:06:16.473954+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:06:06.4762334+00:00",
   "LastUpdate_AppInfo": "2023-11-22T06:57:17.7593441+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:00:12.0945834+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:06:16.4739728+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:59:49.7962007+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:06:06.4762549+00:00"
 }

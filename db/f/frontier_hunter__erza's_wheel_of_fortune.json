@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 1,
@@ -1247,6 +1247,11 @@
       "Time": "2023-11-28T20:05:55.2761351+00:00",
       "NumProgressed": 407,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T21:05:46.9831335+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1258,7 +1263,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1344,9 +1349,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 310
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1370,7 +1375,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1386,7 +1391,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1394,7 +1399,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1418,7 +1423,7 @@
       "Name": "Trader",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1426,7 +1431,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1442,7 +1447,7 @@
       "Name": "Weapon Boost",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1530,7 +1535,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1617,7 +1622,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 1
     }
   ],
@@ -1625,8 +1630,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:05:55.2761348+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:05:46.9831331+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:58:48.9377618+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:05:55.2761725+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:58:31.5224085+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:05:46.9831657+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Cook Serve Delicious 2",
   "ProductSlug": "cook-serve-delicious-2-6db46c",
   "Ranking_Rating": 60,
-  "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-07-18T18:00:00+00:00",
     "PcReleaseDate": "2017-09-13T19:00:00+00:00",
@@ -74,6 +74,6 @@
   "FirstSeenRating": "2022-10-07T16:02:05.979071+00:00",
   "LastChanged": "2023-10-15T15:02:12.1543198+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:07.96859+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:58:52.9549808+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:05:28.5342887+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:58:34.9036696+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:05:22.55673+00:00"
 }

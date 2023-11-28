@@ -3,12 +3,12 @@
   "Name": "Tales from the Borderlands",
   "ProductSlug": "tales-from-the-borderlands",
   "Ranking_Rating": 216,
-  "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-02-17T01:00:00+00:00",
     "PcReleaseDate": "2021-02-17T01:00:00+00:00",
@@ -226,6 +226,6 @@
   "FirstSeenRating": "2022-08-28T13:31:01.8966538+00:00",
   "LastChanged": "2023-11-02T03:59:46.5138556+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:24.4776431+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:57:55.1045118+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:06:16.6857865+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:57:41.717135+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:06:06.635702+00:00"
 }

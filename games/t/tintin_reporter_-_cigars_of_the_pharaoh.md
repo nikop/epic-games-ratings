@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 75.00% | ~55 |
-| A Loyal Friend | 37.00% | ~27 |
-| Abandon Ship! | 21.00% | ~15 |
+| My Papyrus! | 75.00% | ~56 |
+| A Loyal Friend | 36.00% | ~27 |
+| Abandon Ship! | 20.00% | ~15 |
 | The Tomb of Kih-Oskh | 16.00% | ~12 |
-| The Weighing of the Soul | 14.00% | ~10 |
+| The Weighing of the Soul | 13.00% | ~10 |
 | Cat Lover | 7.00% | ~5 |
 | The Curse of Kih-Oskh | 7.00% | ~5 |
 | It's a Deal! | 7.00% | ~5 |
@@ -20,19 +20,19 @@
 | Save a Friend | 5.00% | ~4 |
 | The Eyes! | 4.00% | ~3 |
 | Keep the Doctor Away | 4.00% | ~3 |
+| Just a Palm Tree | 4.00% | ~3 |
 | The Corporal's Golden Boy | 4.00% | ~3 |
 | Punctual | 4.00% | ~3 |
 | Barking Dog | 4.00% | ~3 |
-| Just a Palm Tree | 3.00% | ~2 |
 | Under the Hood | 3.00% | ~2 |
 | Long Live Gaipajama! | 3.00% | ~2 |
 | Eyes Shut | 3.00% | ~2 |
 | A Diagnosis | 3.00% | ~2 |
 | Threat | 3.00% | ~2 |
+| Tintin, Reporter | 1.00% | ~1 |
 | A Yummy Detour | 1.00% | ~1 |
 | Subtlety | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
-| Tintin, Reporter | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
@@ -42,7 +42,7 @@
 | The Pharaoh's New Clothes | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 464)  
+Progressed: 75 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 52 | 0 |
 | 2023-11-26 | 63 | 0 |
 | 2023-11-27 | 72 | 0 |
-| 2023-11-28 | 73 | 0 |
+| 2023-11-28 | 75 | 0 |

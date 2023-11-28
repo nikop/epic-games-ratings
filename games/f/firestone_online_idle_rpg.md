@@ -1,39 +1,39 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.04 (Ranked 989)  
+Rating: 4.04 (Ranked 990)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,589 |
-| World Map | 78.00% | ~2,172 |
-| Temple of Eternals | 57.00% | ~1,587 |
-| Prestigious | 53.00% | ~1,476 |
-| Fellowship Power | 42.00% | ~1,169 |
-| Guild Power | 24.00% | ~668 |
-| Prestigious x10 | 21.00% | ~585 |
-| The game is on | 19.00% | ~529 |
-| Exotic Merchant | 17.00% | ~473 |
-| Dragon Clicker | 16.00% | ~445 |
-| Miner Clicker | 16.00% | ~445 |
+| Victor | 93.00% | ~2,595 |
+| World Map | 78.00% | ~2,176 |
+| Temple of Eternals | 57.00% | ~1,590 |
+| Prestigious | 53.00% | ~1,479 |
+| Fellowship Power | 42.00% | ~1,172 |
+| Guild Power | 24.00% | ~670 |
+| Prestigious x10 | 21.00% | ~586 |
+| The game is on | 19.00% | ~530 |
+| Exotic Merchant | 17.00% | ~474 |
+| Dragon Clicker | 16.00% | ~446 |
+| Miner Clicker | 16.00% | ~446 |
 | Full Party | 15.00% | ~418 |
 | Inspection | 15.00% | ~418 |
-| Dragon Master | 14.00% | ~390 |
-| Enlightenment | 14.00% | ~390 |
-| Hero inspection | 14.00% | ~390 |
-| Lieutenant | 13.00% | ~362 |
-| Milestone collector | 12.00% | ~334 |
-| Mysterious Rock | 12.00% | ~334 |
-| Natural Talent | 12.00% | ~334 |
-| Superior | 12.00% | ~334 |
-| The Unstoppable | 12.00% | ~334 |
-| Doing My Part | 10.00% | ~278 |
-| Hunter | 10.00% | ~278 |
-| Scientist | 10.00% | ~278 |
-| The power of Awakening | 10.00% | ~278 |
+| Dragon Master | 14.00% | ~391 |
+| Enlightenment | 14.00% | ~391 |
+| Hero inspection | 14.00% | ~391 |
+| Lieutenant | 13.00% | ~363 |
+| Milestone collector | 12.00% | ~335 |
+| Mysterious Rock | 12.00% | ~335 |
+| Natural Talent | 12.00% | ~335 |
+| Superior | 12.00% | ~335 |
+| The Unstoppable | 12.00% | ~335 |
+| Doing My Part | 10.00% | ~279 |
+| Scientist | 10.00% | ~279 |
+| The power of Awakening | 10.00% | ~279 |
 | Challenger | 9.00% | ~251 |
 | Daily Quest Completionist | 9.00% | ~251 |
 | Frostfire Liberator | 9.00% | ~251 |
+| Hunter | 9.00% | ~251 |
 | Mastery | 9.00% | ~251 |
 | Moving Up The Ladder | 9.00% | ~251 |
 | Relic Of The Past | 9.00% | ~251 |
@@ -45,22 +45,22 @@ Rating: 4.04 (Ranked 989)
 | Trader | 8.00% | ~223 |
 | Crystal Mining | 7.00% | ~195 |
 | Dragon Slayer | 7.00% | ~195 |
-| Enchanting skill | 7.00% | ~195 |
-| Engineer Mastery | 7.00% | ~195 |
 | Weekly Quest Completionist | 7.00% | ~195 |
 | Blueprint Upgrades | 6.00% | ~167 |
+| Enchanting skill | 6.00% | ~167 |
+| Engineer Mastery | 6.00% | ~167 |
 | How Do You Turn This On? | 6.00% | ~167 |
 | Lock And Load | 6.00% | ~167 |
 | Sailor | 6.00% | ~167 |
 | The Expeditioner | 6.00% | ~167 |
-| Active Member | 5.00% | ~139 |
-| Ancient Knowledge | 5.00% | ~139 |
-| Background Story | 5.00% | ~139 |
-| Legendary | 5.00% | ~139 |
-| Missions Dedication | 5.00% | ~139 |
-| The Alchemist | 5.00% | ~139 |
-| Arena Challenger | 4.00% | ~111 |
-| Ebony Jungle Liberator | 4.00% | ~111 |
+| Active Member | 5.00% | ~140 |
+| Ancient Knowledge | 5.00% | ~140 |
+| Background Story | 5.00% | ~140 |
+| Legendary | 5.00% | ~140 |
+| Missions Dedication | 5.00% | ~140 |
+| The Alchemist | 5.00% | ~140 |
+| Arena Challenger | 4.00% | ~112 |
+| Ebony Jungle Liberator | 4.00% | ~112 |
 | Gear Enchanting | 3.00% | ~84 |
 | Mythic Power | 3.00% | ~84 |
 | What lies behind the bush | 3.00% | ~84 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 989)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,784 (Ranked 213)  
+Progressed: 2,790 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 2 (0.07%) (Ranked 302)
 | 2023-11-25 | 2,687 | 2 |
 | 2023-11-26 | 2,735 | 2 |
 | 2023-11-27 | 2,771 | 2 |
-| 2023-11-28 | 2,784 | 2 |
+| 2023-11-28 | 2,790 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
 Sum: 134 (Ranked 429)  

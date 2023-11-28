@@ -2,10 +2,10 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55,
+  "EOS_Progressed": 56,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -294,6 +294,11 @@
       "Time": "2023-11-28T10:09:01.9729571+00:00",
       "NumProgressed": 55,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T21:10:11.2114867+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -360,7 +365,7 @@
       "ID": "DP",
       "SetID": "2621k8c",
       "Name": "Decision Paralysis",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -408,7 +413,7 @@
       "ID": "EI",
       "SetID": "2621k8c",
       "Name": "Exceptional intelligence",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -448,7 +453,7 @@
       "ID": "Flattery",
       "SetID": "2621k8c",
       "Name": "Flattery",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -656,7 +661,7 @@
       "ID": "MAB",
       "SetID": "2621k8c",
       "Name": "Have a baby",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -696,7 +701,7 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -792,7 +797,7 @@
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -848,7 +853,7 @@
       "ID": "SOC",
       "SetID": "2621k8c",
       "Name": "Sense of ceremony",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -856,7 +861,7 @@
       "ID": "SWA",
       "SetID": "2621k8c",
       "Name": "MOD Artisan",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -880,7 +885,7 @@
       "ID": "Shopaholic",
       "SetID": "2621k8c",
       "Name": "Shopaholic",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -888,7 +893,7 @@
       "ID": "Sisters",
       "SetID": "2621k8c",
       "Name": "Sisters",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -968,7 +973,7 @@
       "ID": "TMOL",
       "SetID": "2621k8c",
       "Name": "The meaning of life",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -1049,14 +1054,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 55,
+      "Progressed": 56,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:10:10.4848312+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:10:11.2114865+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.1854671+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:57:13.8348615+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:10:10.4849064+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:57:04.6992384+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:10:11.2115594+00:00"
 }

@@ -1,26 +1,21 @@
 # RoboCop: Rogue City
 [Store](https://store.epicgames.com/en-US/p/robocop-rogue-city)  
 [View Rawdata](../../db/r/robocop__rogue_city.json)  
-Rating: 4.04 (Ranked 989)  
+Rating: 4.07 (Ranked 977)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Night Has Just Begun | 0.40% | ~3 |
-| No stone unturned | 0.30% | ~2 |
-| Dead-On | 0.30% | ~2 |
-| "This Guy Is Really Good" | 0.30% | ~2 |
-| I'd Buy That For a Dollar! | 0.10% | ~1 |
-| Hard Boiled | 0.10% | ~1 |
-| Uphold the Law | 0.10% | ~1 |
-| Nukem! | 0.10% | ~1 |
-| Strikeout! | 0.10% | ~1 |
-| There Can Only Be One | 0.10% | ~1 |
-| Zip This Up | 0.10% | ~1 |
-| SuperCop | 0.10% | ~1 |
+| I'd Buy That For a Dollar! | 0.00% | ~0 |
+| Hard Boiled | 0.00% | ~0 |
+| Uphold the Law | 0.00% | ~0 |
 | May Be Used Against You | 0.00% | ~0 |
 | Officer of the month | 0.00% | ~0 |
+| Nukem! | 0.00% | ~0 |
 | Live by the bike... | 0.00% | ~0 |
+| Strikeout! | 0.00% | ~0 |
+| There Can Only Be One | 0.00% | ~0 |
 | All Adds Up | 0.00% | ~0 |
+| Night Has Just Begun | 0.00% | ~0 |
 | Dead or Alive | 0.00% | ~0 |
 | Twenty Seconds to Comply | 0.00% | ~0 |
 | Don't Mess With the Money! | 0.00% | ~0 |
@@ -30,7 +25,12 @@ Rating: 4.04 (Ranked 989)
 | Not Arresting You Anymore | 0.00% | ~0 |
 | "Nice shooting, son" | 0.00% | ~0 |
 | A Real Hero | 0.00% | ~0 |
+| No stone unturned | 0.00% | ~0 |
 | Good eyes, Murphy! | 0.00% | ~0 |
+| Zip This Up | 0.00% | ~0 |
+| Dead-On | 0.00% | ~0 |
+| SuperCop | 0.00% | ~0 |
+| "This Guy Is Really Good" | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 705 (Ranked 283)  
@@ -77,4 +77,4 @@ Diff (max vs sum): -7
 | 2023-11-23 | 4.20 | 24 | 24 |
 | 2023-11-24 | 4.13 | 24 | 24 |
 | 2023-11-26 | 4.04 | 24 | 24 |
-| 2023-11-28 | 4.04 | 25 | 25 |
+| 2023-11-28 | 4.07 | 25 | 25 |

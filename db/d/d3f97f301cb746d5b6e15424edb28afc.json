@@ -2,13 +2,13 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 383,
-  "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Rating": 384,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -2728,9 +2728,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 954
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -2872,9 +2872,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 466
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -2904,9 +2904,9 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 1009
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
@@ -2968,9 +2968,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1020
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -3136,9 +3136,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 920
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -3361,8 +3361,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:04:41.8454933+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:04:39.9703097+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:01:04.3387977+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:04:41.8455904+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:00:36.5108215+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:04:39.9703879+00:00"
 }

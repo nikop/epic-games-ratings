@@ -3,12 +3,12 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 505,
-  "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2162,
+  "EOS_Progressed": 2163,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 2,
@@ -3597,6 +3597,11 @@
       "Time": "2023-11-28T20:05:02.2503482+00:00",
       "NumProgressed": 2162,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-28T21:04:58.5684517+00:00",
+      "NumProgressed": 2163,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 30,
@@ -3608,7 +3613,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "Collect20Gold",
@@ -3632,7 +3637,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "CollectAllStatues",
@@ -3672,7 +3677,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "CompleteElderFaction",
@@ -3680,7 +3685,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3688,7 +3693,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3712,7 +3717,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "DefeatMoziQueen",
@@ -3752,7 +3757,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "GetTHWeapon",
@@ -3760,7 +3765,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "Kill25Bugs",
@@ -3776,7 +3781,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "Kill25Mozi",
@@ -3784,7 +3789,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "MeetTheMoles",
@@ -3792,7 +3797,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "MysteryKingsChamber",
@@ -3832,7 +3837,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3840,29 +3845,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2162,
+      "Progressed": 2163,
       "Completed": 11
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 803,
-      "Completed": 803
+      "Progressed": 804,
+      "Completed": 804
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:05:02.2503479+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:04:58.5684513+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
   "LastUpdate_Ratings": "2023-11-28T20:01:58.5678855+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:05:02.2503786+00:00"
+  "LastUpdate_Achievements": "2023-11-28T21:04:58.5684795+00:00"
 }

@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 77)  
+Rating: 4.81 (Ranked 78)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.00% | ~0 |
 | Ruins | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,516 (Ranked 146)  
+Progressed: 17,517 (Ranked 146)  
 Completed: 52 (0.30%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 52 (0.30%) (Ranked 237)
 | 2023-11-25 | 17,472 | 56 |
 | 2023-11-26 | 17,488 | 56 |
 | 2023-11-27 | 17,506 | 56 |
-| 2023-11-28 | 17,516 | 54 |
+| 2023-11-28 | 17,517 | 54 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 222)  
 Sum: 3,232 (Ranked 173)  

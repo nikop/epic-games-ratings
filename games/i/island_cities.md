@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~760 |
-| A tiny town | 87.00% | ~682 |
-| Buildings, roads, cars, ...and people | 66.00% | ~517 |
-| Great view from the beach and from the hill | 57.00% | ~447 |
-| Bridges to come and go | 50.00% | ~392 |
-| Found an oasis | 43.00% | ~337 |
-| Burger or pizza? | 38.00% | ~298 |
-| Passion for sports | 34.00% | ~267 |
-| Who loves trains? | 30.00% | ~235 |
-| Easy and steady climb | 29.00% | ~227 |
+| Welcome! | 97.00% | ~762 |
+| A tiny town | 87.00% | ~684 |
+| Buildings, roads, cars, ...and people | 66.00% | ~519 |
+| Great view from the beach and from the hill | 57.00% | ~448 |
+| Bridges to come and go | 50.00% | ~393 |
+| Found an oasis | 43.00% | ~338 |
+| Burger or pizza? | 38.00% | ~299 |
+| Passion for sports | 33.00% | ~259 |
+| Who loves trains? | 30.00% | ~236 |
+| Easy and steady climb | 29.00% | ~228 |
 | At the heart of the city | 26.00% | ~204 |
-| Calm neighborhood | 24.00% | ~188 |
-| Elevated ring | 23.00% | ~180 |
-| Not lonely anymore | 22.00% | ~172 |
+| Calm neighborhood | 24.00% | ~189 |
+| Elevated ring | 23.00% | ~181 |
+| Not lonely anymore | 22.00% | ~173 |
 | Monumental tribute | 21.00% | ~165 |
-| The beach is right there | 20.00% | ~157 |
+| The beach is right there | 19.00% | ~149 |
 | Commuting | 19.00% | ~149 |
 | Le jardin magnifique | 18.00% | ~141 |
-| Aiming for a living and human city | 17.00% | ~133 |
-| City of dreams | 17.00% | ~133 |
-| Happy Christmas night! | 17.00% | ~133 |
-| Night walk along the beach | 17.00% | ~133 |
+| Aiming for a living and human city | 17.00% | ~134 |
+| City of dreams | 17.00% | ~134 |
+| Happy Christmas night! | 17.00% | ~134 |
+| Night walk along the beach | 17.00% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 784 (Ranked 276)  
-Completed: 131 (16.71%) (Ranked 25)  
+Progressed: 786 (Ranked 276)  
+Completed: 131 (16.67%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 131 (16.71%) (Ranked 25)
 | 2023-11-23 | 762 | 131 |
 | 2023-11-24 | 764 | 131 |
 | 2023-11-27 | 765 | 131 |
-| 2023-11-28 | 784 | 131 |
+| 2023-11-28 | 786 | 131 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

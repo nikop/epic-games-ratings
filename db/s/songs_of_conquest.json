@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1243,6 +1243,11 @@
       "Time": "2023-11-28T17:03:44.4462255+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T21:04:15.2668932+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1359,7 +1364,7 @@
       "Name": "Critical Hit",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Deepstrike",
@@ -1399,7 +1404,7 @@
       "Name": "Double Kill",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1583,7 +1588,7 @@
       "Name": "Adept",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "WielderLevel2",
@@ -1686,15 +1691,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:04:14.9502402+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:04:15.2668928+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:59:20.5790711+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:04:14.9502747+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:59:01.1426508+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:04:15.2669261+00:00"
 }

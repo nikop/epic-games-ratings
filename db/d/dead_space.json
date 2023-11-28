@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -6276,9 +6276,9 @@
       "ID": "achievement_11",
       "SetID": "222fo9l",
       "Name": "Betrayed",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 814
     },
     {
       "ID": "achievement_12",
@@ -6604,9 +6604,9 @@
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1079
     },
     {
       "ID": "achievement_7",
@@ -6645,8 +6645,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-26T22:02:06.8733907+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:08:39.9763169+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:08:47.397387+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.9761475+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:57:22.6231085+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:08:39.9763847+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:57:12.7355404+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:08:47.3974366+00:00"
 }

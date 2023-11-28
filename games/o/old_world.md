@@ -129,13 +129,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.90% | ~140 |
 | Clerics | 0.90% | ~140 |
 | Egypt | 0.90% | ~140 |
+| Rome | 0.90% | ~140 |
 | Hittite Paganism | 0.90% | ~140 |
 | Turreted Elephant | 0.90% | ~140 |
 | Poetic Leader | 0.90% | ~140 |
 | Noble Difficulty | 0.80% | ~124 |
 | Cao'an | 0.80% | ~124 |
 | Adur Burzen-Mihr | 0.80% | ~124 |
-| Rome | 0.80% | ~124 |
 | All Nations | 0.80% | ~124 |
 | Kmt Unified | 0.80% | ~124 |
 | Ishtar Gate in Babylon | 0.70% | ~109 |

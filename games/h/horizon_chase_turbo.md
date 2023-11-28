@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~972,077 |
-| I Need a Bigger Garage | 63.00% | ~680,454 |
-| Pump my Ride | 47.00% | ~507,640 |
-| Ghostbuster | 34.00% | ~367,229 |
-| Call Roadside Assistance | 18.00% | ~194,415 |
-| That Was Close | 18.00% | ~194,415 |
-| Quickie | 11.00% | ~118,809 |
-| California Dreamer | 7.00% | ~75,606 |
-| Can't Touch This | 5.00% | ~54,004 |
-| Carménère Taster | 4.00% | ~43,203 |
-| Comeback | 4.00% | ~43,203 |
+| The First of Many | 90.00% | ~972,094 |
+| I Need a Bigger Garage | 63.00% | ~680,466 |
+| Pump my Ride | 47.00% | ~507,649 |
+| Ghostbuster | 34.00% | ~367,236 |
+| Call Roadside Assistance | 18.00% | ~194,419 |
+| That Was Close | 18.00% | ~194,419 |
+| Quickie | 11.00% | ~118,812 |
+| California Dreamer | 7.00% | ~75,607 |
+| Can't Touch This | 5.00% | ~54,005 |
+| Carménère Taster | 4.00% | ~43,204 |
+| Comeback | 4.00% | ~43,204 |
 | Driver from Ipanema | 3.00% | ~32,403 |
 | Supersonic | 3.00% | ~32,403 |
 | Marathonist | 3.00% | ~32,403 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Volcano Surfer | 0.80% | ~8,641 |
 | Survivor | 0.60% | ~6,481 |
 | King of the World | 0.60% | ~6,481 |
-| Getting Famous | 0.50% | ~5,400 |
+| Getting Famous | 0.50% | ~5,401 |
 | Now Go Play Outside | 0.30% | ~3,240 |
 | Master of the Racetrack | 0.20% | ~2,160 |
 | Transporter | 0.10% | ~1,080 |
 | Look Mom, No Hands! | 0.10% | ~1,080 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,080,086 (Ranked 13)  
+Progressed: 1,080,105 (Ranked 13)  
 Completed: 496 (0.05%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 496 (0.05%) (Ranked 314)
 | 2023-11-25 | 1,078,962 | 495 |
 | 2023-11-26 | 1,079,468 | 496 |
 | 2023-11-27 | 1,079,781 | 496 |
-| 2023-11-28 | 1,080,086 | 496 |
+| 2023-11-28 | 1,080,105 | 496 |
 ## Awards
 Max (Great for Beginners): 169  (Ranked 308)  
 Sum: 1,546 (Ranked 234)  

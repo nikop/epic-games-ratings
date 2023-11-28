@@ -4,8 +4,8 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -307,9 +307,9 @@
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "FirstTry",
@@ -331,9 +331,9 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "HideAndSeek",
@@ -387,9 +387,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MortuaryMarkup",
@@ -467,9 +467,9 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:04:35.5061141+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:04:33.8655927+00:00",
   "LastUpdate_AppInfo": "2023-11-27T10:57:15.6283933+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:58:10.910155+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:04:35.506127+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:57:56.3852249+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:04:33.865603+00:00"
 }

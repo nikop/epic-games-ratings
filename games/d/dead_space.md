@@ -17,8 +17,8 @@ Rating: 4.64 (Ranked 334)
 | Raise the Stakes | 56.00% | ~1,140 |
 | Surgeon | 54.00% | ~1,099 |
 | Exterminator | 53.00% | ~1,079 |
+| Greenhouse Effect | 53.00% | ~1,079 |
 | Freeze | 52.00% | ~1,058 |
-| Greenhouse Effect | 52.00% | ~1,058 |
 | S.O.S. | 47.00% | ~956 |
 | Full Arsenal | 46.00% | ~936 |
 | Get Off My Ship! | 45.00% | ~916 |
@@ -26,7 +26,7 @@ Rating: 4.64 (Ranked 334)
 | Wreckage | 43.00% | ~875 |
 | Live with the Hot Ones | 42.00% | ~855 |
 | Keeper of the Faith | 41.00% | ~834 |
-| Betrayed | 39.00% | ~794 |
+| Betrayed | 40.00% | ~814 |
 | Exodus | 39.00% | ~794 |
 | Legend Teller | 39.00% | ~794 |
 | Mindless Prey | 39.00% | ~794 |

@@ -6,35 +6,35 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,690 |
-| Man of politics | 34.00% | ~5,687 |
+| Tattletale | 40.00% | ~6,691 |
+| Man of politics | 34.00% | ~5,688 |
 | Friends of sorts | 33.00% | ~5,520 |
 | Yet another secret | 33.00% | ~5,520 |
-| Let there be darkness | 32.00% | ~5,352 |
+| Let there be darkness | 32.00% | ~5,353 |
 | End of Book One | 30.00% | ~5,018 |
-| Garden of Eden | 24.00% | ~4,014 |
+| Garden of Eden | 24.00% | ~4,015 |
 | Wannabe knight | 23.00% | ~3,847 |
 | Full house | 23.00% | ~3,847 |
-| Help an old friend | 21.00% | ~3,512 |
-| Two of us | 20.00% | ~3,345 |
+| Help an old friend | 21.00% | ~3,513 |
+| Two of us | 20.00% | ~3,346 |
 | Negotiation skills | 18.00% | ~3,011 |
 | Workers' union | 18.00% | ~3,011 |
 | End of Book Two | 18.00% | ~3,011 |
-| Everything's in order | 17.00% | ~2,843 |
+| Everything's in order | 17.00% | ~2,844 |
 | Twist of Fate | 14.00% | ~2,342 |
 | Jack was here! | 14.00% | ~2,342 |
-| Exterminator | 13.00% | ~2,174 |
+| Exterminator | 13.00% | ~2,175 |
 | Whodunnit | 12.00% | ~2,007 |
 | First profit | 11.00% | ~1,840 |
 | Good midwife | 10.00% | ~1,673 |
 | Friar Tuck | 10.00% | ~1,673 |
 | Team player | 10.00% | ~1,673 |
-| Skilled merchant | 9.00% | ~1,505 |
-| Nothing but make-believe | 9.00% | ~1,505 |
-| Brother Marcus | 9.00% | ~1,505 |
-| The oath | 9.00% | ~1,505 |
-| The truth revealed | 9.00% | ~1,505 |
-| The End. | 9.00% | ~1,505 |
+| Skilled merchant | 9.00% | ~1,506 |
+| Nothing but make-believe | 9.00% | ~1,506 |
+| Brother Marcus | 9.00% | ~1,506 |
+| The oath | 9.00% | ~1,506 |
+| The truth revealed | 9.00% | ~1,506 |
+| The End. | 9.00% | ~1,506 |
 | A cry for help | 8.00% | ~1,338 |
 | Silentium est aureum | 7.00% | ~1,171 |
 | Rebel without a cause | 6.00% | ~1,004 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~502 |
 | Boy of mystery | 2.00% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,726 (Ranked 148)  
+Progressed: 16,728 (Ranked 148)  
 Completed: 116 (0.69%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 116 (0.69%) (Ranked 185)
 | 2023-11-25 | 16,661 | 116 |
 | 2023-11-26 | 16,690 | 116 |
 | 2023-11-27 | 16,709 | 116 |
-| 2023-11-28 | 16,726 | 116 |
+| 2023-11-28 | 16,728 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 315)  
 Sum: 198 (Ranked 400)  

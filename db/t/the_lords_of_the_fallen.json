@@ -2,13 +2,13 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 915,
-  "Ranking_Popularity": 304,
+  "Ranking_Rating": 926,
+  "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -607,18 +607,24 @@
       "Rating": 4.2,
       "NumberOfAwards": 360,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2023-11-28T20:58:41.622256+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 361,
+      "NumberOfAwardsMax": 175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 360,
-  "NumberOfAwardsMax": 174,
+  "NumberOfAwards": 361,
+  "NumberOfAwardsMax": 175,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 174
+      "Count": 175
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -645,9 +651,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2124,
+  "EOS_Progressed": 2128,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3520,6 +3526,11 @@
       "Time": "2023-11-28T20:04:22.909245+00:00",
       "NumProgressed": 2124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T21:04:22.5467895+00:00",
+      "NumProgressed": 2128,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -3740,7 +3751,7 @@
       "Name": "Shades of Violence",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -4004,7 +4015,7 @@
       "Name": "The Past Shapes the Present",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -4035,16 +4046,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 2124,
+      "Progressed": 2128,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-11-28T13:58:21.635622+00:00",
-  "LastChanged_Achievements": "2023-11-28T20:04:22.9092447+00:00",
+  "LastChanged": "2023-11-28T20:58:41.6222559+00:00",
+  "LastChanged_Achievements": "2023-11-28T21:04:22.5467891+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.9278986+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:59:00.7698504+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:04:22.9093172+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:58:41.6222563+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:04:22.5468572+00:00"
 }

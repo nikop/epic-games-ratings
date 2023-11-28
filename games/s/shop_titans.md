@@ -103,7 +103,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 1.00% | ~1,427 |
 | Economy of Scarce | 1.00% | ~1,427 |
 | King's Blade | 1.00% | ~1,427 |
-| Eternal Crusade | 0.90% | ~1,284 |
+| Eternal Crusade | 0.90% | ~1,285 |
 | The Free Encyclopedia | 0.80% | ~1,142 |
 | All or Nothing! | 0.70% | ~999 |
 | Anything not Nailed Down | 0.60% | ~856 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,720 (Ranked 80)  
+Progressed: 142,724 (Ranked 80)  
 Completed: 284 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 284 (0.20%) (Ranked 258)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,720 | 284 |
+| 2023-11-28 | 142,724 | 284 |
 ## Awards
 Max (Great for Beginners): 4,851  (Ranked 75)  
 Sum: 27,621 (Ranked 50)  

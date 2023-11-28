@@ -3,12 +3,12 @@
   "Name": "Wolcen: Lords of Mayhem",
   "ProductSlug": "wolcen-lords-of-mayhem-e893e7",
   "Ranking_Rating": 954,
-  "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-02-23T15:00:00+00:00",
     "PcReleaseDate": "2020-02-13T00:00:00+00:00",
@@ -127,6 +127,6 @@
   "FirstSeenRating": "2023-03-12T02:14:41.9509568+00:00",
   "LastChanged": "2023-10-10T18:59:51.9986382+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.3326974+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:03:17.6874703+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:08:53.8134082+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:03:21.5808803+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:09:00.0787738+00:00"
 }

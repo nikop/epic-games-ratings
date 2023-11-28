@@ -3,12 +3,12 @@
   "Name": "SpellForce 3: Soul Harvest",
   "ProductSlug": "spellforce-3-soul-harvest",
   "Ranking_Rating": 609,
-  "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-05-28T15:00:00+00:00",
@@ -167,6 +167,6 @@
   "FirstSeenRating": "2022-09-29T14:03:05.5723925+00:00",
   "LastChanged": "2023-11-04T07:58:04.587741+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:06.4687742+00:00",
-  "LastUpdate_Ratings": "2023-11-28T19:59:05.7060385+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:06:28.893907+00:00"
+  "LastUpdate_Ratings": "2023-11-28T20:58:46.0181277+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:06:17.8295813+00:00"
 }

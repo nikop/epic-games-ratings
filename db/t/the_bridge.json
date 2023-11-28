@@ -3,12 +3,12 @@
   "Name": "The Bridge",
   "ProductSlug": "the-bridge",
   "Ranking_Rating": 887,
-  "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2013-02-22T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -59,6 +59,6 @@
   "FirstSeenRating": "2023-03-31T05:57:36.1011646+00:00",
   "LastChanged": "2023-07-13T11:59:37.1040817+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:03.9649791+00:00",
-  "LastUpdate_Ratings": "2023-11-28T20:02:35.1715767+00:00",
-  "LastUpdate_Achievements": "2023-11-28T20:07:43.4458279+00:00"
+  "LastUpdate_Ratings": "2023-11-28T21:02:40.456234+00:00",
+  "LastUpdate_Achievements": "2023-11-28T21:07:25.5385577+00:00"
 }
