@@ -7,20 +7,20 @@ Rating: 4.56 (Ranked 494)
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~556 |
 | Don't judge a manhole by its cover | 60.00% | ~445 |
-| I just love stuff! | 42.00% | ~311 |
-| Keep 'em coming! | 42.00% | ~311 |
+| I just love stuff! | 42.00% | ~312 |
+| Keep 'em coming! | 42.00% | ~312 |
 | The things they print nowadays | 39.00% | ~289 |
 | Big Spender | 38.00% | ~282 |
-| That's gotta hurt | 35.00% | ~259 |
+| That's gotta hurt | 35.00% | ~260 |
 | I think it's broke | 26.00% | ~193 |
-| The Ann Flores Combo Experience | 26.00% | ~193 |
-| Club Star | 25.00% | ~185 |
-| Fire in the hole! | 21.00% | ~156 |
+| Club Star | 25.00% | ~186 |
+| The Ann Flores Combo Experience | 25.00% | ~186 |
+| Fire in the hole! | 20.00% | ~148 |
 | Omnipotence | 19.00% | ~141 |
 | The Warlord | 19.00% | ~141 |
 | You are the One | 19.00% | ~141 |
-| Deadly Kombationem | 18.00% | ~133 |
-| The truth is out there | 16.00% | ~119 |
+| Deadly Kombationem | 18.00% | ~134 |
+| The truth is out there | 15.00% | ~111 |
 | Annakin Skyscroller | 13.00% | ~96 |
 | In the smacker...I think | 10.00% | ~74 |
 | Arm Wrestlin' | 9.00% | ~67 |
@@ -30,10 +30,10 @@ Rating: 4.56 (Ranked 494)
 | I'm walking here! | 7.00% | ~52 |
 | Supreme Bartender Ann | 7.00% | ~52 |
 | Welcome home, 06 | 7.00% | ~52 |
-| Clarity of Mind | 6.00% | ~44 |
-| I feel secure, contained & protected | 6.00% | ~44 |
-| Science, it works! | 6.00% | ~44 |
-| The Traveler | 6.00% | ~44 |
+| Clarity of Mind | 6.00% | ~45 |
+| I feel secure, contained & protected | 6.00% | ~45 |
+| Science, it works! | 6.00% | ~45 |
+| The Traveler | 6.00% | ~45 |
 | Woman on a (side) mission | 4.00% | ~30 |
 | Ann ULTRA | 3.00% | ~22 |
 | Lady Luck is a cool cat | 3.00% | ~22 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 494)
 | Love me like I love my posters | 0.90% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741 (Ranked 279)  
+Progressed: 742 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-25 | 726 | 0 |
 | 2023-11-26 | 737 | 0 |
 | 2023-11-27 | 741 | 0 |
+| 2023-11-28 | 742 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

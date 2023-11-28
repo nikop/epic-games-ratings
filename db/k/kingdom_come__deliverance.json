@@ -8797,10 +8797,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28353,
       "NumberOfAwardsMax": 7630
+    },
+    {
+      "Time": "2023-11-28T02:22:02.827804+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28355,
+      "NumberOfAwardsMax": 7630
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28353,
+  "NumberOfAwards": 28355,
   "NumberOfAwardsMax": 7630,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8868,7 +8874,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1539
+      "Count": 1541
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8883,7 +8889,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 810231,
+  "EOS_Progressed": 810232,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 1,
@@ -33778,6 +33784,11 @@
       "Time": "2023-11-28T01:56:49.0559933+00:00",
       "NumProgressed": 810231,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-28T02:32:13.582224+00:00",
+      "NumProgressed": 810232,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -34325,7 +34336,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89125
+      "UsersEstimate": 89126
     },
     {
       "ID": "Sniper",
@@ -34397,7 +34408,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89125
+      "UsersEstimate": 89126
     },
     {
       "ID": "TrialAndError",
@@ -34444,15 +34455,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 810231,
+      "Progressed": 810232,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-27T22:58:36.5145507+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:56:49.0559929+00:00",
+  "LastChanged": "2023-11-28T02:22:02.8278038+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:32:13.5822237+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.8106757+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:46:32.5992763+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:56:49.0562119+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:22:02.8278043+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:32:13.5824315+00:00"
 }

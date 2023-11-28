@@ -18,8 +18,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Insomniac | 13.00% | ~105,330 |
 | Buddy | 12.00% | ~97,228 |
 | Thief | 12.00% | ~97,228 |
-| Sinner | 11.00% | ~89,125 |
-| Traveller | 11.00% | ~89,125 |
+| Sinner | 11.00% | ~89,126 |
+| Traveller | 11.00% | ~89,126 |
 | Convict | 10.00% | ~81,023 |
 | Haggler | 9.00% | ~72,921 |
 | McLovin | 7.00% | ~56,716 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~810 |
 | Wingman | 0.10% | ~810 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810,231 (Ranked 17)  
+Progressed: 810,232 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,10 +311,10 @@ Completed: 52 (0.01%) (Ranked 342)
 | 2023-11-25 | 809,896 | 52 |
 | 2023-11-26 | 810,082 | 52 |
 | 2023-11-27 | 810,216 | 52 |
-| 2023-11-28 | 810,231 | 52 |
+| 2023-11-28 | 810,232 | 52 |
 ## Awards
 Max (Character Customization): 7,630  (Ranked 51)  
-Sum: 28,353 (Ranked 49)  
+Sum: 28,355 (Ranked 49)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): 2
 | This game has Realistic Visuals | 1,674 |
 | This game has Amazing Characters | 1,671 |
 | This game is Educational | 1,612 |
-| This game is Relaxing | 1,539 |
+| This game is Relaxing | 1,541 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -638,3 +638,4 @@ Diff (max vs sum): 2
 | 2023-11-25 | 4.71 | - | 7,627 | 28,338 |
 | 2023-11-26 | 4.71 | - | 7,627 | 28,346 |
 | 2023-11-27 | 4.71 | - | 7,630 | 28,353 |
+| 2023-11-28 | 4.71 | - | 7,630 | 28,355 |

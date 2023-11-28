@@ -489,9 +489,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5525,
+  "EOS_Progressed": 5526,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7569,6 +7569,11 @@
       "Time": "2023-11-28T00:07:45.3768075+00:00",
       "NumProgressed": 5525,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-28T02:30:12.8997273+00:00",
+      "NumProgressed": 5526,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7580,7 +7585,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "10",
@@ -7596,7 +7601,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "12",
@@ -7620,7 +7625,7 @@
       "Name": "Full Ascension",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "15",
@@ -7724,7 +7729,7 @@
       "Name": "Bone Peddler",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "27",
@@ -7740,7 +7745,7 @@
       "Name": "From Friends to Family",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "29",
@@ -7748,7 +7753,7 @@
       "Name": "Stronger Together",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "3",
@@ -7772,7 +7777,7 @@
       "Name": "Magical Synergy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "32",
@@ -7788,7 +7793,7 @@
       "Name": "Seat of Power",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "34",
@@ -7796,7 +7801,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "35",
@@ -7980,7 +7985,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "52",
@@ -8059,13 +8064,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5525,
+      "Progressed": 5526,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5525,
+      "Progressed": 5526,
       "Completed": 7
     }
   ],
@@ -8073,8 +8078,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-27T19:58:44.8868894+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:54:20.6619447+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:30:12.8997267+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:46:40.0118011+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:54:20.6620245+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:22:11.1627144+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:30:12.8998003+00:00"
 }

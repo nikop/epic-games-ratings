@@ -6,7 +6,7 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~19,056 |
+| Light at the end of the tunnel | 77.00% | ~19,307 |
 | Mama? | 27.00% | ~6,770 |
 | People's Haven | 18.00% | ~4,513 |
 | Cartographer | 17.00% | ~4,263 |

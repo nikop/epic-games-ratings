@@ -12,11 +12,11 @@
 | The Plains of Strothalm | 68.00% | ~326 |
 | Experienced Thalya | 68.00% | ~326 |
 | Thalya's Concentrated Fury | 67.00% | ~321 |
-| Bad Elves Go Everywhere | 64.00% | ~307 |
+| Bad Elves Go Everywhere | 65.00% | ~311 |
 | Master of Magic | 63.00% | ~302 |
 | Heroes’ Gorge | 59.00% | ~283 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~278 |
-| Magic Accidents | 56.00% | ~268 |
+| Magic Accidents | 57.00% | ~273 |
 | Trap Master | 55.00% | ~263 |
 | Minions, Minions! | 53.00% | ~254 |
 | The Ascent | 49.00% | ~235 |
@@ -66,7 +66,7 @@
 | Hands Off My Stones | 5.00% | ~24 |
 | I Don't Need Any Help | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 314)  
+Progressed: 479 (Ranked 313)  
 Completed: 7 (1.46%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1389,6 +1389,11 @@
       "Time": "2023-11-28T01:57:30.5332847+00:00",
       "NumProgressed": 624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T02:32:57.4295635+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1417,7 +1422,7 @@
       "Name": "Gravel Guru",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_12",
@@ -1439,9 +1444,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_15",
@@ -1465,7 +1470,7 @@
       "Name": "Your first time?",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_18",
@@ -1489,7 +1494,7 @@
       "Name": "Team Principal",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "achievement_20",
@@ -1527,9 +1532,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 131
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_25",
@@ -1537,7 +1542,7 @@
       "Name": "E-stonia",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_26",
@@ -1608,7 +1613,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 0
     }
   ],
@@ -1616,8 +1621,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-27T19:59:21.6086932+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:57:30.5332843+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:32:57.4295632+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:47:16.8125974+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:57:30.5333179+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:22:53.1410902+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:32:57.4295905+00:00"
 }

@@ -5,43 +5,43 @@ Rating: 4.41 (Ranked 723)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~195,204 |
-| Destroyer-In-Chief | 56.00% | ~173,514 |
-| There Is No Pancakes | 53.00% | ~164,219 |
-| First of Many | 41.00% | ~127,037 |
-| Woah. | 36.00% | ~111,545 |
-| Don't Look Down | 29.00% | ~89,856 |
-| Don't Panic | 27.00% | ~83,659 |
-| Ooo A Piece of Candy! | 22.00% | ~68,166 |
-| Ghost in the Machine | 18.00% | ~55,772 |
-| All Too Easy | 15.00% | ~46,477 |
-| Didn't Need to See Him Naked | 13.00% | ~40,280 |
+| Zero Saints Thirty | 63.00% | ~195,207 |
+| Destroyer-In-Chief | 56.00% | ~173,518 |
+| There Is No Pancakes | 53.00% | ~164,222 |
+| First of Many | 41.00% | ~127,040 |
+| Woah. | 36.00% | ~111,547 |
+| Don't Look Down | 29.00% | ~89,857 |
+| Don't Panic | 27.00% | ~83,660 |
+| Ooo A Piece of Candy! | 22.00% | ~68,168 |
+| Ghost in the Machine | 18.00% | ~55,774 |
+| All Too Easy | 15.00% | ~46,478 |
+| Didn't Need to See Him Naked | 13.00% | ~40,281 |
 | Indomitable | 10.00% | ~30,985 |
-| Bow to the Boss! | 9.00% | ~27,886 |
-| Friend of the Raptors | 9.00% | ~27,886 |
+| Bow to the Boss! | 9.00% | ~27,887 |
+| Friend of the Raptors | 9.00% | ~27,887 |
 | About Time! | 8.00% | ~24,788 |
 | Blast from the Past | 8.00% | ~24,788 |
-| Actor-Turned-Politician | 7.00% | ~21,689 |
-| Betrayed | 7.00% | ~21,689 |
-| Maximum Stopping Power | 7.00% | ~21,689 |
+| Actor-Turned-Politician | 7.00% | ~21,690 |
+| Betrayed | 7.00% | ~21,690 |
+| Maximum Stopping Power | 7.00% | ~21,690 |
 | Double Team | 6.00% | ~18,591 |
 | Keymaster | 6.00% | ~18,591 |
 | Poodle Skirt | 6.00% | ~18,591 |
 | You Chose... Poorly | 6.00% | ~18,591 |
-| Imperator | 5.00% | ~15,492 |
+| Imperator | 5.00% | ~15,493 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~12,394 |
 | Half Way Home | 4.00% | ~12,394 |
 | How It Should Be | 4.00% | ~12,394 |
 | Machine Man | 4.00% | ~12,394 |
 | The Full Kinzie | 4.00% | ~12,394 |
-| ...A Saint Gets a Gun | 3.00% | ~9,295 |
-| And I Ran... | 3.00% | ~9,295 |
-| Chill Out | 3.00% | ~9,295 |
-| Elementary | 3.00% | ~9,295 |
-| On Her Saint's Secret Service | 3.00% | ~9,295 |
-| Paranormal Bromance | 3.00% | ~9,295 |
-| Saints & Sensibility | 3.00% | ~9,295 |
-| The Two Shaundis | 3.00% | ~9,295 |
+| ...A Saint Gets a Gun | 3.00% | ~9,296 |
+| And I Ran... | 3.00% | ~9,296 |
+| Chill Out | 3.00% | ~9,296 |
+| Elementary | 3.00% | ~9,296 |
+| On Her Saint's Secret Service | 3.00% | ~9,296 |
+| Paranormal Bromance | 3.00% | ~9,296 |
+| Saints & Sensibility | 3.00% | ~9,296 |
+| The Two Shaundis | 3.00% | ~9,296 |
 | Benjamin [CENSORED] King | 2.00% | ~6,197 |
 | Better This Way | 2.00% | ~6,197 |
 | Bouncin' with an Old Friend | 2.00% | ~6,197 |
@@ -49,13 +49,13 @@ Rating: 4.41 (Ranked 723)
 | The Face of the Saints | 2.00% | ~6,197 |
 | The Twin Saints | 2.00% | ~6,197 |
 | Where's My Cape? | 2.00% | ~6,197 |
-| A Real Cluster.... | 1.00% | ~3,098 |
-| A Very Genki Holiday | 1.00% | ~3,098 |
-| Here! Catch! | 1.00% | ~3,098 |
-| Minty Fresh! | 1.00% | ~3,098 |
-| Switch Hitter | 1.00% | ~3,098 |
-| The Whole Story | 1.00% | ~3,098 |
-| Zoo Keeper | 1.00% | ~3,098 |
+| A Real Cluster.... | 1.00% | ~3,099 |
+| A Very Genki Holiday | 1.00% | ~3,099 |
+| Here! Catch! | 1.00% | ~3,099 |
+| Minty Fresh! | 1.00% | ~3,099 |
+| Switch Hitter | 1.00% | ~3,099 |
+| The Whole Story | 1.00% | ~3,099 |
+| Zoo Keeper | 1.00% | ~3,099 |
 | Make a List, Check it Twice | 0.90% | ~2,789 |
 | Dear Santa | 0.70% | ~2,169 |
 | Rigging the Race | 0.70% | ~2,169 |
@@ -78,7 +78,7 @@ Rating: 4.41 (Ranked 723)
 | Super Power Team Up! | 0.10% | ~310 |
 | Ultimate Hot Potato | 0.10% | ~310 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309,847 (Ranked 53)  
+Progressed: 309,853 (Ranked 53)  
 Completed: 16 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 16 (0.01%) (Ranked 342)
 | 2023-11-25 | 308,581 | 16 |
 | 2023-11-26 | 309,273 | 16 |
 | 2023-11-27 | 309,794 | 16 |
-| 2023-11-28 | 309,847 | 16 |
+| 2023-11-28 | 309,853 | 16 |
 ## Awards
 Max (Great Boss Battles): 493  (Ranked 212)  
 Sum: 493 (Ranked 326)  

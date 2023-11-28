@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 2.00% | ~2,851 |
 | Research & Development | 2.00% | ~2,851 |
 | Vanity, Verily | 2.00% | ~2,851 |
+| Big Game Hunting | 2.00% | ~2,851 |
 | Fated Encounters | 2.00% | ~2,851 |
 | For the Hoard! | 2.00% | ~2,851 |
 | Blank Page Syndrome | 2.00% | ~2,851 |
@@ -67,7 +68,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 1.00% | ~1,426 |
 | The King's Caprice | 1.00% | ~1,426 |
 | Thirst for Knowledge | 1.00% | ~1,426 |
-| Big Game Hunting | 1.00% | ~1,426 |
 | Booty by the Boatload | 1.00% | ~1,426 |
 | Archivist | 1.00% | ~1,426 |
 | Locally Sourced | 1.00% | ~1,426 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,567 (Ranked 80)  
+Progressed: 142,570 (Ranked 80)  
 Completed: 279 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 279 (0.20%) (Ranked 257)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,567 | 279 |
+| 2023-11-28 | 142,570 | 279 |
 ## Awards
 Max (Great for Beginners): 4,848  (Ranked 75)  
 Sum: 27,609 (Ranked 50)  

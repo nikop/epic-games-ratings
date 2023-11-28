@@ -4,7 +4,7 @@
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1019,
   "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 183,
+  "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 760,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 478,
@@ -1695,10 +1695,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 2776,
       "NumberOfAwardsMax": 389
+    },
+    {
+      "Time": "2023-11-28T02:22:00.4746938+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 2783,
+      "NumberOfAwardsMax": 389
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2776,
+  "NumberOfAwards": 2783,
   "NumberOfAwardsMax": 389,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1706,7 +1712,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 337
+      "Count": 344
     },
     {
       "Text": "This game is Relaxing",
@@ -1775,8 +1781,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-11-27T20:58:31.7131919+00:00",
+  "LastChanged": "2023-11-28T02:22:00.4746934+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:01.3229372+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:46:29.6554957+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:56:52.9437942+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:22:00.4746941+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:32:17.5742864+00:00"
 }

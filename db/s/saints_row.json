@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4101,9 +4101,9 @@
       "Count": 1078
     }
   ],
-  "EOS_Progressed": 80413,
+  "EOS_Progressed": 80414,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1032,
+  "EOS_NewPlayers": 1029,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29221,6 +29221,11 @@
       "Time": "2023-11-28T01:56:58.8285471+00:00",
       "NumProgressed": 80413,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-28T02:32:23.8092787+00:00",
+      "NumProgressed": 80414,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 53,
@@ -29248,7 +29253,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14474
+      "UsersEstimate": 14475
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -29264,7 +29269,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -29280,7 +29285,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 20907
+      "UsersEstimate": 20908
     },
     {
       "ID": "complet_epilogue_mission",
@@ -29352,7 +29357,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 27340
+      "UsersEstimate": 27341
     },
     {
       "ID": "customize_a_weapon",
@@ -29408,7 +29413,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 20907
+      "UsersEstimate": 20908
     },
     {
       "ID": "empire_tier_3",
@@ -29416,7 +29421,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 15278
+      "UsersEstimate": 15279
     },
     {
       "ID": "empire_tier_4",
@@ -29440,7 +29445,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 26536
+      "UsersEstimate": 26537
     },
     {
       "ID": "fully_complete_a_building",
@@ -29616,7 +29621,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33773
+      "UsersEstimate": 33774
     },
     {
       "ID": "whole_map_purple",
@@ -29648,20 +29653,20 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 80413,
+      "Progressed": 80414,
       "Completed": 53
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 52050,
+      "Progressed": 52051,
       "Completed": 4391
     }
   ],
@@ -29669,8 +29674,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-27T11:03:04.3576419+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:56:58.8285469+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:32:23.8092785+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.0685781+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:51:02.6984163+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:56:58.8286818+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:26:35.809258+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:32:23.8094188+00:00"
 }

@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6875,
+  "EOS_Progressed": 6880,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1205,
+  "EOS_NewPlayers": 1210,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4725,6 +4725,11 @@
       "Time": "2023-11-28T01:57:18.4517447+00:00",
       "NumProgressed": 6875,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-28T02:32:45.034383+00:00",
+      "NumProgressed": 6880,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4745,7 +4750,7 @@
       "Name": "Baby Steps",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "BeLikeWater",
@@ -4777,7 +4782,7 @@
       "Name": "Connection Lost",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "Eavesdropper",
@@ -4809,7 +4814,7 @@
       "Name": "First Time?",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1858
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4817,7 +4822,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "GarbageMan",
@@ -4889,7 +4894,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4937,7 +4942,7 @@
       "Name": "The Quarterback",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ThisIsDharma",
@@ -4961,7 +4966,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -4977,7 +4982,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -5008,7 +5013,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 6875,
+      "Progressed": 6880,
       "Completed": 8
     }
   ],
@@ -5016,8 +5021,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-27T07:58:34.9093892+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:57:18.4517443+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:32:45.0343826+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:46:25.0812092+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:57:18.4517791+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:21:54.5576532+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:32:45.03443+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2023-11-27T19:04:35.4183375+00:00",
       "NumProgressed": 92,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T02:27:51.5365602+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -504,7 +509,7 @@
       "ID": "ACH_40075_KM",
       "SetID": "8h8m55b",
       "Name": "40,075Km",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -554,13 +559,13 @@
       "Name": "First Brew",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
       "UsersEstimate": 75
     },
@@ -730,7 +735,7 @@
       "Name": "Welcome to Coffee Talk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -784,7 +789,7 @@
       "ID": "ACH_TENDER_SOUL",
       "SetID": "8h8m55b",
       "Name": "Tender Soul",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -818,7 +823,7 @@
       "Name": "Let me start over",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -840,7 +845,7 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 43
     },
@@ -913,14 +918,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:52:10.3983614+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:27:51.5365599+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:56.257571+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:50:48.8518768+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:52:10.3983952+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:26:22.0108065+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:27:51.5365927+00:00"
 }

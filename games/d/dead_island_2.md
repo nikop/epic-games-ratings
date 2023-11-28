@@ -6,9 +6,10 @@ Rating: 4.54 (Ranked 528)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,571 |
-| Break A Leg | 2.00% | ~14,536 |
-| Hotel California | 2.00% | ~14,536 |
-| Welcome To Hell-A | 2.00% | ~14,536 |
+| Break A Leg | 2.00% | ~14,537 |
+| Coup de Grâce | 2.00% | ~14,537 |
+| Hotel California | 2.00% | ~14,537 |
+| Welcome To Hell-A | 2.00% | ~14,537 |
 | One of Us | 2.00% | ~1,047 |
 | Pork Chopped | 2.00% | ~1,047 |
 | Dr. Reed, I Presume? | 1.00% | ~7,268 |
@@ -20,7 +21,6 @@ Rating: 4.54 (Ranked 528)
 | But Doctor, I am Butcho | 1.00% | ~7,268 |
 | Slayer Squad | 1.00% | ~7,268 |
 | Can't Handle the Truth | 1.00% | ~7,268 |
-| Coup de Grâce | 1.00% | ~7,268 |
 | Like Riding a Bike | 1.00% | ~7,268 |
 | Hazardous Materials | 1.00% | ~7,268 |
 | Friends Like These | 1.00% | ~7,268 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726,818 (Ranked 21)  
+Progressed: 726,831 (Ranked 21)  
 Completed: 2,444 (0.34%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2,444 (0.34%) (Ranked 230)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 726,818 | 2,444 |
+| 2023-11-28 | 726,831 | 2,444 |
 ## Awards
 Max (Great Boss Battles): 7,760  (Ranked 49)  
 Sum: 11,883 (Ranked 84)  

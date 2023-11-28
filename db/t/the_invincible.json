@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 403,
+  "EOS_Progressed": 404,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 1,
@@ -1065,6 +1065,11 @@
       "Time": "2023-11-28T01:56:44.3429997+00:00",
       "NumProgressed": 403,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T02:32:08.5066346+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1077,7 +1082,7 @@
       "Name": "The Teleprobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "AchvAllMemories",
@@ -1093,7 +1098,7 @@
       "Name": "On her own",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "AchvBattleScore",
@@ -1101,7 +1106,7 @@
       "Name": "Fierce fight",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AchvBombStop",
@@ -1157,7 +1162,7 @@
       "Name": "Evacuation",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AchvInvShip",
@@ -1291,9 +1296,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 105
+      "UsersEstimate": 101
     },
     {
       "ID": "AchvUnity",
@@ -1301,21 +1306,21 @@
       "Name": "Beyond divisions",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 403,
+      "Progressed": 404,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:56:44.3429993+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:32:08.5066342+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:45:59.9503825+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:56:44.3430181+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:21:27.4131144+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:32:08.5066557+00:00"
 }

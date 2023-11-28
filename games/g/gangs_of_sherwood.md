@@ -8,19 +8,19 @@
 | Act of Kindness | 75.00% | ~12 |
 | The Altruist | 63.00% | ~10 |
 | Oo-De-Lally | 56.00% | ~9 |
+| Watch your Step! | 56.00% | ~9 |
 | Treasure Hunter | 56.00% | ~9 |
 | Savior | 44.00% | ~7 |
 | Tap Dancing | 44.00% | ~7 |
-| Watch your Step! | 44.00% | ~7 |
+| MAX LEVEL | 44.00% | ~7 |
 | Merry Co-operation | 38.00% | ~6 |
 | Right between the eyes | 38.00% | ~6 |
 | Rebel Unleashed | 38.00% | ~6 |
-| MAX LEVEL | 38.00% | ~6 |
+| Starry Night | 31.00% | ~5 |
 | Finish Him! | 31.00% | ~5 |
 | Locksley's Tears | 31.00% | ~5 |
 | Assault on the Ram | 31.00% | ~5 |
 | Spring Board | 31.00% | ~5 |
-| Starry Night | 25.00% | ~4 |
 | Ultra Rebel Instinct | 25.00% | ~4 |
 | Take Action! | 25.00% | ~4 |
 | Merry Go Round | 25.00% | ~4 |

@@ -10,16 +10,16 @@ Rating: 4.61 (Ranked 382)
 | A Wonderful Discovery | 3.00% | ~166 |
 | Secret Technique | 3.00% | ~166 |
 | Walls Cannot Stop Us | 3.00% | ~166 |
-| Valley of Wonders | 2.00% | ~110 |
-| There Can Only Be One! | 2.00% | ~110 |
-| Full Ascension | 2.00% | ~110 |
-| Bone Peddler | 2.00% | ~110 |
-| From Friends to Family | 2.00% | ~110 |
-| Stronger Together | 2.00% | ~110 |
-| Magical Synergy | 2.00% | ~110 |
-| Seat of Power | 2.00% | ~110 |
-| In a Liege of Your Own | 2.00% | ~110 |
-| Freed Lands of Manuhari | 2.00% | ~110 |
+| Valley of Wonders | 2.00% | ~111 |
+| There Can Only Be One! | 2.00% | ~111 |
+| Full Ascension | 2.00% | ~111 |
+| Bone Peddler | 2.00% | ~111 |
+| From Friends to Family | 2.00% | ~111 |
+| Stronger Together | 2.00% | ~111 |
+| Magical Synergy | 2.00% | ~111 |
+| Seat of Power | 2.00% | ~111 |
+| In a Liege of Your Own | 2.00% | ~111 |
+| Freed Lands of Manuhari | 2.00% | ~111 |
 | Return of the Wizard King | 1.00% | ~55 |
 | Enchanted Archipelago | 1.00% | ~55 |
 | Digging for Treasure | 1.00% | ~55 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 382)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,525 (Ranked 189)  
+Progressed: 5,526 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 7 (0.13%) (Ranked 274)
 | 2023-11-25 | 5,496 | 7 |
 | 2023-11-26 | 5,515 | 7 |
 | 2023-11-27 | 5,524 | 7 |
-| 2023-11-28 | 5,525 | 7 |
+| 2023-11-28 | 5,526 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 476)  
 Sum: 61 (Ranked 477)  

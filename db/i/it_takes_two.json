@@ -4,7 +4,7 @@
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24534,
+  "EOS_Progressed": 24535,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1638,
+  "EOS_NewPlayers": 1634,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8063,6 +8063,11 @@
       "Time": "2023-11-28T01:56:52.0099345+00:00",
       "NumProgressed": 24534,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-11-28T02:32:16.6637327+00:00",
+      "NumProgressed": 24535,
+      "NumCompleted": 105
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -8099,7 +8104,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 13984
+      "UsersEstimate": 13985
     },
     {
       "ID": "achievement_13",
@@ -8147,7 +8152,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "achievement_19",
@@ -8187,7 +8192,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 21590
+      "UsersEstimate": 21591
     },
     {
       "ID": "achievement_5",
@@ -8234,13 +8239,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 24534,
+      "Progressed": 24535,
       "Completed": 105
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:56:52.0099342+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:32:16.6637323+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:15.6228469+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:45:11.1612608+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:56:52.0099938+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:20:33.5251039+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:32:16.6637966+00:00"
 }

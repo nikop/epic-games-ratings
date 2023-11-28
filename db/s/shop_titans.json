@@ -7255,9 +7255,9 @@
       "Count": 3786
     }
   ],
-  "EOS_Progressed": 142567,
+  "EOS_Progressed": 142570,
   "EOS_Completed": 279,
-  "EOS_NewPlayers": 1825,
+  "EOS_NewPlayers": 1827,
   "EOS_NewCompleters": 91,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30150,6 +30150,11 @@
       "Time": "2023-11-28T01:51:22.842351+00:00",
       "NumProgressed": 142567,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-11-28T02:26:59.9012096+00:00",
+      "NumProgressed": 142570,
+      "NumCompleted": 279
     }
   ],
   "TotalAchievements": 112,
@@ -30303,9 +30308,9 @@
       "ID": "boss02",
       "SetID": "anfd17p",
       "Name": "Big Game Hunting",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 2851
     },
     {
       "ID": "boss03",
@@ -31056,15 +31061,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142567,
+      "Progressed": 142570,
       "Completed": 279
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-27T16:03:08.6604684+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:51:22.8423507+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:26:59.9012092+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:50:53.4592153+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:51:22.8425334+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:26:27.3428331+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:26:59.9014459+00:00"
 }

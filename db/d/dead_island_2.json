@@ -6987,9 +6987,9 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 726818,
+  "EOS_Progressed": 726831,
   "EOS_Completed": 2444,
-  "EOS_NewPlayers": 5188,
+  "EOS_NewPlayers": 5189,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32347,6 +32347,11 @@
       "Time": "2023-11-28T01:54:30.4194792+00:00",
       "NumProgressed": 726818,
       "NumCompleted": 2444
+    },
+    {
+      "Time": "2023-11-28T02:30:23.6130491+00:00",
+      "NumProgressed": 726831,
+      "NumCompleted": 2444
     }
   ],
   "TotalAchievements": 51,
@@ -32422,7 +32427,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14536
+      "UsersEstimate": 14537
     },
     {
       "ID": "ach_contender",
@@ -32476,9 +32481,9 @@
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7268
+      "UsersEstimate": 14537
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -32518,7 +32523,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14536
+      "UsersEstimate": 14537
     },
     {
       "ID": "ach_impressive_aim",
@@ -32694,7 +32699,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14536
+      "UsersEstimate": 14537
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32765,13 +32770,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 726818,
+      "Progressed": 726831,
       "Completed": 2444
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 52360,
+      "Progressed": 52373,
       "Completed": 36609
     }
   ],
@@ -32779,8 +32784,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-27T23:57:06.9242353+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:54:30.4194789+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:30:23.6130486+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:45:16.5739233+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:54:30.4196067+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:20:39.2768049+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:30:23.6132001+00:00"
 }

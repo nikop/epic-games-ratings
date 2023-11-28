@@ -743,9 +743,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Achi_23",
@@ -984,8 +984,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:57:35.8952142+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:33:02.9285325+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.1833402+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:45:35.6116171+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:57:35.8952456+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:21:00.4529735+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:33:02.9285635+00:00"
 }

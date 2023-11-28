@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 741,
+  "EOS_Progressed": 742,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -812,6 +812,11 @@
       "Time": "2023-11-27T14:05:32.2466253+00:00",
       "NumProgressed": 741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T02:29:24.2972881+00:00",
+      "NumProgressed": 742,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -855,7 +860,7 @@
       "Name": "Clarity of Mind",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Club_Star",
@@ -863,7 +868,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Combine",
@@ -879,15 +884,15 @@
       "Name": "Deadly Kombationem",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Fire in the hole!",
       "SetID": "gl7plp",
       "Name": "Fire in the hole!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 148
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -895,7 +900,7 @@
       "Name": "I feel secure, contained \u0026 protected",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "I\u0027m walking here!",
@@ -911,7 +916,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "I_think_its_broke",
@@ -935,7 +940,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Lady_Luck",
@@ -967,7 +972,7 @@
       "Name": "Science, it works!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "So_Fresh",
@@ -999,7 +1004,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "The Traveler",
@@ -1007,7 +1012,7 @@
       "Name": "The Traveler",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "The_Age_of_Mutationem",
@@ -1021,9 +1026,9 @@
       "ID": "The_Ann_Flores_Combo_Experience",
       "SetID": "gl7plp",
       "Name": "The Ann Flores Combo Experience",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 186
     },
     {
       "ID": "The_Warlord",
@@ -1045,9 +1050,9 @@
       "ID": "The_truth_is_out_there",
       "SetID": "gl7plp",
       "Name": "The truth is out there",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 111
     },
     {
       "ID": "This_cant_be_right",
@@ -1110,7 +1115,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 741,
+      "Progressed": 742,
       "Completed": 0
     }
   ],
@@ -1118,8 +1123,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:53:35.9921667+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:29:24.2972878+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:48:21.4076101+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:53:35.992188+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:24:02.9118626+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:29:24.2973111+00:00"
 }

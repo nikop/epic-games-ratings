@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7543,
+  "EOS_Progressed": 7544,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -5943,6 +5943,11 @@
       "Time": "2023-11-27T07:04:38.0398725+00:00",
       "NumProgressed": 7543,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-28T02:28:52.9961142+00:00",
+      "NumProgressed": 7544,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5994,7 +5999,7 @@
       "Name": "Harp Tuned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -6002,7 +6007,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -6106,7 +6111,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4224
+      "UsersEstimate": 4225
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6130,7 +6135,7 @@
       "Name": "Travelers Returned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -6154,7 +6159,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6169,15 +6174,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7543,
+      "Progressed": 7544,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:53:07.2240859+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:28:52.9961139+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:18.312921+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:51:00.7074574+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:53:07.2241318+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:26:33.602818+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:28:52.9961596+00:00"
 }

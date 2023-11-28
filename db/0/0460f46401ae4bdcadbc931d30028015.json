@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -765,7 +765,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3918,
+  "EOS_Progressed": 3919,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
@@ -6130,6 +6130,11 @@
       "Time": "2023-11-28T01:53:04.1910804+00:00",
       "NumProgressed": 3918,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T02:28:49.7554471+00:00",
+      "NumProgressed": 3919,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6150,7 +6155,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "achievement_11",
@@ -6238,7 +6243,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "achievement_21",
@@ -6294,7 +6299,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "achievement_9",
@@ -6309,7 +6314,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3918,
+      "Progressed": 3919,
       "Completed": 0
     }
   ],
@@ -6317,8 +6322,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-28T01:47:14.0748099+00:00",
-  "LastChanged_Achievements": "2023-11-28T01:53:04.1910801+00:00",
+  "LastChanged_Achievements": "2023-11-28T02:28:49.7554467+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-28T01:47:14.0748108+00:00",
-  "LastUpdate_Achievements": "2023-11-28T01:53:04.1911191+00:00"
+  "LastUpdate_Ratings": "2023-11-28T02:22:50.0386953+00:00",
+  "LastUpdate_Achievements": "2023-11-28T02:28:49.755486+00:00"
 }

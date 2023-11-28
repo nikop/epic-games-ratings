@@ -9,7 +9,7 @@ Rating: 4.42 (Ranked 717)
 | A new Journey | 75.00% | ~1,700 |
 | Departure | 74.00% | ~1,677 |
 | From X to Y | 73.00% | ~1,654 |
-| Way of Iron | 70.00% | ~1,586 |
+| Way of Iron | 71.00% | ~1,609 |
 | Mystery Tour | 69.00% | ~1,564 |
 | We brake for nobody | 68.00% | ~1,541 |
 | Brainstorm | 66.00% | ~1,496 |

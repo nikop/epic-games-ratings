@@ -11,12 +11,12 @@
 | Pest Control | 26.00% | ~322 |
 | Exhaustive Explorer | 26.00% | ~322 |
 | How Low Can We Go? | 24.00% | ~297 |
-| Team Builder | 20.00% | ~247 |
+| Team Builder | 20.00% | ~248 |
 | Long Live Rock | 16.00% | ~198 |
 | Aggressive Antivirus | 15.00% | ~186 |
 | Effective Efficiency | 13.00% | ~161 |
-| Unblurred Lines | 12.00% | ~148 |
-| Obsessively Thorough | 12.00% | ~148 |
+| Unblurred Lines | 12.00% | ~149 |
+| Obsessively Thorough | 12.00% | ~149 |
 | Endlessly Effective | 11.00% | ~136 |
 | What's Behind Every Door? | 6.00% | ~74 |
 | No Stone Unturned | 5.00% | ~62 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,237 (Ranked 249)  
+Progressed: 1,238 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,3 +79,4 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-25 | 1,194 | 0 |
 | 2023-11-26 | 1,219 | 0 |
 | 2023-11-27 | 1,237 | 0 |
+| 2023-11-28 | 1,238 | 0 |
