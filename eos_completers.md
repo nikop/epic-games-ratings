@@ -8,11 +8,11 @@
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.06% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.81% |
-| 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.02% |
+| 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.56% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 26.77% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 26.76% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.16% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -71,7 +71,7 @@
 | 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.39% |
+| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.38% |
 | 73 | [JARS](games/j/jars.md) | 5.00% |
 | 74 | [Bugsnax](games/b/bugsnax.md) | 4.83% |
 | 75 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -126,7 +126,7 @@
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.27% |
 | 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.22% |
 | 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.09% |
-| 127 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.98% |
+| 127 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.96% |
 | 128 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 129 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
 | 130 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
@@ -166,8 +166,8 @@
 | 163 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 165 | [The Devil's Face](games/t/the_devil's_face.md) | 1.04% |
 | 166 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.03% |
-| 167 | [Sable](games/s/sable.md) | 1.01% |
-| 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
+| 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
+| 168 | [Sable](games/s/sable.md) | 1.01% |
 | 169 | [Trifox](games/t/trifox.md) | 0.96% |
 | 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.95% |
 | 171 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
@@ -247,7 +247,7 @@
 | 244 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.28% |
 | 244 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 247 | [Filament](games/f/filament.md) | 0.26% |
-| 247 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.26% |
+| 248 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.25% |
 | 249 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 249 | [The Invincible](games/t/the_invincible.md) | 0.24% |
 | 251 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
@@ -279,14 +279,14 @@
 | 275 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
 | 275 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 275 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 280 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.12% |
 | 280 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 282 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
-| 282 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.11% |
-| 282 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
-| 282 | [Isonzo](games/i/isonzo.md) | 0.11% |
-| 282 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 282 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
+| 281 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
+| 281 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.11% |
+| 281 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
+| 281 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.11% |
+| 281 | [Isonzo](games/i/isonzo.md) | 0.11% |
+| 281 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 281 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 288 | [Black Book](games/b/black_book.md) | 0.10% |
 | 288 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 288 | [Supraland](games/s/supraland.md) | 0.10% |
