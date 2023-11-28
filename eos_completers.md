@@ -23,7 +23,7 @@
 | 20 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
-| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.58% |
+| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.53% |
 | 25 | [Island Cities](games/i/island_cities.md) | 17.12% |
 | 26 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 26 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
@@ -59,8 +59,8 @@
 | 57 | [Sonic Origins](games/s/sonic_origins.md) | 7.22% |
 | 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 59 | [Time Loader](games/t/time_loader.md) | 7.03% |
-| 60 | [Scorn](games/s/scorn.md) | 6.96% |
-| 61 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.94% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.00% |
+| 61 | [Scorn](games/s/scorn.md) | 6.96% |
 | 62 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.80% |
 | 63 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
@@ -87,8 +87,8 @@
 | 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.26% |
 | 86 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.21% |
 | 87 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
-| 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.04% |
-| 89 | [The Bunker](games/t/the_bunker.md) | 4.03% |
+| 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.03% |
+| 88 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 90 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 3.85% |
 | 91 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.80% |
 | 92 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.79% |
@@ -168,8 +168,8 @@
 | 166 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 167 | [Sable](games/s/sable.md) | 1.01% |
 | 168 | [Trifox](games/t/trifox.md) | 0.96% |
-| 169 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
-| 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
+| 169 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.95% |
+| 170 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 171 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.92% |
 | 172 | [Hades](games/h/hades.md) | 0.91% |
 | 173 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
@@ -185,7 +185,7 @@
 | 183 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 184 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 184 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
-| 186 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.66% |
+| 186 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.65% |
 | 187 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.64% |
 | 187 | [Dead Space](games/d/dead_space.md) | 0.64% |
 | 189 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.61% |
