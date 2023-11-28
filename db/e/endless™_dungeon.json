@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1243,
+  "EOS_Progressed": 1244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2220,6 +2220,11 @@
       "Time": "2023-11-28T12:05:21.4815847+00:00",
       "NumProgressed": 1243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T16:04:22.8838118+00:00",
+      "NumProgressed": 1244,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2280,7 +2285,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -2344,7 +2349,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -2471,14 +2476,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1243,
+      "Progressed": 1244,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:04:38.2862227+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:04:22.8838113+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.3423297+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:59:56.3895151+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:04:38.286253+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:59:39.0921781+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:04:22.8838445+00:00"
 }

@@ -21,8 +21,8 @@ Rating: 4.68 (Ranked 254)
 | Writing a new Chapter | 26.00% | ~1,547 |
 | Spring Cleaning | 24.00% | ~1,428 |
 | Reduce | 21.00% | ~1,250 |
+| Ups and Downs | 21.00% | ~1,250 |
 | Crucial Combo | 20.00% | ~1,190 |
-| Ups and Downs | 20.00% | ~1,190 |
 | Reuse | 18.00% | ~1,071 |
 | One for the Book | 17.00% | ~1,012 |
 | Proving Them Wrong | 17.00% | ~1,012 |

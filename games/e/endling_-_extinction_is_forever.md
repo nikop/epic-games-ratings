@@ -11,13 +11,13 @@
 | Never Give Up | 39.00% | ~213 |
 | Tasty | 37.00% | ~202 |
 | Lullaby | 31.00% | ~169 |
-| You Can Pet The Fox | 29.00% | ~158 |
+| You Can Pet The Fox | 30.00% | ~164 |
 | Hard Fox Life | 24.00% | ~131 |
 | Never Let Down | 23.00% | ~126 |
 | A Barking Fox Doesn't Bite | 22.00% | ~120 |
 | Chicken Dinner | 21.00% | ~115 |
 | Peaceful Instinct | 18.00% | ~98 |
-| Maternity | 16.00% | ~87 |
+| Maternity | 17.00% | ~93 |
 | Barking in The Rain | 15.00% | ~82 |
 | Family Reunion | 14.00% | ~76 |
 | Never Run Around | 14.00% | ~76 |

@@ -3,12 +3,12 @@
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 16,
-  "Ranking_Popularity": 254,
+  "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 483,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
     "PcReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -3209,11 +3209,17 @@
       "Rating": 4.88,
       "NumberOfAwards": 2511,
       "NumberOfAwardsMax": 296
+    },
+    {
+      "Time": "2023-11-28T15:57:35.6860656+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2512,
+      "NumberOfAwardsMax": 297
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2511,
-  "NumberOfAwardsMax": 296,
+  "NumberOfAwards": 2512,
+  "NumberOfAwardsMax": 297,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3280,7 +3286,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 296
+      "Count": 297
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3300,8 +3306,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-11-28T13:02:37.3237173+00:00",
+  "LastChanged": "2023-11-28T15:57:35.6860654+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:21.7416334+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:57:45.1776484+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:05:52.1649376+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:57:35.6860661+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:05:35.0192647+00:00"
 }

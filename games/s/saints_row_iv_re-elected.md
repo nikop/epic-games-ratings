@@ -5,30 +5,30 @@ Rating: 4.41 (Ranked 723)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~195,341 |
-| Destroyer-In-Chief | 56.00% | ~173,636 |
-| There Is No Pancakes | 53.00% | ~164,334 |
-| First of Many | 41.00% | ~127,127 |
-| Woah. | 36.00% | ~111,623 |
-| Don't Look Down | 29.00% | ~89,919 |
-| Don't Panic | 27.00% | ~83,718 |
-| Ooo A Piece of Candy! | 22.00% | ~68,214 |
-| Ghost in the Machine | 18.00% | ~55,812 |
-| All Too Easy | 15.00% | ~46,510 |
-| Didn't Need to See Him Naked | 13.00% | ~40,308 |
-| Indomitable | 10.00% | ~31,006 |
-| Bow to the Boss! | 9.00% | ~27,906 |
-| Friend of the Raptors | 9.00% | ~27,906 |
-| About Time! | 8.00% | ~24,805 |
-| Blast from the Past | 8.00% | ~24,805 |
-| Actor-Turned-Politician | 7.00% | ~21,705 |
-| Betrayed | 7.00% | ~21,705 |
-| Maximum Stopping Power | 7.00% | ~21,705 |
-| Keymaster | 6.00% | ~18,604 |
-| Poodle Skirt | 6.00% | ~18,604 |
-| You Chose... Poorly | 6.00% | ~18,604 |
-| Double Team | 5.00% | ~15,503 |
-| Imperator | 5.00% | ~15,503 |
+| Zero Saints Thirty | 63.00% | ~195,350 |
+| Destroyer-In-Chief | 56.00% | ~173,644 |
+| There Is No Pancakes | 53.00% | ~164,342 |
+| First of Many | 41.00% | ~127,132 |
+| Woah. | 36.00% | ~111,628 |
+| Don't Look Down | 29.00% | ~89,923 |
+| Don't Panic | 27.00% | ~83,721 |
+| Ooo A Piece of Candy! | 22.00% | ~68,217 |
+| Ghost in the Machine | 18.00% | ~55,814 |
+| All Too Easy | 15.00% | ~46,512 |
+| Didn't Need to See Him Naked | 13.00% | ~40,310 |
+| Indomitable | 10.00% | ~31,008 |
+| Bow to the Boss! | 9.00% | ~27,907 |
+| Friend of the Raptors | 9.00% | ~27,907 |
+| About Time! | 8.00% | ~24,806 |
+| Blast from the Past | 8.00% | ~24,806 |
+| Actor-Turned-Politician | 7.00% | ~21,706 |
+| Betrayed | 7.00% | ~21,706 |
+| Maximum Stopping Power | 7.00% | ~21,706 |
+| Keymaster | 6.00% | ~18,605 |
+| Poodle Skirt | 6.00% | ~18,605 |
+| You Chose... Poorly | 6.00% | ~18,605 |
+| Double Team | 5.00% | ~15,504 |
+| Imperator | 5.00% | ~15,504 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~12,403 |
 | Half Way Home | 4.00% | ~12,403 |
 | How It Should Be | 4.00% | ~12,403 |
@@ -42,13 +42,13 @@ Rating: 4.41 (Ranked 723)
 | Paranormal Bromance | 3.00% | ~9,302 |
 | Saints & Sensibility | 3.00% | ~9,302 |
 | The Two Shaundis | 3.00% | ~9,302 |
-| Benjamin [CENSORED] King | 2.00% | ~6,201 |
-| Better This Way | 2.00% | ~6,201 |
-| Bouncin' with an Old Friend | 2.00% | ~6,201 |
-| Our Gift to You | 2.00% | ~6,201 |
-| The Face of the Saints | 2.00% | ~6,201 |
-| The Twin Saints | 2.00% | ~6,201 |
-| Where's My Cape? | 2.00% | ~6,201 |
+| Benjamin [CENSORED] King | 2.00% | ~6,202 |
+| Better This Way | 2.00% | ~6,202 |
+| Bouncin' with an Old Friend | 2.00% | ~6,202 |
+| Our Gift to You | 2.00% | ~6,202 |
+| The Face of the Saints | 2.00% | ~6,202 |
+| The Twin Saints | 2.00% | ~6,202 |
+| Where's My Cape? | 2.00% | ~6,202 |
 | A Real Cluster.... | 1.00% | ~3,101 |
 | A Very Genki Holiday | 1.00% | ~3,101 |
 | Here! Catch! | 1.00% | ~3,101 |
@@ -57,8 +57,8 @@ Rating: 4.41 (Ranked 723)
 | The Whole Story | 1.00% | ~3,101 |
 | Zoo Keeper | 1.00% | ~3,101 |
 | Make a List, Check it Twice | 0.90% | ~2,791 |
-| Dear Santa | 0.70% | ~2,170 |
-| Rigging the Race | 0.70% | ~2,170 |
+| Dear Santa | 0.70% | ~2,171 |
+| Rigging the Race | 0.70% | ~2,171 |
 | Back in the Day | 0.60% | ~1,860 |
 | Health Inspector | 0.50% | ~1,550 |
 | Bringin' the Heat | 0.40% | ~1,240 |
@@ -78,7 +78,7 @@ Rating: 4.41 (Ranked 723)
 | Super Power Team Up! | 0.10% | ~310 |
 | Ultimate Hot Potato | 0.10% | ~310 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310,065 (Ranked 53)  
+Progressed: 310,079 (Ranked 53)  
 Completed: 16 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 16 (0.01%) (Ranked 343)
 | 2023-11-25 | 308,581 | 16 |
 | 2023-11-26 | 309,273 | 16 |
 | 2023-11-27 | 309,794 | 16 |
-| 2023-11-28 | 310,065 | 16 |
+| 2023-11-28 | 310,079 | 16 |
 ## Awards
 Max (Great Boss Battles): 493  (Ranked 212)  
 Sum: 493 (Ranked 326)  

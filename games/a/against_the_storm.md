@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overgrown Library | 0.90% | ~158 |
 | Abandoned Settlement | 0.80% | ~140 |
-| Overgrown Library | 0.80% | ~140 |
 | Petrified Necropolis | 0.70% | ~123 |
 | Gathering Storm | 0.70% | ~123 |
 | Frosts | 0.60% | ~105 |

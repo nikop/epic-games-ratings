@@ -18,7 +18,7 @@
 | Overwhelming Power | 55.00% | ~105 |
 | Supreme Power | 46.00% | ~88 |
 | Chomp Chomp! | 46.00% | ~88 |
-| The Duelist | 43.00% | ~82 |
+| The Duelist | 44.00% | ~84 |
 | Diaper Time! | 43.00% | ~82 |
 | Target Practice | 43.00% | ~82 |
 | Glorious Battle | 42.00% | ~80 |

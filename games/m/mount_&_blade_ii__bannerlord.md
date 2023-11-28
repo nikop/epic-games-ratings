@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,598 |
-| Landlord | 33.00% | ~21,943 |
-| Bannerlord | 24.00% | ~15,959 |
-| Horde breaker | 24.00% | ~15,959 |
-| Lawmaker | 24.00% | ~15,959 |
-| Trained | 24.00% | ~15,959 |
-| The king is pleased | 19.00% | ~12,634 |
-| King Solomon | 18.00% | ~11,969 |
-| Apple of my eye | 16.00% | ~10,639 |
-| I can do it | 16.00% | ~10,639 |
-| Against all odds | 13.00% | ~8,644 |
-| God of the Arena | 13.00% | ~8,644 |
-| This Is Our Land | 13.00% | ~8,644 |
-| Duelist | 10.00% | ~6,649 |
-| Dynasty | 10.00% | ~6,649 |
-| I spit on your grave | 10.00% | ~6,649 |
-| Swordbearer | 10.00% | ~6,649 |
-| What have the Romans ever done for us? | 10.00% | ~6,649 |
-| Butterlord | 9.00% | ~5,984 |
+| Lawbringer | 40.00% | ~26,602 |
+| Landlord | 33.00% | ~21,947 |
+| Bannerlord | 24.00% | ~15,961 |
+| Horde breaker | 24.00% | ~15,961 |
+| Lawmaker | 24.00% | ~15,961 |
+| Trained | 24.00% | ~15,961 |
+| The king is pleased | 19.00% | ~12,636 |
+| King Solomon | 18.00% | ~11,971 |
+| Apple of my eye | 16.00% | ~10,641 |
+| I can do it | 16.00% | ~10,641 |
+| Against all odds | 13.00% | ~8,646 |
+| God of the Arena | 13.00% | ~8,646 |
+| This Is Our Land | 13.00% | ~8,646 |
+| Duelist | 10.00% | ~6,650 |
+| Dynasty | 10.00% | ~6,650 |
+| I spit on your grave | 10.00% | ~6,650 |
+| Swordbearer | 10.00% | ~6,650 |
+| What have the Romans ever done for us? | 10.00% | ~6,650 |
+| Butterlord | 9.00% | ~5,985 |
 | Mastery | 8.00% | ~5,320 |
 | Know your enemy | 7.00% | ~4,655 |
 | Crowdfunded | 5.00% | ~3,325 |
@@ -36,29 +36,29 @@ Number of Ratings: 5,603  (23.09.2022)
 | Real Estate | 3.00% | ~1,995 |
 | Entrepreneur | 1.00% | ~665 |
 | Supreme Emperor | 1.00% | ~665 |
-| Crackshot | 0.90% | ~598 |
+| Crackshot | 0.90% | ~599 |
 | Undercover | 0.80% | ~532 |
-| Fat Cat | 0.70% | ~465 |
+| Fat Cat | 0.70% | ~466 |
 | Catch | 0.60% | ~399 |
-| Slice 'n dice | 0.50% | ~332 |
+| Slice 'n dice | 0.50% | ~333 |
 | Ride it like you stole it | 0.40% | ~266 |
-| Mounted Archery | 0.30% | ~199 |
+| Mounted Archery | 0.30% | ~200 |
 | Explorer | 0.20% | ~133 |
 | Great Granny | 0.20% | ~133 |
 | Strike! | 0.20% | ~133 |
-| Best served cold | 0.10% | ~66 |
-| Butcher of Calradia | 0.10% | ~66 |
-| Headhunter | 0.10% | ~66 |
-| Heartbreaker | 0.10% | ~66 |
-| Kingslayer | 0.10% | ~66 |
-| Lance-a-lot | 0.10% | ~66 |
-| Minor Clan | 0.10% | ~66 |
-| Roadkill | 0.10% | ~66 |
-| This is Sparta! | 0.10% | ~66 |
+| Best served cold | 0.10% | ~67 |
+| Butcher of Calradia | 0.10% | ~67 |
+| Headhunter | 0.10% | ~67 |
+| Heartbreaker | 0.10% | ~67 |
+| Kingslayer | 0.10% | ~67 |
+| Lance-a-lot | 0.10% | ~67 |
+| Minor Clan | 0.10% | ~67 |
+| Roadkill | 0.10% | ~67 |
+| This is Sparta! | 0.10% | ~67 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,494 (Ranked 104)  
+Progressed: 66,505 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,19 +280,19 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 66,150 | 0 |
 | 2023-11-26 | 66,306 | 0 |
 | 2023-11-27 | 66,427 | 0 |
-| 2023-11-28 | 66,494 | 0 |
+| 2023-11-28 | 66,505 | 0 |
 ## Awards
 Max (Character Customization): 7,443  (Ranked 53)  
-Sum: 15,482 (Ranked 68)  
+Sum: 15,486 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,443 |
 | This game is Great for Beginners | 1,083 |
-| This game has Diverse Characters | 1,024 |
+| This game has Diverse Characters | 1,027 |
 | This game is Highly Recommended | 949 |
 | This game is Extremely Fun | 888 |
-| This game has Amazing Storytelling | 874 |
+| This game has Amazing Storytelling | 875 |
 | This game has Amazing Characters | 872 |
 | This game is Relaxing | 861 |
 | This game has Quickly Understood Controls | 841 |
@@ -619,4 +619,4 @@ Diff (max vs sum): -15
 | 2023-11-25 | 4.74 | - | 7,423 | 15,434 |
 | 2023-11-26 | 4.74 | - | 7,428 | 15,453 |
 | 2023-11-27 | 4.74 | - | 7,437 | 15,474 |
-| 2023-11-28 | 4.74 | - | 7,443 | 15,482 |
+| 2023-11-28 | 4.74 | - | 7,443 | 15,486 |

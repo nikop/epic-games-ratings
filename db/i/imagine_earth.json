@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -428,6 +428,11 @@
       "Time": "2023-11-25T10:06:48.8181658+00:00",
       "NumProgressed": 430,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T16:03:50.122271+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -447,7 +452,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "CampaignStars2",
@@ -535,7 +540,7 @@
       "Name": "Bora",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "PlanetEdora",
@@ -567,7 +572,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "PlanetMagni",
@@ -575,7 +580,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "PlanetRounos",
@@ -615,7 +620,7 @@
       "Name": "Scientist",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "WorldCreator",
@@ -630,7 +635,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 0
     }
   ],
@@ -638,8 +643,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:04:04.2980163+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:03:50.1222707+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.1117639+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:58:53.8195463+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:04:04.2980314+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:58:41.3290859+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:03:50.1222859+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,7 +238,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 41136,
+  "EOS_Progressed": 41139,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
@@ -24463,6 +24463,11 @@
       "Time": "2023-11-28T15:04:53.1850372+00:00",
       "NumProgressed": 41136,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-28T16:04:37.6640126+00:00",
+      "NumProgressed": 41139,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -24474,7 +24479,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6170
+      "UsersEstimate": 6171
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -24618,7 +24623,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -24705,7 +24710,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41136,
+      "Progressed": 41139,
       "Completed": 26
     }
   ],
@@ -24713,8 +24718,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:04:53.1850367+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:04:37.6640122+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:57.6169847+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:58:46.9873392+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:04:53.1851582+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:58:34.3266222+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:04:37.6641908+00:00"
 }

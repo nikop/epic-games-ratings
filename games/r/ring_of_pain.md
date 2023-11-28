@@ -68,6 +68,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 0.20% | ~481 |
 | Snake Sneak | 0.20% | ~481 |
 | The Long Run | 0.20% | ~481 |
+| Obsessed | 0.20% | ~481 |
 | Precious | 0.20% | ~481 |
 | Who Needs Luck? | 0.20% | ~4 |
 | Raw Power | 0.20% | ~4 |
@@ -120,7 +121,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Tickler | 0.10% | ~240 |
 | Masochist | 0.10% | ~240 |
 | Minimalist | 0.10% | ~240 |
-| Obsessed | 0.10% | ~240 |
 | Near Death Experience | 0.10% | ~240 |
 | Champion of the Day | 0.10% | ~240 |
 | Down Under | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,332 (Ranked 62)  
+Progressed: 240,333 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-25 | 240,224 | 291 |
 | 2023-11-26 | 240,273 | 291 |
 | 2023-11-27 | 240,313 | 291 |
-| 2023-11-28 | 240,332 | 291 |
+| 2023-11-28 | 240,333 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 131)  
 Sum: 13,232 (Ranked 78)  

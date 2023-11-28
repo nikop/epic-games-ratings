@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1927,
+  "EOS_Progressed": 1928,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7283,6 +7283,11 @@
       "Time": "2023-11-28T13:10:04.3408655+00:00",
       "NumProgressed": 1927,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T16:04:53.7980579+00:00",
+      "NumProgressed": 1928,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7292,9 +7297,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 116
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7364,9 +7369,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 96
     },
     {
       "ID": "objective_headquarters_10",
@@ -7374,7 +7379,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_headquarters_15",
@@ -7398,7 +7403,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7470,7 +7475,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7534,7 +7539,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -7597,7 +7602,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1927,
+      "Progressed": 1928,
       "Completed": 1
     }
   ],
@@ -7605,8 +7610,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:05:09.8919702+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:04:53.7980575+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.1285109+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:59:36.5062479+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:05:09.8920398+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:59:20.7514998+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:04:53.7981299+00:00"
 }

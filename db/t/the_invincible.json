@@ -2,10 +2,10 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 424,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1130,6 +1130,11 @@
       "Time": "2023-11-28T15:08:53.3801586+00:00",
       "NumProgressed": 422,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T16:08:21.7151619+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1142,7 +1147,7 @@
       "Name": "The Teleprobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "AchvAllMemories",
@@ -1164,9 +1169,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 55
     },
     {
       "ID": "AchvBombStop",
@@ -1310,7 +1315,7 @@
       "Name": "The field base",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "AchvReachCamp",
@@ -1318,7 +1323,7 @@
       "Name": "The Camp",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "AchvReachCity",
@@ -1326,7 +1331,7 @@
       "Name": "The City",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "AchvReachCondor",
@@ -1342,7 +1347,7 @@
       "Name": "Survivors",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1350,7 +1355,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "AchvTheEnd",
@@ -1364,23 +1369,23 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 424,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:08:53.3801582+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:08:21.7151615+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:58:22.9712399+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:08:53.3801818+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:58:11.5083747+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:08:21.7151867+00:00"
 }

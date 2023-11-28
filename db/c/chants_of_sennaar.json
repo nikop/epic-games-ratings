@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 787,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 5.34,
   "EosHistory": [
@@ -3180,6 +3180,11 @@
       "Time": "2023-11-28T15:04:50.2191687+00:00",
       "NumProgressed": 786,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-28T16:04:34.7359132+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 25,
@@ -3191,7 +3196,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "END_GOOD",
@@ -3199,7 +3204,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "META_ALL_LINK",
@@ -3207,7 +3212,7 @@
       "Name": "Peace walker",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3215,7 +3220,7 @@
       "Name": "Cable guy",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3231,7 +3236,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3263,7 +3268,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3327,7 +3332,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3349,9 +3354,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 283
     },
     {
       "ID": "PROGRESS_N2",
@@ -3373,9 +3378,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 173
+      "UsersEstimate": 165
     },
     {
       "ID": "PROGRESS_N5",
@@ -3390,14 +3395,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 42
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:04:50.2191683+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:04:34.7359128+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:57:55.1133631+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:04:50.2192004+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:57:44.9144025+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:04:34.7359478+00:00"
 }

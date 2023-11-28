@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3490,9 +3490,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240332,
+  "EOS_Progressed": 240333,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26460,6 +26460,11 @@
       "Time": "2023-11-28T15:09:48.1522708+00:00",
       "NumProgressed": 240332,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-11-28T16:09:15.6918704+00:00",
+      "NumProgressed": 240333,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -27325,9 +27330,9 @@
       "ID": "WIN5",
       "SetID": "5l8oe0h",
       "Name": "Obsessed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 481
     },
     {
       "ID": "WIN5MAXHEALTH",
@@ -27574,13 +27579,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240332,
+      "Progressed": 240333,
       "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1812,
+      "Progressed": 1813,
       "Completed": 391
     }
   ],
@@ -27588,8 +27593,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-27T18:00:48.4052938+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:09:48.1522704+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:09:15.6918699+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:00:16.7923228+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:09:48.1525382+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:59:58.1688409+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:09:15.6921177+00:00"
 }

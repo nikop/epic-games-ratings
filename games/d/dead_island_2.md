@@ -1,37 +1,37 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 527)  
+Rating: 4.54 (Ranked 526)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,579 |
-| Break A Leg | 2.00% | ~14,542 |
-| Coup de Grâce | 2.00% | ~14,542 |
-| Hazardous Materials | 2.00% | ~14,542 |
-| Hotel California | 2.00% | ~14,542 |
-| Welcome To Hell-A | 2.00% | ~14,542 |
-| One of Us | 2.00% | ~1,053 |
-| Pork Chopped | 2.00% | ~1,053 |
-| Dr. Reed, I Presume? | 1.00% | ~7,271 |
-| Git Gutte! | 1.00% | ~7,271 |
-| Anger Management | 1.00% | ~7,271 |
-| Perks of the Job | 1.00% | ~7,271 |
-| Bookworm | 1.00% | ~7,271 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,271 |
-| But Doctor, I am Butcho | 1.00% | ~7,271 |
-| Slayer Squad | 1.00% | ~7,271 |
-| Can't Handle the Truth | 1.00% | ~7,271 |
-| Like Riding a Bike | 1.00% | ~7,271 |
-| Friends Like These | 1.00% | ~7,271 |
-| Apex Predator | 1.00% | ~7,271 |
-| Zombologist | 1.00% | ~7,271 |
-| Ooh, Shiny! | 1.00% | ~7,271 |
-| A Patton Emerges | 1.00% | ~7,271 |
-| Stacking the Deck | 1.00% | ~7,271 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,271 |
-| Our True Nature | 1.00% | ~7,271 |
-| This is My Weapon | 1.00% | ~7,271 |
+| Whatever It Takes | 3.00% | ~1,581 |
+| Break A Leg | 2.00% | ~14,543 |
+| Coup de Grâce | 2.00% | ~14,543 |
+| Hazardous Materials | 2.00% | ~14,543 |
+| Hotel California | 2.00% | ~14,543 |
+| Welcome To Hell-A | 2.00% | ~14,543 |
+| One of Us | 2.00% | ~1,054 |
+| Pork Chopped | 2.00% | ~1,054 |
+| Dr. Reed, I Presume? | 1.00% | ~7,272 |
+| Git Gutte! | 1.00% | ~7,272 |
+| Anger Management | 1.00% | ~7,272 |
+| Perks of the Job | 1.00% | ~7,272 |
+| Bookworm | 1.00% | ~7,272 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,272 |
+| But Doctor, I am Butcho | 1.00% | ~7,272 |
+| Slayer Squad | 1.00% | ~7,272 |
+| Can't Handle the Truth | 1.00% | ~7,272 |
+| Like Riding a Bike | 1.00% | ~7,272 |
+| Friends Like These | 1.00% | ~7,272 |
+| Apex Predator | 1.00% | ~7,272 |
+| Zombologist | 1.00% | ~7,272 |
+| Ooh, Shiny! | 1.00% | ~7,272 |
+| A Patton Emerges | 1.00% | ~7,272 |
+| Stacking the Deck | 1.00% | ~7,272 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,272 |
+| Our True Nature | 1.00% | ~7,272 |
+| This is My Weapon | 1.00% | ~7,272 |
 | I Am the Resurrection | 0.90% | ~6,544 |
 | Making Your Mark | 0.80% | ~5,817 |
 | Humanity Distilled | 0.80% | ~5,817 |
@@ -45,7 +45,7 @@ Rating: 4.54 (Ranked 527)
 | Smorgasbord | 0.50% | ~3,636 |
 | Internet Famous | 0.50% | ~3,636 |
 | Variety is the Spice of Death | 0.50% | ~3,636 |
-| Make it So | 0.40% | ~2,908 |
+| Make it So | 0.40% | ~2,909 |
 | LA Influential | 0.30% | ~2,181 |
 | Sole Survivor | 0.30% | ~2,181 |
 | Gore Horse | 0.30% | ~2,181 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,105 (Ranked 21)  
+Progressed: 727,152 (Ranked 21)  
 Completed: 2,445 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2,445 (0.34%) (Ranked 231)
 | 2023-11-25 | 725,153 | 2,436 |
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
-| 2023-11-28 | 727,105 | 2,445 |
+| 2023-11-28 | 727,152 | 2,445 |
 ## Awards
 Max (Great Boss Battles): 7,784  (Ranked 49)  
 Sum: 11,917 (Ranked 84)  

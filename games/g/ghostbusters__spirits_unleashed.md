@@ -1,13 +1,13 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 591)  
+Rating: 4.51 (Ranked 571)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 9.00% | ~2,852 |
-| Advancement | 7.00% | ~2,218 |
-| Meticulously Efficient | 7.00% | ~2,218 |
+| Advancement | 7.00% | ~2,219 |
+| Meticulously Efficient | 7.00% | ~2,219 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,585 |
 | Discovery | 5.00% | ~1,585 |
 | Fully Upgraded | 5.00% | ~1,585 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 591)
 | Line em' up | 0.10% | ~32 |
 | Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,692 (Ranked 124)  
+Progressed: 31,693 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,15 +279,15 @@ Completed: 69 (0.22%) (Ranked 255)
 | 2023-11-25 | 31,571 | 69 |
 | 2023-11-26 | 31,638 | 69 |
 | 2023-11-27 | 31,673 | 69 |
-| 2023-11-28 | 31,692 | 69 |
+| 2023-11-28 | 31,693 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 251)  
-Sum: 2,857 (Ranked 179)  
+Sum: 2,858 (Ranked 179)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 319 |
-| This game is Great for Quick Sessions | 312 |
+| This game is Great for Quick Sessions | 313 |
 | This game has Diverse Characters | 299 |
 | This game is Highly Recommended | 283 |
 | This game has Amazing Storytelling | 282 |
@@ -524,3 +524,4 @@ Diff (max vs sum): 72
 | 2023-11-24 | 4.50 | 319 | 2,846 |
 | 2023-11-26 | 4.50 | 319 | 2,851 |
 | 2023-11-27 | 4.50 | 319 | 2,857 |
+| 2023-11-28 | 4.51 | 319 | 2,858 |

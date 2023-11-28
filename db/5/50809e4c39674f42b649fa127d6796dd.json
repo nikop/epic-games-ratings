@@ -2,10 +2,10 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -777,6 +777,11 @@
       "Time": "2023-11-28T15:08:48.9263383+00:00",
       "NumProgressed": 361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T16:08:17.4595075+00:00",
+      "NumProgressed": 362,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -859,9 +864,9 @@
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -875,9 +880,9 @@
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -885,7 +890,7 @@
       "Name": "Celestial Rain",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -893,7 +898,7 @@
       "Name": "Unknown Threat",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -901,15 +906,15 @@
       "Name": "Speed Demon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 130
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -981,7 +986,7 @@
       "Name": "The Journey Begins",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1099,23 +1104,23 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 362,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:08:48.9263379+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:08:17.459507+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:02:48.8219072+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:08:48.9263675+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:02:36.6963515+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:08:17.4595383+00:00"
 }

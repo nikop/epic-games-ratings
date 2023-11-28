@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 591,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -3469,10 +3469,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2857,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-11-28T15:58:06.9757144+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2858,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2857,
+  "NumberOfAwards": 2858,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3498,7 +3504,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 312
+      "Count": 313
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3549,9 +3555,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31692,
+  "EOS_Progressed": 31693,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20759,6 +20765,11 @@
       "Time": "2023-11-28T13:08:44.1794628+00:00",
       "NumProgressed": 31692,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-28T16:03:41.5781895+00:00",
+      "NumProgressed": 31693,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20770,7 +20781,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "Animated",
@@ -20882,7 +20893,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "Escape_Artist",
@@ -21177,16 +21188,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31692,
+      "Progressed": 31693,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-27T21:57:53.4045946+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:03:55.4721037+00:00",
+  "LastChanged": "2023-11-28T15:58:06.9757142+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:03:41.5781892+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:58:18.0080293+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:03:55.4722189+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:58:06.9757148+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:03:41.5782782+00:00"
 }

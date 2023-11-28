@@ -7,12 +7,12 @@
 | The Last Stand | 87.00% | ~423 |
 | Thalya – Simply Immortal | 87.00% | ~423 |
 | For the Horde! | 81.00% | ~394 |
-| Hammer Time, Round Two | 78.00% | ~379 |
+| Hammer Time, Round Two | 79.00% | ~384 |
 | The Hellwoods | 73.00% | ~355 |
 | The Plains of Strothalm | 68.00% | ~330 |
 | Thalya's Concentrated Fury | 67.00% | ~326 |
 | Experienced Thalya | 67.00% | ~326 |
-| Bad Elves Go Everywhere | 64.00% | ~311 |
+| Bad Elves Go Everywhere | 65.00% | ~316 |
 | Master of Magic | 63.00% | ~306 |
 | Heroes’ Gorge | 59.00% | ~287 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~282 |
@@ -22,20 +22,20 @@
 | The Ascent | 49.00% | ~238 |
 | It's Warm and Cozy at Home | 49.00% | ~238 |
 | YOU SHALL NOT PASS! | 45.00% | ~219 |
-| Hard Work | 44.00% | ~214 |
+| Hard Work | 45.00% | ~219 |
 | The Big Eaty | 42.00% | ~204 |
 | Pure Dynamite! | 40.00% | ~194 |
 | “… like son” | 38.00% | ~185 |
 | Mana Cannon | 36.00% | ~175 |
-| Dungeonlord Gorgu | 33.00% | ~160 |
+| Dungeonlord Gorgu | 34.00% | ~165 |
 | The Cathedral of Light | 33.00% | ~160 |
 | Shame! Shame! Shame! | 33.00% | ~160 |
 | Tanos' Crusade Against Thalya | 30.00% | ~146 |
-| All’s Well That Ends Evil | 25.00% | ~122 |
+| All’s Well That Ends Evil | 26.00% | ~126 |
 | Unstoppable Horde | 24.00% | ~117 |
 | Master of the Undead | 23.00% | ~112 |
 | The Duel | 23.00% | ~112 |
-| Hungry, Hungry Gorgu! | 20.00% | ~97 |
+| Hungry, Hungry Gorgu! | 21.00% | ~102 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~97 |
 | Forbidden Knowledge | 20.00% | ~97 |
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~97 |
@@ -53,15 +53,15 @@
 | Lavalumps on Ice! | 11.00% | ~53 |
 | The Rune Sockets of Finitude (Part 2) | 11.00% | ~53 |
 | Rubble and Ashes | 10.00% | ~49 |
+| Untouchable | 9.00% | ~44 |
 | To the Max! | 9.00% | ~44 |
 | To Infinity And Beyond! | 9.00% | ~44 |
 | The Last Stand - This Time For Real! | 9.00% | ~44 |
 | Mirror, Mirror | 8.00% | ~39 |
-| Untouchable | 8.00% | ~39 |
 | Gorgu is in the Best of Health | 7.00% | ~34 |
 | Laser Eyes Are So Useless | 7.00% | ~34 |
+| Heal Heal Blessing | 7.00% | ~34 |
 | Evilification | 7.00% | ~34 |
-| Heal Heal Blessing | 6.00% | ~29 |
 | No Mana, No Cry | 5.00% | ~24 |
 | Hands Off My Stones | 5.00% | ~24 |
 | I Don't Need Any Help | 3.00% | ~15 |

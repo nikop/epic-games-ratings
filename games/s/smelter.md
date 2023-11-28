@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 90.00% | ~37 |
-| Welcome to the Rumbly Lands! | 88.00% | ~36 |
-| Time to Bash Some Heads! | 83.00% | ~34 |
-| Shiny! | 73.00% | ~30 |
-| Deep in the Mounds | 68.00% | ~28 |
-| Smeltastic! | 41.00% | ~17 |
-| Locked Away | 37.00% | ~15 |
-| A Little Renovating | 34.00% | ~14 |
-| It's a Sign! | 32.00% | ~13 |
+| What took you so long? | 90.00% | ~38 |
+| Welcome to the Rumbly Lands! | 88.00% | ~37 |
+| Time to Bash Some Heads! | 83.00% | ~35 |
+| Shiny! | 71.00% | ~30 |
+| Deep in the Mounds | 69.00% | ~29 |
+| Smeltastic! | 40.00% | ~17 |
+| Locked Away | 36.00% | ~15 |
+| A Little Renovating | 33.00% | ~14 |
+| It's a Sign! | 31.00% | ~13 |
 | Deflect This! | 29.00% | ~12 |
-| My Precious Gems! | 22.00% | ~9 |
-| Just Some Improvements | 22.00% | ~9 |
-| An Unexpected Visitor | 22.00% | ~9 |
-| Final Announcement | 22.00% | ~9 |
-| A Little Extra Love | 20.00% | ~8 |
-| A New Strategy | 20.00% | ~8 |
+| My Precious Gems! | 21.00% | ~9 |
+| Just Some Improvements | 21.00% | ~9 |
+| An Unexpected Visitor | 21.00% | ~9 |
+| Final Announcement | 21.00% | ~9 |
+| A Little Extra Love | 19.00% | ~8 |
+| A New Strategy | 19.00% | ~8 |
+| A Terrible Way to Go | 19.00% | ~8 |
 | Isn't It Beautiful? | 17.00% | ~7 |
 | A Generous Leader | 17.00% | ~7 |
-| A Terrible Way to Go | 17.00% | ~7 |
-| Dr. Dreinstein III | 15.00% | ~6 |
-| Orcharion Boost | 15.00% | ~6 |
-| Case Closed | 15.00% | ~6 |
-| How Do You Like Them Apples? | 15.00% | ~6 |
+| Dr. Dreinstein III | 14.00% | ~6 |
+| Orcharion Boost | 14.00% | ~6 |
+| Case Closed | 14.00% | ~6 |
+| How Do You Like Them Apples? | 14.00% | ~6 |
 | Fishing for Fissures | 12.00% | ~5 |
 | You did it? You did it! | 12.00% | ~5 |
 | All Beefed Up | 12.00% | ~5 |
@@ -56,8 +56,8 @@
 | In Her Prime | 10.00% | ~4 |
 | The More the Merrier | 10.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 511)  
-Completed: 4 (9.76%) (Ranked 44)  
+Progressed: 42 (Ranked 510)  
+Completed: 4 (9.52%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,6 +75,7 @@ Completed: 4 (9.76%) (Ranked 44)
 | 2023-08-16 | 40 | 3 |
 | 2023-09-16 | 40 | 4 |
 | 2023-10-29 | 41 | 4 |
+| 2023-11-28 | 42 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

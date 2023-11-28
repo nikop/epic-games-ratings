@@ -15,6 +15,7 @@
 | Freezing Cold | 0.80% | ~1 |
 | Locked and Loaded | 0.80% | ~1 |
 | Don't Cry Wolf | 0.80% | ~1 |
+| Can't touch this | 0.80% | ~1 |
 | The A-Team | 0.80% | ~1 |
 | A Deceiving Gift | 0.80% | ~1 |
 | The Golden Flash | 0.80% | ~1 |
@@ -44,7 +45,6 @@
 | Globetrotter | 0.00% | ~0 |
 | Finally! | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
-| Can't touch this | 0.00% | ~0 |
 | But what of the Acreans? | 0.00% | ~0 |
 | Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |

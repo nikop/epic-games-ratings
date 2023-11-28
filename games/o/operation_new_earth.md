@@ -5,9 +5,9 @@ Rating: 3.21 (Ranked 1,048)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 27.00% | ~520 |
+| It's Good to have Allies | 27.00% | ~521 |
 | Defenses Online | 25.00% | ~482 |
-| Facility Online | 20.00% | ~385 |
+| Facility Online | 20.00% | ~386 |
 | Corporal | 15.00% | ~289 |
 | Sergeant | 12.00% | ~231 |
 | Covert Operative | 12.00% | ~231 |
@@ -15,18 +15,18 @@ Rating: 3.21 (Ranked 1,048)
 | Getting Deployment | 10.00% | ~193 |
 | Stocking Up | 10.00% | ~193 |
 | On Target | 10.00% | ~193 |
-| Keeping Busy | 9.00% | ~173 |
-| Infantry Reporting | 9.00% | ~173 |
+| Keeping Busy | 9.00% | ~174 |
+| Infantry Reporting | 9.00% | ~174 |
 | Fighting for Survival | 8.00% | ~154 |
 | Silver Competitor | 8.00% | ~154 |
 | Captain | 8.00% | ~154 |
 | Factory Expansion | 8.00% | ~154 |
 | Exterminator | 7.00% | ~135 |
-| Know The Enemy | 6.00% | ~116 |
-| Silver Achiever | 6.00% | ~116 |
 | Moving On Up | 6.00% | ~116 |
 | Brothers in Arms | 6.00% | ~116 |
+| Know The Enemy | 5.00% | ~96 |
 | Player Betrayer | 5.00% | ~96 |
+| Silver Achiever | 5.00% | ~96 |
 | Major | 5.00% | ~96 |
 | Resourceful | 4.00% | ~77 |
 | Gold Achiever | 3.00% | ~58 |
@@ -44,7 +44,7 @@ Rating: 3.21 (Ranked 1,048)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,927 (Ranked 229)  
+Progressed: 1,928 (Ranked 229)  
 Completed: 1 (0.05%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 1 (0.05%) (Ranked 314)
 | 2023-11-25 | 1,915 | 1 |
 | 2023-11-26 | 1,919 | 1 |
 | 2023-11-27 | 1,924 | 1 |
-| 2023-11-28 | 1,927 | 1 |
+| 2023-11-28 | 1,928 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

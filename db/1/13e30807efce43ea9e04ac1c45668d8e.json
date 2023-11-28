@@ -2,10 +2,10 @@
   "ID": "13e30807efce43ea9e04ac1c45668d8e",
   "Name": "Outliver: Tribulation",
   "ProductSlug": "outliver-tribulations-679884",
-  "Ranking_EOS_Progress": 542,
+  "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 483,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
     "PcReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -154,6 +154,11 @@
       "Time": "2023-11-26T12:08:46.6717946+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T16:08:44.5814725+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-02T06:02:07.3967379+00:00",
@@ -188,7 +193,7 @@
       "ID": "ACH_DEFEAT_OMOTOKE",
       "SetID": "7m06add",
       "Name": "Omotoke",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -324,23 +329,23 @@
       "ID": "ACH_WELCOME_TO_ROT",
       "SetID": "7m06add",
       "Name": "The Realm Of Tribulations",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m06add",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-23T09:57:14.6972253+00:00",
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:09:16.5556327+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:08:44.5814722+00:00",
   "LastUpdate_AppInfo": "2023-11-25T02:57:17.7708093+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:58:48.3253917+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:09:16.5556464+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:58:35.5832986+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:08:44.5814868+00:00"
 }

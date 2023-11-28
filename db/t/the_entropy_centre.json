@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -1096,9 +1096,9 @@
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -1185,8 +1185,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:04:40.2413604+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:04:24.8479285+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:06.7145972+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:58:50.1005316+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:04:40.2413848+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:58:37.3152452+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:04:24.8479486+00:00"
 }

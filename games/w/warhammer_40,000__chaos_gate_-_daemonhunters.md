@@ -42,8 +42,8 @@ Number of Ratings: 371  (23.09.2022)
 | Death Comes For All | 0.90% | ~30 |
 | Patron of Deimos | 0.80% | ~27 |
 | Engine Kill | 0.80% | ~27 |
+| Hands-On Research | 0.70% | ~23 |
 | Harvest No More | 0.70% | ~23 |
-| Hands-On Research | 0.60% | ~20 |
 | Strike Force | 0.50% | ~17 |
 | Reign of Confusion | 0.50% | ~17 |
 | Suffer Not the Mutant | 0.50% | ~17 |

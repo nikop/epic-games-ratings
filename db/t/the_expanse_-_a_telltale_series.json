@@ -6,9 +6,9 @@
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15714,
+  "EOS_Progressed": 15717,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12555,6 +12555,11 @@
       "Time": "2023-11-28T15:08:22.6223894+00:00",
       "NumProgressed": 15714,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-28T16:07:51.9775524+00:00",
+      "NumProgressed": 15717,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12639,7 +12644,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "19",
@@ -12663,7 +12668,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "21",
@@ -12703,7 +12708,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "26",
@@ -12807,7 +12812,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "32",
@@ -12815,7 +12820,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "33",
@@ -12839,20 +12844,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15714,
+      "Progressed": 15717,
       "Completed": 36
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1668,
+      "Progressed": 1671,
       "Completed": 744
     }
   ],
@@ -12860,8 +12865,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:08:22.622389+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:07:51.977552+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:59:55.0267049+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:08:22.6224819+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:59:37.815152+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:07:51.9776421+00:00"
 }

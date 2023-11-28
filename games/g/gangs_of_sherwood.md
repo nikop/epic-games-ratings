@@ -8,8 +8,8 @@
 | Act of Kindness | 90.00% | ~18 |
 | The Altruist | 80.00% | ~16 |
 | Watch your Step! | 75.00% | ~15 |
+| Oo-De-Lally | 70.00% | ~14 |
 | Treasure Hunter | 70.00% | ~14 |
-| Oo-De-Lally | 65.00% | ~13 |
 | Tap Dancing | 60.00% | ~12 |
 | MAX LEVEL | 60.00% | ~12 |
 | Merry Co-operation | 50.00% | ~10 |

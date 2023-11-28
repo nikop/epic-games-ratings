@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4413,
+  "EOS_Progressed": 4414,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7885,6 +7885,11 @@
       "Time": "2023-11-28T15:04:41.7823221+00:00",
       "NumProgressed": 4413,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-28T16:04:26.3924175+00:00",
+      "NumProgressed": 4414,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7896,7 +7901,7 @@
       "Name": "Start with a bang!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "Ach002",
@@ -8024,7 +8029,7 @@
       "Name": "I play my own way!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Ach018",
@@ -8072,7 +8077,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "Ach024",
@@ -8104,7 +8109,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Ach028",
@@ -8176,7 +8181,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Ach037",
@@ -8463,13 +8468,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4413,
+      "Progressed": 4414,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2934,
+      "Progressed": 2935,
       "Completed": 1930
     }
   ],
@@ -8477,8 +8482,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:04:41.7823214+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:04:26.3924172+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:57:24.3774582+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:04:41.7824134+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:57:14.9233011+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:04:26.3925219+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -553,9 +553,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2780,
+  "EOS_Progressed": 2781,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8283,6 +8283,11 @@
       "Time": "2023-11-28T15:09:13.7421307+00:00",
       "NumProgressed": 2780,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-28T16:08:41.7780146+00:00",
+      "NumProgressed": 2781,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8590,7 +8595,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "lockandload",
@@ -8686,7 +8691,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "prestigiousx10",
@@ -8716,9 +8721,9 @@
       "ID": "scientist",
       "SetID": "3nl4bcg",
       "Name": "Scientist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 278
     },
     {
       "ID": "scrollmaster",
@@ -8854,7 +8859,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "warmachinesarmy",
@@ -8886,14 +8891,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2780,
+      "Progressed": 2781,
       "Completed": 2
     }
   ],
@@ -8901,8 +8906,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-28T14:02:57.4349611+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:09:13.7421302+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:08:41.7780142+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:02:53.9575088+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:09:13.7422383+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:02:41.6043984+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:08:41.7780946+00:00"
 }

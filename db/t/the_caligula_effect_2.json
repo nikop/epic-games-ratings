@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -163,9 +163,9 @@
       "ID": "ACH_03",
       "SetID": "2eg5kgc",
       "Name": "Daily Life Begins Anew",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_04",
@@ -547,8 +547,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:09:45.0283802+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:09:12.720595+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:54.7124744+00:00",
-  "LastUpdate_Ratings": "2023-11-28T15:00:22.4593512+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:09:45.0284119+00:00"
+  "LastUpdate_Ratings": "2023-11-28T16:00:03.6243432+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:09:12.7206376+00:00"
 }

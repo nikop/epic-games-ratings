@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -489,9 +489,9 @@
       "Count": 91
     }
   ],
-  "EOS_Progressed": 253291,
+  "EOS_Progressed": 253293,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25344,6 +25344,11 @@
       "Time": "2023-11-28T15:05:23.6833372+00:00",
       "NumProgressed": 253291,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-28T16:05:07.2071589+00:00",
+      "NumProgressed": 253293,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -25499,7 +25504,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73454
+      "UsersEstimate": 73455
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -25627,7 +25632,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17730
+      "UsersEstimate": 17731
     },
     {
       "ID": "ACH_MEMESMART",
@@ -25635,7 +25640,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15197
+      "UsersEstimate": 15198
     },
     {
       "ID": "ACH_MEMORY5",
@@ -25723,7 +25728,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15197
+      "UsersEstimate": 15198
     },
     {
       "ID": "ACH_TROLLKING",
@@ -25770,7 +25775,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 253291,
+      "Progressed": 253293,
       "Completed": 7
     }
   ],
@@ -25778,8 +25783,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-22T22:59:02.1390079+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:05:23.6833369+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:05:07.2071584+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:16.3700247+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:57:53.1990435+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:05:23.6834542+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:57:43.0564859+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:05:07.2073117+00:00"
 }

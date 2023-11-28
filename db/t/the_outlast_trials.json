@@ -4,11 +4,11 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 294,
   "Ranking_Popularity": 285,
-  "Ranking_PopularitySum": 251,
+  "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 483,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -3235,11 +3235,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 1148,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2023-11-28T15:57:02.8994593+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1154,
+      "NumberOfAwardsMax": 215
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1148,
-  "NumberOfAwardsMax": 209,
+  "NumberOfAwards": 1154,
+  "NumberOfAwardsMax": 215,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3270,7 +3276,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 209
+      "Count": 215
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3315,8 +3321,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-11-27T19:01:00.5982775+00:00",
+  "LastChanged": "2023-11-28T15:57:02.8994592+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:00.7346769+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:00:30.1140216+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:06:14.8779316+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:57:02.8994597+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:05:56.4321861+00:00"
 }

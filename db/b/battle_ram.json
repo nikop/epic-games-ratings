@@ -4,8 +4,8 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -1351,9 +1351,9 @@
       "ID": "ach_15",
       "SetID": "392n4e7",
       "Name": "Captain Baran",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_16",
@@ -1486,8 +1486,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-11-28T15:06:01.9911245+00:00",
+  "LastChanged_Achievements": "2023-11-28T16:05:44.5672163+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:34.4174558+00:00",
-  "LastUpdate_Ratings": "2023-11-28T14:59:48.4938652+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:06:01.9911584+00:00"
+  "LastUpdate_Ratings": "2023-11-28T15:59:31.1484319+00:00",
+  "LastUpdate_Achievements": "2023-11-28T16:05:44.5672395+00:00"
 }

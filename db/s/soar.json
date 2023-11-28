@@ -4,8 +4,8 @@
   "ProductSlug": "soar-ef7898",
   "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 483,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-04-16T00:00:00+00:00",
     "PcReleaseDate": "2023-04-24T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T15:57:01.054632+00:00",
   "LastUpdate_Ratings": "2023-11-28T15:02:38.1547976+00:00",
-  "LastUpdate_Achievements": "2023-11-28T15:03:18.6761431+00:00"
+  "LastUpdate_Achievements": "2023-11-28T16:03:06.1328658+00:00"
 }
