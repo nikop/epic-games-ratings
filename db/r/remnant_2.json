@@ -4857,9 +4857,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 229689,
+  "EOS_Progressed": 229712,
   "EOS_Completed": 538,
-  "EOS_NewPlayers": 4917,
+  "EOS_NewPlayers": 4920,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20277,6 +20277,11 @@
       "Time": "2023-11-28T04:08:38.5806673+00:00",
       "NumProgressed": 229689,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-11-28T05:09:10.2023096+00:00",
+      "NumProgressed": 229712,
+      "NumCompleted": 538
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20399,9 +20404,9 @@
       "ID": "Defeat_Tal_Ratha",
       "SetID": "bkp3b1a",
       "Name": "Madman\u0027s Paradise",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 459
     },
     {
       "ID": "Defeat_World_Boss",
@@ -20473,7 +20478,7 @@
       "Name": "First of Many",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -20599,9 +20604,9 @@
       "ID": "Obtain_Traits_B",
       "SetID": "bkp3b1a",
       "Name": "All These Traits\uFFFD",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 459
     },
     {
       "ID": "Obtain_Traits_C",
@@ -20728,13 +20733,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 229689,
+      "Progressed": 229712,
       "Completed": 538
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 8854,
+      "Progressed": 8877,
       "Completed": 165
     }
   ],
@@ -20742,8 +20747,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-28T00:03:19.9108346+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:08:38.5806669+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:09:10.2023092+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:03:06.7161861+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:08:38.5807694+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:03:36.1473111+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:09:10.2023965+00:00"
 }

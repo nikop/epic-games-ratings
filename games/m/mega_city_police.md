@@ -10,6 +10,7 @@
 | Law and Order | 8.00% | ~3 |
 | Hammer Time | 8.00% | ~3 |
 | Gibbing Love | 6.00% | ~2 |
+| Feel the Spark | 6.00% | ~2 |
 | Overkill | 6.00% | ~2 |
 | The Hunt | 6.00% | ~2 |
 | Head of the Snake | 3.00% | ~1 |
@@ -18,7 +19,6 @@
 | Losing your Head | 3.00% | ~1 |
 | Captain | 3.00% | ~1 |
 | Chief | 3.00% | ~1 |
-| Feel the Spark | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
 | For Science | 3.00% | ~1 |
 | Escape From M.C. | 3.00% | ~1 |

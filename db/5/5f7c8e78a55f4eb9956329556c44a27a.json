@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2023-11-27T23:08:35.845442+00:00",
       "NumProgressed": 166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T05:08:48.1453471+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -641,7 +646,7 @@
       "Name": "Administrator",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -705,7 +710,7 @@
       "Name": "There\u0027s a bug in the soup",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -761,7 +766,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -769,7 +774,7 @@
       "Name": "Private Detective",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -817,7 +822,7 @@
       "Name": "Have you no shame?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -855,9 +860,9 @@
       "ID": "TINGWD_RAIDERS",
       "SetID": "c0imaa6",
       "Name": "Raiders of the lost game",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -895,9 +900,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 120,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -912,14 +917,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:06:45.1141941+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:08:48.1453468+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.8137198+00:00",
   "LastUpdate_Ratings": "2023-11-28T04:00:35.4377177+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:06:45.1142183+00:00"
+  "LastUpdate_Achievements": "2023-11-28T05:08:48.1453687+00:00"
 }

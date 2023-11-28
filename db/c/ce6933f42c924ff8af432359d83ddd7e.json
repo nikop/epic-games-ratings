@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 4.26,
+  "EOS_Completed_Percentage": 4.25,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -2559,6 +2559,11 @@
       "Time": "2023-11-27T20:09:20.5076802+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-28T05:09:29.2479524+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2595,7 +2600,7 @@
       "Name": "An apple a day",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2619,7 +2624,7 @@
       "Name": "Good listener",
       "Percentage": 60,
       "XP": 85,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2627,7 +2632,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2643,21 +2648,21 @@
       "Name": "Exit",
       "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:08:58.0093931+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:09:29.2479521+00:00",
   "LastUpdate_AppInfo": "2023-11-24T16:56:56.882422+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:58:11.0846881+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:08:58.00942+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:58:19.6585289+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:09:29.2479757+00:00"
 }

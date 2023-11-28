@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665161,
+  "EOS_Progressed": 665164,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21898,6 +21898,11 @@
       "Time": "2023-11-28T04:04:23.2638882+00:00",
       "NumProgressed": 665161,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-11-28T05:04:51.5155978+00:00",
+      "NumProgressed": 665164,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 48,
@@ -21909,7 +21914,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478916
+      "UsersEstimate": 478918
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -21917,7 +21922,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385793
+      "UsersEstimate": 385795
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -21925,7 +21930,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152987
+      "UsersEstimate": 152988
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -22045,7 +22050,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152987
+      "UsersEstimate": 152988
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -22061,7 +22066,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113077
+      "UsersEstimate": 113078
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -22149,7 +22154,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79819
+      "UsersEstimate": 79820
     },
     {
       "ID": "Achievement_32_Karma",
@@ -22173,7 +22178,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166290
+      "UsersEstimate": 166291
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -22189,7 +22194,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59864
+      "UsersEstimate": 59865
     },
     {
       "ID": "Achievement_37_Champion",
@@ -22292,15 +22297,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665161,
+      "Progressed": 665164,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:04:23.2638876+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:04:51.5155974+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:15.2357147+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:57:25.7022629+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:04:23.264064+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:57:34.9770602+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:04:51.5157339+00:00"
 }

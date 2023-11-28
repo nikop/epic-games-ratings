@@ -8,7 +8,7 @@ Rating: 4.75 (Ranked 148)
 | The Killing Jar | 0.60% | ~1,378 |
 | Regicide | 0.60% | ~53 |
 | Master of the Dark Arts | 0.60% | ~53 |
-| First of Many | 0.50% | ~1,148 |
+| First of Many | 0.50% | ~1,149 |
 | Not Your Average Trait | 0.40% | ~919 |
 | Expanding Horizons | 0.30% | ~689 |
 | Gleaming the Cube | 0.30% | ~689 |
@@ -26,6 +26,7 @@ Rating: 4.75 (Ranked 148)
 | Power Surge | 0.20% | ~459 |
 | The God Gambit | 0.20% | ~459 |
 | Dark Designs | 0.20% | ~459 |
+| Madman's Paradise | 0.20% | ~459 |
 | Equal Measures | 0.20% | ~459 |
 | Blue Goddess | 0.20% | ~459 |
 | Duality | 0.20% | ~459 |
@@ -37,6 +38,7 @@ Rating: 4.75 (Ranked 148)
 | The Web | 0.20% | ~459 |
 | Scrap Collector | 0.20% | ~459 |
 | Scrap Hoarder | 0.20% | ~459 |
+| All These Traits� | 0.20% | ~459 |
 | The Ultimate Weapon | 0.20% | ~459 |
 | Almost There | 0.20% | ~459 |
 | Make Some Room | 0.20% | ~459 |
@@ -45,7 +47,6 @@ Rating: 4.75 (Ranked 148)
 | You Shall Pass | 0.20% | ~18 |
 | Crafty | 0.10% | ~230 |
 | Only Human | 0.10% | ~230 |
-| Madman's Paradise | 0.10% | ~230 |
 | Red Room | 0.10% | ~230 |
 | The Agenda | 0.10% | ~230 |
 | Tall Tales | 0.10% | ~230 |
@@ -53,7 +54,6 @@ Rating: 4.75 (Ranked 148)
 | The Trigger | 0.10% | ~230 |
 | Cutting Edge | 0.10% | ~230 |
 | The Collector | 0.10% | ~230 |
-| All These Traits� | 0.10% | ~230 |
 | Proving Grounds | 0.10% | ~230 |
 | Carnage in C-Minor | 0.10% | ~230 |
 | No One Should Have All That Power | 0.10% | ~230 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Transmutate | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,689 (Ranked 69)  
+Progressed: 229,712 (Ranked 69)  
 Completed: 538 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 538 (0.23%) (Ranked 250)
 | 2023-11-25 | 228,152 | 528 |
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
-| 2023-11-28 | 229,689 | 538 |
+| 2023-11-28 | 229,712 | 538 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 104)  
 Sum: 6,051 (Ranked 129)  

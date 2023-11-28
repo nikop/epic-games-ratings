@@ -16,7 +16,7 @@ Number of Ratings: 892  (23.09.2022)
 | One of the Cool Kids | 72.00% | ~348 |
 | No Mountain Wide Enough | 71.00% | ~343 |
 | Yakmel Whisperer | 68.00% | ~328 |
-| Can We Keep It? | 65.00% | ~314 |
+| Can We Keep It? | 66.00% | ~319 |
 | Diamonds are Forever | 65.00% | ~314 |
 | Pack Mule | 64.00% | ~309 |
 | I Do! | 61.00% | ~295 |
@@ -27,18 +27,18 @@ Number of Ratings: 892  (23.09.2022)
 | Financially Secure | 54.00% | ~261 |
 | Got Served | 53.00% | ~256 |
 | Mole Masher | 52.00% | ~251 |
+| Better Late than Never | 51.00% | ~246 |
 | Officially Official | 51.00% | ~246 |
 | Builder of the Month | 50.00% | ~242 |
-| Better Late than Never | 50.00% | ~242 |
 | Elementary, My Dear | 50.00% | ~242 |
 | Happier-est Place on Earth | 50.00% | ~242 |
+| You Don't Win Friends With Salad | 50.00% | ~242 |
 | Panda-kin | 49.00% | ~237 |
-| You Don't Win Friends With Salad | 49.00% | ~237 |
+| Anti-Santa | 49.00% | ~237 |
 | Knowledge is Power | 48.00% | ~232 |
 | Commissions, commissions...! | 48.00% | ~232 |
 | Martle's Dream | 48.00% | ~232 |
 | What Plants Crave | 48.00% | ~232 |
-| Anti-Santa | 48.00% | ~232 |
 | Call Me Fishmael | 48.00% | ~232 |
 | Lifeline Pipeline | 47.00% | ~227 |
 | Waste Not Want Not | 47.00% | ~227 |

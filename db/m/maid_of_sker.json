@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -445,6 +445,11 @@
       "Time": "2023-11-27T14:07:52.6700777+00:00",
       "NumProgressed": 212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T05:08:41.7933407+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -456,7 +461,7 @@
       "Name": "Animal Lover",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "axe_of_kindness",
@@ -496,7 +501,7 @@
       "Name": "Choking Hazard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "dodgy_geezer",
@@ -518,9 +523,9 @@
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ending_on_a_high_note",
@@ -695,7 +700,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 0
     }
   ],
@@ -703,8 +708,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:06:38.5295294+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:08:41.7933404+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:55.2818485+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:58:09.3525704+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:06:38.5295492+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:58:17.9460767+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:08:41.7933594+00:00"
 }

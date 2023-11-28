@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1690,9 +1690,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -1761,8 +1761,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:06:14.5711435+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:06:39.1192767+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:19.4276968+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:58:22.7927492+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:06:14.5711679+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:58:30.2540738+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:06:39.1193041+00:00"
 }

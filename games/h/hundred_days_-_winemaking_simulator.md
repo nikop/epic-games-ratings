@@ -14,7 +14,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | The Blue Marl | 6.00% | ~841 |
 | Ostinata | 5.00% | ~701 |
 | Better than nothing? | 5.00% | ~701 |
-| A long journey | 4.00% | ~560 |
+| A long journey | 4.00% | ~561 |
 | Big Money | 3.00% | ~420 |
 | Keep the doctor away | 3.00% | ~420 |
 | Surprise of Langhe | 3.00% | ~420 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~14 |
 | Master Winemaker | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,012 (Ranked 154)  
+Progressed: 14,013 (Ranked 154)  
 Completed: 12 (0.09%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 12 (0.09%) (Ranked 290)
 | 2023-11-25 | 13,735 | 12 |
 | 2023-11-26 | 13,881 | 12 |
 | 2023-11-27 | 13,999 | 12 |
-| 2023-11-28 | 14,012 | 12 |
+| 2023-11-28 | 14,013 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 286)  
 Sum: 1,730 (Ranked 221)  

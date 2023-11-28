@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 957,
+  "EOS_Progressed": 958,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
@@ -3129,6 +3129,11 @@
       "Time": "2023-11-28T04:04:56.86619+00:00",
       "NumProgressed": 957,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-28T05:05:23.635701+00:00",
+      "NumProgressed": 958,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3141,7 +3146,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3149,7 +3154,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "_03_FinishAct1",
@@ -3157,7 +3162,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3165,7 +3170,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "_05_FinishAct2",
@@ -3293,7 +3298,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3307,9 +3312,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 86
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -3348,7 +3353,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 957,
+      "Progressed": 958,
       "Completed": 31
     }
   ],
@@ -3356,8 +3361,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:04:56.8661897+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:05:23.6357005+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:00:39.236355+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:04:56.8662163+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:03:10.051303+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:05:23.6357262+00:00"
 }

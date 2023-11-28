@@ -2,7 +2,7 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 137,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -732,6 +732,11 @@
       "Time": "2023-11-28T04:08:29.9347629+00:00",
       "NumProgressed": 340,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T05:09:01.7994575+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -752,7 +757,7 @@
       "Name": "Kronos Island Explorer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -800,23 +805,23 @@
       "Name": "Combo Convert",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 96
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 62
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -824,23 +829,23 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 58
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -848,23 +853,23 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 279
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 148
     },
     {
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -872,7 +877,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GET_FISH_ALL",
@@ -904,7 +909,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -936,7 +941,7 @@
       "Name": "The Journey Begins",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 182
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -950,9 +955,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Memories",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 34
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -982,17 +987,17 @@
       "ID": "POWER_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Herculean Hedgehog",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hearty Hedgehog",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -1054,23 +1059,23 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 344,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:08:29.9347625+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:09:01.7994571+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:00:38.1758266+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:08:29.9347884+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:03:09.3375503+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:09:01.7994853+00:00"
 }

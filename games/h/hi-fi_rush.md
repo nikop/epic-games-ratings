@@ -22,12 +22,12 @@ Rating: 4.87 (Ranked 22)
 | The Negotiator | 10.00% | ~440 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~440 |
 | Headliner | 9.00% | ~396 |
+| You must like calling me in, Chai | 9.00% | ~396 |
 | Out in a puff of smoke | 9.00% | ~396 |
 | I look cool. But I can look COOLER. | 9.00% | ~396 |
 | Does that say weakpoint? | 9.00% | ~396 |
 | Time to pay up! | 8.00% | ~352 |
 | Who's the boss now? | 8.00% | ~352 |
-| You must like calling me in, Chai | 8.00% | ~352 |
 | Perfecter Parry-er! | 8.00% | ~352 |
 | NOW we got a kickass hideout! | 8.00% | ~234 |
 | I have to read these things? | 7.00% | ~308 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,399 (Ranked 194)  
+Progressed: 4,400 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 8 (0.18%) (Ranked 264)
 | 2023-11-25 | 4,346 | 8 |
 | 2023-11-26 | 4,367 | 8 |
 | 2023-11-27 | 4,394 | 8 |
-| 2023-11-28 | 4,399 | 8 |
+| 2023-11-28 | 4,400 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

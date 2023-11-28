@@ -387,9 +387,9 @@
       "ID": "JUMPER_5000",
       "SetID": "dademeo",
       "Name": "Jumper 5000",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "JELLY_DANCE",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:08:36.5649832+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:09:08.2325196+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:29.3006743+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:57:21.7525661+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:08:36.5649958+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:57:31.3016572+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:09:08.2325302+00:00"
 }

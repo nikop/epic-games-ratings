@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1161,9 +1161,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67646,
+  "EOS_Progressed": 67652,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10701,6 +10701,11 @@
       "Time": "2023-11-28T04:04:19.0401344+00:00",
       "NumProgressed": 67646,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-28T05:04:47.2653768+00:00",
+      "NumProgressed": 67652,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10713,7 +10718,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23676
+      "UsersEstimate": 23678
     },
     {
       "ID": "10",
@@ -10721,7 +10726,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "11",
@@ -10729,7 +10734,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "12",
@@ -10737,7 +10742,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "13",
@@ -10777,7 +10782,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12176
+      "UsersEstimate": 12177
     },
     {
       "ID": "3",
@@ -10785,7 +10790,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8794
+      "UsersEstimate": 8795
     },
     {
       "ID": "4",
@@ -10817,7 +10822,7 @@
       "Name": "More Power to You",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "8",
@@ -10840,7 +10845,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67646,
+      "Progressed": 67652,
       "Completed": 37
     }
   ],
@@ -10848,8 +10853,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-27T23:57:03.2947733+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:04:19.0401341+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:04:47.2653762+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:57:21.6051677+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:04:19.0401886+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:57:31.1228734+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:04:47.2654206+00:00"
 }

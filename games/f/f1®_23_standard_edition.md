@@ -18,7 +18,7 @@ Rating: 4.68 (Ranked 254)
 | Challenge Yourself | 34.00% | ~2,023 |
 | Making History | 32.00% | ~1,904 |
 | Network Success | 28.00% | ~1,666 |
-| Writing a new Chapter | 25.00% | ~1,487 |
+| Writing a new Chapter | 26.00% | ~1,547 |
 | Spring Cleaning | 24.00% | ~1,428 |
 | Reduce | 21.00% | ~1,249 |
 | Crucial Combo | 20.00% | ~1,190 |

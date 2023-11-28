@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15698,
+  "EOS_Progressed": 15704,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12520,6 +12520,11 @@
       "Time": "2023-11-28T04:06:27.0582939+00:00",
       "NumProgressed": 15698,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-28T05:06:51.2926829+00:00",
+      "NumProgressed": 15704,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12532,7 +12537,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "10",
@@ -12811,13 +12816,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15698,
+      "Progressed": 15704,
       "Completed": 36
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1652,
+      "Progressed": 1658,
       "Completed": 743
     }
   ],
@@ -12825,8 +12830,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:06:27.0582935+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:06:51.2926823+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:59:37.6354951+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:06:27.058361+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:59:41.2312736+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:06:51.2927496+00:00"
 }

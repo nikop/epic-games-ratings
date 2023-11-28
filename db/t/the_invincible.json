@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 408,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1080,6 +1080,11 @@
       "Time": "2023-11-28T04:08:34.3327641+00:00",
       "NumProgressed": 406,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T05:09:06.1334428+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1092,7 +1097,7 @@
       "Name": "The Teleprobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "AchvAllMemories",
@@ -1132,7 +1137,7 @@
       "Name": "Violent solution",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AchvConvoyList",
@@ -1196,7 +1201,7 @@
       "Name": "Volcanologist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -1220,7 +1225,7 @@
       "Name": "The Necroevolution",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AchvNest",
@@ -1228,7 +1233,7 @@
       "Name": "Innate curiosity",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AchvNoHoles",
@@ -1258,9 +1263,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 131
     },
     {
       "ID": "AchvReachCamp",
@@ -1268,7 +1273,7 @@
       "Name": "The Camp",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "AchvReachCity",
@@ -1276,7 +1281,7 @@
       "Name": "The City",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "AchvReachCondor",
@@ -1323,14 +1328,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 408,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-28T04:08:34.3327636+00:00",
+  "LastChanged_Achievements": "2023-11-28T05:09:06.1334425+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-28T03:58:08.4838287+00:00",
-  "LastUpdate_Achievements": "2023-11-28T04:08:34.3327879+00:00"
+  "LastUpdate_Ratings": "2023-11-28T04:58:17.1135134+00:00",
+  "LastUpdate_Achievements": "2023-11-28T05:09:06.1334644+00:00"
 }

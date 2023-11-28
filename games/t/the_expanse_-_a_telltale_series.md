@@ -35,13 +35,13 @@ Rating: 4.58 (Ranked 443)
 | Brother's Reaper | 0.90% | ~141 |
 | Debris Spree | 0.90% | ~141 |
 | Data Recoverer | 0.80% | ~126 |
-| Urshanabi Hoarder | 0.50% | ~78 |
+| Urshanabi Hoarder | 0.50% | ~79 |
 | Data Miner | 0.30% | ~47 |
 | Grave Robber | 0.30% | ~47 |
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,698 (Ranked 151)  
+Progressed: 15,704 (Ranked 151)  
 Completed: 36 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 36 (0.23%) (Ranked 250)
 | 2023-11-25 | 15,549 | 35 |
 | 2023-11-26 | 15,631 | 35 |
 | 2023-11-27 | 15,689 | 36 |
-| 2023-11-28 | 15,698 | 36 |
+| 2023-11-28 | 15,704 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
