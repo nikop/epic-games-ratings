@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1508,7 +1508,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131339,
+  "EOS_Progressed": 131340,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
@@ -23188,6 +23188,11 @@
       "Time": "2023-11-28T05:06:43.9495245+00:00",
       "NumProgressed": 131339,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-28T06:08:22.4383161+00:00",
+      "NumProgressed": 131340,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23255,7 +23260,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31521
+      "UsersEstimate": 31522
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23415,7 +23420,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18387
+      "UsersEstimate": 18388
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -23479,7 +23484,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18387
+      "UsersEstimate": 18388
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -23518,15 +23523,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131339,
+      "Progressed": 131340,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-27T11:59:25.2910786+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:06:43.9495242+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:08:22.4383155+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:59:11.0011768+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:06:43.9496606+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:00:14.3391037+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:08:22.4384675+00:00"
 }

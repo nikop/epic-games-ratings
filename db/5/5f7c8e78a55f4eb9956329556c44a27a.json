@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -668,9 +668,9 @@
       "ID": "TINGWD_BLUEMOON",
       "SetID": "c0imaa6",
       "Name": "Blue moon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TINGWD_BUTTON_PLAY",
@@ -923,8 +923,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:08:48.1453468+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:08:55.7827656+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.8137198+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:00:35.4377177+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:08:48.1453687+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:57:22.8119712+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:08:55.7827862+00:00"
 }

@@ -6,61 +6,61 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~60,682 |
-| The Pyromancer | 86.00% | ~57,986 |
-| The Wastes | 83.00% | ~55,963 |
-| Waste Not | 80.00% | ~53,940 |
-| The Cryomancer | 76.00% | ~51,243 |
-| Stock Up | 75.00% | ~50,569 |
-| The Hydromancer | 73.00% | ~49,220 |
-| The Matriarch | 70.00% | ~47,198 |
-| The Aeromancer | 66.00% | ~44,500 |
-| The Huntsman | 65.00% | ~43,826 |
-| The Venomancer | 65.00% | ~43,826 |
-| Dawnlight Order | 64.00% | ~43,152 |
-| The Electromancer | 61.00% | ~41,129 |
-| The Terramancer | 59.00% | ~39,781 |
-| The Exalted | 56.00% | ~37,758 |
-| Sheriff Inquisitors | 55.00% | ~37,084 |
-| Blueheart Runners | 54.00% | ~36,410 |
-| The Necromancer | 52.00% | ~35,061 |
-| The Swamp | 50.00% | ~33,712 |
-| The Fungalmancer | 47.00% | ~31,690 |
-| The Thaumamancer | 47.00% | ~31,690 |
-| The Hag | 45.00% | ~30,341 |
-| The Corpumancer | 42.00% | ~28,318 |
-| The Mountain | 40.00% | ~26,970 |
-| The Treeheart | 40.00% | ~26,970 |
-| Shroud Alliance | 39.00% | ~26,296 |
-| The Two Monks | 37.00% | ~24,947 |
+| The Champion | 90.00% | ~60,684 |
+| The Pyromancer | 86.00% | ~57,987 |
+| The Wastes | 83.00% | ~55,964 |
+| Waste Not | 80.00% | ~53,942 |
+| The Cryomancer | 76.00% | ~51,245 |
+| Stock Up | 75.00% | ~50,570 |
+| The Hydromancer | 73.00% | ~49,222 |
+| The Matriarch | 70.00% | ~47,199 |
+| The Aeromancer | 66.00% | ~44,502 |
+| The Huntsman | 65.00% | ~43,828 |
+| The Venomancer | 65.00% | ~43,828 |
+| Dawnlight Order | 64.00% | ~43,153 |
+| The Electromancer | 61.00% | ~41,130 |
+| The Terramancer | 59.00% | ~39,782 |
+| The Exalted | 57.00% | ~38,433 |
+| Sheriff Inquisitors | 55.00% | ~37,085 |
+| Blueheart Runners | 54.00% | ~36,411 |
+| The Necromancer | 52.00% | ~35,062 |
+| The Swamp | 50.00% | ~33,714 |
+| The Fungalmancer | 47.00% | ~31,691 |
+| The Thaumamancer | 47.00% | ~31,691 |
+| The Hag | 45.00% | ~30,342 |
+| The Corpumancer | 42.00% | ~28,319 |
+| The Mountain | 40.00% | ~26,971 |
+| The Treeheart | 40.00% | ~26,971 |
+| Shroud Alliance | 39.00% | ~26,297 |
+| The Two Monks | 37.00% | ~24,948 |
 | The Neuromancer | 35.00% | ~23,599 |
-| Oathbound Watchers | 33.00% | ~22,250 |
-| The Chronomancer | 32.00% | ~21,576 |
-| The Mechanomancer | 32.00% | ~21,576 |
+| Oathbound Watchers | 33.00% | ~22,251 |
+| The Chronomancer | 32.00% | ~21,577 |
+| The Mechanomancer | 32.00% | ~21,577 |
 | The Copse | 30.00% | ~20,228 |
 | The Dragon | 30.00% | ~20,228 |
 | The Dracomancer | 30.00% | ~20,228 |
-| Well Stocked | 28.00% | ~18,879 |
-| The Umbramancer | 28.00% | ~18,879 |
+| Well Stocked | 28.00% | ~18,880 |
+| The Umbramancer | 28.00% | ~18,880 |
 | Chaos Hunger | 27.00% | ~18,205 |
 | The Kinetomancer | 27.00% | ~18,205 |
 | The Sanguimancer | 27.00% | ~18,205 |
-| The Luminimancer | 26.00% | ~17,530 |
-| The Bibliomancer | 25.00% | ~16,856 |
-| The Skylord | 25.00% | ~16,856 |
+| The Luminimancer | 26.00% | ~17,531 |
+| The Bibliomancer | 25.00% | ~16,857 |
+| The Skylord | 25.00% | ~16,857 |
 | The Firelord | 24.00% | ~16,182 |
 | The Diablomancer | 22.00% | ~14,834 |
-| Want Not | 21.00% | ~14,159 |
-| The Sacrifice | 21.00% | ~14,159 |
+| Want Not | 21.00% | ~14,160 |
+| The Sacrifice | 21.00% | ~14,160 |
 | The King | 19.00% | ~12,811 |
 | Take Your Place | 14.00% | ~9,440 |
 | The Nomad | 14.00% | ~9,440 |
 | The Soldier | 11.00% | ~7,417 |
-| Make The Climb | 10.00% | ~6,742 |
-| The Scholar | 10.00% | ~6,742 |
+| Make The Climb | 10.00% | ~6,743 |
+| The Scholar | 10.00% | ~6,743 |
 | Top Shelf | 5.00% | ~3,371 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,425 (Ranked 103)  
+Progressed: 67,427 (Ranked 103)  
 Completed: 1,263 (1.87%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 1,263 (1.87%) (Ranked 130)
 | 2023-11-25 | 67,344 | 1,262 |
 | 2023-11-26 | 67,380 | 1,262 |
 | 2023-11-27 | 67,412 | 1,263 |
-| 2023-11-28 | 67,425 | 1,263 |
+| 2023-11-28 | 67,427 | 1,263 |
 ## Awards
 Max (Character Customization): 988  (Ranked 153)  
 Sum: 1,987 (Ranked 215)  

@@ -3307,7 +3307,7 @@
   ],
   "EOS_Progressed": 17511,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14710,9 +14710,9 @@
       "ID": "WinWithTimedOrders",
       "SetID": "cfbk359",
       "Name": "Like a Machine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -14830,8 +14830,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-27T19:58:26.3844836+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:09:04.770635+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:09:19.4000533+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:58:35.6004231+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:09:04.7707416+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:59:18.7433991+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:09:19.400141+00:00"
 }

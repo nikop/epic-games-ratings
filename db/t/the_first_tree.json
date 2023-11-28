@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38379,
+  "EOS_Progressed": 38380,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19490,6 +19490,11 @@
       "Time": "2023-11-28T04:04:52.6307633+00:00",
       "NumProgressed": 38379,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-11-28T06:06:21.5443148+00:00",
+      "NumProgressed": 38380,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -19589,7 +19594,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29552
+      "UsersEstimate": 29553
     },
     {
       "ID": "roots",
@@ -19597,7 +19602,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     },
     {
       "ID": "secretItem",
@@ -19612,15 +19617,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38379,
+      "Progressed": 38380,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:05:19.6298437+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:06:21.5443144+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.3086908+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:58:02.1591449+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:05:19.6299416+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:58:28.1969388+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:06:21.5444205+00:00"
 }

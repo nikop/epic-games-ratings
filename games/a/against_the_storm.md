@@ -50,6 +50,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Taking Action | 0.10% | ~18 |
 | Victory Through Prosperity | 0.10% | ~18 |
+| Like a Machine | 0.10% | ~18 |
 | Trade Baron | 0.10% | ~18 |
 | No Deaths | 0.10% | ~18 |
 | Defying the Crown | 0.10% | ~18 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 | Ruins | 0.00% | ~0 |
-| Like a Machine | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,511 (Ranked 146)  
 Completed: 54 (0.31%) (Ranked 235)  

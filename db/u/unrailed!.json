@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2837,9 +2837,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 665917,
+  "EOS_Progressed": 665920,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1609,
+  "EOS_NewPlayers": 1606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28142,6 +28142,11 @@
       "Time": "2023-11-28T05:09:47.1949143+00:00",
       "NumProgressed": 665917,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-28T06:10:17.9675088+00:00",
+      "NumProgressed": 665920,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -28193,7 +28198,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119865
+      "UsersEstimate": 119866
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -28201,7 +28206,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86569
+      "UsersEstimate": 86570
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -28273,7 +28278,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 93228
+      "UsersEstimate": 93229
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -28568,15 +28573,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 665917,
+      "Progressed": 665920,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-24T09:59:15.1264226+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:09:47.1949135+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:10:17.9675085+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.271404+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:58:10.6795594+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:09:47.1950541+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:58:40.4097285+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:10:17.9676293+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9949,
+  "EOS_Progressed": 9952,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 2848,
+  "EOS_NewPlayers": 2835,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2343,6 +2343,11 @@
       "Time": "2023-11-28T05:05:02.5739339+00:00",
       "NumProgressed": 9949,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-28T06:05:56.9034427+00:00",
+      "NumProgressed": 9952,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -2363,7 +2368,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -2395,7 +2400,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -2427,14 +2432,14 @@
       "Name": "Investigator",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 9949,
+      "Progressed": 9952,
       "Completed": 33
     }
   ],
@@ -2442,8 +2447,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-25T10:00:25.1151094+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:05:02.5739336+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:05:56.9034419+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.5649017+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:58:21.3876198+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:05:02.5739512+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:58:56.5283683+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:05:56.9034616+00:00"
 }

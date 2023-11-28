@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 722,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
@@ -1427,6 +1427,11 @@
       "Time": "2023-11-28T05:03:59.0908103+00:00",
       "NumProgressed": 721,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T06:04:25.5482279+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1455,7 +1460,7 @@
       "Name": "Chosen Victor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -1495,7 +1500,7 @@
       "Name": "Pathfinder",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "CompleteChapter10",
@@ -1519,7 +1524,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CompleteChapter13",
@@ -1527,7 +1532,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CompleteChapter14",
@@ -1583,7 +1588,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "CompleteChapter3",
@@ -1607,7 +1612,7 @@
       "Name": "Breathing Easy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "CompleteChapter6",
@@ -1615,7 +1620,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "CompleteChapter7",
@@ -1687,7 +1692,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1734,14 +1739,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 722,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:03:59.09081+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:04:25.5482276+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:00:18.9727243+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:03:59.090838+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:02:01.0568352+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:04:25.5482575+00:00"
 }

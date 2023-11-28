@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11760,9 +11760,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 53948,
+  "EOS_Progressed": 53949,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1867,
+  "EOS_NewPlayers": 1866,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32070,6 +32070,11 @@
       "Time": "2023-11-28T05:04:55.6482325+00:00",
       "NumProgressed": 53948,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-28T06:05:47.0346499+00:00",
+      "NumProgressed": 53949,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -32177,7 +32182,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 31829
+      "UsersEstimate": 31830
     },
     {
       "ID": "DeliveryGrapes",
@@ -32217,7 +32222,7 @@
       "Name": "Plant get enough",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 31829
+      "UsersEstimate": 31830
     },
     {
       "ID": "Harvested",
@@ -32337,7 +32342,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 30750
+      "UsersEstimate": 30751
     },
     {
       "ID": "PetDog",
@@ -32353,7 +32358,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 30750
+      "UsersEstimate": 30751
     },
     {
       "ID": "Sow",
@@ -32369,7 +32374,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 32908
+      "UsersEstimate": 32909
     },
     {
       "ID": "Stones",
@@ -32385,7 +32390,7 @@
       "Name": "Field Trip",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 22658
+      "UsersEstimate": 22659
     },
     {
       "ID": "TruckDriving",
@@ -32424,15 +32429,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 53948,
+      "Progressed": 53949,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-28T04:58:40.8105477+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:04:55.6482321+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:05:47.0346496+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.5374775+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:58:40.8105484+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:04:55.6483487+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:59:27.0231956+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:05:47.0347814+00:00"
 }

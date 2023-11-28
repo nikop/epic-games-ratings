@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1206,
+  "EOS_Progressed": 1207,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2627,6 +2627,11 @@
       "Time": "2023-11-27T22:03:31.8262993+00:00",
       "NumProgressed": 1206,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T06:04:32.409953+00:00",
+      "NumProgressed": 1207,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2639,7 +2644,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2647,7 +2652,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2783,7 +2788,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2797,9 +2802,9 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 193
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -2879,7 +2884,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2911,7 +2916,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2975,27 +2980,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1206,
+      "Progressed": 1207,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 874,
-      "Completed": 874
+      "Progressed": 875,
+      "Completed": 875
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:04:03.8266391+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:04:32.4099527+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:59:56.9566701+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:04:03.8266719+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:01:27.3867041+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:04:32.4099957+00:00"
 }

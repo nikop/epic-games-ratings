@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,555 |
-| Basic in Bulk | 6.00% | ~8,555 |
-| Titan's First Steps | 6.00% | ~8,555 |
-| Tinkle of Coins | 5.00% | ~7,129 |
-| Disintermediation | 4.00% | ~5,703 |
-| It's Free Real Estate | 4.00% | ~5,703 |
-| Budding Merchant | 4.00% | ~5,703 |
-| Capitalism Ho! | 4.00% | ~5,703 |
+| Sponsored by Argon | 6.00% | ~8,556 |
+| Basic in Bulk | 6.00% | ~8,556 |
+| Titan's First Steps | 6.00% | ~8,556 |
+| Tinkle of Coins | 5.00% | ~7,130 |
+| Disintermediation | 4.00% | ~5,704 |
+| It's Free Real Estate | 4.00% | ~5,704 |
+| Budding Merchant | 4.00% | ~5,704 |
+| Capitalism Ho! | 4.00% | ~5,704 |
 | The Daily Grind | 3.00% | ~4,278 |
 | One Easy Payment | 3.00% | ~4,278 |
 | Some Assembly Required | 3.00% | ~4,278 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,585 (Ranked 80)  
+Progressed: 142,593 (Ranked 80)  
 Completed: 280 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 280 (0.20%) (Ranked 257)
 | 2023-11-25 | 142,072 | 265 |
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
-| 2023-11-28 | 142,585 | 280 |
+| 2023-11-28 | 142,593 | 280 |
 ## Awards
 Max (Great for Beginners): 4,851  (Ranked 75)  
 Sum: 27,612 (Ranked 50)  

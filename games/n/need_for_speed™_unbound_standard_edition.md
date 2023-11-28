@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,308 |
+| Throwing up Tags | 92.00% | ~10,309 |
 | Cool Whip | 90.00% | ~10,084 |
 | Fashion Killa | 88.00% | ~9,860 |
-| Drop the Beat | 86.00% | ~9,635 |
-| Hey Lakeshore | 85.00% | ~9,523 |
-| 100 Miles and Runnin' | 84.00% | ~9,411 |
-| Public Enemy | 82.00% | ~9,187 |
+| Drop the Beat | 86.00% | ~9,636 |
+| Hey Lakeshore | 85.00% | ~9,524 |
+| 100 Miles and Runnin' | 84.00% | ~9,412 |
+| Public Enemy | 82.00% | ~9,188 |
 | Rebel Without a Pause | 68.00% | ~7,619 |
 | Hey Speedie! | 67.00% | ~7,507 |
 | Most Wanted | 64.00% | ~7,171 |
-| New Crew | 62.00% | ~6,946 |
-| Serious Guap | 53.00% | ~5,938 |
-| Style it Out | 53.00% | ~5,938 |
-| Escape Artist | 53.00% | ~5,938 |
-| Untouchable | 52.00% | ~5,826 |
+| New Crew | 62.00% | ~6,947 |
+| Serious Guap | 53.00% | ~5,939 |
+| Style it Out | 53.00% | ~5,939 |
+| Escape Artist | 53.00% | ~5,939 |
+| Untouchable | 52.00% | ~5,827 |
 | Oh, It's On | 50.00% | ~5,602 |
 | Rydell's Rydes | 48.00% | ~5,378 |
 | Cash Money Millionaire | 46.00% | ~5,154 |
 | Lake Better Watch Out | 39.00% | ~4,370 |
-| #Blessed | 34.00% | ~3,809 |
-| Access All Areas | 33.00% | ~3,697 |
-| Found Family | 31.00% | ~3,473 |
+| #Blessed | 34.00% | ~3,810 |
+| Access All Areas | 33.00% | ~3,698 |
+| Found Family | 31.00% | ~3,474 |
 | In the Flow | 29.00% | ~3,249 |
 | The Collector | 29.00% | ~3,249 |
 | Kick it | 29.00% | ~3,249 |
@@ -36,7 +36,7 @@
 | B for My Name | 17.00% | ~1,905 |
 | Mixtape | 17.00% | ~1,905 |
 | Bring Your A Game | 15.00% | ~1,681 |
-| Flow Master | 12.00% | ~1,344 |
+| Flow Master | 12.00% | ~1,345 |
 | The Bear Champ | 5.00% | ~560 |
 | Heaven Spot | 5.00% | ~560 |
 | Adbusting | 4.00% | ~448 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~224 |
 | Cleaning Up | 2.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,204 (Ranked 161)  
+Progressed: 11,205 (Ranked 161)  
 Completed: 52 (0.46%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,4 +120,4 @@ Completed: 52 (0.46%) (Ranked 211)
 | 2023-11-25 | 10,970 | 51 |
 | 2023-11-26 | 11,100 | 51 |
 | 2023-11-27 | 11,181 | 52 |
-| 2023-11-28 | 11,204 | 52 |
+| 2023-11-28 | 11,205 | 52 |

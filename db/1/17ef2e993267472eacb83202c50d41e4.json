@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -7606,9 +7606,9 @@
       "ID": "GamesWon1",
       "SetID": "12d07c7",
       "Name": "Won a Match",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1663
     },
     {
       "ID": "GamesWon10",
@@ -8063,8 +8063,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-24T13:07:54.0480111+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:10:00.8968486+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:10:35.1848231+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-28T05:03:22.8548699+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:10:00.8969266+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:03:31.2248242+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:10:35.1849121+00:00"
 }

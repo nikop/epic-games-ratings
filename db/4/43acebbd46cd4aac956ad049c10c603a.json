@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 728,
+  "EOS_Progressed": 729,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1592,6 +1592,11 @@
       "Time": "2023-11-28T05:06:27.3325325+00:00",
       "NumProgressed": 728,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T06:07:58.7565536+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1644,7 +1649,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "BreakTheLoop",
@@ -1660,7 +1665,7 @@
       "Name": "Bridge Builder",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ChasingTheLight",
@@ -1772,7 +1777,7 @@
       "Name": "Into the Machine",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "JustOneLap",
@@ -1892,7 +1897,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "RenaissanceRobot",
@@ -1914,9 +1919,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 160
     },
     {
       "ID": "SingleRod",
@@ -1948,7 +1953,7 @@
       "Name": "Team Spirit",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "TextAdventurer",
@@ -1996,7 +2001,7 @@
       "Name": "The Spark",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "TheThiefOfFire",
@@ -2004,7 +2009,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "TheWordEndures",
@@ -2012,7 +2017,7 @@
       "Name": "The Word Endures",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "TouchGrass",
@@ -2020,7 +2025,7 @@
       "Name": "Touch Grass",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "TrevorsBiographer",
@@ -2044,7 +2049,7 @@
       "Name": "Wanderers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WesternDelta",
@@ -2060,7 +2065,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "YourBiggestFan",
@@ -2075,7 +2080,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 728,
+      "Progressed": 729,
       "Completed": 1
     }
   ],
@@ -2083,8 +2088,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-28T04:58:21.1400637+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:06:27.3325322+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:07:58.7565533+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:58:21.1400642+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:06:27.3325907+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:58:56.1357704+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:07:58.7565974+00:00"
 }

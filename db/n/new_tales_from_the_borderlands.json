@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3702,
+  "EOS_Progressed": 3703,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1812,6 +1812,11 @@
       "Time": "2023-11-28T00:03:36.1879555+00:00",
       "NumProgressed": 3702,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T06:04:17.3499214+00:00",
+      "NumProgressed": 3703,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1887,7 +1892,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -1895,7 +1900,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1903,7 +1908,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -1917,9 +1922,9 @@
       "ID": "GAMEOVER_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Tale in the Toilet",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1111
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1927,7 +1932,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1943,7 +1948,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1951,7 +1956,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1959,7 +1964,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1991,7 +1996,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2023,14 +2028,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3702,
+      "Progressed": 3703,
       "Completed": 0
     }
   ],
@@ -2038,8 +2043,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:03:53.4388809+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:04:17.3499209+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.4974297+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:59:37.8589924+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:03:53.4388973+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:00:57.646661+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:04:17.349945+00:00"
 }

@@ -10,8 +10,8 @@
 | Hammer Time, Round Two | 79.00% | ~380 |
 | The Hellwoods | 73.00% | ~351 |
 | The Plains of Strothalm | 68.00% | ~327 |
+| Experienced Thalya | 68.00% | ~327 |
 | Thalya's Concentrated Fury | 67.00% | ~322 |
-| Experienced Thalya | 67.00% | ~322 |
 | Bad Elves Go Everywhere | 64.00% | ~308 |
 | Master of Magic | 63.00% | ~303 |
 | Heroes’ Gorge | 59.00% | ~284 |
@@ -33,7 +33,7 @@
 | Tanos' Crusade Against Thalya | 30.00% | ~144 |
 | All’s Well That Ends Evil | 25.00% | ~120 |
 | Unstoppable Horde | 24.00% | ~115 |
-| Master of the Undead | 23.00% | ~111 |
+| Master of the Undead | 24.00% | ~115 |
 | The Duel | 22.00% | ~106 |
 | Hungry, Hungry Gorgu! | 20.00% | ~96 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~96 |
@@ -42,11 +42,11 @@
 | If Looks Could Kill | 20.00% | ~96 |
 | The Finitude Drill | 18.00% | ~87 |
 | Stop Tanos! | 16.00% | ~77 |
+| Doom Hill | 16.00% | ~77 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~72 |
-| Doom Hill | 15.00% | ~72 |
+| Bonus Evilness | 14.00% | ~67 |
 | Sabotage! | 14.00% | ~67 |
 | Brimstone Shaken, Not Stirred | 14.00% | ~67 |
-| Bonus Evilness | 13.00% | ~63 |
 | Raiders of the Lost Stone | 12.00% | ~58 |
 | The Rune Sockets of Finitude (Part 1) | 12.00% | ~58 |
 | My Little Torture Chamber | 11.00% | ~53 |

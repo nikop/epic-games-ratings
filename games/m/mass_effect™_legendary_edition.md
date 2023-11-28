@@ -23,8 +23,8 @@
 | Asari Ally | 46.00% | ~660 |
 | Medal of Exploration III | 45.00% | ~646 |
 | Principled | 45.00% | ~646 |
+| Paramour I | 44.00% | ~631 |
 | Colonial Savior | 44.00% | ~631 |
-| Paramour I | 43.00% | ~617 |
 | Missing in Action | 43.00% | ~617 |
 | Scientist | 43.00% | ~617 |
 | Very Elusive | 42.00% | ~603 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 136,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -498,9 +498,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -602,9 +602,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Epic_Formula_12",
@@ -762,9 +762,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Epic_Revenge_1",
@@ -802,9 +802,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -850,9 +850,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -889,8 +889,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:05:20.4148066+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:06:22.7078483+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.1827945+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:57:26.9867771+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:05:20.4148519+00:00"
+  "LastUpdate_Ratings": "2023-11-28T05:57:36.0932383+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:06:22.7078876+00:00"
 }

@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15704,
+  "EOS_Progressed": 15708,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -12525,6 +12525,11 @@
       "Time": "2023-11-28T05:06:51.2926829+00:00",
       "NumProgressed": 15704,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-28T06:08:33.1865972+00:00",
+      "NumProgressed": 15708,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12569,7 +12574,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "14",
@@ -12793,7 +12798,7 @@
       "Name": "Zen Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "34",
@@ -12816,13 +12821,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15704,
+      "Progressed": 15708,
       "Completed": 36
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1658,
+      "Progressed": 1662,
       "Completed": 743
     }
   ],
@@ -12830,8 +12835,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-26T17:59:21.3282724+00:00",
-  "LastChanged_Achievements": "2023-11-28T05:06:51.2926823+00:00",
+  "LastChanged_Achievements": "2023-11-28T06:08:33.1865969+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-28T04:59:41.2312736+00:00",
-  "LastUpdate_Achievements": "2023-11-28T05:06:51.2927496+00:00"
+  "LastUpdate_Ratings": "2023-11-28T06:01:02.9628704+00:00",
+  "LastUpdate_Achievements": "2023-11-28T06:08:33.1866707+00:00"
 }
