@@ -115,8 +115,8 @@
 | 113 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,946 | 4.70 | 216 |
 | 114 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,943 | 4.66 | 294 |
 | 115 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,887 | 4.81 | 78 |
-| 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,863 | 4.77 | 111 |
-| 117 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,859 | 4.63 | 348 |
+| 116 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,867 | 4.63 | 348 |
+| 117 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,863 | 4.77 | 111 |
 | 118 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,838 | 4.50 | 591 |
 | 119 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,820 | 4.56 | 494 |
 | 120 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,801 | 4.63 | 348 |
@@ -170,7 +170,7 @@
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 836 | 4.75 | 148 |
 | 169 | [Riders Republic](games/r/riders_republic.md) | 830 | 4.75 | 148 |
 | 170 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 815 | 4.79 | 96 |
-| 171 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 796 | 4.24 | 887 |
+| 171 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 797 | 4.24 | 887 |
 | 172 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 776 | 4.60 | 415 |
 | 173 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 775 | 4.51 | 571 |
 | 174 | [Neverwinter](games/n/neverwinter.md) | 770 | 4.29 | 844 |
@@ -215,7 +215,7 @@
 | 213 | [Loop Hero](games/l/loop_hero.md) | 481 | 4.67 | 275 |
 | 214 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 478 | 4.66 | 294 |
 | 215 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.05 | 986 |
-| 216 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 470 | 4.84 | 52 |
+| 216 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 472 | 4.84 | 52 |
 | 217 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 465 | 4.71 | 199 |
 | 218 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 294 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 456 | 4.71 | 199 |
@@ -260,7 +260,7 @@
 | 258 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 290 | 4.43 | 693 |
 | 259 | [Diabotical](games/d/diabotical.md) | 289 | 4.74 | 159 |
 | 260 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 286 | 4.62 | 365 |
-| 261 | [MudRunner](games/m/mudrunner.md) | 282 | 4.61 | 382 |
+| 261 | [MudRunner](games/m/mudrunner.md) | 284 | 4.61 | 382 |
 | 262 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 279 | 4.49 | 609 |
 | 263 | [Sheltered](games/s/sheltered.md) | 276 | 4.41 | 723 |
 | 264 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 274 | 4.84 | 52 |

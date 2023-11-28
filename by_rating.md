@@ -54,7 +54,7 @@
 | 52 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.84 | 0 | 556 |
 | 52 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 48 | 440 |
 | 52 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 219 | 281 |
-| 52 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 470 | 216 |
+| 52 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 472 | 216 |
 | 52 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 556 |
 | 52 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 441 | 222 |
 | 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 274 | 264 |
@@ -114,7 +114,7 @@
 | 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 7,832 | 48 |
 | 111 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.77 | 0 | 556 |
 | 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 8,144 | 45 |
-| 111 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.77 | 1,863 | 116 |
+| 111 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.77 | 1,863 | 117 |
 | 111 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 556 |
 | 111 | [Quake](games/q/quake.md) | 4.77 | 51 | 432 |
 | 111 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 20 | 549 |
@@ -361,7 +361,7 @@
 | 348 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 252 |
 | 348 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.63 | 0 | 556 |
 | 348 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,801 | 120 |
-| 348 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,859 | 117 |
+| 348 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,867 | 116 |
 | 348 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 73 | 399 |
 | 348 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 556 |
 | 365 | [Aimlabs](games/a/aimlabs.md) | 4.62 | 57 | 418 |
@@ -396,7 +396,7 @@
 | 382 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 41 | 456 |
 | 382 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 397 | 232 |
 | 382 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,317 | 137 |
-| 382 | [MudRunner](games/m/mudrunner.md) | 4.61 | 282 | 261 |
+| 382 | [MudRunner](games/m/mudrunner.md) | 4.61 | 284 | 261 |
 | 382 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 556 |
 | 382 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,696 | 101 |
 | 382 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 556 |
@@ -891,7 +891,7 @@
 | 887 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 33 | 488 |
 | 887 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,136 | 143 |
 | 887 | [Out of Line](games/o/out_of_line.md) | 4.24 | 0 | 556 |
-| 887 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 796 | 171 |
+| 887 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 797 | 171 |
 | 887 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 556 |
 | 887 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 444 |
 | 887 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 556 |
