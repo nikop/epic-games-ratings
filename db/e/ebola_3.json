@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1201,6 +1201,11 @@
       "Time": "2023-11-26T19:09:50.59028+00:00",
       "NumProgressed": 281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T18:09:39.5873486+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1276,7 +1281,7 @@
       "Name": "Chest \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "achCity",
@@ -1396,7 +1401,7 @@
       "Name": "Hospital \u2714",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achIvan",
@@ -1484,7 +1489,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achPriest",
@@ -1588,7 +1593,7 @@
       "Name": "Thirst \u2714",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achWeapon",
@@ -1611,7 +1616,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 282,
       "Completed": 0
     }
   ],
@@ -1619,8 +1624,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:09:09.463046+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:09:39.5873481+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:42.3198378+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:58.7098406+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:09:09.4630914+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:01:08.5339569+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:09:39.587382+00:00"
 }

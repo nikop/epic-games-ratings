@@ -4,11 +4,11 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 915,
   "Ranking_Popularity": 467,
-  "Ranking_PopularitySum": 401,
+  "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -887,10 +887,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 197,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-11-28T18:00:23.7744063+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 198,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197,
+  "NumberOfAwards": 198,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -916,7 +922,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Great for Beginners",
@@ -933,7 +939,7 @@
   ],
   "EOS_Progressed": 6700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10944,9 +10950,9 @@
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2023-11-25T22:58:05.6860746+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:03:54.0836423+00:00",
+  "LastChanged": "2023-11-28T18:00:23.7744062+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:04:18.2215804+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.1325852+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:28.3592804+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:03:54.0837125+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:00:23.7744066+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:04:18.2216584+00:00"
 }

@@ -1,7 +1,7 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.47 (Ranked 639)  
+Rating: 4.47 (Ranked 638)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,8 +14,8 @@ Number of Ratings: 54  (23.09.2022)
 | Grave Robber | 19.00% | ~251 |
 | Head Burst | 19.00% | ~251 |
 | Explorer | 18.00% | ~238 |
+| Double agent | 16.00% | ~212 |
 | Paranoia | 16.00% | ~212 |
-| Double agent | 15.00% | ~198 |
 | Kraina Grzybow | 10.00% | ~132 |
 | Savant | 10.00% | ~132 |
 | Love Guru | 9.00% | ~119 |

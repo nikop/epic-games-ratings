@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 50.00% | ~212 |
-| The Teleprobe | 41.00% | ~174 |
-| The City | 36.00% | ~153 |
-| The field base | 32.00% | ~136 |
-| Survivors | 28.00% | ~119 |
-| The Condor | 25.00% | ~106 |
-| The End | 25.00% | ~106 |
-| The Necroevolution | 20.00% | ~85 |
-| Krauta is alive | 18.00% | ~76 |
-| Volcanologist | 18.00% | ~76 |
-| Peacemaker | 17.00% | ~72 |
-| The Alliance | 17.00% | ~72 |
+| The Camp | 50.00% | ~214 |
+| The Teleprobe | 41.00% | ~176 |
+| The City | 36.00% | ~154 |
+| The field base | 32.00% | ~137 |
+| Survivors | 28.00% | ~120 |
+| The Condor | 25.00% | ~107 |
+| The End | 24.00% | ~103 |
+| The Necroevolution | 21.00% | ~90 |
+| Volcanologist | 18.00% | ~77 |
+| Peacemaker | 17.00% | ~73 |
+| The Alliance | 17.00% | ~73 |
+| Krauta is alive | 17.00% | ~73 |
 | On her own | 14.00% | ~60 |
-| Beyond divisions | 13.00% | ~55 |
+| Beyond divisions | 13.00% | ~56 |
 | Fierce fight | 12.00% | ~51 |
 | Evacuation | 12.00% | ~51 |
 | Flying Objects Operator | 11.00% | ~47 |
-| I remember everything! | 10.00% | ~42 |
+| I remember everything! | 10.00% | ~43 |
 | Violent solution | 7.00% | ~30 |
 | Innate curiosity | 7.00% | ~30 |
 | Another giant | 6.00% | ~26 |
@@ -30,12 +30,12 @@
 | Strong objection | 4.00% | ~17 |
 | Ubiquitous holes | 3.00% | ~13 |
 | Got lost again | 3.00% | ~13 |
-| I leave no man behind (no exceptions) | 2.00% | ~8 |
+| I leave no man behind (no exceptions) | 2.00% | ~9 |
 | Convoy list | 1.00% | ~4 |
 | No more mistakes | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 323)  
-Completed: 1 (0.24%) (Ranked 249)  
+Progressed: 429 (Ranked 323)  
+Completed: 1 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,4 +57,4 @@ Completed: 1 (0.24%) (Ranked 249)
 | 2023-11-25 | 329 | 0 |
 | 2023-11-26 | 375 | 1 |
 | 2023-11-27 | 399 | 1 |
-| 2023-11-28 | 425 | 1 |
+| 2023-11-28 | 429 | 1 |

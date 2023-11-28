@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1481,9 +1481,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429268,
+  "EOS_Progressed": 429270,
   "EOS_Completed": 549,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16036,6 +16036,11 @@
       "Time": "2023-11-28T14:04:34.1413983+00:00",
       "NumProgressed": 429268,
       "NumCompleted": 549
+    },
+    {
+      "Time": "2023-11-28T18:05:10.3506111+00:00",
+      "NumProgressed": 429270,
+      "NumCompleted": 549
     }
   ],
   "TotalAchievements": 41,
@@ -16063,7 +16068,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257561
+      "UsersEstimate": 257562
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -16079,7 +16084,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107317
+      "UsersEstimate": 107318
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -16103,7 +16108,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128780
+      "UsersEstimate": 128781
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -16127,7 +16132,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257561
+      "UsersEstimate": 257562
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -16159,7 +16164,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133073
+      "UsersEstimate": 133074
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -16183,7 +16188,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201756
+      "UsersEstimate": 201757
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -16215,7 +16220,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407805
+      "UsersEstimate": 407806
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -16231,7 +16236,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309073
+      "UsersEstimate": 309074
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -16239,7 +16244,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158829
+      "UsersEstimate": 158830
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -16247,7 +16252,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300488
+      "UsersEstimate": 300489
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -16263,7 +16268,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343414
+      "UsersEstimate": 343416
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -16279,7 +16284,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34341
+      "UsersEstimate": 34342
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -16295,7 +16300,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197463
+      "UsersEstimate": 197464
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -16303,7 +16308,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141658
+      "UsersEstimate": 141659
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -16311,7 +16316,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115902
+      "UsersEstimate": 115903
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -16319,7 +16324,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120195
+      "UsersEstimate": 120196
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -16327,7 +16332,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240390
+      "UsersEstimate": 240391
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -16335,7 +16340,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188878
+      "UsersEstimate": 188879
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -16343,7 +16348,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145951
+      "UsersEstimate": 145952
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -16351,7 +16356,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115902
+      "UsersEstimate": 115903
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -16359,7 +16364,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133073
+      "UsersEstimate": 133074
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -16374,15 +16379,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429268,
+      "Progressed": 429270,
       "Completed": 549
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-28T07:57:38.5040997+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:04:32.6151017+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:05:10.3506105+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:39.0673393+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:58:01.9234742+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:04:32.6151957+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:58:16.5982531+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:05:10.3507128+00:00"
 }

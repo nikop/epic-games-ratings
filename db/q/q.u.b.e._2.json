@@ -551,7 +551,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41549,
+  "EOS_Progressed": 41558,
   "EOS_Completed": 175,
   "EOS_NewPlayers": 1118,
   "EOS_NewCompleters": 9,
@@ -8686,6 +8686,11 @@
       "Time": "2023-11-28T17:08:30.0609856+00:00",
       "NumProgressed": 41549,
       "NumCompleted": 175
+    },
+    {
+      "Time": "2023-11-28T18:08:45.6418943+00:00",
+      "NumProgressed": 41558,
+      "NumCompleted": 175
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -8698,7 +8703,7 @@
       "Name": "Descendants",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 5817
+      "UsersEstimate": 5818
     },
     {
       "ID": "ACH_BLUEEND",
@@ -8706,7 +8711,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -8714,7 +8719,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 7894
+      "UsersEstimate": 7896
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -8722,7 +8727,7 @@
       "Name": "True collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC1BRONZE",
@@ -8730,7 +8735,7 @@
       "Name": "Bronze collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC1COMPLETE",
@@ -8746,7 +8751,7 @@
       "Name": "Gold collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC1SILVER",
@@ -8754,7 +8759,7 @@
       "Name": "Silver collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC1TELEPORTER",
@@ -8770,7 +8775,7 @@
       "Name": "King of the Collectables",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC2BRONZE",
@@ -8778,7 +8783,7 @@
       "Name": "Competent Collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC2COMPLETE",
@@ -8786,7 +8791,7 @@
       "Name": "Puzzle Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC2EXIT",
@@ -8794,7 +8799,7 @@
       "Name": "Coming Home",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC2GOLD",
@@ -8802,7 +8807,7 @@
       "Name": "Master Collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC2MAXPOINTS",
@@ -8810,7 +8815,7 @@
       "Name": "QUBE Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC2SILVER",
@@ -8818,7 +8823,7 @@
       "Name": "Expert Collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_DLC2TUTORIAL",
@@ -8834,7 +8839,7 @@
       "Name": "Infinity Loop",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6649
     },
     {
       "ID": "ACH_HUB1",
@@ -8842,7 +8847,7 @@
       "Name": "Mission Success",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 9141
+      "UsersEstimate": 9143
     },
     {
       "ID": "ACH_HUB2",
@@ -8850,7 +8855,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7063
+      "UsersEstimate": 7065
     },
     {
       "ID": "ACH_OASIS",
@@ -8858,7 +8863,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21605
+      "UsersEstimate": 21610
     },
     {
       "ID": "ACH_PEAK",
@@ -8866,7 +8871,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 9141
+      "UsersEstimate": 9143
     },
     {
       "ID": "ACH_PROPELL",
@@ -8882,7 +8887,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "ACH_S1",
@@ -8890,7 +8895,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28253
+      "UsersEstimate": 28259
     },
     {
       "ID": "ACH_S4",
@@ -8898,7 +8903,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 20774
+      "UsersEstimate": 20779
     },
     {
       "ID": "ACH_S5",
@@ -8906,7 +8911,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 14958
+      "UsersEstimate": 14961
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -8914,7 +8919,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31162
+      "UsersEstimate": 31168
     },
     {
       "ID": "ACH_STATUE",
@@ -8922,22 +8927,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 17866
+      "UsersEstimate": 17870
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 41549,
+      "Progressed": 41558,
       "Completed": 175
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-25T10:58:21.218684+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:08:30.060985+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:08:45.6418939+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.5276065+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:27.1384669+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:08:30.0610535+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:00:21.9347343+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:08:45.6419382+00:00"
 }

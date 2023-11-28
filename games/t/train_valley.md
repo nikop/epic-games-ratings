@@ -6,24 +6,24 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~411 |
-| Close call! | 72.00% | ~379 |
-| Builder | 53.00% | ~279 |
-| Pangs of conscience | 46.00% | ~242 |
-| Living it large! | 45.00% | ~237 |
+| Getting started | 78.00% | ~412 |
+| Close call! | 72.00% | ~380 |
+| Builder | 52.00% | ~275 |
+| Pangs of conscience | 46.00% | ~243 |
+| Living it large! | 45.00% | ~238 |
 | Collector | 43.00% | ~227 |
 | Need to think | 43.00% | ~227 |
 | Completely nuts! | 41.00% | ~216 |
-| Just in time! | 34.00% | ~179 |
+| Just in time! | 34.00% | ~180 |
 | Europe | 32.00% | ~169 |
-| Madness! | 31.00% | ~163 |
+| Madness! | 31.00% | ~164 |
 | It's no coincidence. | 30.00% | ~158 |
-| Philatelist | 27.00% | ~142 |
-| Let's roll! | 27.00% | ~142 |
+| Philatelist | 27.00% | ~143 |
+| Let's roll! | 27.00% | ~143 |
 | Ouroboros | 25.00% | ~132 |
-| Non Stop! | 24.00% | ~126 |
+| Non Stop! | 24.00% | ~127 |
 | Foreman | 21.00% | ~111 |
-| Russia | 20.00% | ~105 |
+| Russia | 20.00% | ~106 |
 | America | 19.00% | ~100 |
 | Missed it! | 19.00% | ~100 |
 | Sabotage | 17.00% | ~90 |
@@ -31,7 +31,7 @@ Number of Ratings: 28  (23.09.2022)
 | Japan | 11.00% | ~58 |
 | Woodcutter | 11.00% | ~58 |
 | Engineer | 11.00% | ~58 |
-| Tycoon | 9.00% | ~47 |
+| Tycoon | 9.00% | ~48 |
 | Germany | 7.00% | ~37 |
 | Supercrash! | 5.00% | ~26 |
 | Chuck Norris | 5.00% | ~26 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527 (Ranked 307)  
+Progressed: 528 (Ranked 307)  
 Completed: 2 (0.38%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 2 (0.38%) (Ranked 225)
 | 2023-11-14 | 525 | 2 |
 | 2023-11-17 | 526 | 2 |
 | 2023-11-18 | 527 | 2 |
+| 2023-11-28 | 528 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

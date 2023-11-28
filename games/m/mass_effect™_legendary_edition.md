@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 93.00% | ~1,339 |
 | Spectre Inductee | 80.00% | ~1,152 |
 | Medal of Exploration I | 71.00% | ~1,022 |
-| Recruit | 67.00% | ~965 |
+| Recruit | 68.00% | ~979 |
 | Search and Rescue | 67.00% | ~965 |
 | Quarian Ally | 64.00% | ~922 |
 | Medal of Heroism | 60.00% | ~864 |
@@ -23,11 +23,11 @@
 | Asari Ally | 46.00% | ~662 |
 | Medal of Exploration III | 45.00% | ~648 |
 | Principled | 45.00% | ~648 |
+| Paramour I | 44.00% | ~634 |
 | Colonial Savior | 44.00% | ~634 |
-| Paramour I | 43.00% | ~619 |
 | Missing in Action | 43.00% | ~619 |
+| Very Elusive | 43.00% | ~619 |
 | Scientist | 43.00% | ~619 |
-| Very Elusive | 42.00% | ~605 |
 | Merciless | 42.00% | ~605 |
 | Krogan Ally | 41.00% | ~590 |
 | Sentinel Ally | 40.00% | ~576 |

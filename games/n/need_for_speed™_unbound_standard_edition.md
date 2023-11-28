@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,345 |
-| Cool Whip | 90.00% | ~10,120 |
+| Throwing up Tags | 92.00% | ~10,346 |
+| Cool Whip | 90.00% | ~10,121 |
 | Fashion Killa | 88.00% | ~9,896 |
-| Drop the Beat | 86.00% | ~9,671 |
-| Hey Lakeshore | 85.00% | ~9,558 |
-| 100 Miles and Runnin' | 84.00% | ~9,446 |
-| Public Enemy | 82.00% | ~9,221 |
+| Drop the Beat | 86.00% | ~9,672 |
+| Hey Lakeshore | 85.00% | ~9,559 |
+| 100 Miles and Runnin' | 84.00% | ~9,447 |
+| Public Enemy | 82.00% | ~9,222 |
 | Rebel Without a Pause | 68.00% | ~7,647 |
 | Hey Speedie! | 68.00% | ~7,647 |
 | Most Wanted | 64.00% | ~7,197 |
-| New Crew | 62.00% | ~6,972 |
+| New Crew | 62.00% | ~6,973 |
 | Serious Guap | 53.00% | ~5,960 |
 | Style it Out | 53.00% | ~5,960 |
 | Escape Artist | 53.00% | ~5,960 |
-| Untouchable | 52.00% | ~5,847 |
-| Oh, It's On | 50.00% | ~5,622 |
+| Untouchable | 52.00% | ~5,848 |
+| Oh, It's On | 50.00% | ~5,623 |
 | Rydell's Rydes | 48.00% | ~5,398 |
 | Cash Money Millionaire | 46.00% | ~5,173 |
 | Lake Better Watch Out | 39.00% | ~4,386 |
-| #Blessed | 34.00% | ~3,823 |
+| #Blessed | 34.00% | ~3,824 |
 | Access All Areas | 33.00% | ~3,711 |
 | Found Family | 31.00% | ~3,486 |
 | In the Flow | 29.00% | ~3,261 |
@@ -36,7 +36,7 @@
 | B for My Name | 17.00% | ~1,912 |
 | Mixtape | 17.00% | ~1,912 |
 | Bring Your A Game | 15.00% | ~1,687 |
-| Flow Master | 12.00% | ~1,349 |
+| Flow Master | 12.00% | ~1,350 |
 | The Bear Champ | 5.00% | ~562 |
 | Heaven Spot | 5.00% | ~562 |
 | Adbusting | 4.00% | ~450 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~225 |
 | Cleaning Up | 2.00% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,245 (Ranked 161)  
+Progressed: 11,246 (Ranked 161)  
 Completed: 52 (0.46%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,4 +120,4 @@ Completed: 52 (0.46%) (Ranked 211)
 | 2023-11-25 | 10,970 | 51 |
 | 2023-11-26 | 11,100 | 51 |
 | 2023-11-27 | 11,181 | 52 |
-| 2023-11-28 | 11,245 | 52 |
+| 2023-11-28 | 11,246 | 52 |

@@ -5,73 +5,73 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~245,585 |
-| The Player Whisperer | 67.00% | ~241,973 |
-| One of Us, One of Us! | 62.00% | ~223,915 |
-| First Victory | 55.00% | ~198,635 |
-| Clean Sheet | 54.00% | ~195,023 |
-| #DoneDeal | 53.00% | ~191,412 |
-| Off the Books | 51.00% | ~184,189 |
-| Super-Sub | 51.00% | ~184,189 |
-| Hat-trick | 46.00% | ~166,131 |
-| Planned Signing | 43.00% | ~155,296 |
-| "I Would Love It If We Beat Them" | 42.00% | ~151,685 |
-| Thumping | 39.00% | ~140,850 |
-| Scoring Streak | 39.00% | ~140,850 |
-| Wheeler Dealer | 39.00% | ~140,850 |
-| People Pleaser | 38.00% | ~137,239 |
-| Unbeatable! | 37.00% | ~133,627 |
-| One Of Our Own | 35.00% | ~126,404 |
-| They're a Natural | 31.00% | ~111,958 |
-| Record Signing | 31.00% | ~111,958 |
-| Team Performance | 30.00% | ~108,346 |
-| Star Player | 28.00% | ~101,123 |
-| The Only Stat That Matters | 28.00% | ~101,123 |
-| Goal Rush | 27.00% | ~97,512 |
-| The People's Champion | 27.00% | ~97,512 |
-| Parked The Bus | 26.00% | ~93,900 |
-| Full Faith | 26.00% | ~93,900 |
-| Squad Goals | 26.00% | ~93,900 |
-| Beating Expectations | 25.00% | ~90,288 |
-| You're on Fire | 24.00% | ~86,677 |
-| Tremendous Trio | 24.00% | ~86,677 |
-| Unstoppable Force | 24.00% | ~86,677 |
-| Record Sale | 24.00% | ~86,677 |
-| Drilling Down | 23.00% | ~83,065 |
-| Flavour Of The Month | 23.00% | ~83,065 |
-| Shots For Days | 23.00% | ~83,065 |
-| On a Roll | 22.00% | ~79,454 |
-| The Special One | 22.00% | ~79,454 |
-| What A Goal! | 21.00% | ~75,842 |
-| Goal Machine | 20.00% | ~72,231 |
-| Splashing the Cash | 19.00% | ~68,619 |
-| Immovable Object | 19.00% | ~68,619 |
-| Cup Glory! | 19.00% | ~68,619 |
-| Irresistible Force | 17.00% | ~61,396 |
-| Do The Double | 16.00% | ~57,785 |
-| Cash to Burn | 15.00% | ~54,173 |
-| Window Shopping | 14.00% | ~50,562 |
-| Top Form | 13.00% | ~46,950 |
-| A Game of Two Halves | 12.00% | ~43,338 |
-| You're Up! | 11.00% | ~39,727 |
-| Money, Money, Money | 10.00% | ~36,115 |
-| Clean Sheet Network | 8.00% | ~28,892 |
-| First Goal Network | 8.00% | ~28,892 |
-| First Win Network | 8.00% | ~28,892 |
-| Superb Strike | 8.00% | ~28,892 |
-| Tête-à-tête | 8.00% | ~28,892 |
-| Best in the World | 8.00% | ~28,892 |
-| Invincible! | 7.00% | ~25,281 |
-| Domination | 7.00% | ~25,281 |
-| Best in the Business | 6.00% | ~21,669 |
-| National Service | 6.00% | ~21,669 |
-| Total Support | 6.00% | ~21,669 |
-| Second Hand Signing | 6.00% | ~21,669 |
+| Motivational Speaker | 68.00% | ~245,593 |
+| The Player Whisperer | 67.00% | ~241,981 |
+| One of Us, One of Us! | 62.00% | ~223,923 |
+| First Victory | 55.00% | ~198,641 |
+| Clean Sheet | 54.00% | ~195,030 |
+| #DoneDeal | 53.00% | ~191,418 |
+| Off the Books | 51.00% | ~184,195 |
+| Super-Sub | 51.00% | ~184,195 |
+| Hat-trick | 46.00% | ~166,136 |
+| Planned Signing | 43.00% | ~155,301 |
+| "I Would Love It If We Beat Them" | 42.00% | ~151,690 |
+| Thumping | 39.00% | ~140,855 |
+| Scoring Streak | 39.00% | ~140,855 |
+| Wheeler Dealer | 39.00% | ~140,855 |
+| People Pleaser | 38.00% | ~137,243 |
+| Unbeatable! | 37.00% | ~133,631 |
+| One Of Our Own | 35.00% | ~126,408 |
+| They're a Natural | 31.00% | ~111,961 |
+| Record Signing | 31.00% | ~111,961 |
+| Team Performance | 30.00% | ~108,350 |
+| Star Player | 28.00% | ~101,126 |
+| The Only Stat That Matters | 28.00% | ~101,126 |
+| Goal Rush | 27.00% | ~97,515 |
+| The People's Champion | 27.00% | ~97,515 |
+| Parked The Bus | 26.00% | ~93,903 |
+| Full Faith | 26.00% | ~93,903 |
+| Squad Goals | 26.00% | ~93,903 |
+| Beating Expectations | 25.00% | ~90,292 |
+| You're on Fire | 24.00% | ~86,680 |
+| Tremendous Trio | 24.00% | ~86,680 |
+| Unstoppable Force | 24.00% | ~86,680 |
+| Record Sale | 24.00% | ~86,680 |
+| Drilling Down | 23.00% | ~83,068 |
+| Flavour Of The Month | 23.00% | ~83,068 |
+| Shots For Days | 23.00% | ~83,068 |
+| On a Roll | 22.00% | ~79,457 |
+| The Special One | 22.00% | ~79,457 |
+| What A Goal! | 21.00% | ~75,845 |
+| Goal Machine | 20.00% | ~72,233 |
+| Splashing the Cash | 19.00% | ~68,622 |
+| Immovable Object | 19.00% | ~68,622 |
+| Cup Glory! | 19.00% | ~68,622 |
+| Irresistible Force | 17.00% | ~61,398 |
+| Do The Double | 16.00% | ~57,787 |
+| Cash to Burn | 15.00% | ~54,175 |
+| Window Shopping | 14.00% | ~50,563 |
+| Top Form | 13.00% | ~46,952 |
+| A Game of Two Halves | 12.00% | ~43,340 |
+| You're Up! | 11.00% | ~39,728 |
+| Money, Money, Money | 10.00% | ~36,117 |
+| Clean Sheet Network | 8.00% | ~28,893 |
+| First Goal Network | 8.00% | ~28,893 |
+| First Win Network | 8.00% | ~28,893 |
+| Superb Strike | 8.00% | ~28,893 |
+| Tête-à-tête | 8.00% | ~28,893 |
+| Best in the World | 8.00% | ~28,893 |
+| Invincible! | 7.00% | ~25,282 |
+| Domination | 7.00% | ~25,282 |
+| Best in the Business | 6.00% | ~21,670 |
+| National Service | 6.00% | ~21,670 |
+| Total Support | 6.00% | ~21,670 |
+| Second Hand Signing | 6.00% | ~21,670 |
 | You Can Buy Happiness | 5.00% | ~18,058 |
-| Bragging Rights | 4.00% | ~14,446 |
-| World Beaters | 4.00% | ~14,446 |
-| Parked The Tank | 4.00% | ~14,446 |
-| World Renowned | 4.00% | ~14,446 |
+| Bragging Rights | 4.00% | ~14,447 |
+| World Beaters | 4.00% | ~14,447 |
+| Parked The Tank | 4.00% | ~14,447 |
+| World Renowned | 4.00% | ~14,447 |
 | Legend | 3.00% | ~10,835 |
 | Invitational | 3.00% | ~10,835 |
 | Cupset Between Friends | 2.00% | ~7,223 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 125)
 | Draft Dominator | 0.10% | ~361 |
 | Draft Value | 0.10% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,154 (Ranked 47)  
+Progressed: 361,166 (Ranked 47)  
 Completed: 26 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 26 (0.01%) (Ranked 343)
 | 2023-11-25 | 360,449 | 26 |
 | 2023-11-26 | 360,773 | 26 |
 | 2023-11-27 | 361,022 | 26 |
-| 2023-11-28 | 361,154 | 26 |
+| 2023-11-28 | 361,166 | 26 |
 ## Awards
 Max (Diverse Characters): 1,216  (Ranked 141)  
 Sum: 8,449 (Ranked 100)  

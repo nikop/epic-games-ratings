@@ -2,10 +2,10 @@
   "ID": "88aebfec9a96482d99f442a9535e2963",
   "Name": "Blood Hunting",
   "ProductSlug": "blood-hunting-cec461",
-  "Ranking_EOS_Progress": 762,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-10-27T21:00:00+00:00",
     "PcReleaseDate": "2023-10-28T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T06:57:04.7339277+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:00:21.8495398+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:04:46.3802254+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:01:43.2324147+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:05:27.6525258+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 486,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.65,
   "EosHistory": [
@@ -1395,9 +1395,9 @@
       "ID": "ach_main09journey_nospells",
       "SetID": "4hg22ll",
       "Name": "Forbidden Knowledge",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_main10fire_completed",
@@ -1563,9 +1563,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_main17stone_completed",
@@ -1611,9 +1611,9 @@
       "ID": "ach_main18unholy_training",
       "SetID": "4hg22ll",
       "Name": "To Infinity And Beyond!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_main19war_completed",
@@ -1674,8 +1674,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:08:01.8698124+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:07:47.0776172+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:56.295124+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:08:01.8698606+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:01:04.8435385+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:07:47.0776618+00:00"
 }

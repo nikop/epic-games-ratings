@@ -2,10 +2,10 @@
   "ID": "a7a640d2ef344fe981c58f45405d1e2e",
   "Name": "XR22-SEAGUARD",
   "ProductSlug": "xr22seaguard-480497",
-  "Ranking_EOS_Progress": 762,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-10-16T23:00:00+00:00",
     "PcReleaseDate": "2023-10-18T12:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T23:56:55.517358+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:42.5702863+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:04:38.5735913+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:00:44.9299007+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:05:18.2064087+00:00"
 }

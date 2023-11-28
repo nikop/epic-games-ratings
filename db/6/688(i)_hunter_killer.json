@@ -2,10 +2,10 @@
   "ID": "0344c89179c94006ab2ea707c9b488d6",
   "Name": "688(I) Hunter/Killer",
   "ProductSlug": "combat-naval-package-hunter-killer-685f4a",
-  "Ranking_EOS_Progress": 762,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-07-04T04:00:00+00:00",
     "PcReleaseDate": "1997-07-04T03:00:00+00:00",
@@ -35,6 +35,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T01:38:51.4307045+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:09.6371047+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:03:00.1505752+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:05:29.0174584+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:03:02.3449736+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:06:23.2534601+00:00"
 }

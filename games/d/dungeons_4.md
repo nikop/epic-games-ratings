@@ -36,8 +36,8 @@
 | Master of the Undead | 23.00% | ~112 |
 | The Duel | 23.00% | ~112 |
 | Hungry, Hungry Gorgu! | 21.00% | ~102 |
+| Forbidden Knowledge | 21.00% | ~102 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~97 |
-| Forbidden Knowledge | 20.00% | ~97 |
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~97 |
 | If Looks Could Kill | 20.00% | ~97 |
 | The Finitude Drill | 18.00% | ~87 |
@@ -51,11 +51,11 @@
 | The Rune Sockets of Finitude (Part 1) | 13.00% | ~63 |
 | My Little Torture Chamber | 12.00% | ~58 |
 | Lavalumps on Ice! | 12.00% | ~58 |
+| Rubble and Ashes | 11.00% | ~53 |
 | The Rune Sockets of Finitude (Part 2) | 11.00% | ~53 |
-| Rubble and Ashes | 10.00% | ~49 |
+| To Infinity And Beyond! | 10.00% | ~49 |
 | Untouchable | 9.00% | ~44 |
 | To the Max! | 9.00% | ~44 |
-| To Infinity And Beyond! | 9.00% | ~44 |
 | The Last Stand - This Time For Real! | 9.00% | ~44 |
 | Mirror, Mirror | 8.00% | ~39 |
 | Gorgu is in the Best of Health | 7.00% | ~34 |

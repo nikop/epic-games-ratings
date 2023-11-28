@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -481,9 +481,9 @@
       "ID": "CULT",
       "SetID": "40o4f14",
       "Name": "Dragon Cult",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DISCIPLE",
@@ -704,8 +704,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:05:09.6791309+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:05:57.3060911+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:58:14.2563449+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:05:09.6791614+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:58:33.3478212+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:05:57.306114+00:00"
 }

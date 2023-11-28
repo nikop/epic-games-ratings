@@ -2,10 +2,10 @@
   "ID": "33bf9c7afae24966967cc5e9b824e57d",
   "Name": "Outbreak Shades of Horror",
   "ProductSlug": "outbreak-shades-of-horror-680f73",
-  "Ranking_EOS_Progress": 762,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-23T02:19:14.7399191+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:08.6009167+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:05:14.7418559+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:59:55.9013255+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:06:04.0908498+00:00"
 }

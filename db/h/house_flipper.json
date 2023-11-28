@@ -4,11 +4,11 @@
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 232,
   "Ranking_Popularity": 248,
-  "Ranking_PopularitySum": 203,
+  "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2103,7 +2103,7 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 21393,
+  "EOS_Progressed": 21394,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -10798,6 +10798,11 @@
       "Time": "2023-11-28T16:03:38.2521534+00:00",
       "NumProgressed": 21393,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-28T18:04:11.3312035+00:00",
+      "NumProgressed": 21394,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10857,7 +10862,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20323
+      "UsersEstimate": 20324
     },
     {
       "ID": "GameOver",
@@ -10992,15 +10997,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21393,
+      "Progressed": 21394,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-28T13:58:32.9656467+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:03:48.917504+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:04:11.3312033+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:03.9254817+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:58:32.9901158+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:03:48.9175599+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:59:02.9400452+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:04:11.3312591+00:00"
 }

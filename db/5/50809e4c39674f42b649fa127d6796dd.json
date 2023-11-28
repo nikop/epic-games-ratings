@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -853,9 +853,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -877,9 +877,9 @@
       "ID": "FIRST_KODAMA_ELDER_TALK",
       "SetID": "apihg0e",
       "Name": "Elder Koco Encounter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -901,25 +901,25 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 296
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 157
     },
     {
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 135
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1124,8 +1124,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:08:30.5486679+00:00",
-  "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:02:45.8658096+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:08:30.5486917+00:00"
+  "LastChanged_Achievements": "2023-11-28T18:08:46.3273688+00:00",
+  "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
+  "LastUpdate_Ratings": "2023-11-28T18:02:41.5393269+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:08:46.3273967+00:00"
 }

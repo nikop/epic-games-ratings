@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8326,
+  "EOS_Progressed": 8328,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7488,6 +7488,11 @@
       "Time": "2023-11-28T15:09:47.8506074+00:00",
       "NumProgressed": 8326,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T18:10:04.9906766+00:00",
+      "NumProgressed": 8328,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7548,7 +7553,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "CreditsSpent50000",
@@ -7620,7 +7625,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "GamesPlayed10",
@@ -7644,7 +7649,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "GamesWon10",
@@ -7716,7 +7721,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "HSUPurchased1",
@@ -7764,7 +7769,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "InhibitorKills3",
@@ -7868,7 +7873,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "MaxTowersKilled6",
@@ -7908,7 +7913,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "NeutralKills200",
@@ -7932,7 +7937,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "PlayerKills100",
@@ -8091,7 +8096,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8326,
+      "Progressed": 8328,
       "Completed": 1
     }
   ],
@@ -8099,8 +8104,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:09:28.2468656+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:10:04.9906764+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:57:21.0481584+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:09:28.2469802+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:57:17.4179724+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:10:04.9907844+00:00"
 }

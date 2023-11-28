@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 745,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1477,6 +1477,11 @@
       "Time": "2023-11-28T17:03:43.7889055+00:00",
       "NumProgressed": 744,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-28T18:04:04.5306382+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1545,7 +1550,7 @@
       "Name": "Pathfinder",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "CompleteChapter10",
@@ -1639,9 +1644,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 276
     },
     {
       "ID": "CompleteChapter4",
@@ -1663,9 +1668,9 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 127
     },
     {
       "ID": "CompleteChapter7",
@@ -1737,7 +1742,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1784,14 +1789,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 745,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:03:43.7889052+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:04:04.5306379+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:00:25.4230332+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:03:43.7889342+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:02:28.2506674+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:04:04.5306608+00:00"
 }

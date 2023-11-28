@@ -1,27 +1,27 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.43 (Ranked 693)  
+Rating: 4.44 (Ranked 677)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 23.00% | ~5,179 |
-| Sector 2 | 20.00% | ~4,504 |
-| Crush That Cube! | 17.00% | ~3,828 |
-| Sector 3 | 17.00% | ~3,828 |
-| Crush That Ball! | 14.00% | ~3,153 |
-| Sector 4 | 14.00% | ~3,153 |
-| Sector 5 | 9.00% | ~2,027 |
-| Sector 6 | 8.00% | ~1,802 |
-| Feeling the Blues | 6.00% | ~1,351 |
-| Squished | 6.00% | ~1,351 |
-| Finale | 6.00% | ~1,351 |
-| Sector 7 | 6.00% | ~1,351 |
-| Did That Work? -- No! | 5.00% | ~1,126 |
+| Sector 1 | 23.00% | ~5,183 |
+| Sector 2 | 20.00% | ~4,507 |
+| Crush That Cube! | 17.00% | ~3,831 |
+| Sector 3 | 17.00% | ~3,831 |
+| Crush That Ball! | 14.00% | ~3,155 |
+| Sector 4 | 14.00% | ~3,155 |
+| Sector 5 | 9.00% | ~2,028 |
+| Sector 6 | 8.00% | ~1,803 |
+| Feeling the Blues | 6.00% | ~1,352 |
+| Squished | 6.00% | ~1,352 |
+| Finale | 6.00% | ~1,352 |
+| Sector 7 | 6.00% | ~1,352 |
+| Did That Work? -- No! | 5.00% | ~1,127 |
 | Master Room | 3.00% | ~676 |
-| Bronze Trophy | 2.00% | ~450 |
-| The Puzzle Master | 2.00% | ~450 |
-| Completed It. | 2.00% | ~450 |
+| Bronze Trophy | 2.00% | ~451 |
+| The Puzzle Master | 2.00% | ~451 |
+| Completed It. | 2.00% | ~451 |
 | The Collector | 1.00% | ~225 |
 | Master Of The Collectables | 1.00% | ~225 |
 | Gold Trophy | 1.00% | ~225 |
@@ -30,8 +30,8 @@ Rating: 4.43 (Ranked 693)
 | Silver Trophy | 1.00% | ~225 |
 | Maxed Out | 1.00% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,519 (Ranked 134)  
-Completed: 112 (0.50%) (Ranked 206)  
+Progressed: 22,533 (Ranked 134)  
+Completed: 113 (0.50%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 112 (0.50%) (Ranked 206)
 | 2023-11-25 | 22,007 | 103 |
 | 2023-11-26 | 22,281 | 104 |
 | 2023-11-27 | 22,417 | 110 |
-| 2023-11-28 | 22,519 | 112 |
+| 2023-11-28 | 22,533 | 113 |
 ## Awards
 Max (Challenging Puzzles): 20  (Ranked 549)  
 Sum: 20 (Ranked 550)  
@@ -115,3 +115,4 @@ Diff (max vs sum): -1
 | 2023-11-16 | 4.42 | 0 | 0 |
 | 2023-11-20 | 4.43 | 0 | 0 |
 | 2023-11-24 | 4.43 | 20 | 20 |
+| 2023-11-28 | 4.44 | 20 | 20 |

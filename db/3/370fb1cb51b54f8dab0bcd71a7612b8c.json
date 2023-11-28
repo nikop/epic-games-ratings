@@ -2,10 +2,10 @@
   "ID": "370fb1cb51b54f8dab0bcd71a7612b8c",
   "Name": "Royal Roads 2: The Magic Box",
   "ProductSlug": "royal-roads-2-the-magic-box-18eae3",
-  "Ranking_EOS_Progress": 762,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-12-09T21:00:00+00:00",
     "PcReleaseDate": "2020-11-26T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-23T05:56:57.4381952+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:52.0423189+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:05:20.4478069+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:00:58.4598798+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:06:11.704344+00:00"
 }

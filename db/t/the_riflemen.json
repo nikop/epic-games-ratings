@@ -5,10 +5,10 @@
   "Ranking_Rating": 609,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 556,
-  "Ranking_EOS_Progress": 116,
+  "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 13,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -125,11 +125,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44059,
+  "EOS_Progressed": 44108,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 5230,
+  "EOS_NewPlayers": 5235,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 26.69,
+  "EOS_Completed_Percentage": 26.66,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -10920,6 +10920,11 @@
       "Time": "2023-11-28T17:08:37.6153309+00:00",
       "NumProgressed": 44059,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-11-28T18:08:55.6851946+00:00",
+      "NumProgressed": 44108,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -10940,7 +10945,7 @@
       "Name": "First blood",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 31722
+      "UsersEstimate": 31758
     },
     {
       "ID": "grenadeKills",
@@ -10956,7 +10961,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1764
     },
     {
       "ID": "headshots1000",
@@ -10988,7 +10993,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "matchesWon",
@@ -11012,7 +11017,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "shotgunKills",
@@ -11043,7 +11048,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 44059,
+      "Progressed": 44108,
       "Completed": 11759
     }
   ],
@@ -11051,8 +11056,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-11-25T16:59:03.6700998+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:08:37.6153305+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:08:55.6851939+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:00.4071215+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:00:16.7692492+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:08:37.6153882+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:01:35.5828006+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:08:55.6852681+00:00"
 }

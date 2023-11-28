@@ -4,8 +4,8 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -393,9 +393,9 @@
       "ID": "achievements.researches.upgrades50",
       "SetID": "1kd1942",
       "Name": "Accelerating Progress",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievements.researches.upgradesall",
@@ -424,8 +424,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:04:52.071059+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:05:35.3042103+00:00",
   "LastUpdate_AppInfo": "2023-11-24T16:56:56.5141133+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:58:42.2232097+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:04:52.0710705+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:59:16.6766756+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:05:35.3042176+00:00"
 }

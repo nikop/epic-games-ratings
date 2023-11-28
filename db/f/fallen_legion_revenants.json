@@ -2,10 +2,10 @@
   "ID": "87fee1de71cd4648ba7dced815495d22",
   "Name": "Fallen Legion Revenants",
   "ProductSlug": "fallen-legion-revenants-a2c944",
-  "Ranking_EOS_Progress": 762,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-08-23T17:00:00+00:00",
     "PcReleaseDate": "2022-08-23T17:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:58:34.651511+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:57:25.6211522+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:04:03.6643932+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:57:24.2641463+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:04:31.2563586+00:00"
 }

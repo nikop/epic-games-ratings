@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 5,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 47.06,
+  "EOS_Completed_Percentage": 46.72,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -959,6 +959,11 @@
       "Time": "2023-11-27T12:06:45.4237497+00:00",
       "NumProgressed": 136,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-28T18:07:00.8741882+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -969,7 +974,7 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 80,
       "UsersEstimate": 99
     },
@@ -977,7 +982,7 @@
       "ID": "Intro",
       "SetID": "823jm6g",
       "Name": "Intro",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 75,
       "UsersEstimate": 132
     },
@@ -985,7 +990,7 @@
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 75,
       "UsersEstimate": 114
     },
@@ -1001,15 +1006,15 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 67
+      "UsersEstimate": 66
     },
     {
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 80,
       "UsersEstimate": 92
     },
@@ -1017,15 +1022,15 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 67
+      "UsersEstimate": 66
     },
     {
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 75,
       "UsersEstimate": 92
     },
@@ -1033,7 +1038,7 @@
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 80,
       "UsersEstimate": 92
     },
@@ -1041,7 +1046,7 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 75,
       "UsersEstimate": 125
     },
@@ -1051,37 +1056,37 @@
       "Name": "Snailman",
       "Percentage": 91,
       "XP": 80,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 75,
-      "UsersEstimate": 117
+      "UsersEstimate": 116
     },
     {
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 78
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 64
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:05:56.4374352+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:07:00.874188+00:00",
   "LastUpdate_AppInfo": "2023-11-25T02:57:16.5914345+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:00:09.3635893+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:05:56.43745+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:01:24.5030946+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:07:00.8742002+00:00"
 }

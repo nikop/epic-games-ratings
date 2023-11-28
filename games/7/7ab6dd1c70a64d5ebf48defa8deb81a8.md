@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 12.00% | ~28 |
-| Break Out | 10.00% | ~23 |
+| Break Out | 10.00% | ~24 |
 | Find Allies | 9.00% | ~21 |
 | Powerful Allies | 9.00% | ~21 |
 | Adventurer | 9.00% | ~21 |
@@ -41,7 +41,7 @@
 | Forgemaster | 0.40% | ~1 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234 (Ranked 378)  
+Progressed: 235 (Ranked 378)  
 Completed: 2 (0.85%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,4 +90,4 @@ Completed: 2 (0.85%) (Ranked 177)
 | 2023-11-25 | 216 | 2 |
 | 2023-11-26 | 226 | 2 |
 | 2023-11-27 | 230 | 2 |
-| 2023-11-28 | 234 | 2 |
+| 2023-11-28 | 235 | 2 |

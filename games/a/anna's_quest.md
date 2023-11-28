@@ -7,8 +7,8 @@
 | Escape artist | 75.00% | ~62 |
 | Book Worm | 47.00% | ~39 |
 | Ooh, it's shiny! | 46.00% | ~38 |
+| Through the woods | 36.00% | ~30 |
 | My lost nightingale | 36.00% | ~30 |
-| Through the woods | 35.00% | ~29 |
 | Fussy eater | 35.00% | ~29 |
 | Honey, honey, honey… | 34.00% | ~28 |
 | Kekekeke... | 34.00% | ~28 |
@@ -29,12 +29,12 @@
 | Show me your true self | 27.00% | ~22 |
 | Memories | 27.00% | ~22 |
 | No posters allowed | 27.00% | ~22 |
-| Little genius | 25.00% | ~21 |
+| Little genius | 27.00% | ~22 |
 | Turn the last page | 24.00% | ~20 |
 | Pain in the hands | 24.00% | ~20 |
+| Ring-a-ding-ding | 22.00% | ~18 |
 | Kill it! KILL IT! | 22.00% | ~18 |
 | Close the deal | 20.00% | ~17 |
-| Ring-a-ding-ding | 20.00% | ~17 |
 | Bahahahaha... | 19.00% | ~16 |
 | Singstar | 18.00% | ~15 |
 | Makeover | 17.00% | ~14 |

@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -814,6 +814,11 @@
       "Time": "2023-11-27T08:05:18.7327314+00:00",
       "NumProgressed": 320,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-28T18:05:34.0788854+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -871,9 +876,9 @@
       "ID": "ACH_GROUSE_HEALED",
       "SetID": "ao59f0i",
       "Name": "Avian Veterinarian",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_GROUSE_KILLED",
@@ -945,7 +950,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_SHARD_2",
@@ -1008,7 +1013,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 4
     }
   ],
@@ -1016,8 +1021,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:04:51.2690552+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:05:34.0788851+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:13.3287452+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:06.3386731+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:04:51.2690727+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:59:52.4893793+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:05:34.0788977+00:00"
 }

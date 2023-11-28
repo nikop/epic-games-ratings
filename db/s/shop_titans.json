@@ -7285,9 +7285,9 @@
       "Count": 3788
     }
   ],
-  "EOS_Progressed": 142694,
-  "EOS_Completed": 283,
-  "EOS_NewPlayers": 1862,
+  "EOS_Progressed": 142704,
+  "EOS_Completed": 284,
+  "EOS_NewPlayers": 1866,
   "EOS_NewCompleters": 95,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30260,6 +30260,11 @@
       "Time": "2023-11-28T17:03:45.0279137+00:00",
       "NumProgressed": 142694,
       "NumCompleted": 283
+    },
+    {
+      "Time": "2023-11-28T18:04:06.1543236+00:00",
+      "NumProgressed": 142704,
+      "NumCompleted": 284
     }
   ],
   "TotalAchievements": 112,
@@ -30423,7 +30428,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "champions01",
@@ -30615,7 +30620,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "energy01",
@@ -30839,7 +30844,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "legenchant01",
@@ -31166,15 +31171,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142694,
-      "Completed": 283
+      "Progressed": 142704,
+      "Completed": 284
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-28T17:02:56.0809909+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:03:45.0279132+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:04:06.1543233+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:02:56.0809914+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:03:45.0281229+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:02:56.3726266+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:04:06.1545339+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e17cbf6cf17b4e8dbe4119c99f668cb0",
   "Name": "Archery RED",
   "ProductSlug": "archery-red-88925d",
-  "Ranking_EOS_Progress": 762,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T13:57:14.6102791+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:57:11.674426+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:05:52.0133838+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:57:04.0079889+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:06:54.8296051+00:00"
 }

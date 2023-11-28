@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -865,7 +865,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3743,
+  "EOS_Progressed": 3744,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
@@ -6270,6 +6270,11 @@
       "Time": "2023-11-28T10:08:03.4336285+00:00",
       "NumProgressed": 3743,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-28T18:08:42.3244547+00:00",
+      "NumProgressed": 3744,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6306,7 +6311,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "achievement_13",
@@ -6426,7 +6431,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "achievement_8",
@@ -6449,7 +6454,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3743,
+      "Progressed": 3744,
       "Completed": 0
     }
   ],
@@ -6457,8 +6462,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-28T04:59:43.3080235+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:08:27.6391253+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:08:42.3244542+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:50.557816+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:08:27.6391633+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:00:56.2054367+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:08:42.3244959+00:00"
 }

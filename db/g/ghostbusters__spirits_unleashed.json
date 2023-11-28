@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3555,9 +3555,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31700,
+  "EOS_Progressed": 31702,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20775,6 +20775,11 @@
       "Time": "2023-11-28T17:03:52.5510052+00:00",
       "NumProgressed": 31700,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-28T18:04:16.201047+00:00",
+      "NumProgressed": 31702,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20984,9 +20989,9 @@
       "ID": "Master_Collector",
       "SetID": "819popo",
       "Name": "Master Collector",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 159
     },
     {
       "ID": "Mycophile",
@@ -21026,7 +21031,7 @@
       "Name": "Rift Seeker",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Right_Back",
@@ -21193,7 +21198,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31700,
+      "Progressed": 31702,
       "Completed": 69
     }
   ],
@@ -21201,8 +21206,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-28T15:58:06.9757142+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:03:52.5510046+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:04:16.2010465+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:58:16.9273674+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:03:52.5511304+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:58:37.4917553+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:04:16.2011808+00:00"
 }

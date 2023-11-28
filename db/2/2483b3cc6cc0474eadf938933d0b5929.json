@@ -2,10 +2,10 @@
   "ID": "2483b3cc6cc0474eadf938933d0b5929",
   "Name": "Mimic",
   "ProductSlug": "mimic-b2fb65",
-  "Ranking_EOS_Progress": 762,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-26T18:57:06.469942+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:31.5150311+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:08:33.1820891+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:00:28.7180779+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:08:49.9062715+00:00"
 }

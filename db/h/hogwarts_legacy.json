@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11095,18 +11095,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 49348,
       "NumberOfAwardsMax": 24711
+    },
+    {
+      "Time": "2023-11-28T18:01:45.4332249+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49365,
+      "NumberOfAwardsMax": 24728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49348,
-  "NumberOfAwardsMax": 24711,
+  "NumberOfAwards": 49365,
+  "NumberOfAwardsMax": 24728,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 24711
+      "Count": 24728
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -11175,7 +11181,7 @@
       "Count": 817
     }
   ],
-  "EOS_Progressed": 303481,
+  "EOS_Progressed": 303483,
   "EOS_Completed": 518,
   "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 5,
@@ -35105,6 +35111,11 @@
       "Time": "2023-11-28T17:09:23.3814451+00:00",
       "NumProgressed": 303481,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-11-28T18:09:58.3058418+00:00",
+      "NumProgressed": 303483,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 45,
@@ -35164,7 +35175,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24278
+      "UsersEstimate": 24279
     },
     {
       "ID": "PFA_16",
@@ -35180,7 +35191,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24278
+      "UsersEstimate": 24279
     },
     {
       "ID": "PFA_18",
@@ -35196,7 +35207,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24278
+      "UsersEstimate": 24279
     },
     {
       "ID": "PFA_2",
@@ -35452,7 +35463,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42487
+      "UsersEstimate": 42488
     },
     {
       "ID": "PFA_8",
@@ -35475,16 +35486,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303481,
+      "Progressed": 303483,
       "Completed": 518
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-28T10:00:06.1630293+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:09:23.3814446+00:00",
+  "LastChanged": "2023-11-28T18:01:45.4332247+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:09:58.3058415+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-28T17:00:23.2871652+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:09:23.3815841+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:01:45.4332252+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:09:58.3060038+00:00"
 }

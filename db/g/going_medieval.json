@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1517,7 +1517,7 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 7010,
+  "EOS_Progressed": 7011,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
@@ -13627,6 +13627,11 @@
       "Time": "2023-11-28T17:05:57.8954473+00:00",
       "NumProgressed": 7010,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-28T18:07:02.842406+00:00",
+      "NumProgressed": 7011,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13646,7 +13651,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -13686,7 +13691,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5117
+      "UsersEstimate": 5118
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -13734,7 +13739,7 @@
       "Name": "Where Wolf?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "HUNT_WOLF_5",
@@ -13750,7 +13755,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -13758,7 +13763,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4277
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -13798,7 +13803,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -13806,7 +13811,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -13814,7 +13819,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -13822,7 +13827,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -13854,7 +13859,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -13878,22 +13883,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7010,
+      "Progressed": 7011,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-28T03:59:11.5381254+00:00",
-  "LastChanged_Achievements": "2023-11-28T17:05:57.8954469+00:00",
+  "LastChanged_Achievements": "2023-11-28T18:07:02.8424056+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:21.1546083+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:05:57.8955223+00:00"
+  "LastUpdate_Ratings": "2023-11-28T18:00:14.3222171+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:07:02.8424934+00:00"
 }

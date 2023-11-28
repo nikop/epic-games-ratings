@@ -4,11 +4,11 @@
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 805,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 201,
-  "Ranking_EOS_Progress": 762,
+  "Ranking_PopularitySum": 212,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -3179,10 +3179,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 2300,
       "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-11-28T17:59:51.7344573+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2062,
+      "NumberOfAwardsMax": 265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2300,
+  "NumberOfAwards": 2062,
   "NumberOfAwardsMax": 265,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3264,8 +3270,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-11-26T16:57:57.8958296+00:00",
+  "LastChanged": "2023-11-28T17:59:51.7344571+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:13.2788435+00:00",
-  "LastUpdate_Ratings": "2023-11-28T16:59:05.8497116+00:00",
-  "LastUpdate_Achievements": "2023-11-28T17:05:06.4861869+00:00"
+  "LastUpdate_Ratings": "2023-11-28T17:59:51.7344576+00:00",
+  "LastUpdate_Achievements": "2023-11-28T18:05:52.9951726+00:00"
 }
