@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2194,9 +2194,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216439,
+  "EOS_Progressed": 216442,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1276,
+  "EOS_NewPlayers": 1275,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27714,6 +27714,11 @@
       "Time": "2023-11-29T09:03:36.1127235+00:00",
       "NumProgressed": 216439,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-11-29T10:03:20.8155344+00:00",
+      "NumProgressed": 216442,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -27749,7 +27754,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12986
+      "UsersEstimate": 12987
     },
     {
       "ID": "CompleteMastery",
@@ -27781,7 +27786,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12986
+      "UsersEstimate": 12987
     },
     {
       "ID": "GearUp",
@@ -27877,7 +27882,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12986
+      "UsersEstimate": 12987
     },
     {
       "ID": "NoGimmicks",
@@ -28045,7 +28050,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12986
+      "UsersEstimate": 12987
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -28076,15 +28081,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216439,
+      "Progressed": 216442,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-29T04:05:48.7087934+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:03:36.1127229+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:03:20.815534+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:00:05.6924639+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:03:36.1128614+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:59:34.2872331+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:03:20.8156696+00:00"
 }

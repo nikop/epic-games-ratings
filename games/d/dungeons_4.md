@@ -6,18 +6,18 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 87.00% | ~430 |
 | Thalya – Simply Immortal | 87.00% | ~430 |
-| For the Horde! | 80.00% | ~395 |
+| For the Horde! | 81.00% | ~400 |
 | Hammer Time, Round Two | 79.00% | ~390 |
 | The Hellwoods | 73.00% | ~361 |
 | The Plains of Strothalm | 68.00% | ~336 |
 | Thalya's Concentrated Fury | 67.00% | ~331 |
 | Experienced Thalya | 67.00% | ~331 |
-| Bad Elves Go Everywhere | 64.00% | ~316 |
+| Bad Elves Go Everywhere | 65.00% | ~321 |
 | Master of Magic | 63.00% | ~311 |
 | Heroes’ Gorge | 60.00% | ~296 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~287 |
 | Magic Accidents | 57.00% | ~282 |
-| Trap Master | 54.00% | ~267 |
+| Trap Master | 55.00% | ~272 |
 | Minions, Minions! | 53.00% | ~262 |
 | The Ascent | 51.00% | ~252 |
 | It's Warm and Cozy at Home | 51.00% | ~252 |
@@ -27,7 +27,7 @@
 | Pure Dynamite! | 41.00% | ~203 |
 | “… like son” | 39.00% | ~193 |
 | Mana Cannon | 37.00% | ~183 |
-| Dungeonlord Gorgu | 35.00% | ~173 |
+| Dungeonlord Gorgu | 36.00% | ~178 |
 | The Cathedral of Light | 34.00% | ~168 |
 | Shame! Shame! Shame! | 34.00% | ~168 |
 | Tanos' Crusade Against Thalya | 31.00% | ~153 |
@@ -39,7 +39,7 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~104 |
 | Forbidden Knowledge | 21.00% | ~104 |
 | If Looks Could Kill | 21.00% | ~104 |
-| Ghost Pirates? Ghost Heroes! | 19.00% | ~94 |
+| Ghost Pirates? Ghost Heroes! | 20.00% | ~99 |
 | The Finitude Drill | 18.00% | ~89 |
 | Stop Tanos! | 17.00% | ~84 |
 | Doom Hill | 16.00% | ~79 |
@@ -62,7 +62,7 @@
 | Heal Heal Blessing | 7.00% | ~35 |
 | Evilification | 7.00% | ~35 |
 | Laser Eyes Are So Useless | 6.00% | ~30 |
-| Hands Off My Stones | 5.00% | ~25 |
+| Hands Off My Stones | 6.00% | ~30 |
 | No Mana, No Cry | 4.00% | ~20 |
 | I Don't Need Any Help | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)

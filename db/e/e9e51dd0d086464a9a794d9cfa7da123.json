@@ -2,9 +2,9 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -304,6 +304,11 @@
       "Time": "2023-11-28T22:09:01.738569+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T10:09:21.5649614+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -330,7 +335,7 @@
       "ID": "CLC",
       "SetID": "2621k8c",
       "Name": "Cat-like constitution",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -354,7 +359,7 @@
       "ID": "DLC",
       "SetID": "2621k8c",
       "Name": "Dog-like constitution",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -394,7 +399,7 @@
       "ID": "Doubt",
       "SetID": "2621k8c",
       "Name": "Doubt",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -402,7 +407,7 @@
       "ID": "EB",
       "SetID": "2621k8c",
       "Name": "Extremely boring",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -450,7 +455,7 @@
       "ID": "FS",
       "SetID": "2621k8c",
       "Name": "Female supremacy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -530,7 +535,7 @@
       "ID": "HT",
       "SetID": "2621k8c",
       "Name": "Home Theater",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -554,7 +559,7 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -570,7 +575,7 @@
       "ID": "Ignore",
       "SetID": "2621k8c",
       "Name": "Ignore",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -642,7 +647,7 @@
       "ID": "LW",
       "SetID": "2621k8c",
       "Name": "Live Well",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -698,7 +703,7 @@
       "ID": "MTFNR",
       "SetID": "2621k8c",
       "Name": "Make trouble for no reason",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -706,7 +711,7 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -722,7 +727,7 @@
       "ID": "Numb",
       "SetID": "2621k8c",
       "Name": "Numb",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -746,7 +751,7 @@
       "ID": "PLMALBM",
       "SetID": "2621k8c",
       "Name": "Please love me a little bit more",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -762,7 +767,7 @@
       "ID": "PP",
       "SetID": "2621k8c",
       "Name": "Pet Phobia",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -770,7 +775,7 @@
       "ID": "PWAP",
       "SetID": "2621k8c",
       "Name": "Physically weak and powerless.",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -778,7 +783,7 @@
       "ID": "Perfunctory",
       "SetID": "2621k8c",
       "Name": "Perfunctory",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -786,7 +791,7 @@
       "ID": "Phantasmagoria",
       "SetID": "2621k8c",
       "Name": "Phantasmagoria",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -794,7 +799,7 @@
       "ID": "Poor",
       "SetID": "2621k8c",
       "Name": "Poor",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -914,7 +919,7 @@
       "ID": "Starlight",
       "SetID": "2621k8c",
       "Name": "Starlight",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -930,7 +935,7 @@
       "ID": "Straightforward",
       "SetID": "2621k8c",
       "Name": "Straightforward",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -970,7 +975,7 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -994,7 +999,7 @@
       "ID": "Thirsty",
       "SetID": "2621k8c",
       "Name": "Never satisfied",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1034,7 +1039,7 @@
       "ID": "VP",
       "SetID": "2621k8c",
       "Name": "Virtual Pet",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -1059,14 +1064,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:09:38.300527+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:09:21.5649612+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.1854671+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:57:34.2963493+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:09:38.3006075+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:57:24.8478644+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:09:21.5650339+00:00"
 }

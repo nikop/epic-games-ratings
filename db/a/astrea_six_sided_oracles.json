@@ -807,9 +807,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MechanicIntegration",
@@ -935,9 +935,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Sentinelphobic",
@@ -951,9 +951,9 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SixSidedMastery",
@@ -1111,9 +1111,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ApianChampion",
@@ -1270,8 +1270,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:06:30.4774118+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:05:57.521268+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:57:53.048886+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:06:30.4774991+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:57:40.6349453+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:05:57.5213551+00:00"
 }

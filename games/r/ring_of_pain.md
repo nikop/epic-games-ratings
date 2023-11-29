@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.60% | ~1,442 |
 | Not Touching You | 0.60% | ~11 |
 | Getting A Glimpse | 0.50% | ~1,202 |
+| A Quick Escape | 0.50% | ~1,202 |
 | Uncharted Territory | 0.50% | ~1,202 |
 | Nothing To Lose | 0.40% | ~961 |
 | Heavy Hitter | 0.40% | ~961 |
@@ -25,7 +26,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.40% | ~961 |
 | C-C-Combo | 0.40% | ~961 |
 | Deflection | 0.40% | ~961 |
-| A Quick Escape | 0.40% | ~961 |
 | Explorer | 0.40% | ~961 |
 | Sneaky | 0.40% | ~961 |
 | An Offering | 0.40% | ~961 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,370 (Ranked 62)  
+Progressed: 240,372 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-26 | 240,273 | 291 |
 | 2023-11-27 | 240,313 | 291 |
 | 2023-11-28 | 240,354 | 291 |
-| 2023-11-29 | 240,370 | 291 |
+| 2023-11-29 | 240,372 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,234 (Ranked 78)  

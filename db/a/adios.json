@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79388,
+  "EOS_Progressed": 79389,
   "EOS_Completed": 856,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24988,6 +24988,11 @@
       "Time": "2023-11-29T08:03:59.0745499+00:00",
       "NumProgressed": 79388,
       "NumCompleted": 856
+    },
+    {
+      "Time": "2023-11-29T10:03:55.9761504+00:00",
+      "NumProgressed": 79389,
+      "NumCompleted": 856
     }
   ],
   "TotalAchievements": 25,
@@ -25031,7 +25036,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17465
+      "UsersEstimate": 17466
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -25103,7 +25108,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16671
+      "UsersEstimate": 16672
     },
     {
       "ID": "Meaty",
@@ -25151,7 +25156,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10320
+      "UsersEstimate": 10321
     },
     {
       "ID": "Sniper",
@@ -25198,7 +25203,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79388,
+      "Progressed": 79389,
       "Completed": 856
     }
   ],
@@ -25206,8 +25211,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:04:15.5707664+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:03:55.9761502+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.5641615+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:00:21.1467306+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:04:15.5709308+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:59:47.9417775+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:03:55.97627+00:00"
 }

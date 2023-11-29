@@ -2831,9 +2831,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 487
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3044,8 +3044,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:04:14.9448445+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:03:55.4050251+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:00:51.3934292+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:04:14.9448889+00:00"
+  "LastUpdate_Ratings": "2023-11-29T10:00:14.1183947+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:03:55.4050677+00:00"
 }

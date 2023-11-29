@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7057,
+  "EOS_Progressed": 7059,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1247,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4886,6 +4886,11 @@
       "Time": "2023-11-29T09:09:18.0357706+00:00",
       "NumProgressed": 7057,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T10:09:03.1726413+00:00",
+      "NumProgressed": 7059,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4970,7 +4975,7 @@
       "Name": "First Time?",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4984,9 +4989,9 @@
       "ID": "GarbageMan",
       "SetID": "acc6ea0",
       "Name": "Garbage Man",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 56
     },
     {
       "ID": "Godrunner",
@@ -5050,7 +5055,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5090,7 +5095,7 @@
       "Name": "The Old-School Way",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "TheQuarterback",
@@ -5122,7 +5127,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5136,9 +5141,9 @@
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 565
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -5169,7 +5174,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7057,
+      "Progressed": 7059,
       "Completed": 8
     }
   ],
@@ -5177,8 +5182,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-28T07:58:21.1482847+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:09:18.0357702+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:09:03.172641+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:59:21.416791+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:09:18.0358107+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:58:55.7683041+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:09:03.1726767+00:00"
 }

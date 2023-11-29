@@ -4113,9 +4113,9 @@
       "Count": 1078
     }
   ],
-  "EOS_Progressed": 80568,
+  "EOS_Progressed": 80569,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 1027,
+  "EOS_NewPlayers": 1022,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29383,6 +29383,11 @@
       "Time": "2023-11-29T09:08:56.5986928+00:00",
       "NumProgressed": 80568,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-29T10:08:44.1742049+00:00",
+      "NumProgressed": 80569,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 53,
@@ -29426,7 +29431,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8862
+      "UsersEstimate": 8863
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -29506,7 +29511,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 37061
+      "UsersEstimate": 37062
     },
     {
       "ID": "customize_a_vehicle",
@@ -29522,7 +29527,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29810
+      "UsersEstimate": 29811
     },
     {
       "ID": "cutting_edge_materials",
@@ -29602,7 +29607,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 26587
+      "UsersEstimate": 26588
     },
     {
       "ID": "fully_complete_a_building",
@@ -29642,7 +29647,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 29004
+      "UsersEstimate": 29005
     },
     {
       "ID": "hit_max_level",
@@ -29706,7 +29711,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6445
+      "UsersEstimate": 6446
     },
     {
       "ID": "prank_coop_partner",
@@ -29746,7 +29751,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 21753
+      "UsersEstimate": 21754
     },
     {
       "ID": "two_thirds_purple",
@@ -29817,22 +29822,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 80568,
+      "Progressed": 80569,
       "Completed": 54
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 52205,
-      "Completed": 4398
+      "Progressed": 52206,
+      "Completed": 4399
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-29T03:02:52.3773284+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:08:56.5986925+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:08:44.1742047+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.0685781+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:03:07.0607375+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:08:56.5988543+00:00"
+  "LastUpdate_Ratings": "2023-11-29T10:02:54.6353589+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:08:44.174368+00:00"
 }

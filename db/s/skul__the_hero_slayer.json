@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1121,9 +1121,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 8365,
+  "EOS_Progressed": 8366,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5651,6 +5651,11 @@
       "Time": "2023-11-29T07:05:35.1570065+00:00",
       "NumProgressed": 8365,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-11-29T10:04:36.6751691+00:00",
+      "NumProgressed": 8366,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 24,
@@ -5686,7 +5691,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5702,7 +5707,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "FakeGoddessGone",
@@ -5774,7 +5779,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 3513
+      "UsersEstimate": 3514
     },
     {
       "ID": "RookieWelcome",
@@ -5790,7 +5795,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5822,7 +5827,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7779
+      "UsersEstimate": 7780
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5838,7 +5843,7 @@
       "Name": "Master of Speed",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "WhattoBuy",
@@ -5853,15 +5858,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8365,
+      "Progressed": 8366,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-28T05:58:39.0331156+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:05:00.6049445+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:04:36.6751688+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.1005476+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:58:46.0272734+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:05:00.6049836+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:58:25.97205+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:04:36.6752004+00:00"
 }

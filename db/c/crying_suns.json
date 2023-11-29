@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471520,
+  "EOS_Progressed": 471521,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
@@ -23828,6 +23828,11 @@
       "Time": "2023-11-29T07:10:01.560514+00:00",
       "NumProgressed": 471520,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-29T10:09:20.9854623+00:00",
+      "NumProgressed": 471521,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23863,7 +23868,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103734
+      "UsersEstimate": 103735
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -23927,7 +23932,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311203
+      "UsersEstimate": 311204
     },
     {
       "ID": "achievement_story_landa",
@@ -24351,7 +24356,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103734
+      "UsersEstimate": 103735
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -24470,21 +24475,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15454,
+      "Progressed": 15455,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471520,
+      "Progressed": 471521,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:09:37.9504455+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:09:20.9854622+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:57:51.6332337+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:09:37.9506408+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:57:39.3016035+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:09:20.9856059+00:00"
 }

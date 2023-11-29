@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 141,
@@ -379,9 +379,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AC_BOSS_02",
@@ -475,9 +475,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:03:57.5993214+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:03:39.6602747+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:00:09.5223243+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:03:57.5993495+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:59:37.4552225+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:03:39.6602969+00:00"
 }

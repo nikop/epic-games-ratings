@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1522,6 +1522,11 @@
       "Time": "2023-11-29T09:04:08.6170421+00:00",
       "NumProgressed": 758,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T10:03:49.5929137+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1590,7 +1595,7 @@
       "Name": "Pathfinder",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "CompleteChapter10",
@@ -1708,9 +1713,9 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 129
     },
     {
       "ID": "CompleteChapter7",
@@ -1782,7 +1787,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1829,14 +1834,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:04:08.6170418+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:03:49.5929135+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:57:12.6549895+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:04:08.6170697+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:57:07.4725085+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:03:49.592944+00:00"
 }

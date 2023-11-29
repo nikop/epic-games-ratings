@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~23,481 |
-| Safety in the Storm | 24.00% | ~5,932 |
-| A Better Idea | 24.00% | ~5,932 |
-| Begin the Ceremony | 20.00% | ~4,943 |
-| Mission Accomplished | 19.00% | ~4,696 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~3,708 |
-| Asset Secured | 13.00% | ~3,213 |
-| A Starfighter of Your Own | 13.00% | ~3,213 |
-| Unkillable | 8.00% | ~1,977 |
-| Together, Vanguard | 7.00% | ~1,730 |
+| Fracture at Fostar Haven | 95.00% | ~23,488 |
+| Safety in the Storm | 24.00% | ~5,934 |
+| A Better Idea | 24.00% | ~5,934 |
+| Begin the Ceremony | 20.00% | ~4,945 |
+| Mission Accomplished | 19.00% | ~4,698 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~3,709 |
+| Asset Secured | 13.00% | ~3,214 |
+| A Starfighter of Your Own | 13.00% | ~3,214 |
+| Unkillable | 8.00% | ~1,978 |
+| Together, Vanguard | 7.00% | ~1,731 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,483 |
 | Sound Strategy | 6.00% | ~1,483 |
 | Stomped | 5.00% | ~1,236 |
@@ -31,7 +31,7 @@
 | Stun 'Em | 2.00% | ~494 |
 | Dressed for the Job You Want | 2.00% | ~494 |
 | I Have You Now | 1.00% | ~247 |
-| Against the Current | 0.90% | ~222 |
+| Against the Current | 0.90% | ~223 |
 | Denied | 0.80% | ~198 |
 | Found Your Place | 0.70% | ~173 |
 | Unstoppable Ace | 0.50% | ~124 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~25 |
 | The Galaxy's Finest (Ace) | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,717 (Ranked 129)  
+Progressed: 24,724 (Ranked 129)  
 Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.00%) (Ranked 363)
 | 2023-11-26 | 24,071 | 1 |
 | 2023-11-27 | 24,357 | 1 |
 | 2023-11-28 | 24,636 | 1 |
-| 2023-11-29 | 24,717 | 1 |
+| 2023-11-29 | 24,724 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

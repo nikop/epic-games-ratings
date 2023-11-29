@@ -2,9 +2,9 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 638,
+  "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -53,6 +53,11 @@
     {
       "Time": "2023-11-27T11:08:44.0603827+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T10:08:39.6683243+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -128,9 +133,9 @@
       "ID": "ACH_FIRSTSKINCHANGE",
       "SetID": "ch874lb",
       "Name": "A Good Paint Job",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRSTUPGRADE",
@@ -305,14 +310,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:08:51.6040102+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:08:39.6683241+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:04.0837308+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:59:08.2322406+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:08:51.6040304+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:58:44.8138718+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:08:39.6683418+00:00"
 }

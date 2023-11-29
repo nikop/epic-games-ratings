@@ -6961,18 +6961,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11921,
       "NumberOfAwardsMax": 7784
+    },
+    {
+      "Time": "2023-11-29T09:57:50.3586202+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11940,
+      "NumberOfAwardsMax": 7803
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11921,
-  "NumberOfAwardsMax": 7784,
+  "NumberOfAwards": 11940,
+  "NumberOfAwardsMax": 7803,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7784
+      "Count": 7803
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7023,9 +7029,9 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 727524,
+  "EOS_Progressed": 727537,
   "EOS_Completed": 2448,
-  "EOS_NewPlayers": 5267,
+  "EOS_NewPlayers": 5258,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32543,6 +32549,11 @@
       "Time": "2023-11-29T09:07:04.7324278+00:00",
       "NumProgressed": 727524,
       "NumCompleted": 2448
+    },
+    {
+      "Time": "2023-11-29T10:06:28.1286627+00:00",
+      "NumProgressed": 727537,
+      "NumCompleted": 2448
     }
   ],
   "TotalAchievements": 51,
@@ -32618,7 +32629,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "ach_contender",
@@ -32674,7 +32685,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -32698,7 +32709,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -32714,7 +32725,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "ach_impressive_aim",
@@ -32834,7 +32845,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "ach_survival_expert",
@@ -32890,7 +32901,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32914,7 +32925,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ach_dark_magic",
@@ -32938,7 +32949,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32961,22 +32972,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727524,
+      "Progressed": 727537,
       "Completed": 2448
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53066,
+      "Progressed": 53079,
       "Completed": 36613
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-28T23:57:35.4911519+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:07:04.7324273+00:00",
+  "LastChanged": "2023-11-29T09:57:50.35862+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:06:28.1286624+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:58:05.0308774+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:07:04.7325607+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:57:50.3586206+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:06:28.1287816+00:00"
 }

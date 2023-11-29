@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -324,9 +324,9 @@
       "ID": "fights6",
       "SetID": "c64if4d",
       "Name": "Surpass the teacher",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "fights7",
@@ -348,9 +348,9 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "special10",
@@ -404,9 +404,9 @@
       "ID": "special5",
       "SetID": "c64if4d",
       "Name": "Punish the Punisher",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "special6",
@@ -532,9 +532,9 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "story20",
@@ -556,25 +556,25 @@
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "story6",
@@ -621,8 +621,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:06:59.7142872+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:06:23.603161+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.5791055+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:57:45.7601521+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:06:59.7143197+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:57:34.4414064+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:06:23.603188+00:00"
 }

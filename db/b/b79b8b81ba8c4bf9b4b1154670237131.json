@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13600,
+  "EOS_Progressed": 13603,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 1624,
+  "EOS_NewPlayers": 1619,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1840,6 +1840,11 @@
       "Time": "2023-11-29T09:08:35.7025732+00:00",
       "NumProgressed": 13600,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-29T10:08:25.5534164+00:00",
+      "NumProgressed": 13603,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -1852,7 +1857,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "ACH_AE_10",
@@ -1884,7 +1889,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10200
+      "UsersEstimate": 10202
     },
     {
       "ID": "ACH_AE_14",
@@ -1892,7 +1897,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "ACH_AE_15",
@@ -1900,7 +1905,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2992
+      "UsersEstimate": 2993
     },
     {
       "ID": "ACH_AE_16",
@@ -1940,7 +1945,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3128
+      "UsersEstimate": 3129
     },
     {
       "ID": "ACH_AE_20",
@@ -1964,7 +1969,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3128
+      "UsersEstimate": 3129
     },
     {
       "ID": "ACH_AE_23",
@@ -2131,7 +2136,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 13600,
+      "Progressed": 13603,
       "Completed": 11
     }
   ],
@@ -2139,8 +2144,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-11-29T04:59:31.3373245+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:08:35.7025716+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:08:25.5534162+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:01.0190602+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:00:26.3670985+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:08:35.7026226+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:59:52.474967+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:08:25.5534444+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -377,9 +377,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 320688,
+  "EOS_Progressed": 320703,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4411,
+  "EOS_NewPlayers": 4410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7732,6 +7732,11 @@
       "Time": "2023-11-29T09:03:51.7691427+00:00",
       "NumProgressed": 320688,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-29T10:03:34.2817561+00:00",
+      "NumProgressed": 320703,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7760,7 +7765,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "S04_BRDC",
@@ -7768,7 +7773,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "S05_SWRA",
@@ -7936,7 +7941,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "S26_CRTA",
@@ -8063,7 +8068,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 320688,
+      "Progressed": 320703,
       "Completed": 4
     }
   ],
@@ -8071,8 +8076,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-28T23:59:47.9302057+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:03:51.7691423+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:03:34.2817559+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:00:42.2703436+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:03:51.7691898+00:00"
+  "LastUpdate_Ratings": "2023-11-29T10:00:06.3831077+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:03:34.2818038+00:00"
 }

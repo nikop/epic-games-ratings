@@ -949,9 +949,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9108,
+  "EOS_Progressed": 9109,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8414,6 +8414,11 @@
       "Time": "2023-11-29T08:05:57.6149378+00:00",
       "NumProgressed": 9108,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-29T10:05:50.4046293+00:00",
+      "NumProgressed": 9109,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8425,7 +8430,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -8553,7 +8558,7 @@
       "Name": "Insubordination",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -8633,7 +8638,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -8705,7 +8710,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -8751,9 +8756,9 @@
       "ID": "ISONZO_ACH_TUTTI_EROI",
       "SetID": "akchbl3",
       "Name": "Tutti Eroi!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4645
+      "UsersEstimate": 4554
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8777,14 +8782,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4645
+      "UsersEstimate": 4646
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9108,
+      "Progressed": 9109,
       "Completed": 10
     }
   ],
@@ -8792,8 +8797,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-26T17:59:39.1110954+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:06:22.5129215+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:05:50.4046291+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:00:48.3513145+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:06:22.5130031+00:00"
+  "LastUpdate_Ratings": "2023-11-29T10:00:11.594972+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:05:50.4046885+00:00"
 }

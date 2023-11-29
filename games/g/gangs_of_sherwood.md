@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Air Fighter | 90.00% | ~19 |
+| Air Fighter | 95.00% | ~20 |
 | Act of Kindness | 90.00% | ~19 |
 | The Altruist | 81.00% | ~17 |
 | Oo-De-Lally | 71.00% | ~15 |
@@ -21,8 +21,8 @@
 | Locksley's Tears | 38.00% | ~8 |
 | Assault on the Ram | 38.00% | ~8 |
 | First Aid | 38.00% | ~8 |
+| Merry Go Round | 38.00% | ~8 |
 | Starry Night | 33.00% | ~7 |
-| Merry Go Round | 33.00% | ~7 |
 | Ascending Will | 24.00% | ~5 |
 | Ultra Rebel Instinct | 24.00% | ~5 |
 | Take Action! | 24.00% | ~5 |

@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Good Paint Job | 17.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | The Power of Friendship | 0.00% | ~0 |
@@ -12,7 +13,6 @@
 | Strength in Defeat | 0.00% | ~0 |
 | The Remains of Fleed | 0.00% | ~0 |
 | Life of Pi | 0.00% | ~0 |
-| A Good Paint Job | 0.00% | ~0 |
 | Technology first! | 0.00% | ~0 |
 | The Keeper of Fleed | 0.00% | ~0 |
 | The Planner | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The Vega Turtle | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 638)  
+Progressed: 6 (Ranked 628)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,3 +44,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-17 | 3 | 0 |
 | 2023-11-24 | 4 | 0 |
 | 2023-11-27 | 5 | 0 |
+| 2023-11-29 | 6 | 0 |

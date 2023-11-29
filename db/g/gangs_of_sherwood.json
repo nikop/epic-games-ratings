@@ -173,9 +173,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 90,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -501,9 +501,9 @@
       "ID": "ACH_THROW_ENEMY",
       "SetID": "5akmpni",
       "Name": "Merry Go Round",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_UNLOCK_ALL_GEARS",
@@ -555,8 +555,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:03:29.7503877+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:03:15.3929775+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:58:42.113796+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:03:29.7504307+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:58:22.5813715+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:03:15.3930076+00:00"
 }

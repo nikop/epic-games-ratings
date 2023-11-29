@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 97.00% | ~35 |
-| Suicide squad | 58.00% | ~21 |
+| Suicide squad | 61.00% | ~22 |
+| Train hard, fight easy | 33.00% | ~12 |
+| Under cover | 33.00% | ~12 |
 | First blood | 33.00% | ~12 |
-| Train hard, fight easy | 31.00% | ~11 |
-| Under cover | 31.00% | ~11 |
-| All for one! | 28.00% | ~10 |
-| Royal blessing | 25.00% | ~9 |
+| All for one! | 31.00% | ~11 |
+| Royal blessing | 28.00% | ~10 |
 | A hidden snake | 25.00% | ~9 |
 | Blood and sand | 25.00% | ~9 |
+| Surpass the teacher | 19.00% | ~7 |
 | Vene, vidi, vici | 19.00% | ~7 |
-| Surpass the teacher | 17.00% | ~6 |
 | She-Wolf | 17.00% | ~6 |
 | Crimson rivers | 14.00% | ~5 |
 | Power of Inquisition | 14.00% | ~5 |
@@ -24,12 +24,12 @@
 | Berkanan Borgia | 11.00% | ~4 |
 | The champion of the arena | 11.00% | ~4 |
 | Rage | 11.00% | ~4 |
+| Punish the Punisher | 11.00% | ~4 |
 | Protect the Healer! | 11.00% | ~4 |
 | Collector | 8.00% | ~3 |
 | Overplay the rogue | 8.00% | ~3 |
 | Stronger than Gellian steel | 8.00% | ~3 |
 | By own strength | 8.00% | ~3 |
-| Punish the Punisher | 8.00% | ~3 |
 | The End | 8.00% | ~3 |
 | Nothing is settled | 8.00% | ~3 |
 | The best apprentice | 6.00% | ~2 |

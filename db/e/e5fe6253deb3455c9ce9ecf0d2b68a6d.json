@@ -2,9 +2,9 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1194,6 +1194,11 @@
       "Time": "2023-11-26T11:04:21.1792866+00:00",
       "NumProgressed": 313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T10:05:41.5087709+00:00",
+      "NumProgressed": 314,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1230,7 +1235,7 @@
       "Name": "Full load",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Island",
@@ -1246,7 +1251,7 @@
       "Name": "In the last second",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Master",
@@ -1292,9 +1297,9 @@
       "ID": "Tangentially",
       "SetID": "cjfnji1",
       "Name": "Tangentially",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 35
     },
     {
       "ID": "USSR",
@@ -1317,14 +1322,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 314,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:06:12.5924766+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:05:41.5087691+00:00",
   "LastUpdate_AppInfo": "2023-11-28T02:57:00.9708517+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:59:21.8138487+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:06:12.5924931+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:58:56.0905409+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:05:41.5087888+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,645 |
-| You Shall Not Pass | 51.00% | ~4,645 |
+| You Shall Not Pass | 51.00% | ~4,646 |
+| Tutti Eroi! | 50.00% | ~4,554 |
 | Peak Performance | 47.00% | ~4,281 |
 | Avanti Savoia! | 44.00% | ~4,008 |
 | Mamma Mia! | 35.00% | ~3,188 |
@@ -19,8 +19,8 @@ Number of Ratings: 98  (23.09.2022)
 | Donatello | 19.00% | ~1,731 |
 | The Italian Job | 19.00% | ~1,731 |
 | Veni Vidi Vici | 19.00% | ~1,731 |
-| Insubordination | 18.00% | ~1,639 |
-| Ragazzi del '99 | 17.00% | ~1,548 |
+| Insubordination | 18.00% | ~1,640 |
+| Ragazzi del '99 | 17.00% | ~1,549 |
 | Luigi Cadorna | 15.00% | ~1,366 |
 | The Lion of the Isonzo | 14.00% | ~1,275 |
 | Uomo Universale | 13.00% | ~1,184 |
@@ -35,8 +35,8 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 9.00% | ~820 |
 | The Show Must Go On | 8.00% | ~729 |
 | Tosca | 8.00% | ~729 |
-| 12th Bottle of the Isonzo | 6.00% | ~546 |
-| The Enlightment | 6.00% | ~546 |
+| 12th Bottle of the Isonzo | 6.00% | ~547 |
+| The Enlightment | 6.00% | ~547 |
 | Cercatore d'Oro | 5.00% | ~455 |
 | Generalissimo | 4.00% | ~364 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~364 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~36 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,108 (Ranked 169)  
+Progressed: 9,109 (Ranked 169)  
 Completed: 10 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 10 (0.11%) (Ranked 281)
 | 2023-11-26 | 9,056 | 10 |
 | 2023-11-27 | 9,080 | 10 |
 | 2023-11-28 | 9,106 | 10 |
-| 2023-11-29 | 9,108 | 10 |
+| 2023-11-29 | 9,109 | 10 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 462)  
 Sum: 287 (Ranked 371)  

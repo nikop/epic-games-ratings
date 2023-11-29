@@ -896,9 +896,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1159,8 +1159,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-29T09:08:36.0856457+00:00",
+  "LastChanged_Achievements": "2023-11-29T10:08:25.9780801+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:02:50.3416038+00:00",
-  "LastUpdate_Achievements": "2023-11-29T09:08:36.085679+00:00"
+  "LastUpdate_Ratings": "2023-11-29T10:02:39.3778915+00:00",
+  "LastUpdate_Achievements": "2023-11-29T10:08:25.9781068+00:00"
 }
