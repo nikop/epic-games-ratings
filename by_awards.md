@@ -2,9 +2,9 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 2,270,015 | 4.28 | 856 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 632,556 | 4.47 | 638 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 316,644 | 4.68 | 254 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 316,732 | 4.68 | 254 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 265,823 | 4.68 | 254 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 213,033 | 4.18 | 934 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 213,117 | 4.18 | 934 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 202,886 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 152,294 | 4.51 | 571 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 121,442 | 4.69 | 231 |
@@ -136,7 +136,7 @@
 | 134 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 1,455 | 4.52 | 553 |
 | 135 | [XCOM® 2](games/x/xcom®_2.md) | 1,362 | 4.55 | 505 |
 | 136 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,342 | 4.70 | 215 |
-| 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,317 | 4.61 | 386 |
+| 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,319 | 4.61 | 386 |
 | 138 | [DOOM 64](games/d/doom_64.md) | 1,303 | 4.66 | 294 |
 | 139 | [OUTRIDERS](games/o/outriders.md) | 1,257 | 4.43 | 693 |
 | 140 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,221 | 4.69 | 231 |
@@ -147,8 +147,8 @@
 | 145 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,099 | 4.61 | 386 |
 | 146 | [Saints Row](games/s/saints_row.md) | 1,078 | 3.79 | 1,039 |
 | 147 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,074 | 4.76 | 125 |
-| 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,053 | 4.40 | 737 |
-| 148 | [Torchlight II](games/t/torchlight_ii.md) | 1,053 | 4.59 | 430 |
+| 148 | [Torchlight II](games/t/torchlight_ii.md) | 1,055 | 4.59 | 430 |
+| 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,053 | 4.40 | 737 |
 | 150 | [Ooblets](games/o/ooblets.md) | 1,046 | 4.88 | 16 |
 | 151 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,044 | 4.69 | 231 |
 | 152 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 897 |
@@ -203,7 +203,7 @@
 | 201 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 577 | 4.40 | 737 |
 | 201 | [Vampyr](games/v/vampyr.md) | 577 | 4.32 | 824 |
 | 203 | [Filament](games/f/filament.md) | 573 | 4.33 | 815 |
-| 204 | [Godfall Ultimate Edition](games/g/godfall.md) | 563 | 4.07 | 977 |
+| 204 | [Godfall Ultimate Edition](games/g/godfall.md) | 563 | 4.07 | 978 |
 | 205 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 557 | 4.43 | 693 |
 | 206 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 545 | 3.95 | 1,012 |
 | 206 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 545 | 4.86 | 32 |
@@ -299,7 +299,7 @@
 | 295 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 187 | 4.63 | 348 |
 | 298 | [The Witness](games/t/the_witness.md) | 185 | 4.70 | 215 |
 | 299 | [Star Stable Online](games/s/star_stable_online.md) | 184 | 4.43 | 693 |
-| 300 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.07 | 977 |
+| 300 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.07 | 978 |
 | 301 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 177 | 4.50 | 591 |
 | 302 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 941 |
 | 303 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 175 | 4.19 | 926 |
@@ -322,7 +322,7 @@
 | 320 | [Timberborn](games/t/timberborn.md) | 148 | 4.72 | 185 |
 | 321 | [Night in the Woods](games/n/night_in_the_woods.md) | 146 | 4.73 | 171 |
 | 322 | [First Class Trouble](games/f/first_class_trouble.md) | 143 | 4.48 | 632 |
-| 323 | [Fort Triumph](games/f/fort_triumph.md) | 142 | 4.08 | 971 |
+| 323 | [Fort Triumph](games/f/fort_triumph.md) | 142 | 4.08 | 972 |
 | 323 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 142 | 4.38 | 763 |
 | 325 | [Atomicrops](games/a/atomicrops.md) | 139 | 4.86 | 32 |
 | 326 | [while True: learn()](games/w/while_true__learn().md) | 138 | 4.51 | 571 |
@@ -513,20 +513,20 @@
 | 507 | [Tunche](games/t/tunche.md) | 28 | 4.46 | 648 |
 | 512 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 806 |
 | 512 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 492 |
+| 512 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 27 | 4.09 | 967 |
 | 512 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 505 |
 | 512 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 27 | 4.44 | 676 |
 | 512 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 231 |
 | 512 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 27 | 4.60 | 417 |
-| 518 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 26 | 4.55 | 505 |
-| 518 | [F1® 23](games/f/f1®_23_standard_edition.md) | 26 | 4.67 | 275 |
-| 518 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 26 | 4.49 | 609 |
-| 518 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 781 |
-| 518 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.81 | 78 |
-| 523 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 25 | 4.15 | 948 |
-| 523 | [MotoGP™21](games/m/motogp™21.md) | 25 | 4.57 | 473 |
-| 523 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 25 | 4.07 | 977 |
-| 523 | [Sable](games/s/sable.md) | 25 | 4.53 | 539 |
-| 523 | [WRC Generations](games/w/wrc_generations.md) | 25 | 4.45 | 663 |
+| 519 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 26 | 4.55 | 505 |
+| 519 | [F1® 23](games/f/f1®_23_standard_edition.md) | 26 | 4.67 | 275 |
+| 519 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 26 | 4.49 | 609 |
+| 519 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 781 |
+| 519 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.81 | 78 |
+| 524 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 25 | 4.15 | 948 |
+| 524 | [MotoGP™21](games/m/motogp™21.md) | 25 | 4.57 | 473 |
+| 524 | [Sable](games/s/sable.md) | 25 | 4.53 | 539 |
+| 524 | [WRC Generations](games/w/wrc_generations.md) | 25 | 4.45 | 663 |
 | 528 | [ELEX](games/e/elex.md) | 24 | 4.47 | 638 |
 | 528 | [Fez](games/f/fez.md) | 24 | 4.72 | 185 |
 | 528 | [RUINER](games/r/ruiner.md) | 24 | 4.54 | 526 |
