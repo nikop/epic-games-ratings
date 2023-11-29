@@ -502,9 +502,9 @@
       "ID": "9",
       "SetID": "6bgoh8g",
       "Name": "Encore!",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:03:30.1154392+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:03:45.5128742+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:19:11.5878853+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:02:37.2144687+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:03:30.1154562+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:02:49.6325049+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:03:45.5128918+00:00"
 }

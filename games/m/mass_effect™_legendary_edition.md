@@ -16,7 +16,7 @@
 | Council Legion of Merit | 54.00% | ~782 |
 | Turian Ally | 53.00% | ~767 |
 | Medal of Honor | 52.00% | ~753 |
-| Meritorious Service Medal | 51.00% | ~738 |
+| Meritorious Service Medal | 52.00% | ~753 |
 | Charismatic | 50.00% | ~724 |
 | Soldier | 49.00% | ~710 |
 | Soldier Ally | 46.00% | ~666 |
@@ -51,13 +51,13 @@
 | Galactic Explorer | 32.00% | ~463 |
 | Driven | 32.00% | ~463 |
 | Shopaholic | 32.00% | ~463 |
+| Completionist | 31.00% | ~449 |
 | Battlemaster | 31.00% | ~449 |
 | Catharsis | 31.00% | ~449 |
 | Ghost of the Father | 31.00% | ~449 |
 | The Cure | 31.00% | ~449 |
 | Big Game Hunter | 31.00% | ~449 |
 | Focused | 30.00% | ~434 |
-| Completionist | 30.00% | ~434 |
 | Fade Away | 30.00% | ~434 |
 | Revenge! | 30.00% | ~434 |
 | Heart of Darkness | 30.00% | ~434 |

@@ -2573,9 +2573,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23566,
+  "EOS_Progressed": 23567,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1352,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11113,6 +11113,11 @@
       "Time": "2023-11-29T08:08:16.1294154+00:00",
       "NumProgressed": 23566,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T09:07:03.1229383+00:00",
+      "NumProgressed": 23567,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11325,7 +11330,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8013
     },
     {
       "ID": "Achievement_Trophy27",
@@ -11365,7 +11370,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "Achievement_Trophy32",
@@ -11612,7 +11617,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23566,
+      "Progressed": 23567,
       "Completed": 1
     }
   ],
@@ -11620,8 +11625,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-28T02:58:56.0622889+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:08:16.1294152+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:07:03.1229379+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:59:32.5563898+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:08:16.1295027+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:00:02.6998223+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:07:03.1230168+00:00"
 }

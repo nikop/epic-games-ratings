@@ -1,7 +1,7 @@
 # The Walking Dead : The Definitive Series
 [Store](https://store.epicgames.com/en-US/p/walking-dead-definitive-series)  
 [View Rawdata](../../db/t/the_walking_dead___the_definitive_series.json)  
-Rating: 4.86 (Ranked 32)  
+Rating: 4.87 (Ranked 22)  
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 545  (Ranked 206)  
@@ -196,3 +196,4 @@ Diff (max vs sum): -73
 | 2023-11-23 | 4.86 | - | 543 | 830 |
 | 2023-11-25 | 4.86 | - | 544 | 831 |
 | 2023-11-27 | 4.86 | - | 545 | 832 |
+| 2023-11-29 | 4.87 | - | 545 | 832 |

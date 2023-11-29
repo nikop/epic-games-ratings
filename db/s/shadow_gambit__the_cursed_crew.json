@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 969,
+  "EOS_Progressed": 971,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.2,
+  "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3184,6 +3184,11 @@
       "Time": "2023-11-29T03:05:08.8176746+00:00",
       "NumProgressed": 969,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-29T09:05:43.9939964+00:00",
+      "NumProgressed": 971,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3204,7 +3209,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "_03_FinishAct1",
@@ -3212,7 +3217,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 486
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3220,7 +3225,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "_05_FinishAct2",
@@ -3228,7 +3233,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3252,7 +3257,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "_09_Completion_20",
@@ -3260,7 +3265,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "_10_Completion_30",
@@ -3268,7 +3273,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "_11_Completion_40",
@@ -3300,7 +3305,7 @@
       "Name": "Freebooter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "_15_Completion_80",
@@ -3324,7 +3329,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3348,7 +3353,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3380,7 +3385,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3403,7 +3408,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 969,
+      "Progressed": 971,
       "Completed": 31
     }
   ],
@@ -3411,8 +3416,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:05:21.8792475+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:05:43.9939961+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:57:26.9660934+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:05:21.8792753+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:57:40.6689825+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:05:43.99403+00:00"
 }

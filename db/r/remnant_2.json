@@ -4911,10 +4911,10 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 230318,
+  "EOS_Progressed": 230326,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 4878,
-  "EOS_NewCompleters": 41,
+  "EOS_NewPlayers": 4855,
+  "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -20471,6 +20471,11 @@
       "Time": "2023-11-29T08:08:46.2064859+00:00",
       "NumProgressed": 230318,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-11-29T09:08:45.3161299+00:00",
+      "NumProgressed": 230326,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20881,9 +20886,9 @@
       "ID": "DLC1_Defeat_OneTrueKing",
       "SetID": "bkoie00",
       "Name": "Regicide",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 57
+      "UsersEstimate": 66
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -20922,13 +20927,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230318,
+      "Progressed": 230326,
       "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9483,
+      "Progressed": 9491,
       "Completed": 167
     }
   ],
@@ -20936,8 +20941,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-28T23:02:58.3294243+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:08:46.2064856+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:08:45.3161296+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-29T08:02:58.2158047+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:08:46.2065704+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:03:11.1881076+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:08:45.3162664+00:00"
 }

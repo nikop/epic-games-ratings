@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87997,
+  "EOS_Progressed": 87998,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -12557,6 +12557,11 @@
       "Time": "2023-11-29T08:04:11.0538457+00:00",
       "NumProgressed": 87997,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-11-29T09:04:27.6625525+00:00",
+      "NumProgressed": 87998,
+      "NumCompleted": 293
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -12577,7 +12582,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 17599
+      "UsersEstimate": 17600
     },
     {
       "ID": "grp_collect_ruby",
@@ -12609,7 +12614,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 21999
+      "UsersEstimate": 22000
     },
     {
       "ID": "grp_level10",
@@ -12657,7 +12662,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 47518
+      "UsersEstimate": 47519
     },
     {
       "ID": "grp_money_tree",
@@ -12665,7 +12670,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 65118
+      "UsersEstimate": 65119
     },
     {
       "ID": "grp_speed",
@@ -12704,7 +12709,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 87997,
+      "Progressed": 87998,
       "Completed": 293
     }
   ],
@@ -12712,8 +12717,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-11-24T09:59:32.7266205+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:04:11.0538455+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:04:27.6625522+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.1314286+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:58:32.0366366+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:04:11.053899+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:58:54.3688894+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:04:27.6626444+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1173,9 +1173,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67705,
+  "EOS_Progressed": 67707,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10828,6 +10828,11 @@
       "Time": "2023-11-29T08:04:43.8129052+00:00",
       "NumProgressed": 67705,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-29T09:05:02.5186711+00:00",
+      "NumProgressed": 67707,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10920,7 +10925,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6770
+      "UsersEstimate": 6771
     },
     {
       "ID": "5",
@@ -10928,7 +10933,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5416
+      "UsersEstimate": 5417
     },
     {
       "ID": "6",
@@ -10967,7 +10972,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67705,
+      "Progressed": 67707,
       "Completed": 38
     }
   ],
@@ -10975,8 +10980,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-29T06:58:07.3420072+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:04:43.8129051+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:05:02.5186708+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:57:46.6911489+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:04:43.8129465+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:58:02.0028464+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:05:02.5187279+00:00"
 }

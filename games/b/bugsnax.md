@@ -1,32 +1,32 @@
 # Bugsnax
 [Store](https://store.epicgames.com/en-US/p/bugsnax)  
 [View Rawdata](../../db/b/bugsnax.json)  
-Rating: 4.86 (Ranked 32)  
+Rating: 4.86 (Ranked 33)  
 Number of Ratings: 425  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,815 |
-| Gone Home | 93.00% | ~26,668 |
-| Wonderfalls | 87.00% | ~24,947 |
-| Got to Catch a Few | 77.00% | ~22,080 |
-| Double Trapper | 75.00% | ~21,506 |
+| Everybody Gets One | 97.00% | ~27,816 |
+| Gone Home | 93.00% | ~26,669 |
+| Wonderfalls | 87.00% | ~24,948 |
+| Got to Catch a Few | 77.00% | ~22,081 |
+| Double Trapper | 75.00% | ~21,507 |
 | I'm Stuffed | 69.00% | ~19,786 |
 | Got to Catch a Lot | 66.00% | ~18,926 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,492 |
-| In the Arms of the Gramble | 59.00% | ~16,918 |
-| Know Thy Neighbor | 59.00% | ~16,918 |
+| In the Arms of the Gramble | 59.00% | ~16,919 |
+| Know Thy Neighbor | 59.00% | ~16,919 |
 | Perf Dirt | 57.00% | ~16,345 |
-| Launch Party | 56.00% | ~16,058 |
+| Launch Party | 56.00% | ~16,059 |
 | Vacation's End | 53.00% | ~15,198 |
-| Bossy Bugs | 46.00% | ~13,190 |
+| Bossy Bugs | 46.00% | ~13,191 |
 | Survivor | 45.00% | ~12,904 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,330 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,331 |
 | Sidetracked | 40.00% | ~11,470 |
-| Film Buff | 38.00% | ~10,896 |
-| Combo Meal | 38.00% | ~10,896 |
+| Film Buff | 38.00% | ~10,897 |
+| Combo Meal | 38.00% | ~10,897 |
 | Midnight Snak | 36.00% | ~10,323 |
-| Candid Cryptid | 35.00% | ~10,036 |
+| Candid Cryptid | 35.00% | ~10,037 |
 | Got to Catch Them All | 32.00% | ~9,176 |
 | Deep Impact | 23.00% | ~6,595 |
 | Grab Bag | 23.00% | ~6,595 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 9.00% | ~2,581 |
 | Dapper Capper | 7.00% | ~2,007 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,675 (Ranked 126)  
+Progressed: 28,676 (Ranked 126)  
 Completed: 1,387 (4.84%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 1,387 (4.84%) (Ranked 74)
 | 2023-11-26 | 28,664 | 1,383 |
 | 2023-11-27 | 28,666 | 1,386 |
 | 2023-11-28 | 28,673 | 1,386 |
-| 2023-11-29 | 28,675 | 1,387 |
+| 2023-11-29 | 28,676 | 1,387 |
 ## Awards
 Max (Amazing Storytelling): 43  (Ranked 454)  
 Sum: 367 (Ranked 352)  

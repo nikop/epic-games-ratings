@@ -7,9 +7,9 @@ Number of Ratings: 68  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I'm not dead yet | 41.00% | ~9,662 |
-| Overkill | 34.00% | ~8,012 |
+| Overkill | 34.00% | ~8,013 |
 | Vaccine Incoming | 33.00% | ~7,777 |
-| A normal day in Gloomhaven | 31.00% | ~7,305 |
+| A normal day in Gloomhaven | 31.00% | ~7,306 |
 | Spread the plague | 29.00% | ~6,834 |
 | Get over here! | 25.00% | ~5,892 |
 | Just when I thought I was out... | 19.00% | ~4,478 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~24 |
 | Murder Death Kill | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,566 (Ranked 132)  
+Progressed: 23,567 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 1 (0.00%) (Ranked 363)
 | 2023-11-26 | 23,222 | 1 |
 | 2023-11-27 | 23,367 | 1 |
 | 2023-11-28 | 23,528 | 1 |
-| 2023-11-29 | 23,566 | 1 |
+| 2023-11-29 | 23,567 | 1 |
 ## Awards
 Max (Character Customization): 3,590  (Ranked 90)  
 Sum: 8,391 (Ranked 101)  

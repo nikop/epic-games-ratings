@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 87.00% | ~428 |
-| Thalya – Simply Immortal | 87.00% | ~428 |
-| For the Horde! | 81.00% | ~399 |
-| Hammer Time, Round Two | 79.00% | ~389 |
-| The Hellwoods | 74.00% | ~364 |
-| The Plains of Strothalm | 68.00% | ~335 |
-| Experienced Thalya | 68.00% | ~335 |
-| Thalya's Concentrated Fury | 66.00% | ~325 |
-| Bad Elves Go Everywhere | 65.00% | ~320 |
-| Master of Magic | 63.00% | ~310 |
-| Heroes’ Gorge | 60.00% | ~295 |
-| Magic Accidents | 58.00% | ~285 |
-| Unicorn steaks – fresh off the hoof! | 58.00% | ~285 |
-| Trap Master | 55.00% | ~271 |
-| Minions, Minions! | 53.00% | ~261 |
-| The Ascent | 51.00% | ~251 |
-| It's Warm and Cozy at Home | 51.00% | ~251 |
-| Hard Work | 47.00% | ~231 |
-| YOU SHALL NOT PASS! | 46.00% | ~226 |
-| The Big Eaty | 44.00% | ~216 |
-| Pure Dynamite! | 41.00% | ~202 |
-| “… like son” | 39.00% | ~192 |
-| Mana Cannon | 37.00% | ~182 |
-| Dungeonlord Gorgu | 36.00% | ~177 |
-| The Cathedral of Light | 34.00% | ~167 |
-| Shame! Shame! Shame! | 34.00% | ~167 |
+| The Last Stand | 87.00% | ~430 |
+| Thalya – Simply Immortal | 87.00% | ~430 |
+| For the Horde! | 80.00% | ~395 |
+| Hammer Time, Round Two | 79.00% | ~390 |
+| The Hellwoods | 73.00% | ~361 |
+| The Plains of Strothalm | 68.00% | ~336 |
+| Thalya's Concentrated Fury | 67.00% | ~331 |
+| Experienced Thalya | 67.00% | ~331 |
+| Bad Elves Go Everywhere | 64.00% | ~316 |
+| Master of Magic | 63.00% | ~311 |
+| Heroes’ Gorge | 60.00% | ~296 |
+| Unicorn steaks – fresh off the hoof! | 58.00% | ~287 |
+| Magic Accidents | 57.00% | ~282 |
+| Trap Master | 54.00% | ~267 |
+| Minions, Minions! | 53.00% | ~262 |
+| The Ascent | 51.00% | ~252 |
+| It's Warm and Cozy at Home | 51.00% | ~252 |
+| YOU SHALL NOT PASS! | 46.00% | ~227 |
+| Hard Work | 46.00% | ~227 |
+| The Big Eaty | 44.00% | ~217 |
+| Pure Dynamite! | 41.00% | ~203 |
+| “… like son” | 39.00% | ~193 |
+| Mana Cannon | 37.00% | ~183 |
+| Dungeonlord Gorgu | 35.00% | ~173 |
+| The Cathedral of Light | 34.00% | ~168 |
+| Shame! Shame! Shame! | 34.00% | ~168 |
 | Tanos' Crusade Against Thalya | 31.00% | ~153 |
 | All’s Well That Ends Evil | 26.00% | ~128 |
-| Unstoppable Horde | 25.00% | ~123 |
-| Master of the Undead | 24.00% | ~118 |
-| The Duel | 23.00% | ~113 |
-| Hungry, Hungry Gorgu! | 22.00% | ~108 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~103 |
-| Forbidden Knowledge | 21.00% | ~103 |
-| If Looks Could Kill | 21.00% | ~103 |
-| Ghost Pirates? Ghost Heroes! | 20.00% | ~98 |
+| Unstoppable Horde | 25.00% | ~124 |
+| Master of the Undead | 24.00% | ~119 |
+| The Duel | 23.00% | ~114 |
+| Hungry, Hungry Gorgu! | 22.00% | ~109 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~104 |
+| Forbidden Knowledge | 21.00% | ~104 |
+| If Looks Could Kill | 21.00% | ~104 |
+| Ghost Pirates? Ghost Heroes! | 19.00% | ~94 |
 | The Finitude Drill | 18.00% | ~89 |
 | Stop Tanos! | 17.00% | ~84 |
 | Doom Hill | 16.00% | ~79 |
@@ -57,17 +57,17 @@
 | The Last Stand - This Time For Real! | 10.00% | ~49 |
 | Untouchable | 9.00% | ~44 |
 | To the Max! | 9.00% | ~44 |
-| Mirror, Mirror | 8.00% | ~39 |
-| Evilification | 8.00% | ~39 |
-| Gorgu is in the Best of Health | 7.00% | ~34 |
-| Laser Eyes Are So Useless | 7.00% | ~34 |
-| Heal Heal Blessing | 7.00% | ~34 |
+| Mirror, Mirror | 8.00% | ~40 |
+| Gorgu is in the Best of Health | 7.00% | ~35 |
+| Heal Heal Blessing | 7.00% | ~35 |
+| Evilification | 7.00% | ~35 |
+| Laser Eyes Are So Useless | 6.00% | ~30 |
 | Hands Off My Stones | 5.00% | ~25 |
 | No Mana, No Cry | 4.00% | ~20 |
 | I Don't Need Any Help | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492 (Ranked 311)  
-Completed: 8 (1.63%) (Ranked 140)  
+Progressed: 494 (Ranked 311)  
+Completed: 8 (1.62%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,4 +91,4 @@ Completed: 8 (1.63%) (Ranked 140)
 | 2023-11-26 | 452 | 6 |
 | 2023-11-27 | 477 | 7 |
 | 2023-11-28 | 489 | 8 |
-| 2023-11-29 | 492 | 8 |
+| 2023-11-29 | 494 | 8 |

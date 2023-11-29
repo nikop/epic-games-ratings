@@ -4,7 +4,7 @@
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
@@ -314,8 +314,8 @@
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:03:43.2514899+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:03:59.1884156+00:00",
   "LastUpdate_AppInfo": "2023-11-24T10:57:18.5833512+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:57:19.0919717+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:03:43.2514954+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:57:30.5452767+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:03:59.188423+00:00"
 }

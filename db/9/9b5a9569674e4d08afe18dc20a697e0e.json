@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -512,9 +512,9 @@
       "ID": "DRAGON",
       "SetID": "40o4f14",
       "Name": "How to train your...",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DRESSED",
@@ -640,9 +640,9 @@
       "ID": "PRISON",
       "SetID": "40o4f14",
       "Name": "The prison",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RECOVERING",
@@ -719,8 +719,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:05:18.716147+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:05:40.4855808+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:58:24.6521073+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:05:18.716167+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:58:45.7346983+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:05:40.485607+00:00"
 }

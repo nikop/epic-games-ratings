@@ -9252,9 +9252,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66570,
+  "EOS_Progressed": 66572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 951,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32752,6 +32752,11 @@
       "Time": "2023-11-29T08:09:31.3038792+00:00",
       "NumProgressed": 66570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T09:09:34.4119751+00:00",
+      "NumProgressed": 66572,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32771,7 +32776,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "Bannerlord",
@@ -32819,7 +32824,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "Crackshot",
@@ -32835,7 +32840,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "Duelist",
@@ -32931,7 +32936,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "I spit on your grave",
@@ -32987,7 +32992,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21968
+      "UsersEstimate": 21969
     },
     {
       "ID": "Lawbringer",
@@ -32995,7 +33000,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26628
+      "UsersEstimate": 26629
     },
     {
       "ID": "Lawmaker",
@@ -33043,7 +33048,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "Real Estate",
@@ -33115,7 +33120,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12648
+      "UsersEstimate": 12649
     },
     {
       "ID": "This Is Our Land",
@@ -33170,15 +33175,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66570,
+      "Progressed": 66572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-28T23:59:18.8719539+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:09:31.3038791+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:09:34.4119747+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:59:36.1236503+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:09:31.3039887+00:00"
+  "LastUpdate_Ratings": "2023-11-29T09:00:07.1310527+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:09:34.4121635+00:00"
 }

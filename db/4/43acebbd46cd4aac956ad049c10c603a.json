@@ -2,7 +2,7 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 32,
+  "Ranking_Rating": 33,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 279,
@@ -1761,9 +1761,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Chicken",
@@ -2009,9 +2009,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "SingleRod",
@@ -2041,9 +2041,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "TextAdventurer",
@@ -2057,9 +2057,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2161,9 +2161,9 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -2178,8 +2178,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-28T04:58:21.1400637+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:08:06.8540413+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:06:52.9445386+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:58:35.9239207+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:08:06.854084+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:58:58.7478798+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:06:52.9445814+00:00"
 }

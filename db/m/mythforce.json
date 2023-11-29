@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -800,9 +800,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5178,
+  "EOS_Progressed": 5179,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10145,6 +10145,11 @@
       "Time": "2023-11-29T07:05:49.9020778+00:00",
       "NumProgressed": 5178,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-29T09:05:12.0702525+00:00",
+      "NumProgressed": 5179,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10205,7 +10210,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10221,7 +10226,7 @@
       "Name": "Flawless Victory",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -10340,15 +10345,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5178,
+      "Progressed": 5179,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-28T16:58:30.5378717+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:04:52.4618713+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:05:12.0702521+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:58:41.1171099+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:04:52.4619317+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:59:04.6837898+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:05:12.0703038+00:00"
 }

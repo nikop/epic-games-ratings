@@ -5,8 +5,8 @@ Rating: 4.43 (Ranked 693)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,340 |
-| This is only the beginning | 20.00% | ~45,646 |
+| No aid from the Omnissiah | 26.00% | ~59,341 |
+| This is only the beginning | 20.00% | ~45,647 |
 | Knowledge is power | 12.00% | ~27,388 |
 | Galvanic Rifle | 10.00% | ~22,823 |
 | Power Ranger | 9.00% | ~20,541 |
@@ -30,17 +30,17 @@ Rating: 4.43 (Ranked 693)
 | Hard | 0.20% | ~456 |
 | Sensory overload | 0.20% | ~456 |
 | Transonic Blur | 0.20% | ~456 |
+| Not the Men-of-Iron | 0.20% | ~456 |
 | Sterile Perfection | 0.10% | ~228 |
 | Impossible | 0.10% | ~228 |
 | Melee Machine | 0.10% | ~228 |
 | AoE-phobia | 0.10% | ~228 |
 | Zero to Hero | 0.10% | ~228 |
 | No Omnissian Guidance | 0.10% | ~228 |
-| Not the Men-of-Iron | 0.10% | ~228 |
 | Perma-live | 0.10% | ~228 |
 | Purge the Heretek | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,232 (Ranked 70)  
+Progressed: 228,234 (Ranked 70)  
 Completed: 5 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 5 (0.00%) (Ranked 363)
 | 2023-11-26 | 228,095 | 5 |
 | 2023-11-27 | 228,156 | 5 |
 | 2023-11-28 | 228,217 | 5 |
-| 2023-11-29 | 228,232 | 5 |
+| 2023-11-29 | 228,234 | 5 |
 ## Awards
 Max (Highly Recommended): 290  (Ranked 258)  
 Sum: 2,200 (Ranked 206)  

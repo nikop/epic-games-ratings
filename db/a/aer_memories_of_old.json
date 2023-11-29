@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25138,
+  "EOS_Progressed": 25141,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -24339,6 +24339,11 @@
       "Time": "2023-11-29T08:05:47.6024363+00:00",
       "NumProgressed": 25138,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-11-29T09:06:11.5250142+00:00",
+      "NumProgressed": 25141,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 20,
@@ -24350,7 +24355,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -24366,7 +24371,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -24374,7 +24379,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -24382,7 +24387,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -24414,7 +24419,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "FOUND_ERIN",
@@ -24470,7 +24475,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19107
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24478,7 +24483,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6787
+      "UsersEstimate": 6788
     },
     {
       "ID": "NORTH_FINISHED",
@@ -24509,15 +24514,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25138,
+      "Progressed": 25141,
       "Completed": 478
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:05:47.602436+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:06:11.5250138+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
   "LastUpdate_Ratings": "2023-11-29T08:00:21.785236+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:05:47.6026226+00:00"
+  "LastUpdate_Achievements": "2023-11-29T09:06:11.5251435+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14020,
+  "EOS_Progressed": 14021,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
@@ -15464,6 +15464,11 @@
       "Time": "2023-11-29T07:03:52.4711626+00:00",
       "NumProgressed": 14020,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T09:03:39.9137338+00:00",
+      "NumProgressed": 14021,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -15475,7 +15480,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -15674,14 +15679,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14020,
+      "Progressed": 14021,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:03:24.8507355+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:03:39.9137335+00:00",
   "LastUpdate_AppInfo": "2023-11-25T04:57:09.2141151+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:57:51.4838335+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:03:24.8508202+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:58:07.5170413+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:03:39.9138188+00:00"
 }

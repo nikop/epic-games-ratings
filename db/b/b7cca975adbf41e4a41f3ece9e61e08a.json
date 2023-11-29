@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -175,11 +175,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 10353,
-  "EOS_Completed": 174,
-  "EOS_NewPlayers": 1521,
-  "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 1.68,
+  "EOS_Progressed": 10354,
+  "EOS_Completed": 175,
+  "EOS_NewPlayers": 1505,
+  "EOS_NewCompleters": 24,
+  "EOS_Completed_Percentage": 1.69,
   "EosHistory": [
     {
       "Time": "2023-07-27T01:53:04.8005716+00:00",
@@ -4935,6 +4935,11 @@
       "Time": "2023-11-29T08:08:25.2981394+00:00",
       "NumProgressed": 10353,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-11-29T09:08:22.7342032+00:00",
+      "NumProgressed": 10354,
+      "NumCompleted": 175
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -4947,7 +4952,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 9421
+      "UsersEstimate": 9422
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -4971,7 +4976,7 @@
       "Name": "Doesn\u0027t Matter I\u0027ll Handle It",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -5019,7 +5024,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3003
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -5027,7 +5032,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3003
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -5043,7 +5048,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -5083,7 +5088,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4969
+      "UsersEstimate": 4970
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5091,7 +5096,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3417
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -5131,7 +5136,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 6833
+      "UsersEstimate": 6834
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -5163,7 +5168,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -5227,7 +5232,7 @@
       "Name": "David",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3003
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -5282,16 +5287,16 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10353,
-      "Completed": 174
+      "Progressed": 10354,
+      "Completed": 175
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-26T04:00:05.7352298+00:00",
-  "LastChanged_Achievements": "2023-11-29T08:08:25.2981392+00:00",
+  "LastChanged_Achievements": "2023-11-29T09:08:22.7342028+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:58:06.5992929+00:00",
-  "LastUpdate_Achievements": "2023-11-29T08:08:25.2981763+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:58:25.3994471+00:00",
+  "LastUpdate_Achievements": "2023-11-29T09:08:22.7342492+00:00"
 }
