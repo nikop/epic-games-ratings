@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 26.43% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 26.42% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.16% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -26,7 +26,7 @@
 | 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.37% |
 | 25 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 25 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.50% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.48% |
 | 28 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.47% |
 | 29 | [Remains](games/r/remains.md) | 14.55% |
 | 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -78,7 +78,7 @@
 | 75 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 75 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 4.76% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.62% |
-| 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.57% |
+| 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.56% |
 | 80 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 81 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 81 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.49% |
@@ -105,8 +105,8 @@
 | 103 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 104 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 105 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.97% |
+| 106 | [Destiny 2](games/d/destiny_2.md) | 2.96% |
 | 106 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.96% |
-| 107 | [Destiny 2](games/d/destiny_2.md) | 2.95% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.81% |
