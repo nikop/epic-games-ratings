@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~749 |
-| I Broke It | 72.00% | ~719 |
-| Better On Ice | 67.00% | ~669 |
-| Notai Notes | 67.00% | ~669 |
-| Blue Dreams | 66.00% | ~659 |
-| Cutie Poro | 66.00% | ~659 |
-| He's Famous! | 65.00% | ~649 |
-| Krugmazing | 63.00% | ~629 |
-| Moneyball | 61.00% | ~609 |
-| The Fire Below the Mountain | 60.00% | ~599 |
-| No Bites | 54.00% | ~539 |
-| Iceborn | 54.00% | ~539 |
-| Boom Things | 52.00% | ~519 |
-| Tear of Freedom | 51.00% | ~509 |
+| Feels Familiar | 75.00% | ~751 |
+| I Broke It | 72.00% | ~721 |
+| Better On Ice | 67.00% | ~671 |
+| Notai Notes | 67.00% | ~671 |
+| Cutie Poro | 66.00% | ~661 |
+| Blue Dreams | 65.00% | ~651 |
+| He's Famous! | 65.00% | ~651 |
+| Krugmazing | 63.00% | ~631 |
+| Moneyball | 61.00% | ~611 |
+| The Fire Below the Mountain | 60.00% | ~601 |
+| No Bites | 54.00% | ~541 |
+| Iceborn | 54.00% | ~541 |
+| Boom Things | 52.00% | ~521 |
+| Tear of Freedom | 51.00% | ~511 |
 | My Darkest Day | 48.00% | ~480 |
 | Rhythm Of Willump | 46.00% | ~460 |
 | The Relentless Storm | 45.00% | ~450 |
@@ -49,7 +49,7 @@
 | Rock Star | 2.00% | ~20 |
 | We Are Speed | 2.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999 (Ranked 264)  
+Progressed: 1,001 (Ranked 264)  
 Completed: 8 (0.80%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,3 +89,4 @@ Completed: 8 (0.80%) (Ranked 182)
 | 2023-11-26 | 935 | 8 |
 | 2023-11-27 | 969 | 8 |
 | 2023-11-28 | 999 | 8 |
+| 2023-11-29 | 1,001 | 8 |

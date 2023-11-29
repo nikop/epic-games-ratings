@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 79.00% | ~73 |
-| Something important | 76.00% | ~70 |
-| A piece of the story | 59.00% | ~54 |
+| Wanderer | 78.00% | ~73 |
+| Something important | 75.00% | ~70 |
+| A piece of the story | 58.00% | ~54 |
 | It's covered up for a reason | 43.00% | ~40 |
 | Do what you have to | 43.00% | ~40 |
 | Scraps of love | 42.00% | ~39 |
 | The artist’s impression | 42.00% | ~39 |
-| Refuse to look | 36.00% | ~33 |
-| Sign of weakness | 35.00% | ~32 |
-| Finished it | 27.00% | ~25 |
+| Refuse to look | 35.00% | ~33 |
+| Sign of weakness | 34.00% | ~32 |
+| Finished it | 28.00% | ~26 |
 | Face your fears | 23.00% | ~21 |
 | Playtime | 13.00% | ~12 |
 | Tough conversation | 13.00% | ~12 |
@@ -30,7 +30,7 @@
 | Sound Bite | 8.00% | ~7 |
 | Heavy Burden | 8.00% | ~7 |
 | Lights! Camera! Action! | 8.00% | ~7 |
-| Casting Finished | 7.00% | ~6 |
+| Casting Finished | 6.00% | ~6 |
 | Fisherman | 5.00% | ~5 |
 | We Are Not Alone | 4.00% | ~4 |
 | Body of Work | 4.00% | ~4 |
@@ -48,6 +48,7 @@
 | Preferred Parent | 1.00% | ~1 |
 | The Tree and the Apple | 1.00% | ~1 |
 | Instinct of self-preservation | 1.00% | ~1 |
+| Sword of the Serpent | 1.00% | ~1 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
@@ -55,9 +56,8 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 | Rocket Science | 0.00% | ~0 |
-| Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 445)  
+Progressed: 93 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,3 +98,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 88 | 0 |
 | 2023-11-27 | 89 | 0 |
 | 2023-11-28 | 92 | 0 |
+| 2023-11-29 | 93 | 0 |

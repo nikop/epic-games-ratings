@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,588 |
+| Whatever It Takes | 3.00% | ~1,589 |
 | Break A Leg | 2.00% | ~14,548 |
 | Coup de Grâce | 2.00% | ~14,548 |
 | Hazardous Materials | 2.00% | ~14,548 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 526)
 | Humanity Distilled | 0.80% | ~5,819 |
 | Max Headroom | 0.80% | ~5,819 |
 | Down with the Sickness | 0.70% | ~5,092 |
-| Not Even My Final Form | 0.60% | ~4,364 |
-| Jumbo Keyring | 0.60% | ~4,364 |
-| Go, Bobcats! | 0.60% | ~4,364 |
-| Rising Star | 0.60% | ~4,364 |
+| Not Even My Final Form | 0.60% | ~4,365 |
+| Jumbo Keyring | 0.60% | ~4,365 |
+| Go, Bobcats! | 0.60% | ~4,365 |
+| Rising Star | 0.60% | ~4,365 |
 | On Safari | 0.50% | ~3,637 |
 | Smorgasbord | 0.50% | ~3,637 |
 | Internet Famous | 0.50% | ~3,637 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~727 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,393 (Ranked 21)  
-Completed: 2,447 (0.34%) (Ranked 231)  
+Progressed: 727,420 (Ranked 21)  
+Completed: 2,448 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 2,447 (0.34%) (Ranked 231)
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
-| 2023-11-29 | 727,393 | 2,447 |
+| 2023-11-29 | 727,420 | 2,448 |
 ## Awards
 Max (Great Boss Battles): 7,784  (Ranked 49)  
 Sum: 11,921 (Ranked 84)  

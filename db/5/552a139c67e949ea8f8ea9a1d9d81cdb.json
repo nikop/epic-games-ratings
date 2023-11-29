@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1213,
+  "EOS_Progressed": 1214,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2657,6 +2657,11 @@
       "Time": "2023-11-29T00:03:38.6161279+00:00",
       "NumProgressed": 1213,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T01:56:43.880513+00:00",
+      "NumProgressed": 1214,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2669,7 +2674,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2797,7 +2802,7 @@
       "Name": "Solo",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2813,7 +2818,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2949,7 +2954,7 @@
       "Name": "Perfectionist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -3012,20 +3017,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1213,
+      "Progressed": 1214,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 881,
-      "Completed": 881
+      "Progressed": 882,
+      "Completed": 882
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:03:38.6161275+00:00",
+  "LastChanged_Achievements": "2023-11-29T01:56:43.8805126+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:59:56.1377376+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:03:38.6161623+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:53:32.7333195+00:00",
+  "LastUpdate_Achievements": "2023-11-29T01:56:43.880548+00:00"
 }

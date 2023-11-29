@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29337,
+  "EOS_Progressed": 29340,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -25236,6 +25236,11 @@
       "Time": "2023-11-29T00:08:53.6269872+00:00",
       "NumProgressed": 29337,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-29T02:01:48.3743176+00:00",
+      "NumProgressed": 29340,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -25343,7 +25348,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "1028",
@@ -25367,7 +25372,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "1031",
@@ -25375,7 +25380,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "1032",
@@ -25383,7 +25388,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11735
+      "UsersEstimate": 11736
     },
     {
       "ID": "1033",
@@ -25422,15 +25427,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29337,
+      "Progressed": 29340,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:08:53.6269868+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:01:48.3743172+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.1522502+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:58:33.7163911+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:08:53.6271226+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:51:22.6851482+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:01:48.3744481+00:00"
 }

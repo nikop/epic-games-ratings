@@ -9,13 +9,13 @@
 | Commencing of Quests | 76.00% | ~257 |
 | Budding Conjuror | 75.00% | ~254 |
 | Man-Machine Master | 66.00% | ~223 |
+| Fusion Conjuror | 64.00% | ~216 |
 | Mountain Splitter | 64.00% | ~216 |
 | Subsistence Skills | 64.00% | ~216 |
 | Charmed by the Hunt | 64.00% | ~216 |
-| Fusion Conjuror | 63.00% | ~213 |
 | Memory Rouser | 63.00% | ~213 |
 | Kemono Hunter | 59.00% | ~199 |
-| Expert Conjuror | 56.00% | ~189 |
+| Expert Conjuror | 57.00% | ~193 |
 | Distance Devourer | 53.00% | ~179 |
 | Flawless Crystal | 53.00% | ~179 |
 | Bonds of Enmity | 53.00% | ~179 |
@@ -30,7 +30,7 @@
 | Kemono at Heart | 39.00% | ~132 |
 | Artful Assister | 37.00% | ~125 |
 | Karakuri Trail | 36.00% | ~122 |
-| Team Hunter | 34.00% | ~115 |
+| Team Hunter | 35.00% | ~118 |
 | Reincarnation Cycle Stopper | 33.00% | ~112 |
 | Karakuri Isle | 32.00% | ~108 |
 | Left Arm Leverager | 28.00% | ~95 |

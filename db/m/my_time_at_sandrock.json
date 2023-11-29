@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1724,7 +1724,7 @@
   ],
   "EOS_Progressed": 482,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4787,9 +4787,9 @@
       "ID": "P_CRANELIFT",
       "SetID": "80dcan0",
       "Name": "Better Late than Never",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 251
     },
     {
       "ID": "P_ENVIRONMENT",
@@ -4883,9 +4883,9 @@
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 357
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -4899,9 +4899,9 @@
       "ID": "P_WATERTOWER",
       "SetID": "80dcan0",
       "Name": "Got the Flow Back",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 202
     },
     {
       "ID": "S_BRIGHTSUN",
@@ -4963,9 +4963,9 @@
       "ID": "S_GIFT",
       "SetID": "80dcan0",
       "Name": "Santa In Training",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "S_GIFT_HATE",
@@ -5115,8 +5115,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-27T21:58:01.0601305+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:05:21.4673545+00:00",
+  "LastChanged_Achievements": "2023-11-29T01:59:10.3135238+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.0814627+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:58:20.524035+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:05:21.4674185+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:51:02.2011635+00:00",
+  "LastUpdate_Achievements": "2023-11-29T01:59:10.3135755+00:00"
 }

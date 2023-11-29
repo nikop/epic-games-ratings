@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The Hero | 72.00% | ~79 |
 | Now I'm Here | 67.00% | ~74 |
-| The Hitman | 53.00% | ~58 |
-| Keep Yourself Alive | 49.00% | ~54 |
+| The Hitman | 54.00% | ~59 |
+| Keep Yourself Alive | 50.00% | ~55 |
 | All Dead, All Dead | 41.00% | ~45 |
 | Misfire | 39.00% | ~43 |
 | The Invisible Man | 35.00% | ~38 |

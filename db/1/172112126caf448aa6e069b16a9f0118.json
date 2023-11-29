@@ -2,9 +2,9 @@
   "ID": "172112126caf448aa6e069b16a9f0118",
   "Name": "Forest Grove",
   "ProductSlug": "forest-grove-6b05cf",
-  "Ranking_EOS_Progress": 590,
-  "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_Progress": 589,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-10-10T13:09:13.100464+00:00",
@@ -47,6 +47,11 @@
       "Time": "2023-11-28T21:06:14.0217815+00:00",
       "NumProgressed": 13,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T01:58:45.190769+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-10T13:09:13.1022392+00:00",
@@ -57,7 +62,7 @@
       "ID": "1",
       "SetID": "36pe9e2",
       "Name": "Entered the Nanodeck",
-      "Percentage": 62,
+      "Percentage": 57,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -65,7 +70,7 @@
       "ID": "10",
       "SetID": "36pe9e2",
       "Name": "Solved the Case",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -73,7 +78,7 @@
       "ID": "11",
       "SetID": "36pe9e2",
       "Name": "Felt Sadness",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -81,7 +86,7 @@
       "ID": "12",
       "SetID": "36pe9e2",
       "Name": "Honors Investigator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -89,7 +94,7 @@
       "ID": "2",
       "SetID": "36pe9e2",
       "Name": "Found Secret Area",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -97,7 +102,7 @@
       "ID": "3",
       "SetID": "36pe9e2",
       "Name": "Found Secret Room",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -105,7 +110,7 @@
       "ID": "4",
       "SetID": "36pe9e2",
       "Name": "Played the Piano",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -113,7 +118,7 @@
       "ID": "5",
       "SetID": "36pe9e2",
       "Name": "Set the Time",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -121,7 +126,7 @@
       "ID": "6",
       "SetID": "36pe9e2",
       "Name": "Aligned Hovercams",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -129,7 +134,7 @@
       "ID": "7",
       "SetID": "36pe9e2",
       "Name": "Listened to Audio Fragments",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -137,7 +142,7 @@
       "ID": "8",
       "SetID": "36pe9e2",
       "Name": "Read Between the Lines",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -145,7 +150,7 @@
       "ID": "9",
       "SetID": "36pe9e2",
       "Name": "Submit your Case Report",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     }
@@ -154,13 +159,13 @@
     {
       "ID": "36pe9e2",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:05:03.6235955+00:00",
+  "LastChanged_Achievements": "2023-11-29T01:58:45.1907686+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.2699178+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:57:30.9497573+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:05:03.6236109+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:49:46.1612879+00:00",
+  "LastUpdate_Achievements": "2023-11-29T01:58:45.19078+00:00"
 }

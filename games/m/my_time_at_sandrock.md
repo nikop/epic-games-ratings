@@ -12,8 +12,8 @@ Number of Ratings: 892  (23.09.2022)
 | Super Spelunker | 113.00% | ~545 |
 | Your Especially Earned Trajectory | 97.00% | ~468 |
 | The Little Wood that Could | 82.00% | ~395 |
+| No Mountain Wide Enough | 74.00% | ~357 |
 | On that Grindset | 73.00% | ~352 |
-| No Mountain Wide Enough | 73.00% | ~352 |
 | One of the Cool Kids | 73.00% | ~352 |
 | Yakmel Whisperer | 70.00% | ~337 |
 | Diamonds are Forever | 68.00% | ~328 |
@@ -29,9 +29,9 @@ Number of Ratings: 892  (23.09.2022)
 | Officially Official | 53.00% | ~255 |
 | Mole Masher | 53.00% | ~255 |
 | Builder of the Month | 52.00% | ~251 |
+| Better Late than Never | 52.00% | ~251 |
 | Happier-est Place on Earth | 52.00% | ~251 |
 | Panda-kin | 51.00% | ~246 |
-| Better Late than Never | 51.00% | ~246 |
 | Elementary, My Dear | 51.00% | ~246 |
 | You Don't Win Friends With Salad | 51.00% | ~246 |
 | What Plants Crave | 50.00% | ~241 |
@@ -44,7 +44,7 @@ Number of Ratings: 892  (23.09.2022)
 | Waste Not Want Not | 48.00% | ~231 |
 | Finishing Touches | 46.00% | ~222 |
 | Bridging the Gap | 44.00% | ~212 |
-| Got the Flow Back | 41.00% | ~198 |
+| Got the Flow Back | 42.00% | ~202 |
 | My Time Mansion | 39.00% | ~188 |
 | Who Ya Gonna Call...? | 39.00% | ~188 |
 | Jewel of the Eufaula | 38.00% | ~183 |
@@ -53,8 +53,8 @@ Number of Ratings: 892  (23.09.2022)
 | Kind of a Big Deal | 34.00% | ~164 |
 | He Can Spin A Yarn... | 33.00% | ~159 |
 | Just What I Always Wanted! | 32.00% | ~154 |
+| Santa In Training | 30.00% | ~145 |
 | Sandrunning Speedster | 30.00% | ~145 |
-| Santa In Training | 29.00% | ~140 |
 | Newton | 29.00% | ~140 |
 | It Belongs in a Museum! | 29.00% | ~140 |
 | Do Your Part | 28.00% | ~135 |

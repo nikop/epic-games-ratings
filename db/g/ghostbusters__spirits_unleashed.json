@@ -4,10 +4,10 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 571,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3555,9 +3555,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31720,
+  "EOS_Progressed": 31722,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20805,6 +20805,11 @@
       "Time": "2023-11-29T00:03:41.7618474+00:00",
       "NumProgressed": 31720,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-29T01:56:48.3296698+00:00",
+      "NumProgressed": 31722,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -20816,7 +20821,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "Animated",
@@ -20928,7 +20933,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "Escape_Artist",
@@ -21223,7 +21228,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31720,
+      "Progressed": 31722,
       "Completed": 69
     }
   ],
@@ -21231,8 +21236,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-28T15:58:06.9757142+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:03:41.761847+00:00",
+  "LastChanged_Achievements": "2023-11-29T01:56:48.3296694+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:58:13.511854+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:03:41.7619695+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:50:51.1679884+00:00",
+  "LastUpdate_Achievements": "2023-11-29T01:56:48.3297941+00:00"
 }

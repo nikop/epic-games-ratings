@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1250,
+  "EOS_Progressed": 1251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2245,6 +2245,11 @@
       "Time": "2023-11-28T21:05:20.008521+00:00",
       "NumProgressed": 1250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T01:57:46.6961079+00:00",
+      "NumProgressed": 1251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2257,7 +2262,7 @@
       "Name": "Grab \u0027Em All",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_10K_OPEN_DOORS",
@@ -2281,7 +2286,7 @@
       "Name": "Endless Biographer",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_BLOB_BOSS",
@@ -2337,7 +2342,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2377,7 +2382,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -2457,7 +2462,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -2496,14 +2501,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:04:22.95011+00:00",
+  "LastChanged_Achievements": "2023-11-29T01:57:46.6961076+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.3423297+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:59:42.3777496+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:04:22.9501384+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:53:10.7883074+00:00",
+  "LastUpdate_Achievements": "2023-11-29T01:57:46.6961463+00:00"
 }

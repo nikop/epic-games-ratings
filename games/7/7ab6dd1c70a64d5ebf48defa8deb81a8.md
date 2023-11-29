@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Trinity | 12.00% | ~28 |
 | Break Out | 11.00% | ~26 |
+| I Found It | 10.00% | ~24 |
 | Find Allies | 9.00% | ~21 |
 | Powerful Allies | 9.00% | ~21 |
 | Adventurer | 9.00% | ~21 |
 | Scholar | 9.00% | ~21 |
-| I Found It | 9.00% | ~21 |
 | A Taste of Wrath | 8.00% | ~19 |
 | Tributes of Caladrias | 8.00% | ~19 |
 | Big Bazar | 8.00% | ~19 |

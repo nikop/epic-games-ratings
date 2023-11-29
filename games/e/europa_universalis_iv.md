@@ -123,6 +123,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | KHAAAAAAN | 0.10% | ~466 |
 | King of Jerusalem | 0.10% | ~466 |
 | Kingdom of God | 0.10% | ~466 |
+| Kinslayer | 0.10% | ~466 |
 | Kirishitan Japan | 0.10% | ~466 |
 | Kow-Tow | 0.10% | ~466 |
 | Krabater | 0.10% | ~466 |
@@ -303,7 +304,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
-| Kinslayer | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Komnenoi Empire | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,500 (Ranked 41)  
+Progressed: 465,519 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 1 (0.00%) (Ranked 363)
 | 2023-11-26 | 464,479 | 1 |
 | 2023-11-27 | 465,000 | 1 |
 | 2023-11-28 | 465,485 | 1 |
-| 2023-11-29 | 465,500 | 1 |
+| 2023-11-29 | 465,519 | 1 |
 ## Awards
 Max (Educational): 7,199  (Ranked 54)  
 Sum: 59,195 (Ranked 24)  

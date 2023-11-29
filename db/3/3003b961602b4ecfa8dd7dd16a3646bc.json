@@ -2,9 +2,9 @@
   "ID": "3003b961602b4ecfa8dd7dd16a3646bc",
   "Name": "HORSE CLUB Adventures",
   "ProductSlug": "horse-club-adventures-19e7a0",
-  "Ranking_EOS_Progress": 530,
+  "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -184,6 +184,11 @@
       "Time": "2023-11-29T00:09:12.5585094+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T02:02:15.3349649+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -193,23 +198,23 @@
       "ID": "ACH_01_TUTORIAL",
       "SetID": "9dl0ei6",
       "Name": "Tutorial",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_02_FIRSTRACE",
       "SetID": "9dl0ei6",
       "Name": "First Race",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_03_TRAININGRACE2",
       "SetID": "9dl0ei6",
       "Name": "Training Race 2",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -217,7 +222,7 @@
       "ID": "ACH_04_TRAININGRACE3",
       "SetID": "9dl0ei6",
       "Name": "Training Race 3",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
       "UsersEstimate": 4
     },
@@ -249,7 +254,7 @@
       "ID": "ACH_08_TOURNAMENTWINNER",
       "SetID": "9dl0ei6",
       "Name": "Tournament Winner",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -257,7 +262,7 @@
       "ID": "ACH_09_HANNAH",
       "SetID": "9dl0ei6",
       "Name": "Hannah",
-      "Percentage": 58,
+      "Percentage": 55,
       "XP": 50,
       "UsersEstimate": 18
     },
@@ -265,7 +270,7 @@
       "ID": "ACH_10_SARAH",
       "SetID": "9dl0ei6",
       "Name": "Sarah",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -273,7 +278,7 @@
       "ID": "ACH_11_SOFIA",
       "SetID": "9dl0ei6",
       "Name": "Sofia",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -281,7 +286,7 @@
       "ID": "ACH_12_LISA",
       "SetID": "9dl0ei6",
       "Name": "Lisa",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -289,7 +294,7 @@
       "ID": "ACH_13_TREASUREHUNTER",
       "SetID": "9dl0ei6",
       "Name": "Treasure Hunter",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -297,7 +302,7 @@
       "ID": "ACH_14_HORSECLUB",
       "SetID": "9dl0ei6",
       "Name": "I\u0027m part of the action!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -305,7 +310,7 @@
       "ID": "ACH_15_CLUBHOUSE",
       "SetID": "9dl0ei6",
       "Name": "Clubhouse",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -313,7 +318,7 @@
       "ID": "ACH_16_APPLES",
       "SetID": "9dl0ei6",
       "Name": "Apple Gatherer",
-      "Percentage": 58,
+      "Percentage": 55,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -321,7 +326,7 @@
       "ID": "ACH_17_PICNIC",
       "SetID": "9dl0ei6",
       "Name": "Picnic",
-      "Percentage": 48,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -329,7 +334,7 @@
       "ID": "ACH_18_MIA",
       "SetID": "9dl0ei6",
       "Name": "Maverick",
-      "Percentage": 58,
+      "Percentage": 55,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -337,7 +342,7 @@
       "ID": "ACH_19_PYJAMA",
       "SetID": "9dl0ei6",
       "Name": "Pajama Party",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -353,7 +358,7 @@
       "ID": "ACH_21_EXPLORER",
       "SetID": "9dl0ei6",
       "Name": "Explorer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 60,
       "UsersEstimate": 6
     },
@@ -361,7 +366,7 @@
       "ID": "ACH_22_QUARRY",
       "SetID": "9dl0ei6",
       "Name": "Much too many stones",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -369,7 +374,7 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 65,
+      "Percentage": 61,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -377,7 +382,7 @@
       "ID": "ACH_24_STONECIRCLE",
       "SetID": "9dl0ei6",
       "Name": "Stonehenge",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -385,7 +390,7 @@
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 45,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -410,14 +415,14 @@
     {
       "ID": "9dl0ei6",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:09:12.558509+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:02:15.3349646+00:00",
   "LastUpdate_AppInfo": "2023-11-26T23:57:17.243865+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:58:22.590724+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:09:12.5585252+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:51:05.4083152+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:02:15.3349801+00:00"
 }

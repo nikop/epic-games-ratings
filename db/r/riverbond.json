@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532159,
+  "EOS_Progressed": 532161,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -24057,6 +24057,11 @@
       "Time": "2023-11-29T00:03:21.1141689+00:00",
       "NumProgressed": 532159,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-11-29T01:56:18.3846199+00:00",
+      "NumProgressed": 532161,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 57,
@@ -24084,7 +24089,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372511
+      "UsersEstimate": 372513
     },
     {
       "ID": "12",
@@ -24108,7 +24113,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58537
+      "UsersEstimate": 58538
     },
     {
       "ID": "15",
@@ -24148,7 +24153,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329939
+      "UsersEstimate": 329940
     },
     {
       "ID": "2",
@@ -24164,7 +24169,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127718
+      "UsersEstimate": 127719
     },
     {
       "ID": "21",
@@ -24172,7 +24177,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58537
+      "UsersEstimate": 58538
     },
     {
       "ID": "22",
@@ -24300,7 +24305,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85145
+      "UsersEstimate": 85146
     },
     {
       "ID": "37",
@@ -24324,7 +24329,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180934
+      "UsersEstimate": 180935
     },
     {
       "ID": "4",
@@ -24396,7 +24401,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329939
+      "UsersEstimate": 329940
     },
     {
       "ID": "48",
@@ -24412,7 +24417,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180934
+      "UsersEstimate": 180935
     },
     {
       "ID": "5",
@@ -24428,7 +24433,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74502
+      "UsersEstimate": 74503
     },
     {
       "ID": "51",
@@ -24444,7 +24449,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244793
+      "UsersEstimate": 244794
     },
     {
       "ID": "53",
@@ -24523,15 +24528,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532159,
+      "Progressed": 532161,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:03:21.1141684+00:00",
+  "LastChanged_Achievements": "2023-11-29T01:56:18.3846194+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:56.9532267+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:58:23.9031276+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:03:21.1143281+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:51:07.4305587+00:00",
+  "LastUpdate_Achievements": "2023-11-29T01:56:18.384737+00:00"
 }

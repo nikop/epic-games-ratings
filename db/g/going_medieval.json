@@ -2,12 +2,12 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 416,
+  "Ranking_Rating": 417,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1517,9 +1517,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 7016,
+  "EOS_Progressed": 7017,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13647,6 +13647,11 @@
       "Time": "2023-11-28T22:05:36.2771691+00:00",
       "NumProgressed": 7016,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-29T01:59:42.3014602+00:00",
+      "NumProgressed": 7017,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13658,7 +13663,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5262
+      "UsersEstimate": 5263
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -13666,7 +13671,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -13698,7 +13703,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5332
+      "UsersEstimate": 5333
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -13810,7 +13815,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -13818,7 +13823,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -13874,7 +13879,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -13890,7 +13895,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4069
+      "UsersEstimate": 4070
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -13898,22 +13903,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7016,
+      "Progressed": 7017,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-28T03:59:11.5381254+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:05:44.0906834+00:00",
+  "LastChanged_Achievements": "2023-11-29T01:59:42.3014597+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:59:16.5135492+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:05:44.0907509+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:52:29.8046093+00:00",
+  "LastUpdate_Achievements": "2023-11-29T01:59:42.3015245+00:00"
 }

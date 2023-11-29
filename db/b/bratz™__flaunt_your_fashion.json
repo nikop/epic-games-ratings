@@ -2,9 +2,9 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -231,6 +231,11 @@
       "Time": "2023-11-26T07:07:02.1684044+00:00",
       "NumProgressed": 68,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T01:56:22.8914671+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -242,7 +247,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "10",
@@ -280,7 +285,7 @@
       "ID": "14",
       "SetID": "41h3j82",
       "Name": "Seoul Hidden Style",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 12
     },
@@ -384,7 +389,7 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 70,
       "UsersEstimate": 40
     }
@@ -393,7 +398,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 0
     }
   ],
@@ -401,8 +406,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:03:24.3346759+00:00",
+  "LastChanged_Achievements": "2023-11-29T01:56:22.8914668+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:27.2466421+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:57:44.8798343+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:03:24.3346888+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:50:07.95788+00:00",
+  "LastUpdate_Achievements": "2023-11-29T01:56:22.8914805+00:00"
 }

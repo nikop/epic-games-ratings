@@ -3,11 +3,11 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 781,
-  "Ranking_Popularity": 516,
+  "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -335,7 +335,7 @@
   ],
   "EOS_Progressed": 75470,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -25010,9 +25010,9 @@
       "ID": "UPROOTING_DARKNESS",
       "SetID": "30359jm",
       "Name": "UPROOTING DARKNESS",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11320
+      "UsersEstimate": 12075
     },
     {
       "ID": "WEIGHTLESS",
@@ -25043,8 +25043,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:08:43.4677902+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:01:34.058973+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.17465+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:57:16.5154132+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:08:43.4679026+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:49:24.431937+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:01:34.0591267+00:00"
 }

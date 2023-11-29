@@ -9252,9 +9252,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66554,
+  "EOS_Progressed": 66556,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32717,6 +32717,11 @@
       "Time": "2023-11-29T00:09:14.11642+00:00",
       "NumProgressed": 66554,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T02:02:17.2854426+00:00",
+      "NumProgressed": 66556,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32808,7 +32813,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "Dynasty",
@@ -32816,7 +32821,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "Entrepreneur",
@@ -32904,7 +32909,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "Jack of All Trades",
@@ -33072,7 +33077,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "The king is pleased",
@@ -33080,7 +33085,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12645
+      "UsersEstimate": 12646
     },
     {
       "ID": "This Is Our Land",
@@ -33128,22 +33133,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66554,
+      "Progressed": 66556,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-28T23:59:18.8719539+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:09:14.1164196+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:02:17.2854422+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:59:18.8719544+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:09:14.1166022+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:52:33.4927719+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:02:17.2856396+00:00"
 }

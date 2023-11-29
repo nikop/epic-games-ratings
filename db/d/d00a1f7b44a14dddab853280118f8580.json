@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 357,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 20,
-  "EOS_Completed_Percentage": 17.13,
+  "EOS_Completed_Percentage": 17.09,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1389,6 +1389,11 @@
       "Time": "2023-11-28T23:08:18.9654734+00:00",
       "NumProgressed": 356,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-11-29T02:00:52.9278046+00:00",
+      "NumProgressed": 357,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1401,7 +1406,7 @@
       "Name": "Clever thinking!",
       "Percentage": 81,
       "XP": 100,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ach_complete_30",
@@ -1409,7 +1414,7 @@
       "Name": "Brilliant mind!",
       "Percentage": 47,
       "XP": 200,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ach_complete_tutorial",
@@ -1417,15 +1422,15 @@
       "Name": "Welcome aboard!",
       "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 224
+      "UsersEstimate": 221
     },
     {
       "ID": "ach_hint_6",
@@ -1439,9 +1444,9 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_items_50",
@@ -1455,9 +1460,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 80,
-      "UsersEstimate": 249
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_skip_1",
@@ -1488,14 +1493,14 @@
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 357,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:08:14.5881918+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:00:52.9278042+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:59:42.7960801+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:08:14.5882057+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:53:11.5002834+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:00:52.9278187+00:00"
 }

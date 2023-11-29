@@ -12627,9 +12627,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 465500,
+  "EOS_Progressed": 465519,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4573,
+  "EOS_NewPlayers": 4570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38142,6 +38142,11 @@
       "Time": "2023-11-29T00:03:20.7798553+00:00",
       "NumProgressed": 465500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T01:56:18.0112662+00:00",
+      "NumProgressed": 465519,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -39455,9 +39460,9 @@
       "ID": "achievement_kinslayer",
       "SetID": "8p2n7he",
       "Name": "Kinslayer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 466
     },
     {
       "ID": "achievement_kirishitan_japan",
@@ -41056,21 +41061,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 465500,
+      "Progressed": 465519,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 465500,
+      "Progressed": 465519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-28T23:02:33.5826152+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:03:20.7798549+00:00",
+  "LastChanged_Achievements": "2023-11-29T01:56:18.0112655+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:02:33.5826158+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:03:20.7808744+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:48:56.7265755+00:00",
+  "LastUpdate_Achievements": "2023-11-29T01:56:18.0123245+00:00"
 }

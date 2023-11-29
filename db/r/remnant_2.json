@@ -6,7 +6,7 @@
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -4911,11 +4911,11 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 230200,
+  "EOS_Progressed": 230222,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 4930,
+  "EOS_NewPlayers": 4912,
   "EOS_NewCompleters": 41,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-07-21T17:05:35.5618698+00:00",
@@ -20431,6 +20431,11 @@
       "Time": "2023-11-29T00:08:29.7128908+00:00",
       "NumProgressed": 230200,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-29T02:01:14.6845695+00:00",
+      "NumProgressed": 230222,
+      "NumCompleted": 541
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20523,7 +20528,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20882,13 +20887,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230200,
+      "Progressed": 230222,
       "Completed": 541
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9365,
+      "Progressed": 9387,
       "Completed": 167
     }
   ],
@@ -20896,8 +20901,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-28T23:02:58.3294243+00:00",
-  "LastChanged_Achievements": "2023-11-29T00:08:29.7128904+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:01:14.6845691+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-29T00:02:52.0338102+00:00",
-  "LastUpdate_Achievements": "2023-11-29T00:08:29.7129802+00:00"
+  "LastUpdate_Ratings": "2023-11-29T01:55:32.0227629+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:01:14.6846576+00:00"
 }
