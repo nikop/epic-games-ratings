@@ -12,9 +12,9 @@ Number of Ratings: 98  (23.09.2022)
 | Heroes Never Die | 39.00% | ~705 |
 | Mosquito bite | 36.00% | ~651 |
 | Spice It Up | 32.00% | ~578 |
+| Bomberman | 27.00% | ~488 |
 | Agent 47 | 26.00% | ~470 |
 | You're Gonna Go Far, Kid | 26.00% | ~470 |
-| Bomberman | 26.00% | ~470 |
 | Death to the Oppressor! | 19.00% | ~343 |
 | The Gang's All Here | 16.00% | ~289 |
 | Your Answer | 15.00% | ~271 |

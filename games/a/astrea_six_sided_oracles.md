@@ -21,7 +21,7 @@
 | Apian Champion | 24.00% | ~23 |
 | Star Killer | 23.00% | ~22 |
 | Loyal Partner | 22.00% | ~21 |
-| Behenian Champion | 20.00% | ~19 |
+| Behenian Champion | 21.00% | ~20 |
 | Shard Spender | 19.00% | ~18 |
 | Unbeatable | 18.00% | ~17 |
 | Aquarian Champion | 16.00% | ~15 |

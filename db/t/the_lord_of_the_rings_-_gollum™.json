@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 609,
+  "EOS_Progressed": 610,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1648,6 +1648,11 @@
       "Time": "2023-11-28T21:04:01.1858916+00:00",
       "NumProgressed": 609,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T17:03:56.2150883+00:00",
+      "NumProgressed": 610,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1723,7 +1728,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Chapter6",
@@ -1835,7 +1840,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Murderer",
@@ -1946,14 +1951,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 609,
+      "Progressed": 610,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:05:15.4251616+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:03:56.2150879+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.3353752+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:01:08.9783597+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:05:15.4251962+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:59:13.8355892+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:03:56.2151136+00:00"
 }

@@ -7628,9 +7628,9 @@
       "ID": "ACH_LUMBERSEXUAL",
       "SetID": "5nj1ea3",
       "Name": "Lumbersexual",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_MADE_IT",
@@ -7796,9 +7796,9 @@
       "ID": "ACH_TOILET_BUSTER",
       "SetID": "5nj1ea3",
       "Name": "Unplugged",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_TRADER",
@@ -7829,8 +7829,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-11-17T19:00:10.4063992+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:04:55.2246972+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:03:41.5221758+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:27.9722219+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:59:41.2184332+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:04:55.224767+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:58:11.8449338+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:03:41.5222591+00:00"
 }

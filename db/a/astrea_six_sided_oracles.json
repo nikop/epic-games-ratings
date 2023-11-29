@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1172,9 +1172,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "BehenianHero",
@@ -1275,8 +1275,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:08:40.8399958+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:06:24.0947849+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:58:53.6696318+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:08:40.8400905+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:57:39.8627259+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:06:24.0948617+00:00"
 }

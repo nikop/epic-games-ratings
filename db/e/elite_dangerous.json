@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
@@ -6761,10 +6761,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 13051,
       "NumberOfAwardsMax": 2275
+    },
+    {
+      "Time": "2023-11-29T16:56:49.0325779+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 13053,
+      "NumberOfAwardsMax": 2275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13051,
+  "NumberOfAwards": 13053,
   "NumberOfAwardsMax": 2275,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -6784,7 +6790,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2240
+      "Count": 2241
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6808,7 +6814,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1969
+      "Count": 1970
     }
   ],
   "EOS_Progressed": 0,
@@ -6822,8 +6828,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-11-29T01:53:26.3075628+00:00",
+  "LastChanged": "2023-11-29T16:56:49.0325778+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:08.9857533+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:57:41.9547325+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:06:07.3773958+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:56:49.0325783+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:04:32.2638852+00:00"
 }

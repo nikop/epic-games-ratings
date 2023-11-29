@@ -103,8 +103,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 1.00% | ~1,428 |
 | Economy of Scarce | 1.00% | ~1,428 |
 | King's Blade | 1.00% | ~1,428 |
-| Eternal Crusade | 0.90% | ~1,285 |
-| The Free Encyclopedia | 0.80% | ~1,143 |
+| The Free Encyclopedia | 0.90% | ~1,286 |
+| Eternal Crusade | 0.90% | ~1,286 |
 | All or Nothing! | 0.70% | ~1,000 |
 | Anything not Nailed Down | 0.60% | ~857 |
 | The Greatest Grind | 0.60% | ~857 |
@@ -115,11 +115,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | JACKPOT!!! | 0.50% | ~714 |
 | Oligarch Monarch | 0.40% | ~571 |
 | Merchant Extraordinaire | 0.40% | ~571 |
-| To Hell and Back | 0.30% | ~428 |
-| Cash Only Please | 0.30% | ~428 |
+| To Hell and Back | 0.30% | ~429 |
+| Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,831 (Ranked 80)  
+Progressed: 142,834 (Ranked 80)  
 Completed: 289 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 289 (0.20%) (Ranked 258)
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
-| 2023-11-29 | 142,831 | 289 |
+| 2023-11-29 | 142,834 | 289 |
 ## Awards
 Max (Great for Beginners): 4,855  (Ranked 75)  
 Sum: 27,625 (Ranked 50)  

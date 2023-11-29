@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -948,9 +948,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228244,
+  "EOS_Progressed": 228246,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25328,6 +25328,11 @@
       "Time": "2023-11-29T16:10:56.3238847+00:00",
       "NumProgressed": 228244,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T17:09:11.5171634+00:00",
+      "NumProgressed": 228246,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25347,7 +25352,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59343
+      "UsersEstimate": 59344
     },
     {
       "ID": "ACH_BASE_11",
@@ -25387,7 +25392,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22824
+      "UsersEstimate": 22825
     },
     {
       "ID": "ACH_BASE_17",
@@ -25587,7 +25592,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27389
+      "UsersEstimate": 27390
     },
     {
       "ID": "ACH_BASE_8",
@@ -25610,7 +25615,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228244,
+      "Progressed": 228246,
       "Completed": 5
     }
   ],
@@ -25618,8 +25623,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-28T02:26:12.6557311+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:10:56.3238839+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:09:11.5171627+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.278824+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:58:50.8210798+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:10:56.3240332+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:57:37.7663309+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:09:11.5173346+00:00"
 }

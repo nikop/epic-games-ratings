@@ -25,7 +25,7 @@
 | Hard Work | 46.00% | ~229 |
 | The Big Eaty | 44.00% | ~219 |
 | Pure Dynamite! | 42.00% | ~209 |
-| “… like son” | 39.00% | ~194 |
+| “… like son” | 40.00% | ~199 |
 | Mana Cannon | 37.00% | ~184 |
 | Dungeonlord Gorgu | 36.00% | ~179 |
 | The Cathedral of Light | 34.00% | ~169 |
@@ -42,7 +42,7 @@
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~99 |
 | The Finitude Drill | 19.00% | ~94 |
 | Stop Tanos! | 17.00% | ~84 |
-| Doom Hill | 16.00% | ~80 |
+| Doom Hill | 17.00% | ~84 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~75 |
 | Brimstone Shaken, Not Stirred | 15.00% | ~75 |
 | Bonus Evilness | 14.00% | ~70 |

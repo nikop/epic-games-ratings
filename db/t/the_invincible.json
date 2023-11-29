@@ -2,10 +2,10 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 448,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1195,6 +1195,11 @@
       "Time": "2023-11-29T14:09:01.3668572+00:00",
       "NumProgressed": 447,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T17:08:25.1363749+00:00",
+      "NumProgressed": 448,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1383,7 +1388,7 @@
       "Name": "The Camp",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "AchvReachCity",
@@ -1391,7 +1396,7 @@
       "Name": "The City",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "AchvReachCondor",
@@ -1423,7 +1428,7 @@
       "Name": "The End",
       "Percentage": 24,
       "XP": 55,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "AchvUnity",
@@ -1438,14 +1443,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 448,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:09:51.7572672+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:08:25.1363745+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:00:14.8095405+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:09:51.7572875+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:58:34.8524823+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:08:25.1363968+00:00"
 }

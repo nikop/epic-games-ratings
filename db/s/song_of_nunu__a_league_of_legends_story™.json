@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1013,
+  "EOS_Progressed": 1014,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -2172,6 +2172,11 @@
       "Time": "2023-11-29T16:11:03.6191336+00:00",
       "NumProgressed": 1013,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T17:09:16.4502622+00:00",
+      "NumProgressed": 1014,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -2184,7 +2189,7 @@
       "Name": "Blue Dreams",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "EV_ACH02",
@@ -2192,7 +2197,7 @@
       "Name": "My Darkest Day",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "EV_ACH03",
@@ -2200,7 +2205,7 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "EV_ACH04",
@@ -2208,7 +2213,7 @@
       "Name": "No Bites",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "EV_ACH05",
@@ -2222,9 +2227,9 @@
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 436
     },
     {
       "ID": "EV_ACH07",
@@ -2240,7 +2245,7 @@
       "Name": "So Close",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "EV_ACH09",
@@ -2248,7 +2253,7 @@
       "Name": "You Get Used To It",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "EV_ACH10",
@@ -2280,7 +2285,7 @@
       "Name": "It Is Not Over",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "EV_ACH14",
@@ -2304,7 +2309,7 @@
       "Name": "Krugmazing",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "EV_ACH17",
@@ -2312,7 +2317,7 @@
       "Name": "Iceborn",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "EV_ACH18",
@@ -2328,7 +2333,7 @@
       "Name": "On The Rocks",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "EV_ACH20",
@@ -2392,7 +2397,7 @@
       "Name": "I Broke It",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "EV_ACH28",
@@ -2472,7 +2477,7 @@
       "Name": "The Finisher",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "EV_ACH38",
@@ -2535,14 +2540,14 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1013,
+      "Progressed": 1014,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:11:03.6191333+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:09:16.4502618+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:01:41.1690986+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:11:03.6191806+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:59:35.767135+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:09:16.4502977+00:00"
 }

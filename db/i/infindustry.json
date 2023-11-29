@@ -3,8 +3,8 @@
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 417,
-  "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.83,
+  "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -624,6 +624,11 @@
       "Time": "2023-11-29T14:03:33.2501823+00:00",
       "NumProgressed": 121,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T17:03:17.685144+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -643,7 +648,7 @@
       "Name": "Cook",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Crafter",
@@ -730,14 +735,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:04:23.4355689+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:03:17.6851437+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:00:25.5547031+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:04:23.435582+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:58:42.0142291+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:03:17.6851551+00:00"
 }

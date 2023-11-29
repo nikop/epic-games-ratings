@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471530,
+  "EOS_Progressed": 471534,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23863,6 +23863,11 @@
       "Time": "2023-11-29T16:11:07.4321087+00:00",
       "NumProgressed": 471530,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-29T17:09:19.5913565+00:00",
+      "NumProgressed": 471534,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23890,7 +23895,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113167
+      "UsersEstimate": 113168
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -23922,7 +23927,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37722
+      "UsersEstimate": 37723
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -23962,7 +23967,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311210
+      "UsersEstimate": 311212
     },
     {
       "ID": "achievement_story_landa",
@@ -23970,7 +23975,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23576
+      "UsersEstimate": 23577
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -23978,7 +23983,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23576
+      "UsersEstimate": 23577
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -23986,7 +23991,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37722
+      "UsersEstimate": 37723
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -23994,7 +23999,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117882
+      "UsersEstimate": 117884
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -24026,7 +24031,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51868
+      "UsersEstimate": 51869
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -24034,7 +24039,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37722
+      "UsersEstimate": 37723
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -24050,7 +24055,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94306
+      "UsersEstimate": 94307
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -24058,7 +24063,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160320
+      "UsersEstimate": 160322
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -24066,7 +24071,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37722
+      "UsersEstimate": 37723
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -24074,7 +24079,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23576
+      "UsersEstimate": 23577
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -24298,7 +24303,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207473
+      "UsersEstimate": 207475
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24306,7 +24311,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141459
+      "UsersEstimate": 141460
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -24322,7 +24327,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51868
+      "UsersEstimate": 51869
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -24330,7 +24335,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183897
+      "UsersEstimate": 183898
     },
     {
       "ID": "achievement_win_run_hard",
@@ -24354,7 +24359,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23576
+      "UsersEstimate": 23577
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -24378,7 +24383,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37722
+      "UsersEstimate": 37723
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -24505,21 +24510,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15464,
+      "Progressed": 15468,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471530,
+      "Progressed": 471534,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:11:07.4321083+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:09:19.5913561+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:58:51.5990169+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:11:07.4323005+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:57:38.2595461+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:09:19.591496+00:00"
 }

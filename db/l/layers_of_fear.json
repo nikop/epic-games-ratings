@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -598,9 +598,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "do_what_you_have_to",
@@ -917,8 +917,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:07:31.3131682+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:05:34.2828949+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:59.9446154+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:00:00.559344+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:07:31.3132204+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:58:24.9595326+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:05:34.2829274+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "EOS_Progressed": 237,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 36,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
     {
@@ -1120,9 +1120,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_24",
@@ -1239,8 +1239,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:11:02.3727873+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:09:15.4517583+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2061003+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:57:42.4283467+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:11:02.372821+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:56:49.303603+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:09:15.4517866+00:00"
 }

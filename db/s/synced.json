@@ -6,7 +6,7 @@
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
@@ -1173,9 +1173,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67722,
+  "EOS_Progressed": 67725,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10863,6 +10863,11 @@
       "Time": "2023-11-29T16:06:42.9689458+00:00",
       "NumProgressed": 67722,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-29T17:04:58.9784261+00:00",
+      "NumProgressed": 67725,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10875,7 +10880,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23703
+      "UsersEstimate": 23704
     },
     {
       "ID": "10",
@@ -10915,7 +10920,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4063
+      "UsersEstimate": 4064
     },
     {
       "ID": "15",
@@ -10971,7 +10976,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4063
+      "UsersEstimate": 4064
     },
     {
       "ID": "7",
@@ -11002,7 +11007,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67722,
+      "Progressed": 67725,
       "Completed": 38
     }
   ],
@@ -11010,8 +11015,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-29T06:58:07.3420072+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:06:42.9689452+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:04:58.978426+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:59:05.33608+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:06:42.9690301+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:57:47.4677663+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:04:58.9784713+00:00"
 }

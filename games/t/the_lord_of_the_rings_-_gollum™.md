@@ -10,10 +10,10 @@
 | Wait! Wait! Not yet! | 39.00% | ~238 |
 | Like Flying... | 33.00% | ~201 |
 | The Maggot | 28.00% | ~171 |
-| Memories | 27.00% | ~164 |
+| Memories | 27.00% | ~165 |
 | The Breeder | 24.00% | ~146 |
 | The Veteran | 19.00% | ~116 |
-| The Traitor | 15.00% | ~91 |
+| The Traitor | 15.00% | ~92 |
 | The Spider | 14.00% | ~85 |
 | Good as Fish | 12.00% | ~73 |
 | Her Eyes | 11.00% | ~67 |
@@ -41,7 +41,7 @@
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 609 (Ranked 298)  
+Progressed: 610 (Ranked 298)  
 Completed: 1 (0.16%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,3 +158,4 @@ Completed: 1 (0.16%) (Ranked 268)
 | 2023-11-25 | 604 | 1 |
 | 2023-11-26 | 608 | 1 |
 | 2023-11-28 | 609 | 1 |
+| 2023-11-29 | 610 | 1 |

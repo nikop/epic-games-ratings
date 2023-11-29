@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1546,
+  "EOS_Progressed": 1547,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2218,6 +2218,11 @@
       "Time": "2023-11-29T16:08:45.3139139+00:00",
       "NumProgressed": 1546,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-29T17:06:27.4733862+00:00",
+      "NumProgressed": 1547,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2293,7 +2298,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "18",
@@ -2365,7 +2370,7 @@
       "Name": "Heartstrings",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "27",
@@ -2437,7 +2442,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "7",
@@ -2453,7 +2458,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "9",
@@ -2468,15 +2473,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1546,
+      "Progressed": 1547,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:08:45.3139131+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:06:27.4733856+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:24.6932359+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:59:10.7518694+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:08:45.3139496+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:57:51.174263+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:06:27.4734158+00:00"
 }

@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15749,
+  "EOS_Progressed": 15754,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12656,6 +12656,11 @@
       "Time": "2023-11-29T16:04:21.0523929+00:00",
       "NumProgressed": 15749,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-29T17:03:15.7466391+00:00",
+      "NumProgressed": 15754,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12668,7 +12673,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "10",
@@ -12700,7 +12705,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "14",
@@ -12708,7 +12713,7 @@
       "Name": "Doctor Approved",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "15",
@@ -12716,7 +12721,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "16",
@@ -12732,7 +12737,7 @@
       "Name": "Spore Taste",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "18",
@@ -12740,7 +12745,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "19",
@@ -12764,7 +12769,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "21",
@@ -12780,7 +12785,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "23",
@@ -12804,7 +12809,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "26",
@@ -12812,7 +12817,7 @@
       "Name": "Call it Even",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "27",
@@ -12852,7 +12857,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "4",
@@ -12868,7 +12873,7 @@
       "Name": "Data Master",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "6",
@@ -12947,13 +12952,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15749,
+      "Progressed": 15754,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1703,
+      "Progressed": 1708,
       "Completed": 752
     }
   ],
@@ -12961,8 +12966,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:04:21.0523924+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:03:15.7466386+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:02:27.6456385+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:04:21.0525134+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:00:08.5123957+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:03:15.7467502+00:00"
 }

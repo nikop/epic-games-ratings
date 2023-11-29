@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -837,6 +837,11 @@
       "Time": "2023-11-29T16:09:45.6472719+00:00",
       "NumProgressed": 379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T17:08:20.7318749+00:00",
+      "NumProgressed": 380,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -929,7 +934,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -937,7 +942,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -953,7 +958,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -967,9 +972,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -977,7 +982,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "GET_FISH_ALL",
@@ -993,7 +998,7 @@
       "Name": "Koco Leader",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1168,14 +1173,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 380,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:09:45.6472714+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:08:20.7318745+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:03:34.6693989+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:09:45.6473068+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:02:42.9656344+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:08:20.7319218+00:00"
 }

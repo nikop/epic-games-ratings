@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Air Fighter | 92.00% | ~22 |
 | Act of Kindness | 92.00% | ~22 |
-| The Altruist | 79.00% | ~19 |
+| The Altruist | 83.00% | ~20 |
 | Watch your Step! | 75.00% | ~18 |
 | Oo-De-Lally | 71.00% | ~17 |
 | Treasure Hunter | 71.00% | ~17 |
+| MAX LEVEL | 63.00% | ~15 |
 | Tap Dancing | 58.00% | ~14 |
-| MAX LEVEL | 58.00% | ~14 |
 | Right between the eyes | 50.00% | ~12 |
 | Merry Co-operation | 42.00% | ~10 |
 | Savior | 42.00% | ~10 |

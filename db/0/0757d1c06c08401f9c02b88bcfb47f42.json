@@ -4,7 +4,7 @@
   "ProductSlug": "sh-e9fe5c",
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-22T18:57:21.7675527+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:03:45.0588139+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:04:33.3157688+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:02:50.0832605+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:03:24.9934638+00:00"
 }

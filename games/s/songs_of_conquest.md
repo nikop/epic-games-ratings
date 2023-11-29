@@ -6,25 +6,25 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 32.00% | ~90 |
-| Double Kill | 24.00% | ~67 |
+| Adept | 31.00% | ~88 |
+| Double Kill | 24.00% | ~68 |
 | Critical Hit | 11.00% | ~31 |
 | Veteran | 10.00% | ~28 |
-| Dressed For Success | 8.00% | ~22 |
+| Dressed For Success | 8.00% | ~23 |
 | Sorcerous Spree | 6.00% | ~17 |
 | Humiliation | 5.00% | ~14 |
 | Whoops! | 4.00% | ~11 |
 | Veni, Vidi, Vici | 4.00% | ~11 |
-| Multi Kill | 3.00% | ~8 |
-| Expert Essence Employment | 3.00% | ~8 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~8 |
+| Multi Kill | 3.00% | ~9 |
+| Expert Essence Employment | 3.00% | ~9 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~9 |
 | Such A Fungi | 2.00% | ~6 |
+| Landlord Extraordinaire | 2.00% | ~6 |
 | Master | 2.00% | ~6 |
 | The Song of Stoutheart | 1.00% | ~3 |
 | This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
-| Landlord Extraordinaire | 1.00% | ~3 |
 | Trojan Horse | 1.00% | ~3 |
 | Pyrrhic Victory | 1.00% | ~3 |
 | Death To Diplomacy | 0.70% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280 (Ranked 363)  
+Progressed: 284 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 250 | 0 |
 | 2023-11-27 | 261 | 0 |
 | 2023-11-28 | 273 | 0 |
-| 2023-11-29 | 280 | 0 |
+| 2023-11-29 | 284 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 512)  
 Sum: 194 (Ranked 404)  

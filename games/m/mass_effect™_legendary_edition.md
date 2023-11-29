@@ -14,8 +14,8 @@
 | Honorarium of Corporate Service | 59.00% | ~857 |
 | Medal of Exploration II | 54.00% | ~784 |
 | Council Legion of Merit | 54.00% | ~784 |
+| Turian Ally | 53.00% | ~770 |
 | Medal of Honor | 52.00% | ~755 |
-| Turian Ally | 52.00% | ~755 |
 | Meritorious Service Medal | 51.00% | ~741 |
 | Charismatic | 50.00% | ~726 |
 | Soldier | 49.00% | ~711 |
@@ -60,6 +60,7 @@
 | Focused | 30.00% | ~436 |
 | Fade Away | 30.00% | ~436 |
 | Revenge! | 30.00% | ~436 |
+| Digital Exorcist | 30.00% | ~436 |
 | Heart of Darkness | 30.00% | ~436 |
 | Bringer of War | 30.00% | ~436 |
 | Archivist | 29.00% | ~421 |
@@ -68,7 +69,6 @@
 | Doppelganger | 29.00% | ~421 |
 | Treason | 29.00% | ~421 |
 | Agent | 29.00% | ~421 |
-| Digital Exorcist | 29.00% | ~421 |
 | Untouchable | 28.00% | ~407 |
 | Mission Accomplished | 28.00% | ~407 |
 | Suicide Mission | 28.00% | ~407 |
@@ -109,10 +109,10 @@
 | Electronics Specialist | 14.00% | ~203 |
 | Combined Arms | 12.00% | ~174 |
 | Bruiser | 12.00% | ~174 |
+| Overload Specialist | 11.00% | ~160 |
 | Warp Mastery | 11.00% | ~160 |
 | Always Prepared | 10.00% | ~145 |
 | Paramour III | 10.00% | ~145 |
-| Overload Specialist | 10.00% | ~145 |
 | Barrier Mastery | 9.00% | ~131 |
 | Sky High | 9.00% | ~131 |
 | Hijacker | 9.00% | ~131 |

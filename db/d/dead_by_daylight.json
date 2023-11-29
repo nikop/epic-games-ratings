@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 10,
+  "Ranking_EOS_NewPlayers": 9,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
@@ -13154,9 +13154,9 @@
       "Count": 27339
     }
   ],
-  "EOS_Progressed": 1052732,
+  "EOS_Progressed": 1052923,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 15368,
+  "EOS_NewPlayers": 15450,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38779,6 +38779,11 @@
       "Time": "2023-11-29T16:11:09.8078975+00:00",
       "NumProgressed": 1052732,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-11-29T17:09:21.6605641+00:00",
+      "NumProgressed": 1052923,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -38966,15 +38971,15 @@
       "Name": "It wakes",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "ACH_024",
       "SetID": "bdmlp8o",
       "Name": "Not half bad",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 2106
     },
     {
       "ID": "ACH_025",
@@ -39094,15 +39099,15 @@
       "Name": "Skillful",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "ACH_040",
       "SetID": "bdmlp8o",
       "Name": "I",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 2106
     },
     {
       "ID": "ACH_041",
@@ -40645,21 +40650,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1052732,
+      "Progressed": 1052923,
       "Completed": 65
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1052732,
+      "Progressed": 1052923,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-11-29T16:00:17.8826132+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:11:09.807897+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:09:21.6605637+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:00:17.8826139+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:11:09.8083883+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:58:36.8307579+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:09:21.6611013+00:00"
 }

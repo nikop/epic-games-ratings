@@ -5,9 +5,9 @@
   "Ranking_Rating": 505,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 313,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -700,6 +700,11 @@
       "Time": "2023-11-25T19:03:35.0803656+00:00",
       "NumProgressed": 480,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T17:04:56.2945338+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -709,9 +714,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 414
     },
     {
       "ID": "dep4_achievement_10",
@@ -751,7 +756,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "dep4_achievement_15",
@@ -791,7 +796,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "dep4_achievement_2",
@@ -799,7 +804,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "dep4_achievement_20",
@@ -869,9 +874,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 298
     },
     {
       "ID": "dep4_achievement_29",
@@ -887,15 +892,15 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 178
     },
     {
       "ID": "dep4_achievement_31",
@@ -951,7 +956,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "dep4_achievement_5",
@@ -959,7 +964,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "dep4_achievement_6",
@@ -967,7 +972,7 @@
       "Name": "School\u0027s out",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "dep4_achievement_7",
@@ -998,7 +1003,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 7
     }
   ],
@@ -1006,8 +1011,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:06:39.4469754+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:04:56.2945334+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:02.3197953+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:03:40.1015021+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:06:39.4470141+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:02:46.5807926+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:04:56.2945558+00:00"
 }

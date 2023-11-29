@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 58,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -472,9 +472,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -496,9 +496,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -608,9 +608,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -647,8 +647,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-29T16:05:14.8524027+00:00",
+  "LastChanged_Achievements": "2023-11-29T17:03:55.795776+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:01:56.0083331+00:00",
-  "LastUpdate_Achievements": "2023-11-29T16:05:14.8524463+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:59:46.377126+00:00",
+  "LastUpdate_Achievements": "2023-11-29T17:03:55.7958041+00:00"
 }

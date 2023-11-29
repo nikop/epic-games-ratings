@@ -27,7 +27,7 @@ Number of Ratings: 58  (23.09.2022)
 | Disruption | 43.00% | ~558 |
 | Cult Slayer | 41.00% | ~532 |
 | Origin | 40.00% | ~519 |
-| It Was An Accident | 39.00% | ~506 |
+| It Was An Accident | 40.00% | ~519 |
 | Set in Motion | 38.00% | ~493 |
 | In the Eye of the Storm | 37.00% | ~480 |
 | The Crimson Void | 35.00% | ~454 |
