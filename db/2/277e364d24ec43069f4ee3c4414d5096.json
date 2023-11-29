@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115415,
+  "EOS_Progressed": 115417,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19549,6 +19549,11 @@
       "Time": "2023-11-29T13:15:48.499889+00:00",
       "NumProgressed": 115415,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-29T14:09:36.2098421+00:00",
+      "NumProgressed": 115417,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -19568,7 +19573,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88870
+      "UsersEstimate": 88871
     },
     {
       "ID": "EAwards_10",
@@ -19592,7 +19597,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17312
+      "UsersEstimate": 17313
     },
     {
       "ID": "EAwards_13",
@@ -19640,7 +19645,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10387
+      "UsersEstimate": 10388
     },
     {
       "ID": "EAwards_19",
@@ -19656,7 +19661,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55399
+      "UsersEstimate": 55400
     },
     {
       "ID": "EAwards_20",
@@ -19728,7 +19733,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "EAwards_29",
@@ -19736,7 +19741,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "EAwards_3",
@@ -19792,7 +19797,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10387
+      "UsersEstimate": 10388
     },
     {
       "ID": "EAwards_36",
@@ -19920,7 +19925,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10387
+      "UsersEstimate": 10388
     },
     {
       "ID": "EAwards_7",
@@ -19951,7 +19956,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115415,
+      "Progressed": 115417,
       "Completed": 50
     }
   ],
@@ -19959,8 +19964,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:15:48.4998885+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:09:36.2098416+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.5110707+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:03:33.9144757+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:15:48.4999847+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:57:27.685322+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:09:36.209948+00:00"
 }

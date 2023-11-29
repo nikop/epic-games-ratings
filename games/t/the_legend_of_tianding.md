@@ -11,16 +11,16 @@
 | Killing Machine | 48.00% | ~13 |
 | Divine Retribution | 44.00% | ~12 |
 | Final Showdown | 41.00% | ~11 |
+| Dispel Rumors | 41.00% | ~11 |
 | The End of an Outlaw | 41.00% | ~11 |
 | Captain Mustache | 41.00% | ~11 |
-| Dispel Rumors | 37.00% | ~10 |
 | Demon Slayer | 30.00% | ~8 |
 | Steal Her Away | 30.00% | ~8 |
 | Sewer Rat | 30.00% | ~8 |
+| Coward | 30.00% | ~8 |
 | Big Eater | 26.00% | ~7 |
 | Urban Explorer | 26.00% | ~7 |
 | Not Today | 26.00% | ~7 |
-| Coward | 26.00% | ~7 |
 | Fight Fire With Fire | 26.00% | ~7 |
 | Tour Guide | 22.00% | ~6 |
 | The Real O.G. | 19.00% | ~5 |

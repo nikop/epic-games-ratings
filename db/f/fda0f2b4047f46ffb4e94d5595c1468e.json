@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3189,9 +3189,9 @@
       "Count": 399
     }
   ],
-  "EOS_Progressed": 9371,
+  "EOS_Progressed": 9372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9894,6 +9894,11 @@
       "Time": "2023-11-29T11:08:02.3967192+00:00",
       "NumProgressed": 9371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T14:07:05.9569046+00:00",
+      "NumProgressed": 9372,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -9922,7 +9927,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "ach04",
@@ -9946,7 +9951,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7028
+      "UsersEstimate": 7029
     },
     {
       "ID": "ach07",
@@ -9962,7 +9967,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3748
+      "UsersEstimate": 3749
     },
     {
       "ID": "ach09",
@@ -9970,7 +9975,7 @@
       "Name": "Kontender",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "ach10",
@@ -10042,7 +10047,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "ach19",
@@ -10074,7 +10079,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ach23",
@@ -10098,7 +10103,7 @@
       "Name": "Talis-Mania",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "ach26",
@@ -10122,7 +10127,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "ach29",
@@ -10194,7 +10199,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "ach38",
@@ -10202,7 +10207,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4124
     },
     {
       "ID": "ach39",
@@ -10210,7 +10215,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "ach40",
@@ -10242,7 +10247,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4124
     },
     {
       "ID": "ach44",
@@ -10305,7 +10310,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9371,
+      "Progressed": 9372,
       "Completed": 0
     }
   ],
@@ -10313,8 +10318,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-29T06:03:14.1572132+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:13:17.2521818+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:07:05.9569043+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:09:12.2552811+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:13:17.2522336+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:03:02.420323+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:07:05.9569761+00:00"
 }

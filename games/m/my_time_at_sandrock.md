@@ -9,13 +9,13 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 230.00% | ~1,095 |
 | Iron Chef | 165.00% | ~785 |
 | Greeno-B-Gone | 123.00% | ~585 |
-| Super Spelunker | 115.00% | ~547 |
+| Super Spelunker | 116.00% | ~552 |
 | Your Especially Earned Trajectory | 99.00% | ~471 |
 | The Little Wood that Could | 85.00% | ~405 |
 | On that Grindset | 75.00% | ~357 |
 | No Mountain Wide Enough | 75.00% | ~357 |
 | One of the Cool Kids | 75.00% | ~357 |
-| Yakmel Whisperer | 71.00% | ~338 |
+| Yakmel Whisperer | 72.00% | ~343 |
 | Diamonds are Forever | 70.00% | ~333 |
 | Pack Mule | 68.00% | ~324 |
 | Can We Keep It? | 68.00% | ~324 |
@@ -31,14 +31,14 @@ Number of Ratings: 892  (23.09.2022)
 | Mole Masher | 54.00% | ~257 |
 | Panda-kin | 53.00% | ~252 |
 | Builder of the Month | 53.00% | ~252 |
+| Elementary, My Dear | 53.00% | ~252 |
 | Happier-est Place on Earth | 53.00% | ~252 |
+| You Don't Win Friends With Salad | 53.00% | ~252 |
 | What Plants Crave | 52.00% | ~248 |
-| Elementary, My Dear | 52.00% | ~248 |
-| You Don't Win Friends With Salad | 52.00% | ~248 |
+| Anti-Santa | 52.00% | ~248 |
 | Knowledge is Power | 51.00% | ~243 |
+| Commissions, commissions...! | 51.00% | ~243 |
 | Martle's Dream | 51.00% | ~243 |
-| Anti-Santa | 51.00% | ~243 |
-| Commissions, commissions...! | 50.00% | ~238 |
 | Lifeline Pipeline | 50.00% | ~238 |
 | Call Me Fishmael | 50.00% | ~238 |
 | Waste Not Want Not | 50.00% | ~238 |
@@ -58,7 +58,7 @@ Number of Ratings: 892  (23.09.2022)
 | Newton | 30.00% | ~143 |
 | It Belongs in a Museum! | 30.00% | ~143 |
 | Do Your Part | 29.00% | ~138 |
-| Pro Gamer | 26.00% | ~124 |
+| Pro Gamer | 27.00% | ~129 |
 | Cardistry | 20.00% | ~95 |
 | It's High Noon... | 13.00% | ~62 |
 | Strong Arms | 13.00% | ~62 |

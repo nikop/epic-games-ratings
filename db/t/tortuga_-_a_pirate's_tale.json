@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17150,
+  "EOS_Progressed": 17151,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6929,6 +6929,11 @@
       "Time": "2023-11-29T07:07:33.5514452+00:00",
       "NumProgressed": 17150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T14:07:27.8532105+00:00",
+      "NumProgressed": 17151,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6940,7 +6945,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16292
+      "UsersEstimate": 16293
     },
     {
       "ID": "ACH001",
@@ -6948,7 +6953,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14749
+      "UsersEstimate": 14750
     },
     {
       "ID": "ACH0010",
@@ -6956,7 +6961,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ACH0011",
@@ -6964,7 +6969,7 @@
       "Name": "After All, Why Shouldn\u0027t I Keep It?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH0012",
@@ -6980,7 +6985,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "ACH0014",
@@ -7036,7 +7041,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12348
+      "UsersEstimate": 12349
     },
     {
       "ID": "ACH0020",
@@ -7060,7 +7065,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6002
+      "UsersEstimate": 6003
     },
     {
       "ID": "ACH0023",
@@ -7092,7 +7097,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9261
+      "UsersEstimate": 9262
     },
     {
       "ID": "ACH004",
@@ -7100,7 +7105,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14920
+      "UsersEstimate": 14921
     },
     {
       "ID": "ACH005",
@@ -7147,7 +7152,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17150,
+      "Progressed": 17151,
       "Completed": 1
     }
   ],
@@ -7155,8 +7160,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:13:39.3554473+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:07:27.8532101+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:28.1704783+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:04:52.0456746+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:13:39.3554938+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:58:44.7890961+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:07:27.8532564+00:00"
 }

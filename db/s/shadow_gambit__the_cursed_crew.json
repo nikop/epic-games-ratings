@@ -119,7 +119,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 971,
+  "EOS_Progressed": 972,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 1,
@@ -3189,6 +3189,11 @@
       "Time": "2023-11-29T09:05:43.9939964+00:00",
       "NumProgressed": 971,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-29T14:06:28.1690761+00:00",
+      "NumProgressed": 972,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3209,7 +3214,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "_03_FinishAct1",
@@ -3241,7 +3246,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "_07_FinishAct3",
@@ -3249,7 +3254,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "_08_Completion_10",
@@ -3281,7 +3286,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "_12_Completion_50",
@@ -3345,7 +3350,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3408,7 +3413,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 971,
+      "Progressed": 972,
       "Completed": 31
     }
   ],
@@ -3416,8 +3421,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:12:39.5009501+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:06:28.1690758+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:03:52.7945805+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:12:39.5009715+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:57:46.0256179+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:06:28.1690987+00:00"
 }

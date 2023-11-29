@@ -693,17 +693,17 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "id_62",
@@ -758,8 +758,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:15:49.3439958+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:09:36.9317853+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:07.0323393+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:07:14.9882936+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:15:49.3440327+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:01:07.2923891+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:09:36.9318151+00:00"
 }

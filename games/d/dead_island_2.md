@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,594 |
+| Whatever It Takes | 3.00% | ~1,595 |
 | Break A Leg | 2.00% | ~14,552 |
 | Coup de Grâce | 2.00% | ~14,552 |
 | Hazardous Materials | 2.00% | ~14,552 |
@@ -32,7 +32,7 @@ Rating: 4.54 (Ranked 526)
 | Stacking the Deck | 1.00% | ~7,276 |
 | Our True Nature | 1.00% | ~7,276 |
 | This is My Weapon | 1.00% | ~7,276 |
-| I Am the Resurrection | 0.90% | ~6,548 |
+| I Am the Resurrection | 0.90% | ~6,549 |
 | Making Your Mark | 0.80% | ~5,821 |
 | Humanity Distilled | 0.80% | ~5,821 |
 | Max Headroom | 0.80% | ~5,821 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,588 (Ranked 21)  
+Progressed: 727,612 (Ranked 21)  
 Completed: 2,449 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2,449 (0.34%) (Ranked 231)
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
-| 2023-11-29 | 727,588 | 2,449 |
+| 2023-11-29 | 727,612 | 2,449 |
 ## Awards
 Max (Great Boss Battles): 7,803  (Ranked 49)  
 Sum: 11,942 (Ranked 84)  

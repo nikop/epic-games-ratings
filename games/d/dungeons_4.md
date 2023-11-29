@@ -8,15 +8,15 @@
 | Thalya – Simply Immortal | 88.00% | ~436 |
 | For the Horde! | 81.00% | ~402 |
 | Hammer Time, Round Two | 79.00% | ~392 |
-| The Hellwoods | 73.00% | ~362 |
+| The Hellwoods | 74.00% | ~367 |
 | The Plains of Strothalm | 68.00% | ~337 |
 | Experienced Thalya | 68.00% | ~337 |
 | Thalya's Concentrated Fury | 67.00% | ~332 |
 | Bad Elves Go Everywhere | 65.00% | ~322 |
-| Master of Magic | 63.00% | ~312 |
+| Master of Magic | 64.00% | ~317 |
 | Heroes’ Gorge | 60.00% | ~298 |
+| Magic Accidents | 58.00% | ~288 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~288 |
-| Magic Accidents | 57.00% | ~283 |
 | Trap Master | 55.00% | ~273 |
 | Minions, Minions! | 53.00% | ~263 |
 | The Ascent | 51.00% | ~253 |
@@ -25,11 +25,11 @@
 | Hard Work | 46.00% | ~228 |
 | The Big Eaty | 44.00% | ~218 |
 | Pure Dynamite! | 42.00% | ~208 |
-| “… like son” | 39.00% | ~193 |
+| “… like son” | 40.00% | ~198 |
 | Mana Cannon | 37.00% | ~184 |
 | Dungeonlord Gorgu | 35.00% | ~174 |
+| The Cathedral of Light | 34.00% | ~169 |
 | Shame! Shame! Shame! | 34.00% | ~169 |
-| The Cathedral of Light | 33.00% | ~164 |
 | Tanos' Crusade Against Thalya | 31.00% | ~154 |
 | All’s Well That Ends Evil | 26.00% | ~129 |
 | Unstoppable Horde | 25.00% | ~124 |
@@ -42,7 +42,7 @@
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~99 |
 | The Finitude Drill | 18.00% | ~89 |
 | Stop Tanos! | 17.00% | ~84 |
-| Doom Hill | 16.00% | ~79 |
+| Doom Hill | 17.00% | ~84 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~74 |
 | Brimstone Shaken, Not Stirred | 15.00% | ~74 |
 | Bonus Evilness | 14.00% | ~69 |
@@ -58,10 +58,10 @@
 | Untouchable | 9.00% | ~45 |
 | To the Max! | 9.00% | ~45 |
 | Mirror, Mirror | 8.00% | ~40 |
+| Evilification | 8.00% | ~40 |
 | Gorgu is in the Best of Health | 7.00% | ~35 |
 | Laser Eyes Are So Useless | 7.00% | ~35 |
 | Heal Heal Blessing | 7.00% | ~35 |
-| Evilification | 7.00% | ~35 |
 | Hands Off My Stones | 6.00% | ~30 |
 | No Mana, No Cry | 4.00% | ~20 |
 | I Don't Need Any Help | 4.00% | ~20 |

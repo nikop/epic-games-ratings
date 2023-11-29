@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 761,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1691,9 +1691,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 449
     },
     {
       "ID": "CompleteChapter3",
@@ -1707,9 +1707,9 @@
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 228
     },
     {
       "ID": "CompleteChapter5",
@@ -1850,8 +1850,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:10:43.7992807+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:04:33.2179783+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:03:20.1137616+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:10:43.7993054+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:57:13.9375476+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:04:33.2180033+00:00"
 }

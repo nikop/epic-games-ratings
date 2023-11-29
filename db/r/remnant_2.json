@@ -4843,18 +4843,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 6111,
       "NumberOfAwardsMax": 2498
+    },
+    {
+      "Time": "2023-11-29T14:03:19.1388539+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6136,
+      "NumberOfAwardsMax": 2518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6111,
-  "NumberOfAwardsMax": 2498,
+  "NumberOfAwards": 6136,
+  "NumberOfAwardsMax": 2518,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2498
+      "Count": 2518
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4896,7 +4902,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 279
+      "Count": 284
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4917,9 +4923,9 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 230431,
+  "EOS_Progressed": 230471,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 4817,
+  "EOS_NewPlayers": 4822,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -20502,6 +20508,11 @@
       "Time": "2023-11-29T13:15:19.0277812+00:00",
       "NumProgressed": 230431,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-11-29T14:09:07.0647823+00:00",
+      "NumProgressed": 230471,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20648,9 +20659,9 @@
       "ID": "Discover_Letos_Lab",
       "SetID": "bkp3b1a",
       "Name": "The Agenda",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 461
     },
     {
       "ID": "Meet_Custodian",
@@ -20953,22 +20964,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230431,
+      "Progressed": 230471,
       "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9596,
+      "Progressed": 9636,
       "Completed": 167
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-29T12:03:20.9709798+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:15:19.0277808+00:00",
+  "LastChanged": "2023-11-29T14:03:19.1388537+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:09:07.064782+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:09:28.5189959+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:15:19.0278728+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:03:19.1388544+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:09:07.064872+00:00"
 }

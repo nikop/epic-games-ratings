@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3278,
+  "EOS_Progressed": 3279,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
@@ -4996,6 +4996,11 @@
       "Time": "2023-11-28T21:07:34.7749416+00:00",
       "NumProgressed": 3278,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-11-29T14:03:30.7309506+00:00",
+      "NumProgressed": 3279,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 14,
@@ -5023,7 +5028,7 @@
       "Name": "Cat Person",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "ACH_CLIMBER",
@@ -5047,7 +5052,7 @@
       "Name": "Easy As Pie",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -5063,7 +5068,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -5111,14 +5116,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3278,
+      "Progressed": 3279,
       "Completed": 135
     }
   ],
@@ -5126,8 +5131,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:09:39.5667528+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:03:30.7309502+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.1918151+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:05:16.8419044+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:09:39.5667916+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:59:09.4613814+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:03:30.7309883+00:00"
 }

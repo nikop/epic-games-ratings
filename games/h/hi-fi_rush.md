@@ -6,7 +6,7 @@ Rating: 4.87 (Ranked 22)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 19.00% | ~841 |
-| Start with a bang! | 18.00% | ~796 |
+| Start with a bang! | 18.00% | ~797 |
 | You can pet the cat! | 17.00% | ~752 |
 | Who put gears in there? | 16.00% | ~708 |
 | Cream of the Crop | 15.00% | ~664 |
@@ -19,8 +19,8 @@ Rating: 4.87 (Ranked 22)
 | Uh, they were broken when I got here | 12.00% | ~531 |
 | Z-shielding's got nothing on us! | 11.00% | ~487 |
 | Kissing the sky! | 11.00% | ~487 |
-| The Negotiator | 10.00% | ~442 |
-| Whoa! There's ANOTHER health bar!? | 10.00% | ~442 |
+| The Negotiator | 10.00% | ~443 |
+| Whoa! There's ANOTHER health bar!? | 10.00% | ~443 |
 | Headliner | 9.00% | ~398 |
 | You must like calling me in, Chai | 9.00% | ~398 |
 | Out in a puff of smoke | 9.00% | ~398 |
@@ -39,12 +39,12 @@ Rating: 4.87 (Ranked 22)
 | Wanna hear my playlist? | 3.00% | ~133 |
 | I told you I'd be fine, Peppermint! | 3.00% | ~133 |
 | Check out my moves! | 3.00% | ~133 |
-| I think I deserve some praise, here! | 2.00% | ~88 |
-| I think I found your calling, Macaron | 2.00% | ~88 |
-| This is a breeze! | 2.00% | ~88 |
-| We're Jammin' | 2.00% | ~88 |
-| First we parry, then we counter | 2.00% | ~88 |
-| I hit things with a guitar really well. | 2.00% | ~88 |
+| I think I deserve some praise, here! | 2.00% | ~89 |
+| I think I found your calling, Macaron | 2.00% | ~89 |
+| This is a breeze! | 2.00% | ~89 |
+| We're Jammin' | 2.00% | ~89 |
+| First we parry, then we counter | 2.00% | ~89 |
+| I hit things with a guitar really well. | 2.00% | ~89 |
 | Call me Turbo Chai | 2.00% | ~59 |
 | I'm not done with you yet | 1.00% | ~44 |
 | You ever parry a volcano? | 1.00% | ~44 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,425 (Ranked 194)  
+Progressed: 4,426 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-26 | 4,367 | 8 |
 | 2023-11-27 | 4,394 | 8 |
 | 2023-11-28 | 4,417 | 8 |
-| 2023-11-29 | 4,425 | 8 |
+| 2023-11-29 | 4,426 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

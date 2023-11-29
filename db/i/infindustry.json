@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-11-27T13:14:04.6998558+00:00",
       "NumProgressed": 120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T14:03:33.2501823+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -644,9 +649,9 @@
       "ID": "Crafter",
       "SetID": "82ojhod",
       "Name": "Crafter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Defender",
@@ -676,9 +681,9 @@
       "ID": "Healer",
       "SetID": "82ojhod",
       "Name": "Healer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Rep1",
@@ -725,14 +730,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:09:42.1787751+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:03:33.2501819+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:05:31.4181637+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:09:42.1788155+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:59:23.8816113+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:03:33.2501945+00:00"
 }

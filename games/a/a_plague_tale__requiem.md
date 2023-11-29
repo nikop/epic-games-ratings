@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 171)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 93.00% | ~13,045 |
-| Newcomers | 79.00% | ~11,081 |
-| A Burden of Blood | 74.00% | ~10,380 |
-| Protector's Duty | 71.00% | ~9,959 |
-| In our Wake | 69.00% | ~9,679 |
-| Alchemist | 69.00% | ~9,679 |
-| Leaving all Behind | 66.00% | ~9,258 |
-| Felons | 63.00% | ~8,837 |
-| A Sea of Promises | 62.00% | ~8,697 |
-| Tales and Revelations | 58.00% | ~8,136 |
-| Bloodline | 53.00% | ~7,434 |
+| Under a New Sun | 93.00% | ~13,047 |
+| Newcomers | 79.00% | ~11,083 |
+| A Burden of Blood | 74.00% | ~10,381 |
+| Protector's Duty | 71.00% | ~9,961 |
+| In our Wake | 69.00% | ~9,680 |
+| Alchemist | 69.00% | ~9,680 |
+| Leaving all Behind | 66.00% | ~9,259 |
+| Felons | 63.00% | ~8,838 |
+| A Sea of Promises | 62.00% | ~8,698 |
+| Tales and Revelations | 58.00% | ~8,137 |
+| Bloodline | 53.00% | ~7,435 |
 | The Cradle of Centuries | 50.00% | ~7,014 |
-| The Life We Deserve | 47.00% | ~6,593 |
-| Night guard | 44.00% | ~6,172 |
-| Nothing Left | 40.00% | ~5,611 |
-| Healing our Wounds | 38.00% | ~5,330 |
-| Dying Sun | 34.00% | ~4,769 |
-| Improved crossbow | 27.00% | ~3,787 |
-| King Hugo | 26.00% | ~3,647 |
-| Mercy | 24.00% | ~3,366 |
-| Perfect shot | 23.00% | ~3,226 |
+| The Life We Deserve | 47.00% | ~6,594 |
+| Night guard | 44.00% | ~6,173 |
+| Nothing Left | 40.00% | ~5,612 |
+| Healing our Wounds | 38.00% | ~5,331 |
+| Dying Sun | 34.00% | ~4,770 |
+| Improved crossbow | 27.00% | ~3,788 |
+| King Hugo | 26.00% | ~3,648 |
+| Mercy | 24.00% | ~3,367 |
+| Perfect shot | 23.00% | ~3,227 |
 | Effective instruments | 22.00% | ~3,086 |
 | Perfect throw | 22.00% | ~3,086 |
 | Knights! | 21.00% | ~2,946 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 171)
 | Old protector | 2.00% | ~281 |
 | Malignant | 1.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,027 (Ranked 154)  
+Progressed: 14,029 (Ranked 154)  
 Completed: 55 (0.39%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 55 (0.39%) (Ranked 222)
 | 2023-11-26 | 14,013 | 55 |
 | 2023-11-27 | 14,018 | 55 |
 | 2023-11-28 | 14,026 | 55 |
-| 2023-11-29 | 14,027 | 55 |
+| 2023-11-29 | 14,029 | 55 |
 ## Awards
 Max (Great Boss Battles): 432  (Ranked 225)  
 Sum: 679 (Ranked 300)  

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,038 |
+| Eat My Dust | 45.00% | ~1,039 |
 | First Love | 43.00% | ~992 |
 | Clean Race | 41.00% | ~946 |
 | Hear That Roar! | 39.00% | ~900 |
@@ -12,10 +12,10 @@
 | Bitter Rivalry | 27.00% | ~623 |
 | Champagne Spray | 25.00% | ~577 |
 | We're Going to Need a Bigger Garage | 24.00% | ~554 |
-| Legendary!!! | 20.00% | ~461 |
-| Restored and Ready | 19.00% | ~438 |
-| I Want One Too! | 19.00% | ~438 |
-| Quick Pit Stop | 19.00% | ~438 |
+| Legendary!!! | 20.00% | ~462 |
+| Restored and Ready | 19.00% | ~439 |
+| I Want One Too! | 19.00% | ~439 |
+| Quick Pit Stop | 19.00% | ~439 |
 | Go-Faster Stripes | 17.00% | ~392 |
 | I'm Here Too! | 16.00% | ~369 |
 | We've Just Begun | 11.00% | ~254 |
@@ -38,8 +38,8 @@
 | Overtaking the Master | 2.00% | ~46 |
 | Next Level | 1.00% | ~23 |
 | I Don't Stop | 1.00% | ~23 |
-| Exhausted but Happy | 0.70% | ~16 |
-| In Search of Perfection | 0.70% | ~16 |
+| Exhausted but Happy | 0.60% | ~14 |
+| In Search of Perfection | 0.60% | ~14 |
 | Globe-trotter | 0.50% | ~12 |
 | Maximum Endurance | 0.30% | ~7 |
 | All My Own Toys | 0.20% | ~5 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,307 (Ranked 219)  
+Progressed: 2,308 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,4 +143,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 2,286 | 0 |
 | 2023-11-27 | 2,295 | 0 |
 | 2023-11-28 | 2,303 | 0 |
-| 2023-11-29 | 2,307 | 0 |
+| 2023-11-29 | 2,308 | 0 |

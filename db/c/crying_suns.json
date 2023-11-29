@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471526,
+  "EOS_Progressed": 471527,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
@@ -23848,6 +23848,11 @@
       "Time": "2023-11-29T13:16:21.8794811+00:00",
       "NumProgressed": 471526,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-29T14:10:09.3889974+00:00",
+      "NumProgressed": 471527,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23947,7 +23952,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311207
+      "UsersEstimate": 311208
     },
     {
       "ID": "achievement_story_landa",
@@ -24283,7 +24288,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207471
+      "UsersEstimate": 207472
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24315,7 +24320,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183895
+      "UsersEstimate": 183896
     },
     {
       "ID": "achievement_win_run_hard",
@@ -24490,21 +24495,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15460,
+      "Progressed": 15461,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471526,
+      "Progressed": 471527,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:16:21.8794808+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:10:09.3889972+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:04:06.1080574+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:16:21.8796487+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:57:59.6213245+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:10:09.3891663+00:00"
 }

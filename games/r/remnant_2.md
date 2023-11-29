@@ -31,6 +31,7 @@ Rating: 4.75 (Ranked 148)
 | The God Gambit | 0.20% | ~461 |
 | Dark Designs | 0.20% | ~461 |
 | Madman's Paradise | 0.20% | ~461 |
+| The Agenda | 0.20% | ~461 |
 | Tall Tales | 0.20% | ~461 |
 | Blue Goddess | 0.20% | ~461 |
 | Top Performer | 0.20% | ~461 |
@@ -52,7 +53,6 @@ Rating: 4.75 (Ranked 148)
 | Crafty | 0.10% | ~230 |
 | Only Human | 0.10% | ~230 |
 | Red Room | 0.10% | ~230 |
-| The Agenda | 0.10% | ~230 |
 | The Trigger | 0.10% | ~230 |
 | Cutting Edge | 0.10% | ~230 |
 | The Collector | 0.10% | ~230 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Maxed Out! | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,431 (Ranked 69)  
+Progressed: 230,471 (Ranked 69)  
 Completed: 542 (0.24%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,14 +197,14 @@ Completed: 542 (0.24%) (Ranked 249)
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
 | 2023-11-28 | 230,188 | 541 |
-| 2023-11-29 | 230,431 | 542 |
+| 2023-11-29 | 230,471 | 542 |
 ## Awards
-Max (Great Boss Battles): 2,498  (Ranked 104)  
-Sum: 6,111 (Ranked 129)  
+Max (Great Boss Battles): 2,518  (Ranked 104)  
+Sum: 6,136 (Ranked 129)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,498 |
+| This game has Great Boss Battles | 2,518 |
 | This game has Diverse Characters | 403 |
 | This game is Highly Recommended | 391 |
 | This game has Challenging Combat | 389 |
@@ -214,7 +214,7 @@ Diff (max vs sum): -25
 | This game has Quickly Understood Controls | 359 |
 | This game has Amazing Characters | 352 |
 | This game has Unique Visuals | 309 |
-| This game has a Creative Community | 279 |
+| This game has a Creative Community | 284 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -344,4 +344,4 @@ Diff (max vs sum): -25
 | 2023-11-26 | 4.75 | 2,455 | 5,967 |
 | 2023-11-27 | 4.75 | 2,480 | 6,045 |
 | 2023-11-28 | 4.75 | 2,498 | 6,104 |
-| 2023-11-29 | 4.75 | 2,498 | 6,111 |
+| 2023-11-29 | 4.75 | 2,518 | 6,136 |

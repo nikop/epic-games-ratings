@@ -20,9 +20,9 @@
 | Shatter Them All | 7.00% | ~17 |
 | Fashion Victim | 7.00% | ~17 |
 | Calm before the Storm | 5.00% | ~12 |
+| To Battle | 5.00% | ~12 |
+| Godslayer | 5.00% | ~12 |
 | Alchemist | 5.00% | ~12 |
-| To Battle | 4.00% | ~9 |
-| Godslayer | 4.00% | ~9 |
 | The Mentor | 4.00% | ~9 |
 | Essence Blow | 4.00% | ~9 |
 | Fine Feathers Make Fine Birds | 4.00% | ~9 |
@@ -31,13 +31,13 @@
 | Shatterer | 3.00% | ~7 |
 | Miner | 3.00% | ~7 |
 | Slayer | 2.00% | ~5 |
+| All There Is | 2.00% | ~5 |
 | A Queen's Tale | 2.00% | ~5 |
 | Flawless Victory | 1.00% | ~2 |
-| All There Is | 1.00% | ~2 |
 | False God | 1.00% | ~2 |
+| All That Gold | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Shardbearer | 0.80% | ~2 |
-| All That Gold | 0.80% | ~2 |
 | Forgemaster | 0.40% | ~1 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

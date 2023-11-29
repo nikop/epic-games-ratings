@@ -976,17 +976,17 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_07",
@@ -1128,9 +1128,9 @@
       "ID": "ACH_24",
       "SetID": "efe2lj",
       "Name": "All There Is",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_25",
@@ -1168,7 +1168,7 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -1239,8 +1239,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:16:17.2531187+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:10:04.6308348+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2061003+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:07:40.5245661+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:16:17.2531475+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:01:32.1654271+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:10:04.6308543+00:00"
 }

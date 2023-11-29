@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 588,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -2694,6 +2694,11 @@
       "Time": "2023-11-28T23:05:17.5536128+00:00",
       "NumProgressed": 587,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-29T14:06:46.6266633+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 8,
@@ -2705,7 +2710,7 @@
       "Name": "Barista",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "coffee_100",
@@ -2721,7 +2726,7 @@
       "Name": "Coffee Connoisseur",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "countertop",
@@ -2737,7 +2742,7 @@
       "Name": "Get Lost!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "tea_10",
@@ -2768,14 +2773,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 588,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:12:57.6867635+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:06:46.6266628+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:03.7867043+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:03:20.6429256+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:12:57.6867871+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:57:14.4596551+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:06:46.6266882+00:00"
 }

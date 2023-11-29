@@ -7,6 +7,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.20% | ~2,105 |
+| Skillful | 0.20% | ~2,105 |
 | The Grand Sacrifice | 0.10% | ~1,052 |
 | A bite for the Entity | 0.10% | ~1,052 |
 | A feast for the Entity | 0.10% | ~1,052 |
@@ -44,7 +45,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~1,052 |
 | Adept Wraith | 0.10% | ~1,052 |
 | Adept Hillbilly | 0.10% | ~1,052 |
-| Skillful | 0.10% | ~1,052 |
 | I | 0.10% | ~1,052 |
 | II | 0.10% | ~1,052 |
 | III | 0.10% | ~1,052 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,052 |
 | Adept Good Guy | 0.10% | ~1,052 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052,270 (Ranked 14)  
+Progressed: 1,052,429 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-26 | 1,047,100 | 60 |
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
-| 2023-11-29 | 1,052,270 | 61 |
+| 2023-11-29 | 1,052,429 | 61 |
 ## Awards
 Max (Diverse Characters): 36,768  (Ranked 15)  
 Sum: 280,142 (Ranked 12)  

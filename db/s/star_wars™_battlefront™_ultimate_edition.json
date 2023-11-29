@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1468,
+  "EOS_Progressed": 1469,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4369,6 +4369,11 @@
       "Time": "2023-11-29T13:16:22.1592823+00:00",
       "NumProgressed": 1468,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T14:10:09.5281487+00:00",
+      "NumProgressed": 1469,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4557,7 +4562,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_30",
@@ -4605,7 +4610,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "achievement_36",
@@ -4861,7 +4866,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_8",
@@ -4884,13 +4889,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1468,
+      "Progressed": 1469,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1468,
+      "Progressed": 1469,
       "Completed": 1
     }
   ],
@@ -4898,8 +4903,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:16:22.1592819+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:10:09.5281486+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:03:39.0243559+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:16:22.1593406+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:57:32.7693076+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:10:09.5282037+00:00"
 }

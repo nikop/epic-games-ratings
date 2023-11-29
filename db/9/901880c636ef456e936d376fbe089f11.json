@@ -2,9 +2,9 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-06-14T04:03:10.0787902+00:00",
@@ -499,6 +499,11 @@
       "Time": "2023-11-28T17:04:30.7126108+00:00",
       "NumProgressed": 95,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T14:05:35.9021111+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -572,9 +577,9 @@
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
@@ -582,7 +587,7 @@
       "Name": "It\u0027s a masterpiece!",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -620,7 +625,7 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 50
     },
@@ -750,7 +755,7 @@
       "Name": "Welcome to Coffee Talk",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -780,7 +785,7 @@
       "ID": "ACH_REMEMBRANCE",
       "SetID": "8h8m55b",
       "Name": "Remembrance",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -836,7 +841,7 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 68
     },
@@ -924,7 +929,7 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 50
     }
@@ -933,14 +938,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-29T13:11:46.8533929+00:00",
+  "LastChanged_Achievements": "2023-11-29T14:05:35.9021109+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:07.4987948+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:09:08.1438149+00:00",
-  "LastUpdate_Achievements": "2023-11-29T13:11:46.8534236+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:02:58.1935568+00:00",
+  "LastUpdate_Achievements": "2023-11-29T14:05:35.9021411+00:00"
 }
